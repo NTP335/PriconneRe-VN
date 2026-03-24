@@ -1,0 +1,39 @@
+Album NPC
+主さまとの楽しい日々…こちらで何度でも思い返しましょう♪=Ở đây chúng ta có thể nhìn lại mãi mãi...\nnhững ngày hạnh phúc bên nhau♪
+女の子との思い出がたくさん見られますよ！ヒューヒュー♪モテモテですねー☆=Cậu có thể sống lại ký ức cùng tất cả các cô gái trong cuộc đời mình! Hoan hô, hoan hô!☆ Cố lên, chàng trai được nhiều người thích!☆
+思い出が詰まってるっていろいろあったけど振り返るのもいいんじゃない？=Có vẻ đây là kỷ niệm của chúng ta. Chúng ta đã trải qua nhiều chuyện, nhưng thỉnh thoảng nhìn lại cũng chẳng sao, phải không?
+みんなとの大切な思い出が\nたくさん詰まってるのね\n一緒に振り返って、\n心に刻みたいわ=Có quá nhiều kỷ niệm quý giá của mọi người được gói gọn ở đây, phải không? Hãy cùng nhau nhìn lại và hoài niệm.
+
+アストルム=Astrum
+この世界全体を示す単語。アストライア大陸の語源ともなっている。ただ、この「アストルム」の語源は定かになっていない。=Tên của thế giới này, từ đó "Astraea" được hình thành. Nguồn gốc từ "Astrum" vẫn chưa rõ ràng.
+
+アメス=Ameth
+主人公の夢に現れる謎の少女。主人公の過去を知っているような口ぶりで話す。シニカルな口調と、破損した翼が特徴。コッコロはアメスを神とあがめ、さまざまな託宣を受けている。=Một cô gái bí ẩn xuất hiện trong giấc mơ của cậu. Cô ấy nói như thể biết quá khứ của cậu. Đặc điểm là giọng điệu chua ngoa và đôi cánh bị tổn thương. Kokkoro ca ngợi Ameth như một vị thần và nhận được các lời tiên tri từ cô ấy.
+
+アンネローゼ・フォン・シュテッヒパルム=Annerose von Stechpalm
+アンナの本名。どんな相手にもとりあえず名乗るのがアンナのポリシー。=Tên thật của Anna. Đó là nguyên tắc của Anna tự giới thiệu như vậy với bất kỳ ai và tất cả mọi người.
+
+あんパン=Bánh Ngọt
+リンの大好物。時には給料のほとんどをあんパンにつぎ込むこともある。こしあんとつぶあんがあり、各派閥の\n戦いは長年続いている。=Đồ ăn yêu thích của Rin. Người ta biết rằng đôi khi Rin chi gần như toàn bộ lương cho nó. Cô ấy thích cả phiên bản nhân đậm mịn và phiên bản đậm đạm - trận chiến giữa hai phe phái này đã diễn ra nhiều năm.
+
+アストライア大陸=Lục địa Astraea
+世界最大の大陸。大陸の中心には巨大都市・ランドソルがあり、その上空にはソルの塔が天高くそびえ立ってい\nる。=Lục địa lớn nhất thế giới. Ở trung tâm lục địa này là thành phố khổng lồ Landosol, với Tháp Sol vươn cao vào bầu trời phía trên nó.
+
+モニカが祖国で所属している部隊の名前。ヴァイス＝白、フリューゲル＝翼という意味を持つ。この名前を広く\n知らしめるためにモニカは日々活動している。=Tên của đơn vị mà Monika là thành viên ở quê hương. Bắt nguồn từ Weiss (trắng) và flügel (cánh). Monika đang cố gắng hết sức để làm cho tên này được mọi người biết đến.
+
+モニカをギルドマスターとして結成されたギルド。メンバーはモニカ、ニノン、ユキ、クウカ、アユミの５人。\n結成「された」というよりも、うっかり結成「されてしまった」と言うニュアンスの方が正しいかもしれない。\nメンバーはいつも間の抜けた行動でピンチを呼び込んでは、自分たちで華麗に解決している。そのため、このギ\nルドにはポンコツしかいないのか、潜在能力は高いのか、まだ判然としていない。=Một guild được thành lập bởi Monika, Ninon, Yuki, Kuuka, và Ayumi - mặc dù có thể chính xác hơn là nó xuất hiện một cách tình cờ. Những trò hề ngớ ngẩn của các thành viên tương phản mạnh mẽ với khả năng giải quyết dễ dàng những tình huống nguy hiểm mà họ tạo ra, khiến người xem bối rối không biết họ là một nhóm kẻ ngốc hay những thiên tài ẩn dật.
+
+魔瞳（イーヴィル・アイ）=Ác Mắt
+この私、疾風の冥姫は左目に大量の魔力を溜め込むことが出来るぞ！　極めて強力な魔法を使う際に、我が瞳は\nこの世ならざる輝きを放つのだ！=Ta, Hecate Bão Tố duy nhất, có thể chứa đựng lượng ma thuật không thể tin nổi trong mắt trái! Mỗi khi ta sử dụng ma thuật mạnh, đôi mắt này của ta lại lấp lánh rực rỡ, không thứ gì trên đời này sánh được!
+
+歩く竜巻=Bão Sống
+シュテッヒパルムの二つ名。文字通り街を歩いているだけでも次から次へ竜巻のように何かを起こす彼女を、そ\nう呼ぶ者が自然と増えていった。竜巻という単語が気に入ったらしく、二つ名で呼ぶと楽しげに名乗ってくれ\nる。=Một biệt danh cho Stechpalm. Cô ấy gây ra cơn bão của sự hỗn loạn ở bất cứ đâu cô ấy đi, khiến ngày càng nhiều người có xu hướng gọi cô ấy như vậy. Cô ấy dường như thích từ "Bão" và rất vui khi được gọi bằng tên này.
+
+アクドーイ商会=Krook'd & Co.
+悪人「アクドーイ」を会長とする、悪徳商会。高利貸し、人さらい、違法な武器の密輸入、悪いことはなんでも\nやる。アクドーイは丁寧な口調だが極悪人である。本当の悪人とはしばしばそういうものなのである。=Một guild tham nhũng do tội phạm "Krook'd" lãnh đạo, liên quan đến cho vay nặng lãi, bắt cóc, buôn lậu vũ khí bất hợp pháp và đủ loại hành động xấu xa. Lời nói của Krook'd lịch sự, nhưng hắn thực sự là một kẻ xấu xa. Kẻ xấu thực sự có thể lừa dối theo cách này.
+
+ウィスタリア家=Gia tộc Wisterian
+アストライア大陸全土に名をはせる、ランドソル一の商家と言われている名家。中でも、数々のパワフルな逸話\nによりお嬢様「アキノ・ウィスタリア」の名前は特にランドソルに広く知れ渡っている。いい意味でも、悪い意\n味でも。=Gia tộc thương gia nổi tiếng nhất Landosol. Mặc dù chính gia tộc được biết đến khắp mọi nơi trên Astraea, không có cái tên nào vang lên hơn cái tên của Akino Wisteria, lớn phần do những câu chuyện kỳ lạ, rất nhiều xung quanh những việc làm của cô ấy.
+
+エステレラ街道=Đường Esterella
+アストライア大陸に存在する緑の多い街道。気候のよい土地柄のため、生息する植物、動物、昆虫の種類も多\nい。歩いているとさまざまな生き物と出会うことができる。=Những con đường xanh mướt, tươi tốt của Astraea. Khí hậu thoải mái của nó là một địa điểm lý tưởng để tìm thấy đủ loại thực vật, động vật và côn trùng.

@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で、情と熱意で仲間を束ねる指揮官の狼娘。敵の攻守を削りつつ、自分のＴＰ回復や対象が物防ダウン状態の時に発生する追撃で猛攻を仕掛け前線を突破する。=[Vật lý] Một chỉ huy nửa người nửa sói dùng cảm xúc và đam mê để tập hợp đồng minh. Cô liên tục làm suy yếu tấn công và phòng thủ của kẻ địch, tăng TP của bản thân và có đòn đánh đặc biệt kích hoạt khi phòng thủ vật lý của kẻ địch bị giảm, xuyên thấng hàng ngũ địch.
+
+##UB##
+ウルフェンラッシュレイド=Wolven Rush Raid
+目の前の敵１キャラに物理特大ダメージを与え、物理攻撃力を大ダウン、物理防御力を小ダウンさせる。発動時既にこのスキルの対象が物理防御力ダウン状態だった場合、さらに追加の物理大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm mạnh tấn công vật lý và giảm nhẹ phòng thủ vật lý của chúng. Nếu phòng thủ vật lý của kẻ địch đã bị giảm, gây thêm sát thương vật lý lớn.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン対象が物理防御力ダウン状態の時、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm tấn công vật lý của kẻ địch đi $2 trong 18s.\n►Giảm phòng thủ vật lý của kẻ địch đi $3 trong 18s.\n►Nếu phòng thủ vật lý của kẻ địch bị giảm, gây $4 sát thương vật lý lên kẻ địch.
+
+##S1##
+スピアヘッド=Spearhead
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。発動時既にこのスキルの対象が物理防御力ダウン状態だった場合、さらに追加の物理中ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ phòng thủ vật lý của chúng. Nếu phòng thủ vật lý của kẻ địch đã bị giảm, gây thêm sát thương vật lý trung bình.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン対象が物理防御力ダウン状態の時、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 12s.\n►Nếu phòng thủ vật lý của kẻ địch bị giảm, gây $3 sát thương vật lý lên kẻ địch.
+
+##SP2##
+スピアヘッド+=Spearhead+
+目の前の敵１キャラに物理大ダメー\nジを与え、物理防御力を小ダウンさ\nせ、クリティカルを受けた際のダ\nメージを小アップさせる。発動時既\nにこのスキルの対象が物理防御力ダ\nウン状態だった場合、さらに追加の\n物理大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch phía trước nhất, giảm nhẹ phòng thủ vật lý của chúng và tăng nhẹ sát thương vật lý chí mạng phải nhận. Nếu mục tiêu đã có trạng thái giảm phòng thủ vật lý, gây thêm sát thương vật lý.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン対象が物理防御力ダウン状態の時、敵単体に(\d+)の物理ダメージ敵単体の被クリダメを(\d+％)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch phía trước nhất.\n►Giảm phòng thủ vật lý của mục tiêu đi $2.\n►Nếu mục tiêu có trạng thái giảm phòng thủ vật lý, gây thêm $3 sát thương vật lý.\n►Tăng sát thương vật lý chí mạng phải nhận của mục tiêu lên $4.
+
+##S2##
+ウォリアーズコード=Warrior's Code
+自分の物理攻撃力と物理クリティカルを大アップし、ＴＰを特大回復させる。=Tăng mạnh sát thương vật lý và tỷ lệ chí mạng của bản thân, và hồi TP một cách lớn cho bản thân. Tất cả hiệu ứng kéo dài 180s.
+
+##EX##
+騎士狼の教え=Knight Wolf's Teachings
+騎士狼の教え+=Knight Wolf's Teachings+
+
+##UE##
+ウルフェンブレンドコーヒー=Wolfen Blend Coffee

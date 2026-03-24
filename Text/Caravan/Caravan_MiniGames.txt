@@ -1,0 +1,93 @@
+------
+r:"^([0-9,]+)マイル([×\d]{2})? 獲得！$"=Đã thu được $1$2 Dặm!
+獲得トレジャーはありません。=Không có kho báu nào được thu được.
+獲得トレジャー=Kho báu Đã Thu Được
+個=
+アイテム獲得数=Vật phẩm Đã Thu Được
+マイル=Dặm
+キャラバンで用いる特別な通貨。マイルショップやマイルガチャ利用時に必要となる。=Một loại tiền tệ đặc biệt dùng trong caravan. Nó cần thiết cho việc mua hàng tại Cửa hàng Dặm và sử dụng Máy Gacha Dặm.
+今回の獲得マイル=Dặm Đã Thu Được
+r:"^(\d+)ターン以内に到着$"=Đến trong $1 lượt
+------
+個=Mảnh
+
+平凡なインゴット=Thỏi Vàng Thường
+平凡なルーン=Rune Thường
+平凡なスクロール=Cuộn Giấy Thường
+平凡なアーティファクト=Di Vật Thường
+平凡なティアラ=Vương Miện Thường
+平凡なジェムストーン=Đá Quý Thường
+平凡なクラウン=Vương Miện Thường
+
+貴重なインゴット=Thỏi Vàng Quý
+貴重なルーン=Rune Quý
+貴重なスクロール=Cuộn Giấy Quý
+貴重なアーティファクト=Di Vật Quý
+貴重なティアラ=Vương Miện Quý
+貴重なジェムストーン=Đá Quý Quý
+貴重なクラウン=Vương Miện Quý Giá Trị
+
+至高のインゴット=Thỏi Vàng Tối Thượng
+至高のルーン=Rune Tối Thượng
+至高のスクロール=Cuộn Giấy Tối Thượng
+至高のアーティファクト=Di Vật Tối Thượng
+至高のティアラ=Vương Miện Tối Thượng
+至高のジェムストーン=Đá Quý Tối Thượng
+至高のクラウン=Vương Miện Tối Thượng
+
+至高の未鑑定トレジャー=Kho Báu Chưa Định Giá Tối Thượng
+貴重な未鑑定トレジャー=Kho Báu Chưa Định Giá Quý
+平凡な未鑑定トレジャー=Kho Báu Chưa Định Giá Thường
+以下のトレジャーを獲得しました。=Bạn đã nhận được các kho báu sau:
+
+[f6d75e,f68600]至高のスクロール[-]=[f6d75e,f68600]Cuộn Giấy Tối Thượng[-]
+[f6d75e,f68600]至高のインゴット[-]=[f6d75e,f68600]Thỏi Vàng Tối Thượng[-]
+[f6d75e,f68600]至高のルーン[-]=[f6d75e,f68600]Rune Tối Thượng[-]
+[f6d75e,f68600]至高のアーティファクト[-]=[f6d75e,f68600]Di Vật Tối Thượng[-]
+[f6d75e,f68600]至高のティアラ[-]=[f6d75e,f68600]Vương Miện Tối Thượng[-]
+[f6d75e,f68600]至高のクラウン[-]=[f6d75e,f68600]Vương Miện Tối Thượng[-]
+[f6d75e,f68600]至高のジェムストーン[-]=[f6d75e,f68600] Đá Quý Tối Thượng [-]
+[f6d75e,f68600]至高の未鑑定トレジャー[-]=[f6d75e,f68600]Kho Báu Chưa Định Giá Tối Thượng[-]
+
+正体不明な謎のお宝。ギルド管理協会出張所まで持ち込むとカリンに鑑定してもらえる。鑑定の結果、レアリティが上がる場合がある。=Một kho báu bí ẩn chưa được xác định. Nếu bạn mang nó tới chi nhánh Hiệp Hội Quản Lý Guild, Karin sẽ định giá nó cho bạn. Định giá có thể làm tăng độ hiếm của kho báu.
+正体不明な謎のお宝。ギルド管理協会出張所まで持ち込むとカリンに鑑定してもらえる。=Một kho báu bí ẩn chưa được xác định. Nếu bạn mang nó tới chi nhánh Hiệp Hội Quản Lý Guild, nó sẽ được Karin định giá.
+非常に珍しいトレジャー。ギルド管理協会出張所まで持ち込むと、多額のキャラバンコインに換金できる。=Một kho báu cực kỳ hiếm. Nếu bạn mang nó tới chi nhánh Hiệp Hội Quản Lý Guild, bạn có thể đổi nó lấy một lượng lớn Đồng Xu Caravan.
+珍しいトレジャー。ギルド管理協会出張所まで持ち込むと、キャラバンコインに換金できる。=Một kho báu hiếm. Nếu bạn mang nó tới chi nhánh Hiệp Hội Quản Lý Guild, bạn có thể đổi nó lấy Đồng Xu Caravan.
+平凡なトレジャー。ギルド管理協会出張所まで持ち込むと、少額のキャラバンコインに換金できる。=Kho báu thông thường. Nếu bạn mang nó tới chi nhánh Hiệp Hội Quản Lý Guild, bạn có thể đổi nó lấy vài Đồng Xu Caravan.
+
+落ちてくるリンゴや宝箱をキャッチしましょう！\n画面の左右をタッチすると移動できますよ！=Hãy bắt những quả táo và rương kho báu rơi xuống! Vì bạn chơi trên PC, bạn có thể dùng phím mũi tên Trái← và Phải→ trên bàn phím hoặc cần điều khiển.
+スタート=Bắt Đầu
+集めたリンゴはマイルと交換させていただきます。\n金リンゴはなんと、赤リンゴ5個分の価値がありますよ♪\nさらに宝箱をキャッチすると、トレジャーがGETできます！=Những quả táo thu thập được sẽ được đổi lấy Điểm Khoảng Cách. Và đoán xem, một quả táo vàng đáng giá bằng năm quả táo đỏ! Hơn nữa, nếu bạn bắt được một rương kho báu, bạn sẽ nhận được một Kho Báu!
+トゲトゲにぶつかると、少しの間動けなくなるので注意してください。\nマグネットをキャッチすると、範囲内のフルーツや宝箱を一定時間\n引き寄せることができますよ♪=Hãy cẩn thận tránh va chạm với các chướng ngại vật có gai, vì nó sẽ làm bạn tạm thời bất động. Nếu bạn bắt được một nam châm, nó sẽ hút trái cây và rương kho báu trong phạm vi của nó trong một khoảng thời gian nhất định♪
+トゲトゲにぶつかると、少しの間動けなくなるので注意です！\nマグネットをキャッチすると、範囲内のリンゴや宝箱を一定時間\n引き寄せることができますよ♪=Hãy cẩn thận tránh va chạm với các chướng ngại vật có gai, vì nó sẽ làm bạn tạm thời bất động. Nếu bạn bắt được một nam châm, nó sẽ hút trái cây và rương kho báu trong phạm vi của nó trong một khoảng thời gian nhất định♪
+リンゴや宝箱はリザルトでまとめて報酬に交換いたします！\nたくさんキャッチして、マイルやトレジャーをGETしましょう♪=Các quả táo và rương kho báu sẽ được chuyển đổi thành phần thưởng trong kết quả! Bắt thật nhiều để nhận Điểm Khoảng Cách và Kho Báu♪
+
+--Gacha machine--
+マイルガチャ=Gacha Điểm Khoảng Cách
+ガチャ台を選択してください。ガチャはいずれか1台を1度だけ利用できます。=Vui lòng chọn một máy gacha. Bạn chỉ có thể sử dụng mỗi máy gacha một lần.
+
+ガチャ詳細=Chi Tiết Gacha
+マイルを消費せず、無料で回せるガチャです。\nトレジャーか料理を1品獲得できます。=Đây là gacha miễn phí, bạn có thể quay mà không tốn bất kỳ Điểm Khoảng Cách nào. Bạn có cơ hội nhận được một kho báu hoặc một món ăn.
+1500マイルを消費して回せるガチャです。\nお得にトレジャーや料理を入手するチャンス！=Đây là gacha bạn có thể quay bằng cách tiêu thụ 1500 Điểm Khoảng Cách. Nó cung cấp cơ hội có lợi chi phí để nhận được kho báu và món ăn.
+3000マイルを消費して回せるガチャです。\n大量のトレジャーや料理が手に入ることも…！？=Đây là gacha bạn có thể quay bằng cách tiêu thụ 3000 Điểm Khoảng Cách. Nó cũng mang lại khả năng nhận được một lượng lớn kho báu và món ăn.
+ダイスまたは料理を使用する前であれば\n再度開くことができます。=Nếu bạn chưa sử dụng Xúc Xắc hoặc một Món Ăn nào,\nbạn có thể mở lại nó.
+利用可能なガチャがあります。\nダイアログを閉じてもよろしいですか？\n=Có một máy gacha đang có sẵn để sử dụng.\nBạn vẫn muốn đóng hộp thoại này chứ?
+
+マイルが不足しています。=Điểm Khoảng Cách không đủ.
+マイルを消費して\nレアガチャを引きます。\nよろしいですか？=Tiêu Điểm Khoảng Cách để quay Gacha Hiếm?
+マイルを消費して\nプレミアムガチャを引きます。\nよろしいですか？=Tiêu Điểm Khoảng Cách để quay Gacha Đặc Biệt?
+ノーマルガチャを無料で引きます。\n\nよろしいですか？=Quay Gacha Thường miễn phí?
+
+sr:"^(?:\[3C404E\])?(.+)を \[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]個獲得しました。(?:\[-\])?$"=[3C404E]Đã nhận\n[FFBB00,CE4F00]$2 × [-] $1![-]
+
+再開=Tiếp tục
+ミニゲームを中断しました。=Minigame đã bị tạm dừng.
+もう一度中断した場合、リタイアとなります。=Nếu bạn gián đoạn lần nữa,\nđiều đó sẽ dẫn đến việc nghỉ chơi.
+一時停止=Tạm dừng
+[FF7C4E,D62146]リタイアした場合、集めた報酬は獲得できません。\nまた、再挑戦はできません。[-]=[FF7C4E, D62146]Nếu bạn nghỉ chơi, bạn sẽ không thể nhận được phần thưởng đã thu thập.\nNgoài ra, bạn không thể thử lại.[-]
+ミニゲームをリタイアしますか？=Bạn có muốn thoát minigame không?
+トゲトゲにぶつかると、少しの間動けなくなるので注意です！\nマグネットをキャッチすると、範囲内のフルーツや宝箱を一定時間\n引き寄せることができますよ♪=Nếu bạn chạm vào gai, bạn sẽ không thể di chuyển trong một thời gian ngắn, nên hãy cẩn thận! Bắt được nam châm, bạn có thể hút trái cây và hộp kho báu trong phạm vi của nó trong một khoảng thời gian nhất định♪
+
+強力なハンマーに要注意です！攻撃地点からはフルーツや宝箱が\nドロップしますが、すぐに消えてしまうので急いでGETしましょう！\n「練習する」から何度でも実際のゲームの動きが確認できますよ♪=Hãy cẩn thận với búa mạnh! Từ các điểm tấn công, trái cây và hộp kho báu sẽ rơi ra, nhưng chúng biến mất nhanh, nên hãy nhanh tay thu thập! Bạn có thể luyện tập và xác nhận cách chơi thực tế từ "Luyện tập" bao nhiêu lần tùy thích♪
+集めたフルーツはマイルと交換させていただきます\nSPECIALのフルーツは、NORMALの5個分の価値があります♪\nさらに宝箱をキャッチすると、トレジャーがGETできます！=Trái cây bạn thu thập sẽ được đổi lấy dặm. Trái cây ĐẶC BIỆT có giá trị gấp năm lần trái cây THÔNG THƯỜNG♪ Ngoài ra, bắt được hộp kho báu sẽ giúp bạn nhận được kho báu!
+フルーツや宝箱はリザルトでまとめて報酬に交換いたします！\nたくさんキャッチして、マイルやトレジャーをGETしましょう♪=Trái cây và hộp kho báu sẽ được đổi thành phần thưởng hàng loạt ở kết quả! Hãy bắt thật nhiều và nhận được dặm cùng kho báu♪

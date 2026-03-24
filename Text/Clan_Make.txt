@@ -1,0 +1,147 @@
+ラン加入=Tham Gia Gia Tộc
+クラン検索=Tìm Kiếm Gia Tộc
+クラン結成=Tạo Gia Tộc
+勧誘リスト=Danh Sách Mời
+
+条件:誰でも加入=Mở Cho Tất Cả
+方針:指定なし=Chính Sách: Không Có
+人数:指定なし=Lưu ý: Không Có
+クランバトル:クランモード=CB: Chế Độ Gia Tộc
+
+勧誘設定:受け付ける=Sẽ nhận được lời mời
+勧誘設定:受け付けない=Không nhận được lời mời
+設定変更=Thay Đổi Thiết Lập
+勧誘設定を変更しますか？=Thay đổi thiết lập mời?
+クランからの勧誘を受け付けるか選択できます。\nすでにクランに所属している場合は、新たに勧誘はされません。=Chọn có nhận lời mời từ các gia tộc hay không.\nBạn sẽ không nhận được lời mời nếu đã ở trong một Gia Tộc.
+受け付けない=Không chấp nhận
+受け付ける=Chấp nhận
+
+※2文字以上=Ít nhất 2 ký tự
+クラン名検索=Tìm kiếm theo Tên Gia Tộc
+メンバー人数=Thành Viên
+
+活動方針=Phong Cách
+自由にプレイ=Chơi Miễn Phí
+まったりプレイ=Thư Giãn
+がっつりプレイ=Chuyên Nghiệp
+初心者OK=Chào Đón Người Mới
+わいわいプレイ=Chỉ Vui Vẻ Thôi
+r:"^クランバトル([0-9,]+)位以内$"=Top $1
+毎日ログイン=Online Mỗi Ngày
+2日以内ログイン=Hoạt động trong vòng 2 ngày
+朝プレイメイン=Chủ yếu buổi sáng
+昼プレイメイン=Chủ yếu buổi chiều
+夜プレイメイン=Chủ yếu ban đêm
+深夜プレイメイン=Chủ yếu đêm khuya
+
+加入条件=Yêu cầu
+誰でも加入=Mở cho tất cả
+承認あり=Theo phê duyệt
+勧誘のみ=Chỉ mời
+
+シングルモード=Chế độ đơn
+クランモード=Chế độ clan
+
+申請中=Đang chờ
+勧誘を拒否する=Từ chối lời mời
+加入申請する=Đăng ký
+
+プレイヤー情報を見る=Xem dữ liệu người chơi
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入申請を出しますか？\[-\]\[-\]$"=[3C404E]Đăng ký tham gia\n[FFBB00,CE4F00]$1[-]?[-]
+加入申請確認=Đơn đăng ký
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入申請を出しました。\[-\]\[-\]$"=[3C404E]Bạn đã đăng ký tham gia\n[FFBB00,CE4F00]$1[-].[-]
+加入申請完了=Đã gửi đơn đăng ký
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]に申請中です。\n申請を取り消しますか？\[-\]\[-\]$"=[3C404E]Hủy đơn đăng ký tham gia\n[FFBB00,CE4F00]$1[-]?[-]
+申請取り消し確認=Hủy đơn đăng ký
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消しました。\[-\]\[-\]$"=[3C404E]Bạn đã hủy đơn đăng ký tham gia\n[FFBB00,CE4F00]$1[-].[-]
+申請取り消し完了=Đã hủy đơn đăng ký
+
+[FF7C4E,D62146]検索結果に一致するクランが見つかりませんでした。[-]=[FF7C4E,D62146]Không tìm thấy clan nào phù hợp với tìm kiếm của bạn.[-]
+
+交代=Chuyển đổi
+サブリーダー=Phó lãnh đạo
+任命=Bổ nhiệm
+勧誘や、加入申請の管理=Tuyển dụng, quản lý đơn đăng ký
+クラン名やクラン説明の編集\nクランメンバーの管理\n勧誘や、加入申請の管理=Chỉnh sửa tên clan, mô tả clan, tuyển dụng thành viên và quản lý đơn xin gia nhập
+以下のメンバーの役職変更・管理を行います。=Vai trò của thành viên sau sẽ được thay đổi.
+[3C404E][3C404E]<Player name regex here>を\nクランから除名しますか？[-][-]=[3C404E]Chúng ta có nên loại <Regex capture here> khỏi clan không?[-]
+[3C404E][3C404E]<Player name regex here>を\nクランから除名しました。[-][-]=[3C404E]Đã loại <Regex capture here> khỏi clan.[-]
+除名を取り消すことはできません。=Hành động loại người chơi này không thể hoàn tác.
+除名確認=Xác nhận loại
+除名完了=Đã loại
+クラン説明=Mô tả clan
+クラン名=Tên clan
+クランの情報を設定します。=Thiết lập thông tin clan.
+※60文字以内=※Tối đa 60 ký tự
+※2文字以上10文字以内=※Từ 2 đến 10 ký tự
+クラン名を2文字以上入力してください。=Tên clan phải có ít nhất 2 ký tự.
+結成する=Tạo
+[FF7C4E,D62146]設定内容は結成後でも変更できます。[-]=[FF7C4E,D62146]Có thể thay đổi sau.[-]
+r:"^\[3C404E\]\[3C404E\]クラン\[FFBB00\,CE4F00\](.+)\[-\]を\n結成しました。\[-\]\[-\]$"=[3C404E]Đã tạo clan\n[FFBB00,CE4F00]$1[-].[-]
+クラン結成完了=Đã tạo clan
+解散=Giải tán
+[3C404E][3C404E]クランを[-][FF7C4E,D62146]解散[-][3C404E]します。\nよろしいですか？[-][-]=[FF7C4E,D62146]Giải tán[-][3C404E] clan này?[-]
+[FF7C4E,D62146]解散後24時間はクランの結成・加入ができません。[-]=[FF7C4E,D62146]Bạn không thể tham gia hoặc tạo clan trong\n24 giờ sau khi giải tán.[-]
+クラン編集=Chỉnh sửa clan
+[FF7C4E,D62146]加入申請中のプレイヤーがいません。[-]=[FF7C4E,D62146]Không có đơn đăng ký từ người chơi nào.[-]
+メンバー管理=Quản lý thành viên
+勧誘プレイヤーリスト=Danh sách mời người chơi
+加入申請リスト=Danh sách đơn xin gia nhập
+加入/勧誘リスト=Danh sách gia nhập/mời
+メンバーを探す=Tìm thành viên
+r:"^プレイヤーLv ： ([0-9 ～]+)$"=Cấp người chơi: $1
+プレイヤー情報=Thông tin người chơi
+勧誘=Mời
+勧誘を解除=Hủy lời mời
+除名する=Xóa
+クラン勧誘=Lời mời Clan
+よろしくお願いします。=Rất vui được gặp bạn.
+シングルモード参加=Tham gia chế độ đơn
+r:"^(.+)をクランに勧誘しますか？$"=Mời $1 tham gia clan?
+勧誘コメント=Tin nhắn mời
+r:"^(.+)を勧誘しました。$"=Bạn đã gửi lời mời đến $1.
+
+r:"^(.+)への勧誘を取り消しました。$"=Lời mời đến $1 đã bị hủy.
+勧誘取り消し=Hủy lời mời
+すでに勧誘済みです。=Đã được mời rồi
+加入する=Tham gia
+勧誘
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの勧誘を\n拒否しますか？\[-\]\[-\]$"=[3C404E]Từ chối lời mời từ\n[FFBB00,CE4F00]$1[-]?[-]
+勧誘拒否確認=Từ chối lời mời
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの勧誘を\n拒否しました。\[-\]\[-\]$"=[3C404E]Bạn đã từ chối lời mời từ\n[FFBB00,CE4F00]$1[-].[-]
+勧誘拒否完了=Lời mời đã bị từ chối
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの加入を\n拒否しますか？\[-\]\[-\]$"=[3C404E]Từ chối đơn xin từ\n[FFBB00,CE4F00]$1[-]?[-]
+加入拒否確認=Từ chối đơn xin
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]からの加入を\n拒否しました。\[-\]\[-\]$"=[3C404E]Bạn đã từ chối đơn xin từ\n[FFBB00,CE4F00]$1[-].[-]
+加入拒否完了=Đơn xin đã bị từ chối
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入しますか？\[-\]\[-\]$"=[3C404E]Bạn có muốn tham gia\n[FFBB00,CE4F00]$1[-]?[-]
+加入確認=Xác nhận tham gia
+
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入しました。\[-\]\[-\]$"=[3C404E]Đã tham gia\n[FFBB00,CE4F00]$1[-].[-]
+加入完了=Tham gia Clan
+
+クランを解散しました。=Clan đã giải tán.
+r:"^(\d+)時間(\d+)分後にクラン結成が可能です。$"=Bạn có thể tạo clan sau $1 giờ $2 phút.
+r:"^(\d+)分後にクラン結成が可能です。$"=Bạn có thể tạo clan sau $1 phút.
+r:"^(\d+)時間(\d+)分後にクラン加入が可能です。$"=Bạn có thể tham gia clan sau $1 giờ $2 phút.
+r:"^(\d+)分後にクラン加入が可能です。$"=Bạn có thể tham gia clan sau $1 phút.
+初心者応援クラン=Clan hỗ trợ người mới
+まったりやりましょう=Cứ thư giãn thôi.
+サーバーエラー=Lỗi máy chủ
+前回、このプレイヤーから勧誘を拒否されました。\n勧誘拒否から24時間以内は勧誘できません。=Lần trước bạn đã từ chối lời mời từ người chơi này. Bạn không thể
+Invite within 24 hours after the Invitation is rejected.
+NPC
+他のプレイヤーと、クランを結成しましょう。\nクランを結成すると、クランバトルやダンジョンで協力して戦えます。=Hợp tác với người chơi khác để t thành clan.\nViệc này cho phép bạn chiến đấu cùng nhau trong Clan Battle và Dungeons.
+
+クランに入れるらしいわよ\nせっかくだから入ってみたら？\nけっこう楽しいみたいよ♪=Có vẻ bạn có thể tham gia Clan.\nTại sao không thử xem?\nSẽ rất vui!♪
+こちらでクランに加入できます\n素敵なクランがたくさんあって、\n目移りしてしまいますね=Bạn có thể tham gia Clan tại đây.\nCó quá nhiều Clan tuyệt vời, khó mà chọn.
+クランに加入してみませんか？\nみんなといっしょに冒険した方が、\n楽しいですよ！=Muốn tham gia clan?\n Cùng nhau đi phiêu lưu sẽ vui hơn nhiều!
+ねぇ…クランに加入してみない？\n一人も楽しいけど、みんなと\n一緒も賑やかでいいと思うの=Này... Tại sao không tham gia clan? Một mình cũng tốt, nhưng tôi nghĩ một nhóm sôi nổi cũng tốt.

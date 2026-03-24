@@ -1,0 +1,27 @@
+##Profile##
+【魔法】後衛で、願いを力に極光を放つ覚醒の魔法士。自分を強化しながら高火力魔法を絶えず撃ち込み、バリアを起点とした味方への攻撃支援スキルで勝利を手にする。=[Phép thuật] Một pháp sư đã thức tỉnh, đứng ở hậu phương và dùng ước muốn của mình để phát ra ánh sáng cực trị. Cô liên tục bắn phép mạnh mẽ trong khi tự làm mình mạnh lên, và dùng các đòn tấn công rào cản để hỗ trợ đồng đội đạt chiến thắng.
+
+##UB##
+アストラルプリズム=Lăng kính a-xơ-ra
+バリアが展開されている味方全ての魔法攻撃力と魔法クリティカルを大アップし、目の前の敵１キャラに魔法特大ダメージを与える。魔法攻撃力と魔法クリティカルの上昇量は味方全員の残りＨＰに応じて最大２倍までアップする。=Tăng rất lớn M.ATK và tỷ lệ chí mạng phép của đồng đội với Barrier, và gây sát thương phép lớn cho kẻ địch phía trước. Sát thương phép gây ra, và mức tăng M.ATK và tỷ lệ chí mạng phép tăng theo HP còn lại của tất cả đồng đội, lên đến 2 lần.
+r:"^敵単体に(\d+)の魔法ダメージバリアが展開されている味方の魔法攻撃力を(\d+)アップバリアが展開されている味方の魔法クリティカルを100アップ$"=►Gây $1 sát thương phép cho kẻ địch.\n\nNếu một đồng đội có Barrier:\n►Tăng M.ATK cho tất cả đồng đội bằng $2 (+0.0222×$2×Allies HP) trong 18s.\n►Tăng tỷ lệ chí mạng phép cho tất cả đồng đội bằng 100 (+0.00005×100×Allies HP) trong 18s.
+
+##S1##
+ラスターシャワー=Mưa lấp lánh
+自分の魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップし、目の前の敵１キャラに魔法大ダメージを与え、さらに自分のＴＰを中回復する。魔法攻撃力と魔法攻撃クリティカル時のダメージの上昇量は味方全員の残りＨＰに応じて最大２倍までアップする。=Tăng rất lớn M.ATK của bản thân, tăng nhỏ M.CRIT DMG của bản thân, gây sát thương phép lớn cho kẻ địch phía trước, và hồi TP vừa phải cho bản thân. Mức tăng M.ATK và M.CRIT tăng theo HP còn lại của tất cả đồng đội, lên đến 2 lần.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを5％アップ敵単体に(\d+)の魔法ダメージ自分のＴＰを200回復$"=►Tăng M.ATK của bản thân bằng $1 (+0.03×$1×Allies HP) trong 12s.\n►Tăng M.CRIT DMG của bản thân bằng 5% (+0.0000125×Allies HP) trong 12s.\n►Gây $2 sát thương phép cho kẻ địch.\n►Hồi TP của bản thân thêm 200.
+
+##S2##
+シャイニーガーデン=Vườn lấp lánh
+バリアが展開されている味方全ての魔法攻撃力を特大アップし、バリアが展開されていない味方全てのＨＰを中回復し、物理/魔法無効バリアを展開する。さらに自分の魔法攻撃力を大アップ、ＴＰを中回復する。魔法攻撃力の上昇量は味方全員の残りＨＰに応じて最大２倍までアップする。=Cực kỳ tăng M.ATK cho đồng đội có Barrier, và hồi phục HP đồng đội ở mức trung bình nếu không có Barrier, đồng thời triển khai Barrier lên họ để kháng mọi Sát thương Vật lý/Phép. Ngoài ra, cũng tăng mạnh M.ATK của bản thân và hồi phục TP ở mức trung bình. Mức tăng M.ATK càng cao khi HP đồng đội còn nhiều.
+r:"^バリアが展開されている味方の魔法攻撃力を(\d+)アップバリアが展開されていない味方のＨＰを(\d+)回復(\d+)ダメージ分の物理魔法無効バリアを展開する自分の魔法攻撃力を(\d+)アップ自分のＴＰを200回復$"=►Tăng M.ATK của đồng đội có Barrier thêm $1 trong 12s.\n►Hồi phục HP đồng đội không có Barrier thêm $2.\n►Triển khai Barrier lên đồng đội không có Barrier, kháng $3 Sát thương Vật lý/Phép trong 180s.\n►Tăng M.ATK của bản thân thêm $4 trong 12s.\n►Hồi phục TP của bản thân thêm 200.
+
+##EX##
+アストラルルミナス=Ánh Sáng Vũ Trụ
+アストラルルミナス+=Ánh Sáng Vũ Trụ+
+
+##UE##
+ラスターシャワー+=Mưa Tỏa Sáng+
+光輝のアストラ=Hào Quang Astrea
+バリアが展開されている味方全ての行動速度を大アップさせる。さらに自分の魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップ、ＴＰ上昇を小アップし、目の前の敵１キャラに魔法大ダメージを与え、自分のＴＰを中回復する。魔法攻撃力と魔法攻撃クリティカル時のダメージの上昇量は味方全員の残りＨＰに応じて最大２倍までアップする。=Cực kỳ tăng tốc độ hành động cho đồng đội được bảo vệ bởi Barrier. Đồng thời tăng M.ATK/M.CRIT DMG/Tăng TP của bản thân khi gây Sát thương Phép lớn + hồi phục TP trung bình. Hiệu quả buff tăng lên tới 2 lần dựa trên HP còn lại của đồng đội.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを5％アップ自分のＴＰ上昇を5アップ敵単体に(\d+)の魔法ダメージ自分のＴＰを200回復バリアが展開されている味方の行動速度アップ$"=►Tăng M.ATK của bản thân thêm $1.\n►Tăng M.CRIT DMG của bản thân thêm 5%.\n►Tăng Tăng TP của bản thân thêm 5.\n►Gây $2 Sát thương Phép lên một kẻ địch.\n►Hồi phục TP của bản thân thêm 200.\n►Tăng tốc độ hành động của đồng đội có Barrier triển khai.

@@ -1,0 +1,11 @@
+Ayane Hojo's Birthday
+
+『よぉ坊ちゃん。待たせちまったか？\n綾音のやつがやけに身だしなみに時間をかけちまってな』="Này, Young Master. Chúng ta có để cậu chờ lâu không? Ayane đã phát điên lên chuẩn bị cho hôm nay!"
+『なに怒ってるんだよ、本当のことだろ？\nまったく、どうして今日に限ってこんなに気合を入れるんだか、なー？』="Cậu giận cái gì vậy? Tôi chỉ nói sự thật thôi. Thật sự, đây là một bí ẩn thực sự tại sao cô ấy lại bỏ nhiều công sức vào hôm nay trong tất cả các ngày, đúng không?"
+『おーおー、うれしそうにしちゃって。\nここ最近で一番いい笑顔してやがるぜ。\nまったく坊ちゃんは罪作りなやつだな！』="Ô-hô, nhìn cậu kìa, vui vẻ thế. Đó là nụ cười đẹp nhất tôi thấy trên mặt cậu từ lâu lắm rồi. Chà, cậu thực sự là kẻ ăn cắp trái tim, Young Master!"
+……ありがと……お兄ちゃん……っ♪=...Cảm ơn... Onii-chan...♪
+『……ん？　なんで二つあるんだ？\nは？　俺の分も！？　いや、それは悪いっていうか……\n俺のココロまで奪おうってか！？　ほんと坊ちゃんは罪作りだな！』="...Hm? Tại sao lại có hai cái? Khoan, hả? Một cái là của tôi?! Không, ý tôi là, đó không phải là xấu hay gì cả... Cậu đang cố gắng đánh cắp trái tim tôi nữa à?! Thật sự, Young Master, cậu nguy hiểm!"
+
+Player Prompts
+誕生日おめでとう、綾音ちゃん。=Chúc mừng sinh nhật, Ayane
+これ、プレゼント。=Đây! Quà của cậu

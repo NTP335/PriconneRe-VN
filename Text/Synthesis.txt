@@ -1,0 +1,67 @@
+究極錬成=Tối thượng\nHỗn hợp
+サブステータス=Trạng thái phụ
+錬成されていません。=Chưa hỗn hợp.
+錬成=Hỗn hợp
+変換=Chuyển đổi
+EX装備錬成Pt=Điểm hỗn hợp EX Equip
+パラメータを最大値にするスロット=Các ô để tối đa hóa tham số
+錬成スフィア=Quả cầu Alchemist
+錬成スフィア使用確認=Đã xác nhận sử dụng Quả cầu Alchemist
+錬成スフィアが不足しています。=Không đủ Quả cầu Alchemist.
+EX装備錬成確認=Đã xác nhận hỗn hợp EX Equip
+以下のアイテムを消費して錬成します。=Các vật phẩm sau sẽ được tiêu hao để biến đổi nó.
+
+錬成結果を反映し、終了します。=Xem lại kết quả hỗn hợp và xác nhận.
+結果確定=Xác nhận
+破棄=Bỏ qua
+終了後のステータス=Trạng thái sau khi hoàn thành
+錬成結果反映確認=Xác nhận kết quả hỗn hợp
+
+錬成結果を破棄し、終了します。=Xem lại kết quả hỗn hợp trước khi bỏ qua.
+錬成結果破棄確認=Bỏ kết quả hỗn hợp
+再錬成=Rèn lại
+
+
+橙=Cam
+緑=Xanh lá
+紫=Tím
+金=Vàng
+銀=Bạc
+銅以下=Đồng hoặc thấp hơn
+空=Xanh da trời
+桃以上=Hồng hoặc cao hơn
+銅=Đồng
+
+表示可能な素材が存在しません。=Không có vật liệu nào để hiển thị.
+おまかせ変換設定=Cài đặt tự động chuyển đổi
+おまかせ変換する=Tự động chuyển đổi
+EX装備錬成Pt変換=Chuyển đổi Điểm Chế tạo EX Trang bị
+変換する素材を選択済みです。=Chọn vật liệu để chuyển đổi.
+変換する素材を選択してください。=Chọn vật liệu cần chuyển đổi.
+以下の素材を変換します。=Chuyển đổi các vật liệu sau.
+変換する=Chuyển đổi nó
+EX装備錬成Pt変換確認=Xác nhận Chuyển đổi Điểm Chế tạo EX Trang bị
+
+最大値=Giá trị tối đa
+最小値=Giá trị tối thiểu
+抽選するサブステータス=Trạng thái phụ cần rút
+選択中の装備に付与される\nサブステータス一覧を確認できます。=Bạn có thể xem danh sách trạng thái phụ được cấp cho trang bị đã chọn.
+サブステータス確認=Kiểm tra Trạng thái phụ
+
+
+まとめて変換する=Chuyển đổi hàng loạt
+アイテム個数選択=Chọn số lượng vật phẩm
+sr:"^変換する(.+)の\n個数を選択する。$"=Chọn số lượng $1 để chuyển đổi.
+変換結果=Kết quả chuyển đổi
+変換したアイテムは元に戻せません。=Vật phẩm đã chuyển đổi không thể khôi phục.
+
+
+まだ見ていないストーリーです。=Đó là câu chuyện bạn chưa từng thấy.
+
+
+錬成結果を破棄する場合に、確認ダイアログを表示するか設定します。=Đặt hiển thị hộp thoại xác nhận khi loại bỏ kết quả chế tạo.
+EX装備錬成結果破棄の確認ダイアログ=Hộp thoại xác nhận loại bỏ Chế tạo EX Trang bị
+EX装備錬成結果反映の確認ダイアログ=Hộp thoại xác nhận Kết quả Chế tạo EX Trang bị
+錬成結果を反映する場合に、確認ダイアログを表示するか設定します。=Đặt hiển thị hộp thoại xác nhận khi xem lại kết quả chế tạo.
+錬成スフィアの使用確認ダイアログ=Hộp thoại xác nhận sử dụng Cầu Chế tạo
+錬成スフィアを使用する場合に、確認ダイアログを開きます。=Mở hộp thoại xác nhận khi sử dụng Cầu Chế tạo.

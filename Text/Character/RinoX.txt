@@ -1,0 +1,27 @@
+##Profile##
+【物理】後衛で、攻撃と支援を担う聖夜のアーチャー。物理攻撃力と物理クリティカルアップスキルで周囲を強化し、クリティカルで威力が増大するＵＢで敵を粉砕する。=[Vật lý] Một cung thủ Giáng sinh đảm nhận tấn công và hỗ trợ ở hậu phương. Cô sử dụng kỹ năng tấn công vật lý và tăng chí mạng vật lý để củng cố đồng đội, sau đó đè bẹp kẻ địch với UB mạnh mẽ và chí mạng của mình.
+
+##UB##
+クリスマススターダスト=Christmas Stardust
+自分の物理クリティカルを大アップし、前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Tăng mạnh mẽ tỷ lệ chí mạng vật lý của bản thân và gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Nếu kỹ năng này trúng chí mạng, sát thương sẽ thành ba lần.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương lên kẻ địch trong phạm vi. ►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 180s.
+
+##S1##
+ブレッシングリース=Blessing Wreath
+自分を中心とした範囲内の味方すべての物理攻撃力と物理クリティカルを中アップする。=Tăng trung bình tấn công vật lý và tỷ lệ chí mạng vật lý của đồng đội trong phạm vi xung quanh bản thân.
+
+##S2##
+ジングルアロー=Jingle Arrow
+前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。範囲内の敵の数に応じて、防御力の減少量が最大４倍までアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi, và giảm nhẹ phòng thủ vật lý của chúng. Lượng phòng thủ vật lý bị giảm tăng theo số kẻ địch, tối đa 4 lần. Nếu kỹ năng này trúng chí mạng, sát thương sẽ thành ba lần.
+
+##EX##
+クリスマスアプローチ=Christmas Approach
+クリスマスアプローチ+=Christmas Approach+
+
+##S1+##
+ブレッシングリース+=Blessing Wreath+
+自分を中心とした範囲内の味方すべてのＨＰを小回復するフィールドを展開し、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、物理クリティカルを中アップする。=Triển khai một trường phục hồi nhẹ HP cho đồng đội trong phạm vi xung quanh bản thân. Tăng mạnh mẽ tấn công vật lý của đồng đội trong phạm vi, và tăng trung bình tỷ lệ chí mạng vật lý của họ.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを70アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Tăng tấn công vật lý của đồng đội trong phạm vi 150 lên $1 trong 180s. ►Tăng tỷ lệ chí mạng vật lý của đồng đội trong phạm vi 150 lên 70 trong 180s. ►Triển khai một trường bán kính 260 phục hồi HP của đồng đội lên $2/giây trong 8.5s.
+
+##UE##
+ノエルブレッシングボウ=Cung Noël Ban Phước

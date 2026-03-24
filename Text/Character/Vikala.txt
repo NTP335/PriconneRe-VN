@@ -1,0 +1,52 @@
+##Profile##
+ビッキィ=Vicky
+【物理】前衛で夢と希望とネズ耳を届ける鼠神宮の巫女。周囲の味方の物理攻撃支援、ＴＰ上昇アップと回復で援護し、自身の無敵化で敵の隙を突き鋭い金牙の一撃を放つ。=[Vật Lý] Nàng thần của Đền Chuột, người mang đến giấc mơ, hy vọng và đôi tai chuột ở hàng ngũ tiên phong. Cô ấy cung cấp tăng P.ATK diện rộng, hồi phục đồng đội, và cung cấp TP cho họ. Cô ấy cũng có thể trở nên miễn nhiễm với đòn tấn công kẻ địch và phản kích bằng những chiếc răng vàng sắc của bẫy mình.
+
+ネズ耳作り=Making mouse-ears
+陰陽合わせ持つ鼠神宮の巫女=Miko từ Đền Chuột, nắm giữ quyền năng Âm-Dương.
+
+ぼくと踊ろう！=Hãy cùng nhau nhảy đi!
+陰陰陽陽繋ぐ絆=Duyên nợ kết nối Ánh sáng và Bóng tối
+不安だらけの都会暮らし=Cuộc sống ở thành phố đầy lo âu
+小さき侵略者を撃て！=Bắn hạ kẻ xâm lập nhỏ xíu!
+
+##UB##
+金牙神然=Răng Vàng
+目の前の敵１キャラに物理大ダメージを与え、一定時間無敵状態になる。【フィールド展開中】自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước và trở nên miễn nhiễm với mọi sát thương trong một khoảng thời gian. Nếu trường đã được kích hoạt, tăng mạnh tấn công vật lý cho đồng đội trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ一定時間無敵状態になるフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Trở nên miễn nhiễm với mọi sát thương trong 4s.\n►Nếu trường đã được kích hoạt, tăng tấn công vật lý cho đồng đội trong phạm vi 195 lên $2 trong 18s.
+
+##S1##
+一子之夢=Giấc mơ của đứa con một
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＴＰを小回復させる。【フィールド展開中】ＴＰの回復量がアップし、自分を中心とした範囲内の味方すべてのＴＰ上昇を小アップさせる。=Tăng mạnh tấn công vật lý cho đồng đội trong phạm vi 195, tăng nhẹ sát thương phán xét vật lý của họ, và hồi phục nhẹ TP của họ. Nếu trường đã được kích hoạt, gấp đôi hồi phục TP của đồng đội, và tăng nhẹ Tăng TP của đồng đội trong phạm vi 195.
+r:"^範囲内の味方のＴＰを50回復フィールド展開中、範囲内の味方のＴＰを100回復フィールド展開中、範囲内の味方のＴＰ上昇を8アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカル時のダメージを5％アップ$"=►Hồi phục TP của đồng đội trong phạm vi lên 50.\n►Nếu trường đã được kích hoạt, tăng Tăng TP của đồng đội trong phạm vi lên 8 trong 12s.\n►Tăng tấn công vật lý của đồng đội trong phạm vi lên $1 trong 12s.\n►Tăng sát thương phán xét vật lý của đồng đội trong phạm vi lên 5% trong 12s.
+
+##S2##
+パレードの時間だよ♪=Đã đến giờ diễu hành rồi♪
+自分を中心とした範囲内の味方すべてのＨＰを小回復するフィールドを展開し、さらに自分を中心とした範囲内の味方すべての物理攻撃力と物理クリティカルを大アップさせる。=Triển khai một trường phép hồi phục nhẹ HP cho đồng đội trong phạm vi 305, và tăng mạnh tấn công vật lý và Tỷ lệ phán xét vật lý cho đồng đội trong phạm vi 195.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを120アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Tăng tấn công vật lý của đồng đội trong phạm vi lên $1 trong 12s.\n►Tăng Tỷ lệ phán xét vật lý của đồng đội trong phạm vi lên 120 trong 12s.\n►Triển khai trường phép hồi phục HP của đồng đội lên $2/giây trong 12s.
+
+##EX##
+ビート･ザ･マウス=Đánh bại Chuột
+ビート･ザ･マウス+=Đánh bại Chuột+
+
+##UE##
+ドーマウス=Chuột Ngủ
+
+##S1+##
+一子之夢+=Giấc mơ của đứa con một+
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＴＰを小回復させる。【フィールド展開中】スキルの効果量がアップし、自分を中心とした範囲内の味方すべてのＴＰ上昇を小アップさせる。=Tăng mạnh tấn công vật lý cho đồng đội trong phạm vi 195, tăng nhẹ sát thương phán xét vật lý của họ, và hồi phục nhẹ TP của họ. Nếu trường đã được kích hoạt, tăng gấp đôi hiệu quả mọi kỹ năng và tăng nhẹ Tăng TP của đồng đội trong phạm vi 195.
+r:"^範囲内の味方のＴＰを60回復展開中、範囲内の味方のＴＰを120回復展開中、範囲内の味方のＴＰ上昇を8アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカル時のダメージを5％アップ展開中、範囲内の味方の物理攻撃力を(\d+)アップ展開中、範囲内の味方の物理クリティカル時のダメージを15％アップ$"=Nếu trường chưa được kích hoạt:\n►Hồi phục TP của đồng đội trong phạm vi lên 60.\n►Tăng tấn công vật lý của đồng đội trong phạm vi lên $1 trong 12s.\n►Tăng sát thương phán xét vật lý của đồng đội trong phạm vi lên 5% trong 12s.\nNếu trường đã được kích hoạt:\n►Hồi phục TP của đồng đội trong phạm vi lên 120.\n►Tăng Tăng TP của đồng đội trong phạm vi lên 8 trong 12s.\n►Tăng tấn công vật lý của đồng đội trong phạm vi lên $2 trong 12s.\n►Tăng sát thương phán xét vật lý của đồng đội trong phạm vi lên 15% trong 12s.
+
+##Comments##
+やぁ！　これからどこか楽しい場所に\n案内してくれるかい？\nまだ知り合いが少ないから、きみだけが頼りなんだ！=Này! Cậu dẫn tôi đến chỗ vui được không?\nTôi chưa quen nhiều người,\nnên chỉ có thể dựa vào cậu thôi!
+きみの人望の厚さには本当に驚かされるよ\n何か人に好かれる秘密でもあるのかな？\nまあ、そういうぼくもきみに興味津々なんだけどさ！=Tôi thực sự ngạc nhiên vì cậu lại nổi tiếng thế.\nCậu có bí mật gì khiến\n mọi người thích cậu không? Thôi, đúng là bản tôi rồi!
+このあと、どこか遊びにでも行かないかい？\n常に楽しさを忘れないきみの姿勢を\nそばでじっくりと見習わせてほしいんだ！=Sao chúng ta không đi chơi đâu đó sau khi xong việc?\nTôi muốn được cậu cho tôi thấy\n thái độ của cậu, nơi cậu không bao giờ quên vui vẻ!
+文化こそトーゴクとは違うけど、幸せや楽しさを求める\n思いに変わりはないね！　特にきみはどんなことも\n楽しんでいて、実にすばらしいよ！=Văn hóa khác với Togoku,\nnhưng điều đó không thay đổi sự thật rằng\nbạn muốn hạnh phúc và vui vẻ! Đặc biệt là bạn,\nngười tận hưởng mọi thứ! Thật tuyệt vời!
+ランドソルに来てしばらく経ったけど\nようやくここの暮らしにも慣れてきたところさ！\nもちろん、きみのおかげでね！=Đã lâu rồi kể từ khi tôi đến Landosol,\nnhưng tôi cuối cùng cũng đã quen với cuộc sống ở đây!\nTất nhiên, tất cả là nhờ cậu!
+ランドソルの子どもは、みんないい笑顔してるね！\nでも、きみの笑顔が一番輝いてみえるよ！\nこれからもぼくと一緒に笑おう！　せーの、ハハッ！=Tất cả trẻ em ở Landosol đều có nụ cười rạng rỡ!\nNhưng nụ cười của cậu sáng nhất!\nHãy cùng nhau tiếp tục cười từ giờ đi!\nMột, hai, ba!
+どんなにいい街でもトラブルは付き物だけど\nきみはいろんな問題を解決してきたらしいね\n女の子たちがきみを頼る気持ち、すっごく分かるよ！=Dù thành phố có tốt đẹp đến đâu, rắc rối vẫn đến,\nnhưng tôi nghe nói cậu đã giải quyết nhiều vấn đề.\nTôi hiểu tại sao các cô gái lại dựa vào cậu nhiều thế!
+きみの勤労ぶりは、まったくもってかしこみだね！\nぜひトーゴクでも働いてもらいたいくらいだ！\nその気になったら言ってね？　鼠神宮で待ってるよ！=Cậu là người làm việc thực sự chăm chỉ, đúng không?!\nTôi rất muốn cậu làm việc ở Togoku!\nNói với tôi nếu cậu muốn, nhé?\nTôi sẽ chờ cậu ở Đền Chuột!
+きみと繋いだこの縁、大事にしていきたいな\nこの先も一緒に笑っていよう！\nビッキィとの約束だよ！　ハハッ！=Tôi muốn trân trọng mối liên kết giữa chúng ta.\nHãy cùng nhau tiếp tục cười từ giờ đi!\nĐó là lời hứa với Vicky! Haha!
+
+そう思えるのは、ひとえにこの街の人たち…\nそしてきみのおかげだよ！\nあの日、きみに声をかけた自分を褒めてあげたいね！=Tất cả là nhờ mọi người trong thành phố này...\nvà cậu mà tôi cảm thấy như vậy!\nTôi muốn tự khen mình vì đã gọi cậu vào ngày hôm đó!
+トーゴクを離れて遠い異国の地まで行くのには\nちょっとは不安もあったよ。でも、今はランドソルが\nもう一つの故郷のような気さえしてるんだ！=Tôi hơi lo lắng khi rời Togoku\nvà đi đến vùng đất xa xôi,\nnhưng giờ tôi cảm thấy Landosol như ngôi nhà thứ hai của mình!

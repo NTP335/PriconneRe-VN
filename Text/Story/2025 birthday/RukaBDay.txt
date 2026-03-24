@@ -1,0 +1,16 @@
+Ruka Tachiarai Birthday
+
+なぁお前さん、無理しなくていいんだよ？\nアタシの誕生日だからってさ。=Này, {playername}... cậu không cần ép bản thân đâu, biết chứ? Chỉ vì hôm nay là sinh nhật của em.
+その心意気はうれしいけどさ、\nだからって、プレゼントを選ぶために\nここまでいろんな店を梯子しなくたって……簡単なものでもいいんだよ？=Em thực sự cảm kích, nhưng... cậu không cần phải kéo em đi qua tất cả các cửa hàng chỉ để tìm món quà cho em. Một món đơn giản thôi cũng đủ rồi.
+……やれやれ、こうなった時のお前さんは頑固だね。\n分かったよ、アタシも真剣に考えよう。=...Thôi chết, cậu kiên quyết quá với những chuyện như thế này. Được rồi, em sẽ suy nghĩ nghiêm túc.
+気を遣って安いものを選んでも、納得しちゃあくれないね。\nだったらアタシもこの子に甘えてみるとするかね。=Ngay cả khi em dễ dàng chọn món rẻ tiền, anh ấy cũng sẽ không để yên. Chắc em phải dựa vào anh ấy một chút thôi.
+そうだねぇ……服とか？\nいや、福袋の時のことを考えると、\nお前さんのセンスは少しトンチキなところがあったね。=Để xem... Có lẽ một bộ quần áo mới? Không, khi nghĩ về chuyện đã xảy ra trong Fukubukuro, em biết rằng gu thẩm mỹ của cậu hơi lệch.
+だったらアクセサリーとかかい……？\nうーん、アタシはあんまりそういうのはねぇ……=Có lẽ một món phụ kiện nào đó...? Hừm, em không thực sự mặn mà với thứ đó...
+はぁっ！？\nお、お前さん……本気かい！？=Hả?! {playername}?! C-Cậu nghiêm túc...?!
+いや、深い意味なんてないんだろうけど……\nちょっと慌てちまったじゃないか。\n心臓に悪い男だよお前さんは。=Em biết cậu không có ý gì, nhưng... vẫn! Cậu thực sự làm em giật mình. Cậu xấu cho tim em đấy, biết không?
+……指輪、かぁ。=...Một chiếc nhẫn, hả?
+な、なんだいその顔は！　ゆ、指輪はまだなしだよ！\nほらっ、次行くよ次！　もう遠慮はなしだ！\nお前さんの財布を空っぽにしてやるから覚悟しとくんだね！=T-Tại sao cậu nhìn như thế?! Em chưa nói muốn có nhẫn mà! Thôi nào, cửa hàng tiếp theo! Không giữ lại nữa... chuẩn bị đi, em sẽ rút cạn ví của cậu!
+
+Player Prompts
+誕生日を祝いたいから。=Nhưng em thực sự muốn chúc mừng sinh nhật của cậu.
+指輪とか。=Có lẽ... một chiếc nhẫn.

@@ -1,0 +1,29 @@
+---medal gacha settings---
+回=×
+スキップする=Bỏ qua
+スキップしない=Không Bỏ Qua
+交換設定=Số Lần Rút
+全て引く=Rút Tất Cả
+回交換=Rút
+まとめて交換設定=Cài Đặt Rút Tất Cả Cùng Lúc
+6回目以降のラインナップで、所持討伐証をまとめて交換する設定です。=Đây là cài đặt sẽ Rút Tất Cả Cùng Lúc sau khi có 6 người trong đội.
+まとめて交換しない=Không Rút Tất Cả Cùng Lúc
+まとめて交換する=Rút Tất Cả Cùng Lúc
+
+討伐証交換の回数の設定です。=Chọn số lần Rút Huy Chương Chiến Thắng thực hiện cùng lúc.
+交換演出設定=Cài Đặt Cảnh Gacha
+討伐証交換の演出スキップの設定です。=Cài đặt để bỏ qua cảnh phim cho Gacha Huy Chương Chiến Thắng.
+スキップ設定をONにした場合リセット対象の報酬を獲得時以外、演出は再生されません。=Khi đặt Bỏ Qua thành ON, cảnh Gacha chỉ sẽ được hiển thị\nkhi rút vật phẩm reset đội hình.
+
+まとめて交換確認ダイアログを表示するか設定します。=Hiển thị hộp thoại sau khi rút.
+まとめて交換時の確認ダイアログ表示=Hiển thị hộp thoại sau khi rút
+
+50回以上交換の場合スキップ設定をOFFにしていても演出は再生されません。=Cảnh phim sẽ không chạy sau 50 lần thử ngay cả khi Bỏ Qua được đặt là OFF.
+
+イベント報酬券を集めて、豪華報酬をGET!=Thu Thập Vé Phần Thưởng Sự Kiện và Nhận Phần Thưởng Sang Trọng!
+報酬交換の演出スキップの設定です。=Cài đặt này bỏ qua cảnh hoạt hình trao đổi phần thưởng.
+すべて\nスキップする=Bỏ Qua Tất Cả
+リセットアイテム\n以外スキップする=Bỏ Qua Trừ\nPhần Thưởng Chính
+報酬交換の回数の設定です。「まとめて交換」選択時は、所持している報酬券すべてを消費して交換を行います。=Đặt số lần trao đổi phần thưởng. "Tất Cả Cùng Lúc" sẽ tiêu hao tất cả vé bạn đang có.
+交換設定を「100回」「まとめて交換」にした場合、演出設定にかかわらず一部の演出が再生されなくなります。=Khi đặt thành "100x" hoặc "Tất Cả Cùng Lúc", một số cảnh phim sẽ bị vô hiệu hóa bất kể cài đặt hiệu ứng.
+---Item line up list---

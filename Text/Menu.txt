@@ -1,0 +1,13 @@
+アイテム=Vật phẩm
+設定=Cài đặt
+タイトルへ戻る=Quay về Tiêu đề
+SDカード保存設定=Chuyển dữ liệu sang SD
+称号=Tiêu đề
+実績=Hiệu năng
+コード入力=Nhập mã
+アカウント連携=Liên kết mạng xã hội
+４コマまんが=Truyện tranh 4-koma
+サポート=Hỗ trợ
+フレンド=Bạn bè
+アルバム=Album
+ジュエル\nショップ=Cửa hàng trang sức

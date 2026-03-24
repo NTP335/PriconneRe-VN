@@ -1,0 +1,12 @@
+ダウンロード設定=Cài đặt Tải xuống
+データのダウンロードの設定を行います。\n※ゲーム開始後でも変更することができます。=Đặt việc tải xuống dữ liệu.\n※Bạn có thể thay đổi ngay cả sau khi game bắt đầu.
+■ムービー画質設定=■Cài đặt Chất lượng Phim
+フルアニメーションによる演出をお楽しみいただけます。=Chất lượng hình ảnh của Anime trong Game.
+r:"^高画質版（約([0-9.]+)MB）$"=HQ (±$1MB)
+r:"^標準版（約([0-9.]+)MB）$"=Tiêu chuẩn (±$1MB)
+推奨=Khuyến\nnghị
+■ボイスデータダウンロード=■Tải xuống Dữ liệu Giọng nói
+フルボイスによるストーリーをお楽しみいただけます。※ON/OFF設定はゲーム開始後、再設定可能です。=Thưởng thức câu chuyện giọng nói đầy đủ. ※Có thể bật/tắt sau.
+r:"^ON（約(\d+)MB）$"=BẬT（±$1MB）
+r:"^約(\d+)MBのデータダウンロードを開始します。$"=Khoảng $1MB dữ liệu sẽ được tải xuống.
+[FF7C4E,D62146]データサイズが大きいため通信環境の良いところでダウンロードを行ってください。[-]=[FF7C4E,D62146]Kích thước tải xuống là đáng kể, nên tải xuống qua Wi-Fi được khuyến nghị.[-]

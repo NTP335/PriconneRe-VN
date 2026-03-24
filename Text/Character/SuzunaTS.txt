@@ -1,0 +1,29 @@
+##Profile##
+【物理】後衛でもにカワ制服を着こなすカリスマモデル。クリティカル時に味方を強化するスキルや、追加ダメージが発生するＵＢによって青春の一ページを切り取る。=[Vật Lý] Một người mẫu thu hút với bộ đồng phục học sinh dù đứng ở vị trí phía sau. Cô ghi lại khoảnh khắc tuổi trẻ với kỹ năng tăng cường đồng đội khi đánh chí mạng và UB gây thêm sát thương.
+
+##UB##
+アオハルストリーミング=Streamer Tuổi Trẻ
+目の前の敵１キャラに物理特大ダメージを与える。さらに、自分の周囲の味方すべての物理攻撃力を大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。このスキルがクリティカルした場合、追加の物理大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch phía trước, tăng sát thương vật lý cho đồng đội trong phạm vi rất lớn và tăng sát thương chí mạng vật lý một chút. Nếu kỹ năng này đánh chí mạng, gây thêm sát thương vật lý lớn lên một kẻ địch.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを10％アップ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Tăng sát thương vật lý của đồng đội trong phạm vi 150 lên $1 trong 18s.\n►Tăng sát thương chí mạng vật lý của đồng đội trong phạm vi 150 lên 10% trong 18s.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Nếu đánh chí mạng, gây $3 sát thương vật lý lên kẻ địch.
+
+##S1##
+ユースフルショット=Đòn Bắn Tuổi Trẻ
+目の前の敵１キャラに物理中ダメージを与え、自分のＴＰを中回復する。このスキルがクリティカルした場合、自分の周囲の味方すべての物理攻撃力を大アップ、物理クリティカルを中アップさせる。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước và hồi TP cho bản thân một chút. Nếu đánh chí mạng, tăng sát thương vật lý của đồng đội trong phạm vi rất lớn và tăng tỷ lệ chí mạng của họ một chút.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを45アップ自分のＴＰを200回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Hồi TP cho bản thân 200.\n\nNếu đánh chí mạng:\n►Tăng sát thương vật lý của đồng đội trong phạm vi 150 lên $2 trong 180s.\n►Tăng tỷ lệ chí mạng vật lý của đồng đội trong phạm vi 150 lên 45 trong 180s.
+
+##S2##
+もにカワユニフォーム♪=Đồng Phục Dễ Thương♪
+自分の物理攻撃力と物理クリティカルを中アップさせ、ＴＰ上昇を小アップさせる。さらに自分のＴＰを小回復する。=Tăng sát thương vật lý và tỷ lệ chí mạng vật lý của bản thân một chút, tăng Khả Năng Hồi TP một chút và hồi TP cho bản thân một chút.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを60アップ自分のＴＰ上昇を10アップ自分のＴＰを80回復$"=►Tăng sát thương vật lý của bản thân lên $1 trong 180s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên 60 trong 180s.\n►Tăng Khả Năng Hồi TP của bản thân lên 10 trong 18s.\n►Hồi TP cho bản thân 80.
+
+##EX##
+アオハルアブロード=Tuổi Trẻ Xa Quê
+アオハルアブロード+=Tuổi Trẻ Xa Quê+
+
+##S1+##
+ユースフルショット+=Đòn Bắn Tuổi Trẻ+
+目の前の敵１キャラに物理大ダメージを与え、自分のＴＰを中回復する。このスキルがクリティカルした場合、自分の周囲の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước và hồi TP cho bản thân một chút. Nếu đánh chí mạng, tăng sát thương vật lý của đồng đội trong phạm vi rất lớn và tăng tỷ lệ chí mạng của họ một chút.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを90アップ自分のＴＰを200回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Hồi TP cho bản thân 200.\n\nNếu đánh chí mạng:\n►Tăng sát thương vật lý của đồng đội trong phạm vi 150 lên $2 trong 180s.\n►Tăng tỷ lệ chí mạng vật lý của đồng đội trong phạm vi 150 lên 90 trong 180s.
+
+##UE##
+アオハルスクールバッグ=Cặp Sách Học Đường Tuổi Trẻ

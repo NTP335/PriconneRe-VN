@@ -1,0 +1,40 @@
+
+説明=Mô tả
+セットする=Bộ
+アイテム交換=Trao Đổi Vật Phẩm
+アイテムを集めてキャラを解放=Thu thập vật phẩm để mở khóa nhân vật.
+
+セットするマナの量を指定してください。=Chỉ định lượng Mana.
+r:"^最小単位は([0-9.]+)です。$"=Đơn vị tối thiểu là $1.
+
+必要アイテム=Vật Phẩm Cần Thiết
+
+メモリーピース(選択可)=Mảnh Ký Ức (Đã Chọn)
+交換必要数=Để Mở Khóa
+
+所持している、才能開花が★5以上のすべてのキャラの\nメモリーピースから使用数を指定してセットできます。\n女神の秘石を代わりにのメモリーピース個使用してセットできます。=Chỉ có thể chọn Mảnh Ký Ức của nhân vật đã là 5 sao trở lên hoặc sử dụng Phù Thủy Thiêng.
+所持している、才能開花が★5以上のすべてのキャラのメモリーピースから使用数を指定してセットできます。女神の秘石を代わりに5個使用してセットできます。=Chỉ có thể chọn Mảnh Ký Ức của nhân vật đã là 5 sao trở lên. Ngoài ra, bạn có thể sử dụng Phù Thủy Thiêng.
+
+セットしていないアイテムがあるため、解放できません。=Không thể mở khóa vì có vật phẩm chưa được đặt.
+最小単位は10,000で、一度に最大1億までセットできます。=Có thể đặt từ 10,000 đến 100,000,000 mỗi lần.
+
+アイテム交換確認=Xác Nhận Trao Đổi Vật Phẩm
+
+キャラの才能開花が★5以上で選択できます。=Chỉ có thể chọn Mảnh Ký Ức của nhân vật đã là 5 sao
+使用アイテム選択=Chọn vật phẩm để đặt
+限定キャラのメモリーピースが含まれています。=Mảnh Ký Ức này đến từ một Nhân vật Hạn Chế.
+このアイテムはこれ以上セットできません=Vật phẩm này không thể đặt thêm
+アイテム1個あたりの女神の秘石必要数は5です。=5 Đai Lễ Cần Thiết mới bằng 1 Mảnh Ký Ức.
+セットしたアイテムは元に戻せません。=Vật phẩm không thể khôi phục sau khi đã đặt.
+このアイテムはこれ以上セットできません。=Vật phẩm này không thể đặt thêm.
+合計消費数=Tổng số tiêu hao
+
+sr:"^セットする([べ-ヺー＆＝]+) ?(（.+）)?のメモリーピースの\n数を変更しますか？$"=Đặt Mảnh Ký Ức của $1$2?
+sr:"^([べ-・ー＆]{2,16})(（.+）)?解放 $"=$1$2 Đã Mở Khóa
+交換数確認=Xác Nhận Số Lượng
+
+このキャラのアイテム交換にはカリンの解放が必要です。=Để đổi vật phẩm lấy nhân vật này, Karin phải được mở khóa.
+以下のアイテムを消費してセットしました。=Các vật phẩm sau đã được tiêu hao và đặt.
+アイテム交換完了=Hoàn Thành Trao Đổi Vật Phẩm
+
+いろいろなキャラのメモリーピースとマナを使用して解放できる特別なキャラ「エクストラキャラ」が登場いたしました。新たな仲間との出会いを目指して、アイテムを探しに行きましょう。=Các nhân vật đặc biệt được gọi là "Nhân Vật Đặc Biệt" giờ đây có thể được mở khóa bằng Mana và Mảnh Ký Ức của các nhân vật khác. Hãy tìm kiếm những vật phẩm này để chiêu mộ đồng minh mới.

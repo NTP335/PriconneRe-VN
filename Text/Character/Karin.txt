@@ -1,0 +1,33 @@
+##Profile##
+【魔法】後衛で皆を支える、ギルド管理協会の職員さん。通常攻撃の代わりに味方の能力を高める魔法を掛け、味方の守護や敵への妨害など、完璧なサポートをこなす。=[Magic] Một nhân viên của Hiệp hội Quản lý Guild, hỗ trợ mọi người từ hậu phương. Thay vì tấn công thường, cô ấy dùng phép thuật để tăng cường khả năng của đồng minh và cung cấp hỗ trợ hoàn hảo như bảo vệ đồng minh và can thiệp vào kẻ địch.
+
+書類仕事、散歩、ボードゲーム=Công việc tài liệu, đi bộ, trò chơi bảng
+
+事件調査もお仕事です=Điều tra sự việc cũng là một công việc.
+新人サポートもお仕事です=Hỗ trợ nhân viên mới cũng là một công việc.
+犯人逮捕もお仕事です=Một công việc để bắt tội phạm.
+人材発見がお仕事です=Một công việc để tìm kiếm nhân tài
+【ギルド管理協会】職員の親切なお姉さん=Quý cô tử tế của nhân viên Hiệp hội Quản lý Guild
+
+##UB##
+コールオブギルド=Call of Guild
+味方全体のクリティカル時のダメージを小アップさせ、敵全体のクリティカル時のダメージを中ダウンさせる。さらに、味方全体に物理/魔法無効バリアを展開する。=Tăng nhẹ P/M.CRIT DMG của tất cả đồng minh, và giảm vừa phải P/M.CRIT DMG của tất cả kẻ địch. Ngoài ra, triển khai Barrier trên tất cả đồng minh, phép thuật này phản chọi sát thương vật lý/phép thuật.
+r:"^味方全体のクリティカル時のダメージを10%アップ敵全体のクリティカル時のダメージを25%ダウン(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tăng P/M.CRIT DMG của tất cả đồng minh thêm 10% trong 18 giây.\n►Giảm P/M.CRIT DMG của tất cả kẻ địch thêm 25% trong 18 giây.\n►Triển khai Barrier trên tất cả đồng minh, phản chọi $1 sát thương vật lý/phép thuật trong 18 giây.
+
+##S1##
+ギルドオブストレングス=Guild of Strength
+味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに力の魔字を刻む。力の魔字が刻まれている間、味方の行動速度を大アップさせる。（このスキルの効果は他の行動速度変化スキルと重複する）=Tăng mạnh P/M.ATK của tất cả đồng minh, và khắc phép thuật sức mạnh. Khi phép thuật sức mạnh được khắc, tăng tốc độ hành động của tất cả đồng minh thêm 50% (có thể chồng lấn).
+
+##S2##
+ギルドオブデトネーション=Guild of Detonation
+敵全体に魔法中ダメージを与え、さらに大きく吹き飛ばす。=Gây sát thương phép thuật vừa phải cho tất cả kẻ địch và thổi bay chúng.
+
+##SP1##
+エグゼクティブサポート=Executive Support
+このスキルのスキルレベルは「コールオブギ\nルド」と連動しています=Cấp độ kỹ năng này liên kết với "Call of Guild"
+味方全体の物理攻撃力と魔法攻撃力と物理防御力と魔法防御力を中アップさせる。=Tăng vừa phải P.ATK, M.ATK, P.DEF và M.DEF của tất cả đồng minh.
+味方全体の物理攻撃力を初期値の20%アップ\n味方全体の魔法攻撃力を初期値の20%アップ\n味方全体の物理防御力を初期値の20%アップ\n味方全体の魔法防御力を初期値の20%アップ=Thời gian niệm chú: 1.75 giây\n►Tăng P.ATK của tất cả đồng minh thêm 20% trong 12 giây.\n►Tăng M.ATK của tất cả đồng minh thêm 20% trong 12 giây.\n►Tăng P.DEF của tất cả đồng minh thêm 20% trong 12 giây.\n►Tăng M.DEF của tất cả đồng minh thêm 20% trong 12 giây.
+
+##EX##
+ペンオブハーモニー=Pen of Harmony
+ペンオブハーモニー+=Pen of Harmony+

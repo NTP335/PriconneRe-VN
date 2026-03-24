@@ -1,0 +1,21 @@
+Kasuri Yuuno ( Grace ) Birthday
+
+ぱかぱかっと……あ、当たり。\nスナックもう一個ゲットです。\nやったぜ。=*Pop, pop, pop*... Ồ, một chiến thắng nữa. Có vẻ như một món ăn nhẹ nữa là của em rồi. Yay.
+{playername}氏。\n私、どうやら死んだことで目覚めたようです。\n駄菓子の当たりを見分ける能力に──=Master {playername}. Có vẻ như cái chết đã đánh thức một sức mạnh mới trong em... Khả năng phát hiện vé ăn thưởng kẹo ngọt.
+というのはさすがに冗談ですが。\nまぁ、バースデーラックというやつでしょう。\n透明になって覗いたりはしていませんよ。野暮なので。=Đó chỉ là một trò đùa đơn giản, tất nhiên rồi. Ừm, em đoán đó là điều họ gọi là "may mắn sinh nhật". Rõ ràng, em không hóa thành vô hình để nhìn vào bên trong. Điều đó sẽ bất lịch sự.
+にしても。\n今日の主役を駄菓子屋に連れていくとは\n随分変わったセンスを持ってますね、{playername}氏。=Vẫn vậy. Đưa cô gái sinh nhật hôm nay đến một cửa hàng kẹo... Master {playername}, cậu có vị giác khá lạ đấy.
+私、一応これでもオトナのお姉さんですよ。\nいやまぁめっちゃエンジョイしてるんで、別にいいんですけど。\nこの糸引きアメとか懐かしいですし。=Dù sao em vẫn là một quý cà trưởng thành. Nhưng em đang rất vui, nên không sao. Những chiếc kẹo kéo dây này gợi nhớ quá khứ.
+……なるほど。\nつまり{playername}氏は、記憶喪失のかすりちゃんを想って\nあえてこのロケーションをセッティングしたと？=...À, em hiểu rồi. Nói cách khác, Master {playername} tốt bụng đã chọn nơi này vì nghĩ đến Kasuri-chan tội nghiệp ở đây, người đã mất ký ức?
+{playername}氏。\nそれは──\nナイス判断です。=Master {playername}, ý tưởng đó... thật tuyệt vời.
+昔のこと、まだ思い出せませんが。\nよく知っているものに出会えて、\n正直ほっとしたのは否定できません。=Em vẫn không thể nhớ quá khứ của mình, nhưng em không thể phủ nhận rằng được gặp thứ gì đó quen thuộc như vậy thật sự an ủi.
+こんな変化球のプレゼントがあるなんて、\nやはり貴方は相当なスケコマシのようですね。\nああ、私もパクっといかれてしまいそう。=Một món quà bất ngờ như thế này... cậu thực sự phải là một tay sát gái chuyên nghiệp. Ái chà...! Em cũng sẽ bị cậu ăn mất thôi!
+なんて正論。\n……まあ、冗談はこの辺りにしましょう。\nせっかくのプレゼントですから。=Thật là một lập luận rất hợp lý. ...Vậy thì, hãy dừng việc đùa giỡn lại. Đây rốt cuộc cũng là một món quà rất quan trọng từ cậu mà.
+ありがとうございます。\nまさか、死んだ後も祝われる日が来るとは思いませんでしたが──=Cảm ơn rất nhiều. Em chưa bao giờ nghĩ rằng sẽ có một ngày em được chúc mừng ngay cả sau khi em đã chết...
+ちょうどここに、さっき当てたアメが二つあるので。\n二人で分けつつ、子どもみたいに駄弁るとしましょう。\nはい、あーん。=Ngẫu nhiên, ngay ở đây có hai chiếc kẹo em đã thắng trước đó. Chúng ta chia chúng và trò chuyện như một cặp trẻ con nhé. Nào, nói aaaaa...
+
+Player Prompts
+また当たった！？=Cậu thắng nữa rồi hả?!
+こういうお店なら記憶にあるかなって……=Em nghĩ một nơi như thế này có thể giúp gợi nhớ ký ức của cậu...
+何か思い出す切っ掛けになればと思って。=Em hy vọng tặng cậu thứ gì đó giúp cậu nhớ lại
+幽霊を食べるのはちょっと……=Ăn một con ma hơi khó...
+改めて、誕生日おめでとう、かすりさん。=Một lần nữa. Chúc mừng sinh nhật, Kasuri-san.

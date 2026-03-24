@@ -1,0 +1,128 @@
+あつまれイイコトクラブ！　\nミソラの愉快な夏休み=Tập Hợp Cùng Nhau! Câu lạc bộ Việc Tốt! Kỳ nghỉ hè vui tươi của Misora!
+あつまれイイコトクラブ！　ミソラの愉快な夏休み=Tập Hợp Cùng Nhau! Câu lạc bộ Việc Tốt! Kỳ nghỉ hè vui tươi của Misora!
+
+結成、イイコトクラブ！=Tập hợp... Câu lạc bộ Việc Tốt!
+ミソラが発足した謎の活動『イイコトクラブ』に入部させられる{playername}。居合わせたリリはイイコトクラブを怪しむが、良い行いで人々を笑顔にする活動だと理解すると、彼女も入部するのだった。={playername} bị ép tham gia một câu lạc bộ bí ẩn do Misora sáng lập: "Câu lạc bộ Việc Tốt". Riri, vô tình ở đó, ban đầu thấy câu lạc bộ Việc Tốt đáng ngờ. Nhưng cô ấy cũng tham gia khi nhận ra đây là câu lạc bộ để làm việc thiện mang lại niềm vui cho người khác.
+
+ある夏の日。\n{playername}が目を覚ますと、\nそこには──=Một ngày hè, {playername} thức dậy và thấy...
+騎士さーん？\n日焼け止め、早く塗ってくださいよ～=Kishi-san?\nNhanh lên, thoa kem chống nắng cho mình~!
+ビーチに寝転ぶ、水着姿のミソラがいた。=...Misora trong bộ đồ tắm, nằm dài trên bãi biển.
+
+choice
+ミソラちゃん……？　ここは……？=Misora-chan...? Mình đang ở đâu...?
+もしかして、覚えてないんですか？\nんもぅ、ヒドイですよー★\n……なーんて♡=Đừng bảo là... cậu không nhớ ra chứ?\nThôi đi, cậu tệ thật đấy★\n...Đùa thôi♡
+……水着、似合ってるね。=...Cậu mặc bộ đồ tắm này trông đẹp đấy.
+あはっ、ありがとうございます★\n状況確認よりも、まずは水着にヒトコト！\nさっすが騎士さん、オンナノコ慣れしちゃってますねー♪=Ahaha, cảm ơn cậu nhé★\nThay vì lo cho an toàn của cậu, lại khen bộ đồ tắm của mình♪\nKishi-san đúng là người đào hoa~
+
+実は、寝ていた騎士さんを\nテレポーテーションでラチっちゃいました♪\nサプライズ、好きでしたよね？=Thực ra, mình đã dịch chuyển cậu đi trong lúc cậu đang ngủ, Kishi-san♪\nCậu có thích bất ngờ này không?
+
+choices
+サプライズは好き。=Mình thích bất ngờ đó.
+ですよねー♪\nわたしも驚いたカオに、「キュン★」でした。=Đúng không?♪\nNhìn khuôn mặt ngủ của cậu khiến mình cũng thấy「Kyun★」.
+サプライズは好きじゃない。=Mình không thích bất ngờ đó.
+えぇー\n寝起きラチって、「キュン★」しませんか？\nどんな一日になるか、ドキドキしますよね？=Ehhhh?\nCậu có thấy「Kyun★」khi tỉnh dậy không?\nTrong khi còn băn khoăn không biết hôm nay sẽ thế nào chứ?
+
+てゆーか？\n今日はですね、お願いがあってラチったんです。\n夏休みといえば、海！　それに部活！　ですよね★=Quan trọng hơn, mình bắt cóc cậu vì cần cậu giúp đỡ vài việc.\nKỳ nghỉ hè thì phải ra biển! Và còn câu lạc bộ nữa!\nPhải không?★
+なので、騎士さん♪\nこの夏、『イイコトクラブ』で、わたしと一緒にイイコトしませんか？=Chính vì vậy... Kishi-san♪:\nMùa hè năm nay, chúng ta cùng nhau làm những điều tốt trong "Câu lạc bộ Làm Điều Tốt" nhé?
+
+イイコトクラブ……？=Câu lạc bộ Làm Điều Tốt...?
+はい★\nラブへの道を一歩進む部活です♡\n一緒にイイコトして、「キュン★」しちゃいましょ？=Đúng rồi★\nĐó là câu lạc bộ được tạo ra để chúng ta tiến gần hơn một bước đến tình yêu♡\nCùng làm thật nhiều điều tốt cho đến khi cảm thấy「Kyun★」, được chứ?
+あ、もちろん一歩じゃなくて\n二歩下がっても、100歩すっ飛んでもいいですよ♪\nひと夏の恋って言葉もありますし？=À, và không nhất thiết phải chỉ một bước.\nChúng ta có thể tiến hai, thậm chí một trăm bước cũng được♪\nCó câu nói về tình yêu trong mùa hè, phải không?
+それじゃ騎士さん、早速イイコトしちゃいましょう。\n日焼け止めを、わたしの体に塗ってください♡\n全身くまなく、ぬーりぬりって──……=Với tất cả những điều đó, Kishi-san... Hãy bắt đầu làm một vài điều tốt đi.\nHãy thoa kem chống nắng cho mình♡\nNhớ thoa đầy đủ khắp người mình nha──
+お待ちください……！=Xin hãy đợi một chút...!
+あれっ？\nこの声……=Ồ?\nGiọng nói đó...
+兄様、ミソラ様……！\nぬりぬりとは、いったい何なのですか……！？=Onii-sama, thưa Misora...!\nÝ ngài là gì khi nói "thoa đầy đủ khắp người"...!?
+Rっ……リリちゃんじゃないですか～\nなにって、もちろんイ・イ・コ・トですよ♪=Ồ, là cậu sao, R-... Riri-chan~?\nRõ ràng là chúng ta đang làm "điều tốt" mà♪
+イイコトっ……？\n兄様と……！？\nそんな……いえ、信じられません！="Điều tốt"...? Với Onii-sama...?!\nNhững hành động như vậy... Không, con không tin!
+もしやこれは、ミソラ様の悪巧み……陰謀詭計っ？\nならば、わたくしがお止めいたします！=Đây có thể nào là một âm mưu ngụy biện khác của thưa Misora...? Nếu vậy, trách nhiệm ngăn cản thuộc về con!
+
+んもー、リリちゃん。\nワルダクミじゃないって誤解が解けたのはイイですけど、\nぬりぬりは、騎士さんにお願いしてたんですよ？=Thôi đi, Riri-chan. Mình vui vì đã làm rõ hiểu lầm. "Thoa đầy đủ" không phải là mật mã cho một trò xấu xa gì đâu, mình còn hỏi Kishi-san trước rồi, biết chưa?
+……申し訳ありません、ミソラ様。\nですが誤解が解けてもなお、日焼け止めを塗布するのは\nわたくしの方が適任かと……ぬりぬり……=...Con xin lỗi thật sâu sắc, thưa Misora. Nhưng ngay cả khi đã giải quyết được hiểu lầm này, con vẫn cho rằng tốt nhất nên là con thoa kem chống nắng cho Onii-sama... khắp người...
+……？\nええと、何か──=......?\nHừm, có gì đó cảm giác──
+
+どうしてリリちゃんはこのビーチに？=Sao Riri-chan lại đến đây?
+は、はい兄様。\nぬりぬりしながらのご説明、お許しください。=D-Dạ, Onii-sama.\nXin tha thứ cho con vì đã thoa kem trong lúc giải thích.
+実はわたくし、修行の最中で……\n偶然、この海岸を訪れていたのです。=Sự thật là, con đang trong giai đoạn rèn luyện của mình...\nVà vô tình bước qua bãi biển này.
+端末としての……黒い天使の力には、限界があります。\nそこで、わたくしたちは本来の力を伸ばすべきだと、\nリアさんとプレシアさんと改めて話し合ったのです。=Với tư cách một Thiên thần sa ngã... có giới hạn cho quyền năng của con... Con đã thảo luận vấn đề này với Ria-san và Precia-san trước đây, và đi đến kết luận rằng chúng ta nên tập trung vào sức mạnh nội tại.
+なるほどなるほど～\n……そもそも、フォールンなアバターに付与されてたチカラが\n今のアバターでも使えるっていうのがビックリですけど……=Ra là vậy, ra là vậy...\nDù sao thì, mình cũng ngạc nhiên là avatar hiện tại của cậu vẫn có thể sử dụng quyền năng của avatar sa ngã ban đầu...
+でもどーして、ビーチで修行なんです？\nやっぱり砂浜ダッシュとか、タイヤ引きですか？=Nhưng tại sao lại đi rèn luyện trên biển?\nCậu định chạy dọc theo bờ cát, hay kéo lốp xe đạp quanh đây à?
+いえ。修行といえば、『雲水行脚』です。\n独力で各地を巡りながら、自分を見つめなおしていたところ、\nこの浜辺にたどり着いたのです。=Không. Giai đoạn rèn luyện của con giống với unsui angya hơn. Con đã đi du lịch một mình qua nhiều nơi, dành thời gian suy ngẫm. Đó là lúc con vô tình bước qua bãi biển này.
+『カワイイコには、旅をさせよ』ってやつですかね♪\n……んー、ちょっと違います？=Có lẽ người ta nên để các cô gái dễ thương đi du lịch♪\n...Hừm, có lẽ không phải trong trường hợp này?
+
+kskn
+リリちゃんはカワイイよ。=Nhưng Riri-chan thật dễ thương mà.
+か、かわいいだなんて、そんな……\n恐縮です……ぬりぬり……♪=D-Dễ thương...? Con không dễ thương...\nNhưng con cảm ơn lời khen của cậu... khắp người...♪
+あ、ところで、わたくしも一つお伺いしてもよろしいでしょうか。\n結局、『イイコトクラブ』とは、何なのでしょうか？=À, nhân tiện, con xin được hỏi một câu?\nCâu lạc bộ "Làm Điều Tốt" này thực sự bao gồm những gì?
+
+kskn
+僕もまだ、よく分かってない。=Mình cũng chưa hiểu rõ nữa.
+えーっ、ショック～\nわかってるの、わたしだけですか？\nいっそ、実演するのが早いですかねー=Sao cơ? Sốc rồi~\nChỉ có mình hiểu thôi à?\nCó lẽ sẽ dễ hiểu hơn nếu được thấy minh họa~
+んー……\nそれじゃ、次はリリちゃんにイイコトしちゃいましょっか★\n修行のお手伝いです♪=Hừm... Thế thì, làm một vài điều tốt cho Riri lần sau nhé?★\nGiúp Riri với giai đoạn rèn luyện của cô ấy♪
+とゆーわけで。\n今着ている服、脱いでください。=Vậy thì.\nHãy cởi quần áo ra đi.
+え……？\nミ、ミソラ様それは何ですか……！？\nいったい、わたくしに何を……きゃああ！？=Hở...? Th-Thưa Misora, ý ngài là...?!\nNgài đang làm gì... Kyaaah!?
+うんうん。\nビーチにふさわしい格好になりましたねー=Đúng rồi, đúng rồi.\nBây giờ cô ấy đã mặc đúng trang phục cho bãi biển rồi.
+……はぅぅ……\nに、に、兄様の前で、このような格好は……\n恥ずかしさのあまり、爆発してしまいます……！=...Hauu...\nTrước mặt Onii-sama mà mặc thứ này...\nThật là xấu hổ đến mức có thể chết được...!
+申し訳ありませんが、着替えさせてください……！\nこのような格好で、修行ができるとは思えません……！=Con xin lỗi thật sâu sắc, nhưng phải nhờ cô ấy cho con thay lại...!\nCon không tin là mình có thể rèn luyện cho đúng, với bộ dạng như thế này...!
+えー、モッタイなーい。\nすっごい似合ってますよ★\nねー、騎士さん？=Sao cơ? Thế thì quá lãng phí!\nCô ấy mặc trông đẹp lắm～★\nĐúng không, Kishi-san?
+
+
+に、兄様っ……=O-Onii-sama...
+あ、ありがとうございます……\nそうおっしゃっていただけますと、とても光栄……なのですが……\nや、やはり、肌を出すことには……どうしても、抵抗が……=Th-Thật cảm ơn cậu rất nhiều...\nĐó là vinh dự lớn, được nghe từ cậu, nhưng...\nLộ da như thế này... Thật sự là quá mức...
+え～？\nでもでもリリちゃん。\n考えてみてくださいよぅ。=Ehhh～?\nNhưng Riri-chan, hãy nghĩ theo cách này:
+騎士さんも、リリちゃんの水着姿気に入ってるみたいですし。\n修行しながら、騎士さんにアピールできたら……\n一石二鳥って、思いませんか……？★=Ngay cả Kishi-san cũng dường như thích bộ đồ tắm của cô ấy.\nNếu cô ấy có thể thu hút cậu ấy, trong khi vẫn rèn luyện...\nChẳng phải là giết hai con chim một mũi tên sao...?★
+……！\nそっ……それは……、……確かに……=...!\nK-Không... Điều đó... đúng...
+……いえ！\nわたくしの修行は、罪を償う力を得るためのもの……！\nそのような邪な考えなど決してっ……=...Không!\nMục đích rèn luyện của tôi là tích lũy sức mạnh để chuộc tội...!\nLý do không trong sạch như vậy sẽ không bao giờ...
+うーん。\nどうしてもっていうんなら、ムリにとは言わないですけど。\nわたしと騎士さんは水着でオソロイで、らぶらぶーなカンジですし……=Ừm~ Nếu cậu cứ khăng khăng vậy, mình sẽ không ép đâu.\nDù mình và Kishi-san mặc đồ bơi giống nhau, đang yêu đương...
+っ……！？\nら、らぶ……！？=...!? Y-Yêu đương...!?
+それにリリちゃん。\nフォールンの時だって、結構見せちゃってますよね？\n真っ白でスベスベ～な　お・は・だ★=Còn Riri-chan, trước đây cậu đã thể hiện điều đó rất nhiều khi ở chế độ Fallen rồi mà? Làn da mịn màng. của. cậu?★
+はっ……！？\nそ、それは……その……\n否定し難い事実では……ありますが……=Hả...?!\nĐ-Đó là... thì...\nTôi e không thể phủ nhận điều đó... nhưng ngay cả như vậy...
+あ、あの……兄様……=Ơ-Ơ... Anh trai...
+はしたなくは……ありませんでしょうか？\nお見苦しくは、ありませんでしょうか？\nわたくしの、この姿は……=Chẳng phải... hở hang quá sao?\nAnh có thấy em trông không đứng đắn không?\nKhi em mặc như thế này...
+
+kskn
+とっても似合ってるよ。=Trông cậu rất đẹp mà.
+……！\nほ、本当……ですかっ？=...!\n...Th-Thật... sự nghĩ vậy sao?
+あ、でも……\n海水浴ならばともかく。\nこの姿で、修行などは……=À, nhưng dù sao đi nữa...\nBơi biển là một chuyện, nhưng tập luyện trong bộ dạng này vẫn là...
+
+kskn
+いっぱい修行しよう！=Chúng ta hãy tập luyện thật nhiều đi!
+……！！　兄様に、そうおっしゃっていただけるのでしたら\n──意気衝天、勇往邁進。\nこの姿でも、臆することなく修行に励みたいと思います……！=...! Nếu đó là điều anh mong muốn, anh trai──\nThì chúng ta hãy tiến về phía trước với lòng dũng cảm và nhiệt huyết mãnh liệt.\nNgay cả trong trang phục này, em vẫn muốn tiếp tục tập luyện, không sợ hãi...!
+
+……そ、そして。\nこれは決して、邪な気持ちでも、一石二鳥などでもなく。\n自然な成り行きとして……兄様に……=...Hơn nữa, điều này chắc chắn không phải do bất kỳ động cơ không trong sạch nào, cũng chẳng phải ý định "giết hai chim một đá". Đây đơn thuần là chuyện đương nhiên... đối với anh trai...
+騎士さんに、い～っぱいアピールできちゃいますね★\nリリちゃん♪=Cậu đã thực sự thể hiện tài năng cho Kishi-san xem rồi★\nRiri-chan♪
+～～～っ！！？=...!?
+ふふっ★\nオクテなリリちゃんが夏らしくセッキョクテキになれたので、\nイイコトクラブのチュートリアル活動はミッションクリアです♪=Hehehe★\nBây giờ Riri-chan mềm mại đã học cách mạnh mạn hơn cho mùa hè, tôi công nhận bài học của Câu lạc bộ Làm Điều Tốt đã hoàn thành nhiệm vụ♪
+そっ、そのような……！\nそのような……ことはっ……！=Kh-Không phải...!\nKhông phải vậy...!
+じゃあじゃあ、次のミッションはー\n騎士さんにイイコトしちゃいましょう♪=Thôi nào~ Nhiệm vụ tiếp theo:\nHãy làm điều tốt cho Kishi-san♪
+
+kskn
+え、僕？=Khoan, là tôi ư?
+そーれっ★=Đến đây nào★
+ミ、ミソラ様！？\nいったい何を……！？=C-Cô Misora?!\nCô đang làm cái gì vậy...?!
+日焼け止めを、ぬりぬりです♪\n騎士さんにも、イイコトクラブをよーく知ってもらわないと。=Em đang chà kem chống nắng cho anh, khắp người♪\nEm phải đảm bảo rằng ngay cả Kishi-san cũng hiểu Câu lạc bộ Làm Điều Tốt tuyệt vời đến mức nào.
+ぬりぬり……ペタペタ……\n日焼けしちゃうと、痛いですから。ね？=Chà chỗ này... thoa chỗ kia...\nNếu bị cháy nắng, sẽ rất đau, phải không?
+あぁん、出しすぎちゃったみたいです。\nよーく伸ばさなくっちゃ……ぬりぬり。ぬーりぬりぬりっと★\nんふ、どーですかぁ？=À, hình như em lấy hơi nhiều rồi.\nEm sẽ phải thoa đều khắp người anh...\nVì vậy em sẽ chà ở đây, chỗ kia, và khắp nơi★ Hehe, cảm giác sao?
+
+kskn
+ベタベタする……=Em thấy nhớp nhớp...
+ああ、兄様の肌に……！\n日焼け止めが、あんなにも……！=À, anh trai...!\nCó quá nhiều kem chống nắng trên da anh...!
+ミソラ様、わたくしとは比べ物にならない大胆な手さばきです……！\nそ、それに……兄様にぬりぬりなされてもなお、\n泰然自若であられるとは……=Cô Misora táo bạo đến mức không thể tin được, tôi không thể nào so sánh được...!\nChưa kể... cô ấy vẫn bình tĩnh và tự chủ ngay cả sau khi chà đều khắp người anh trai...
+入念に、ぬりぬりしていきますねー\n騎士さんは、大事な部員さんですから★=Em chà rất cẩn thận để thoa đều.\nDù sao thì, Kishi-san cũng là thành viên câu lạc bộ quý giá★
+部員……\nもしかして、わたくしも入部さえすれば、泰然自若となり。\nぬりぬりいたせたりするのでしょうか……？=Một thành viên...\nCó lẽ nếu em gia nhập, em cũng có thể phát triển được trạng thái tâm trí bình tĩnh như vậy?\nThì có lẽ em cũng sẽ có thể chà đều, nữa...?
+いえ、あまりにも無謀な挑戦でございますね……\nわたくしが、兄様にぬりぬりをいたすなど……=Không, sẽ rất liều lĩnh nếu em cố gắng thử việc đó...\nChà đều khắp người anh trai kỹ lưỡng như vậy sẽ là...
+どーしたんですか？　リリちゃん。\nそんなにジーっと見て……★=Sao vậy, Riri-chan?\nCậu đang nhìn chúng tôi rất chăm chú...★
+えっ……あ、その……………………=Hả...? Ờ, ừm...
+……いえ、今のわたくしは、\n少しだけ積極的になってしまった……はず。\nぬりぬりも、成し遂げられるかもしれません……！=...Không, em mạnh mạn hơn người em từng là một chút... Em nghĩ vậy.\nCó lẽ em lúc này thậm chí còn có thể chịu đựng được thử thách chà đều anh trai...!
+あ、あの……！\nわたくしも、イイコトクラブに入部できないでしょうか！？=Ơ-Ơm...! Em cũng có thể gia nhập Câu lạc bộ Làm Điều Tốt được không ạ?!
+日頃お世話になっている兄様のお役に立ちたいのは、もちろんですが。\nミソラ様が本当にイイコトをなさるか、見定めなくてはなりませんし……=Tất nhiên, em muốn giúp đỡ anh trai, người đã chăm sóc em suốt thời gian qua. Nhưng em cũng phải đảm bảo rằng cô Misora thực sự đang làm điều tốt....
+そして願わくば、\nわたくしも冒険者の端くれとして\nイイコトを通じて、人々の暮らしをお守りしたいのです……！=Và em hy vọng rằng một ngày nào đó, em, với tư cách là một nhà thám hiểm khiêm nhường, có thể bảo vệ mạng sống của người khác bằng cách làm điều tốt...!
+……うーん。\nどうしましょっか～=...Hừm.\nBây giờ mình nên xử lý cậu thế nào~
+なーんて★\nイイですよー\nリリちゃんも入部けってーでーす♪=Đùa thôi★\nTất nhiên là được~\nBây giờ Riri-chan cũng đã gia nhập rồi♪
+ありがとうございます……！\n新入部員として、一心不乱に尽力いたします。=Cảm ơn rất nhiều...!\nVới tư cách thành viên mới, em sẽ dâng trọn tâm huyết cho nhiệm vụ đang cần.
+……そ、その。\nそれであの……僭越ながら……\n早速わたくしも、ぬりぬりのお手伝いをできればと……=...Ơ-Ơm, em hiểu rằng là em quá xấc xược khi nói thế...\nNhưng em hy vọng là... em có thể giúp chà ngay từ đầu...
+リリちゃんてば、すっかりセッキョクテキになれちゃってますね～\nじゃ、腰の方お願いできますか？\n思う存分、騎士さんをぬりぬりしちゃってください★=Riri-chan thực sự đã trở nên mạnh mạn rồi~\nVậy cậu có thể quản lý vùng quanh hông anh ấy không? Cứ tự nhiên chà Kishi-san thỏa thích★
+は、はい……！\nでは、兄様。失礼いたします……！=V-Vâng...!\nVậy, anh trai. Xin phép em...
+ぬ、ぬり……ぬり……\n……！？=C-Chà... chà...\n...!?
+こ、これが兄様の……お肌……！\nミソラ様とは、また違う感触でございます……\n何故だか、体がポカポカしてまいりました……！=S-Sao da anh trai lại khác hoàn toàn với da của cô Misora thế này...!\nVì lý do nào đó, cơ thể em bắt đầu nóng lên...!
+ふふっ。\nそれじゃあ、これでイイコトクラブ本格始動ですね♪\nこのビーチで、イイコトしていきますよー★=Hehe.\nVới thế này, Câu lạc bộ Làm Điều Tốt đã chính thức hoạt động đầy đủ♪\nHãy làm đủ loại điều tốt trên bãi biển này★
+こうして、半ば強引に結成されたイイコトクラブ。\n全身真っ白になった{playername}と共に、\nクラブ活動の第一歩を踏み出すのであった。=Và thế là, Câu lạc bộ Làm Điều Tốt được thành lập một cách hơi ép buộc. Cùng với {playername}, người có cả người đã trắng toát, tất cả họ bước bước đầu tiên trên con đường hoạt động câu lạc bộ của mình.

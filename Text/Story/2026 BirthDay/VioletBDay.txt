@@ -1,0 +1,19 @@
+Violet's Birthday
+
+『あの、騎士様？\n先ほどから、「れいぞうこ」の前で何をしていらっしゃるのですか？』=『Kìa, Hiệp sĩ ngài? \nTừ nãy đến giờ ngài cứ đứng trước cái "tủ lạnh" làm gì thế ạ?』
+お夕飯の準備……ではなさそうですし。\n「りびんぐ」で待っていて、とのことですが……\nやはり、お手伝いをしたほうが良いのでは……？=Có vẻ như... không phải là chuẩn bị cho bữa tối. Ngài bảo em cứ đợi ở "phòng khách", nhưng mà... có lẽ em vẫn nên giúp một tay thì hơn...?
+『まぁ……！\nこの「けーき」を、わたくしのために……？\nありがとうございます、騎士様！』=『Ôi...! \nChiếc "bánh kem" này là dành cho em sao...? \nEm cảm ơn ngài rất nhiều, Hiệp sĩ ngài!』
+『行き場のないわたくしに居場所をくださっただけでなく、\nこのようなお祝いまでしていただけるなんて。\nなんとお礼を言ったら良いのかわかりません……！』=『Không chỉ cho một kẻ không nơi nương tựa như em có một chốn trở về, mà ngài còn tổ chức cả một buổi kỷ niệm như thế này nữa. \nEm thực sự không biết phải nói lời cảm ơn sao cho đủ...!』
+『お恥ずかしながら、「誕生日」すらもすっかり忘れておりました。\n「あちらのわたくし」の目覚めた日ですが、「こちらのわたくし」の\n誕生日もわからないままで、祝っていただくなんて……』=『Thật hổ thẹn quá, ngay cả "sinh nhật" mà em cũng quên bẵng đi mất. \nTuy đây là ngày mà "em ở phía bên kia" thức tỉnh, nhưng ngay cả sinh nhật của "em ở bên này" em còn chẳng rõ, vậy mà lại được ngài chúc mừng như thế này...』
+『お気遣いいただき、本当にありがとうございます。\nですが……その、よかったら騎士様も一緒に\nこの「けーき」を召し上がりませんか？』=Em vô cùng cảm kích trước sự quan tâm của ngài. \nNhưng mà... ừm, nếu được thì Hiệp sĩ ngài có muốn cùng thưởng thức chiếc "bánh kem" này với em không ạ?』
+『誕生日とは、この世に生を受けたというだけでなく、\n一年を無事に過ごせたことを祝う日だと、伺いました』=『Em nghe nói rằng sinh nhật không chỉ là ngày kỷ niệm mình được sinh ra đời, mà còn là ngày để chúc mừng vì đã trải qua một năm bình an vô sự nữa.』
+『わたくしがこうして見知らぬ地で無事に過ごせているのは\n騎士様が助けてくださったからこそ。\nこれはわたくしからの、感謝の気持ちのほんの一部ですわ』=『Sở dĩ em có thể sống bình yên ở nơi đất khách quê người này chính là nhờ sự giúp đỡ của Hiệp sĩ ngài. \nĐây chỉ là một phần nhỏ tấm lòng thành mà em muốn gửi tới ngài thôi ạ.』
+それに、わたくしがそのような節目を忘れていたのは……\nそれほどに騎士様と暮らす今が楽しく、充実している、\nということですもの。=Hơn nữa, việc em quên đi cột mốc quan trọng đó là vì... \nCuộc sống hiện tại bên cạnh Hiệp sĩ ngài quá đỗi vui vẻ và trọn vẹn đấy ạ.
+『ありがとうございます……！\nふふっ、では「ないふ」をお持ちしますね』=『Em cảm ơn ngài rất nhiều...! \nHì hì, vậy thì em đi lấy "dao" đây ạ.』
+『二人で一つの「けーき」を分け合う、なんて\nなんだか物語の一幕みたいです。\n素敵なお祝いをありがとうございます、騎士様……♪』=『Cùng nhau chia sẻ một chiếc "bánh kem", \ncảm giác cứ như một phân cảnh trong truyện cổ tích vậy. \nCảm ơn ngài vì một buổi kỷ niệm tuyệt vời, Hiệp sĩ ngài...♪』
+
+Player Prompts
+実は、お祝いのケーキを用意したんだ。=Thật ra, anh có chuẩn bị bánh kem để chúc mừng đấy.
+誕生日おめでとう、菫さん！=Chúc mừng sinh nhật nhé, Sumire-san!
+遠慮せず、好きなだけ食べていいからね。=Đừng ngại, em cứ ăn bao nhiêu tùy thích nhé.
+僕で良ければ、よろこんで。=Nếu em không chê thì anh rất sẵn lòng.

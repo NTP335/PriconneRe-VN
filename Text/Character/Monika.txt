@@ -1,0 +1,53 @@
+##Profile##
+お菓子屋通い=Đi đến tiệm bánh kẹo
+見た目も中身もお子ちゃまな異国の軍人=Một người lính từ xứ lạ\ntrông và hành động như một đứa trẻ
+【物理】中衛で、味方の攻撃を鼓舞する、軍人娘。味方全体の物理、魔法攻撃力の大幅アップに加えて、攻撃速度もあげることで、戦闘の早期終結を実現する。=[Vật Lý] Một người lính tăng cường sức mạnh tấn công của phe mình từ vị trí giữa hàng ngũ. Kết thúc trận đánh nhanh chóng bằng cách tăng mạnh lực tấn công vật lý, lực tấn công ma thuật và tốc độ tấn công của toàn đội.
+
+背中を預ける者の条件=Điều Kiện Để Giao Phó Lưng
+勝利の風を掴むためには=Để Cầm Bắt Gió Chiến Thắng
+絆の力で放つ奥義=Bí Thuật Được Thức Tỉnh Bởi Sức Mạnh Của Mối Liên Kết
+努力の先に求める強さ=Sức Mạnh Khát Vọng Vượt Qua Nỗ Lực
+甘い甘いお礼の証=Sự Biết Ơn Ngọt Ngào
+目をつぶれ、貴公=Đôi Mắt Nhắm Khi Có Tôi Ở Đây
+穴の中に隠された真実=Những Diễn Biến Không Lường Trước
+モニカの秘密小隊=Tiểu Đội Bí Mật Của Monika
+スイミング・バディ=Bạn Bè Đi Bơi
+求める強さは志のために=Vì Niềm Tự Hào Của Bản Thân
+白き翼で空を舞う=Đôi Cánh Trắng Tung Bay
+体は小さく誇りは高く=Một Chỉ Huy Nhỏ Nhắn Nhưng Đáng Kính
+
+##UB##
+紫電一閃=Violetshock Flare
+前方範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý (P.DMG) lớn cho kẻ địch trong phạm vi.
+
+##S1##
+フリューゲルエール=Khúc Ca Cánh Trắng
+味方全体の物理攻撃力と魔法攻撃力を小アップさせ、さらに行動速度を大アップさせる。=Tăng nhẹ Tấn Công Vật Lý và Tốc Độ Hành Động cho toàn đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度アップ$"=►Tăng Tấn Công Vật Lý của toàn đội lên $1.\n►Tăng Tấn Công Ma Thuật của toàn đội lên $2.\n►Tăng Tốc Độ Hành Động của toàn đội.
+# Same with Karin, SSaren
+
+##S2##
+マスケットショット=Phát Đạn Súng Ngắn
+
+##EX##
+白翼の加護=Lợi Ơi Của Đôi Cánh Trắng
+白翼の加護+=Lợi Ơi Của Đôi Cánh Trắng+
+
+##UB+##
+旋風雷閃撃鎖斬=Xích Điện Trận Cơn Bão
+前方範囲内の敵すべてに物理大ダメージを与え、スタンさせる。さらに、味方全体の物理攻撃力と魔法攻撃力を大アップさせ、行動速度を大アップさせる。=Gây sát thương vật lý cực lớn lên kẻ địch trong tầm và khiến chúng bị Choáng. Ngoài ra, tăng mạnh Tấn Công Vật Lý, Tấn Công Ma Thuật và Tốc Độ Hành Động cho toàn đội.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 820.\n►Khiến kẻ địch trong phạm vi 820 bị Choáng trong 2.5 giây.\n►Tăng Tấn Công Vật Lý của toàn đội lên $2 trong 30 giây.\n►Tăng Tấn Công Ma Thuật của toàn đội lên $3 trong 30 giây.\n►Tăng Tốc Độ Hành Động của toàn đội lên 200% trong 30 giây.
+
+##S1+##
+フリューゲルエール+=Khúc Ca Cánh Trắng+
+味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに行動速度を大アップさせる。=Tăng cường lớn Tấn Công Vật Lý, Tấn Công Ma Thuật và Tốc Độ Hành Động cho toàn đội.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên một kẻ địch đơn.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm Phòng Thủ Vật Lý của kẻ địch trong phạm vi xuống $3.
+
+##UE##
+フリューゲルコート=Áo Khoác Flügel
+
+
+
+
+
+

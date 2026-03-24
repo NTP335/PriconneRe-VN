@@ -1,0 +1,38 @@
+[FF7C4E,D62146]異なるOSにデータ連携した場合、連携前のOSで\n所持していた有償ジュエルと有償マナは連携後の\nOSでは使用できません。\n連携前のOSに戻ると使用できるようになります。[-]=[FF7C4E,D62146]Ngọc trả phí, Mana và bất kỳ Gói trả phí nào không thể chuyển đổi giữa các hệ điều hành (OS)[-]
+
+[3C404E]連携パスワードを再設定する[-]=[3C404E]Đặt lại Mật khẩu Liên kết [-]
+[3C404E]連携パスワードを入力して引き継ぐ[-]=[3C404E]Chuyển bằng Mật khẩu Liên kết [-]
+連携パスワードについて選択してください。=Vui lòng chọn một trong các tùy chọn sau:
+
+
+[FF7C4E,D62146]データ連携には、「プレイヤーID」が必要です。\nプレイヤーIDは、スクリーンショットやメモで、\n忘れないようにしてください。\n※プレイヤーIDの確認は、タイトル画面の右下や、\nフッターメニュー「メニュー」内の「プロフィール」\nから行えます。[-]=[FF7C4E,D62146]Liên kết Dữ liệu là cần thiết để lưu trữ tiến độ chơi game.\nVui lòng lưu lại ID game và Mật khẩu\nbằng ảnh chụp màn hình hoặc ghi chú.\nKiểm tra ID của cậu tại Màn hình Tiêu đề hoặc Thẻ Hồ sơ\n(ví dụ: 123 456 789)[-]
+プライバシーポリシーは必ず確認し、次の画面で連携パスワードの設定をしてください。=Hãy đảm bảo đã đọc Chính sách Bảo mật, sau đó đặt Mật khẩu Liên kết ở màn hình tiếp theo.\nMật khẩu Liên kết của cậu có thể được sử dụng lại nhiều lần tùy thích.
+連携パスワードの設定を行います。よろしいですか？=Đang thiết lập Mật khẩu Liên kết. Có ổn không?
+設定する=Đặt
+連携パスワードの設定=Thiết lập Mật khẩu Liên kết
+
+プライバシーポリシーを確認し同意する=Đồng ý với Chính sách Bảo mật
+プライバシーポリシー=Chính sách Bảo mật
+アカウント削除申請=Xóa Tài Khoản
+利用規約・権利表記=Điều Khoản Dịch Vụ & Thông Báo Bản Quyền
+機能を選択してください。=Vui lòng chọn chức năng.
+
+入力確認=Nhập Lại Mật Khẩu
+※数字、大文字、小文字を組み合わせた8文字以上16文字以下=※Phải có Chữ Số, Chữ Hoa và Chữ Thường trong khoảng 8-16 ký tự.
+連携パスワードを入力してください=Nhập Mật Khẩu Liên Kết bên dưới
+
+
+データ連携を行うことで、複数の端末でプリンセスコネクト！Re:Diveのゲームデータを共有してプレイできます。データ連携には「プレイヤーID」と「連携パスワード」が必要です。=Liên kết dữ liệu cho phép chơi Princess Connect! Re: Dive trên nhiều thiết bị bằng cùng một dữ liệu người dùng. Cần có Player ID và mật khẩu liên kết để liên kết dữ liệu.
+
+サーバーエラー=Lỗi Máy Chủ
+エラーが発生しました。\n画面を更新してください。=Đã xảy ra lỗi\nVui lòng làm mới màn hình.
+[3C404E]このゲームデータは他のPC版アカウントと連携しています。\nPC版アカウントと連携可能なゲームデータは1つのみです。[-]=[3C404E]Dữ liệu trò chơi này đã được liên kết với một tài khoản PC khác.\nChỉ một dữ liệu trò chơi có thể được liên kết với một tài khoản PC.[-].
+
+[3C404E]連携パスワードの設定が完了しました。\n\n連携パスワードは、\n他の人に教えないようにしてください。[-]=[3C404E]Cài đặt mật khẩu liên kết hoàn tất.\n\nVui lòng không đưa mật khẩu liên kết cho người khác.[-]
+データ連携パスワード設定完了=Cài Đặt Mật Khẩu Liên Kết Dữ Liệu Hoàn Tất
+
+[3C404E]ログインしたアカウントは、すでに現在のプリンセスコネクト！Re:Diveのゲームデータと連携しています。[-]=[3C404E]Tài khoản hiện tại đã được liên kết với dữ liệu trò chơi Princess Connect! Re:Dive.[-]
+データ引き継ぎ済み=Dữ Liệu Kế Thừa
+
+[3C404E]プレイヤーIDと連携パスワードが一致しませんでした。\nご確認のうえ、再度お試しください。[-]=[3C404E]Player ID và Mật Khẩu Liên Kết không khớp.\nVui lòng kiểm tra và thử lại.[-]
+データ引き継ぎエラー=Lỗi Truyền Dữ Liệu

@@ -1,0 +1,16 @@
+Nana's Birthday
+
+わぁ～……！\nドーナツがいっぱいだー！=Oa~...! Nhiều bánh donut quá đi hà!
+いいのいいの？\nホントにこれ全部食べていいの？\nぜ～んぶ食べちゃうからねっ？=Được thật không anh? Thật sự em được ăn hết chỗ này luôn hả? Em sẽ ăn sạ~ch sành sanh luôn đó nha?
+えへへ、ありがと～！\nこんなに豪華な誕生日、はじめてかもっ♪=Hi hi, cảm ơn anh nha~! Đây có lẽ là lần đầu tiên em có một ngày sinh nhật hoành tráng thế này luôn đó♪
+もぐもぐもぐ……あま～い♪\nはぁ、幸せ……\n今日の晩ごはんはもうこれでいいや。=*Ngoạm ngoạm ngoạm*... Ngọt quá đi~♪ Hà, hạnh phúc quá... Bữa tối nay em ăn thế này là đủ rồi.
+はぁーい。\n……叱ってもらっちゃった、えへへ。=Vâng ạ~. ...Em bị anh mắng mất rồi, hi hi.
+……最近はくるるちゃんが遊んでくれたりするけど。\nお互いバイトとかでタイミング合わないこともあって……=...Dạo gần đây tuy cũng có Kururu-chan chơi cùng, nhưng cả hai đứa đều bận đi làm thêm nên thỉnh thoảng thời gian không khớp nhau...
+こんなふーに、斜といっしょにいてくれて。\nそれも、誕生日のお祝いまでしてもらえて。\nとっても、とーってもうれしーな♪=Được anh ở bên cạnh Nana thế này, lại còn được chúc mừng sinh nhật nữa. Em thấy vui lắm, vu~i ơi là vui luôn đó♪
+だって、ウサギさんはさみしーと死んじゃうんだもん♪=Bởi vì thỏ con mà cô đơn là sẽ buồn tới chết luôn á♪
+あ、そうだ！　あなたの誕生日、教えてっ？\n今度は斜がお返しにお祝いしてあげる！=A, đúng rồi! Anh cho em biết ngày sinh nhật của anh đi? Lần tới đến lượt Nana sẽ chúc mừng đáp lễ cho anh!
+今日みたいに豪華じゃないかもだけど……\nその分、精一杯たっくさんお祝いするから！\n今の斜みたいに、いい一年になりそう！　って思ってもらいたいもん♪=Tuy có thể không được xa hoa như hôm nay đâu nhưng mà... bù lại em sẽ chúc mừng anh hết mình luôn! Vì em muốn anh cũng cảm thấy giống như Nana lúc này, rằng "chắc chắn đây sẽ là một năm thật tuyệt vời" đó♪
+
+Player Prompts
+斜ちゃんへの誕生日プレゼントだよ！=Đây là quà sinh nhật dành cho Nana-chan mà!
+晩ご飯もちゃんと食べてね。=Em cũng nhớ phải ăn cả bữa tối đàng hoàng nữa đó nhé.

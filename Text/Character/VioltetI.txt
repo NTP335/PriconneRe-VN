@@ -1,0 +1,21 @@
+##Profile##
+【物理】前衛から慈愛の心で冥府を包む彼岸の屍姫。ＵＢは敵全体を呑み込む割合ダメージを与え、【冥海の加護】を消費して味方の攻防ダウン効果までも禊ぎ清める。=[Vật lý] Một công chúa xác khô từ bờ nether, bao phủ thế giới ngầm với lòng trắc ẩn từ tuyến đầu. UB của cô gây sát thương tỷ lệ nuốt chửng toàn kẻ địch, và bằng cách tiêu thụ 【Underworld Blessing】, làm sạch cả các hiệu ứng giảm P.ATK, M.ATK, P.DEF, M.DEF ảnh hưởng đến đồng đội.
+
+##UB##
+かんながら・ゐさなをろし=Thần Chế: Isanaoroshi
+敵全体の物理防御力を大ダウンさせ、そのキャラの最大ＨＰに応じて最大200万の物理割合ダメージを与え、味方全体のＨＰを大回復させる。【冥海の加護】が30以上の場合、味方全体の物理攻撃力を特大アップさせる。【冥海の加護】が60の場合、【冥海の加護】を30消費して、味方全体の物理攻撃のダメージを小アップし、物理・魔法攻撃力ダウン効果と物理・魔法防御力ダウン効果を解除する。=Giảm mạnh P.DEF của toàn kẻ địch, sau đó gây sát thương vật lý tỷ lệ dựa trên HP tối đa của mỗi mục tiêu, tối đa 2,000,000, và hồi HP mạnh cho toàn đồng đội. Nếu 【Underworld Blessing】 đạt 30 trở lên, tăng mạnh P.ATK cho toàn đồng đội. Nếu 【Underworld Blessing】 đạt 60, tiêu thụ 30 lớp 【Underworld Blessing】 để tăng nhẹ sát thương vật lý của toàn đồng đội, và loại bỏ các hiệu ứng giảm P.ATK, M.ATK, P.DEF, M.DEF khỏi toàn đồng đội.
+r:"^敵全体の物理防御力を(\d+)ダウン敵全体に最大200万の物理割合ダメージを与える味方全体のＨＰを30％回復冥海の加護が30以上の場合、味方全体の物理攻撃力を(\d+)アップ冥海の加護が60の場合、以下の効果が発動する冥海の加護を30消費する味方全体が与える物理ダメージを6％アップ味方全体の攻撃力・防御力ダウン効果を解除する$"=►Giảm P.DEF của toàn kẻ địch $1 trong 18s.\n►Gây sát thương vật lý tỷ lệ lên toàn kẻ địch (tối đa 2,000,000).\n►Hồi 30% HP cho toàn đồng đội.\n\nNếu [Underworld Blessing] đạt 30 trở lên:\n►Tăng P.ATK của đồng đội $2 trong 18s.\n\nNếu [Underworld Blessing] đạt 60:\n►Tiêu thụ 30 [Underworld Blessing].\n►Tăng sát thương vật lý của đồng đội 6% trong 180s.\n►Loại bỏ hiệu ứng giảm P.ATK và giảm P.DEF khỏi toàn đồng đội.
+
+##S1##
+つらなぎのゐざなひ=Dẫn lối của Izanami
+敵全体の物理防御力を小ダウンさせる。【冥海の加護】が30以上の場合、味方全体の物理・魔法防御力を中アップさせる。バトル開始後、初弾のこのスキルは、敵がステータスダウンを受ける度に、自分に【冥海の加護】が１つ追加される状態にする。【冥海の加護】は最大60まで追加される。=Giảm nhẹ P.DEF của toàn kẻ địch. Nếu 【Underworld Blessing】 đạt 30 trở lên, tăng trung bình P.DEF và M.DEF cho toàn đồng đội. Lần đầu tiên kỹ năng này được sử dụng sau khi trận đấu bắt đầu, tạo trạng thái mà bản thân nhận thêm 1 lớp 【Underworld Blessing】 mỗi khi kẻ địch nhận hiệu ứng giảm trạng thái. 【Underworld Blessing】 có thể chồng lên tối đa 60 lần.
+r:"^敵全体の物理防御力を(\d+)ダウン冥海の加護が30以上の場合、味方全体の物理・魔法防御力を(\d+)アップ敵がステータスダウン効果を受けるたびに自分に冥海の加護が１つ追加される状態にする$"=Thời gian thi triển: 1.05s\n►Giảm P.DEF của toàn kẻ địch $1 trong 12s.\n\nNếu [Underworld Blessing] đạt 30 trở lên:\n►Tăng P.DEF và M.DEF của đồng đội $2 trong 12s.\n\n►Tạo trạng thái mỗi khi kẻ địch nhận hiệu ứng giảm trạng thái, bản thân nhận 1 [Underworld Blessing].
+
+##S2##
+あめのみくまり=Ame-no-Mikumari
+敵全体の物理・魔法攻撃力を大ダウン、ＴＰ上昇を小ダウンさせ、ＴＰを小ダウンさせる。【冥海の加護】が30以上の場合、味方全体の物理・魔法攻撃力を特大アップ、ＴＰ上昇を小アップさせ、ＴＰを小回復させる。=Giảm mạnh P.ATK và M.ATK của toàn kẻ địch, giảm nhẹ TP Boost của chúng và giảm nhẹ TP của chúng. Nếu 【Underworld Blessing】 đạt 30 trở lên, tăng mạnh P.ATK và M.ATK cho toàn đồng đội, tăng nhẹ TP Boost của họ và hồi nhẹ TP của họ.
+r:"^敵全体の物理・魔法攻撃力を(\d+)ダウン敵全体のＴＰ上昇を5ダウン敵全体のＴＰを75失わせる冥海の加護が30以上の場合、以下の効果が発動する味方全体の物理・魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を5アップ味方全体のＴＰを75回復$"=Thời gian thi triển: 1.05s\n►Giảm P.ATK và M.ATK của toàn kẻ địch $1 trong 12s.\n►Giảm TP Boost của toàn kẻ địch 5 trong 12s.\n►Giảm TP của toàn kẻ địch 75.\n\nNếu [Underworld Blessing] đạt 30 trở lên:\n►Tăng P.ATK và M.ATK của đồng đội $2 trong 12s.\n►Tăng TP Boost của đồng đội 5 trong 12s.\n►Hồi TP cho toàn đồng đội 75.
+
+##EX##
+イサナミの加護=Isanami’s Blessing
+イサナミの加護+=Isanami’s Blessing+

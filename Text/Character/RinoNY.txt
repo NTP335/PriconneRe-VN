@@ -1,0 +1,21 @@
+##Profile##
+【魔法】後衛で絵馬に込めた想いを胸に抱く晴れ着の妹。クリティカル時に威力が上がる矢で敵を撃ち抜き、味方全体への攻撃支援や継続ＴＰ回復で厄を払い福を届ける。=[Ma thuật] Một em gái mặc kimono ở hàng sau, nắm chặt những điều ước được viết trên bảng ema. Cô phóng những mũi tên mạnh lên khi chí mạng, đồng thời xua tan vận xui và mang lại phước lành thông qua hỗ trợ tấn công cho toàn đồng đội và phục hồi TP liên tục.
+
+##UB##
+ハッピーニューアロー=Happy New Arrow
+前方の敵すべてに魔法中ダメージを２回与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。さらに味方全体の魔法攻撃力と魔法クリティカルを特大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。発動時既に自分が魔法クリティカルアップ状態だった場合、味方全体の魔法攻撃のダメージを小アップさせる。=Gây sát thương ma thuật trung bình lên tất cả kẻ địch phía trước hai lần. Nếu kỹ năng này trúng chí mạng, sát thương sẽ thành 4× thay vì 2×. Ngoài ra, tăng cường mạnh mẽ tấn công ma thuật và tỷ lệ chí mạng ma thuật của toàn đồng đội, và tăng nhẹ sát thương chí mạng ma thuật của họ. Nếu bản thân đã có hiệu ứng tăng tỷ lệ chí mạng ma thuật khi kích hoạt, tăng nhẹ sát thương ma thuật của toàn đồng đội.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを180アップ味方全体の魔法クリダメを8％アップ自分が魔法クリティカルアップ状態の時、味方全体が与える魔法ダメージを3％アップ$"=►Gây $1 sát thương ma thuật lên kẻ địch trong phạm vi. ►Gây $2 sát thương ma thuật lên kẻ địch trong phạm vi. ►Tăng tấn công ma thuật của đồng đội lên $3. ►Tăng tỷ lệ chí mạng ma thuật của đồng đội lên 180. ►Tăng sát thương chí mạng ma thuật của đồng đội lên 8%.  Nếu tỷ lệ chí mạng ma thuật của bản thân được tăng: ►Tăng sát thương ma thuật của đồng đội lên 3%.
+
+##S1##
+ハピネスシャトル=Happiness Shuttle
+味方全体の魔法攻撃力を特大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。自分が魔法クリティカルアップ状態だった場合、追加で味方全体の魔法攻撃力を特大アップ、ＨＰを小回復、継続ＴＰ回復状態を付与する。=Tăng cường mạnh mẽ tấn công ma thuật của toàn đồng đội và tăng nhẹ sát thương chí mạng ma thuật của họ. Nếu bản thân đang có hiệu ứng tăng tỷ lệ chí mạng ma thuật, còn tăng cường mạnh mẽ thêm tấn công ma thuật của toàn đồng đội, phục hồi nhẹ HP của họ, và mang lại hiệu ứng phục hồi TP liên tục.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリダメを6％アップ自分が魔法クリティカルアップ状態の時、以下の効果が発動する味方全体の魔法攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復毎秒ＴＰを10回復する$"=►Tăng tấn công ma thuật của đồng đội lên $1. ►Tăng sát thương chí mạng ma thuật của đồng đội lên 6%.  Nếu tỷ lệ chí mạng ma thuật của bản thân được tăng: ►Tăng tấn công ma thuật của đồng đội lên $2. ►Phục hồi HP cho toàn đồng đội lên $3. ►Phục hồi 10 TP mỗi giây cho toàn đồng đội.
+
+##S2##
+スピニングトップシュート=Spinning Top Shoot
+前方の敵すべてに魔法中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせ、スタンさせる。自分が魔法クリティカルアップ状態だった場合、前方の敵すべてに追加の魔法中ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương ma thuật trung bình lên tất cả kẻ địch phía trước, giảm mạnh tấn công vật lý và tấn công ma thuật của chúng, và làm choáng chúng. Nếu bản thân đang có hiệu ứng tăng tỷ lệ chí mạng ma thuật, gây thêm sát thương ma thuật trung bình lên tất cả kẻ địch phía trước. Nếu kỹ năng này trúng chí mạng, sát thương sẽ thành 4× thay vì 2×.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵を一定時間行動不能にする自分が魔法クリティカルアップ状態の時、範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 sát thương ma thuật lên kẻ địch trong phạm vi. ►Giảm tấn công vật lý của kẻ địch trong phạm vi lên $2. ►Giảm tấn công ma thuật của kẻ địch trong phạm vi lên $3. ►Gây hiệu ứng vô hiệu hóa lên kẻ địch trong phạm vi trong một khoảng thời gian.  Nếu tỷ lệ chí mạng ma thuật của bản thân được tăng: ►Gây $4 sát thương ma thuật lên kẻ địch trong phạm vi.
+
+##EX##
+フォーチュンシスター=Fortune Sister
+フォーチュンシスター+=Fortune Sister+

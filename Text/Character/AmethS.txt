@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛で、黄昏の水面に舞い降りる水着姿の妖精。行動速度アップやＴＰ支援をはじめとした多数のサポートを施しつつ、ＵＢの攻防弱体化で清爽に勝利へと導く。=[Ma Thuật] Một tiên nữ mặc đồ bơi nhảy múa trên mặt vàng rực của biển. Cô có nhiều kỹ năng hỗ trợ, bao gồm tăng tốc độ và Tăng TP, và kỹ năng UB của cô làm giảm tấn công và phòng thủ của kẻ địch. Với những kỹ năng này, cô dẫn dắt chúng ta đến chiến thắng tươi mới.
+
+##UB##
+フィオレ・オセアーノ=Fiore Oceano
+目の前の敵１キャラに魔法特大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。=Gây sát thương ma thuật lớn lên kẻ địch phía trước, giảm mạnh tấn công vật lý và tấn công ma thuật của chúng, và giảm nhẹ phòng thủ ma thuật.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Giảm tấn công vật lý của kẻ địch đi $2 trong 18s.\n►Giảm tấn công ma thuật của kẻ địch đi $3 trong 18s.\n►Giảm phòng thủ ma thuật của kẻ địch đi $4 trong 18s.
+
+##S1##
+アクア・メンブラーナ=Aqua Membrana
+味方全体に物理/魔法無効バリアを展開する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。=Triển khai Khiên lên toàn bộ đồng minh, hóa giải sát thương vật lý/ma thuật. Đồng thời, phục hồi nhẹ TP cho đồng minh có TP thấp nhất, và liên tục phục hồi TP cho đồng minh trong phạm vi xung quanh đồng minh đó.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"=►Triển khai Khiên lên toàn bộ đồng minh, hóa giải $1 sát thương vật lý/ma thuật trong 18s.\n►Phục hồi 50 TP cho một đồng minh.\n►Phục hồi 10 TP/giây cho đồng minh trong phạm vi 300 trong 10s.
+
+##S1+##
+アクア・メンブラーナ+=Aqua Membrana+
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方全体に調和状態を付与する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"="►Triển khai Khiên phản sát thương vật lý/ma thuật ($1)\n►Trao [Hòa âm] cho toàn bộ đồng minh\n►Phục hồi 50 TP cho đồng minh có TP thấp nhất\n►Trao 10 TP mỗi giây"
+r:"^味方全体に物理/魔法無効バリアを展開し、調和状態を付与する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。調和状態の間は物理防御力と魔法防御力のうち高い方によって計算されたダメージを受ける。$"="Triển khai Khiên phản sát thương vật lý/ma thuật cho toàn bộ đồng minh và trao [Hòa âm]. Đồng thời, phục hồi nhẹ TP cho đồng minh có TP thấp nhất và trao phục hồi TP liên tục cho đồng minh xung quanh. Trong khi [Hòa âm] hoạt động, sát thương nhận được được tính bằng giá trị phòng thủ cao hơn giữa P.DEF và M.DEF."
+##S2##
+ヴィータ・オペラーレ=Vita Operare
+味方全体の行動速度を大アップさせる。さらに、最もＨＰが低い味方１キャラのＨＰを中回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=Tăng mạnh tốc độ hành động của toàn bộ đồng minh. Đồng thời, phục hồi đáng kể HP của đồng minh có HP thấp nhất, và liên tục phục hồi HP cho đồng minh trong phạm vi xung quanh đồng minh đó.
+r:"^味方全体の行動速度アップ味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Tăng tốc độ hành động của toàn bộ đồng minh lên 200% trong 12s.\n►Phục hồi $1 HP cho một đồng minh.\n►Phục hồi $2 HP/giây cho đồng minh trong phạm vi 300 trong 10s.
+
+##EX##
+ファータスプルッツォ=Fata Spruzzo
+ファータスプルッツォ+=Fata Spruzzo+
+
+
+##UE##
+アクア・ファータ=Aqua Fata

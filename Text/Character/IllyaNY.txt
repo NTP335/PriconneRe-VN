@@ -1,0 +1,29 @@
+##Profile##
+【魔法】中衛で自らの血を代償に力を振るう新春吸血鬼。自身のＨＰを消費して放つ強力なスキルと、敵からＴＰを吸収するスキルを自在に操り、目の前の敵を撃滅する。=[Ma thuật] Một ma cà rồng năm mới sử dụng sức mạnh bằng cái giá phải trả chính máu của mình. Tự do điều khiển một kỹ năng mạnh mẽ tiêu hao HP của bản thân và một kỹ năng hấp thụ TP từ kẻ địch để hủy diệt tất cả kẻ địch.
+
+##UB##
+ヴァーミリオンライジング=Bình Minh Đỏ
+自分の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、目の前の敵１キャラに魔法特大ダメージを与え、さらに自分のＨＰを中回復させる。=Tăng mạnh M.ATK và Tỷ lệ Chí Mạng Ma thuật của bản thân, gây sát thương Ma thuật lớn lên kẻ địch phía trước, và hồi phục một phần HP của bản thân.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを100アップ敵単体に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復$"=►Tăng M.ATK của bản thân lên $1 trong 18s.\n►Tăng Tỷ lệ Chí Mạng Ma thuật của bản thân lên 100 trong 18s.\n►Gây $1 sát thương Vật lý lên kẻ địch.\n►Hồi phục HP của bản thân lên $3.
+
+##S1##
+ニュームーンエクリプス=Eclipse Trăng Non
+目の前の敵１キャラに魔法大ダメージを与え、自分の魔法攻撃力を中アップさせるが、自分の残りＨＰの40％を消費する。=Gây sát thương Ma thuật lớn lên kẻ địch phía trước và tăng vừa phải M.ATK của bản thân, nhưng tiêu hao 40% HP còn lại của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の残りＨＰの40%を消費$"=Thời gian niệm: 0.52s\n►Gây $1 sát thương Vật lý lên kẻ địch.\n►Tăng M.ATK của bản thân lên $2 trong 12s.\n►Tiêu hao 40% HP còn lại của bản thân.
+
+##S2##
+ブラッディサーヴァント=Tôi Tớ Máu
+目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、自分のＴＰを小回復させるが、自分の残りＨＰの25%を消費する。=Gây sát thương Ma thuật lớn lên kẻ địch phía trước, giảm chút ít TP của chúng, và hồi chút ít TP của bản thân, nhưng tiêu hao 25% HP còn lại của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の残りＨＰの25%を消費$"=Thời gian niệm: 0.525s\n►Gây $1 sát thương Vật lý lên kẻ địch.\n►Giảm TP của kẻ địch đi $2.\n►Hồi TP của bản thân lên $3.\n►Tiêu hao 25% HP còn lại của bản thân.
+
+##EX##
+賀春の誓約=Lời Thề Năm Mới
+賀春の誓約+=Lời Thề Năm Mới+
+
+##S1+##
+ニュームーンエクリプス+=Eclipse Trăng Non+
+目の前の敵１キャラに魔法大ダメージを与え、自分の魔法攻撃力を中アップさせるが、自分の残りＨＰの40％を消費する。さらに、物理/魔法吸収バリアを自身に付与し、目の前の敵１キャラのＴＰ上昇を小ダウンさせる。自分の残りＨＰが多いほど、魔法攻撃力の上昇量とバリアの吸収ダメージ量がアップする。=Gây sát thương Ma thuật lớn lên kẻ địch phía trước và tăng vừa phải M.ATK của bản thân, nhưng tiêu hao 40% HP còn lại của bản thân. Ngoài ra, triển khai Mãi Lực trên bản thân hấp thụ sát thương Vật lý/Ma thuật, và giảm chút ít Tăng TP của kẻ địch. Tỷ lệ HP của bản thân càng cao, mức tăng M.ATK và sát thương Vật lý/Ma thuật hấp thụ bởi Mãi Lực càng lớn.
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の残りＨＰの40%を消費(\d+)ダメージ分の物理魔法吸収バリアを展開する敵単体のＴＰ上昇を15ダウン$"=Thời gian niệm: 0.52s\n►Gây $1 sát thương Vật lý lên kẻ địch.\n►Tăng M.ATK của bản thân lên $2.\n►Tiêu hao 40% HP còn lại của bản thân.\n►Triển khai Mãi Lực trên bản thân hấp thụ $3 sát thương Vật lý/Ma thuật trong 12s.\n►Giảm Tăng TP của kẻ địch đi 15.
+
+##UE##
+新春斧ニューイヤーファング=Rìu Giáng Sinh - Răng Năm Mới

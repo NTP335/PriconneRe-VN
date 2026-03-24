@@ -1,0 +1,53 @@
+##Profile## 
+歌って踊れる大人気アイドル=Một thần tượng nổi tiếng với những màn hát và nhảy
+
+舞台鑑賞、ダンス=Xem biểu diễn sân khấu, nhảy
+【物理】前衛で、皆の壁になって戦うアイドルのぞみん。彼女がステージに立てば、味方の物理攻撃力が大きくアップし、さらに敵の注意を一手に惹き付ける。=[Vật lý] Một thần tượng chiến đấu ở tiền tuyến, bảo vệ người khác. Khi lên sân khấu, cô tăng sức mạnh tấn công của đồng đội rất nhiều và thu hút mọi đòn tấn công của kẻ địch về mình.
+
+高みへ続く道へ=Đến con đường dẫn đến cấp độ cao
+輝きの原点=Nguồn gốc của sự rực rỡ
+『希望』の扉が開くとき=Khi cánh cửa "Hy vọng" mở ra
+ゾミ=Zomi
+真のトップアイドルとは=Thần tượng đỉnh cao thực sự là gì?
+
+二人だけのバースデー=Một sinh nhật cho hai người
+この気持ちは業務上の秘密=Bí mật nghề nghiệp
+キミの笑顔が見たいから=Để thấy nụ cười của bạn
+ラブソングの作り方=Thư tình lãng mạn
+火のない所に大火災=Tất cả khói không lửa
+超新解釈『赤ずきん』=Công chúa nhỏ quay trở lại
+ランドソル式ダイエット=Chế độ ăn kiêng Landosol
+わけあって追われる身=Đuổi theo giấc mơ
+
+##UB##
+ライブ・オンステージ=Biểu diễn trực tiếp trên sân khấu
+【挑発】味方全体の物理攻撃力を小アップさせ、自分の物理防御力と魔法防御力を大アップさせる。さらに敵全体を挑発する。=[Khiêu khích] Khiêu khích tất cả kẻ địch. Tăng phòng thủ vật lý và phép của bản thân một chút. Tăng sát thương vật lý của đồng đội một chút.
+r:"^味方全体の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ敵全体を挑発する$"=►Tăng sát thương vật lý của đồng đội lên $1 trong 18s.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18s.\n►Tăng phòng thủ phép của bản thân lên $3 trong 18s.\n►Khiêu khích tất cả kẻ địch trong 10s.
+
+##S1##
+クレールスラッシュ=Glamorous Slice
+
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせて物理攻撃力を小ダウンさせる。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi, gây choáng và giảm sát thương vật lý của chúng một chút.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする範囲内の敵の物理攻撃力を(\d+)ダウン$"=Thời gian niệm: 1.25s\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 280.\n►Gây choáng cho kẻ địch trong phạm vi 280 trong 2s.\n►Giảm sát thương vật lý của kẻ địch trong phạm vi 280 đi $2 trong 12s.
+
+##S2##
+アイドルエール=Lời khích lệ của thần tượng
+自分の周囲の味方すべてのＨＰを中回復させる。=Hồi lại một chút HP cho tất cả đồng đội gần đó.
+r:"^範囲内の味方のＨＰを(\d+)回復$"=►Hồi HP cho đồng đội trong phạm vi theo $1.
+
+##EX##
+ルミナススマイル=Nụ Cười Rực Rỡ
+ルミナススマイル+=Nụ Cười Rực Rỡ+
+バトル開始時に自分の物理防御力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Tăng P.DEF của bản thân vừa phải và tăng M.DEF một chút khi trận đấu bắt đầu.
+r:"^自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Tăng P.DEF của bản thân theo $1.\n►Tăng M.DEF của bản thân theo $2.
+
+##UB+##
+ライブ・オンスペシャルステージ=Sống Trên Sân Khấu Đặc Biệt
+【挑発】味方全体の物理攻撃力を大アップさせ、物理/魔法無効バリアを展開し、自分の物理防御力と魔法防御力を特大アップさせる。さらに敵全体を挑発してスタンさせる。=[Khiêu Khích] Tăng P.ATK của đồng đội lớn, tạo lá chắn phản P/M, và tăng P/M.DEF của bản thân lớn. Đồng thời khiêu khích và choáng tất cả kẻ địch.
+r:"^味方全体の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ敵全体を挑発する敵全体を一定時間行動不能にする$"=►Tăng P.ATK của đồng đội theo $1 trong 18s.\n►Tạo lá chắn cho tất cả đồng đội, phản mọi sát thương P/M $2 trong 20s.\n►Tăng P.DEF của bản thân theo $3 trong 18s.\n►Tăng M.DEF của bản thân theo $4 trong 18s.\n►Khiêu khích tất cả kẻ địch trong 11s.\n►Gây choáng tất cả kẻ địch trong 1.5s.
+
+##S1+##
+クレールスラッシュ+=Cắt Gọn Lộng Lẫy+
+
+##UE##
+ブリリアントマイク=Microphone Tuyệt Vời

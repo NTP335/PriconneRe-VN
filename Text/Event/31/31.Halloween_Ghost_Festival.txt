@@ -1,0 +1,27 @@
+
+ツムギについて=Về Tsumugi
+レイについて=Về Rei
+お化けたち\nについて=Về\nMa
+ゴーストファー\nザーについて=Về\nMa quỷ
+ハロウィン\nについて=Về\nLễ Halloween
+お化け屋敷\nについて=Về\nNhà ma
+衣装について=Về\ntrang phục
+いたずらするなら=Nếu chọn trò đùa
+パレードについて=Về\nđường diễu hành
+さよならお化け=Tạm biệt\nMa
+マツリについて=Về\nMatsuri
+
+お化け屋敷リニューアル！=Đại tu Nhà Ma!
+舞台裏に潜む影=Những Bóng Đen Ẩn Núp Phía Hậu Trường
+小さな胸に灯った勇気=Lòng Dũng Cảm Thắp Sáng Trong Trái Tim Nhỏ Bé
+楽しい絶叫の響く街=Một Thành Phố Vang Lên Tiếng Thét Vui Sướng
+一人前になるために=Để Trở Thành Người Lớn
+ハロウィンのお化けたち=Ma Của Lễ Halloween
+プロデュースは前途多難=Sản Xuất Phía Trước: Một Hành Trình Thử Thách
+ようこそハロウィンパーク=Chào Mừng Đến Công Viên Halloween
+
+熱血指導を乗り越えて=Vượt qua sự hướng dẫn nhiệt huyết
+
+r:"^ハロウィンパーク([0-9\-\(\)\w （）]*)$"=Công Viên Halloween $1
+ゴーストブラザーズ=Anh Em Ma
+叫怖のゴーストファーザー=Ma Quỷ Của Tiếng Thét

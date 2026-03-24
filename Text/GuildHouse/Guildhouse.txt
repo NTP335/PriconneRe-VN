@@ -1,0 +1,203 @@
+---Guildhouse---
+データの取得に失敗しました。\nタイトルへ戻ります。=Lấy dữ liệu thất bại.\nQuay về màn hình chính.
+
+Lv上限：=Cấp Tối Đa:
+r:"^(\d+)ルピを消費してLvアップ可能$"=Sẵn sàng lên Cấp bằng [00ff0099]$1[-] Rupie
+Lvアップ可能な家具があります。=Có nội thất có thể lên cấp.
+すでに最大Lvに達しています。=Đã ở Cấp Tối Đa.
+
+家具効果=Nội Thất\nHiệu Quả
+収納BOX=Kho
+一括収納=Lưu Tất Cả
+キャラ\n配置=Đặt\nNhân Vật
+ランダム\nお出かけ=Đi Chơi\nNgẫu Nhiên
+メンバー\n訪問=Thăm\nThành viên
+Like情報=Thích
+マイセット=Bộ của tôi
+一括受取=Nhận Tất cả
+家具ショップ=Cửa hàng\nNội thất
+ゲームテーブル=Bàn Chơi Game
+カレンダー=Lịch
+サポート設定=Cài đặt\nHỗ trợ
+メンバー情報=Thông tin Thành viên
+寄付する=Ủng hộ
+ギフト=Quà tặng
+1Fのメンバー=Party Tầng 1
+2Fのメンバー=Party Tầng 2
+3Fのメンバー=Party Tầng 3
+同名キャラ\n選択中=Đã\nChọn
+同名キャラ\n設置中=Đã\nĐặt
+同じ名前のキャラは同一パーティに編成できません。=Không thể sắp xếp các nhân vật trùng tên vào cùng một party.
+カリンとカリンの机は同時に配置できません。=Bàn của Karin và Bàn Karin không thể đặt cùng lúc.
+報酬受取=Nhận Tất cả
+以下のアイテムを受け取りました。=Bạn đã nhận được các vật phẩm sau.
+引き出せるマナがありません。=Hiện không có mana để rút.
+ルピが不足しています。=Rupie không đủ.
+プレイヤーLvが不足しています。=Cấp người chơi không đủ.
+
+設置=Đặt
+売却不可=Không thể Bán
+設置済み=Đã\nĐặt
+設置中売却不可=Không thể bán\nKhi đã Đặt
+
+この階の家具をすべて収納します。よろしいですか？=Lưu trữ toàn bộ Nội thất tầng này?
+
+壁家具=Nội thất Tường
+効果つき家具=Nội thất Phép thuật
+床家具=Nội thất Sàn
+
+一括収納はやりなおしができません。=Hành động Lưu trữ Tất cả không thể hoàn tác.
+収納すると効果つき家具の生産はリセットされます。=Việc lưu trữ Nội thất Phép thuật sẽ reset sản lượng.
+収納数に収まらなかった家具は残ります。=Những nội thất không vừa kho sẽ bị bỏ lại.
+
+カレンダーへ=Lịch
+この月は選択できません。=Không thể chọn tháng này
+受け取っていないアイテムはありません。=Hiện không có vật phẩm nào có thể thu thập.
+
+Likeする=Thích!
+---gifting---
+絆ランクアップに必要なギフトアイテムが足りません。=Không đủ vật phẩm quà tặng cần thiết để nâng cấp.
+これ以上絆ランクを上げられません。=Không thể tăng mức kết nối thêm nữa.
+贈ったギフトアイテムは消費されます。=Vật phẩm quà tặng bạn tặng sẽ bị tiêu hao.
+絆ランクが最大です。=Đã đạt mức kết nối tối đa.
+
+ギフトアイテムを贈るキャラをタップしてください=Chạm vào nhân vật bạn muốn tặng quà.
+以下のギフトアイテムを贈ります。よろしいですか？=Gửi món quà sau?
+ギフト消費後の絆ランク=Mức Kết nối Sau Khi Tặng quà
+消費ギフト=Tiêu hao
+贈る=Tặng
+すべて=tất cả
+演出を全てスキップ=Bỏ qua toàn bộ cảnh cắt mức kết nối
+全てのランクアップで演出を再生=Xem cảnh cắt cho tất cả các mức
+再生する絆ランク演出を設定してください。=Vui lòng đặt cảnh phim mức độ gắn bó để phát.
+演出確認=Xác nhận cảnh phim
+ストーリー解放=Mở khóa cốt truyện
+
+r:"^絆ランク (\d+)$"=Gắn bó\nHạng $1
+
+---games---
+購入価格=Giá
+みんなのゲームテーブル=Bàn chơi của Mọi Người
+レッツ・クッキング！\nミヤコとプリンを作って食べて\nプリンの道を極めよう！=Cùng Nấu Ăn! Hãy cùng Miyako làm và ăn bánh pudding để làm chủ nghệ thuật pudding!
+こちらは1,000ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=Cái này đang giảm giá còn 1,000 rupees, nên mua đi và chơi với nó!
+楽しいミニゲームをご紹介！\nあなたはどのミニゲームで\n遊びますか？=Dưới đây là một số Trò chơi Mini vui nhộn! Bạn sẽ chơi trò nào?
+動くハートに合わせてタップ！\nシズルさんとエリコさんの\nチョコレートケーキ作りを\nお手伝いしましょう！=Chạm vào những trái tim đang di chuyển để giúp Shizuru và Eriko làm bánh chocolate!
+愛情たっぷりのチョコレートケー\nキを完成させよう！\n超キュートなタップゲーム！=Hoàn thành bánh chocolate đầy tình cảm trong trò chạm cực kỳ dễ thương này!
+様々なミニゲームをご用意してい\nますよ！\nどのミニゲームで遊びますか？=Chúng tôi có nhiều Trò chơi Mini để bạn chơi!
+素材購入=Mua đồ
+エピソード=Tập
+エピソードリスト=Danh sách các Tập
+
+---Random menu---
+ランダムお出かけ確認=Tham quan Nhà Guild ngẫu nhiên?
+[3C404E]他のプレイヤーのギルドハウスに\nランダムで訪問します。\nよろしいですか？[-]=[3C404E]Bạn có muốn tham quan ngẫu nhiên Nhà Guild của người chơi khác? [-]
+
+---Like Info---
+今日Likeした数=Lượt thích Hôm Nay của Bạn
+今日Likeされた数=Lượt thích Hôm Nay
+Likeされた総数=Tổng Lượt thích
+Likeしてくれた人=Đã thích Bạn
+Likeした人=Được Bạn Thích
+クランメンバー=Thành Viên Clan
+最近のLike情報はありません。=Không có thông tin LIKE gần đây.
+
+---Furniture shop---
+sr:"^(\d+)年(\d+月)(\d+)日 ([0-9:]+)まで$"=Đến $2 $3, $1 $4 (JST)
+該当する家具はありません。=Không có nội thất phù hợp.
+テーマ=Chủ đề
+インテリア=Trang Trí
+生活用品=Nội Thất
+戻る=Quay Lại
+ベッド=Giường
+収納=Kho Chứa
+椅子=Ghế
+机=Bàn
+パーテーション=Vách Ngăn
+植物=Cây Cảnh
+美術品=Nghệ Thuật
+ラグ・タイル=Thảm & Gạch Ốp
+背景=Hình Nền
+階段=Cầu Thang
+壁=Tường
+床=Sàn
+設置数=Đã Đặt
+設置購入=Mua & Đặt
+収納購入=Mua & Lưu Trữ
+アクション=Có thể Tương Tác
+購入=Mua
+以下の家具を購入しますか？=Bạn có muốn mua nội thất sau đây không?
+[3C404E]収納BOXに収納しました。[-]=[3C404E]Đã lưu vào Hộp Lưu Trữ.[-]
+以下の家具を購入しました。=Bạn đã mua nội thất sau đây.
+
+
+---my sets---
+反転=Lượt
+名前変更=Đổi Tên
+現在の配置を保存=Lưu Bố Trí Hiện Tại
+マイセット保存確認=Lưu Bộ Của Tôi
+この配置で模様替え=Áp Dụng Bố Trí Này
+現在の配置を上書保存=Ghi Đè Bằng Bố Trí Hiện Tại
+
+下記のスロットに現在の配置情報を保存します。\nよろしいですか？=Lưu bố trí hiện tại vào ô sau?
+
+マイセット名=Tên Bộ Của Tôi
+r:"^マイセット(\d+)$"=Bộ của tôi $1
+家具の配置を保存し手軽に呼び出すことができます。=Bạn có thể lưu cách bố trí nội thất.
+r:"^\[3C404E\]現在の配置をマイセット(\d+)に保存しました。\[-\]$"=[3C404E]Lưu vị trí hiện tại vào Bộ Của Tôi $1.[-]
+
+sr:"^(?:\[3C404E\])?\[D13250\](.+)\[-\]\[3C404E\]を\n収納します。よろしいですか？\[-\](?:\[-\])?$"=[3C404E]Đưa [D13250]$1[-]\n vào kho. Đồng ý?[-]
+[FF7C4E,D62146]設定よりダウンロードした動画の端末保存選択ができます。[-]=[FF7C4E,D62146]Bạn có thể chọn lưu video chơi nhỏ\ntải xuống vào thiết bị từ cài đặt.[-]
+[FF7C4E,D62146]未保存のミニゲームプレイ動画をダウンロードします。[-]=[FF7C4E,D62146]Tải xuống video chơi nhỏ chưa lưu.[-]
+---Like a Room---
+ルピが得られるのは１日あたり10件です。=Bạn có thể nhận được Rupies 10 lần mỗi ngày.
+ルピが上限に達している場合、報酬は受け取れません。=Không thể nhận thưởng nếu Rupies đã đạt giới hạn.
+獲得ルピ=Kiếm Rupies
+このギルドハウスにLikeしました。=Bạn đã thích Guildhouse này.
+Like報酬獲得=Đã Nhận Thưởng
+Like済み=THÍCH
+Like人数=Được thích bởi
+訪問者にLikeされました。=Một khách đã thích Guildhouse của bạn
+
+Like報酬=Phần Thưởng
+Like日時=Ngày
+[FFBB00,CE4F00]5ルピ獲得[-]=[FFBB00,CE4F00]Kiếm 5 Rupies[-]
+クランメンバーがいません。=Không có thành viên trong bang.
+このプレイヤーにはすでにLike済みです。=Bạn đã thích người chơi này rồi.
+
+---upgrade notification---
+r:"^プレイヤーLv(\d+)以上 / ([0-9,]+)ルピ$"=P. Lv$1 trở lên & $2 Rupies
+
+ルピ=Rupies
+消費ルピ=Sử Dụng
+Lvアップ条件=Lên Cấp Tiếp
+Lvアップする=Lên Cấp
+Lvアップ確認=Xác Nhận Lên Cấp
+必要時間=Thời Gian
+中止=hủy
+以下の家具をLvアップさせます。よろしいですか？=Nội thất sau sẽ được nâng cấp. Đồng ý?
+Lvアップが完了し、アイテムの生産が開始されました。=Lên cấp đã hoàn thành\nvà sản xuất đồ đã bắt đầu.
+r:"^\[FFBB00,CE4F00\](\d+)分\[-\]$"=[FFBB00,CE4F00]$1 phút[-]
+r:"^(\d+)分(\d+)秒$"=$1 phút $2 giây
+r:"^(\d+)分$"=$1 phút
+r:"^(\d+)秒$"=$1 giây
+Lvアップ中止確認=Xác Nhận Hủy Lên Cấp
+返還ルピ=Hoàn Trả Rupies
+[FF7C4E,D62146]Lvアップに消費したルピは半額戻ります。[-]=[FF7C4E,D62146]Rupi tiêu hao cho Lên Cấp sẽ được hoàn lại một nửa.[-]
+---upgrade done---
+r:"^\[3C404E\]Lv(\d+)→\[-\]\[FFBB00,CE4F00\]Lv(\d+)\[-\]$"=[3C404E]Cấp$1→[-][FFBB00,CE4F00]Cấp$2[-]
+
+sr:"^(\d+時間)?(\d+分)?で(.+)×(\d+)生産、(\d+)まで保管可能\(あと(\d+時間)?(\d+分)?(\d+秒)?\)$"=Sản xuất $3 × $4 mỗi $1$2. Có thể lưu trữ tối đa $5.($6$7$8 còn lại)
+sr:"^(\d+時間)?(\d+分)?で(.+)×(\d+)生産、(\d+)まで保管可能$"=$3 × $4 mỗi $1$2. Có thể lưu trữ tối đa $5.
+r:"^(\d+)秒$"=$1 giây
+r:"^(\d+)分$"=$1 phút
+r:"^(\d+)時間$"=$1 giờ
+---NPC---
+ギルドハウスの\n使い心地は\nどうですか？=Nhà guild của mình\nthật thoải mái,\nphải không?
+ご用があれば\nなんでも言って\nくださいね～♪=Cậu cần gì thì\nbảo mình nhé~♪
+ふぁ～…あっ\n見られちゃい\nましたか？=À...\nCó phải cậu\nthấy rồi không?
+
+好きな家具をレイアウトしてギルドハウスを充実させましょう。家具の中には、冒険に役立つアイテムを獲得できるものもありますよ。=Trang trí nhà guild của mình với những món đồ nội thất yêu thích.\nMột số nội thất có thể cho bạn những món đồ hữu ích trong cuộc phiêu lưu.
+ギルドハウスにいる女の子に、お菓子をプレゼントしてみましょう。たくさんプレゼントすると、絆ランクが上がりますよ。=Hãy thử cho các cô gái trong nhà guild ăn bánh kẹo.\n Cho họ nhiều lên để nâng cao mức độ gắn bó.
+
+
+

@@ -1,0 +1,25 @@
+キミって、もしイタズラするならどんなことするの～？そうだ！　お菓子をあげるけどイタズラしてみて！ほっぺをむにむにしたりしても全然いいよ～♪=Nè nè, nếu mà trêu chọc thì cậu sẽ làm gì tớ thế~? A, đúng rồi! Tớ sẽ cho cậu kẹo, nhưng đổi lại cậu phải trêu tớ đi nhé! Cậu có nhào nặn hay bóp má tớ thì cũng hoàn toàn OK luôn đó~♪
+ん～？　お腹空いたの？　なら私がご飯作るさ～♪せっかくのハロウィンだしカボチャ料理にしよっか！ちょっと待っててね～、愛情を込めて作るさ～♪=Hửm~? Cậu đói bụng rồi hả? Vậy thì để tớ xuống bếp nấu cho cậu nha~♪ Sẵn dịp Halloween nên mình làm món bí ngô đi nhỉ! Đợi tớ một chút nhé~, tớ sẽ nấu bằng tất cả tình yêu thương luôn~♪
+…やっぱり手を放そうかって？　それはダメさ～！この手は絶対に離さないさ～♪さ、行こう！　ハロウィンの夜はこれからさ～♪=...Cậu hỏi là có nên buông tay ra không hả? Không được đâu nha~! Tớ nhất định sẽ không buông bàn tay này ra đâu~♪ Nào, đi thôi! Đêm Halloween bây giờ mới thực sự bắt đầu mà~♪
+いい考えだね～♪　ぎゅ～って繋ぐさ～♪…あれっ？　手を繋いだとたん、なんかドキドキしてきたさ～…どうしてだろ～？=Ý kiến hay đó nha~♪ Mình cứ nắm thật chặt thế này nhé~♪ ...Ơ kìa? Vừa mới nắm tay cái là tự nhiên tim tớ cứ đập thình thịch à~... Tại sao vậy nhỉ~?
+ランドソルのハロウィンって人いっぱいだね～こんなに混んでると迷子になっちゃいそうさ～…え？　離れ離れにならないように手を繋ごう？=Halloween ở Landosol đông vui quá xá luôn~ Đông thế này là dễ lạc nhau lắm đó~... Hả? Cậu bảo mình nắm tay nhau để không bị lạc mất nhau sao?
+ランドソルのあちこちで幽霊がイタズラしてるさ～こんな時こそハロウィンセイバーズの出番だね～♪大丈夫、私たちなら幽霊相手でもなんくるないさ～♪=Đám ma quỷ đang quậy phá khắp nơi ở Landosol kìa~ Những lúc thế này chính là lúc Biệt đội Cứu hộ Halloween ra tay đây~♪ Đừng lo, có hai đứa mình thì dẫu là đối đầu với ma quỷ cũng chẳng vấn đề gì (nankurunaisa) đâu~♪
+はいっ、サーターアンダギー！　たくさん食べてね～♪…キミっておいしそうに食べるよね～見てるこっちまで幸せな気持ちになれるさ～♪=Đây nè, bánh Sata Andagi! Cậu ăn thật nhiều vào nha~♪ ...Cậu ăn trông ngon lành quá đi~ Nhìn cậu ăn mà tớ cũng thấy hạnh phúc lây luôn đó~♪
+こうして二人でお化け屋敷に入るなんて、なんかハロウィンデートっぽいね～♪　…あれ？デートだと思うと、なんか緊張してきたさ～…=Hai đứa mình cùng nhau vào nhà ma thế này, trông cứ như là đang hẹn hò Halloween ấy nhỉ~♪ ...Ơ? Tự dưng nghĩ đến chuyện hẹn hò là tớ thấy run run sao ấy~...
+…へ！？　どうかしたのって？　あはは…そ、それよりも！　ハロウィンはまだ終わらないさ～？もっといっぱい思い出作ろうね～！=Hả!? Cậu hỏi tớ bị sao á? A ha ha... Th-Thay vì chuyện đó! Halloween vẫn chưa kết thúc đâu nha~? Mình hãy cùng nhau tạo thêm thật nhiều kỷ niệm nữa đi~!
+…あれ？　なんでだろう…なんだか顔がすっごく熱くなってきたさ～…好きな人に好きって言っただけなのにどうしてかな～？=...Ơ? Tại sao vậy nhỉ... Tự nhiên mặt tớ thấy nóng bừng bừng luôn nè~... Tớ chỉ vừa mới nói lời yêu với người mình thương thôi mà, sao lại thế được ta~?
+キミと過ごすハロウィンってこんな感じなんだね～胸がポカポカドキドキするさ～やっぱり、好きな人と過ごす時間は特別さ～♪=Thì ra Halloween khi ở bên cậu là cảm giác như thế này đây~ Ngực tớ cứ thấy ấm áp mà tim thì cứ đập liên hồi ấy~ Quả nhiên, thời gian ở bên người mình thích thật là đặc biệt mà~♪
+
+ランドソル_繁華街_ハロウィン_夜=Landosol_Khu Phố Uất_Halloween_Đêm
+誕生日おめでと～！カボチャのサーターアンダギーをいーっぱい作ってきたんだ～遠慮せずたくさん食べるさ～♪=Chúc mừng sinh nhật cậu nha~! Tớ đã làm thật là nhiều bánh Sata Andagi bí ngô nè~ Đừng có ngại, cậu cứ ăn thật thỏa thích đi nha~♪
+ランドソルのハロウィンってでーじ盛り上がるんだね～♪私たちもとことんハロウィンを楽しみまくるさ～！=Halloween ở Landosol náo nhiệt ghê gớm luôn (deeji) nhỉ~♪ Chúng mình cũng phải quẩy hết mình để tận hưởng Halloween thôi nào~!
+ハロウィンの平和は私たちが守るさ～！もし幽霊が出てきてもなんとかしてみせるさ～♪=Hòa bình của đêm Halloween cứ để chúng mình bảo vệ cho~! Cho dù có ma quỷ hiện ra đi nữa thì tớ cũng sẽ có cách giải quyết thôi~♪
+私も仮装してみたいさ～ゴーヤーの仮装はどうかな～？きっと子どもたちの人気者になれるさ～♪=Tớ cũng muốn thử hóa trang quá đi~ Hay là tớ hóa trang thành mướp đắng (goya) nha~? Chắc chắn tớ sẽ trở thành thần tượng của mấy đứa trẻ cho xem~♪
+トリックオアトリート！…あれ、お菓子持ってないの？ならイタズラするしかないね～脇腹くすぐるから覚悟するさ～♪=Trick or Treat! ...Ơ kìa, cậu không có kẹo hả? Vậy thì tớ chỉ còn cách trêu chọc cậu thôi~ Chuẩn bị tinh thần đi, tớ sẽ thọc lét vào hông cậu đó nha~♪
+ハロウィンセイバーズの制服、似合っててかわいいねって？あは～、ありがとね～♪…あれ？　なんか顔が熱いさ～…=Cậu bảo bộ đồng phục Biệt đội Cứu hộ Halloween trông rất hợp và đáng yêu với tớ hả? A ha~, cảm ơn cậu nhiều nha~♪ ...Ơ? Sao mặt tớ cứ thấy nóng nóng thế này~...
+あは～、幽霊たちもおめでと～って言ってるさ～♪誕生日祝いに、みんなで一緒に踊るさ～♪=A ha~, đến cả mấy bạn ma cũng đang chúc mừng sinh nhật cậu kìa~♪ Để ăn mừng sinh nhật, tất cả chúng mình cùng nhau nhảy múa thôi nào~♪
+こうやって踊れば、幽霊とだって友達になれるさ～♪ほら、キミも一緒に自由に楽しく踊るさー！=Nếu mình cứ nhảy múa thế này thì dẫu là ma quỷ cũng có thể kết bạn được luôn đó~♪ Nào, cậu cũng hãy cùng tớ nhảy múa thật tự do và vui vẻ đi!
+これは私の故郷の踊りさ～♪うれしい時とかに、こうして踊るんだよ～踊り方、教えてあげよっか～？=Đây là điệu nhảy ở quê hương tớ đó~♪ Những khi thấy vui sướng là mọi người lại nhảy như thế này nè~ Cậu có muốn tớ dạy cách nhảy cho không~?
+花火って夏のイメージだけど…秋に見る花火も最高さ～！やっぱりランドソルのハロウィンはすごいね～♪=Pháo hoa thường làm người ta liên tưởng đến mùa hè nhưng mà... ngắm pháo hoa vào mùa thu cũng tuyệt vời nhất luôn đó~! Quả nhiên Halloween ở Landosol lợi hại thật sự mà~♪
+花火、でーじきれいでロマンチックだね～♪キミと一緒に見れて、私、すっごく幸せさ～！=Pháo hoa đẹp kinh khủng (deeji) và lãng mạn quá đi~♪ Được ngắm pháo hoa cùng với cậu, tớ thấy hạnh phúc lắm luôn đó~!
+キミと過ごすハロウィンはとびきり特別さ～♪一生忘れられないくらい楽しい夜にしようね～♪=Halloween khi ở bên cậu thật là đặc biệt hơn bao giờ hết~♪ Mình hãy biến đêm nay thành một đêm vui vẻ đến mức cả đời cũng không quên được nhé~♪

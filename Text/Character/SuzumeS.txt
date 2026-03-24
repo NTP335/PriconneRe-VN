@@ -1,0 +1,53 @@
+##Profile##
+お嬢さまのためにがんばるドジっ娘メイド=Một hầu gái vụng về luôn cố gắng hết sức cho chủ nhân
+
+【魔法】後衛の防衛能力に秀でた、夏のドジっ娘メイド。味方全体に防御力アップと継続ＨＰ回復をかけ、さらに壁になるゴーレムを呼んで、戦線を支える。=[Ma thuật] Một hầu gái vụng về hỗ trợ từ hậu phương. Cô ấy tăng phòng thủ cho đồng minh và cung cấp Hồi HP, đồng thời triệu hồi golem để bảo vệ họ.
+
+##UB##
+トロピカルバケーション=Kỳ Nghỉ Nhiệt Đới
+味方全体の物理防御力と魔法防御力を小アップさせ、さらに継続ＨＰ回復状態を付与する。=Tăng nhẹ Phòng thủ Thể chất (P.DEF) và Phòng thủ Ma thuật (M.DEF) của đồng minh. Ban tặng Hồi HP cho tất cả đồng minh.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Tăng P.DEF của đồng minh lên $1.\n►Tăng M.DEF của đồng minh lên $1.\n►Hồi HP $2/giây.
+
+味方全体の物理・魔法攻撃力を特大アップ、物理・魔法防御力を小アップさせ、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。=Tăng cực đại tấn công vật lý và ma thuật, tăng nhẹ phòng thủ vật lý và ma thuật cho toàn thể đồng minh, đồng thời ban trạng thái hồi phục HP liên tục và triển khai rào chắn vô hiệu hóa sát thương vật lý/ma thuật.
+r:"^味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の物理・魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tăng $1 tấn công vật lý và ma thuật cho toàn thể đồng minh trong 18 giây.\n►Tăng $2 phòng thủ vật lý và ma thuật cho toàn thể đồng minh trong 18 giây.\n►Hồi phục $3 HP mỗi giây cho toàn thể đồng minh trong 10 giây.\n►Triển khai rào chắn vô hiệu hóa sát thương vật lý và ma thuật hấp thụ $4 sát thương trong 18 giây.
+
+
+##S1##
+ぷちゴーレムサモン=Triệu hồi Mini-Golem
+【召喚】自分の前に、目の前の敵１キャラを攻撃するぷちゴーレムを召喚する。=[Triệu hồi] Triệu hồi một mini-golem trước mặt bản thân, tấn công kẻ địch đứng ngay phía trước.
+r:"^ぷちゴーレムを召喚する$"=►Triệu hồi Mini-Golem.
+
+##S2##
+ソーダエール=Soda Support
+一番前の味方を中心とした範囲内の味方すべての魔法防御力を中アップさせる。=Tăng M.DEF vừa phải cho đồng minh trong phạm vi xung quanh đồng minh đứng trước nhất.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của đồng minh trong phạm vi lên $1.
+
+##EX##
+トロピカルメイド=Tropical Maid
+バトル開始時に自分の魔法防御力を中アップさせる。=Tăng M.DEF vừa phải cho bản thân khi bắt đầu trận đấu.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân lên $1.
+トロピカルメイド+=Tropical Maid+
+バトル開始時に自分の魔法防御力を中アップさせ、さらに物理防御力を小アップさせる。=Tăng M.DEF vừa phải và tăng P.DEF nhỏ cho bản thân khi bắt đầu trận đấu.
+r:"^自分の魔法防御力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân lên $1.\n►Tăng P.DEF của bản thân lên $2.
+
+##S1+##
+ぷちゴーレムサモン+=Summon Mini-Golem+
+【召喚】自分の前に、目の前の敵１キャラを攻撃するぷちゴーレムを召喚し、さらに一番前の味方の周囲に物理防御力と魔法防御力を大アップさせるフィールドを展開する。=[Triệu hồi] Triệu hồi một mini-golem trước mặt bản thân, tấn công kẻ địch đứng ngay phía trước. Tạo một trường lực xung quanh đồng minh đứng trước nhất, tăng P.DEF và M.DEF lớn.
+r:"^ぷちゴーレムを召喚する物理防御力を(\d+)アップさせるフィールドを展開する魔法防御力を(\d+)アップさせるフィールドを展開する$"=►Triệu hồi Mini-Golem.\n►Tạo trường lực tăng P.DEF của đồng minh lên $1.\n►Tạo trường lực tăng M.DEF của đồng minh lên $2.
+
+##S2+##
+ソーダエール+=Soda Support+
+自分を中心とした範囲内の味方すべての魔法防御力、物理・魔法攻撃力を特大アップさせ、ＨＰを中回復して魔法吸収バリアを展開する。=Tăng cực đại phòng thủ ma thuật, tấn công vật lý và ma thuật cho toàn thể đồng minh trong phạm vi quanh bản thân, đồng thời hồi phục vừa HP và triển khai rào chắn hấp thụ sát thương ma thuật.
+
+r:"^範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の物理・魔法攻撃力を(\d+)アップ範囲内の味方のＨＰを(\d+)回復(\d+)ダメージ分の魔法吸収バリアを展開する$"=Thời gian thi triển: 0.92 giây\n►Tăng $1 phòng thủ ma thuật cho đồng minh trong phạm vi 600 trong 18 giây.\n►Tăng $2 tấn công vật lý và ma thuật cho đồng minh trong phạm vi 600 trong 18 giây.\n►Hồi phục $3 HP cho đồng minh trong phạm vi 600.\n►Triển khai rào chắn hấp thụ sát thương ma thuật trị giá $4 cho đồng minh trong phạm vi 600 trong 18 giây.
+
+
+
+##UE##
+陽杖シャインサンデー=Shining Sunday
+思い出の麦わら帽子=Chiếc mũ rơm của ký ức
+
+##S1++##
+ぷちゴーレムサモン++=Summon Mini-Golem++
+【召喚】スズメ（サマー）が召喚したぷちゴーレムが味方にいる場合、ぷちゴーレムのＨＰを中回復させ、そうでない場合、前方にぷちゴーレムを召喚する。さらに、自分を中心とした範囲内の味方すべての物理・魔法防御力を大アップ、ＨＰとＴＰを小回復するフィールドを展開する。=【Triệu hồi】 Nếu có Petit Golem do Suzume (Summer) triệu hồi đang ở trên sân, hồi phục vừa HP cho Petit Golem; nếu không, triệu hồi một Petit Golem ở phía trước. Thêm vào đó, triển khai một trường (field) xung quanh bản thân giúp tăng lớn phòng thủ vật lý và ma thuật, đồng thời hồi phục nhẹ HP và TP cho toàn thể đồng minh trong phạm vi.
+r:"^ぷちゴーレムのＨＰを(\d+)回復ぷちゴーレムを召喚する物理・魔法防御力を(\d+)アップさせるフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する毎秒ＴＰを10回復するフィールドを展開する$"=Thời gian thi triển: 0.85 giây\n►Hồi phục $1 HP cho [Mini Golem].\n►Triệu hồi một [Mini Golem].\n►Triển khai trường tăng $2 phòng thủ vật lý và ma thuật.\n►Triển khai trường hồi phục $3 HP mỗi giây.\n►Triển khai trường hồi phục 10 TP mỗi giây.

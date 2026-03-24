@@ -1,0 +1,67 @@
+##Profile##
+さまよえる謎の少女=Một thiếu nữ lang thang với quá khứ bí ẩn
+
+【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。小技を駆使する通常の戦闘スタイルから一転、ユニオンバースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。=[Vật Lý] Một cô gái kiên quyết, trừng phạt kẻ thù từ tuyến đầu bằng thanh kiếm huyền thoại của mình. Khi trang bị Spiresbane Blade sau Union Burst, cô chuyển từ kỹ năng kỹ thuật sang đợt tấn công toàn diện.
+
+##UB##
+天楼覇断剣=Spiresbane Blade
+目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Gây sát thương vật lý cực lớn lên kẻ địch ngay phía trước. Trang bị Spiresbane Blade cho đến khi TP cạn kiệt.\nThay đổi hiệu ứng kỹ năng cho đến khi TP cạn (100 TP/giây) và chuyển vòng đánh thành Vòng Lặp (UB).\nKhôi phục hiệu ứng kỹ năng sau khi TP về 0.\n(UB không tiêu hao TP)
+
+
+
+##S1##
+ビビらせてやる！=Sợ chưa?!
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch trong phạm vi, gây choáng và đẩy lùi chúng nhẹ.
+r:"^斬撃で範囲内の敵に(\d+)の物理ダメージ蹴りで範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=Thời gian thi triển: 0.34s\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây choáng lên mục tiêu bị act 1 đánh trúng trong 1.5s.\n►Đẩy lùi mục tiêu bị act 2 đánh trúng.
+
+##S2##
+こっちだこっち！=Theo đây!
+前方範囲内の敵すべての物理防御力を小ダウンさせる。=Giảm phòng thủ vật lý của tất cả kẻ địch trong phạm vi một chút.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=►Giảm phòng thủ vật lý của kẻ địch trong phạm vi đi $1.
+
+##SP1##
+装備中=Khi trang bị
+このスキルのスキルレベルは「天楼覇断剣」と連動しています=Cấp độ kỹ năng này liên kết với "Spiresbane Blade"
+天楼廻刃斬=Spiresplitter Sweep
+
+##SP2##
+天楼閃薙斬=Spirespin Slice
+自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong phạm vi xung quanh bạn.
+
+##EX##
+ポテンシャルフォース=Potential Force
+ポテンシャルフォース+=Potential Force+
+
+##UB+##
+真破・天楼覇断剣=True Destruction: Spiresbane Blade
+前方の敵すべてに物理特大ダメージを与える。ＴＰが無くなるまでの間、真破・天楼覇断剣を装備し、装備中にスキルを使用する際、追加の物理大ダメージを与える。さらにバトル終了まで自分が敵から受ける行動不能を無効化する。=Gây sát thương vật lý cực lớn lên tất cả kẻ địch phía trước. Trong khi TP còn tồn tại, trang bị "True Destruction: Spiresbane Blade" và khi sử dụng kỹ năng khi đã trang bị, gây thêm sát thương vật lý cực lớn. Ngoài ra, vô hiệu hóa mọi kiểm soát đám đông (Crowd Control) kẻ địch gây ra cho bản thân cho đến hết trận.
+###OLD r:"^範囲内の敵に(\d+)の物理ダメージ自分が敵から受ける行動不能を無効化する$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Chuyển sang Mẫu Đánh 2 cho đến khi TP về 0.\n►Vô hiệu hóa hiệu ứng vô dụng trên bản thân.\n►Tiêu hao 100 TP/giây.
+
+
+前方の敵すべてに物理特大ダメージを与える。ＴＰが無くなるまでの間、真破・天楼覇断剣を装備し、装備中にスキルを使用する際、追加の物理大ダメージを与える。バトル開始後、初弾のこのスキルはバトル終了まで自分の物理・魔法防御力を大アップし、敵から受ける行動不能を無効化し、受けるダメージを50％軽減する状態になる。自分より前に味方がいない場合、ダメージ軽減状態は解除される。=Gây sát thương vật lý cực đại lên tất cả kẻ địch phía trước. Cho đến khi cạn kiệt TP, trang bị "Chân Phá - Thiên Lâu Bá Đoạn Kiếm", và khi sử dụng kỹ năng trong lúc đang trang bị sẽ gây thêm sát thương vật lý lớn. Trong lần đầu sử dụng sau khi bắt đầu trận đấu, kỹ năng này sẽ tăng mạnh phòng thủ vật lý và ma pháp của bản thân cho đến khi kết thúc trận đấu, vô hiệu hóa các hiệu ứng khống chế từ kẻ địch và đưa bản thân vào trạng thái giảm 50% sát thương nhận vào. Nếu không còn đồng đội nào đứng phía trước bản thân, trạng thái giảm sát thương sẽ bị hủy bỏ.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理・魔法防御力を(\d+)アップ自分が敵から受ける行動不能を無効化する自分をダメージ軽減状態にする$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Tăng $2 phòng thủ vật lý và ma pháp của bản thân trong 180 giây.\n►Vô hiệu hóa các hiệu ứng khống chế lên bản thân.\n►Đưa bản thân vào trạng thái Giảm sát thương.\n►Tiêu tốn 100 TP mỗi giây.
+
+##S1+##
+ビビらせてやる！+=Sợ chưa?!+
+前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi, gây choáng và đẩy lùi chúng nhẹ.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=Thời gian thi triển: 0.34 giây.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 300.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 300.\n►Gây choáng kẻ địch trong phạm vi 300 trong 1.5 giây.\n►Đẩy lùi kẻ địch một khoảng 200.
+##SP1+##
+天楼廻刃斬+=Spiresplitter Sweep+
+
+##UE##
+絆の証=Proof of Bonds
+
+##SP1++##
+天楼廻刃斬++=Spiresplitter Sweep++
+目の前の敵１キャラに物理特大ダメージを与える。発動時の自分の残りＴＰに応じてこのスキルのダメージがアップする。敵の数が１キャラの場合、自分のＴＰを大回復する。=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt. Sát thương của kỹ năng này tăng dựa trên lượng TP còn lại của bản thân tại thời điểm kích hoạt. Nếu chỉ có duy nhất 1 kẻ địch, hồi phục mạnh TP cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする敵の数が１キャラの場合、自分のＴＰを500回復$"=Thời gian thi triển: 0.25 giây.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây trạng thái mất khả năng hành động lên kẻ địch trong phạm vi trong một khoảng thời gian.\n\nNếu chỉ có 1 kẻ địch:\n►Hồi phục 500 TP cho bản thân.
+
+##S1++##
+ビビらせてやる！++=Feeling Scared Yet?!++
+前方範囲内の敵すべてに物理中ダメージを２回与え、スタンさせ、小さく吹き飛ばす。敵の数が１キャラの場合、自分のＴＰを大回復する。=Gây sát thương vật lý vừa 2 lần lên toàn bộ kẻ địch trong phạm vi phía trước, gây choáng và đánh bật lùi nhẹ. Nếu chỉ có duy nhất 1 kẻ địch, hồi phục mạnh TP cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする敵単体に(\d+)の物理ダメージ敵の数が１キャラの場合、自分のＴＰを500回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây trạng thái mất khả năng hành động lên kẻ địch trong phạm vi trong một khoảng thời gian.\n►Gây $3 sát thương vật lý lên một mục tiêu.\n\nNếu chỉ có 1 kẻ địch:\n►Hồi phục 500 TP cho bản thân.
+
+目の前の敵１キャラに物理特大ダメージを与える。このスキルのスキルレベルは「天楼覇断剣」と連動しています=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt. Cấp độ của kỹ năng này được liên kết với "Thiên Lâu Bá Đoạn Kiếm".
+
+前方範囲内の敵すべてに物理小ダメージを２回与え、さらにスタンさせて小さく吹き飛ばす。=Gây sát thương vật lý nhỏ 2 lần lên toàn bộ kẻ địch trong phạm vi phía trước, đồng thời gây choáng và đánh bật lùi nhẹ.

@@ -1,0 +1,34 @@
+##Profile##
+【魔法】後衛で、メイド業に奔走する双子ドラゴンの姉。ＵＢのフィールド展開中は攻撃、防御、ＴＰ回復と多彩な支援スキルの効果が再発動し味方を手厚くサポートする。=[Magic] Chị cả của cặp song sinh hầu gái rồng, dành trọn tâm huyết cho nhiệm vụ hầu gái ở hậu phương. UB của cô triển khai một trường tăng tấn công và phòng thủ, đồng thời hồi TP, và kích hoạt lại hiệu ứng của các kỹ năng hỗ trợ. Với những điều này, cô mang lại sự hỗ trợ tinh tế và lịch sự.
+
+豊田萌絵=Toyoda Moe
+妹と過ごす休日=Days off with my sister
+真面目で一生懸命なドラゴンメイド=Một hầu gái rồng nghiêm túc, chăm chỉ.
+姉=Chị cả
+
+##UB##
+シンシアリーサービス=Sincere Service
+自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに、ＨＰを中回復し、範囲内の味方すべてのＨＰを小回復するフィールドを展開する。=Tăng rất lớn M.ATK cho đồng minh trong phạm vi, tăng rất lớn M.CRIT Rate của họ, tăng chút ít M.CRIT DMG, và hồi HP vừa phải. Đồng thời triển khai một trường xung quanh bản thân liên tục hồi HP cho đồng minh trong phạm vi.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを100アップ範囲内の味方の魔法攻撃クリティカル時のダメージを10％アップ範囲内の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Tăng M.ATK của đồng minh trong phạm vi 300 lên $1 trong 18s.\n►Tăng M.CRIT Rate của đồng minh trong phạm vi 300 thêm 100 trong 18s.\n►Tăng M.CRIT DMG của đồng minh trong phạm vi 300 thêm 10% trong 18s.\n►Hồi HP của đồng minh trong phạm vi 300 lên $2.\n►Triển khai một trường bán kính 410 hồi HP của đồng minh thêm $3/giây trong 18s.
+
+##S1##
+お掃除します！=I'll Clean Up!
+自分を中心とした範囲内の味方すべての魔法攻撃力と魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップさせる。【フィールド展開中】このスキルの効果がもう一度発動する。=Tăng vừa phải M.ATK và M.CRIT Rate cho đồng minh trong phạm vi, và tăng chút ít M.CRIT DMG. Kỹ năng này kích hoạt hai lần nếu trường của cô đang có hiệu lực.
+r:"^フィールド展開中、以下の効果がもう一度発動する範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを50アップ範囲内の味方の魔法攻撃クリティカル時のダメージを4％アップ$"=►Tăng M.ATK của đồng minh trong phạm vi 300 lên $1 trong 12s.\n►Tăng M.CRIT Rate của đồng minh trong phạm vi 300 thêm 50 trong 12s.\n►Tăng M.CRIT DMG của đồng minh trong phạm vi 300 thêm 4% trong 12s.
+
+##S2##
+差し入れですよ♪=A Treat For You ♪
+自分を中心とした範囲内の味方すべての魔法攻撃力と魔法防御力を中アップし、魔法無効バリアを展開する。さらに、ＴＰを小回復する。【フィールド展開中】このスキルの効果がもう一度発動する。=Tăng vừa phải M.ATK và M.DEF cho đồng minh trong phạm vi, triển khai Barrier cho đồng minh trong phạm vi có khả năng hóa giải M.DMG, và hồi TP chút ít. Kỹ năng này kích hoạt hai lần nếu trường của cô đang có hiệu lực.
+r:"^フィールド展開中、以下の効果がもう一度発動する範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法無効バリアを展開する範囲内の味方のＴＰを60回復$"=►Tăng M.ATK của đồng minh trong phạm vi 300 lên $1 trong 12s.\n►Tăng M.DEF của đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Triển khai Barrier cho đồng minh trong phạm vi 300 có khả năng hóa giải $3 M.DMG trong 12s.\n►Hồi TP của đồng minh trong phạm vi lên 60.
+
+##EX##
+お洗濯マイスター=Laundry Meister
+お洗濯マイスター+=Laundry Meister+
+
+##S1+##
+お掃除します！+=I'll Clean Up!+
+ドラゴンメイドモップ=Dragon Maid Mop
+
+自分を中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップさせる。【フィールド展開中】このスキルの効果がもう一度発動する。=Tăng rất lớn M.ATK cho tất cả đồng minh trong phạm vi lấy bản thân làm trung tâm, tăng vừa phải M.CRIT RATE, và tăng chút ít M.CRIT DMG. [Trong khi trường đang triển khai] Hiệu ứng của kỹ năng này kích hoạt thêm một lần nữa.
+
+r:"^フィールド展開中、以下の効果がもう一度発動する範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを50アップ範囲内の味方の魔法クリダメを6％アップ$"=►Trong khi [Trường] đang hoạt động, các hiệu ứng sau kích hoạt lại:\n►Tăng M.ATK của đồng minh trong phạm vi lên $1.\n►Tăng M.CRIT RATE của đồng minh trong phạm vi thêm 50.\n►Tăng M.CRIT DMG của đồng minh trong phạm vi thêm 6%.

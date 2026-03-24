@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で、味方を鼓舞して戦う、キュートな少女。味方をＴＰや攻撃力をアップさせるスキルでサポートし、自身も強力な範囲攻撃で敵をなぎ払う。=[Vật lý] Một cô gái dễ thương hỗ trợ và cổ vũ đồng đội từ tuyến giữa. Ngoài các kỹ năng có thể tăng TP và sức tấn công cho bạn bè, cô ấy cũng có thể tự xử lý kẻ địch bằng các đòn tấn công diện rộng mạnh mẽ.
+
+##UB##
+スマイリング・ブレイブ=Smiling Bravery
+前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を中アップさせる。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong phạm vi. Tăng trung bình P.ATK và M.ATK cho tất cả đồng đội.
+
+##S1##
+レボリューションスマイル=Revolutionary Smile
+味方全体のＴＰを小回復し、さらにＴＰ上昇を小アップさせる。=Hồi một lượng nhỏ TP cho tất cả đồng đội và tăng nhẹ hiệu quả Tăng TP của họ.
+## 260lvl
+味方全体のＴＰを小回復し、さらにＴＰ上昇を小アップさせ、さらに物理攻撃力と魔法攻撃力を小アップさせる。=Hồi một lượng nhỏ TP cho tất cả đồng đội và tăng nhẹ hiệu quả Tăng TP của họ. Đồng thời tăng nhẹ P.ATK và M.ATK của họ.
+
+##S2##
+ピンキー・ライブリィ=Pink Lively
+自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi.
+
+##EX##
+笑顔の魔法=Magical Smile
+笑顔の魔法+=Magical Smile+
+
+##S1+##
+レボリューションスマイル+=Revolutionary Smile+
+味方全体のＴＰを小回復し、ＴＰ上昇を小アップさせ、さらに物理攻撃力と魔法攻撃力を大アップさせる。=Hồi một lượng nhỏ TP cho tất cả đồng đội, tăng nhẹ hiệu quả Tăng TP của họ và tăng mạnh P.ATK cùng M.ATK của họ.
+r:"^味方全体のＴＰを(\d+)回復\n味方全体のＴＰ上昇を(\d+)アップ\n味方全体の物理攻撃力を(\d+)アップ\n味方全体の魔法攻撃力を(\d+)アップ$"=►Hồi TP của tất cả đồng đội bằng $1.\n►Tăng hiệu quả Tăng TP của tất cả đồng đội bằng $2.\n►Tăng P.ATK của tất cả đồng đội bằng $3 trong 12s.\n►Tăng M.ATK của tất cả đồng đội bằng $4 trong 12s.
+
+##UE##
+ステージオブキュート=Cute Stage

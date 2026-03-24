@@ -1,0 +1,38 @@
+【物理】後衛で、喪われた光を求めてもがく元『六凶』。敵のＵＢを遅延する【遮絶の操糸】や、味方単体のＵＢを連続発動可能にする【賦活の糸】を戦場に張り巡らせる。=[Vật lý] Hậu phương cựu "Six Calamities" tìm kiếm ánh sáng đã mất. Triển khai sợi chỉ làm chậm UB kẻ địch và cho phép đồng minh spam UB trên chiến trường.
+光を追うこと、整理整頓=Theo đuổi ánh sáng, sắp xếp và dọn dẹp.
+
+新たな道を歩み始めた女郎蜘蛛=Một arachne đã bắt đầu bước đi trên con đường mới.
+
+##UB##
+ウィドウ・ウェヴ・ウィーヴ=Widow Web Weave
+味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与する。自分以外の物理攻撃をする味方のうち最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップさせ、【賦活の糸】を１つ付与する。【賦活の糸】が付与されているキャラがＵＢを使用した場合、そのキャラの【賦活の糸】を１つ消費し、ＴＰを特大回復する。【賦活の糸】は最大１つまで追加される。=Triển khai một rào cản vô hiệu hóa vật lý/phép thuật cho tất cả đồng minh và trao trạng thái hồi HP liên tục. Tăng mạnh P.ATK của đồng minh có P.ATK cao nhất trong số đồng minh khác bản thân thực hiện tấn công vật lý, và trao 1 [Revitalizing Thread]. Nếu nhân vật có [Revitalizing Thread] sử dụng UB, tiêu thụ 1 [Revitalizing Thread] từ nhân vật đó và hồi TP mạnh. [Revitalizing Thread] có thể được thêm tối đa 1.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する対象の味方の物理攻撃力を(\d+)アップ対象の味方に賦活の糸を付与する対象の味方がＵＢを使用した時に、賦活の糸を１つ消費し、ＴＰを1000回復$"=►Triển khai Rào cản Vô hiệu Vật lý/Phép thuật hấp thụ $1 sát thương.\n►Hồi HP $2 mỗi giây.\n►Tăng P.ATK của đồng minh mục tiêu lên $3.\n►Trao [Activation Thread] cho đồng minh mục tiêu.\n►Khi đồng minh mục tiêu dùng UB: Tiêu thụ 1 [Activation Thread] và hồi 1000 TP.
+
+##S1##
+忘却の財禍=Tai ương lãng quên
+味方全体のＴＰ上昇を小アップし、自分以外の味方全体のＴＰを小回復する。さらに、味方全体の物理攻撃力を特大アップ、物理防御力と魔法防御力を中アップする。=Tăng nhẹ TP Boost cho tất cả đồng minh, và hồi nhẹ TP cho tất cả đồng minh ngoại trừ bản thân. Hơn nữa, tăng mạnh P.ATK cho tất cả đồng minh, và tăng trung bình P.DEF và M.DEF của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰ上昇を5アップ自分以外の味方全体のＴＰを100回復$"=►Tăng P.ATK cho tất cả đồng minh lên $1.\n►Tăng P.DEF cho tất cả đồng minh lên $2.\n►Tăng M.DEF cho tất cả đồng minh lên $3.\n►Tăng TP Boost cho tất cả đồng minh lên 5.\n►Hồi TP cho tất cả đồng minh ngoại trừ bản thân 100.
+
+##S2##
+粘つく白糸=Sợi tơ trắng dính dớp
+目の前の敵１キャラの物理攻撃力と魔法攻撃力を大ダウン、物理防御力を小ダウンさせ、物理攻撃を受けた際のダメージを小アップさせる。=Giảm mạnh P.ATK và M.ATK của kẻ địch phía trước, giảm nhẹ P.DEF của họ, và tăng nhẹ sát thương vật lý mà họ nhận.
+
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体が受ける物理ダメージを3％アップ$"=►Giảm P.ATK của một kẻ địch lên $1.\n►Giảm M.ATK của một kẻ địch lên $2.\n►Giảm P.DEF của một kẻ địch lên $3.\n►Tăng sát thương vật lý mà một kẻ địch nhận lên 3%.
+
+##EX##
+光射す方へ=Hướng về nơi ánh sáng rạng ngời
+光射す方へ+=Hướng về nơi ánh sáng rạng ngời+
+
+逃れ得ぬカルマ=Nghiệp chướng khó lòng thoát khỏi
+敵単体を遮絶の操糸状態にする物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Khiến một kẻ địch rơi vào trạng thái dây cô lập.\nKhiến kẻ địch có sức tấn công cao nhất, dù là P.ATK hay M.ATK, rơi vào trạng thái dây cô lập. Trong khi ở trạng thái dây cô lập, TP không tăng.
+
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Khiến kẻ địch có sức tấn công cao nhất, dù là P.ATK hay M.ATK, rơi vào trạng thái dây cô lập. Trong khi ở trạng thái dây cô lập, TP không tăng.
+敵単体を遮絶の操糸状態にする=Khiến một kẻ địch rơi vào trạng thái dây cô lập.
+
+Story Title Cards
+逃れられない過去=Quá khứ không thể trốn chạy
+脱出、あるいは運命の再会=Thoát thân, hoặc là cuộc tái ngộ định mệnh
+小さな従者と大きな従者=Người hầu nhỏ bé và Người hầu to lớn
+わたしの光=Ánh sáng của ta
+
+

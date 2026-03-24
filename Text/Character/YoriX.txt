@@ -1,0 +1,32 @@
+##Profile##
+【魔法】中衛で、光を灯し幸せを届ける双子の姉サンタ。最も近い１キャラの魔法攻撃力や行動速度アップ、ＴＰの回復に加え、全員を支援するスキルで聖夜の勝利を飾る。=[Ma thuật] Một ông già Noel song sinh lớn tuổi chiếu sáng và mang lại hạnh phúc từ hàng giữa. Tăng M.ATK và tốc độ hành động của đồng minh gần nhất, hồi TP, và sử dụng kỹ năng hỗ trợ mọi người, trang trí chiến thắng của đêm thánh.
+
+やきもきするのは誰のせい=Who's fault is
+エンジェル・オン・アイス=Angel on Ice
+伝えてリトルエンジェル=Tell me Little Angel
+
+##UB##
+ホーリーナイトハプニング=Holy Night Happening
+目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を大ダウンさせる。=Gây sát thương ma thuật lớn cho kẻ thù phía trước và giảm mạnh M.DEF của nó.
+
+##S1##
+エンジェルウィッシュ=Angel Wish
+味方全体の魔法攻撃力を中アップさせ、ＨＰを中回復させる。=Tăng vừa phải M.ATK của tất cả đồng minh và hồi HP của họ một chút.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=Thời gian niệm: 0.59s\n►Tăng M.ATK của tất cả đồng minh lên $1 trong 12s.\n►Hồi HP của tất cả đồng minh $2.
+
+##S2##
+エンジェルコーデ=Angel Coordination
+最も近くの味方１キャラの魔法攻撃力と行動速度を特大アップさせ、ＴＰを大回復する。=Tăng rất mạnh M.ATK và tốc độ hành động của đồng minh gần nhất và hồi rất nhiều TP của nó.
+r:"^味方単体の魔法攻撃力を(\d+)アップ味方単体の行動速度アップ味方単体のＴＰを(\d+)回復$"=Thời gian niệm: 0.59s\n►Tăng M.ATK của đồng minh gần nhất lên $1 trong 12s.\n►Tăng tốc độ hành động của đồng minh gần nhất lên 250% trong 12s.\n►Hồi TP của đồng minh gần nhất $2.
+
+##EX##
+エンジェルセレブレーション=Angel Celebration
+エンジェルセレブレーション+=Angel Celebration+
+
+##S1+##
+エンジェルウィッシュ+=Angel Wish+
+味方全体の魔法攻撃力を大アップさせ、ＨＰを中回復させる。さらに最も近くの味方１キャラの魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng mạnh M.ATK của tất cả đồng minh và hồi HP của họ một chút. Ngoài ra, tăng một chút Sát thương CHÍ MẶT M của đồng minh gần nhất.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復味方単体の魔法攻撃クリティカル時のダメージを10％アップ$"=Thời gian niệm: 0.59s\n►Tăng M.ATK của tất cả đồng minh lên $1.\n►Hồi HP của tất cả đồng minh $2.\n►Tăng Sát thương CHÍ MẶT M của đồng minh gần nhất lên 10% trong 12s.
+
+##UE##
+ヨリからのぬいぐるみ=Yori's Stuffed Animal

@@ -1,0 +1,58 @@
+{playername} and Pecorine have successfully defeated\nthe monsters that were attacking Rin.= {playername} và Pecorine đã đánh bại thành công\nlũ quái vật đang tấn công Rin.
+Responding to Rin's pleas for help,\nthey follow her in the direction of the farm.=Đáp lại lời cầu cứu của Rin,\nhọ đi theo cô về phía trang trại.
+But a terrible scene awaits them...=Nhưng một cảnh tượng kinh khủng đang chờ đợi họ...
+Whoa?!\nWhat the... What exactly is happening here?!=Oa?!\nCái gì... Chính xác thì chuyện gì đang xảy ra ở đây thế này?!
+It's monsters upon monsters as far as the eye can see!\nNot that that's anything new for me personally...\nBut even I'm not used to encountering quite this many.=Toàn là quái vật với quái vật, nhiều như quân nguyên luôn!\nKhông phải là chuyện gì quá mới mẻ với cá nhân tôi...\nNhưng ngay cả tôi cũng không quen với việc chạm trán nhiều đến mức này.
+I suppose I should ask just to make sure, but...\nThis Elizabeth Park guild of yours\nwouldn't happen to be a monster farm, would it?=Tôi đoán mình nên hỏi lại cho chắc, nhưng mà...\nHội Elizabeth Park này của các cô\nkhông phải là một trang trại nuôi quái vật đấy chứ?
+Of course not! We're an ordinary farm!\nWe just raise normal animals! Well, we might have\none or two monsters, but mostly, it's just cows and stuff!=Dĩ nhiên là không rồi! Chúng tôi là một trang trại bình thường!\nChúng tôi chỉ nuôi động vật bình thường thôi! À thì, có thể có\nmột hoặc hai con quái vật, nhưng chủ yếu là bò và mấy thứ tương tự!
+Ahhh, how did all this happen?\nI-I swear everything was normal here yesterday!=Aaaaa, sao chuyện này lại xảy ra cơ chứ?\nT-tôi thề là hôm qua mọi thứ ở đây vẫn bình thường mà!
+This morning, I overslept like I always do...\nAnd when I woke up at lunchtime, it was like this!\nI-I didn't know what to think!=Sáng nay, tôi lại ngủ nướng như mọi khi...\nVà khi tôi thức dậy vào giờ trưa, mọi chuyện đã thành ra thế này!\nT-tôi không biết phải nghĩ gì nữa!
+Lima said I should go call for help,\nso I went scrambling down the mountain...\n*sniff* And that's when I found you guys...=Lima bảo tôi nên đi gọi người giúp đỡ,\nnên tôi đã tất tả chạy xuống núi...\nsụt sịt Và đó là lúc tôi tìm thấy mọi người...
+I'm the only one who made it out...\nEveryone else is still back at the farm!\nY-you've gotta help them!=Tôi là người duy nhất thoát được ra ngoài...\nMọi người khác vẫn còn kẹt ở trang trại!\nM-mọi người phải giúp họ với!
+Please! I'll do anything!\nHere, you can even have the prize acorns I was saving up!=Làm ơn đi! Tôi sẽ làm bất cứ điều gì!\nĐây, mọi người thậm chí có thể lấy mấy hạt dẻ giải thưởng mà tôi đã để dành này!
+Ooh, acorns! They can be pretty tasty!\nEspecially these days, when they've been bred for flavor...\nAnyway, don't you worry! I'll take care of this!=Ồ, hạt dẻ hả! Chúng có thể khá ngon đấy!\nĐặc biệt là dạo này, khi chúng được lai tạo để tăng hương vị...\nDù sao thì, đừng lo lắng! Tôi sẽ lo liệu chuyện này!
+{playername},\nyou and Rin know each other, right?= {playername},\ncậu và Rin quen biết nhau, đúng không?
+
+Yep, we're friends.=Ừ, bọn tớ là bạn.
+
+Excellent!\nThen you take her with you,\nand hurry back to Landosol to fetch some backup!=Tuyệt lắm!\nVậy cậu hãy đưa cô ấy đi cùng,\nvà mau chóng quay lại Landosol để gọi thêm viện binh!
+I'll stay here\nand rescue the people still stuck inside the farm!=Tớ sẽ ở lại đây\nvà giải cứu những người vẫn đang kẹt bên trong trang trại!
+There really are an awful lot of monsters,\nso it might be a bit of a struggle...\nBut hey, I'll manage!=Thực sự có rất nhiều quái vật,\nnên có lẽ sẽ hơi vất vả một chút...\nNhưng không sao, tớ sẽ xoay xở được!
+I... I wanna fight too!\nGuarding this farm and defending it from danger\nis supposed to be my job!=Tôi... tôi cũng muốn chiến đấu nữa!\nCanh gác trang trại này và bảo vệ nó khỏi nguy hiểm\nvốn là công việc của tôi mà!
+But look at me... Always slacking off and messing around...\nI was asleep when everyone needed me...=Nhưng nhìn tôi mà xem... Lúc nào cũng lười biếng và ham chơi...\nTôi đã ngủ quên khi mọi người cần tôi nhất...
+After the guys at Elizabeth Park\nhave done so much for me, too!\nThey're gonna be OK, right? They're not dead, right?!=Trong khi mọi người ở Elizabeth Park\nđã làm rất nhiều điều cho tôi nữa!\nHọ sẽ ổn thôi đúng không? Họ chưa chết, đúng không?!
+I couldn't really say...\nI'd certainly like to hope they're all safe and sound...=Tôi thực sự không thể nói trước được...\nTôi dĩ nhiên rất hy vọng tất cả họ đều bình an vô sự...
+But with all these monsters blocking our view,\nit's hard to say anything for sure.\nThis really is a nasty little mess!=Nhưng với tất cả lũ quái vật đang chắn tầm mắt thế này,\nthật khó để khẳng định điều gì chắc chắn cả.\nĐây đúng là một mớ hỗn độn tồi tệ!
+
+Call out to Pecorine.=Gọi Pecorine.
+
+Hmm?\nWhat's that, {playername}?\nYou want to fight too?=Hửm?\nCái gì cơ {playername}?\nCậu cũng muốn chiến đấu sao?
+Ohh...?\nYou're worried about everyone at Elizabeth Park,\nso you want to help?=Ồ...?\nCậu lo lắng cho mọi người ở Elizabeth Park,\nnên cậu muốn giúp đỡ à?
+Ahaha, what a plucky little weakling you are!\nWell, I suppose it wouldn't do wonders for your pride\nto run away and let a couple of girls do all the fighting!=Ahaha, đúng là một "kẻ yếu đuối" gan dạ!\nChà, tớ đoán là lòng tự trọng của cậu sẽ không vui vẻ gì\nnếu bỏ chạy và để hai cô gái gánh vác mọi cuộc chiến đâu nhỉ!
+Besides which...\nWith all these monsters everywhere,\nit would be a bit tricky for you to escape, anyway.=Bên cạnh đó...\nVới lũ quái vật tràn ngập khắp nơi thế này,\ndù sao thì cậu cũng sẽ gặp khó khăn nếu muốn chạy trốn thôi.
+Maybe it would be safer\nif both of you stayed close to me for the moment.=Có lẽ sẽ an toàn hơn\nnếu cả hai người ở sát cạnh tôi vào lúc này.
+All right, follow along and try to keep up!\nI'm going to go on a bit of a rampage!\nSo make sure you don't get in the way of my sword, OK?=Được rồi, đi theo và cố gắng theo kịp nhé!\nTôi sắp sửa "quẩy" một trận đây!\nNên hãy chắc chắn là đừng đứng cản đường kiếm của tôi, rõ chưa?
+
+Whoaaa, this lady's a toughie!\nDid she just send all those monsters flying with one hit?\nYou sure do have some amazing friends, {playername}...=Oa, cô nương này lợi hại thật đấy!\nCô ấy vừa mới đánh bay cả đám quái vật đó chỉ bằng một nhát kiếm à?\nAnh đúng là có những người bạn tuyệt vời thật đấy, {playername}...
+Uh-oh...\nI'd better keep my wits about me.\nThere really are monsters swarming all over the place.=Ôi trời...\nMình tốt nhất là nên tập trung tinh thần.\nQuái vật thực sự đang bâu kín khắp mọi nơi.
+Hmm? Hey hey, Rin, look!\nYou see that smoke rising in the distance?\nDo you know what's over in that direction?=Hửm? Này này Rin, nhìn kìa!\nCô thấy làn khói đang bốc lên ở đằng xa kia không?\nCô có biết hướng đó có gì không?
+Over there? That's the barn...\nThe smoke's a funny color, so maybe it's some kind of signal?=Ở đằng đó hả? Đó là nhà kho...\nKhói có màu sắc lạ quá, hay đó là một loại tín hiệu gì đó chăng?
+Hang on, uhhh...\nI swear I learned about smoke signals\nin that training course we did at Caon...=Chờ đã, ừm...\nTôi thề là tôi đã học về tín hiệu khói\ntrong khóa huấn luyện mà chúng tôi thực hiện ở Caon...
+Uhhh... Ahhhh...\nOh! I know! It's a distress signal!\nI guess someone over there must need our help?=Ừm... Á...\nỒ! Tôi biết rồi! Đó là tín hiệu cầu cứu!\nTôi đoán là ai đó ở đằng kia đang cần chúng ta giúp đỡ?
+Gotcha!\nIn that case, let's make a beeline\nfor the building that smoke is coming from!=Hiểu rồi!\nTrong trường hợp đó, hãy chạy thẳng\ntới tòa nhà nơi làn khói đang bốc ra thôi!
+Ready, set, run!\nEveryone, go go go! ☆=Chuẩn bị, sẵn sàng, chạy!\nMọi người, đi đi đi nào! ☆
+Haaahhh! *pant* *pant*\nUgh! I can't control them!\nWhat's wrong with me?!=Hàaa! hộc hộc\nƯ! Mình không thể điều khiển được chúng!\nMình bị làm sao thế này?!
+Dammitall! This wasn't how it was supposed to go!\nI've really messed this up... Her Majesty will be furious with me!\nNoooo... I don't want to be punished again...!=Chết tiệt thật! Mọi chuyện không nên diễn ra như thế này!\nMình thực sự đã làm hỏng bét rồi... Nữ hoàng sẽ nổi trận lôi đình với mình mất!\nKhônggg... mình không muốn bị trừng phạt lần nữa đâu...!
+Tiana... I mean, Pecorine and {playername}\nwere supposed to get here before\nI set the monsters on the farm...=Tiana... Ý mình là, Pecorine và {playername}\nlẽ ra phải đến đây trước khi\nmình thả lũ quái vật vào trang trại...
+But I lost control,\nand they went and started attacking too early!=Nhưng mình đã mất kiểm soát,\nvà chúng đã bắt đầu tấn công quá sớm!
+They're not obeying orders... They've gone totally berserk!\nThis isn't good... Pecorine is one thing,\nbut I was specifically told to leave {playername} alive!=Chúng không nghe theo mệnh lệnh... Chúng đã hoàn toàn phát điên rồi!\nChuyện này không ổn chút nào... Pecorine thì là một chuyện,\nnhưng mình đã được dặn rõ ràng là phải để {playername} sống sót!
+And if possible,\nI'm supposed to capture Pecorine alive too...=Và nếu có thể,\nmình cũng phải bắt sống cả Pecorine nữa...
+I'm not supposed to kill her,\nbut these stupid monsters won't listen to a thing I say!=Mình không được giết cô ta,\nnhưng lũ quái vật ngu ngốc này chẳng chịu nghe lời mình chút nào cả!
+At this rate,\nboth of them will die for sure...=Cứ đà này,\ncả hai người họ chắc chắn sẽ chết mất...
+They're totally outnumbered...\nI know Pecorine is strong,\nbut even she has limits!=Họ hoàn toàn bị áp đảo về số lượng...\nMình biết Pecorine rất mạnh,\nnhưng ngay cả cô ta cũng có giới hạn chứ!
+That Royal Equipment she uses isn't energy-efficient.\nSooner or later, she'll burn through her calories\nand completely collapse.=Bộ Trang bị Hoàng gia mà cô ta sử dụng rất tốn năng lượng.\nSớm muộn gì cô ta cũng sẽ đốt hết calo\nvà hoàn toàn gục ngã thôi.
+And then she'll die.\nThere's hundreds upon hundreds of monsters out there.\nHow can three measly people hope to tackle them all?=Và rồi cô ta sẽ chết.\nCó hàng trăm, hàng ngàn con quái vật ở ngoài kia.\nLàm sao ba con người nhỏ bé có thể hy vọng giải quyết được hết chúng chứ?
+They're going... to die.\nThey'll be trampled flat, torn to pieces,\nchewed up and eaten alive...=Họ sẽ... phải chết.\nHọ sẽ bị giẫm nát, bị xé xác thành từng mảnh,\nbị nhai ngấu nghiến và bị ăn sống...
+Why does that even bother me so much?\nI knew this day would come eventually.=Tại sao điều đó lại làm mình bận tâm đến thế nhỉ?\nMình đã biết ngày này rồi cũng sẽ đến mà.
+So why is it that my chest is aching horribly?\nI'm supposed to be an empty doll...\nNot to have feelings like this!=Vậy tại sao lồng ngực mình lại đau nhức kinh khủng thế này?\nMình đáng lẽ chỉ là một con búp bê vô hồn...\nChứ không được có những cảm xúc như thế này!
+Your Majesty...\nAm I really just a worthless, defective creation?=Thưa Nữ hoàng...\nPhải chăng con thực sự chỉ là một tạo vật vô dụng và lỗi thời?

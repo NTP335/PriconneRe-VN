@@ -1,0 +1,129 @@
+「夢」でたい焼きを焼くたまきは、{playername}に新開発の試作品を食べさせるために、公園の子供を手懐ける。作戦が成功して上機嫌のたまき。夢から覚めた後も、同じことをたくらむのだった。=Tamaki, người nướng taiyaki trong giấc mơ, cố gắng cho {playername} thử mẫu mới của cô ấy bằng cách kết bạn với trẻ em trong công viên. Tamaki vui vẻ khi kế hoạch của cô ấy thành công. Ngay cả sau khi thức dậy khỏi giấc mơ, cô ấy vẫn lập kế hoạch tương tự.
+ある日。{playername}は、\nタマキと一緒に猫にエサをあげていた。=Một ngày nọ. {playername} đang cho mèo ăn cùng Tamaki.
+ほ～れ、今日もエサを持ってきたにゃ。\nみんな、たっぷりと食べるのにゃ。=Đây, mình mang đồ ăn cho các bạn hôm nay ~nya. Mọi người, ăn đi ~nya.
+……？\nあ、もうエサがなくなってるのにゃ。=...? Ồ, đồ ăn đã hết rồi ~nya.
+ここは新しい缶詰を開けて──=Mình sắp mở lon mới ──
+にゃっ！？\nなんにゃ、缶詰から光が……にゃああああああっ！？=Nya!? Cái gì đây, ánh sáng từ lon... nyaaaaaaa!?
+たい焼きは～、いらんかにゃ～？=Taiyaki, ai muốn ăn không ~nya?
+美味しい美味しいたい焼きにゃ～\nよってらっしゃい、みてらっしゃい、にゃ！=Ngon ngon taiyaki ~nya. Ra xem, ra xem ~nya!
+おっ、{playername}！\nちょうどいいところにきたにゃ。ほら、ちょっと寄っていくにゃ。=Ồ, {playername}!\nCậu đến đúng lúc ~nya.\nĐến đây, đến đây ~nya.
+実はにゃ……{playername}に頼みたいことがあるのにゃ。=Thực ra...\nMình có chuyện muốn nhờ cậu, {playername} ~meow.
+あたしが新開発した試作品のたい焼きを食べて、\n実験台になってほしいにゃ！=Mình muốn cậu ăn mẫu taiyaki mới của mình và làm vật thí nghiệm ~nya!
+一個100円のところ、特別に一個70円でいいのにゃ。\nだから頼むにゃ！=Thường là 100 yên một cái, nhưng mình sẽ bán cho cậu giá đặc biệt 70 yên một cái ~nya. Nên cậu làm ơn ~nya!
+……それって、食べられるものなの？=...Có ăn được không?
+実験台になるのに、お金を払うのは……=Trả tiền để làm chuột bạch...
+そ、それは……=Ừm...
+し、死ぬことはないと思うにゃ。\nだから大人しく実験に付き合って──=M-mình nghĩ cậu sẽ không chết vì nó ~nya. Nên cứ hợp tác với thí nghiệm và ──
+あ、あの……=Ơ...
+お、可愛い兄妹さん、いらっしゃいにゃ。\nたい焼き一個、100円だにゃ。=Ồ, các bạn dễ thương, chào mừng ~nya. Taiyaki là 100 yên một cái ~nya.
+その……えっと……ぼくたちお小遣いが少なくて……\nこれで、たい焼き半分だけ売ってくれませんか……？=Ơ... ừ... bọn em không có nhiều tiền tiêu vặt... chị bán nửa cái taiyaki cho bọn em với cái này được không...?
+これは……50円……？=Đây là... 50 yên...?
+50円だけかにゃ……\nうーん、それじゃあ……でも、にゃあ……=Chỉ có 50 yên ~nya... hmm, không đủ... nhưng ~nyaa...
+……うん、思いついたにゃ。=...Được rồi, mình có ý tưởng ~nya.
+キミたちがたい焼きづくりをお手伝いしてくれたら、\nバイト代代わりにたい焼きをプレゼントするにゃ！=Nếu các cậu giúp mình làm taiyaki, mình sẽ cho các cậu một ít làm phần thưởng thay vì trả tiền ~nya!
+おねえちゃん……ほんと？=Onee-chan... Thật sao?
+もちろんにゃ、嘘はつかないにゃ！\nそれと……=Tất nhiên ~nya. Mình không nói dối ~nya! Và...
+ごにょごにょ……=Thì thầm thì thầm...
+うん……うん、わかった！=Được... được, em hiểu rồi!
+交渉成立にゃ！\nそれじゃあ、早速たい焼きづくり、開始にゃ！=Thoả thuận xong ~nya! Vậy thì bắt đầu làm taiyaki ngay ~nya!
+ここのコツは、もっとこう、しっかりと焼いて……\nこの部分で一気にやるのにゃ！=Bí quyết ở đây là nướng chắc hơn như thế này... và làm một lần ở phần này ~nya!
+えっと……こう……？=Ơ... như thế này...?
+そうにゃ！\nうまいにゃ！　たい焼きの天才にゃ！=Đúng rồi ~nya! Cậu giỏi lắm ~nya! Cậu là thiên tài làm taiyaki ~nya!
+えへへ……おねえちゃん、ありがとう。=Ehehe... cảm ơn Onee-chan.
+さ、これで完成にゃ！\n二人とも、やることはわかってるかにゃ？=Xong rồi! Xong rồi! Hai cậu biết phải làm gì bây giờ không?
+うん、もちろん！=Vâng, tất nhiên rồi!
+よしよし、それじゃあ、行くにゃ！=Vậy thì đi thôi!
+お兄ちゃん！\nわたしたちが作ったたい焼き、買ってくださーい！=Onii-chan! Làm ơn mua taiyaki bọn em làm đi!
+{playername}！\nこの中に、あたしの試作品と子供たちが\n一生懸命作ったたい焼きが混じってるにゃ。={playername}! Trong số này có mẫu thử nghiệm của mình và taiyaki mà lũ trẻ vất vả làm ra.
+
+これを特別セール価格で販売するにゃ。\n子供たちが作ったたい焼きだったら、\n目の前で食べないわけにはいかないにゃ～？=Mình sẽ bán cái này với giá giảm đặc biệt ~nya. Nếu là taiyaki do trẻ em làm, sao cậu có thể không ăn ngay trước mắt chúng?
+ふっふっふ……大人しくあたしの実験台になるにゃ！=Fufufu... Hãy ngoan ngoãn trở thành vật thí nghiệm của mình ~nya!
+も、もう食べられない……=M-mình không ăn được nữa...
+ちゃんと全部食べてくれたにゃ。\n計画通りにゃ。=Cậu ăn hết mọi thứ rồi ~nya. Đúng như dự định ~nya.
+さ、このたい焼きは今日のバイト代にゃ。\n二人で好きなだけ食べるにゃ。=Giờ thì, chiếc taiyaki này là phần thưởng cho cậu vì đã làm thêm hôm nay~nya. Ăn thoải mái nhé~nya.
+うわあああああっ……！\nたい焼きがいっぱいだぁ……！=Ủaaaa...! Có nhiều taiyaki quá...!
+ありがとう、おねえちゃん！=Cảm ơn, chị!
+食べ過ぎてお腹を壊さないようににゃ。=Cẩn thận đừng làm đau bụng vì ăn quá nhiều nhé~nya.
+うん！\nほんとうにありがとう！\nおねえちゃん、またね！=Vâng! Cảm ơn nhiều lắm! Chị, gặp lại sau!
+素直ないい子たちだったにゃ。\nバイトをさせた甲斐があるのにゃ。=Chúng là những đứa trẻ chân thành và ngoan~nya.\nViệc để chúng làm thêm là xứng đáng~nya.
+それで、{playername}。\n調子の方はどうにゃ？=Vậy thì, {playername}. Cậu cảm thấy thế nào~nya?
+30倍激辛たい焼きとか、しびれたい焼きとか、\n意欲的な実験作もいっぱいあったんだけどにゃ？=Có rất nhiều sản phẩm thử nghiệm táo bạo, như taiyaki cay 30 lần hay taiyaki tê~nya?
+正直、もう思い出したくもない……=Thật lòng mà nói, tôi thậm chí không muốn nhớ lại...
+うーん、実験は失敗に終わったようにゃ。\nまあ、新商品開発には犠牲がつきものにゃ。=Hừm, dường như thí nghiệm đã thất bại~nya. Thôi, hy sinh là không thể tránh khỏi trong việc phát triển sản phẩm mới~nya.
+でも、今日は付き合ってくれてありがとにゃ、{playername}♪=Nhưng cảm ơn cậu đã tham gia hôm nay~nya, {playername}♪
+はい、お疲れさま。=Vậy, làm tốt lắm.
+あんたが今、見てたのは夢みたいなものよ。\n目覚めたらすぐに忘れちゃうと思うし、\n今はあんまり気にしなくてもいいわ。=Điều cậu vừa thấy giống như một giấc mơ. Tôi nghĩ cậu sẽ quên ngay khi thức dậy, nên đừng lo lắng quá về nó lúc này.
+というか、あのたい焼き10個以上はあったと思うんだけど、\nあんた、よく食べきれたわね。=Hay nói cách khác, tôi nghĩ có hơn 10 chiếc taiyaki đó, nhưng cậu đã ăn hết sạch.
+子供たちのためとはいえ、よく頑張ったわ。\n褒めてあげる。=Cậu đã làm tốt vì lợi ích của bọn trẻ. Tôi sẽ khen cậu.
+タマキもよくすぐにあんな作戦を思いついたわね。=Tôi ngạc nhiên khi Tamaki nghĩ ra kế hoạch như vậy nhanh thế.
+商売……というか話の持っていき方が\nうまいわよね。=Cô ấy giỏi về kinh doanh... hay nói đúng hơn là giỏi dẫn dắt câu chuyện.
+あんたも、いつの間にか大変なことを\n引き受けさせられていないように、気を付けるのよ？=Cậu nên cẩn thận đừng để bị lừa làm điều gì tồi tệ bởi cô ấy, nhé?
+じゃあ、今日はここまで。もっと『記憶の欠片』を集めたら、\nまた『夢』を見せてあげるから。=Vậy thì, hôm nay đến đây thôi. Khi tôi thu thập thêm "mảnh ký ức", tôi sẽ cho cậu xem một "giấc mơ" khác.
+うぅ……なんだか、変な夢を見てたにゃ。=Ừ... Tôi có một giấc mơ kỳ lạ~nya.
+{playername}と猫にエサをあげてて、\n変な光に包まれて、何だったのかにゃ？=Tôi đang cho {playername} và mèo ăn, và tôi được bao bọc trong một luồng ánh sáng kỳ lạ. Cái đó là gì~nya?
+でも……なるほど、新商品のたい焼きを食べさせるには、\nそういう手段もあるのにゃ……いいことを知ったにゃ！=Nhưng... Ra vậy. Để làm chúng ăn sản phẩm taiyaki mới, cũng có phương pháp đó~nya... Tôi học được một điều tốt~nya!
+……え？\n子供たちを利用するのはやめてくれ？=...Hả? "Dừng việc sử dụng bọn trẻ"?
+なんで、あたしが見てた夢の内容を知っているにゃ！=Làm sao cậu biết tôi đã thấy gì trong giấc mơ~nya!
+……にゃるほど。\n{playername}も同じ夢を見てた、と。=...Thấy rồi. {playername} cũng thấy giấc mơ đó.
+でも関係ないにゃ！　{playername}には今度いっぱい、\nたい焼きを食べてもらうのにゃ！=Nhưng không sao~nya! Lần sau tôi sẽ cho {playername} ăn thật nhiều taiyaki~nya!
+ふっふっふ……楽しみにしてるのにゃ！=Fufufu... Tôi rất mong chờ~nya!
+タマキはそう言って、嬉しそうに笑うのだった。=Tamaki nói vậy và mỉm cười hạnh phúc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+うぐっ……確かに、{playername}の気持ちもわかるにゃ。\nでも……=Ực... Tôi hiểu cảm xúc của cậu~nya. Nhưng...

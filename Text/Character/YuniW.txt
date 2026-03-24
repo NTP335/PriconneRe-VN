@@ -1,0 +1,33 @@
+##Profile##
+【物理】後衛で、退廃的な冬の学びに溺れる水際の才媛。物理攻撃の強化、回復、行動速度アップで味方を支援し、ＵＢで得た【水際の安寧】を死守するため膂力を振るう。=[Vật lý] Một người phụ nữ văn học bên bờ biển, chìm đắm trong những nghiên cứu mùa đông sa ngã ở hàng sau. Cô hỗ trợ đồng minh với tăng P.ATK, hồi máu, và tăng tốc độ hành động, và để bảo vệ tuyệt vối những người được tăng cường bởi [Bình yên Bên bờ biển] từ UB của mình, cô thể hiện sức mạnh thể chất.
+
+##UB##
+実践と観想の黄金律=Quy tắc Vàng của Thực hành và Suy ngẫm
+味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップし、物理攻撃クリティカル時のダメージを小アップさせ、ＨＰを中回復させる。さらに自分に【水際の安寧】を３つ付与する。【水際の安寧】は１回ダメージを受けると１つ減少する。【水際の安寧】は最大３まで追加される。=Tăng mạnh mẽ P.ATK và P.CRIT Rate cho tất cả đồng minh, tăng nhẹ P.CRIT DMG, và phục hồi HP của họ một lượng vừa phải.\nNgoài ra, cấp 3 [Bình yên Bên bờ biển] cho bản thân, tối đa 3. [Bình yên Bên bờ biển] giảm đi 1 mỗi khi Yuni nhận sát thương.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の物理攻撃クリティカル時のダメージを10％アップ味方全体のＨＰを(\d+)回復自分に水際の安寧を３つ付与する$"=►Tăng P.ATK của tất cả đồng minh lên $1 trong 18s.\n►Tăng P.CRIT Rate của tất cả đồng minh lên 100 trong 18s.\n►Tăng P.CRIT DMG của tất cả đồng minh lên 8% trong 18s.\n►Phục hồi HP của tất cả đồng minh lên $2.\n►Cấp 3 [Bình yên Bên bờ biển] cho bản thân.
+
+##S1##
+功利的認識共有=Chia sẻ Nhận thức Thiết thực
+味方全体の物理攻撃力を特大アップし、行動速度を大アップさせる。自分に【水際の安寧】が付与されている場合、行動速度の上昇量がアップし、さらに、味方全体の物理攻撃力と物理クリティカルを大アップする。=Tăng mạnh mẽ P.ATK và tốc độ hành động cho tất cả đồng minh.\nNếu Yuni có [Bình yên Bên bờ biển], tăng tốc độ hành động cao hơn, và cũng tăng mạnh mẽ P.ATK và P.CRIT Rate cho tất cả đồng minh.\nTất cả hiệu ứng kéo dài 12s.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の行動速度アップ水際の安寧付与中、味方全体の物理攻撃力を(\d+)アップ水際の安寧付与中、味方全体の物理クリティカルを80アップ$"=Thời gian niệm: 1.05 giây\n►Tăng P.ATK cho toàn bộ đồng minh lên $1.\n►Tăng tốc độ hành động của toàn bộ đồng minh lên 150%.\n\nNếu [Tĩnh Lặng Bãi Biển] của Yuni ≥ 1:\n►Tăng tốc độ hành động của toàn bộ đồng minh lên 200%.\n►Tăng P.ATK cho toàn bộ đồng minh lên $2.\n►Tăng Tỷ lệ CHÍ MẠNG P. của toàn bộ đồng minh lên 80.
+
+##S1+##
+碩学の書斎・レプリカ=Bản Sao Nghiên Cứu Học Hành
+功利的認識共有+=Chia Sẻ Nhận Thức Thiết Thực+
+味方全体の物理攻撃力を特大アップし、行動速度を大アップさせる。自分に【水際の安寧】が付与されている場合、行動速度の上昇量がアップし、さらに、味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップさせ、自分のＴＰを中回復する。=Tăng mạnh P.ATK cho toàn bộ đồng minh và tăng đáng kể tốc độ hành động của họ. Nếu bản thân chịu ảnh hưởng bởi [Tĩnh Lặng Bãi Biển], hiệu ứng tăng tốc độ hành động sẽ được tăng cường, đồng thời còn tăng mạnh P.ATK, tăng đáng kể Tỷ lệ CHÍ MẠNG P., tăng nhẹ SÁT THƯƠNG CHÍ MẠNG P. và hồi một lượng TP vừa phải cho bản thân.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の行動速度アップ水際の安寧付与中、味方全体の物理攻撃力を(\d+)アップ水際の安寧付与中、味方全体の物理クリティカルを120アップ水際の安寧付与中、味方全体の物理攻撃クリティカル時のダメージを6％アップ水際の安寧付与中、自分のＴＰを150回復$"=►Tăng P.ATK cho toàn bộ đồng minh lên $1.\n►Tăng tốc độ hành động của toàn bộ đồng minh.\nTrong khi [Tĩnh Lặng Bãi Biển] đang hoạt động:\n►Tăng P.ATK cho toàn bộ đồng minh lên $2.\n►Tăng Tỷ lệ CHÍ MẠNG P. của toàn bộ đồng minh lên 120.\n►Tăng SÁT THƯƠNG CHÍ MẠNG P. của toàn bộ đồng minh lên 6%.\n►Hồi TP của bản thân lên 150.
+
+##S2##
+生態的究明理論=Lý Thuyết Nghiên Cứu Sinh Thái
+味方全体の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、自分を中心とした範囲内の味方すべてのＨＰを小回復するフィールドを展開する。【水際の安寧】が付与されている場合、さらに、味方全体の物理攻撃力を大アップ、ＴＰ上昇を小アップさせる。=Tăng mạnh P.ATK cho toàn bộ đồng minh, tăng nhẹ SÁT THƯƠNG CHÍ MẠNG P. của họ và tạo một vùng hiệu ứng hồi HP nhẹ cho đồng minh. Nếu Yuni có [Tĩnh Lặng Bãi Biển], tăng đáng kể P.ATK và tăng Hiệu Quả Hồi TP cho toàn bộ đồng minh. Tất cả hiệu ứng kéo dài 12s.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを8％アップ毎秒ＨＰを(\d+)回復するフィールドを展開する水際の安寧付与中、味方全体の物理攻撃力を(\d+)アップ水際の安寧付与中、味方全体のＴＰ上昇を5アップ$"=Thời gian niệm: 1.05 giây\n►Tăng P.ATK cho toàn bộ đồng minh lên $1.\n►Tăng SÁT THƯƠNG CHÍ MẠNG P. của toàn bộ đồng minh lên 8%.\n►Tạo một vùng hiệu ứng bán kính 750 hồi HP cho đồng minh $2/giây.\n\nNếu [Tĩnh Lặng Bãi Biển] của Yuni ≥ 1:\n►Tăng P.ATK cho toàn bộ đồng minh lên $3.\n►Tăng Hiệu Quả Hồi TP của toàn bộ đồng minh lên 5.
+
+##SP1##
+トルネード物理スプラッシュ=Vòng Tay Xoáy Lốc Vật Lý
+このスキルのスキルレベルは「実践と観想の\n黄金律」と連動しています=Cấp độ kỹ năng này liên kết với "Nguyên Tắc Vàng Về Thực Hành và Suy Ngẫm"
+味方全体の物理攻撃力を大アップし、自分のＴＰを小回復する。自分に【水際の安寧】が付与されている場合、目の前の敵１キャラに物理極小ダメージを与える。=Tăng mạnh P.ATK cho toàn bộ đồng minh và hồi nhẹ TP của bản thân. Nếu [Tĩnh Lặng Bãi Biển] của Yuni ≥ 1, gây sát thương vật lý nhỏ lên kẻ địch phía trước.
+r:"^味方全体の物理攻撃力を(\d+)アップ自分のＴＰを50回復水際の安寧付与中、敵単体に5の物理ダメージ$"=Thời gian niệm: 2.04 giây\n►Tăng P.ATK cho toàn bộ đồng minh lên $1 trong 12s.\n►Hồi TP của bản thân lên 50.\n\nNếu [Tĩnh Lặng Bãi Biển] của Yuni ≥ 1:\n►Gây 5 sát thương vật lý lên một kẻ địch.
+
+##EX##
+奈落の悟り=Giác Ngộ Vực Sâu
+奈落の悟り+=Giác Ngộ Vực Sâu+

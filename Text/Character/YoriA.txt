@@ -1,0 +1,38 @@
+##Profile##
+【魔法】中衛で、補助魔法で味方を助ける双子の姉天使。防御力を大幅に高めつつ、対象の味方に敵の注意を引かせるなど、特殊で強力なスキルを駆使し敵を翻弄する。=[Ma thuật] Một thiên thần song sinh giúp đỡ đồng minh với ma thuật hỗ trợ ở hàng giữa. Trong khi tăng cường phòng thủ, cô sử dụng kỹ năng đặc biệt và mạnh mẽ để chơi đùa với kẻ thù, như thu hút sự chú ý của kẻ thù vào đồng minh mục tiêu.
+
+##UB##
+ヘブンリーハーツ=Heavenly Hearts
+最もＴＰが多い敵１キャラに魔法中ダメージを与え、ＴＰを中ダウンさせ、さらに魔法防御力を中ダウンさせる。=Gây sát thương ma thuật vừa phải cho kẻ thù có TP cao nhất, giảm TP của nó một chút và cũng giảm M.DEF của nó một chút.
+最もＴＰが多い敵１キャラに魔法大ダメージを与え、ＴＰを中ダウンさせ、さらに魔法防御力を中ダウンさせる。=Gây sát thương ma thuật lớn cho kẻ thù có TP cao nhất, giảm TP của nó một chút và cũng giảm M.DEF của nó một chút.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを(\d+)失わせる敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật cho kẻ thù.\n►Giảm TP của kẻ thù đi $2.\n►Giảm M.DEF của kẻ thù đi $3 trong 18s.
+
+##S1##
+エンジェルアテンション=Angel Attention
+【挑発】ヨリの背後にいないキャラの内、最も残りＨＰの値が多い味方１キャラが、敵全体を挑発する。さらにそのキャラの物理防御力と魔法防御力を大アップさせる。=[Thách thức] Gánh hiệu ứng Thách thức cho đồng minh không đứng sau Yori có HP còn lại cao nhất. Ngoài ra, tăng mạnh P.DEF và M.DEF của đồng minh đó.
+r:"^対象の味方を挑発状態にする対象の味方の物理防御力を(\d+)アップ対象の味方の魔法防御力を(\d+)アップ$"=►Gánh hiệu ứng Thách thức cho đồng minh trong 12s.\n►Tăng P/M.DEF của đồng minh lên $1 trong 12s.
+
+##S2##
+エンジェルブレッシング=Angel Blessing
+味方全体の物理クリティカルと魔法クリティカルを大アップさせ、さらにＨＰを小回復する。=Tăng mạnh Tỷ lệ CHÍ MẶT P/M cho tất cả đồng minh, và cũng hồi một chút HP.
+r:"^味方全体の物理クリティカルを(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Tăng Tỷ lệ CHÍ MẶT P/M của tất cả đồng minh lên $1 trong 12s.\n►Hồi HP của tất cả đồng minh $3.
+
+##EX##
+不器用なエンジェルハート=Clumsy Angel Heart
+不器用なエンジェルハート+=Clumsy Angel Heart+
+
+##S1+##
+エンジェルアテンション+=Angel Attention+
+【挑発】ヨリの背後にいないキャラの内、最も残りＨＰの値が多い味方１キャラが、敵全体を挑発する。さらにそのキャラの物理防御力と魔法防御力を特大アップ、物理攻撃力と魔法攻撃力を中アップさせ、継続ＨＰ回復状態を付与する。=[Thách thức] Trong số các nhân vật không đứng sau Yori, đồng minh có HP còn lại cao nhất khiêu khích tất cả kẻ thù. Ngoài ra, tăng mạnh P.DEF và M.DEF của nó, tăng vừa phải P.ATK và M.ATK, và mang lại hồi HP liên tục.
+r:"^対象の味方を挑発状態にする対象の味方の物理防御力を(\d+)アップ対象の味方の魔法防御力を(\d+)アップ対象の味方の物理攻撃力を(\d+)アップ対象の味方の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Gánh hiệu ứng Thách thức cho đồng minh trong 12s.\n►Tăng P/M.DEF của đồng minh lên $1 trong 12s.\n►Tăng P/M.ATK của đồng minh lên $3 trong 12s.\n►Hồi HP của đồng minh $5/giây trong 12s.
+
+##UE##
+ハッピーエンジェルアロー=Happy Angel Arrow
+
+
+
+##UE2##
+エンジェリックピュアドレス=Angelic Pure Dress
+エンジェルブレッシング+=Angel Blessing+
+味方全体の魔法攻撃力を特大アップ、物理クリティカルと魔法クリティカルを大アップ、物理防御力と魔法防御力を小アップさせ、さらにＨＰを小回復する。また、自分のＴＰを中回復する。=Tăng rất mạnh M.ATK của tất cả đồng minh, tăng mạnh Tỷ lệ CHÍ MẶT P và M, tăng một chút P.DEF và M.DEF, và còn hồi thêm một chút HP. Đồng thời hồi một lượng TP vừa phải cho bản thân.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを125アップ味方全体の魔法クリティカルを125アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復自分のＴＰを150回復$"=►Tăng M.ATK của tất cả đồng minh lên $1.\n►Tăng Tỷ lệ CHÍ MẶT P của tất cả đồng minh lên 125.\n►Tăng Tỷ lệ CHÍ MẶT M của tất cả đồng minh lên 125.\n►Tăng P.DEF của tất cả đồng minh lên $2.\n►Tăng M.DEF của tất cả đồng minh lên $3.\n►Hồi HP của tất cả đồng minh $4.\n►Hồi TP của bản thân 150.

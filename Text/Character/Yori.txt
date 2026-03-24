@@ -1,0 +1,49 @@
+##Profile##
+人見知りであまのじゃくな女の子=Một cô gái nhút nhát, sợ người lạ
+
+【魔法】中衛から、強力な魔法で攻め立てる、双子の姉。自身のＨＰと引き換えに魔法攻撃力を増幅し、ユニオンバーストやスキルの威力を高めて攻撃する。=[Ma Thuật] Chị song sinh lớn, tấn công bằng ma thuật mạnh mẽ từ vị trí giữa. Cô ấy đánh đổi HP của mình để tăng sức mạnh ma thuật, từ đó tăng cường sức phá hủy của Kỹ Năng Đại và các kỹ năng.
+ゲーム全般=Mọi Thể Loại Trò Chơi
+
+最高のパートナー=Đối Tác Tốt Nhất
+約束のコンティニュー=Sự Tiếp Nối Đã Hứa
+『好き』が集まる場所=Nơi Tập Hợp "Tình Yêu"
+ゲームがつなぐ縁と絆=Mối Quan Hệ Kết Nối Bởi Trò Chơi
+
+お礼、言えた！…かな？=Một Thành Công Tương Đối
+本当に伝えたかった事=Cảm Xúc Thật Sự Của Em
+いつか素直な気持ちを……=Có Thể Một Ngày Nào Đó...
+レアアイテムをゲットせよ=Săn Trái Cây Hiếm
+乙女の問題発言！=Một Gợi Ý Đáng Ngờ
+ゲームだったら負けません=Trò Chơi Là Đặc Sản Của Em!
+ありがとうが言えなくて=Cảm Ơn Là Từ Khó Thể Thốt
+わ…私、人見知りで…=Nỗ Lực Của Một Cô Gái Nhút Nhát
+
+
+##UB##
+ライトニングジャベリン=Giáo Giới Tia Chớp
+前方範囲内の敵すべてに魔法中ダメージを与える。=Gây sát thương ma thuật trung bình lên toàn kẻ địch trong phạm vi.
+
+##S1##
+オーバーチャージ=Vượt Quá Giới Hạn
+ＨＰを消費して、自分の魔法攻撃力を大アップさせる。=Tăng sát thương ma thuật rất lớn cho bản thân, đánh đổi bằng HP.
+r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ$"=Thời Triển Khai: 1.25 giây\n►Giảm $1 HP của bản thân.\n►Tăng $2 Sát Thương Ma Thuật của bản thân.
+
+##S2##
+シャドウブラスト=Bùng Nổ Bóng Tối
+前方範囲内の敵すべてに魔法小ダメージを与える。=Gây sát thương ma thuật trung bình lên toàn kẻ địch trong phạm vi.
+
+##EX##
+ライトニングブースト=Sóng Dâng Tia Chớp
+ライトニングブースト+=Sóng Dâng Tia Chớp+
+
+##UB+##
+ジャッジメントジャベリン=Giáo Giới Phán Quyết
+前方範囲内の敵すべてに魔法大ダメージを与える。ヨリのＨＰが低いほど、ダメージがアップする。=Sát thương ma thuật lớn lên toàn kẻ địch trong vùng phía trước. Càng ít HP của Yori, sát thương càng tăng.
+
+##S1+##
+オーバーチャージ+=Vượt Qua Giới Hạn+
+ＨＰを消費して、自分の魔法攻撃力を特大アップさせ、さらにＴＰを中回復させる。=Tăng rất mạnh M.ATK của bản thân nhưng phải trả giá bằng HP. Hồi một lượng TP vừa phải cho bản thân.
+r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.25s\n►Giảm HP của bản thân đi $1.\n►Tăng M.ATK của bản thân lên $2.\n►Hồi TP của bản thân $3.
+
+##UE##
+デモンズジャベリン=Demon's Javelin

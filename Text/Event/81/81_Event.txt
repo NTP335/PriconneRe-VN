@@ -1,0 +1,4 @@
+r:"^愛を失ったランドソル([0-9\-\(\)\w （）]*)$"=Landosol Không Tình Yêu $1
+ゴーストキッド・ベロリー=Bé Ma Bellory
+スペシャルエピソード=Tập Đặc Biệt
+エピソード一覧=Danh sách các tập

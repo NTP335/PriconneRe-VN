@@ -1,0 +1,116 @@
+救護院ではみんなの服の修繕を担っているスズメだが、彼女自身はメイド\n服以外の衣装を持っていなかった。そこで{playername}は、スズメに花祭りの服を\n着て撮影モデルになってみないかと提案する。=Suzume phụ trách sửa chữa tất cả quần áo ở trại mồ côi, nhưng bản thân cô ấy không có quần áo nào khác ngoài đồng phục hầu gái. Vì vậy, {playername} đề nghị Suzume mặc bộ đồ Lễ Hoa Hoa và trở thành người mẫu cho một buổi chụp ảnh.
+
+花祭りを終え、サレンディア救護院に帰ってきてから数日……\nスズメと{playername}は、平和なひと時を楽しんでいた。\nそんなある日、救護院に悲鳴のような声が響き渡った。=Suzume và {playername} quay về Trại Mồ Côi Sarendia sau khi Lễ Hoa Hoa kết thúc vài ngày trước. Họ đang tận hưởng những khoảnh khắc bình yên này cho đến một ngày, một giọng nói the thé vang lên khắp trại.
+あぁ～……やっぱりぃ～……=Aaah...~ Thì ra là vậy...~
+わわっ、{playername}さん！？\nすみません、変なところをお見せしてしまって。=Hawawa, {playername}?! Xin lỗi vì phản ứng kỳ quặc vừa rồi.
+その服って……=Bộ đồ đó...
+はい、先日花祭りでいただいた衣装です。\nクローゼットにしまう前に、洗濯をしようと思ったのですが\n大きくほつれちゃってて……=Vâng, đây là bộ đồ tôi nhận được từ Lễ Hoa Hoa vài ngày trước. Tôi định giặt nó trước khi cất vào tủ, nhưng giờ nó đã rách hết rồi...
+ちゃんと修繕しておかないと……\nただ、この模様にあう端切れはあったでしょうか……=Tôi phải sửa nó... Nhưng không biết có mảnh vải nào vừa không...
+
+choice2
+針は……危なくない？=Làm việc với kim... Có nguy hiểm không?
+修繕、できるの？=Cậu có thể sửa được à?
+大丈夫ですよ？\n何故かこうやって縫い物をするときは大きなドジってしないんです。\n……細かい仕事だからですかね？=Tôi nghĩ cậu không cần lo, vì lý do nào đó tôi không vụng về khi làm việc với kim chỉ như thế này... Có lẽ vì đây là công việc đòi hỏi độ chính xác?
+はい！\nバッチリ大丈夫です！\n縫い物をする時はみんなからも止められないんですよ！=Vâng, tôi có thể! Hoàn toàn ổn! Khi tôi bắt đầu khâu, không ai có thể ngăn tôi được!
+
+安い端切れを扱っているお店があるので、今度行ってきます。\nえ？　今から一緒に……ですか？\n私は大丈夫ですけど、いいんですか？=Có một nơi bán mảnh vải rẻ, nên lần này tôi sẽ đến đó. Hả? Cậu muốn đi cùng tôi...? Tôi có thể đi một mình, cậu chắc chứ?
+では、すぐに準備をしますので待っていてくださ……ふぁああっ！\nうう、布地が引っかかっちゃいましたぁ……\nご、ごめんなさああああい！=Vậy, tôi sẽ chuẩn bị ngay! Xin hãy chờ tôi...\nHwahhh! Uuu, vải bị kẹt... T-Tôi xin lỗi!
+スズメのドジの片付けを済ませた二人は\nランドソルの市街地へとやってきていた。=Sau khi dọn dẹp mớ hỗn độn do sự vụng về của Suzume, hai người đến khu đô thị của Landosol.
+お店はこっちです！\nいい端切れがあったら買い込んでおかないと♪=Cửa hàng ở phía này! Nếu có mảnh vải tốt, tôi phải mua một ít♪
+よく来るの？=Cậu hay đến đây à?
+はい！　救護院のみんなの服の修繕に使いますから！\n例えばですね……覚えてませんか？\nクリスマスの時の服を用意したり……=Vâng! Tôi đến đây để sửa quần áo cho mọi người trong trại mồ côi! Ví dụ... Cậu có nhớ khi tôi chuẩn bị những bộ đồ cho Giáng Sinh không?
+
+choice2
+アヤネちゃんとクルミちゃんの？=Bộ đồ của Ayane và Kurumi?
+サレンちゃんの？=Bộ đồ của Saren?
+はい、そうです♪\nあの衣装は二人におねだりされたので、がんばって作りました！\nふふっ、気に入ってもらえて本当に良かったですよ～=Vâng, đúng vậy♪ Cả hai đều nhờ tôi may những bộ đồ đó, nên tôi đã cố gắng hết sức! Hehe, tôi rất vui vì họ thích～
+はい♪\nあの時は救護院のみんなにも手伝ってもらって、お嬢さまのお家に\n代々伝わるドレスを今風にリメイクしたんですよ。=Vâng♪ Với sự giúp đỡ của mọi người trong trại mồ côi, tôi đã tái tạo chiếc váy được truyền qua nhiều thế hệ trong gia tộc của Milady thành phong cách hiện đại hơn.
+
+既製品か、特注品だと思ってた……=Tôi nghĩ nó hoặc là may sẵn hoặc là may đo...
+あはは、うちにはそんなお金ないですよ～……\nそれに、私なんてまだまだです。=Ahaha, chúng tôi không có loại tiền đó... Hơn nữa, tôi vẫn còn nhiều thứ phải học.
+そうそう、覚えていますか？　以前アヤネちゃんたちが冒険した時に、\nマホさんが作られたアヤネちゃんの服！\nとってもすばらしかったですよね！　私、感動しちゃいました！=Nhắc mới nhớ, cậu có nhớ lần Ayane đi khám phá không? Maho đã may bộ đồ cho đó! Chúng thực sự tuyệt vời, tôi đã rất xúc động!
+……うちに引き取られてくる子は、着のみ着のままの子が多いんです。\nだから、前の暮らしから持ってこられるのは、その時着ていた服だけ……=...Đối với hầu hết trẻ em được chúng tôi đón nhận, quần áo duy nhất họ có là bộ đồ họ đang mặc. Chính vì vậy, với chúng, những bộ đồ đó là thứ duy nhất còn lại từ trước khi chúng chuyển đến trại mồ côi...
+その思い出を、着られなくなった服と一緒に失ってしまうのは\n悲しいことですから……\nできるだけ長く着られるように、って服の修繕を始めたんです。=Sẽ thật buồn nếu mất đi cả những ký ức và bộ đồ duy nhất của các em... Vì vậy, tôi bắt đầu học cách sửa quần áo của các em để chúng có thể mặc chúng được lâu dài.
+お裁縫がうまくできているのはそのおかげ、ですかね？\nだから、救護院のみんなに感謝しないと。=Vì vậy mà mình mới giỏi đồ thêu thùa, cậu thấy đấy? Mình phải cảm ơn mọi người ở trại mồ côi vì điều đó.
+スズメちゃんの服は？=Còn về trang phục của Suzume thì sao?
+ええと、実は……\n私、自分の服っていうのは持ってないんです。\n私にはこのメイド服だけでこと足りちゃいますから。=Ưm, thực ra... mình không có trang phục riêng. Bộ đồng phục hầu gái này đã quá đủ với mình rồi.
+あ、もちろん寝間着なんかは持っていますよ？\nただ、今回いただいた花祭りの服もそうですけど\n水着も巫女服もアルバイトの時の制服だったので……=À, nhưng mình có mấy bộ đồ ngủ để đi đêm thôi. Chỉ là, kể cả bộ trang phục mình nhận được từ Lễ Hoa, cả bộ đồ bơi lẫn trang phục đền đều là đồng phục làm thêm...
+ですので、普段着る服というよりも\n思い出の品として大切に保管しておこうかと……=Chính vì vậy, mình thà giữ chúng cất kỹ như kỷ niệm thay vì dùng hàng ngày...
+もったいない。=Thế thì lãng phí quá.
+そうかもしれませんが、私にはメイド服だけで十分です。\nそれに、このメイド服こそ、お嬢さまに仕える証ですから♪=Có lẽ vậy, nhưng bộ đồng phục hầu gái này đã quá đủ với mình rồi. Huống chi, đó là bằng chứng cho sự phục vụ của mình dưới trướng tiểu thư♪
+あの服は特別な日に着る服にしよう！=Hãy mặc chúng vào một ngày đặc biệt đi!
+特別な日、ですか？\nメイドの身にはもったいないような気もしますけど、\nあなたがそう言うなら……きちんと着られるように修繕してみます。=Ngày đặc biệt, hả? Mình nghĩ mặc chân một hầu gái thì hơi lãng phí, nhưng nếu cậu nói thế...\nMình sẽ cố sửa chúng lại để có thể mặc những bộ trang phục ấy một lần nữa.
+それで……特別な日、って具体的にどういった日なんでしょう？\nお嬢さまのおつきとして公式な場に出る時もメイド服ですし……=Nhưng... "Ngày Đặc Biệt" là ngày như thế nào? Ngay cả khi mình đi cùng tiểu thư trong những dịp trang trọng, mình vẫn mặc đồng phục hầu gái...
+これなんかどうかな？=Có lẽ là như thế này?
+ポスターですか？\nええと……「ランドソルアマチュアフォトコンテスト」……\n人物ポートレートオンリーって書いてますね。=Một tấm poster? Ưm... 'Cuộc thi nhiếp ảnh nghiệp dư Landosol'...\nTrên đó ghi 'Chỉ chân dung'.
+それって……私が写真を撮るってことですか？\nなるほど、救護院のみんなをモデルに……\nえ？　違う？　撮影するのはあなたで……=Ý cậu là... để mình làm mẫu chụp ảnh? Ra vậy, vậy mình sẽ bắt lũ trẻ ở trại mồ côi làm mẫu cho... Sai ư? Hả? Cậu sẽ là người chụp ảnh...?
+わ、私がモデル！？\nあの服を着てですか！？=M-Mình sẽ làm mẫu ư?! Mặc những bộ trang phục đó?!
+た、確かに特別ですけど……いいんでしょうか？\nその、私がモデルだなんて……=Đ-Đó chắc chắn là một ngày đặc biệt rồi... Nhưng mình làm mẫu thực sự được chứ...?
+スズメちゃんを撮りたい！=Mình muốn chụp ảnh Suzume!
+わ、分かりました……\nあなたがそのおつもりなら、\nしっかりと服を仕上げて全力でモデルをさせていただきます！=M-Mình hiểu rồi... Nếu đó là điều cậu muốn, thì mình sẽ đảm bảo trang phục trong tình trạng hoàn hảo và cố gắng hết sức làm mẫu!
+そのためにも、急いでお店にいきましょ……\nきゃああっ！=Vì thế, chúng ta nên nhanh chóng đến cửa hàng... Kyaaah!
+あ、ありがとうございます……\nもちろん、ドジはしないように、ですね。\nえへへ……=C-Cảm ơn cậu rất nhiều... Và tất nhiên, mình cũng phải tránh sự vụng về của mình nữa. Ehehe...
+服を修繕するための端切れを買った後、\nスズメと別れた{playername}。\nしかしその夜、どうにも気になりサレンディア救護院を訪れていた。=Suzume chia tay {playername} sau khi mua mảnh vải để sửa quần áo. Nhưng {playername} không khỏi lo lắng nên đã đến thăm Trại Mồ Côi Sarendia đêm đó.
+ここに裏地を当てるけど……\nうーん、大きさ足りるかな？\n縫い代の分を考えて……=Mình sẽ đặt lớp lót ở đây, nhưng... không biết có đủ lớn để mặc không nhỉ?\nXét về kích cỡ...
+
+choice2
+声を掛ける。=Gọi cô ấy.
+落ち着くまで見守る。=Theo dõi cô ấy cho đến khi cô ấy bình tĩnh lại.
+ひゃいっ！？\nび、びっくりしたぁ……\nこんな時間にどうしたんですか？=Hyaa?! C-Cậu làm mình giật mình... Cậu đang làm gì ở đây vào giờ này?
+ふう……あ、あれ？\nなにしてるんですか？　こんな時間に！\nえ？　ずっと見てた……？　声を掛けてくれればよかったのに！=Phew... H-Hả? Cậu đang làm gì ở đây vào giờ này! Hả, cậu đã theo dõi mình suốt thời gian qua...? Cậu nên gọi mình ra ngay từ đầu chứ!
+
+っと……いけませんね。\nこんな時間に大きな声を出しちゃ……\n子供たちが起きちゃいます。=Ồ... Mình không nên hét lên vào giờ này... Nào là trẻ con sẽ thức giấc.
+本当は私も寝ている時間なんですけど、\nなんだかわくわくしちゃって寝付けなくて……\nこうしてみんなが寝てから作業しちゃってました。=Thực ra giờ đã đến lúc mình ngủ rồi, nhưng mình háo hức quá nên không ngủ được... Vì vậy mình cứ tiếp tục làm việc sau khi mọi người đã ngủ hết.
+
+choice2
+そうじゃないかと思って心配で見にきた。=Mình lo về điều đó nên đến xem thử.
+僕も同じ。=Mình cũng vậy.
+わざわざすみません。\nでも、眠たくなったらちゃんと寝ますので大丈夫ですよ！=Xin lỗi vì làm cậu lo lắng. Nhưng cậu không cần phải thế đâu, mình sẽ ngủ khi cảm thấy buồn ngủ!
+そうですよね！　いてもたってもいられなくて……！\nえへへ、あなたも同じ気持ちでうれしいです。=Đúng rồi! Mình không thể ngồi yên chờ ngày mai! Ehehe, nghe nói cậu cũng cảm thấy vậy thật tốt.
+
+何か手伝うこと、ですか……\nでしたら、こちらの針に糸を通すのをお願いしても……=Có gì cậu có thể giúp được không...? Vậy, cậu có thể luồn chỉ qua cái kim này được không...?
+す、すみません……\nお料理の準備だけして、自分で食べるの忘れちゃってました。=X-Xin lỗi... Mình bận chuẩn bị đồ ăn nên quên cả ăn rồi.
+え？　お夜食作るって……\n食べ物も持ってきてくれたんですか？\nそんなの悪いですよ。=Hả? Cậu chuẩn bị đồ ăn khuya... Và còn mang đồ ăn theo nữa? Mình thấy tội lỗi khi nhận hết mấy thứ này...
+あ、あなたもお腹が減ってるんですね……\nでしたら、お願いしちゃいます！=À, vậy cậu cũng đói rồi... Vậy, mời cậu dùng!
+しばしの間……繕い物の衣擦れの音と、調理の音のみが\n真夜中の救護院の台所に響く。=Trong một khoảng thời gian ngắn... chỉ còn tiếng quần áo xào xạc và nấu nướng vang lên trong bếp trại mồ côi giữa đêm khuya.
+できたよ。=Xong rồi.
+ありがとうございます！\nわあ、持ってきていただいたパンとミルクで、パンがゆですか？\nとってもおいしそうです。=Cảm ơn vì bữa ăn! Ồ, cậu đang làm cháo bánh mì từ bánh mì và sữa cậu mang theo ư? Trông ngon quá.
+ふぅ……甘くてホッとする味ですぅ……\n今度作り方を教えてください！=Phew... Nó ngọt và ấm áp quá...\nLần sau, hãy dạy mình cách làm món này!
+スズメ～？=Suzume~?
+あ、アヤネちゃん！？\n起こしちゃいましたか？=A-Ayane?! Mình có đánh thức em dậy không?
+むにゃ……\nなんかいい匂いがする……=*munya*... Có mùi gì đó thơm quá...
+ええと、これは……ごめんなさいぃ！\n今夜はもう歯を磨いちゃってますし\nまた今度、作ってあげますから。=Ưm, cái này là... Xin lỗi, nhưng em đã đánh răng rồi tối nay.\nLần sau chắc chắn mình sẽ làm lại.
+むぅ……ぜったいだよぉ……\nんんっ……=Ừm... Chắc chắn rồi... Mmmm...
+『しょうがねーな。\nあしたはホームランだぜー……』="Không trách được. Ngày mai chắc chắn sẽ là một cú homerun..."
+あはは、寝ぼけちゃってるみたいですね……\nお部屋に連れて行ってきます。=Ahaha, có vẻ em vẫn còn nửa tỉnh... Mình sẽ đưa em về phòng.
+ふぅ。みんな仲良くぐっすりです。\nええと、カレンダーがどうかしましたか？\n締め切りを忘れないように印をつけてたんですけど……=Phew, giờ thì tất cả đều ngủ say rồi. Ưm, lịch có vấn đề gì không? Mình có đánh dấu ở đó để không quên hạn chót...
+え？　日付が違う？\nほんとです！　あ、危なかったぁ。\nお裁縫でドジをしてないから大丈夫だと思ってたんですけど……=Hả? Ngày tháng sai rồi? Cậu nói đúng! T-May mắn quá. Mình không vụng về trong việc khâu vá nên nghĩ mình làm tốt...
+教えてくれてありがとうございま……\nきゃっ！　パンがゆがっ！=Cảm ơn vì đã thông báo... Eek! Cháo bánh mì...!
+ありがとうございます。\n服は汚れずにすみましたぁ……=Cảm ơn cậu rất nhiều. May mắn là trang phục không bị bẩn...
+でも……なんだか不思議な気分です。\nこうやって、みんなが寝ている時間に、\nあなたと一緒に繕い物をしているなんて。=Nhưng... có một cảm giác lạ lùng. Sửa quần áo như thế này bên cạnh cậu, trong khi mọi người khác đang ngủ.
+一人だと、いつも通りなのに\n二人だと現実感があまりなくて、まるで夢を見ているみた……\n痛っ！　はう、針がささっちゃいました……=Giống như lúc thường tôi làm một mình, nhưng có cậu ở đây thì không cảm thấy thật. Gần như như đang mơ... Ái chà! Hự, kim đâm tôi...
+傷を見せて。=Chỉ chỗ cậu bị thương đi.
+えっ、そんな……大丈夫ですよ。\nこんなの、なれっこですから♪\nそれに、ほら……大きなドジにはなっていませんよね？=Ừ, cậu không cần đâu... Tôi ổn mà, tôi quen rồi♪\nNhìn xem... không nghiêm trọng lắm, phải không?
+だから、その……安心して、私のこと見ていてください……\nって、何言ってるんでしょう。\nご、ごめんなさい、忘れてくださいぃ……=Vì vậy, àm... Đừng lo và cứ tiếp tục chăm sóc tôi... Khoan, tôi đang nói gì vậy? S-Sorry, quên đi những gì tôi vừa nói...
+照れるスズメを優しい目で見守る{playername}。\nこうして、サレンディア救護院の夜は更けていくのであった。={playername} nhẹ nhàng chăm sóc Suzume đang đỏ mặt. Và thế là, đêm trôi qua tại trại mồ côi Sarendia.
+そして、いつものドジと一進一退で格闘すること数夜……=Và sau vài đêm nữa vật lộn với sự vụng về của Suzume...
+で、できましたぁ！=X-Xong rồi!
+しー！　夜遅いから……=Suỵt! Khuya rồi...
+あうっ、すみません……\nでも、とっても素敵にできました！\nあとは写真を撮ってもらうだけですけど……=Hawawa, xin lỗi... Nhưng kết quả tuyệt vời! Chỉ còn việc chụp ảnh thôi, nhưng...
+こればっかりは今すぐっていうわけにはいきませんよね。\n今は夜だし、明日は救護院のみんなのお世話もありますし……=Chúng ta không thể làm ngay vì vẫn còn đêm khuya. Và ngày mai, tôi sẽ phải chăm sóc mọi người ở trại mồ côi...
+ふっふっふ、話は聞かせてもらったよ！=Hehehe, tôi nghe hết rồi!
+『もらったぜ！』="Tất cả!"
+あ、アヤネちゃん？\nごめんなさい、起こしちゃいましたか？=A-Ayane? Xin lỗi, tôi có đánh thức em dậy không?
+別に～？　私たちは起きてたから大丈夫。\nまあ、クルミはもう寝ちゃってたけど……=Không hẳn~? Chúng em đã thức rồi, nên đừng lo.\nNhưng Kurumi vẫn còn ngủ...
+『それで、スズメの嬢ちゃんと坊ちゃんは写真を撮りにいくんだろ？\nだったら明日はメイドは休んじまえよ！』="Quan trọng hơn, Tiểu thư Suzume và Thiếu gia sẽ đi chụp ảnh, đúng không? Vậy thì ngày mai cậu nên nghỉ việc hầu gái đi!"
+え、ええええ？=W-Whaaat?
+このところ夜中にこそこそ何してるのかなって思ってたけど……\n写真のモデルなんて面白そう！　私も協力したい！\nみんなのお世話は私が引き受けてあげる！=Tôi đã tò mò xem cậu đang làm gì giữa đêm, nhưng... Chụp ảnh thời trang nghe vui quá! Tôi cũng muốn giúp, nên cậu cứ giao việc chăm sóc mọi người ở trại mồ côi cho tôi!
+いいんですか？\nでも……=Cậu chắc chứ? Nhưng...
+『俺とクルミの嬢ちゃんもついてるんだ。\n大船に乗った気持ちで休んでこいよ！』="Tôi và Tiểu thư Kurumi cũng nghĩ vậy. Chúng ta cùng một nhóm nên ngày mai cứ nghỉ đi!"
+ここはお言葉に甘えよう。=Chúng tôi sẽ nhận lời đề nghị của cậu.
+ママ・サレンもそろそろお休みをあげなくちゃって言ってたし、\n私たちがママ・サレンに伝えておいてあげる。\nそれなら心配ないでしょ？=Mẹ Saren cũng nói là đến lúc cậu cần nghỉ ngơi rồi. Chúng tôi sẽ nói với Mẹ Saren, nên đừng lo, được chứ?
+みなさん……！　分かりました。\nでは、明日は撮影のためにお休みをいただきます！=Mọi người...! Được rồi. Vậy thì ngày mai tôi sẽ nghỉ để đi chụp ảnh!
+ふぁあ……ふうぅ。\nそれじゃあ、私たちももう寝るから。\nおやすみなさい。=*ngáp dài*... Vậy, chúng ta đi ngủ đây. Chúc ngủ ngon.
+『３人とも、寝坊すんじゃねえぞ！』="Nhớ không được ngủ quên, ba đứa nhé!"
+おやすみなさい。\nそれじゃあ、また明日。=Chúc ngủ ngon, mai gặp lại.
+こうして、スズメの服は無事に完成し、\n撮影の予定も立てた{playername}とスズメは\n明日に備えて床に就くのであった。=Và thế là, bộ trang phục của Suzume được sửa an toàn. Với kế hoạch chụp ảnh vào ngày mai, cả {playername} và Suzume đều đi ngủ.

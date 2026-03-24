@@ -1,0 +1,29 @@
+##Profile##
+【魔法】中衛で艶やかな晴れ着を身に纏う『変貌大妃』。味方の魔法攻撃力アップやＨＰ、ＴＰを回復させるスキルで攻守にわたってサポートし苛烈な戦況でも勝利に導く。=[Phép] The Metamorph Regnant mặc trang phục nắng sáng ở vị trí giữa. Sức mạnh phép, HP và kỹ năng hồi TP của đồng đội sẽ hỗ trợ tấn công và phòng thủ, dẫn đến chiến thắng trong trận chiến khốc liệt.
+
+##UB##
+ニューイヤープリズム=New Year Prism
+魔法攻撃を行う味方全員の魔法攻撃力を大アップさせ、魔法クリティカルを小アップさせる。自分の魔法攻撃力が高い程、それぞれの効果量がアップする。さらに、魔法攻撃クリティカル時のダメージを小アップさせ、ＴＰ上昇を小アップさせる。=Tăng mạnh M.ATK cho tất cả đồng đội kiểu M, và tăng nhẹ M.CRIT Rate của họ. Càng cao M.ATK của bản thân, hiệu quả càng lớn. Ngoài ra, tăng nhẹ M.CRIT DMG và TP Boost cho tất cả đồng đội.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを(\d+)アップ対象の味方の魔法攻撃クリティカル時のダメージを10％アップ対象の味方のＴＰ上昇を5アップ$"=►Tăng M.ATK của tất cả đồng đội kiểu M lên $1 (+0.08×M.ATK) trong 18s.\n►Tăng M.CRIT Rate của tất cả đồng đội kiểu M lên $2 (+0.003×M.ATK) trong 18s.\n►Tăng M.CRIT DMG của tất cả đồng đội kiểu M lên 10% trong 18s.\n►Tăng TP Boost của tất cả đồng đội kiểu M lên 5 trong 18s.
+
+##S1##
+フラワーブレッシング=Flower Blessing
+最も魔法攻撃力が高い味方１キャラの魔法攻撃力を大アップさせ、魔法クリティカルを大アップさせる。さらに、魔法攻撃クリティカル時のダメージを小アップさせ、ＴＰを小回復させる。=Tăng mạnh M.ATK và M.CRIT Rate của đồng đội có M.ATK cao nhất. Ngoài ra tăng nhẹ M.CRIT DMG và hồi nhẹ TP của họ.
+
+##S2##
+サンライズヒール=Sunrise Heal
+最もＨＰが低い味方１キャラのＨＰを小回復させ、さらに魔法攻撃力を中アップさせる。=Hồi HP cho đồng đội có HP thấp nhất, và đồng thời tăng trung bình M.ATK.
+r:"^味方単体のＨＰを(\d+)回復味方単体の魔法攻撃力を(\d+)アップ$"=Thời gian niệm: 0.59s\n►Hồi $1 HP cho đồng đội.\n►Tăng $2 M.ATK cho đồng đội trong 12s.
+
+##EX##
+ブランニューイリュージョン=Brand New Illusion
+ブランニューイリュージョン+=Brand New Illusion+
+
+##S1+##
+フラワーブレッシング+=Flower Blessing+
+最も魔法攻撃力が高い味方１キャラの魔法攻撃力を大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。自分の魔法攻撃力に応じて、魔法攻撃力アップと魔法クリティカルアップの効果量が最大４倍、魔法攻撃クリティカル時のダメージアップの効果量が最大２倍までアップする。さらに、最も魔法攻撃力が高い味方１キャラのＴＰを小回復させる。=Tăng mạnh M.ATK và M.CRIT Rate của đồng đội có M.ATK cao nhất, với hiệu quả tăng dựa trên M.ATK của bản thân. Ngoài ra tăng nhẹ M.CRIT DMG và hồi nhẹ TP của họ.
+最も魔法攻撃力が高い味方１キャラの魔法攻撃力を大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。自分の魔法攻撃力が高い程、それぞれの効果量がアップする。さらに、最も魔法攻撃力が高い味方１キャラのＴＰを小回復させる。=Tăng mạnh M.ATK và M.CRIT Rate của đồng đội có M.ATK cao nhất, với hiệu quả tăng dựa trên M.ATK của bản thân. Ngoài ra tăng nhẹ M.CRIT DMG và hồi nhẹ TP của họ.
+r:"^味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ味方単体の魔法攻撃クリティカル時のダメージを5％アップ味方単体のＴＰを(\d+)回復$"=Thời gian niệm: 0.59s\n►Tăng M.ATK của đồng đội lên $1 (+0.27×M.ATK) trong 12s.\n►Tăng M.CRIT Rate của đồng đội lên $2 (+0.0006×M.ATK) trong 12s.\n►Tăng M.CRIT DMG của đồng đội lên 5% (+0.000085×M.ATK) trong 12s.\n►Hồi $3 TP cho đồng đội.
+
+##UE##
+新春幻影和傘=New Year Umbrella of Mirage

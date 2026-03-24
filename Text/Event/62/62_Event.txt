@@ -1,0 +1,24 @@
+r:"^叡智の森周辺([0-9\-\(\)\w （）]*)$"=Địa điểm Chợ Trời $1
+
+叡智の錬金術師・モーヴ=Mauve - Nhà Giả Kim Trí Tuệ
+モーヴ=Mauve
+
+自身の物理攻撃力を中アップさせる。=Tăng sức tấn công vật lý của bản thân một chút.
+
+最も近い敵３キャラに自身の物理攻撃力に応じた物理割合ダメージを与える。=Gây sát thương vật lý dựa trên sức tấn công vật lý của bản thân lên 3 kẻ địch gần nhất.
+ユニオンバーストは、敵全体に自身の物理攻撃力に応じた物理割合ダメージを与え、短時間麻痺状態にする。キャラのＨＰが50％未満の場合は長時間麻痺状態にする。このスキルの状態異常はダメージを無効化しても付与される。=Union Burst gây sát thương vật lý lên tất cả kẻ địch dựa trên sức tấn công vật lý của bản thân và gây tê liệt ngắn. Nếu HP của nhân vật dưới 50%, thời gian tê liệt kéo dài. Hiệu ứng trạng thái của kỹ năng này được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+知識こそが力と信じ、叡智の研鑽を重ねる錬金術師。あらゆる学問の粋を集めたグレートアームを身に纏い、冒険者たちの行く手を阻む。=Một nhà giả kim tin rằng tri thức là sức mạnh và không ngừng mài giũa trí tuệ. Trang bị Cánh Tay Vĩ Đại, hiện thân của đỉnh cao các lĩnh vực nghiên cứu, họ đứng chặn đường các nhà mạo hiểm.
+
+自身のＨＰが50％を切ると、物理攻撃力を大アップさせる。=Khi HP của bản thân giảm dưới 50%, tăng mạnh sức tấn công vật lý.
+錬金術師は、研究の結晶たる鋼の剛腕に力を溜め渾身の一撃を繰り出す。巨岩をも打ち砕くその衝撃が、容赦なく冒険者たちを襲う。=Nhà giả kim tập hợp sức mạnh vào cánh tay thép, đỉnh cao của nghiên cứu, và tung một đòn mạnh mẽ. Tác động, có thể vỡ tan những tảng đá, không ngừng tấn công các nhà mạo hiểm.
+バトル開始直後、自身の物理防御力と魔法防御力を小アップさせる。この防御力アップ効果で上昇した防御力は、バトル中に受ける防御力ダウンスキルの影響を受けない。=Ngay sau khi trận chiến bắt đầu, tăng nhẹ phòng thủ vật lý và phòng thủ ma thuật của bản thân. Hiệu ứng tăng phòng thủ này không bị ảnh hưởng bởi kỹ năng giảm phòng thủ nhận được trong trận chiến.
+
+ＣＴが最大まで溜まると、最も近い敵１キャラに9999999の物理ダメージを与える。=Khi CT được nạp đầy, gây 9999999 sát thương vật lý lên nhân vật địch gần nhất.
+
+叡智の錬金術師=Đấng Trí Tuệ:
+モーヴから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Giảm tỷ lệ hồi TP của nhân vật trong party một chút từ tất cả sát thương mà Mauve nhận.
+敵全体に物理大ダメージを与える。さらに最も遠い敵２キャラを大きく引き寄せ、スタンさせる。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương vật lý khổng lồ lên tất cả kẻ địch. Ngoài ra, kéo 2 kẻ địch xa nhất lại gần và làm choáng họ. Hiệu ứng trạng thái của kỹ năng này được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+自身を中心とした範囲内の敵に物理大ダメージを与え、物理攻撃力と魔法攻撃力を中ダウンさせる。さらにノックバックさせる。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương vật lý khổng lồ lên kẻ địch trong phạm vi lấy bản thân làm trung tâm và giảm sức tấn công vật lý và ma thuật của chúng một chút. Ngoài ra, đẩy lùi chúng. Hiệu ứng trạng thái của kỹ năng này được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+縦横無尽に動き回る両の腕は、対敵がどこにいようとも捕らえ逃がさない。執拗に追駆するその手腕から、思考を巡らせ切り抜けろ。=Những cánh tay tự do di chuyển bắt giữ kẻ địch bất kể chúng ở đâu. Dùng trí thông minh để thoát khỏi sự truy đuổi không ngừng.
+失敗の経験さえも己の知恵とし、さらなる進化を遂げた錬金術師。独りよがりな野望を叶えんとする傲慢な賢者を、力を合わせて打ち破れ。=Một nhà giả kim đã tiến hóa xa hơn, biến cả thất bại thành trí tuệ. Hãy đoàn kết để đánh bại vị thầy phép kiêu ngạo đang theo đuổi tham vọng ích kỷ của bản thân.
+バトル開始直後、自身の物理防御力と魔法防御力を中アップさせる。この防御力アップ効果で上昇した防御力は、バトル中に受ける防御力ダウンスキルの影響を受けない。=Ngay sau khi trận chiến bắt đầu, tăng phòng thủ thể chất và phép thuật của bản thân ở mức độ vừa phải. Hiệu ứng tăng phòng thủ này không bị ảnh hưởng bởi kỹ năng giảm phòng thủ nhận được trong trận.

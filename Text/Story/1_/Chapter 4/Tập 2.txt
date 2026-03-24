@@ -1,0 +1,108 @@
+A few days after the Shadow attack on the Orphanage...=Vài ngày sau cuộc tấn công của Shadow vào Trại trẻ mồ côi...
+{playername} is hiking along an overgrown mountain trail,\non his way to fulfill a certain errand.= {playername} đang đi bộ dọc theo một con đường mòn trên núi mọc đầy cỏ dại,\ntrên đường đi thực hiện một công việc được giao phó.
+Aaahhh...\nHungry... So hungry...=Aaaaa...\nĐói quá... Đói quá đi...
+I made sure to eat plenty before I set out,\nand I brought as many packed lunches as I could carry...=Mình đã đảm bảo ăn thật no trước khi khởi hành,\nvà mang theo nhiều hộp cơm trưa nhất có thể rồi...
+But somehow I'm starving already...\nIs there just a giant hole in the bottom of my stomach?=Nhưng không hiểu sao giờ mình đã thấy đói cồn cào rồi...\nHay là có một cái lỗ khổng lồ dưới đáy dạ dày mình nhỉ?
+Ohhh, my poor, empty belly... This is crazy bad.\nAt this rate, I'm going to collapse from hunger again...\nAhhhhh, I can barely stand...=Ôi, cái bụng rỗng tuếch tội nghiệp của mình... Tệ thật sự luôn.\nCứ đà này, mình lại sắp ngất xỉu vì đói mất thôi...\nAaaaa, mình đứng không vững nữa rồi...
+If I could avoid using my Royal Equipment so much,\nI wouldn't end up quite so hungry...=Nếu mình có thể hạn chế sử dụng Trang bị Hoàng gia,\nthì có lẽ đã không thấy đói đến mức này...
+But monsters keep attacking me at every turn.\nIf I held back in battle, I'd just get myself killed...=Nhưng lũ quái vật cứ tấn công mình mọi lúc mọi nơi.\nNếu mình nương tay khi chiến đấu, mình sẽ mất mạng như chơi...
+Maybe I should have brought along a bodyguard or something,\nbut I don't really have anyone I can ask to do that.\nI guess I did get to know a few people in the city...=Có lẽ mình nên mang theo một vệ sĩ hay ai đó,\nnhưng mình chẳng biết nhờ ai làm việc đó cả.\nMình đoán là mình cũng có quen biết vài người trong thành phố...
+But if they're going to end up forgetting me too,\nit's better if I don't get too close to anyone.\nIt would just make it harder to say goodbye...=Nhưng nếu cuối cùng họ cũng sẽ quên mình,\nthì tốt nhất là đừng quá thân thiết với ai cả.\nĐiều đó chỉ làm cho việc nói lời chia tay trở nên khó khăn hơn thôi...
+...Hmm?\nIs it just me, or did those bushes just rustle?=...Hửm?\nLà do mình tưởng tượng hay là mấy bụi cây kia vừa xào xạc nhỉ?
+What a lucky break!\nIf it's an animal or a monster, I can make a meal out of it!=Thật là may mắn quá đi!\nNếu đó là một con vật hay quái vật, mình có thể biến nó thành một bữa ăn rồi!
+So this is what they call manna from heaven!\nFate hasn't given up on me yet! ☆=Đây đúng là món quà từ trên trời rơi xuống!\nVận mệnh vẫn chưa từ bỏ mình! ☆
+Wahey!\nLet's see what's for dinner! ☆=Tuyệt quá!\nĐể xem tối nay có món gì nào! ☆
+
+Wait! Wait! It's me!=Khoan đã! Khoan đã! Là tớ đây!
+
+Oopsie-daisy...!\nHuh?! {playername}!=Ối chà chà...!\nHả?! {playername}!
+Heyas! ☆\nWe sure do run into each other a lot. How's it going?\nSorry about just now! I guess I almost sliced you in half!=Chào nhé! ☆\nChúng ta đúng là hay chạm mặt nhau thật đấy. Mọi chuyện thế nào rồi?\nXin lỗi về chuyện vừa nãy nha! Suýt chút nữa là tớ chém cậu làm đôi rồi!
+What were you wandering around in those bushes for?\nDid you drop something?\nShall I help you look for it?=Cậu lang thang trong mấy bụi rậm đó làm gì thế?\nCậu làm rơi đồ gì à?\nĐể tớ giúp cậu tìm nhé?
+
+Explain the situation.=Giải thích tình hình.
+
+Hmm, I see.\nSo let me get this straight.\nYou've got business somewhere deep in these mountains?=Hừm, tớ hiểu rồi.\nĐể xem tớ có hiểu đúng không nhé.\nCậu có việc cần giải quyết ở đâu đó sâu trong vùng núi này sao?
+But you don't want to be attacked by monsters,\nso you're trying to hide in the bushes as you go?\nWow, you're like some kind of ninja!=Nhưng cậu không muốn bị quái vật tấn công,\nnên cậu đang cố trốn trong bụi rậm để di chuyển à?\nWow, cậu cứ như một ninja vậy!
+Haven't you heard of ninjas?\nThey're like sneaky special ops soldiers from long ago!\nThough they're just a fairy tale, really.=Cậu chưa nghe về ninja bao giờ sao?\nHọ giống như những binh sĩ đặc nhiệm lén lút từ ngày xửa ngày xưa ấy!\nMặc dù thực ra họ chỉ là trong truyện cổ tích thôi.
+Anyway!\nI'm not sure where you're headed, but it's dangerous to go alone!\nThis area is totally swarming with monsters lately.=Dù sao thì!\nTớ không biết cậu đang đi đâu, nhưng đi một mình thì nguy hiểm lắm!\nVùng này dạo này toàn là quái vật thôi.
+You can't walk two steps without bumping into one!\nIf you go wandering around outside the city,\nyou'll get gobbled up ten times before breakfast!=Cậu không thể đi quá hai bước mà không đụng phải một con đâu!\nNếu cậu cứ lang thang bên ngoài thành phố thế này,\ncậu sẽ bị xơi tái mười lần trước khi kịp ăn sáng đấy!
+And you are a bit of a weakl—\nUm, I mean, a cute and innocent fellow!\nIt really isn't safe for you out here!=Và cậu thì hơi bị yếu đ—\nÝ tớ là, một chàng trai dễ thương và ngây thơ!\nỞ ngoài này thực sự không an toàn cho cậu đâu!
+Tell you what, shall I accompany you part of the way?\nI can take care of a few monsters!=Hay là thế này, để tớ đi cùng cậu một đoạn nhé?\nTớ có thể xử lý vài con quái vật giúp cậu!
+In return, though... Do you have any food?\nAhhhh... I could eat a whole dragon right now...=Nhưng đổi lại... cậu có thức ăn gì không?\nAaaaa... Bây giờ tớ có thể ăn hết cả một con rồng luôn ấy...
+
+Here, you can have this.=Đây, cậu có thể lấy cái này.
+
+Hmm?\nAre these biscuits for me?=Hửm?\nMấy chiếc bánh quy này cho tớ sao?
+Thank you so much!\nI'll never forget this as long as I live!\nCan I fall in love with you?=Cảm ơn cậu nhiều lắm!\nTớ sẽ không bao giờ quên ơn này suốt đời luôn!\nTớ yêu cậu có được không?
+Nom nom...\nSo gooooood!=Nham nham...\nNgon quá xá luôn!
+Ahhh... I live again... The calories are flowing through me...\nSweet treats just flood your system with dopamine, don't they?\nMaybe my true love is sugar! ☆=Phù... Sống lại rồi... Calo đang chảy khắp người tớ đây...\nMấy món ngọt đúng là làm tràn ngập dopamine trong cơ thể nhỉ?\nCó lẽ tình yêu đích thực của tớ là đường rồi! ☆
+Ahhh...\nYou really saved my life there.=Phù...\nCậu thực sự đã cứu mạng tớ đấy.
+Whenever I'm in trouble,\nyou seem to come to my rescue!\nCan I give you a big kiss?=Mỗi khi tớ gặp rắc rối,\ndường như cậu luôn xuất hiện để cứu tớ!\nTớ hôn cậu một cái có được không?
+
+Sure thing.=Tất nhiên rồi.
+Huh? Are you sure?\nI really will give you a big smackeroo, you know? No backsies?=Hả? Cậu chắc chứ?\nTớ sẽ hôn cậu một cái đấy nhé? Không được rút lời đâu đấy?
+Hmmm... Actually, though,\nI get the feeling you don't really understand what a kiss is.\nYou did lose your memories, after all.=Hừm... Nhưng mà thực ra,\ntớ có cảm giác cậu không thực sự hiểu nụ hôn là gì.\nDù sao thì cậu cũng đã mất ký ức mà.
+So I'd feel kind of guilty if I did anything right now.\nIt'd be like taking advantage of a little kid!=Nên tớ sẽ thấy hơi tội lỗi nếu làm gì đó ngay bây giờ.\nNhư vậy chẳng khác nào lợi dụng một đứa trẻ cả!
+That's what friends do, right?=Đó là điều bạn bè vẫn làm mà, đúng không?
+Huh? Friends do what now?\nThey all go around kissing each other?=Hả? Bạn bè làm cái gì cơ?\nHọ đi khắp nơi để hôn nhau á?
+Ohhh, you meant the part about saving me.\nEheheh... Friends, huh... That does sound nice.=Ồ, cậu đang nói về việc cứu tớ hả.\nHi hi... Bạn bè sao... Nghe cũng hay đấy chứ.
+It's such a lovely thought!\nI've been on my own for ages, you see...=Đó là một ý nghĩ thật đáng yêu!\nCậu thấy đấy, tớ đã thui thủi một mình bấy lâu nay rồi...
+So if you want to call me a friend,\nnothing could make me happier!=Nên nếu cậu muốn gọi tớ là bạn,\nthì chẳng có gì làm tớ hạnh phúc hơn đâu!
+
+Anyway, let's get back on track.\nUmm... Could you explain where it is you were headed?=Dù sao thì, quay lại vấn đề chính nào.\nỪm... Cậu có thể giải thích lại là cậu đang đi đâu không?
+Hmm, I see.\nSo you're on your way to a farm called Elizabeth Park,\nand it's deep in the mountain regions.=Hừm, tớ hiểu rồi.\nVậy là cậu đang trên đường đến một trang trại tên là Elizabeth Park,\nvà nó nằm sâu trong vùng núi.
+A farm, huh...\nI bet they have all kinds of tasty stuff to eat!=Một trang trại sao...\nTớ cá là họ có đủ loại đồ ăn ngon lành ở đó cho mà xem!
+You say you've been staying at a place\ncalled the Sarendia Orphanage,\nbut it's in danger from monsters called Shadows...=Cậu nói là cậu đang ở một nơi\ntên là Trại trẻ mồ côi Sarendia,\nnhưng nơi đó đang gặp nguy hiểm bởi lũ quái vật tên là Shadow...
+But of course,\nit would be rude if you all showed up out of the blue,\nso you're heading over first to get things settled?=Nhưng dĩ nhiên,\nsẽ thật khiếm nhã nếu tất cả mọi người đột nhiên xuất hiện,\nnên cậu đi trước để thu xếp mọi thứ phải không?
+Because as it so happens,\nyou already know some of the members\nof this Elizabeth Park guild...=Vì tình cờ là,\ncậu đã quen biết một vài thành viên\ncủa hội Elizabeth Park này rồi...
+I see, I see!\nThat would certainly explain\nwhy you're hiking along out here all on your own.=Tớ hiểu rồi, tớ hiểu rồi!\nĐiều đó chắc chắn giải thích lý do\ntại sao cậu lại đi bộ một mình ở ngoài này.
+If the Orphanage needs to send someone\nto say hi to these Elizabeth Park people,\nI can see how it would help if they already know the messenger!=Nếu Trại trẻ cần cử ai đó\nđến chào hỏi những người ở Elizabeth Park,\ntớ có thể thấy việc họ đã quen biết người đưa tin sẽ giúp ích thế nào!
+So you're out here on a job,\na most noble and excellent mission!\nWell, isn't that admirable!=Vậy là cậu đang thực hiện một công việc,\nmột nhiệm vụ vô cùng cao cả và tuyệt vời!\nChà, thật đáng ngưỡng mộ làm sao!
+Eheheh...\nSorry about that.\nPatting you on the head all of a sudden...=Hi hi...\nXin lỗi nha.\nTự dưng lại xoa đầu cậu thế này...
+I think I might be a bit too touchy-feely sometimes.\nAfter spending so much time on my own,\nI get excited around other people!=Tớ nghĩ đôi khi mình hơi bị "cuồng" đụng chạm quá.\nSau khi dành quá nhiều thời gian một mình,\ntớ thấy hào hứng khi ở cạnh người khác!
+Hmm?\nYou want to know what I was doing here?=Hửm?\nCậu muốn biết tớ đang làm gì ở đây à?
+Oh, well that's easy.\nMy family has a bit of a silly tradition...\nWe have to trek all across the land as a kind of training.=Ồ, chuyện đó dễ thôi.\nGia đình tớ có một truyền thống hơi ngớ ngẩn một chút...\nChúng tớ phải đi bộ khắp mọi miền đất nước như một kiểu huấn luyện.
+Travelling here and there, helping people out,\nbeating up monsters that are causing trouble—\nthat kind of thing!=Đi đây đi đó, giúp đỡ mọi người,\ntẩn mấy con quái vật đang gây rắc rối—\nkiểu kiểu như thế!
+In my family, you have to complete this training\nbefore you can be accepted as a full adult.\nTalk about a silly family, right?=Trong gia đình tớ, cậu phải hoàn thành đợt huấn luyện này\ntrước khi có thể được công nhận là người lớn thực thụ.\nĐúng là một gia đình ngớ ngẩn, phải không?
+We have way too many of these weird traditions and rules.\nBut hey, you can't choose the parents you're born with!\nSo I've just got to grin and bear it!=Chúng tớ có quá nhiều những truyền thống và quy tắc kỳ quái.\nNhưng mà này, mình đâu có chọn được cha mẹ khi sinh ra!\nNên tớ đành phải ngậm bồ hòn làm ngọt thôi!
+Besides, travelling around the country\nlets me try all kinds of delicious local foods!=Bên cạnh đó, đi du lịch khắp đất nước\ncòn giúp tớ được nếm thử đủ loại đặc sản ngon lành nữa!
+It's a lot of fun, you know!\n...Even if travelling on my own can get a bit lonely.=Vui lắm cậu biết không!\n...Ngay cả khi việc đi du lịch một mình đôi lúc có hơi cô đơn.
+You remember when we first met?\nI was actually on my way back to Landosol that day,\nto tell my family all about how my journey went.=Cậu còn nhớ lần đầu chúng ta gặp nhau không?\nThực ra hôm đó tớ đang trên đường quay lại Landosol,\nđể kể cho gia đình nghe về hành trình của mình.
+
+So that's why...=Thì ra là vậy...
+
+Yep.\nBut apparently I still haven't travelled enough for them...=Đúng thế.\nNhưng có vẻ như tớ vẫn chưa đi đủ nhiều đối với họ...
+They sent me straight back out on the road,\nso I guess it's the wanderer's life for me again.\nI would have liked to stay in Landosol a little longer...=Họ tống tớ quay trở lại đường ngay lập tức,\nnên tớ đoán đời lãng tử lại bắt đầu với tớ rồi.\nTớ đã muốn ở lại Landosol lâu hơn một chút...
+Since you're there, and Kokkoro, and Karyl...\nIt's a shame to leave everyone behind so soon...=Vì có cậu ở đó, cả Kokkoro và Karyl nữa...\nThật đáng tiếc khi phải rời xa mọi người sớm như vậy...
+But you know,\nthis is the hand I've been dealt!\nSo I've got to make the most of it!=Nhưng cậu biết đấy,\nđây là số phận đã an bài cho tớ rồi!\nNên tớ phải cố gắng hết sức thôi!
+And it's not like we'll never see each other again.\nOnce my family decides I've trained enough,\nI'll be able to settle down in Landosol.=Và cũng không phải là chúng ta sẽ không bao giờ gặp lại nhau nữa.\nMột khi gia đình quyết định rằng tớ đã huấn luyện đủ,\ntớ sẽ có thể định cư ở Landosol.
+Come to think of it, it's pretty rare\nto see you out and about without Kokkoro.\nIs she not with you today?=Nghĩ lại thì, khá hiếm khi\nthấy cậu đi chơi đâu đó mà không có Kokkoro.\nHôm nay em ấy không đi cùng cậu à?
+
+She went to the temple.=Em ấy đã đến đền thờ rồi.
+
+Oh...?\nShe said she had something to investigate\nand holed herself up in the temple?=Ồ...?\nEm ấy nói mình có chuyện cần điều tra\nvà tự nhốt mình trong đền thờ sao?
+Why the temple, though?\nI guess she is supposed to be some kind of shaman,\nso is she getting in contact with some god or other?=Nhưng tại sao lại là đền thờ nhỉ?\nTớ đoán em ấy vốn là một kiểu pháp sư,\nnên em ấy đang liên lạc với vị thần nào đó chăng?
+Eheheh...\nMeanwhile here I am, on a journey to nowhere in particular.=Hi hi...\nTrong khi đó tớ ở đây, đang trên một hành trình không có điểm đến cụ thể nào cả.
+My family never did give me a specific destination,\nso I can tag along with you for now, if you like.=Gia đình tớ chưa bao giờ đưa ra một điểm đến nhất định,\nnên tớ có thể đi cùng cậu một đoạn ngay bây giờ, nếu cậu muốn.
+
+That would be great. Are you sure?=Thế thì tuyệt quá. Cậu chắc chứ?
+
+Yep!\nI'll escort you all the way to your goal!=Chắc chứ!\nTớ sẽ hộ tống cậu đến tận nơi luôn!
+As long as you don't mind, that is.\nThis counts as helping people, too, right?\nAnd they do say, it's companionship that makes a journey!=Miễn là cậu không phiền.\nViệc này cũng được tính là giúp đỡ mọi người mà, đúng không?\nVà người ta vẫn nói, có bạn đồng hành mới tạo nên một hành trình!
+Besides, I'm worried about you.\nI want to make sure you get home in one piece.=Bên cạnh đó, tớ cũng lo cho cậu nữa.\nTớ muốn đảm bảo cậu có thể trở về nhà bình an vô sự.
+Because it really is a wonderful thing\nto have a place to go home to.=Bởi vì có một nơi để trở về thực sự là một điều tuyệt vời.
+
+*pant*... *pant*... Waahhh...=*hộc*... *hộc*... Oaaaa...
+Aaaahhh... Somebody help!=Aaaaa... Ai đó cứu tôi với!
+Waaaahhhh!=Oaaaaaa!
+Hm? Ah!=Hửm? Á!
+Ahhh! What're you doing here?=Á! Anh đang làm gì ở đây thế?
+Uh, never mind why. Help me out!=Ơ, thôi kệ tại sao đi. Cứu tôi với!
+Do you know this girl?=Cậu có quen cô gái này không?
+
+Explain quickly.=Giải thích nhanh gọn.
+
+Hmm.\nSo this is a girl from Elizabeth Park you've met a bunch of times?\nHer name's Rin?=Hừm.\nVậy đây là cô gái từ Elizabeth Park mà cậu đã gặp nhiều lần rồi sao?\nTên cô ấy là Rin à?
+What could have brought her here?\nShe seems to be in some kind of trouble...=Điều gì đã đưa cô ấy đến đây nhỉ?\nTrông cô ấy có vẻ đang gặp rắc rối gì đó...
+She's asking for help, and things look kind of violent...\nI guess this is what you'd call an emergency!\nKeep your guard up, {playername}!=Cô ấy đang kêu cứu, và tình hình có vẻ hơi bạo lực đấy...\nTớ đoán đây chính là cái gọi là tình huống khẩn cấp rồi!\nCảnh giác nhé, {playername}!
+Stay nice and close to me, OK?=Hãy ở sát cạnh tớ nhé, được chứ?

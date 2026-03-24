@@ -1,0 +1,20 @@
+##Profile##
+【魔法】後衛で儀装束を纏い精霊と心を通わせる唱喚士。敵の数に応じてダメージ量が変化する範囲攻撃や、魔法無効バリアなどの支援スキルで想いを詩に乗せ響かせる。=[Phép] Một triệu hồi sĩ hậu phương khoác áo lễ, cộng hưởng với linh hồn qua trái tim. Cô phóng thích các đòn tấn công diện tích với sát thương thay đổi dựa trên số kẻ địch, và hỗ trợ đồng minh với các kỹ năng như rào chắn phớt lỡ phép, dệt cảm xúc thành tiếng vang thơ ca.
+
+##UB##
+ルベライトシンフォニー=Giao Hưởng Rubellite
+最も魔法防御力の低い敵１キャラを中心とした範囲内の敵すべてに魔法特大ダメージを与え、魔法防御力を中ダウンさせる。さらに追加の魔法特大ダメージを与える。このスキルのダメージは範囲内の敵の数に応じて減少する。=Gây sát thương phép rất lớn lên tất cả kẻ địch trong phạm vi lấy kẻ địch có M.DEF thấp nhất làm trung tâm, và giảm M.DEF của chúng vừa phải. Ngoài ra, gây thêm sát thương phép rất lớn. Sát thương của kỹ năng này giảm dựa trên số kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch trong phạm vi 400.\n►Giảm M.DEF của kẻ địch trong phạm vi 400 đi $2 trong 18s.\n►Gây $3 sát thương phép lên kẻ địch trong phạm vi 400.
+
+##S1##
+メロディックブリーズ=Làn Gió Giai Điệu
+最も魔法防御力の低い敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法攻撃力を中ダウン、魔法防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに追加の魔法大ダメージを与える。このスキルのダメージは範囲内の敵の数に応じて減少する。=Gây sát thương phép lớn lên tất cả kẻ địch trong phạm vi lấy kẻ địch có M.DEF thấp nhất làm trung tâm, giảm vừa phải M.ATK của chúng, giảm nhẹ M.DEF của chúng, và tăng nhẹ sát thương nhận từ đòn chí mạng. Ngoài ra, gây thêm sát thương phép lớn. Sát thương của kỹ năng này giảm dựa trên số kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを6％アップ範囲内の敵に(\d+)の魔法ダメージ$"=Thời gian niệm: 1.05s\n►Gây $1 sát thương phép lên kẻ địch trong phạm vi 400.\n►Giảm M.ATK của kẻ địch' trong phạm vi 400 đi $2 trong 12s.\n►Giảm M.DEF của kẻ địch' trong phạm vi 400 đi $3 trong 12s.\n►Tăng sát thương phép chí mạng mà kẻ địch' trong phạm vi 400 nhận thêm 6% trong 12s.\n►Gây $4 sát thương phép lên kẻ địch trong phạm vi 400.
+
+##S2##
+ハーモニックサークル=Vòng Tròn Hài Hòa
+味方全体の魔法防御力を大アップさせる。さらに、自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップさせ、魔法無効バリアを展開する。自分以外の最も近くの味方１キャラの魔法攻撃力に応じて魔法攻撃力アップの上昇量、バリアの無効ダメージ量が最大２倍までアップする。=Tăng mạnh M.DEF cho tất cả đồng minh. Ngoài ra, tăng rất mạnh M.ATK cho tất cả đồng minh trong phạm vi lấy bản thân làm trung tâm và triển khai một rào chắn phớt lỡ phép. Lượng tăng M.ATK và sát thương phớt lỡ của rào chắn tăng lên tối đa 2 lần dựa trên M.ATK của đồng minh gần nhất (trừ bản thân).
+r:"^味方全体の魔法防御力を(\d+)アップ範囲内の味方の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の魔法無効バリアを展開する$"=Thời gian niệm: 1.05s\n►Tăng M.DEF cho tất cả đồng minh đi $1 trong 12s.\n►Tăng M.ATK của đồng minh trong phạm vi đi $2 trong 12s.\n►Triển khai một Rào Chắn Phớt Lỡ Phép trong phạm vi 400, hấp thụ $3 sát thương phép trong 12s.
+##EX##
+リチュアルボイス=Tiếng Nghi Lễ
+リチュアルボイス+=Tiếng Nghi Lễ+

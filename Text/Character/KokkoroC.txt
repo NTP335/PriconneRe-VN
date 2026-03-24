@@ -1,0 +1,30 @@
+##Profile##
+【物理】中衛で、尊き儀装束を纏うエルフの里の巫女。自分の攻撃力を強化し、さらにＴＰ回復で攻撃の手数を増やす。クリティカル時の猛攻で仲間を守る剣となる。=[Vật Lý] Một nữ tu tộc Tiên ăn mặc trang phục nghi lễ ở đường giữa. Sau khi tăng cường sức mạnh tấn công của bản thân và tăng số lần tấn công nhờ hồi TP, cô trở thành một thanh kiếm bảo vệ đồng đội bằng loạt đòn tấn công chí mạng dồn dập.
+
+##UB##
+緑翠の絆風=Gió Gắn Bó Xanh Lá
+自分の物理攻撃がクリティカルした時のダメージを中アップさせ、さらに目の前の敵１キャラに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく５倍になる。=Tăng vừa phải sát thương chí mạng tấn công vật lý của bản thân, và đồng thời gây sát thương vật lý lớn cho kẻ địch phía trước. Nếu kỹ năng này đánh trúng chí mạng, sát thương sẽ là x5 thay vì x2.
+
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃クリティカル時のダメージを30％アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng sát thương chí mạng tấn công vật lý của bản thân lên 30% trong 18s.
+
+##S1##
+春疾風=Gió Mùa Xuân Mạnh Mẽ
+目の前の敵１キャラに物理中ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく５倍になる。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước. Nếu kỹ năng này đánh trúng chí mạng, sát thương sẽ là x5 thay vì x2.
+
+##S2##
+翔る薫風=Gió Hương Thơm Vút Cao
+自分の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、さらにＴＰを小回復する。=Tăng rất mạnh tấn công vật lý và tỷ lệ chí mạng tấn công vật lý của bản thân, và đồng thời hồi nhẹ TP của bản thân. Tất cả hiệu ứng kéo dài 12s.
+自分の物理攻撃力と物理クリティカルを大アップさせ、さらにＴＰを小回復する。=Tăng rất mạnh tấn công vật lý và tỷ lệ chí mạng tấn công vật lý của bản thân, và đồng thời hồi nhẹ TP của bản thân. Tất cả hiệu ứng kéo dài 12s.
+
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＴＰを(\d+)回復$"=►Tăng lực tấn công vật lý (P.ATK) của bản thân lên $1.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân lên $2.\n►Hồi TP cho bản thân $3.
+
+##EX##
+光風の天啓=Ánh Sáng và Gió
+光風の天啓+=Ánh Sáng và Gió+
+
+##S1+##
+春疾風+=Gió Xuân Mạnh Mẽ+
+自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理中ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく７倍になる。=Tăng lực tấn công vật lý (P.ATK) và tỷ lệ chí mạng (P.CRIT Rate) của bản thân lên rất lớn, và gây sát thương vật lý (P.DMG) trung bình lên kẻ địch phía trước. Nếu kỹ năng này gây chí mạng, sát thương sẽ là x7 thay vì x2.
+
+##UE##
+大精霊の儀剣=Kiếm Linh Hồn Vĩ Đại

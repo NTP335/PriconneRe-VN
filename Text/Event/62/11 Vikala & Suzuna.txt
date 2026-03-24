@@ -1,0 +1,52 @@
+スズナとの出会い=Gặp gỡ Suzuna
+人気者は遅れて\nやってくる=Ngôi sao luôn là người đến muộn
+ビカラはイベントに出演中のスズナを見かける。\nしかし、スズナはどこか困っているようで……？=Vikala nhìn thấy Suzuna đang biểu diễn trong một sự kiện. Thế nhưng, có vẻ như Suzuna đang gặp rắc rối gì đó...?
+ある日──\nネズ耳を外したビカラがランドソルの街を散策していると、\n何かのイベントが開催されている場面に遭遇した。=Một ngày nọ── trong lúc tháo bỏ tai chuột và dạo bước quanh đường phố Landsol, Vikala đã bắt gặp một sự kiện đang được tổ chức.
+な、なんだか盛り上がってるね……\nドーちゃん、何をしてると思う？=W-wow, có vẻ náo nhiệt quá nhỉ... Dor-chan, cậu nghĩ họ đang làm gì vậy?
+そりゃあ行ってみれば分かるだろうけど……\nみんなウェーイって感じだよ？\nあんなところにあたしがいたら、場違いになるのは目に見えてるよ……=Thì nếu đến đó thì sẽ biết ngay thôi nhưng mà... mọi người ở đó trông cứ kiểu "quẩy lên" ấy? Nếu mình xuất hiện ở nơi như thế, chắc chắn trông sẽ lạc quẻ lắm cho mà xem...
+え、逆にあれだけ人がいれば目立たない？　それはそうかも……\nじゃ、じゃあ……行ってみようかな。\n旅の恥はかき捨てって言うし……=Hả, ngược lại nếu đông người như thế thì sẽ không bị chú ý sao? Có lẽ cũng đúng... Vậy, vậy thì... mình thử đến xem sao. Người ta bảo "đi xa thì chẳng ngại ngùng chi" mà...
+みんなー！\nテンション上がってる～？\nイエーイ！=Mọi người ơi! Hứng khởi lên nào! Deee!
+イエーイ！！=Deee!!
+うっぷ……思ってたよりウェイ中のウェイだった……\n陰キャには完全にアウェイだよ……具合悪くなってきた……\nドーちゃん、やっぱり帰ろう……？　あたしが吐く前に……=Ugh... Đúng là "quẩy" hơn mình tưởng nhiều... Nơi này hoàn toàn không dành cho kẻ hướng nội như mình rồi... Mình bắt đầu thấy buồn nôn quá... Dor-chan, hay là mình về đi...? Trước khi mình nôn ra đây...
+え、あの舞台にいる人？\nどこか気になるところでも……=Hả, cái người trên sân khấu đó sao? Có điều gì làm cậu bận tâm à...?
+じゃあ、次のコーナーにいっちゃうね！\nフリートークのお次は対せ──\nじゃなくて、またまたフリートークのコーナー！=Vậy thì, chúng ta cùng sang phần tiếp theo nhé! Sau phần trò chuyện tự do sẽ là đối kh— à không, lại tiếp tục là phần trò chuyện tự do!
+スズナちゃ～ん、またフリートーク～？\nもう３回目だよ～？=Suzuna-chaaan, lại trò chuyện tự do nữa hả? Đây là lần thứ ba rồi đó?
+きゃはは、いいじゃん！\nだってうち、まだ話したりないんだもん！=Kyahaha, có sao đâu nè! Vì mình vẫn chưa nói hết chuyện mà!
+あ、あれ……？\n気のせいかな……あの女の人、舞台袖をチラチラ見てるね……\n何か確認してるのかな。カンペとか？=Ơ, cái đó... Là mình nhìn nhầm sao? Người phụ nữ đó cứ nhìn liếc về phía cánh gà suốt... Không biết cô ấy đang xác nhận điều gì nhỉ. Bảng nhắc lời chăng?
+
+Player Input
+ビカラちゃん！=Vikala-chan!
+
+ひょおっ！？\nは、はははい！　そうです、あたしがビカラで──\nあ、あれ……{playername}さん？=Hyooh?! V-V-Vâng! Đúng vậy, em là Vikala— Ơ, kìa... Anh {playername}?
+イベントの手伝いをしていたという{playername}。\n慌てた様子の彼に声をかけられたビカラは、\n言われるがまま舞台の近くから離れた木陰まで移動したのだった。={playername}, người đang giúp việc cho sự kiện, đã gọi tên Vikala với vẻ mặt hớt hải. Cô đi theo anh rời khỏi khu vực sân khấu đến một bóng cây gần đó.
+そ、それで、あの……\nどうかしたんですか？=V-Vậy thì, ừm... Có chuyện gì đã xảy ra vậy ạ?
+{playername}の説明によると──\nイベントの出演者が交通の関係で到着が遅れており、\nスズナが一人でどうにか場を持たせているとのことだった。=Theo lời giải thích của {playername}── do trục trặc giao thông nên các khách mời tham gia sự kiện đến muộn, và một mình Suzuna đang phải cố gắng hết sức để kéo dài thời gian.
+な、なるほど……\nだからフリートークが３回目だったんですね……\nで、でも……どうしてあたしにそのことを……？=Th-thì ra là vậy... Bảo sao mà cô ấy phải trò chuyện tự do đến lần thứ ba... Thế nhưng... tại sao anh lại nói chuyện đó với em...?
+
+Player Input
+イベントに出てほしいんだ！=Anh muốn em tham gia sự kiện!
+
+え……\nえええええ！？=Hả... Hảảảảả!?
+むむむ無理です、そんなの……！！\nあんなウェイトピアの中心に立つなんて、考えただけで──うっぷ。\nああもう分かりやすく体が拒絶しちゃってます……！=Kh-kh-không thể nào, chuyện đó ấy...!! Chỉ cần nghĩ đến việc đứng giữa trung tâm của cái "thiên đường hướng ngoại" đó thôi là... Ugh. Ôi trời, cơ thể em đang phản ứng từ chối rõ ràng luôn rồi này...!
+あなたには色々とお世話になってますけど、\n代役なんてさすがに荷が重いというか無謀というか……\nと、とにかくあたしにはできません……すみません……！=Em đã nhận được rất nhiều sự giúp đỡ từ anh, nhưng việc làm người thay thế quả thực là quá sức, nói đúng hơn là quá liều lĩnh... T-Tóm lại là em không làm được đâu... Em xin lỗi...!
+
+Player Input
+それでもビッキィなら……！=Nhưng nếu là Vicky thì...!
+
+へ？\nビッキィなら……？=Hả? Nếu là Vicky...?
+ビッキィなら……やれる……？=Nếu là Vicky... thì có thể làm được sao...?
+ビッキィなら──\nあたしの理想、明るく楽しい理想の陽キャ──\nビッキィだったら──！=Nếu là Vicky── hình mẫu lý tưởng của mình, một người hướng ngoại vui vẻ và tươi sáng── Nếu là Vicky thì──!
+一方その頃、舞台で明るくフリートークを続けるスズナだったが──=Trong lúc đó, Suzuna vẫn đang tiếp tục phần trò chuyện tự do một cách tươi tỉnh trên sân khấu, nhưng──
+やばばば、どうしよう～！\nもう話のネタ尽きてきたし！　マジ頭パニクってきたんですけど！　=Tệ rồi tệ rồi, làm sao đây trời! Mình hết sạch chuyện để nói rồi! Đầu óc mình đang hoảng loạn thật sự luôn ấy!
+えーっと、他に何かあったっけ……\nマジでどうにかしないとだよ！\nせっかくのイベントなのに、このままはありえないっしょ！　=Để xem nào, còn chuyện gì khác không nhỉ... Thực sự phải làm gì đó thôi! Một sự kiện mong đợi thế này mà cứ thế này mãi thì không ổn chút nào!
+こうなったら撮影会とかしちゃう？　それか握手会？\nあーでも待ち時間とかできちゃいそう！　うち一人対みんなだし！\nも～！　考えすぎて頭痛が痛くなってきたよ～！　=Hay là giờ mình tổ chức buổi chụp hình nhỉ? Hoặc là bắt tay? À nhưng mà thế thì mọi người lại phải chờ đợi mất! Chỉ có mình mình đấu với tất cả mọi người mà! Trời ơi! Suy nghĩ nhiều quá làm mình đau hết cả đầu rồi này!
+ハハッ！\nなにやら楽しそうなことをしてるじゃないか！\nぼくも混ぜてもらえるかい？=Haha! Có vẻ như ở đây đang có chuyện gì vui vẻ lắm nhỉ! Cho tôi tham gia cùng được không?
+ハァイ♪\nって、誰ーっ！？=Hiii♪ Khoan đã, ai vậy cà!?
+あ、あれ？　ヒデサイが、大丈夫って顔してる……\nってことは……助っ人？　=Ơ, kìa? Anh nhân viên ra hiệu là không sao... Vậy có nghĩa là... người trợ giúp sao?
+ハハッ！　ぼくを知らないのも当たり前だよね！\nでも大丈夫、これから知ってくれればいいのさ！=Haha! Bạn không biết tôi cũng là chuyện đương nhiên thôi! Nhưng không sao, từ giờ trở đi bạn biết là được mà!
+きゃはー！　なにそれウケるんですけど！\nじゃあ、さっそくいろんなこと聞いちゃおっかな！=Kyahaa! Gì vậy trời, buồn cười quá đi mất! Vậy thì, để mình hỏi bạn thật nhiều thứ ngay lập tức nhé!
+というわけで、みんな！\nここで飛び入りのスペシャルゲスト登場だよーっ！！=Vậy nên, mọi người ơi! Ngay sau đây sẽ là sự xuất hiện của một vị khách mời đặc biệt!!
+ランドソルのみんな、こんにちは！\nトーゴクからやってきたビッキィだよ！\nよろしくね♪=Xin chào tất cả mọi người ở Landsol! Mình là Vicky đến từ Togoku! Rất vui được làm quen nha! ♪
+
+ビカラの活躍によってイベントは無事に終了し──\nスズナと遅れてきた出演者をはじめ、イベント関係者たちは\nビカラの協力に大きな感謝を伝えた。=Nhờ sự nỗ lực của Vikala mà sự kiện đã kết thúc tốt đẹp── Suzuna, các khách mời đến muộn cũng như toàn thể nhân viên sự kiện đã gửi lời cảm ơn chân thành đến sự giúp đỡ của cô.
+そしてこの日の行動がウワサとなり、\nビッキィの知名度は徐々にランドソル内で広がっていくのだった──=Và rồi hành động của ngày hôm đó đã trở thành một lời đồn, khiến cái tên Vicky dần dần lan rộng khắp Landsol──

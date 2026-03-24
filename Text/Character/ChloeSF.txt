@@ -1,0 +1,30 @@
+##Profile##
+【物理】前衛で疾風の如く駆け抜ける、ダウナー女子。特定回数ダメージを与えるたびＴＰを全回復するスキルと発動ごとに攻撃力アップのスキルで勝利のテープを掴む。=[Vật Lý] Một tiên ca lạnh lùng như cơn bão xuyên qua mặt trận. Mỗi 49 lần gây sát thương, cô ấy sẽ hồi TP tối đa. Cô ấy còn có một kỹ năng tăng P.ATK mỗi lần kích hoạt. Với những khả năng này, cô ấy lao về đích.
+
+生徒会諜報調書／孤高の狼=Báo Cáo Điều Tra Của Hội Sinh Viên: Sói Cô Đơn
+クロエ学祭雑記／青春の灯=Nhật Ký Lễ Hội Học Đường Của Chloe: Tia Lửa Thanh Xuân
+クロエ学祭雑記／家族の容=Nhật Ký Lễ Hội Học Đường Của Chloe: Tình Hình Gia Đình
+クロエ学祭雑記／過日の想=Nhật Ký Lễ Hội Học Đường Của Chloe: Suy Ngẫm
+
+##UB##
+金色の疾風=Cuồng Phong Vàng
+
+##S1##
+涅の小夜嵐=Đêm Bão Vàng
+自分の物理攻撃力を中アップさせ、目の前の敵１キャラの物理防御力を中ダウンさせる。バトル開始後初めてこのスキルを使用した後、49回ダメージを与えるたびに、自分のＴＰを特大回復させる。=Tăng P.ATK của bản thân một lượng vừa phải. Giảm P.DEF của kẻ địch đứng trước nhất một lượng vừa phải. Sau khi kỹ năng này được sử dụng lần thứ nhất, hồi một lượng TP khổng lồ cho mỗi 13 lần đánh trúng.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体の物理防御力を(\d+)ダウン49回ダメージを与えるたびに、自分のＴＰを1000回復$"=►Tăng P.ATK của bản thân bằng $1 trong 180s.\n►Giảm P.DEF của kẻ địch bằng $2 trong 18s.\n►Hồi TP của bản thân 1000 cho mỗi 49 lần đánh trúng.
+
+##S2##
+翠微の科戸=Tân Binh Đầy Triển Vọng
+
+##EX##
+吹き荒ぶ颪=Bão Giận Dữ
+吹き荒ぶ颪+=Bão Giận Dữ+
+
+##S1+##
+涅の小夜嵐+=Đêm Bão Vàng+
+自分の物理攻撃力を大アップさせ、目の前の敵１キャラの物理防御力を大ダウンさせる。バトル開始後初めてこのスキルを使用した後、13回ダメージを与えるたびに、自分のＴＰを特大回復させる。=Tăng P.ATK của bản thân một lượng lớn. Giảm P.DEF của kẻ địch đứng trước nhất một lượng lớn. Sau khi kỹ năng này được sử dụng lần thứ nhất, hồi một lượng TP khổng lồ cho mỗi 13 lần đánh trúng.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体の物理防御力を(\d+)ダウン13回ダメージを与えるたびに、自分のＴＰを1000回復$"=►Tăng P.ATK của bản thân bằng $1 trong 180s.\n►Giảm P.DEF của kẻ địch bằng $2 trong 18s.\n►Hồi TP của bản thân 1000 cho mỗi 13 lần đánh trúng.
+
+##UE##
+パルプ・フィクション=Pulp Fiction

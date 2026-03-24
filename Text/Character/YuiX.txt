@@ -1,0 +1,26 @@
+##Profile##
+【魔法】中衛で、騎士の隣に一歩踏み出す聖夜の魔法士。敵の注目を集めながら攻防支援を行い【聖夜の愛慕】が高まると、ＴＰ支援やダメージカットで優しく包み込む。=[Ma thuật] Một pháp sư hàng giữa bước ra bên cạnh Kishi trong đêm thánh này. Cô thu hút sự chú ý của kẻ địch trong khi cung cấp hỗ trợ tấn công/phòng thủ, và khi [Sùng Bái Đêm Thánh] tích lũy, cô nhẹ nhàng bao bọc đồng minh với hỗ trợ TP và giảm sát thương.
+
+##UB##
+ルミナリィギフト=Món Quà Tỏa Sáng
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を中ダウンさせる。さらに味方全体のＨＰを中回復し、物理無効バリアを展開する。【聖夜の愛慕】の数に応じてバリアの無効ダメージ量がアップする。【聖夜の愛慕】が40の場合、味方全体に物理ダメージカット効果と魔法ダメージカット効果を付与し、魔法攻撃クリティカル時のダメージを小アップさせる。=Gây sát thương ma thuật khủng khiếp lên kẻ địch phía trước và làm giảm vừa phải phòng thủ ma thuật của chúng. Ngoài ra, khôi phục vừa phải HP cho toàn bộ đồng minh và triển khai rào cản phớt lờ sát thương vật lý. Sát thương bị phớt lờ của rào cản tăng dựa trên số lượng [Sùng Bái Đêm Thánh]. Nếu [Sùng Bái Đêm Thánh] đạt 40, ban cho toàn bộ đồng minh giảm sát thương vật lý và giảm sát thương ma thuật, và tăng nhẹ sát thương chí mạng ma thuật của họ.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン味方全体のＨＰを(\d+)回復(\d+)ダメージ分の物理無効バリアを展開する聖夜の愛慕が40の場合、以下の効果が発動する味方全体が受ける物理ダメージを15％カット味方全体が受ける魔法ダメージを15％カット味方全体の魔法クリダメを9％アップ$"=►Gây $1 sát thương ma thuật lên một kẻ địch.\n►Giảm phòng thủ ma thuật của một kẻ địch đi $2.\n►Khôi phục HP cho toàn bộ đồng minh đi $3.\n►Triển khai Rào Cản Phớt Lờ Vật Lý hấp thụ $4 sát thương.\n\nNếu [Sùng Bái Đêm Thánh] là 40:\n►Giảm sát thương vật lý nhận phải của toàn bộ đồng minh đi 15%.\n►Giảm sát thương ma thuật nhận phải của toàn bộ đồng minh đi 15%.\n►Tăng sát thương chí mạng ma thuật của toàn bộ đồng minh đi 9%.
+
+##S1##
+ハートフルスター=Trái Tim Ngôi Sao
+【挑発】味方全体に継続ＨＰ回復状態を付与して物理防御力と魔法防御力を中アップし、自分が敵全体を挑発する。【聖夜の愛慕】の数に応じて物理防御力アップと魔法防御力アップの効果量が上昇する。【聖夜の愛慕】が40の場合、味方全体に継続ＴＰ回復状態を付与する。=[Kích thích] Ban cho toàn bộ đồng minh hồi HP liên tục, tăng vừa phải phòng thủ vật lý và phòng thủ ma thuật của họ, và tự kích thích (taunt) toàn bộ kẻ địch. Lượng tăng phòng thủ vật lý và phòng thủ ma thuật tăng dựa trên số lượng [Sùng Bái Đêm Thánh]. Nếu [Sùng Bái Đêm Thánh] đạt 40, ban cho toàn bộ đồng minh hồi TP liên tục.
+r:"^毎秒ＨＰを(\d+)回復する味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ敵全体を挑発する聖夜の愛慕が40の場合、毎秒ＴＰを10回復する$"=►Khôi phục HP $1 mỗi giây.\n►Tăng phòng thủ vật lý của toàn bộ đồng minh đi $2.\n►Tăng phòng thủ ma thuật của toàn bộ đồng minh đi $3.\n►Kích thích (taunt) toàn bộ kẻ địch.\n\nNếu [Sùng Bái Đêm Thánh] là 40:\n►Khôi phục TP 10 mỗi giây.
+
+##S1 Start##
+【挑発】味方全体に継続ＨＰ回復状態を付与して物理防御力と魔法防御力を中アップし、自分が敵全体を挑発する。さらに、自分がステータスアップ効果を受ける度に【聖夜の愛慕】が１つ追加される状態にする。【聖夜の愛慕】は最大40まで追加される。=[Kích thích] Ban cho toàn bộ đồng minh hồi HP liên tục, tăng vừa phải phòng thủ vật lý và phòng thủ ma thuật của họ, và tự kích thích (taunt) toàn bộ kẻ địch. Ngoài ra, đi vào trạng thái thêm 1 [Sùng Bái Đêm Thánh] mỗi khi bản thân nhận hiệu ứng tăng trạng thái. [Sùng Bái Đêm Thánh] có thể tích lũy tối đa 40.
+r:"^毎秒ＨＰを(\d+)回復する味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ敵全体を挑発するステータスアップ効果を受けるたびに自分に聖夜の愛慕を追加する状態になる$"=►Khôi phục HP $1 mỗi giây.\n►Tăng phòng thủ vật lý của toàn bộ đồng minh đi $2.\n►Tăng phòng thủ ma thuật của toàn bộ đồng minh đi $3.\n►Kích thích (taunt) toàn bộ kẻ địch.\n►Mỗi lần nhận tăng trạng thái, thêm 1 [Sùng Bái Đêm Thánh] cho bản thân.
+
+##S2##
+ホワイトプロミス=Lời Hứa Trắng Ngần
+目の前の敵１キャラの魔法防御力を小ダウン、物理攻撃力を大ダウンさせ、味方全体の魔法攻撃力を大アップ、物理防御力、魔法防御力を小アップさせる。【聖夜の愛慕】の数に応じて魔法攻撃力アップと物理防御力アップと魔法防御力アップの効果量が上昇する。【聖夜の愛慕】が40の場合、味方全体に魔法無効バリアを展開する。=Giảm nhẹ phòng thủ ma thuật và giảm mạnh tấn công vật lý của kẻ địch phía trước, tăng mạnh tấn công ma thuật cho toàn bộ đồng minh, và tăng nhẹ phòng thủ vật lý và phòng thủ ma thuật của họ. Lượng tăng tấn công ma thuật, phòng thủ vật lý và phòng thủ ma thuật tăng dựa trên số lượng [Sùng Bái Đêm Thánh]. Nếu [Sùng Bái Đêm Thánh] đạt 40, triển khai rào cản phớt lờ ma thuật cho toàn bộ đồng minh.
+r:"^敵単体の魔法防御力を(\d+)ダウン敵単体の物理攻撃力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ聖夜の愛慕が40の場合、(\d+)ダメージ分の魔法無効バリアを展開する$"=►Giảm M.DEF của một kẻ địch đơn lẻ $1.\n►Giảm P.ATK của một kẻ địch đơn lẻ $2.\n►Tăng M.ATK cho toàn đồng đội $3.\n►Tăng P.DEF cho toàn đồng đội $4.\n►Tăng M.DEF cho toàn đồng đội $5.\n\nNếu [Lòng Mến Khách Đêm Thánh] đạt 40:\n►Triển khai Lá Chắn Phép Thuật hấp thụ $6 sát thương.
+
+##EX##
+ブレッシングスノー+=Lễ Hội Tuyết+
+ブレッシングスノー=Lễ Hội Tuyết
+

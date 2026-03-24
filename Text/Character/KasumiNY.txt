@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、絵馬に秘めた願いを祷る新年の名探偵。敵と味方の数で効果量が上昇するダメージと攻撃力支援に加え、２種類の回復スキルを使いこなして勝利を願う。=[Ma thuật] Một thám tử dịp Tết mới cầu nguyện những điều ước bí ẩn trên bảng cầu nguyện ở hàng sau. Ngoài sát thương và hỗ trợ sức mạnh tấn công, hiệu quả tăng theo số lượng đồng đội và kẻ địch, cô ấy còn sử dụng hai loại kỹ năng phục hồi để đạt chiến thắng.
+
+##UB##
+ニューディスカバリー=New Discovery
+前方範囲内の敵すべてに魔法中ダメージを与え、自分を中心とした範囲内の味方すべてのＨＰを中回復させ、魔法攻撃力を特大アップさせる。味方と敵の数に応じてダメージと魔法攻撃力の上昇量が最大10キャラ分までアップする。=Gây sát thương ma thuật trung bình lên kẻ địch trong phạm vi, phục hồi HP của đồng đội trong phạm vi một lượng trung bình và tăng mạnh M.ATK của họ. Sát thương ma thuật gây ra và mức tăng M.ATK tăng theo số lượng đồng đội và kẻ địch, tối đa 10.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方のＨＰを(\d+)回復$"=►Gây $1 (+0.3×$1× \nSố đồng đội+kẻ địch) sát thương ma thuật lên kẻ địch trong phạm vi 1000.\n►Tăng M.ATK của đồng đội trong phạm vi 250 đi $2 (+0.8×$2×Số đồng đội+kẻ địch) trong 18s.\n►Phục hồi HP của đồng đội trong phạm vi 250 đi $3.
+
+##S1##
+スピニングフォーチュン=Spinning Fortune
+最も魔法攻撃力が高い味方１キャラのＴＰを小回復する。さらにそのキャラを中心とした範囲内の味方すべての魔法攻撃力を中アップさせる。味方と敵の数に応じてこのスキルの効果量が最大10キャラ分までアップする。=Phục hồi TP nhẹ cho đồng đội có M.ATK cao nhất. Đồng thời, tăng trung bình M.ATK cho đồng đội trong phạm vi. Mức tăng M.ATK tăng theo số lượng đồng đội và kẻ địch, tối đa 10.
+r:"^味方単体のＴＰを25回復範囲内の味方の魔法攻撃力を(\d+)アップ$"=Thời gian niệm: 1.05s\n►Phục hồi TP của một đồng đội đi 25 (+15× \nSố đồng đội+kẻ địch).\n►Tăng M.ATK của đồng đội trong phạm vi 250 đi $1 (+0.8×$1×Số đồng đội+kẻ địch) trong 12s.
+## Same as OYuki S2 with different TP
+
+##S1+##
+スピニングフォーチュン+=Spinning Fortune+
+
+r:"^味方単体のＴＰを25回復味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法攻撃クリティカル時のダメージを5％アップ範囲内の味方の魔法攻撃力を(\d+)アップ$"=Thời gian niệm: 1.05s\n►Phục hồi TP của một đồng đội đi 25 (+15× \nSố đồng đội+kẻ địch).\n►Tăng M.ATK của một đồng đội đi $1 trong 12s.\n►Tăng Sát thương chí mạng ma thuật của một đồng đội đi 5% trong 12s.\n►Tăng M.ATK của đồng đội trong phạm vi 250 đi $2 (+0.8×$1×Số đồng đội+kẻ địch) trong 12s.
+
+最も魔法攻撃力が高い味方１キャラのＴＰを小回復させ、魔法攻撃力を中アップ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに最も魔法攻撃力が高い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を中アップさせる。味方と敵の数に応じてこのスキルの効果量が最大10キャラ分までアップする。=Phục hồi TP, tăng trung bình M.ATK và Sát thương chí mạng ma thuật cho đồng đội có M.ATK cao nhất, và tăng trung bình M.ATK cho đồng đội trong vùng ảnh hưởng xung quanh mục tiêu. Hiệu quả kỹ năng này tăng lên dựa trên số lượng đồng đội và kẻ địch trên chiến trường, tối đa 10.
+
+
+##S2##
+テリングサークル=Telling Circle
+自分を中心とした範囲内の味方すべての魔法攻撃力を中アップさせ、前方範囲内の敵すべてに魔法中ダメージを与える。味方と敵の数に応じてこのスキルの効果量が最大10キャラ分までアップする。=Tăng sát thương phép vừa phải cho đồng đội trong phạm vi và gây sát thương phép vừa phải cho kẻ địch trong phạm vi. Sát thương phép gây ra và lượng tăng sát thương phép phụ thuộc vào số lượng đồng đội và kẻ địch, lên đến tối đa 10.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の敵に(\d+)の魔法ダメージ$"=Thời gian niệm: 1.05s\n►Tăng sát thương phép của đồng đội trong phạm vi 250 lên $1 (+0.8×$1×Tổng đồng đội+kẻ địch) trong 12s.\n►Gây $2 (+0.2×$2× \nTổng đồng đội+kẻ địch) sát thương phép cho kẻ địch trong phạm vi 1000.
+
+##EX##
+ニューイヤートゥルース=Sự Thật Giao Thừa
+ニューイヤートゥルース+=Sự Thật Giao Thừa+
+
+新春奉納願絵馬=Lễ Cầu Nguyện Ema Năm Mới

@@ -1,0 +1,39 @@
+##Profile##
+【物理】前衛で敵の物理攻撃を妨害する吸血鬼テーラー。挑発と物理無効バリア、さらに最も物理攻撃力が高い敵を狙った妨害スキルによって、鉄壁の防御を織り上げる。=[Thể chất] Một thợ may ma cà rồng phá hoại các đòn tấn công vật lý của kẻ địch. Với các kỹ năng như Khiêu khích, Rào cản Phép thuật Vật lý, và can thiệp nhắm vào kẻ địch có tấn công vật lý cao nhất, cô dệt nên một phòng thủ kiên cố.
+
+##UB##
+ストリングカーニバル=String Carnival
+最も物理攻撃力が高い敵１キャラに物理大ダメージを与え、さらに物理攻撃力と行動速度を特大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch có P.ATK cao nhất và giảm mạnh P.ATK và tốc độ hành động của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の行動速度を一定時間低下させる$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Giảm tấn công vật lý (P.ATK) của kẻ địch bằng $2 trong 18s.\n►Làm chậm tốc độ hành động của kẻ địch xuống còn 20% trong 18s.
+
+##S1##
+テーラードハロウィン=Tailor Halloween
+自分に物理無効バリアを展開し、さらに物理防御力を大アップさせる。=Tạo một khiên xung quanh bản thân, chống lại sát thương vật lý. Tăng mạnh phòng thủ vật lý (P.DEF) của bản thân.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ$"=Thời gian niệm: 0.715s\n►Triển khai Khiên xung quanh bản thân, chống lại $1 sát thương vật lý trong 12s.\n►Tăng P.DEF của bản thân bằng $2 trong 12s.
+
+##S2##
+フィアーアテンション=Fear Attention
+敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Khiêu khích tất cả kẻ địch và hồi một lượng lớn HP cho bản thân. Ngoài ra, khiến kẻ địch có P.ATK cao nhất bị ảnh hưởng bởi trạng thái Sợ hãi.
+【挑発】敵全体を挑発し、自分のＨＰを中回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=【Khiêu khích】 Khiêu khích tất cả kẻ địch và hồi một lượng lớn HP cho bản thân. Ngoài ra, khiến kẻ địch có P.ATK cao nhất bị ảnh hưởng bởi trạng thái Sợ hãi.
+
+敵全体を挑発し、自分のＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラを恐慌状態にする。=Khiêu khích tất cả kẻ địch và hồi một lượng lớn HP cho bản thân. Ngoài ra, khiến kẻ địch có P.ATK cao nhất bị ảnh hưởng bởi trạng thái Sợ hãi.
+r:"^敵全体を挑発する自分のＨＰを(\d+)回復敵単体を恐慌状態にする$"=Thời gian niệm: 0.715s\n►Khiêu khích tất cả kẻ địch trong 19s.\n►Hồi HP của bản thân bằng $1.\n►Khiến một kẻ địch bị Sợ hãi trong 8s.
+
+##EX##
+テラーデコレーション=Tailor Decoration
+テラーデコレーション+=Tailor Decoration+
+
+##S1+##
+テーラードハロウィン+=Tailor Halloween+
+自分に物理無効バリアを展開し、さらに物理防御力を大アップさせ、継続ＨＰ回復状態を付与する。=Tạo một khiên xung quanh bản thân, chống lại sát thương vật lý. Tăng mạnh phòng thủ vật lý (P.DEF) của bản thân và cấp hiệu quả hồi HP liên tục.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.715s\n►Triển khai Khiên xung quanh bản thân, chống lại $1 sát thương vật lý trong 12s.\n►Tăng P.DEF của bản thân bằng $2 trong 12s.\n►Hồi HP của bản thân $3/giây trong 6s.
+
+##UE##
+ハロウィンナイトドレス=Halloween Night Dress
+
+##S2+##
+ハロウィンナイトヘアバンド=Halloween Night Hairband
+フィアーアテンション+=Fear Attention+
+【挑発】敵全体を挑発し、自分に魔法無効バリアを展開し、魔法防御力を大アップし、ＨＰを大回復する。さらに最も物理攻撃力が高い敵１キャラの物理攻撃力を大ダウン、物理防御力を中ダウンさせ、恐慌状態にする。また、最も魔法攻撃力が高い敵１キャラの魔法攻撃力を大ダウン、物理防御力を中ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=[Khiêu khích] Khiêu khích tất cả kẻ địch, triển khai khiên chống phép thuật cho bản thân, tăng mạnh M.DEF và hồi HP một cách lớn lao. Hơn nữa, giảm mạnh P.ATK của kẻ địch có P.ATK cao nhất, giảm trung bình P.DEF của chúng và khiến chúng rơi vào trạng thái Hoảng loạn. Ngoài ra, giảm mạnh M.ATK của kẻ địch có M.ATK cao nhất, giảm trung bình P.DEF của chúng và tăng nhẹ sát thương chí mạng mà chúng phải nhận.
+
+r:"^敵全体を挑発する(\d+)ダメージ分の魔法無効バリアを展開する自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体を恐慌状態にする敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを16％アップ$"=►Khiêu khích tất cả kẻ địch.\n►Triển khai Khiên Chống Phép Thuật hấp thụ $1 sát thương.\n►Tăng M.DEF của bản thân bằng $2.\n►Hồi HP của bản thân bằng $3.\n►Giảm P.ATK của một kẻ địch đơn bằng $4.\n►Giảm P.DEF của một kẻ địch đơn bằng $5.\n►Khiến một kẻ địch đơn rơi vào trạng thái [Hoảng loạn].\n►Giảm M.ATK của một kẻ địch đơn bằng $6.\n►Giảm P.DEF của một kẻ địch đơn bằng $7.\n►Tăng sát thương chí mạng mà một kẻ địch đơn phải nhận thêm 16%.

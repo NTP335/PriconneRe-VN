@@ -1,0 +1,117 @@
+---Arena---
+
+リプレイ=Xem lại
+マイパーティ保存=Lưu Đội
+ダメージレポート=Báo cáo Sát thương
+r:"^(\d+)/時間$"=$1/giờ
+r:"^(\d+)日前$"=$1 ngày trước
+r:"^(\d+)時間前$"=$1 giờ trước
+r:"^(\d+)分前$"=$1 phút trước
+チャット=Trò chuyện
+更新まで=Đặt lại trong
+対戦相手を\n選択してください。=Chọn một đối thủ.
+総戦力=Sức mạnh
+プレイヤーLv=Cấp người chơi
+受取可能な報酬=Có thể nhận
+タイム報酬=Phần thưởng thời gian
+クールタイム=Thời gian hồi
+防衛設定=Chỉnh sửa Phòng thủ
+対戦履歴=Lịch sử
+受け取る=Nhận
+遊び方=Mẹo
+確認したい遊び方を選択してください。=Chọn mẹo bạn muốn xem.
+リスト更新=Làm mới Danh sách
+歴代最高ランク=Xếp hạng Tốt nhất Mọi thời
+報酬一覧=Danh sách Giải thưởng
+プリンセスアリーナランキング=Xếp hạng Đấu trường Công chúa
+バトルアリーナランキング=Xếp hạng Đấu trường Chiến đấu
+r:"^グループ (\d+)$"=Nhóm $1
+所属グループ=Thành viên nhóm
+r:"^パーティ(\d+)$"=Đội $1
+r:"^プリセット(\d+)$"=Cài đặt sẵn $1
+対戦相手のパーティ1=Đội đối thủ 1
+対戦相手のパーティ2=Đội đối thủ 2
+対戦相手のパーティ3=Đội đối thủ 3
+対戦相手のパーティ=Đội đối thủ
+残り編成時間=Đặt lại trong
+対戦履歴詳細=Chi tiết lịch sử trận đấu
+対戦内訳=Kết quả
+現在の防衛パーティ=Đội phòng thủ hiện tại
+防衛結果=Kết quả phòng thủ
+パーティ状況=Đội hiện tại
+このログを削除=Xóa bản ghi này
+ログを削除=Xóa bản ghi
+バトルログ投稿完了=Đăng bản ghi trận đấu hoàn tất
+[3C404E]パーティ編成を保存しました。[-]=[3C404E]Đội hình đã được lưu.[-]
+[FF7C4E,D62146]マイパーティに保存されている数が上限に達しています。\n上書きして保存するパーティを選択してください。[-]=[FF7C4E,D62146]Không còn chỗ trống trong Đội của tôi.\nChọn đội để thay thế. [-]
+ここに保存=Lưu tại đây
+上書きして保存するパーティを選択してください。=Chọn đội để ghi đè và lưu.
+保存場所を選択=Chọn vị trí lưu trữ
+編成制限のため選択できません。=Không thể chọn do hạn chế về tổ chức.
+保存完了=Lưu hoàn tất
+バトルアリーナではオートのみになります。=Chỉ có AUTO có sẵn trong Đấu trường.
+バトルアリーナでは選択できません。=Không thể chọn trong Đấu trường.
+[3B3F4D]クールタイム中です。\nジュエル×[-][FFBB00,CE4F00]10[-][3B3F4D]を使用して\nクールタイムを解除しますか？[-]=[3B3F4D]Bạn đang trong thời gian hồi chiến.\nSử dụng Ngọc × [FFBB00,CE4F00]10[-]\n để đặt lại thời gian hồi chiến?[-]
+[FF7C4E,D62146]スキップ設定になっています。[-]=[FF7C4E,D62146]Đã được đặt để bỏ qua.[-]
+[3C404E]パーティ編成が時間切れになりました。\n対戦相手を選択し直してください。[-]=[3C404E]Đội hình đã hết hạn.\nVui lòng chọn lại đối thủ.[-]
+現在クールタイムです。\nしばらくお待ちください。=Hiện đang trong thời gian hồi chiến,\nvui lòng chờ một chút.
+r:"^パーティ(.)にキャラが選択されていません。$"=Chưa có nhân vật nào được chọn cho Đội $1.
+r:"^パーティ(.)、パーティ(.)にキャラが選択されていません。$"=Chưa có nhân vật nào được chọn cho Đội $1 và Đội $1.
+フレンド以外のプレイヤーのキャラは、ステータスが\\n下方補正されている場合があります。=Nhân vật từ người chơi không trong danh sách bạn bè\\ncó thể bị giảm chỉ số.
+別のパーティに編成中のキャラは選択できません。=Nhân vật đang được sử dụng trong đội khác không thể được chọn.
+
+
+[3C404E]対戦相手のランキングが更新されました。[-]=[3C404E] Xếp hạng của đối thủ đã được cập nhật. [-]
+sr:"^(?:\[3C404E\])?対戦相手のランキングが(\d+位)に変更されました。\n対戦しますか？(?:\[-\])?$"=[3C404E]Xếp hạng của đối thủ đã thay đổi thành hạng $1. Bạn có muốn chơi không?[-]
+相手の編成確認=Đội đối thủ
+リスト更新まで=Đặt lại trong
+
+報酬獲得=Phần thưởng
+タイム報酬は時間経過で溜まります。=Phần thưởng thời gian tích lũy theo thời gian.
+1～50位のプレイヤーのため、表示できません。=Không thể hiển thị vì người chơi được xếp hạng từ 1-50.
+対戦履歴はありません。=Không có lịch sử trận đấu nào.
+r:"^\[3C404E\](\d)勝(\d)敗\[-\]$"="[3C404E]thắng:$1 thua:$2[-]"
+r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位アップし、\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位になりました。\[-\]$"=[3B3F4D]Leo lên hạng [FFBB00,CE4F00]$1[-], Hạng hiện tại: [FFBB00,CE4F00]$2[-].[-]
+プリンセスアリーナではオートのみになります。=Chỉ có AUTO có sẵn trong Đấu trường Công chúa
+
+[FF7C4E,D62146]ランキング変動なし、スキップ不可のバトルです。[-]=[FF7C4E,D62146]Đây là trận đấu không thể bỏ qua, không thay đổi xếp hạng.[-]
+3パーティの総戦力=Tổng sức mạnh 3 Đội
+
+[FF7C4E,D62146]相手または自分が50位以内のためスキップ不可です。[-]=[FF7C4E,D62146]Chỉ thách thức hạng dưới 50 mới có thể bỏ qua.
+[3C404E]クールタイム中です。\n解除しますか？[-]=[3C404E]Đang trong thời gian hồi chiến.\nBạn có muốn đặt lại thời gian hồi chiến?[-]
+[FF7C4E,D62146]メッセージは必須ではありません。[-]=[FF7C4E,D62146]Tin nhắn không bắt buộc.[-]
+※80文字以下=※80 ký tự trở xuống
+バトルログをクランチャットに投稿しますか？=Bạn có muốn đăng bản ghi trận đấu lên chat Clan không?
+投稿する=Bài đăng
+バトルログ投稿確認=Xác nhận đăng nhật ký trận đấu
+
+[3C404E]現在対戦中です。\nしばらくお待ちください。[-]=[3C404E]Đang trong trận đấu.\nVui lòng chờ một chút.[-]
+[3C404E]現在他のプレイヤーと対戦中です。\nしばらくしてから再度挑戦するか、別の対戦相手を\n探してください。[-]=[3C404E]Đang thi đấu với người chơi khác.\nThử lại sau một lúc hoặc tìm đối thủ khác.[-]
+対戦確認=Xác nhận trận đấu
+---Reward Info---
+sr:"^(\[[0-9A-F,]{6,13}\])最高ランク：(\d+位)\[-\]$"=$1Xếp hạng tốt nhất: $2[-]
+最高ランク=Xếp hạng tốt nhất
+毎日19:00のランキングにより獲得できます。\n※報酬はプレゼントに送られます。=Bạn có thể nhận phần thưởng dựa trên xếp hạng của mình mỗi ngày lúc 19:00.\n※Phần thưởng sẽ được gửi đến Hộp Quà.
+デイリー報酬=Hàng ngày
+1日5回まで、防衛成功時に獲得できます。\n※報酬はプレゼントに送られます。=Bạn có thể nhận thưởng cho phòng thủ thành công tối đa 5 lần/Ngày.\n※Phần thưởng sẽ được gửi đến Hộp Quà.
+防衛報酬=Phần thưởng phòng thủ
+防衛成功時=Phòng thủ thành công
+sr:"^(\d+位)～(\d+位)$"=$1 đến $2
+
+最高ランクの更新時に獲得できます。\n※報酬はプレゼントに送られます。=Bạn có thể nhận phần thưởng dựa trên xếp hạng tốt nhất của mình. \n※Phần thưởng sẽ được gửi đến Hộp Quà.
+r:"^\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回の防衛に成功！報酬はプレゼントに送られました。\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E]lần phòng thủ thành công! Phần thưởng đã được gửi.[-]
+
+現在、対戦可能な相手がいません=Hiện tại không có đối thủ nào khả dụng.
+※一定時間経過後、リストが更新されると表示される場合があります=※Sau một khoảng thời gian nhất định, nó có thể được hiển thị khi danh sách được cập nhật
+バトルが行われていないため、閲覧できません。=Không thể xem vì trận đấu chưa diễn ra.
+
+[3C404E]リプレイを中断しますか？\nリプレイは対戦履歴から再度見る事ができます。[-]=[3C404E]Bạn có muốn kết thúc phát lại?\nBạn có thể xem lại phát lại\ntừ lịch sử trận đấu.[-]
+
+sr:"^対戦相手のランキングが(\d+位)に変更されました。\n勝利してもランキングは変わりません。\n対戦しますか？$"=Xếp hạng của đối thủ đã được thay đổi thành vị trí $1. Xếp hạng sẽ không thay đổi ngay cả khi bạn thắng.\nBạn có muốn thi đấu không?
+
+
+グループシャッフル後、バトルアリーナに移動していないためアリーナコインが受け取れません。=Sau khi xáo trộn nhóm, bạn sẽ không thể nhận được xu đấu trường vì bạn chưa di chuyển đến đấu trường trận đấu.
+---NPC Help---
+対戦相手に勝利すると、対戦相手と順位が入れ替わります。\n対戦相手は、自分と同等の強さか、格上の相手が登場します。\nランキングを上げてアリーナコインやジュエルを獲得しましょう。=Đánh bại đối thủ và bạn sẽ chiếm chỗ của họ trong bảng xếp hạng. Bạn sẽ đối mặt với các đối thủ có xếp hạng tương tự hoặc cao hơn của bạn. Leo lên bảng xếp hạng, và giành lấy Xu Đấu trường và Ngọc!
+
+最大15キャラ対15キャラのバトルです。\nバトルを勝ち抜いて、ランキングの頂点を目指しましょう。\n上位ランクインするほど、Pアリーナコインが多く手に入ります。=Trận Đấu Công chúa được chiến đấu giữa các đội lên đến 15 nhân vật mỗi đội. Hãy tiếp tục thắng trận để leo lên đỉnh bảng xếp hạng. Ở cấp độ cao hơn

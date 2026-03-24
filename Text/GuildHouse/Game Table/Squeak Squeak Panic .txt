@@ -1,0 +1,183 @@
+---Squeak Squeak Panic! - The Cheese Thief Thwacker!-----
+---Title/Description---
+キミはチーズを守り抜けるか！？\n瞬発力が試される\n反射神経系カジュアルゲーム！=Cậu bảo vệ được phô-mai không?!\nMột trò chơi thử thách tốc độ và phản xạ của cậu!
+素早い動きのネズミに合わせ、\nタップで撃退！\nやる気のリンさんと一緒に\n大切なチーズを守りましょう！=Nhanh lên và đập chết bọn chuột để cùng Rin bảo vệ chút phô-mai quý giá này!
+
+---Story---
+チーズを見張ろう！=Cùng nhau canh giữ phô-mai thôi!
+
+牧場メンバーたちは牧場温泉に来るお客さんのお土産にできそ\nうな熟成チーズを倉庫で発見するも、それを狙うネズミたちに\n頭を悩ませる。そこで、たまたま手の空いていたリンがチーズ\n警備に名乗りを上げる。=Các thành viên trang trại tìm thấy phô-mai già trong kho, có thể dùng làm quà lưu niệm cho khách hàng đến suối nước nóng trang trại, nhưng họ đang khổ vì bọn chuột nhắm đến nó. Lúc đó Rin, vừa may mắn rảnh, tình nguyện ra tay canh giữ phô-mai.
+
+牧場温泉開業に向けて着々と準備を進める\n【牧場（エリザベスパーク）】のメンバーたちは\n何やら頭を抱えていた。=Các thành viên Elizabeth Park đang tích cực chuẩn bị cho việc mở cửa nhà tắm suối nước nóng (onsen) của họ.\nTuy nhiên, dường như họ đang gặp phải chuyện gì đó...
+ん～困ったな。どうすっべ。=Hừm... Có thể đây sẽ là vấn đề đấy.\nMình nên làm sao đây?
+私がなんとかがんばれば……=Giá như mình có thể làm tốt hơn...
+シオリちゃんにはチラシを作り足してもらわないといけないでしょ。\n早めに仕事を片づけるから私がやるわ。=Em vẫn còn phải làm thêm tờ rơi, đúng không Shiori?\nMình đã xong sớm rồi, để mình lo giúp.
+みんな難しそうな顔してどうしたの？　何かあった？=Tại sao mọi người trông đều bối rối vậy?\nCó chuyện gì xảy ra sao?
+リンリン！　ちょうどいいところに！=Rin-Rin! Đúng lúc quá!
+な、なになに？\n面倒なことならいやだよ？=S-Sao cơ?\nNếu là chuyện rắc rối, mình thà không làm.
+そっか……やっぱりオラたちでどうにかするしかねぇか。=Mình hiểu rồi... Có vẻ chúng ta chỉ còn cách tự giải quyết thôi.
+そうですね。\nリンちゃんは連日チラシ配りで疲れてるでしょうし。=Đúng vậy.\nRin chắc mệt vì phát tờ rơi suốt cả ngày rồi.
+あーもう！　なんなの！\n言ってくれなきゃなんのことか分からないよ！\n一回言ってみなよ！=Trời ơi! Chuyện gì vậy?!\nNếu không nói ra, làm sao mình biết mọi người đang nói về chuyện gì? Nói đi!
+そう？　あのね、倉庫を片づけてたら\nお客さんのお土産にできそうな熟成チーズが見つかったんだけど、\nチーズの匂いに釣られてねずみが来ちゃってるのよ。=Thật ư? Cậu biết không, trong lúc dọn kho, mình tìm thấy chút phô-mai già có thể dùng làm quà lưu niệm cho khách hàng, nhưng mùi phô-mai đã dụ bọn chuột đến.
+チーズを食べられないように見張りを立てなきゃいけないんだけど、\n私たちはいろんな作業で手が離せなくて。=Vậy chúng ta phải canh giữ để đảm bảo chúng không ăn được phô-mai, nhưng ai cũng bận rộn với công việc khác.
+あー確かにあたしはチラシなくなっちゃったから手が空いてるね。=À, thì... thực ra mình hết tờ rơi rồi, nên giờ có chút thời gian trống.
+リンリン、疲れてると思うけどチーズの見張りやってくんねぇか？=Rin-Rin, mình biết cậu mệt, nhưng cậu có thể canh giữ phô-mai được chứ?
+疲れてるなら無理しなくていいのよ！\n見張りって結構疲れるし！=Cậu không cần ép bản thân nếu mệt mà!\nCanh giữ cũng khá mệt đấy!
+そうです。私はチラシ作りしかやってないし、私が見張りを……=Đúng vậy. Mình chỉ làm tờ rơi thôi, nên có thể lo việc canh giữ...
+そんなに気を使ってくれなくても大丈夫だよ。\nあたしがやるよ、チーズの見張り。=Cậu không cần khách sáo thế đâu.\nMình sẽ canh giữ phô-mai.
+ほんとだべか！？=Thật ư?!
+うん。見張りって言っても相手はねずみでしょ？\nそのくらいなら平気平気。=Ừ, được chứ.\nDù nói là "canh giữ", nhưng chỉ là mấy con chuột thôi, phải không?\nMình sẽ ổn thôi, đừng lo.
+本当に大丈夫？\n無理しなくていいんだからね。=Cậu chắc chứ? Có thể sẽ ổn thôi.\nCậu không cần phải cố gắng đâu, biết chứ.
+そうだよ。\nリンちゃんずっと歩き回って疲れてるだろうし。=Đúng rồi, Rin-chan, cậu đã đi lại nhiều và chắc mệt rồi.
+平気だから！　そりゃ確かにめんどくさいけど、\n人手が足りないんだからやれることはやるって！\nあたしに任せてみんなは自分の仕事して。=Mình ổn thật mà!\nỪ, chán thật, nhưng chúng ta thiếu người, nên mình sẽ làm hết sức mình có!\nGiao cho mình, cậu lo công việc của cậu đi.
+リンリン、ほんとうにあんがとな。=Rin-Rin, cảm ơn cậu nhiều lắm~!
+手が空いたときは私たちも手伝うから！=Khi chúng mình rảnh, chúng mình sẽ giúp nữa!
+だから無理しなくて大丈夫だよ。=Vậy đừng quá sức!
+…………みんなあたしのことなんだと思ってるのさ。\nいやまぁ、手伝ってくれる分には助かるけど。=.........Mọi người đều nghĩ đến mình, hả?\nThôi, ý mình là, mình sẽ biết ơn nếu họ sẵn sàng giúp đỡ.
+そんじゃあリンリン。\nチーズのことは任せたべ。=Vậy thì, Rin-Rin, chúng tôi giao phô-mai cho cậu đấy!
+はいはい。大船に乗った気で居てよ。\nチーズくらいあたしが守ってみせるから。=Được rồi, được rồi! Hãy nghĩ tích cực lên!\nMình sẽ cho các cậu xem mình bảo vệ được phô-mai!
+
+小さき敵との攻防=Tấn công và phòng thủ
+
+熟成チーズを守るため一人倉庫にたたずむリンは\n早くもねずみと対峙するのだった。=Rin ở một mình trong kho, bảo vệ chút phô-mai già.\nKhông lâu sau, cô đối mặt với bọn chuột...
+ちゅ～！！=*kêu chít chít!*
+あっ！　さっそく現れたな！\nはぁ……ねずみが出てこなきゃ楽な仕事だったのになぁ。=Á! Các cậu đã ra đây rồi! *thở dài*...\nGiá như các cậu không chui ra thì dễ làm hơn nhiều.
+みんなにああ言っちゃった以上、\nちゃんとねずみを追い払わないとね。\nほら、あっちいけ！　このチーズはあんたのじゃないよ！=Vì mình đã hứa với mọi người, mình phải đuổi chúng đi đúng không?\nĐi đi! Phô-mai này không phải của các cậu!
+ちゅいっ！\nちゅっちゅ！=*chít chít!* *chít chít chít!*
+あっ、この！\n意外とねばるな！\nほら、あっちいけ～～～！！=Á! Mày! Kiên trì thật đấy!\nThôi, cút đi~~~!!
+ちゅ～！？=*chíiiít!*
+ふぅ……なんとか追い払えた。\nねずみって意外と手ごわいんだね。=Phew... May mắn đuổi chúng đi được.\nChuột có thể là đối thủ bất ngờ khó chơi đấy, hả?
+追い払えるには追い払えたし、\nこの調子でチーズを守っていこうか。=Được rồi, mình đã đuổi chúng đi rồi, cứ tiếp tục canh giữ phô-mai thôi!
+
+チーズの誘惑=Sự Cám Dỗ Của Phô-mai
+
+ねずみを追い払うのにもだいぶ慣れてきたね。\nそれにしても、なんでこんなにチーズを狙うのかな？=Mình nghĩ mình đã quen với việc đuổi chuột rồi.\nVẫn còn thắc mắc, tại sao chúng lại mê phô-mai đến thế?
+チーズ以外にも食べ物はあるじゃん。\nまっひ～には悪いけど、ドングリとかくるみとかの方が\nおいしいと思う。=Có đồ ăn khác ngoài phô-mai, phải không?\nMình thấy tội cho Mahy~ khi nói thế, nhưng mình nghĩ quả dẻo và hạt óc chó ngon hơn.
+んー、でもよく考えたらあたし、牧場のチーズを\nきちんと味わったことないな。=Ừm, nhưng nghĩ lại thì mình chưa từng thử phô mai từ trang trại bao giờ.
+このチーズはお土産用だから食べちゃダメだよね。\nん～でもさっきからドングリにはない独特な匂いが食欲を刺激して……\nなんて言うんだろう……生命の源みたいな感じで芳醇な……=Phô mai này để làm quà, nên mình không ăn được. Ơ, nhưng mùi thơm đặc biệt này... khác hẳn với acorn... thật mê hoặc... Nên diễn tả thế nào nhỉ... Giống như bản chất của sự sống, đậm đà và thơm ngát...
+チーズもなかなか……いや！　いやいや！\nやっぱりドングリの方がいいよ！\nうん、絶対ドングリの方がいい！=Phô mai cũng... Không! Không, không!\nAcorn chắc chắn ngon hơn!\nĐúng rồi, acorn mới là lựa chọn tốt nhất!
+ちゅ～！！=*kêu chít chít!*
+わっ！？　また出た！！\nしかもさっきのねずみより大きい！=Ôi!? Lại là cậu à!!\nVà cậu to hơn lần trước rồi!
+そんなにチーズが欲しいの？\n余計にチーズのこと調べたくなっちゃったじゃん。=Cậu muốn phô mai đến thế sao?\nCậu khiến mình càng muốn tìm hiểu về phô mai hơn.
+さっさと追い払わせてもらうよ！\n覚悟してね！=Mình sẽ xử lý cậu ngay!\nChuẩn bị tinh thần đi!
+
+芽生える愛情？=Một tình yêu đang nảy nở?
+
+ちゅ～～！=*kêu chít chít!*
+はぁ、ようやく追い払えたよ。\nなんかねずみたち、\nどんどん必死になってる感じがするんだけど……気のせい？=Haa, cuối cùng cũng hết rồi.\nCó cảm giác chúng ngày càng tuyệt vọng hơn... hay là mình tưởng tượng?
+でもまぁ、なんとか守れてよかったよ。\nあんたたちも食べられなくてよかったね……って、\nあたしなんでチーズに話しかけてるの？=Thôi, mình vui vì đã bảo vệ được cậu.\nChúng không ăn được cậu...\nKhoan, sao mình lại nói chuyện với phô mai vậy~??
+この子たちのために戦ってたから愛着湧いちゃった……？\nん？　いや、この子って……あたし本当にどうしたんだろう。\nどのみち食べられるのに変わりはないじゃん。=Có lẽ mình đã gắn bó với những đứa con này vì đã chiến đấu cho chúng...? Hả? Khoan... 'Con cái'? ... Thật sự, mình sao vậy? Dù sao đi nữa, mình không thể để chúng bị ăn.
+チーズがなくなったらまっひ～が悲しむからだよね。\nうん。それだけだよ。=Là vì Mahy~ sẽ buồn nếu phô mai mất hết.\nĐúng vậy, chính là vậy.
+ちゅ～～！！=*kêu éc éc!*
+また来たの？　本当に懲りないね～……って！？\nすごいデカいじゃん！！　ほんとにねずみなの！？=Lại quay lại rồi? Cậu thật sự không bao giờ học được gì, phải không?\n...Khoan! Cậu BẠO THƯỢNG!! Cậu thật sự là chuột sao?!
+ちゅ～～って鳴いてるからねずみか。\nあ～～もう、何度来たって無駄だよ！\nここは絶対に通さないから！！=Cậu đang kêu, vậy chắc chắn là chuột rồi, hả..?\nÁi chà, dù cậu có đến bao nhiêu lần đi nữa cũng vô ích! Mình sẽ không để cậu qua đâu!!
+この子たちはあたしが守り抜いてみせる！！=Mình sẽ bảo vệ con cái!!
+
+労働は続くよどこまでも=Công việc không bao giờ kết thúc
+
+はぁ……はぁ……なんなの……\nもうクタクタだよ……\n追い払えたからいいけど……=*thở dốc*... Cái gì vậy...? Mình hoàn toàn kiệt sức...\nDù vậy, mình vẫn đánh bại được tất cả chúng...
+あの大きさ、ねずみの親玉だったのかな？\n親玉を追い払ったんだからもう大丈夫だよね。\n大丈夫だと思いたい。=Cái to kia là boss à?\nMình đã đuổi nó đi, vậy giờ chúng ta chắc là an toàn rồi.\nÍt nhất thì mình hy vọng là vậy.
+この子たちは……よかった～\n傷一つないね。\nん？　むしろさっきよりツヤツヤになってない？=Con cái của mình... May quá.\nKhông một vết xước nào. Hả?\nHóa ra chúng trông còn bóng hơn trước?
+そんなすぐに熟成されるものなのかな？\nまぁ、あたしも短時間でねずみ追い払うのうまくなったし、\nこの子たちがあっという間に育ってもおかしくないよね。=Mình tự hỏi chúng có thể trưởng thành nhanh như vậy không?\nThôi, mình cũng đã giỏi hơn trong việc đuổi chuột trong thời gian ngắn, nên nếu những đứa con nhỏ này lớn nhanh thì cũng không có gì lạ, phải không?
+心なしか匂いもおいしく感じてきた……気がする。\nおかしいな。ドングリと比べたら全然だったのに。=Mùi của chúng cũng bắt đầu có vị ngon... ý là, cảm thấy ngon... Thật kỳ lạ. So với acorn, thì thật sự hoàn toàn khác biệt.
+これは確かにエリザベスパーク印の製品が人気なのもうなずけるね。\nまっひ～はすごいよ。改めて見直しちゃう。=Mình hiểu tại sao sản phẩm của Elizabeth Park lại phổ biến thế.\nMahy~ thật tuyệt vời.\nMình bắt đầu trân trọng nó hơn.
+まっひ～の期待に応えるためにもこのままチーズを守り続け……\nあれ？　あそこになんか穴が開いてる。\nひょっとしてねずみの巣！？　ここから湧いて出てたの？=Để không phụ lòng kỳ vọng của Mahy, mình sẽ tiếp tục bảo vệ phô mai... Hả? Có vẻ như có một lỗ ở kia. Có thể là tổ chuột?! Chúng đã từ đó ra suốt?
+あ～もう！　これまたねずみ出てくるパターンじゃん！\nいいよ！　何度でも撃退するよ！\n掛かってきな！！=Ái chà, chà! Lại một kiểu xuất hiện của chuột nữa!\nKhông sao! Mình sẽ đuổi chúng bao nhiêu lần cũng được! Đến đây nào~!
+
+---Tips---
+リンさまと協力して、チーズを狙うネズミたちを退治しましょう。\nネズミたちは色々な方向から狙ってくるので注意してくださいまし。=Hãy cùng Rin loại bỏ những con chuột nhắm vào phô mai. Chúng sẽ đến từ mọi hướng, nên cẩn thận!
+ネズミ退治を進めていくと、ハンマーを獲得できます。\nハンマーには色々な種類がございますので、手に入れたハンマーを\n是非、試してみてください。=Cậu có thể nhận được búa mới bằng cách giết chuột. Có nhiều loại, mỗi loại có khả năng khác nhau, nên hãy thử tất cả!
+たくさんネズミを退治すると、ほんきゲージが上昇いたします。\nゲージを最大まで貯めると、ほんきの一撃が使えるようですよ。\nチーズに群がるネズミを一網打尽に撃退しましょう。=Đánh bại nhiều chuột sẽ tăng Effort Gauge. Nếu thanh đạt tối đa, cậu sẽ có thể Get Serious và hạ gục tất cả những con chuột đang bu quanh phô mai trong một lần!
+合計スコアに応じて、報酬を獲得できます。\nスコアは全難易度共通ですので、ご自分に合った難易度で\n観察日記や図鑑を解放していきましょう。=Cậu sẽ nhận phần thưởng dựa trên tổng điểm.\nĐiểm tích lũy qua tất cả các độ khó, nên cứ thoải mái chọn độ khó phù hợp nhất với cậu!
+
+---Main screen dialogue---
+あたしの前に\n現れたこと\n後悔させてあげる=Mình sẽ khiến cậu hối hận\nvì đã xuất hiện ở đây!
+ねずみのことなんか\n知りたくないよ\nはぁ…めんどくさい=Mình không muốn\ncó bất cứ quan hệ gì với chuột.\nUgh... thật phiền phức.
+コツをつかめば\n結構楽しいかも\nいや、労働は労働か…=Nếu cậu nắm bắt được,\nthì cũng khá vui.\nThôi, công việc thì vẫn là\ncông việc mà thôi...
+うわっ！？\nこっちこないでよ！\nはぁ…チマチマ\n追い払うのは大変だ…=Ôi! Tránh ra nào~!\n*thở dài*\nThật khó để loại bỏ chúng\nmột cách từng đứa...
+こんなことに\n慣れたくないよ…\nでも牧場のためには\nやるしかないか=Mình không muốn làm quen với việc này...\nNhưng chắc mình sẽ phải\nlàm vì trang trại!
+任された仕事は\nきちんとやるよ=Để tất cả\ncông việc vất vả cho mình!
+
+---Main Screen---
+リンの手帳=Nhật ký của Rin
+木槌一覧=Búa
+ご褒美一覧=Phần thưởng
+
+r:"^([^\d]+)をクリアすると解放されます。$"=Hoàn thành $1 để mở khóa.
+
+---Rewards Screen---
+最終報酬スコア=Phần thưởng cuối cùng
+
+---Hammers---
+木槌選択=Lựa chọn búa
+装備するアイテムを選んでください=Chọn vũ khí để sử dụng.
+
+\[FFBB00,CE4F00\]累計{playername}pt\n\[-\]\[3C404E\]で解放されます\[-\]=[3C404E]Mở khóa khi [FFBB00,CE4F00]{playername}\n      đạt tổng điểm.[-]
+
+[3C404E]装備すると\\nほんき上昇率が\\n[FFBB00,CE4F00]1.2倍[-]になる。[-]=[3C404E]Tăng tốc độ tích lũy Effort Gauge\nbằng[FFBB00,CE4F00]1.2 lần.[-]
+[3C404E]装備すると\\n攻撃が届く範囲が\\n[FFBB00,CE4F00]1.2倍[-]になる。[-]=[3C404E]Tăng phạm vi tấn công\nbằng[FFBB00,CE4F00]1.2 lần.[-]
+[3C404E]装備すると\\nコイン獲得量が\\n[FFBB00,CE4F00]1.2倍[-]になる。[-]=[3C404E]Tăng lượng xu nhận được\nbằng[FFBB00,CE4F00]1.2 lần.[-]
+
+木槌=Mallet
+初期装備=Vũ khí mặc định
+
+魔法の小槌=Magic Hammer
+[3C404E]ほんきゲージ\n上昇率が\n[FFBB00,CE4F00]1.5倍[-]になる。[-]=[3C404E]Thanh Nỗ Lực\ntỷ lệ nhận[FFBB00,CE4F00] 1.5x[-]
+
+マヒルお手製ハリセン=Quạt Thủ Công Của Mahiru
+[3C404E]コイン獲得量が\n[FFBB00,CE4F00]1.5倍[-]になる。[-]=[3C404E]     Đồng\ntỷ lệ nhận[FFBB00,CE4F00] 1.5x[-]
+
+打ちでの小槌=Búa Của Uchide
+[3C404E]攻撃範囲が\n[FFBB00,CE4F00]3倍[-]になる。[-]=[3C404E]Phạm vi tấn công \ntăng [FFBB00,CE4F00]3 lần.[-]
+
+---Hammer unlock---
+ハンマー解放=Đã Mở Khóa Búa
+sr:"^\[FFBB00,CE4F00\](.+)\n\[-\]\[3C404E\]が解放されました。\[-\]$"=[FFBB00,CE4F00]$1[-]\n[3C404E] đã được mở khóa.[-]
+ハンマーはミニゲーム画面から確認できます。=Bạn có thể kiểm tra búa\ntừ màn hình chính.
+
+---Title---
+チーズ番見習い=Lính Canh Phô Mai Tập Sự
+チーズ番隊長=Đội Trưởng Lính Canh Phô Mai
+コインマスター=Bậc Thầy Đồng
+
+sr:"^累計(.+)獲得で\n「(.+)」ゲット$"=Đã nhận $1!\nĐã kiếm được danh hiệu $2!
+
+獲得した報酬はプレゼントに送られました。=Phần thưởng đã được gửi đến Hộp Quà.
+
+---Rin's Journal---
+ネズミ構成録=Nhật Ký Chuột
+観察日記=Tạp Chí
+討伐数=Đã Giết
+
+日記解放=Đã Mở Khóa Mục Tạp Chí
+日記はミニゲーム画面から確認できます。=Bạn có thể kiểm tra Tạp Chí\ntừ màn hình chính.
+
+熟成=Sự Trưởng Thành
+麗しき青=Xanh Biếc Đẹp
+誘惑=Sự Cám Dỗ
+謎は謎のままに=Bí Ẩn Chưa Giải
+
+---Result screen---
+獲得コインボーナス=Thưởng Đồng
+残りライフボーナス=Thưởng Mạng
+総討伐数=Đã Đánh Bại
+体=X
+
+---Result Screen Dialog (leaving some empty lines for eventual future additions) ---
+あたしを敵に回した\n恐ろしさ\n思い知ったか！=Cậu đã nhận ra nỗi sợ khi trở thành kẻ thù của tôi chưa?!
+ふぅ…\nこれであたしの仕事は\n終わりだね=Phew...\nVậy là công việc của tôi xong rồi, phải không?
+やったね！\nこれでようやく\nサボれるよ…=Tốt lắm!\nGiờ thì tôi cuối cùng cũng có thể nghỉ ngơi...
+あたしも意外と\nやるもんでしょ？=Tôi làm tốt bất ngờ đấy, phải không?
+
+
+
+疲れた…\nけど、次こそは\n守り抜くよ…=Tôi mệt...\nNhưng lần sau, tôi sẽ bảo vệ nó...
+疲れた…\nねずみの逃げ足\n速すぎるよ…=Tôi mệt quá...\nMấy con chuột này nhanh quá...
+
+
+
+やられた…\nねずみって意外と\nてごわいね=Chúng đã bắt được tôi...\nChuột bất ngờ khó đánh đấy.
+おのれ～\nあたしのチーズを\n盗みやがって～！=Đồ khốn, lấy trộm phô mai của tôi!
+まじめに\nやったんだけどな…\n悔しいな～=Tôi đã cố gắng thật sự, nhưng...\nBuồn bã quá~
+このままじゃ\nまっひ～に\n叱られちゃうよ=Nếu cứ thế này,\nMahy~ chắc chắn sẽ mắng tôi~
+

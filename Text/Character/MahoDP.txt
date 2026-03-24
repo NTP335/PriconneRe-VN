@@ -1,0 +1,30 @@
+##Profile##
+【魔法】後衛で、サーカスの舞台に輝くメルヘン少女。味方の攻防支援や敵の攻防弱体化の他【カーテンコール】付与時の追加ダメージスキルで、勝利のライトを照らす。=[Ma thuật] Một cô gái truyện cổ tích rực rỡ trên sân khấu tuồng ở hậu phương. Ngoài việc hỗ trợ đồng minh trong tấn công/phòng thủ và yếu đi kẻ địch trong tấn công/phòng thủ, cô ấy chiếu sáng ánh chiến thắng với kỹ năng gây thêm sát thương khi được ban [Lời kết Màn].
+
+##UB##
+メルヘンカーテンコール=Lời kết Màn Truyện cổ tích
+前方範囲内の敵すべての魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、自分の魔法攻撃クリティカル時のダメージを小アップさせて、【カーテンコール】を付与する。=Giảm M.DEF của kẻ địch trong phạm vi một chút. Ngoài ra, tăng M.ATK và Tỷ lệ Chí mạng M. rất lớn cho toàn bộ đồng minh, và tăng Sát thương Chí mạng M. một chút. Cấp [Lời kết Màn] cho bản thân.
+r:"^範囲内の敵の魔法防御力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを150アップ自分の魔法攻撃クリティカル時のダメージを15％アップ自分にカーテンコールを付与する$"=►Giảm M.DEF của kẻ địch trong phạm vi 1400 bằng $1 trong 18s.\n►Tăng M.ATK cho toàn bộ đồng minh bằng $2 trong 18s.\n►Tăng Tỷ lệ Chí mạng M. cho toàn bộ đồng minh bằng 60 trong 18s.\n►Tăng Sát thương Chí mạng M. cho toàn bộ đồng minh bằng 15% trong 18s.\n►Cấp [Lời kết Màn] cho bản thân.
+
+##S1##
+マホマホファンシーボール=Buổi dạ hội Maho-Maho
+マホマホファンシーボール+=Buổi dạ hội Maho-Maho+
+前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、物理防御力と魔法防御力を小アップさせる。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Gây sát thương ma thuật trung bình cho kẻ địch trong phạm vi và giảm M.DEF của chúng một chút. Ngoài ra, tăng M.ATK, P.DEF và M.DEF rất lớn cho toàn bộ đồng minh. Nếu [Lời kết Màn] đang hoạt động, gây thêm sát thương ma thuật cho kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 1400.\n►Giảm M.DEF của kẻ địch trong phạm vi 1400 bằng $2 trong 12s.\n►Nếu [Lời kết Màn] đang hoạt động: Gây thêm $3 sát thương ma thuật.\n►Tăng M.ATK cho toàn bộ đồng minh bằng $4 trong 12s.\n►Tăng P.DEF cho toàn bộ đồng minh bằng $5 trong 12s.\n►Tăng M.DEF cho toàn bộ đồng minh bằng $5 trong 12s.
+
+##Skill+##
+前方範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージ、物理防御力、魔法防御力を小アップさせる。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Gây sát thương ma thuật lớn cho toàn bộ kẻ địch trong vùng phía trước và giảm M.DEF của chúng một chút. Ngoài ra, tăng M.ATK rất lớn, tăng Tỷ lệ Chí mạng M. rất lớn, và tăng Sát thương Chí mạng M., P.DEF, M.DEF một chút cho toàn bộ đồng minh. Nếu Lời kết Màn đang hoạt động, gây thêm sát thương ma thuật lớn cho toàn bộ kẻ địch trong vùng phía trước.
+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを10％アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 1400.\n►Giảm M.DEF của kẻ địch trong phạm vi 1400 bằng $2 trong 12s.\n►Trong khi [Lời kết Màn]: Gây thêm $3 sát thương ma thuật.\n►Tăng M.ATK cho toàn bộ đồng minh bằng $4 trong 12s.\n►Tăng Tỷ lệ Chí mạng M. cho toàn bộ đồng minh bằng 100 trong 12s.\n►Tăng Sát thương Chí mạng M. cho toàn bộ đồng minh bằng 10% trong 12s.\n►Tăng P.DEF cho toàn bộ đồng minh bằng $5 trong 12s.\n►Tăng M.DEF cho toàn bộ đồng minh bằng $6 trong 12s.
+
+##S2##
+マホマホワンダーフープ=Vòng tròn Kỳ diệu Maho-Maho
+前方範囲内の敵すべてに魔法中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。さらに味方全体のＴＰ上昇を小アップさせ、ＴＰを小回復する。【カーテンコール】が付与されている場合、前方範囲内の敵すべてに追加の魔法大ダメージを与える。=Gây sát thương ma thuật trung bình cho kẻ địch trong phạm vi và giảm P.ATK và M.ATK của chúng rất lớn. Đồng thời tăng TP Boost và hồi TP một chút cho toàn bộ đồng minh. Nếu [Lời kết Màn] đang hoạt động, gây thêm sát thương ma thuật lớn cho toàn bộ kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウンカーテンコール付与中、範囲内の敵に(\d+)の追加魔法ダメージ味方全体のＴＰ上昇を5アップ味方全体のＴＰを80回復$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 1400.\n►Giảm P.ATK của kẻ địch trong phạm vi 1400 bằng $2 trong 12s.\n►Giảm M.ATK của kẻ địch trong phạm vi 1400 bằng $3 trong 12s.\n►Nếu [Lời kết Màn] đang hoạt động: Gây $4 sát thương ma thuật cho kẻ địch trong phạm vi 1400.\n►Tăng TP Boost cho toàn bộ đồng minh bằng 5 trong 12s.\n►Hồi TP cho toàn bộ đồng minh bằng 80.
+
+##EX##
+メルヘンサーカス=Tuồng Truyện cổ tích
+メルヘンサーカス+=Tuồng Truyện cổ tích+
+
+##Unique Equipment##
+マホマホドリームスーツ=Bộ đồ Giấc mơ Maho-Maho

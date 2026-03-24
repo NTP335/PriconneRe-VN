@@ -1,0 +1,24 @@
+EX防具コイン=Xu Áo giáp EX
+EX武器コイン=Xu Vũ khí EX
+EXアクセサリーコイン=Xu Phụ kiện EX
+分解するアイテムを選択してください。=Vui lòng chọn vật phẩm\ncần tháo dỡ.
+r:"^([0-9.]+)個のアイテムを選択中$"=Đã chọn $1 vật phẩm
+1個のアイテムを選択中=Đã chọn 1 vật phẩm
+
+所持上限=Giới hạn sở hữu
+所持上限を超えたアイテムをプレゼントに送りました。=Vật phẩm vượt giới hạn sở hữu đã được gửi đến quà tặng.
+これ以上は、分解できません。=Không thể tháo dỡ thêm.
+
+一度に分解出来る最大数に達しています。これ以上は選択出来ません。=Đã đạt số lượng tối đa có thể phân giải một lúc.
+まとめて分解するEX装備を選択中です。=Chọn trang bị EX để phân giải toàn bộ
+おまかせ分解するEX装備がありません。=Không có trang bị EX nào có thể tự động phân giải.
+おまかせ分解が設定されていません。\nおまかせ分解設定を行ってください。=Chưa đặt cài đặt Tự động phân giải.\nVui lòng đặt cài đặt Tự động phân giải.
+分解するEX装備が選択されていません。=Chưa chọn trang bị EX cần phân giải.
+
+おまかせ分解実行時の消費対象を設定します。=Đặt mục tiêu tiêu hao khi thực hiện Tự động phân giải.
+
+以下のEX装備を分解します。=Phân giải các trang bị EX sau.
+分解する=Phân giải
+EX装備分解確認=Xác nhận phân giải trang bị EX
+
+リサイクル結果=Kết quả tái chế

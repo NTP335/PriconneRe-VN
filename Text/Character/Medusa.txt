@@ -1,0 +1,39 @@
+水橋かおり=Mizuhashi Kaori
+メドゥシアナと空を飛ぶこと=Bay Cùng Medussiana
+わがままで意地っ張りな末っ子系蛇娘=Cô gái rắn nhỏ ích kỷ và cứng đầu
+
+##Profile##
+【物理】中衛で眷属と力を合わせて戦う誇り高き蛇乙女。【魔眼】の数に応じて効果量が上がるスキルのダメージと弱体化で範囲内の敵を追い詰め、鋭い瞳で石へと変える。=[Vật Lý] Nàng rắn kiêu ngạo kết hợp sức mạnh với các tì nữ. Kỹ năng của cô mạnh lên dựa trên số lớp [Mắt Ác] có được, và dùng các hiệu ứng suy yếu để khiến kẻ địch xung quanh yếu đi, cô dùng đôi mắt sắc bén biến chúng thành đá.
+
+##UB##
+リーサル・メドゥシアナ=Riezal Medusiana
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理特大ダメージを与え、物理防御力を中ダウンさせ、猛毒状態と石化状態にする。さらに、自分に【魔眼】を１つ付与する。【魔眼】は最大３つまで追加される。=Gây sát thương vật lý khổng lồ, giảm phòng thủ vật lý vừa phải và gây Độc Dữ Dội cùng Biến Đá trong vùng AOE xung quanh kẻ địch phía trước nhất. Cũng thêm 1 lớp [Mắt Ác] cho bản thân. Số lớp [Mắt Ác] tối đa là 3.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン(\d+)ダメージを与える猛毒状態にする範囲内の敵を一定時間行動不能にする自分に魔眼を１つ付与する$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi lên $2.\n►Độc kẻ địch trong phạm vi, gây $3 sát thương vật lý mỗi tick.\n►Gây Biến Đá cho kẻ địch trong phạm vi.\n►Tặng 1 [Mắt Ác] cho bản thân.
+
+
+##S1##
+イリュージョンウィップ=Roi Ảo Ảnh
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウン、物理防御力を小ダウンさせる。このスキルの効果量は【魔眼】の数に応じて上昇する。=Gây sát thương vật lý lớn, giảm đáng kể tấn công vật lý và phép, giảm nhẹ phòng thủ vật lý trong vùng AOE xung quanh kẻ địch phía trước nhất. Hiệu ứng kỹ năng này tăng lên dựa trên số lớp [Mắt Ác].
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm tấn công vật lý của kẻ địch trong phạm vi lên $2.\n►Giảm tấn công phép của kẻ địch trong phạm vi lên $3.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi lên $4.
+
+##S2##
+マイティー・アイ=Mắt Hùng Mạnh
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを120アップ味方全体の物理攻撃クリティカル時のダメージを12％アップ自分のＴＰを120回復$"=►Tăng tấn công vật lý của đồng minh lên $1.\n►Tăng tỷ lệ chí mạng vật lý của đồng minh lên 120.\n►Tăng sát thương chí mạng vật lý của đồng minh lên 12%.\n►Hồi TP của bản thân lên 120.
+
+味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、自分のＴＰを小回復する。このスキルの効果量は【魔眼】の数に応じて上昇する。=Tăng đại trà tấn công vật lý, tăng đáng kể tỷ lệ chí mạng vật lý và tăng nhẹ sát thương chí mạng vật lý cho tất cả đồng minh. Ngoài ra còn hồi nhẹ TP cho bản thân. Hiệu ứng kỹ năng này tăng lên dựa trên số lớp [Mắt Ác].
+
+##EX##
+ゴルゴーンの威光=Uy Năng Gorgon
+ゴルゴーンの威光+=Uy Năng Gorgon+
+
+
+
+
+
+##S1+##
+姫衛の大蛇・メドゥシアナ=Rắn Vương Gia Guardian Medusiana
+イリュージョンウィップ+=Roi Ảo Ảnh+
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを3％アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm tấn công vật lý của kẻ địch trong phạm vi lên $2.\n►Giảm tấn công phép của kẻ địch trong phạm vi lên $3.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi lên $4.\n►Tăng sát thương chí mạng mà kẻ địch trong phạm vi phải nhận lên 3%.

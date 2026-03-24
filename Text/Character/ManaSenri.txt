@@ -1,0 +1,36 @@
+##Profile##
+【物理】後衛で、天の星を瞳に宿し、覇道を進む皇。権能を解放し敵全体のバリアと全ステータスアップ効果を解除し、耐久力ダウンと複数の広範囲攻撃で敵を滅する。=[Vật lý] Là một đấu sĩ tuyến sau, vị hoàng đế mang trên mắt những vì sao của trời và khát khao chinh phục tất cả. Họ giải phóng uy quyền để loại bỏ khiên và mọi hiệu ứng tăng trạng của tất cả kẻ địch, sau đó yếu đi phòng thủ của chúng và hủy diệt chúng bằng các đòn tấn công phạm vi rộng.
+謎に包まれたランドソルの主=Chúa tể Landosol, phủ trong bí ẩn
+占い、支配=Bói toán, quy tắc
+
+エンドゲーム=Kết thúc trò chơi
+トゥモロー・ワールド=Thế giới ngày mai
+フューチャー＆パスト=Tương lai & Quá khứ
+ニューロマンサー=Neuromancer
+
+##UB##
+覇瞳天星・滅光=Hadou Tensei: Destruction
+敵全体のバリアとステータスアップ効果を解除し、物理大ダメージを与える。=Loại bỏ khiên và hiệu ứng tăng trạng từ tất cả kẻ địch và gây sát thương vật lý lớn.
+r:"^敵全体のバリアとステータスアップ効果を解除する敵全体に(\d+)の物理ダメージ$"=►Xóa mọi hiệu ứng khiên và tăng trạng thái của kẻ địch.\n►Gây $1 sát thương vật lý lên toàn bộ kẻ địch.
+
+##S1##
+天叢雲剣・偽翔=Ama-no-Murakumo: False Flight
+前方の敵すべてに物理中ダメージを与え、ＴＰを小ダウンさせる。さらに、自分のＴＰを小回復する。=Gây sát thương vật lý trung bình lên toàn bộ kẻ địch phía trước và giảm một chút TP. Ngoài ra, phục hồi một chút TP của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵のＴＰを100失わせる自分のＴＰを100回復$"=Thời gian niệm: 1.1s\n►Gây $1 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm TP của mục tiêu 100.\n►Phục hồi 100 TP cho bản thân.
+
+##S2##
+八尺瓊勾玉・減葬=Hachishaku Magatama: Cremation
+前方の敵すべての攻撃を受けた際の被ダメージを中アップさせ、物理/魔法防御力とクリティカル時のダメージを小ダウンさせる。=Tăng sát thương nhận vào trung bình của toàn bộ kẻ địch phía trước, và giảm một chút phòng thủ vật lý/phép thuật cùng sát thương phản chí.
+r:"^範囲内の敵が受ける物理ダメージを12％アップ範囲内の敵が受ける魔法ダメージを12％アップ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の物理攻撃クリティカル時のダメージを15％ダウン範囲内の敵の魔法攻撃クリティカル時のダメージを15％ダウン$"=Thời gian niệm: 1.7s\n►Tăng sát thương vật lý/phép thuật mà kẻ địch trong phạm vi nhận vào 12% trong 12s.\n►Giảm phòng thủ vật lý/phép thuật của kẻ địch trong phạm vi $1 trong 12s.\n►Giảm sát thương phản chí của kẻ địch trong phạm vi 15% trong 12s.
+
+##SP1##
+天叢雲剣・草薙=Ama-no-Murakumo: Kusanagi
+このスキルのスキルレベルは「覇瞳天星・滅\n光」と連動しています=Cấp độ kỹ năng này liên kết với "Hadou Tensei: Destruction"
+このスキルのスキルレベルは「覇瞳天星・滅光」と連動しています=Cấp độ kỹ năng này liên kết với "Hadou Tensei: Destruction"
+前方範囲内の敵すべてに通常攻撃を行う。=Một đòn tấn công thường lên toàn bộ kẻ địch trong phạm vi phía trước.
+
+
+
+##EX##
+八咫鏡・煌裁=Mirror of Yata: Brilliant Judgment
+八咫鏡・煌裁+=Mirror of Yata: Brilliant Judgment+

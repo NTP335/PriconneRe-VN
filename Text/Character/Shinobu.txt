@@ -1,0 +1,36 @@
+##Profile## 
+占い=Fortune-telling
+占いが得意な霊能少女=Một pháp sư trung thành thành thạo bói toán.
+
+【物理】中衛で、父親のドクロを召喚して戦う霊能少女。召喚した父親は、自分とは別に攻撃を行ってくれるほか、ダメージを代わりに受けてくれることもある。=[Vật lý] Một nhà tâm linh chiến đấu từ trung tuyến bằng một hộp sọ cư ngụ linh hồn của cha cô. Ngoài việc tấn công riêng biệt từ cô, cha cô đôi khi cũng đỡ đòn các đòn tấn công đến.
+
+##UB##
+ファントムテラー=Phantom Terror
+前方範囲内の敵すべてに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi và giảm nhỏ phòng thủ vật lý của chúng.
+
+##S1##
+ファントムコール=Otherworldly Beckoning
+【召喚】自分の前に、目の前の敵１キャラを攻撃するドクロを召喚する。=[Triệu hồi] Triệu hồi một hộp sọ phía trước bản thân, nó tấn công kẻ địch trực tiếp phía trước.
+ドクロ親父を召喚する=Triệu hồi Skull Father của Shinobu.
+
+##S2##
+ウィークレイス=Wraith Đói
+敵全体の物理防御力を小ダウンさせる。=Hạ nhẹ P.DEF của toàn bộ kẻ địch.
+r:"^敵全体の物理防御力を(\d+)ダウン$"=►Hạ P.DEF của toàn bộ kẻ địch bằng $1.
+
+##EX##
+宵闇の鎮魂歌=Lời Than Hoàng Hôn
+宵闇の鎮魂歌+=Lời Than Hoàng Hôn+
+
+##UB+##
+ファントムインフェルノ=Hỏa Ngục Ma Ảo
+前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を中ダウン、行動速度を大ダウンさせ、恐慌状態にする。さらに、【霊力】を解放する。【霊力】解放中、召喚するドクロ親父の各種ステータスがアップする。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi, hạ trung bình P.DEF, giảm mạnh tốc độ, và gây hiệu ứng Sợ Hãi. Ngoài ra, nhận được [Sức Mạnh Tinh Thần] (các chỉ số của Skull Father được triệu hồi sẽ tăng lên).
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の行動速度を一定時間低下させる範囲内の敵を恐慌状態にする霊力を解放する$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 850.\n►Hạ P.DEF của kẻ địch trong phạm vi bằng $2 trong 18 giây.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi còn 65% trong 12 giây.\n►Gây hiệu ứng Sợ Hãi cho kẻ địch trong phạm vi trong 12 giây.\n►Nhận Sức Mạnh Tinh Thần trong 180 giây.
+
+##S1+##
+ファントムコール+=Lời Mời Thế Giới Khác+
+【召喚】自分の前に、目の前の敵１キャラを攻撃するドクロを召喚し、自分を中心とした範囲内の味方の物理攻撃力と物理クリティカルを中アップする。=[Triệu Hồi] Triệu hồi một bộ xương trước mặt, tấn công kẻ địch ngay phía trước. Tăng trung bình P.ATK và tỷ lệ P.CRIT của đồng minh trong vùng xung quanh đồng minh đứng phía trước nhất.
+r:"^ドクロ親父を召喚する範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=►Triệu hồi Skull Father của Shinobu.\n►Tăng P.ATK của đồng minh trong phạm vi bằng $1.\n►Tăng tỷ lệ P.CRIT của đồng minh trong phạm vi bằng $2.
+
+##UE##
+グリムソウルローブ=Áo Choàng Linh Hồn

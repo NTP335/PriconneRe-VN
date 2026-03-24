@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、傍らで心を重ねる振袖姿の救護院の主。味方へのＴＰ回復の支援をしつつ、味方がＵＢを発動するたびダメージが上がるスキルで、共に困難を乗り越える。=[Magic] Người giữ trại mồ côi, khoác lên mình chiếc kimono dài nhiều lớp chứa đầy tấm lòng. Cô ấy tặng TP cho đồng đội và có kỹ năng tổn thất tăng lên mỗi khi đồng đội dùng UB. Với những thứ này, cô ấy giúp những người gần mình cùng nhau vượt qua khó khăn.
+
+##UB##
+ライジングフェニックス=Hồng Thiên
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương phép lên một kẻ địch.\n►Gây $2 sát thương phép lên một kẻ địch.\n►Tăng sát thương phép của bản thân lên $3.
+
+目の前の敵１キャラに魔法特大ダメージを２回与え、自分の魔法攻撃力を特大アップする。このスキルのダメージは【火の鳥】の数に応じて増加する。=Gây sát thương phép cực lớn 2 lần cho kẻ địch phía trước nhất và tăng cực lớn sát thương phép của bản thân. Sát thương kỹ năng này tăng tỷ lệ với số lượng ngăn [Hồng Thiên]. [+9% mỗi ngăn]
+
+##S1##
+コーリングフェザー=Lời Hiệu Triệu
+コーリングフェザー+=Lời Hiệu Triệu+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分のＴＰを250回復自分の火の鳥が10以上の時、敵単体に(\d+)の魔法ダメージ自分の火の鳥が10以上の時、敵単体の被クリダメを5％アップ$"=►Gây $1 sát thương phép lên một kẻ địch.\n►Giảm phòng thủ phép của một kẻ địch lên $2.\n►Hồi 250 TP cho bản thân.\n\nNếu [Hồng Thiên] từ 10 trở lên:\n►Gây $3 sát thương phép lên một kẻ địch.\n►Tăng tỷ lệ nhận sát thương chí mạng vật lý của kẻ địch lên 5%.
+
+目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせる。さらに自分のＴＰを中回復する。【火の鳥】の数が10以上の場合、目の前の敵１キャラに追加の魔法大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージは【火の鳥】の数に応じて増加する。=Gây sát thương phép lớn lên kẻ địch phía trước, giảm mạnh phòng thủ phép của nó, và hồi thêm TP cho bản thân. Nếu số ngăn [Hồng Thiên] từ 10 trở lên, gây thêm sát thương phép lớn cho cùng kẻ địch và tăng nhẹ tỷ lệ nhận sát thương chí mạng vật lý của nó. Sát thương kỹ năng này tăng theo số ngăn [Hồng Thiên].
+
+##S2##
+メディテーションダンス=Vũ Điệu Thiền Định
+r:"^自分の魔法攻撃力を(\d+)アップ自分以外の味方全体の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを100アップ自分以外の味方全体の魔法クリティカルを60アップ自分のＴＰを250回復自分以外の味方全体のＴＰを150回復初使用時、味方がＵＢを使用するたびに自分に火の鳥が１つ付与される状態にする$"=►Tăng sát thương phép của bản thân lên $1.\n►Tăng sát thương phép của đồng đội (trừ bản thân) lên $2.\n►Tăng tỷ lệ chí mạng phép của bản thân lên 100.\n►Tăng tỷ lệ chí mạng phép của đồng đội (trừ bản thân) lên 60.\n►Hồi 250 TP cho bản thân.\n►Hồi 150 TP cho tất cả đồng đội (trừ bản thân).\n►Khi dùng lần đầu, mỗi lần đồng đội dùng UB, thêm 1 ngăn [Hồng Thiên] cho bản thân.
+
+
+バトル開始後、初弾のこのスキルは味方がＵＢを使用するたびに自分に【火の鳥】が１つ追加される状態にする。【火の鳥】は最大20まで追加される。味方全体の魔法攻撃力を特大アップ、魔法クリティカルを中アップさせ、ＴＰを中回復させる。この効果は自分に対してのみ効果量がアップする。=Sau lần dùng kỹ năng này đầu tiên, các UB của đồng đội sẽ thêm 1 ngăn [Hồng Thiên] cho cô ấy. Số ngăn [Hồng Thiên] tối đa là 20. Tăng cực lớn sát thương phép, tăng trung bình tỷ lệ chí mạng phép và hồi trung bình TP cho tất cả đồng đội. Hiệu quả kỹ năng này chỉ tăng thêm cho bản thân.
+
+##EX##
+ノーブルニューイヤー=Năm Mới Quý Tộc
+ノーブルニューイヤー+=Năm Mới Quý Tộc+
+
+
+
+##S1+##
+救護院長の新春晴れ着=Kimono Năm Mới Của Giám Đốc Phòng Khám
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分のＴＰを250回復自分の火の鳥が10以上の時、敵単体に(\d+)の魔法ダメージ自分の火の鳥が10以上の時、敵単体の被クリダメを8％アップ$"=►Gây $1 sát thương phép lên một kẻ địch.\n►Giảm phòng thủ phép của một kẻ địch lên $2.\n►Tăng sát thương phép của bản thân lên $3.\n►Hồi 250 TP cho bản thân.\n\nNếu [Hồng Thiên] từ 10 trở lên:\n►Gây $4 sát thương phép lên một kẻ địch.\n►Tăng tỷ lệ nhận sát thương chí mạng của kẻ địch lên 8%.

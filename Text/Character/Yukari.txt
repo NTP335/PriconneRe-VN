@@ -1,0 +1,113 @@
+##Profile##
+ユカリ=Yukari
+純情でほっとけない大人の女性=Người phụ nữ trong trắng với nét duyên bí ẩn
+
+終結、禁しゅわ宣言！=Kết Thúc Cấm Kỵ
+ゆかり、飲み放題！=Uống Thôi, Yukari!
+ぐらぐら揺らぐ自制心=Sự Kiềm Chế Dao Động
+ユカリ、一念発起！=Quyết Tâm Của Yukari
+
+大人の階段、登ろ……？=Bước Tiếp Theo
+ドキドキの連続攻撃=Combo Tim Đập Thình Thịch
+見せろ、大人の女性！=Ca Tụng Bữa Tiệc!
+密やかな戦い！=Sự Hỗn Loạn Thầm Lặng!
+らびゅらびゅの証拠=Tình Thế Ngập Ngừng
+運命の王子様はどこに=Tìm Kiếm Hoàng Tử Của Mình
+初めてのお持ち帰り=Mang Về Một Sự Thất Vọng
+素敵なお姉さんは突然に=Không Còn Bị Lừa Nữa
+
+ウインドーショッピング=Đi Ngắm Cửa Hàng
+【物理】中衛から、バリアや回復で味方を守る元聖騎士。傷ついた味方のＨＰやＴＰを回復するスキルを操り、打ち合いで消耗した所を、ピンポイントでサポートする。=[Vật Lý] Một cựu thánh kỵ sĩ bảo vệ đồng đội từ hàng giữa bằng rào cản và liệu pháp. Có kỹ năng hồi HP và TP cho đồng đội bị thương, cho phép hỗ trợ chính xác những khu vực chịu sát thương nặng trong trận chiến.
+
+##UB##
+セブンベールズ=Bảy Lá Màn
+味方全体に魔法無効バリアを展開する。=Triển khai một rào cản phủ kháng sát thương phép xung quanh toàn đồng đội.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する$"=►Triển khai Lá Chắn lên toàn đồng đội kháng $1 sát thương phép.
+
+##S1##
+アクアヴィット=Nước Sự Sống
+最もＨＰの割合が低い味方１キャラのＨＰを中回復させる。=Hồi một lượng vừa phải HP cho thành viên trong party có %HP thấp nhất.
+
+##S2##
+ムーンライト=Ánh Trăng
+最もＴＰが低い味方１キャラのＴＰを中回復させる。=Hồi một lượng trung bình TP cho thành viên trong party có TP thấp nhất.
+## 260lvl
+最もＴＰが低い味方１キャラのＴＰを中回復し、物理攻撃力と魔法攻撃力を小アップさせる。=Hồi một lượng trung bình TP cho thành viên trong party có TP thấp nhất, và tăng nhẹ P.ATK, M.ATK.
+
+
+味方全体の物理・魔法攻撃力を特大アップし、最もＴＰが低い味方１キャラのＴＰを特大回復させる。さらに、【乾杯！】した回数と同じ人数、自分を中心とした範囲内の味方のＴＰを大回復させる。=Tăng cực đại tấn công vật lý và tấn công ma pháp cho toàn bộ đồng minh, đồng thời hồi phục cực đại TP cho 1 đồng minh có TP thấp nhất. Ngoài ra, hồi phục lớn TP cho các đồng minh trong phạm vi quanh bản thân với số lượng người tương ứng với số lần đã thực hiện 【Cạn ly!】.
+r:"^味方単体のＴＰを725回復味方全体の物理・魔法攻撃力を(\d+)アップ乾杯！した数と同じ人数まで、範囲内の味方のＴＰを250回復$"=Thời gian thi triển: 1.13 giây.\n►Hồi phục 725 TP cho một đồng minh.\n►Tăng $1 tấn công vật lý và tấn công ma pháp cho toàn bộ đồng minh.\n►Hồi phục 250 TP cho các đồng minh trong phạm vi, tối đa bằng số lần đã thực hiện 【Cạn ly!】.
+
+
+##EX##
+プレリュードフィズ=Lòng Dũng Cảm Từ Rượu
+プレリュードフィズ+=Lòng Dũng Cảm Từ Rượu+
+バトル開始時に自分の魔法防御力を中アップさせ、さらに自分の物理攻撃力を小アップさせる。=Tăng vừa phải M.DEF và tăng nhẹ P.ATK của bản thân khi bắt đầu trận.
+r:"^自分の魔法防御力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Tăng M.DEF của bản thân $1.\n►Tăng P.ATK của bản thân $2.
+
+##UB+##
+セブンスヘブン=Thiên Đường Thứ Bảy
+味方全体に魔法無効バリアを展開し、魔法防御力を大アップさせ、さらにＨＰを小回復させる。=Phát triển rào cản kháng phép cho toàn đồng đội, tăng sức mạnh M.DEF, và hồi HP một chút.
+## OLD r:"^(\d+)ダメージ分の魔法無効バリアを展開する味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Triển khai Lá Chắn lên toàn đồng đội kháng $1 sát thương phép.\n►Tăng M.DEF của đồng đội $2 trong 18s.\n►Hồi HP của đồng đội $3.
+
+
+味方全体に魔法無効バリアを展開し、物理・魔法攻撃力と魔法防御力を大アップさせ、さらにＨＰを小回復させる。【乾杯！】した回数に応じてこのスキルの効果がアップする。=Triển khai rào chắn vô hiệu hóa sát thương ma pháp cho toàn bộ đồng minh, tăng mạnh tấn công vật lý, tấn công ma pháp và phòng thủ ma pháp, đồng thời hồi phục nhẹ HP. Hiệu quả của kỹ năng này sẽ tăng lên dựa theo số lần đã thực hiện 【Cạn ly!】.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Triển khai rào chắn vô hiệu hóa $1 sát thương ma pháp cho toàn bộ đồng minh trong 18 giây.\n►Tăng $2 tấn công vật lý và tấn công ma pháp cho toàn bộ đồng minh trong 18 giây.\n►Tăng $3 phòng thủ ma pháp cho toàn bộ đồng minh trong 18 giây.\n►Hồi phục $4 HP cho toàn bộ đồng minh.
+
+##S1+##
+アクアヴィット+=Nước Sự Sống+
+最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、さらに魔法防御力を中アップし、継続ＨＰ回復状態を付与する。=Hồi một lượng lớn HP cho thành viên trong party có %HP thấp nhất, tăng vừa phải M.DEF của họ, và ban cho hiệu ứng Hồi HP Theo Thời Gian.
+最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに魔法防御力を中アップし、継続ＨＰ回復状態を付与する。=Hồi một lượng lớn HP cho thành viên trong party có HP thấp nhất, tăng vừa phải M.DEF của họ, và ban cho hiệu ứng Hồi HP Theo Thời Gian.
+## OLD r:"^味方単体のＨＰを(\d+)回復味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Hồi HP của đồng đội $1.\n►Tăng M.DEF của đồng đội $2 trong 12s.\n►Hồi HP $3/giây trong 8.5s.
+
+
+最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、魔法防御力を中アップし、継続ＨＰ回復状態を付与する。さらに、【乾杯！】する。【乾杯！】は最大２回まで行う。=Hồi phục lớn HP cho 1 đồng minh có tỷ lệ HP thấp nhất, tăng trung bình phòng thủ ma pháp và ban trạng thái hồi phục HP liên tục. Ngoài ra, thực hiện 【Cạn ly!】. 【Cạn ly!】 có thể thực hiện tối đa 2 lần.
+
+
+##UE##
+エターナルジョッキ=Cốc Bia Vĩnh Cửu
+
+
+
+
+##S1++##
+Yukari
+アクアヴィット++=Nước Sự Sống++
+最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、魔法防御力を中アップし、継続ＨＰ回復状態を付与する。さらに、【乾杯！】する。【乾杯！】は最大５回まで行う。=Hồi phục lớn HP cho 1 đồng minh có tỷ lệ HP thấp nhất, tăng trung bình phòng thủ ma pháp và ban trạng thái hồi phục HP liên tục. Ngoài ra, thực hiện 【Cạn ly!】. 【Cạn ly!】 thực hiện tối đa 5 lần.
+
+r:"^味方単体のＨＰを(\d+)回復味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する乾杯！する$"=Thời gian thi triển: 1.4 giây.\n►Hồi phục $1 HP cho một đồng minh.\n►Tăng $2 phòng thủ ma pháp cho một đồng minh trong 12 giây.\n►Hồi phục $3 HP mỗi giây cho một đồng minh trong 8.5 giây.\n►Thực hiện 【Cạn ly!】.
+
+
+
+
+
+Shadow
+Yukari
+味方全体に魔法無効バリアを展開し、物理・魔法攻撃力と魔法防御力を大アップさせ、さらにＨＰを小回復させる。【乾杯！】した回数に応じてこのスキルの効果がアップする。=Triển khai rào chắn vô hiệu hóa sát thương ma pháp cho toàn bộ đồng minh, tăng mạnh tấn công vật lý, tấn công ma pháp cùng phòng thủ ma pháp, đồng thời hồi phục nhẹ HP. Hiệu quả của kỹ năng này sẽ tăng lên dựa trên số lần đã 【Cạn ly!】.
+味方全体の物理・魔法攻撃力を特大アップし、最もＴＰが低い味方１キャラのＴＰを特大回復させる。さらに、【乾杯！】した回数と同じ人数、自分を中心とした範囲内の味方のＴＰを大回復させる。=Tăng cực đại tấn công vật lý và tấn công ma pháp cho toàn bộ đồng minh, đồng thời hồi phục cực đại TP cho một đồng minh có lượng TP thấp nhất. Ngoài ra, hồi phục mạnh TP cho các đồng minh trong phạm vi xung quanh bản thân với số lượng người tương ứng với số lần đã 【Cạn ly!】.
+魔法攻撃力を特大アップし、最もＴＰが低い味方１キャラのＴＰを特大回復させる。さらに、【乾杯！】した回数と同じ人数、自分を中心とした範囲内の味方のＴＰを大回復させる。=Tăng cực đại tấn công ma pháp và hồi phục cực đại TP cho một đồng minh có lượng TP thấp nhất. Ngoài ra, hồi phục mạnh TP cho các đồng minh trong phạm vi xung quanh bản thân với số lượng người tương ứng với số lần đã 【Cạn ly!】.
+
+味方全体に魔法無効バリアを展開し、物理=Triển khai rào chắn vô hiệu hóa sát thương ma pháp cho toàn bộ đồng minh, vật lý
+魔法攻撃力と魔法防御力を大アップさせ、さらにＨＰを小回復させる。【乾杯！】した回数に応じてこのスキルの効果がアップする。=tăng mạnh tấn công ma pháp và phòng thủ ma pháp, đồng thời hồi phục nhẹ HP. Hiệu quả của kỹ năng này sẽ tăng lên dựa trên số lần đã 【Cạn ly!】.
+味方全体の物理=Tấn công vật lý của toàn bộ đồng minh
+
+
+##Comments##
+
+何か困ったことがあったら\n相談してね\nいつでも力になるから\nお姉さんとの約束よ？=Nếu cần lời khuyên, cứ đến tìm mình nhé? Mình luôn ở đây ủng hộ cậu!
+キミ、いま暇だったりしない？\nだったら私と一緒に、\nどこか飲みにいきましょ？\nもちろんキミはジュースで、ね=Này, cậu có bận không? Đi uống vài ly với mình không? Tất nhiên là đồ uống không cồn cho cậu rồi.
+仕事持って帰ってきたけど\n終わりそうにないよ～！\nうぅ…キミ、\n少し手伝ってくれない？=Mình mang công việc về nhà rồi, nhưng chẳng thấy chỗ nào là điểm cuối cả! *than vãn*. Cậu có thể giúp mình được không?
+えへへ～…\nキミって暖かいんらね～\nちょっと飲みすぎらから、\nキミで暖を取らせて～=Ực! Cậu ấm áp thật đấy, cậu biết không? Mình uống hơi quá, nên lại đây để mình sưởi ấm một chút.
+キミ、ご飯はちゃんと食べてる？\nあ、良かったらお姉さんが、\n作ってあげようか？=Cậu có ăn uống đầy đủ không? Mình rất sẵn lòng nấu ăn cho cậu nếu cậu muốn.
+はぁ…このベリー、いい香り♪\n飲み物にしたらさぞ美味しい…\nいけないいけない！\n仕事中なのに！=Ừm, những quả dâu này thơm quá! Chúng sẽ rất tuyệt nếu cho vào máy xay. Không! Mình đang làm việc!
+だめよユカリ…！\nこのままじゃいつもみたいに\nダメなところを見せちゃうわ！=Thôi đi, Yukari! Lại thêm lần làm trò cười nữa thôi!
+な～んか、ちょっとだけ\nいい気分になってきたかも…\n気のせい…かなぁ？=Mình thấy ấm áp và dễ chịu quá... Có lẽ chỉ vì có cậu bên cạnh?
+キミが大人になった時のために\n飲み物、一本作っておこうか？\nその日がきたら、二人で一緒に\nお祝いしながら飲みましょう=Khi cậu đủ tuổi để uống rượu, chúng ta nên cùng nhau đi ra ngoài và ăn mừng vài chai bia lạnh!
+ねぇ…今度、一緒に\nデートしない？\nそれとも、私みたいなのが\n相手じゃ、いやかな…？=Cậu nghĩ sao nếu chúng ta đi hẹn hò? Hay là cậu thà không muốn bị thấy cùng mình?
+誕生日おめでとう！\n今日はいっぱい\nお祝いしてあげるね！=Chúc mừng sinh nhật! Hôm nay là ngày của cậu, vì vậy hãy cùng nhau ăn mừng!
+キミの誕生日というわけで\nまずは…かんぱーい！\nねえ、今日はずっと\n一緒にいてもいいかな…？=Sinh nhật cậu rồi, nên... Mừng sinh nhật! Em... em có thể dành cả ngày với cậu được không?
+んふふ～気持ちいい～♪\nほら、キミも飲も飲も！\nもちろんキミはジュースだからね！\nはい、かんぱーいっ！=Weheheh! Thật sảng khoái... ♪\nNào—cậu cũng uống đi!\nDù cho cậu chỉ uống đồ uống không cồn, tất nhiên! Sẵn sàng... Mừng sinh nhật!
+あぁ～染み渡るわぁ～\n仕事の後はこれに限るわよね～！\nそうだキミ、肩揉んでくれない？\nんっ、あ～っ、上手ね、キミ…=Ahh, thật sảng khoái! Không gì tuyệt hơn sau một ngày làm việc vất vả!\nNày—cậu xoa vai cho tớ được không?\nMmm... Ôi, cậu giỏi lắm!
+今日はお姉さんのおごりよぉ\nたくさん食べていいわよぉ～\n本当は手料理とかご馳走して\nあげたいんだけど…今度ね=Hôm nay là tớ mời! Ăn thoải mái nhé! ...Tớ thích mời cậu ăn cơm nhà tớ hơn, nhưng... lần sau vậy.
+私がこんな風にリラックス\nできるのはキミの前だけよ～\n迷惑かけちゃうかもしれないけど\nキミは許してくれるわよね…♪=Tớ chưa bao giờ thấy thư giãn như thế này ngoại trừ khi ở với cậu! Tớ biết tớ có thể là phiền phức, nhưng cậu sẽ tha thứ cho tớ, đúng không?
+よぉ～っし言っちゃおうかな～！\n私ねぇ～、キミのことが～…！\nふふ、や～っぱ秘密～！\n…あ、危なかったわ…=Ừ... Tớ sẽ nói ra luôn!\nThật ra... tớ điên vì...\n...Eheheh, không, đó là bí mật!\n(Ối... Suýt nữa rồi...)

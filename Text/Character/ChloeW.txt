@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で、水面に映る神速のダウナー系水着女子。\n攻撃を当てる度に敵に付与する【水月】の数に応じて物防\nダウンやダメージの効果が上昇し、必勝の抜き手を切る。=Một cô gái mặc đồ tắm điềm tĩnh, với tốc độ thần thánh được phản chiếu trên mặt nước từ mặt trận. Với mỗi lần đánh trúng, cô ấy áp dụng cho kẻ thù trạng thái "Suigetsu", mang lại debuff P.DEF lớn và tăng sát thương dựa trên số lần, đồng thời kết thúc bằng cú vượt tay thắng lợi.
+
+##UB##
+白銀の熱天=Mùa Hè Tuyết
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を特大アップする。対象の【水月】が一定以上の場合、このスキルのダメージが段階的に増加する。対象の【水月】が99の場合、【水月】を33消費し、目の前の敵１キャラに追加の物理特大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch phía trước và tăng P.ATK của bản thân rất nhiều. Sát thương vật lý gây ra tăng theo số lớp [Suigetsu]. Nếu kẻ địch có 99 lớp [Suigetsu], tiêu thụ 33 lớp và gây sát thương vật lý cực lớn.
+r:"^水月が99の時、追加の(\d+)の物理ダメージ水月が99の時、水月を33消費する水月が66以上の時(\d+)の物理ダメージ水月が33以上の時(\d+)の物理ダメージ水月が33未満の時(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK của bản thân bằng $5 trong 18s.\n►Nếu kẻ địch có 0-32 lớp [Suigetsu], gây $4 sát thương vật lý.\n►Nếu kẻ địch có 33-65 lớp [Suigetsu], gây $3 sát thương vật lý.\n►Nếu kẻ địch có 66-98 lớp [Suigetsu], gây $2 sát thương vật lý.\n►Nếu kẻ địch có 99 lớp [Suigetsu],\ngây $1x2 sát thương vật lý và tiêu thụ 33 lớp [Suigetsu].
+
+##S1##
+無風の航路=Lối Đi Không Gió
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせる。対象の【水月】が一定以上の場合、このスキルのダメージ、ヒット数、防御力の減少量が段階的に増加する。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm P.DEF của nó một lượng vừa phải. Sát thương vật lý gây ra và P.DEF bị giảm tăng theo số lớp [Suigetsu]. Tất cả hiệu ứng kéo dài 12s.
+r:"^水月が66以上の時(\d+)の物理ダメージ水月が66以上の時物理防御力を(\d+)ダウン水月が33以上の時(\d+)の物理ダメージ水月が33以上の時物理防御力を(\d+)ダウン水月が33未満の時(\d+)の物理ダメージ水月が33未満の時物理防御力を(\d+)ダウン$"=Nếu kẻ địch có 0-32 lớp [Suigetsu]:\n►Gây $5 sát thương vật lý.\n►Giảm P.DEF của kẻ địch bằng $6.\n\nNếu kẻ địch có 33-65 lớp [Suigetsu]:\n►Gây $3 sát thương vật lý.\n►Giảm P.DEF của kẻ địch bằng $4.\n\nNếu kẻ địch có 66-99 lớp [Suigetsu]:\n►Gây $1 sát thương vật lý.\n►Giảm P.DEF của kẻ địch bằng $2.
+
+##S1+##
+ヘイトフル・エイト=Tám Kẻ Ghét
+無風の航路+=Lối Đi Không Gió+
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせる。対象の【水月】が一定以上の場合、このスキルのダメージ、ヒット数、防御力の減少量が段階的に増加する。さらに対象の【水月】が66以上の場合、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm P.DEF của nó một lượng vừa phải. Nếu mục tiêu có [Suigetsu] vượt ngưỡng nhất định, sát thương, số lần đánh và mức giảm P.DEF của kỹ năng này sẽ tăng theo từng giai đoạn. Ngoài ra, nếu [Suigetsu] của mục tiêu là 66 trở lên, tăng nhẹ sát thương nhận từ đòn chí mạng.
+r:"^水月が66以上の時(\d+)の物理ダメージ水月が66以上の時物理防御力を(\d+)ダウン水月が33以上の時(\d+)の物理ダメージ水月が33以上の時物理防御力を(\d+)ダウン水月が33未満の時(\d+)の物理ダメージ水月が33未満の時物理防御力を(\d+)ダウン水月が66以上の時被クリダメを6％アップ$"=Khi [Suigetsu] là 66 trở lên:\n►Gây $1 sát thương vật lý.\n►Giảm P.DEF của kẻ địch bằng $2.\n►Tăng sát thương chí mạng nhận của kẻ địch 6%.\nKhi [Suigetsu] là 33 trở lên:\n►Gây $3 sát thương vật lý.\n►Giảm P.DEF của kẻ địch bằng $4.\nKhi [Suigetsu] dưới 33:\n►Gây $5 sát thương vật lý.\n►Giảm P.DEF của kẻ địch bằng $6.
+
+
+
+##S2##
+行潦の飛沫=Mưa Bắn Tung Toé
+目の前の敵１キャラに物理大ダメージを与え、味方全体の物理攻撃力を中アップする。対象の【水月】が一定以上の場合、このスキルのダメージ、ヒット数、物理攻撃力の上昇量が段階的に増加する。=Gây sát thương vật lý lớn lên kẻ địch và tăng P.ATK của toàn đồng đội một lượng vừa phải. Sát thương vật lý gây ra và mức tăng P.ATK tăng theo số lớp [Suigetsu]. Tất cả hiệu ứng kéo dài 12s.
+r:"^水月が66以上の時(\d+)の物理ダメージ水月が66以上の時味方全体の物理攻撃力を(\d+)アップ水月が33以上の時(\d+)の物理ダメージ水月が33以上の時味方全体の物理攻撃力を(\d+)アップ水月が33未満の時(\d+)の物理ダメージ水月が33未満の時味方全体の物理攻撃力を(\d+)アップ$"=Nếu kẻ địch có 0-32 lớp [Suigetsu]:\n►Gây $5 sát thương vật lý.\n►Tăng P.ATK của toàn đồng đội bằng $6.\n\nNếu kẻ địch có 33-65 lớp [Suigetsu]:\n►Gây $3 sát thương vật lý.\n►Tăng P.ATK của toàn đồng đội bằng $4.\n\nNếu kẻ địch có 66-99 lớp [Suigetsu]:\n►Gây $1 sát thương vật lý.\n►Tăng P.ATK của toàn đồng đội bằng $2.
+
+##SP1##
+水鏡の淡月=Nước Phản Chiếu - Trăng Bạc
+このスキルのスキルレベルは「白銀の熱天」と連動しています=Cấp độ kỹ năng này liên kết với "Snowy Summer"
+敵全体の物理防御力を小ダウンさせる。さらに味方全体が【水月】を敵へ付与できる状態になる。攻撃が敵に当たるたび【水月】を１つ付与する。【水月】は最大99まで追加される。=Mỗi khi một đòn tấn công của đồng minh trúng kẻ thù, kẻ thù đó sẽ nhận một lớp [Suigetsu]. Có thể áp dụng tối đa 99 lớp cùng lúc. Ngoài ra, giảm nhẹ P.DEF của toàn bộ kẻ địch.
+r:"^敵全体の物理防御力を(\d+)ダウン味方全体が、攻撃が当たるたびに水月を付与する状態になる$"=►Khi đòn đánh của đồng minh trúng, áp dụng [Suigetsu].\n►Giảm P.DEF của toàn kẻ địch bằng $1 trong 180s.
+
+##EX##
+巻き立つ波=Sóng Trào
+巻き立つ波+=Sóng Trào+

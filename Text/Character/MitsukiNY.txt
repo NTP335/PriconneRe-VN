@@ -1,0 +1,32 @@
+##Profile##
+【物理】中衛で、振袖姿で旅館に手を貸す隻眼の闇医者。朧ろ状態にした敵への攻撃時、スキルのダメージや防御力のダウン値が上昇し、紫煙に捉えた敵を艶然と討ち取る。=[Vật lý] Bác sĩ tối một mắt giúp đỡ quán trọ trong trang phục kimono, đứng ở tuyến giữa. Khi tấn công kẻ thù bị choáng, sát thương kỹ năng và mức giảm P.DEF tăng lên, và kẻ thù mắc kẹt trong làn khói tím sẽ bị đánh bại rực rỡ.
+
+闇医者の憂鬱=Back Alley Doctor's Melancholy
+闇医者のヤキモチ=Back Alley Doctor's Jealously
+
+##UB##
+風雲初春ノ渦=Spring Whirlwind of Turbulence
+目の前の敵１キャラに物理特大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。対象が朧ろ状態だった場合、自分の物理攻撃力と物理クリティカルを中アップさせる。=Gây sát thương thể xác lớn cho kẻ địch phía trước và tăng nhẹ P.CRIT DMG nhận vào của chúng. Tăng trung bình P.ATK và P.CRIT của bản thân khi kẻ địch có [Daze].
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ敵が朧ろ状態の時、自分の物理攻撃力を(\d+)アップ敵が朧ろ状態の時、自分の物理クリティカルを(\d+)アップ$"=►Gây $1 P.DMG cho một kẻ địch.\n►Tăng P.CRIT DMG nhận vào của kẻ địch lên 6% trong 18s.\n\nNếu kẻ địch có [Daze]:\n►Tăng P.ATK của bản thân lên $2 trong 180s.\n►Tăng P.CRIT Rate của bản thân lên $3 trong 180s.
+
+##S1##
+滅封刻印初め=Seal-Breaking First Mark
+目の前の敵１キャラに物理中ダメージを与え、朧ろ状態を付与し、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương thể xác vừa phải cho kẻ địch phía trước, ban cho chúng [Daze], và tăng nhẹ P.CRIT DMG nhận vào của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ$"=Thời gian niệm: 0.59s.\n►Gây $1 P.DMG cho một kẻ địch.\n►Ban [Daze] cho kẻ địch trong 12s.\n►Tăng P.CRIT DMG nhận vào của kẻ địch lên 6% trong 12s.
+
+##S2##
+孟春ノ荒灸治=Early Spring Scorching Treatment
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。対象が朧ろ状態だった場合、ダメージと防御力のダウン値が上昇する。=Gây sát thương thể xác vừa phải cho kẻ địch phía trước và giảm nhẹ P.DEF của chúng. Nếu kẻ địch có [Daze], sát thương thể xác gây ra và mức giảm P.DEF tăng lên.
+r:"^敵が朧ろ状態でない時、敵単体に(\d+)の物理ダメージ敵が朧ろ状態でない時、敵単体の物理防御力を(\d+)ダウン敵が朧ろ状態の時、敵単体に(\d+)の物理ダメージ敵が朧ろ状態の時、敵単体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 0.59s\nNếu kẻ địch KHÔNG có [Daze]:\n►Gây $1 P.DMG cho một kẻ địch.\n►Giảm P.DEF của kẻ địch lên $2 trong 18s.\n\nNếu kẻ địch CÓ [Daze]:\n►Gây $3 P.DMG cho một kẻ địch.\n►Giảm P.DEF của kẻ địch lên $4 trong 18s.
+
+##EX##
+新春荒療治=New Year's Disorderly Healing
+新春荒療治+=New Year's Disorderly Healing+
+
+##S1+##
+滅封刻印初め+=Seal-Breaking First Mark+
+目の前の敵１キャラに物理中ダメージを与え、朧ろ状態を付与し、物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương thể xác vừa phải cho kẻ địch phía trước, ban cho chúng [Daze], giảm nhẹ P.DEF của chúng và tăng nhẹ P.CRIT DMG nhận vào của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体のクリティカルを受けた際のダメージを6％アップ$"=Thời gian niệm: 0.59s.\n►Gây $1 P.DMG cho một kẻ địch.\n►Ban [Daze] cho kẻ địch trong 12s.\n►Giảm P.DEF của kẻ địch lên $2 trong 12s.\n►Tăng P.CRIT DMG nhận vào của kẻ địch lên 6% trong 12s.
+
+##UE##
+薔薇女将の湯治煙管=Rose Proprietress's Hot Spring Kiseru

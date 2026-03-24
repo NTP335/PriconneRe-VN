@@ -1,0 +1,18 @@
+r:"^夏のオーマ([0-9\-\(\)\w （）]*)$"=Summer Ohma $1
+
+プリンセスの秘密　エピソード解放=Phần bí mật của Công chúa đã được phát hành
+新しい秘密ブツを\n獲得しました。=Đã nhận được vật phẩm bí mật mới.
+復活の白き島クジラ=Cá voi đảo trắng hồi sinh
+
+島クジラ=Cá voi đảo
+曖昧な異変=Bất thường mơ hồ
+密廃サービス=Dịch vụ tiêu hủy bí mật
+禁断の乙女心=Trái tim của thiếu nữ bị cấm kỵ
+秘密という劇薬=Một loại thuốc gọi là bí mật
+未曾有の海洋プロジェクト=Dự án Đại Dương Chưa Từng Có
+担がれた玉座=Ngai Vàng Được Mang Theo
+共に背負えば=Nếu Chúng Ta Cùng Gánh Vác
+紺碧の秘密=Bí Mật Xanh Biếc
+しゃべり過ぎてもいい相手=Người Có Thể Trò Chuyện Một Cách Vô Tư
+激しいの歓迎ですう！=Sự Chào Đón Nồng Nhiệt!
+いつか来る日のために=Vì Ngày Sẽ Đến

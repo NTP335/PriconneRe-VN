@@ -1,0 +1,18 @@
+Vikala's Birthday
+
+ひ、人が……多い……！\nあああの、今日の目的地って本当にここなんですか……？=S-Sao nhiều người thế...! Ưm, đây có thực sự là điểm đến hôm nay của chúng ta...?
+い、いつも以上に陽の圧を感じる……！\n誕生日なのになんでこんな場所にいるんだろ、あたし……=M-Mình cảm thấy áp lực của mặt trời nhiều hơn bình thường...! Tại sao mình lại ở chỗ như thế này... trong ngày sinh nhật của mình cơ chứ...?
+って、あ、あれ？　向こうにいるのは……\nラッキーラットに、ファニーラット！？\nど、どうしてデスティニーワールドの子たちがここに……！？=Khoan, hả? Ở đằng kia... Lucky Rat và Funny Rat!? T-Tại sao những nhân vật đại diện của Destiny World lại ở đây...!?
+そ、そうなんですか！？\n普段この辺りには近寄らないから、知らなかったです……\nあぁ、やっぱりみんなかわいいなぁ……♪=Đ-Dự thật sao?! Mình thường không đến quanh đây nên không hề biết... À, chúng thật sự dễ thương quá...♪
+えっ！？　むむむむむ、無理ですよ！\nい、いえ、本当は行きたいですけど、でもあたしみたいな陰キャが\nあの人だかりに飛び込むのは、心の準備が……=Hả?! T-T-T-KHÔNG THỂ NÀO! K-Không, ý mình là, mình có muốn đi, nhưng một cư dân của yin-topia như mình... nhảy vào đám đông đó... mình chưa sẵn sàng tinh thần...
+……で、でも……せ、僭越ながら今日はあたしの誕生日、だし。\nちょっとだけなら……近づいてみても、いいのかなぁ……？=...Nhưng... có lẽ mình nói thế là quá tự ti... hôm nay là sinh nhật của mình. Nên... có lẽ... được phép đến gần hơn một chút...?
+わっ！？\nまま、待ってくださいよ～っ！！=ÁÁÁ?! K-K-Kính mong cậu chờ mình một chútttt...!!!
+はぁ……みんなかわいかったぁ……♪\nた、誕生日なんですって言ったら、一緒に写真まで撮ってもらえて。\nお祝いもしてもらって……勇気出して本当によかったです……=Haah... chúng đều dễ thương lắm...♪ Mình đã nói với chúng là hôm nay là sinh nhật của mình, và chúng còn chụp ảnh cùng mình nữa. Chúng cũng chúc mừng mình... Mình thực sự vui vì đã tìm được can đảm...
+あ、あの、今日は本当にありがとうございました……！\n今日のイベントのこと、事前に調べてくれてたんですね。=Ư-Um, cảm ơn cậu rất nhiều vì hôm nay...! Cậu đã tra cứu chi tiết sự kiện này trước cho mình, phải không?
+こ、こんなに楽しい誕生日を迎えられるなんて、\n引っ越したての頃は思いもしなかったよ……\nそれもこれも、この人のおかげ……だよね。=Mình chưa bao giờ tưởng tượng mình sẽ có một ngày sinh nhật vui vẻ như thế... khi mình mới chuyển đến đây... Và tất cả đều nhờ vào người này... phải không?
+あ、ああ、ありがとうございます……！\nその……今日撮ってもらった写真、ずーっと大事にしますね！\nこの街でもらった、最初の誕生日プレゼントだから……えへへ。=T-T-Cảm ơn cậu rất nhiều...! Ưm... Mình sẽ trân trọng bức ảnh chụp chung hôm nay mãi mãi! Món quà sinh nhật đầu tiên của mình trong thành phố này... Ehehe.
+
+Player Prompts
+この近くでイベントがあるんだって。=Có một sự kiện đang diễn ra gần đây
+もっと近づいてみようよ。=Hãy thử đến gần hơn!
+改めて、誕生日おめでとう！=Một lần nữa... Chúc mừng sinh nhật, Vicky!

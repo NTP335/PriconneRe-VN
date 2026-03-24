@@ -1,0 +1,18 @@
+Anna Hiiragi's Birthday
+
+むっ……この気配……！\n誰だっ！=Ừm... Lượng khí này...! Ai đó ở đó?!
+シグルド……！\nまさか私をこの地に呼び寄せし文は、貴様が！？=Sigurd...! Có thể là người đã triệu hồi ta đến vùng đất này... là cậu sao?!
+この疾風の冥姫、\nアンネローゼ・フォン・シュテッヒパルムに一体何用だ！=Ngươi có việc gì với Công Chúa Gió Lốc, Annerose von Stechpalm?!
+「冥風戦記」のメッセージフォームに日付と「ここで待つ」って\n書いてあったから来てみたけど、ほんとにシグルドだった！\nすごく怪しいから来るか迷ったんだけど……=Tôi đến đây vì một tin nhắn từ người hâm mộ cho tiểu thuyết "Chronicles of the Underworld" của tôi nói đến ngày này và "Chờ đợi ở đây", nhưng không ngờ lại đúng là Sigurd! Ban đầu nó trông rất đáng ngờ nên tôi không chắc có nên đến không...
+ま、正しく……！\n今日この日はこの私の──=P-Phải rồi...! Hôm nay, ngày này là của tôi...
+……誕生日。=...Ehe. Sinh nhật của tôi.
+あ、ありがとう……ではなく！\n感謝するぞ！　やはり貴様は私の永遠の盟友！=C-Cảm ơn... Ý tôi là, tôi biết ơn! Cậu thực sự là đồng minh vĩnh cửu của tôi!
+貴様から我への捧げもの、この場で封印を解かせてもらう！\n……わぁ、きれいな装丁のノート……ゴホン。\nふむ、これは未だ綴られしものなき、白紙の書物。=Tôi chấp nhận lễ vật cậu đã ban tặng, và tôi sẽ phá bỏ sự phong ấn ngay tại đây và ngay bây giờ! ...Ồ, cuốn sổ tay được đóng gá thật đẹp... Ahem. Hmm, đây là một cuốn sách trống chưa được khắc gì.
+そうか……シグルド。\n我ら「熾炎戦鬼煉獄血盟暗黒団」の新たなる物語を、\nこの白紙の書物に刻んでゆこう、と……そういうことだな？=Tôi hiểu... Sigurd. Cậu muốn khắc một câu chuyện mới cho chúng ta, "Order of Gehenna Immortals" vào cuốn sách trống này... đúng chứ?
+くっくっく……よかろう！\n私と貴様のこれから歩む物語、しかと記してゆこうではないか！=Ku-ku-ku... Tốt lắm! Hãy cùng nhau ghi lại câu chuyện mà cậu và ta sẽ dệt nên!
+……二人だけの物語を、な。=...Một câu chuyện chỉ dành cho hai ta.
+
+Player Prompts
+我が名は閃光のシグルド！=Là tôi đây! Sigurd Tia Sáng!
+今日は我が盟友生誕の日！=Hôm nay là ngày sinh của đồng minh ta!
+誕生日おめでとう、杏奈ちゃん。=Chúc mừng sinh nhật, Anna-chan

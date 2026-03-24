@@ -1,0 +1,13 @@
+r:"^デビュタント・シャングリ・ラ会場([0-9\-\(\)\w （）]*)$"=Địa điểm Deventant Shangri-La $1
+ドミネイテッドスノーマン=Người tuyết bị chiếm đóng
+
+空花、ぐふふなお部屋訪問=Sorahana thăm phòng Gufufu
+ライバル兼大親友の絆=Mối gắn bó giữa đối thủ và bạn bè thân thiết
+スノーマンの暴走=Người tuyết trốn chạy
+愛の迷路=Mê cung tình yêu
+波乱の料理対決=Cuộc đối đầu nấu ăn hỗn loạn
+白熱の雪合戦=Trận chiến tuyết bừng cháy
+特別な招待状=Lời mời đặc biệt
+恋愛ゲームの始まり=Sự khởi đầu của một trò chơi tình cảm
+シャルウィダンス=CharWidance
+聖夜の奇跡=Phép lạ của Đêm Thánh

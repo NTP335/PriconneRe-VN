@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、攻防双方で活躍する晴れ着姿の猫娘。与ダメージに応じて魔法攻撃力がアップするユニオンバーストで、高いベースの攻撃力がさらに強大になる。=[Phép thuật] Một cô gái mèo trong trang phục truyền thống, cung cấp cả tấn công và phòng thủ từ hàng sau. Union Burst của cô ấy tăng tấn công phép thuật dựa trên sát thương gây ra, làm tăng thêm sức mạnh tấn công đáng gờm của cô ấy.
+
+宛先不明の年賀状=Người Nhận Không Xác Định
+ネコミミ娘捕物帳=Hồi ký của Thám Tử Tai Mèo
+ドキドキの書初め=Niềm Thú Vị Của Thư Pháp
+やさしさに触れるとき=Một Chút Lòng Tốt
+優しさに触れるとき=Một Chút Lòng Tốt
+
+##UB##
+ニューイヤーバースト=Bùng Nổ Năm Mới
+目の前の敵１キャラに魔法特大ダメージを与え、さらに魔法攻撃力を中アップさせる。このスキルで与えたダメージ量に応じて、攻撃力の上昇量がアップする。=Gây sát thương phép thuật lớn lên kẻ địch đứng trước mặt và tăng nhẹ M.ATK của bản thân. Mức tăng M.ATK sẽ tăng dựa trên sát thương gây ra bởi kỹ năng này.
+
+##S1##
+シャドウバレット=Đạn Bóng Tối
+目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép thuật trung bình lên kẻ địch đứng trước mặt.
+
+##S2##
+ウィッシングフィールド=Trường Vọng Nguyện
+味方全体の魔法攻撃力を中アップさせ、さらに物理無効バリアを展開する。自分の魔法攻撃力が高い程、バリアの無効ダメージ量がアップする。=Tăng M.ATK trung bình cho đồng minh và tạo một rào cản phớt lờ sát thương vật lý xung quanh họ. Sát thương bị rào cản phớt lờ sẽ tăng dựa trên M.ATK của bản thân.
+r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Tăng M.ATK của đồng minh lên $1 trong 12s.\n►Triển khai Rào Cản lên tất cả đồng minh phớt lờ $2 (+0.08×M.ATK) sát thương vật lý trong 12s.
+
+##EX##
+デザイアベール=Màn Che Khao Khát
+デザイアベール+=Màn Che Khao Khát+
+
+##S1+##
+シャドウバレット+=Đạn Bóng Tối+
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与える。=Gây sát thương phép thuật lớn lên tất cả kẻ địch trong phạm vi của kẻ địch đứng trước mặt.
+
+##UE##
+賀正猫耳の羽子板=Gasho Cat's Ear Racket

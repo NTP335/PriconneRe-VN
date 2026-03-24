@@ -1,0 +1,27 @@
+##Profile##
+【物理】中衛で、手負いの敵を死に誘う、幽雅の剣士。ＨＰが50％未満の敵に対し放つと、威力が大アップする範囲攻撃を繰り出し負傷した敵の戦意を一気に叩き折る。=[Vật lý] Một kiếm sĩ thanh lịch ở tuyến giữa, mời gọi kẻ thù bị thương đến cái chết sắp tới. Khi phóng ra nhắm vào kẻ thù có <50% HP, cô phóng ra một đòn tấn công diện rộng, tăng mạnh sức mạnh bản thân và phá vỡ ý chí chiến đấu của kẻ thù bị thương trong một lần.
+
+##UB##
+トリニティファントム=Trinity Phantom
+前方範囲内の敵すべてに物理中ダメージを与える。対象の残りＨＰが最大ＨＰの50%未満だった場合、与えるダメージが増加する。=Gây sát thương vật lý trung bình cho kẻ thù trong phạm vi 700. Nếu HP còn lại của mục tiêu < 50%, sát thương sẽ tăng.
+r:"^対象の残りＨＰが50％未満の場合、範囲内の敵に(\d+)の物理ダメージ対象の残りＨＰが50％以上の場合、範囲内の敵に(\d+)の物理ダメージ$"=Nếu HP còn lại của kẻ thù < 50%:\n►Gây $1 sát thương vật lý cho kẻ thù.\n\nNếu HP còn lại của kẻ thù ≥ 50%:\n►Gây $2 sát thương vật lý cho kẻ thù.
+
+##S1##
+ホロウスラスト=Hollow Thrust
+前方範囲内の敵すべてに物理小ダメージを与える。対象の残りＨＰが最大ＨＰの50%未満だった場合、与えるダメージが増加し、さらに物理防御力を中ダウンさせる。=Gây sát thương vật lý nhỏ cho kẻ thù trong phạm vi 700. Nếu HP còn lại của mục tiêu < 50%, sát thương sẽ tăng và phòng thủ vật lý của chúng sẽ giảm một chút.
+
+##S2##
+コールオブゴースト=Call of Ghost
+自分の物理攻撃力を特大アップさせる。=Tăng sát thương vật lý của bản thân một lượng lớn.
+
+##EX##
+ハロウィンフェンサー=Halloween Fencer
+ハロウィンフェンサー+=Halloween Fencer+
+
+##S1+##
+ホロウスラスト+=Hollow Thrust+
+前方範囲内の敵すべてに物理小ダメージを与える。対象の残りＨＰが最大ＨＰの50%未満だった場合、与えるダメージが増加し、さらに物理防御力を大ダウンさせる。=Gây sát thương vật lý nhỏ cho kẻ thù trong phạm vi 700. Nếu HP còn lại của mục tiêu < 50%, sát thương sẽ tăng và phòng thủ vật lý của chúng sẽ giảm mạnh.
+r:"^対象の残りＨＰが50％未満の場合、範囲内の敵に(\d+)の物理ダメージ対象の残りＨＰが50％以上の場合、範囲内の敵に(\d+)の物理ダメージ対象の残りＨＰが50％未満の場合、範囲内の敵の物理防御力を(\d+)ダウン$"=Nếu HP còn lại của kẻ thù < 50%:\n►Gây $1 sát thương vật lý cho kẻ thù.\n►Giảm phòng thủ vật lý của kẻ thù đi $3 trong 12s.\n\nNếu HP còn lại của kẻ thù ≥ 50%:\n►Gây $2 sát thương vật lý cho kẻ thù.
+
+##UE##
+ビューティーホロウ=Beauty Hollow

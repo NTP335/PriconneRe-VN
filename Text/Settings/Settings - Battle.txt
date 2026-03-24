@@ -1,0 +1,86 @@
+バトル=Trận chiến
+スキルカットイン=Cắt-in Kỹ năng
+「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。=Chọn "một lần/ngày" sẽ thiết lập cắt-in của mỗi nhân vật chỉ xuất hiện\nlần đầu tiên họ dùng kỹ năng trong ngày.
+「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。\nこの設定は次回バトルから反映されます。=Chọn "một lần/ngày" sẽ thiết lập cắt-in của mỗi nhân vật chỉ xuất hiện\nlần đầu tiên họ dùng kỹ năng trong ngày.\nThiết lập này sẽ được áp dụng trong trận chiến tiếp theo.
+
+
+1日1回見る=Một lần/Ngày
+
+フレームレート（fps）=Tốc độ Khung hình (FPS)
+バトル中のフレームレート（fps）の設定です。設定は次回のバトルから反映されます。=Đặt FPS trong trận chiến.
+
+消費電力を抑えられます=Giảm mức tiêu thụ điện.
+高=Cao
+標準=Bình thường
+バトルアリーナ＆プリンセスアリーナスキップ=Bỏ qua Đấu trường Gia tộc & Đấu trường Công chúa
+バトルアリーナとプリンセスアリーナでパーティ決定直後にスキップを行うか設定します。=Đặt để bỏ qua Đấu trường Gia tộc và Đấu trường Công chúa.
+両方スキップ=Bỏ qua cả hai.
+
+特定のキャラのユニオンバースト速度設定=Cài đặt tốc độ UB cho Prifes.
+
+特定のキャラのユニオンバースト演出速度を設定できます。\n※対象キャラは、「ペコリーヌ（プリンセス）」・「コッコロ（プリンセス）」・「ユイ（プリンセス）」・\n「ヒヨリ（プリンセス）」・「キャル（プリンセス）」・「レイ（プリンセス）」・\n「シェフィ（プリンセス）」です。=Đặt tốc độ hoạt ảnh UB cho nhân vật Prifes.\n※Mục tiêu là:「Pecorine(Princess)」・「Kokkoro(Princess)」・「Yui(Princess)」・\n「Hiyori(Princess)」・「Kyaru(Princess)」・「Rei(Princess)」・「Sheffy(Princess)」
+
+高速=Tốc độ cao
+
+クランバトル開始前の確認ダイアログ=Xác nhận bắt đầu CB
+クランバトルの挑戦回数を消費してバトルを開始する前に、確認ダイアログを開きます。\n※持越し時間を消費してバトルを開始する場合、確認ダイアログは必ず開きます。=Hiển thị xác nhận trước khi bắt đầu Trận chiến Gia tộc bằng lần thử hoặc thời gian còn lại.
+
+クランバトル 編成アラート=Cảnh báo Đội CB
+本戦バトルを開始する前に、編成キャラ数が5キャラ未満の場合、アラートを表示します。=Sẽ hiển thị cảnh báo nếu số lượng nhân vật trong đội nhỏ hơn 5.
+
+クランバトル バトル速度の上限設定=Cài đặt Giới hạn Tốc độ CB
+クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。=Cài đặt để điều chỉnh tốc độ trong trận tập luyện cho CB.
+倍速=2x tốc độ
+4倍速=4x tốc độ
+
+UBオートON=UB Tự động BẬT
+UBオートOFF=UB Tự động TẮT
+1倍速=Tốc độ bình thường
+2倍速=2x tốc độ
+
+全SETON=BẬT TẤT CẢ
+全SETOFF=TẮT TẤT CẢ
+SET 無効=Đã tắt
+
+バトルの速度を切り替えます。=Đang chuyển đổi tốc độ trận chiến.
+SPEEDボタン=Nút Tốc độ
+
+クランバトル バトル速度設定の確認ダイアログ=Xác nhận Cài đặt Tốc độ Trận chiến cho CB
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Xác nhận cài đặt tốc độ trận chiến cho Clan Battle.
+
+ルナの塔バトル開始前の確認ダイアログ=Xác nhận Tháp Trăng
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Xác nhận cài đặt tốc độ trận chiến cho Clan Battle.
+
+ルナの塔 バトル速度の上限設定=Cài đặt Giới hạn Tốc độ Tháp Trăng
+ルナの塔において、バトル速度の上限を設定できます。=Cài đặt để điều chỉnh tốc độ trong Tháp Trăng
+
+ルナの塔 スキップ確認ダイアログ=Xác nhận Bỏ qua Tháp Trăng
+ルナの塔において現在の階層がスキップ可能な場合、確認ダイアログを開きます。=Mở hộp thoại xác nhận nếu cấp hiện tại trong Tháp Trăng có thể bỏ qua.
+
+マルチターゲット演出=Hoạt ảnh Đa mục tiêu
+マルチターゲットのモンスターが登場するバトルを開始した際の演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回挑戦時のみ表示されます。=Có hiển thị hiệu ứng cho quái vật đa mục tiêu hay không.
+
+クイックスタート機能使用時の確認ダイアログ=Xác nhận Bắt đầu nhanh
+クリアパーティ一覧画面でクイックスタート機能を使用するときに、確認ダイアログを開きます。=Mở hộp thoại xác nhận khi sử dụng chức năng Bắt đầu nhanh trên Danh sách Đội hoàn thành.
+
+バトルのAUTO・SET・SPEED=Cài đặt Chiến đấu AUTO, SET, SPEED
+
+全般=Tổng quát
+バトルのAUTOとSETとSPEEDの設定です。\n「引き継ぐ」に設定するとバトル中に変更したAUTO・SET・SPEEDの設定を引き継ぎます。\n※AUTOとSETとSPEEDを個別に引き継ぎ設定はできません。=Nếu đặt là "Chuyển đổi", các cài đặt AUTO, SET và SPEED thay đổi trong trận chiến sẽ được kế thừa.\n※AUTO, SET và SPEED không thể kế thừa riêng lẻ.
+
+属性ボーナス演出=Giai đoạn Thưởng Nguyên tố
+バトルを開始した際の属性ボーナス演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回属性ボーナス時のみ表示されます。=Cài đặt này xác định có hiển thị hiệu ứng thưởng Nguyên tố khi bắt đầu trận chiến hay không.\nNếu bạn đặt "Một lần mỗi ngày", nó sẽ chỉ được hiển thị khi nhận thưởng Nguyên tố đầu tiên mỗi ngày.
+
+引き継がない=Không\nChuyển đổi
+引き継ぐ=Chuyển đổi
+
+ルナの塔バトルの本戦を開始する前に、確認ダイアログを開きます。=Hiển thị hộp thoại xác nhận trước khi bắt đầu Tháp Luna.
+
+ルナの塔 バトル速度設定の確認ダイアログ=Hộp thoại xác nhận Cài đặt Tốc độ Chiến đấu cho Tháp Luna
+
+ルナの塔を開始する前に、バトル速度設定を確認するダイアログを開きます。=Mở hộp thoại để xác nhận cài đặt tốc độ chiến đấu của bạn.
+
+クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。\n設定は次回のバトルから反映されます。=Bạn có thể thiết lập giới hạn tốc độ chiến đấu tối đa trong trận đấu mô phỏng hoặc trận đấu luyện tập của Clan Battle.\nCài đặt sẽ được áp dụng kể từ trận đấu tiếp theo.
+
+★設定の保存についての確認=Hộp thoại xác nhận khi lưu cấp độ ★
+マイパーティやアリーナの防衛設定で編成を保存した時と今の★の数の設定が異なる場合、確認ダイアログ\nを表示するか設定します。=Đặt có hiển thị hộp thoại xác nhận khi cài đặt hiện tại về số lượng ★\nkhác với khi đội được lưu trong Đội của tôi hoặc cài đặt phòng thủ Đấu trường.

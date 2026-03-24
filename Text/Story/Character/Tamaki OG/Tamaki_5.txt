@@ -1,0 +1,113 @@
+王宮騎士団=Royal Knights
+老人=Old man
+評判に浮かれ調子に乗ったファントムキャッツは、何者かの罠で善良な人の家に泥棒に入り捕らえられてしまう。ファントムキャッツがタマキだと知った{playername}は事件の真相を追い始める。=Ma Mèo, kẻ đã tự hào vì danh tiếng của mình và trở nên tự tin quá mức, đã rơi vào bẫy của ai đó và đột nhập vào nhà một người tốt rồi bị bắt. {playername}, người phát hiện ra Ma Mèo chính là Tamaki, bắt đầu truy tìm sự thật về vụ việc.
+ランドソルの繁華街で、{playername}は、\n妙にご機嫌なタマキの姿を見つけた。=Ở khu trung tâm thành phố Landosol, {playername} thấy Tamaki, người có vẻ tâm trạng tốt một cách kỳ lạ.
+にゃん、にゃにゃにゃ～ん♪=Nyan, nyanya nya~n♪
+あ、{playername}！\nこんなところで会うなんて、奇遇だにゃ！=À, {playername}! Thật là trùng hợp khi gặp cậu ở đây, nya!
+妙に機嫌がいいけど、どうしたの？=Cậu đang vui vẻ, nhưng có chuyện gì vậy?
+ふふん、よく聞いてくれたにゃ！=Fufun, cậu hỏi tốt đấy, nya!
+{playername}には前に、\n美少女義賊・ファントムキャッツについて話したけど、\n覚えてるにゃ？=Tôi đã kể cho cậu trước đây về nữ siêu anh hùng xinh đẹp Ma Mèo, cậu nhớ chứ, nya?
+うむうむ。ちゃんと覚えているとは感心にゃ。=Umuumu. Tôi ấn tượng vì cậu nhớ rõ, nya.
+実はにゃ、このランドソルには、\nファントムキャッツへの目安箱のようなものが\n設置されているのにゃ。=Thực ra, nya, có một cái hộp góp ý cho Ma Mèo ở Landosol này, nya.
+噂によると、今日、その目安箱に依頼があったらしいのにゃ。=Theo tin đồn, hôm nay có một yêu cầu trong hộp góp ý đó, nya.
+「悪と戦うファントムキャッツさま。どうか懲らしめていただきたい\n悪人がいます。ファントムキャッツさまの\n正義の鉄槌を下してください」とのことにゃ。="Ma Mèo-sama đấu tranh với cái ác. Có một kẻ xấu tôi muốn ngài trừng phạt. Xin hãy giáng xuống búa công lý của ngài," nó nói, nya.
+だから今宵も悪人を懲らしめる──じゃなくて、\nファントムキャッツが悪人を懲らしめてくれるのにゃ！=Vì vậy tôi sẽ trừng phạt kẻ xấu tối nay──không,\nMa Mèo sẽ trừng phạt kẻ xấu!
+
+連日のファントムキャッツの活躍……\n胸が躍って仕方がないにゃ！=Ma Mèo đã làm việc chăm chỉ mỗi ngày...\nTôi không thể không cảm thấy háo hức!
+つい先日も……{playername}が\n見張りを引き受けてくれた日のことにゃ。=Chỉ mấy hôm trước...\nNgày mà {playername} thay tôi canh gác, nya.
+あの日もファントムキャッツは悪を懲らしめたにゃ。\n高利貸しのアクドーイ商会、手強い相手だったにゃ……\nだったと聞いたにゃ。=Ngày đó, Ma Mèo cũng trừng phạt kẻ ác, nya. Tên cho vay nặng lãi Krook'd & Co., họ là đối thủ khó nhằn, nya... Tôi nghe nói họ là, nya.
+ファントムキャッツ、最近出すぎじゃない？=Ma Mèo, gần đây anh ấy có ra ngoài quá nhiều không?
+むっ……確かに、ファントムキャッツは連日活動しているにゃ。\nそれが……？=Muu... Đúng là Ma Mèo hoạt động mỗi đêm, nya. Thì sao...?
+調子に乗ると、足元を掬われる、っていうのかにゃ……？\nもっと慎重に行動した方がいい……にゃ？="Anh ấy sẽ vấp ngã nếu anh ấy tự mãn", nya...? "Anh ấy nên cẩn thận hơn"... nya?
+心配しなくとも、\nファントムキャッツはそう簡単には負けないにゃ！=Đừng lo, Ma Mèo sẽ không thua dễ dàng như vậy, nya!
+目安箱の話だってそうにゃ！\nみんながファントムキャッツに期待しているのにゃ！\nみんなに期待されたら動くのが義賊にゃ！=Câu chuyện về hộp thư góp ý cũng thế, nya! Mọi người đều mong Phantom Cat làm gì đó cho họ, nya! Nếu mọi người mong họ làm gì đó, họ phải làm như những hiệp sĩ tự xưng, nya!
+みんなのために頑張る、\nファントムキャッツは何も間違ったことはしてないのにゃ！\n正しいことなら毎日でもするべきなのにゃ！=Cô ấy đã cố gắng hết sức vì mọi người. Phantom Cat không làm gì sai cả. Nếu đó là việc đúng đắn, cô ấy nên làm mỗi ngày!
+{playername}もたまには弱きを助け強きを挫くにゃ！={playername} đôi khi cũng nên giúp đỡ kẻ yếu và đập tan kẻ bắt nạt!
+義賊みたいな違法行為がいやなら、そこの掲示板に\n正式な用心棒の依頼なりがたくさん貼ってあるにゃ！=Nếu cậu không thích hành vi bất hợp pháp như hiệp sĩ tự xưng, thì có rất nhiều yêu cầu bảo vệ chính thức được đăng trên bảng thông báo kia!
+さてと、あたしはこれから少し忙しいから、\nこれで失礼するにゃ。=Vậy thì, tớ hơi bận rồi, xin phép về trước.
+じゃあ、またにゃ！=Hẹn gặp lại, nya!
+
+タマキの言葉に従い、{playername}は掲示板で\n募集していた依頼を引き受け、依頼人のもとにやってきた。=Theo lời Tamaki, {playername} nhận một trong những yêu cầu được đăng trên bảng thông báo và đến nơi của người yêu cầu.
+あなたが私の出した\n用心棒の依頼を引き受けてくれた方、ですね。=Cậu là người đã nhận yêu cầu bảo vệ của tôi, đúng không?
+あの、私たちなんかの出した依頼を引き受けていただいて、\nどうもすみません……\n大したお礼もお出しできないのに……=À... Xin lỗi vì đã nhờ cậu nhận yêu cầu từ người như chúng tôi...\nChúng tôi không thể trả thưởng nhiều...
+今晩、お前の家に盗みに入るぞっていう泥棒の\n犯行予告が何者からかありまして……\n今回、用心棒を依頼した次第です。=Chúng tôi nhận được lời đe dọa từ ai đó nói họ sẽ đột nhập vào nhà tối nay... Đó là lý do chúng tôi yêu cầu bảo vệ lần này.
+でも、どうして私たちの家に犯行予告なんて……=Nhưng tại sao ai đó lại gửi lời đe dọa cho chúng tôi...
+そうなんです、\n私たち一家は、恨まれるようなことをした覚えもないし、\n大してお金もない、貧乏な家なのに……=Đúng vậy.\nChúng tôi là một gia đình nghèo không có nhiều tiền hay hận thù gì...
+……いえ、ここで理由を考えても仕方がありませんよね。\nあの、今夜はよろしくお願いいたします。=...Không. Không có ý nghĩa gì khi suy nghĩ về lý do ở đây. À... Cảm ơn cậu đã giúp đỡ tối nay.
+その夜。=Đêm đó.
+にゃーーーっ！=Nya-ah!
+ふっふっふ……予告通り、\nこの家の者たちに天誅を与えにきたにゃ。\n金目の物はいただいてくにゃ！=Fufufu... Như đã hứa. Tôi đến để ban phạt thần thánh cho những người trong căn nhà này. Tôi sẽ lấy bất cứ thứ gì có giá trị!
+そうはさせないぞ、泥棒。=Tôi sẽ không để cô làm vậy. Kẻ trộm.
+用心棒！？\nにゃーっ！？　つかまってたまるかにゃ！=Bảo vệ!?\nNya-ah!? Các người sẽ không bắt được tôi sống!
+ふにゃにゃ！\nちょっ、変なとこ触るにゃ！　え、エッチ！=Funyanya! Này! Đừng chạm vào tôi ở những chỗ kỳ quặc! E-ecchi!
+あ、ちょっと、尻尾を掴まれると力が……\nこ、このままじゃ捕まるにゃ……！=Á! Khoan đã! Khi đuôi tôi bị nắm. Tôi mất sức mạnh... N-Nếu tiếp tục thế này tôi sẽ bị bắt...!
+だけど、あたしはこんなことじゃ諦めないにゃー！=Nhưng tôi sẽ không bỏ cuộc đâu, nya~!
+うぅ……ま、まさかこのあたしが捕まることになるなんて……\nまるであたしの動き方をよく知っているかのような\n用心棒だったにゃ……=Uu... K-Không thể nào, tôi không tin mình lại bị bắt... Tên bảo vệ cẩn thận quá, như thể biết từng động tác của tôi, nya...
+にゃっ、あたしの仮面が……！\nって、{playername}……？=Nya, mặt nạ của tôi...! Khoan đã, {playername}...?
+ど、どうしてにゃ！？\nどうして{playername}が……=Sao, nya!? Tại sao {playername} lại ở đây...
+なんじゃ、この騒ぎは……？=Chuyện gì đang xảy ra ở đây...?
+あの姿って、今有名な義賊のファントムキャッツ……？=Bóng dáng đó, có phải là kẻ trộm tinh tế nổi tiếng Phantom Cat...?
+え？\nじゃあファントムキャッツがあの家に盗みに入ったの？=Hả? Vậy Phantom Cat đột nhập vào ngôi nhà đó để trộm?
+信じられない……あそこの家の人たちは、\nとってもいい人なのに……=Tôi không thể tin được... Những người trong ngôi nhà đó tốt bụng quá...
+にゃっ！？\nそれはおかしいにゃ！=Nya!?\nĐiều đó không đúng, nya!
+ここの家は、あくどいやり方で金を儲けてるうちじゃないにゃ？\nここから盗んでくれって依頼があったのにゃ！=Ngôi nhà này là một trong những nơi kiếm tiền bằng cách mờ ám, nya! Tôi nhận được yêu cầu trộm từ đây, nya!
+依頼では確かに……\nこ、これは何かの間違いにゃ！=Yêu cầu đã nói... K-Không, đây chắc là nhầm lẫn, nya!
+……{playername}にも、バレてしまったのにゃ。\nそうにゃ。ファントムキャッツの正体は、あたしだったにゃ。\n……キミには、知られたくなかったにゃ。=...{playername} cũng đã phát hiện ra, nya. Đúng vậy, nya. Tôi là người đứng sau Phantom Cat, nya. ...Tôi không muốn cậu biết, nya.
+でも、信じてほしいにゃ！\nあたし、いい人を狙おうだなんて決して思ってなかったにゃ……=Nhưng xin tin tôi, nya! Tôi chưa bao giờ nghĩ đến việc nhắm vào người tốt, nya...
+ファントムキャッツを捕まえたそうだな。\nここからは私が連行しよう。\nご苦労だった。=Vậy cậu đã bắt được Phantom Cat. Tôi sẽ đưa cô ta đi từ đây. Làm tốt lắm.
+え？　あ、ああ、はい。\nよろしくお願いします。=Hả? À, vâng. Cảm ơn.
+にゃ、にゃーーーーーー！=Nya-aaaaaa!
+こ、こらっ、暴れるな！=Này, dừng lại!
+も、もがっ……にゃー…………=M-mph... Nya...
+ふう。泥棒が無事捕まってよかったわ……\nそういえばあなた、さっき王宮騎士団の方がもみ合っていた時に\nこの白い紙を落としていったのだけど……どうしましょう？=Phew. Tôi mừng vì tên trộm đã bắt an toàn... À, cậu làm rơi tờ giấy trắng này từ áo giáp hiệp sĩ hoàng gia khi cậu giằng co lúc nãy... Chúng ta nên làm gì?
+なになに……『アクドーイ商会』？\nなんだって、この名刺が王宮騎士団の鎧から……\n用心棒さん……これ、どういうことだと思いますか？=Đây là gì... 'Krook'd & Co.'? Tại sao lại có danh thiếp này từ áo giáp hiệp sĩ hoàng gia... Bảo vệ-san... Cậu nghĩ điều này có ý nghĩa gì?
+タマキの身を案じながらも、\n一連の出来事で残った謎を少し調べてみることを\n決意した{playername}だった。=Trong khi lo lắng về số phận của Tamaki, {playername} quyết định điều tra một chút về những bí ẩn để lại bởi chuỗi sự kiện.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+正体を見せてもらうぞ、泥棒。=Để xem cô thực sự là ai, kẻ trộm.
+
+
+
+
+
+
+
+タマキ、どうして……？=Tamaki, tại sao...?
+
+
+
+
+
+
+
+
+その名刺、貸してください。=Xin cho tôi mượn danh thiếp đó.

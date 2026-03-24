@@ -1,0 +1,13 @@
++Shifuna Agato's Birthday
+
+今日は私の誕生日をお祝いしてくれるって言ってたけど……\n家族以外と過ごすなんて初めてかも。=Cậu nói sẽ đi chúc mừng sinh nhật em hôm nay, nhưng... có lẽ đây là lần đầu tiên em được đón sinh nhật với người ngoài gia đình.
+こうして一緒に外を歩くだけでも、新鮮ね。\nふふ……なんだか不思議な気持ち。=Chỉ là đi dạo bên ngoài thế này thôi mà cũng cảm thấy lạ lẫm. Hehe... Cảm giác thật kỳ quặc.
+でも、さすがにちょっと寒いかも……どこかお店に入る？\n……あっ、なんだか甘い香り……=Nhưng trời bắt đầu se lạnh rồi... Mình vào một cửa hàng nào đó nhé? ... À, có mùi ngọt ngào...
+見て、あっちに焼き芋屋さん。\n……ね、もしよかったら一緒に食べない？=Nhìn kia kìa... có tiệm khoai lang! Nè, nếu cậu không phiền... em muốn chia sẻ một củ với cậu.
+あふっ……ふふ、おいしい♪=Amp, amp... Hehe, ngon quá♪
+不思議ね……誰かと一緒に食べると、\nいつもよりおいしく感じる気がする。=Thật buồn cười... khi ăn cùng ai đó, mọi thứ dường như ngon hơn mọi khi.
+覚えてる？　前にもこうやって一緒に食べたこと。\nあの時みたいに、ただ隣にいてくれるだけなのに、\nあの日よりずっと温かくて……甘い味がするの。=Cậu nhớ chứ? Chúng ta từng ăn cùng nhau như thế này. Giống hệt lúc đó, cậu chỉ ngồi cạnh em... nhưng lần này sao lại ấm áp hơn... và ngọt ngào hơn.
+今までずっとフィギュアに打ち込んできたから、\nこんなふうにお祝いしてもらうこと、あまりなくって。\nなんだかくすぐったい気持ちね……♪=Em luôn dành trọn tâm huyết cho trượt băng, nên cũng ít khi được chúc mừng sinh nhật như thế này. Làm tim em hơi rộn ràng...♪
+今日の思い出、きっと忘れないわ。\n素敵なプレゼントをありがとう。\n{playername}。=Em sẽ không bao giờ quên kỷ niệm hôm nay. Cảm ơn cậu vì món quà tuyệt vời, {playername}.
+まだまだ、今日はこれからが本番だよ。=Ngày vẫn chưa bắt đầu thôi
+ええ、そうね♪\nあなたと一緒なら、どんな一日になるのか楽しみだわ。\n……こんなに幸せでいいのかしら……♪=Đúng rồi♪ Nếu ở cùng cậu, em háo hức muốn biết ngày này sẽ trở nên thế nào. ...Liệu có ổn không nếu em hạnh phúc đến thế...♪

@@ -1,0 +1,90 @@
+##Profile##
+猫と遊ぶ=Chơi với mèo
+行き倒れの謎のネコミミ魔法使い=Một pháp sư tai mèo bí ẩn\ntìm thấy đang bất tỉnh
+
+【魔法】後衛から、強力な全体攻撃を放つ、強気な猫娘。スキルで敵の物理、魔法両方の防御力を下げるため編成を選ばずにバトルを有利に進められる。=[Ma thuật] Một cô gái mèo ngạo mạn, phóng ra những đòn tấn công mạnh mẽ từ hậu phương, đánh trúng mọi đối thủ. Kỹ năng của cô giảm cả phòng thủ vật lý và ma thuật, khiến cô trở thành lựa chọn dễ dàng để chiến thắng trong bất kỳ đội hình nào.
+
+いつかお気楽な冒険を=Một Ngày Nào Đó... Cuộc Phiêu Lưu Bình Thường.
+救いの手とハンバーガー=Bàn Tay Giúp Đỡ và Burger
+儚い夢と宝くじ=Giấc Mơ Phai Phôi và Vé Số
+意思を操る魔石=Viên Đá Ma Thuật Điều Khiển Ý Chí
+幸せの方程式=Hướng Tới Hạnh Phúc Của Chính Mình
+初デートは刺激的？=Cuộc Hẹn Hò Đầy Hào Hứng Lần Đầu
+魔物たちの女王様=Nữ Hoàng Quái Vật
+隠されし少女の力=Bí Mật Của Cô Ấy
+野良猫少女との出会い=Sự Tiếp Xúc Đầu Tiên Với Con Mèo Hoang
+与えられた身分=Một Nơi Để Thuộc Về
+鳴き声に誘われて=Tiếng Khóc Thầm Lặng Của Một Con Mèo
+監視の目を光らせて=Dưới Ánh Mắt Giám Sát Của Cô Ấy
+
+##UB##
+グリムバースト=Vụ Nổ Bóng Tối
+敵全体に魔法中ダメージを与える。=Gây sát thương ma thuật lớn cho tất cả kẻ địch.
+r:"^敵全体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương ma thuật cho tất cả kẻ địch.
+
+##S1##
+サンダーボール=Quả Cầu Tử Thần
+
+##S2##
+アーマーダウン=Giảm Giáp
+目の前の敵１キャラの物理防御力と魔法防御力を小ダウンさせる。=Giảm một chút P.DEF và M.DEF của kẻ địch đứng trước mặt.
+r:"^敵単体の物理防御力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン$"=►Giảm P.DEF của một kẻ địch đi $1 trong 12s.\n►Giảm M.DEF của một kẻ địch đi $2 trong 12s.
+
+##EX##
+ダークエクリプス=Nhật Thực Bóng Tối
+ダークエクリプス+=Nhật Thực Bóng Tối+
+
+##UB+##
+アビスバースト=Vụ Nổ Vực Sâu
+敵全体に魔法大ダメージを与え、さらに恐慌状態にする。=Gây sát thương ma thuật lớn và khiến tất cả kẻ địch bị Sợ Hãi.
+##OLF r:"^敵全体に(\d+)の魔法ダメージ敵全体を恐慌状態にする$"=►Gây $1 sát thương ma thuật cho tất cả kẻ địch.\n►Khiến tất cả kẻ địch bị Sợ Hãi trong 8s.
+
+敵全体に魔法大ダメージを与え、物理・魔法防御力を大ダウンさせ、さらに恐慌状態にする。=Gây sát thương ma pháp lớn lên toàn bộ kẻ địch, giảm mạnh phòng thủ vật lý và ma pháp, đồng thời gây trạng thái hoảng loạn (Fear).
+r:"^敵全体に(\d+)の魔法ダメージ敵全体の物理・魔法防御力を(\d+)ダウン敵全体を恐慌状態にする$"=►Gây $1 sát thương ma pháp lên toàn bộ kẻ địch.\n►Giảm $2 phòng thủ vật lý và ma pháp của toàn bộ kẻ địch trong 18 giây.\n►Gây trạng thái hoảng loạn lên toàn bộ kẻ địch trong 8 giây.
+
+##S1+##
+サンダーボール+=Quả Cầu Tử Thần+
+目の前の敵１キャラに魔法中ダメージを与え、その敵から前方範囲内の敵すべてに魔法小ダメージを与えた上で、それらの魔法防御力を小ダウンさせる。=Gây sát thương ma thuật vừa phải cho kẻ địch đứng trước mặt và sát thương ma thuật nhỏ cho kẻ địch xung quanh. Giảm M.DEF của tất cả mục tiêu một chút.
+##OLD r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵すべてに(\d+)の魔法ダメージ範囲内の敵すべての魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật cho một kẻ địch.\n►Gây $2 sát thương ma thuật cho kẻ địch trong phạm vi 200.\n►Giảm M.DEF của kẻ địch trong phạm vi 200 đi $3 trong 12s.
+
+r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン$"=Thời gian thi triển: 1.27 giây.\n►Gây $1 sát thương ma pháp lên một mục tiêu.\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi 200.\n►Giảm $3 phòng thủ ma pháp của kẻ địch trong phạm vi trong 12 giây.
+
+##S2+##
+アーマーダウン+=Giảm Giáp+
+目の前の敵１キャラを中心とした範囲内の敵すべてを麻痺させて、クリティカルを受けた際のダメージを中アップ、物理防御力と魔法防御力を特大ダウンさせる。=Khiến tất cả kẻ địch trong phạm vi 300 tính từ kẻ địch gần nhất bị Tê Liệt trong 3 giây. Áp dụng thêm một debuff khác lên những kẻ địch đó, tăng sát thương nhận từ đòn chí mạng và giảm P&M DEF.
+##OLD r:"^範囲内の敵すべてを一定時間行動不能にする範囲内の敵すべてのクリティカルを受けた際のダメージを20％アップ範囲内の敵すべての物理防御力を(\d+)ダウン範囲内の敵すべての魔法防御力を(\d+)ダウン$"=►Khiến kẻ địch trong phạm vi bị Tê Liệt trong 3s.\n►Tăng sát thương chí mạng mà kẻ địch trong phạm vi nhận phải thêm 20%.\n►Giảm M.DEF của kẻ địch trong phạm vi đi $1.\n►Giảm P.DEF của kẻ địch trong phạm vi đi $2.
+
+r:"^範囲内の敵を一定時間行動不能にする範囲内の敵の被クリダメを20％アップ範囲内の敵の物理・魔法防御力を(\d+)ダウン$"=Thời gian thi triển: 0.83 giây.\n►Gây tê liệt lên kẻ địch trong phạm vi 300 trong 3 giây.\n►Tăng 20% sát thương chí mạng phải chịu của kẻ địch trong phạm vi 300 trong 12 giây.\n►Giảm $1 phòng thủ vật lý và ma pháp của kẻ địch trong phạm vi trong 12 giây.
+
+
+##S1++##
+サンダーボール++=Quả Cầu Tử Thần++
+目の前の敵１キャラに魔法大ダメージを与える。さらに、その敵を中心とした範囲内の敵すべてに魔法中ダメージを与え、物理・魔法防御力を小ダウンさせる。=Gây sát thương ma pháp lớn lên 1 kẻ địch trước mặt. Ngoài ra, gây sát thương ma pháp vừa lên toàn bộ kẻ địch trong phạm vi xung quanh mục tiêu đó, đồng thời giảm nhẹ phòng thủ vật lý và ma pháp của chúng.
+
+
+r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理・魔法防御力を(\d+)ダウン$"=Thời gian thi triển: 1.27 giây.\n►Gây $1 sát thương ma pháp lên một mục tiêu.\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi 200.\n►Giảm $3 phòng thủ vật lý và ma pháp của kẻ địch trong phạm vi.
+
+##UE##
+ケイオスグリモワール=Cuốn Sách Hỗn Loạn
+ケイオススフィア=Quả Cầu Hỗn Loạn
+
+##Comments##
+
+このあたしが一緒に戦ってあげるんだから\n無様な戦いは許さないわよ！=Mình sẽ chiến đấu bên cạnh cậu,\nnên sẽ không để cậu chiến đấu một cách thô lỗ!
+ねぇねぇ、あんたって、いつも何してるの？\n年はいくつなの？　趣味は？　好きな食べ物は？\nあたし、あんたのこと知りたいのよ、色々と！=Này, cậu thường làm gì? Cậu bao nhiêu tuổi?\nSở thích? Món ăn yêu thích là gì?\nMình muốn biết thêm về cậu!
+なんか、あんたとだんだん仲良くなってる気がする…\nんもう…おっかしいなぁ？\nこんなはずじゃ、なかったんだけどなぁ？=Mình cảm thấy mình đang ngày càng\nlại gần cậu hơn... Thôi nào... Kỳ quặc thật.\nChẳng phải lẽ ra không nên thế sao?
+あんた、優しすぎんのよ\nそういうとこ、嫌いじゃないけど…\nあんまり、あたしを困らせないでよね！=Cậu quá tốt bụng. Mình không ghét điểm đó của cậu,\nnhưng... Đừng quấy rầy mình quá nhiều!
+仲良くなればなるほど、後で辛くなるんだから…\n何言ってるかわかんないと思うけど、\nとにかく過剰に親切顔すんなってこと！=Càng gần nhau, sau này càng sẽ đau khổ...\nMình nghĩ cậu không hiểu mình đang nói gì,\nnhưng dù sao, đừng tốt bụng như vậy nữa!
+あんたさ、ずいぶん馴れ馴れしくない？\nあたしとあんたは、別に友だちでも恋人でも、\nなんでもないんだからね？=Này, cậu đang khá thân mật với mình,\nphải không? Không phải như\nchúng ta là bạn bè hay người yêu hay bất cứ thứ gì, hiểu chứ?
+気が付いたら毎日一緒に食卓囲むようになっちゃった\nま、いいわよね。親密になれば情報を引き出せるし\n誰かと一緒に食事をするのは、楽しいしさ=Không hiểu sao, chúng ta lại ngồi cùng bàn\nmỗi ngày. Không sao chứ?\nMình có thể thu thập thông tin từ cậu khi ở gần,\nvà ăn cùng ai đó cũng vui.
+あんたなんか、どうなろうと知ったこっちゃないわよ！\nでも、あんたに何かあると、あたしが困るから…\nトラブルあったらあたしに相談しなさい、いいわね！=Mình chẳng quan tâm chuyện gì xảy đến với cậu!\nNhưng nếu có chuyện gì xảy đến với mày, tao sẽ gặp rắc rối...\nNếu mày gặp rắc rối,\ncó thể nói chuyện với tao, hiểu chứ?
+特訓してるおかげで、だんだん『プリンセスナイト』の\n能力を、うまく使えるようになってる！\nふふ～ん、あたしって、やれば出来る子ね♪=Nhờ luyện tập, mình có thể dùng khả năng\n'Knight Princess' của mình ngày càng tốt hơn!\nHehe, mình làm được nếu cố gắng♪
+だからさ、それまでは、おもしろおかしくやりましょ♪\nご飯食べたり、街を歩いたり、バカ話したり\nあんたと一緒に騒ぐの、あたし嫌いじゃないの！=Vậy cho đến lúc đó, hãy cùng vui vẻ nào♪\nMình không ghét ăn, đi dạo quanh thị trấn,\nnói chuyện nhảm, hay làm ầm ĩ với cậu!
+いつかきっと、離れ離れになる時がくるのよ\nあんたとあたしは\nちょっと寂しいけどね…=Một Ngày Nào Đó, Chắc Chắn Chúng Ta Sẽ Phải Xa Nhau.\nCậu và Mình Sẽ Có Chút Cô Đơn,\nDù Sao Đi Nữa...
+あたしの役目は、あんたには言えない\n言ってもしょうがないし、話したら最後、\nもう敵同士になっちゃうしね=Không cần phải nói cho cậu biết vai trò của tôi là gì, và nếu tôi nói rồi,\ncuối cùng chúng ta cũng sẽ trở thành kẻ thù.
+魔力が上がってく…これってあんたとの絆の力よね…\nでも、あたしにその資格は…え、ずっと一緒だよって…\nへ、変なこと言うなっ！　恥ずかしいやつね！=Sức mạnh phép thuật của tôi đang tăng lên...\nĐây là sức mạnh của mối liên kết của chúng ta, phải không...?\nNhưng tôi không xứng đáng... Hả? Tôi sẽ luôn ở bên cậu... K-Không được nói những điều kỳ quặc như vậy! Cậu làm tôi xấu hổ quá!
+いつでも大魔法を放てるぐらいに強くならないと…\nえ…がんばっているから、すぐできるようになるって？\n…あ、ああ、あんたに褒められても、うれしくないし！=Tôi phải trở nên đủ mạnh để có thể thi triển phép thuật mạnh mẽ bất cứ lúc nào... Hả? Cậu nói tôi sẽ làm được nếu cố gắng? ...À, dù cậu khen tôi, tôi cũng không thấy vui đâu!
+あ、あのさ…あたしって回復魔法も使えるじゃない？\n今のあたしなら、もっと強力な回復魔法も使えるから…\nその…け、けがとかしたら、あたしを頼りなさいよね！=H-Hay... tôi cũng có thể dùng phép thuật hồi phục, đúng chứ?\nNgay bây giờ tôi còn có thể dùng loại hồi phục mạnh hơn nữa, nên... ừm... nếu cậu bị thương,\ncậu có thể dựa vào tôi!
+に、二度は言わないわよ！　ちょっ…こっち来んな！\nニヤニヤするな！　それと、頭なでるな～！！\nあんま調子乗ってると、ぶっ殺すぞ！！=T-Tôi sẽ không nói lại lần nữa! Này... đừng lại gần tôi!\nĐừng cười khẩy! Và dừng việc vuốt đầu tôi!!\nNếu cậu quá đáng, tôi sẽ giết cậu!!
+あ、あんたのおかげで、誰かと一緒に居ることが\nこんなにも楽しいんだって気付けたというか…\nだからその…あ、ありがと…=Đ-Đó là nhờ cậu mà tôi nhận ra việc được ở cùng ai đó\nvui vẻ đến thế...\nNên, ừm... c-cảm ơn cậu...
+そ、その…今日はあんたに言いたいことがあってさ…\nいや、どこかに食べに行きたいとか\nそういうのじゃなくて…あ～もう、黙って聞け！=Ư-Ừm... Có chuyện tôi muốn nói với cậu hôm nay...\nKhông, tôi không muốn đi đâu đó ăn...\nThôi, câm miệng lại và lắng nghe đi!

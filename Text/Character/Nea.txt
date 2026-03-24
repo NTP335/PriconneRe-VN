@@ -1,0 +1,44 @@
+##Profile##
+【物理】中衛で粘液を振りまくキイロいスライムギャル。スキルで敵全体の物理攻撃能力やＴＰ上昇を低下させ、ＵＢでスライム化し全敵を攻撃しつつ無敵ボディを得る。=[Vật lý] Một slime vàng (kogal) phát tán dịch nhầy ở hàng giữa. Sử dụng kỹ năng để giảm tấn công vật lý và Tăng TP của tất cả kẻ địch, có được thân thể bất khả xâm phạm, khiêu khích tất cả kẻ địch và tấn công tất cả kẻ địch với UB của mình.
+
+可愛いショタと遊ぶ、買い物=Chơi với shota dễ thương, mua sắm
+
+魔族？=Bộ lạc quỷ?
+スライム・ミーツ・ボーイ=Slime Gặp Cậu Bé
+ランドソルであ・そ・ぼ♪=Cùng chơi ở Ra.n.do.sol♪
+ショタ大好き♪　ギャル系スライム娘=Yêu Shota♪ Slime Gyaru.
+
+##UB##
+スライミィストリーム=Dòng Slime
+【挑発】敵全体に物理大ダメージを与え、短時間無敵状態になり敵全体を挑発する。=【Khiêu khích】Gây sát thương vật lý lớn lên toàn bộ kẻ địch, trở nên bất tử trong thời gian ngắn và khiêu khích toàn bộ kẻ địch.
+天職見つけたった～♡=Tìm thấy công việc định mệnh của đời mình rồi nè~♡
+r:"^敵全体に(\d+)の物理ダメージ一定時間無敵状態になる敵全体を挑発する$"=►Gây $1 sát thương vật lý lên tất cả kẻ thù ►Trở nên miễn nhiễm với mọi sát thương trong 3s. ►Khiêu khích tất cả kẻ thù trong 3s.
+
+##S1##
+カムカムスライム=Camu-Camu Slime
+最もＴＰが多い敵１キャラに物理中ダメージを与え、ＴＰを中ダウンさせる。ＴＰが最大値に達しているキャラを除く。=Gây sát thương vật lý vừa phải lên kẻ thù có TP cao nhất (trừ TP tối đa), và giảm vừa phải TP của mục tiêu.
+## OLD r:"^敵単体に(\d+)の物理ダメージ敵単体のＴＰを(\d+)失わせる$"=Thời gian niệm: 0.59s ►Gây $1 sát thương vật lý lên kẻ thù có TP cao nhất. ►Giảm TP của kẻ thù bằng $2.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵のＴＰを200失わせる範囲内の敵の行動速度40％ダウン$"=Thời gian thi triển: 0.59 giây.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 250.\n►Khiến kẻ địch trong phạm vi 250 mất 200 TP.\n►Giảm 40% tốc độ hành động của kẻ địch trong phạm vi trong 12 giây.
+
+##S2##
+ジャムジャムスライム=Jam-Jam Slime
+敵全体の物理攻撃力を大ダウンさせ、物理クリティカルとＴＰ上昇を中ダウンさせる。=Làm giảm mạnh P.ATK của tất cả kẻ thù, và giảm vừa phải P.CRIT Rate và TP Boost của chúng.
+r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン敵全体のＴＰ上昇を(\d+)ダウン$"=Thời gian niệm: 0.59s ►Giảm P.ATK của tất cả kẻ thù bằng $1 trong 12s. ►Giảm P.CRIT Rate của tất cả kẻ thù bằng $2 trong 12s. ►Giảm TP Boost của tất cả kẻ thù bằng $3 trong 12s.
+
+##EX##
+イエロージェル=Yellow Gel
+イエロージェル+=Yellow Gel+
+
+##UB+##
+スライミィダーリン♡=Slimy Darling♡
+【召喚・挑発】敵全体に物理大ダメージ、物防を小ダウンさせる。短時間無敵になり敵全体を挑発する。アカ、アオが味方にいる場合１体につき敵全体に追加の物理小ダメージ、そうでない場合召喚する。アカのスキルは目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージ、スタンさせ、物攻中ダウン、物防を小ダウンさせる。アオのスキルは味方全体のＨＰとＴＰを小回復、物攻特大アップ、物クリ大アップ、物理クリダメを小アップさせる。=【Triệu hồi/Khiêu khích】Gây sát thương vật lý lớn lên toàn bộ kẻ địch và giảm nhẹ phòng thủ vật lý của chúng. Bản thân trở nên bất tử trong thời gian ngắn và khiêu khích toàn bộ kẻ địch. Nếu Aka và/hoặc Ao đã có mặt trên chiến trường, gây thêm sát thương vật lý nhỏ lên toàn đội địch tương ứng với mỗi thực thể hiện diện; nếu không, sẽ triệu hồi chúng. Kỹ năng của Aka gây sát thương vật lý vừa lên toàn bộ kẻ địch trong phạm vi xung quanh 1 mục tiêu phía trước, gây choáng, đồng thời giảm vừa tấn công vật lý và giảm nhẹ phòng thủ vật lý của chúng. Kỹ năng của Ao hồi phục nhẹ HP và TP cho toàn đội, tăng cực đại tấn công vật lý, tăng mạnh tỉ lệ chí mạng vật lý và tăng nhẹ sát thương chí mạng vật lý.
+r:"^敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン一定時間無敵状態になる敵全体を挑発するアカがいない場合、アカを召喚するアカがいる場合、敵全体に(\d+)の物理ダメージアオがいない場合、アオを召喚するアオがいる場合、敵全体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm $2 phòng thủ vật lý của toàn bộ kẻ địch trong 18 giây.\n►Trở nên bất tử trong 3 giây.\n►Khiêu khích toàn bộ kẻ địch trong 3 giây.\n\nNếu không có [Aka]:\n►Triệu hồi [Aka].\nNếu đã có [Aka]:\n►Gây $3 sát thương vật lý lên toàn bộ kẻ địch.\n\nNếu không có [Ao]:\n►Triệu hồi [Ao].\nNếu đã có [Ao]:\n►Gây $4 sát thương vật lý lên toàn bộ kẻ địch.
+
+
+##S1+##
+カムカムスライム+=Camu-Camu Slime+
+ＴＰが最大値に達しているキャラを除く最もＴＰが多い敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、ＴＰを中ダウンさせ、行動速度を大ダウンさせる。このスキルによるダメージでは敵のＴＰは回復しない。=Gây lượng sát thương vật lý khổng lồ lên kẻ thù trong phạm vi xung quanh kẻ thù có TP cao nhất (trừ TP tối đa), giảm vừa phải TP của chúng, và làm giảm mạnh tốc độ hành động của chúng (60%). Sát thương của kỹ năng này không phục hồi TP của kẻ thù.
+
+##UE##
+スライミィフェザーローブ=Slimy Feather Robe

@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛で、雪白の肌を黒衣に包んだ甘美なる姫君。味方のＨＰを代償に強力なバリアを展開しつつ、バリアを起点とした高出力の二連撃で、聖夜の大樹に灯を点す。=[Phép] Một công chúa ngọt ngào xinh đẹp, trái ngược với làn da trắng tuyền, cô mặc những bộ trang phục đẫm màu đen. Đổi lấy HP của đồng minh, cô triển khai một rào cản mạnh mẽ, và sở hữu những đòn đôi mạnh mẽ xoay quanh rào cản đó. Với chúng, cô thắp sáng cây thần linh của Đêm Lễ Giáng Sinh.
+
+##UB##
+寵雷夜天=Bầu Trời Đêm Sấm Sét Yêu Thương
+目の前の敵１キャラに魔法特大ダメージを与える。自分にバリアが展開されている場合、このスキルのダメージがアップし、追加の魔法特大ダメージを与え、さらに味方全体の魔法攻撃力を特大アップさせる。=Gây sát thương phép lớn lên kẻ địch phía trước. Nếu XLyrael có rào cản đang hoạt động, tăng sát thương phép gây ra, gây thêm một đợt sát thương phép lớn, và tăng tấn công phép cho tất cả đồng minh.
+r:"^バリアが展開されていない時、敵単体に(\d+)の魔法ダメージバリアが展開されている時、敵単体に(\d+)の魔法ダメージバリアが展開されている時、敵単体に(\d+)の魔法ダメージバリアが展開されている時、味方全体の魔法攻撃力を(\d+)アップ$"=Nếu Rào Cản đang hoạt động:\n►Gây $2 sát thương phép lên kẻ địch.\n►Gây $3 sát thương phép lên kẻ địch.\n►Tăng tấn công phép của tất cả đồng minh lên $4 trong 18s.\n\nNếu Rào Cản chưa hoạt động:\n►Gây $1 sát thương phép lên kẻ địch.
+
+##S1##
+衝雷の投吻=Nụ Hôn Sấm Chớp
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。自分にバリアが展開されている場合、このスキルのダメージがアップし、さらに追加の魔法大ダメージを与える。=Gây sát thương phép trung bình lên kẻ địch phía trước và nhẹ nhàng hạ phòng ngự phép của chúng. Nếu XLyrael có rào cản đang hoạt động, tăng sát thương phép gây ra, và gây thêm một đợt sát thương phép lớn.
+r:"^バリアが展開されていない時、敵単体に(\d+)の魔法ダメージバリアが展開されている時、敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウンバリアが展開されている時、敵単体に(\d+)の魔法ダメージ$"=Nếu Rào Cản đang hoạt động:\n►Gây $2 sát thương phép lên kẻ địch.\n►Hạ phòng ngự phép của kẻ địch đi $3 trong 12s.\n►Gây $4 sát thương phép lên kẻ địch.\n\nNếu Rào Cản chưa hoạt động:\n►Gây $1 sát thương phép lên kẻ địch.\n►Hạ phòng ngự phép của kẻ địch đi $3 trong 12s.
+
+##S2##
+纏雷の障壁=Rào Cản Bao Phủ Sấm Sét
+自分と召喚体以外の味方全体の残りＨＰを25％消費するが、味方全体の魔法攻撃力を中アップさせ、味方全体に物理/魔法無効バリアを展開する。さらに自分の魔法攻撃力を大アップさせ、ＴＰを小回復する。自分と召喚体以外の味方全体の残りＨＰが多いほど、このスキルの効果量が最大５倍までアップする。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Tiêu hao 25% HP của tất cả đồng minh khác, và tăng trung bình tấn công phép cho tất cả đồng minh cũng như triển khai Rào Cản trên họ, chặn sát thương Vật Lý/Phép. Ngoài ra, tăng mạnh tấn công phép của bản thân và nhẹ nhàng hồi TP cho bản thân. Hiệu ứng kỹ năng tăng theo toàn bộ HP của đồng minh khác, tối đa 5 lần. Đồng minh không nhận TP từ sát thương do kỹ năng này gây ra.
+r:"^自分と召喚体以外の残りＨＰの25％を消費味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する自分の魔法攻撃力を(\d+)アップ自分のＴＰを100回復$"=►Tiêu hao 25% HP của tất cả đồng minh khác.\n►Tăng tấn công phép của tất cả đồng minh lên $1 trong 12s.\n►Triển khai Rào Cản trên tất cả đồng minh, chặn $2 sát thương Vật Lý/Phép trong 180s.\n►Tăng tấn công phép của bản thân lên $3 trong 12s.\n►Hồi TP cho bản thân lên 100.
+
+##EX##
+ラブ＆パニッシュメント=Yêu & Trừng Phạt
+ラブ＆パニッシュメント+=Yêu & Trừng Phạt+
+
+
+##UE##
+シニスターエンジェル=Thiên Thần Ác Mộng
+衝雷の投吻+=Nụ Hôn Sấm Chớp+
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。自分にバリアが展開されている場合、このスキルのダメージがアップし、さらに追加の魔法大ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương phép trung bình lên 1 kẻ địch phía trước và nhẹ nhàng giảm phòng ngự phép của chúng. Nếu có rào cản được triển khai trên bản thân, tăng sát thương kỹ năng này, gây thêm sát thương phép lớn, và nhẹ nhàng giảm phòng ngự phép.
+r:"^バリアが展開されていない時、敵単体に(\d+)の魔法ダメージバリアが展開されている時、敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウンバリアが展開されている時、敵単体に(\d+)の魔法ダメージバリアが展開されている時、敵単体の魔法防御力を(\d+)ダウン$"=►Khi không có rào cản nào hoạt động, gây $1 sát thương phép lên một kẻ địch.\n►Khi có rào cản hoạt động, gây $2 sát thương phép lên một kẻ địch.\n►Hạ phòng ngự phép của một kẻ địch đi $3.\n►Khi có rào cản hoạt động, gây $4 sát thương phép lên một kẻ địch.\n►Khi có rào cản hoạt động, hạ phòng ngự phép của một kẻ địch đi $5.
+

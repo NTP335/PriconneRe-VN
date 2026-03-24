@@ -1,0 +1,46 @@
+##Profile##
+家事全般=Việc nhà
+お姉ちゃんがお世話してあげるからねっ！=Onee-chan sẽ chăm sóc cậu thật tốt!
+
+【物理】前衛で、物理攻撃から味方を守る、お姉ちゃん。スキルで物理無効バリアを展開し、味方全員を守るほか、自身はさらに物理吸収バリアを纏い、敵前衛を討つ。=[Vật lý] Một loại tiền phong, người chị lớn bảo vệ đồng minh khỏi các đòn tấn công vật lý. Kỹ năng của cô ấy tạo ra một khiên phản toàn bộ sát thương vật lý cho tất cả đồng minh đồng thời đặt khiên hấp thụ vật lý quanh bản thân.
+
+##UB##
+セイクリッドパニッシュ=Sacred Punishment
+目の前の敵１キャラに物理大ダメージを与え、さらに自分に物理吸収バリアを展開する。=Gây sát thương vật lý lớn lên kẻ địch ngay phía trước. Tạo khiên trên bản thân hấp thụ Sát thương Vật lý.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージ分の物理吸収バリアを展開する$"=►Gây $1 Sát thương Vật lý lên kẻ địch.\n►Tạo khiên trên bản thân hấp thụ $2 Sát thương Vật lý trong 18 giây.
+
+##S1##
+セイントヒール=Saintly Succor
+最もＨＰが低い味方１キャラのＨＰを中回復させる。=Hồi một lượng vừa phải HP cho thành viên đội có HP thấp nhất.
+最もＨＰの割合が低い味方１\nキャラのＨＰを中回復させる。=Hồi một lượng vừa phải HP cho thành viên đội có HP thấp nhất.
+
+##S2##
+プロテクション=Protection
+自分の周りの味方に物理無効バリアを展開する。=Tạo khiên trên đồng minh trong phạm vi 150, phản toàn bộ Sát thương Vật lý trong 12 giây.
+自分を中心とした範囲内の味方すべてに物理無効バリアを展開する。=Tạo khiên trên đồng minh trong phạm vi 150, phản toàn bộ Sát thương Vật lý trong 12 giây.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する$"=►Tạo khiên trên tất cả đồng minh, phản $1 Sát thương Vật lý.
+
+##EX##
+お姉ちゃんパワー=Big Sis Power
+お姉ちゃんパワー+=Big Sis Power+
+
+##UB+##
+セイクリッドビヨンド=Sacred Beyond
+目の前の敵１キャラに物理特大ダメージを与える。自分を中心とした範囲内の味方すべての物理防御力を特大アップさせ、物理吸収バリアを展開し、さらに継続ＨＰ回復状態を付与する。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước, tăng cực lớn P.DEF của đồng minh trong phạm vi, và tạo khiên trên họ hấp thụ Sát thương Vật lý. Cấp khả năng hồi HP liên tục cho tất cả đồng minh.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理防御力を(\d+)アップ(\d+)ダメージ分の物理吸収バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Gây $1 Sát thương Vật lý lên kẻ địch.\n►Tăng P.DEF của đồng minh trong phạm vi 200 lên $2 trong 18 giây.\n►Tạo khiên trên tất cả đồng minh trong phạm vi 200 hấp thụ $3 Sát thương Vật lý trong 18 giây.\n►Hồi HP cho tất cả đồng minh $4/giây trong 8.5 giây
+
+##S1+##
+セイントヒール+=Saintly Succor+
+最もＨＰが低い味方１キャラのＨＰを中回復させ、さらに物理防御力を中アップさせる。=Phục hồi một chút HP cho đồng đội có HP thấp nhất, và tăng phòng thủ vật lý (P.DEF) một cách vừa phải.
+最もＨＰの割合が低い味方１キャラのＨＰを中回復させ、さらに物理防御力を中アップさせる。=Phục hồi một chút HP cho đồng đội có HP thấp nhất, và tăng phòng thủ vật lý (P.DEF) một cách vừa phải.
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)アップ$"=►Phục hồi HP cho đồng đội $1.\n►Tăng P.DEF cho đồng đội $2 trong 12s.
+## Same with XMahiru S1
+
+##S2+##
+プロテクション+=Bảo Vệ+
+自分を中心とした範囲内の味方すべてに物理無効バリアを展開し、物理攻撃力を特大アップ、物理クリティカルを大アップさせる。さらに、自分のＨＰを中回復、ＴＰを大回復させる。=Triển khai Khiên lên các đồng minh trong phạm vi, chống lại sát thương vật lý (P.DMG), và tăng mạnh tấn công vật lý (P.ATK) và tỷ lệ chí mạng (P.CRIT Rate) của đồng minh trong phạm vi. Đồng thời, phục hồi một chút HP và một lượng lớn TP cho bản thân.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを100アップ自分のＨＰを(\d+)回復自分のＴＰを350回復$"=►Triển khai Khiên lên đồng minh trong phạm vi 300, chống lại $1 sát thương vật lý (P.DMG) trong 12s.\n►Tăng P.ATK cho đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Tăng P.CRIT Rate cho đồng minh trong phạm vi 300 lên 100 trong 12s.\n►Phục hồi HP của bản thân $3.\n►Phục hồi TP của bản thân 350.
+
+##UE##
+セイクリッドブレード=Lưỡi Kiếm Thánh
+セイクリッドシスターベール=Màn Che Thánh

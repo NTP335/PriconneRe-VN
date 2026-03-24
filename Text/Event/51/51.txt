@@ -1,0 +1,17 @@
+r:"^キャンピングフィールド([0-9\-\(\)\w （）]*)$"=Khu Cắm trại $1
+アストライアタケモドキ=Nấm Giả Astraea
+たき火の魅力=Sức huyền bí của đống lửa trại
+
+Title cards
+ぼっちキャンプセラピー=Liệu pháp Cắm trại Cô Đơn
+飾らないあなたを求めて=Tìm kiếm Bản Thân Không Pha Trộn
+満開スマイリーキャンプ=Trại Cười Nở Rộ
+侵食されしぼっち空間=Không Gian Cô Đơn Bị Xâm Phạm
+ジュン、気持ちよくなる=Jun, Cảm Thấy Tốt
+飲んだくれと働き者の邂逅=Cuộc Gặp Gỡ Của Người Uống Rượu và Người Chăm Chỉ
+空前のキャンプブーム=Cơn Sốt Cắm trại Chưa Từng Có
+都会派エルフライフ=Cuộc Sống Thần Tiên Đô Thị
+
+
+工場長=Quản Lý Nhà Máy
+マイフレンドくん=Bạn-kun Của Tôi

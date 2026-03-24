@@ -1,0 +1,65 @@
+キャラバンショップ=Cửa hàng Caravan
+r:"^あと (\d{1,2})日$"=Còn $1 ngày
+r:"^シーズン(\d+)$"=Mùa $1
+r:"^シーズン(\d+)は開催されていません。$"=Mùa $1 chưa mở.
+キャラバンコイン=Đồng Caravan
+トレジャーは売却できません。=Kho báu không thể bán.
+
+r:"^キャラバンコイン（シーズン([0-9,]+)）$"=Đồng Caravan (Mùa $1)
+r:"^キャラバンコイン（シーズン([0-9,]+)）ｘ(\d+)$"=Đồng Caravan (Mùa $1) ｘ$2
+r:"^トレジャーの清算で獲得できる特別\nな通貨。キャラバンショップの\n「シーズン([0-9,]+)」タブで買い物ができ\nる。$"=Một loại tiền tệ đặc biệt có thể nhận được thông qua việc đánh giá Kho báu. Nó có thể được dùng để mua sắm trong thẻ Mùa $1 của Cửa hàng Caravan.
+
+---about to buy---
+所持キャラバンコイン=Số Đồng Caravan đang có
+キャラバンに戻りますか?=Bạn có muốn quay về Caravan không?
+購入に必要なキャラバンコインが不足しています。=Không đủ Đồng Caravan để mua.
+必要キャラバンコイン=Chi phí Đồng Caravan
+キャラバンへ=Đến Caravan
+キャラバンコイン不足=Không đủ Đồng Caravan
+
+
+---NPC---
+いらっしゃいませっ♪\nキャラバンコインを使って\n買い物ができますよっ！=Chào mừng đến với cửa hàng♪ Bạn có thể dùng Đồng Caravan để mua đồ ở đây!
+ショップへようこそ\nキャラバンコインはこちら\nで買い物に使えますよ=Chào mừng đến cửa hàng. Đồng Caravan có thể được dùng để mua sắm ở đây.
+こちらのショップで\n買い物をして、素敵な\n旅を楽しんでくださいね=Hãy tận hưởng việc mua sắm tại cửa hàng này và có một chuyến đi tuyệt vời.
+素敵な品が揃ってるので\nたーっくさん買っていって\nくださいねっ♪=Ở đây có rất nhiều thứ tuyệt vời, nên hãy tận hưởng việc mua sắm!♪
+
+
+ショップへようこそ\nキャラバンコインと品物を\n交換できるんで、よければ=Chào mừng đến cửa hàng! Bạn có thể đổi Đồng Caravan lấy vật phẩm ở đây, nên cứ tự nhiên.
+いらっしゃいませ\nキャラバンコインを使って\nお買い物ができますよ=Chào mừng! Bạn có thể dùng Đồng Caravan để mua sắm ở đây.
+なんで店番なんか…\nま、やりますけど\n好きな品物をどうぞ=Tại sao mình lại chạy cửa hàng... Thôi, mình sẽ làm. Hãy chọn những món bạn thích.
+ショップの掃除は完璧です\n姫さま直営のお店として\n当然のことですから=Cửa hàng hoàn toàn sạch sẽ. Đây là cửa hàng trực tiếp do công chúa quản lý, nên là điều đương nhiên.
+
+
+──いらっしゃいませ\n買い物しても、いいですよ\nキャラバンコインがあれば=──Chào mừng. Bạn có thể mua bất cứ thứ gì ở đây. Miễn là bạn có đồng caravan
+
+あら、あたくしをご所望？\nお生憎様、そんな小銭では\n…買えちゃうんですの！？=Ồ, bạn muốn mua tôi? Thật tiếc, bạn không thể mua tôi với số tiền ít như vậy?!
+ようこそおいでなんし\nキャラバンコインをこちら\nで交換して進ぜんしょう=Chào mừng. Tại sao chúng ta không đổi đồng caravan ở đây và tiếp tục?
+ネフィ\=ネラ=Nephi Nela
+い、いらっしゃいませっ！\n…くっ…このあたくし様が\n店番なんて…屈辱ですわっ=C-Chào mừng! ...Ồ... Thật nhục nhã khi nghĩ rằng mình là người phụ trách cửa hàng!
+ところで、お前さまは\nいくらで贖えるのか喃？\n──フフ、冗談でありんす=Nhân tiện, bạn có thể bù đắp được bao nhiêu, Nanan? Hehe, tôi chỉ đùa thôi.
+いらっしゃいませ～♪\nきゃらばんこいん？を\n交換できるんだってー=Chào mừng~♪ Tôi nghe nói bạn có thể đổi Đồng Caravan?
+──もっと笑顔がほしい？\nいくらコインを積まれても\n売れない物はありますから=Bạn muốn nhiều nụ cười hơn? Dù bạn chất bao nhiêu đồng tiền, vẫn có những thứ bạn không thể bán.
+甘いのくれたら、\nお礼にナーナの拾った\n松ぼっくりあげちゃうよ！=Nếu bạn cho tôi thứ gì ngọt ngào, tôi sẽ tặng bạn những quả thông Nana nhặt được như lời cảm ơn!
+
+
+うﾞぇぇえんっ！まﾞだごの\n格好になっぢゃいまじだ！\n寄付をお願いじまず～っ！=Bwaaah! Tôi không định kết thúc trong bộ dạng như thế này! Hãy cân nhắc việc quyên góp!
+ところで、騎士きゅんは\nおいくら万ルピ？\nジョーダンぬ・き・で♡=Nhân tiện, Kishi-kyun trị giá bao nhiêu trăm nghìn rupee nhỉ? Chỉ đùa thôi, tất nhiên♡
+おっすー♪\nなんでも交換してけー\nカリザきゅん以外で=Này! Trao đổi bất cứ thứ bạn muốn—trừ Kariza-kun, tất nhiên.
+ショップへようこそ\nこの鳳凰が、皆さんに\n祝福を差し上げましょう=Chào mừng đến cửa hàng! Con phượng hoàng này dâng lời chúc phúc cho mọi người.
+ほーちゃんと呼ぶ権利は\n売っていませんよ？\n騎士さんへの、特別です！=Quyền được gọi tôi là Hoo-chan không phải để bán đâu bạn biết không? Đó là đặc quyền dành riêng cho bạn, Kishi-san!
+
+
+商品をお買い上げ毎に\nグレイスちゃんポイントを\n差し上げます。嘘ですが=Mọi thứ bạn mua sẽ đi kèm với điểm Grace-chan. Tôi đùa thôi bạn biết mà.
+私の抜け殻とか、\n需要ありますかね～…\nって冗談ですよ、冗談！=Tôi tự hỏi liệu có ai cần vỏ rỗng của tôi không... Đó là một trò đùa, một trò đùa!
+じめじめした商品は\nございませんので\n安心してお買い求め下さい=Tất cả các sản phẩm này đều không ẩm, vì vậy hãy yên tâm khi mua hàng.
+ようこそいらっしゃいませ\n…接客とは、このような\n振舞で宜しいでしょうか？=Chào mừng tất cả mọi người... Đây là cách cư xử khi phục vụ khách hàng sao?
+い、言わなきゃダメか？\n「…いらっしゃいませ…」\nクソッ、笑うんじゃねー！=⁇ -Tôi có phải nói ra sao? ⁇ ...Chào mừng ⁇  Chết tiệt, đừng cười tôi!
+へい、らっしゃい\nさ、騎士氏。冥土の土産は\nなにがいいですか？=Chào mừng. Này, Kishishi: Cậu muốn món quà lưu niệm gì từ Underworld?
+ケッ、なんでオレ様が店番\nなんざ…って来んなキイロ\nオレは売りモンじゃねー！=Hê, sao tôi phải trông coi cửa hàng... Khoan, đừng nhìn tôi như thế! Tôi không phải hàng để bán!
+
+
+
+国を営むに金子は必須也…どうか御恵みくだしゃんせ誠心を以て報恩致しまする=Điều hành quốc gia tất yếu cần có ngân khố... Kính xin hãy ban ân huệ, tiểu nữ nguyện lấy lòng thành tâm để báo đáp hồng ân.
+番頭も、飯事の如き営みなれば。愛らしき稚児らで千客万来といきませぬか喃=Làm quản lý cũng giống như chơi đồ hàng mà thôi. Với những đứa trẻ đáng yêu thế này, chẳng phải chúng ta nên chào đón khách khứa nườm nượp kéo đến sao?
+あぅっ…！　天井が低くて頭をぶつけてしまって…わたしが、大きいだけ…？=Á...! Trần nhà thấp quá làm em bị cộc đầu rồi... Là do... em to cao quá sao?

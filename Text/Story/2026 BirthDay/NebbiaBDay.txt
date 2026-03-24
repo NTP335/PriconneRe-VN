@@ -1,0 +1,16 @@
+Nebbia's Bday
+
+ありがとっ♪\nあんたも律儀ね～？　ガイド妖精の誕生日をお祝いするなんてさ。\nま、その心意気を汲んで、今日の悪戯はナシにしたげる♪=Cảm ơn nhé♪ Cậu cũng chu đáo thật đấy nhỉ~? Lại còn chúc mừng sinh nhật một "Nàng tiên dẫn đường" như tôi nữa. Mà thôi, ghi nhận tấm lòng đó, hôm nay tôi sẽ bỏ qua, không bày trò chọc phá cậu nữa đâu♪
+あら、誕生日プレゼントまでくれるっての？\nへぇ～、じゃあお高い宝石とかお願いしちゃおっかしら～♪\n……な～んてね？　冗談よ。=Ô kìa, cậu còn định tặng cả quà sinh nhật cho tôi nữa à? Chà~ Vậy thì hay là tôi vòi vĩnh mấy viên đá quý đắt tiền thử xem sao nhỉ~♪ ...Đùa thôi! Tôi nói giỡn đó.
+前から一つ、やってみたかったことがあるのよね。\nフィオにお願いしてみてくれない？\nあんたの記憶の──=Thực ra từ trước tới giờ có một việc tôi rất muốn làm thử. Cậu có thể nhờ Fio giúp tôi một chút không? Đó là về... ký ức của cậu──
+──そうそうっ、これよこれ♪\nあんたの記憶の中って、楽しそうな場所がいっぱいあるでしょ？\n行ってみたい場所が色々あったのよね～！=──Đúng đúng, chính là nó đó♪ Trong ký ức của cậu có nhiều nơi trông vui vẻ lắm đúng không? Có bao nhiêu là chỗ mà tôi cứ muốn đến xem thử một lần đấy!
+さぁ、片っ端から乗り物に乗っていくわよ～♪=Nào, chúng ta hãy cùng đi thử hết các trò chơi lần lượt từ đầu đến cuối thôi nào~♪
+これがゲーセンってやつね……！\nふふっ、見てなさい！　クレーンゲームの必勝法を見せてあげる！\n妖精の小さい体を活かして、こう、取り出し口から中に入れば……！=Thì ra đây là cái thứ gọi là khu trò chơi điện tử (Arcade) à...! Hì hì, nhìn cho kỹ đây! Tôi sẽ cho cậu thấy bí kíp tất thắng của trò gắp thú! Tận dụng cơ thể nhỏ bé của loài tiên, tôi chỉ cần chui vào từ khe lấy quà như thế này là...!
+なによ～、ショッピングモールって何でも売ってるんじゃないの～？\n妖精サイズの服が全然ないじゃない！\nホビーショップのドール服コーナーにある？　それじゃ早速行くわよ♪=Gì đây~, chẳng phải trung tâm thương mại là nơi cái gì cũng bán sao~? Thế mà chẳng có bộ quần áo nào cỡ tiên cả! Gì cơ, chúng có ở khu bán đồ cho búp bê trong cửa hàng sở thích à? Vậy thì đi ngay thôi nào♪
+こういうところって、おもちゃがいっぱい売ってるわよね。\n私としては、駄菓子以上に悪戯用に使えそうなアイテムに興味津々よ♪\nこのおっきな音が鳴るやつとか、べとべとのスライムとか～♪=Mấy nơi như thế này bán nhiều đồ chơi thật đấy nhỉ. Với tôi thì so với mấy thứ bánh kẹo rẻ tiền, tôi thấy hứng thú hơn với mấy món có thể dùng để đi chọc phá người khác cơ♪ Như là cái thứ phát ra tiếng động lớn này, hay là đống slime dính dính này nữa~♪
+あ～楽しかった！\nあんたの記憶、堪能させてもらったわ♪=A~ vui quá đi mất! Ký ức của cậu, tôi đã được tận hưởng một bữa no nê rồi♪
+次の誕生日は、もっといろんなところを巡りたいわね。\nそうだ、あんたの部屋とか招待しなさいよ♪\n大丈夫、悪戯したりしないから～、ねっ？=Sinh nhật năm tới, tôi muốn được đi tham quan nhiều nơi hơn nữa cơ. À đúng rồi, hay là cậu mời tôi tới phòng của cậu chơi đi♪ Yên tâm đi, tôi sẽ không bày trò nghịch ngợm gì đâu mà~ nhé?
+
+Player Prompts
+誕生日おめでとう、ネビア。=Chúc mừng sinh nhật nhé, Nebbia.
+何か欲しいものはある？=Cậu có muốn món quà gì không?

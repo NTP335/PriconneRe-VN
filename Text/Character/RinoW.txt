@@ -1,0 +1,27 @@
+##Profile##
+【物理】後衛で、希望の力で戦う、不思議の国の救世主。クリティカルすると効果アップのスキルや味方の数が多い程、威力がアップするユニオンバーストで敵を殲滅する。=[Vật lý] Một cứu tinh của Wonderland chiến đấu ở hậu phương với sức mạnh của hy vọng. Khi chí mạng, cô tiêu diệt kẻ địch với Union Burst, sức mạnh tăng lên theo số kỹ năng và đồng đội cô có.
+
+##UB##
+ファンタジックユニゾン=Fantastic Unison
+目の前の敵１キャラに物理中ダメージを与える。味方の人数に応じて、このスキルのダメージがアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước. Tăng sát thương kỹ năng này dựa trên số đồng đội xung quanh. Nếu kỹ năng này chí mạng, sát thương sẽ thành ba lần.
+
+##S1##
+ワンダーイリュージョン=Wonder Illusion
+目の前の敵１キャラに物理小ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。=Gây sát thương vật lý nhỏ lên kẻ địch phía trước. Tăng tỷ lệ chí mạng vật lý của bản thân một lượng trung bình, và phục hồi TP của bản thân một lượng trung bình.
+目の前の敵１キャラに物理中ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。=Gây sát thương vật lý trung bình lên kẻ địch phía trước. Tăng tỷ lệ chí mạng vật lý của bản thân một lượng trung bình, và phục hồi TP của bản thân một lượng trung bình.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ自分のＴＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên kẻ địch. ►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 180s. ►Phục hồi $3 TP của bản thân.
+
+##S2##
+ワンダーアロー=Wonder Arrow
+目の前の敵１キャラに物理中ダメージを与える。このスキルがクリティカルした場合、さらに物理防御力を中ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước. Nếu kỹ năng này chí mạng, sẽ giảm thêm phòng thủ vật lý của kẻ địch một lượng trung bình.
+
+##EX##
+ハートフルフレンズ=Heartful Friends
+ハートフルフレンズ+=Heartful Friends+
+
+##S1+##
+ワンダーイリュージョン+=Wonder Illusion+
+目の前の敵１キャラに物理中ダメージを与え、自分の物理クリティカルを中アップさせ、さらにＴＰを中回復する。味方の人数に応じて、このスキルの効果値が増加する。=Gây sát thương vật lý trung bình lên kẻ địch phía trước. Tăng tỷ lệ chí mạng vật lý của bản thân một lượng trung bình, và phục hồi TP của bản thân một lượng trung bình. Hiệu quả kỹ năng này tăng lên tùy theo số đồng đội.
+
+##UE##
+ワンダーランドボウ=Wonderland Bow

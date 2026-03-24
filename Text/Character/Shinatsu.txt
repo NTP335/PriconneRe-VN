@@ -1,0 +1,30 @@
+曙光と翠嵐の国で未来を護る寡黙な剣豪=Một kiếm sĩ im lặng bảo vệ tương lai trong vùng đất bình minh và cơn bão đỏ thẫm.
+武器の手入れ、瞑想、釣り=Bảo dưỡng vũ khí, thiền định, câu cá
+皆川純子=Minagawa Junko
+##Profile##
+【物理】前衛から、風裂く刃で世界を護る孤高の剣豪。卓越した剣技で敵の攻撃を捌いて反撃し、初回ＵＢで生成する分身と共に疾風迅雷の攻めで、未来へと駆け抜ける。=[Vật lý] Một kiếm sư đơn độc ở tuyến đầu bảo vệ thế giới bằng những nhát chém xé gió. Cô ấy đỡ đòn tấn công kẻ địch bằng kiếm thuật vô song để phản công, và cùng với bản sao do UB đầu tiên tạo ra, cô lao nhanh như chớp về phía tương lai.
+
+##Union Burst##
+神業・大祓科戸風=Divine Art - Ooharai Shinatobe Kaze
+【召喚】目の前の敵１キャラに物理特大ダメージを与える。シナツが生成した分身が味方にいる場合、さらに追加の物理特大ダメージを与え、物理攻撃を受けた際のダメージを小アップさせる。バトル開始後、初弾のユニオンバーストは、味方全体の行動速度を大アップさせ、ユニオンバーストを使用しない自分の分身を生成する。=[Triệu hồi] Gây sát thương vật lý khủng khiếp lên kẻ địch phía trước. Nếu có bản sao do Shinatsu tạo ra ở cùng đội, gây thêm sát thương vật lý khủng khiếp và tăng nhỏ sát thương nhận từ đòn vật lý. Union Burst đầu tiên sau khi bắt đầu trận đấu tăng mạnh tốc độ hành động của tất cả đồng minh và triệu hồi một bản sao của chính mình không sử dụng Union Burst.
+r:"^敵単体に(\d+)の物理ダメージシナツの分身がいる場合、敵単体に(\d+)の物理ダメージシナツの分身がいる場合、敵単体が受ける物理ダメージを(\d+)％アップ初使用時、分身を生成する初使用時、味方全体の行動速度(\d+)％アップ$"=►Gây $1 sát thương Vật lý lên một kẻ địch. ►Nếu [Bản sao Shizuru] có mặt, gây $2 sát thương Vật lý lên một kẻ địch. ►Nếu [Bản sao Shizuru] có mặt, tăng sát thương Vật lý nhận bởi một kẻ địch thêm $3%. ►Lần sử dụng đầu tiên, tạo ra một bản sao. ►Lần sử dụng đầu tiên, tăng tốc độ hành động của tất cả đồng minh thêm $4%.
+
+##Skill 1 (S1)##
+秘剣・十迅風=Secret Sword - Juujin Kaze
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに、自分に物理無効バリアを展開し、ＨＰを中回復する。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhỏ phòng thủ vật lý của chúng. Ngoài ra, triển khai một rào cản hóa giải sát thương vật lý lên bản thân và hồi trung bình HP của mình.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン(\d+)ダメージ分の物理無効バリアを展開する自分のＨＰを(\d+)回復$"=►Gây $1 sát thương Vật lý lên một kẻ địch. ►Giảm phòng thủ Vật lý của một kẻ địch đi $2. ►Triển khai Rào Cản Hóa Giải Vật Lý, hấp thụ $3 sát thương. ►Hồi HP của bản thân thêm $4.
+
+##Skill 2 (S2)##
+祓ノ剣舞=Purifying Sword Dance
+自分が受けるダメージを50％軽減する状態になる。自分より前に味方がいない場合、ダメージ軽減状態は解除される。さらに自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップする。=Vào trạng thái giảm sát thương nhận vào 50%. Trạng thái giảm sát thương này sẽ kết thúc nếu không có đồng minh nào đứng phía trước bản thân. Ngoài ra, còn tăng mạnh tấn công vật lý của bản thân và tăng nhỏ sát thương phán đoán vật lý của bản thân.
+r:"^自分をダメージ軽減状態にする自分の物理攻撃力を(\d+)アップ自分の物理クリダメを(\d+)％アップ$"=►Đưa bản thân vào trạng thái [Giảm Sát Thương]. ►Tăng tấn công Vật lý của bản thân thêm $1. ►Tăng sát thương Phán Đoán Vật lý của bản thân thêm $2%.
+
+##EX Skill##
+天ツ風=Ama no Tsujikaze
+天ツ風+=Ama no Tsujikaze+
+
+##Special Skills 1##
+不死ノ空刃=Immortal Sky Blade
+敵から攻撃を受けた時に発動し、その敵に物理中ダメージを与える。=Kích hoạt khi bị kẻ địch tấn công và gây sát thương vật lý trung bình lên kẻ địch đó.
+
+r:"^自分を攻撃した敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương Vật lý lên kẻ địch tấn công cô ấy.

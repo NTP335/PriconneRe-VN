@@ -1,0 +1,32 @@
+##Profile##
+【物理】中衛で風刃を従え激戦を流麗に征く嵐翼の剣士。敵が多い程に効果が高まる自己強化スキルで、自身を奮い立たせ、強力な範囲攻撃スキルで一切の敵を鏖滅する。=[Vật lý] Một kiếm sư cánh bão, chiến thắng các trận chiến khốc liệt một cách uyển chuyển với lưỡi kiếm gió của mình ở tuyến giữa. Một kỹ năng tự tăng cường trở nên hiệu quả hơn khi số lượng kẻ thù tăng lên, tự tạo động lực cho bản thân và hủy diệt tất cả kẻ thù với một kỹ năng tấn công tầm xa mạnh mẽ.
+
+剣を交えて分かること=Điều có thể hiểu được từ những cuộc đấu kiếm
+活路はまどろみの向こうに=Con đường thoát ra nằm bên ngoài giấc ngủ
+思いの剣風、雪雲を晴らす=Kiếm phong của suy nghĩ ta xua tan những đám mây tuyết
+偶然の雨宿り=Nơi trú mưa ngẫu nhiên
+
+##UB##
+グロリアステンペスト=Cơn bão rực rỡ
+前方範囲内の敵すべてに物理大ダメージを与える。対象になる敵が多いほど、クリティカル時に与えるダメージがアップする。=Gây sát thương vật lý lớn cho kẻ thù trong phạm vi 750. Sát thương vật lý chí mạng tăng lên theo số lượng kẻ thù trong phạm vi.\nSát thương vật lý chí mạng: (+30%×Số kẻ thù)
+
+##S1##
+トゥインクルエッジ=Lưỡi kiếm lấp lánh
+自分の物理攻撃力と物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを小アップさせる。敵の数に応じて、このスキルの効果値がアップする。=Tăng sức tấn công vật lý và tỷ lệ chí mạng vật lý của bản thân rất lớn, và cũng tăng sát thương vật lý chí mạng một chút. Giá trị hiệu quả tăng theo số lượng kẻ thù trong phạm vi.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを50アップ自分の物理攻撃クリティカル時のダメージを8％アップ$"=Thời gian niệm: 0.415s\n►Tăng sức tấn công vật lý của bản thân lên $1 (+$1×Số kẻ thù) trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên 50 (+50×Số kẻ thù) trong 12s.\n►Tăng sát thương vật lý chí mạng của bản thân lên 8% (+8%×Số kẻ thù) trong 12s.
+
+##S2##
+ランペイジスラッシュ=Chém điên cuồng
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理攻撃力を中アップさせる。対象になる敵が多いほど、物理攻撃力の上昇量がアップする。=Gây sát thương vật lý vừa phải cho kẻ thù trong phạm vi, và tăng sức tấn công vật lý của bản thân một cách vừa phải. Mức tăng sức tấn công vật lý tăng theo số lượng kẻ thù trong phạm vi.\nSức tấn công vật lý: (+Sức tấn công vật lý×Số kẻ thù)
+
+##EX##
+ブロウアップハート=Trái tim bùng nổ
+ブロウアップハート+=Trái tim bùng nổ+
+
+##S1+##
+トゥインクルエッジ+=Lưỡi kiếm lấp lánh+
+自分の物理攻撃力と物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを小アップさせる。敵の数に応じて、このスキルの効果値がアップする。さらに自分のＴＰを小回復する。=Tăng sức tấn công vật lý và tỷ lệ chí mạng vật lý của bản thân rất lớn, và cũng tăng sát thương vật lý chí mạng một chút. Giá trị hiệu quả tăng theo số lượng kẻ thù trong phạm vi. Hồi một chút TP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを8％アップ自分のＴＰを70回復$"=►Tăng sức tấn công vật lý của bản thân lên $1 (+$1×Số kẻ thù) trong 18s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 (+$2×Số kẻ thù) trong 18s.\n►Tăng sát thương vật lý chí mạng của bản thân lên 8% (+8%×Số kẻ thù) trong 18s.\n►Hồi TP của bản thân lên 70.
+
+##UE##
+グロリアスプリンセスドレス=Váy công chúa rực rỡ

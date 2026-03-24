@@ -1,0 +1,33 @@
+##Profile##
+【物理】前衛で、敵をなぎ倒していく聖夜のくまっ子。ユニオンバーストはＨＰを消費するが威力は絶大。スキルで物理攻撃力を上げ、さらにダメージアップ。=[Vật lý] Một cô gái yêu gấu, không ngần ngại xé nát kẻ thù trong đêm tưởng chừng im lặng này. Union Burst của cô ấy tiêu hao HP của bản thân để đạt được sức mạnh kinh ngạc, và kỹ năng của cô ấy tăng tấn công vật lý để gây thêm nhiều sát thương.
+
+##UB##
+ぷうきちサンタ・ストーム=Pukichi Santa Storm
+目の前の敵１キャラに物理特大ダメージを与えるが、自分のＨＰを消費する。=Gây sát thương vật lý cực lớn lên kẻ địch ngay phía trước, với cái giá là HP.
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)消費$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm HP của bản thân đi $2.
+
+##S1##
+ぷうきちエール=Pukichi Cheering
+自分の物理攻撃力を大アップさせる。=Tăng mạnh tấn công vật lý của bản thân.
+
+##S2##
+ぷうきちラッシュ=Pukichi Rush
+目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Gây sát thương vật lý vừa phải lên kẻ địch ngay phía trước và đẩy lùi chúng một chút.
+
+##EX##
+ホーリーナイトスラッガー=Holy Night Slugger
+ホーリーナイトスラッガー+=Holy Night Slugger+
+
+##S1+##
+ぷうきちエール+=Pukichi Cheering+
+自分の物理攻撃力を特大アップさせ、さらに行動速度を大アップさせる。=Tăng mạnh tấn công vật lý của bản thân và tăng cường mạnh mẽ tốc độ hành động.
+r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Tăng tấn công vật lý của bản thân lên $1.\n►Tăng tốc độ hành động của bản thân.
+
+##S2+##
+ぷうきちラッシュ+=Pukichi Rush+
+目の前の敵１キャラに物理特大ダメージを与え、クリティカルを受けた際のダメージを小アップさせ、小さく吹き飛ばす。さらに、自分の物理攻撃力を特大アップさせ、ＴＰを大回復し、【ぷうきちクッション】を付与する。【ぷうきちクッション】が付与されている間、ユニオンバーストで消費するＨＰは残りＨＰの40％になる。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước và thổi bay chúng nhẹ nhàng, tăng nhẹ sát thương chí mạng vật lý. Ngoài ra, tăng cường mạnh mẽ tấn công vật lý của bản thân, hồi lại TP rất nhiều, và trao [Pukichi Cushion] (UB tiêu hao HP trở thành 40% HP còn lại).
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを14％アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを500回復自分にぷうきちクッションを付与する$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Đẩy lùi kẻ địch 200 đơn vị.\n►Tăng sát thương chí mạng vật lý của bản thân lên 14% trong 12s.\n►Tăng tấn công vật lý của bản thân lên $2 trong 180s.\n►Hồi TP của bản thân lên 500.\n►Trao Pukichi Cushion cho bản thân.
+
+##UE#
+クリスマス王ぷうきち=Pukichi, King of Christmas
+ぷうきちスノーマン=Pukichi Snowman

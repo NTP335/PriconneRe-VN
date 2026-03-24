@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で、味方を庇護し祝福する聖白の騎士団長。スキルで後方の味方の攻撃能力を強化、ＴＰを回復させ、防御力ダウンと自分のＨＰを回復するＵＢで勝機を掴む。=[Vật lý] Một lãnh đạo của Hiệp sĩ Trắng Thánh, bảo vệ và ban phước cho đồng minh ở tiền tuyến. Cô tăng cường đồng minh phía sau, hồi TP, và nắm bắt cơ hội chiến thắng với UB, giảm phòng thủ và hồi HP của bản thân.
+
+##UB##
+ソードオブノエル=Sword of Noel
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を大ダウンさせる。さらに自分のＨＰを大回復する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và giảm mạnh P.DEF của chúng. Đồng thời hồi một lượng lớn HP của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch đi $2 trong 18s.\n►Hồi HP của bản thân thêm $3.
+
+##S1##
+セイントエンハンス=Saint Enhancement
+最も後ろの味方から前方範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを中アップし、ＴＰを小回復する。=Tăng mạnh sức tấn công vật lý của đồng minh trong phạm vi xung quanh đồng minh phía sau cùng, tăng vừa phải tỷ lệ chí mạng vật lý của họ, và hồi nhẹ TP của họ.
+
+##S2##
+ブレッシングホーン=Blessing Horn
+目の前の敵１キャラに物理中ダメージを与え、自分に物理/魔法吸収バリアを展開する。さらに最も後ろの味方から前方範囲内の味方すべての物理攻撃クリティカル時のダメージを小アップする。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước và triển khai Barrier trên bản thân hấp thụ sát thương vật lý/phép. Đồng thời, tăng nhẹ sát thương chí mạng vật lý của đồng minh trong phạm vi xung quanh đồng minh phía sau cùng.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージ分の物理魔法吸収バリアを展開する範囲内の味方の物理攻撃クリティカル時のダメージを8％アップ$"=Thời gian niệm: 1.795s\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai Barrier trên bản thân hấp thụ $2 sát thương vật lý/phép trong 12s.\n►Tăng sát thương chí mạng vật lý của đồng minh trong phạm vi 150 lên 8% trong 12s.
+
+##EX##
+セイントジャスティス=Saint Justice
+セイントジャスティス+=Saint Justice+
+
+##S1+##
+セイントエンハンス+=Saint Enhancement+
+最も後ろの味方から前方範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップし、ＴＰを小回復する。=Tăng mạnh sức tấn công vật lý của đồng minh trong phạm vi xung quanh đồng minh phía sau cùng, tăng cực mạnh tỷ lệ chí mạng vật lý của họ, và hồi nhẹ TP của họ.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=Thời gian niệm: 1.795s\n►Tăng sức tấn công vật lý của đồng minh trong phạm vi 150 lên $1 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của đồng minh trong phạm vi 150 lên $2 trong 12s.\n►Hồi TP của đồng minh trong phạm vi 150 lên $3.
+
+##UE##
+聖女仮面の鎧=Armor of the Holy Maiden Mask

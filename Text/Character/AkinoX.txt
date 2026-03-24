@@ -1,0 +1,41 @@
+##Profile##
+【物理】前衛で味方のサポートを力に戦う、聖夜の令嬢。ステータスアップ効果を受けると増加する【聖夜の煌き】でスキルを大きく強化し、聖夜を彩る強烈な一撃を放つ。=[Vật Lý] Một cô nàng vui vẻ chiến đấu ở tuyến đầu với sự hỗ trợ của đồng minh. Cô có thể mạnh lên kỹ năng bằng [Tia Sáng Giáng Sinh], thu được khi nhận các hiệu ứng tăng trạng. Với sức mạnh này, cô có thể tung một đòn công kích mạnh mẽ tỏa sáng trong ngày Giáng Sinh tuyệt vời này.
+
+##UB##
+ノーブルイルミネーション=Quang Huy Quý Tộc
+目の前の敵１キャラに物理大ダメージを与える。このスキルのダメージは、【聖夜の煌き】の数に応じて増加する。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước. Sát thương của kỹ năng này tăng lên tùy theo số chồng [Tia Sáng Giáng Sinh].
+
+##S1##
+ホーリープライズ=Phần Thưởng Thánh
+自分がステータスアップ効果を受ける度に、【聖夜の煌き】が１つ追加される。【聖夜の煌き】は最大25まで追加される。さらに自分の物理攻撃力と物理クリティカルを大アップさせる。あわせてＴＰ上昇を小アップさせる。=Cấp 1 chồng [Tia Sáng Giáng Sinh] cho bản thân mỗi khi người dùng nhận hiệu ứng tăng trạng, tối đa 25. Tăng cực lớn tấn công vật lý (P.ATK) và tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân. Đồng thời, tăng một chút Tăng TP của bản thân.
+r:"^ステータスアップ効果を受けるたびに聖夜の煌きを付与する状態になる自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 0.4s\n►Nhận 1 [Tia Sáng Giáng Sinh] mỗi khi có hiệu ứng tăng trạng.\n►Tăng tấn công vật lý (P.ATK) của bản thân lên $1 và tỷ lệ chí mạng vật lý (P.CRIT Rate) lên $2 trong 30s.\n►Tăng Tăng TP (TP Boost) của bản thân lên $5 trong 30s.
+
+##S2##
+ブリリアントスラッシュ=Chém Rực Rỡ
+目の前の敵１キャラに物理小ダメージを与える。このスキルのダメージは、【聖夜の煌き】の数に応じて増加する。=Gây sát thương vật lý nhỏ lên kẻ địch phía trước. Sát thương tăng dựa trên số chồng [Tia Sáng Giáng Sinh].
+
+##EX##
+セイント・オブリージュ=Thánh Nghĩa Vụ
+セイント・オブリージュ+=Thánh Nghĩa Vụ+
+
+##S1+##
+ホーリープライズ+=Phần Thưởng Thánh+
+自分がステータスアップ効果を受ける度に、【聖夜の煌き】が１つ追加される。【聖夜の煌き】は最大50まで追加される。さらに自分の物理攻撃力と物理クリティカルを大アップさせ、味方全体の物理攻撃力と物理クリティカルを大アップさせる。あわせて自分のＴＰ上昇を小アップさせる。=Cấp 1 chồng [Tia Sáng Giáng Sinh] cho bản thân mỗi khi người dùng nhận hiệu ứng tăng trạng, tối đa 50. Tăng cực lớn tấn công vật lý (P.ATK) và tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân, và tăng cực lớn tấn công vật lý (P.ATK) cùng tỷ lệ chí mạng vật lý (P.CRIT Rate) cho đồng minh. Đồng thời, tăng một chút Tăng TP của bản thân.
+r:"^ステータスアップ効果を受けるたびに聖夜の煌きを付与する状態になる自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 0.4s\n►Nhận 1 [Tia Sáng Giáng Sinh] mỗi khi có hiệu ứng tăng trạng.\n►Tăng tấn công vật lý (P.ATK) của bản thân lên $1 và tỷ lệ chí mạng vật lý (P.CRIT Rate) lên $2 trong 180s.\n►Tăng tấn công vật lý (P.ATK) của đồng minh lên $3 và tỷ lệ chí mạng vật lý (P.CRIT Rate) lên $4 trong 180s.\n►Tăng Tăng TP (TP Boost) của bản thân lên $5 trong 180s.
+
+##UE##
+ウィスタリアノエルドレス=Trang Phục Noël Hoa Tử Đằng
+
+
+##UE2##
+ウィスタリアノエルターキー=Gà Tây Giáng Sinh Hoa Tử Đằng
+ブリリアントスラッシュ+=Chém Rực Rỡ+
+【聖夜の煌き】を10消費するが、目の前の敵１キャラに物理特大ダメージを２回与え、自分の物理攻撃力を大アップし、ＴＰを特大回復する。このスキルの発動後、【聖夜の煌き】が20以下の場合、行動パターン変化を解除する。このスキルのスキルレベルは「ブリリアントスラッシュ」と連動しています=Tiêu hao 10 [Tia Sáng Giáng Sinh] để gây sát thương vật lý cực lớn 2 lần lên 1 kẻ địch phía trước, tăng cực lớn tấn công vật lý (P.ATK) của bản thân, và hồi phục cực nhiều TP. Sau khi kích hoạt kỹ năng này, hủy thay đổi mẫu hành động nếu [Tia Sáng Giáng Sinh] ≤ 20. Cấp độ kỹ năng này liên kết với "Chém Rực Rỡ".
+目の前の敵１キャラに物理小ダメージを与える。このスキルのダメージは、【聖夜の煌き】の数に応じて増加する。【聖夜の煌き】が50の場合、行動パターンが変化する。=Gây sát thương vật lý nhỏ lên 1 kẻ địch phía trước. Sát thương kỹ năng này tăng dựa trên số [Tia Sáng Giáng Sinh]. Mẫu hành động thay đổi khi [Tia Sáng Giáng Sinh] đạt 50.
+パターン変化中=Trong Thời Gian Thay Đổi Mẫu
+専用装備２を装備すると、行動パターン変化が発生するようになります。=Việc trang bị Trang Bị Dành Riêng 2 cho phép thay đổi mẫu hành động.
+【聖夜の煌き】を10消費するが、目の前の敵１キャラに物理特大ダメージを２回与え、自分の物理攻撃力を大アップし、ＴＰを特大回復する。このスキルの発動後、【聖夜の煌き】が20以下の場合、行動パターン変化を解除する。=Tiêu hao 10 [Tia Sáng Giáng Sinh] để gây sát thương vật lý cực lớn 2 lần lên 1 kẻ địch phía trước, tăng cực lớn tấn công vật lý (P.ATK) của bản thân, và hồi phục cực nhiều TP. Sau khi kích hoạt kỹ năng này, hủy thay đổi mẫu hành động nếu [Tia Sáng Giáng Sinh] ≤ 20.
+
+r:"^聖夜の煌きを10消費する敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを1000回復$"=►Tiêu hao 10 [Ánh Sáng Đêm Thánh].\n►Gây $1 sát thương vật lý (P.DMG) lên một kẻ địch.\n►Gây $2 sát thương vật lý (P.DMG) lên một kẻ địch.\n►Tăng tấn công vật lý (P.ATK) của bản thân lên $3.\n►Hồi phục 1000 TP cho bản thân.
+
+

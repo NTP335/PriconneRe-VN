@@ -1,0 +1,51 @@
+ナナカとの出会い=Gặp gỡ Nanaka
+巫女・ミーツ・魔法少女=Vu nữ, Hội ngộ, và Thiếu nữ Pháp thuật
+
+ビカラたちが街を散策していると、通りかかった\nナナカが興奮した様子で近づいてきて……？=Trong lúc Vikala và những người khác đang dạo quanh thị trấn, Nanaka đi ngang qua đã tiến lại gần với vẻ mặt đầy phấn khích...?
+{playername}がビカラにランドソルの街を案内していた\nある日のこと──=Một ngày nọ, khi {playername} đang dẫn Vikala đi tham quan phố phường Landsol──
+ハハッ！\n素敵な眺めじゃないか！　ランドソルの街がよく見える！\n{playername}はいい場所を知ってるんだね。=Haha! Một khung cảnh tuyệt vời nhỉ! Từ đây có thể nhìn rõ cả thị trấn Landsol luôn! Anh {playername} biết nhiều chỗ hay thật đấy.
+それに……\nうん、街中に比べて閑静だ。\n落ち着いて物思いにふけるにはピッタリだね♪=Và cả... ừm, nơi này yên tĩnh hơn hẳn trong phố. Rất thích hợp để thư giãn và thả hồn vào những suy nghĩ mông lung nhỉ♪
+
+Player Input
+気に入ってもらえた？=Em có thích nơi này không?
+
+もちろんさ！\nぼくの頭の中にある、ランドソル観光マップに追加させてもらうよ！\nいつか本当に販売しちゃおうかな？　ハハッ！=Tất nhiên rồi! Em sẽ thêm nó vào bản đồ du lịch Landsol trong đầu mình! Biết đâu có ngày em sẽ đem bán nó thật đấy? Haha!
+………………はわっ！？=………………Hả!?
+うん？\n……ねぇ、きみ？\n向こうでこっちをジーっと見てる子がいるんだけど……知り合いかい？=Hửm? ……Này anh {playername}? Đằng kia có một cô bạn cứ nhìn chằm chằm về phía em nãy giờ kìa... Anh có quen cô ấy không?
+…………\nいやいやいやいや……\nえ？　いやいやいやいやそれはないそれはないそれはない……=…………\nKhông không không không……\nHả? Không không không không, không thể nào, không thể nào, không thể nào đâu……
+な、何かボソボソ言いながら早足で近づいてくるよ！？\nしかも体がほとんど上下してない！\nきみの知り合いだよね？　知り合いだと言ってくれよ！=C-Cô ấy vừa lẩm bẩm gì đó vừa rảo bước tiến lại gần kìa!? Mà sao dáng đi của cô ấy hầu như không hề nhấp nhô chút nào vậy! Người quen của anh đúng không? Hãy nói với em là người quen đi mà!
+マジかマジでマジなのか……？\nつまりは本当の本当に…………\nだとしたらヤバい駄目だ、大量に達する達する……！=Thật sao, thật sao, thật sự là thật sao……? Nói cách khác, là thật sự thật sự………… Nếu đúng là thế thì nguy rồi, hỏng rồi, "năng lượng" trào dâng sắp đạt ngưỡng rồi……!
+え、えっと……\nハァイ♪=Ơ, ừm…… Hiii♪
+ネズ耳リアル巫女キターーーーーー！！=VU NỮ TAI CHUỘT HÀNG THẬT ĐÂY RỒI-------!!
+こんなランドソルの道端でトーゴクの巫女さんにエンカウントするなんて\nでゅふっ、今朝のナナカちゃんに言っても信じないでござるよ……！=Được chạm trán với một cô nàng Vu nữ vùng Togoku ngay giữa đường phố Landsol thế này—yuhuu—có nói cho bản thân Nanaka sáng nay thì cũng chẳng thể tin nổi đâu……!
+ごくり……こ、これが噂の巫女服か……\nああ、やっぱりコスではございませんなぁ……マジモノ中のマジ衣装。\n以前つかまされた粗悪品とは比べ物にならないほどの神々しさ……！=*Ực*…… Đ-Đây chính là bộ trang phục Vu nữ trong lời đồn sao…… Ôi, quả nhiên không phải hàng cosplay rồi…… Hàng thật giá thật luôn. Sự linh thiêng tỏa ra từ nó thật không thể so sánh được với mấy món đồ dỏm mà mình bị lừa mua trước kia……!
+も、盛り上がっているところいいかな。\nきみの名前は……ナナカでいいのかい？=Ừm, mình ngắt lời lúc bạn đang cao hứng chút nhé. Tên của bạn là…… Nanaka đúng không nhỉ?
+うほ！\nじゃなかった、はい！\n興奮のあまりサイカワゴリラになるところでしたよ、あはは！=Uho! À không phải, vâng ạ! Vì quá phấn khích mà tí nữa thì tôi biến thành "Khỉ đột siêu dễ thương" luôn rồi đó, á ha ha!
+
+Player Input
+僕の知り合いだよ。=Cô ấy là người quen của anh.
+
+やっぱりそうなんだね。\n……いや、少し安心したよ。=Quả nhiên là vậy nhỉ. ……Phù, em cũng thấy nhẹ nhõm hơn đôi chút.
+改めて自己紹介しよう！\nぼくはビカラ！　きみの推理通り、トーゴクの巫女だよ！\n鼠神宮って聞いたことあるかな？=Để mình tự giới thiệu lại nhé! Mình là Vikala! Đúng như bạn đoán, mình là một Vu nữ của vùng Togoku! Bạn đã nghe nói về Thần Cung Chuột bao giờ chưa?
+ふおーー鼠神宮！　キタコレ！\nもちろん存じ上げておりますぞ、ええ！\nトーゴクの北を守護する霊験あらたかな神社ですな！=Oàaaa, Thần Cung Chuột! Chuẩn bài luôn! Tất nhiên là tôi biết chứ, vâng! Đó là một ngôi đền cực kỳ linh thiêng trấn giữ phương Bắc của vùng Togoku mà!
+ハハッ！\nそこまで知ってくれてるんだね！\nありがとう、とってもうれしいよ！=Haha! Bạn biết tường tận đến thế cơ à! Cảm ơn nhé, mình vui lắm luôn!
+オウフ！\nな、なんという衝撃……！\nオタクハートを揺さぶるこのときめきは……そう！=Oof! Th-Thật là một cú sốc……! Sự rung động đang làm chao đảo trái tim Otaku này chính là…… Đúng thế!
+イッツァ、ラァアアヴ！=IT'S, LOOOOVE!
+いいリアクションをしてくれるじゃないか♪\nおっと、大切なことを忘れてた！\nナナカ、ぼくと握手をしよう！　はじめましてのご挨拶だよ！=Bạn có phản ứng thú vị thật đấy♪ Ôi, mình quên mất một việc quan trọng! Nanaka, hãy bắt tay với mình nào! Đây là lời chào cho lần đầu gặp mặt!
+よよよよろこんで！\nちょっと待ってくださいね、今すぐ素手に……って、このグローブ長っ！\n{playername}君、脱ぐの手伝って～！=R-R-Rất sẵn lòng ạ! Đợi tôi một chút nhé, để tôi tháo găng tay ra ngay…… Ơ kìa, sao cái găng tay này dài quá vậy! Anh {playername} ơi, giúp em cởi nó ra với!
+数分後──=Vài phút sau──
+いやー本当にありがとうございました！\nおかげさまで気力充実！\n私、この手はもう洗いません！=Oa, thực sự cảm ơn bạn rất nhiều! Nhờ vậy mà tôi đã tràn đầy năng lượng rồi! Tôi quyết định rồi, bàn tay này tôi sẽ không bao giờ rửa nữa!
+おや？\nそんなことしなくても、また握手すればいいのさ！\nいつでも会いにおいでよ♪=Ơ kìa? Không cần phải làm vậy đâu, chúng mình cứ bắt tay lại là được mà! Hãy cứ đến gặp mình bất cứ lúc nào nhé♪
+い、いつでも……！？\nそんなこと言われたら鵜呑みにしちゃう！　連日会いに行っちゃう！\n弁えたオタクのナナカちゃんですら、理性が……くっ……！=B-Bất cứ lúc nào……!? Nếu bạn đã nói thế thì tôi sẽ tin sái cổ luôn đó! Ngày nào tôi cũng sẽ đến tìm bạn cho xem! Ngay cả một Otaku biết chừng mực như Nanaka-chan đây mà lý trí cũng sắp…… hự……!
+ビカラちゃそ！\n何か……何かお布施させてください！\nお返ししないと私の気がすみませぬ！=Vikala-chaso! Xin hãy…… hãy cho phép tôi được cúng dường một chút gì đó! Nếu không đền đáp lại thì lòng tôi không yên được!
+いや、それはこっちも悪いよ！\nそれじゃあ……ぼくのネズ耳をお一ついかがかな？\nお値段は３ルピだよ！=Ôi, làm vậy mình cũng ngại lắm! Vậy thì…… bạn có muốn mua một chiếc tai chuột của mình không? Giá chỉ có 3 Ruppee thôi!
+のわぁーーお手頃！　いやぁ、ビカラちゃそ太っ腹だな！\nお財布に優しすぎて気が引けちゃうよ～～！\n……でも、もっと強い口調でお願いするでゴザル！=Oàaaa, rẻ quá! Ôi, Vikala-chaso hào phóng quá đi mất! Giá này thân thiện với túi tiền đến mức tôi thấy ngại luôn á~~! ……Nhưng mà, xin hãy dùng tông giọng mạnh mẽ hơn để yêu cầu tôi đi! Gozaru!
+ハハッ、ナナカは愉快な人だね！\nじゃあ、お望みに応えちゃおうかな♪\nぼくのネズ耳……もちろん買ってくれるよね！=Haha, Nanaka đúng là một người thú vị mà! Vậy thì, mình sẽ đáp lại mong muốn của bạn nhé♪ Tai chuột của mình…… tất nhiên là bạn sẽ mua giúp mình rồi đúng không!
+爆買。\n（良識的かつ生活に支障の出ない範囲で大量に購入します。）=MUA SẠCH SÀNH SANH. (Tôi sẽ mua số lượng lớn trong phạm vi hợp lý và không ảnh hưởng đến sinh hoạt hàng ngày.)
+ハッ！？　感動のあまり声にならなかった……！\nもちろんもちろん！\nでも、他にも何か……何か……！=Hả!? Cảm động quá nên tôi không thốt nên lời luôn……! Tất nhiên là mua rồi! Nhưng mà, còn gì khác nữa không…… còn gì không……!
+あ、そうだ！　今日はスッゲェもんを持ってたんだぜ！\n最近手に入れました異国の杖を差し上げます！\nささ、どうぞお納めください！=À, phải rồi! Hôm nay tôi có mang theo một món cực phẩm đây! Tôi xin tặng bạn chiếc trượng ngoại quốc mà tôi mới kiếm được gần đây! Nào, xin mời bạn nhận cho!
+わわっ、どこに隠し持ってたんだい？\nそれに立派な杖じゃないか。\nもらうわけにはいかな──=Oà, bạn giấu nó ở đâu vậy? Mà đây là một chiếc trượng xịn xò đấy chứ. Mình không thể nhận không thế nà──
+では、私はこれにて！\nビカラちゃそ、明日も来てくれよな！=Vậy thì, tôi xin phép cáo lui tại đây! Vikala-chaso ơi, ngày mai lại tới nữa nha!
+きみもぼくに会いに来ておくれよ♪\n……って、行っちゃった……\nちょっとエキセントリックだけど、悪い子じゃないね。=Bạn cũng hãy đến gặp mình nhé♪ ……Ơ, đi mất tiêu rồi…… Hơi lập dị một chút, nhưng không phải là người xấu nhỉ.
+よし！\nせっかく納め物までしてくれたんだ。彼女の幸福を祈ろうじゃないか。\nかしこみかしこみ～♪=Được rồi! Bạn ấy đã cất công tặng đồ cúng dường cho mình rồi. Vậy thì mình hãy cùng cầu nguyện hạnh phúc cho cô ấy thôi nào. Thành kính khẩn nguyện~♪
+ナナカが去っていった方向に祈りを捧げるビカラなのだった。=Và thế là, Vikala đã thành tâm cầu nguyện về phía hướng mà Nanaka vừa rời đi.

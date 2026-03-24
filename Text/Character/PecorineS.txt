@@ -1,0 +1,48 @@
+##Profile##
+【物理】前衛から強烈な範囲攻撃を放つ、渚のお姫様。かき氷を食べて物理攻撃力を一気に上昇させ、ユニオンバーストを放つことで前方の敵を殲滅する。=[Vật lý] Công chúa ẩm thực của bãi biển, gây sát thương cho đám đông từ mặt trận. Với sự giúp đỡ của một ít đá bào, cô có thể tăng sức tấn công vật lý một cách mạnh mẽ và quét sạch kẻ địch với Union Burst mạnh mẽ.
+
+夕日と海とあなたと=Hoàng hôn, Biển và Bạn
+花火のあとに告白を=Lời tỏ tình Sau pháo hoa
+夢のお城は砂浜の上=Lâu đài Giấc mơ trên Bãi cát
+お忍びプリンセスのひと夏=Mùa hè của Công chúa Ẩn danh
+
+ウォータープリンセス=Công chúa Nước
+浜辺でシエスタ=Giấc ngủ trưa trên Bãi biển
+初めてのバカンス=Kỳ nghỉ Đầu tiên Của chúng ta
+南国ツアーに思いをはせて=Sự mong đợi Chuyến đi
+
+##UB##
+プリンセススプラッシュ=Công chúa Tung nước
+
+##S1##
+デザートタイム=Giờ Ăn Tráng miệng
+自分の物理攻撃力を特大アップさせるが、魔法防御力を中ダウンさせる。=Tăng cường cực mạnh Sát thương Vật lý (P.ATK) của bản thân. Đồng thời giảm Phòng thủ Ma thuật (M.DEF) của bản thân một lượng vừa phải.
+r:"^自分の物理攻撃力を(\d+)アップ自分の魔法防御力を初期値の20%ダウン$"=►Tăng Sát thương Vật lý (P.ATK) của bản thân lên $1.\n►Giảm Phòng thủ Ma thuật (M.DEF) của bản thân 20%.
+
+##S2##
+パラソルアサルト=Parasol Assault
+前方範囲内の敵すべてに物理小ダメージを与え、さらに目の前の敵１キャラを小さく吹き飛ばす。=Gây Sát thương Vật lý (P.DMG) nhỏ cho tất cả kẻ địch trong phạm vi và đẩy lùi nhẹ kẻ địch ngay phía trước.
+
+##EX##
+海の幸パワー=Seafood Power
+海の幸パワー+=Seafood Power+
+
+##UB+##
+プリンセスマリンインパクト=Princess Marine Impact
+前方範囲内の敵すべてに物理特大ダメージを与え、さらに自分の物理攻撃力を中アップさせる。このスキルで与えたダメージ量に応じて、物理攻撃力の上昇量が最大10倍までアップする。=Gây Sát thương Vật lý (P.DMG) lớn cho tất cả kẻ địch trong vùng phía trước, và tiếp tục tăng sức mạnh tấn công vật lý của bản thân. Tùy theo lượng sát thương gây ra bởi kỹ năng này, Sát thương Vật lý (P.ATK) có thể tăng lên tới 10 lần.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=►Gây $1 Sát thương Vật lý (P.DMG) cho kẻ địch trong phạm vi.\n►Tăng Sát thương Vật lý (P.ATK) của bản thân lên $2.
+
+##S1+##
+デザートタイム+=Dessert Time+
+自分の物理攻撃力を特大アップさせ、物理クリティカルを大アップさせるが、魔法防御力を中ダウンさせる。=Tăng cường cực mạnh Sát thương Vật lý (P.ATK) và tăng khá Tỷ lệ Phê phẩm Vật lý (P.CRIT Rate) của bản thân, nhưng giảm Phòng thủ Ma thuật (M.DEF) của bản thân một lượng vừa phải.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを100アップ自分の魔法防御力を初期値の20%ダウン$"=Thời gian niệm: 0.065s\n►Tăng Sát thương Vật lý (P.ATK) của bản thân lên $1 trong 12s.\n►Tăng Tỷ lệ Phê phẩm Vật lý (P.CRIT Rate) của bản thân lên 100 trong 12s.\n►Giảm Phòng thủ Ma thuật (M.DEF) của bản thân 20% trong 12s.
+
+##UE##
+傘剣ビーチプリンセス=Princess Parasword
+
+##UE2##
+
+r:"^パラソルアサルト\+$"="Parasol Assault+"
+r:"^渚のプリンセスサマー$"="Beachside Princess Summer"
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリダメを12％アップ自分におかわり券を１枚付与し、ＴＰを1000回復ＵＢを使用した時におかわり券が１枚以上の場合、おかわり券を１枚消費し、ＴＰを1000回復$"="►Gây $1 Sát thương Vật lý (P.DMG) cho kẻ địch trong phạm vi.\n►Tăng Sát thương Phê phẩm Vật lý (P.CRIT DMG) của bản thân lên 12%.\n►Tặng 1 [Vé Thêm Món] và hồi 1000 TP.\n\nKhi dùng UB có ít nhất 1 [Vé Thêm Món]:\n►Tiêu thụ 1 [Vé Thêm Món] để hồi 1000 TP."
+r:"^前方範囲内の敵すべてに物理大ダメージを与え、目の前の敵１キャラを小さく吹き飛ばす。さらに自分の物理攻撃クリティカル時のダメージを小アップ、【おかわり券】を１枚付与し、ＴＰを特大回復する。【おかわり券】が付与されている状態でＵＢを使用した場合、【おかわり券】を１枚消費し、自分のＴＰを特大回復する。【おかわり券】は最大２枚まで追加される。$"="Gây Sát thương Vật lý (P.DMG) lớn cho tất cả kẻ địch phía trước và đẩy lùi kẻ địch gần nhất. Tăng nhẹ Sát thương Phê phẩm Vật lý (P.CRIT DMG), tặng 1 [Vé Thêm Món], và hồi TP rất nhiều. Khi dùng UB có [Vé Thêm Món], tiêu thụ 1 để hồi TP rất nhiều. Có thể chồng tối đa 2 [Vé Thêm Món]."

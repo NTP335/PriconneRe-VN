@@ -1,0 +1,33 @@
+##Profile##
+【魔法】後衛で、始原の冠装を使いこなす『迷宮女王』。水属性の味方のＴＰ上昇を増加する領域を作り、連射攻撃で敵の防御を撃ち抜くことで七冠の力を敵に知らしめる。=[Ma Thuật] Một "Nữ Hoàng Mê Cung" ở hậu phương, khoác trang phục vương miện nguyên thủy. Tạo ra một vùng cường hóa Tăng TP cho đồng minh thuộc hệ Thủy, đồng thời xuyên thấu phòng thủ kẻ địch bằng các đòn tấn công liên hoàn để thể hiện quyền năng của Bảy Vương Miện.
+
+
+##UB##
+バレット・ワールド=Thế Giới Đạn
+目の前の敵１キャラに魔法大ダメージを３回与える。１回ごとにダメージがアップする。さらに、自分を中心に、魔法攻撃力を大アップさせるフィールドを展開する。フィールド上にいるキャラが水属性だった場合、追加で魔法攻撃力を大アップさせ、ＴＰ上昇を小アップさせる。=Gây 3 lần Sát thương M.Lý lên kẻ địch phía trước, với mỗi lần sức mạnh tăng dần. Triển khai một vùng hiệu quả xung quanh bản thân cực lớn tăng S.ATK M.Lý. Nếu có nhân vật hệ Thủ trong vùng, còn cực lớn tăng S.ATK M.Lý và tăng nhẹ Tăng TP cho họ.
+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ魔法攻撃力を(\d+)アップさせるフィールドを展開する水属性の味方の魔法攻撃力を(\d+)アップ、ＴＰ上昇を15アップさせるフィールドを展開する$"=►Gây $1 Sát thương M.Lý lên một kẻ địch.\n►Gây $2 Sát thương M.Lý lên một kẻ địch.\n►Gây $3 Sát thương M.Lý lên một kẻ địch.\n►Tạo vùng tăng S.ATK M.Lý lên $4.\n►Tạo vùng tăng S.ATK M.Lý của đồng minh Thủy lên $5 và Tăng TP lên 15.
+
+##S1##
+デコーデッドスナイプ=Bắn Chính Xác Giải Mã
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。これを３回行い、１回ごとにダメージと魔法防御力ダウンの効果量がアップする。=Gây Sát thương M.Lý trung bình lên kẻ địch phía trước và giảm nhẹ S.Phòng M.Lý của chúng. Lặp lại 3 lần, với mỗi lần cả sát thương và hiệu ứng giảm S.Phòng M.Lý đều tăng lên.
+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $2.\n►Gây $3 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $4.\n►Gây $5 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $6.
+
+##S2##
+リロードスクリプト=Nạp Đạn Script
+自分の魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップし、ＴＰを小回復する。【フィールド展開中】このスキルの効果量がアップする。=Tăng cực lớn S.ATK M.Lý của bản thân, tăng nhẹ S.Crit M.Lý, và hồi nhẹ TP. [Vùng Hiệu Quả Kích Hoạt] Cường độ mọi hiệu ứng của kỹ năng này được tăng cường.
+
+r:"^フィールド展開中、自分の魔法攻撃力を(\d+)アップフィールド展開中、自分の魔法攻撃クリティカル時のダメージを18％アップフィールド展開中、自分のＴＰを250回復自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを9％アップ自分のＴＰを125回復$"=►Khi [Vùng Hiệu Quả Đang Hoạt Động]:\n►Tăng S.ATK M.Lý của bản thân lên $1.\n►Tăng S.Crit M.Lý của bản thân lên 18%.\n►Hồi TP của bản thân thêm 250.\n\n►Nếu không:\n►Tăng S.ATK M.Lý của bản thân lên $2.\n►Tăng S.Crit M.Lý của bản thân lên 9%.\n►Hồi TP của bản thân thêm 125.
+
+アームズクリエイション=Tạo Thể Vũ Khí
+アームズクリエイション+=Tạo Thể Vũ Khí+
+
+
+
+##S1+##
+デコーデッドスナイプ+=Bắn Chính Xác Giải Mã+
+
+クイーンズガンビット=Quyết Định Nữ Hoàng
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。これを３回行い、１回ごとにダメージと魔法防御力ダウンの効果量がアップする。さらに、自分の魔法攻撃力を中アップする。=Gây Sát thương M.Lý trung bình lên kẻ địch phía trước và giảm nhẹ S.Phòng M.Lý của chúng. Lặp lại hiệu ứng này ba lần, với sát thương và hiệu ứng giảm S.Phòng M.Lý tăng lên mỗi lần. Ngoài ra, tăng vừa phải S.ATK M.Lý của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $2.\n►Gây $3 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $4.\n►Gây $5 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $6.\n►Tăng S.ATK M.Lý của bản thân lên $7.

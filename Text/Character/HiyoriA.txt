@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で、煌炎宿し希望を振りまく覚醒の元気娘。放つ炎は敵を攻守ともに弱化させて同時に味方を鼓舞し、２種のＴＰ回復効果で攻勢を絶やさず勝利を呼び込む。=[Vật Lý] Một cô gái đầy năng lượng đã thức tỉnh, chiến đấu ở tiền tuyến và tràn ngập tia lửa cùng hy vọng. Cô giải phóng ngọn lửa làm suy yếu cả tấn công và phòng thủ, đồng thời khích lệ đồng đội, và sử dụng hai loại hiệu ứng hồi TP để đem về chiến thắng.
+
+##UB##
+ヒヨリアストラルフレア=Tỏa Sáng Thiên Hỏa Của Hiyori
+目の前の敵１キャラに物理特大ダメージを与え、物理攻撃力を大ダウン、物理防御力を小ダウンさせる。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước, giảm mạnh sát thương vật lý của nó và giảm nhẹ phòng thủ vật lý của nó.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm sát thương vật lý của kẻ địch đi $2 trong 18s.\n►Giảm phòng thủ vật lý của kẻ địch đi $3 trong 18s.
+
+##S1##
+レゾナンスファイア=Lửa Cộng Hưởng
+味方全体の物理攻撃力を大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、敵全体の物理攻撃力を大ダウンさせ、物理攻撃クリティカル時のダメージを小ダウンさせる。=Tăng mạnh sát thương vật lý của tất cả đồng đội và tăng nhẹ sát thương vật lý chí mạng của họ. Đồng thời, giảm mạnh sát thương vật lý của tất cả kẻ địch và giảm nhẹ sát thương vật lý chí mạng của chúng.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを10％アップ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを10％ダウン$"=Thời gian niệm chú: 1.05s\n►Tăng sát thương vật lý của tất cả đồng đội đi $1 trong 12s.\n►Tăng sát thương vật lý chí mạng của tất cả đồng đội 10% trong 12s.\n►Giảm sát thương vật lý của tất cả kẻ địch đi $2 trong 12s.\n►Giảm sát thương vật lý chí mạng của tất cả kẻ địch 10% trong 12s.
+
+##S2##
+ブレイズエール=Lửa Cổ Vũ
+味方全体の物理攻撃力を大アップさせ、ＴＰを小回復し、継続ＴＰ回復状態を付与する。=Tăng mạnh sát thương vật lý của tất cả đồng đội, hồi nhẹ TP của họ và trao hiệu ứng hồi TP liên tục.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを50回復毎秒ＴＰを10回復する$"=Thời gian niệm chú: 1.05s\n►Tăng sát thương vật lý của tất cả đồng đội đi $1 trong 12s.\n►Hồi TP của tất cả đồng đội 50.\n►Hồi TP của tất cả đồng đội 10/giây trong 12.5s.
+
+##EX##
+アストラルブレイズ=Thiên Hỏa Bùng Cháy
+アストラルブレイズ+=Thiên Hỏa Bùng Cháy+
+
+##UE##
+レゾナンスファイア+=Lửa Cộng Hưởng+
+火焔のアストラ=Astrea Rực Lửa
+味方全体の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＴＰ上昇を小アップさせる。さらに、敵全体の物理攻撃力を特大ダウン、物理攻撃クリティカル時のダメージを小ダウンさせ、ＴＰ上昇を小ダウンさせる。=Tăng cực mạnh P.ATK/P.CRIT DMG/TP Boost cho đồng minh. Giảm nghiêm trọng P.ATK/P.CRIT DMG/TP Boost của kẻ địch.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを12％アップ味方全体のＴＰ上昇を5アップ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを12％ダウン敵全体のＴＰ上昇を5ダウン$"=►Tăng P.ATK của đồng minh lên $1.\n►Tăng P.CRIT DMG của đồng minh lên 12%.\n►Tăng TP Boost của đồng minh lên 5.\n►Giảm P.ATK của tất cả kẻ địch xuống $2.\n►Giảm P.CRIT DMG của tất cả kẻ địch xuống 12%.\n►Giảm TP Boost của tất cả kẻ địch xuống 5.

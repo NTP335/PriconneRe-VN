@@ -1,0 +1,126 @@
+フレンド一覧=Danh Sách Bạn Bè
+フレンド管理=Quản Lý
+r:"^申請中:(\d+)/(\d+)人$"=Đang Áp Dụng: $1/$2
+r:"^フレンド:(\d+)/(\d+)人$"=Bạn Bè: $1/$2
+r:"^承認待ち:(\d+)/(\d+)人$"=Đang Chờ: $1/$2
+フレンド:=Bạn:
+r:"^プレイヤーLv:([0-9～ ]+)$"=Cấp Người Chơi: $1
+r:"^プレイヤーID:([0-9 ]+)$"=ID Người Chơi: $1
+
+プレイヤーIDを入力してください=Vui lòng nhập ID Người Chơi
+取り消す=Hủy
+サポートキャラにはLv10以上のキャラを設定できます。=Bạn có thể đặt một nhân vật từ Cấp 10 trở lên làm Nhân vật Hỗ trợ.
+サポートキャラを設定しておくと、マナを獲得できます。=Thêm Nhân vật Hỗ trợ để bắt đầu kiếm được Mana!
+フレンド申請しているプレイヤーです。=Đã gửi lời mời kết bạn.
+サポート時間=Thời Gian
+獲得マナ=Mana
+
+
+サポート終了=Kết Thúc
+フレンド=Bạn Bè
+フレンド一覧=Danh Sách Bạn Bè
+フレンド上限に達しています。=Đã đạt giới hạn bạn bè.
+フレンド承認=Đã chấp nhận lời mời kết bạn
+承認=Chấp Nhận
+拒否=Từ Chối
+
+[FF7C4E,D62146]表示できるフレンドがいません。[-]=[FF7C4E,D62146]Bạn chưa có bạn bè nào.[-]
+[FF7C4E,D62146]該当Lv帯のプレイヤーが見つかりませんでした。[-]=[FF7C4E,D62146]Không tìm thấy người chơi nào trong khoảng cấp được yêu cầu.[-]
+フレンド管理は\nこちらになります\n新しいフレンドとの出会いを\n楽しんでくださいね！=Bạn có thể quản lý bạn bè của mình ở đây.\n Hãy tận hưởng việc gặp gỡ những đồng minh mới!
+
+最終ログイン=Lần Đăng Nhập Cuối
+
+申請中リスト=Đang Chờ
+[FF7C4E,D62146]フレンド申請中のプレイヤーはいません。[-]=[FF7C4E,D62146]Bạn chưa gửi lời mời kết bạn nào.[-]
+承認待ちリスト=Để Chấp Nhận
+[FF7C4E,D62146]フレンド申請を受けているプレイヤーはいません。[-]=[FF7C4E,D62146]Bạn chưa nhận được lời mời kết bạn nào.[-]
+
+フレンドを探す=Tìm Kiếm
+検索設定=Cài Đặt Tìm Kiếm
+フレンド申請=Thêm
+
+プレイヤーID検索=Tìm Kiếm Theo ID
+
+フレンドバトル編成=Đặt đội
+チャット投稿=Đăng Trên Bang Hội
+投稿=Đặt
+編成=Chỉnh sửa
+フレンドバトル=Trận Đấu Bạn Bè
+対戦可能なフレンド=Đấu với Bạn
+対戦可能なクランメンバー=Đấu với Clan
+フレンド申請されているプレイヤーです。=Đây là người chơi đã gửi lời mời kết bạn.
+
+フレンドが設定しているパーティはありません。=Không có đội nào được thiết lập bởi bạn bè.
+フレンド解除=Hủy kết bạn
+サポートキャラを設定\nできます=Thiết lập\nNhân vật Hỗ trợ
+サポート完了=Hỗ trợ Hoàn thành
+
+サポート設定確認=Kiểm tra Cài đặt Hỗ trợ
+サポートキャラに設定しますか？=Bạn có muốn đặt nhân vật này làm Hỗ trợ không?
+サポート終了確認=Xác nhận Kết thúc Hỗ trợ
+[3C404E]サポートを終了して、報酬を受け取りますか？[-]=[3C404E]Bạn có muốn kết thúc Hỗ trợ và nhận phần thưởng không?[-]
+サポート回数報酬=Phần thưởng Sử dụng Hỗ trợ
+サポート時間報酬=Phần thưởng Thời gian Hỗ trợ
+サポートキャラ=Nhân vật Hỗ trợ
+自分とバトル=Tự Đấu
+バトル編成=Trận hình
+固定サポートキャラ=Nhân vật Hỗ trợ Cố định
+
+
+設定後30分間はサポートを終了できません。=Không thể kết thúc Hỗ trợ trong vòng 30 phút sau khi thiết lập.
+「編成」ボタンからフレンドバトル用のパーティを設定できます。=Nhấn nút "Chỉnh sửa" để thiết lập đội cho Trận Đấu Bạn Bè.
+[3C404E]リタイアします。\n\nよろしいですか？[-]=[3C404E]Bạn có chắc muốn từ bỏ không?[-]
+非表示設定=Ẩn Nhân vật
+非表示にするキャラを設定できます。=Bạn có thể chọn nhân vật nào để ẩn.
+非表示キャラ数=Đã ẩn #
+
+「編成」ボタンから自分とバトル用のパーティを設定できます。=Nhấn nút "Chỉnh sửa" để thiết lập đội cho bạn đấu.
+
+設定しているパーティはありません。=Chưa có đội nào được thiết lập.
+自分の設定したパーティと対戦できます=Bạn có thể chơi chống lại đội của chính mình.
+残りHP=HP Còn lại
+残りHP合計=Tổng HP Còn lại
+
+
+
+フレンド解除確認=Xác nhận Hủy kết bạn
+r:"^(.{1,10})を\nフレンド解除しますか？$"=Bạn có muốn hủy kết bạn với\n$1 không?
+フレンド解除完了=Đã Hủy kết bạn
+r:"^\[3C404E\](.{1,10})を\nフレンドから外しました。\[-\]$"=[3C404E]$1\nđã bị xóa khỏi danh sách bạn bè của bạn. [-]
+パーティ１０文字最大=Tối đa 10 ký tự cho tên đội.
+
+r:"^(.{1,10})からの\nフレンド申請を承認しますか？$"=Bạn có muốn chấp nhận lời mời kết bạn từ\n$1 không?
+フレンド承認確認=Xác nhận Lời mời kết bạn
+
+r:"^(.{1,10})と\nフレンドになりました。$"=Bạn đã trở thành bạn bè với\n$1.
+フレンド承認完了=Lời mời kết bạn Đã chấp nhận
+
+r:"^(.{1,10})へ\nフレンド申請しますか？$"=Bạn có muốn gửi lời mời kết bạn đến\n$1 không?
+フレンド申請確認=Lời mời kết bạn
+
+r:"^(.{1,10})へ\nフレンド申請しました。$"=Lời mời kết bạn đã gửi đến\n$1.
+フレンド申請完了=Lời mời kết bạn Đã gửi
+
+r:"^(.{1,10})への\nフレンド申請を取り消しますか？$"=Bạn có muốn hủy lời mời kết bạn đến $1 không?
+フレンド申請取り消し確認=Hủy Lời mời kết bạn
+
+r:"^\[3C404E\](.{1,10})への\nフレンド申請を取り消しました。\[-\]$"=[3C404E]Đã hủy lời mời kết bạn đến\n$1.[-]
+フレンド申請取り消し完了=Lời mời kết bạn Đã hủy
+
+r:"^(.{1,10})からの\nフレンド申請を拒否しますか？$"=Bạn có muốn từ chối lời mời kết bạn từ\n$1 không?
+フレンド拒否確認=Từ chối Lời mời kết bạn
+
+r:"^(.{1,10})からの\nフレンド申請を拒否しました。$"=Đã từ chối lời mời kết bạn từ\n$1.
+フレンド拒否完了=Lời Mời Kết Bạn Bị Từ Chối
+以下のプレイヤーヘフレンド申請しますか?=Bạn có muốn gửi lời mời kết bạn đến người chơi sau không?
+---NPC---
+こちらがフレンドの\n皆さんです\n素敵な関係を\n築いてくださいね！=Tại đây bạn có thể tìm thấy bạn bè, hy vọng các bạn sẽ có những khoảnh khắc tuyệt vời bên nhau!
+主さま、フレンドを作りましょう。フレンドからはクエストにてサポートキャラをレンタルすることができますよ。=Chủ nhân, đây là thời điểm hoàn hảo để kết bạn. \nMột khi đã kết bạn với ai đó, bạn sẽ có thể mượn nhân vật của họ để hỗ trợ trong các nhiệm vụ khác nhau.
+サポートキャラを設定してフレンドの方々をお助けいたしましょう。また、サポートを設定すると主さまもマナを獲得できますよ。=Bạn có thể thiết lập nhân vật hỗ trợ để giúp đỡ bạn bè trong trận chiến.\nBạn cũng sẽ nhận được Mana khi cung cấp sự hỗ trợ đó.
+主さま、こちらでサポートキャラの設定ができますよ。\n設定してクランのメンバーやフレンドの方々をお助けいたしましょう。\nまた、サポートを設定すると主さまもマナを獲得できます。=Chủ nhân, hãy thiết lập một nhân vật hỗ trợ để giúp bạn bè và thành viên bang hội của chúng ta.\nChúng ta cũng có thể nhận được Mana từ việc cung cấp sự hỗ trợ này.
+ギルド管理協会です\nフレンドに関しては\nこちらでご確認ください=Đây là Hiệp hội Quản lý Bang hội. Bạn có thể tìm thấy bạn bè ở đây.
+こちらの一覧で\nフレンドのプロフィールを\n確認できますよ=Bạn có thể xem hồ sơ của bạn bè trong danh sách này.
+気になるパーティと\nバトルをしてみましょう！\nどちらが勝利するのか、\n私も楽しみにしていますね=Tại đây bạn có thể chiến đấu với bất kỳ đội hình nào bạn muốn! Tôi rất mong xem ai sẽ chiến thắng.
+フレンドやクランメンバーと手合わせをいたしましょう。また、自分で編成したパーティと対戦することも可能です。主さまの鍛錬の成果、楽しみにしております。=Bạn có thể tập luyện với bạn bè và thành viên bang hội ở đây. Cũng có thể chiến đấu với chính đội hình của bạn. \nChủ nhân, tôi rất mong xem kết quả của buổi tập luyện.
+クランのチャットへフレンドバトルのパーティを投稿できるようです。主さまのご自慢のパーティをお披露目してくださいませ。=Có vẻ như bạn có thể đăng đội hình Trận Chiến Bạn Bè lên chat bang hội.\nHãy tranh thủ cơ hội này để khoe những đội hình ấn tượng nhất của bạn.
+フレンド管理は\nこちらになります\n新しいフレンドとの出会いを\n楽しんでくださいね！=Bạn có thể quản lý bạn bè của mình ở đây.\n Hãy tận hưởng việc gặp gỡ những đồng minh mới!

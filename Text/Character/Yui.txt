@@ -1,0 +1,70 @@
+##Profile##
+戦闘のサポートが得意な、心優しい少女=Một cô gái tốt bụng giỏi hỗ trợ chiến đấu.
+料理、人間観察=Nấu ăn, Ngắm người.
+【魔法】最後衛から、味方の回復と補助を行う魔法士。打たれ弱いが高い魔法攻撃力を持ち、ランクを上げると攻撃も補助もバランスよくこなせるようになる。=[Ma thuật] Một pháp sư hồi phục và hỗ trợ đồng minh từ hàng sau. Mặc dù thiếu khả năng phòng thủ, cô sở hữu sức mạnh tấn công cao, cho phép cô vừa hỗ trợ vừa cung cấp hỏa lực ở các hạng cao hơn.
+
+いつか目覚めた思い=Một ngày nào đó tôi đã thức dậy.
+守りたい人に捧げる力=Sức mạnh để trao cho những người bạn muốn bảo vệ.
+信頼の行く末は光の中に=Tương lai của sự tin tưởng nằm trong ánh sáng.
+知られざる心を記して=Viết tấm lòng chưa biết của bạn.
+
+不思議なおまじない=Về tình yêu và sức hút.
+頼れる魔法？=Một đối tác đáng tin cậy?
+本当の気持ちが知りたくて=Thổ lộ hết lòng
+少しずつでも前に……=Từng bước một
+隣のあなたに伝えたい=Gần mà xa
+おいしいごはんの食べかた=Một muỗng tình yêu
+ランチ・ウィズ・ミー！=Chiến dịch giờ ăn trưa!
+今度はきっと=Lần này, chắc chắn
+
+##UB##
+ヒールオール=Hồi máu nhóm
+味方全体のＨＰを中回復する。=Hồi một lượng HP vừa phải cho tất cả đồng đội.
+r:"^味方全体のＨＰを(\d+)回復$"=►Hồi HP đồng đội bằng $1.
+
+##S1##
+フラワーショット=Vụ nổ nở hoa
+目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép vừa phải cho kẻ địch đang ở phía trước.
+
+##S2##
+フローラルシールド=Bảo vệ hoa
+味方全体の物理防御力を小アップさせる。=Tăng nhỏ phòng thủ vật lý cho đồng đội.
+r:"^味方全体の物理防御力を(\d+)アップ$"=►Tăng phòng thủ vật lý đồng đội bằng $1.
+## Same as XNozomi UB
+
+##EX##
+フラワーオーラ=Aura hoa
+フラワーオーラ+=Aura hoa+
+
+##UB+##
+フラワリングヒール=Hồi máu nở hoa
+味方全体のＨＰを中回復し、さらに物理防御力を大アップさせ、物理無効バリアを展開し、さらに行動速度を大アップさせる。=Hồi một lượng HP vừa phải cho tất cả đồng đội, tăng lớn phòng thủ vật lý, tạo một rào cản miễn nhiễm vật lý, và tăng lớn tốc độ hành động.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する味方全体の行動速度アップ$"=►Hồi HP đồng đội bằng $1.\n►Tăng phòng thủ vật lý đồng đội bằng $2 trong 18s.\n►Tạo Barrier trên tất cả đồng đội, chống lại $3 sát thương vật lý trong 18s.\n►Tăng tốc độ hành động lên 200% cho tất cả đồng đội trong 18s.
+
+##S1+##
+フラワーショット+=Vụ nổ nở hoa+
+目の前の敵１キャラに魔法中ダメージを与え、さらに物理攻撃力を中ダウンさせる。=Gây sát thương phép vừa phải cho kẻ địch đang ở phía trước và giảm sát thương vật lý của nó một lượng vừa phải.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダウン$"=Thời gian niệm: 1.46s\n►Gây $1 sát thương phép cho kẻ địch.\n►Giảm sát thương vật lý của kẻ địch bằng $2 trong 12s.
+
+##UE##
+ブロッサムウィッシュ=Ước muốn nở hoa
+
+##Comments##
+わたしでよかったら、力になりたいな…\nこれからよろしくね。騎士クン=Nếu cậu không phiền, em muốn giúp...\nEm rất mong được làm việc với cậu, Kishi-kun
+今日は付き合ってくれてありがとう\nもっと強くなれるようにがんばるから、\nこれからもよろしくねっ！=Cảm ơn cậu đã đi chơi với em hôm nay.\nEm sẽ cố gắng trở nên mạnh mẽ hơn, nên em rất mong\nđược làm việc với cậu từ bây giờ!
+騎士クンの頑張るところ、ちゃんと見てたよ\nだから騎士クンにも、わたしを見て欲しいな…\nな、何言ってるんだろわたし…！=Em đã xem cậu cố gắng,\n nên em muốn cậu cũng nhìn em...\n Gì-Em đang nói gì vậy...?!
+…そしたらいつか、この気持ちも…\nえっ？　い、今の、聞こえてた…？\nお願い、今のは忘れて！="...Và rồi một ngày nào đó, em sẽ có thể...\n Hả? C-Cậu vừa nghe em nói...?\n Làm ơn, quên đi đi!"
+頑張ってる騎士クンを、\n後ろから見守るんじゃなくて…\nいつか、隣で支えられるようになりたいな…=Em không muốn chỉ đứng sau mà xem cậu cố gắng\nkhi cậu đang làm việc chăm chỉ như vậy...\n Em muốn một ngày nào đó có thể hỗ trợ cậu bên cạnh...
+わたしね…騎士クンと出会ってから、\n色んなことに挑戦出来るようになったんだよ=Kể từ khi gặp cậu, Kishi-kun, em đã\ncó thể đối mặt với đủ loại thử thách
+も、もしよかったら…\nわたしのこと、見守ってて欲しい…\nきっとそれが、私の力になるから！=N-Nếu cậu không phiền...\n Em muốn cậu theo dõi em...\n Em chắc chắn điều đó sẽ giúp em!
+ふんふふ～ん♪\n…え？　うん、すっごく楽しいよ。だって…\nな、なんでもないよ！=Hehehe~♪ ...Hả? Ừ,\nthật sự rất vui.\nĐó... k-không có gì!
+私がいるといつも元気になれるって…\nそ、それって、もも、もしかして…っ！\nか、回復魔法のこと？　そ、そうだよね…=Cậu từng nói cậu luôn tiến bộ khi\nem ở bên... C-C-Có phải...!\nP-Phép hồi phục? Ừ-Ừ, cậu nói đúng...
+もっともっと色んなことを出来るようになって、\n自信を持って、騎士クンを支えられるようになりたい…\nそれが今の、わたしの願いだよ！=Em muốn có thể làm đủ thứ việc,\ntự tin, và hỗ trợ cậu...\nĐó là ước muốn của em lúc này!
+騎士クンと一緒だと、こんなわたしでも、\n何か出来る気がするの…\nいつもありがとう。わたしに勇気をくれて=Khi ở với cậu, Kishi-kun,\nem cảm thấy như ngay cả em cũng có thể làm được điều gì đó...\nCảm ơn cậu luôn cho em can đảm.
+最近ね…前とは違って、\n今まで出来なかったことに挑戦するのが、\n怖くなくなってきたんだ。…騎士クンのおかげだよ=Dạo này... Em ngày càng ít sợ\nthử những việc em trước đây không làm được.\nTất cả đều nhờ cậu, Kishi-kun.
+今まで以上に傷の治りがよくなる魔法を覚えたんだ\nこれでみんなも騎士クンも、もっと守れるよ！\nでも無理はしないでね。だ…大事にしてあげて、体は！=Em đã học được phép thuật sẽ hồi lành vết thương\ncho cậu tốt hơn bao giờ hết! Giờ em có thể bảo vệ cậu và\nKishi-kun nhiều hơn! Nhưng đừng cố quá sức.\nHãy chăm sóc cơ thể mình tốt!
+この間はごめんね…お掃除手伝ってもらってたのに…\n…騎士クン。もしかして日記の内容、まだ覚えて…\nううん！　やっぱりなんでもない！　今のは忘れて！=Em xin lỗi về hôm kia... Cậu đang giúp em\ndọn dẹp... Kishi-kun, có phải cậu vẫn còn nhớ\nnội dung nhật ký...? Không! Không có gì!\nQuên đi những gì em nói!
+あの時はわたしのこと、信じてくれてありがとう\nもしわたしの考えが間違ってたら、騎士クンも\n危なかったのに。…でもね、とってもうれしかった=Cảm ơn cậu đã tin tưởng em lúc đó.\nNếu em sai, cậu đã gặp nguy hiểm.\n...Nhưng em rất vui.
+頑張って！？　う、うん！　頑張るね…！\nうぅ～、応援されるとうれしいけど悲しいよぉ～…\n…待っててね騎士クン。この気持ち、必ず伝えるから！=Cố lên!? O-Okay! Em sẽ cố gắng...!\nUi, em vui vì cậu cổ vũ em,\nnhưng cũng buồn... Chỉ cần chờ đi, Kishi-kun.\nEm chắc chắn sẽ nói với cậu cảm xúc của em!
+わたしって、騎士クンからもらってばっかりだね\nでもね。勇気もこの思いも…わたしから騎士クンに\nいつかお返しできるように、少しずつでも頑張るね=Em chỉ nhận được từ cậu, phải không?\nNhưng em sẽ cố gắng đáp lại cậu,\nkể cả chỉ một chút một.
+最近ね、騎士クンとお話する時の気持ちが\n前とは違ってきたの。一緒に夢を見たあの日に…\n騎士クンが背中を押してくれたおかげだよ=Dạo này, em bắt đầu cảm thấy khác khi nói chuyện với cậu.\nNgày chúng ta mơ cùng nhau...\ntất cả nhờ cậu đã đẩy em lên.

@@ -1,0 +1,34 @@
+##Profile##
+【物理】前衛から、ベルの音色で味方を守る小さな女優。攻撃を受けるまで周囲にいる味方の防御力を大きく高めるスキルを持つ。活用できれば無類の耐久力を誇る。=[Vật lý] Một diễn viên trẻ đầy khát vọng, bảo vệ bạn bè từ tiên phong với âm thanh chuông. Bằng cách tăng mạnh phòng thủ của đồng đội xung quanh cho đến khi bị tấn công, cô ấy có thể khiến cả đội gần như bất khả xâm phạm trong tình huống phù hợp.
+
+##UB##
+ウィンターコールベル=Winter Chimes
+味方全体の魔法防御力を中アップさせ、さらに自分に魔法吸収バリアを展開する。=Tăng vừa phòng thủ ma thuật của đồng đội. Triển khai một khiên xung quanh bản thân, hấp thụ sát thương ma thuật.
+r:"^味方全体の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法吸収バリアを展開する$"=►Tăng phòng thủ ma thuật của đồng đội lên $1.\n►Triển khai khiên hấp thụ $2 sát thương ma thuật.
+
+##S1##
+ベルチアリング=Jingling Cheer
+攻撃を受けるか一定時間経過するまでの間、ベルを鳴らして自分を中心とした範囲内の味方の物理防御力を特大アップさせる。=Rung chuông để tăng mạnh phòng thủ vật lý của đồng đội trong phạm vi. Hiệu ứng này kéo dài trong một khoảng thời gian cố định hoặc cho đến khi bị tấn công.
+r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+)アップ$"=►Trong khi rung chuông, tăng phòng thủ vật lý của đồng đội trong phạm vi lên $1.
+
+##S2##
+ヒーリングベル=Healing Bell
+自分の周囲に、範囲内の味方すべてのＨＰを小回復するフィールドを展開する。=Triển khai một vùng phạm vi 410, hồi một lượng nhỏ máu cho tất cả đồng đội gần đó.
+
+##EX##
+セイントエトワール=Saint Etoile
+セイントエトワール+=Saint Etoile+
+
+##S1+##
+ベルチアリング+=Jingling Cheer+
+５回攻撃を受けるか一定時間経過するまでの間、ベルを鳴らして自分を中心とした範囲内の味方の物理防御力を特大アップさせる。さらに味方全体の物理防御力を中アップさせ、自分のＴＰを小回復する。=Rung chuông để tăng mạnh phòng thủ vật lý của tất cả đồng đội trong phạm vi. Hiệu ứng này kéo dài trong một khoảng thời gian cố định hoặc cho đến khi bị tấn công 5 lần. Ngoài ra, tăng vừa phòng thủ vật lý cho tất cả đồng đội và hồi một lượng nhỏ TP của bản thân.
+r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+)アップ味方全体の物理防御力を(\d+)アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.05 giây\n►Trong khi rung chuông, tăng phòng thủ vật lý của đồng đội trong phạm vi lên $1.\n►Tăng phòng thủ vật lý của đồng đội lên $2.\n►Hồi TP của bản thân lên $3.
+
+##S2+##
+ヒーリングベル+=Healing Bell+
+自分の周囲に、範囲内の味方すべての物理攻撃力と魔法攻撃力を特大アップし、ＨＰを小回復するフィールドを展開する。=Triển khai một vùng phạm vi 410 xung quanh bản thân, tăng mạnh P.ATK và M.ATK cho tất cả đồng minh trong phạm vi và hồi phục một chút HP.
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する魔法攻撃力を(\d+)アップさせるフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Thời gian niệm: 1.19s\n►Triển khai vùng tăng P.ATK lên $1 trong 12s.\n►Triển khai vùng tăng M.ATK lên $2 trong 12s.\n►Triển khai vùng hồi HP cho đồng minh $3/giây trong 12s.
+
+##UE##
+クリスマスアクトベル=Diễn viên lễ hội Bell
+クリスマスアクトレス=Diễn viên Giáng sinh

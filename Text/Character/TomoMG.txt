@@ -1,0 +1,27 @@
+##Profile##
+【物理】中衛で正義の力を魔法にのせて戦う魔法剣士。自身の物理攻撃力を魔法攻撃力に加える魔法少女の力と、たゆまぬ努力で獲得した剣技で、華麗な魔法攻撃を放つ。=[Thể chất] Một Kiếm sĩ phép thuật sử dụng sức mạnh công lý trong phép thuật để chiến đấu từ tầng trung. Với sức mạnh magical girl để tăng M.ATK của mình thông qua P.ATK và kỹ năng kiếm đã tích lũy qua nỗ lực không ngừng, cô phóng thích những đòn tấn công phép thuật rực rỡ.
+
+##UB##
+シャイニーアクアストリーム=Shiny Aqua Stream
+目の前の敵１キャラに物理攻撃力と魔法攻撃力を合わせた攻撃力をもとにした魔法特大ダメージを与える。=Gây sát thương phép thuật lớn lên kẻ địch phía trước dựa trên tổng P.ATK và M.ATK.
+
+##S1##
+シャイニーブレード=Shiny Blade
+目の前の敵１キャラに物理攻撃力と魔法攻撃力を合わせた攻撃力をもとにした魔法大ダメージを与える。=Gây sát thương phép thuật vừa phải lên kẻ địch phía trước dựa trên tổng P.ATK và M.ATK.
+
+##S2##
+シャイニーアクア=Shiny Aqua
+自分の物理攻撃力を中アップさせ、さらに魔法クリティカルと行動速度を大アップさせる。=Tăng vừa phải P.ATK của bản thân, và tăng rất nhiều M.CRIT Rate và tốc độ hành động.
+r:"^自分の物理攻撃力を(\d+)アップ自身の行動速度を一定時間上昇させる自分の魔法クリティカルを(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1 trong 12s.\n►Tăng tốc độ hành động của bản thân lên 150% trong 12s.\n►Tăng M.CRIT Rate của bản thân lên $2 trong 180s.
+
+##EX##
+シャイニーアティチュード=Shiny Attitude
+シャイニーアティチュード+=Shiny Attitude+
+
+##S1+##
+シャイニーブレード+=Shiny Blade+
+自分の物理攻撃力を短時間大アップ、魔法クリティカルを短時間特大アップさせ、目の前の敵１キャラに物理攻撃力と魔法攻撃力を合わせた攻撃力をもとにした魔法特大ダメージを与える。=Tăng P.ATK và M.ATK của bản thân một lượng lớn trong thời gian ngắn, và gây sát thương phép thuật lớn lên kẻ địch phía trước dựa trên tổng P.ATK và M.ATK.
+r:"^自分の物理攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ敵単体に(\d+)の魔法ダメージ$"=►Tăng P.ATK của bản thân lên $1 trong 9s.\n►Tăng M.ATK của bản thân lên $2 trong 9s.\n►Gây $3 sát thương vật lý lên kẻ địch.
+
+##UE##
+マジカルシャイニーレイピア=Magical Shiny Rapier

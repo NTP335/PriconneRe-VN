@@ -1,0 +1,64 @@
+グルメチェイサー号、全速前進です☆\nゴール目指して今日もがんばりましょう！\n──あれっ？=Gourmet Chaser, hết tốc lực!☆ Hôm nay hãy nhắm đến vạch đích và cố gắng hết sức! ──Hả?
+ハッハァ！\n見つけたよ、腹ペコ王女どもッ！=Ha ha! Tìm được rồi, Công Chúa Đói Bụng!
+あれは……\n【バンディ・シスターズ】！？=Kia... là hai chị em Bandy?!
+こっちの世界まで追いかけてきたっての！？\nマジしつっこいわね……！=Các người đuổi theo chúng tôi xa đến thế giới này nữa?! Thật sự kiên trì quá...!
+しっ、しつこくて、ごめんなさいっ……=T-tôi xin lỗi vì đã kiên trì như vậy...
+いひっ♡\nこっちの世界でも～\nザコお兄さんたちをべっこべこにしてあげよっかな～？　って♡=Ihi~♡\nNgay cả đến thế giới này~\nCó lẽ nên đánh cho anh chàng thua cuộc và bạn bè của ảnh thành bã nhuyễn~?
+えっ？\nそんなベコベコにされましたっけ──=Hả? Trước đây họ có thực sự đánh chúng ta thành bã nhuyễn không?
+忘れちまったなら、これからそうしてやるさ！\nシャークキャノン──撃てェっ！=Nếu các người đã quên rồi, thì ta sẽ làm đúng như vậy! Shark Cannon! Bắn!
+どんどぉーん♡=Bang bang ♡
+っぶなぁっ！？\nうちのオニギリが穴あきドーナツになるとこだったじゃないの！\nあんたらも土手っ腹に風穴あけてやるわよ！？=Sướng mắt! Onigiri của chúng ta sắp biến thành donut với cái lỗ sẽ tạo ra! Các người có muốn một lỗ xuyên qua bụng không?!
+えぇっ！？\nそ、それじゃ食べたものが全部お腹の穴から出てっちゃいますっ、\nもったいない……！=Cái gì?! Th-Vậy mọi thứ tôi ăn sẽ trồi ra khỏi bụng, phí quá...!
+も～バカナ姉またバカなコト言ってぇ。\nてかビンボーショーすぎだし──そだ♡\nアイツらからイロイロぶんどって、お腹いっぱいになっちゃお～♡=Xì, Bakana, cậu lại nói những điều ngốc nghếch rồi. Quá tệ cho chúng ta~\nTớ biết♡ Hãy lấy hết của họ và lấp đầy bụng mình~♡
+オニギリさま、全速力で駆け抜けてくださいませ！\n動いていれば、砲撃はそう当たらないはずでございます！=Onigiri-sama, xin hãy chạy nhanh nhất có thể! Chừng nào còn di chuyển, đạn pháo sẽ không trúng!
+ぴぎゅぴぎゅ～っ！！=Pigyupigyugyuuu!!
+あ～っ！\nにげんなし～！=Á á! Đừng chạy trốn~!
+ゴールがわたしたちを待ってますので♪\nさようならー☆=Vạch đích đang chờ chúng ta♪ Tạm biệt-☆
+ハッ、面白い！\nならついでに、先にゴールする権利も奪ってやろうじゃないか！\n行くよワカナ、フブキ！=Ha, thú vị! Vậy thì ta sẽ đoạt quyền đến đích trước các người! Đi thôi, Wakana, Fubuki!
+「あいあ～い♡」\n「は、はいっ」=""Được rồi~~~♡""\n""D-Dạ!""
+
+ターン開始時に確率でライバルが登場いたします。\nライバルより先にギルド管理協会出張所を目指してくださいまし。\n見事先に到着できると追加ボーナスを獲得できるようです。=Đầu lượt của cậu, sẽ có khả năng đối thủ xuất hiện. Hãy đến chi nhánh GMA trước đối thủ. Nếu đến trước, cậu sẽ nhận thêm phần thưởng.
+
+
+ライバルと同じマスに止まると、特別なミニゲームが始まるようです。\nミニゲームではバンディ・シスターズが妨害をしてきますので、\n妨害をかわしてトレジャーをたくさんGETいたしましょう、主さま。=Khi ở cùng ô với đối thủ, một minigame đặc biệt sẽ bắt đầu. Các chị em Bandy sẽ cố gắng phá hoại chúng ta, vậy hãy tránh sự can thiệp của họ và thu thập thật nhiều kho báu, chủ nhân.
+
+ターン開始時にお仲間が登場して、しばし冒険をご一緒できますよ。\nお仲間は、さまざまな効果で主さまの冒険の手助けをしてくださいます。\n……むぅ。わたくしも負けてはいられません。=Đầu lượt của cậu, đồng đội sẽ xuất hiện và đồng hành cùng cậu trong một thời gian. Họ sẽ hỗ trợ cậu với nhiều hiệu ứng khác nhau. ...Hừm. Ta không thể để thua chúng.
+
+r:"^\[FF7C4E\,D62146\](\d+)\[-\]\[3C404E\]マス前\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] ô phía trước[-]
+r:"^\[FF7C4E\,D62146\](\d+)\[-\]\[3C404E\]マス後\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] ô phía sau[-]
+[FF7C4E,D62146]0[-][3C404E]マス[-]=[FF7C4E,D62146]0[-][3C404E]ô[-]
+r:"^ダイスの目を(\d)回振りなおせる\n振りなおせない場合、マイルを入手する$"=Cậu có thể lăn lại xúc xắc $1 lần\nNếu không lăn lại được, cậu sẽ nhận dặm.
+
+r:"^ダイスの目を(\d)回振りなおせる$"=Cậu có thể lăn lại xúc xắc $1 lần.
+【仲間】ダイスの目を2回振りなおせる=[Friend] Có thể lăn lại xúc xắc 2 lần
+【仲間】ダイスの目を1回振りなおせる=[Friend] Có thể lăn lại xúc xắc 1 lần
+【仲間】出目が4のダイスを同時に振ってどちらか選択できる=[Friend] Có thể chọn giữa kết quả lăn xúc xắc của cậu hoặc 4.
+r:"^出目が(\d)のダイスを同時に振って\n?どちらか選択できる$"=Có thể chọn giữa kết quả lăn xúc xắc của cậu hoặc $1.
+r:"^【仲間】出目が(\d)のダイスを同時に振ってどちらか選択できる$"=[Friend] Có thể chọn giữa kết quả lăn xúc xắc của cậu hoặc $1.
+料理を1つ入手する=Nhận 1 Món Ăn
+【仲間】料理を1つ入手する=[Friend] Nhận 1 Món Ăn
+出目の合計が7以上になるまで\nダイスを追加で振れる=Có thể tiếp tục lăn Xúc xắc cho đến khi tổng điểm lăn là 7 hoặc cao hơn
+【仲間】出目の合計が7以上になるまで\nダイスを追加で振れる=[Friend] Có thể tiếp tục lăn Xúc xắc cho đến khi tổng điểm lăn là 7 hoặc cao hơn
+最大50％割引確定のショップを開く\n（1品100％割引あり）=Mở cửa hàng với giảm giá tối đa 50% (1 Món đồ sẽ miễn phí 100%)
+【仲間】最大50％割引確定のショップを開く\n（1品100％割引あり）=[Friend] Mở cửa hàng với giảm giá tối đa 50% (1 Món đồ sẽ miễn phí 100%)
+
+最大1000マイルを入手する=Nhận tối đa 1.000 dặm
+【仲間】最大1000マイルを入手する=[Friend] Nhận tối đa 1.000 dặm
+最大2000マイルを入手する=Nhận tối đa 2.000 dặm
+【仲間】最大2000マイルを入手する=[Friend] Nhận tối đa 2.000 dặm
+
+画面の左右をクリックか左右の矢印キー移動できますよ！\nおジャマに当たると、少しの間、動けなくなるので要注意です！\n上手に避けて、フルーツをたくさん集めましょう！=Có thể dùng phím mũi tên trái/phải hoặc giữ vùng trái/phải của màn hình! Nếu bị đánh trúng, cậu sẽ bị choáng trong một lúc, nên cẩn thận! Tránh tốt và thu thập thật nhiều trái cây!
+練習する=Thực hành
+練習中=Đang thực hành
+
+r:"^\[3C404E\]ダイスの目を(\d)回振りなおせる\n\（あと\[D13250\](\d)\[-\]回\）\[-\]$"=[3C404E]Có thể lăn lại xúc xắc $1 lần ([D13250]thêm $2[-] lần)
+ダイスの表と裏どちらを適用するか選択できる=Có thể chọn giữa mặt xúc xắc cậu lăn được và mặt đối diện của nó.
+【仲間】ダイスの表と裏どちらを適用するか選択できる=[Friend] Có thể chọn giữa mặt xúc xắc cậu lăn được và mặt đối diện của nó.
+
+
+
+
+
+ライバル登場予告=Thông báo Đối thủ Xuất hiện
+ライバルの登場が近づくと警告アイコンが出現します。\n危険度は3段階あり、青→黄→赤の順番で\n登場する可能性が高まります。\n所持している料理を確認し、登場に備えましょう。=Khi đối thủ đến gần, một biểu tượng cảnh báo sẽ xuất hiện. Có ba mức độ nguy hiểm, mỗi mức biểu thị khả năng họ xuất hiện ở lượt tiếp theo. Hãy chuẩn bị vật phẩm cho sự xuất hiện của họ.
+落ちてくるフルーツや宝箱をキャッチしましょう！\n画面の左右をタッチすると移動できますよ！=Hãy bắt những trái cây và rương kho báu đang rơi! Chạm vào vùng trái và phải của màn hình để di chuyển!

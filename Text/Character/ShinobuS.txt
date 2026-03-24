@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で、穏やかな水面に揺蕩う夜光の霊能少女。召喚した親父に敵の攻撃を引き付けさせつつ、シノブ自身の攻撃性能強化と防御ダウンを扱い、敵を冥海へと誘う。=[Vật lý] Một cô gái tâm linh tuyến đầu thả ánh sáng dịu dàng của đêm tối trên mặt nước tĩnh lặng. Kéo sự công kích của kẻ địch về phía Cha Tử mà mình triệu hồi, đồng thời tăng cường sức mạnh tấn công của bản thân và áp dụng giảm phòng thủ, dẫn dắt kẻ thù vào vực thẳm đen sâu của biển cả.
+
+##UB##
+ディープブルーメナス=Mối Đe Dọa Lam Thẳm
+自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理特大ダメージを与え、さらにクリティカルを受けた際のダメージを小アップさせる。=Tăng mạnh Tấn công Vật lý và Tỷ lệ Chí mạng Vật lý của bản thân, gây sát thương Vật lý khổng lồ lên kẻ địch phía trước, và còn làm tăng Sát thương Chí mạng Vật lý mà kẻ địch đó phải nhận.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを150アップ敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ$"=►Tăng Tấn công Vật lý của bản thân lên $1 trong 18s.\n►Tăng Tỷ lệ Chí mạng Vật lý của bản thân lên 150 trong 18s.\n►Gây $2 Sát thương Vật lý lên kẻ địch.\n►Làm tăng Sát thương Chí mạng Vật lý mà kẻ địch phải nhận đi 6% trong 18s.
+
+##S1##
+スペクターズエッジ=Lưỡi Kiếm Ma Quỷ
+
+##S2##
+ノイジーバカンス=Kỳ Nghỉ Ồn Ào
+【召喚】自分の物理攻撃力と物理クリティカルを中アップする。さらにシノブ（サマー）が召喚したドクロ親父が味方にいる場合、ドクロ親父のＨＰを大回復し、そうでない場合ドクロ親父を召喚する。=[Triệu hồi] Tăng Tấn công Vật lý và Tỷ lệ Chí mạng Vật lý của bản thân. Ngoài ra, nếu "Shinobu (Hè)" đã triệu hồi Cha Đầu Xương, hồi máu cho Cha Đầu Xương; nếu chưa, thì triệu hồi Cha Đầu Xương.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを40アップドクロ親父を召喚するドクロ親父のＨＰを(\d+)回復$"=►Tăng Tấn công Vật lý của bản thân lên $1 trong 180s.\n►Tăng Tỷ lệ Chí mạng Vật lý của bản thân lên 40 trong 180s.\n►Triệu hồi Cha Đầu Xương.\n►Hồi máu cho Cha Đầu Xương đi $2.
+
+##EX##
+深淵の狂騒歌=Khúc Ca Hỗn Loạn của Vực Thẳm
+深淵の狂騒歌+=Khúc Ca Hỗn Loạn của Vực Thẳm+
+
+##S1+##
+スペクターズエッジ+=Lưỡi Kiếm Ma Quỷ+
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらにシノブ（サマー）が召喚したドクロ親父が味方にいる場合、ドクロ親父に物理ダメージカット効果と魔法ダメージカット効果を付与する。=Gây sát thương Vật lý lớn lên kẻ địch phía trước và giảm nhẹ Phòng thủ Vật lý của chúng. Nếu Cha Đầu Xương do Shinobu (Hè) triệu hồi đang có mặt trên trận, tặng cho Cha Đầu Xương Khả năng Cắt Sát thương Vật lý/Ma thuật.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンドクロ親父が受ける物理ダメージを10％カットドクロ親父が受ける魔法ダメージを10％カット$"=►Gây $1 Sát thương Vật lý lên kẻ địch.\n►Giảm Phòng thủ Vật lý của kẻ địch đi $2 trong 12s.\n►Tặng Cha Đầu Xương Khả năng Cắt Sát thương Vật lý đi 10% trong 12s.\n►Tặng Cha Đầu Xương Khả năng Cắt Sát thương Ma thuật đi 10% trong 12s.
+
+##UE##
+怪奇！真夏のドクロ親父=Cha Đầu Xương Bí Ẩn! Đêm Hè Trung Thu

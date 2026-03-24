@@ -1,0 +1,42 @@
+##Profile##
+書庫に眠れる小さな賢人=Một vị tiên nhỏ đang ngủ trong thư viện
+
+【魔法】後衛で、味方の支援に特化した象牙の塔の才媛。自身の攻撃力は低いが、物理攻撃力の高い味方を強化し更に味方全体を魔法無効バリアで護りつつ勝利へ導く。=[Magic] Học giả từ Tháp Ngà, người cung cấp hỗ trợ từ hàng sau. Mặc dù bản thân cô ít gây sát thương, cô dẫn dắt đồng đội đến chiến thắng với các buff mạnh cho tấn công vật lý và các khiên triệt tiêu phép thuật đến.
+
+余生あるいは青春の始まり=Phục hồi hoặc Sự khởi đầu của tuổi trẻ
+世界の真理＜初めての友達=Chân lý của thế giới < Người bạn đầu tiên của tôi
+小宇宙の混沌と水色の布巾=Sự hỗn loạn vi mô và Khăn lau xanh nhạt
+思春期の生物学とその周辺=Sinh học của tuổi dậy thì và Môi trường xung quanh cô ấy
+高次元との暫時的接続演習=Bài tập Kết nối Tạm thời với Thứ cấp
+実践的当世おもてなし入門=Giới thiệu về Nghệ thuật Chăm sóc Hiện đại Thực tế
+民間伝承の成り立ちと反証=Nguồn gốc và Sự bác bỏ của Truyền thuyết Dân gian
+会食の効能とその経過観察=Hiệu quả của Bữa tối và Tiếp theo
+
+##UB##
+認識と発展性の哲学=Triết lý về Nhận thức và Tiềm năng
+味方全体の物理攻撃力を特大アップさせ、物理クリティカルを大アップさせる。=Tăng cường mạnh mẽ tấn công vật lý và tăng đáng kể tỷ lệ chí mạng vật lý cho tất cả đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを110アップ$"=►Tăng P.ATK của đồng minh lên $1 trong 18s.\n►Tăng P.CRIT Rate của đồng minh lên 110 trong 18s.
+
+##S1##
+豪傑生成概論=Định lý Sinh ra Anh hùng
+最も物理攻撃力が高い味方１キャラの物理攻撃力と物理クリティカルを大アップさせ、さらにＴＰを小回復させるが、自分の物理防御力と魔法防御力を小ダウンさせる。=Tăng mạnh mẽ P.ATK và P.CRIT Rate của đồng minh có P.ATK cao nhất. Ngoài ra, phục hồi nhỏ TP của mục tiêu. Giảm P.DEF và M.DEF của bản thân.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ味方単体のＴＰを(\d+)回復自分の物理防御力を初期値の15%ダウン自分の魔法防御力を初期値の15%ダウン$"=►Tăng P.ATK của đồng minh có P.ATK cao nhất lên $1 trong 12s.\n►Tăng P.CRIT Rate của đồng minh có P.ATK cao nhất lên $2 trong 12s.\n►Phục hồi TP của mục tiêu lên $3.\n►Giảm P/M.DEF của bản thân đi 15% trong 12s.
+
+##S2##
+緩衝因子探求=Nghiên cứu về Các yếu tố Cách điện
+味方全体に継続ＴＰ回復状態を付与し、魔法無効バリアを展開するが、自分の魔法攻撃力を大ダウンさせる。=Cấp TP Regen cho tất cả đồng minh và triển khai một rào cản hấp thụ sát thương phép xung quanh họ, nhưng giảm đáng kể tấn công phép của bản thân.
+r:"^毎秒ＴＰを5回復する(\d+)ダメージ分の魔法無効バリアを展開する自分の魔法攻撃力を初期値の70%ダウン$"=►Phục hồi TP của đồng minh 5/s trong 10s.\n►Triển khai Rào cản trên tất cả đồng minh, hấp thụ $1 M.DMG trong 12s.\n►Giảm M.ATK của bản thân đi 70% trong 12s.
+
+##EX##
+碩学の教え=Nguyên tắc Học thuật
+碩学の教え+=Nguyên tắc Học thuật+
+
+##S1+##
+豪傑生成概論+=Định lý Sinh ra Anh hùng+
+最も物理攻撃力が高い味方１キャラの物理攻撃力を大アップ、物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップさせ、さらにＴＰを小回復させるが、自分の物理防御力と魔法防御力を小ダウンさせる。=Tăng mạnh mẽ P.ATK và P.CRIT Rate của đồng minh có P.ATK cao nhất, và tăng trung bình P.CRIT DMG của nó. Ngoài ra, phục hồi nhỏ TP của mục tiêu. Giảm P.DEF và M.DEF của bản thân.
+最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップ、物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップさせ、さらにＴＰを小回復させるが、自分の物理防御力と魔法防御力を小ダウンさせる。=Tăng mạnh mẽ P.ATK và P.CRIT Rate của đồng minh có P.ATK cao nhất, và tăng trung bình P.CRIT DMG của nó. Ngoài ra, phục hồi nhỏ TP của mục tiêu. Giảm P.DEF và M.DEF của bản thân.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ味方単体の物理攻撃クリティカル時のダメージを25％アップ味方単体のＴＰを(\d+)回復自分の物理防御力を初期値の15%ダウン自分の魔法防御力を初期値の15%ダウン$"=►Tăng P.ATK của đồng minh có P.ATK cao nhất lên $1 trong 12s.\n►Tăng P.CRIT Rate của đồng minh có P.ATK cao nhất lên $2 trong 12s.\n►Tăng P.CRIT DMG của đồng minh có P.ATK cao nhất lên 25% trong 12s.\n►Phục hồi TP của mục tiêu lên $3.\n►Giảm P/M.DEF của bản thân đi 15% trong 12s.
+
+##UE##
+ペンシルアックス・レプリカ=Bản sao Rìu Bút chì
+高機動万能靴・レプリカ=Bản sao Giày Đa năng Di chuyển Cao

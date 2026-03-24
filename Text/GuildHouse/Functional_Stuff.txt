@@ -1,0 +1,11 @@
+--- Pipples House---
+不思議なおやさい、ピップルたちのおうち。マ\nナのあふれる生命の森で育った古木で、無数の\nピップルたちがおいしいおやさいになるべくの\nんびり日向ぼっこしている。=Quê hương của những Pipple bí ẩn, vô số Pipple đang thư giãn tắm nắng trên một cây cổ thụ mọc trong Rừng Sự Sống, nơi tràn ngập manna, để trở thành những món ăn vặt ngon lành.
+[3C404E][3C404E]ギルドハウス内にピップルが出現[-][-]=[3C404E][3C404E][3C404E]Pipple xuất hiện trong Guildhouse [-][-].
+ぴぃ？=Pii?
+ぴっぷる！=Pipple!
+ぷっぷー=Puppu
+ぴっぷるぴっぷる♪=Pipple Pipple ♪
+ぴっ！=Suỵt!
+
+--- Friendshipbu MK-II---
+ちぇるーん☆=Cherun☆

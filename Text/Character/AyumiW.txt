@@ -1,0 +1,29 @@
+##Profile##
+【物理】中衛で、戦場の動向を自在に操る白兎の乙女。敵の行動速度をダウンさせ、味方の速度をアップさせるスキルと敵の時を止めるスキルで、常に味方を支える。=[Vật lý] Một Thị Nữ Thỏ Trắng ở hàng giữa có thể tự do kiểm soát di chuyển trên chiến trường. Cô ấy luôn hỗ trợ đồng đội với các kỹ năng làm chậm di chuyển của kẻ địch, tăng tốc độ của đồng minh, cũng như kỹ năng đình chỉ chúng thỉnh thoảng.
+
+##UB##
+クロック・オブ・ラビット=Đồng Hồ Thỏ
+味方全体の行動速度を大アップさせ、さらに物理防御力を小アップさせる。=Tăng tốc độ hành động của toàn bộ đồng minh một cách lớn, và tăng nhẹ P.DEF của họ.
+r:"^味方全体の行動速度アップ味方全体の物理防御力を(\d+)アップ$"=►Tăng tốc độ hành động của toàn bộ đồng minh lên 200% trong 18 giây.\n►Tăng P.DEF của toàn bộ đồng minh lên $1 trong 18 giây.
+
+##S1##
+クロックダウン=Lùi Đồng Hồ
+敵全体の行動速度を小ダウンさせ、物理攻撃力を中ダウンさせ、命中を小ダウンさせる。=Giảm tốc độ hành động của toàn bộ kẻ địch một chút, và giảm P.ATK của chúng một cách vừa phải. Ngoài ra, giảm Độ Chính Xác của toàn bộ kẻ địch một cách vừa phải.
+r:"^敵全体の行動速度を一定時間低下させる敵全体の物理攻撃力を(\d+)ダウン敵全体の命中を(\d+)ダウン$"=►Giảm tốc độ hành động của toàn bộ kẻ địch xuống 90% trong 12 giây.\n►Giảm P.ATK của toàn bộ kẻ địch đi $1 trong 12 giây.\n►Giảm Độ Chính Xác của toàn bộ kẻ địch đi $2 trong 12 giây.
+
+##S2##
+クロックエンド=Kết Thúc Đồng Hồ
+最も物理攻撃力が高い敵１キャラの行動時間を停止させる。=Gây tình trạng Đình Chỉ Thời Gian (Time Stop) cho kẻ địch có P.ATK cao nhất.
+r:"^敵単体を一定時間行動不能にする$"=►Gây tình trạng Đình Chỉ Thời Gian (Time Stop) cho một kẻ địch trong 1.75 giây.
+
+##EX##
+ラビットソウル=Hồn Thỏ
+ラビットソウル+=Hồn Thỏ+
+
+##S1+##
+クロックダウン+=Lùi Đồng Hồ+
+敵全体の行動速度を大ダウンさせ、物理攻撃力を大ダウンさせる。さらに、命中を中ダウンさせ、物理クリティカルを大ダウンさせる。=Giảm tốc độ hành động của toàn bộ kẻ địch một cách lớn, và giảm mạnh P.ATK của chúng. Ngoài ra, giảm Độ Chính Xác của toàn bộ kẻ địch một cách vừa phải và Tỷ Lệ Chí Mạng Vật Lý (P.CRIT Rate) một cách lớn.
+r:"^敵全体の行動速度を一定時間低下させる敵全体の物理攻撃力を(\d+)ダウン敵全体の命中を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン$"=►Giảm tốc độ hành động của toàn bộ kẻ địch xuống 60% trong 12 giây.\n►Giảm P.ATK của toàn bộ kẻ địch đi $1 trong 12 giây.\n►Giảm Độ Chính Xác của toàn bộ kẻ địch đi $2 trong 12 giây.\n►Giảm Tỷ Lệ Chí Mạng Vật Lý (P.CRIT Rate) của toàn bộ kẻ địch đi $3 trong 12 giây.
+
+##UE##
+ワンダーランドクロック=Đồng Hồ Thế Giới Kỳ Ảo

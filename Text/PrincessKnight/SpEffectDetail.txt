@@ -1,0 +1,107 @@
+特殊効果詳細=Chi Tiết Hiệu Ứng Đặc Biệt
+推奨プリンセスナイトRANK=PK Rank Đề Xuất
+
+火属性ボーナス特大アップ=Tăng Thưởng Yếu Tố Lửa
+火属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。火属性以外の属性ボーナスを無効化する。=Khi có bốn nhân vật Lửa trở lên trong đội, tăng thưởng yếu tố. Phế bỏ thưởng yếu tố cho các yếu tố khác.
+
+水属性ボーナス特大アップ=Tăng Thưởng Yếu Tố Nước
+水属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。水属性以外の属性ボーナスを無効化する。=Khi có bốn nhân vật Nước trở lên trong đội, tăng thưởng yếu tố. Phế bỏ thưởng yếu tố cho các yếu tố khác.
+
+風属性ボーナス特大アップ=Tăng Thưởng Yếu Tố Gió
+風属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。風属性以外の属性ボーナスを無効化する。=Khi có bốn nhân vật Gió trở lên trong đội, tăng thưởng yếu tố. Phế bỏ thưởng yếu tố cho các yếu tố khác.
+
+光属性ボーナス特大アップ=Tăng Thưởng Yếu Tố Ánh Sáng
+光属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。光属性以外の属性ボーナスを無効化する。=Khi có bốn nhân vật Ánh Sáng trở lên trong đội, tăng thưởng yếu tố. Phế bỏ thưởng yếu tố cho các yếu tố khác.
+
+闇属性ボーナス特大アップ=Tăng Thưởng Yếu Tố Bóng Tối
+闇属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。闇属性以外の属性ボーナスを無効化する。=Khi có bốn nhân vật Bóng Tối trở lên trong đội, tăng thưởng yếu tố. Phế bỏ thưởng yếu tố cho các yếu tố khác.
+
+ＨＰ吸収ダウン=Hấp Thụ HP Giảm
+バトル開始時、すべてのキャラのＨＰ吸収を大ダウンさせる。=Ở đầu trận chiến, HP Drain của tất cả nhân vật giảm mạnh.
+
+深域モンスター=Quái Vật Vùng Sâu
+すべてのモンスターが一度の行動で受けるダメージ値を減衰させる。ダメージ値が上昇するほど減衰率も上昇する。=Tất cả kẻ địch nhận sát thương giảm từ một đòn đánh. Mức giảm sát thương tăng tỷ lệ với sát thương gây ra.
+
+物理防御力（ダウン不可）アップ=Tăng Phòng Thủ Vật Lý (Không Thể Gỡ Bỏ)
+バトル開始時、すべてのモンスターの物理防御力を中アップさせる。この効果は物理防御力ダウンの影響を受けない。=Ở đầu trận chiến, tất cả kẻ địch nhận một mức tăng P.DEF vừa phải. Mức tăng này không bị ảnh hưởng bởi hiệu ứng giảm P.DEF.
+
+魔法防御力（ダウン不可）アップ=Tăng Phòng Thủ Ma Thuật (Không Thể Gỡ Bỏ)
+バトル開始時、すべてのモンスターの魔法防御力を中アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Ở đầu trận chiến, tất cả kẻ địch nhận một mức tăng M.DEF vừa phải. Mức tăng này không bị ảnh hưởng bởi hiệu ứng giảm M.DEF.
+
+バトル開始時、すべてのモンスターの魔法防御力を大アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Ở đầu trận chiến, tất cả kẻ địch nhận một mức tăng M.DEF lớn. Mức tăng này không bị ảnh hưởng bởi hiệu ứng giảm M.DEF.
+バトル開始時、すべてのモンスターの物理防御力を大アップさせる。この効果は物理防御力ダウンの影響を受けない。=Ở đầu trận chiến, tất cả kẻ địch nhận một mức tăng P.DEF lớn. Mức tăng này không bị ảnh hưởng bởi hiệu ứng giảm P.DEF.
+バトル開始時、すべてのモンスターの魔法防御力を特大アップさせる。この効果は魔法防御力ダウンの影響を受けない。=Ở đầu trận chiến, tất cả kẻ địch nhận một mức tăng M.DEF khổng lồ. Mức tăng này không bị ảnh hưởng bởi hiệu ứng giảm M.DEF.
+バトル開始時、すべてのモンスターの物理防御力を特大アップさせる。この効果は物理防御力ダウンの影響を受けない。=Ở đầu trận chiến, tất cả kẻ địch nhận một mức tăng P.DEF khổng lồ. Mức tăng này không bị ảnh hưởng bởi hiệu ứng giảm P.DEF.
+
+ＴＰ上昇上限付与=Tăng Tối Đa TP
+バトル開始時、すべてのキャラのＴＰ上昇の上限値を150にする。=Ở đầu trận chiến, mức tăng TP tối đa cho tất cả nhân vật bị giới hạn ở 150.
+
+バトル中、「ダメージカット」、「毒・猛毒継続ダメージアップ」効果が発動する。=Trong trận chiến, các hiệu ứng của "Damage Cut" và "Poison/Venom" Damage Over Time Boost được kích hoạt.
+毒・猛毒継続ダメージアップ=Tăng Sát Thương Theo Thời Gian Của Độc/Ngộ Độc
+バトル開始時、すべてのモンスターが受ける毒、猛毒状態の継続ダメージをアップさせる。=Ở đầu trận chiến, tăng sát thương theo thời gian gây ra bởi hiệu ứng Độc và Ngộ Độc lên tất cả quái vật.
+
+
+
+バトル開始時、すべてのキャラに火傷状態を付与する。=Ở đầu trận chiến, tất cả nhân vật sẽ bị áp dụng hiệu ứng Bỏng.
+火傷付与=Bỏng
+バトル開始時、すべてのキャラのＴＰ上昇を特大ダウンさせる。=Ngay khi trận đấu bắt đầu, TP tăng của tất cả nhân vật sẽ bị giảm mạnh.
+
+バトル開始時、すべてのキャラのＴＰ上昇を中ダウンさせる。=Khi bắt đầu trận chiến, giảm mức tăng TP của tất cả nhân vật.
+バトル開始時、すべてのキャラのＴＰ上昇を小ダウンさせる。=Khi bắt đầu trận chiến, giảm mức tăng TP của tất cả nhân vật.
+ＴＰ上昇ダウン=Giảm TP tăng
+バトル開始時、すべてのキャラの魔法防御力を大ダウンさせる。=Ngay khi trận đấu bắt đầu, M.DEF của tất cả nhân vật sẽ bị giảm mạnh.
+魔法防御力ダウン=Giảm phòng thủ ma thuật
+バトル開始時、すべてのキャラのＨＰ回復量を特大ダウンさせる。=Ngay khi trận đấu bắt đầu, phục hồi HP của tất cả nhân vật sẽ bị giảm mạnh.
+ＨＰ回復量ダウン=Giảm phục hồi HP
+
+最大ＨＰダウン=Giảm HP tối đa
+バトル開始時、すべてのキャラの最大ＨＰを30％ダウンさせる。=Ngay khi trận đấu bắt đầu, HP tối đa của tất cả nhân vật sẽ bị giảm 30%.
+バトル開始時、すべてのキャラに毒状態を付与する。=Ngay khi trận đấu bắt đầu, tất cả nhân vật sẽ bị ngộ độc.
+毒付与=Ngộ độc
+バトル開始時、すべてのモンスターの行動速度を特大アップさせる。=Ngay khi trận đấu bắt đầu, tăng mạnh tốc độ hành động của tất cả quái vật.
+行動速度アップ=Tăng tốc độ hành động
+バトル開始時、すべてのモンスターのＴＰを特大回復。=Khi trận đấu bắt đầu, TP của tất cả quái vật sẽ được phục hồi mạnh.
+ＴＰ回復=Phục hồi TP
+バトル開始時、すべてのキャラの物理攻撃力を大ダウンさせる。=Ngay khi trận đấu bắt đầu, P.ATK của tất cả nhân vật sẽ bị giảm mạnh.
+物理攻撃力ダウン=Giảm sát thương vật lý
+バトル開始時、すべてのキャラの魔法攻撃力を大ダウンさせる。=Ngay khi trận đấu bắt đầu, M.ATK của tất cả nhân vật sẽ bị giảm mạnh.
+魔法攻撃力ダウン=Giảm sát thương ma thuật
+バトル開始時、すべてのモンスターの行動速度を大アップさせる。=Ngay khi trận đấu bắt đầu, tăng mạnh tốc độ hành động của tất cả quái vật.
+バトル開始時、すべてのキャラの行動速度を大ダウンさせる。=Ngay khi trận đấu bắt đầu, giảm mạnh tốc độ hành động của tất cả nhân vật.
+行動速度ダウン=Giảm tốc độ hành động
+バトル開始時、すべてのキャラの物理防御力を大ダウンさせる。=Ngay khi trận đấu bắt đầu, P.DEF của tất cả nhân vật sẽ bị giảm mạnh.
+物理防御力ダウン=Giảm phòng thủ vật lý
+
+
+バトル開始時、すべてのモンスターに継続ＴＰ中回復状態を付与する。=Ngay khi trận đấu bắt đầu, cấp hiệu ứng phục hồi TP trung bình liên tục cho tất cả quái vật.
+継続ＴＰ回復=Phục hồi TP liên tục
+バトル開始45秒後、すべてのキャラの物理防御力を大ダウンさせる。=45 giây sau khi trận đấu bắt đầu, giảm mạnh P.DEF của tất cả nhân vật.
+バトル中物理防御力ダウン=Giảm phòng thủ vật lý trong trận đấu
+バトル開始45秒後、すべてのキャラの魔法防御力を大ダウンさせる。=45 giây sau khi trận đấu bắt đầu, giảm mạnh M.DEF của tất cả nhân vật.
+バトル中魔法防御力ダウン=Giảm phòng thủ ma thuật trong trận đấu
+
+バトル中、「全状態異常無効・ステータスアップ効果解除無効・行動速度ダウン無効」、「魔法攻撃力ダウン」効果が発動する。=Trong trận đấu, các hiệu ứng “Vô hiệu hóa mọi trạng thái bệnh, xóa bỏ hiệu ứng tăng thuộc tính vô hiệu và giảm tốc độ hành động vô hiệu” và “Giảm sát thương ma thuật” sẽ được kích hoạt.
+危険領域=Vùng nguy hiểm
+すべてのモンスターが全状態異常無効・ステータスアップ効果解除無効・行動速度ダウン無効になる。=Tất cả quái vật sẽ vô hiệu với mọi trạng thái bệnh, hiệu ứng tăng thuộc tính, miễn nhiễm và giảm tốc độ hành động.
+状態異常・アップ効果解除・速度ダウン無効=Trạng thái bệnh, xóa bỏ hiệu ứng tăng, giảm tốc độ vô hiệu
+バトル開始時、すべてのキャラの魔法攻撃力を絶大ダウンさせる。=Ngay khi trận đấu bắt đầu, sát thương ma thuật của tất cả nhân vật sẽ bị giảm mạnh.
+
+強化素材リセット=Đặt lại vật liệu tăng cường
+同属性のキャラが４体以上編成されているとき、キャラの属性ボーナスが強化される。=Khi có bốn nhân vật trở lên cùng nguyên tố trong đội, bonus nguyên tố của nhân vật được tăng cường.
+全属性ボーナス特大アップ=Tăng mạnh tất cả bonus thuộc tính
+
+ボスモンスターの行動パターンが変化する。=Hành vi của quái vật boss thay đổi.
+ボス行動パターン変化=Thay đổi hành vi boss
+
+魔法無効バリア=Khiên miễn nhiễm ma thuật
+バトル開始時、すべてのシャドウに物理無効バリアを展開する。=Triển khai Khiên Miễn nhiễm Vật lý cho tất cả Shadow ngay khi trận đấu bắt đầu.
+物理無効バリア=Khiên miễn nhiễm vật lý
+バトル開始時、すべてのシャドウに魔法無効バリアを展開する。=Triển khai Khiên Miễn nhiễm Ma thuật cho tất cả Shadow ngay khi trận đấu bắt đầu.
+
+バトル中、「ダメージカット」、「呪い・呪詛継続ダメージアップ」効果が発動する。=Trong trận đấu, kích hoạt các hiệu ứng sau: "Giảm sát thương", "Tăng sát thương liên tục do Nguyền rủa".
+
+バトル中、「反撃バリア」効果が発動する。=Trong trận đấu, hiệu ứng 'Khiên Phản đòn' được kích hoạt.
+
+バトル開始時、すべてのキャラのＨＰ回復量を大ダウンさせる。=Ngay khi trận đấu bắt đầu, giảm mạnh tỷ lệ phục hồi HP của tất cả nhân vật.
+バトル中防御力小アップ=Tăng phòng thủ nhỏ trong trận đấu
+バトル中、「物理攻撃力アップ」効果が発動する。=Trong trận đấu, hiệu ứng "Tăng sát thương vật lý" được kích hoạt.

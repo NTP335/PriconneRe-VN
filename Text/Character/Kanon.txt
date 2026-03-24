@@ -1,0 +1,31 @@
+##Profile##
+【物理】前衛で、おエレガントな高笑いを轟かすド令嬢。ＵＢや敵からの攻撃で【お堪忍袋】が尽きると逆上し、強化されたスキルと行動パターンで華麗におリベンジする。=[Vật lý] Một tiểu thư tinh tế trên tiền tuyến, nụ cười hào hoa và đầy sức sống vang lên. Khi [Patience Pouch] của cô bị cạn kiệt do sử dụng UB hoặc bị tấn công của kẻ địch, cô sẽ phát cuồng và với các kỹ năng được tăng cường cùng các mẫu hành vi thay đổi, cô mang lại một sự trả thù ngoạn mục.
+奴隷ながらもお高貴なド令嬢=Một tiểu thư quý tộc dù là một nô lệ
+
+##UB##
+マンティコア流操霊術・ハイドラカノン=Manticore-Style Spirit Manipulation: Hydra Cannon
+目の前の敵１キャラに物理極大ダメージを与え、魔法攻撃力を大ダウン、物理防御力を中ダウンさせる。さらに、自分の物理攻撃力と物理クリティカルを特大アップするが、自分の最大ＨＰの10％を消費する。このスキルによる自分へのダメージでは自分のＴＰは回復しない。自分に【お堪忍袋】が付与されている場合、【お堪忍袋】を１つ消費して自分の物理攻撃力を特大アップする。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước, giảm mạnh M.ATK của chúng, và giảm vừa phải P.DEF. Đồng thời, tăng cực mạnh sức tấn công vật lý và tỷ lệ chí mạng vật lý của bản thân với cái giá là 10% HP tối đa của bản thân; sát thương tự gây này không hồi TP. Nếu bản thân có [Patience Pouch], tiêu hao một Patience Pouch để tăng thêm cực mạnh sức tấn công vật lý.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを200アップ自分の最大ＨＰの10％を消費お堪忍袋が１つ以上の場合、以下の効果が発動するお堪忍袋を１つ消費する自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm M.ATK của một kẻ địch đi $2 trong 18s.\n►Giảm P.DEF của một kẻ địch đi $3 trong 18s.\n►Tăng sức tấn công vật lý của bản thân thêm $4 trong 18s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân thêm 200 trong 18s.\n►Tiêu hao 10% HP tối đa.\n\nNếu [Patience Pouch] ≥1:\n►Tiêu hao 1 [Patience Pouch].\n►Tăng sức tấn công vật lý của bản thân thêm $5 trong 90s.
+
+##S1##
+毒殺剣術・お滅多突き=Poisonous Swordsmanship: Deadly O-Thrust
+目の前の敵１キャラに物理大ダメージを与え、魔法攻撃力を中ダウン、物理防御力を小ダウンさせる。さらに、自分に【お堪忍袋】が付与されていない場合、追加の物理大ダメージを与え、自分のＨＰを小回復する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm vừa phải M.ATK của chúng, và giảm nhẹ P.DEF. Đồng thời, nếu bản thân không có [Patience Pouch], gây thêm sát thương vật lý lớn và hồi nhẹ HP của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウンお堪忍袋がない場合、敵単体に(\d+)の物理ダメージお堪忍袋がない場合、自分のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm M.ATK của một kẻ địch đi $2 trong 12s.\n►Giảm P.DEF của một kẻ địch đi $3 trong 12s.\n\nNếu [Patience Pouch] =0:\n►Gây $4 sát thương vật lý lên một kẻ địch.\n►Hồi HP của bản thân thêm $5.
+
+
+##S2##
+ぶっ飛ばしおスラッシュ=Knock-Away O-Slash
+目の前の敵１キャラに物理大ダメージを与える。さらに、自分に【お堪忍袋】が付与されていない場合、目の前の敵１キャラに追加の物理大ダメージを与え、行動パターンが変化し、自分の物理攻撃力を特大アップ、ＨＰを小回復、ＴＰを特大回復する。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Đồng thời, nếu bản thân không có [Patience Pouch], gây thêm sát thương vật lý lớn lên kẻ địch phía trước, thay đổi mẫu hành vi của bản thân, tăng cực mạnh sức tấn công vật lý của bản thân, hồi nhẹ HP của bản thân, và hồi mạnh TP của bản thân.
+
+
+r:"^敵単体に(\d+)の物理ダメージお堪忍袋がない場合、敵単体に(\d+)の物理ダメージお堪忍袋がない場合、自分の物理攻撃力を(\d+)アップお堪忍袋がない場合、自分のＨＰを(\d+)回復お堪忍袋がない場合、自分のＴＰを1000回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu [Patience Pouch] =0:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Tăng sức tấn công vật lý của bản thân thêm $3 trong 90s.\n►Hồi HP của bản thân thêm $4.\n►Hồi TP của bản thân thêm 1000.
+
+##SP##
+ヲ～ッホッホッ♪=O~hohoho♪
+自分に【お堪忍袋】を２つ付与する。【お堪忍袋】は敵から攻撃を受けると１つ減少し、自分の物理攻撃力を特大アップする。【お堪忍袋】は最大２つまで追加される。=Tự trao cho bản thân 2 [Túi Kiên Nhẫn]. Mỗi khi người mang bị kẻ địch tấn công, một Túi Kiên Nhẫn sẽ bị tiêu hao và tăng mạnh P.ATK của bản thân. Túi Kiên Nhẫn có thể chồng lên nhau tối đa 2 cái.
+
+r:"^自分にお堪忍袋を２つ付与する攻撃を受けた時にお堪忍袋が１つ以上の場合、以下の効果が発動するお堪忍袋を１つ消費する自分の物理攻撃力を(\d+)アップ$"=►Trao cho bản thân 2 [Túi Kiên Nhẫn].\nKhi bị tấn công, nếu có ít nhất 1 [Túi Kiên Nhẫn]:\n►Tiêu hao 1 [Túi Kiên Nhẫn].\n►Tăng P.ATK của bản thân lên $1.
+
+##EX##
+マンティコア流生存術=Nghệ Thuật Sinh Tồn Phong Cách Manticore
+マンティコア流生存術+=Nghệ Thuật Sinh Tồn Phong Cách Manticore+

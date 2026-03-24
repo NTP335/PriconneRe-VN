@@ -1,0 +1,45 @@
+##Profile##
+いつでも「なんくるないさ～」な天然娘=Một người hơi đơm thoáng nhưng luôn tin rằng mọi chuyện sẽ ổn thôi
+
+【物理】最前衛で、累積スキルでダメージを稼ぐ南国娘。スキル「精神統一」を発動すると、カオリが攻撃する度に敵に効果が累積し、次のダメージがどんどん増えていく。=[Vật Lý] Một cô gái nhiệt đới thi triển sát thương trên tuyến đầu. Sau khi cô ấy sử dụng kỹ năng Tập Trung Tinh Thần, các đòn tấn công tiếp theo sẽ chồng hiệu ứng, gây ra sát thương ngày càng lớn.
+踊り、空手=Múa, karate
+
+そばにある太陽=Người Mặt Trời Bên Cạnh
+いつか、君の故郷に=Một Ngày Nào Đó, Ở Quê Nhà
+二つの選択=Hai Lựa Chọn
+故郷ははるか遠く=Xa Nhà
+
+大事なものは木の上に=Một Điều Đáng Sợ Khi Mất
+眠れぬ夜の子守唄=Bài Hát Ru Trời Trời
+危険地帯のピクニック=Picnic Núi Lửa
+初めての焼肉屋さん=Bạn Đồng Hành Nướng Thịt
+ここが私の第二の故郷=Một Ngôi Nhà Xa Nhà
+ゴーヤーが結んだ絆=Lễ Vật Hòa Bình
+懐かしの故郷の味=Hương Vị Quê Nhà
+南国少女との出会い=Một Cô Gái Nhiệt Đới Thực Thụ
+
+##UB##
+琉球犬ナックルアロー=Ryukyu-Ken Đại Pháo Nắm Đấm
+
+##S1##
+正中線突き=Đòn Đâm Trung Tuyến
+
+##S2##
+精神統一=Tập Trung Tinh Thần
+このスキルを使用した後、カオリが敵を攻撃するたびに、以降その敵にカオリが与えるダメージがアップする。この効果は最大５回まで累積する。=Sau khi kích hoạt, tăng sát thương gây ra với mỗi đòn tấn công.\nTích lũy tối đa 5 lần.
+r:"^攻撃する度にダメージ(\d+)増加$"=Thời gian niệm: 1s\n►Thêm $1 sát thương mỗi đòn tấn công.
+
+##EX##
+琉球犬式練気術=Ryukyu-Ken Hơi Thở Võ Thuật
+琉球犬式練気術+=Ryukyu-Ken Hơi Thở Võ Thuật+
+
+##UB+##
+真・琉球犬ナックルラッシュ=Ryukyu-Ken Knuckle Rush Đích Thực
+自分の物理攻撃力を中アップさせ、目の前の敵１キャラに物理極大ダメージを与える。=Gây sát thương vật lý khổng lồ lên kẻ địch ngay phía trước. Áp dụng buff tăng P.ATK vừa phải cho bản thân trong 180s.
+
+##S1+##
+正中線突き+=Đòn Đâm Trung Tuyến+
+目の前の敵１キャラに物理大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch ngay phía trước.
+
+##UE##
+球陽唐手秘伝ノ書=Bí Kíp Karate Kyuyo

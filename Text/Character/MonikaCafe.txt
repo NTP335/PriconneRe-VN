@@ -1,0 +1,26 @@
+##Profile##
+【物理】中衛で、駄菓子を振舞い福を蒔く猫カフェ店員。攻撃を３回受けるまで味方全体の物理攻撃力を極大アップさせ、２種の物防ダウンスキルで序盤を一気に加勢する。=[Vật Lý] Nhân viên quán cà phê mèo mang lại niềm vui bằng cách phục vụ đồ ăn vặt ở tuyến giữa. Cho đến khi nhận 3 đòn tấn công, tăng mạnh tấn công vật lý cho toàn đội và hỗ trợ đội với 2 loại kỹ năng giảm phòng thủ vật lý để bắt đầu trận đấu.
+
+##UB##
+招福カッツェンレーゲン=Lời Mời May Mắn Mưa Mè
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を中ダウンさせる。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước và giảm trung bình Phòng Thủ Vật Lý của chúng.
+
+##S1##
+バブルガムポップ=Bong Bóng Kẹo Gum
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước và giảm nhẹ Phòng Thủ Vật Lý của chúng.
+
+##S2##
+キャンディシャワー=Mưa Kẹo Ngọt
+自分に継続ＴＰ回復状態を付与し、味方全体の物理防御力を中アップさせる。さらに３回攻撃を受けるか一定時間経過するまでの間、味方全体の物理攻撃力を極大アップさせる。=Khôi phục TP cho bản thân và tăng trung bình Phòng Thủ Vật Lý cho toàn đội. Ngoài ra, tăng mạnh Tấn Công Vật Lý cho toàn đội cho đến khi Monika bị tấn công 3 lần hoặc một khoảng thời gian nhất định trôi qua.
+r:"^キャンディを振りまいている間、味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ毎秒ＴＰを15回復する$"=Thời gian niệm: 0.59 giây\n►Tăng Tấn Công Vật Lý của toàn đội lên $1 trong 24 giây, nhưng bị gián đoạn nếu nhận 3 lần sát thương.\n►Tăng Phòng Thủ Vật Lý của toàn đội lên $2 trong 24 giây.\n►Khôi phục TP cho bản thân 15/giây trong 24.5 giây.
+
+##EX##
+コーヒーブレイク=Giờ Cà Phê
+コーヒーブレイク+=Giờ Cà Phê+
+
+##S1+##
+バブルガムポップ+=Bong Bóng Kẹo Gum+
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。バトル開始後、初弾のこのスキルは追加で目の前の敵１キャラの物理防御力を大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ Phòng Thủ Vật Lý của chúng trong 12 giây. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên giảm Phòng Thủ Vật Lý của kẻ địch một lượng trung bình trong 30 giây.
+
+##UE##
+ナッシュカッツェ店長服=Đồng Phục Quản Lý Naschkatze

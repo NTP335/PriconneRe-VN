@@ -1,0 +1,33 @@
+##Profile##
+【物理】中衛で、闇夜に身を潜める神出鬼没の怪盗少女。敵の目の前から姿を消す隠密スキルや、遠くの敵に対するＴＰダウンスキルを駆使して、敵陣後方から瓦解させる。=[Vật lý] Một Kẻ Trộm Ảo Ảnh ẩn nấp trong bóng tối ở hàng giữa. Cô ấy sử dụng khả năng ẩn náu để biến mất khỏi tầm nhìn của kẻ địch và từ từ suy yếu chúng từ phía sau với các kỹ năng giảm TP của mình.
+
+思い出を盗み返して=Đánh Cắp Ký Ứng Quá Khứ
+鍵のかかった恋心=Trái Tim Bị Khóa
+案ずるより歩むが易し=Hành Động Lớn Tiếng Hơn Lời Nói
+二人で一人の怪盗=Hai Người, Một Kẻ Trộm
+
+##UB##
+ファントムワイヤーイリュージョン=Ảo Ảnh Dây Cáp
+最も遠くの敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、スタンさせる。=Gây sát thương vật lý (P.DMG) cho toàn bộ kẻ địch trong phạm vi xung quanh kẻ địch xa nhất và làm choáng họ.
+
+##S1##
+ステルスターン=Lượt Ẩn Nấp
+【隠密】自分を隠密状態にする。最も遠くの敵１キャラの物理攻撃力と魔法攻撃力を大ダウンさせ、自分の物理攻撃力を大アップさせる。さらに、対象の敵に物理中ダメージを与える。=[Ẩn Nấp] Chuyển sang chế độ Ẩn Nấp. Giảm mạnh P/M.ATK của kẻ địch xa nhất, và tăng mạnh P.ATK của bản thân. Ngoài ra, gây sát thương vật lý (P.DMG) vừa phải cho kẻ địch xa nhất.
+
+##S2##
+シーフクラッカー=Kẹp Để Trộm
+最も遠くの敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、ＴＰを小ダウンさせる。=Gây sát thương vật lý (P.DMG) vừa phải cho toàn bộ kẻ địch trong phạm vi xung quanh kẻ địch xa nhất, và giảm nhẹ TP của chúng.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵のＴＰを(\d+)失わせる$"=►Gây $1 sát thương vật lý (P.DMG) cho kẻ địch trong phạm vi.\n►Giảm TP của kẻ địch trong phạm vi đi $2.
+## Same with SMisogi skill
+
+##EX##
+こっそりこっそり…=Rình Rập Thầm Lặng...
+こっそりこっそり…+=Rình Rập Thầm Lặng...+
+
+##S1+##
+ステルスターン+=Lượt Ẩn Nấp+
+【隠密】自分を隠密状態にする。最も遠くの敵１キャラの物理攻撃力と魔法攻撃力を大ダウンさせ、自分の物理攻撃力を特大アップさせる。さらに、対象の敵に物理特大ダメージを与える。このスキルによるダメージでは敵のＴＰは回復しない。=[Ẩn Nấp] Chuyển sang chế độ Ẩn Nấp. Giảm mạnh P/M.ATK của kẻ địch xa nhất, và tăng mạnh P.ATK của bản thân. Ngoài ra, gây sát thương vật lý (P.DMG) lớn cho kẻ địch xa nhất. Sát thương từ kỹ năng này không phục hồi TP của kẻ địch.
+r:"^自分を隠密状態にする敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=Thời gian niệm chú: 1.33s\n►Chuyển sang chế độ Ẩn Nấp.\n►Giảm P.ATK của một kẻ địch đi $1 trong 12 giây.\n►Giảm M.ATK của một kẻ địch đi $2 trong 12 giây.\n►Tăng P.ATK của bản thân lên $3 trong 12 giây.\n►Gây $4 sát thương vật lý (P.DMG) cho một kẻ địch.
+
+##UE##
+見えざる乙女の槍=Ngọn Giáo Của Thị Nữ Vô Hình

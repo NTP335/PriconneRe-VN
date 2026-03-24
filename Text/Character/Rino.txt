@@ -1,0 +1,51 @@
+##Profile##
+【物理】後衛から、矢の雨を降らせる妹系アーチャー。クリティカル率を高める重ね掛け可能なスキルを持ち、ダメージ回数の多いユニオンバーストをより強力にする。=[Vật Lý] Một cung thủ kiểu em gái, bắn mưa tên vào kẻ thù từ tuyến sau. Có kỹ năng chồng chất tăng tỷ lệ chí mạng, cường hóa Union Burst gây nhiều đòn đánh.
+ 
+人懐っこくてマシンガントークな妹系少女=Kiểu em gái thân thiện và nói nhiều
+お裁縫=May Vá
+
+ボロは着ててもお兄ちゃん=Từ Giẻ Rách Đến Quần Áo
+少女物覚え悪く学成り難し=Học Ít Mà Vất Vả
+桜は散るけどいつか咲く=Nếu Cuối Cùng Không Thành Công...
+心配ショウタイム☆=Một Cô Gái Lo Lắng Thật Sự★
+七転び再起動！=Một Đường May Trong Hương Thảo
+旅は道連れ命がけ=Treo Một Sợi Tơ Lụa
+光陰アローシャワーの如し=Thời Gian Trôi Như Mưa Tên
+ドキドキのおまじない=May Mắn Cho Một Số Người
+門前の兄習わぬ学を識る？=Để Được Một Chút Kiến Thức, Phải Đi Xa?
+瓢箪からでもコマります！=Luôn Bắn Từ Trời Xanh
+先ずカレーより始めよ=Làm Cà Ri Khi Mặt Trời Sáng
+少女、千リノ的を射る！=Khi Mưa Tên, Mưa Tên!
+
+##UB##
+アローレイン=Mưa Tên
+
+##S1##
+コンセントレーション=Tập Trung
+自分の物理攻撃力と物理クリティカルを中アップさせる。=Tăng trung bình P.ATK và Tỷ Lệ Chí Mạng của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng của bản thân lên $2.
+
+##S2##
+ブレイクアロー=Đòn Bắn Nghiền Nát
+
+##EX##
+ペネトレーション=Xuyên Thấu
+ペネトレーション+=Penetration+
+
+##UB+##
+コロナレイン=Corona Rain
+前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく3.5倍になる。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Nếu kỹ năng này trúng chí mạng, sát thương sẽ thành x3.5 thay vì x2.
+
+##S1+##
+コンセントレーション+=Concentration+
+自分の物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに行動速度を大アップさせる。=Tăng cường mạnh mẽ tấn công vật lý của bản thân và tốc độ hành động, đồng thời tăng trung bình tỷ lệ chí mạng vật lý của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の行動速度アップ$"=Thời gian thi triển: 1.07s ►Tăng tấn công vật lý của bản thân lên $1 trong 12s. ►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 99s. ►Tăng tốc độ hành động của bản thân lên 180% trong 12s.
+
+##S2+##
+ブレイクアロー+=Crushing Shot+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、前方範囲内の敵すべてに物理大ダメージを与える。さらに、自分のＴＰを特大回復する。=Tăng cường mạnh mẽ tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý của bản thân, và gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Ngoài ra, phục hồi lượng TP khổng lồ cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃クリティカル時のダメージを15％アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを650回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 1300. ►Tăng sát thương chí mạng vật lý của bản thân lên 15% trong 18s. ►Tăng tấn công vật lý của bản thân lên $2 trong 18s. ►Phục hồi 650 TP cho bản thân.
+
+##UE##
+プロミネンスアロー=Prominence Arrow
+チアフルシスターボウ=Cheerful Sister Bow

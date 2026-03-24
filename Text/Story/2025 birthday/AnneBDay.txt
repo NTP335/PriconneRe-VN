@@ -1,0 +1,20 @@
+Anne's Birthday
+
+その日、{playername}はアンの誕生日祝いとして\n彼女が知らない場所──{playername}の地元を案内していた。\n商店街や駅など、いくつかの場所を巡り……=Ngày đó, với tư cách là món quà sinh nhật, {playername} dẫn Anne đi thăm những nơi cô chưa từng thấy trước đây -- quê hương của cậu ấy. Họ đã ghé thử khu mua sắm, nhà ga và vài địa điểm khác...
+うわぁ～、本がたくさん！\nここ、図書館だよね？\nここにある本は全部自由に読んでいいんだよね！？=Ồ, có nhiều sách thế này! Đây là thư viện, đúng không? Có thể đọc tất cả những cuốn này tự do, phải không!?
+やったぁ！\nどれから読もうかな～……\n見慣れない難しい字も多いけど、不思議と意味はわかるみたいだし……=Yay! Mình nên bắt đầu từ đâu đây...? Có nhiều ký tự mình chưa quen, nhưng tại sao vậy, mình... vẫn hiểu được chúng...
+それに、この装丁とかもどうやって描いてるんだろ……！？\n『しーじー』……？\nこっちの世界の技術、本当にすごいね！　魔法みたい！=Và hình bìa -- làm sao mà tạo ra được cái này...!? "C-G"...? Công nghệ thế giới này thật kinh ngạc! Có thể nói là phép thuật!
+もちろん！\n商店街とか駅を回ったのも\nここのことが知れて楽しかったし……=Tất nhiên! Đi dạo quanh khu mua sắm và nhà ga cũng vui lắm, giờ mình hiểu thêm về nơi này...
+何よりあなたが、私が本好きだって覚えてくれてたこと！\nそれがやっぱり一番うれしいよ！=Nhưng hơn hết -- mình hạnh phúc nhất vì cậu nhớ mình thích sách đến mức nào!
+やっぱり国によって所蔵してる本も全然違うね。\n魔導書とかはないみたいだけど……この棚にあるのは、技術書？\nわぁ、数式がいっぱい書いてある！=Những cuốn sách ở đây thực sự khác biệt hoàn toàn từ quốc gia này sang quốc gia khác. Dường như không có cuốn sách phép thuật hay bất cứ thứ gì... Kệ này đầy những sách hướng dẫn kỹ thuật ư? Ồ, nhìn những công thức này!
+こっちの棚は普通の小説かな？\n学園ものに……ファンタジー？\n魔法っていう概念自体はあるんだね！　へぇ～……！=Và kệ này... trông như dành cho tiểu thuyết thông thường? Cuộc sống học đường......viễn tưởng? Vậy thế giới này vẫn có khái niệm về phép thuật! Eeeh...!
+はぁ、グレアも連れてきてあげたかったな～\nというかこれ、全部読むのに何日かかるんだろう？\n一日あれば棚の一段目くらいは読めるかな？　なら……=*thở dài* Mình ước mình có thể mang Grea theo. Sẽ mất bao nhiêu ngày để đọc hết tất cả chứ? Có lẽ mình có thể xong hàng đầu tiên trong một ngày? Nếu vậy...
+うっ、やっぱりダメかぁ～……\nでも本当に泊まりたくなるくらい素敵な場所だって思ったの！\nこんなの最高のプレゼントだよ～っ！=Ugh, mình biết cậu sẽ không bỏ qua chuyện đó... Nhưng thật sự, nơi này tuyệt vời đến mức muốn ở lại qua đêm! Đây là món quà tuyệt nhất từ trước đến nay!
+ふふ、ありがとう！\n……あ、そうだ！　もしよかったら、ここにある本のことを\nあなたにもっと聞いてもいいかな？=Hehe, cảm ơn! ...Ồ, phải! Nếu cậu không phiền, mình có thể hỏi thêm về những cuốn sách ở đây được không?
+文化とか技術とか、わからないことも多いし……\nもっともっとここのこと、知りたいから。=Vẫn còn nhiều thứ mình chưa hiểu -- văn hóa của cậu, công nghệ của cậu... Vì vậy mình muốn học thêm về nơi này.
+ありがとう！\nじゃあ引き続き、残りの時間もよろしくお願いしますっ！\nどこから読み始めようかな！　ふふっ♪=Cảm ơn! Vậy cả ngày hôm nay mình nhờ cậu chăm sóc rồi! Giờ... mình nên bắt đầu đọc từ đâu? Hehe♪
+
+Player Prompts
+誕生日のお祝いは気に入ってくれた？=Cậu có thích cách chúng ta ăn mừng sinh nhật của cậu không?
+泊まりこみとかはできないからね……？=Cậu không được ở lại qua đêm hay bất cứ điều gì, được chứ...?
+お誕生日おめでとう、アン。=Chúc mừng sinh nhật, Anne

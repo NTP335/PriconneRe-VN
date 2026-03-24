@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、文句を言いつつ働く双子ドラゴンの妹。ダメージと魔法防御力ダウンを両立するスキルを持つが、目を離すと【サボりの誘惑】に負け、手を抜いてしまう。=[Ma thuật] Em út trong cặp song sinh hầu gái rồng, than phiền ở tuyến sau nhưng vẫn hoàn thành công việc. Cô có kỹ năng mạnh mẽ vừa xé rách vừa gây sát thương. Tuy nhiên, khi bạn không để ý, [Lure of Loafing] chiếm lấy cô, và cô bắt đầu nghỉ ngơi.
+関根明良=Sekine Akira
+不真面目で気怠げなドラゴンメイド=Một hầu gái rồng phóng khoáng, lười biếng
+
+##UB##
+支援要請：コード266=Support Request: Code 266
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を大ダウンさせ、さらにクリティカルを受けた際のダメージを小アップさせる。=Gây sát thương ma thuật lớn lên kẻ địch phía trước nhất, giảm mạnh M.DEF của nó, và tăng nhẹ Sát thương Chí mạng ma thuật mà nó nhận.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体の被クリダメを12％アップ$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Giảm M.DEF của kẻ địch $2 trong 18s.\n►Tăng Sát thương Chí mạng ma thuật mà kẻ địch nhận.
+
+##S1##
+めんどくさ…=What A Pain...
+【サボりの誘惑】が39以下の場合、目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせるが、自分に【サボりの誘惑】を20付与する。【サボりの誘惑】が40以上の場合、目の前の敵１キャラに魔法中ダメージを与え、【サボりの誘惑】を10消費する。【サボりの誘惑】は最大60まで追加され、ステータスアップ効果を受ける度に１つ解除される。=Nếu [Lure of Loafing] ≤ 39, gây sát thương ma thuật lớn lên kẻ địch phía trước nhất, giảm nhẹ M.DEF của nó, và thêm 20 vào [Lure of Loafing] của cô. Nếu [Lure of Loafing] ≥ 40, gây sát thương ma thuật trung bình lên kẻ địch phía trước nhất và tiêu thụ 10 [Lure of Loafing]. [Lure of Loafing] tối đa 60, và mỗi buff cô nhận được giảm 1 lớp.
+r:"^サボりの誘惑が39以下の場合敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分にサボりの誘惑を20付与するサボりの誘惑が40以上の場合敵単体に(\d+)の魔法ダメージサボりの誘惑を10消費する$"=Nếu [Lure of Loafing] ≤ 39:\n►Gây $1 sát thương ma thuật lên kẻ địch.\n►Giảm M.DEF của kẻ địch $2 trong 12s.\nNếu [Lure of Loafing] ≥ 40:\n►Gây $3 sát thương ma thuật lên kẻ địch.
+
+##S2##
+休憩入りまーす=Tôi nghỉ đây!
+自分の【サボりの誘惑】を５つ消費し、ＴＰを中回復する。さらに、味方全体に物理無効バリアを展開する。=Tiêu thụ 5 lớp [Lure of Loafing], hồi trung bình TP của bản thân, và triển khai khiên cho toàn đồng đội chống lại sát thương vật lý.
+r:"^サボりの誘惑を５つ消費する自分のＴＰを250回復(\d+)ダメージ分の物理無効バリアを展開する$"=►Triển khai Màn Chắn lên toàn đồng minh, chống lại $1 Sát Thương Vật Lý trong 12 giây.\n►Hồi 250 TP cho bản thân.\n►Tiêu hao 5 ngăn [Mồi Ngủ Lười].
+
+##EX##
+つまみ食いマイスター=Chuyên Gia Ăn Vặt
+つまみ食いマイスター+=Chuyên Gia Ăn Vặt+
+
+
+##S1+##
+めんどくさ…+=Chán Thật...+
+ドラゴンメイドティーセット=Bộ Trà Hầu Gái Rồng
+【サボりの誘惑】が39以下の場合、目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせるが、自分に【サボりの誘惑】を20付与する。【サボりの誘惑】が40以上の場合、目の前の敵１キャラに魔法中ダメージを与え、【サボりの誘惑】を10消費する。【サボりの誘惑】は最大60まで追加され、ステータスアップ効果を受ける度に１つ解除される。=Nếu [Mồi Ngủ Lười] ≤ 39, gây sát thương ma thuật lớn lên kẻ địch phía trước, hơi giảm phòng thủ ma thuật của chúng và tăng nhẹ sát thương nhận từ đòn chí mạng, nhưng cho bản thân 20 [Mồi Ngủ Lười]. Nếu [Mồi Ngủ Lười] ≥ 40, gây sát thương ma thuật trung bình lên kẻ địch phía trước và tiêu hao 10 [Mồi Ngủ Lười]. [Mồi Ngủ Lười] có thể tích lũy tối đa 60, và mất 1 mỗi khi nhận hiệu ứng tăng chỉ số.
+
+r:"^サボりの誘惑が39以下の場合敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体の被クリダメを3％アップ自分にサボりの誘惑を20付与するサボりの誘惑が40以上の場合敵単体に(\d+)の魔法ダメージサボりの誘惑を10消費する$"=►Nếu [Mồi Ngủ Lười] ≤39:\n►Gây $1 Sát Thương Ma Thuật lên một kẻ địch.\n►Giảm $2 Phòng Thủ Ma Thuật của một kẻ địch.\n►Tăng 3% Sát Thương Chí Mạng nhận của một kẻ địch.\n►Cho bản thân 20 [Mồi Ngủ Lười].\n\nNếu [Mồi Ngủ Lười] ≥40:\n►Gây $3 Sát Thương Ma Thuật lên một kẻ địch.\n►Tiêu hao 10 [Mồi Ngủ Lười].
+

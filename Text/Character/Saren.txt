@@ -1,0 +1,91 @@
+##Profile##
+救護院を経営する優しい庶民派お嬢様=Một cô gái trẻ hiền lành, khiêm tốn, điều hành một trại mồ côi
+【物理】中衛で一発逆転を狙う、みんなのサレンママ。ＨＰが下がるほどダメージが上昇するユニオンバーストと味方のＴＰを回復するスキルで、一気に形勢を逆転する。=[Vật Lý] Người mẹ Saren lật ngược tình thế trận đấu chỉ trong một đòn từ trung lộ. Có thể nhanh chóng đảo chiều thế cờ với Union Burst gây sát thương càng lớn khi HP càng thấp, và kỹ năng phục hồi TP cho đội.
+
+経営、お茶会=Quản Lý, Tiệc Trà
+
+風が招いた出会い=Một Cuộc Gặp Gỡ Dễ Chịu
+飛んで火に入る夏の虫=Bướm Đến Với Ngọn Lửa
+ハッピービジネス=Niềm Vui Kinh Doanh
+夕暮れのデジャヴ=Déjà Vu Lúc Hoàng Hôn
+頑張る娘に愛の手を=Điều Một Người Con Gái Siêng Năng Đáng Được
+思い出の焼きそばパン=Hồi Ức Về Cơm Yakisoba
+古き日の面影=Bóng Ma Của Những Ngày Xưa
+大切な思い出に導かれて=Được Dẫn Dắt Bởi Kỷ Niệm Quý Giá
+真心込めた取引を=Tớ sẽ cho cậu một trải nghiệm thực sự
+子どもたちは見ている=Trẻ con đang nhìn đấy
+共に過ごす未来=Một tương lai chung
+ありのままのあたしで=Tôi là tôi
+
+##UB##
+ソードオブフェニックス=Kiếm Phượng Hoàng
+前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Gây sát thương P.DMG vừa phải cho toàn kẻ địch trong phạm vi. HP của Saren càng thấp, sát thương gây ra càng lớn.
+
+##S1##
+ファイアスラッシュ=Chém Lửa
+前方範囲内の敵すべてに物理小ダメージを与える。=Gây sát thương P.DMG nhỏ cho toàn kẻ địch trong phạm vi.
+
+##S2##
+エレガンスエール=Vỗ Tay Ca Ngợi Thanh Lịch
+最も近くの味方１キャラのＴＰを中回復する。=Hồi phục TP một lượng vừa phải cho đồng đội gần nhất.
+r:"^味方単体のＴＰを(\d+)回復$"=►Hồi phục TP cho đồng đội $1.
+## 260lvl
+# Same with Yukari
+最も近くの味方１キャラのＴＰを中回復し、物理攻撃力と魔法攻撃力を小アップさせる。=Hồi phục TP một lượng vừa phải cho đồng đội gần nhất, và tăng P.ATK cùng M.ATK một lượng nhỏ.
+r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の魔法攻撃力を(\d+)アップ$"=►Hồi phục TP cho đồng đội $1.\n►Tăng P.ATK của đồng đội $2 trong 12s.\n►Tăng M.ATK của đồng đội $3 trong 12s.
+
+アキノ（同名キャラを除く）が味方にいる場合、前方の火属性の味方すべての物理・魔法攻撃力を特大アップさせ、ＴＰを特大回復させる。そうでない場合、最も近くの味方１キャラの物理・魔法攻撃力を大アップさせ、ＴＰを特大回復させる。=Nếu có Akino (ngoại trừ các phiên bản khác của cùng nhân vật) trong đội hình, sẽ tăng cực đại tấn công vật lý và ma thuật, đồng thời hồi phục cực đại TP cho tất cả đồng minh hệ Lửa ở phía trước. Nếu không, sẽ tăng lớn tấn công vật lý và ma thuật, đồng thời hồi phục cực đại TP cho một đồng minh gần nhất.
+
+r:"^アキノがいない場合、味方単体の物理・魔法攻撃力を(\d+)アップアキノがいない場合、味方単体のＴＰを725回復アキノがいる場合、範囲内の火属性の味方の物理・魔法攻撃力を(\d+)アップアキノがいる場合、範囲内の火属性の味方のＴＰを500回復$"=Thời gian thi triển: 1.25 giây\n►Nếu không có [Akino]:\n►Tăng $1 tấn công vật lý và ma thuật cho một đồng minh trong 18 giây.\n►Hồi phục 725 TP cho một đồng minh.\n\nNếu có [Akino]:\n►Tăng $2 tấn công vật lý và ma thuật cho các đồng minh hệ Lửa trong phạm vi trong 18 giây.\n►Hồi phục 500 TP cho các đồng minh hệ Lửa trong phạm vi.
+
+
+
+
+##EX##
+ノーブルエレガントソウル=Tinh Thần Quý Tộc
+ノーブルエレガントソウル+=Tinh Thần Quý Tộc+
+
+##UB+##
+エンドオブフェニックス=Kết Thúc Của Phượng Hoàng
+前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を大アップさせる。サレンのＨＰが低いほど、ダメージと攻撃力の上昇量がアップする。=Gây lượng lớn sát thương P.DMG cho toàn kẻ địch trong phạm vi, và tăng lớn P/M.ATK cho đồng đội. HP của Saren càng thấp, sát thương và lượng tăng tấn công càng lớn.
+### OLD r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=►Gây $1 P.DMG cho kẻ địch trong phạm vi 900.\n►Gây thêm sát thương P.DMG bằng x2.5 HP đã mất.\n►Tăng P.ATK cho đồng đội $2 trong 18s.\n►Tăng M.ATK cho đồng đội $3 trong 18s.\n►Tăng thêm P/M.ATK bằng x0.2 HP đã mất.
+
+前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を特大アップさせる。アキノ（同名キャラを除く）が味方にいる場合、さらに前方範囲内の敵すべての物理防御力を小ダウンさせる。サレンのＨＰが低いほど、ダメージ倍率と攻撃力の上昇量が最大２倍までアップする。=Gây sát thương vật lý lớn cho tất cả kẻ địch trong phạm vi phía trước, đồng thời tăng cực đại tấn công vật lý và ma thuật cho toàn thể đồng minh. Nếu có Akino (ngoại trừ các phiên bản khác của cùng nhân vật) trong đội hình, sẽ giảm nhẹ phòng thủ vật lý của tất cả kẻ địch trong phạm vi phía trước. Lượng máu của Saren càng thấp, hệ số sát thương và lượng tấn công tăng thêm sẽ càng cao, tối đa lên đến gấp 2 lần.
+r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理・魔法攻撃力を(\d+)アップアキノがいる場合、範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 900.\n►Tăng $2 tấn công vật lý và ma thuật cho đồng minh trong 18 giây.\n\nNếu có [Akino]:\n►Giảm $3 phòng thủ vật lý của kẻ địch trong phạm vi 900 trong 18 giây.
+
+
+
+##S1+##
+ファイアスラッシュ+=Chém Lửa+
+前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Gây sát thương P.DMG vừa phải cho toàn kẻ địch trong phạm vi. HP của Saren càng thấp, sát thương gây ra càng lớn.
+
+##UE##
+グロリアスフェザー=Lông Vũ Vinh Quang
+
+
+##S1++##
+ファイアスラッシュ++=Chém Lửa++
+前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせる。サレンのＨＰが低いほど、ダメージ倍率が最大２倍までアップする。アキノ（同名キャラを除く）が味方にいる場合、自分のＨＰ回復量が特大ダウン、物理・魔法防御力が大ダウンするが、自分に【競争心】を付与し、前方の火属性の味方すべての物理攻撃力を特大アップさせる。【競争心】付与時にＨＰが0になるダメージを受けると、ＨＰ１で耐える。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi phía trước và giảm nhẹ phòng thủ vật lý của chúng. Lượng máu của Saren càng thấp, hệ số sát thương sẽ càng cao, tối đa lên đến gấp 2 lần. Nếu có Akino (ngoại trừ các phiên bản khác của cùng nhân vật) trong đội hình, lượng hồi phục HP của bản thân sẽ giảm cực đại, phòng thủ vật lý và ma thuật giảm lớn, nhưng bù lại bản thân sẽ nhận được trạng thái 【Cạnh tranh】, đồng thời tăng cực đại tấn công vật lý cho tất cả đồng minh hệ Lửa ở phía trước. Trong khi có trạng thái 【Cạnh tranh】, nếu nhận sát thương khiến HP về 0, bản thân vẫn sẽ chịu đựng được với 1 HP.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウンアキノがいる場合、以下の効果が発動する競争心付与中にＨＰが0になった場合、ＨＰ1で耐える範囲内の火属性の味方の物理攻撃力を(\d+)アップ自分のＨＰ回復量を100％ダウン自分の物理・魔法防御力を現在値の50%ダウン$"=Thời gian thi triển: 1.45 giây\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi.\n\nNếu có [Akino]:\n►Nếu HP về 0 trong khi có [Cạnh tranh], duy trì còn 1 HP.\n►Tăng $3 tấn công vật lý cho đồng minh hệ Lửa trong phạm vi.\n►Giảm 100％ lượng hồi phục HP của bản thân.\n►Giảm 50% phòng thủ vật lý và ma thuật hiện tại của bản thân.
+
+
+
+##Comments##
+クレヨンと絵本と積み木が\nいっぺんに買えて\nしかも安い店を見つけたの！\n選ぶのを手伝ってくれない？=Tớ tìm được cửa hàng bán bút chì, sổ tô màu và khối xếp rẻ! Giúp tớ mua sắm nhé!
+料理をする時は、\n食材の隅から隅まで\n使い切らないとね\nもったいないじゃない！=Khi nấu ăn, cần dùng hết nguyên liệu. Tiết kiệm nguyên liệu, đừng lãng phí!
+お金も大事だけど、あたしはただ\nみんなの笑顔が見たいの\nもちろん、その中には\nあんたも入ってるんだからね=Tiền bạc quan trọng, nhưng tớ chỉ muốn thấy nụ cười trên mọi người. Bao gồm cả cậu!
+あんたと今度、\nどこかに遊びに行きたいわね\nあ、もちろん、\nお金のかからないところによ？=Mình và cậu nên đi chơi đâu đó vui vẻ một lần. Tất nhiên là miễn phí nhé.
+お茶会を開こうと思うの\nもちろん、\nあんたも招待してあげるから\n楽しみにしてなさい！=Mình muốn tổ chức một buổi tiệc trà. Cậu sẽ được mời, tất nhiên. Sẽ rất vui đấy!
+限定アイテムの列はこちらが\n最後尾です…あら、奇遇ね\nあんたも寄ってかない？\nあたしたちが主催するバザー！=Hàng đợi cho hàng giới hạn bắt đầu từ đây... À, cậu cũng đến rồi! Chào mừng đến chợ phiên của chúng tôi!
+あたしがお客さん呼び込むから、\nあんたはこの看板持って\n誘導してくれる？=Mình sẽ kêu gọi khách hàng. Cậu có thể vẫy tấm biển này để thu hút họ được không?
+予想以上にお客さんが来てくれて\nビックリだわ！　せっかくだし\nあんたも寄ってきなさいよ！=Mình không thể tin là chúng ta lại có nhiều khách hàng thế! Cậu có thể đi mua sắm nốt phần của mình rồi!
+整列手伝ってくれてありがと♪\nあんたと一緒だといつもより\n何倍も仕事が楽しいわ♪\nまたお願いね！=Cảm ơn vì đã giúp mình quản lý hàng đợi. Công việc vui hơn nhiều khi có cậu ở đây!
+バザーは大盛況よ♪\nこのあとパーッとご飯でも\n行きましょ！　あんたがいれば\n疲れなんか吹っ飛んじゃう♪=Chợ phiên thành công rồi! Hãy ăn mừng bằng một bữa tiệc. Cậu sẽ là món quà giải khát tuyệt nhất!
+ハッピーバースデー♪\n救護院のみんながプレゼントを\n選んだわ。もちろんあたしもね\nありがたく受け取りなさい！=Chúc mừng sinh nhật! ♪ Đây là món quà từ tất cả mọi người ở trại mồ côi. Bao gồm cả bản thân mình, tất nhiên. Mong cậu sẽ nhận!
+誕生日だったわね？\nお祝いに遊びに行くわよ\nこんな日くらいはしっかり休んで\nたまには楽しみましょ♪=Sinh nhật cậu rồi phải không? Vậy thì hãy nghỉ ngày hôm nay và vui chơi đi. Những ngày như thế này dành để tận hưởng mà! ♪
+みんなが楽しそうに笑ってるのが\n何よりもうれしいの\nそんな場所であんたと過ごせるの\n本当に幸せよ=Mình hạnh phúc hơn bao giờ hết khi thấy mọi người cười đùa và vui vẻ. Được ở bên cậu khiến mình thực sự rất vui.
+帰れる場所があるって、本当に\n素敵よね。あんたも疲れたら\nいつでもここに来なさい\n待ってるから=Thật tuyệt vời khi có một nơi để trở về. Nếu cậu mệt mỏi, cứ đến đây bất kỳ lúc nào. Mình sẽ chờ cậu.
+見慣れた何気ない光景だけど\nこういう当たり前の日々を\n大切にしていきたいわよね=Đó chỉ là một cảnh tượng thân thuộc, bình thường, nhưng mình muốn trân trọng những ngày thường ngày này.
+あんたもだいぶここに\nなじんでるわよね\nこのままずっと\n居てくれてもいいのよ？=Cậu khá quen thuộc với nơi này rồi phải không? Cậu có thể ở lại lâu tùy thích, biết không?
+あんたの前でくらい、肩の力を\n抜いてもいいわよね\nママ・サレンはちょっとお休み\n…なんてね♪=Mình có thể thư giãn trước mặt cậu, phải không? Mẹ Saren đang nghỉ... đùa thôi ♪

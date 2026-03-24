@@ -1,0 +1,48 @@
+##Profile##
+みんなのために超能力を使う眠り姫=Một thiếu nữ ngủ say sử dụng siêu năng lực để giúp đỡ người khác.
+【魔法】後衛の、対物理パーティが得意な超能力ガール。スキルが物理攻撃の敵に対して真価を発揮するため、物理攻撃型の敵パーティを一網打尽にする。=[Phép thuật] Một cô gái siêu nhiên ở hàng sau, thành thạo trong việc chiến đấu với kẻ địch thuộc tính Vật lý. Kỹ năng của cô ấy nhận được hiệu ứng bổ sung khi dùng chống lại kẻ địch gây sát thương Vật lý, cho phép cô ấy đánh bại cả một đội của chúng chỉ trong một lần.
+
+##UB##
+シューティング☆スター=Shooting☆Star
+物理攻撃をする敵すべてに魔法小ダメージを与え、さらに敵全体に魔法中ダメージを与える。=Gây sát thương ma thuật nhỏ lên tất cả kẻ địch sử dụng tấn công vật lý. Gây sát thương ma thuật trung bình lên tất cả kẻ địch.
+r:"^物理攻撃をする敵に(\d+)の追加魔法ダメージ敵全体に(\d+)の魔法ダメージ$"=►Gây thêm $1 M.DMG lên kẻ địch sử dụng P.ATK.\n►Gây $1 M.DMG lên tất cả kẻ địch.
+
+##S1##
+サイコ☆ブラスト=Psychic☆Blast
+最も物理攻撃力が高い敵１キャラに魔法中ダメージを与える。=Gây sát thương ma thuật trung bình lên kẻ địch có tấn công vật lý cao nhất.
+
+##S2##
+スター☆ライト=Star☆Light
+最も物理攻撃力が高い敵１キャラに魔法小ダメージを与え、さらにスタンさせる。=Gây sát thương ma thuật nhỏ lên kẻ địch có P.ATK cao nhất và gây choáng trong 1.5 giây.
+##OLD r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする$"=►Gây $1 M.DMG lên kẻ địch.\n►Làm một kẻ địch bất động.
+
+最も物理攻撃力が高い敵１キャラに魔法中ダメージを与え、スタンさせる。さらに、そのキャラを中心とした範囲内の敵すべてに魔法中ダメージを与える。=Gây sát thương phép trung bình lên một kẻ địch có tấn công vật lý cao nhất và làm choáng kẻ đó. Ngoài ra, gây sát thương phép trung bình lên toàn bộ kẻ địch trong phạm vi xung quanh mục tiêu đó.
+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên một kẻ địch.\n►Khiến một kẻ địch không thể hành động trong một khoảng thời gian nhất định.\n►Gây $2 sát thương phép lên các kẻ địch trong phạm vi.
+##EX##
+ハピネス☆エナジー=Happiness☆Energy
+ハピネス☆エナジー+=Happiness☆Energy+
+
+##UB+##
+シューティング☆ミーティア=Shooting☆Meteor
+物理攻撃をする敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ長時間スタンさせる。さらに敵全体に魔法中ダメージを与える。=Gây sát thương ma thuật lớn lên tất cả kẻ địch tấn công vật lý, giảm M.DEF một chút và gây choáng trong thời gian dài. Ngoài ra, nó còn gây M.DMG lên tất cả kẻ địch.
+##OLD r:"^物理攻撃をする敵に(\d+)の追加魔法ダメージ物理攻撃をする敵の魔法防御力を(\d+)ダウン物理攻撃をする敵を一定時間行動不能にする敵全体に(\d+)の魔法ダメージ$"=►Gây thêm $1 M.DMG lên tất cả kẻ địch sử dụng P.ATK.\n►Giảm M.DEF của tất cả kẻ địch sử dụng P.ATK đi $2 trong 6 giây.\n►Làm tất cả kẻ địch sử dụng P.ATK bất động trong 6 giây.\n►Gây $3 M.DMG lên tất cả kẻ địch.
+
+物理攻撃をする敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ長時間スタンさせる。さらに敵全体に魔法中ダメージを与える。魔法攻撃をする敵がいない場合、敵全体に追加の魔法中ダメージを与える。=Gây sát thương phép lớn lên tất cả kẻ địch tấn công vật lý, giảm nhẹ phòng thủ phép của chúng và làm choáng trong thời gian dài. Ngoài ra, gây sát thương phép trung bình lên toàn bộ kẻ địch. Nếu không có kẻ địch nào tấn công phép thuật, gây thêm sát thương phép trung bình lên toàn bộ kẻ địch.
+
+r:"^物理攻撃をする敵に(\d+)の魔法ダメージ物理攻撃をする敵の魔法防御力を(\d+)ダウン物理攻撃をする敵を一定時間行動不能にする敵全体に(\d+)の魔法ダメージ魔法攻撃をする敵がいない場合、敵全体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên những kẻ địch tấn công vật lý.\n►Giảm $2 phòng thủ phép của những kẻ địch tấn công vật lý.\n►Khiến những kẻ địch tấn công vật lý không thể hành động trong một khoảng thời gian nhất định.\n►Gây $3 sát thương phép lên toàn bộ kẻ địch.\n\nNếu không có kẻ địch nào tấn công phép thuật:\n►Gây thêm $4 sát thương phép lên toàn bộ kẻ địch.
+
+##S1+##
+サイコ☆ブラスト+=Psychic☆Blast+
+最も物理攻撃力が高い敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương ma thuật trung bình lên kẻ địch có tấn công vật lý cao nhất và giảm M.DEF của nó một chút.
+
+##UE##
+ミーティア☆リボン=Meteor☆Ribbon
+
+
+##S1++##
+
+Hatsune
+サイコ☆ブラスト++=Psycho☆Blast++
+最も物理攻撃力が高い敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。魔法攻撃をする敵がいない場合、敵全体に追加の魔法中ダメージを与え、物理攻撃力を大ダウンさせ、自分の魔法攻撃力を特大アップし、ＴＰを大回復する。=Gây sát thương phép lớn lên toàn bộ kẻ địch trong phạm vi xung quanh một kẻ địch có tấn công vật lý cao nhất, và giảm nhẹ phòng thủ phép của chúng. Nếu không có kẻ địch nào tấn công phép thuật, gây thêm sát thương phép trung bình lên toàn bộ kẻ địch, giảm lớn tấn công vật lý của chúng, tăng cực đại tấn công phép của bản thân và hồi lớn TP.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン魔法攻撃をする敵がいない場合、以下の効果が発動敵全体に(\d+)の魔法ダメージ敵全体の物理攻撃力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分のＴＰを300回復$"=►Gây $1 sát thương phép lên các kẻ địch trong phạm vi.\n►Giảm $2 phòng thủ phép của các kẻ địch trong phạm vi.\n\nNếu không có kẻ địch nào tấn công phép thuật, các hiệu ứng sau sẽ kích hoạt:\n►Gây $3 sát thương phép lên toàn bộ kẻ địch.\n►Giảm $4 tấn công vật lý của toàn bộ kẻ địch.\n►Tăng $5 tấn công phép của bản thân.\n►Hồi 300 TP cho bản thân.

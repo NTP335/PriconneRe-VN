@@ -1,0 +1,39 @@
+##Profile##
+【魔法】後衛で未知の世界との邂逅に胸躍る強欲の魔女。鮮烈な攻撃魔法をはじめ、味方への攻撃支援、敵の弱体化から自己蘇生まで、あらゆる魔法を振るい、欲を満たす。=[Ma thuật] Một mặc phù thủy tham lam trái tim đầy khát vọng tri thức về những thế giới chưa được khám phá ở hậu tuyến. Chuyên về những đòn tấn công ma thuật mạnh mẽ, cô tăng cường tấn công cho đồng đội trong khi suy yếu kẻ địch, hồi sinh bản thân khi bị đánh bại, và giải phóng ma thuật để thỏa mãn dục vọng.
+
+知識欲を満たすこと=Để thỏa mãn khát vọng tri thức
+坂本真綾=Sakamoto Masaya
+
+##UB##
+未知なる夏の果実=Fruit of an Unknown Summer
+目の前の敵１キャラに魔法防御力を一定値無視する魔法特大ダメージを２回与える。=Gây hai đòn sát thương ma thuật khổng lồ lên kẻ địch phía trước, bỏ qua một lượng nhất định M.DEF của chúng.
+r:"^敵単体に魔法防御力を(\d+)無視する(\d+)の魔法ダメージ敵単体に魔法防御力を(\d+)無視する(\d+)の魔法ダメージ$"=►Gây $2 sát thương ma thuật lên kẻ địch, bỏ qua $1 M.DEF của chúng.\n►Gây $4 sát thương ma thuật lên kẻ địch, bỏ qua $3 M.DEF của chúng.
+
+##S1##
+君たちの可能性を見せてほしい=Show Me Your Potential!
+自分を中心とした範囲内の味方すべての魔法攻撃力と魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップし、さらにＴＰを小回復する。=Tăng mạnh M.ATK và Tỷ lệ Chí mạng ma thuật của đồng đội trong phạm vi, tăng nhẹ Sát thương Chí mạng ma thuật của họ, và phục hồi nhẹ TP.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを120アップ範囲内の味方の魔法攻撃クリティカル時のダメージを12％アップ範囲内の味方のＴＰを60回復$"=►Tăng M.ATK của đồng đội trong phạm vi 300 lên $1 trong 12 giây.\n►Tăng Tỷ lệ Chí mạng ma thuật của đồng đội trong phạm vi 300 lên 120 trong 12 giây.\n►Tăng Sát thương Chí mạng ma thuật của đồng đội trong phạm vi 300 lên 12% trong 12 giây.\n►Phục hồi 60 TP cho đồng đội trong phạm vi 300.
+
+##S2##
+悪巧みだよ=Đó là một mánh khóe bẩn thỉu~
+目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせ、さらに、クリティカルを受けた際のダメージを小アップさせる。=Gây lượng lớn sát thương ma thuật lên kẻ địch phía trước, giảm nhẹ M.DEF của nó, và tăng nhẹ Sát thương Chí mạng ma thuật mà nó nhận.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体の被クリダメを6％アップ$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Giảm M.DEF của kẻ địch xuống $2 trong 12 giây.\n►Tăng Sát thương Chí mạng ma thuật mà kẻ địch nhận lên 6% trong 12 giây.
+
+##SP1##
+魔女を安く見られては困るな=Don't Take This Witch Too Lightly
+このスキルのスキルレベルは「未知なる夏の果実」と連動しています=Cấp độ kỹ năng này được liên kết với "Fruit of an Unknown Summer"
+ＨＰが０になった時に発動し、倒れずに自分のＨＰを大回復させ、幻化状態にする。幻化状態の間は自分が受けるダメージを50％軽減する。自分より前に味方がいない場合、幻化状態は解除される。このスキルはバトル中一度しか発動しない。=Khi HP của SEchidna giảm xuống 0, phục hồi mạnh HP của bản thân và vào [Chế độ Ảo ảnh]. Trong [Chế độ Ảo ảnh], mọi sát thương nhận vào giảm 50% cho bản thân. [Chế độ Ảo ảnh] bị loại bỏ khi không có đơn vị nào đứng trước SEchidna. Kỹ năng này chỉ kích hoạt một lần mỗi trận chiến.
+r:"^自分のＨＰを(\d+)回復自分を幻化状態にする$"=►Phục hồi HP của bản thân lên $1.\n►Vào [Chế độ Ảo ảnh] trong 180 giây.
+
+##EX##
+知識欲の権化=The Embodiment Of Thirst For Knowledge
+知識欲の権化+=The Embodiment Of Thirst For Knowledge+
+
+
+
+##S1+##
+君たちの可能性を見せてほしい+=Show Me Your Potential!+
+魔女のティーセット=Witch's Tea Set
+自分を中心とした範囲内の味方すべての魔法攻撃力と魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、行動速度を大アップさせる。さらにＴＰを小回復させる。=Tăng mạnh M.ATK và Tỷ lệ Chí mạng ma thuật của tất cả đồng đội trong phạm vi lấy bản thân làm trung tâm, tăng nhẹ Sát thương Chí mạng ma thuật, và tăng mạnh tốc độ hành động. Hơn nữa, phục hồi nhẹ TP.
+
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを120アップ範囲内の味方の魔法クリダメを12％アップ範囲内の味方の行動速度60％アップ範囲内の味方のＴＰを60回復$"=►Tăng M.ATK của đồng đội trong phạm vi lên $1.\n►Tăng Tỷ lệ Chí mạng ma thuật của đồng đội trong phạm vi lên 120.\n►Tăng Sát thương Chí mạng ma thuật của đồng đội trong phạm vi lên 12%.\n►Tăng Tốc độ hành động của đồng đội trong phạm vi lên 60%.\n►Phục hồi 60 TP cho đồng đội trong phạm vi.

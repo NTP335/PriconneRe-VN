@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で、流麗な太刀捌きを魅せる若夏の姉御。ダメージを与えた回数に応じて攻撃力が高まるスキルと、携えた二刀の幾刃もの斬撃で、眼前の敵を薙ぎ払う。=[Vật Lý] Tiền tuyến, chị cả trẻ trung trong trang phục mùa hè, có thể wielding một thanh trường kiếm uốn lượn. Sức tấn công của cô tăng lên tùy theo số lần gây sát thương, và cô quét sạch kẻ thù phía trước bằng những nhát chém liên tục từ hai thanh kiếm.
+
+##UB##
+終の太刀・青嵐頒つ白糸=Đòn Chí Mạng Cuối: Seiran Wakatsu Shiraito
+前方範囲内の敵すべてに物理大ダメージを与える。バトル開始後初めてこのスキルを使用した後、15回ダメージを与えるたびに、自分の物理攻撃力を中アップさせる。=Gây Sát Thương Vật Lý lớn lên toàn bộ kẻ địch phía trước. Sau khi dùng UB lần đầu, tăng Tấn Công Vật Lý bản thân lên một lượng trung bình mỗi 15 lần gây sát thương.
+r:"^範囲内の敵に(\d+)の物理ダメージ15回ダメージを与えるたびに、自分の物理攻撃力を(\d+)アップ$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch trong phạm vi 500.\n\nĐối với UB lần 1:\n►Tự trao trạng thái đặc biệt tăng Tấn Công Vật Lý bản thân lên $2 trong 180s mỗi 15 lần gây sát thương.
+
+##S1##
+始の太刀・暁けの水無月=Đòn Đầu Tiên: Ake no Minazuki
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理攻撃力を中アップさせる。=Gây Sát Thương Vật Lý trung bình lên toàn bộ kẻ địch trong phạm vi và tăng Tấn Công Vật Lý bản thân lên một lượng trung bình.
+
+##S2##
+継の太刀・薫風そよぐ=Đòn Thứ Hai: Kunpuu Soyogu
+最も物理攻撃力が高い敵１キャラの行動時間を停止させる。=Gây hiệu ứng Dừng Thời Gian lên kẻ địch có Tấn Công Vật Lý cao nhất.
+r:"^敵単体を一定時間行動不能にする$"=►Gây hiệu ứng Dừng Thời Gian lên kẻ địch trong 1.75s.
+
+##EX##
+若夏の理=Luật Hạ Hè
+若夏の理+=Luật Hạ Hè+
+
+##S1+##
+始の太刀・暁けの水無月+=Đòn Đầu Tiên: Ake no Minazuki+
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理攻撃力を大アップさせる。=Gây Sát Thương Vật Lý trung bình lên toàn bộ kẻ địch trong phạm vi và tăng Tấn Công Vật Lý bản thân lên một lượng lớn.
+
+##UE##
+絶海・波浪丸 拵違=Zekkai & Haromaru - Giả
+
+
+
+##S2##
+継の太刀・薫風そよぐ+=Đòn Thứ Hai: Kunpuu Soyogu+
+パレオ・純白人絹小笹原=Pareo・Lụa Trắng Tinh Osasahara
+前方範囲内の敵すべてに物理大ダメージを２回与え、物理防御力を中ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに、バトル開始後初めてこのスキルを発動した後、15回ダメージを与えるたびに、自分の物理攻撃クリティカル時のダメージを小アップする。=Gây Sát Thương Vật Lý lớn hai lần lên toàn bộ kẻ địch trong phạm vi phía trước, giảm Phòng Thủ Vật Lý của chúng một lượng trung bình và tăng nhẹ sát thương nhận từ đòn chí mạng. Ngoài ra, sau khi kích hoạt kỹ năng này lần đầu trong trận đấu, mỗi 15 lần gây sát thương sẽ tăng nhẹ Sát Thương Chí Mạng Vật Lý bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを5％アップ15回ダメージを与えるたびに、自分の物理クリダメを2％アップ$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch trong phạm vi.\n►Gây $2 Sát Thương Vật Lý lên kẻ địch trong phạm vi.\n►Giảm Phòng Thủ Vật Lý của kẻ địch trong phạm vi lên $3.\n►Tăng Sát Thương Chí Mạng nhận bởi kẻ địch trong phạm vi lên 5%.\nMỗi 15 lần gây sát thương:\n►Tăng Sát Thương Chí Mạng Vật Lý bản thân lên 2%.

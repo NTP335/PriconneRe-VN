@@ -1,0 +1,17 @@
+Christina's Birthday
+
+やぁ坊や。\nごきげんよう、ワタシが来てやったぞ☆=Chào nhóc. Chào buổi sáng tốt lành, ta đã đích thân tới đây với nhóc rồi đây☆
+なんでとはまた随分な挨拶だな。\nオマエはワタシとの連絡手段を持っていないだろう？\nだからわざわざこうして出向いてやったんじゃないか。=Hỏi "tại sao" thì đúng là một lời chào hỏi lạ lùng đấy. Nhóc đâu có phương thức nào để liên lạc với ta, đúng chứ? Thế nên ta mới phải cất công tự mình đến tận đây còn gì.
+今日が何の日か……分かっているだろう？=Hôm nay là ngày gì... chắc là nhóc biết rõ mà, đúng không?
+あっははは☆　ありがとう、感謝しよう。\n覚えているかは五分五分だとは思っていたが、\n勝負に強い坊やだな♪=A ha ha ha☆ Cảm ơn nhóc, ta ghi nhận tấm lòng này. Ta cứ ngỡ tỉ lệ nhóc còn nhớ chỉ là năm mươi - năm mươi thôi, nhưng nhóc đúng là một cậu bé rất mạnh mẽ trong những ván cược đấy♪
+もし覚えていなかった場合、このままさらってクリスティーナさんと\n全国誕生日ツアーに繰り出していたところだぞ☆=Nếu nhóc mà không nhớ, ta đã định cứ thế bắt cóc nhóc đi rồi cùng "Christina-san" thực hiện một chuyến du đấu sinh nhật toàn quốc luôn rồi đó☆
+……ふっ。外の騒がしさも嫌いじゃないが。\n静かに過ごせる場所も、たまにはありがたい。\nましてこんな、質素でありながら落ち着く空間はなかなかないからな。=...Hừm. Ta không ghét sự ồn ào náo nhiệt bên ngoài, nhưng một nơi có thể tĩnh lặng tận hưởng thế này đôi khi cũng thật đáng quý. Nhất là một không gian giản dị mà bình yên như thế này, quả thực rất hiếm thấy.
+うん？　なんだこれは……ショートケーキ？\nいいのか？　坊やのおやつだろう？=Hửm? Cái gì đây... bánh kem dâu tây à? Được thật sao? Chẳng phải đây là quà vặt của nhóc sao?
+ショートケーキにジュースが二つ。\nあはは、なんともこじんまりとした宴だな！\n……うん、ありがたくいただこう。=Một chiếc bánh kem với hai phần nước trái cây. Ha ha, đúng là một bữa tiệc nhỏ nhắn ấm cúng làm sao! ...Được rồi, ta xin nhận với tất cả sự trân trọng.
+ワタシといえば、派手で豪奢な宴だが……\nなんだろうな、このゆったりとした居心地の良さは。\n金では手に入らない、無二の価値を感じる。=Nhắc đến ta thì thường là những bữa tiệc xa hoa lộng lẫy, nhưng mà... cảm giác thư thái và dễ chịu này là sao nhỉ? Ta cảm nhận được một giá trị độc nhất vô nhị mà tiền bạc không thể nào mua được.
+坊や、乾杯しよう。\nなに、大げさにする必要はないさ。\n静かな、二人だけの誕生日を愉しもうじゃないか。=Nào nhóc, nâng ly thôi. Không cần phải làm gì quá phô trương đâu. Hãy cùng nhau tận hưởng một ngày sinh nhật yên tĩnh, chỉ có hai chúng ta thôi nhé.
+
+Player Prompts
+なんで……？=Tại sao...?
+今日はゆっくりしていってください。=Hôm nay cô cứ thong thả mà tận hưởng đi nhé.
+二人だけの宴をしましょう。=Hãy cùng nhau tổ chức một bữa tiệc chỉ có hai người chúng ta thôi.

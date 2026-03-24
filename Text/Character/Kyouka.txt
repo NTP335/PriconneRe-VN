@@ -1,0 +1,61 @@
+##Profile##
+ョウカ=Kyouka
+お勉強=Studying
+礼儀正しくしっかり者のちびっ子優等生=Một học sinh ưu tú trẻ lịch sự và tỉnh táo
+
+【魔法】後衛から強力な魔法で攻撃するちびっこ優等生。スキルで魔法攻撃力を瞬間的に高めた後に放つユニオンバーストは敵単体への威力抜群。=[Ma thuật] Một học sinh ưu tú nhỏ bé phóng các phép thuật mạnh mẽ từ hậu phương. Sử dụng Cosmo Blue Flash ngay sau khi tăng đột biến sức mạnh ma thuật của cô bằng kỹ năng là cách tuyệt vời để tiêu diệt mục tiêu đơn lẻ.
+
+赤面フォトフレーム=Blush Photo Frame
+子供と大人の真ん中で=In Between Children and Adult
+うれしはずかし授業参観=Visiting the Class
+ワクワク身体測定=Exciting Body Measurement
+お買いものハプニング=Shopping Calamity
+大人の女性になりたいな=Dreams of Adulthood
+ピーマン克服特訓！=Perfect Pepper Plan!
+初めての○○○=My Very First...
+宿題お手伝い=Homework Helper
+逆上がり特訓！=The Path of Gymnast
+かくれんぼの助っ人=Hide-and-Seeker
+へんたいふしんしゃさん=A Very Suspicious Creep
+
+##UB##
+コスモブルーフラッシュ=Cosmo Blue Flash
+目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây ra lượng sát thương ma thuật lớn lên kẻ địch ngay phía trước. Khi đánh chí mạng, sát thương là x4 thay vì x2.
+
+##S1##
+アイスランス=Ice Lance
+目の前の敵１キャラに魔法特大ダメージを与える。=Gây ra lượng sát thương ma thuật cực lớn lên kẻ địch ngay phía trước.
+
+##S2##
+マジックブースト=Magic Surge
+自分の魔法攻撃力を短時間大アップさせる。=Tăng lớn M.ATK cho bản thân trong thời gian ngắn (9s).
+自分の魔法攻撃力と魔法クリティカルを短時間特大アップさせる。=Tăng cực đại tấn công ma pháp và chí mạng ma pháp của bản thân trong thời gian ngắn.
+
+##EX##
+小さな勇気=Pinch of Bravery
+小さな勇気+=Pinch of Bravery+
+
+##UB+##
+コスモブループラネット=Cosmo Blue Planet
+目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây ra lượng sát thương ma thuật lớn lên kẻ địch ngay phía trước. Khi đánh chí mạng, sát thương là x4 thay vì x2.
+
+目の前の敵がマルチターゲットでない場合、目の前の敵１キャラに魔法特大ダメージを２回与える。目の前の敵がマルチターゲットの場合、敵全体に魔法特大ダメージを２回与える。敵全体へのダメージは対象になった敵の数に応じて減少する。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Nếu kẻ địch trước mặt không phải đa mục tiêu, gây 2 lần sát thương ma pháp cực đại cho 1 kẻ địch trước mặt. Nếu kẻ địch trước mặt là đa mục tiêu, gây 2 lần sát thương ma pháp cực đại cho toàn bộ kẻ địch. Sát thương lên toàn bộ kẻ địch giảm dần dựa trên số lượng mục tiêu trúng đòn. Nếu kỹ năng này gây chí mạng, sát thương sẽ là gấp 4 lần thay vì gấp 2.
+
+r:"^目の前の敵がマルチターゲットでない場合、敵単体に(\d+)の魔法ダメージ目の前の敵がマルチターゲットでない場合、敵単体に(\d+)の魔法ダメージ目の前の敵がマルチターゲットの場合、敵全体に(\d+)の魔法ダメージ目の前の敵がマルチターゲットの場合、敵全体に(\d+)の魔法ダメージ$"=►Nếu kẻ địch trước mặt không phải đa mục tiêu:\n►Gây $1 sát thương ma pháp cho một kẻ địch.\n►Gây $2 sát thương ma pháp cho một kẻ địch.\n\nNếu kẻ địch trước mặt là đa mục tiêu:\n►Gây $3 sát thương ma pháp cho toàn bộ kẻ địch.\n►Gây $4 sát thương ma pháp cho toàn bộ kẻ địch.
+
+
+##S1+##
+アイスランス+=Ice Lance+
+目の前の敵１キャラに魔法特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây ra lượng sát thương ma thuật cực lớn lên kẻ địch ngay phía trước. Khi đánh chí mạng, sát thương là x4 thay vì x2.
+
+##UE##
+コスモブルーロッド=Cosmo Blue Rod
+
+
+
+
+##S1++##
+Kyouka
+アイスランス++=Ice Lance++
+目の前の敵１キャラに魔法大ダメージを与え、凍結させる。目の前の敵がマルチターゲットの場合、前方の敵すべてに追加の魔法大ダメージを与え、自分のＴＰを大回復する。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương ma pháp lớn cho 1 kẻ địch trước mặt và làm đóng băng. Nếu kẻ địch trước mặt là đa mục tiêu, gây thêm sát thương ma pháp lớn cho toàn bộ kẻ địch phía trước và hồi phục lượng lớn TP cho bản thân. Nếu kỹ năng này gây chí mạng, sát thương sẽ là gấp 4 lần thay vì gấp 2.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする目の前の敵がマルチターゲットの場合、範囲内の敵に(\d+)の魔法ダメージ目の前の敵がマルチターゲットの場合、自分のＴＰを500回復$"=Thời gian thi triển: 1.83s\n►Gây $1 sát thương ma pháp cho một kẻ địch.\n►Khiến một kẻ địch không thể hành động trong một khoảng thời gian.\n\nNếu kẻ địch trước mặt là đa mục tiêu:\n►Gây $2 sát thương ma pháp cho kẻ địch trong phạm vi.\n►Hồi phục 500 TP cho bản thân.

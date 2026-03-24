@@ -1,0 +1,29 @@
+##Profile##
+【物理】中衛から怯懦を退け、万魔を率する煉獄の鉄媛。千変万化の躰は行動速度アップを始めとする多彩な支援とすべての敵の弱体を両立し、天地万象を掌の内に収める。=[Vật lý] Nàng thiết viện của luyện ngục, người đứng từ hàng trung phong xua tan nỗi khiếp nhược và thống lĩnh vạn ma. Cơ thể thiên biến vạn hóa của nàng vừa có thể hỗ trợ đa dạng, điển hình là tăng tốc độ hành động, vừa có thể làm suy yếu mọi kẻ thù, nắm giữ thiên địa vạn vật trong lòng bàn tay.
+
+##Chapters##
+大魔物市三十六景=Tam Thập Lục Cảnh tại Đại Thị Ma Vật
+古跡百鬼伝=Cổ Tích Bách Quỷ Truyện
+夢幻鉄媛心中=Mộng Huyễn Thiết Viện Tâm Trung
+明烏夢泡儀=Minh Ô Mộng Bào Nghi
+
+##UB##
+天元万化・鬼神仏掌=Thiên Nguyên Vạn Hóa - Quỷ Thần Phật Chưởng
+自分に【蛇落印】を１つ付与し、敵全体の物理防御力を中ダウンさせ、物理大ダメージを与える。【蛇落印】が２つ以上の場合、敵全体に追加の物理大ダメージを与える。【蛇落印】が初めて４つになった時、自分以外の光属性の味方すべてのＴＰを大回復する。【蛇落印】が初めて６つになった時、自分以外の光属性の味方すべてのＴＰを特大回復する。【蛇落印】は最大６つまで付与される。このスキルは必ずクリティカルする。=Tự nhận 1 tầng 【Xà Lạc Ấn】, giảm vừa Phòng thủ vật lý của toàn bộ kẻ địch và gây sát thương vật lý lớn. Nếu có từ 2 tầng 【Xà Lạc Ấn】 trở lên, gây thêm sát thương vật lý lớn cho toàn bộ kẻ địch. Khi 【Xà Lạc Ấn】 lần đầu đạt 4 tầng, hồi phục lớn TP cho tất cả đồng đội hệ Quang ngoại trừ bản thân. Khi 【Xà Lạc Ấn】 lần đầu đạt 6 tầng, hồi phục cực đại TP cho tất cả đồng đội hệ Quang ngoại trừ bản thân. 【Xà Lạc Ấn】 có thể tích lũy tối đa 6 tầng. Kỹ năng này chắc chắn gây chí mạng.
+r:"^敵全体の物理防御力を(\d+)ダウン敵全体に(\d+)の物理ダメージ自分に蛇落印を１つ付与する蛇落印が２つ以上の場合、敵全体に(\d+)の物理ダメージ蛇落印が初めて４つになった場合、対象の味方のＴＰを300回復蛇落印が初めて６つになった場合、対象の味方のＴＰを600回復$"=►Giảm Phòng thủ vật lý của toàn bộ kẻ địch đi $1 trong 18s.\n►Gây $2 sát thương vật lý cho toàn bộ kẻ địch.\n►Tự nhận 1 [Xà Lạc Ấn].\n\nNếu [Xà Lạc Ấn] từ 2 trở lên:\n►Gây thêm $3 sát thương vật lý cho toàn bộ kẻ địch.\n\nKhi [Xà Lạc Ấn] lần đầu đạt 4 tầng:\n►Hồi phục 300 TP cho đồng đội mục tiêu.\n\nKhi [Xà Lạc Ấn] lần đầu đạt 6 tầng:\n►Hồi phục 600 TP cho đồng đội mục tiêu.
+
+##S1##
+万化・閃手=Vạn Hóa - Thiểm Thủ
+敵全体の物理防御力を小ダウンさせ、物理中ダメージを与える。【蛇落印】が２つ以上の場合、追加で敵全体の物理防御力を小ダウンさせる。【蛇落印】が４つ以上の場合、味方全体の物理攻撃力を特大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。【蛇落印】が６つの場合、敵全体に追加の物理中ダメージを与える。このスキルは必ずクリティカルする。=Giảm nhẹ Phòng thủ vật lý của toàn bộ kẻ địch và gây sát thương vật lý vừa. Nếu có từ 2 tầng 【Xà Lạc Ấn】 trở lên, giảm thêm nhẹ Phòng thủ vật lý của toàn bộ kẻ địch. Nếu có từ 4 tầng trở lên, tăng cực đại Tấn công vật lý của toàn bộ đồng đội và tăng nhẹ Sát thương chí mạng vật lý. Nếu đạt 6 tầng, gây thêm sát thương vật lý vừa cho toàn bộ kẻ địch. Kỹ năng này chắc chắn gây chí mạng.
+r:"^敵全体の物理防御力を(\d+)ダウン敵全体に(\d+)の物理ダメージ蛇落印が２つ以上の場合、敵全体の物理防御力を(\d+)ダウン蛇落印が４つ以上の場合、味方全体の物理攻撃力を(\d+)アップ蛇落印が４つ以上の場合、味方全体の物理クリダメを5％アップ蛇落印が６つの場合、敵全体に(\d+)の物理ダメージ$"=Thời gian thi triển: 1.05s\n►Giảm Phòng thủ vật lý của toàn bộ kẻ địch đi $1 trong 12s.\n►Gây $2 sát thương vật lý cho toàn bộ kẻ địch.\n\nNếu [Xà Lạc Ấn] từ 2 trở lên:\n►Giảm Phòng thủ vật lý của toàn bộ kẻ địch đi $3 trong 12s.\n\nNếu [Xà Lạc Ấn] từ 4 trở lên:\n►Tăng Tấn công vật lý của đồng đội thêm $4 trong 12s.\n►Tăng Sát thương chí mạng vật lý của đồng đội thêm 5% trong 12s.\n\nNếu [Xà Lạc Ấn] đạt 6:\n►Gây thêm $5 sát thương vật lý cho toàn bộ kẻ địch.
+
+##S2##
+来光・金剛=Lai Quang - Kim Cương
+味方全体に物理無効バリアと魔法無効バリアを展開、調和状態を付与し、行動速度を大アップさせ、さらにＨＰを小回復させる。【蛇落印】が２つ以上の場合、無効バリアではなく吸収バリアを展開する。【蛇落印】が４つ以上の場合、追加で味方全体に継続ＴＰ回復状態を付与する。【蛇落印】が６つの場合、追加で味方全体のＴＰを小回復させる。=Triển khai rào chắn vô hiệu sát thương vật lý và ma pháp cho toàn bộ đồng đội, ban trạng thái Điều Hòa, tăng lớn tốc độ hành động và hồi phục nhẹ HP. Nếu có từ 2 tầng 【Xà Lạc Ấn】 trở lên, sẽ triển khai rào chắn hấp thụ thay vì rào chắn vô hiệu. Nếu có từ 4 tầng trở lên, ban thêm trạng thái hồi phục TP liên tục cho toàn bộ đồng đội. Nếu đạt 6 tầng, hồi phục thêm một lượng TP nhỏ cho toàn bộ đồng đội.
+r:"^蛇落印が１つ以下の場合、(\d+)ダメージ分の物理無効バリアを展開する蛇落印が１つ以下の場合、(\d+)ダメージ分の魔法無効バリアを展開する味方全体に調和状態を付与する味方全体の行動速度100％アップ味方全体のＨＰを(\d+)回復蛇落印が２つ以上の場合、(\d+)ダメージ分の物理吸収バリアを展開する蛇落印が２つ以上の場合、(\d+)ダメージ分の魔法吸収バリアを展開する蛇落印が４つ以上の場合、毎秒ＴＰを10回復する蛇落印が６つの場合、味方全体のＴＰを100回復$"=Thời gian thi triển: 1.05s\n►Nếu [Xà Lạc Ấn] từ 1 trở xuống:\n►Triển khai rào chắn vô hiệu sát thương vật lý tương đương $1 trong 18s.\n►Triển khai rào chắn vô hiệu sát thương ma pháp tương đương $2 trong 18s.\n\n►Ban trạng thái [Điều Hòa] cho toàn bộ đồng đội.\n►Tăng 100% tốc độ hành động cho toàn bộ đồng đội trong 18s.\n►Hồi phục $3 HP cho toàn bộ đồng đội.\n\nNếu [Xà Lạc Ấn] từ 2 trở lên:\n►Triển khai rào chắn hấp thụ sát thương vật lý tương đương $4 trong 18s.\n►Triển khai rào chắn hấp thụ sát thương ma pháp tương đương $5 trong 18s.\n\nNếu [Xà Lạc Ấn] từ 4 trở lên:\n►Hồi phục 10 TP mỗi giây cho toàn bộ đồng đội trong 12.5s.\n\nNếu [Xà Lạc Ấn] đạt 6:\n►Hồi phục 100 TP cho toàn bộ đồng đội.
+
+##EX##
+万華・煉華=Vạn Hoa - Luyện Hoa
+万華・煉華+=Vạn Hoa - Luyện Hoa+
+バトル開始時に自分の最大ＨＰ、物理・魔法防御力を小アップさせる。=Tăng nhẹ HP tối đa, Phòng thủ vật lý và Phòng thủ ma pháp của bản thân khi bắt đầu trận chiến.
+r:"^自分の最大ＨＰを(\d+)アップ自分の物理・魔法防御力を(\d+)アップ$"=►Tăng HP tối đa của bản thân thêm $1.\n►Tăng Phòng thủ vật lý và Phòng thủ ma pháp của bản thân thêm $2.

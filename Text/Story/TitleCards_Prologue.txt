@@ -1,0 +1,4 @@
+序章=Mở đầu
+前編=Phần Đầu
+後編=Phần Cuối
+中編=Phần Giữa

@@ -1,0 +1,18 @@
+Saren Sasaki's Birthday
+
+ふぅっ、今日も忙しかったわ。\nでも、この後は家で誕生日のパーティーが……ん？\n校門前が騒がしいわね？　この感じ、なんか懐かし──=Phew, một ngày bận rộn nữa. Nhưng sau đây, một bữa tiệc sinh nhật ở nhà đang chờ em... Hả? Cổng trường ồn ào quá, phải không? Cái này hơi hoài niệm~...
+──やっぱり、あんたなのね！\nもうっ、前にもこういうことあったわよね？\n桜庭学院は警備とか厳しいから気をつけなさいって言ったのに。=...Và như dự đoán, là cậu, {playername}! Nào, chúng ta đã trải qua chuyện này rồi, phải không? Em đã bảo cậu cẩn thận vì Học viện Sakuraba có an ninh nghiêm ngặt.
+用……ふふっ、なるほどね。\nでもそれならなおさら、事前に連絡してくれたらいいじゃない。\n電話一つに迷うような関係じゃないでしょ？　幼なじみなんだから。=Việc gì... Hehe, ra vậy. Nhưng nếu thế, còn tốt hơn nếu cậu liên lạc với em trước. Chúng ta không phải mối quan hệ mà cậu ngại gọi điện thoại cho em, phải không? Chúng ta là bạn thời thơ ấu mà.
+ほら急だったから、見てみなさいよ。\n生徒の子たちがこっち見て、あらぬ誤解をしちゃってるじゃない。\n明日は学校中の噂話になっちゃうかも──=Em muốn nói, chuyện này đột ngột quá, cứ nhìn xung quanh đi. Các học sinh đang nhìn chúng ta khắp nơi, rõ ràng hiểu lầm gì đó. Có thể sẽ thành đề tài của trường ngày mai...
+──うん、絶対に噂になるわ。確定ね。=...Ừ, ngày mai chắc chắn sẽ thành tin đồn nóng hổi.
+でもまぁ……ふふっ。\nもう手遅れだし、いっか。\n別に、仲がいいことを隠す必要なんてないもんね？=Nhưng mà... Hehe. Em nghĩ giờ thì quá muộn rồi, nên không sao. Không cần giấu việc chúng ta thân thiết, phải không?
+ありがと。\nあんたからの贈り物、大切にするわね。=Cảm ơn. Em sẽ giữ gìn món quà của cậu thật tốt.
+そうだあんた、これから時間ある？\nたまには一緒に帰りましょ。\n送迎の車は……ああ、もうセバスチャンが気を利かせてくれてるみたい。=Nhân tiện, cậu có thời gian không? Chúng ta nên cùng nhau đi bộ về nhà cho đổi gió. Chiếc xe đến đón em... À, dường như Sebastian đã điếu rồi.
+幼なじみと過ごす、気楽で何気ない誕生日を楽しみましょ。\nだからあんたも……その呼び方、戻しなさいよ。\n咲恋ちゃんじゃなくて、咲恋、ね？=Hãy tận hưởng một bữa tiệc sinh nhật thư giãn, tự nhiên theo phong cách bạn thời thơ ấu. Để đạt được điều đó... cậu nên quay lại cách gọi em theo một cách nhất định. Không phải "Saren-chan", mà chỉ là "Saren", được chứ?
+よろしいっ！\nじゃあ行きましょ。手でも繋いでさ。\nそうだ、あの駄菓子屋に寄って行こうかしら。=Tốt lắm! Vậy đi thôi. Chúng ta nên nắm tay nhau. À, phải rồi, ghé qua cửa hàng kẹo trên đường đi.
+なんだか昔に戻ったみたい、ね……♪=Giống như chúng ta đã từng làm, phải không...♪
+
+Player Prompts
+咲恋ちゃんに用があって。=Em có việc với cậu, Saren-chan
+咲恋ちゃん、これプレゼント！=Saren-chan, đây là món quà của cậu!
+分かったよ、咲恋。=Được rồi, Saren

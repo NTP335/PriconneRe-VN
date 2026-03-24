@@ -1,0 +1,16 @@
+Sono Isurugi Bday
+
+おーお疲れ。\n奇遇だねこんなところで。\n……ん、なにこれ？=À, chào cô. Thật trùng hợp khi gặp nhau ở đây. ...Hm, cái gì đây?
+あ、ごめん。\n男の人から誕プレ貰ったのなんて記憶になさ過ぎて、\n脳が処理しきれんかったわ。=À, xin lỗi. Em không nhớ từng nhận quà sinh nhật từ một người đàn ông, nên não em không xử lý được.
+ってか、そんな気遣わなくていいのに。\nもっと同級生とかにあげなよ。あ、それもあげてる？\n……そっか。ま、そりゃそうだよね。=Thực ra, cậu không cần phải quan tâm đến em thế đâu. Tặng quà cho bạn học hay gì đó đi. À, cậu cũng tặng quà sinh nhật cho họ sao? ...Ra vậy. Điều đó cũng hợp lý.
+……ふふ、ごめん。お礼がまだだったね。\nありがとう。\nって、いくつになったかは企業秘密ね？=...Hehe, xin lỗi. Em thậm chí chưa cảm ơn cậu. Cảm ơn cậu. Nói vậy đi... tuổi của em vẫn là bí mật giữa chúng ta, được chứ?
+……え？　……そ、そりゃあるに決まってんじゃん。\n誕生日の夜に大人の女が予定ないわけないじゃん。\nそれは愚問だよ……今年はたまたま暇だけど。=...Hả? ...T-Tất nhiên là có. Làm gì có người lớn như em mà không có kế hoạch trong ngày sinh nhật. Câu hỏi ngớ ngẩn thật... nhưng năm nay em vừa may có chút thời gian rảnh.
+ん……なにこれ……って、ちょっと待った。\nこれ予約の取れないレストランの招待券じゃん……\n一緒に行こうって……いやちょっとプレイボーイ過ぎないか……=Hmm... Cái gì đây... Khoan đã. Đây là lời mời đến một nhà hàng khó đặt chỗ lắm... Và cậu muốn đi cùng... Không, cậu là playboy đến mức nào vậy...
+……ふふ、分かったよ。\nせっかく用意してくれたんだから付き合うよ。\n……でも一回家帰って用意していいかな？=...Hehe, được rồi. Em sẽ đi cùng vì cậu đã chuẩn bị mất công. ...Nhưng em có thể về nhà chuẩn bị trước được không?
+いろはにご飯用意してくるからさ。\nふふ、おめかしとかじゃないから期待すんなよ♪\nって、しないか。自己嫌悪だわ今の忘れて。=Em sẽ đi chuẩn bị đồ ăn cho Iroha. Hehe, em không cần trang điểm gì đâu, đừng hy vọng quá♪ Em tự hỏi tại sao? Đừng lo. Chỉ là tự ti thôi.
+
+Player Prompts
+じゃ、またあとで。\n楽しみにしてるわ。ふふ。=Vậy gặp sau nhé. Em đang mong chờ. Hehe.
+苑さんお誕生日おめでとうございます！=Chúc mừng sinh nhật, Sono-san!
+苑さん、この後の予定は？=Sono-san, cậu có kế hoạch gì sau cái này không?
+プレゼント、開けてください。=Xin hãy mở món quà.

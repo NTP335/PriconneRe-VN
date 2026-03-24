@@ -1,0 +1,44 @@
+##Profile##
+【物理】最前衛で、ひたすら敵の攻撃を避ける幽霊少女。スキルで幽霊に変身することで敵の攻撃を躱し、ユニオンバーストでは敵をプリンにして食べてしまう。=[Vật lý] Một cô gái ma quái đứng ở tuyến đầu và né tránh các đòn tấn công của địch. Khi biến hình thành ma, không có đòn tấn công nào có thể trúng cô, và Union Burst của cô biến kẻ thù thành bánh pudding rồi ăn chúng!
+
+プリンを食べること=Ăn pudding
+プリン大好きゴースト娘=Một cô gái ma thích ăn pudding
+
+##UB##
+プリンにしてやるの=Giờ Cậu Là Pudding Rồi!
+目の前の敵１キャラに物理大ダメージを与え、さらに自分のＨＰを中回復する。=Gây sát thương vật lý lớn lên một kẻ thù đứng ngay trước mặt đồng thời hồi một lượng lớn HP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên một kẻ thù.\n►Hồi HP của bản thân thêm $2.
+
+##S1##
+う～ら～め～し～や～なの=Tớ~ Sẽ~ Đi~ Báo~ Oán~ Cậu~
+【変身】幽霊に変身し、しばらくの間無敵状態になる。=[Biến hình] Biến hình thành ma, trở nên bất khả xâm phạm trong một thời gian ngắn.
+r:"^一定時間無敵状態になる$"=►Trở nên miễn nhiễm mọi sát thương trong 3+(0.01Lv)s.
+## 260lvl
+【変身】幽霊に変身し、しばらくの間無敵状態になり、自分の物理防御力を小アップさせる。=[Biến hình] Biến hình thành ma, trở nên bất khả xâm phạm trong một thời gian ngắn. Đồng thời tăng nhẹ P.DEF của bản thân.
+r:"^一定時間無敵状態になる自分の物理防御力を(\d+)アップ$"=►Trở nên miễn nhiễm mọi sát thương trong 3+(0.01Lv)s.\n►Tăng P.DEF của bản thân thêm $1 trong 12s.
+
+##S2##
+おやつの時間なの=Giờ Ăn Vặt!
+自分のＨＰを中回復する。=Hồi một lượng trung bình HP cho bản thân.
+r:"^自分のＨＰを(\d+)回復$"=►Hồi HP của bản thân thêm $1.
+
+##EX##
+すけすけおばけなの～=Linh Hồn Bay Lơ Lửng!
+すけすけおばけなの～+=Linh Hồn Bay Lơ Lửng!+
+
+##UB+##
+ぜ～んぶプリンにしてやるの=Giờ Tất Cả Là Pudding Rồi!
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復自分の回避を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ thù đơn.\n►Hồi HP của bản thân thêm $2.\n►Tăng khả năng né tránh của bản thân thêm $3 trong 180s.
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分のＨＰを中回復し、回避を中アップさせる。=Gây sát thương vật lý khổng lồ lên kẻ thù phía trước, đồng thời hồi một lượng trung bình HP của bản thân và tăng khả năng né tránh một chút.
+
+##S1+##
+う～ら～め～し～や～なの+=Tớ~ Sẽ~ Đi~ Báo~ Oán~ Cậu~+
+【変身】幽霊に変身し、しばらくの間無敵状態になる。また、自分の回避を中アップさせ、さらに物理防御力を大アップさせる。=[Biến hình] Biến hình thành ma, trở nên bất khả xâm phạm trong một thời gian ngắn. Đồng thời tăng trung bình khả năng né tránh và tăng lớn P.DEF của bản thân.
+r:"^一定時間無敵状態になる自分の回避を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Trở nên miễn nhiễm mọi sát thương trong 3+(0.01Lv)s.\n►Tăng khả năng né tránh của bản thân thêm $1 trong 12s.\n►Tăng P.DEF của bản thân thêm $2 trong 12s.
+
+##UE##
+霊甘ゴーストプリン=Pudding Vui Sướng Của Linh Hồn
+
+
+##uncategorized (shadow)##
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を大ダウンさせる。さらに自分のＨＰを中回復し、回避を特大アップさせる。=Gây sát thương vật lý cực đại cho 1 kẻ địch trước mặt và giảm mạnh phòng thủ vật lý. Ngoài ra, bản thân được hồi phục lượng HP vừa phải và tăng cực đại khả năng né tránh.

@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛で新たな刺激を追い求める水着姿のドＭ娘。自分のＨＰが下がるほど効果量が上昇するスキルの物理攻撃力アップとＵＢのダメージで、勝利の大海へ飛び込む。=[Vật Lý] Một cô gái masochist trong đồng phục swimsuit, tìm kiếm những cảm giác mới mẻ và kích thích. Với kỹ năng tăng sức tấn công vật lý dựa trên lượng HP mất và UB gây sát thương, cô lao mình vào đại dương chiến thắng.
+
+##UB##
+エレクトリカルサマープレイ=Trò Chơi Điện Mùa Hè
+前方範囲内の敵すべてに物理中ダメージを与える。自分のＨＰが低いほど、このスキルで与えるダメージがアップする。さらに自分のＨＰを小回復させる。=Gây Sát Thương Vật Lý vừa phải lên kẻ địch trong phạm vi. Sát Thương Vật Lý gây ra tăng theo lượng HP mất của bản thân. Ngoài ra, hồi nhẹ HP của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Gây $1 (+0.0001×HP-Mất) Sát Thương Vật Lý lên kẻ địch trong phạm vi 750.\n►Hồi HP của bản thân bằng $2.
+
+##S1##
+アクアダンシング=Điệu Nhảy Aqua
+前方範囲内の敵すべてに物理中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。=Gây Sát Thương Vật Lý vừa phải lên kẻ địch trong phạm vi và hạ thấu rất nhiều Sát Thương Vật Lý/Phép của chúng.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch trong phạm vi 750.\n►Hạ thấu Sát Thương Vật Lý của kẻ địch trong phạm vi 750 bằng $2 trong 12s.\n►Hạ thấu Sát Thương Phép của kẻ địch trong phạm vi 750 bằng $3 trong 12s.
+
+##S2##
+夏は体が熱くなります～！=Mùa Hè Làm Cơ Thể Nóng Lên~!
+自分の物理攻撃力と物理防御力と魔法防御力を小アップさせ、ＴＰを中回復する。自分のＨＰが低いほど、物理攻撃力の上昇量がアップする。=Tăng nhẹ Sát Thương Vật Lý, Phòng Thủ Vật Lý và Phòng Thủ Phép của bản thân, và hồi vừa phải TP của bản thân. Càng ít HP, mức tăng Sát Thương Vật Lý càng cao.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分のＴＰを150回復$"=►Tăng Sát Thương Vật Lý của bản thân bằng $1 (+0.25×HP-Mất) trong 12s.\n►Tăng Phòng Thủ Vật Lý của bản thân bằng $2 trong 12s.\n►Tăng Phòng Thủ Phép của bản thân bằng $3 trong 12s.\n►Hồi TP của bản thân 150.
+
+##EX##
+サマーエクスタシー=Cực Lạc Mùa Hè
+サマーエクスタシー+=Cực Lạc Mùa Hè+
+
+##S1+##
+アクアダンシング+=Aqua Dancing+
+前方範囲内の敵すべてに物理中ダメージを与えてスタンさせ、物理攻撃力と魔法攻撃力を大ダウンさせる。自分のＨＰが低いほど、このスキルで与えるダメージがアップする。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi, khiến chúng bị choáng, và giảm mạnh T.Công và L.Công của chúng. Sát thương vật lý gây ra tăng theo lượng HP đã mất của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Gây $1 (+0.00005×HP-Mất) sát thương vật lý cho kẻ địch trong phạm vi 750.\n►Giảm T.Công của kẻ địch trong phạm vi 750 đi $2 trong 12s.\n►Giảm L.Công của kẻ địch trong phạm vi 750 đi $3 trong 12s.\n►Khiến kẻ địch trong phạm vi 750 bị choáng trong 1.5s.
+
+##UE##
+クウカメイクドミネーション=Sự Thống Lĩnh Trang Điểm Của Kuuka

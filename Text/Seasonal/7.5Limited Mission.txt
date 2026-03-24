@@ -1,0 +1,38 @@
+選択人数の上限に達していません。=Bạn chưa đạt số lượng tối đa có thể chọn.
+これ以上キャラを選択できません。=Không thể chọn thêm nhân vật nào nữa.
+7.5th Limited Select ガチャ=Gacha Chọn Giới Hạn 7.5
+選択されているキャラが変更されていません。=Nhân vật đã chọn chưa được thay đổi.
+限定ミッション=Nhiệm Vụ Giới Hạn
+チケット\n使用=Sử dụng vé
+r:"^あと(\d+)時(\d+)分$"=Còn $1h $2m
+初心者=Người Mới
+Sダッシュミッション=Nhiệm Vụ S-Dash
+r:"^ステップ(.)$"=Bước $1
+スタートダッシュ=Bắt đầu Dash
+sr:"^(.+)をLv(\d+)にしよう$"=Nâng $1 lên Lv $2.
+sr:"^(.+)をRANK(\d+)にしよう$"=Nâng $1 lên Rank $2.
+sr:"^(.+)の絆ランクを(\d)にしよう$"=Nâng Mối Quan Hệ của $1 lên Rank $2
+sr:"^(.+)の専用装備(.)を装備しよう$"=Trang bị Trang Bị Độc Nhất $2 cho $1
+
+r:"^メインストーリー第(\d+)章をすべて閲覧しよう$"=Xem toàn bộ Chương $1 của cốt truyện chính
+r:"^キャラのスキルLvを合計で(\d+)回上げよう$"=Nâng cấp kỹ năng của một nhân vật tổng cộng $1 lần
+プリンセスナイト強化を1回行おう=Thực hiện Nâng Cấp Princess Knight một lần
+経験値クエストを1回クリアしよう=Hoàn thành nhiệm vụ EXP một lần
+マナクエストを1回クリアしよう=Hoàn thành nhiệm vụ mana một lần
+聖跡調査クエストを1回クリアしよう=Hoàn thành Khảo Sát Đền Thánh một lần
+神殿調査クエストを1回クリアしよう=Hoàn thành Hành Trình Đền một lần
+r:"^メインストーリー第(\d+)部(前編|後編|中編|)ステップ(\d+)のミッションをすべて達成しよう$"=Hãy hoàn thành tất cả nhiệm vụ của Cốt truyện chính Phần $1 ($2), Bước $3
+
+メインストーリー第3部前編ステップ1のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Cốt truyện chính Phần 3 Tiền chương Bước 1
+
+r:"^メインストーリー第(\d+)部のミッション報酬を全て受け取ると解放。$"=Mở khóa sau khi nhận toàn bộ phần thưởng nhiệm vụ từ Phần $1 của cốt truyện chính
+
+"^(.+)を限界突破しよう$"=Giới Hạn $1
+r:"^メインストーリー第(\d+)部第(\d+)章をすべて閲覧しよう$"=Xem toàn bộ Phần $1, Chương $2 của cốt truyện chính
+
+メインストーリー第2部第2章をすべて閲覧しよう
+王都終末決戦をクリアしよう=Vượt qua Trận Chiến Cuối Cùng của Landosol
+終炎のエリュシオンをクリアしよう=Vượt qua Ngọn Lửa Cuối Cùng của Elysion
+レギオンウォーをクリアしよう=Vượt qua Chiến Tranh Legion
+スタートダッシュプリンセスキャラ交換チケット=Vé Đổi Nhân Vật Dash Princess
+7.5th Anniv. ピュアメモリーピース交換チケット=Vé Đổi Mảnh Ký Ức Thuần Khiết Kỷ Niệm 7.5

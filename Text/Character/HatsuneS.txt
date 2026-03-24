@@ -1,0 +1,39 @@
+##Profile##
+【魔法】中衛から全体魔法攻撃を放つ超能力チアガール。ユニオンバーストで敵全体に絶大な一撃を放ち、その後、超能力発動の反動で枕を抱えて夢の中へ。=[Phép thuật] Một cổ vũ viên siêu nhiên tung ra cuộc tấn công ma thuật toàn diện từ hàng giữa. Cô ấy đánh một cú chí mạng lên tất cả kẻ địch với Union Blast của mình, sau đó trôi vào vùng đất mơ mộng trong khi ôm chiếc gối nhờ phản lực từ năng lực tâm linh của mình.
+
+妹と遊ぶこと、二度寝、昼寝、早寝=Chơi với em gái, quay về ngủ, chập chờn, đi ngủ sớm.
+
+##UB##
+サマーチアリング☆スター=Summer Cheering☆Star
+敵全体に魔法大ダメージを与えるが、自分を睡眠状態にする。このスキルで付与された睡眠は、攻撃を受けたときにのみ解除される。=Gây sát thương ma thuật nặng lên tất cả kẻ địch, nhưng đặt bản thân vào trạng thái ngủ. Trạng thái ngủ do kỹ năng này gây ra chỉ kết thúc khi cô ấy bị tấn công.
+r:"^敵全体に(\d+)の魔法ダメージ自分を行動不能にする$"=►Gây $1 M.DMG lên tất cả kẻ địch.\n►Gây Disable lên bản thân.
+
+##S1##
+ポンポンエール☆シュート=Pom-Pom Yell☆Shoot
+敵全体に魔法小ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じてＴＰの回復量が増加する。=Gây sát thương phép nhỏ lên tất cả kẻ địch và phục hồi thêm TP cho bản thân. Lượng TP phục hồi tăng lên tùy theo số lượng kẻ địch.
+敵全体に魔法中ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じてＴＰの回復量が増加する。=Gây sát thương phép vừa lên tất cả kẻ địch và phục hồi thêm TP cho bản thân. Lượng TP phục hồi tăng lên tùy theo số lượng kẻ địch.
+
+##S2##
+チアフル☆ハピネス=Cheerful☆Happiness
+自分を中心とした範囲内の味方すべての魔法攻撃力と魔法クリティカルを中アップさせる。=Tăng M.ATK và tỷ lệ M.CRIT của đồng minh trong phạm vi xung quanh bản thân.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを50アップ$"=►Tăng M.ATK của đồng minh trong phạm vi lên $1 trong 12s.\n►Tăng tỷ lệ M.CRIT của đồng minh trong phạm vi lên 50 trong 12s.
+
+##EX##
+ハッピー☆チアボイス=Happy☆Cheer Voice
+ハッピー☆チアボイス+=Happy☆Cheer Voice+
+
+##S1+##
+ポンポンエール☆シュート+=Pom-Pom Yell☆Shoot+
+敵全体に魔法中ダメージを与え、さらに自分のＴＰを中回復する。敵の数に応じて与えるダメージとＴＰの回復量が増加する。=Gây sát thương phép vừa lên tất cả kẻ địch và phục hồi thêm TP cho bản thân. Sát thương gây ra và lượng TP phục hồi tăng lên tùy theo số lượng kẻ địch.
+r:"^敵全体に(\d+)の魔法ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 sát thương phép lên tất cả kẻ địch.\n►Phục hồi $2 TP cho bản thân.
+
+##UE##
+グリッタースターズ☆ポンポン=Glitter Stars☆Pom-Pom
+
+##S2##
+チアリーダー☆ミーティア=Cheerleader☆Mitia
+チアフル☆ハピネス+=Cheerful☆Happiness+
+
+自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法クリティカルを大アップさせる。さらに、バトル開始後、初弾のこのスキルは自分を中心とした範囲内の味方すべてのＴＰを特大回復させる。=Tăng mạnh M.ATK của tất cả đồng minh trong phạm vi xung quanh bản thân, và tăng rất mạnh tỷ lệ M.CRIT. Hơn nữa, sau khi trận đấu bắt đầu, lần đầu sử dụng kỹ năng này sẽ phục hồi rất nhiều TP cho tất cả đồng minh trong phạm vi xung quanh bản thân.
+
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを80アップ初使用時、範囲内の味方のＴＰを500回復$"=►Tăng M.ATK của đồng minh trong phạm vi lên $1.\n►Tăng tỷ lệ M.CRIT của đồng minh trong phạm vi lên 80.\n►Khi dùng lần đầu, phục hồi 500 TP cho đồng minh trong phạm vi.

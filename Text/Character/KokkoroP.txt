@@ -1,0 +1,31 @@
+##Profile##
+【物理】中衛で、絶大な補助スキルを繰出す純白の巫女。味方の攻撃力とクリティカルダメージを強化しつつ、二つの全体回復スキルで味方を堅固に守護し勝利へ導く。=[Vật Lý] Miko thuần khiết, trắng tuyền đóng vai trò hỗ trợ tầm trung và sở hữu khả năng hỗ trợ mạnh mẽ. Nó tăng tấn công (ATK) và sát thương chí mạng (Crit DMG) cho đồng đội, và sử dụng hai kỹ năng hồi máu để bảo vệ và dẫn dắt họ đến chiến thắng.
+
+空腹の主さま=Đói Chưa, Chủ Nhân?
+突然の訪問者=Một Vị Khách Đột Ngột
+幾重にも重なる絆=Những Mối Liên Kết Đan Xen
+想い馳せる未来の姿=Một Tầm Nhìn Về Tương Lai
+
+##UB##
+オーロラ・サンクチュアリ=Nơi Trú Ẩn Cực Quang
+自分を中心に、範囲内の味方すべてのＨ\nＰを小回復し、ＴＰ上昇を小アップさせ\nるフィールドを展開する。さらに味方全\n体の物理・魔法攻撃クリティカル時のダ\nメージを小アップさせ、敵全体の物理・\n魔法防御力を小ダウンさせる。=Triệu hồi một vùng hiệu quả xung quanh bản thân, hồi phục một chút HP và tăng TP Boost cho đồng minh gần đó. Đồng thời, tăng nhẹ P/M.Crit DMG cho tất cả đồng minh và giảm P/M.DEF của tất cả kẻ địch.
+r:"^毎秒ＨＰを(\d+)回復するフィールドを展開するＴＰ上昇を(\d+)アップさせるフィールドを展開する味方全体の物理・魔法攻撃クリティカル時のダメージを(\d+％)アップ敵全体の物理・魔法防御力を(\d+)ダウン$"=►Triệu hồi vùng hiệu quả xung quanh bản thân, hồi phục $1 HP/giây.\n►Tăng TP Boost thêm $2.\n►Tăng P.Crit và M.Crit DMG của tất cả đồng minh thêm $3.\n►Giảm P.DEF và M.DEF của tất cả kẻ địch thêm $4.
+
+##S1##
+エアロヒーリング=Aero Healing
+エアロヒーリング+=Aero Healing+
+味方全体のＨＰを小回復する。=Hồi phục một chút HP cho toàn bộ đồng minh.
+味方全体のＨＰを小回復する。さらに、\n味方全体の物理攻撃力と魔法攻撃力を特\n大アップさせ、物理クリティカルと魔法\nクリティカルを大アップし、物理・魔法\n攻撃クリティカル時のダメージを小アッ\nプさせる。=Hồi phục một chút HP cho toàn bộ đồng minh. Đồng thời, tăng rất lớn P.ATK và M.ATK, tăng lớn P.Crit và M.Crit, và tăng nhẹ P/M.Crit DMG.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の物理・魔法攻撃クリティカル時のダメージを(\d+％)アップ$"=►Hồi phục HP của toàn bộ đồng minh thêm $1.\n►Tăng P.ATK của toàn bộ đồng minh thêm $2.\n►Tăng M.ATK của toàn bộ đồng minh thêm $3.\n►Tăng P.Crit của toàn bộ đồng minh thêm $4.\n►Tăng M.Crit của toàn bộ đồng minh thêm $5.\n►Tăng P.Crit và M.Crit DMG của toàn bộ đồng minh thêm $6.
+
+##S2##
+ブライトアテンション=Bright Attitude
+味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらにＴＰを小回復する。=Tăng rất lớn P.ATK và M.ATK cho toàn bộ đồng minh, và hồi phục nhẹ TP của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Tăng P.ATK của toàn bộ đồng minh thêm $1.\n►Tăng M.ATK của toàn bộ đồng minh thêm $2.\n►Hồi phục TP của toàn bộ đồng minh thêm $3.
+
+##EX##
+純白の天啓=Pure White Revelation
+純白の天啓+=Pure White Revelation+
+
+##UE##
+マーシフルプリンセスローブ=Merciful Princess Robe

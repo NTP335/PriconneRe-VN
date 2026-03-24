@@ -1,0 +1,48 @@
+アキノとの出会い=Cuộc gặp gỡ với Akino
+お嬢さまからの\n緊急依頼=Yêu cầu khẩn cấp từ tiểu thư
+
+ジータが騎空団への依頼を確認していると、\n高笑いをしながらアキノが現れる。=Trong lúc Djeeta đang kiểm tra các yêu cầu gửi đến đoàn kỵ sĩ, Akino xuất hiện cùng với một điệu cười lớn đầy kiêu hãnh.
+
+ランドソル市街地=Khu phố trung tâm Landsol
+
+騎空団に依頼が来ているかを確かめるため、\nジータと{playername}は掲示板へとやってきていた。=Để xác nhận xem có yêu cầu nào gửi đến đoàn kỵ sĩ hay không, Djeeta và {playername} đã cùng nhau đi đến bảng tin.
+依頼、依頼……\nうーん、今のところはないかな？=Yêu cầu, yêu cầu... Ừm, hiện tại thì có vẻ như chưa có cái nào nhỉ?
+おーほっほっほ！\n依頼をお探しのようですわね、騎空士のジータさん！=Ô hô hô hô! Có vẻ như các bạn đang tìm kiếm một yêu cầu công việc phải không, Kỵ sĩ bầu trời Djeeta-san!
+私のことを知ってる……？\nだ、誰？=Người này biết về mình sao...? L-Là ai vậy?
+私ですわ！！=Chính là ta đây!!
+
+Player Input
+アキノさん！！=Chị Akino!!
+
+ええ、あなたさまのおっしゃる通り！\nアキノ・ウィスタリア、ここに登場ですわ！=Đúng như những gì bạn nói! Akino Wistaria, chính thức xuất hiện tại đây!
+ウィスタリアって……\nウィスタリア商会の？\nええっ、じゃああなたが……！=Wistaria... Có phải là của Thương hội Wistaria không? Ôi, vậy ra chị chính là...!
+日頃より、我が商会の警護依頼を引き受けていただき、\n心より感謝しますわ。今後ともご贔屓にしてくださいな！=Ta chân thành cảm ơn các bạn vì bấy lâu nay đã luôn nhận các ủy thác hộ tống cho thương hội của ta. Rất mong các bạn sẽ tiếp tục ủng hộ chúng ta trong tương lai nhé!
+こ、こちらこそ！\n飛空艇に関わる仕事はほとんどなくて……だから、すごく助かってます！\nまた機会があったら、いつでも──=E-Em mới là người phải cảm ơn ạ! Những công việc liên quan đến phi thuyền thường rất hiếm... nên em được giúp đỡ nhiều lắm! Nếu có cơ hội, bất cứ lúc nào chị cũng có thể──
+その言葉を待ってましたわ！\n実はさっそく依頼したいことがありますの。\nもちろん、飛空艇に乗ってのお仕事ですわ。いかがかしら？=Ta chỉ chờ đợi câu nói đó thôi! Thật ra ta đang có một yêu cầu muốn nhờ các bạn ngay đây. Tất nhiên, đây là công việc thực hiện ngay trên phi thuyền. Các bạn thấy thế nào?
+本当ですか？　ちょうどそういう仕事を探してたんです！\nもちろん、お引き受けします！\nやったね、{playername}！=Thật sao ạ? Em cũng đang tìm kiếm một công việc như vậy! Tất nhiên là em đồng ý rồi! Tuyệt quá phải không {playername}!
+後日──\nジータと{playername}はアキノと共に\n飛空艇の輸送警護をしていた。=Vài ngày sau── Djeeta và {playername} đã cùng Akino thực hiện nhiệm vụ cảnh giới cho một chuyến vận tải bằng phi thuyền.
+お二人に依頼を受けていただいて、とっても助かりました。\n急な人手不足に加えて、飛空艇でのお仕事ですもの。\n空と地上とでは勝手が違いますでしょう？=Ta rất cảm kích vì hai bạn đã nhận lời. Vừa hay lại đang thiếu hụt nhân sự đột xuất, mà đây lại còn là công việc trên phi thuyền nữa. Việc tác chiến trên không và dưới đất chắc hẳn có nhiều điểm khác biệt phải không?
+確かに慣れてないと難しいかもしれませんね。\n動き方も違いますし、それに魔物の種類も──=Đúng là nếu không quen thì có lẽ sẽ hơi khó khăn ạ. Cách di chuyển khác biệt, và cả chủng loại quái vật cũng──
+ウワサをすれば、ですわね。\nさぁ、お仕事と参りましょう！\nジータさん、あなたさま！=Vừa nhắc Tào Tháo là Tào Tháo đến ngay mà. Nào, bắt tay vào việc thôi! Djeeta-san, cả bạn nữa!
+はい！\n{playername}、強化お願い！=Vâng! {playername}, nhờ cậu hỗ trợ tăng cường sức mạnh giúp mình nhé!
+ジョブチェンジ、完了！\n思いっきりいくよ！\nてやああああ！！=Chuyển đổi nghề nghiệp, hoàn tất! Em sẽ dốc toàn lực đây! Teyaaaaah!!
+まあ、お見事ですわ！\n……私も負けてられませんわね！=Chà, thật tuyệt vời làm sao! ...Ta cũng không thể để thua được!
+飛空艇の警護を無事に完遂した翌日──\nジータと{playername}は、アキノの元を訪れていた。=Một ngày sau khi hoàn thành xuất sắc nhiệm vụ hộ tống phi thuyền── Djeeta và {playername} đã đến thăm Akino.
+この度は本当にありがとうございました。\nおかげさまで取引 cũng đã hoàn tất thuận lợi. =Lần này thực sự cảm ơn các bạn rất nhiều. Nhờ có các bạn mà chuyến giao dịch đã diễn ra vô cùng suôn sẻ.
+お役に立ててよかったです！\n……あの、アキノさん。\nせっかくなので飛空艇について質問したいことがあるんですけど……=Em rất vui vì đã giúp ích được cho chị! ...Ờm, chị Akino này. Nhân cơ hội này, em có vài điều muốn hỏi chị về phi thuyền...
+大型の飛空艇を運用するときって、どんなものが必要になりますか？\nいつか自分の騎空艇を手に入れたときの参考にしたくて。=Khi vận hành một phi thuyền cỡ lớn thì cần chuẩn bị những gì ạ? Em muốn hỏi để tham khảo cho lúc em sở hữu một phi thuyền của riêng mình sau này.
+なるほど、分かりました。\nでは必要なものと経費についてをご説明しますわね。=Ra là vậy, ta hiểu rồi. Vậy để ta giải thích cho các bạn về những thứ cần thiết cũng như các khoản chi phí nhé.
+まずは飛空艇の購入費用……\nそれから飛空艇を使うには、国への申請が必要ですの。\nそのための各種手続きと申請費用の準備。ああ、他にも…………=Đầu tiên là chi phí mua phi thuyền... tiếp đó, để sử dụng phi thuyền, bạn cần phải xin phép quốc gia. Bạn phải chuẩn bị cho các loại thủ tục và lệ phí đăng ký. À, còn cả những thứ khác nữa...
+……とまぁ、こんなところでしょうか。\nいかがかしら。参考になりました？=...Đó, sơ lược là như vậy đấy. Thế nào, có giúp ích gì được cho các bạn không?
+はい、とっても！\n知らなかったことばかりで参考になりました。=Vâng, rất nhiều ạ! Có quá nhiều điều em chưa biết, thực sự là những thông tin vô cùng hữu ích.
+飛空艇を買っただけじゃダメだとは思ってましたけど……\nこんなに課題があるなんて。\nちょっと前途多難かも。あはは……=Em vốn biết là chỉ mua phi thuyền thôi thì chưa đủ... nhưng không ngờ lại có nhiều vấn đề nan giải đến thế. Có vẻ như chặng đường phía trước sẽ hơi gian nan đây. A ha ha...
+大丈夫ですわよ、ジータさん。\n何事も最初から順風満帆とはいかないものです。\n楽して儲けられるほど、世の中は甘くありませんわ！=Không sao đâu, Djeeta-san. Chẳng có việc gì mà ngay từ đầu đã thuận buồm xuôi gió cả. Thế gian này không dễ dàng tới mức có thể ngồi mát ăn bát vàng đâu!
+大切なのは、たとえどんなに困難でも一歩前に踏み出すことです。\nそして、あなたはすでにその一歩を踏み出しています──\n空を飛びたいと想う、大きな一歩を。=Điều quan trọng là dù khó khăn đến đâu cũng phải vững bước tiến về phía trước. Và em đã thực hiện bước đi đó rồi── một bước tiến lớn mang theo ước vọng được bay liệng giữa bầu trời.
+その想いを忘れない限り、あなたは大丈夫です。\n初志貫徹ですわよ、ジータさん！=Chỉ cần không quên đi ý nguyện đó, em sẽ ổn thôi. Hãy giữ vững ý chí ban đầu nhé, Djeeta-san!
+アキノさん……！\nありがとうございます！\n私、これからも頑張ります！=Chị Akino...! Em cảm ơn chị nhiều lắm! Em nhất định sẽ cố gắng hơn nữa từ giờ trở đi!
+その意気ですわよ！\nでは、そんなあなたに……\n私から激励のプレゼントを差し上げますわ！=Phải có khí thế như vậy chứ! Vậy thì, để ủng hộ em... ta có một món quà khích lệ dành tặng đây!
+これは大空を描いた絵画ですの。\n空に想いを馳せるジータさんにピッタリじゃありませんこと？\nどうぞ受け取ってくださいな！=Đây là bức tranh vẽ lại bầu trời bao la. Chẳng phải nó cực kỳ phù hợp với một người luôn hướng về bầu trời như Djeeta-san sao? Hãy nhận lấy nó đi nào!
+わぁ、素敵な絵画……！\n微力ながら力添えができれば光栄です。 \n依頼料だけでも十分すぎるくらいなのに……=Oa, một bức tranh thật tuyệt vời...! Nhưng em nhận thế này có thực sự ổn không ạ? Chỉ riêng tiền thù lao thôi đã là quá đủ rồi...
+遠慮なさらないでください。\n私からの気持ちですし、それに……\n優秀な取引相手とは友好的な関係でいたいですからね。ふふっ。=Đừng khách sáo. Đây là tấm lòng của ta, và hơn nữa... ta luôn muốn duy trì mối quan hệ hữu hảo với những đối tác tài năng như các bạn mà. Hì hì.
+アキノさん……\nあはは、分かりました！\nじゃあ遠慮なくいただいておきますね！=Chị Akino... A ha ha, em hiểu rồi! Vậy thì em xin phép không khách sáo mà nhận lấy ạ!
+アキノからの激励に、ジータは笑顔で応えるのだった。=Đáp lại lời khích lệ của Akino, Djeeta đã nở một nụ cười rạng rỡ.

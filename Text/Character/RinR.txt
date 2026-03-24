@@ -1,0 +1,26 @@
+##Profile##
+【物理】中衛から、敵の守りを貫くドングリレンジャー。戦闘開始と共に範囲内の敵の物理防御力を大幅に下げ、序盤から大ダメージを与えられる戦況を作り出す。=[Vật Lý] Lính Rừng Quả Dẻ xuyên thủng phòng thủ kẻ thù từ tuyến giữa. Khi trận đấu bắt đầu, giảm mạnh phòng thủ vật lý của đối thủ trong phạm vi, tạo tình thế trận đấu có thể gây sát thương nghiêm trọng ngay từ đầu.
+
+##UB##
+ナッツエグゼキューション=Thực thi Quả Dẻ
+前方範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình cho kẻ thù phía trước, và giảm một chút phòng thủ vật lý của chúng.
+
+##S1##
+ナッツブレイカー=Kẻ Đập Quả Dẻ
+前方範囲内の敵に物理中ダメージを与え、物理防御力を中ダウンさせるが、自分の行動速度を特大ダウンさせる。=Gây sát thương vật lý trung bình cho kẻ thù phía trước, giảm phòng thủ vật lý của chúng một cách trung bình, nhưng giảm tốc độ hành động của bản thân một lượng lớn.
+
+##S2##
+ナッツスラッシュ=Chém Quả Dẻ
+前方範囲内の敵に物理小ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý nhỏ cho kẻ thù phía trước, và giảm một chút phòng thủ vật lý của chúng.
+
+##EX##
+ナッツビルドアップ=Tích Lũy Quả Dẻ
+ナッツビルドアップ+=Tích Lũy Quả Dẻ+
+
+##S1+##
+ナッツブレイカー+=Kẻ Đập Quả Dẻ+
+前方範囲内の敵に物理特大ダメージを与え、物理防御力を大ダウンさせるが、自分の行動速度を特大ダウンさせる。=Gây sát thương vật lý cực lớn cho kẻ thù phía trước, giảm mạnh phòng thủ vật lý của chúng, nhưng giảm tốc độ hành động của bản thân một lượng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分の行動速度ダウン$"=►Gây $1 sát thương vật lý cho kẻ thù trong phạm vi.\n►Giảm $2 phòng thủ vật lý của kẻ thù trong phạm vi.\n►Giảm tốc độ hành động của bản thân xuống 33% trong 180s.
+
+##UE##
+ドングリレンジャーランス=Giáo Lính Rừng Quả Dẻ

@@ -1,0 +1,9 @@
+UB即発動モードを使用するか設定できます。=Bạn có thể sử dụng chế độ kích hoạt Union Burst ngay khi TP đầy giống như nhấn nhanh.
+UB即発動モードの設定=Thiết lập chế độ kích hoạt UB ngay lập tức (Đặt chế độ)
+UB即発動モードを有効にする=Bật chế độ thông báo UB
+各キャラがユニオンバーストを発動する度に、UB即発動モードを解除するか設定できます。=Mỗi lần nhân vật kích hoạt UB, bạn có thể thiết lập có hủy chế độ thông báo UB hay không.
+ユニオンバースト発動時にUB即発動モードを解除=Hủy chế độ thông báo UB khi union burst được kích hoạt
+ルナの塔において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=Bạn có thể đặt giới hạn trên cho tốc độ chiến đấu trong Tháp Luna.\n Thiết lập sẽ được áp dụng từ trận chiến tiếp theo.
+次元断層において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=Bạn có thể đặt giới hạn trên cho tốc độ chiến đấu trong Lỗ Dimensional.\n Thiết lập sẽ được áp dụng từ trận chiến tiếp theo.
+
+UB即発動モードが無効になっています。=Chế độ thông báo UB đã bị vô hiệu hóa.

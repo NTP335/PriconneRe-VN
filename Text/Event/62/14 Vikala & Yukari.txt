@@ -1,0 +1,64 @@
+ユカリとの出会い=Gặp gỡ Yukari
+この出会いにカンパイ！=Cạn ly cho cuộc gặp gỡ này!
+
+街外れでひと休みをしていたビカラたちは、\nすっかりゴキゲンな様子のユカリと出会う。=Trong lúc đang nghỉ ngơi ở ngoại ô thành phố, nhóm của Vikala đã gặp gỡ Yukari, người trông đang có vẻ vô cùng sảng khoái.
+とある日──\n{playername}とビカラはランドソルの街歩きをした後、\nベンチに座って一息ついていた。=Một ngày nọ── Sau khi cùng {playername} dạo quanh phố phường Landsol, Vikala ngồi xuống ghế băng để nghỉ xả hơi.
+きょ、今日も道案内ありがとうございました……\nおかげで、ようやくランドソルのことも分かってきた気がします……=H-Hôm nay cũng cảm ơn anh đã dẫn đường giúp em... Nhờ có anh mà em cảm thấy cuối cùng mình cũng bắt đầu hiểu về Landsol rồi...
+あ、いやまだ道には迷います、絶対に……\n前に比べればマシになったということで……\nそ、その、調子に乗ってるように聞こえたらすみません……=À, không, chắc chắn là em vẫn sẽ còn lạc đường thôi... Ý em là nó đã khá hơn so với lúc trước một chút... V-Vậy nên, nếu em nói nghe có vẻ hơi tự mãn quá thì cho em xin lỗi ạ...
+
+Player Input
+力になれたならよかったよ。=Anh rất vui vì đã giúp được em.
+
+そ、それはもう助かってます……！\n本当に何から何まで……\nかしこみです……=Ch-Chuyện đó thực sự đã giúp em rất nhiều ạ...! Thật sự là từ đầu đến cuối luôn... Em vô cùng đội ơn anh...!
+うっひゃほ～～～～い！！\n風がきもちいい～～っ！=U-hyahoooooo!! Gió thổi mát quá đi mất thôi!
+
+Player Voice
+This voice...=Giọng nói này là...
+
+キンキンに冷えた麦しゅわの後は夕涼み！\n火照った体にベストマーッチ！\n最高の組み合わせよね～♪=Sau khi làm một ly lúa mạch sủi bọt lạnh tê người thì đi hóng gió chiều là nhất! Cực kỳ hợp với cái cơ thể đang nóng bừng này luôn! Đúng là một sự kết hợp hoàn hảo mà~♪
+んー？\nあっれー、{playername}くんじゃな～い！\nぐーぜんねぇ～あははは～♪=Hửm~? Ơ kìa, chẳng phải là cậu em {playername} đây sao! Đúng là trùng hợp quá đi nha~ á ha ha ha~♪
+
+Player Input
+ユカリさん……=Chị Yukari...
+
+あ、あちらのご機嫌お姉さんもお知り合いなんですね……\nやっぱりあなた、ランドソルの人大体友達なんじゃ……=H-Hóa ra anh cũng quen biết cả người chị đang phấn khích đằng kia nữa sao... Quả nhiên anh gần như là bạn của tất cả mọi người ở Landsol rồi còn gì...
+あっるえー？\nちょっとキミキミ、まーた知らない女の子と一緒じゃなーい！\nほんと隅に置けないんだから～もう！=kìa~? Này này cậu em, lại đang đi cùng với một cô bé mà chị không biết nữa rồi nhé! Thật là không thể rời mắt khỏi cậu được mà~ ghét ghê!
+えー……そこの子！\n名前は？=Ê~... cô bé đằng đó ơi! Tên em là gì vậy?
+あ……\nビカラ、です……=Dạ... em là... Vikala ạ...
+ビカラちゃん……うん、ビカラちゃんね！　覚えたわ！\nで、お姉さんはねー？　ユカリって言うの！\nよろしくね～んふふ♪=Vikala-chan... Ừm, Vikala-chan nhé! Chị nhớ rồi! Còn chị đây á? Chị tên là Yukari! Rất vui được làm quen nha~ hừm hừm♪
+ご機嫌どころじゃないくらいの上機嫌だよ……\n{playername}さんの交友関係、どうなってるの……？\nあたしみたいなのにも親切だし……警戒心とかないのかな……？　=Không chỉ là sảng khoái đâu mà là quá sức hưng phấn luôn rồi... Mối quan hệ của anh {playername} rốt cuộc là rộng đến mức nào vậy...? Anh ấy tử tế với cả một người như mình... không lẽ anh ấy không có chút cảnh giác nào sao...?
+えっと……あー、ビカラちゃん！\n一ついいことを教えてあげる！\n……{playername}くんには気をつけなさいよ～？=Ừm... à, Vikala-chan! Để chị nói cho em nghe một điều hay ho này! ...Em phải cẩn thận với cậu em {playername} này đấy nhé~?
+は、はい？=D-Dạ?
+あはははは、別に危ない子ってわけじゃないわよ？\nほんっ……とーにいい子！　それは間違いないの！\nお姉さんが保証するわ！=Á ha ha ha, không phải ý chị nói cậu ấy là người nguy hiểm đâu? Cậu ấy thật... sự là một đứa trẻ tốt! Điều đó là không phải bàn cãi luôn! Chị bảo đảm đấy!
+あ、保証といえばねー？　気軽に保証人とかになったらダメよ？\nお金関係はしっかりしておくこと！　大変な目にあっちゃうから！\n分かったぁ？　お姉さんの言うことはちゃ～～んと聞くのよ？=À, nhắc đến bảo đảm mới nhớ? Tuyệt đối không được dễ dàng đi làm người bảo lãnh cho ai đó đâu nhé? Chuyện liên quan đến tiền bạc là phải rạch ròi! Nếu không là rước họa vào thân đấy! Hiểu chưa hả? Phải nghe cho thậ-t kỹ lời chị nói đấy nhé~?
+あ、お姉さんはその辺りの警戒心あるんだ……=À, hóa ra chị ấy lại có sự cảnh giác ở khía cạnh đó...
+それで、えーっと……\nあれ？\n何の話してたんだっけ。=Thế rồi, ừm... Ơ? Chị em mình vừa nói đến chuyện gì ấy nhỉ?
+
+Player Input
+僕のことを話してたよ。=Chị đang nói về em đấy.
+
+あーん、そうだった！\nキミってば、さすがね～\nこのこのぉ～♪=A đúng rồi! Cậu em đúng là tinh ý thật đấy~ Cái cậu này thật là~♪
+で、ビカラちゃん！\nこういうところよ彼のこういうところ！\nこういうところに気をつけてほしいのよ～！=Vậy nên, Vikala-chan! Chính là chỗ này đây, cái điểm này của cậu ấy này! Chị muốn em phải cẩn thận với những điểm như thế này đấy~!
+えぇ……\n褒めてたのに……？　=Ơ... Chị ấy đang khen anh ấy mà nhỉ...?
+彼ってやさしいでしょ？　気がきくでしょ？\nだからね～……\n人をダメにしちゃうのよ～～～！！=Cậu ấy vừa hiền lành đúng không? Lại còn tâm lý nữa đúng không? Chính vì thế nên là~... Sẽ khiến người ta trở nên hư hỏng mất thôi~~!!
+ダ、ダメにするかどうかは分からないですけど……\n確かに、よく助けてもらってます……=E-Em cũng không biết là có bị hư hỏng hay không nữa... nhưng đúng là anh ấy thường xuyên giúp đỡ em ạ...
+でっしょおー？\n彼のおかげで、私もじぇんじぇんダメになっちゃったわ～！\n甘えちゃって、だらしなくなっちゃって……もう大変よぉ～！=Đúng không nào~? Nhờ có cậu ấy mà chị cũng trở nên hư hỏng hết cả rồi đây này~! Cứ thích làm nũng rồi lại trở nên lôi thôi lếch thếch... thật là khổ quá đi mà~!
+あれ……？\nこの時間、もしかして永遠に続いたりする……？　=Ơ kìa...? Không lẽ cái cuộc trò chuyện này sẽ kéo dài mãi mãi luôn sao...?
+あのね、ビカラちゃん！\nお姉さんはねぇ、こう見えても聖騎士なの！\n普通の騎士じゃないわよ？　せ・い・き・し！=Này nhé Vikala-chan! Chị đây trông thế này thôi chứ vốn là một Thánh Hiệp Sĩ đấy! Không phải hiệp sĩ bình thường đâu nhé? Là THÁNH-HIỆP-SĨ!
+聖騎士は清廉潔白！\nだらしなさとは無縁じゃないといけないのよ！\nそれなのに……この子のせいで……=Thánh Hiệp Sĩ là phải thanh liêm khiết tịnh! Phải hoàn toàn không liên quan gì đến sự lôi thôi! Vậy mà... chỉ tại cái cậu này...
+
+Player Input
+ユカリさんは元聖騎士だよね？=Chị là "cựu" Thánh Hiệp Sĩ đúng không?
+
+こら！　細かいこと気にする男はモテないわよ！\n元でも聖騎士は聖騎士なの～！\nはい、ご一緒に！　せーのっ！　せ・い・き・し！=Này! Đàn ông mà cứ soi xét mấy cái tiểu tiết là không có ai yêu đâu đấy! Dù là "cựu" thì Thánh Hiệp Sĩ vẫn cứ là Thánh Hiệp Sĩ thôi~! Nào, cùng hô theo chị nào! Một, hai, ba! THÁNH-HIỆP-SĨ!
+せせ、せい、き、し……？=Th-th-thánh... hiệp... sĩ...?
+んふ～よろしい！\nビカラちゃんは素直ないい子ね～うんうん♪=Hừm hừm~ giỏi lắm! Vikala-chan đúng là một cô bé ngoan ngoãn biết nghe lời mà~ ừm ừm♪
+じゃ～あ～、そんなビカラちゃんには……\nお姉さんがこれをあげます！=Vậy th-ì~, để thưởng cho một cô bé ngoan như Vikala-chan... Chị sẽ tặng em cái này!
+じゃーん！　伝説の剣しゅわふ……\nじゃなかった、しゅこふにゃ……にゃんこ……\nでもなくて……ううん、ちょ～っと気合入れるわね……こほん。=Tà-da! Thanh kiếm truyền thuyết Shuwafu... à không phải, Shukofunya... Nyanko... cũng không phải nốt... Ưm, để chị lấy lại bình tĩnh chút đã... khụ khụ.
+スコフニュング！\nあはは、ちゃんと言えた～♪　できるお姉さんならこれくらい楽勝よ～！\nというわけで、ビカラちゃんどーぞ！=Skofnung! Á ha ha, cuối cùng cũng nói được rồi~♪ Với một người chị tài giỏi như này thì mấy cái tên đó chỉ là chuyện nhỏ thôi! Thế nên, tặng em này Vikala-chan!
+ええっ？\nい、いいんですか……？=Hả? Ch-Chị chắc chứ ạ...?
+いーの、いーの！\n麦しゅわ買ったら、キャンペーンで当たっただけだから！\n景品のチョイスミスじゃない？　こういうときはおつまみ一択よね～？=Không sao, không sao đâu! Chẳng qua là chị đi mua nước lúa mạch rồi trúng thưởng trong đợt khuyến mãi thôi! Chắc là người chọn quà bị nhầm hay sao ấy chứ? Những lúc thế này thì cứ mồi nhắm mà chọn là chuẩn nhất rồi, đúng không nào~?
+じゃ、お姉さんは帰ります！\n家で飲みなおさないといけないので～あはは！\n二人も気をつけて帰りなさいよ～♪=Vậy thôi, chị về đây! Chị còn phải về nhà làm thêm vài chầu nữa~ á ha ha! Hai đứa cũng cẩn thận trên đường về nhé~♪
+行っちゃった……\nな、なんだかすごい人ですね……=Chị ấy đi mất rồi... Th-Thật là một người phi thường theo nhiều nghĩa nhỉ...
+後日──\nビカラは麦しゅわを飲んでいない状態のユカリと出会い、\nあまりのギャップに驚くこととなる。=Vài ngày sau── Vikala đã gặp lại Yukari trong trạng thái không uống một giọt nước lúa mạch nào, và cô đã vô cùng sửng sốt trước sự khác biệt một trời một vực đó.
+そしてユカリもまた、再会時にビカラがネズ耳をつけていたことで\nあまりのギャップに驚くこととなるのだった──=Và rồi chính Yukari cũng đã phải ngỡ ngàng trước sự thay đổi chóng mặt của Vikala khi thấy cô đeo đôi tai chuột trong lần gặp lại ấy──

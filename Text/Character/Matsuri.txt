@@ -1,0 +1,34 @@
+##Profile##
+【物理】前衛の、機敏な動きで敵をかき回す騎士見習い。ユニオンバーストで相手の陣地の真ん中に飛び込み、自分の周囲を攻撃するスキルで相手を攻め立てる。=[Vật lý] Một kỵ sĩ học việc chiến đấu ở tiền tuyến, quấy nhiễu kẻ địch với các chuyển động linh hoạt. Với Union Burst, cô lao thẳng vào trung tâm hàng ngũ địch, nơi kỹ năng của cô có thể tấn công kẻ địch xung quanh.
+
+ヒーローごっこ=Giả làm Anh Hùng
+ヒーローに憧れる騎士見習いの少女=Một kỵ sĩ học việc ngưỡng mộ các anh hùng
+
+##UB##
+タイガーヒーローボンバー=Hổ Anh Hùng Bomber
+前から３番目の敵の目の前に飛び込み、その敵を中心とした範囲内の敵すべてに物理大ダメージを与える。=Nhảy về phía kẻ địch thứ ba gần nhất và gây lượng sát thương vật lý lớn lên toàn bộ kẻ địch trong khu vực xung quanh bản thân.
+
+##S1##
+タイガーショック=Hổ Sốc
+自分の前後の範囲内の敵に物理小ダメージを与え、さらにスタンさせる。=Gây sát thương vật lý nhỏ lên toàn bộ kẻ địch trong khu vực xung quanh bản thân và gây choáng.
+
+##S2##
+タイガースピン=Hổ Xoay
+自分の前後の範囲内の敵に物理小ダメージを与える。=Gây sát thương vật lý trung bình lên toàn bộ kẻ địch trong khu vực xung quanh bản thân.
+
+##EX##
+ヒーローの心得=Nguyên Tắc Anh Hùng
+ヒーローの心得+=Nguyên Tắc Anh Hùng+
+
+##UB+##
+ナイトメアブレイブス=Nightmare Braves
+前から３番目の敵の目の前に飛び込み、その敵を中心とした範囲内の敵すべてに物理大ダメージを与える。さらに、自分に物理/魔法無効バリアを展開する。自分のＨＰが低いほどダメージとバリアの無効ダメージ量がアップする。=Nhảy ra trước kẻ địch thứ ba và gây sát thương vật lý khổng lồ lên toàn bộ kẻ địch trong phạm vi xung quanh kẻ địch đó. Ngoài ra, triển khai một tấm khiên phản vật lý/phép thuật lên bản thân. HP càng thấp, sát thương kỹ năng và sát thương phản của khiên càng cao.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 450.\n►Triển khai Khiên trên bản thân, phản $1 sát thương vật lý/phép thuật trong 18s.
+
+##S1+##
+タイガーショック+=Hổ Sốc+
+自分の前後の範囲内の敵に物理小ダメージを与え、スタンさせる。さらに、自分の物理防御力と魔法防御力を特大アップさせる。=Gây sát thương vật lý nhỏ lên toàn bộ kẻ địch trong khu vực xung quanh bản thân và gây choáng. Tăng phòng thủ vật lý và phép thuật của bản thân rất lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=Thời gian niệm: 0.76s\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 200.\n►Gây choáng mục tiêu trong 2s.\n►Tăng phòng thủ vật lý của bản thân $2 trong 12s.\n►Tăng phòng thủ phép thuật của bản thân $3 trong 12s.
+
+##UE##
+ジャスティスメダル=Huy Chương Công Lý

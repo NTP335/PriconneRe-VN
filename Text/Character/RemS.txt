@@ -1,0 +1,47 @@
+##Profile##
+【物理】前衛で夏の日差しの中、余暇を楽しむ双子の妹。ＵＢで鬼族の力を解放すると攻防両面に加えＨＰ吸収が上昇し、目に映る全てを【狂騒】のままに叩き伏せる。=[Vật lý] Một song sinh nhỏ thích tận hưởng thời gian rảnh rỗi dưới nắng hè ở tuyến đầu. Khi giải phóng sức mạnh Oni qua UB, khả năng hút HP của cô ấy tăng lên cùng với khả năng tấn công và phòng thủ, và cô ấy đập tan mọi thứ cô ấy thấy trong [Mania].
+鬼化中=Oni Mode
+
+##UB##
+納涼 アル・ヒューマ=Summer Al Huma
+目の前の敵１キャラに物理特大ダメージを与え、自分に【狂騒】を１つ付与する。【狂騒】は最大５まで追加される。さらに鬼化していない時、自分の物理攻撃力、物理防御力、魔法防御力を特大アップ、ＨＰ吸収を大アップして鬼化する。=Gây sát thương vật lý (P.DMG) khổng lồ cho kẻ thù phía trước và nhận 1 ngăn [Mania], tối đa 5. Khi không ở trong [Oni Mode], tăng cực lớn P.ATK, P.DEF, M.DEF và HP Drain của bản thân, và chuyển sang [Oni Mode].
+r:"^自分に狂騒を付与する敵単体に(\d+)の物理ダメージ鬼化状態でない場合、鬼化状態になり以下の効果が発動する自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分のＨＰ吸収を(\d+)アップ$"=►Gây $1 sát thương vật lý (P.DMG) cho kẻ thù.\n►Nhận 1 ngăn [Mania].\n\nNếu không ở trong [Oni Mode]:\n►Tăng P.ATK của bản thân lên $2 trong 180s.\n►Tăng P.DEF của bản thân lên $3 trong 180s.\n►Tăng M.DEF của bản thân lên $4 trong 180s.\n►Tăng HP Drain của bản thân lên $5 trong 180s.\n►Chuyển sang [Oni Mode] trong 180s.
+
+##S1##
+ビーチサイドスター=Beachside Star
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を大アップする。=Gây sát thương vật lý (P.DMG) lớn cho kẻ thù phía trước và tăng cực lớn P.ATK của bản thân.
+
+##S2##
+水際の癒し=Waterside Healing
+
+##SPUB##
+このスキルのスキルレベルは「納涼 アル・ヒューマ」と連動しています=Cấp độ kỹ năng của kỹ năng này liên kết với Summer Al Huma
+目の前の敵１キャラに物理特大ダメージを与え、自分に【狂騒】を１つ付与する。【狂騒】は最大５まで追加される。=Gây sát thương vật lý (P.DMG) khổng lồ cho kẻ thù phía trước và nhận 1 ngăn [Mania], tối đa 5.
+r:"^自分に狂騒を付与する敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý (P.DMG) cho kẻ thù.\n►Nhận 1 ngăn [Mania].
+
+##SP1##
+逆巻く鉄球=Raging Morningstar
+目の前の敵１キャラに物理特大ダメージを与え、自分のＴＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây sát thương vật lý (P.DMG) khổng lồ cho kẻ thù phía trước và hồi một lượng trung bình TP cho bản thân. Ngoài ra, còn gây sát thương cho tất cả đồng minh dựa trên HP tối đa của họ. Sát thương vật lý tăng theo số ngăn [Mania]. Đồng minh không nhận TP từ sát thương do kỹ năng này gây ra.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 (+0.4×$1×[Mania]) sát thương vật lý (P.DMG) cho kẻ thù.\n►Hồi TP của bản thân lên 200.\n►Gây sát thương bằng 1% (+0.8%×[Mania]) HP cho tất cả đồng minh.
+
+##SP2##
+ブレイジングフリーズ=Blazing Freeze
+目の前の敵１キャラに物理特大ダメージを与え、自分のＨＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây sát thương vật lý (P.DMG) khổng lồ cho kẻ thù phía trước và hồi một lượng trung bình HP cho bản thân. Ngoài ra, còn gây sát thương cho tất cả đồng minh dựa trên HP tối đa của họ. Sát thương vật lý tăng theo số ngăn [Mania]. Đồng minh không nhận TP từ sát thương do kỹ năng này gây ra.
+r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 (+0.4×$1×[Mania]) sát thương vật lý (P.DMG) cho kẻ thù.\n►Hồi HP của bản thân lên $2.\n►Gây sát thương bằng 1% (+0.8%×[Mania]) HP cho tất cả đồng minh.
+
+##EX##
+夏まっ盛りです！=Summer in Full Swing!
+夏まっ盛りです！+=Summer in Full Swing!+
+
+
+
+##S1+##
+サマーモーニングスター=Summer Morning Star
+ビーチサイドスター+=Beachside Star+
+逆巻く鉄球+=Raging Morningstar+
+
+目の前の敵１キャラに物理特大ダメージを与え、自分の物理攻撃力を大アップする。=Gây sát thương vật lý (P.DMG) khổng lồ cho kẻ thù phía trước và tăng cực lớn P.ATK của bản thân.
+
+目の前の敵１キャラに物理特大ダメージを２回与え、物理防御力を小ダウンさせ、自分のＴＰを中回復する。さらに、自分以外の味方全員に最大ＨＰに応じた物理割合ダメージを与える。このスキルのダメージは、【狂騒】の数に応じて増加する。このスキルによる味方へのダメージでは味方のＴＰは回復しない。=Gây sát thương vật lý (P.DMG) khổng lồ hai lần cho kẻ thù phía trước, giảm nhẹ P.DEF của chúng và hồi một lượng trung bình TP cho bản thân. Hơn nữa, gây sát thương vật lý tỷ lệ cho tất cả đồng minh ngoại trừ bản thân dựa trên HP tối đa của họ. Sát thương của kỹ năng này tăng dựa trên số ngăn [Mania]. Sát thương gây ra cho đồng minh từ kỹ năng này không hồi TP của họ.
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＴＰを200回復自分以外の味方全体に最大ＨＰの１％の物理割合ダメージ$"=►Gây $1 sát thương vật lý (P.DMG) cho một kẻ thù.\n►Gây $2 sát thương vật lý (P.DMG) cho một kẻ thù.\n►Giảm P.DEF của một kẻ thù đi $3.\n►Hồi TP của bản thân lên 200.\n►Gây sát thương vật lý tỷ lệ bằng 1% HP tối đa cho tất cả đồng minh ngoại trừ bản thân.

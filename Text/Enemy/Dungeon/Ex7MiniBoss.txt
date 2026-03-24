@@ -1,0 +1,43 @@
+
+自身の物理攻撃力と物理防御力と魔法防御力を特大アップさせ、ＴＰを中回復する。=Tăng rất lớn P.ATK, P.DEF và M.DEF của bản thân, và hồi moderately TP.
+通常攻撃は、最も近い敵１キャラを中心にした小範囲内の敵最大２キャラに物理特大ダメージを与える。=Tấn công thường gây sát thương vật lý massive lên tối đa 2 kẻ địch trong một khu vực nhỏ xung quanh nhân vật kẻ địch gần nhất.
+ユニオンバーストは、最も近い敵１キャラを中心にした小範囲に物理特大ダメージを与える。その後、敵全体にこのスキルで与えたダメージ量に応じた物理ダメージを与える。このスキルによる全体ダメージでは、ＴＰが回復しない。=Union Burst gây sát thương vật lý massive lên kẻ địch trong một khu vực nhỏ xung quanh nhân vật kẻ địch gần nhất. Sau đó, gây sát thương vật lý lên tất cả kẻ địch dựa trên sát thương gây ra bởi kỹ năng này. Tổng sát thương này không hồi TP.
+フラワーシュバリエから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Giảm moderately tỷ lệ hồi TP của nhân vật trong party từ mọi sát thương nhận bởi Flower Chevalier.
+バトル開始時、敵全体にＴＰ上昇上限効果を付与する。=Ngay ở đầu trận đấu, áp dụng hiệu ứng giới hạn hồi TP lên tất cả kẻ địch.
+環境効果【百花繚乱】を発動する。このスキルの効果は敵、味方すべてに適用される。一定時間が経過するごとに、敵、味方全体のＴＰを中回復させる。=Hiệu ứng Môi Trường: [Muôn Vạn Hoa Nở], áp dụng lên tất cả kẻ địch và đồng minh. Ở các khoảng thời gian đều đặn, hồi moderately TP cho tất cả kẻ địch và đồng minh.
+
+
+百花繚乱=Muôn Vạn Hoa Nở
+一定時間が経過するごとに、敵、味方全体のＴＰを中回復させる。=Ở các khoảng thời gian đều đặn, hồi moderately TP cho tất cả kẻ địch và đồng minh.
+
+
+環境効果【炎天烈日】を発動する。このスキルの効果は敵、味方すべてに適用される。一定時間が経過するごとに、敵、味方全体に最大ＨＰに応じた最大20万の割合ダメージを与える。さらに、付与される継続ダメージが上昇する。=Hiệu ứng Môi Trường: [Mặt Trời Cháy] Ở các khoảng thời gian đều đặn, gây sát thương theo % dựa trên max HP lên tất cả kẻ địch và đồng minh (tối đa 200,000). Ngoài ra, tăng sát thương liên tục gây ra.
+
+
+炎天烈日=Mặt Trời Cháy
+一定時間が経過するごとに、敵、味方全体に最大ＨＰに応じた最大20万の割合ダメージを与える。さらに、付与される継続ダメージが上昇する。=Ở các khoảng thời gian đều đặn, gây sát thương theo % dựa trên max HP lên tất cả kẻ địch và đồng minh (tối đa 200,000). Ngoài ra, tăng sát thương liên tục gây ra.
+バロン・ファンガス=Baron Nấm
+環境効果【秋高馬肥】を発動する。このスキルの効果は敵、味方すべてに適用される。一定時間が経過するごとに、敵、味方全体の物理攻撃力、魔法攻撃力、物理防御力、魔法防御力をアップさせる。この効果の効果量は敵、味方を合わせた数に応じて増加する。=Hiệu ứng Môi Trường: [Mùa Thu Gặt Há], áp dụng lên tất cả kẻ địch và đồng minh. Ở các khoảng thời gian đều đặn, tăng P.ATK, M.ATK, P.DEF và M.DEF của tất cả kẻ địch và đồng minh. Lượng tăng phụ thuộc vào tổng số kẻ địch và đồng minh.
+バロン=Baron
+ファンガスから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Giảm moderately tỷ lệ hồi TP của nhân vật trong party từ mọi sát thương nhận bởi Nấm.
+ユニオンバーストは、敵全体に自身の物理攻撃力に応じた物理割合ダメージを与える。さらに、キャラのＨＰが40％未満のキャラを混乱状態にする。このスキルによるダメージでは、ＴＰが回復しない。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương vật lý theo % P.ATK của bản thân lên tất cả kẻ địch. Ngoài ra, gây choáng (Confuse) lên nhân vật có HP dưới 40%. Sát thương kỹ năng này không hồi TP. Hiệu ứng trạng thái được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+前方範囲内の敵に混乱状態を付与し、味方全体の物理防御力と魔法防御力をバトル終了まで大アップさせる。=Gây hiệu ứng choáng (Confusion) lên kẻ địch trong phạm vi phía trước và tăng rất lớn P.DEF và M.DEF của tất cả đồng minh đến hết trận.
+子分を４体召喚し、敵全体をノックバックさせる。子分は前から１番目の敵キャラに物理中ダメージを与える。=Triệu hồi 4 quái nhỏ và đẩy lùi tất cả kẻ địch. Các quái nhỏ gây sát thương vật lý moderate lên nhân vật kẻ địch ở hàng đầu.
+化け茸を統べる気高きキノコの貴族。幻覚性の胞子をまき散らし、敵の精神を侵食する。=Một quái nấm quý tộc cai trị đám Nấm Ám Ảnh, phun ra bào tử gây ảo giác để xâm lược tâm trí kẻ địch.
+
+
+秋高馬肥=Mùa Thu Gặt Há
+一定時間が経過するごとに、敵、味方全体の物理攻撃力、魔法攻撃力、物理防御力、魔法防御力をアップさせる。この効果の効果量は敵、味方を合わせた数に応じて増加する。=Ở các khoảng thời gian đều đặn, tăng P.ATK, M.ATK, P.DEF và M.DEF của tất cả kẻ địch và đồng minh. Hiệu ứng tăng dựa trên tổng số kẻ địch và đồng minh.
+
+トウミングマ=Hibearnating
+生涯冬眠すると決め、氷穴に篭る巨大熊。日々を夢の中で暮し、獲物を狩る一瞬、覚醒する。=Một con gấu khổng lồ quyết định ngủ đông suốt đời, ở lại trong một hang băng. Nó sống những ngày trong giấc mơ, thức giấc thoáng chốc để săn mồi.
+環境効果【寒気凛冽】を発動する。このスキルの効果は敵、味方すべてに適用される。敵、味方全体の行動速度を小ダウンさせる。このスキルの効果は他の行動速度変化スキルと重複する。さらに一定時間が経過するごとに、初期値より行動速度が低い状態のキャラに凍結状態を付与する。=Hiệu ứng Môi Trường: [Lạnh Giá Khắc Nghiệt], áp dụng lên tất cả kẻ địch và đồng minh, giảm slightly tốc độ hành động của họ. Hiệu ứng này cộng dồn với các thay đổi tốc độ hành động khác. Ngoài ra, ở các khoảng thời gian đều đặn, gây hiệu ứng đông cứng (freeze) lên nhân vật có tốc độ hành động thấp hơn giá trị ban đầu.
+トウミングマから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Giảm moderately tỷ lệ hồi TP của nhân vật trong party từ mọi sát thương nhận bởi Hibearnating.
+ユニオンバーストは、敵全体に魔法大ダメージを与える。さらに、敵全体の物理攻撃力、魔法攻撃力、行動速度を大ダウンさせる。このスキルによるダメージでは、敵のＴＰが回復しない。このスキルの状態異常はダメージを無効化しても付与される。=Union Burst: Gây sát thương ma thuật massive lên tất cả kẻ địch. Ngoài ra, giảm rất lớn P.ATK, M.ATK và tốc độ hành động của tất cả kẻ địch. Sát thương kỹ năng này không hồi TP cho kẻ địch. Hiệu ứng trạng thái được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+前方３キャラに物理小ダメージを与える。さらに、前方１キャラをノックバックし、凍結状態にして移動速度を下げる。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương vật lý nhỏ lên 3 nhân vật gần nhất. Ngoài ra, đẩy lùi nhân vật gần nhất, gây đông cứng (freeze) và giảm tốc độ di chuyển của chúng. Hiệu ứng trạng thái của kỹ năng này được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+
+
+寒気凛冽=Lạnh Giá Khắc Nghiệt
+敵、味方全体の行動速度を小ダウンさせる。このスキルの効果は他の行動速度変化スキルと重複する。さらに一定時間が経過するごとに、初期値より行動速度が低い状態のキャラに凍結状態を付与する。=Giảm slightly tốc độ hành động của tất cả kẻ địch và đồng minh. Hiệu ứng này cộng dồn với các thay đổi tốc độ hành động khác. Ngoài ra, ở các khoảng thời gian đều đặn, gây hiệu ứng đông cứng (freeze) lên nhân vật có tốc độ hành động thấp hơn giá trị ban đầu.
+
+

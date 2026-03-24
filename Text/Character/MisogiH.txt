@@ -1,0 +1,34 @@
+##Profile##
+【物理】前衛で範囲攻撃を放つ、カボチャ衣装の悪戯娘。敵に５カウントで爆発する爆弾を仕掛けたり、カボチャの手榴弾を投げつけたりと、様々な範囲攻撃で敵を弄ぶ。=[Vật Lý] Một tên quậy phá nhỏ mặc trang phục bí ngô, gây sát thương diện rộng từ hàng trước. Dù đặt bom nổ sau 5 giây hay ném lựu bí ngô, cô sẽ khiến nhiều kẻ thù cùng lúc chịu đau đớn.
+
+##UB##
+トリックオアトリック！=Bẫy hay Bẫy!
+【カウントダウン】前方の敵すべてに爆弾を設置し、５カウント後に起爆する。爆弾はそれぞれ、起爆時に敵全体に物理中ダメージを与える。=[Đếm Ngược] Đặt bom lên kẻ địch phía trước. Mỗi quả bom nổ sau khi đếm đến 5, gây sát thương Vật Lý vừa phải cho toàn bộ kẻ địch.
+r:"^敵全体に(\d+)の物理ダメージ$"=►Gây $1 Sát Thương Vật Lý cho toàn bộ kẻ địch.
+
+##S1##
+ペインティングキック=Đá Sơn Dầu
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương Vật Lý vừa phải cho kẻ địch trong phạm vi.
+r:"^範囲内の敵すべてに(\d+)の物理ダメージ$"=►Gây $1 Sát Thương Vật Lý cho kẻ địch trong phạm vi.
+
+##S2##
+びっくりパンプキン=Bất Ngờ Bí Ngô
+前から３番目の敵を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương Vật Lý vừa phải cho kẻ địch trong vùng xung quanh kẻ địch thứ ba tính từ hàng trước.
+
+##EX##
+トリックエキスパート=Kỹ Thuật Bẫy
+トリックエキスパート+=Kỹ Thuật Bẫy+
+
+##S1+##
+ペインティングキック+=Đá Sơn Dầu+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、物理攻撃力を中ダウンさせる。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi và giảm tấn công vật lý của chúng một chút. Khi kỹ năng này gây bạo kích, sát thương sẽ tăng gấp ba thay vì gấp hai.
+r:"^範囲内の敵すべてに(\d+)の物理ダメージ範囲内の敵すべての物理攻撃力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm tấn công vật lý của kẻ địch đi $2 trong 12 giây.
+
+##S2##
+びっくりパンプキン+=Bí Ẩn Bí Yếu Dưa Hấu+
+自分の物理攻撃力を大アップさせる。さらに、前から３番目の敵を中心とした範囲内の敵すべてを長時間スタンさせ、物理大ダメージを与える。=Tăng mạnh tấn công vật lý của bản thân. Đồng thời gây sát thương vật lý vừa phải và gây choáng lâu cho kẻ địch trong phạm vi quanh kẻ địch thứ ba.
+r:"^自分の物理攻撃力を(\d+)アップ範囲内の敵を一定時間行動不能にする範囲内の敵すべてに(\d+)の物理ダメージ$"=►Tăng tấn công vật lý của bản thân lên $1 trong 18 giây.\n►Gây Choáng cho kẻ địch trong phạm vi 300 quanh kẻ địch thứ ba trong 5 giây.\n►Gây $2 sát thương vật lý cho kẻ địch trong phạm vi 300 quanh kẻ địch thứ ba.
+
+##UE##
+魔拳トリックオアトリック=Mẹo Ma Thuật Hay Đấm Tay
+ハロウィンお菓子ポーチ=Túi Kẹo Halloween

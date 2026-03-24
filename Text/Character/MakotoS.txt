@@ -1,0 +1,34 @@
+##Profile##
+【物理】前衛で攻撃対象が１つの敵に特化した海の狼娘。攻撃対象が１つの場合、スキルとユニオンバーストともに真価を発揮し他を圧倒する絶大な破壊力で敵をなぎ払う。=[Vật lý] Một cô nàng sói trên bãi biển, đánh từ tuyến đầu. Kỹ năng và Union Burst của cô đạt tiềm năng tối đa khi chỉ còn một mục tiêu địch, cho phép cô áp đảo chúng bằng một loạt đòn đánh hủy diệt.
+
+##UB##
+サマーウルフェンブリッツ=Summer Wolven Blitz
+目の前の敵１キャラに物理大ダメージを与える。残りの攻撃対象が１つの場合、代わりに物理特大ダメージを与え、さらに物理防御力を大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước trực tiếp. Nếu chỉ còn một mục tiêu kẻ địch trong trận đấu, thay vào đó gây sát thương vật lý cực lớn và giảm phòng thủ vật lý của chúng một cách lớn.
+r:"^残りの攻撃対象が１つの場合、敵単体に(\d+)の物理ダメージ残りの攻撃対象が２つ以上の場合、敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン$"=Nếu chỉ còn một kẻ địch trong trận đấu:\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $3.\n\nNếu còn hai hoặc nhiều kẻ địch trong trận đấu:\n►Gây $2 sát thương vật lý lên kẻ địch.
+
+##S1##
+アクアクロッシング=Aqua Crossing
+目の前の敵１キャラに物理中ダメージを与える。残りの攻撃対象が１つの場合、追加で物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước trực tiếp. Nếu chỉ còn một mục tiêu kẻ địch trong trận đấu, gây thêm sát thương vật lý nhỏ và giảm phòng thủ vật lý của chúng một chút.
+r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体に(\d+)の追加物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン$"=Nếu chỉ còn một kẻ địch trong trận đấu:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $3.\n\nNếu còn hai hoặc nhiều kẻ địch trong trận đấu:\n►Gây $1 sát thương vật lý lên kẻ địch.
+
+##S2##
+ブルーハウリング=Blue Howling
+自分の物理攻撃力を中アップさせる。残りの攻撃対象が１つの場合、この攻撃力アップは時間によって解除されなくなる。=Tăng sát thương vật lý của bản thân một cách vừa phải. Nếu chỉ còn một mục tiêu kẻ địch trong trận đấu, đợt tăng này có hiệu lực vĩnh viễn.
+
+##EX##
+海狼の闘気=Sea Wolf's Vigor
+海狼の闘気+=Sea Wolf's Vigor+
+
+##S1+##
+アクアクロッシング+=Aqua Crossing+
+目の前の敵１キャラに物理中ダメージを与える。残りの攻撃対象が１つの場合、追加で物理中ダメージを与え、物理防御力を小ダウンさせ、さらに自分の物理攻撃力を小アップさせる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước trực tiếp. Nếu chỉ còn một mục tiêu kẻ địch trong trận đấu, gây thêm sát thương vật lý trung bình và giảm phòng thủ vật lý của chúng một cách trung bình. Ngoài ra, tăng sát thương vật lý của bản thân một chút.
+r:"^敵単体に(\d+)の物理ダメージ残りの攻撃対象が１つの場合、敵単体に(\d+)の追加物理ダメージ残りの攻撃対象が１つの場合、敵単体の物理防御力を(\d+)ダウン残りの攻撃対象が１つの場合、自分の物理攻撃力を(\d+)アップ$"=Nếu chỉ còn một kẻ địch trong trận đấu:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $3.\n►Tăng sát thương vật lý của bản thân lên $4.\n\nNếu còn hai hoặc nhiều kẻ địch trong trận đấu:\n►Gây $1 sát thương vật lý lên kẻ địch.
+
+##S2+##
+ブルーハウリング+=Blue Howling+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。残りの攻撃対象が１つの場合、この物理攻撃力アップと物理攻撃クリティカル時のダメージアップは時間によって解除されなくなる。=Tăng mạnh sát thương vật lý của bản thân, tăng nhẹ sát thương vật lý chí mạng của bản thân và hồi TP một cách vừa phải cho bản thân. Nếu chỉ còn một mục tiêu kẻ địch trong trận đấu, đợt tăng này có hiệu lực vĩnh viễn.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを9％アップ自分のＴＰを150回復$"=►Tăng sát thương vật lý của bản thân lên $1.\n►Tăng sát thương vật lý chí mạng của bản thân lên 9%.\n►Hồi TP của bản thân lên 150.
+
+##UE##
+サマーウルフェンソード=Summer Wolven Sword
+ウルフェンサマービキニ=Summer Wolven Bikini

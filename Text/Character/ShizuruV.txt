@@ -1,0 +1,35 @@
+##Profile##
+【物理】中衛で皆を助けるパティシエールのお姉ちゃん。複数のパラメータが同時に上昇するフィールドを展開し、さらに効果時間中はスキル効果が大幅に強化される。=[Vật lý] Một chị đã trở thành đầu bếp hỗ trợ đồng đội từ trung tuyến. Cô thi triển một trường nâng cao các chỉ số khác nhau, và kỹ năng của cô trở nên mạnh mẽ hơn nhiều khi trường đó còn tồn tại.
+
+##UB##
+スウィートサンクチュアリ=Sweet Sanctuary
+自分の周囲に、物理攻撃力を中アップ、物理クリティカルを大アップ、ＴＰ上昇を小アップさせるフィールドを展開する。=Thi triển một trường xung quanh bản thân nâng cao P.ATK, tỷ lệ chí mạng vật lý và Tăng TP.
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する物理クリティカルを100アップさせるフィールドを展開するＴＰ上昇を5アップさせるフィールドを展開する$"=►Thi triển trường phạm vi 400 trong 16 giây:\n►Tăng P.ATK cho đồng đội lên $1.\n►Tăng tỷ lệ chí mạng vật lý cho đồng đội lên 100.\n►Tăng Tăng TP cho đồng đội lên 5.
+
+##S1##
+キュアネスサイン=Curing Sign
+自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復、ＴＰを小回復する。【フィールド展開中】味方全体のＨＰを中回復、ＴＰを小回復する。=Hồi phục máu và TP của đồng đội gần nhất có máu thấp nhất một chút. [Khi có Sweet Sanctuary] Hồi phục máu và TP của đồng đội một chút.
+r:"^対象のＨＰを(\d+)回復対象のＴＰを(\d+)回復$"=Thời gian niệm: 1.7325s\nNếu [Sweet Sanctuary] chưa kích hoạt:\n►Hồi phục máu của một đồng đội $1.\n►Hồi phục TP của một đồng đội $2.\n\nNếu [Sweet Sanctuary] đã kích hoạt:\n►Hồi phục máu của đồng đội $1.\n►Hồi phục TP của đồng đội $2.
+
+##S2##
+セグメントハートショット=Heartful Shot
+目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。【フィールド展開中】ダメージと防御力のダウン値が上昇する。=Gây sát thương vật lý vừa phải cho kẻ địch ngay phía trước và giảm P.DEF của chúng một chút. [Khi có Sweet Sanctuary] Gây nhiều sát thương vật lý hơn, giảm P.DEF nhiều hơn.
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンフィールド展開中、敵単体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 0.72s\nNếu [Sweet Sanctuary] chưa kích hoạt:\n►Gây $1 sát thương vật lý cho kẻ địch.\n►Giảm P.DEF của kẻ địch $3 trong 12 giây.\n\nNếu [Sweet Sanctuary] đã kích hoạt:\n►Gây $2 sát thương vật lý cho kẻ địch.\n►Giảm P.DEF của kẻ địch $4 trong 12 giây.
+
+##EX##
+お姉ちゃんピュアハート=Purehearted Big Sis
+お姉ちゃんピュアハート+=Purehearted Big Sis+
+
+##S1+##
+キュアネスサイン+=Curing Sign+
+自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復、ＴＰを小回復する。【フィールド展開中】味方全体のＨＰ中回復、ＴＰ小回復、物理攻撃力を大アップする。=Hồi phục máu và TP của đồng đội gần nhất có máu thấp nhất một chút. [Khi có Sweet Sanctuary] Hồi phục máu và TP của đồng đội một chút và tăng P.ATK một lượng lớn.
+r:"^対象のＨＰを(\d+)回復対象のＴＰを(\d+)回復対象の味方の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 1.7325s\nNếu [Sweet Sanctuary] chưa kích hoạt:\n►Hồi phục máu của một đồng đội $1.\n►Hồi phục TP của một đồng đội $2.\n\nNếu [Sweet Sanctuary] đã kích hoạt:\n►Hồi phục máu của đồng đội $1.\n►Hồi phục TP của đồng đội $2.\n►Tăng P.ATK cho đồng đội $3.
+
+##S2+##
+セグメントハートショット+=Heartful Shot+
+目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力を小ダウンさせる。【フィールド展開中】ダメージと防御力のダウン値が上昇する。さらに、味方全体の物理攻撃力を特大アップさせ、継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。=Gây sát thương vật lý vừa phải cho kẻ địch, giảm P.DEF một chút. [Khi có Sweet Sanctuary] Gây sát thương vật lý lớn, giảm P.DEF mạnh. Đồng thời, tăng mạnh P.ATK cho đồng đội, tặng hiệu ứng Hồi Máu và Hồi TP nhỏ cho đồng đội. Thời gian hiệu lực tất cả kỹ năng là 18 giây.
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンフィールド展開中、敵単体の物理防御力を(\d+)ダウンフィールド展開中、味方全体の物理攻撃力を(\d+)アップフィールド展開中、毎秒ＨＰを(\d+)回復フィールド展開中、毎秒ＴＰを(\d+)回復$"=Nếu [Sweet Sanctuary] chưa kích hoạt:\n►Gây $1 sát thương vật lý cho kẻ địch.\n►Giảm P.DEF của kẻ địch $3.\n\nNếu [Sweet Sanctuary] đã kích hoạt:\n►Gây $2 sát thương vật lý cho kẻ địch.\n►Giảm P.DEF của kẻ địch $4.\n►Tăng P.ATK cho đồng đội $5.\n►Hồi phục máu đồng đội $6/giây.\n►Hồi phục TP đồng đội $7/giây.
+
+##UE##
+デコレーションハート=Decoration Heart
+愛のおねえちゃんエプロン=Lovely Big Sis's Apron

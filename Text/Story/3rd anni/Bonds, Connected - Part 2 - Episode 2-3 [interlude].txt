@@ -1,0 +1,11 @@
+途切れたつながり=Mối Liên Kết Bị Cắt Đứt
+{playername}に声が届かず、アメスは自身の無力を嘆く。コッコロのことを忘れたことで『始まりの絆』が失われたからだと語りながら、アメスは{playername}を信じ、祈り続けるのであった。=Tiếng nói của cô ấy không thể đến được với {playername}, và Ameth than tiếc về sự bất lực của bản thân. Cô ấy tiếp tục tin tưởng và cầu nguyện cho anh ấy, đồng thời nói về việc quên Kokkoro đã khiến những mối liên kết của sự khởi đầu bị mất đi.
+……あんたにとって、コッコロたんとの絆は全ての始まり。=...Đối với cậu, mối liên kết với Kokkoro-tan là khởi đầu của tất cả mọi thứ.
+しかも、プリンセスナイトの力が使えない、って……\nコッコロたんの記憶を失ったから……？=Và, anh ấy nói rằng mình không thể sử dụng sức mạnh Princess Knight...?\nCó phải vì anh ấy đã mất ký ức về Kokkoro-tan...?
+やっぱり、届かない……！\nコッコロたんのこと、何とかして伝えたいのに……\nこういう時、世界に直接干渉できないのが本当に悔しいわ……！=Tớ thực sự không thể chạm được đến anh ấy...!\nNhưng tớ cần phải nói cho anh ấy biết về Kokkoro-tan bằng cách nào đó...\nĐúng là những lúc như thế này, việc không thể trực tiếp tương tác với thế giới thật sự rất khó chịu...!
+{playername}、聞こえる？\n応えてよ、ねぇ……！={playername}, cậu có nghe thấy tớ không?\nTrả lời tớ đi, này...!
+『始まりの絆』を失ってしまったから、\nあたしと話すこともできないし、プリンセスナイトの力も使えない……=Bởi vì cậu đã mất "mối liên kết ban đầu," cậu không thể nói chuyện với tớ, và cậu không thể sử dụng sức mạnh Princess Knight...
+……絆、というつながり……\nそれを失えば、こんなにも大きな影響が出てしまうのね……=...Mối liên kết được gọi là bonds...\nVậy mất nó lại có ảnh hưởng lớn như vậy...
+でも、あたしは信じてるわ。\nあんたたちとコッコロたん。\nこの世界でつないできた絆はなによりも強い。=Nhưng, tớ tin.\nVào tất cả các cậu và Kokkoro-tan.\nRằng trong thế giới này, đó là những mối liên kết mạnh mẽ nhất từng được hình thành.
+祈ることしかできないあたしだけど……\n信じて、祈り続けるから。=Tớ biết rằng tất cả những gì tớ có thể làm là cầu nguyện...\nNhưng, tớ sẽ tin tưởng, và tiếp tục cầu nguyện.
+お願い、どうか──=Xin hãy, tớ cầu xin cậu.

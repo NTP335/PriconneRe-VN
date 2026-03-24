@@ -1,0 +1,58 @@
+祭り太鼓はオーエドの華=Trống hội là tinh hoa của Oedo
+ニノンとの出会い=Cuộc gặp gỡ với Ninon
+太鼓の匠のポスター=Tấm áp phích của Bậc thầy Trống Taiko
+
+太鼓祭を控えるオーエド町──\nジータは、困った様子のニノンと出会う。=Thành phố Oedo trước thềm lễ hội trống Taiko── Djeeta bắt gặp Ninon đang có vẻ mặt đầy vẻ ưu tư.
+
+騎空団への依頼を受け、オーエド町まで荷物を運んできた\nジータと{playername}。\n二人は配達を終えると、町の中をのんびりと散策しはじめた。=Nhận ủy thác của đoàn kỵ sĩ bầu trời, Djeeta và {playername} đã vận chuyển hàng hóa đến thành phố Oedo. Sau khi hoàn tất việc giao hàng, cả hai bắt đầu thong thả dạo bước quanh thành phố.
+せっかくオーエドまで来たんだもんね。\nちょっと観光してから帰ろうよ。\nもしかしたら、ここにも掘り出し物があるかもしれないし。=Đã cất công đến tận Oedo rồi mà. Chúng mình đi tham quan một chút rồi hãy về nhé. Biết đâu ở đây cũng có những món đồ hời thì sao.
+
+Player Input
+いい温泉なら知ってるよ。=Tớ biết một suối nước nóng tuyệt vời lắm đấy.
+
+温泉かぁ……\nそれもいいね！\nちょうど仕事も終わったし、思い切って入っていっちゃおうか？=Suối nước nóng à... Nghe cũng hay đấy chứ! Vừa khéo công việc cũng xong xuôi rồi, hay là mình quyết định đi ngâm mình một phen luôn đi?
+その温泉、しばし待たれよデース！\nトウッ！=Suối nước nóng đó, hãy khoan đã DE-SU! TO-U!
+シュタッ！\nショーグンのチューシン、ニノン！\n白昼堂々と見参デース！=Xoẹt! Cận thần trung thành của Shogun, Ninon! Hiên ngang xuất hiện giữa ban ngày ban mặt đây DE-SU!
+や、屋根の上から飛び降りてきた……？\nもしかして、この子もあなたの知り合いなの？=C-Cô ấy vừa nhảy từ trên mái nhà xuống sao...? Chẳng lẽ cô bé này cũng là người quen của cậu à?
+知り合いではなく、ワタシは家来デス！\nそれも一番の家来デース！=Không phải người quen, mà ta là thuộc hạ DE-SU! Lại còn là thuộc hạ số một nữa đấy DE-SU!
+けらっ……\nえええ！？=Thuộc hạ... Hảảả!?
+驚いたジータに、{playername}は\nニノンと自分の関係について丁寧に説明した──=Trước sự ngạc nhiên của Djeeta, {playername} đã giải thích cặn kẽ về mối quan hệ giữa mình và Ninon──
+な、なるほど……\nちょっと驚いたけど、分かったよ。\nよろしくね、ニノンちゃん！=Ra, ra là vậy... Tớ hơi bất ngờ một chút nhưng hiểu rồi. Rất vui được gặp em, Ninon-chan!
+こちらこそデス、ジータさん！\nドウゾ以後お見知りおきクダサイ！=Ninon này cũng vậy DE-SU, Djeeta-san! Từ nay về sau mong được giúp đỡ nhiều hơn DE-SU!
+
+Player Input
+ニノンも温泉に行く？=Ninon cũng muốn đi suối nước nóng cùng chứ?
+
+オオー！　ハイ、お供しマ……じゃないデス！\nうっかりしてまシタ……二人にお話がありマス！=Ôi! Vâng, thần xin được hộ tốn... à không phải DE-SU! Suýt nữa thì quên mất... Ninon có chuyện muốn nói với hai người đây DE-SU!
+今度、オーエド町でおまつりがありマス。\nワタシもその準備を手伝っているんデス。=Sắp tới ở thành phố Oedo sẽ tổ chức lễ hội. Ninon cũng đang phụ giúp chuẩn bị cho lễ hội đó đây DE-SU.
+それで今日は、宣伝のポスターに使う写真の撮影日だったデスが……\nなんとモデルさんがカゼを引いてしまったデス！=Thế nên hôm nay vốn là ngày chụp hình cho áp phích quảng cáo... nhưng không ngờ người mẫu lại bị cảm mất rồi DE-SU!
+大変！\nじゃあ、撮影 là không thể sao? =Nguy quá! Vậy là không thể chụp hình được sao chị?
+ハイ……おまけにスケジュール上、延期もできまセン。\nこのピンチに助太刀してくれるサムライを探して\n走り回っていまシタ……=Vâng... hơn nữa theo lịch trình thì không thể hoãn lại được DE-SU. Ninon đã chạy đôn chạy đáo khắp nơi để tìm một Samurai có thể ra tay tương trợ trong tình thế ngàn cân treo sợi tóc này...
+そこで見つけたのが、我がショーグン！\nそしてジータさん、あなたデース！=Và thế là Ninon đã tìm thấy Shogun của ta! Cùng với Djeeta-san, chính là chị đó DE-SU!
+わ、私？=E-Em sao?
+ジータさんのスタイルは、モデルさんとそっくりデス！\nきっと衣装もピッタリに違いありまセン！\nここで会ったが百年目！　どうか助太刀をお願いしマス！=Vóc dáng của Djeeta-san y hệt như người mẫu đó luôn DE-SU! Chắc chắn trang phục cũng sẽ vừa vặn không sai vào đâu được! Oan gia ngõ hẹp, à không, hữu duyên thiên lý năng tương ngộ! Xin hãy ra tay trợ giúp cho Ninon với DE-SU!
+そういうことだったんだね。\nいいよ、任せて！=Hóa ra là vậy sao. Được rồi, cứ giao cho em!
+かたじけないデス！\nでは早速──=Đa tạ khôn xiết DE-SU! Vậy thì ngay lập tức──
+ジータさんの魂を見せてクダサイ！=Hãy cho Ninon thấy linh hồn của chị đi DE-SU!
+衣装に着替えるんじゃなくて！？=Không phải là đi thay trang phục sao!?
+おまつりの魂……それすなわち、熱い掛け声デス！\n写真に声は写らない……とか言うのは禁句デスよ？\n聞こえなくても伝わるものはあるはずデース！=Linh hồn của lễ hội... đó chính là những tiếng hò reo cuồng nhiệt DE-SU! Tuyệt đối cấm nói những câu kiểu như "tiếng hét làm sao lên hình được" nhé? Dù không nghe thấy nhưng chắc chắn vẫn có những thứ được truyền tải qua bức ảnh DE-SU!
+確かにそう……かな？\n目は口ほどに物を言うってやつだよね。=Chắc là... vậy nhỉ? Đúng là kiểu "đôi mắt biết nói" mà người ta hay bảo nhau ấy.
+うん、分かった！\n助太刀するなら、最後まできちんとやりきるよ！=Ừm, em hiểu rồi! Đã giúp thì em sẽ làm cho tới nơi tới chốn luôn!
+その意気デス！\nじゃあ、ワタシに続いて声を出してクダサイ！\nワッショイ！　ワッショイ！=Tinh thần hay lắm DE-SU! Vậy thì hãy hô vang theo Ninon nhé! Wasshoi! Wasshoi!
+わ、わっしょい！　わっしょい！=W-Wasshoi! Wasshoi!
+まだまだデス！　心のオミコシを担ぐデース！\nワッショイ！　ワッショイ！\nヨイッショー！　ヨイッショー！=Vẫn chưa đủ đâu DE-SU! Hãy khiêng chiếc kiệu rước trong tâm khảm lên nào DE-SU! Wasshoi! Wasshoi! Yoisshoo! Yoisshoo!
+わっしょい！　わっしょい！\nよいしょー！　よいしょー！=Wasshoi! Wasshoi! Yoishoo! Yoishoo!
+オオー！　その調子デス！\nささ、お次はタイコ！　心のタイコを叩くデス！\nジータさん、あなたはタイコのタツジン！　ドラムマスターデース！=Ôi! Cứ giữ phong độ đó nhé DE-SU! Nào nào, tiếp theo là trống Taiko! Hãy đánh chiếc trống trong tim mình đi DE-SU! Djeeta-san, chị chính là Bậc thầy Taiko! Là bậc thầy mặt trống (Drum Master) đó DE-SU!
+ドラムマスター……！\nそっか、私はドラムマスターなんだね。\nだったら、そのつもりで……！！=Drum Master...! Ra vậy, mình là Drum Master sao. Nếu đã thế thì mình sẽ dốc hết sức với danh hiệu đó...!!
+ソイヤ！=Soiya!
+ソイヤソイヤ！=Soiya soiya!
+ソイヤソイヤソイヤ！！=Soiya soiya soiya!!
+セイヤァァーーーッ！！=Seiyaaaaaa!!
+その後──\n昂った魂の勢いそのままに、\nジータとニノンは撮影会場へ駆け込んでいったのだった。=Sau đó── Với khí thế hừng hực của linh hồn đang rực cháy, Djeeta và Ninon đã lao thẳng đến địa điểm chụp hình.
+そして後日──\nジータの元へ、ポスターのサンプルが届けられた。=Và vài ngày sau── Một bản mẫu của tấm áp phích đã được gửi đến cho Djeeta.
+勢いで撮影しちゃったけど……\n改めてみると、ちょっと恥ずかしいな。あはは……=Lúc đó mình cứ thế lao vào chụp theo quán tính... giờ xem lại thấy hơi ngại thật đấy. A ha ha...
+でも撮影は楽しかったし、結果オーライだよね。うん！=Nhưng mà buổi chụp hình rất vui, kết quả vậy là ổn rồi nhỉ. Ừm!
+……ああっ、 nhưng quả nhiên vẫn thấy ngại quá à! =...Aaaa, nhưng mà vẫn thấy xấu hổ chết đi được ấy!
+全力で太鼓を叩く自分の姿を目の当たりにし、\n顔を赤くするジータなのだった。=Tận mắt nhìn thấy dáng vẻ đánh trống hết mình của bản thân, Djeeta không khỏi đỏ bừng mặt vì ngượng ngùng.
+
+ジータ・ニノン=Djeeta Ninon

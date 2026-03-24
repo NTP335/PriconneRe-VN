@@ -1,0 +1,213 @@
+ならず者=Rogue
+人々=People
+アクシツ=Croock
+王宮騎士=Royal Knight
+『アクシツ商会連合』から、一度に全てのお宝を盗む作戦をとる二人。{playername}を人質にされるなどのピンチもあったが、猫たちの助力もあり、ついに『アクシツ商会連合』を打ち破るのであった。=Hai người họ quyết định trộm tất cả kho báu từ "Croock'd & Inc." cùng một lúc. Họ đối mặt với một số nguy hiểm, chẳng hạn như {playername} bị bắt làm con tin, nhưng với sự giúp đỡ của những con mèo, cuối cùng họ đã đánh bại "Croock'd & Inc."
+──『悪い奴らはまとめて猫パンチ作戦』決行日。\nランドソル郊外に、\nタマキと{playername}の姿があった。=──Ngày của "Kế hoạch Đấm Mèo Cho Kẻ Xấu". Tamaki và {playername} đang ở ngoại ô của Landosol.
+……それじゃあ、\n改めて『悪い奴らはまとめて猫パンチ作戦』を確認するにゃ。=...Vậy thì, cùng xem lại kế hoạch "Đấm mèo tội phạm" lần nữa nào~nya.
+作戦内容はいたって単純にゃ。\n『今夜中にアクシツ商会連合全てに潜り込んで、\n悪事で稼いだ金を街にばらまく』、これだけにゃ。=Kế hoạch rất đơn giản~nya. "Đêm nay lẻn vào tất cả các chi nhánh của Croock'd & Inc. và rải tiền bọn chúng kiếm từ việc làm ác khắp thị trấn", thế thôi~nya.
+にゃ～に、確かに数は多いかもしれないけど、\nやってることはいつもと同じにゃ！！\nあたしと{playername}がいれば……あっ！=Nya~, có vẻ nhiều, nhưng cũng như mọi khi~nya!! Nếu có {playername} đi cùng... À!
+にゃ、にゃはは……\nた、短剣を落としちゃったにゃ～\nまったく、もっと気を引き締めないといけないにゃ～♪=Ny~nyaha... \nEm, em làm rơi dao găm~nya~ Thật,\nphải cẩn thận hơn mới được~nya~♪
+……緊張してるの？=...Cậu lo lắng à?
+……ここで強がっても意味ないかにゃ。\n情けないことに、怖くて手が震えちゃってるのにゃ。=...Ở đây giả vờ cũng vô ích~nya.\nThật xấu hổ khi phải thừa nhận, nhưng em sợ đến mức tay run rẩy~nya.
+今回の相手は今までとは格が違う、\nランドソルの商会の大半を傘下としているアクシツ商会連合にゃ。=Lần này đối thủ khác trước rồi, Croock'd & Inc. - tổ chức có hầu hết các thương nhân ở Landosol dưới sự kiểm soát~nya.
+義賊が……あたしなんかが、\nそんなやつらをどうにかできるのかなって思ったら、\n手の震えが止まらなくて……にゃにゃっ！？=Một tên trộm chính nghĩa...\nMột người như em có thực sự làm được gì không? Nghĩ vậy, tay em không thể ngừng run...~nyanyaa!?
+な、なんでいきなり、\n手を握ってくるのにゃ！？=Sao, sao cậu bỗng nhiên nắm tay em~nya!?
+一緒に頑張ろう。=Cùng cố gắng thôi.
+{playername}……うん！\nあたしと{playername}なら絶対楽勝にゃ！！={playername}... Được rồi!\nNếu là em và {playername}, cùng nhau...\nchúng ta chắc chắn sẽ thắng dễ dàng~nya!!
+──そろそろ時間にゃ。\n{playername}はあたしに強化能力をかけつつ、\n付いてくるのにゃ！=──Sắp đến giờ rồi~nya.\n{playername}, dùng kỹ năng tăng cường cho em và theo em~nya!
+……言っておくけど、お宝をいただいて帰ってくるまでが義賊！\n二人で行ったなら、二人とも戻る！\nちゃんと戻ってきて、ただいまって言うのにゃ！=...Tớ nói trước nhé, chúng ta chỉ là trộm cho đến khi lấy được kho báu về! Nếu đi cùng nhau, chúng ta đều sẽ trở về! Nhớ là phải về nhà và nói "Em về rồi"~nya!
+約束する。=Tớ hứa.
+だったらいいにゃ♪\n……さて、義賊ファントムキャッツの、\n華麗なるネコババ劇の始まりにゃ～～！！=Vậy là ổn~nya♪...\nThôi thì, để màn trộm nhà mèo hoành tráng của tên trộm chính nghĩa Phantom Cat bắt đầu~nya～～！！
+……見えたにゃ！\nあれが最初の商会にゃ！=...Thấy rồi~nya!\nĐó là thương nhân đầu tiên~nya!
+安心するにゃ！\n事前調査で、この時間は警備員も従業員もいないのは分かってるにゃ！\n扉はあたしが開けるから、一気にお宝まで行くのにゃ～！！=Đừng lo~nya! Từ cuộc điều tra sơ bộ, em biết lúc này không có bảo vệ hay nhân viên nào~nya! Em sẽ mở cửa, nên đi thẳng đến kho báu thôi~nya～！！
+手に入れた間取り図から考えて、\nたぶんここが……あ、あったにゃ！=Theo bản đồ tầng em có được, lẽ ra ở đây...\nỒ, tìm thấy rồi~nya!
+にゃ、にゃあ～～～！！\nこ、これは……とんでもないお宝にゃ～～！！=Ny~nyaa～～～！！\nK, kho báu này... tuyệt vời quá～～！！
+い、今まで色んなお宝を見てきたけど、\nこんなにすごいのは初めてなのにゃ……=Em đã thấy nhiều kho báu rồi, nhưng đây là lần đầu thấy thứ tuyệt vời đến thế~nya...
+こ、これだけあれば、\n高級あんこのたい焼き食べ放題なだけじゃにゃくて、\n猫たちのエサを毎日マグロにすることすら……=Với nhiều thế này, không chỉ có thể ăn bao nhiêu cái taiyaki đậu đỏ cao cấp cũng được, mà còn có thể...
+正気に戻って！=Tỉnh lại đi!
+はっ！？\nご、ごめんにゃ。\nあまりの光景に我を失っていたのにゃ……=Hả!? Xin, xin lỗi~nya.\nEm mải mê nhìn cảnh này~nya...
+あたしは義賊、ファントムキャッツ！\n私利私欲の盗みは絶対にしないのにゃ！！=Em là tên trộm chính nghĩa, Phantom Cat!\nEm sẽ không bao giờ trộm vì tham lam cá nhân~nya!!
+し、しないけど……このお宝の山に飛び込んで、\nお金持ちの気分を楽しむぐらいなら……=Em sẽ không, nhưng... nếu chỉ chìm vào núi tiền này và tận hưởng cảm giác giàu có một chút...
+…………はい。\nすぐに袋に詰めて、\n次の商会に向かいますにゃ。=..........Được rồi.\nEm sẽ gói ngay vào túi và đến thương nhân tiếp theo~nya.
+──ふっふっふっ、最後の商会も上手くいったのにゃ♪\nこれでアクシツ商会連合のやつらはすっからかん……\nあとは、最後の仕上げにゃ～！=──Fufufu, thương nhân cuối cùng cũng thuận lợi~nya♪\nLúc này bọn Croock'd & Inc. sẽ trắng tay...\nGiờ đến nước cuối cùng～！
+街のみんにゃ～！\n元気かにゃ～～！！\nこの不景気をぶっ飛ばすプレゼントを持ってきたにゃ～！=Mọi người trong thị trấn～！\nCác cô các anh khỏe không～?！！\nEm mang món quà sẽ xua tan cơn suy thoái này～！
+な、なにこの声！？=Gì, giọng nói gì vậy!?
+この声は……ファントムキャッツだ！\nファントムキャッツが出たぞー！=Giọng nói này là... Phantom Cat!\nPhantom Cat đã xuất hiệnー！
+……みんな、世の中にはつらいことが多いにゃ。\n何をやっても上手くいかなかったり、\nそんなときに限って、悪いことばっかり起きたりするにゃ……=...Trên đời này có nhiều khó khăn~nya.\nDù làm gì đi nữa, mọi chuyện cũng không suôn sẻ, hay khi đó, những điều xấu xảy ra liên tiếp~nya.
+……それはあたしも同じにゃ。\nよかれと思ってやってたら、むしろそれがみんなの迷惑になったり、\n身近な人を危険な目にあわせてしまったにゃ……=...Em cũng vậy~nya.\nEm làm vì nghĩ sẽ tốt, nhưng thực ra lại gây rắc rối cho mọi người, và đặt những người thân thiết với em vào nguy hiểm~nya...
+でも！　つらいからって諦めないでほしいのにゃ！\n諦めたら……なにかに挑むことをやめてしまったら、\n本当に自分がやりたいことだって、できなくなってしまうのにゃ！=Nhưng！ Đừng bỏ cuộc vì khó khăn~nya！\nNếu bỏ cuộc... nếu ngừng thử thách bản thân, cậu sẽ không thể làm được điều mình thực sự muốn làm đâu~nya！
+……ファントムキャッツ。=...Phantom Cat.
+それでもつらいって思ったら、街の夜空を見上げてほしいにゃ。\nそこにはきっと、ファントムキャッツがいるはずにゃ～～！！=Nếu cậu cảm thấy chán nản, hãy ngước nhìn bầu trời đêm của thị trấn~nya. Ở đó, chắc chắn, Phantom Cat sẽ hiện diện~!!
+おぉぉ～～！！！！=Ooooh~!!
+さ～て、今日はアクシツ商会連合の全商会から\nネコババしてきたから、いっぱいあるにゃ～！！\nあたしからのプレゼントを受け取ってほしいにゃ～～！！=Vậy thì, hôm nay em đã thu thập đủ của cải từ tất cả các guild của Croock'd & Inc.~nya! Em muốn mọi người nhận món quà từ em~!!
+ありがとね、ファントムキャッツ！=Cảm ơn, Phantom Cat!
+俺もやさぐれてないで、頑張っていくぜ！=Thay vì tự than vãn, tớ cũng sẽ cố gắng!
+ファントムキャッツ！　ファントムキャッツ！！\nファントムキャッツ！　ファントムキャッツ！！=Phantom Cat! Phantom Cat!!\nPhantom Cat! Phantom Cat!!
+いや～上手くいったにゃ～～♪\nみんなも喜んでくれたみたいだしよかったにゃ！=Ôi~ Thuận lợi quá~nya♪\nCó vẻ mọi người đều vui, nên em rất vui~nya!
+成功してよかった。=Tớ vui vì chúng ta đã thành công.
+これも{playername}のおかげにゃ！\n本当にありがとにゃ～♪=Điều này cũng nhờ có cậu, {playername}!\nCảm ơn cậu rất nhiều~nya♪
+それよりそれより～♪\nちょっとこれを見てほしいにゃ～♪=Nhưng quan trọng hơn, quan trọng hơn♪\nEm muốn mọi người nhìn cái này~nya♪
+あいつらの不正取引の証文にゃ！\nお宝と一緒にネコババしといたにゃ～♪=Đó là bằng chứng về những giao dịch bất hợp pháp của chúng!\nChúng ta đã lấy nó cùng với kho báu~nya♪
+これで悪いやつらはみんな捕まって、\nアクシツ商会連合は自然に消滅していくはずにゃ！=Với cái này, tất cả kẻ xấu sẽ bị bắt, và Croock sẽ tự nhiên tan rã~nya!
+お、そこまで考えてるとは思ってなかったって顔だにゃ？\nふっふっふっ、あたしは常に成長する女なのにゃ～♪=Ồ, cậu có vẻ ngạc nhiên như không ngờ tới~nya? Hehehe, em là một người phụ nữ luôn phát triển~nya♪
+──ワンダフル！\n常に成長するその姿、実にワンダフル！！=──Tuyệt vời!\nLuôn phát triển, thật tuyệt vời!!
+……えっ！？=...Hả!?
+危ない！！=Cẩn thận!!
+ちっ、男がかばいやがったか！=Tch, thằng đó bảo vệ cô ấy!
+あ～その彼だけでいいです。\n人質にするんで捕まえちゃってください。\n私は犬が大好きな平和主義者ですから、暴力は最小限でいきましょう♪=À~ Chỉ cần bắt nó thôi là được rồi.\nHãy bắt nó làm con tin đi.\nEm là người theo chủ nghĩa hòa bình, thích chó, nên hãy giảm bạo lực đến mức tối thiểu, được chứ?
+あ、あたしをかばって……{playername}！！\n今助けるにゃ！！=C-Cậu đang bảo vệ em... {playername}!!\nEm sẽ cứu cậu ngay bây giờ!!
+は～い、動かない動かない。\n動いたら、私のこわ～い部下が、彼をどうにかしちゃいますよぉ？=Này, đừng di chuyển, đừng di chuyển. Nếu cậu cử động, những tay sai đáng sợ của tôi sẽ làm gì đó với nó, cậu biết chứ?
+くっ……おまえはいったい誰にゃ！！=Kuh... Mày là thằng quái nào vậy~nya!!
+これはこれは！\n自己紹介が遅れてしまいましたねぇ……\n私は『アクシツ商会連合』の代表、名前もそのままアクシツです！=Ôi trời, xin lỗi vì tôi chưa giới thiệu bản thân sớm hơn... Tôi là đại diện của "Croock'd & Inc.", và tên tôi chính là Croock!
+いやいやいや、私も商会に自分の名前なんて入れたくなかったんですよ？\n自分が悪いことしてるって、世に教えてるようなもんですしねぇ。\nでも、決まりごとだからって、アクドーイ叔父さんがうるさくて……=Ồ, không, không, không, tôi cũng không muốn đặt tên mình vào tên guild, cậu biết chứ? Cứ như là tôi đang nói với cả thế giới rằng tôi đang làm chuyện xấu, phải không? Nhưng đó chỉ là một quy tắc, và chú Krook cứ khó chịu thôi...
+アクドーイ……叔父さん！？\nということはおまえ、アクドーイの……！？=Krook... Chú?!\nKhoan đợi, điều đó có nghĩa là cậu là người của Krook...!
+おぉっと！　勘違いされる前に言っておきましょうか！\nあなたへの復讐とか、私はまったくまーったく考えていませんよぉ。\nそ～んなことしてる暇があったら、少しでも少しでも稼ぎたいですから！=Ồ~ Ôi! Để tôi nói trước khi cậu hiểu lầm! Tôi hoàn toàn, hoàn toàn không có ý định trả thù cậu. Nếu tôi có thời gian để làm vậy, tôi sẽ muốn kiếm thêm một chút nữa!
+ならばなぜ、私がここに来たのか！\n稼ぎたくて稼ぎたくてしかたがないこの私が！　なぜここに来たのか！\nいや～これはバレバレですよねぇ～～～～♪=Vậy tại sao tôi lại đến đây?! Tại sao tôi lại muốn kiếm nhiều tiền đến thế?! Tôi mang thứ gì đến đây? Ồ, đây là điều hiển nhiên, phải không?♪
+ま、まさか……この証文を……！=Đ-Không thể nào... bằng chứng...!
+──はぁい、ご名答♪\nあなたの持っているそれ、私に返してほしいんですよぉ♪=──Đúng rồi, cậu đoán đúng rồi~♪\nTôi muốn cậu trả nó lại cho tôi, cái thứ cậu đang có♪
+こ、これだけは絶対に渡せないのにゃ！=Tôi tuyệt đối không thể từ bỏ thứ này~nya!
+盗られたお金は諦めます！　また稼ぎますから！！\n商品の価格操作もやめます！　別の方法で稼ぎますから！！\nでもでもぉ……代わりがいない私は、捕まるわけにはいかないんですよ。=Tôi sẽ từ bỏ số tiền đã đánh cắp! Tôi sẽ kiếm lại nó!! Tôi sẽ ngừng thao túng giá cả sản phẩm! Tôi sẽ tìm một cách khác để kiếm tiền!! Nhưng, nhưng... tôi không thể để bị bắt vì không có ai thay thế tôi.
+もちろん！　ただとは言いません！！\nこちらが用意する対価はこちら！\nはい！　彼の命でぇす！！=Tất nhiên! Đây không phải miễn phí!!\nPhần bồi thường chúng tôi đưa ra là thế này!\nĐúng rồi! Mạng sống của hắn!!
+くっ……卑怯にゃ！！=Ugh... Cái đó không công bằng~nya!!
+お褒めに預かり光栄です♪\nではではではぁ……改めて商談を開始しましょうか。\n証文を置いていくか……彼の命か……好きな方を選んでください♪=Tôi vinh dự vì lời khen của cậu♪ Nào, nào, nào... Chúng ta có thể bắt đầu lại việc kinh doanh không? Cậu sẽ để lại bằng chứng... hay là mạng sống của hắn...? Hãy chọn cái cậu thích♪
+
+こいつは……こいつだけは、\n絶対に逃がしちゃいけない悪党にゃ！\nでもこのままじゃ{playername}が……=Thằng này... thằng này là tên ác nhân duy nhất tôi không thể để chạy trốn~nya! Nhưng... nếu cứ thế này, {playername} sẽ...
+どうしたら……どうしたらいいのにゃ……！！=Tôi nên làm gì... tôi nên làm gì~nya...!!
+──にゃ～♪=──nya~♪
+……！？\nこ、この声……！？=...!?\nTh, giọng nói này...!?
+はぁい、時間切れ♪\nではではでは、返答をいただきましょうか！！=Được rồi, hết giờ♪\nVậy thì, hãy nghe câu trả lời của cậu!!
+……悪党ども。\nいいことを教えてやるにゃ。=...Các ngươi, lũ ác nhân.\nTôi sẽ nói cho các ngươi biết một điều tốt~nya.
+ファントムキャッツは狙った獲物をのがさない……\nだから、両方いただくにゃ！！=Phantom Cat chưa bao giờ để mất con mồi...\nchính vì vậy, chúng ta sẽ lấy cả hai~nya!!
+にゃにゃーん！！=Nya-nyan!!
+な、なんだこの猫の大群は！？\nや、やめろぉ！\n俺は猫アレルギーなんだぁ～～！！=Ch, đây là đàn mèo gì vậy!? Dừng lại! Tôi bị dị ứng với mèo~!!
+{playername}！\n今のうちに逃げるにゃ～～！！！！={playername}!\nĐây là cơ hội để cậu thoát thân~nya!!
+くそっ！\n逃がすんじゃねえぞおまえら！\n後を追って……ん？　あれは？=Khốn kiếp!\nĐừng để chúng chạy thoát!\nĐuổi theo chúng... hử? Cái gì vậy?
+怪しい集団を見たという通報があったから来てみれば……\nファントムキャッツの周りには、猫の大群が出没するという情報がある！\nファントムキャッツがいるかもしれんから、付近を探索しろ！=Chúng tôi nhận được báo cáo rằng một nhóm đáng ngờ đã được nhìn thấy ở đây... có thông tin rằng một đàn mèo xuất hiện xung quanh Phantom Cat! Chúng có thể ở đây, nên hãy tìm kiếm khu vực!
+あ～～王宮騎士さま、\nとてもとてもとてもいいところにぃ～～！！=Ahh~ Royal Kishi-sama,\ncậu đến đúng lúc, đúng lúc, đúng lúc quá~!!
+私の名はアクシツ！　しがないしがない商人です！\nそれより、あのファントムキャッツが現れて、\n私から大事なものを奪って……あちらに逃げていきました！！=Tên tôi là Croock! Tôi chỉ là một thương nhân rất khiêm nhường!\nNhưng quan trọng hơn, bọn Phantom Cat đã xuất hiện và đánh cắp thứ gì đó quý giá từ tôi... chúng chạy trốn ở kia!!
+なんだと！？\n情報感謝する！！\nさっそく追いかけて……ん？=Cái gì!?\nCảm ơn vì thông tin!!\nTôi sẽ đuổi theo chúng ngay lập tức... hử?
+……にゃあ。=...Nya.
+なんだこの猫は？\n口に何かをくわえて……こ、これは！？=Con mèo này là gì?\nNó có thứ gì đó trong miệng... th, đây là!?
+……へ？\nなんで私に向かってくるんです？\nそれよりファントムキャッツを追いかけて……=...Hử?\nSao cậu lại đến chỗ tôi?\nCậu nên đuổi theo Phantom Cat mới phải...
+この猫……おそらくファントムキャッツに従う猫だろう。\nそして、この猫がくわえていたのは証文。\n取引内容が明らかにおかしい、違法取引の証文だ。=Con mèo này... có lẽ là con mèo tuân theo Phantom Cat. Và thứ con mèo này có trong miệng là một tài liệu. Một tài liệu về một giao dịch thương mại rõ ràng là sai, một giao dịch bất hợp pháp.
+あ、あの猫女ぁ……！\nで、ではなく、いやぁ……悪いことをする人もいるもんですねぇ……=Th, cô gái mèo đó...! \nKhông, không, ý tôi là... ừm... có những kẻ xấu trong thế giới này...
+取引した商会の名は、『アクシツ』商会連合。\nそしておまえは、『アクシツ』という名の商人で、\nファントムキャッツに『大事なもの』を奪われた……=Tên của công ty thương mại đã thực hiện giao dịch là "Croock'd & Inc." Và cậu là một thương nhân tên "Croock", người đã bị Phantom Cat đánh cắp "thứ quý giá"...
+──ここまで状況が一致すると、偶然ではすまされんぞ。\n話を聞かせてもらおうか、アクシツ商人どの？=──Khi tình hình khớp với điểm này, nó không thể là trùng hợp. Hãy để tôi nghe câu chuyện của cậu, thưa ông thương nhân Croock?
+だ、だから…………=Li, như tôi đã nói...
+……だから、\n自分の名前を入れるのは嫌なんだよぉぉ～～～～！！=...Li, như tôi đã nói, tôi không thích đặt tên mình vào tên guild~!!
+はあ……はあ……\nここまで来れば大丈夫にゃ！！=Haa... haa...\nChắc chắn tôi an toàn ở đây~nya!!
+なんとかなったにゃ～～！！\nアクシツは今頃捕まってるだろうし、\nこれで一件落着…………あれ？=Tôi đã thoát được~nya!! Croock chắc chắn đã bị bắt rồi, và vụ án này đã đóng........hử?
+……いない……{playername}がいないにゃ！\nど、どうして！？\nだって、ちゃんと後ろを付いてきてたにゃ……！=...Hắn đi mất...\n{playername} đi mất~nya! Tại sao!?\nHắn đang theo sau em~nya...
+まさか……\nアクシツたちに捕まって……=Có thể...\nhắn đã bị Croock và tay sai của hắn bắt cóc...
+どうして……\nどうして、あたしはいつもこうなのにゃ……？=Tại sao...\nTại sao em luôn như thế này...?
+勝手に突っ走って……調子にのって……\nいつも大事なところで失敗して……\nそして、またあいつを…………！=Em tự ý hành động... để mình kéo theo... luôn thất bại ở phút giây then chốt... và rồi, lại mất hắn........!
+……{playername}～～～～！！\n返事をしてにゃ～～～～！！！！=...{playername}~~~~~!!\nTrả lời em~nya!!
+………………なんでいるにゃ？=............Tại sao cậu lại ở đây~nya?
+途中で転んじゃって。=Em vấp ngã trên đường.
+う……うぅ………………=Ái... ái............
+……うにゃぁぁぁあああ～～～～！！\nその顔引っかかせろにゃ～～！！=...Grr~!!\nĐể mình gãi mặt cậu~nya!!
+い、痛い！=Ái, đau quá!
+そんなの知ったこっちゃないのにゃ！！\n少しは人の気持ちってのを考えろにゃ～！！=Mình không quan tâm đâu~nya!! Đôi khi cậu nên nghĩ đến cảm xúc của người khác đi~nya!!
+泣いてるの？=Cậu đang khóc à?
+……心配したにゃ！　心配したのにゃ！\nまたあたしのせいで、\n{playername}になにかあったらと思って……！=...Mình lo cho cậu, {playername}~nya!\nMình sợ có chuyện gì xảy đến với cậu vì mình...!
+それなのに{playername}はしれっと帰ってきて……\nでも無事でうれしくて……あ～もう！！\n人を何度も泣かせて、そんなに楽しいかにゃ！？=Vậy mà cậu về một cách nhẹ nhàng thế... nhưng mình mừng vì cậu an toàn, {playername}... ái~ trời!! Cậu có thích làm mình khóc nhiều lần vậy không~nya!?
+……にゃ！？\n頭をなでてご機嫌をとろうったって……=...Nya!?\nĐừng nghĩ là gãi đầu mình là có thể làm mình vui...
+……ただいま。=...Mình về rồi.
+……うん。\nお帰りにゃ……=...Ừ.\nChào mừng về nhà~nya...
+──次の日、ランドソルには号外が配られる。\n内容はもちろん、たった一日で、\n不正取引をしていた商会が一斉検挙されたというもの。=──Ngày hôm sau, một tờ báo đặc biệt đã được phát hành ở Landosol. Nội dung tất nhiên là trong chỉ một ngày, tất cả các công ty thương mại có liên quan đến các giao dịch bất hợp pháp đã bị bắt giữ.
+そして、記事にはある名前が書かれていた。\n庶民を助け、悪を討った英雄、ファントムキャッツと。=Và trong bài báo, có một cái tên được viết. Người hùng đã giúp đỡ người dân và đánh bại kẻ xấu, Phantom Cat và──.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

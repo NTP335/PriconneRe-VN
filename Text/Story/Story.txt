@@ -1,0 +1,105 @@
+追加ストーリー情報=Thông tin Phụ truyện
+エンド オブ プロローグ=Kết thúc Phần mở đầu
+[3C404E]未読の[FFBB00,CE4F00]メインストーリー[-]があります。\nストーリーを読んで報酬を獲得しましょう。[-]=[3C404E]Chưa đọc [FFBB00,CE4F00]Chính truyện[-].\nĐọc truyện và nhận phần thưởng.[-]
+未読ストーリー=Chưa đọc
+再生する場合、ボイスデータをダウンロードします。=Nếu muốn nghe lời thoại nhân vật, dữ liệu giọng nói sẽ được tải xuống.
+ボイスデータは、アプリ起動時に削除されます。=Dữ liệu giọng nói sẽ bị xóa khi khởi động ứng dụng.
+ボイスデータは、アプリ起動時に都度削除されます。=Dữ liệu giọng nói cho câu chuyện sẽ bị xóa mỗi khi khởi động ứng dụng.
+[FF7C4E,D62146]ボイスデータは、アプリ起動時に都度削除されます。[-]=[FF7C4E,D62146]Dữ liệu giọng nói cho câu chuyện sẽ bị xóa mỗi khi khởi động ứng dụng.[-]
+[FF7C4E,D62146]ボイスデータは、アプリ起動時に削除されます。[-]=[FF7C4E,D62146]Dữ liệu giọng nói sẽ bị xóa khi khởi động ứng dụng.[-]
+
+[FF7C4E,D62146]再生する場合、ボイスデータをダウンロードします。[-]=[FF7C4E,D62146]Nếu muốn nghe lời thoại nhân vật, dữ liệu giọng nói\nsẽ được tải xuống.[-]
+連続で閲覧できるサブストーリーがあります。=Có những câu chuyện phụ có thể xem liên tục.
+追加データをダウンロードします。\nボイスを再生しますか?=Dữ liệu bổ sung sẽ được tải xuống.\nĐồng ý?
+r:"^ボイスあり\n\(([.0-9]+) ([MG])B\)$"=Giọng nói BẬT\n($1 $2B)
+r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Giọng nói TẮT\n($1 $2B)
+エピローグ=Phần kết
+ログ=Nhật ký
+オート=Tự động
+オートON=Tự động bật
+停止=Dừng
+全文表示=Kịch bản
+表示速度=Tốc độ
+早送り=Tua nhanh
+表示速度設定=Cài đặt tốc độ hiển thị
+ストーリー全文表示=Hiển thị toàn bộ kịch bản câu chuyện
+このムービーをスキップしてもよろしいですか？=Bạn có chắc chắn muốn bỏ qua phim này không?
+r:"^第?(\d+)章 第(\d+)話が\n解放可能になりました。$"=Chương $1 Tập $2\nCâu chuyện đã được mở khóa.
+r:"^第?(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Phần $1 Chương $2 Tập $3\nCâu chuyện đã được mở khóa.
+r:"^第?(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Phần $1 Chương $2 Phần kết\nCâu chuyện đã được mở khóa.
+r:"^第(\d+)部 第(\d+)章$"=Phần $1 Chương $2
+r:"^第(\d+)章$"=Chương $1
+r:"^第?(\d+)部 第(\d+)章 第(\d+)話$"=Phần $1 Chương $2 Tập $3
+r:"^幕間・(.{1,5})$"=Chương liên $1
+
+r:"^サブストーリー(.{1,4})$"=Câu chuyện phụ $1
+r:"^第([0-9.]+)話$"=Tập $1
+sr:"^(.+)が\n?解放可能になりました。$"=$1\nđã được mở khóa.
+メインクエスト2-1\n（NORMAL）クリア\nまたは期間限定\nイベント参加で解放=Mở khóa bằng cách hoàn thành\nNhiệm vụ chính\n2-1 (THƯỜNG)\nhoặc tham gia\nsự kiện giới hạn thời gian.
+メインクエスト2-1\n（NORMAL）クリア\nまたは特別な\nイベント視聴で解放=Mở khóa bằng cách hoàn thành\nNhiệm vụ chính\n2-1 (THƯỜNG)\nhoặc tham gia\nsự kiện giới hạn thời gian.
+
+r:"^メインストーリーが\n(\d+)つ解放されました。$"=Câu chuyện chính $1\nđã được mở khóa.
+エクストラストーリーから閲覧できます。=Bạn có thể duyệt từ Câu chuyện bổ sung.
+このストーリーは閲覧済みの場合のみスキップ可能です。=Câu chuyện này chỉ có thể bỏ qua nếu bạn đã xem.
+
+スキップしたストーリーは後から読み返せます。=Những câu chuyện đã bỏ qua có thể đọc lại sau.
+個別にストーリーを閲覧することもできます。=Bạn cũng có thể duyệt từng câu chuyện riêng lẻ.
+メインシナリオ第2部 第16章 幕間までのストーリーを\nスキップして閲覧済みにしますか？\n\nスキップした場合、以下の報酬を獲得できます。=Bạn có muốn bỏ qua câu chuyện đến chương liên chương 16 của kịch bản chính phần 2 và đánh dấu là đã đọc?\n\nNếu bạn bỏ qua, bạn sẽ nhận được phần thưởng sau.
+
+---Story Menu---
+
+メイン=Chính
+アストライア大陸を\n舞台にした物語を\n見ることができます=Xem các câu chuyện diễn ra trên Lục địa Astraea.
+
+エクストラ=Bổ sung
+エクストラストーリー=Câu chuyện bổ sung
+ちょっと特別な\n物語を見ることが\nできます=Xem những câu chuyện có chút đặc biệt.
+ルナの塔 次元断層=Tháp Luna: Lỗ hổng Không gian
+
+ギルド=Bang hội
+女の子たちの日常を\n見ることができます=Xem những đoạn ngắn về cuộc sống hàng ngày của các cô gái.
+
+キャラクター=Nhân vật
+絆ランクUPで\n新しい物語が\n追加されます=Tăng cấp độ kết nối sẽ thêm các câu chuyện mới.
+
+現在公開されているストーリーはここまでです。=Hiện không có cốt truyện nào khác.
+
+閲覧するストーリーを選択してください。=Chọn cốt truyện để xem.
+---Bond Rank Story---
+
+---anni---
+ストーリーへ=Đi đến Cốt truyện
+ストーリー紹介=Giới thiệu cốt truyện
+ストーリー一覧=Danh sách cốt truyện
+---NPC---
+解放したコンテンツにまつわるストーリーを見られます。\n冒険の途中で出会った、ちょっと特別な物語を振り返ってみましょう。=Xem các cốt truyện về nội dung bạn đã mở khóa\n và thu được góc nhìn hơi khác về các sự kiện từ cuộc phiêu lưu của mình.
+各ギルドのストーリーを見られます。\nギルドストーリーは、ギルドに所属するキャラを１人以上仲間にし、\nギルドメンバーの絆ランク合計を、一定以上にすると解放されます。=Trải nghiệm câu chuyện của từng guild.\nTập mới sẽ được mở khóa khi bạn tuyển dụng nhân vật thuộc guild đó và đạt mức độ kết nối nhất định với các thành viên.
+各キャラの専用ストーリーを見られます。絆ランクアップで、新しいストーリーが解放されます。ストーリーの中には、見ることでステータスアップするものもあります。=Xem các cốt truyện độc nhất cho từng nhân vật.\nTập mới sẽ được mở khóa khi mức độ kết nối tăng lên.\nXem một số tập sẽ mang lại phần thưởng tăng chỉ số.
+メインクエストの名場面を、振り返ることができます。それぞれのストーリー初回閲覧で、ジュエルがもらえます。=Xem các cảnh khác nhau từ Nhiệm vụ chính.\nJewel sẽ được trao khi bạn xem mỗi tập lần đầu tiên.
+専用装備はみなさまの秘められた力を解放して、\nさらにスキルもパワーアップするようです。\n主さま、さっそく必要なアイテムを探しに行きましょう。=Trang bị độc nhất mở khóa tiềm năng ẩn của mỗi chúng ta, làm kỹ năng trở nên mạnh mẽ hơn.\nHãy đi tìm các vật phẩm cần thiết ngay, thưa ngài.
+---Character---
+ま～わ=Ma-Wa
+た～は=Ta-Ha
+あ～さ=A-Sa
+主を慕う、小さなガイド役=Một cô hướng dẫn nhỏ luôn chăm sóc chủ nhân của mình.
+
+---Bond Stuff---
+絆ランク=Kết nối
+r:"^第(\d+)話$"=Tập $1
+キャラストーリー=Cốt truyện nhân vật
+ステータスアップボーナス=Phần thưởng tăng chỉ số
+絆ランクアップ=Tăng hạng kết nối
+ステータスアップ対象キャラクター=Nhân vật mục tiêu
+該当キャラのストーリー初回閲覧で、\nステータスアップボーナスを獲得できます。=Nhận phần thưởng tăng chỉ số cho nhân vật\nbằng cách xem cốt truyện của họ lần đầu tiên.
+
+現在、未読のストーリーはありません。\n女の子との絆ランクアップや、新しい仲間を加入で、\n新しいストーリーを解放しましょう。=Hiện không có cốt truyện nào chưa đọc. \nTăng hạng kết nối với các cô gái và tuyển dụng bạn đồng hành mới để mở khóa cốt truyện mới.
+
+対象のストーリーがありません。=Chưa có cốt truyện cho cô ấy.
+r:"^第(\d+)話ステータスアップボーナス$"=Tập $1 Phần thưởng tăng chỉ số
+---Chara story---
+
+sr:"^([^ ]+)(?: |　)第(\d+)話$"=$1 Tập $2
+連続で閲覧できるストーリーがあります。=Có cốt truyện tiếp theo có thể xem.
+連続ストーリー閲覧確認=Xác nhận xem cốt truyện marathon
+
+ロード画面で表示された１コマ漫画を確認できます。=Bạn có thể xem manga một khung được hiển thị trên màn hình tải.

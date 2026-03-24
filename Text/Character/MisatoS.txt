@@ -1,0 +1,31 @@
+##Profile##
+【魔法】後衛で、敵の脅威から生徒を守る夏女神な先生。味方の魔法防御力を高め、ＨＰを継続回復するスキルや、バリア展開のユニオンバーストで味方を堅固に守護する。=[Ma thuật] Một giáo viên như nữ thần mùa hè, bảo vệ học sinh khỏi mối đe dọa ở hậu phương. Với kỹ năng tăng M.DEF và hồi HP liên tục cho đồng minh, cùng Union Burst tạo ra khiên bảo vệ, cô kiên định bảo vệ đồng minh của mình.
+
+##UB##
+サマーゴッデスコーチング=Summer Goddess Coaching
+物理攻撃を行うすべての味方キャラに魔法無効バリアを展開し、さらに魔法攻撃を行うすべての味方キャラに物理無効バリアを展開する。=Triển khai Màn Chắn lên toàn bộ đồng minh, chống lại Sát Thương Vật Lý nếu có đồng minh thuộc hệ Vật Lý hoặc Sát Thương Ma Thuật nếu có đồng minh thuộc hệ Ma Thuật.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する(\d+)ダメージ分の物理無効バリアを展開する$"=►Triển khai Màn Chắn lên toàn bộ đồng minh thuộc hệ Vật Lý, chống lại $1 Sát Thương Ma Thuật trong 45s.\n►Triển khai Màn Chắn lên toàn bộ đồng minh thuộc hệ Ma Thuật, chống lại $2 Sát Thương Vật Lý trong 45s.
+
+##S1##
+ヒーリングドリンク=Nước Uống Hồi Phục
+一番前の味方１キャラの魔法防御力を大アップさせ、さらに継続ＨＰ回復状態を付与する。=Tăng mạnh Kháng Ma Thuật của đồng minh đứng đầu và ban cho khả năng hồi máu liên tục.
+r:"^味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.94s\n►Tăng Kháng Ma Thuật của đồng minh lên $1 trong 12s.\n►Hồi máu cho đồng minh với tốc độ $2/giây trong 7s.
+
+##S2##
+アドバイスエール=Lời Khuyên Nức Nở
+味方全体の物理攻撃力と魔法防御力を中アップさせる。=Tăng vừa phải Tấn Công Vật Lý và Kháng Ma Thuật cho toàn bộ đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=Thời gian niệm: 0.94s\n►Tăng Tấn Công Vật Lý của toàn bộ đồng minh lên $1 trong 12s.\n►Tăng Kháng Ma Thuật của toàn bộ đồng minh lên $2 trong 12s.
+
+##EX##
+サマーガイダンス=Lời Dẫn Hè
+サマーガイダンス+=Lời Dẫn Hè+
+バトル開始時に自分の魔法防御力を中アップさせ、さらに自分の魔法攻撃力を小アップさせる。=Ngay khi trận đấu bắt đầu, tăng vừa phải Kháng Ma Thuật của bản thân và tăng nhỏ Ma Thuật của bản thân.
+r:"^自分の魔法防御力を(\d+)アップ自分の魔法攻撃力を(\d+)アップ$"=►Tăng Kháng Ma Thuật của bản thân lên $1.\n►Tăng Ma Thuật của bản thân lên $2.
+
+##S1+##
+ヒーリングドリンク+=Nước Uống Hồi Phục+
+一番前の味方１キャラの魔法防御力を大アップさせ、さらに継続ＨＰ回復状態を付与する。対象が物理攻撃をするキャラの場合さらに魔法防御力を大アップさせ、魔法攻撃をする場合物理防御力を大アップさせる。=Tăng mạnh Kháng Ma Thuật của đồng minh đứng đầu và ban cho khả năng hồi máu liên tục. Nếu đồng minh thuộc hệ Vật Lý, tăng thêm Kháng Ma Thuật; nếu đồng minh thuộc hệ Ma Thuật, tăng thêm Kháng Vật Lý.
+r:"^味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する対象が物理攻撃をする場合味方単体の魔法防御力を(\d+)アップ対象が魔法攻撃をする場合味方単体の物理防御力を(\d+)アップ$"=Thời gian niệm: 0.94s\n►Tăng Kháng Ma Thuật của đồng minh lên $1 trong 12s.\n►Hồi máu cho đồng minh với tốc độ $2/giây trong 7s.\n►Nếu đồng minh thuộc hệ Vật Lý, tăng Kháng Ma Thuật của đồng minh lên $3 trong 12s.\n►Nếu đồng minh thuộc hệ Ma Thuật, tăng Kháng Vật Lý của đồng minh lên $4 trong 12s.
+
+##UE##
+ビーチビーナスメガホン=Loa Biển Vỹ Nữ

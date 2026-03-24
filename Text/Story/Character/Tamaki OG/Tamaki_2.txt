@@ -1,0 +1,100 @@
+子猫=Kitten
+猫好きなタマキは、子猫に{playername}と同じ名前を付ける。その子猫がいなくなり、タマキと共に子猫を捜索する{playername}。無事子猫を保護した後、タマキは感謝の言葉を述べた。=Tamaki, người yêu mèo, đặt tên cho một chú mèo con giống hệt tên {playername}. Khi chú mèo con bị lạc, {playername} đã tìm kiếm chú mèo con cùng với Tamaki. Sau khi cứu hộ chú mèo con an toàn, Tamaki đã cảm ơn cậu.
+{playername}はある日、ランドソルの郊外で\n大勢の猫を集めているタマキを見かけた。=Một ngày nọ, {playername} thấy Tamaki tập hợp một đàn mèo ở ngoại ô Landosol.
+あ、{playername}！\n先日はどうもありがとうにゃ。=Ồ, {playername}!\nCảm ơn cậu rất nhiều vì hôm kia~nya.
+何をしてるかって……？\nそれは当然、猫にエサをあげてるのにゃ！=Mình đang làm gì...? Rõ ràng rồi, mình đang cho mèo ăn~nya!
+この辺りの猫は、\n全部あたしが世話をしてるにゃ！=Mình chăm sóc tất cả mèo quanh đây~nya!
+えっへん！\n驚いたかにゃ？=Ồ! Cậu ngạc nhiên chứ~nya?
+まあ、こんなに大勢の猫の面倒を見ていると、\nさすがにエサ代もバカににゃらないけどにゃ。=Thôi, chăm sóc nhiều mèo như vậy không dễ dàng gì, và chi phí thức ăn cũng không rẻ~nya.
+{playername}は、あたしのことをケチだと\n思ってるかもしれにゃいけど、この子たちのエサ代を\n稼ぐ必要もあるし、ただのケチンボじゃないのにゃ。={playername} có thể nghĩ mình keo kiệt, nhưng mình cần kiếm tiền để mua thức ăn cho chúng, nên mình không chỉ là một người bủn xỉn~nya.
+
+どうしてそこまでして、猫の面倒を見るの？=Tại sao cậu lại đi xa đến thế để chăm sóc mèo?
+タマキは、猫が好きなんだね。=Tamaki, thực sự rất thích mèo.
+猫が可愛くて、大好きだからにゃ！=Vì mèo dễ thương và mình yêu chúng~nya!
+それに、猫は飼いならせば何かと役に立つのにゃ。=Hơn nữa, mèo rất hữu ích nếu cậu thuần hóa chúng~nya.
+何の役に立つのかって？\nそれは秘密にゃ！=Chúng hữu ích cho cái gì? Đó là bí mật~nya!
+にゃあー=Nyaah~
+……にゃ？\nお前、どうかしたかにゃ？=...Nya? Cậu sao vậy~nya?
+にゃはは、あたしに撫でてほしいのかにゃ？\nだったら、そのリクエストにお応えしてあげるにゃ。=Nyahahaha, cậu muốn mình gãi cho à~nya? Vậy, mình sẽ đáp ứng yêu cầu của cậu~nya.
+ほれほれ、お腹がいいのかにゃ？\n喉がいいのかにゃ？=Ngoan ngoãn đi, cậu thích bụng không~nya? Cậu thích cổ không~nya?
+お前が満足するまで、たっぷりと撫でてあげるにゃ。\nごろごろごろー♪=Mình sẽ gãi cho cậu đến khi cậu hài lòng~nya. Prrr prrr prrr♪
+にゃはは。\n何だかこの子猫、{playername}に似てるのにゃ。=Nyahahaha. Chú mèo con này trông giống {playername}~nya.
+名前、まだ決めてなかったけど、\n{playername}にしちゃおっかにゃー=Mình chưa quyết định tên, nhưng có lẽ mình sẽ đặt tên là {playername}~nya
+勝手に人の名前を付けないで……=Làm ơn đừng đặt tên theo mình mà không xin phép...
+もう決定したのにゃ。\n{playername}がいくら文句を言おうと、\nこの子猫の名前はキミと同じなのにゃ。=Đã quyết định rồi~nya. Dù {playername} có phàn nàn bao nhiêu đi nữa, tên của chú mèo con này cũng giống tên cậu~nya.
+にゃー=Nyaah~
+にゃはは、この子も名前、気に入ったみたいにゃ！=Nyahahaha, thằng nhóc này dường như cũng thích cái tên~nya!
+って、にゃはは！\n{playername}、そんなに舐めちゃダメにゃ！\nもう、いやらしい子だにゃあ。=Này, này! {playername}, đừng liếm mình nhiều thế~nya!\nCậu thật là một đứa nghịch ngợm~nya.
+……にゃ？\n別に{playername}のことじゃにゃいんだから、\nそんな微妙な顔しないでほしいのにゃ。=...Nya? Không phải về {playername}, nên đừng làm cái mặt tinh tế như vậy~nya.
+ほら、{playername}も、\nあたしと一緒に猫と遊ぶのにゃ！=Nào, {playername} nữa, chơi với mèo cùng mình~nya!
+それから一週間後──=Một tuần sau──
+泣きそうな顔してるけど、何かあったの？=Cậu trông như sắp khóc rồi, chuyện gì vậy?
+かわいがってた猫が一匹、いなくなっちゃったにゃ……\nキミと同じ名前を付けた、あの子猫にゃ……=Con mèo mình đang chăm sóc đã biến mất~nya... Chú mèo con mình đặt tên theo cậu~nya...
+まだ子猫だから、きっと食べるものがなくて困ってるにゃ……\nどこに行っちゃったのにゃ……=Nó vẫn còn là mèo con, chắc phải gặp khó khăn vì không có thức ăn~nya... Nó đi đâu rồi~nya...
+手伝うから、早く探しに行こう。=Đi tìm nó đi. Mình sẽ giúp cậu.
+……手伝ってくれるのかにゃ……？=...Cậu sẽ giúp mình~nya...?
+……本当にゃ？　ありがとうにゃ。=...Thật sao~nya? Cảm ơn~nya.
+それじゃあ、早速探しに行くにゃ！=Vậy thì đi tìm nó ngay thôi~nya!
+{playername}ー！\nどこにいるにゃー！={playername}!\nCậu đang ở đâu~nya!
+いるなら返事をしてほしいにゃー！=Nếu cậu nghe thấy giọng mình, xin hãy trả lời mình~nya!
+ダメにゃ……やっぱり、見つからないにゃ。\nこんな時間まで見つからないってことはもしかして……=Không có rồi~nya... Tớ tìm hoài mà không thấy~nya. Chắc vì lâu rồi chăng...?
+諦めるな、って……？\n……また慰められちゃったのにゃ。="Đừng bỏ cuộc" ư...? ...Lại an ủi tớ nữa rồi~nya.
+そうにゃ。\nまだいなくなってからたったの１日にゃ。\n絶対に見つけてみせるのにゃ！=Đúng rồi~nya! Nó mất tích mới có một ngày thôi. Tớ chắc chắn sẽ tìm thấy và cho cậu xem~nya!
+{playername}ー！！\nあたしの声が聞こえたなら、返事をしてほしいにゃー！={playername}! Nếu cậu nghe thấy giọng tớ, hãy trả lời tớ~nya!
+にゃー……=Meo...
+この鳴き声は……\nどこから聞こえるにゃ！？=Giọng này là... Nó từ đâu vọng lại vậy~nya!?
+あっ！\n見つけた、この家の屋根の上にゃ！=À! Tớ tìm thấy nó trên mái nhà này rồi~nya!
+きっと、高いところに登りすぎて、\n降りられなくなったのにゃ。=Chắc nó leo quá cao rồi không xuống được~nya.
+待ってるにゃ！\nあたしが今、助けてあげるのにゃ！=Chờ tớ chút~nya! Tớ sẽ giúp nó ngay~nya!
+にゃー、にゃー=Meo, meo
+うーん、いい子いい子にゃ。もう迷子になっちゃダメにゃ。=Nè, nè, con mèo ngoan~nya. Đừng đi lạc nữa nhé~nya.
+こんなに震えて……\nあたしがついてるから、もう安心するにゃ。=Còn run rẩy nhiều thế... Tớ ở đây rồi, đừng lo~nya.
+今日は、子猫を探してくれてありがとにゃ、{playername}！\nやっぱりキミも、猫みたいにかわいいところあるにゃ！=Cảm ơn cậu vì đã giúp tớ tìm con mèo con hôm nay, {playername}! Cậu cũng dễ thương như mèo~nya!
+お礼に今度、また割引で何か売ってあげるにゃ！=Để tạ ơn, lần sau tớ sẽ bán đồ cho cậu với giá ưu đãi~nya!
+結局割引なのかって？　んー……\nあたしの無償の愛なんて、よっぽどのことがないと\n得られないのにゃ。="Vẫn còn ưu đãi nữa à?" Hừm... Tình yêu vô điều kiện của tớ khó có được trừ khi có chuyện gì thật sự xảy ra~nya.
+だって、あたしは気まぐれな猫ちゃんだもんにゃ！\n……ま、気まぐれだから、そのうちイイコトもあるかも。\nしれないけどにゃ……？=Vì tớ là cô gái mèo khó hiểu mà~nya! ...Nói đúng ra, vì tớ khó hiểu nên đôi khi sẽ có điều tốt. Có lẽ~nya...?
+それじゃああたしは、この子をお家に連れて帰ってあげるにゃ。\nまたにゃ、ばいばい！=Vậy tớ sẽ dắt đứa nhỏ này về nhà~nya. Hẹn gặp lại~nya!
+タマキは笑顔で子猫を連れ帰るのだった。=Tamaki rời đi với nụ cười và chú mèo con.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+きっと無事だよ。=Chắc là cô ấy sẽ ổn thôi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

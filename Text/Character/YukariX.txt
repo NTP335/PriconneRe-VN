@@ -1,0 +1,50 @@
+##Profile##
+【物理】中衛で物理キャラを支援し戦う聖夜の元聖騎士。魔法攻撃力の高い敵単体のＴＰ減少や周囲の味方の魔法防御力アップスキルで、対魔法戦で無類の輝きを放つ。=[Vật Lý] Một cựu thánh đồ kỵ sĩ trong trang phục Giáng Sinh chiến đấu để hỗ trợ đồng minh vật lý ở tuyến giữa. Cô tỏa sáng không đối thủ trong trận chiến chống phép thuật nhờ khả năng giảm TP của một kẻ địch có Sát Thương Ma Thuật cao nhất và kỹ năng tăng Kháng Ma Thuật cho đồng minh xung quanh.
+
+聖なる夜に、キミと=Trong đêm thánh, cùng Em
+ありのままのクリスマス=Giáng Sinh thuần khiết
+これが大人のクリスマス？=Đây là Giáng Sinh của người lớn sao?
+見えっ張りのクリスマス=Một Giáng Sinh lộng lẫy
+
+##UB##
+クリスマスフィズ=Rượu Sâm-panh Giáng Sinh
+最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップさせる。自分の物理攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng mạnh Tấn Công Vật Lý của đồng minh có Tấn Công Vật Lý cao nhất. Tấn Công Vật Lý của bản thân càng cao, mức tăng Tấn Công Vật Lý càng lớn.
+
+##S1##
+ペールムーン=Trăng Tàn
+最も魔法攻撃力が高い敵１キャラのＴＰを中ダウンさせ、物理防御力を小ダウンさせる。=Giảm một lượng vừa phải TP của kẻ địch có Tấn Công Vật Lý cao nhất và giảm nhẹ Phòng Thủ Vật Lý của nó.
+最も魔法攻撃力が高い敵１キャラのＴＰを中ダウンさせ、物理防御力を中ダウンさせる。=Giảm một lượng vừa phải TP của kẻ địch có Tấn Công Vật Lý cao nhất và giảm vừa phải Phòng Thủ Vật Lý của nó.
+r:"^敵単体の物理防御力を(\d+)ダウン敵単体のＴＰを(\d+)失わせる$"=►Giảm Phòng Thủ Vật Lý của kẻ địch lên $1 trong 12s.\n►Giảm TP của kẻ địch lên $2.
+
+##S2##
+ハッピーホリーデイズ=Lễ Hội Vui Vẻ
+自分の周囲に味方の魔法防御力を大アップさせるフィールドを展開する。=Triển khai một vùng trường xung quanh bản thân, tăng mạnh Kháng Ma Thuật của đồng minh.
+r:"^魔法防御力を(\d+)アップさせるフィールドを展開する$"=►Triển khai một trường phạm vi 400, tăng Kháng Ma Thuật của đồng minh lên $1 trong 12s.
+
+##EX##
+ファーストレディ=Phu Nhân Đầu Tiên
+ファーストレディ+=Phu Nhân Đầu Tiên+
+
+##S1+##
+ペールムーン+=Trăng Tàn+
+最も魔法攻撃力が高い敵１キャラのＴＰを中ダウンさせ、物理防御力を中ダウンさせる。さらに、行動速度を大ダウンさせ、魔法クリティカルを特大ダウンさせる。=Giảm một lượng vừa phải TP của kẻ địch có Sát Thương Ma Thuật cao nhất và giảm vừa phải Phòng Thủ Vật Lý của nó. Ngoài ra, giảm mạnh Tốc Độ Hành Động của kẻ địch và giảm mạnh Tỷ Lệ Chí Mạng Ma Thuật của nó.
+最も魔法攻撃力が高い敵１キャラのＴＰを中ダウンさせ、物理防御力を大ダウンさせる。さらに、行動速度を大ダウンさせ、魔法クリティカルを特大ダウンさせる。=Giảm một lượng vừa phải TP của kẻ địch có Sát Thương Ma Thuật cao nhất và giảm lớn Phòng Thủ Vật Lý của nó. Ngoài ra, giảm mạnh Tốc Độ Hành Động của kẻ địch và giảm mạnh Tỷ Lệ Chí Mạng Ma Thuật của nó.
+r:"^敵単体の物理防御力を(\d+)ダウン敵単体のＴＰを(\d+)失わせる敵単体の行動速度を一定時間低下させる敵単体の魔法クリティカルを(\d+)ダウン$"=►Giảm Phòng Thủ Vật Lý của kẻ địch lên $1 trong 12s.\n►Giảm TP của kẻ địch lên $2.\n►Giảm Tốc Độ Hành Động của kẻ địch còn 65% trong 12s.\n►Giảm Tỷ Lệ Chí Mạng Ma Thuật của kẻ địch lên $3 trong 12s.
+
+##UE##
+クリスマスロワイヤルグラス=Ly Phép Thuật Giáng Sinh
+
+##Comments##
+
+お姉さんに任せなさい！\nキミのクリスマスを\n最高のものにしてあげるわよ♪=Để chị lo! Chị sẽ biến lễ Giáng Sinh của cậu thành tuyệt nhất! ♪
+キミと二人のクリスマスかぁ…\nき、緊張なんかしてないわよ？\n私がリードしてあげるんだから！=Giáng Sinh cùng cậu, hử? T-T-Tớ không hề run! Tớ sẽ dẫn đầu!
+ちょっと派手じゃないかしら\nこの格好…ま、まあ、\nキミが気に入ってくれてるなら\nいいんだけどね？=Bộ trang phục này có hơi lòe loẻ một chút không? K-Không... Miễn là cậu thích thì được.
+一人のクリスマスに\n慣れちゃってたから\nキミと過ごすクリスマス…\nちょっとドキドキしちゃうかも=Từ trước em vẫn thường đón Giáng sinh một mình, nên Giáng sinh cùng cậu... có lẽ em sẽ hơi háo hức một chút.
+メリークリスマース！\nえへへ、大丈夫よ～\n酔ってなんかないから～♪=Merry Crismarth! Ehehe, đừng lo~ em không say rượu đâu~♪
+さあ、最っ高の\nクリスマスが始まるわよ♪\nキミも早くおいで～！=Nào, phần hay nhất của Giáng sinh sắp bắt đầu rồi! Nhanh lên mà đến đây đi!~
+キミも飲み物どうかしら？\n一緒に乾杯しましょ♪\nはーい、メリークリスマース！=Cậu có muốn uống một ly không? Chúng ta cùng nâng ly nào♪ Yeah, Merry Christmas!
+おかわりはいかが？\n遠慮しなくてもいいわよ\nクリスマスパーティーなんだもの\n思いっきり楽しまなくちゃ♪=Có muốn ăn thêm phần nữa không? Cậu đừng ngại mà ăn nhiều lên. Đây là tiệc Giáng sinh mà, phải vui thả cửa thôi♪
+どう？　楽しんでるかしら？\n…もしよかったらなんだけど\nこの後二人で…\nや、やっぱりなんでもないわ！=Cậu thấy thế nào? Có vui không...? Nếu không phiền, sau khi kết thúc, chỉ hai chúng ta... Không, không có gì!
+キミと過ごすクリスマス…\nとっても素敵ね\nこんな幸せな時間が\nずっと続けばいいのに…=Giáng sinh với cậu... Thật tuyệt vời quá. Em ước thời gian hạnh phúc này sẽ kéo dài mãi mãi...
+今日はキミの誕生日だもの\nお祝いしないともったいないわ！\nそれじゃあ、かんぱ～い☆=Hôm nay là sinh nhật cậu, nên sẽ rất phí nếu chúng ta không ăn mừng! Vậy thì, nâng ly☆
+お誕生日、おめでとう！\n後で二人きりでパーティー\nしちゃおっか♪=Chúc mừng sinh nhật! Sau đó chúng ta sẽ có một bữa tiệc riêng tư nhé♪

@@ -1,0 +1,45 @@
+##Profile##
+観劇、おままごと=Nhà hát, rạp hát
+泣き虫で臆病な守ってあげたい女の子=Một kẻ nhút nhát, hay khóc mà bạn không thể không muốn che chở.
+【物理】前衛で、味方の守りに特化した、極度の照れ屋。\nスキルで自分の周囲の物理、魔法防御力を上げつつ、\n近くの敵をスタンさせて足止めする。=[Vật lý] Một đấu sĩ tiên phong vô cùng nhút nhát, giỏi bảo vệ đồng đội. Kỹ năng của cô ấy tăng tấn công vật lý và ma thuật của đồng đội xung quanh và làm choáng kẻ thù gần đó.
+
+##UB##
+怖がりベルスイング=Fearful Bell Bash
+目の前の敵１キャラに物理大ダメージを与え、さらに長時間スタンさせる。=Gây lớn sát thương vật lý lên kẻ thù ngay phía trước và gây choáng trong thời gian dài.
+
+##S1##
+ブレイブリーベル=Bravery Bell
+味方全体の物理防御力と魔法防御力を小アップさせる。=Tăng nhỏ phòng thủ vật lý và phòng thủ ma thuật cho tất cả đồng đội gần đó.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Tăng phòng thủ vật lý của đồng đội trong phạm vi lên $1.\n►Tăng phòng thủ ma thuật của đồng đội trong phạm vi lên $1.
+
+##S2##
+ベルビブラート=Bell Ringer
+目の前の敵１キャラに物理小ダメージを与え、さらにスタンさせる。=Gây nhỏ sát thương vật lý lên kẻ thù ngay phía trước và gây choáng.
+
+##EX##
+ブリリアントアクト=Bravery Bell
+ブリリアントアクト+=Bravery Bell+
+バトル開始時に自分の最大ＨＰを大アップさせ、さらに自分の魔法防御力を小アップさせる。=Tăng lớn máu tối đa của bản thân và tăng nhỏ phòng thủ ma thuật khi bắt đầu trận đấu.
+r:"^自分の最大ＨＰを(\d+)アップさせる自分の魔法防御力を(\d+)アップ$"=►Tăng máu tối đa của bản thân lên $1.\n►Tăng phòng thủ ma thuật của bản thân lên $2.
+
+##UB+##
+デビュースターアクション=Debut Star Action
+前方範囲内の敵すべてに物理大ダメージを与え、長時間スタンさせる。さらに、味方全体の物理防御力と魔法防御力を大アップし、自分を中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=Gây sát thương cho tất cả kẻ thù trong phạm vi phía trước và choáng trong thời gian dài. Ngoài ra, phòng thủ vật lý và phòng thủ ma thuật của đồng đội được tăng lớn, và trạng thái hồi máu liên tục được trao cho tất cả đồng đội trong phạm vi lấy bản thân làm trung tâm.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Gây $1 sát thương vật lý lên kẻ thù.\n►Khiến kẻ thù bất động.\n►Tăng phòng thủ vật lý của đồng đội lên $2.\n►Tăng phòng thủ ma thuật của đồng đội lên $3.\n►Hồi máu cho đồng đội $4/giây.
+
+##S1+##
+ブレイブリーベル+=Bravery Bell+
+味方全体の物理防御力と魔法防御力を中アップさせ、さらにＴＰを小回復させる。=Tăng vừa phòng thủ vật lý và phòng thủ ma thuật của đồng đội, và hồi một lượng nhỏ TP cho họ.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Tăng phòng thủ vật lý của đồng đội lên $1.\n►Tăng phòng thủ ma thuật của đồng đội lên $1.\n►Hồi TP của đồng đội lên $1.
+
+##UE##
+ピュアアクトベル=Pure Actress Bell
+
+
+
+##uncategorized (shadow)##
+前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、長時間スタンさせる。さらに、味方全体の物理=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi phía trước, làm giảm nhẹ phòng thủ vật lý và gây choáng trong thời gian dài. Ngoài ra, chỉ số vật lý của toàn bộ đồng minh...
+前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、長時間スタンさせる。さらに、味方全体の物理・魔法防御力を大アップし、継続ＨＰ回復状態を付与する。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルする。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi phía trước, làm giảm nhẹ phòng thủ vật lý và gây choáng trong thời gian dài. Ngoài ra, tăng mạnh phòng thủ vật lý và phòng thủ ma pháp cho toàn bộ đồng minh, đồng thời hồi phục HP liên tục. Nếu kẻ địch trước mặt đang trong trạng thái bị giảm phòng thủ ma pháp, kỹ năng này chắc chắn sẽ gây bạo kích.
+前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせる。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルする。=Gây sát thương vật lý vừa cho toàn bộ kẻ địch trong phạm vi phía trước và gây choáng. Nếu kẻ địch trước mặt đang trong trạng thái bị giảm phòng thủ ma pháp, kỹ năng này chắc chắn sẽ gây bạo kích.
+
+魔法防御力を大アップし、継続ＨＰ回復状態を付与する。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルする。=Tăng mạnh phòng thủ ma pháp và hồi phục HP liên tục. Nếu kẻ địch trước mặt đang trong trạng thái bị giảm phòng thủ ma pháp, kỹ năng này chắc chắn sẽ gây bạo kích.

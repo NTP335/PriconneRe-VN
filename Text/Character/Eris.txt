@@ -1,0 +1,36 @@
+##Profile
+【魔法】後衛で、眠りから目覚め美しく咲き誇る黒薔薇。終焉を超えし【回帰の薔薇】と、行動速度アップを始めとした多種の攻防支援で味方を強化し、新たな未来を掴む。=[Phép thuật] Một bông hồng đen thức tỉnh từ giấc ngủ và nở rộ đẹp đẽ ở hàng sau. Vượt qua cái chết với [Hoa Hồi Hộp] của mình và sử dụng nhiều loại kỹ năng hỗ trợ tấn công/phòng thủ, bao gồm tăng tốc độ hành động, để củng cố đồng đội và nắm bắt một tương lai mới.
+
+桑島法子=Kuwashima Houko
+騎士クンの話を聞くこと=Nghe câu chuyện của Kishi-kun
+悲劇の根源に咲き誇る美しき黒薔薇=Một bông hồng đen tuyệt đẹp nở rộ tại gốc của bi kịch
+
+未練=Hối tiếc
+余裕=Bình tĩnh
+名前=Tên
+節介=Phiền phức
+
+##UB##
+マクリア・エリュシオン=Macaria Elysium
+味方全体に継続ＨＰ回復状態を付与し、行動速度を大アップさせる。さらに物理/魔法無効バリアを展開する。=Cấp cho tất cả đồng đội khả năng hồi HP liên tục, tăng tốc độ hành động của họ một cách lớn lao. Ngoài ra, triển khai Mặt nạ chống lại tất cả đồng đội, chống lại sát thương vật lý/phép thuật.
+r:"^毎秒ＨＰを(\d+)回復する味方全体の行動速度アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Hồi HP cho tất cả đồng đội $1/giây trong 18.5s.\n►Tăng tốc độ hành động của tất cả đồng đội lên 200% trong 18s.\n►Triển khai Mặt nạ chống lại tất cả đồng đội, chống lại $2 sát thương vật lý/phép thuật trong 18s.
+
+##S1##
+ネオス・プネウマ=Neos Pneuma
+味方全体の物理防御力と魔法防御力を中アップさせ、ＨＰとＴＰを小回復させる。=Tăng P/M.DEF của tất cả đồng đội một cách vừa phải, và hồi một chút HP và TP cho họ.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復味方全体のＴＰを50回復$"=Thời gian niệm: 1.6s\n►Tăng P.DEF của tất cả đồng đội lên $1 trong 12s.\n►Tăng M.DEF của tất cả đồng đội lên $2 trong 12s.\n►Hồi HP cho tất cả đồng đội lên $3.\n►Hồi TP cho tất cả đồng đội lên 50.
+
+##S2##
+アンドレイア=Andreia
+味方全体の物理攻撃力と魔法攻撃力を大アップさせ、クリティカル時のダメージを小アップさせる。攻撃力の上昇量は自分の残りＨＰに応じて最大５倍までアップする。=Tăng P/M.ATK của tất cả đồng đội một cách lớn lao, và tăng một chút P/M.CRIT DMG của họ. Tăng P/M.ATK tăng theo HP còn lại của bản thân, tối đa 5 lần.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを5％アップ味方全体の魔法攻撃クリティカル時のダメージを5％アップ$"=Thời gian niệm: 1.6s\n►Tăng P.ATK của tất cả đồng đội lên $1 trong 12s.\n►Tăng M.ATK của tất cả đồng đội lên $2 trong 12s.\n►Tăng P.CRIT DMG của tất cả đồng đội lên 5% trong 12s.\n►Tăng M.CRIT DMG của tất cả đồng đội lên 5% trong 12s.
+
+##SP1##
+アタナシア=Athanasia
+このスキルのスキルレベルは「マクリア・エリュシオン」と連動しています=Cấp độ kỹ năng này liên kết với "Macaria Elysium"
+味方全体に回帰の薔薇を付与する。回帰の薔薇付与時にＨＰが０になると、倒れずに回帰の薔薇を消費してＨＰを回復する。=Cấp [Hoa Hồi Hộp] cho tất cả đồng đội. Nếu HP của đồng đội có [Hoa Hồi Hộp] về 0 sau khi nhận đòn tấn công chí mạng, tiêu thụ [Hoa Hồi Hộp] và hồi HP mà không ngã gục.
+r:"^回帰の薔薇付与中にＨＰが0になった場合、戦闘不能になる前に回帰の薔薇を消費してＨＰを(\d+)回復する$"=►Nếu HP của đồng đội có [Hoa Hồi Hộp] về 0, tiêu thụ [Hoa Hồi Hộp] và hồi $1 HP.
+
+##EX##
+プレネーシス=Prenesis
+プレネーシス+=Prenesis+

@@ -1,0 +1,12 @@
+妖精たちの遊び=Tiên nữ chơi đùa
+三階の小さな同居人=Cư dân tầng ba
+封印解除で大ピンチ！？=Rắc rối được mở khóa!
+封印されし二階へ=Tầng hai bị khóa
+ようこそギルドハウスへ=Chào mừng đến với Guildhouse mới của cậu
+
+
+ギルドハウスを与えられた{playername}と美食殿の面々。しばらく常駐してくれるらしい【ギルド管理協会】のカリンに説明や注意事項を聞く。二階と三階はまだ『調査中』で封鎖されているらしい。={playername} và Gourmet Guild được trao Guildhouse. Chúng tôi sẽ giải thích và ghi chú mô tả và các biện pháp phòng ngừa cho Karin của [Hiệp hội Quản lý Guild], người dường như sẽ cư trú một thời gian. Có vẻ như tầng hai và tầng ba vẫn đang bị chặn trong quá trình "điều tra".
+コッコロが、ギルドハウスの二階から不穏な物音が聞こえると言う。一同が調査に登ると、何かが封じられていた痕跡だけがあった。どうやら物音は三階から聞こえていたようだが、ひとまず二階は解放される。=Kokkoro nói rằng cậu có thể nghe thấy một tiếng ồn đáng lo ngại từ tầng hai của Guildhouse. Khi tất cả họ leo lên để điều tra, chỉ có những dấu vết bị khóa. Rõ ràng, tiếng ồn được nghe từ tầng ba, nhưng tầng hai được mở khóa tạm thời.
+{playername}と【美食殿】の面々はカリンの許可を取って三階の調査を始めた。強引に扉をこじ開けた先には尋常ではない魔力の霧が立ち込めており、そこに飛び込んだペコリーヌは正気を失ってしまう。={playername} và các thành viên Gourmet Guild bắt đầu điều tra tầng ba với sự cho phép của Karin. Ở cuối cánh cửa, một làn sương ma thuật phi thường được đặt vào, và Pecorine nhảy vào, cô ấy tỉnh táo.
+【美食殿】の窮地を救ったのはガイド妖精のネビアだった。三階に封印されていた彼女は、先程の霧が『幻影湖の霧』であること、この場所はガイド妖精の収監施設だと説明しつつ、一方的に同居を宣言する。=Nebbia, một tiên nữ hướng dẫn đã cứu nguy cho Gourmet Guild. Cô ấy bị khóa trên tầng ba và giải thích rằng làn sương là "sương hồ ảo" và nơi này là một cơ sở nhà tù dành cho tiên nữ hướng dẫn, và tuyên bố cô ấy sẽ sống cùng.
+ギルドハウスの三階が開放され、【美食殿】はネビアも加えて食卓を囲む。食事中にふと眠りに落ちた{playername}の後を追って夢の中に入ったネビアは、そこでアメスと再会するのだった。=Tầng ba của Guildhouse được mở, và Gourmet Guild cũng quây quần bên bàn với Nebbia. Nebbia, người đã bước vào giấc mơ của cô ấy sau khi {playername}, người đã ngủ thiếp đi trong bữa ăn, gặp lại Ameth ở đó.

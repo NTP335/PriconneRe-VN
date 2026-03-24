@@ -1,0 +1,41 @@
+##Profile##
+【魔法】後衛の、妨害に特化した能力を持つ魔法探偵。相手のＴＰを大きく減少させるスキルや、遠くの敵を束縛するスキルを操り、相手の連携を大きく乱す。=[Ma thuật] Một Thám Tử Ma Thuật chuyên phá hoại hành động của kẻ địch từ hàng sau. Với các kỹ năng làm giảm mạnh TP của kẻ địch và gây Bind lên kẻ địch ở xa, cô ấy khiến kẻ địch rất ít cơ hội chiếm ưu thế trận chiến.
+
+##UB##
+ミスティックプリズム=Mystic Prism
+敵全体に魔法中ダメージを与え、さらにＴＰを小ダウンさせる。=Gây sát thương ma thuật vừa phải lên tất cả kẻ địch và giảm TP của chúng một chút.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体のＴＰを(\d+)失わせる$"=►Gây $1 sát thương ma thuật lên tất cả kẻ địch.\n►Giảm TP của tất cả kẻ địch đi $2.
+
+##S1##
+マジカルハレーション=Magical Halation
+最もＴＰが多い敵１キャラのＴＰを中ダウンさせる。ＴＰが最大値に達しているキャラを除く。=Giảm TP của kẻ địch có TP cao nhất một lượng trung bình. (Không áp dụng cho kẻ địch đã đạt TP tối đa.)
+r:"^敵単体のＴＰを(\d+)失わせる$"=►Giảm TP của một kẻ địch đi $1.
+## 260lvl
+最もＴＰが多い敵１キャラのＴＰを中ダウンさせる。さらに物理・魔法攻撃力を短時間小ダウンさせる。ＴＰが最大値に達しているキャラを除く。=Giảm TP của kẻ địch có TP cao nhất một lượng trung bình. Đồng thời giảm P.ATK và M.ATK của nó. (Không áp dụng cho kẻ địch đã đạt TP tối đa.)
+
+##S2##
+ミスティラッピング=Misty Wrapping
+ミスティラッピング+=Misty Wrapping+
+一番遠い敵１キャラを中心とした範囲内の敵すべてに魔法小ダメージを与え、さらに束縛する。=Gây sát thương ma thuật nhỏ lên tất cả kẻ địch trong vùng bán kính xung quanh kẻ địch xa nhất và gây Bind.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương ma thuật lên kẻ địch trong phạm vi.\n►Làm kẻ địch trong phạm vi không thể di chuyển trong một khoảng thời gian.
+
+
+一番遠い敵１キャラを中心とした範囲内の敵すべての魔法防御力を小ダウンさせ、魔法中ダメージを与え、束縛する。さらに自分を中心とした範囲内の味方すべてのＴＰを小回復させる。ダメージを与えた敵の数に応じて、ＴＰの回復量が最大５倍までアップする。=Giảm nhẹ M.DEF của tất cả kẻ địch trong khu vực tập trung vào kẻ địch xa nhất, gây sát thương ma thuật trung bình và trói chúng. Ngoài ra còn phục hồi TP nhẹ cho tất cả đồng đội trong phạm vi tập trung vào bản thân. Lượng phục hồi TP tăng lên tối đa 5 lần tùy theo số kẻ địch bị sát thương.
+r:"^範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする範囲内の味方のＴＰを60回復$"=►Giảm M.DEF của kẻ địch trong phạm vi 400 đi $1 trong 12s.\n►Gây $2 sát thương ma thuật lên kẻ địch trong phạm vi 400.\n►Gây Bind lên kẻ địch trong phạm vi 400 trong 2.5s.\n►Phục hồi TP cho đồng đội trong phạm vi 100 đi 60.
+
+
+## Same as NYSuzume S1+
+
+##EX##
+マジカルディテクティブ=Magical Sleuth
+マジカルディテクティブ+=Magical Sleuth+
+
+##S1+##
+マジカルハレーション+=Magical Halation+
+最もＴＰが多い敵１キャラのＴＰを中ダウンさせる。さらに物理・魔法攻撃力と物理・魔法クリティカルを短時間大ダウンさせる。ＴＰが最大値に達しているキャラを除く。=Giảm TP của kẻ địch có TP cao nhất một lượng trung bình. Đồng thời giảm P.ATK, M.ATK, P.CRIT và M.CRIT của nó. (Không áp dụng cho kẻ địch đã đạt TP tối đa.)
+最もＴＰが多い敵１キャラのＴＰを中ダウンさせる。さらに物理・魔法攻撃力を短時間特大ダウンさせ、物理・魔法クリティカルを短時間大ダウンさせる。ＴＰが最大値に達しているキャラを除く。=Giảm TP của kẻ địch có TP cao nhất một lượng trung bình. Đồng thời giảm P.ATK, M.ATK, Tỷ lệ chí mạng vật lý và Tỷ lệ chí mạng ma thuật của nó. (Không áp dụng cho kẻ địch đã đạt TP tối đa.)
+r:"^敵単体のＴＰを(\d+)失わせる敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理クリティカルを(\d+)ダウン敵単体の魔法クリティカルを(\d+)ダウン$"=►Giảm TP của một kẻ địch đi $1.\n►Giảm P.ATK của một kẻ địch đi $2.\n►Giảm M.ATK của một kẻ địch đi $3.\n►Giảm Tỷ lệ chí mạng vật lý của một kẻ địch đi $4.\n►Giảm Tỷ lệ chí mạng ma thuật của một kẻ địch đi $5.
+
+##UE##
+マジカルミスティロッド=Magical Misty Rod
+マジカルミスティリボン=Magical Misty Ribbon

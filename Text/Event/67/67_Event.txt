@@ -1,0 +1,20 @@
+r:"^砂漠の国　サラサリア周辺([0-9\-\(\)\w （）]*)$"=Salasaria Quốc Gia Sa Mạc $1
+
+砂漠を渡る旅へ=Hành Trình Xuyên Sa Mạc
+オアシス奪還作戦=Chiến Dịch Giành Lại Ốc Đảo
+願いを満たす器=Thần Đèn Ban Ước
+水と炎の輪舞=Điệu Múa Nước và Lửa
+運命の糸を掴んで=Nắm Bắt Sợi Dây Số Phận
+砂海に眠る伝説=Huyền Thoại Ngủ Trong Biển Cát
+砂漠の澄んだ空に=Trong Bầu Trời Trong Sáng Sa Mạc
+両手に花は嵐の予感=Bão Hoa Trong Hai Tay
+夢幻のマリッジ・シム=Mô Phỏng Hôn Nhân Ảo
+夢の語り部に誘われて=Được Mời Bởi Người Kể Chuyện Giấc Mơ
+夢幻のマリッジ・シム エクストラ=Mô Phỏng Hôn Nhân Ảo - Phần Bổ Sung
+二人だけの時間=Thời Gian Chỉ Cho Hai Ta
+エピソード閲覧数=Xem Tập
+夢幻のマリッジ・シム サレンエピソード=Các Tập Mô Phỏng Hôn Nhân Ảo - Saren
+
+ロマンシング・サラサリア　～砂漠の花嫁と不思議のランプ～ 次回予告=Lãng Mạn Salasaria: Cô Dâu Sa Mạc và Chiếc Đèn Kỳ Diệu - Xem Trước Tập
+カリド=Kalid
+古代小兵=Chiến Binh Cổ Đại

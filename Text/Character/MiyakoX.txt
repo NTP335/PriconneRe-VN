@@ -1,0 +1,34 @@
+##Profile##
+【物理】中衛で、味方をプリンで強化する幽霊聖少女。物理攻撃力と物理クリティカルアップのプリンパワーのフィールドで自分のスキルも強化し、猛攻を繰り出す。=[Vật Lý] Một đòn tấn công giữa hàng ngũ, một cô gái linh hồn thánh, dùng bánh pudding để tăng cường cho đồng đội. Cô cũng dùng "trường pudding" để tăng Tấn Công Lực (P.ATK) và Tỷ Lệ Chí Mạng (P.CRIT Rate) của chính mình, rồi phóng ra những đòn tấn công dữ dội.
+
+聖夜の甘い伝説=Sweet Legend of the Holy Night
+悪のサンタクロース！？=Ông già Noel xấu hổ!?
+聖夜に心を響かせて=Let Your Heart Resonate on the Holy Night
+めぐるメリー・メモリー=Meguru Mary Memory
+
+##UB##
+ミヤコとくせいプリンなの=Miyako Special Pudding
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。【フィールド展開中】ダメージがアップする。=Gây sát thương vật lý (P.DMG) lớn cho kẻ địch phía trước, và giảm một chút Phòng Thủ Lực (P.DEF) của nó. Nếu trường kỹ năng đã được kích hoạt, sát thương vật lý (P.DMG) gây ra sẽ được tăng cường.
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=Nếu trường kỹ năng chưa kích hoạt:\n►Gây $1 sát thương vật lý (P.DMG) cho kẻ địch.\n►Giảm Phòng Thủ Lực (P.DEF) của kẻ địch đi $3 trong 18s.\n\nNếu trường kỹ năng đã kích hoạt:\n►Gây $2 sát thương vật lý (P.DMG) cho kẻ địch.\n►Giảm Phòng Thủ Lực (P.DEF) của kẻ địch đi $3 trong 18s.
+
+##S1##
+ゆきだるまにしてやるの=I'll Make You a Snowman
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を大アップさせる。【フィールド展開中】ダメージがアップし、自分の周囲の味方すべての物理攻撃力を大アップさせる。=Gây sát thương vật lý (P.DMG) trung bình cho kẻ địch phía trước, và tăng mạnh Tấn Công Lực (P.ATK) của bản thân. Nếu trường kỹ năng đã được kích hoạt, sát thương vật lý (P.DMG) gây ra sẽ tăng lên và thay vì chỉ tăng cho bản thân, sẽ tăng mạnh Tấn Công Lực (P.ATK) cho đồng đội trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.94s\nNếu trường kỹ năng chưa kích hoạt:\n►Gây $1 sát thương vật lý (P.DMG) cho kẻ địch.\n►Tăng Tấn Công Lực (P.ATK) của bản thân đi $3 trong 12s.\n\nNếu trường kỹ năng đã kích hoạt:\n►Gây $2 sát thương vật lý (P.DMG) cho kẻ địch.\n►Tăng Tấn Công Lực (P.ATK) của đồng đội trong phạm vi 150 đi $4 trong 12s.
+
+##S2##
+ひとくちだけなの=Just a Bite
+自分の周囲に物理攻撃力と物理クリティカルを大アップさせるフィールドを展開する。さらに自分の周囲の味方すべての物理攻撃クリティカル時のダメージを小アップさせ、自分のＴＰ上昇を中アップさせる。=Triển khai một trường kỹ năng, tăng mạnh Tấn Công Lực (P.ATK) và Tỷ Lệ Chí Mạng (P.CRIT Rate) cho đồng đội trong phạm vi. Ngoài ra, tăng nhẹ Sát Thương Chí Mạng Vật Lý (P.CRIT DMG) cho đồng đội trong phạm vi, và tăng trung bình Hiệu Quả Tăng TP (TP Boost) của bản thân.
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する物理クリティカルを(\d+)アップさせるフィールドを展開する範囲内の味方の物理攻撃クリティカル時のダメージを8％アップ自分のＴＰ上昇を30アップ$"=Thời gian niệm: 0.6s\n►Triển khai một trường kỹ năng bán kính 260, tăng Tấn Công Lực (P.ATK) của đồng đội đi $1 và Tỷ Lệ Chí Mạng (P.CRIT Rate) đi $2 trong 12s.\n►Tăng Sát Thương Chí Mạng Vật Lý (P.CRIT DMG) của đồng đội trong phạm vi 150 thêm 8% trong 12s.\n►Tăng Hiệu Quả Tăng TP (TP Boost) của bản thân thêm 30 trong 12s.
+
+##EX##
+プレゼントしてやるの～=I'll give you a present~
+プレゼントしてやるの～+=I'll give you a present~+
+
+##S1+##
+ゆきだるまにしてやるの+=I'll Make You a Snowman+
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を大アップさせ、さらに自分の周囲の味方すべてのＴＰを小回復する。【フィールド展開中】ダメージがアップし、自分の周囲の味方すべての物理攻撃力を大アップさせ、ＴＰを小回復する。=Gây sát thương vật lý (P.DMG) trung bình cho kẻ địch, và tăng mạnh Tấn Công Lực (P.ATK) của bản thân. Nếu trường kỹ năng đã được kích hoạt, sát thương vật lý (P.DMG) gây ra sẽ tăng lên và tăng cực mạnh Tấn Công Lực (P.ATK) cho đồng đội trong phạm vi. Đồng thời, hồi phục một chút TP cho đồng đội trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージフィールド展開中、敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方のＴＰを80回復$"=Thời gian niệm: 0.94s\n►Hồi phục TP của đồng đội trong phạm vi 150 thêm 80.\nNếu trường kỹ năng chưa kích hoạt:\n►Gây $1 sát thương vật lý (P.DMG) cho kẻ địch.\n►Tăng Tấn Công Lực (P.ATK) của bản thân đi $3 trong 12s.\n\nNếu trường kỹ năng đã kích hoạt:\n►Gây $2 sát thương vật lý (P.DMG) cho kẻ địch.\n►Tăng Tấn Công Lực (P.ATK) của đồng đội trong phạm vi 150 đi $4 trong 12s.
+
+##UE##
+プリンパティシエコート=Áo khoàng Patisserie Pudding

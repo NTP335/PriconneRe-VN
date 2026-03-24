@@ -1,0 +1,56 @@
+##Profile##
+【物理】前衛で連続攻撃を放つ、海辺の気まぐれ猫娘。ランダムな相手への単体攻撃を計４度行うユニオンバーストは、対象がランダムだが威力は抜群。=[Vật lý] Một cô mèo tự do trên bãi biển, tấn công điên cuồng từ tuyến đầu. Union Burst của cô ấy, phóng ra bốn đòn tấn công ngẫu nhiên lên mục tiêu, khó lường nhưng mạnh mẽ.
+
+##UB##
+ねこねこサマーレイブ=Kitty-Cat Summer Rave
+前方範囲内のランダムな敵キャラに、単体物理中ダメージを計４回与える。=Gây sát thương vật lý vừa phải lên một kẻ thù ngẫu nhiên trong phạm vi 4 lần.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Gây $1 P.DMG lên một kẻ thù.\n►Gây $2 P.DMG lên một kẻ thù.\n►Gây $3 P.DMG lên một kẻ thù.\n►Gây $4 P.DMG lên một kẻ thù.
+
+計４回、前方範囲内のランダムな敵キャラに単体物理大ダメージを与え、短時間物理防御力を小ダウンさせる。=Tổng cộng 4 lần, gây sát thương vật lý lớn cho một kẻ địch ngẫu nhiên trong phạm vi phía trước và giảm nhẹ phòng thủ vật lý của chúng trong thời gian ngắn.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Giảm $2 phòng thủ vật lý của một kẻ địch trong 3 giây.\n►Gây $3 sát thương vật lý cho một kẻ địch.\n►Giảm $4 phòng thủ vật lý của một kẻ địch trong 3 giây.\n►Gây $5 sát thương vật lý cho một kẻ địch.\n►Giảm $6 phòng thủ vật lý của một kẻ địch trong 3 giây.\n►Gây $7 sát thương vật lý cho một kẻ địch.\n►Giảm $8 phòng thủ vật lý của một kẻ địch trong 3 giây.
+
+
+
+##S1##
+サマービーチアブソーブ=Summer Sun Absorption
+目の前の敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Giảm TP của kẻ thù ngay phía trước một lượng nhỏ và hồi TP của bản thân một lượng nhỏ.
+## r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Giảm TP của một kẻ thù đi $1.\n►Hồi TP của bản thân đi $2.\n►Tăng P.ATK của bản thân đi $3.
+## Same as Tamaki S2
+## 260lvl
+目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。さらに、自分の物理攻撃力を小アップさせる。=Giảm TP của kẻ thù ngay phía trước một lượng nhỏ và hồi TP của bản thân một lượng nhỏ. Đồng thời tăng P.ATK của bản thân một chút.
+
+##S2##
+アイスブレイク=Ice Breaker
+自分の物理攻撃力を中アップさせ、さらに行動速度を大アップさせる。=Tăng P.ATK và tốc độ hành động của bản thân rất lớn.
+r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Tăng P.ATK của bản thân bằng $1.\n►Tăng tốc độ hành động của bản thân.
+
+##EX##
+キャッツインパラダイス=Kitty in Paradise
+キャッツインパラダイス+=Kitty in Paradise+
+
+##S1+##
+サマービーチアブソーブ+=Summer Sun Absorption+
+目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。さらに目の前の敵１キャラの物理攻撃力を大ダウンさせ、自分の物理攻撃力を特大アップさせる。=Giảm TP của kẻ thù ngay phía trước một lượng nhỏ và hồi TP của bản thân một lượng nhỏ. Giảm P.ATK của kẻ thù ngay phía trước một lượng lớn, và tăng P.ATK của bản thân rất lớn.
+
+目の前の敵１キャラのＴＰを中ダウン、物理攻撃力を大ダウンさせ、さらに、自分の物理攻撃力を特大アップ、ＴＰを大回復する。=Giảm vừa TP của một kẻ địch trước mặt, giảm lớn tấn công vật lý của chúng, đồng thời tăng cực đại tấn công vật lý và hồi phục lớn TP cho bản thân.
+
+r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.5s\n►Giảm TP của một kẻ thù đi $1.\n►Hồi TP của bản thân đi $2.\n►Giảm P.ATK của một kẻ thù đi $3 trong 12s.\n►Tăng P.ATK của bản thân đi $4 trong 12s.
+
+##S2+##
+アイスブレイク+=Ice Breaker+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、さらに行動速度を大アップさせる。=Tăng P.ATK của bản thân rất lớn, tăng sát thương khi đánh chí mạng vật lý một chút, và tăng tốc độ hành động của bản thân thêm nữa rất lớn.
+##r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分の行動速度アップ$"=Thời gian niệm: 1.1s\n►Tăng P.ATK của bản thân bằng $1 trong 180s.\n►Tăng P.CRIT DMG của bản thân thêm 10% trong 180s.\n►Tăng tốc độ hành động của bản thân lên 200% trong 18s.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分の行動速度100％アップ$"=Thời gian thi triển: 1.1 giây\n►Tăng $1 tấn công vật lý cho bản thân trong 180 giây.\n►Tăng 10％ sát thương chí mạng vật lý cho bản thân trong 180 giây.\n►Tăng 100％ tốc độ hành động cho bản thân trong 18 giây.
+
+##UE##
+氷鯛アイスダガー=Ice-Bream Dagger
+ねこねこフェザーローブ=Cat Feather Robe
+
+
+
+##S1++##
+TamakiS
+サマービーチアブソーブ++=Summer Sun Absorption++
+目の前の敵１キャラに物理大ダメージを与え、ＴＰを中ダウン、物理攻撃力を大ダウンさせ、さらに、自分の物理攻撃力を特大アップ、ＴＰを大回復する。=Gây sát thương vật lý lớn cho một kẻ địch trước mặt, giảm vừa TP và giảm lớn tấn công vật lý của chúng, đồng thời tăng cực đại tấn công vật lý và hồi phục lớn TP cho bản thân.
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体のＴＰを220失わせる自分のＴＰを500回復敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=Thời gian thi triển: 0.5 giây\n►Gây $1 sát thương vật lý cho một kẻ địch.\n►Làm giảm 220 TP của một kẻ địch.\n►Hồi phục 500 TP cho bản thân.\n►Giảm $2 tấn công vật lý của một kẻ địch trong 12 giây.\n►Tăng $3 tấn công vật lý cho bản thân trong 12 giây.

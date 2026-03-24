@@ -1,0 +1,23 @@
+祭りの前の静けさ=Sự tĩnh lặng trước lễ hội
+ランドソルとの交流祭の手伝いでジオ・ゲヘナを訪れたモニカとサレン。二人でランドソルの代表として仕事に臨む傍ら、モニカは{playername}に平和な正月を送ってもらおうと画策していた。=Monika và Saren đã đến Geo Gehenna để hỗ trợ cho lễ hội giao lưu với Landosol. Trong khi thực hiện nhiệm vụ với tư cách là đại diện của Landosol, Monika đã lên kế hoạch để đảm bảo {playername} có một kỳ nghỉ Tết thật bình yên.
+
+蛇乙女、来る！=Xà Nữ xuất hiện!
+交流祭の準備が着々と進む最中、ネフィ＝ネラに会わせろとメドゥーサが現れる。一触即発な空気の中、{playername}とミーアの機転でどうにか場を収めることに成功するのだった。=Giữa lúc công tác chuẩn bị cho lễ hội đang diễn ra suôn sẻ, Medusa bất ngờ xuất hiện và đòi gặp Nephi Nela. Trong bầu không khí căng thẳng cận kề xung đột, nhờ sự nhanh trí của {playername} và Miia mà tình hình cuối cùng cũng được dàn xếp ổn thỏa.
+
+少女たちの交流祭=Lễ hội giao lưu của các thiếu nữ
+ついに始まった交流祭。多くの人出で賑わう中、サレンと{playername}は見事なコンビネーションで餅をついて地元民を沸かせる。一方モニカはメドゥーサと再会、彼女の事情の一端を知るのだった。=Lễ hội giao lưu cuối cùng cũng đã bắt đầu. Giữa đám đông náo nhiệt, Saren và {playername} đã khiến người dân địa phương phấn khích bằng màn phối hợp giã bánh giầy hoàn hảo. Trong khi đó, Monika tái ngộ Medusa và hiểu thêm được một phần hoàn cảnh của cô ấy.
+
+不穏な邂逅=Cuộc gặp gỡ bất ổn
+姉の行方を捜すメドゥーサにカノンが言葉巧みに近づくが、モニカが来たおかげで難を逃れる。その後サレンたちと合流してお菓子をもらったり、蛇祭りの前夜祭に参加し楽しいひと時を過ごすのだった。=Kanon khéo léo tiếp cận Medusa khi cô đang tìm kiếm tung tích của chị mình, nhưng nhờ có Monika xuất hiện mà cô đã thoát khỏi rắc rối. Sau đó, cô hội ngộ cùng nhóm Saren, nhận kẹo và có những giây phút vui vẻ khi tham gia đêm tiền lễ hội Xà Thần.
+
+ミッシングスネーク=Những con rắn mất tích
+蛇祭り当日の朝、出場する蛇の妖魔人たちが全員姿を消す。彼らがランドソルへ向かったという情報を得たモニカとメドゥーサは急ぎ帰還する。一方、一足先に戻っていたサレンも胸騒ぎを覚え街へ駆け付ける。=Vào sáng ngày diễn ra lễ hội Xà Thần, tất cả các yêu ma nhân tộc rắn tham gia đều biến mất. Nhận được tin báo rằng bọn chúng đã hướng về phía Landosol, Monika và Medusa vội vã quay trở về. Trong khi đó, Saren—người đã về trước một bước—cũng cảm thấy bất an và tức tốc chạy vào thành phố.
+
+大蛇の中の暗闇で=Trong bóng tối lòng đại xà
+カノン率いる妖魔人や大蛇と対決するモニカとメドゥーサ。しかし一瞬の隙をつかれメドゥーサは{playername}と共に大蛇に飲み込まれてしまう。腹の中で心の内を打ち明けたメドゥーサは脱出を誓う。=Monika và Medusa đối đầu với đám yêu ma nhân do Kanon dẫn đầu cùng một con đại xà. Tuy nhiên, lợi dụng sơ hở trong tích tắc, con đại xà đã nuốt chửng Medusa cùng với {playername}. Bên trong bụng rắn, Medusa đã bộc bạch nỗi lòng của mình và thề sẽ thoát ra ngoài.
+
+決戦の始末、あるいは終幕=Kết cục của quyết chiến, hay là hồi kết
+無事大蛇の中から帰還したメドゥーサはモニカたちの協力を得てカノンを撃破するも、肝心の姉の行方は分からず落ち込んでしまう。しかし倒した大蛇と心を通わせ、眷属にして立ち直りを見せるのだった。=Sau khi trở về an toàn từ bụng đại xà, Medusa đã cùng Monika và mọi người đánh bại Kanon, nhưng cô lại rơi vào thất vọng vì vẫn không tìm thấy tung tích của chị mình. Tuy nhiên, cô đã kết nối tâm thức với con đại xà bị đánh bại, biến nó thành quyến thuộc của mình và dần vực dậy tinh thần.
+
+蛇乙女の旅立ち=Hành trình mới của Xà Nữ
+事件を解決し気持ちを新たにしたメドゥーサは、ネフィ＝ネラから真相を聞きランドソルに滞在することとなる。一方モニカは当初の目的は果たせなかったものの、仲間たちと正月の夜を楽しむのだった。=Sau khi giải quyết xong vụ việc với tâm thế mới, Medusa đã nghe sự thật từ Nephi Nela và quyết định ở lại Landosol. Trong khi đó, Monika dù không đạt được mục tiêu ban đầu nhưng vẫn tận hưởng đêm giao thừa vui vẻ bên những người bạn của mình.

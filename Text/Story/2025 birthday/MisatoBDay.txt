@@ -1,0 +1,16 @@
+Misato Birthday
+
+うふふ♪\n楽しかったわね～、保育園のみんなとのお誕生日会。\nあなたも、子どもたちの準備に協力してくれてありがとう。=Ufufu♪ Bữa tiệc sinh nhật với tất cả bọn trẻ ở nhà trẻ vui lắm. Cảm ơn vì đã giúp chúng chuẩn bị mọi thứ.
+みんな、私のために似顔絵や折り紙を折ってくれて……\nと～っても素敵な誕生日になったわ。\n保母さんになってよかったって……心から思った。=Mọi người đều vẽ chân dung và gấp giấy origami cho tớ... Nó trở thành một bữa sinh nhật tuyệt vời. Những khoảnh khắc như thế này khiến tớ cảm thấy từ tận trái tim rằng trở thành giáo viên nhà trẻ là lựa chọn đúng đắn.
+えっ？\nでも、子どもたちはもう、おうちに……=Hả? Nhưng bọn trẻ đã về nhà rồi...
+あらあら～！\nきれいに包まれた箱……\nこれって、誕生日プレゼントかしら？=Ôi trời, ôi trời! Một chiếc hộp được gói gọn gàng... Đây có phải là món quà sinh nhật không?
+子どもたちと一緒の、じゃなくて……あなただけの？\nあらあら。もしかして、先生の喜ぶ顔を独り占めしたかったの？\n欲張りさんね……♪=Không phải từ bọn trẻ... chỉ từ cậu? Ôi trời, ôi trời. Cậu muốn giữ nụ cười hạnh phúc của Sensei cho riêng mình ư? Cậu bé tham lam...♪
+じゃあ、開けさせてもらうわね？\nあら～……！\nかわいいリボン♪　あなたが選んでくれたのかしら。=Vậy thì, tớ sẽ mở nó ngay, được chứ? Ôi trời...! Chiếc nơ xinh quá♪ Tớ tự hỏi liệu cậu có tự tay chọn nó cho tớ không.
+うふふ♪　大切に、大切に、身に着けるわね。\nそうだ……初めてはあなたにお願いしようかしら。=Ufufu♪ Tớ sẽ trân trọng nó và cẩn thận đeo. À, tớ biết rồi... có lẽ nên để cậu là người đầu tiên thấy tớ đeo nó.
+このリボン。\n初めて着けるのは……あなたにお願いするわ。=Chiếc nơ này... Tớ muốn lần đầu tiên đeo nó là vì cậu.
+……結んでもらえるかしら。=...Cậu sẽ cột nó cho tớ chứ?
+これを着けてると……あなたのこと、\nずっとそばにいるみたいに感じられそう。\nありがとう。うふふ♪=Khi tớ đeo chiếc nơ này... cảm thấy như cậu sẽ luôn ở ngay bên cạnh. Cảm ơn. Ufufu♪
+
+Player Prompts
+まだ、終わりじゃないよ。=Và chưa hết đâu
+お誕生日おめでとうございます。=Chúc mừng sinh nhật

@@ -1,0 +1,21 @@
+r:"^迎春ジオ・ゲヘナ([0-9\-\(\)\w （）]*)$"=Gio Gehenna Tết Nguyên Đán $1
+r:"^迎春ランドソル([0-9\-\(\)\w （）]*)$"=Landosol Tết Nguyên Đán $1
+
+呪縛の大蛇・メドゥシアナ=Medusiana, Rắn Nguyền Rủa
+最も近い敵１キャラを中心にした小範囲内の敵\n　すべてに物理特大ダメージを与える。=Gây sát thương vật lý cực lớn lên tất cả đối thủ trong một khu vực nhỏ xung quanh kẻ địch gần nhất.
+敵全体に魔法中ダメージを与える。さらに、敵\n　キャラの行動速度が初期値以下の場合、石化状\n　態を付与し、敵キャラの行動速度が初期値以下\n　ではない場合、行動速度を中ダウンさせる。こ\n　のスキルの効果はダメージを無効化しても付与\n　される。\n=Gây sát thương trong khi phép thuật. Ngoài ra, khi tốc độ di chuyển của kẻ địch thấp hơn giá trị ban đầu, chúng sẽ trạng thái Hóa Đá, và khi tốc độ di chuyển của kẻ địch thấp hơn giá trị ban đầu, tốc độ di chuyển của chúng sẽ giảm. Kỹ năng này sẽ hiệu lực ngay cả khi sát thương bị triệt tiêu.\n
+前方広範囲内の敵すべてに物理大ダメージを与\n　え、毒状態を付与し、ＨＰ吸収を特大ダウンさ\n　せる。さらに、敵キャラが行動不能状態の場合、\n　ＨＰ回復量を大ダウンさせる。このスキルの効\n　果はダメージを無効化しても付与される。\n=Gây sát thương vật lý lớn lên tất cả đối thủ trong một vùng rộng phía trước, khiến chúng trúng độc và giảm mạnh khả năng hấp thụ HP. Ngoài ra, nếu một kẻ địch bị vô hiệu hóa, khả năng phục hồi HP của chúng sẽ giảm mạnh. Hiệu quả kỹ năng này có thể được áp dụng ngay cả khi sát thương bị triệt tiêu.\n
+ユニオンバーストは、敵全体に物理大ダメージ\n　を与え、猛毒状態を付与する。さらに、敵キャ\n　ラが行動不能状態の場合、魔法固定ダメージを\n　与え、敵キャラが行動不能状態ではない場合、\n　石化状態を付与し、行動速度を小ダウンさせる。\n　このスキルの効果は他の行動速度変化スキルと\n　重複する。このスキルの効果はダメージを無効\n　化しても付与される。\n=Union Burst gây sát thương vật lý khổng lồ lên tất cả đối thủ và khiến chúng trúng độc chí mệnh. Ngoài ra, khi một kẻ địch bị vô hiệu hóa, nó gây sát thương phép thuật cố định, và khi kẻ địch không bị vô hiệu hóa, nó áp dụng trạng thái Hóa Đá và giảm tốc độ di chuyển. Hiệu quả kỹ năng này chồng chéo với các kỹ năng thay đổi tốc độ di chuyển khác. Hiệu quả kỹ năng này có thể hiệu lực ngay cả khi sát thương bị triệt tiêu.\n
+面妖奇警な笛の音に操られし魔蛇。石化\nをもたらす眼光を放ち、その圧倒的な巨躯を以て\n矮小な獲物たちを蹂躙する。\n\n=Một con rắn ma quỷ bị điều khiển bởi âm thanh kỳ lạ từ một chiếc kèn. Nó lóe lên ánh mắt hóa đá và dùng thân hình khổng lồ để áp đảo con mồi nhỏ bé của mình.\n\n
+ヲ～ッホッホッホ！\n新たなる一年のお幕開けと同時に、ランドソルの新たな王女！　\nプリンセスカノン様の大・爆・誕！　ですわ～！=Ô hô hô hô! Đầu năm mới, công chúa mới của Landsor! Vụ Nổ Lớn của Công Chúa Kanon!
+さあさ、お下々のみなさま方♪\n存分に頭を垂れ、崇め、称え、跪きなさい！\nこのあたくし様のお足元のその下に～～～っ！！=Đi nào, các kẻ hèn mọn♪ Cúi đầu, thờ phụng, ca ngợi và quỳ gối thỏa thích! Dưới chân ta ⁇ !!
+
+大蛇=Orochi
+メドゥシアナから受けるすべての\n　ダメージで発生する、パーティキャラのＴＰ回\n　復量を特大ダウンさせる。\n=Nó làm giảm tốc độ phục hồi TP của đồng đội một lượng cực lớn do toàn bộ sát thương họ nhận từ Medusana.\n
+呪縛の大蛇\n=Rắn nguyền rủa\n
+メドゥシアナ=Medusiana
+
+バトル開始時、コドモオオトカゲ２体とツチノ\n　コブラ２体を召喚する。\n=Ngay khi trận đấu bắt đầu, tôi triệu hồi hai Kỳ Nhông Codmo và hai Rắn Tsuchino.\n
+サレン・モニカ=Saren Monika
+メドゥシアナの付与する毒および\n　猛毒のダメージでは、ＴＰが回復しない。\n=Sát thương từ độc và độc chí mệnh mà Medusiana gây ra sẽ không phục hồi TP\n
+敵全体に魔法中ダメージを与える。さらに、敵\n　キャラの行動速度が初期値以下の場合、石化状\n　態を付与し、敵キャラの行動速度が初期値以下\n　ではない場合、行動速度を特大ダウンさせる。\n　このスキルの効果はダメージを無効化しても付\n　与される。\n=Gây sát thương trong khi phép thuật. Ngoài ra, khi tốc độ di chuyển của kẻ địch thấp hơn giá trị ban đầu, chúng sẽ trạng thái Hóa Đá, và khi tốc độ di chuyển của chúng không thấp hơn của một kẻ địch khác, chúng sẽ bị giảm mạnh. Hiệu quả kỹ năng này sẽ hiệu lực ngay cả khi sát thương bị triệt tiêu.\n

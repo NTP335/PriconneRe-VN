@@ -1,0 +1,15 @@
+Mimi Akane Birthday
+
+おにいちゃん、おかえりなさい。\nいつもおしごとおつかれさま～\nおふろにする？　ごはんにする？　それともケーキ？=Onii-chan! Chào anh về. Cảm ơn anh đã cố gắng làm việc~ Anh muốn tắm chưa? Ăn cơm chưa? Hay là... ăn bánh?
+えへへっ、今日はミミのお誕生日だから\n角のケーキ屋さんでケーキとろうそく買ってきたんだぁ♪\nおにいちゃんが帰ってくるの、待ってたんだよ！=Ehehe, hôm nay là sinh nhật của Mimi, nên đây là bánh và nến tớ mua từ tiệm bánh góc đường♪ Onii-chan, Mimi đã chờ anh về mãi!
+うんっ♪\nろうそく立てて～火をつけて……せーのっ\nふ～～～っ！=Được chứ♪ Lắp nến... rồi thắp lên, và... nhé! *Phụtttt*!
+ありがとう、おにいちゃん！　ミミひとつ大きくなったから、\nおにいちゃんに近づけたかなぁ？=Cảm ơn anh, Onii-chan! Giờ Mimi đã lớn hơn một chút, tớ tự hỏi liệu có gần tuổi anh hơn chưa～♪
+もっと大きくなったらね、おままごとじゃないケーキ、\nいつかおにいちゃんといっしょに食べたいな！\nおおきいイチゴと、チョコのくまさんが乗ってるのがいいな～♪=Em biết không, khi em lớn lên, em muốn ăn một chiếc bánh thật, không phải bánh giả từ việc chơi trò làm bánh với Onii-chan! Em muốn có một chiếc to, vị dâu tây, với con gấu sô-cô-la trên đầu~♪
+わぁっ、もしかしてこの大きな箱！　ケーキなのっ？\nすごいすごい♪\nチョコのくまさんとうさぎさんもいる～！=Ồ! Đừng nói là trong cái hộp to này... là bánh? Tuyệt thật, quá tuyệt♪ Trên đó còn có cả gấu sô-cô-la và thỏ nữa!
+ありがとうっ、おにいちゃん！\nそれじゃあ、おにいちゃんが帰ってくるところから\nもう一回おままごとね！=Cảm ơn anh, Onii-chan! Vậy thì, Onii-chan, hãy cùng chơi trò làm bánh tiếp từ khoảnh khắc anh về nhà!
+お誕生日うれしいなっ♪　おままごともたのしいなっ。\nミミはねえ、おにいちゃんのこと、だ～いすきなんだよ♪=Mimi rất vui về sinh nhật của mình♪ Chơi trò làm bánh cũng khiến Mimi vui, vui lắm! Em biết không, Mimi... thực sự rất yêu anh, Onii-chan♪
+
+Player Prompts
+じゃあケーキにしよう！=Vậy thì, em sẽ chọn chiếc bánh!
+ハッピーバースデー！　ミミちゃん。=Chúc mừng sinh nhật, Mimi-chan!
+実は、そんなケーキを用意してあるんだ！=Ô, nhìn kìa! Mở hộp quà này ra!

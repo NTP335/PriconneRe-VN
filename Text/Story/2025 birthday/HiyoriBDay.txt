@@ -1,0 +1,17 @@
+Hiyori Harusaki Birthday
+
+先輩！　早く早くー！\n急がないと海が逃げちゃうよー！=Senpai! Đây, nhanh lên đi! Nếu cậu không di chuyển, biển sẽ chạy mất!
+先輩、甘い、甘すぎるよっ？\n確かに海は逃げないけど、楽しい時間はすぐに過ぎちゃうんだよっ？=Senpai... ngây thơ quá, quá ngây thơ rồi! Đúng là biển không có chân để chạy, nhưng khoảng thời gian vui vẻ chúng ta có thể bên nhau trôi qua nhanh lắm, biết không?
+特に──誕生日に遊びに来たときなんかはねっ！=Đặc biệt là khi chúng ta ở đây vì sinh nhật của mình!
+うんっ！　だってこの間二人で来た時は、\n人助けしてたらあっという間に夕方になっちゃってたから。\n今度は、先輩だけを見て──って今のなし！　忘れてっ？=Ừ! Ý mình là, lần trước chúng ta đi cùng nhau, cả ngày giúp đỡ người khác rồi không biết lúc nào mặt trời đã lặn. Lần này, mình muốn chỉ nhìn cậu, Senpai... K-Khoan đừng nhớ! Quên đi được chứ?
+さっ先輩！　遊ぼ遊ぼー！　何からしよっか？\nせっかくの誕生日なんだし、やりたいこと全部やろうね！\nよ～っしまずは、遠泳から──=Nhanh lên Senpai! Chơi thôi! Trước tiên nên làm gì? Là sinh nhật của mình nên mình muốn làm mọi thứ mình thích! Được rồi, bắt đầu với bơi xa bờ nào!
+──ぷは～！\n遊んだ遊んだ～、もう体が動かないよ～=Pwah~! Chơi nhiều thật rồi~ Mình không thể di chuyển được nữa~
+えへへ。困ってる人もいなかったし、ずっと二人だったね！\nもう夏も終わりだからかな？\nあたしと先輩だけの海って感じ、だった……=Ehehe. Không ai gặp rắc rối nên chỉ có hai chúng ta! Có lẽ vì hạnh sắp kết thúc... nhưng cảm giác như bãi biển thuộc về riêng hai đứa mình, Senpai...
+わわっ、改めて考えると、ほんとに二人きりだった……！\n自覚するとなんか、きゅ、急に恥ずかしくなってきたよ？\n先輩の顔が夕日に照らされて、なんか……=Uwaaah, giờ nói ra mới thật sự chỉ có hai đứa...! B-Bỗng nhận ra làm mình cảm thấy... n-ngượng quá. Khuôn mặt Senpai được ánh hoàng hôn chiếu lên, và một cách nào đó...
+えっ？　あ……これって、プレゼント？\nわぁ、きれいなブレスレット……夕日が透き通ってる……\nありがとう、先輩……えへへ♪=Hả? À... Đây là quà à? Tuyệt vời... chiếc vòng tay đẹp thế này... như ánh hoàng hôn đang chiếu xuyên qua nó... Cảm ơn cậu, Senpai... ehehe♪
+もう、先輩～……！\nこんなことされたら、先輩の顔がまともに見られないよ～！=Tệ thật Senpai~...! Giờ cậu làm vậy, mình không thể nhìn thẳng vào mặt cậu được nữa~!
+
+Player Prompts
+海は逃げないよ。=Biển sẽ không đi đâu
+お祝い、本当に海でよかったの？=Cậu thực sự chắc muốn ăn mừng ở bãi biển?
+ひより、誕生日おめでとう。=Hiyori, chúc mừng sinh nhật

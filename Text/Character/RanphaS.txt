@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛で、密やかな潮騒に耳を傾ける晩陽の歌姫。魔法クリティカルの極大アップを筆頭に攻防両面で周囲の味方を強化し、さらに自身もＵＢで数多の敵を退かせる。=[Phép thuật] Một nữ ca sĩ hậu phương hoàng hôn lắng nghe âm thanh thầm kín của đại dương. Cô xuất sắc trong việc tăng cường đồng minh xung quanh ở cả mặt tấn công và phòng thủ, với mức tăng trung bình cho tỷ lệ chí mạng phép, và cũng có thể đẩy lùi nhiều kẻ địch bằng Union Burst.
+
+##UB##
+ネフライトアリア=Nephrite Aria
+自分を中心とした範囲内の敵すべてに魔法大ダメージを与え、自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップさせる。範囲内の敵の数に応じて、ダメージと魔法攻撃力の上昇量が増加する。=Gây sát thương phép lớn lên kẻ địch trong phạm vi 850 và tăng mạnh tấn công phép cho đồng minh trong phạm vi 150 trong 18 giây. Sát thương phép và mức tăng tấn công phép tỷ lệ với số kẻ địch trong phạm vi.\nSát thương phép: (+0.6×Sát thương phép× \nSố kẻ địch)\nTấn công phép: (+0.5×Tấn công phép× \nSố kẻ địch)
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương phép lên kẻ địch trong phạm vi.\n►Tăng tấn công phép của đồng minh trong phạm vi lên $2.
+## Same as SNanaka S1
+
+##S1##
+セイレーンブレス=Hơi thở Nàng Tiên Ca
+自分を中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法クリティカルを極大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng mạnh tấn công phép và tỷ lệ chí mạng phép của đồng minh trong phạm vi, và tăng nhẹ sát thương chí mạng phép của họ.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを700アップ範囲内の味方の魔法攻撃クリティカル時のダメージを10％アップ$"=►Tăng tấn công phép của đồng minh trong phạm vi 150 lên $1 trong 12s.\n►Tăng tỷ lệ chí mạng phép của đồng minh trong phạm vi 150 lên 700 trong 12s.\n►Tăng sát thương chí mạng phép của đồng minh trong phạm vi 150 lên 10% trong 12s.
+
+##S2##
+サンシェイドバリア=Lá Chắn Dưới Bóng Mặt Trời
+自分を中心とした範囲内の味方すべてに物理/魔法無効バリアを展開し、継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。=Triển khai Lá Chắn bảo vệ đồng minh trong phạm vi, hấp thụ sát thương vật lý/phép, và đồng minh được đó liên tục hồi HP và TP.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する$"=►Triển khai Lá Chắn bảo vệ đồng minh trong phạm vi 150, hấp thụ $1 sát thương vật lý/phép trong 12s.\n►Hồi HP cho đồng minh trong phạm vi 150 với tốc độ $2/giây trong 10.5s.\n►Hồi TP cho đồng minh trong phạm vi 150 với tốc độ 10/giây trong 10.5s.
+
+##EX##
+マリンボイス=Giọng Hát Biển Cả
+マリンボイス+=Giọng Hát Biển Cả+
+
+##S1+##
+セイレーンブレス+=Hơi thở Nàng Tiên Ca+
+自分を中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法クリティカルを極大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。範囲内の味方の人数に応じて、魔法攻撃クリティカル時のダメージの上昇量が最大７キャラ分まで増加する。=Tăng mạnh tấn công phép và tỷ lệ chí mạng phép của đồng minh trong phạm vi, và tăng nhẹ sát thương chí mạng phép của họ. Sát thương chí mạng phép tăng theo số đồng minh trong phạm vi, tối đa 7.\nSát thương chí mạng phép: (+2%×Số đồng minh)
+
+##UE##
+歌姫の翳傘=Ô Người Hát Ca

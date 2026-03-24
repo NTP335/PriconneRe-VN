@@ -1,0 +1,43 @@
+
+r:"^レンジャー合宿所周辺([0-9\-\(\)\w （）]*)$"=Xung quanh Trại Đặc nhiệm $1
+
+魔物生態報告書=Báo cáo Sinh thái Quái vật
+
+ニャット=Nyat
+主さま=Chủ nhân
+歯磨きのお時間=Giờ chải lông
+森の大猿=Đại vượn của Rừng
+大猿さま
+
+魔物生態報告書解放=Báo cáo Sinh thái Quái vật đã được Mở khóa
+ワッパダヌキの生態メモ①=Ghi chú Sinh thái Wappadanuki ①
+ワッパダヌキの生態メモ②=Ghi chú Sinh thái Wappadanuki ②
+ワッパダヌキの生態メモ③=Ghi chú Sinh thái Wappadanuki ③
+ワッパダヌキの生態メモ④=Ghi chú Sinh thái Wappadanuki ④
+ゴブリングレートの生態メモ①=Ghi chú Sinh thái Goblin Great ①
+ゴブリングレートの生態メモ②=Ghi chú Sinh thái Goblin Great ②
+ゴブリングレートの生態メモ③=Ghi chú Sinh thái Goblin Great ③
+ゴブリングレートの生態メモ④=Ghi Chép Về Sinh Thái Của Quỷ Lùn ④
+ニャットの生態メモ①=Ghi Chép Về Sinh Thái Của Nyat ①
+ニャットの生態メモ②=Ghi Chép Về Sinh Thái Của Nyat ②
+ニャットの生態メモ③=Ghi Chép Về Sinh Thái Của Nyat ③
+ニャットの生態メモ④=Ghi Chép Về Sinh Thái Của Nyat ④
+スリーピィオウルの生態メモ①=Ghi Chép Về Sinh Thái Của Cú Ngủ ①
+スリーピィオウルの生態メモ②=Ghi Chép Về Sinh Thái Của Cú Ngủ ②
+スリーピィオウルの生態メモ③=Ghi Chép Về Sinh Thái Của Cú Ngủ ③
+スリーピィオウルの生態メモ④=Ghi Chép Về Sinh Thái Của Cú Ngủ ④
+イワアライグマの生態メモ①=Ghi Chép Về Sinh Thái Của Gấu Đá ①
+イワアライグマの生態メモ②=Ghi Chép Về Sinh Thái Của Gấu Đá ②
+イワアライグマの生態メモ③=Ghi Chép Về Sinh Thái Của Gấu Đá ③
+イワアライグマの生態メモ④=Ghi Chép Về Sinh Thái Của Gấu Đá ④
+ライライの生態メモ①=Ghi Chép Về Sinh Thái Của Rai-Rai ①
+ライライの生態メモ②=Ghi Chép Về Sinh Thái Của Rai-Rai ②
+ライライの生態メモ③=Ghi Chép Về Sinh Thái Của Rai-Rai ③
+ライライの生態メモ④=Ghi Chép Về Sinh Thái Của Rai-Rai ④
+秘密の相手はひとりッス！=Đối thủ bí ẩn đang ở một mình!
+
+コッコロの\\n報告書=Báo Cáo Của Kokkoro\\n
+コッコロの\n報告書=Báo Cáo Của Kokkoro
+生態メモを全て閲覧すると解放されます。=Sẽ được công bố sau khi xem hết tất cả các ghi chép sinh thái.
+シオリの\n報告書=Báo Cáo Của Shiori
+シオリさまとわたくしが見つけた魔物の調査記録でございます。\n戦いでは見られない彼らの暮らしなどを書き記しておりますよ。\n主さまもぜひご覧くださいませ。=Đây là bản ghi chép điều tra về các quái vật mà Shiori-sama và em tìm thấy. Chúng em đã ghi lại về cuộc sống hàng ngày của chúng, điều không thể thấy được trong trận chiến. Xin ngài hãy xem qua, chủ nhân.

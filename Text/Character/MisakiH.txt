@@ -1,0 +1,36 @@
+##Profile##
+【魔法】後衛で、妨害スキルを操るオシャレ魔法少女。相手を誘惑状態にするスキルや、複数の状態異常を\n同時に付与するユニオンバーストで相手をかく乱する。=[Ma Thuật] Một phù thủy ma thuật thời trang cản trở kẻ địch từ hậu phương. Với kỹ năng có thể gây Mê Hoặc và Union Burst có thể gây nhiều trạng thái bất thường cùng lúc, sự hiện diện của cô khiến hàng ngũ kẻ địch rối loạn.
+
+##UB##
+パンプキンデスパーティー=Tiệc Bí Ngô Chết Người
+敵全体に魔法中ダメージを与え、呪いと束縛を付与し、さらに魔法防御力を小ダウンさせる。=Gây sát thương ma thuật nhỏ lên tất cả kẻ địch ở phía trước và giảm M.DEF một chút. Gây Nguyền Rủa và Trói.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体を一定時間行動不能にする(\d+)ダメージを与える呪い状態にする敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật lên tất cả kẻ địch.\n►Làm tất cả kẻ địch bất động trong một khoảng thời gian.\n►Áp dụng Nguyền Rủa gây $2 sát thương/giây.\n►Giảm M.DEF của tất cả kẻ địch đi $3.
+
+##S1##
+レディマジック=Mê Hoặc Của Công Nương
+目の前の敵１キャラに魔法小ダメージを与え、さらに誘惑状態にする。=Gây sát thương ma thuật nhỏ lên kẻ địch đứng trước mặt và gây Mê Hoặc.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を誘惑する$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Gây Mê Hoặc lên kẻ địch.
+
+##S2##
+ハロウィンブースト=Hội Halloween
+自分を中心とした範囲内の味方すべての魔法攻撃力を中アップさせる。=Tăng sức mạnh ma thuật của đồng minh trong tầm một lượng trung bình.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Tăng sức mạnh ma thuật của đồng minh trong tầm lên $1.
+
+##EX##
+ハロウィンレディ=Nàng Dáng Halloween
+ハロウィンレディ+=Nàng Dáng Halloween+
+
+##S1+##
+レディマジック+=Mê Hoặc Của Công Nương+
+目の前の敵１キャラに魔法中ダメージを与え、ＴＰを小ダウンさせ、さらに誘惑状態にする。=Gây sát thương ma thuật trung bình lên kẻ địch đứng trước mặt, giảm nhẹ TP của chúng. Ngoài ra, áp dụng trạng thái Mê Hoặc lên chúng.
+目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、さらに誘惑状態にする。=Gây sát thương ma thuật lớn lên kẻ địch đứng trước mặt, giảm nhẹ TP của chúng. Ngoài ra, áp dụng trạng thái Mê Hoặc lên chúng.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を誘惑する敵単体のＴＰを(\d+)失わせる$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Gây Mê Hoặc lên kẻ địch.\n►Giảm TP của kẻ địch đi $2.
+
+##S2+##
+ハロウィンブースト+=Hội Halloween+
+自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法防御力を大アップさせ、魔法無効バリアを展開する。=Tăng cực lớn sức mạnh ma thuật, tăng cực lớn phòng thủ ma thuật và tạo một rào cản kháng ma thuật cho tất cả đồng minh trong khu vực xung quanh bản thân.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng sức mạnh ma thuật của đồng minh trong tầm 400 lên $1 trong 12s.\n►Tăng phòng thủ ma thuật của đồng minh trong tầm 400 lên $2 trong 12s.\n►Tạo Rào Cản cho đồng minh trong tầm 400, kháng $3 sát thương ma thuật trong 12s.
+
+##UE##
+魔箒ハロウィン・アイ=Mắt Đêm Halloween
+魔淑帽レディ・ウィッチ=Mũ Phép Của Nàng Phù Thủy

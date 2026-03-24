@@ -1,0 +1,177 @@
+エルピス討魔戦線=Mặt trận Diệt ma Elpis
+スキップスコア=Bỏ qua điểm
+遺物=Di vật
+コネクトRANKボーナス=Thưởng Connect RANK
+ランダム遺物BOX=Hộp di vật ngẫu nhiên
+ランダムな遺物を最大１個獲得できる。=Có thể nhận tối đa 1 di vật ngẫu nhiên.
+ランダムな遺物を最大２個獲得できる。=Có thể nhận tối đa 2 di vật ngẫu nhiên.
+ランダムな遺物を最大３個獲得できる。=Có thể nhận tối đa 3 di vật ngẫu nhiên.
+ランダムな遺物を最大４個獲得できる。=Có thể nhận tối đa 4 di vật ngẫu nhiên.
+ランダムな遺物を最大５個獲得できる。=Có thể nhận tối đa 5 di vật ngẫu nhiên.
+
+遺物装備へ=Đến Trang bị Di vật
+遺物装備=Trang bị Di vật
+
+遺物装備確認=Xác nhận Trang bị Di vật
+遺物を装備していませんが、そのまま挑戦しますか？=Bạn chưa trang bị Di vật nào, bạn vẫn muốn tiếp tục khiêu chiến chứ?
+
+現在の装備=Trang bị hiện tại
+
+モンスターへの有効効果=Hiệu ứng hữu hiệu lên Quái vật
+未クリアの難易度はスキップできません。=Không thể bỏ qua độ khó chưa hoàn thành.
+遺物を所持していません。=Bạn không sở hữu Di vật nào.
+発動遺物効果=Hiệu ứng Di vật đang kích hoạt
+遺物が装備されていません。=Chưa có Di vật nào được trang bị.
+遺物装備は5個までです。=Chỉ có thể trang bị tối đa 5 Di vật.
+弱体=Suy yếu
+遺物効果=Hiệu ứng Di vật
+バトル時間スコア=Điểm thời gian trận đấu
+残り時間=Thời gian còn lại
+挑戦リザルト=Kết quả khiêu chiến
+ゴールドレガリア=Gold Regalia
+
+キャラLv上限突破および専用装備１SP条件達成の項目はボーナスアップの対象外です。=Các mục Đột phá giới hạn Lv nhân vật và Đạt điều kiện UE-1 SP không thuộc đối tượng được tăng thêm.
+コネクトRANKステータス=Chỉ số Connect Rank
+コネクトRANKボーナスアップ=Tăng thêm Connect Rank
+バトル開始時のコネクトRANKボーナスの効果量がアップします。=Tăng lượng hiệu ứng thêm Connect Rank khi bắt đầu trận đấu.
+エルピス討魔戦線で全ボスのVERY HARDをクリアしよう=Vượt qua độ khó VERY HARD của tất cả trùm trong Chiến trường Diệt ma Elpis.
+エルピス討魔戦線へ=Đến Mặt trận Diệt ma Elpis
+
+
+##Mission##
+sr:"^難易度(.+?)の(.+)を(.+)秒以上残してクリアしよう$"=Hãy hoàn thành $1 độ khó $2 với thời gian còn lại từ $3 giây trở lên.
+sr:"^難易度(.+?)の(.+)をパーティ(.)までにクリアしよう$"=Hãy hoàn thành $1 độ khó $2 với tối đa $3 đội hình.
+
+r:"^難易度(.+?)クリア$"=Hoàn thành độ khó $1
+
+r:"^期間限定ミッション([0-9:：/～\- ]+)$"=Nhiệm vụ có thời hạn $1
+
+
+sr:"^(.)属性か(.)属性だけを編成して難易度(.+?)の(.+)をパーティ(.)までにクリアしよう$"=Hãy vượt qua $4 độ khó $3 chỉ với thuộc tính $1 hoặc $2 trong vòng $5 đội hình.
+
+１つ前の難易度=Độ khó trước đó
+
+挑戦回数を消費して挑戦を開始します。\n\nよろしいですか？=Sẽ tiêu tốn lượt khiêu chiến để bắt đầu.\n\nBạn có đồng ý không?
+
+コネクトRANK=Connect RANK
+
+イベント参加ボーナス=Thưởng tham gia sự kiện
+r:"^難易度ボーナス ×([0-9.]+)$"=Thưởng độ khó ×$1
+
+１戦目=Trận thứ 1
+２戦目=Trận thứ 2
+３戦目=Trận thứ 3
+４戦目=Trận thứ 4
+５戦目=Trận thứ 5
+1戦目=Trận thứ 1
+2戦目=Trận thứ 2
+3戦目=Trận thứ 3
+4戦目=Trận thứ 4
+5戦目=Trận thứ 5
+
+火属性ボーナスアップ=Tăng thêm hệ Lửa
+光属性ボーナスアップ=Tăng thêm hệ Ánh sáng
+闇属性ボーナスアップ=Tăng thêm hệ Bóng tối
+水属性ボーナスアップ=Tăng thêm hệ Nước
+風属性ボーナスアップ=Tăng thêm hệ Gió
+
+スキップスコアが最大の難易度でスキップします。=Càn quét ở độ khó có điểm càn quét cao nhất.
+挑戦回数を消費しないで1回バトルをスキップします。=Càn quét 1 lần mà không tiêu tốn lượt thử.
+
+挑戦回数を消費して、バトルをまとめて\nスキップします。よろしいですか？=Thao tác này sẽ tiêu hao hết số lần thử của bạn và bỏ qua toàn bộ trận chiến.\nBạn có chắc chắn không?
+
+
+挑戦回数を消費して、以下の５戦分のバトルをまとめてスキップします。=Tiêu tốn số lượt khiêu chiến để bỏ qua nhanh 5 trận chiến sau đây cùng lúc.
+挑戦回数が不足しています。=Số lần thử không đủ.
+
+sr:"^(.)属性のキャラが(.)体以上編成されているとき、\n?キャラの属性ボーナスが強化される。(.)属性と(.)属\n?性以外の属性ボーナスを無効化する。$"=Khi có từ $2 nhân vật hệ $1 trở lên trong đội hình,\nthuộc tính thêm của nhân vật sẽ được tăng cường. Các thuộc tính thêm khác ngoài hệ $3 và hệ $4 sẽ bị vô hiệu hóa.
+
+「エルピス討魔戦線」は、地下深くより湧きし魔物を討伐するイベントで\nございます。こちらのバトルでは、コネクトRANKボーナスが強化され\nるようですよ。また「遺物」の装備によっても強化を得られるのだとか。="Mặt trận Diệt ma Elpis" là sự kiện thảo phạt lũ ma vật trỗi dậy từ sâu dưới lòng đất. Trong những trận chiến này, phần thưởng RANK liên kết (Connect RANK) dường như sẽ được tăng cường. Ngoài ra, nghe nói bạn còn có thể nhận thêm sức mạnh bằng cách trang bị các "Di vật" nữa đấy.
+ボスの初回クリア時や、撃破時に得られるポイントを集めることで報酬が\n獲得できます。ポイントは撃破までのタイムが短いほど多く得られるよう\nです。コネクトRANK強化アイテムの入手を目指して頑張りましょう。=Bạn có thể nhận phần thưởng bằng cách thu thập điểm nhận được khi vượt ải trùm lần đầu hoặc khi tiêu diệt chúng. Có vẻ như thời gian tiêu diệt trùm càng ngắn thì số điểm nhận được sẽ càng nhiều. Hãy cố gắng hết sức để thu thập các vật phẩm cường hóa RANK liên kết nhé.
+
+難易度NORMALをクリアしたため、次の難易度が解放されました。難易度が上がると、貰えるスコアや報酬が増えるので、より高い難易度のボスに挑戦してみましょう。=Vì bạn đã vượt qua độ khó NORMAL, độ khó tiếp theo đã được mở khóa.\n\nĐộ khó càng cao, điểm số và phần thưởng nhận được càng nhiều, hãy thử thách bản thân với những con Boss ở cấp độ cao hơn nhé.
+
+
+
+エルピス討魔戦線モンスター討伐演出設定の確認ダイアログ=Hộp thoại xác nhận thiết lập hiệu ứng tiêu diệt quái vật trong Mặt trận Diệt ma Elpis
+エルピス討魔戦線のモンスター討伐演出を再生するか設定します。=Thiết lập việc có phát hiệu ứng khi tiêu diệt quái vật trong Mặt trận Diệt ma Elpis hay không.
+エルピス討魔戦線のモンスター討伐演出設定=Thiết lập hiệu ứng tiêu diệt quái vật trong Mặt trận Diệt ma Elpis
+エルピス討魔戦線を開始する前に、モンスター討伐演出設定を確認するダイアログを開きます。=Mở hộp thoại xác nhận thiết lập hiệu ứng tiêu diệt quái vật trước khi bắt đầu Mặt trận Diệt ma Elpis.
+
+
+遺物詳細=Chi tiết Di vật
+不思議な効果を持つ聖なる腕輪。失われた技術で装飾された宝石が装備者に加護を齎し、危機が迫ると膨大な力を分け与える。=Vòng tay thánh mang hiệu ứng huyền bí. Những viên đá quý được trang trí bằng kỹ thuật đã thất truyền ban lời chúc phúc cho người đeo, đồng thời chia sẻ sức mạnh khổng lồ khi hiểm nguy cận kề.
+不思議な効果を持つ宝石を飾った円盾。海のような青き魔力は装備者に庇護を与え、迫り来る脅威すらエネルギーへと昇華させる。=Khiên tròn đính đá quý mang hiệu ứng huyền bí. Ma lực xanh thẳm như đại dương ban sự bảo hộ cho người sở hữu, thăng hoa cả những mối đe dọa đang ập tới thành năng lượng.
+不思議な効果を持っている月を象る耳飾り。内部から発する魔力は装備者に蝶のような瞬麗さを授け活力加速を大きく上昇させる。=Đôi bông tai hình trăng khuyết mang hiệu ứng huyền bí. Ma lực tỏa ra từ bên trong ban cho người đeo sự rực rỡ thoát tục như loài bướm và tăng mạnh tốc độ hồi phục sinh lực.
+不思議な効果を持つ、地神の力を宿した烈槍。大地の力を糧に放つ無比の一閃は、地に立つすべての敵に甚大なダメージを与える。=Ngọn trường thương rực cháy mang sức mạnh của Địa thần và hiệu ứng huyền bí. Một đường chém vô song lấy sức mạnh từ lòng đất làm nguồn nuôi dưỡng, gây sát thương cực lớn cho tất cả kẻ địch trên mặt đất.
+不思議な効果を持つ、伝説に語られる極みの一振り。鳳凰の力を宿した真紅の刃は、焔の如き赫く激烈な一撃を与える。=Thanh kiếm cực hạn trong truyền thuyết mang hiệu ứng huyền bí. Lưỡi kiếm đỏ thẫm mang sức mạnh của Phượng hoàng, tung ra những nhát chém mãnh liệt và đỏ rực như lửa thiêu.
+不思議な効果を持つ、妖精の輝きを封じた杖。宝⽟から無限の⽣命⼒が溢れ出し、増幅された快癒の⼒であらゆる苦しみを取り除く。=Quyền trượng phong ấn ánh sáng của yêu tinh mang hiệu ứng huyền bí. Sinh mệnh lực vô hạn tuôn trào từ viên bảo ngọc, xóa tan mọi khổ đau bằng sức mạnh hồi phục đã được khuếch đại.
+不思議な効果を持つ、翠緑に彩られた指輪。装備者に、かつて豊穣に溢れた楽園の光景を想起させ、際限なき⽣命⼒を与える。=Chiếc nhẫn mang sắc xanh lục bảo với hiệu ứng huyền bí. Nó giúp người đeo gợi nhớ về viễn cảnh thiên đường trù phú thuở xưa và ban tặng sinh mệnh lực không giới hạn.
+不思議な効果を持つ、白金の輝きを放つ鎧。顕現する翅は、意思を持つかのよう、装備者に呼応して物理攻撃を断つ障壁を展開する。=Bộ giáp tỏa ra ánh sáng bạch kim với hiệu ứng huyền bí. Đôi cánh hiển hiện như thể có ý chí riêng, phản hồi lại người mặc để triển khai rào chắn ngăn chặn các đòn tấn công vật lý.
+不思議な効果を持つ、幽庵の煌きを宿す鎧。顕現する翅は、意思を持つかのよう、装備者に呼応して魔法攻撃を絶つ障壁を展開する。=Bộ giáp mang ánh sáng huyền ảo với hiệu ứng huyền bí. Đôi cánh hiển hiện như thể có ý chí riêng, phản hồi lại người mặc để triển khai rào chắn chặn đứng các đòn tấn công ma thuật.
+不思議な効果を持つ、翠宝玉をあしらった腕輪。常に滾々とマナが湧き出し、生命力を湛え続ける。=Vòng tay đính bảo ngọc xanh lục với hiệu ứng huyền bí. Mana luôn tuôn trào cuồn cuộn, không ngừng lấp đầy sinh mệnh lực cho người dùng.
+不思議な効果を持つ、東の国に伝わりし聖鎧。玉の様に透き通る輝きを放つ鎧は、装備者に華の加護を授け、守護の力を高める。=Bộ thánh giáp truyền thừa từ phương Đông mang hiệu ứng huyền bí. Bộ giáp tỏa ra ánh sáng trong suốt như ngọc, ban cho người mặc sự bảo hộ của hoa và tăng cường sức mạnh phòng ngự.
+不思議な効果を持つ、光⿓の⼒を授かりし⼤剣。その⼀振りはかつての栄光の羽ばたきを想起させ、極限の覇気を世界に放つ。=Đại kiếm nhận lấy sức mạnh của Quang Long với hiệu ứng huyền bí. Mỗi nhát vung gợi nhớ về đôi cánh của vinh quang xưa cũ và giải phóng bá khí cực hạn ra thế giới.
+不思議な効果を持つ、栄華の象徴として仕立てられたドレス。深紅に咲き乱れる花の加護は、装備者の絶魔の⼒を攻撃⼒へ変換する. =Bộ váy được chế tác như biểu tượng của sự phồn vinh với hiệu ứng huyền bí. Sự bảo hộ từ những đóa hoa đỏ thẫm nở rộ chuyển hóa sức mạnh kháng ma của người mặc thành lực tấn công.
+不思議な効果を持つ、⽩⾦の鎧。⽩⻯の鱗を繋ぎ合わせた外装が盟友の力を集結させる効果を持ち強力無比な一撃を可能にする。=Bộ giáp bạch kim mang hiệu ứng huyền bí. Lớp vỏ ngoài kết từ vảy Bạch Long có khả năng tập hợp sức mạnh của đồng minh, cho phép tung ra một đòn đánh mạnh mẽ vô song.
+不思議な効果を持つ、炎天の魔力を封じた耳飾り。潜在能力を究極まで呼び覚まし、強化の力を大幅に上昇させる。=Đôi bông tai phong ấn ma lực của trời nóng rực với hiệu ứng huyền bí. Chúng đánh thức tiềm năng đến mức cực hạn và tăng mạnh sức mạnh cường hóa.
+不思議な効果を持つ、金色の⼤戦斧。刈り取った獲物の魂を糧に、その絢爛なる刃は燦燦と輝きを増してゆく。=Đại chiến rìu hoàng kim mang hiệu ứng huyền bí. Lấy linh hồn của những con mồi bị hạ gục làm nguồn nuôi dưỡng, lưỡi rìu rực rỡ ấy ngày càng tỏa sáng lung linh.
+不思議な効果を持つ、咎⼈を裁きし聖⼸。この弓に選ばれし装備者は神⾵の加護を得て、対象に慈悲を与えず一瞬で急所を射貫く。=Thánh cung phán xét tội nhân mang hiệu ứng huyền bí. Người được cây cung này lựa chọn sẽ nhận được sự bảo hộ của thần phong, xuyên thấu điểm yếu đối phương trong chớp mắt mà không chút từ bi.
+不思議な効果を持つ、地核のエネルギーを封じた籠手。振るう一撃は、世界を破壊するかの如く、通常攻撃を大きく強化する。=Găng tay phong ấn năng lượng của địa lõi với hiệu ứng huyền bí. Mỗi đòn vung ra như thể có thể hủy diệt thế giới, tăng cường mạnh mẽ các đòn tấn công thường.
+不思議な効果を持つ、幻獣を象る首飾り。この宝石の神秘に魅せられた者は、一切 of 異変や脅威に抗うことができなくなってしまう。=Dây chuyền hình huyễn thú mang hiệu ứng huyền bí. Những kẻ bị mê hoặc bởi sự bí ẩn của viên đá quý này sẽ không còn khả năng kháng cự lại bất kỳ biến cố hay mối đe dọa nào.
+不思議な効果を持つ、月を蝕む杖存在するだけで、絶えず呪力の奔流を溢れさせ、近づく全ての敵を呪いで浸食していく。=Quyền trượng thực nguyệt mang hiệu ứng huyền bí. Chỉ riêng sự tồn tại của nó đã khiến dòng thác nguyền chú tuôn trào không ngớt, ăn mòn mọi kẻ địch tiếp cận bằng lời nguyền.
+不思議な効果を持つ、黒刃の刺剣刃に埋め込まれた宝玉が、絶え間なく邪毒を撒き散らし、破滅へと刻々と時を数える。=Kiếm liễu lưỡi đen mang hiệu ứng huyền bí. Viên bảo ngọc khảm trên lưỡi kiếm không ngừng rắc độc tố tà ác, đếm ngược từng khắc thời gian dẫn đến sự diệt vong.
+不思議な効果を持つ、宝飾をあしらったベール。蔽布の下から滲み出るオーラが、相手の敵意を解きほぐし、無力化させてしまう。=Khăn voan trang trí đá quý mang hiệu ứng huyền bí. Luồng hào quang rỉ ra từ dưới lớp vải làm tan biến ác ý của đối thủ và vô hiệu hóa chúng.
+不思議な効果を持つ、⼑⾝に鎖を這わせた妖⼑。主の意思に逆らい暴れる鎖が怨敵の守りを打ち崩し紫黒の凶刃が悉くを断ち斬る。=Yêu đao với những sợi xích quấn quanh lưỡi kiếm mang hiệu ứng huyền bí. Những sợi xích hung hãn chống lại ý chí của chủ nhân sẽ phá tan phòng ngự của kẻ thù, trong khi lưỡi đao đen tím chém đứt tất cả.
+不思議な効果を持つ、天使の加護を宿した戦靴。装備するだけで神性を授かり、天使のような自在さで空を翔ることができる。=Chiến ủng mang lời chúc phúc của thiên thần với hiệu ứng huyền bí. Chỉ cần mang vào sẽ nhận được thần tính, cho phép bay lượn trên bầu trời tự do như một thiên thần.
+不思議な効果を持つ、かつて天界に伝えられし杖。天にかざすと鏡⽟に篭められた祈りが溢れ出して尽きることなき力を授ける。=Quyền trượng từng được truyền thừa ở thiên giới mang hiệu ứng huyền bí. Khi hướng lên bầu trời, những lời cầu nguyện kết tinh trong viên ngọc gương sẽ tuôn trào, ban tặng sức mạnh không bao giờ cạn kiệt.
+不思議な効果を持った杖の遺物。装備者に⼤樹の恵みを施し、治癒術の才覚を授けてくれる。=Di vật hình quyền trượng mang hiệu ứng huyền bí. Ban tặng sự ân sủng của đại thụ cho người sở hữu và ban cho thiên phú về thuật trị liệu.
+不思議な効果を持った、指輪の形をした遺物。装備者を天空の護りで包み込み生命力を増幅させる。=Di vật hình nhẫn mang hiệu ứng huyền bí. Bao bọc người đeo trong sự bảo vệ của thiên không và khuếch đại sinh mệnh lực.
+不思議な効果を持った、鎧の形をした遺物。高度な技術で精錬された鋼は、物理攻撃から身を護る。=Di vật hình bộ giáp mang hiệu ứng huyền bí. Loại thép được tinh luyện bằng kỹ thuật tiên tiến giúp bảo vệ cơ thể khỏi các đòn tấn công vật lý.
+不思議な効果を持った、ローブの遺物。神樹の蔦が織り込まれ、装備者を魔法から護る。=Di vật áo choàng mang hiệu ứng huyền bí. Những dây leo của thần thụ được dệt vào bên trong, bảo vệ người mặc khỏi ma thuật.
+不思議な効果を持った、腕輪の遺物。溢れ出す⾃然の⼒は装備者に生命の息吹をもたらす。=Di vật vòng tay mang hiệu ứng huyền bí. Sức mạnh thiên nhiên tuôn trào mang đến hơi thở của sự sống cho người sở hữu.
+不思議な効果を持った鎧の遺物。千年咲く桜の如く、盤石な堅牢さを装備者に与える。=Di vật bộ giáp mang hiệu ứng huyền bí. Mang lại sự kiên cố vững chãi như hoa anh đào nở suốt nghìn năm cho người mặc.
+不思議な効果を持った、大剣の形をした遺物。湧き出る炎の力が、攻撃の能力を大きく高める。=Di vật hình đại kiếm mang hiệu ứng huyền bí. Sức mạnh ngọn lửa trào dâng làm tăng mạnh khả năng tấn công.
+不思議な効果を持った、ドレスの遺物。精霊 của 加護が、防魔結界から力を集めてくれる。=Di vật váy đầm mang hiệu ứng huyền bí. Sự bảo hộ của tinh linh giúp tập hợp sức mạnh từ kết giới kháng ma.
+不思議な効果を持った、鎧の遺物紅き鋼の加護は、守備力を攻撃力へと変換する力を持つ。=Di vật bộ giáp mang hiệu ứng huyền bí. Sự bảo hộ từ thép đỏ mang sức mạnh chuyển hóa phòng ngự thành lực tấn công.
+不思議な効果を持った、耳飾りの形をした遺物。魔石に込められた魔力が強化の力を増幅させる。=Di vật hình bông tai mang hiệu ứng huyền bí. Ma lực chứa trong ma thạch làm khuếch đại sức mạnh cường hóa.
+不思議な効果を持った斧の遺物。繰り出される⼀撃は、掠めるだけで獲物の魂を吸い取る。=Di vật rìu mang hiệu ứng huyền bí. Đòn đánh tung ra chỉ cần sượt qua cũng đủ hút cạn linh hồn của con mồi.
+不思議な効果を持った、⼸の遺物装備者は烈⾵の⼒を授かり、獲物の急所を貫きやすくなる。=Di vật cung mang hiệu ứng huyền bí. Người sử dụng được ban sức mạnh của liệt phong, giúp dễ dàng xuyên thấu yếu điểm của mục tiêu.
+不思議な効果を持った籠⼿の遺物。装備者は研ぎ澄まされた強力な一撃を放つことができる。=Di vật găng tay mang hiệu ứng huyền bí. Người đeo có thể tung ra những cú đấm đầy uy lực và sắc bén.
+不思議な効果を持った、刀の形をした遺物。秋の紅を映す美しき刃は致命の攻撃をさらに強化する。=Di vật hình đao mang hiệu ứng huyền bí. Lưỡi đao tuyệt đẹp phản chiếu sắc đỏ mùa thu tăng cường thêm sức mạnh cho các đòn chí mạng.
+不思議な効果を持った、槍の遺物特殊な形の穂先が、敵により深い傷を刻み込む。=Di vật thương mang hiệu ứng huyền bí. Mũi thương có hình dáng đặc biệt khắc sâu thêm những vết thương vào kẻ thù.
+不思議な効果を持った、⼑の遺物血で⾚く染まった⼑⾝で、敵の装甲をたやすく断ち割る。=Di vật đao mang hiệu ứng huyền bí. Lưỡi đao nhuốm máu đỏ tươi dễ dàng chém đứt lớp giáp của kẻ địch.
+不思議な効果を持った、帽子の形をした遺物。絡みつく茨の様に、敵の攻撃力を阻害する。=Di vật hình mũ mang hiệu ứng huyền bí. Giống như những bụi gai quấn chặt, nó ngăn cản sức mạnh tấn công của kẻ thù.
+不思議な効果を持った、短剣の形をした遺物。刃に仕込まれた毒が気化し、接敵と共に毒を与える。=Di vật hình đoản kiếm mang hiệu ứng huyền bí. Chất độc ẩn trong lưỡi kiếm hóa hơi, gây độc cho kẻ địch ngay khi tiếp cận.
+不思議な効果を持った、杖の形をした遺物。杖先のコアから流れる邪気が敵に呪いを付与する。=Di vật hình quyền trượng mang hiệu ứng huyền bí. Tà khí chảy ra từ lõi ở đầu trượng gán lời nguyền lên kẻ địch.
+不思議な効果を持った、⾸飾りの遺物。宝⽯の輝きで敵を虜にし、怪異をもたらすという。=Di vật dây chuyền mang hiệu ứng huyền bí. Tương truyền ánh sáng của viên đá quý sẽ hớp hồn kẻ địch và gây ra những hiện tượng kỳ quái.
+不思議な効果を持った、翼の生えた靴形の遺物。装備した者に疾風の力を施し、行動を速める。=Di vật hình đôi giày có cánh mang hiệu ứng huyền bí. Ban sức mạnh của tật phong cho người mang, làm tăng tốc độ hành động.
+不思議な効果を持った杖の遺物。封じられた星々の神秘が、力の消耗を肩代わりしてくれる. =Di vật quyền trượng mang hiệu ứng huyền bí. Sự huyền bí của những vì sao bị phong ấn sẽ gánh vác thay sự tiêu hao sức mạnh.
+不思議な効果を持った腕輪の遺物あしらわれた蒼珠が、敵を感知し力を授ける。=Di vật vòng tay mang hiệu ứng huyền bí. Viên ngọc xanh đính kèm sẽ cảm ứng kẻ thù và ban sức mạnh.
+不思議な効果を持った円盾の形をした遺物。装備者に星の癒しを与え攻撃をエネルギーに変換する。=Di vật hình khiên tròn mang hiệu ứng huyền bí. Ban sự chữa trị từ các vì sao và chuyển hóa đòn tấn công nhận vào thành năng lượng.
+不思議な効果を持った耳飾りの形をした遺物。流水の激しさのように、活力加速を増幅させる. =Di vật hình bông tai mang hiệu ứng huyền bí. Khuếch đại sự hồi phục sinh lực mạnh mẽ như dòng nước xiết.
+不思議な効果を持つ腕輪。装備者に再生の力を与える。=Vòng tay mang hiệu ứng huyền bí. Ban sức mạnh tái sinh cho người sở hữu.
+不思議な効果を持つローブ。装備者を魔法攻撃から守る。=Áo choàng mang hiệu ứng huyền bí. Bảo vệ người mặc khỏi các đòn tấn công ma thuật.
+不思議な効果を持つ鎧。装備者を物理攻撃から守る。=Bộ giáp mang hiệu ứng huyền bí. Bảo vệ người mặc khỏi các đòn tấn công vật lý.
+不思議な効果を持つ指輪。装備者の生命力を強化する。=Chiếc nhẫn mang hiệu ứng huyền bí. Tăng cường sinh mệnh lực cho người đeo.
+不思議な効果を持つ杖。癒しの⼒を高めてくれる。=Quyền trượng mang hiệu ứng huyền bí. Giúp tăng cường sức mạnh chữa trị.
+不思議な効果を持つ鎧。装備者の守りの力を高めることができる。=Bộ giáp mang hiệu ứng huyền bí. Có thể tăng cường sức mạnh phòng ngự của người mặc.
+不思議な効果を持つ大剣。装備者の攻撃力を強化する。=Đại kiếm mang hiệu ứng huyền bí. Tăng cường lực tấn công của người sở hữu.
+不思議な効果を持つドレス。装備者の抗魔の才を攻撃⼒に換える。=Bộ váy mang hiệu ứng huyền bí. Chuyển hóa thiên phú kháng ma của người mặc thành lực tấn công.
+不思議な効果を持つ鎧。同朋の強靭を、自身の攻撃に変換する。=Bộ giáp mang hiệu ứng huyền bí. Chuyển hóa sự kiên cường của đồng đội thành lực tấn công của bản thân.
+不思議な効果を持つ耳飾り。装備者の強化効果を高める。=Đôi bông tai mang hiệu ứng huyền bí. Tăng cường các hiệu ứng cường hóa cho người đeo.
+不思議な効果を持つ斧。攻撃と共に敵の体力を吸い取る力を宿す。=Cây rìu mang hiệu ứng huyền bí. Chứa đựng sức mạnh hút sinh lực kẻ địch theo mỗi đòn đánh.
+不思議な効果を持つ⼸。装備すると致命の一射を与えやすくなる。=Cây cung mang hiệu ứng huyền bí. Khi trang bị sẽ giúp dễ dàng tung ra những phát bắn chí mạng.
+不思議な効果を持つ籠手。強化された一撃を放つことができる. =Găng tay mang hiệu ứng huyền bí. Cho phép tung ra những cú đấm đã được cường hóa.
+不思議な効果を持つ刀。致命の攻撃を与えたときの威力を高める。=Thanh đao mang hiệu ứng huyền bí. Tăng uy lực khi tung ra các đòn tấn công chí mạng.
+不思議な効果を持つ槍。鋭い一撃で敵に深い傷を負わせる。=Ngọn thương mang hiệu ứng huyền bí. Gây vết thương sâu cho kẻ địch bằng một cú đâm sắc lẹm.
+不思議な効果を持つ刀。敵の守りを断ち崩す力がある。=Thanh đao mang hiệu ứng huyền bí. Có sức mạnh phá tan phòng ngự của kẻ thù.
+不思議な効果を持つ帽子。装備すると敵の攻撃を弱体させる。=Chiếc mũ mang hiệu ứng huyền bí. Khi trang bị sẽ làm suy yếu các đòn tấn công của kẻ địch.
+不思議な効果を持つ短剣。持つだけで敵を毒にすることができる。=Đoản kiếm mang hiệu ứng huyền bí. Chỉ cần cầm trên tay cũng có thể khiến kẻ địch nhiễm độc.
+不思議な効果を持つ杖。所持するだけで敵を呪うことができる。=Quyền trượng mang hiệu ứng huyền bí. Chỉ cần sở hữu cũng có thể nguyền rủa kẻ địch.
+不思議な効果を持つ首飾り。敵に異常を与えやすくなる。=Dây chuyền mang hiệu ứng huyền bí. Giúp dễ dàng gây ra các trạng thái bất thường cho kẻ địch.
+不思議な効果を持つ靴。装備した者は迅速に動くことができる。=Đôi giày mang hiệu ứng huyền bí. Người mang có thể di chuyển một cách nhanh chóng.
+不思議な効果を持つ杖。装備者に力を温存させる効果をもたらす。=Quyền trượng mang hiệu ứng huyền bí. Mang lại hiệu quả giúp người sở hữu bảo tồn sức mạnh.
+不思議な効果を持つ腕輪。戦いの始まりとともに、装備者にエネルギーを与える。=Vòng tay mang hiệu ứng huyền bí. Ban năng lượng cho người đeo ngay khi bắt đầu trận chiến.
+不思議な効果を持つ円盾。受けた攻撃をエネルギーに変換できる。=Khiên tròn mang hiệu ứng huyền bí. Có thể chuyển hóa đòn tấn công nhận vào thành năng lượng.
+不思議な効果を持つイヤリング。装備者に活力加速を与える。=Đôi bông tai mang hiệu ứng huyền bí. Ban tốc độ hồi phục sinh lực cho người đeo.

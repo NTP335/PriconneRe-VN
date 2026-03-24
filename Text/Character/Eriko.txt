@@ -1,0 +1,49 @@
+##Profile##
+【物理】前衛で、毒スキルで敵を粉砕する、通称壊し屋。最高クラスの攻撃力を持ち、ユニオンバーストで敵にとどめの一撃を放つ毎に、その攻撃力はさらに上昇する。=[Vật Lý] Một chiến binh dùng độc ở tuyến đầu, được gọi là Kẻ Hủy Diệt. Sức tấn công của cô gần như vô địch, và trở nên còn nguy hiểm hơn với mỗi kẻ địch bị giết bởi Union Burst của cô.
+
+実験、裁縫、料理=Thí nghiệm, may vá, nấu ăn
+運命の相手に一途すぎる乙女=Một cô gái ám ảnh về người bạn đời của mình
+
+
+愛は欲望すら壊して=A Love That Destroys Desire
+幸せの天秤=Scales Of Happiness
+下手な縫い目のまにまに=At The Mercy Of A Bad Seam
+逃れられない愛=An Inescapable Love
+
+エリコの愛情テスト=Eriko's Test Of Affection
+本物の想い=True Feelings
+壊し屋の錬金術=The Destroyer's Alchemy
+最高の誕生日プレゼント=The Best Birthday Present
+狂気的な彼女=Crazy Lady
+恐怖のラブレター=Bone-chilling Love Letter
+全てはエリコのもの=It's All Belongs To Eriko
+その出会いは…運命？=Could This Be... Fate?
+
+##UB##
+デッドリーパニッシュ=Deadly Punish
+目の前の敵１キャラに物理特大ダメージを与え、さらにこのスキルで敵を倒した場合、自分の物理攻撃力を大アップさせる。=Gây sát thương vật lý lớn lên kẻ địch đứng trước mặt. Tăng sức tấn công vật lý của bản thân nếu kẻ địch bị đánh bại bởi kỹ năng này.
+r:"^敵単体に(\d+)の物理ダメージとどめを刺した時、自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng $2 sức tấn công vật lý cho bản thân khi đánh bại kẻ địch.
+
+##S1##
+オブセッション=Obsession
+自分の物理攻撃力を小アップさせる。=Tăng nhỏ sức tấn công vật lý cho bản thân.
+
+##S2##
+ポイズンブロウ=Poison Blow
+
+##EX##
+狂愛の力=The Power of Twisted Love
+狂愛の力+=Sức Mạnh Của Tình Yêu Xoắn Xuýy+
+
+##UB+##
+デッドリーエグゼキューション=Thi Hành Tử Tội
+目の前の敵１キャラに物理特大ダメージを２回与え、クリティカルを受けた際のダメージを小アップさせ、さらに自分の物理攻撃力を大アップさせる。このスキルで敵を倒せなかった場合、自分の物理攻撃クリティカル時のダメージを大アップさせる。=Gây sát thương vật lý lớn hai lần cho kẻ địch đầu tiên phía trước, hơi giảm sát thương phản crit của mục tiêu, và tăng lớn sức mạnh tấn công vật lý của bản thân. Nếu kỹ năng này không đánh bại kẻ địch, tăng lớn sát thương phản crit vật lý.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ自分の物理攻撃力を(\d+)アップとどめを刺せなかった時、自分の物理攻撃クリティカル時のダメージを40％アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm 6% kháng sát thương phản crit vật lý của kẻ địch trong 18s.\n►Tăng sức mạnh tấn công vật lý của bản thân lên $3 trong 180s.\n►Nếu mục tiêu không bị hạ gục, tăng sát thương phản crit vật lý của bản thân lên 40% trong 18s.
+
+##S1+##
+オブセッション+=Sự Cuồng Nhiệt+
+自分の物理攻撃力を大アップさせ、さらに短時間物理攻撃力と物理クリティカルを特大アップさせる。=Tăng lớn sức mạnh tấn công vật lý của bản thân. Thêm vào đó, tăng cực lớn sức mạnh tấn công vật lý và tỷ lệ phản crit trong thời gian ngắn.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを400アップ$"=Thời gian niệm: 1.125s\n►Tăng sức mạnh tấn công vật lý của bản thân lên $1 trong 12s.\n►Tăng sức mạnh tấn công vật lý của bản thân lên $2 trong 7.5s.\n►Tăng tỷ lệ phản crit của bản thân lên 400 trong 7.5s.
+
+##UE##
+ノーマーシー=Không Thương Xót

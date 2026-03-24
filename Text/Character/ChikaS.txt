@@ -1,0 +1,28 @@
+##Profile##
+【魔法】中衛で、守護の賛歌を捧げる夏海の歌姫。\n最序盤に味方の魔法防御を大幅に強化し、吸収バリアや\nＨＰ回復スキルで、如何なる猛攻からも味方を守る。=[Ma pháp] Một diva mùa hè hát một bài thánh ca bảo vệ từ tuyến giữa. Cô mạnh mẽ tăng M.DEF cho đồng đội ngay khi trận đấu bắt đầu, và bảo vệ họ khỏi các đòn tấn công đến với rào cản hấp thụ và kỹ năng Hồi phục HP của mình.
+
+##UB##
+サマーオーシャンシンフォニー=Giao hưởng Đại dương Mùa hè
+味方全体の物理防御力と魔法防御力を中アップさせる。さらに、物理/魔法吸収バリアを展開する。=Tăng trung bình P.DEF và M.DEF cho tất cả đồng đội. Ngoài ra, triển khai Rào cản hấp thụ P/M.DMG.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Tăng P.DEF tất cả đồng đội bằng $1 trong 18s.\n►Tăng M.DEF tất cả đồng đội bằng $2 trong 18s.\n►Triển khai Rào cản lên tất cả đồng đội hấp thụ $3 sát thương P/M trong 18s.
+
+##S1##
+オーシャンプロテクション=Bảo vệ Đại dương
+自分を中心とした範囲内の味方すべての魔法防御力を特大アップさせる。このスキルは３回まで、使用する度にスキル効果がダウンする。=Tăng lớn M.DEF đồng đội trong phạm vi. Hiệu quả kỹ năng này sẽ giảm sau 3 lần sử dụng.
+
+##S2##
+ドルフィンソング=Dolphin Song
+最もＨＰが低い味方１キャラのＨＰを小回復させ、継続ＨＰ回復状態を付与する。=Hồi một chút HP cho đồng minh có HP thấp nhất, và tặng cho họ khả năng hồi HP liên tục với lượng nhỏ.
+r:"^味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Hồi HP cho đồng minh $1.\n►Hồi HP cho đồng minh $2/giây trong 8.5 giây.
+
+##EX##
+サマーディーヴァ=Summer Diva
+サマーディーヴァ+=Summer Diva+
+
+##S1+##
+オーシャンプロテクション+=Ocean Protection+
+自分を中心とした範囲内の味方すべての魔法防御力を特大アップさせ、魔法無効バリアを展開し、さらに自分のＴＰを特大回復させる。このスキルは３回まで、使用する度にスキル効果がダウンする。=Tăng cường phòng thủ ma thuật (M.DEF) của đồng minh trong phạm vi rất lớn, tạo lá chắn hấp thụ sát thương ma thuật (M.DMG), và hồi rất nhiều điểm kỹ năng (TP) cho bản thân. Hiệu quả kỹ năng này sẽ giảm sau 3 lần sử dụng.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng M.DEF cho đồng minh trong phạm vi 255 lên $1 trong 12s.\n►Hồi TP cho bản thân $2.\n►Triển khai lá chắn bảo vệ đồng minh trong phạm vi 255, hấp thụ $3 sát thương ma thuật (M.DMG) trong 12s.
+
+##UE##
+翠夏杖オーシャンルーン=Midsummer Cane Ocean Rune

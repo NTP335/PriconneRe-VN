@@ -1,0 +1,16 @@
+Suzume Amano's Birthday
+そ～っと、そ～っと……！\nゆっくり、ゆっくり……！\nよ～っし、いい調子です！=Nhẹ nhàng, nheeeeee nhàng...! Chậm rãi, chậaaaaa rãi...! Được, trông ổn rồi!
+ひゃわぁっ！？\nあ、あなたでしたか……！\n驚かさないでください……危うく、ドジっちゃうところでしたよ。=HYAAAAAAAAAH?! À, là cậu...! Đừng có rình rập như vậy... Suýt nữa thì em lỡ!
+ええっと……今日はその、私の誕生日なんです。\nだから、成長の証を見せるために、今日一日、\n絶対にドジはしないって決めたんです！=Cậu thấy đấy... hôm nay là, à, sinh nhật của em. Nên, để chứng tỏ em đã lớn lên một chút, em quyết định rằng chỉ hôm nay thôi, em nhất định sẽ không làm bất cứ điều gì vụng về!
+その結果、私の動く速度はいつもの半分以下になっているわけです！=Và kết quả là em đang di chuyển với tốc độ chưa đến một nửa bình thường!
+うぅ～……それでいいの？　って目で見ないでください～！\nと、ところであなたはどうしてこちらに？\nお嬢さまとお約束ですか……？=Ugh... đừng nhìn em như kiểu "Ừ thì, được không?" mà làm ơn nhaaa! A-Anyway, cậu đến đây vì chuyện gì? Có phải cậu có hẹn với Milady...?
+えっ！？\n私なんかのためにわざわざ足を運んで……！？\nありがとうございます、とってもうれしいです……！=Hả?! Cậu đi xa như vậy... vì em...!? Cảm ơn cậu nhiều lắm, em rất vui...!
+わぁっ♪　ケーキとプレゼントまであるんですか！？\nえへへ、いただきますね。\nそうだ、どうぞお屋敷の中へ、お嬢さまと一緒に──ひゃわぁっ！？=Wow♪ Cậu còn chuẩn bị bánh và quà nữa?! Ehehe, em sẽ ăn và nhận chắc chắn! À, phải rồi, mời cậu vào trong biệt thự để Milady cũng có thể~... HYAAAAH!?
+あっ……ありがとうござい、ます……！\nあなたのおかげで、ケーキをぶちまけずに済みました。\nこれってまだ、ドジしたことにはなりませんよね……？=À... Cảm ơn cậu... nhiều...! Nhờ có cậu, em không làm đổ bánh. Việc này vẫn tính là em không mắc lỗi vụng về hôm nay... phải không?
+えっ、この……抱っこの、ままですか！？\n私……重いですよ？\nそれにこんなところ、お嬢さまやお屋敷の方々に見られたら……=Hả? Cậu đang định... cứ ôm em như thế này sao?! Em... nặng đấy, biết không? Hơn nữa, nếu Milady hoặc người trong biệt thự thấy chúng ta như thế này...
+……いえ、やっぱりこのままお願いします。\nせっかくの誕生日ですから。\nたまには特別な気分、味わってもいいですよね……♪=...Không, thực ra... xin hãy cứ ôm em. Dù sao hôm nay cũng là sinh nhật của em. Có cảm giác được đặc biệt một chút thì có sao đâu... phải không♪
+
+Player Prompts
+すずめちゃんの誕生日をお祝いしに。=Để chúc mừng sinh nhật của cậu, Suzume
+抱きとめる！=Em sẽ bắt cậu!
+このまま運んであげるね。=Em sẽ cứ ôm cậu như thế này.

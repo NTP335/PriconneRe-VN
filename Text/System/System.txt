@@ -1,0 +1,70 @@
+プレゼント=Quà Tặng
+ミッション=Nhiệm Vụ
+お知らせ=Thông Báo
+クラン=Clan
+ショップ=Cửa Hàng
+ガチャ=Gacha
+ギルドハウス=Nhà Guild
+クエスト=Nhiệm Vụ
+ストーリー=Câu Chuyện
+マイページ=Trang Chủ
+
+属性ボーナス有効=Thưởng Nguyên Tố
+編成5キャラ=5 Nhân vật
+編成4キャラ=4 Nhân vật
+編成3キャラ=3 Nhân vật
+編成2キャラ=2 Nhân vật
+編成1キャラ=1 Nhân vật
+属性ボーナス詳細=Chi tiết Bonus Nguyên tố
+有効=Tương sinh
+弱点=Điểm yếu
+発動属性ボーナス=Kích hoạt bonus nguyên tố
+このクエストに有効な属性はありません。=Nhiệm vụ này không có nguyên tố tương sinh.
+
+イベント開催のお知らせ=Thông báo sự kiện
+予告を見る=Xem trailer
+
+キャラ=Nhân vật
+後衛=Quay lại
+中衛=Giữa
+前衛=Trước
+
+闇=Bóng tối
+光=Ánh sáng
+水=Nước
+火=Lửa
+風=Gió
+
+ユニオンバースト=Union Burst
+スキル効果=Hiệu quả kỹ năng
+スキル=Kỹ năng
+EXスキル=Kỹ năng EX
+r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1Mở khóa tại HẠNG $2!
+---exit menu---
+中断=Dừng
+[3C404E]リプレイを中断しますか？\nリプレイはクリアパーティ一覧から\n再度見ることができます。[-]=[3C404E]Dừng Xem lại?\n Có thể xem lại từ danh sách đội.[-]
+
+チケットで再戦=Bỏ qua
+再戦する=Xem lại
+リタイア=Thoát
+
+確認画面=Xác nhận
+[3C404E]タイトルに戻りますか？[-]=[3C404E]Bạn có muốn quay về màn hình tiêu đề?[-].
+
+[3C404E]アプリを終了してもよろしいですか？[-]=[3C404E]Bạn có chắc chắn muốn thoát? [-]
+アプリ終了確認=Xác nhận
+
+[3C404E]日付が変わりました。[-]=[3C404E]Ngày đã thay đổi[-].
+日付変更=Thay đổi ngày
+
+このストーリーをスキップしてもよろしいですか？=Bạn có chắc chắn muốn bỏ qua cốt truyện này?
+
+トレーニングバトルリタイア=Thoát Huấn luyện
+[3C404E]トレーニングバトルをリタイアしますか？[-]=[3C404E]Bạn có muốn thoát khỏi trận huấn luyện?[-]
+
+あらすじ=Tóm tắt
+[FF7C4E,D62146]このストーリーをスキップしてもよろしいですか？[-]=[FF7C4E,D62146]Bỏ qua cốt truyện này?[-]
+
+レベルアップ=Lên cấp!
+スタミナが回復しました！=Thể lực đã được bổ sung!
+スタミナ最大値=Thể lực tối đa

@@ -1,0 +1,68 @@
+##Profile##
+ぷうきちといつも一緒！=Cùng nhau mãi mãi với Pukichi!
+
+【物理】前衛で、戦場をかき乱す、くまっ子。ユニオンバーストで、相手を思い切り吹き飛ばすと同時にスタンと大ダメージを与えることで敵陣形を大きく乱す。=[Vật Lý] Cặp đôi Ayane và Pukichib ấn định và đập tan kẻ thù từ tuyến đầu. Union Burst của cô ấy gây sát thương khủng khiếp đồng thời đánh bay kẻ địch.
+
+屋内でできる遊び=Hoạt Động Trong Nhà
+
+アヤネとぷうきち=Ayane và Pukichi
+家族のためなら怖くない=Em Không Sợ Nếu Là Vì Gia Đình
+いつか守れるように=Để Em Có Thể Bảo Vệ Họ Một Ngày Nào Đó
+ぷうきちフルスイング誕生=Sự Ra Đời Của Pukichi Full Swing
+小さなわがまま=Một Chút Ít Tự Tư
+ずっとほしかったもの=Điều Em Luôn Mong Muốn
+『つくりもの』の家族=Gia Đình Giả
+ぷうきち一家大集合=Đại Gia Đình Của Pukichi
+ぷうきちミッシング=Pukichi Mất Tích
+『ほんとう』の家族=Gia Đình "Thực Sự"
+あふれる想いは突然に=Một Cơn Bùng Nổ Đột Ngột
+私だけの本当の気持ち=Cảm Xúc Thật Sự Của Em
+
+##UB##
+ぷうきちフルスイング=Pukichi Fullswing
+目の前の敵１キャラに物理大ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。=Gây sát thương vật lý lớn lên kẻ địch đứng ngay trước mặt, gây choáng và đánh bay chúng một khoảng xa.
+前方範囲内の敵すべてに物理中ダメージを与え、スタンさせる。さらに、目の前の敵１キャラに物理大ダメージを与え、行動速度を小ダウンさせる。=Gây sát thương vật lý vừa phải và gây choáng lên tất cả kẻ địch trong phạm vi, đồng thời giảm một chút tốc độ hành động của chúng.
+
+##S1##
+ぷうきちブレイク=Pukichi Pummel
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせる。=Gây sát thương vật lý nhỏ và gây choáng lên tất cả kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Làm kẻ địch trong phạm vi bất động.
+# same with Shizuru Noir
+
+##S2##
+ぷうきちハリケーン=Pukichi Hurricane
+自分を中心とした範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi và giảm một chút P.DEF của chúng.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=Thời gian thi triển: 0.855 giây.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 400.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi 400 trong 18 giây.
+
+自分を中心とした範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせる。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルする。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi quanh bản thân và giảm nhẹ phòng thủ vật lý của chúng. Nếu kẻ địch trước mặt đang trong trạng thái bị giảm phòng thủ ma pháp, kỹ năng này chắc chắn sẽ gây bạo kích.
+
+##EX##
+プリティスラッガー=Pretty Pulverizer
+プリティスラッガー+=Pretty Pulverizer+
+バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Tăng vừa phải P.ATK và tăng nhỏ M.DEF cho bản thân ngay khi trận đấu bắt đầu.
+r:"^自分の物理攻撃力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Tăng $1 P.ATK cho bản thân.\n►Tăng $2 M.DEF cho bản thân.
+
+##UB+##
+ぷうきちサイクロンアーチ=Pukichi Cyclone Arch
+前方範囲内の敵すべてに物理特大ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong vùng phía trước, gây choáng và đánh bay chúng một khoảng xa.
+
+
+前方範囲内の敵すべてに物理特大ダメージを与え、物理防御力を小ダウンさせ、さらに大きく吹き飛ばしてスタンさせる。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルする。=Gây sát thương vật lý cực đại cho toàn bộ kẻ địch trong phạm vi phía trước, giảm nhẹ phòng thủ vật lý, đồng thời đánh bay và làm choáng chúng. Nếu kẻ địch trước mặt đang trong trạng thái bị giảm phòng thủ ma pháp, kỹ năng này chắc chắn sẽ gây bạo kích.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 400.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi 400 trong 18 giây.\n►Hất văng kẻ địch trong phạm vi 400 lên cao 800.\n►Gây choáng cho kẻ địch trong phạm vi 400 trong 3 giây.\n►Đẩy lùi kẻ địch phía trước trong phạm vi 400 ra xa 2160.
+
+##S1+##
+ぷうきちブレイク+=Pukichi Pummel+
+## OLD r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする目の前の敵に(\d+)の物理ダメージ敵単体の行動速度を一定時間低下させる$"=Thời gian niệm: 1.125s\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 325.\n►Làm kẻ địch trong phạm vi 325 bất động trong 2.5s.\n►Gây $2 sát thương vật lý trong phạm vi 325.\n►Làm tốc độ hành động của kẻ địch giảm còn 80% trong 10.5s.
+
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする目の前の敵に(\d+)の物理ダメージ敵単体の行動速度20％ダウン$"=Thời gian thi triển: 1.125 giây.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 325.\n►Gây choáng cho kẻ địch trong phạm vi 325 trong 2.5 giây.\n►Gây $2 sát thương vật lý cho kẻ địch phía trước.\n►Giảm 20% tốc độ hành động của một kẻ địch trong 10.5 giây.
+
+##UE##
+偉大なクマ王ぷうきち=Pukichi, Vị Vua Gấu Mạnh Mẽ
+
+
+##S1++##
+ぷうきちブレイク++=Pukichi Pummel++
+自分の物理攻撃力を大アップし、前方範囲内の敵すべてに物理中ダメージを与え、物理防御力を小ダウンさせ、スタンさせる。さらに、前方範囲内の敵すべてに追加の物理中ダメージを与え、行動速度を小ダウンさせる。目の前の敵が魔法防御力ダウン状態だった場合、このスキルは必ずクリティカルし、自分のＴＰを大回復する。=Tăng mạnh tấn công vật lý của bản thân, gây sát thương vật lý trung bình cho toàn bộ kẻ địch trong phạm vi phía trước, giảm nhẹ phòng thủ vật lý và làm choáng chúng. Ngoài ra, gây thêm sát thương vật lý trung bình cho toàn bộ kẻ địch trong phạm vi phía trước và giảm nhẹ tốc độ hành động của chúng. Nếu kẻ địch trước mặt đang trong trạng thái bị giảm phòng thủ ma pháp, kỹ năng này chắc chắn sẽ gây bạo kích và hồi phục lớn TP cho bản thân.
+
+r:"^自分の物理攻撃力を(\d+)アップ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵を一定時間行動不能にする範囲内の敵に(\d+)の物理ダメージ範囲内の敵の行動速度20％ダウン目の前の敵が魔法防御力ダウン状態の場合、自分のＴＰを500回復$"=Thời gian thi triển: 1.125 giây.\n►Tăng $1 tấn công vật lý của bản thân.\n►Gây $2 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm $3 phòng thủ vật lý của kẻ địch trong phạm vi.\n►Gây trạng thái mất khả năng hành động cho kẻ địch trong phạm vi trong một khoảng thời gian.\n►Gây $4 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm 20% tốc độ hành động của kẻ địch trong phạm vi.\n\nNếu kẻ địch trước mặt bị giảm phòng thủ ma pháp (M.DEF Down):\n►Hồi phục 500 TP cho bản thân.

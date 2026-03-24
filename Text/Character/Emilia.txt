@@ -1,0 +1,36 @@
+##Profile##
+銀髪のおっとりハーフエルフ=Một nữ tiểu yêu tóc bạc dịu dàng
+ハーフエルフ=Tiểu yêu
+パックの毛繕い、勉強=Chải sức Puck, đang học tập
+【魔法】後衛で、攻撃と回復をこなす、ハーフエルフ。高い魔力で攻撃魔法を繰り出して敵を蹴散らしつつ、ユニオンバーストは瀕死の味方すらも瞬時に癒す。=[Ma thuật] Một nữ tiểu yêu kết hợp hồi phục và tấn công từ hậu tuyến. Tài năng ma thuật bẩm sinh của cô tạo ra những phép thuật mạnh mẽ không cho kẻ địch cơ hội, trong khi Union Burst của cô có thể đưa đồng đội trở về từ bờ vực cái chết trong tích tắc.
+
+##UB##
+約束の花園=Promised Field
+最もＨＰが低い味方１キャラのＨＰを特大回復させ、さらに味方全体の物理防御力と魔法防御力を中アップさせる。=Phục hồi lượng lớn HP cho đồng đội có HP thấp nhất. Tăng trung bình P.DEF và M.DEF của đồng đội.
+r:"^味方単体のＨＰを(\d+)回復味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Hồi $1 máu cho một đồng đội.\n►Tăng $2 Phòng Thủ Vật Lý cho đồng đội.\n►Tăng $3 Phòng Thủ Phép cho đồng đội.
+
+##S1##
+お願い、パック！=Help Me Out, Puck!
+目の前の敵１キャラに魔法中ダメージを与え、さらに自分の魔法攻撃力を中アップさせる。=Gây sát thương phép vừa phải lên kẻ địch đứng trước mặt, và cũng tăng sức tấn công phép của bản thân một lượng vừa phải.
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Tăng $2 sức tấn công phép cho bản thân.
+
+##S2##
+氷の飛礫=Ice Needles
+前方範囲内のランダムな敵キャラに、単体魔法小ダメージを計４回与える。=Gây sát thương phép nhỏ lên một kẻ địch ngẫu nhiên trong phạm vi, 4 lần.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Gây $2 sát thương phép lên kẻ địch.\n►Gây $3 sát thương phép lên kẻ địch.\n►Gây $4 sát thương phép lên kẻ địch.
+
+##EX##
+大精霊との契約=Great Spirit Contract
+大精霊との契約+=Great Spirit Contract+
+
+##UB+##
+祝福の花園=Blessed Field
+最もＨＰが低い味方１キャラのＨＰを特大回復させ、味方全体の魔法攻撃力を特大アップ、物理・魔法防御力を大アップし、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。このＵＢの初回使用後、自分に【情熱の花束】を付与、行動パターンが変化し、通常攻撃が強化通常攻撃になる。=Hồi máu cực lớn cho đồng đội có máu thấp nhất. Tăng cực lớn Phòng Thủ Vật Lý, Phòng Thủ Phép và Sức Tấn Công Phép cho tất cả đồng đội, cấp cho họ khả năng hồi máu và triển khai Khiên chống lại sát thương Vật Lý/Phép. Sau khi UB được sử dụng, cấp hiệu ứng [Passionate Bouquet] cho bản thân, thay đổi mẫu tấn công và tăng cường đòn tấn công thường của bản thân.
+r:"^味方単体のＨＰを(\d+)回復味方全体の物理・魔法防御力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物魔無効バリアを展開する自分に情熱の花束を付与する$"=►Hồi $1 máu cho một đồng đội.\n►Tăng $2 Phòng Thủ Vật Lý/Phép cho tất cả đồng đội trong 18s.\n►Tăng $3 sức tấn công phép cho tất cả đồng đội trong 18s.\n►Hồi $4 máu mỗi giây cho tất cả đồng đội trong 18s.\n►Triển khai Khiên chống lại $5 sát thương Vật Lý/Phép cho tất cả đồng đội trong 18s.\n►Chuyển sang Mẫu Tấn Công 2 một lần.
+
+##S1+##
+お願い、パック！+=Help Me Out, Puck!+
+目の前の敵１キャラに魔法大ダメージを与え、さらに自分の魔法攻撃力を特大アップさせる。=Gây sát thương phép lớn lên một kẻ địch trước mặt, và cũng tăng cực lớn sức tấn công phép của bản thân.
+
+##UE##
+約束の花束=Promised Bouquet

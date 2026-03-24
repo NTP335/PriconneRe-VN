@@ -1,0 +1,38 @@
+##Profile##
+【魔法】後衛で夏の盛りにイイコトをする溌剌水着少女★【PSI★ストーム】をチャージし、連続攻撃で敵を殲滅して、継続ＴＰ回復やバリアで抜け目なく味方を支援する。=[Ma Thuật] Một cô gái đồ tắm đầy năng lượng sẽ cho bạn thấy những điều tuyệt vời từ hàng sau trong đỉnh cao của mùa hè. Cô ấy sẽ tích lũy [PSI★Storm] và thực hiện các đòn tấn công liên tiếp để tiêu diệt kẻ thù, đồng thời hỗ trợ đội nhà hoàn hảo với hồi TP liên tục và khiên.
+【魔法】後衛で夏の盛りにイイコトをする溌溂水着少女★【PSI★ストーム】をチャージし、連続攻撃で敵を殲滅して、継続ＴＰ回復やバリアで抜け目なく味方を支援する。=[Ma Thuật] Một cô gái đồ tắm đầy năng lượng sẽ cho bạn thấy những điều tuyệt vời từ hàng sau trong đỉnh cao của mùa hè. Cô ấy sẽ tích lũy [PSI★Storm] và thực hiện các đòn tấn công liên tiếp để tiêu diệt kẻ thù, đồng thời hỗ trợ đội nhà hoàn hảo với hồi TP liên tục và khiên.
+
+
+
+
+##UB##
+ジェット★バケーション=Kỳ Nghỉ Phản Lực★
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。さらに自分の魔法攻撃力を中アップし、【PSI★ストーム】を４つチャージして、行動パターンが変化する。【PSI★ストーム】は最大４までチャージされる。=Gây sát thương phép cực lớn lên kẻ địch phía trước, và giảm nhẹ Phép Ngự của chúng. Đồng thời tăng nhẹ Phép Công của bản thân, và tích lũy 4 [PSI★Storm], tối đa 4. Đặt lại mẫu đòn tấn công của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップPSI★ストームを４つチャージする$"=►Gây $1 sát thương phép lên kẻ địch.\n►Giảm Phép Ngự của kẻ địch đi $2 trong 18s.\n►Tăng Phép Công của bản thân lên $3 trong 18s.\n►Tích lũy 4 [PSI★Storm].\n►Chuyển sang Mẫu Tấn Công 2.
+
+##S1##
+大玉水鉄砲★=Súng Phun Nước Khổng Lồ★
+目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせる。さらに、【PSI★ストーム】を１つ消費する。=Gây sát thương phép lớn lên kẻ địch phía trước, và giảm nhẹ Phép Ngự của chúng. Tiêu thụ 1 lần tích lũy [PSI★Storm].
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウンPSI★ストームを１つ消費する$"=►Gây $1 sát thương phép lên kẻ địch.\n►Giảm Phép Ngự của kẻ địch đi $2 trong 12s.\n►Tiêu thụ 1 lần tích lũy [PSI★Storm].
+
+##S2##
+いただきます★=Cùng Ăn Ngon Nào!★
+自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップさせ、継続ＴＰ回復状態を付与し、物理/魔法無効バリアを展開する。=Tăng mạnh Phép Công của đồng đội trong phạm vi, tặng khả năng hồi TP liên tục cho họ, và triển khai Khiên bảo vệ họ khỏi sát thương Vật Lý/Phép.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ毎秒ＴＰを10回復する(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tăng Phép Công của đồng đội trong phạm vi 250 lên $1 trong 12s.\n►Hồi TP của đồng đội trong phạm vi 250 lên 10/giây trong 8s.\n►Triển khai Khiên bảo vệ đồng đội trong phạm vi 250 khỏi $2 sát thương Vật Lý/Phép trong 12s
+
+##SP1##
+ジェット・バレット=Đạn Phản Lực
+このスキルのスキルレベルは「ジェット★バケーション」と連動しています=Cấp độ kỹ năng này liên kết với Kỳ Nghỉ Phản Lực
+自分に【PSI★ストーム】を４つチャージし、行動パターンが変化する。【PSI★ストーム】は最大４までチャージされる。=Tích lũy 4 [PSI★Storm], tối đa 4. Đặt lại mẫu đòn tấn công của bản thân.
+PSI★ストームを４つチャージする=►Tích lũy 4 [PSI★Storm].\n►Chuyển sang Mẫu Tấn Công 2.
+
+##EX##
+ディストート・サイト=Tầm Nhìn Biến Dị
+ディストート・サイト+=Tầm Nhìn Biến Dị+
+
+##S1+##
+大玉水鉄砲★+=Súng Phun Nước Khổng Lồ★+
+ミソラのウォーターガン=Súng Nước của Misora
+
+自分の魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップし、目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせる。さらに、【PSI★ストーム】を１つ消費する。=Tăng mạnh Phép Công của bản thân, tăng nhẹ Sát thương Crit Phép, gây sát thương phép lớn lên kẻ địch phía trước và giảm nhẹ Phép Ngự của chúng. Ngoài ra, tiêu thụ một [PSI★Storm].
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリダメを2％アップ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウンPSI★ストームを１つ消費する$"=►Tăng Phép Công của bản thân lên $1.\n►Tăng Sát thương Crit Phép của bản thân lên 2%.\n►Gây $2 sát thương phép lên một kẻ địch.\n►Giảm Phép Ngự của một kẻ địch đi $3.\n►Tiêu thụ 1 [PSI★Storm].

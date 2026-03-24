@@ -1,0 +1,27 @@
+##Profile##
+【魔法】中衛で、春に彩られた花衣装のドジっ娘メイド。範囲内の敵にダメージを与えながら、多数の弱体化効果を持つスキルやＵＢを駆使して、穏やかに吹く勝利を掴む。=[Ma thuật] Một hầu gái vụng về trong trang phục hoa mùa xuân, đứng ở vị trí trung tâm. Trong khi gây sát thương cho kẻ địch trong phạm vi, cô ấy tận dụng tối đa các kỹ năng và UB có nhiều hiệu ứng suy yếu, và giành chiến thắng bằng một làn gió nhẹ nhàng.
+ご奉仕=Service
+
+##UB##
+ブルーミングサイクロン=Cơn lốc nở hoa
+目の前の敵１キャラに魔法特大ダメージを与える。さらにそのキャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を中ダウン、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương ma thuật (M.DMG) lớn lên kẻ địch phía trước. Ngoài ra, gây sát thương ma thuật lớn lên kẻ địch trong phạm vi, giảm M.DEF của chúng vừa phải, và tăng sát thương phản ứng ma thuật (M.CRIT DMG) mà chúng nhận nhẹ.
+r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵のクリティカルを受けた際のダメージを5％アップ$"=►Gây $1 M.DMG lên kẻ địch.\n►Gây $2 M.DMG lên kẻ địch trong phạm vi.\n►Giảm M.DEF của kẻ địch trong phạm vi $3 trong 18s.\n►Tăng sát thương phản ứng ma thuật (M.CRIT DMG) mà kẻ địch trong phạm vi nhận thêm 5% trong 18s.
+
+##S1##
+スウィンギングペタル=Cánh hoa đung đưa
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương ma thuật lớn lên kẻ địch trong phạm vi, và giảm M.DEF của chúng nhẹ.
+## Same as Ranpha
+##s1+##
+スウィンギングペタル+=Cánh hoa đung đưa+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを3％アップ$"=►Gây $1 M.DMG lên kẻ địch trong phạm vi.\n►Giảm M.DEF của kẻ địch trong phạm vi $2.\n►Tăng sát thương phản ứng (CRIT DMG) mà kẻ địch nhận thêm 3%.
+r:"^目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。$"=Gây sát thương ma thuật lớn lên tất cả kẻ địch trong phạm vi (tâm là kẻ địch phía trước), giảm M.DEF nhẹ, và tăng sát thương phản ứng (CRIT DMG) mà chúng nhận nhẹ.
+サンライトフローラ=Hoa cỏ nắng vàng
+
+##S2##
+スプリングリース=Vòng hoa mùa xuân
+目の前の敵１キャラを中心とした範囲内の敵すべての物理攻撃力を中ダウン、物理クリティカルを特大ダウン、物理攻撃クリティカル時のダメージを小ダウンさせる。さらに魔法防御力を小ダウン、ＴＰを中ダウンさせる。=Giảm P.ATK của kẻ địch trong phạm vi vừa phải, giảm P.CRIT Rate của chúng nhiều, và giảm P.CRIT DMG của chúng nhẹ. Ngoài ra, giảm M.DEF của kẻ địch trong phạm vi một chút và TP của chúng vừa phải.
+r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の物理クリティカルを500ダウン範囲内の敵の物理攻撃クリティカル時のダメージを10％ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵のＴＰを120失わせる$"=►Giảm P.ATK của kẻ địch trong phạm vi $1 trong 18s.\n►Giảm P.CRIT Rate của kẻ địch trong phạm vi 500 trong 18s.\n►Giảm P.CRIT DMG của kẻ địch trong phạm vi 10% trong 18s.\n►Giảm M.DEF của kẻ địch trong phạm vi $2 trong 18s.\n►Giảm TP của kẻ địch trong phạm vi 120.
+
+##EX##
+ブルームメイデン=Thiếu nữ nở hoa
+ブルームメイデン+=Thiếu nữ nở hoa+

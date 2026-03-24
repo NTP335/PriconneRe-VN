@@ -1,0 +1,19 @@
+Luna's Birthday
+
+おにいちゃん♪=Onii-chan♪
+水族館行って、ショッピングして、それから誕生日ランチ！\n……でもでも、まだバイバイじゃないよね？=Chúng tớ đi thủy cung, đi mua sắm, rồi ăn trưa sinh nhật! ...Nhưng chưa phải lúc chia tay đâu, phải không?
+わ～！　いつもありがとう！\n初めてもらったエプロンも、今年のプレゼントも、\nぜんぶ大切にするからね！=Ồ! Cảm ơn cậu vì tất cả, như mọi lần! Em sẽ giữ gìn cẩn thận chiếc apron cậu tặng lần sinh nhật đầu tiên và món quả năm nay!
+ねぇねぇ、開けていい？　いいよね？\n開けちゃうよー！=Này này, em mở được chứ? Được rồi đúng không? Vậy em mở nè!
+わぁ！　ネックレスだ！\nこれって、ルナの誕生日の石だよね！\n……キレイ。=Ồ! Là một chiếc vòng cổ! Đây là đá quý sinh của Luna đúng không? ...Đẹp quá.
+おとなっぽいもの……\nえへへ、そっか。=Một thứ trưởng thành... Ehehe, em hiểu rồi.
+ルナ、いろんなお料理が作れるようになったし、\nちょっとずつだけど、おっきくなってるんだよね。=Luna giờ có thể nấu được nhiều món rồi, và... từng chút một, em đang lớn lên.
+ねぇ、おにいちゃん。\nこのネックレス、ルナにつけてほしいの。\nお願い♪=Này, Onii-chan. Luna muốn anh đeo chiếc vòng cổ này cho em. Làm ơn đi♪
+……どうかな？\nにあってるかな？=...Anh thấy sao? Có hợp với em không?
+えへへ、えへへ♪\nパパもね、ママにネックレスをつけてあげるんだよ？\nふうふえんまんのひけつ、なんだって！=Ehehe, ehehe♪ Ba cũng tặng mẹ vòng cổ! Ba nói giữ cho "hạnh phúc lấy nhau" của hai người bền lâu!
+ルナの夢はね、\nおにいちゃんとずーっと一緒にいられること！\nだから──=Ước mơ của Luna là được ở bên Onii-chan mãi mãi! Vì vậy...
+ルナがもっとおっきくなったら、\n二人で『ふうふえんまん』になろうね♪=Khi Luna lớn lên, chúng ta sẽ cùng nhau "hạnh phúc lấy nhau" yêu đương nhé♪
+
+Player Prompts
+もちろん、はいこれ。誕生日おめでとう。=Tất nhiên rồi, đây. Chúc mừng sinh nhật
+今年は、大人っぽいものをあげたくて。=Năm nay em chọn một món gì đó trưởng thành hơn
+うん。よく似合ってるよ。=Ừ. Trông hợp lắm.

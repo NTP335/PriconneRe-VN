@@ -1,0 +1,100 @@
+アメスの力で{playername}とモニカは夢を見る。二人は水泳の授業でバディを組む。モニカは自分の潜水の腕前を見せつけようとするが、{playername}はモニカが溺れていると勘違いしてしまう。=Với sức mạnh của Ameth, {playername} và Monika có một giấc mơ. Hai người trở thành bạn bè cùng bơi trong lớp học bơi của Monika. Monika cố gắng khoe khoang kỹ năng lặn, nhưng {playername} hiểu nhầm và nghĩ rằng Monika đang chết đuối.
+{playername}が街を歩いていると、\nモニカと出会った。=Trong khi {playername} đang đi bộ trong thành phố, cô ấy gặp Monika.
+
+ん？　貴公か。\nこれから買い出しに……？\n暑いのに感心だな。=Hả? Là cậu ư?\nCậu đi mua sắm...?\nCó vẻ ấn tượng đấy, dù trời nóng thế này.
+最近は、本当に暑くなってきて、外を歩くのもつらい……\n水浴びでもしたい気分だ。=Dạo này trời nóng thật sự, và đi bộ ngoài đường rất khó khăn... Tôi cảm thấy muốn đi bơi một chút.
+な、なんだ、この光は！？\nまぶしい……！？=K-Kiểu gì! Ánh sáng này!? Chói quá...!
+うわぁああああ！！=Waaaaahhh!!
+特殊部隊でも水中訓練はあったが、\n学校での水泳授業ははじめてだ。=Mặc dù lực lượng đặc nhiệm có huấn luyện dưới nước, đây là lần đầu tiên họ có một lớp học bơi ở trường.
+このスクール水着というものも、はじめて着たが、\nなかなか動きやすくていいな。=Bộ đồ bơi trường này cũng là thứ họ mặc lần đầu, nhưng khá dễ cử động.
+
+ほら{playername}、何をしている？\n危険がないようにバディを組むように言われていただろう？=Nào, {playername}, cậu đang làm gì vậy? Tôi đã bảo cậu tìm một người bạn để tránh nguy hiểm, phải không?
+
+貴公は、私のバディなのだから、\nぼーっとしていないで、しっかりついてくるように！=Vì cậu là bạn của tôi, đừng đứng đực ra đó mà gần gũi tôi!
+しかし、バディと言うと……\nそれこそ特殊部隊の訓練を思い出すな。\n危険な訓練ではバディは必須だった。=Nhưng nói về việc là bạn bè... nó khiến tôi nhớ đến huấn luyện đặc nhiệm. Bạn bè là yếu tố thiết yếu trong những buổi tập nguy hiểm.
+あの頃は、何分潜っていられるかという\n潜水訓練をよくやっていたな……\n懐かしいものだ。=Trong những ngày đó, chúng tôi thường tập lặn để xem có thể chịu được dưới nước bao lâu... nó gợi lại kỷ niệm.
+よし、懐かしいついでに久々に潜水をしてみよう。\n私はかなりの時間潜っていられるぞ？=Được rồi, trong khi đang ở đây, hãy thử lặn một chút sau một khoảng thời gian dài. Tôi có thể chịu được dưới nước một khoảng thời gian đáng kể, cậu biết chứ?
+ぜひ見てみたい。=Tôi rất muốn xem đấy.
+そうか！　興味があるか！\nまぁ、自慢するほどのものではないが、\n特別に近くで見せてやる。=Tôi hiểu rồi! Cậu quan tâm! Thôi, không phải thứ để khoe khoang, nhưng tôi sẽ cho cậu xem từ gần.
+では、いくぞ。\nしっかり見ていろ！=Được rồi, đi thôi. Nhìn cho kỹ!
+
+ふむ……久々だが、感覚は鈍っていないようだ。\nこれならば、自己ベストも出せるかもしれないな。=Hừm... đã lâu rồi, nhưng dường như tôi chưa mất cảm giác. Với thế này, tôi có thể đạt được thành tích cá nhân nữa.
+
+ふふふ。それほど長く潜っていれば、\n{playername}もビックリするだろうな。\n私のすごさを、しっかりわからせてやる！=Hehehe. Nếu tôi ở dưới nước lâu, {playername} sẽ ngạc nhiên. Tôi sẽ khiến cô ấy hoàn toàn nhận ra sự vĩ đại của tôi!
+……ん？　なんだ？\n{playername}も潜ってきた？=...Hả? Gì? {playername} cũng lặn theo ư?
+
+
+な、なにをする！？\nどうして私を抱えて……！？\nなぜ引き上げようとする！？=K-Không được! Cậu đang làm gì vậy!? Tại sao cậu lại nắm lấy tôi...!? Tại sao cậu lại cố kéo tôi lên!?
+いや、そ、それよりも……手が……！？\nへ、変な所を触るなっ！=Không, quan trọng hơn... đôi tay cậu...!? K-Không được chạm vào chỗ đó!
+プハッ！\n……き、き、貴公！　何をする！？\n人前でこんなことをして、タダで済むと──=Pwah! C-Cậu đang làm gì vậy!? Làm chuyện như thế này ở nơi công cộng, nghĩ rằng nó sẽ không bị trừng phạt--
+な、なに？\n私が溺れていると思って……？=K-Không? Cậu nghĩ tôi đang chết đuối...?
+そうか……長く潜りすぎて心配させてしまったな。\nそ、そういうことなら、今回のことは許そう。=Ra vậy... Tôi ở dưới nước quá lâu và khiến cậu lo lắng. T-Tôi hiểu rồi, trong trường hợp đó, tôi sẽ tha thứ cho cậu vụ việc này.
+しかしだな！\n女性の体を触る時には、もっと気をつけろ！=Tuy nhiên! Khi chạm vào cơ thể một người phụ nữ, hãy cẩn thận hơn!
+私を助けるために焦っていたのはわかる……\nだがな、さっきのように、む、むね……胸部とか、\nへ、変な所を触られたら、反射的に手が出てしまうかもしれない。=Tôi hiểu rằng cậu đã vội vàng giúp tôi... nhưng nếu cậu chạm vào những nơi kỳ lạ như... ngực, ngực của tôi hay gì đó, tôi có thể phản ứng theo bản năng.
+……な、なんだ、その意外そうな顔は？\nなに？　触ったのは、背中だと思っていた……だと？=...Gì? Vẻ mặt ngạc nhiên đó trên khuôn mặt cậu... Gì? Cậu nghĩ tôi bị chạm vào lưng...?
+う……うぐぐ……！\n誰がぺったんこだぁあああ！=Ư... ư...! Cậu nghĩ ai là người phẳng!?
+どうだった？　あたしからのプレゼント！=Thấy thế nào? Món quà từ tôi!
+それにしても、モニカっていくら強がっても、\nどう見ても子供なのよね、体型が……\nま、そこが可愛いんだけど。=Nhân tiện, không thể Monika giả vờ mạnh mẽ đến đâu, cô ấy vẫn trông như một đứa trẻ, đặc biệt là cơ thể... well, đó là điều khiến cô ấy dễ thương.
+あんたがもっと『記憶の欠片』を集めたら、\nまた『夢』を見せてあげるわ。=Khi cậu thu thập thêm "Mảnh Ký Ức", tôi sẽ cho cậu xem một "giấc mơ" khác.
+たくさんの女の子との『夢』を見ること……\nそれが世界の真実にたどり着くことになるの。\nがんばってね♪=Để xem "giấc mơ" với nhiều cô gái... điều đó sẽ dẫn cậu đến chân lý của thế giới. Chúc may mắn♪
+それじゃあ、またね～♪=Vậy nhé, gặp lại sau~♪
+
+ん……？　ここは？\n私は一体なにを……？\n{playername}、何が起きたんだ？=Ừm...? Mình đang ở đâu? Chuyện gì đã xảy ra vậy, {playername}?
+
+寝ていた……？　私が？\n……貴公も、ついさっきまで寝ていた、と？\n二人して道で寝てしまうとは……=Mình đang ngủ...? Là mình ư?... Cậu cũng vừa mới ngủ dậy à? Cả hai đều ngủ thiếp giữa đường rồi...
+しかし、面白い夢を見たぞ。\nプールで貴公と、水泳の授業というものを受けていた。=Nhưng, mình có một giấc mơ thú vị. Mình đang cùng cậu học một lớp bơi trong hồ bơi.
+……貴公も同じ夢を？\nそれは不思議だな。二人が同じ夢を見るなど……=...Cậu cũng có giấc mơ giống vậy? Thật kỳ lạ. Hai đứa mình lại có cùng một giấc mơ...
+身近な場所ならまだしも、まったく知らない所だったからな。\n偶然にしてはできすぎている……=Nếu là một nơi quen thuộc thì còn có thể lý giải, nhưng đó lại là một nơi hoàn toàn xa lạ. Đó là một sự trùng hợp quá lớn...
+なに？　懐かしい気がした、だと？\n……確かに、私もそんな感覚があった。=Sao? Cậu nói cảm thấy quen thuộc à?... Đúng vậy, mình cũng cảm thấy y hệt.
+ただの夢ではなさそうだな。\n私の軍人としての勘が、違和感を訴えている。=Có vẻ đây không phải một giấc mơ bình thường. Bản năng của một người lính đang mách bảo mình có điều gì đó không ổn.
+それになにより、普通の夢ならおかしい点があった。\nどうせ夢なのだから、私はあんな幼児体形ではなく、\nもっとボンキュッボンでもよかったはずだ……=Hơn nữa, còn có những yếu tố kỳ lạ mà một giấc mơ bình thường không thể có. Vì dù sao cũng là giấc mơ, mình lẽ ra phải có một thân hình căng tràn hơn thay vì như thằng nhóc như vậy...
+
+そうすれば、貴公が触っても、\n背中と間違えることは──=Nếu là vậy, ngay cả khi cậu chạm vào mình, cũng không thể nhầm lẫn đó là lưng mình──
+……い、いや、なんでもない！\n忘れろ！　夢であったこと、全部忘れろ！=...K-Không, chẳng có gì! Quên đi! Quên mất giấc mơ đó đi, tất cả mọi thứ!
+こ、この件については、私のほうで調査しておく！\nだから貴公はキレイさっぱり忘れるんだ！\nいいな！　絶対だぞ！=Mình sẽ tự mình điều tra chuyện này! Vì vậy cậu phải quên hoàn toàn nó đi! Hiểu chưa? Tuyệt đối!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+危険なんじゃ？=Liệu có nguy hiểm không?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

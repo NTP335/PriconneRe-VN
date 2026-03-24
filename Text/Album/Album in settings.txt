@@ -1,0 +1,8 @@
+キャラクター\n図鑑=Nhân vật\nThông tin
+アイテム\n図鑑=Vật phẩm\nThông tin
+用語集=Từ điển
+---アA---
+キャラクター図鑑=Thông tin Nhân vật
+思い出アルバム=Album Kỷ niệm
+イテム図鑑=Thông tin vật phẩm
+sr:"^([べ-ヺー＆＝]+)(（.+）)? 第(\d+)話を見ると確認できます。$"=Có thể xem sau khi xem Tập $1$2 $3.

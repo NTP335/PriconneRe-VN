@@ -1,0 +1,37 @@
+##Profile##
+【物理】最前衛で、敵の物理攻撃を邪魔するいたずら娘。目の前の敵を暗闇状態にし、命中率を大幅に下げるほか、敵一体の物理攻撃力を下げるスキルを持つ。=[Vật Lý] Một tên quậy phá nhỏ luôn tiếp cận kẻ thù để cản trở các đòn tấn công vật lý của chúng. Bằng cách gây Mù, cô xóa bỏ khả năng ngắm bắn chính xác của kẻ thù và còn có thể giảm trực tiếp chỉ số tấn công của chúng.
+いたずら、探検=Thích quậy phá, thích khám phá
+探検好きのイタズラっ子=Một tên quậy phá mê khám phá
+
+##UB##
+トリックボマー=Kẻ Gửi Quà Bẫy
+自分から２番目に近い敵を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương Vật Lý vừa phải cho kẻ địch trong vùng xung quanh kẻ địch thứ hai gần nhất.
+
+##S1##
+インクシューター=Phun Mực
+自分から２番目に近い敵１キャラに物理小ダメージを与え、さらに暗闇状態にする。=Gây sát thương Vật Lý nhỏ cho kẻ địch thứ hai gần nhất và gây Mù.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする$"=►Gây $1 Sát Thương Vật Lý cho kẻ địch.\n►Gây Mù.
+
+##S2##
+ウォーターバルーン=Bóng Bóng Nước
+最も物理攻撃力が高い敵１キャラに物理小ダメージを与え、物理攻撃力を小ダウンさせ、さらに自分の物理攻撃力を小アップさせる。=Gây sát thương Vật Lý nhỏ cho kẻ địch có Tấn Công Vật Lý cao nhất và giảm nhỏ Tấn Công Vật Lý của chúng. Tăng nhỏ Tấn Công Vật Lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 1.18s\n►Gây $1 Sát Thương Vật Lý cho kẻ địch.\n►Giảm Tấn Công Vật Lý của kẻ địch đi $2 trong 99s.\n►Tăng Tấn Công Vật Lý của bản thân lên $3 trong 99s.
+
+##EX##
+トラップエキスパート=Chuyên Gia Quậy Phá
+トラップエキスパート+=Chuyên Gia Quậy Phá+
+バトル開始時に自分の物理防御力を中アップさせ、さらに自分の物理攻撃力を小アップさせる。=Tăng vừa phải Kháng Vật Lý và tăng nhỏ Tấn Công Vật Lý của bản thân khi trận đấu bắt đầu.
+r:"^自分の物理防御力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Tăng Kháng Vật Lý của bản thân lên $1.\n►Tăng Tấn Công Vật Lý của bản thân lên $2.
+
+##UB+##
+トリックハート=Trái Tim Bẫy
+敵全体に物理大ダメージを与え、物理攻撃力と物理クリティカルを特大ダウンさせる。さらに、物理攻撃クリティカル時のダメージを中ダウンさせる。=Gây sát thương Vật Lý lớn cho toàn bộ kẻ địch. Giảm mạnh Tấn Công Vật Lý và Tỷ Lệ Chí Mạng Vật Lý của kẻ địch, và giảm vừa phải Sát Thương Chí Mạng Vật Lý của kẻ địch.
+r:"^敵全体に(\d+)の物理ダメージ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理クリティカルを(\d+)ダウン敵全体の物理攻撃クリティカル時のダメージを25％ダウン$"=►Gây $1 Sát Thương Vật Lý cho toàn bộ kẻ địch.\n►Giảm Tấn Công Vật Lý của toàn bộ kẻ địch đi $2 trong 18s.\n►Giảm Tỷ Lệ Chí Mạng Vật Lý của toàn bộ kẻ địch đi $3 trong 18s.\n►Giảm Sát Thương Chí Mạng Vật Lý của toàn bộ kẻ địch đi 25% trong 18s.
+
+##S1+##
+インクシューター+=Phun Mực+
+自分から２番目に近い敵１キャラに物理中ダメージを与え、暗闇状態にする。さらに範囲内の敵すべての物理攻撃力を小ダウンさせる。=Gây sát thương Vật Lý nhỏ cho kẻ địch thứ hai gần nhất và gây Mù. Giảm nhỏ Tấn Công Vật Lý của toàn bộ kẻ địch trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする範囲内の敵の物理攻撃力を(\d+)ダウン$"=Thời gian niệm: 1.55s\n►Gây $1 Sát Thương Vật Lý cho kẻ địch.\n►Gây Mù trong 10s.\n►Giảm Tấn Công Vật Lý của kẻ địch trong phạm vi 200 lên $2 trong 180s.
+
+##UE##
+トリックギフト=Quà Bẫy

@@ -1,0 +1,35 @@
+##Profile##
+毒舌系鬼姉メイド=Một hầu gái song sinh lớn tuổi với môi lưỡi sắc bén như quỷ
+村川梨衣=Rii Murakawa
+【魔法】中衛で、特殊能力で味方を補助する、双子の姉。相手の物理攻撃を見切って回避させる「千里眼」や、敵全体を束縛するユニオンバーストの補助は効果絶大。=[Thần Kỳ] Một chị song sinh lớn tuổi hỗ trợ đồng đội với khả năng đặc biệt từ hàng ngũ phòng thủ. Khả năng Thiên Vị của cô ấy cho phép xác định đòn tấn công vật lý và triệt tiêu nó, trong khi UB có hiệu ứng mạnh mẽ là khống chế mọi kẻ địch.
+
+##UB##
+ラムの邪魔をしないで=Tránh Ra
+敵全体に魔法中ダメージを与え、さらに束縛する。=Gây sát thương phép vừa phải lên tất cả kẻ địch và gây trói (4 giây).
+r:"^敵全体に(\d+)の魔法ダメージ敵全体を一定時間行動不能にする$"=►Gây $1 sát thương phép lên tất cả kẻ địch.\n►Làm kẻ địch trong phạm vi bất động trong một khoảng thời gian.
+
+##S1##
+フーラ=Fura
+目の前の敵１キャラが行動不能状態だった場合魔法大ダメージを与えて大きく吹き飛ばし、そうでない場合魔法中ダメージを与えて小さく吹き飛ばす。=Nếu kẻ địch ngay trước mặt không thể di chuyển, gây sát thương phép lớn và đẩy lùi chúng một khoảng xa. Nếu không, gây sát thương phép vừa phải và đẩy lùi chúng một khoảng gần.
+r:"^敵単体に、行動不能の時(\d+)の魔法ダメージ敵単体に、行動不能でない時(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch nếu chúng bất động.\n►Gây $1 sát thương phép lên kẻ địch nếu chúng không bất động.
+
+##S2##
+千里眼=Thiên Lý Nhãn
+最も物理攻撃力が高い敵１キャラを、次に使う物理攻撃が必ず回避される状態にする。=Gây một trạng thái đặc biệt lên kẻ địch có P.ATK cao nhất, khiến đòn tấn công vật lý tiếp theo của chúng bị trượt.
+r:"^敵単体に次の物理攻撃が確定で回避される状態を付与する$"=►Gây một trạng thái lên kẻ địch khiến đòn tấn công vật lý tiếp theo của chúng bị trượt.
+
+##EX##
+傲岸不遜=Kiêu Ngạo Thuần Khiết
+傲岸不遜+=Kiêu Ngạo Thuần Khiết+
+
+##UB+##
+死にたくなりなさい=Hãy Chết Đi
+敵全体に魔法中ダメージを与え、大きく吹き飛ばし、さらに長時間束縛する。=Gây sát thương phép vừa phải lên tất cả kẻ địch, gây trói lâu (5 giây) và đẩy lùi chúng mạnh.
+
+##S1+##
+フーラ+=Fura+
+目の前の敵１キャラが行動不能状態だった場合魔法特大ダメージを与えて大きく吹き飛ばし、そうでない場合魔法大ダメージを与えて小さく吹き飛ばす。=Nếu kẻ địch ngay trước mặt không thể di chuyển, gây sát thương phép rất lớn và đẩy lùi chúng một khoảng xa. Nếu không, gây sát thương phép vừa phải và đẩy lùi chúng một khoảng gần.
+r:"^敵単体に、行動不能の時(\d+)の魔法ダメージ敵単体に、行動不能でない時(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch nếu chúng bất động.\n►Gây $1 sát thương phép lên kẻ địch nếu chúng không bất động.
+
+##UE##
+ラムの髪飾り=Món Trang Sức Tóc Của Ram

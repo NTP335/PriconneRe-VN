@@ -1,0 +1,56 @@
+##Profile##
+【物理】中衛で、敵弱体化フィールドを操る隻眼の悪魔。フィールドの持続時間は短いが、範囲内の敵の物理防御力を大幅に減らす効果を持つ。=[Thể xác] Quỷ một mắt sử dụng trường suy yếu kẻ thù từ vị trí giữa. Các trường của cô ấy không tồn tại lâu, nhưng kẻ địch trong chúng sẽ có phòng thủ thể xác bị giảm mạnh.
+
+研究、実験=Nghiên cứu, thí nghiệm
+実験が趣味の危険な科学者=Một bà tiến sĩ điên\nthích thí nghiệm
+
+##UB##
+ブラッディローズ=Bloody Rose
+前方範囲内の敵すべてに物理中ダメージを与える。このスキルでとどめを刺した敵の数に応じて、自分のＨＰを回復する。=Gây sát thương thể xác vừa phải cho tất cả kẻ địch trong phạm vi. Hồi phục HP của bản thân cho mỗi kẻ thù bị hạ gục bởi kỹ năng này.
+r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Gây $1 P.DMG cho kẻ địch trong phạm vi.\n►Hồi HP dựa trên số kẻ địch bị hạ gục ×20%.
+
+##S1##
+カースブルーム=Curse Bloom
+
+前方範囲内の敵すべてを呪い状態にする。=Gây nguyền rủa cho tất cả kẻ địch trong phạm vi.
+r:"^(\d+)ダメージを与える呪い状態にする$"=Thời gian niệm: 1.41s\n►Gây nguyền rủa trong phạm vi 620, sát thương $1 P.DMG/giây.
+
+##S2##
+ローズフィールド=Field of Thorns
+自分の前の一定範囲に、物理防御力を大ダウンさせるフィールドを展開する。=Triển khai một trường giảm P.DEF của tất cả kẻ địch trong phạm vi.
+## OLD r:"^フィールド内の敵の物理防御力(\d+)ダウン$"=Thời gian niệm: 0.28s\n►Triển khai trường bán kính 250 giảm P.DEF của kẻ địch trong phạm vi lên $1 trong 8s.
+
+前から２番目の敵を中心に物理ダメージフィールドと範囲内の敵すべての物理防御力を大ダウンさせるフィールドを展開する。=Triển khai một vùng gây sát thương vật lý xung quanh kẻ địch thứ 2 tính từ hàng trước, đồng thời tạo một vùng giảm mạnh phòng thủ vật lý của tất cả kẻ địch trong phạm vi đó.
+r:"^毎秒(\d+)の物理ダメージを与えるフィールドを展開するフィールド内の敵の物理防御力(\d+)ダウン$"=Thời gian thi triển: 0.28 giây.\n►Triển khai vùng không gian bán kính 300, gây $1 sát thương vật lý mỗi giây trong 8.5 giây.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong vùng đó trong 8.5 giây.
+
+
+##EX##
+隻眼の悪魔=One-Eyed Devil
+隻眼の悪魔+=One-Eyed Devil+
+
+##UB+##
+ブルータルローズ=Brutal Rose
+前方の敵すべての物理防御力を大ダウンさせ、物理大ダメージを与える。このスキルでとどめを刺した敵の数に応じて、自分のＨＰを回復する。=Giảm mạnh P.DEF của tất cả kẻ địch phía trước và gây sát thương thể xác lớn. Hồi phục HP theo số kẻ thù bị giết bởi kỹ năng này.
+## OLD r:"^範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Giảm P.DEF của tất cả kẻ địch lên $1 trong 18s.\n►Gây $2 P.DMG cho tất cả kẻ địch trong phạm vi.\n►Hồi HP dựa trên số kẻ địch bị hạ gục ×20%.
+
+
+前方の敵すべての物理防御力を大ダウン、クリティカルを受けた際のダメージを小アップさせ、物理大ダメージを与える。さらに、自分の物理攻撃力を大アップし、ＨＰを小回復する。範囲内の敵の数に応じて、ＨＰの回復倍率が最大３倍までアップする。=Giảm mạnh phòng thủ vật lý của tất cả kẻ địch phía trước, tăng nhẹ sát thương nhận vào khi bị bạo kích, đồng thời gây sát thương vật lý lớn. Ngoài ra, tăng mạnh tấn công vật lý của bản thân và hồi phục nhẹ HP. Dựa trên số lượng kẻ địch trong phạm vi, tỉ lệ hồi phục HP sẽ tăng lên tối đa gấp 3 lần.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを3％アップ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Giảm $1 phòng thủ vật lý của kẻ địch trong phạm vi.\n►Tăng 3% sát thương bạo kích nhận vào của kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Tăng $3 tấn công vật lý của bản thân.\n►Hồi phục $4 HP cho bản thân.
+
+##S1+##
+カースブルーム+=Curse Bloom+
+前方範囲内の敵すべてを呪い状態にし、さらに行動速度を小ダウンさせる。=Gây nguyền rủa cho tất cả kẻ địch trong phạm vi và giảm nhẹ tốc độ hành động của chúng.
+## OLD r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵の行動速度を一定時間低下させる$"=Thời gian niệm: 1.41s\n►Gây nguyền rủa trong phạm vi 620, sát thương $1 P.DMG/giây.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi 620 còn 95% trong 12s.
+
+r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵の行動速度５％ダウン$"=Thời gian thi triển: 1.41 giây.\n►Gây trạng thái Nguyền rủa trong phạm vi 620, gây $1 sát thương vật lý mỗi giây trong 12 giây.\n►Giảm 5% tốc độ hành động của kẻ địch trong phạm vi 620 trong 12 giây.
+
+##UE##
+ローズオブカース=Rose of Curses
+
+
+##S1++##
+Mitsuki
+カースブルーム++=Curse Bloom++
+前方の敵すべてを呪い状態と麻痺状態にし、物理・魔法攻撃力を大ダウン、物理防御力を小ダウン、行動速度を中ダウンさせる。さらに、自分のＴＰを中回復する。範囲内の敵の数に応じて、呪いのダメージとＴＰの回復量が最大３倍までアップする。=Khiến tất cả kẻ địch phía trước rơi vào trạng thái Nguyền rủa (Curse) và Tê liệt (Paralysis), giảm mạnh tấn công vật lý và ma pháp, giảm nhẹ phòng thủ vật lý và giảm vừa tốc độ hành động của chúng. Ngoài ra, hồi phục vừa TP cho bản thân. Dựa trên số lượng kẻ địch trong phạm vi, sát thương của Nguyền rủa và lượng TP hồi phục sẽ tăng lên tối đa gấp 3 lần.
+
+r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵を一定時間行動不能にする範囲内の敵の物理・魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の行動速度30％ダウン自分のＴＰを250回復$"=Thời gian thi triển: 1.41 giây.\n►Gây trạng thái Nguyền rủa trong phạm vi 620, gây $1 sát thương vật lý mỗi giây.\n►Khiến kẻ địch trong phạm vi không thể hành động (Tê liệt) trong một khoảng thời gian.\n►Giảm $2 tấn công vật lý và ma pháp của kẻ địch trong phạm vi.\n►Giảm $3 phòng thủ vật lý của kẻ địch trong phạm vi.\n►Giảm 30% tốc độ hành động của kẻ địch trong phạm vi.\n►Hồi phục 250 TP cho bản thân.

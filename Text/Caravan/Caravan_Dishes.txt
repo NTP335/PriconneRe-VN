@@ -1,0 +1,362 @@
+ジオ・ゲヘナの植物採取=Thu hoạch thực vật Gio Gehenna
+次のターン、\nカテゴリーの料理をそれぞれ1品ずつ\n食べることができる。=Trong lượt tiếp theo, cậu có thể ăn 1 món ăn trong mỗi loại.
+「移動系」=Hệ thống di động
+「補助系」=Hệ thống hỗ trợ
+「特殊系」=Bộ phận đặc biệt
+
+スキップ報酬=Bỏ qua Phần thưởng
+参加報酬を入手しました。=Đã nhận phí tham gia.
+獲得マイルアップ効果を適用しました。=Đã nhận hiệu ứng tăng dặm.
+ミニゲームをスキップして、以下のアイテムを獲得しました。=Bỏ qua minigame để nhận các vật phẩm sau:
+
+トレジャーマス=Ô Kho báu
+マイルマス=Ô Dặm
+ショップマス=Ô Cửa hàng
+
+【料理】移動時に料理マスをスキップできる=[Món Ăn] Cậu sẽ bỏ qua các Ô Món Ăn khi di chuyển.
+
+sr:"^(\d)ターンの間、すべての「(.+)」をランク(\d)の「(.+)」に変化させる。$"=Trong $1 lượt, tất cả $2 được biến thành Hạng $3 $4.
+
+出たダイスの目が奇数だった場合、+1進める=Nếu xúc xắc lăn được số lẻ, cậu có thể di chuyển thêm 1 ô.
+
+
+【仲間】出たダイスの目が奇数だった場合、1マス分多く進める=[Ally] Nếu xúc xắc lăn được số lẻ, cậu có thể di chuyển thêm 1 ô.
+【仲間】出たダイスの目が奇数だった場合、+1進める=[Ally] Nếu xúc xắc lăn được số lẻ, cậu có thể di chuyển thêm 1 ô.
+
+このターンに振るダイスの目が必ず「1」になる。=Lăn chắc chắn ra 1 trong lượt này.
+このターンに振るダイスの目が必ず「2」になる。=Lăn chắc chắn ra 2 trong lượt này.
+このターンに振るダイスの目が必ず「3」になる。=Lăn chắc chắn ra 3 trong lượt này.
+このターンに振るダイスの目が必ず「4」になる。=Lăn chắc chắn ra 4 trong lượt này.
+このターンに振るダイスの目が必ず「5」になる。=Lần này, xúc xắc chắc chắn ra 5.
+このターンに振るダイスの目が必ず「6」になる。=Lần này, xúc xắc chắc chắn ra 6.
+このターンに振るダイスの目が必ず「7」になる。=Lần này, xúc xắc chắc chắn ra 7.
+このターンに振るダイスの目が必ず「8」になる。=Lần này, xúc xắc chắc chắn ra 8.
+r:"^このターンに振るダイスの目が必ず「(\d+)」になる。$"=Lần này, bạn được đảm bảo roll ra $1.
+
+\nミニゲームをスキップしますか？\nプレイ報酬の代わりにマイルが獲得できます。=Bạn có muốn bỏ qua minigame không?\nThay vì phần thưởng, bạn sẽ nhận được miles.
+
+---Dish names---
+
+
+
+---Red---
+ペコリーヌの満腹ツインおにぎり=Onigiri Đôi Thỏa Mãn Của Pecorine
+コッコロのゆるりと休憩サラダ=Salad Thư Giãn Thoải Mái Của Kokkoro
+キャルの絶品五つ星バーガー=Burger 5 Sao Ngon Một Cách Của Kyaru
+リリのコツコツまい進かしわ餅=Kashiwa Mochi Chậm Rãi Vững Chắc Của Riri
+プレシアの食いしん坊ぶーぶー肉まん=Bánh Bao Heo Bu-Bu Đẳng Cấp Của Precia
+クローチェのフルパワーポテトサラダ=Salad Khoai Tất Cả Sức Mạnh Của Croce
+リマの不思議なスイートアップル=Quả Táo Ngọt Bí Ẩn Của Rima
+ニノンのオリジナル一二三寿司=Sushi Hifumi Độc Bản Của Ninon
+クレジッタの開運お菓子盛り合わせ=Đĩa Bánh Ngọt May Mắn Của Creditta
+リノの「時は金時」かき氷=Đá Bào "Thời Gian Là Tiền" Của Rino
+シズルの愛情\n盛り盛りハンバーグ=Hamburger Steak Đầy Tình Thương Của Shizuru
+アオイの疾走サンドイッチ=Bánh Mì Nước Rút Của Aoi
+クウカの緊縛触手活け造り=Bạch Tuộc Sống Trói Buộc Của Kuuka
+クレジッタの開運お菓子盛り合わせ=Đĩa Bánh Ngọt May Mắn Của Creditta
+ジータのグリルド・グラッジチャンク=Miếng Thịt Nướng Đầy Hận Thù Của Djeeta
+グレイスの目ん玉飛び出るカップケーキ=Bánh Cupcake Làm Ngạc Nhiên Của Grace
+ホウオウの食べる権利をあげます！饅頭="Ta Cho Phép Mày Ăn Ho-oh!" Manjuu
+
+アキノのゲヘニアンチキンプレート=Đĩa Gà Gehennian Của Akino
+ユイの栄養満点まごころ弁当=Bento Dinh Dưỡng Từ Trái Tim Của Yui
+リンのナッツ入りぐうたらあんパン=Anpan Lười Biếng Có Hạt Của Rin
+シェフィの氷晶煌めく手作りアイス=Kem Tuyết Tinh Thể Băng Lấp Lánh Tự Làm Của Sheffy
+次に振るダイスの目が「1・2」のみになる\n代わりに、その場で福引券を3枚獲得する。=Lần này, bạn sẽ roll được 1 hoặc 2.\nĐổi lại, ngay lập tức nhận 3 vé số.
+
+イリヤの†ブラッディ†トマトジュース=Nước Cà Chua Đỏ Máu Của Illya
+アリサがお届け♪リノセウスの包み焼き=Arisa giao hàng ♪ Rhino bọc và nướng
+魔法少女ナナカちゃんウエハース=Bánh quy magical girl nakachan
+マツリの活力源～騎士団遠征プレート～=Nguồn Năng Lượng Của Matsuri ~Đĩa Thám Hiểm Hiệp Sĩ~
+
+---Yellow----
+アヤネとクルミの青空ピクニックセット=Bộ Dã Ngoại Bầu Trời Xanh Của Ayane và Kurumi
+カヤとイノリの食欲倍増ケバブサンド=Bánh Mì Kebab Tăng Cường Thèm Ăn Của Kaya và Inori
+タマキの金運招くレインボーたい焼き=Taiyaki Cầu Vồng May Mắn Tài Lộc Của Tamaki
+ランファの世話焼き三昧肉じゃが=Húp Thịt Khoai Của Ranpha
+---Green---
+クリアの彩り華やかバラエティ弁当=Hộp Cơm Trưa Đa Dạng Màu Sắc Của Quria
+ワカナの節約腹八分目カレー=Cà Ri Phân Phối Chính Xác Của Wakana
+アンナの煉獄蕃茄煮混沌卵=Húp Cà Chua Địa Ngục Với Trứng Hỗn Loạn Của Anna
+ミソラの\n気まぐれ味噌ラーメン★=Mì Ramen Miso Tùy Hứng Của Misora★
+ソノの今日は特別ご褒美オムライス=Omurice Món Quà Đặc Biệt Của Sono
+
+---Dish effects---
+---Red---
+次に振るダイスが2個に増える。出目の合計の数だけ進める。=Lần này, bạn sẽ lăn 2 xúc xắc và di chuyển số ô bằng tổng của chúng.
+次に振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。=Lần này, bạn được đảm bảo roll ra 1. Bộ đếm lượt sẽ không tăng.
+次に振るダイスの目が必ず「2」になる。さらに、次のターン数のカウントをスキップする。=Lần này, bạn được đảm bảo roll ra 2. Bộ đếm lượt sẽ không tăng.
+次に振るダイスの目が必ず「3」になる。さらに、次のターン数のカウントをスキップする。=Lần này, bạn được đảm bảo roll ra 3. Bộ đếm lượt sẽ không tăng.
+
+このターンに振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。=Lần này, bạn được đảm bảo roll ra 1. Bộ đếm lượt sẽ không tăng.
+このターンに振るダイスの目が必ず「2」になる。さらに、次のターン数のカウントをスキップする。=Lần này, mắt xúc xắc luôn quay về 2. Hơn nữa, nó bỏ qua lượt đếm của lượt tiếp theo.
+このターンに振るダイスの目が必ず「3」になる。さらに、次のターン数のカウントをスキップする。=Lần này, mắt xúc xắc luôn quay về 3. Hơn nữa, nó bỏ qua lượt đếm của lượt tiếp theo.
+
+[3C404E]このターンに振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Lần này, bạn được đảm bảo roll ra 1. Bộ đếm lượt sẽ không tăng.[-]
+[3C404E]このターンに振るダイスの目が必ず「2」になる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Lần này, mắt xúc xắc luôn quay về 2. Hơn nữa, nó bỏ qua lượt đếm của lượt tiếp theo.[-]
+[3C404E]このターンに振るダイスの目が必ず「3」になる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Mặt xúc xắc luôn quay về số 3 trong lượt này. Hơn nữa, lượt kế tiếp sẽ bị bỏ qua.[-]
+
+
+次に振るダイスの目が必ず「2」になる。=Lượt này bạn sẽ chắc chắn ra mặt số 2.
+次に振るダイスの目が必ず「3」になる。=Lượt này bạn sẽ chắc chắn ra mặt số 3.
+次に振るダイスの目が必ず「5」になる。=Lượt này bạn sẽ chắc chắn ra mặt số 5.
+次に振るダイスの目が必ず「6」になる。=Lượt này bạn sẽ chắc chắn ra mặt số 6.
+次に振るダイスの目が必ず「7」になる。=Lượt này bạn sẽ chắc chắn ra mặt số 7.
+次に振るダイスの目が必ず「8」になる。=Lượt này bạn sẽ chắc chắn ra mặt số 8.
+次に振るダイスの目が必ず「9」になる。=Lượt này bạn sẽ chắc chắn ra mặt số 9.
+r:"^ダイスを(\d)回振るまでの間、ダイスの目が必ず「(\d)」になる。$"=Bạn sẽ chắc chắn ra mặt số $2 trong $1 lượt tới.
+
+アネモネの花爛漫ステーキサラダ=Salad Thịt Bò Hoa Anemone
+次に振るダイスの目が「1・2」のみになる代わりに、その場で福引券を3枚獲得する。=Lượt này bạn sẽ ra mặt số 1 hoặc 2.\nĐổi lại, nhận ngay 3 vé số.
+このターンに振るダイスの目が「1・2」のみになる代わりに、その場で福引券を3枚獲得する。=Lượt này bạn sẽ ra mặt số 1 hoặc 2.\nĐổi lại, nhận ngay 3 vé số.
+次に振るダイスの目が「4・5・6」のみになる。=Lượt sau bạn sẽ ra mặt số 4, 5 hoặc 6.
+このターンに振るダイスの目が「4・5・6」のみになる。=Lượt này bạn sẽ ra mặt số 4, 5 hoặc 6.
+このターンに振るダイスの目が「1・6・6・6・8・8」になる。=Lượt này bạn sẽ ra mặt số 1, 6, 6, 6, 8 hoặc 8.
+[3C404E]このターンに振るダイスの目が「1・2」のみになる代わりに、その場で福引券を3枚獲得する。=Lượt này bạn sẽ ra mặt số 1 hoặc 2.\nĐổi lại, nhận ngay 3 vé số.
+[3C404E]このターンに振るダイスの目が「4・5・6」のみになる。=Lượt này bạn sẽ ra mặt số 4, 5 hoặc 6.
+[3C404E]このターンに振るダイスの目が「1・6・6・6・8・8」になる。=Lượt này bạn sẽ ra mặt số 1, 6, 6, 6, 8 hoặc 8.
+
+次に振るダイスの目を必ず「3」に、その次に振るダイスの目を必ず「6」にする。=Lượt này bạn sẽ chắc chắn ra mặt số 3. Sau đó, lượt kế tiếp chắc chắn ra mặt số 6.
+このターンに振るダイスの目を必ず「3」に、その次に振るダイスの目を必ず「6」にする。=Lượt này bạn sẽ chắc chắn ra mặt số 3. Sau đó, lượt kế tiếp chắc chắn ra mặt số 6.
+このターンに振るダイスの目を必ず「2」に、次のターンに振るダイスの目を必ず「7」にする。=Lượt này bạn sẽ chắc chắn ra mặt số 2. Sau đó, lượt kế tiếp chắc chắn ra mặt số 7.
+
+r:"^このターンに振るダイスの目を必ず「(\d)」に、次のターンに振るダイスの目を必ず「(\d)」にする。$"=Lượt này bạn sẽ chắc chắn ra mặt số $1. Sau đó, lượt kế tiếp chắc chắn ra mặt số $2.
+
+
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次に振るダイスの目を必ず「8」に、その次に振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-]Lượt này bạn sẽ chắc chắn ra mặt số 8. Sau đó, lượt kế tiếp chắc chắn ra mặt số 1.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で2000マイルを獲得する。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-] Đổi lại là không thể ăn món thuộc danh mục [Di chuyển] ở lượt sau, bạn sẽ nhận ngay 2.000 dặm.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次に振るダイスの目を必ず「6」に、その次に振るダイスの目を必ず「3」にする。[-]=[3C404E] [FF7C4E,D621466]【Không thể ghi đè】[-]Lượt này bạn sẽ chắc chắn ra mặt số 6. Sau đó, lượt kế tiếp chắc chắn ra mặt số 3.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「12」に、次とさらにその次のターンに振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-] Lượt này bạn sẽ chắc chắn ra mặt số 12. Sau đó, trong 2 lượt tiếp theo chắc chắn ra mặt số 1. [-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「8」に、次のターンに振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-]Lượt này bạn sẽ chắc chắn ra mặt số 8. Sau đó, lượt kế tiếp chắc chắn ra mặt số 1.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「6」に、次のターンに振るダイスの目を必ず「3」にする。[-]=[3C404E] [FF7C4E,D621466]【Không thể ghi đè】[-]Lượt này bạn sẽ chắc chắn ra mặt số 6. Sau đó, lượt kế tiếp chắc chắn ra mặt số 3.[-]
+
+
+次に振るダイスの目を必ず「2」に、その次に振るダイスの目を必ず「7」にする。=Lượt này bạn sẽ chắc chắn ra mặt số 2. Sau đó, lượt kế tiếp chắc chắn ra mặt số 7.
+次に振るダイスの目が「1・2・3」のみになる。さらに、次のターン数のカウントをスキップする。=Lượt này bạn sẽ ra mặt số 1, 2 hoặc 3.\nSố lượt sẽ bị bỏ qua.
+マイルマスをスキップして移動できる。効果は2ターンの間継続する。=Bạn sẽ bỏ qua các ô Dặm khi di chuyển. Hiệu ứng này kéo dài 2 lượt.
+次にダイスを振った際、1マス多く進める。=Lượt sau bạn có thể di chuyển thêm 1 ô.
+次にダイスを振った際、2マス多く進める。=Lượt sau bạn có thể di chuyển thêm 2 ô.
+次にダイスを振った際、3マス多く進める。=Lượt sau bạn có thể di chuyển thêm 3 ô.
+次にダイスを振った際、4マス多く進める。=Lượt sau bạn có thể di chuyển thêm 4 ô.
+次にダイスを振った際、5マス多く進める。=Lượt sau bạn có thể di chuyển thêm 5 ô.
+次にダイスを振った際、6マス多く進める。=Lượt sau bạn có thể di chuyển thêm 6 ô.
+次にダイスを振った際、7マス多く進める。=Lượt sau bạn có thể di chuyển thêm 7 ô.
+次にダイスを振った際、8マス多く進める。=Lượt sau bạn có thể di chuyển thêm 8 ô.
+---Yellow---
+マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANKが1つ上がる。効果は対象のマスに計2回止まるまで継続する。=Cấp bậc (RANK) của tất cả các ô "Ô Dặm", "Ô Kho Báu" và "Ô Cửa Hàng" sẽ tăng lên 1. Hiệu ứng này kéo dài cho đến khi bạn dừng ở một ô thuộc loại đã nêu, tổng cộng 2 lần.
+マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANK\nが1つ上がる。効果は対象のマスに計1回止まるまで継続する。=Cấp bậc (RANK) của tất cả các ô "Ô Dặm", "Ô Kho Báu" và "Ô Cửa Hàng" sẽ tăng lên 1. Hiệu ứng này kéo dài cho đến khi bạn dừng ở một ô thuộc loại đã nêu, tổng cộng 2 lần.
+次にマイルマスに止まった際の獲得マイルが200%アップする。=Bạn sẽ nhận được 200% Dặm thêm trên ô Dặm tiếp theo bạn dừng lại.
+---Green---
+ランダムなイベントを発生させる。=Lượt sau bạn sẽ gặp một sự kiện ngẫu nhiên.
+
+現在、移動系カテゴリの料理は食べられません。=Hiện không thể ăn món ăn thuộc loại Di chuyển.
+---Effects---
+【料理】=[Nấu ăn]
+【イベント】=[Sự kiện]
+【仲間】=[Bạn bè]
+
+発動中の効果一覧=Danh sách Hiệu ứng Đang hoạt động
+ダイス 残り3回=3 Lần Lăn Thêm
+ダイス 残り2回=2 Lần Lăn Thêm
+ダイス 残り1回=1 Lần Nữa
+次に開いたマイルショップで全商品が20%以上割引される。=Lần sau Cửa Hàng Mile mở, tất cả vật phẩm sẽ được giảm giá ít nhất 20%.
+sr:"^(【料理】|【イベント】|【仲間】|)ミニゲームの獲得マイルが(\d+)%アップする。?$"=$1Tăng số Mile nhận được từ Minigame lên $2%.
+sr:"^(【料理】|【イベント】|【仲間】|)マイルマスの獲得マイルが(\d+)%アップする。?$"=$1Tăng số Mile nhận được từ Ô Mile lên $2%.
+sr:"^(【料理】|【イベント】|【仲間】|)マイルショップの全商品が(\d+)%以上割引される。?$"=$1Tất cả vật phẩm trong Cửa Hàng Mile sẽ được giảm giá ít nhất $2%.
+sr:"^(【料理】|【イベント】|【仲間】|)ダイスが(\d)個に増える。?$"=$1Lăn $2 xúc xắc ở lượt tiếp theo.
+sr:"^(【料理】|【イベント】|【仲間】|)ダイスの目が必ず「(\d)」になる。?$"=$1Lượt sau, cậu sẽ chắc chắn lăn được $2.
+sr:"^(【料理】|【イベント】|【仲間】|)ダイスの目が1回目は必ず「(\d)」に、2回目は必ず「(\d)」になる。?$"=$1Lượt sau, cậu sẽ chắc chắn lăn được $2. Sau đó, lượt kế tiếp chắc chắn lăn được $3.
+sr:"^(【料理】|【イベント】|【仲間】|)ダイスの目が「(\d)・(\d)・(\d)」のみになる。?$"=$1Lượt sau, cậu sẽ lăn được $2, $3 hoặc $4.
+sr:"^(【料理】|【イベント】|【仲間】|)次回移動時に(\d)マス分多く進める。?$"=$1Lượt sau, cậu có thể di chuyển thêm $2 ô.
+sr:"^(【料理】|【イベント】|【仲間】|)福引券を(\d)枚入手する。?$"=$1Nhận được $2 vé số
+福引券を1枚獲得する。=Nhận được 1 vé số.
+福引券を2枚獲得する。=Nhận được 2 vé số.
+福引券を3枚獲得する。=Nhận được 3 vé số.
+2ターンの間ターン数のカウントを\nスキッ\rプする。=Bỏ qua 2 lượt.
+r:"^(\d)/(\d)食事済$"=$1/$2 Bữa Ăn
+これ以上料理を食べられません。=Không thể ăn thêm đồ ăn nào.
+
+【料理】次のターン数のカウントをスキップする=[Nấu Ăn] Số lượt sẽ bị bỏ qua.
+【料理】「マイルマス」「トレジャーマス」「ショップマス」のRANKが1つ上がる=[Nấu Ăn] Cấp bậc (RANK) Ô Mile, Ô Kho Báu và Ô Cửa Hàng tăng lên 1.
+【料理】移動時にマイルマスをスキップできる=[Nấu Ăn] Bỏ qua các Ô Mile khi di chuyển.
+【料理】移動系カテゴリーの料理が食べられなくなる=[Nấu Ăn] Cậu sẽ không thể ăn đồ ăn thuộc danh mục Di Chuyển.
+【料理】移動時に「マイルマス」「トレジャーマス」をスキップできる=[Nấu Ăn] Bỏ qua Ô Mile và Ô Kho Báu khi di chuyển.
+【料理】移動時にトレジャーマスをスキップできる=[Nấu Ăn] Bỏ qua Ô Kho Báu khi di chuyển
+【料理】「マイルマス」を「トレジャーマス」に変化させる=[Nấu Ăn] Biến các Ô Mile thành Ô Kho Báu
+
+---Sub-effects---
+r:"^([0-9,]+)マイルを獲得する。?$"=Nhận được $1 Mile.
+r:"^RANK(\d+)のマイルショップを開く。$"=Mở Cửa Hàng Mile Cấp $1.
+sr:"^(.+)を([0-9,]+)個獲得する。$"=Nhận được $2 x $1.
+sr:"^(.+)を([0-9,]+)個獲得…$"=Nhận được $2 x $1.
+
+---Overwrite confirmation texts, cause the have gray color codes... Could not test all yet, excluded the non-overwritable one, will test on the go---
+---Red---
+[90A0BC]マイルマスをスキップして移動できる。効果は2ターンの間継続する。[-]=[90A0BC]Cậu sẽ bỏ qua các Ô Mile khi di chuyển. Hiệu ứng này kéo dài 2 lượt.[-]
+[90A0BC]次に振るダイスが2個に増える。出目の合計の数だけ進める。[-]=[90A0BC]Lăn hai Xúc xắc ở lượt này và di chuyển một khoảng cách bằng tổng của hai lần lăn.[-]
+[90A0BC]次に振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。[-]=[90A0BC]Lượt này, cậu sẽ chắc chắn lăn được 1. Số lượt sẽ bị bỏ qua.[-]
+[90A0BC]次に振るダイスの目が必ず「5」になる。[-]=[90A0BC]Lượt sau, cậu sẽ chắc chắn lăn được 5.[-]
+[90A0BC]ダイスを3回振るまでの間、ダイスの目が必ず「4」になる。[-]=[90A0BC]Trong 3 lượt tới, cậu sẽ chắc chắn lăn được 4.[-]
+[90A0BC]次に振るダイスの目が「4・5・6」のみになる。[-]=[90A0BC]Lượt sau, cậu sẽ lăn được 4, 5 hoặc 6.[-]
+[90A0BC]次に振るダイスの目を必ず「3」に、その次に振るダイスの目を必ず「6」にする。[-]=[90A0BC]Lượt này, cậu sẽ chắc chắn lăn được 3. Sau đó, lượt kế tiếp chắc chắn lăn được 6.[-]
+[90A0BC]次に振るダイスの目を必ず「2」に、その次に振るダイスの目を必ず「7」にする。[-]=[90A0BC]Lượt này, cậu sẽ chắc chắn lăn được 2. Sau đó, lượt kế tiếp chắc chắn lăn được 7.[-]
+[90A0BC]次に振るダイスの目が「1・2・3」のみになる。さらに、次のターン数のカウントをスキップする。[-]=[90A0BC]Lượt này, cậu sẽ lăn được 1, 2 hoặc 3. Số lượt sẽ bị bỏ qua.[-]
+[90A0BC]トレジャーマスをスキップして移動できる。効果は3ターンの間継続する。[-]=[90A0BC]Cậu sẽ bỏ qua Ô Kho Báu khi di chuyển. Hiệu ứng này kéo dài 3 lượt.[-]
+
+[3C404E]マイルマスをスキップして移動できる。効果は2ターンの間継続する。[-]=[3C404E]Cậu sẽ bỏ qua các Ô Mile khi di chuyển. Hiệu ứng này kéo dài 2 lượt.[-]
+[3C404E]次に振るダイスが2個に増える。出目の合計の数だけ進める。[-]=[3C404E]Lăn hai Xúc xắc ở lượt này và di chuyển một khoảng cách bằng tổng của hai lần lăn.[-]
+[3C404E]次に振るダイスの目が必ず「1」になる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Lượt này, cậu sẽ chắc chắn lăn được 1. Số lượt sẽ bị bỏ qua.[-]
+[3C404E]次に振るダイスの目が必ず「5」になる。[-]=[3C404E]Lượt sau, cậu sẽ chắc chắn lăn được 5.[-]
+[3C404E]ダイスを3回振るまでの間、ダイスの目が必ず「4」になる。[-]=[3C404E]Trong 3 lượt tới, cậu sẽ chắc chắn lăn được 4.[-]
+[3C404E]次に振るダイスの目が「4・5・6」のみになる。[-]=[3C404E]Lượt sau, cậu sẽ lăn được 4, 5 hoặc 6.[-]
+[3C404E]次に振るダイスの目を必ず「3」に、その次に振るダイスの目を必ず「6」にする。[-]=[3C404E]Lượt này, cậu sẽ chắc chắn lăn được 3. Sau đó, lượt kế tiếp chắc chắn lăn được 6.[-]
+[3C404E]次に振るダイスの目を必ず「2」に、その次に振るダイスの目を必ず「7」にする。[-]=[3C404E]Lượt này, cậu sẽ chắc chắn lăn được 2. Sau đó, lượt kế tiếp chắc chắn lăn được 7.[-]
+[3C404E]このターンに振るダイスの目が「1・2・3」のみになる。さらに、次のターン数のカウントをスキップする。[-]=[3C404E]Lượt này, cậu sẽ lăn được 1, 2 hoặc 3. Số lượt sẽ bị bỏ qua.[-]
+[3C404E]トレジャーマスをスキップして移動できる。効果は3ターンの間継続する。[-]=[3C404E]Cậu sẽ bỏ qua Ô Kho Báu khi di chuyển. Hiệu ứng này kéo dài 3 lượt.[-]
+出目が固定されているため振りなおせません。=Mình không thể lăn lại vì điểm xuất phát đã cố định.
+---Yellow---
+[90A0BC]マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANKが1つ上がる。効果は対象のマスに計2回止まるまで継続する。[-]=[90A0BC]Cấp bậc (RANK) của tất cả Ô Mile, Ô Kho Báu và Ô Cửa Hàng sẽ tăng lên 1. Hiệu ứng này sẽ kéo dài cho đến khi cậu dừng ở một ô liên quan đã đề cập trước đó, tổng cộng 2 lần.[-]
+[90A0BC]次にマイルマスに止まった際の獲得マイルが200%アップする。[-]=[90A0BC]Bạn sẽ nhận được 200% Mile nhiều hơn trên ô Mile tiếp theo bạn dừng lại.[-]
+[3C404E]マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANKが1つ上がる。効果は対象のマスに計2回止まるまで継続する。[-]=[3C404E]Hạng của tất cả ô Mile, ô Kho báu và ô Cửa hàng sẽ tăng lên 1. Hiệu ứng này sẽ kéo dài cho đến khi bạn dừng lại tại ô liên quan đã đề cập trước đó, tổng cộng 2 lần.[-]
+[3C404E]次にマイルマスに止まった際の獲得マイルが200%アップする。[-]=[3C404E]Bạn sẽ nhận được 200% Mile nhiều hơn trên ô Mile tiếp theo bạn dừng lại.[-]
+---Green---
+[90A0BC]ランダムなイベントを発生させる。[-]=[90A0BC]Ở lượt tiếp theo, bạn sẽ nhận một Sự kiện ngẫu nhiên.[-]
+[90A0BC]ダイスを3回振るまでの間、「5と6」の⽬が出る確率が3倍になる。[-]=[90A0BC]Xác suất roll được 5 hoặc 6 tăng gấp ba[-]
+[3C404E]ランダムなイベントを発生させる。[-]=[3C404E]Ở lượt tiếp theo, bạn sẽ nhận một Sự kiện ngẫu nhiên.[-]
+[3C404E]ダイスを3回振るまでの間、「5と6」の⽬が出る確率が3倍になる。[-]=[3C404E]Xác suất roll được 5 hoặc 6 tăng gấp ba[-]
+ダイスを3回振るまでの間、「5と6」の⽬が出る確率が3倍になる。=Trong ba lần roll tiếp theo, xác suất roll được 5 hoặc 6 sẽ tăng gấp ba.
+【料理】ダイスの「5と6」の目が出る確率が3倍になる=【Nấu Ăn】 Xác suất roll được 5 hoặc 6 tăng gấp ba
+
+一定の経過ターン以内にチェックポイントを通過すると\n豪華なアイテムが手に入ります!=Vượt qua checkpoint trong một số lượt nhất định để nhận được những món đồ xa hoa!
+
+---Dish descriptions---
+マイルを消費してガチャを引くことができます。=Bạn có thể dùng Mile để quay gacha.
+ガチャマス=Gachamas
+トレジャーマスをスキップして移動できる。効果は3ターンの間継続する。=Bạn sẽ bỏ qua các ô Kho báu khi di chuyển. Hiệu ứng này kéo dài trong 3 lượt.
+
+綺麗な装飾箱に納められたボンボン・ショコラ。そのほろ苦さを秘めた濃密な甘さが灰色の脳細胞に働きかける時、名探偵の鋭い推理が隠された謎を全て白日の下へと晒し、事件を解決へ導く。=Một hộp sô cô la Bonbon được sắp xếp tinh tế trong chiếc hộp trang trí đẹp mắt. Hương vị đầy mê hoặc cùng vị đắng ngọt phía cuối kích thích vùng não bộ, trí tuệ sắc bén của thiên tài thám tử sẽ soi sáng mọi điều bí ẩn, dẫn dắt đến việc giải quyết vụ án.
+
+
+2ターンの間ターン数のカウントをスキップする。=Bỏ qua đếm lượt trong 2 lượt.
+【イベント】次のターン数のカウントをスキップする=[Sự Kiện] Bỏ qua lượt đếm tiếp theo
+
+---Red---
+ミミが、ジオ・ゲヘナで助けてくれたお姉さん達のことを思い作ったおにぎり。それぞれ異なる味付けがされているが、ミミの願い通りお互いにケンカをせず仲良くハーモニーを奏でている。=Mimi làm những cái cơm nắm này để tưởng nhớ các chị lớn đã giúp đỡ cô ở Gio Gehenna. Mỗi cái có hương vị độc nhất, nhưng như mong ước của Mimi, không cái nào lấn át ai, tạo nên một sự hài hòa tuyệt vời.
+
+アキノがジオ・ゲヘナで仕入れてきたスパイスを\n使用した、お洒落で豪華なチキンプレート。牧場\n特製ヨーグルトソースと奏でる刺激的な味わいは\nまさに二つの世界の奇跡のマリアージュである。=Một món gà sang trọng và đầy phong cách được làm với gia vị Akino kiếm được ở Gio Gehenna. Hương vị kích thích của thịt gà kết hợp với nước sốt yogurt đặc biệt của trang trại tạo nên sự kết hợp kỳ diệu giữa hai thế giới.
+
+アオイがお弁当として作ったエルフ伝統の野菜サンド。一緒についてきてくれる最高の友だちの助言により、どんなに深い森の中でも全速力で駆け抜けることができるらしい。（アオイ談）=Một chiếc bánh mì sandwich rau củ truyền thống của người Elf mà Aoi làm cho bữa trưa. Nhờ lời khuyên của người bạn thân, cô có thể chạy nhanh như muốn, bất kể sâu trong rừng đến đâu. (Theo Aoi)
+
+数多くのドM妄想をしてきたクウカの中で最近のマイブームである触手をモチーフとした活造り。新鮮な蛸足が、濃厚なうま味と共に物理的に絡み付き身も心も縛りあげられる様な体験ができる。=Từ một trong những ảo tưởng masochist của Kuuka, món sashimi có twist mực này ra đời. Sự vặn vẹo của các tentacle tươi ngon kết hợp với vị umami đậm đà tạo nên trải nghiệm quyến rũ cả thể xác lẫn tâm hồn.
+
+ペコリーヌが丹精込めて握った特大おにぎり。ごはんは命のエネルギーを体現しているらしい。普通の人が満腹に感じる量の倍のサイズの中に最高級の具を閉じ込めた【美食殿】らしい一品。=Cái cơm nắm khổng lồ được Pecorine làm tỉ mỉ. Người ta nói rằng hạt gạo mang năng lượng của sự sống. Món ăn điển hình cho【Guild Ẩm Thực】, gói nguyên liệu tinh nhất trong khẩu phần gấp đôi người bình thường sẽ thấy no.
+
+コッコロが皆のことを思って用意したサラダ。\n栄養バランスも考えられたうえに腹持ちもよく\n味だけではなく見た目にも気を配られている。\n冒険への活力を与えてくれる慈愛溢れる一品。=Một món salad Kokkoro chuẩn bị với mọi người trong tâm trí. Đó là sự pha trộn cực kỳ tinh tế nhưng đầy đủ về trình bày, dinh dưỡng và vị giác. Món ăn tràn đầy lòng trắc ẩn ban cho mọi năng lượng cần thiết cho cuộc phiêu lưu.
+
+キャルが食べたい物を挟み込んだハンバーガー。香ばしいパンとお肉の香りが食欲を刺激する。魔物でない素材で作られた、冒険中に食べるにはゴージャスすぎる一品、とキャルは信じている。=Một chiếc hamburger dùng nguyên liệu Kyaru yêu thích. Mùi thơm của bánh mì nướng và thịt kích thích vị giác. Là món ăn làm hoàn toàn từ nguyên liệu không phải quái vật, Kyaru nghĩ ăn bữa ăn xa hoa như vậy trên đường là phí phạm.
+
+リリが作った柏餅……の中でも、上手く作れた選りすぐりの品。最高の素材を使用した上、失敗した分はリリが自分で食べてしまったため単価でみるとかなりの高級品となっている。=Kashiwa-mochi ngon nhất của Riri... trong số những cô làm. Ngoài việc dùng nguyên liệu hàng đầu, Riri tự ăn những lần thất bại, khiến đây là món ăn rất tốn kém trên mỗi đơn vị.
+
+プレシアが選び抜いた具を詰め込んだ肉まん。\n彼女の希望で、通常の肉まんの数倍のサイズに\nなっている。味もボリュームも満点でハッピー\n間違いなしですよ♪とは調理担当クリアの談。=Một chiếc bao tử hepsteam nhân đầy nguyên liệu Precia chọn. Theo yêu cầu của cô, nó lớn vài lần so với bao tử hepsteam bình thường. Theo Quria, đầu bếp phụ trách; hương vị và khối lượng đều tuyệt vời, sự thỏa mãn gần như chắc chắn♪
+
+クローチェがフルパワーで作ったポテトサラダ。本来はガレットを作ろうとしたが、うっかり握り潰してしまったため、軌道修正して仕上げた一品。経緯はともかく味は非常に美味である。=Món salad khoai tây này được Croce làm với toàn bộ sức mạnh. Ý định ban đầu là làm potato galette, nhưng cô vô tình nghiền nát nó, nên chuyển hướng làm món này thay thế. Bất kể chuyện gì xảy ra, nó vẫn rất ngon.
+
+リマがネネカにもらったリンゴで作った秘密の\nスイーツ。爽やかな酸味と濃厚な甘さがまるで\n魔法のようなバランスでお互いを引きたてており\n食べた者をたちまち虜にしてしまうという。=Món tráng miệng ẩn được làm từ quả táo Rima nhận từ Neneka. Vị chua nhẹ tươi mát và vị ngọt đậm đà bổ sung cho nhau tạo nên sự cân bằng thực sự ma thuật, mê hoặc bất kỳ ai chỉ một miếng.
+
+クレジッタが考案した、ジオ・テオゴニアで流通\nしているチョコの貨幣の盛り合わせ。一見すると\n金貨を口に入れるおバカさんではあるが、通貨を\n食べるという背徳感が隠し味となっている。=Bộ sưu tập đồng tiền sô cô la lưu hành trong Gio Teogonia, được Creditta sáng chế. Ban đầu, có thể thấy ngốc khi ăn tiền của mình, nhưng cảm giác phi đạo đức khi tiêu thụ tiền tệ tạo nên một sở thích cần phải dần dần cảm nhận.
+
+ニノンがジオ・テオゴニアに持ち込んだ特別な\n寿司。厳選された新鮮な魚介を使った逸品だが、\n一部のネタは、寿司のセオリーを逸脱したニノン\n我流のものに仕上がっている。=Một món sushi đặc biệt Ninon mang đến Gio Teogonia, chỉ dùng hải sản tươi nhất. Cuối cùng, chính cách sử dụng nguyên liệu thay thế không theo quy ước của cô nâng món ăn này lên thành kiệt tác.
+
+可愛い妹がお兄ちゃんのために心を込めて作った\nスペシャルなかき氷。一口食べるとたちどころに\nクールな甘さが精神を研ぎ澄まし、いかなる\nお得をも見逃さない要塞賢母と化すという。=Một phần đá bào đặc biệt được làm với ngọn lửa nhiệt huyết, từ một em gái đáng yêu đến người anh trai thân yêu nhất. Chỉ một miếng, vị lạnh và ngọt tan chảy trái tim sẽ mài giũa giác quan của bạn, biến bạn thành một đài phun trí tuệ thực sự không bao giờ bỏ lỡ cơ hội.
+
+お姉ちゃんが弟くんのために心を込めて作った\nスペシャルなハンバーグ。アツアツの肉汁と共に\n溢れんばかりの愛が詰まっており、一口食べる\nだけで、走り回りたくなるような美味しさ。=Một chiếc hamburger đặc biệt được làm với tất cả tình yêu của một chị lớn dành cho em trai. Nó đầy ắp tình yêu tràn trề cùng nước thịt nóng hổi. Chỉ một miếng, nó ngon đến mức bạn sẽ muốn chạy nhảy quanh.
+
+バンディ・シスターズの昨夜の夕食カレー。作り\n過ぎて食べきれずにいたものをワカナがお裾分け\nしてくれた。寝かされていたためしっかりと味の\n染みた、極上の二日目カレーとなっている。=Món cà ri các chị Bandy ăn tối hôm qua. Wakana làm quá nhiều, nên đã cho chúng tôi phần dư ăn không hết. Do để qua đêm, hương vị đã trở nên sâu sắc, biến nó thành một món cà ri ngày thứ hai đích thực hạng nhất.
+ 
+リンからもらった非常食のあんパン。ナッツが\n練り込まれクランチな食感で食べ飽きない。\nゲームのため部屋に引きこもる際のお供であり、\n必要な栄養素が全て賄える完全栄養食、らしい。=Rin cho chúng tôi lương thực khẩn cấp ưa thích: Anpan. Các loại hạt trộn trong đó cho kết cấu giòn tan bạn sẽ không bao giờ chán. Bạn đồng hành hoàn hảo khi trốn trong phòng chơi game, cô nói rằng nó cung cấp mọi dưỡng chất có thể cần.
+
+シェフィが自身の魔力の氷を使い作ったアイス。\nペコリーヌにねだられて作ったものだがキャル達\nにも好評である。コッコロ曰くひんやりしている\nのに食べると心が温かくなってきます、との事。=Một ít kem Sheffy làm bằng ma thuật băng của cô ấy. Cô làm theo yêu cầu của Pecorine, nhưng cũng được Kyaru và các bạn khác đón nhận nồng nhiệt. Theo Kokkoro, "Dù lạnh thế, ăn nó chỉ làm ấm lòng em."
+
+---Yellow---
+イロハの最強クワガタゼリー（人間用）=Thạch Cua Khổng Tồn Tối Thượng của Iroha (Dành Cho Người)
+次に振るダイスの目が「1・6・6・6・8・8」になる。=Lần xúc xắc tiếp theo sẽ có các mặt: "1, 6, 6, 6, 8, 8."
+イロハがいつも持ち歩いているカラフルなゼリー…なのだがアルケス錬金堂で作られたクワガタ用餌ゼリーとそっくりな見た目をしている。甘くて美味しいが、人間用か尋ねると目を逸らされる。=Một thạch đầy màu sắc Iroha luôn mang theo... nhưng trông nó giống hệt thức ăn cho cua khổng tồn ở Alces Atelier. Nó ngọt và ngon, nhưng khi được hỏi liệu nó thực sự dành cho con người, Iroha đã nhìn đi chỗ khác.
+料理マスをスキップして移動できる。効果は2\nターンの間継続する。=Cho phép bạn bỏ qua ô đồ ăn và di chuyển tiếp.\nHiệu ứng kéo dài trong 2 lượt.
+グレイスお手製のカップケーキ。ショッキングな見た目に全振り…と思わせて目玉も食べることが可能で大変美味…と思わせて一部だけ魂消るほど甘い部分がある。原材料は頑なに秘されている。=Bánh cupcake tự làm của Grace. Ấn tượng đầu tiên, hình dạng gây sốc dường như là trọng tâm toàn bộ... Nhưng thực tế, ngay cả trang trí hình mắt cũng có thể ăn được và ngon bất ngờ. Tuy nhiên, một số phần ngọt đến mức choáng váng. Nguyên liệu vẫn là bí mật được giữ kỹ.
+アヤネとクルミが二人で用意した特別なランチバスケット。仲間との冒険への希望が詰まったご機嫌な料理の数々で、道中の様々な出来事が１ランク上のイベントに感じられるようになる。=Ayane và Kurumi đã cùng nhau chuẩn bị một chiếc giỏ dã ngoại đặc biệt. Sự hào hứng của họ cho chuyến đi này với bạn bè được đóng gói vào mỗi món ăn ngon. Ăn chúng khiến bạn tràn ngập niềm vui và đảm bảo sự kiện tiếp theo sẽ đặc biệt hơn một chút.
+
+カヤとイノリが弁当代わりに持ってきたケバブ。イノリ行きつけの店の硬派な味わいで、ギャングとしてのやる気が一人3倍、コンビで6倍となり下剋上を成し遂げるパワーが湧く……らしい。=Thay vì bữa trưa thông thường, Kaya và Inori mang đến món Kebab từ nhà hàng yêu thích của Inori. Họ khẳng định hương vị mặn nồng mạnh mẽ cho họ ba lần động lực (sáu lần với cặp đôi) để vượt qua và đạt được mục tiêu dưới danh nghĩa kẻ yếu... có vẻ như vậy.
+
+タマキたちが『ジオ・テオゴニア』に持ち込んだたい焼きの概念が現地の文化と溶け合い生まれた\n魔改造スイーツ。虹色に輝くその甘さは、実にランドソルのたい焼きの数倍と言われている。=Sau khi Tamaki và bạn bới giới thiệu Gio Teogonia với taiyaki, người dân địa phương tiếp thu khái niệm và biến nó thành món ngọt ma thuật này. Món tráng miệng lấp lánh này được cho là ngọt gấp vài lần so với taiyaki của Landosol.
+
+---Green---
+クリアが朝早くから用意した冒険用のお弁当。おかずは様々でどれも絶品だが、どんなものが入っているかはみんなにも秘密にされているため蓋を開けるまでのお楽しみとなっている。=Quria thức dậy rất sớm để chuẩn bị hộp cơm trưa này cho cuộc phiêu lưu. Có nhiều món ăn, tất cả đều tinh xảo, nhưng nội dung thực sự được giữ bí mật đến giờ trưa, khiến mọi người run lên vì háo hức khi mở nắp.
+
+
+コッコロの指導により料理の腕を上げたランファ\nが手作りした肉じゃが。まだ改善の余地はある\nものの、不器用なランファが誰かのために積み\n重ねた努力を思うととてもおいしく味わえる。=Sau khi nhận được nhiều hướng dẫn từ Kokkoro về cách nấu ăn, Ranpha làm món thịt kho khoai củ homestyle này. Có chỗ để cải thiện, nhưng biết rằng Ranpha vụng về thông thường đã cố gắng nhiều như thế nào vì người khác khiến dạ dày bạn ngập tràn niềm vui.
+
+アユミの隠密ガトーインビジブル=Gâteau Invisible của Ayumi
+気が付くとリリの手元にあった不思議なお菓子。一見普通のケーキだが、内部に様々な具材が隠れるように入っている。複雑で重層的な味わいを見せる様は、まるで誰かさんのよう。=Trước khi biết chuyện, Riri tìm thấy một chiếc bánh kỳ lạ trong tay. Nhìn qua, nó giống như chiếc bánh thông thường, nhưng có nhiều nguyên liệu ẩn bên trong. Hương vị phức tạp và nhiều lớp khiến bạn nhớ đến ai đó.
+
+「マイルマス」「トレジャーマス」をスキップして移動できる。効果は1ターンの間継続する。=Bạn sẽ bỏ qua ô Mile và ô Kho báu khi di chuyển. Hiệu ứng kéo dài trong 1 lượt.
+
+アネモネが世話する秘密の菜園の野菜を使ったサラダ。栄養を重視するアネモネは草食獣の肉を野菜と解釈、当初は野菜の上に肉を置いただけであったが、ネラの指導で盛り付け直された。=Một món salad làm với rau củ từ vườn bí mật của Anemone. Anemone, ưu tiên dinh dưỡng, diễn giải thịt động vật ăn cỏ như rau củ, ban đầu đặt thịt trực tiếp lên salad. Tuy nhiên, với sự hướng dẫn của Nera, cô bày lại món thịt.
+
+
+ジオ・ゲヘナを探索中の冥姫たちが現地で採取したスパイスで味付けした一皿。赤く煮え滾るソースは刺激的かつ非常に奥深い味わいで未知の大地の如く冒険者たちをその深奥へと誘う。=Món ăn được nêm nếm với gia vị thu thập tại hiện trường bởi Hecate của Gale khi khám phá Gio Gehenna. Nước sốt đỏ sôi sùng sục có hương vị kích thích và cực kỳ sâu sắc mời gọi người mạo hiểm vào vùng sâu vùng xa của điều chưa biết.
+
+ユイが食べる人のことを考え、心を込めて作ったお弁当。程よいサイズのお弁当箱に愛情と手間暇をたっぷりとかけた極上の料理が詰まっており、食べた者の心と胃袋を優しく満たしてくれる。=Yui làm những hộp cơm bento này với sự chăm chút và suy nghĩ đến người sẽ ăn chúng. Chiếc hộp bento có kích cỡ hoàn hảo đầy ắp thức ăn tinh xảo, làm với tình yêu thương, để nhẹ nhàng lấp đầy trái tim và dạ dày của bất kỳ ai ăn nó.
+
+ミソラが作ったラーメン。適当に言った好きな物をランファが憶えていたために、材料を用意され仕方なく作ったものだが味はイイコト級の一品。美味しそうに食べられるのは嫌いではない様子。=Một bát ramen do Misora làm. Ranpha nhớ đến lời bóng ý của Misora về món ăn ưa thích nên đã mua nguyên liệu, khiến Misora không còn lựa chọn nào khác ngoài việc nấu. Món ăn này bất ngờ lại rất ngon. Cô ấy dường như không bận tâm khi thấy người khác ăn hết sức thích thú.
+
+ソノが作ったオムライス。イロハの大好物であり\n家庭の味。普段は面倒くさがりやらないがイロハ\nが良い子の時はケチャップでクワガタを描いて\nあげている。その時は普段より美味しいらしい。=Một phần Omurice do Sono làm, món ăn quen thuộc mà Iroha cực kỳ yêu thích. Việc này khá vất vả nên cô thường bỏ qua, nhưng nếu Iroha cư xử tốt: cô sẽ vẽ một con bọ hung bằng tương cà lên đó. Nghe nói khi làm vậy món ăn còn ngon hơn.
+
+ジオ・ゲヘナの空の覇者にして煉華のホウオウが\n己への信仰心を集めるべく作らせたお菓子。中の\n餡はしっとり甘く、上品な味わい。ジオ・ゲヘナ\n銘菓の名を恣にする日も近い、かもしれない。=Một loại bánh kẹo do Hoàng hậu bầu trời của Gio Gehenna, Kỳ điểu Phượng Hoàng!.. tạo ra trong nỗ lực củng cố niềm tin của người khác. Nhân đậu xanh bên trong mềm ẩm, ngọt thanh và có hương vị tinh tế. Ngày mà món tráng miệng vĩ đại nhất của Gio Gehenna được mọi người biết đến có thể đã gần kề.
+
+
+出たダイスの目が奇数だった場合、\nライバルを1ターン休みにできる=Nếu mặt xúc xắc có số chấm lẻ, bạn có thể lấy một lượt đi của đối thủ.
+【仲間】出たダイスの目が奇数だった場合、ライバルを1ターン休みにできる=[Bạn] Nếu tổng số chấm xúc xắc là số lẻ, bạn có thể cho đối thui mất một lượt.
+
+出たダイスの目が偶数だった場合、\n+1進める=Nếu tổng số chấm xúc xắc là số chẵn, di chuyển tới +1.
+【仲間】出たダイスの目が偶数だった場合、1マス分多く進める=[Bạn] Nếu tổng số chấm xúc xắc là số chẵn, di chuyển tới một ô.
+\n「まとめて３個」モードでダイスを振ると、\n出現中の仲間効果は消失します。\nダイスを振ってもよろしいですか？=\nNếu bạn tung xúc xắc ở chế độ "Ba cùng một lúc",\ntất cả hiệu ứng đồng hành đang hoạt động sẽ biến mất.\nBạn có chắc muốn tung xúc xắc?
+
+
+
+
+
+
+```
+ユキノ製ごろっと果実のかちこち氷菓子=Thú Ăn Đá Trái Cây Đặc Sắc của Yukino
+アイラのみんなで飲みたい赤麦しゅわ=Đại Bình Yến Đỏ Cóc của Aira mà Ai Nấy Cũng Muốn Uống
+集めたリンゴはマイルと交換させていただきます。金リンゴは、赤リンゴ5個分の価値がありますよ♪さらに宝箱をキャッチすると、トレジャーがGETできます！=Táo thu thập được có thể đổi lấy Công Trạng. Một Táo Vàng trị giá năm Táo Đỏ♪ Cũng có thể nhận được kho báu bằng cách bắt được rương kho báu!
+レイの釣りたて鮮魚七輪塩焼き=Cá Tươi Mới Bắt Được Nướng Than Muối của Rei
+2ターンの間、すべての「マイルマス」をランク3の「ショップマス」に変化させる。=Trong 2 lượt, tất cả "Ô Công Trạng" được biến thành "Ô Cửa Hàng" hạng 3.
+ヴァンピィちゃんのさいきょースープ=Món Súp Tối Thượng của Vampy-chan
+
+3ターンの間、すべての「マイルマス」をランク3の「トレジャーマス」に変化させる。=Trong 3 lượt, tất cả "Ô Công Trạng" được biến thành "Ô Kho Báu" hạng 3.
+
+ダイスを2回振るまでの間、出る目が「4・5・6」のみになる=Cho đến khi bạn tung xúc xắc hai lần, chỉ có thể xuất hiện "4, 5, hoặc 6".
+[3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「7」に、次のターンに振るダイスの目を必ず「2」にする。[-]=[3C404E][FF7C4E,D62146][Không thể ghi đè][-]Lượt xúc xắc lần này được đảm bảo là "7", và lượt xúc xắc lượt sau được đảm bảo là "2."[-]
+
+この我に店番させるとは…全て買わねば許さぬぞ我が国庫に貢献するが良い=Nghĩ tới việc ngươi bắt ta trông coi cửa hàng... Ta sẽ không tha thứ trừ khi ngươi mua hết mọi thứ. Đóng góp vào kho báu của ta đi.
+ギガンティックローチェ、おひとついかがですかっ？格納庫用意して下さいねっ=Thử món Đá Cứng Khổng Lồ nhé? Xin hãy chuẩn bị một nhà kho!
+…リマさんのブロマイド？買い取るに決まってらぁ！なんでも持ってけ泥棒っ！=...Bromure của Rima ư? Tất nhiên ta sẽ mua! Lấy bất cứ thứ gì cậu muốn, tên trộm!
+アナライズっ！本日のオススメ商品は～…こちらですっ♪=Phân tích! Món được khuyên dùng hôm nay là... món này♪
+クルルをお求めですかっ？それならお礼に、こちらの jewels もどうぞですよ～♪=Cậu đang tìm Kururu? Vậy như một lời cảm ơn, xin hãy nhận những viên ngọc này nữa♪
+よぅ！　今日の俺さまは門番じゃなく、店番だぜメモピ～スフィア～てな！=Ê! Hôm nay tao không phải người gác cổng, tao là chủ cửa hàng—Memo-Pi~Sphere~!
+こ、この格好は…ヴルムが集客効果があると言って……本当でしょうか？=B-bộ đồ này là... Vurm nói sẽ thu hút khách... Có thật không vậy?
+はっ！　ヒーローさんからお代なんて頂けないです！どうぞどうぞ…え、ダメ？=À! Tôi không thể nhận thanh toán từ một anh hùng! Xin mời cứ tự nhiên... Hả, không?
+
+
+
+
+
+サレンの思い出ぎっしり焼きそばパン=Bánh mì Yakisoba đong đầy kỷ niệm của Saren
+「ショップマス」「ミニゲームマス」「イベントマス」をスキップして移動できる。効果は3ターンの間継続する。=Cho phép di chuyển bỏ qua "Ô Cửa hàng", "Ô Trò chơi nhỏ" và "Ô Sự kiện". Hiệu quả kéo dài trong 3 lượt.
+サレンが作った思い出の焼きそばパン。どっしりしたボリュームある炭水化物×炭水化物の信頼感で皆を笑顔に変える。専用の皿に盛り付けたら見栄えも十分。カロリーは気にしないのがお作法。=Món bánh mì Yakisoba kỷ niệm do chính tay Saren làm. Sự kết hợp đầy đặn giữa tinh bột × tinh bột mang lại cảm giác an tâm và khiến mọi người mỉm cười. Khi trình bày trên đĩa chuyên dụng, trông nó cực kỳ bắt mắt. Quy tắc thưởng thức là đừng bận tâm đến lượng calo.
+マイルマスをスキップして移動できる。効果は3ターンの間継続する。=Cho phép di chuyển bỏ qua "Ô Dặm đường". Hiệu quả kéo dài trong 3 lượt.
+アラクネが初めて覚えた料理。周囲の人々が自分より小さいのは小食が理由と思っているらしく、たくさん食べて大きくなってほしいという優しさから、超ボリュームなデカ盛り仕様となった。=Món ăn đầu tiên mà Arachne học được. Dường như cô cho rằng mọi người xung quanh nhỏ bé hơn mình là do ăn ít, nên từ lòng tốt muốn mọi người ăn thật nhiều để mau lớn, cô đã làm ra khẩu phần siêu khổng lồ này.
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で…=[3C404E][FF7C4E,D62146][Không thể ghi đè][-]Thay vì không thể ăn "Món ăn thuộc danh mục di chuyển" ở lượt tiếp theo, ngay tại chỗ...
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で貴重な未鑑定トレジャーを3個獲得する。[-]=[3C404E][FF7C4E,D62146][Không thể ghi đè][-]Thay vì không thể ăn "Món ăn thuộc danh mục di chuyển" ở lượt tiếp theo, bạn sẽ nhận ngay 3 Bảo vật chưa giám định quý giá[-]
+レイが釣った魚の塩焼き。試行錯誤の末に理想の塩と火の加減にたどり着いた。調理は真剣勝負で釣りと同様、己の心との戦いだという。レイも時々、集中しすぎて仲間に心配されているとか。=Món cá nướng muối do Rei tự tay câu. Sau nhiều lần thử nghiệm, cô đã đạt đến sự cân bằng lý tưởng giữa lượng muối và độ lửa. Cô quan niệm nấu nướng là một trận chiến nghiêm túc, cũng giống như câu cá, đó là cuộc chiến với chính tâm hồn mình. Nghe nói đôi khi Rei tập trung quá mức đến nỗi khiến đồng đội phải lo lắng.

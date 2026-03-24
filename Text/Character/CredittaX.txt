@@ -1,0 +1,29 @@
+##Profile##
+【物理】後衛で、甘美なひと時を堪能する聖夜の女商人。最も遠い味方へのＴＰ回復や、初弾に追加効果のある攻撃で敵の弱体化と味方の強化を行い、勝利の舞台を整える。=[Vật Lý] Một thương nhân lễ hội đang tận hưởng khoảnh khắc ở hàng sau. Cô ấy gây debuff cho kẻ địch và hồi TP cho đồng minh xa nhất, với các kỹ năng buff đồng minh khi dùng lần đầu, cô ấy tạo nền tảng cho một chiến thắng rực rỡ.
+
+##UB##
+スパークリングドロップ=Giọt Lấp Lánh
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を中ダウンさせる。バトル開始後、初弾のユニオンバーストはさらに追加で目の前の敵１キャラの物理防御力を小ダウンさせる。=Gây sát thương vật lý lớn cho một kẻ địch phía trước, giảm một cách vừa phải phòng thủ vật lý của nó trong 18s. Khi trận đấu bắt đầu, lần dùng UB đầu tiên còn sẽ giảm thêm một chút phòng thủ vật lý của một kẻ địch trong 180s.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン初使用時、敵単体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Giảm phòng thủ vật lý của một kẻ địch đi $2.\n►Đối với lần dùng đầu tiên, giảm phòng thủ vật lý của một kẻ địch đi $3.
+
+##S1##
+ゴージャスグリッター=Lấp Lánh Rực Rỡ
+目の前の敵１キャラに物理大ダメージを与え、物理攻撃力を中ダウンさせ、物理防御力を小ダウンさせる。バトル開始後、初弾のこのスキルは自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせ、物理防御力を中アップさせる。=Gây sát thương vật lý lớn cho một kẻ địch phía trước, giảm vừa phải tấn công vật lý và giảm một chút phòng thủ vật lý của nó. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên còn sẽ tăng rất lớn tấn công vật lý của đồng minh trong phạm vi và tăng vừa phải phòng thủ vật lý của họ.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン初使用時、範囲内の味方の物理攻撃力を(\d+)アップ初使用時、範囲内の味方の物理防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Giảm tấn công vật lý của một kẻ địch đi $2 trong 12s.\n►Giảm phòng thủ vật lý của một kẻ địch đi $3 trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Tăng tấn công vật lý của đồng minh trong phạm vi 150 lên $4 trong 180s.\n►Tăng phòng thủ vật lý của đồng minh trong phạm vi 150 lên $5 trong 180s.
+
+##S2##
+ラッピングキャロル=Carol Gói Quà
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせ、継続ＴＰ回復状態を付与する。さらに最も遠くの味方１キャラのＴＰを小回復させる。=Tăng rất lớn tấn công vật lý của đồng minh trong phạm vi, và ban cho họ khả năng hồi TP liên tục. Ngoài ra, còn hồi một chút TP cho đồng minh xa nhất.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ毎秒ＴＰを10回復する味方単体のＴＰを100回復$"=►Tăng tấn công vật lý của đồng minh trong phạm vi 150 lên $1 trong 12s.\n►Hồi TP của đồng minh trong phạm vi 150 với tốc độ 10/giây trong 12s.\n►Hồi 100 TP cho một đồng minh.
+
+##EX##
+聖夜のデラックスコース=Khóa Giảng Dạy Giáng Sinh
+聖夜のデラックスコース+=Khóa Giảng Dạy Giáng Sinh+
+
+##S1+##
+ゴージャスグリッター+=Vũ Khí Lấp Lánh+
+目の前の敵１キャラに物理大ダメージを与え、物理攻撃力と物理防御力を中ダウンさせ、最も遠くの味方１キャラの物理攻撃力を特大アップ、物理クリティカルを大アップさせる。バトル開始後、初弾のこのスキルは自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせ、物理防御力を中アップさせる。=Gây sát thương vật lý lớn cho một kẻ địch phía trước, giảm vừa phải tấn công vật lý và phòng thủ vật lý của nó, và tăng rất lớn tấn công vật lý, tăng rất lớn tỷ lệ phản công vật lý của đồng minh xa nhất. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên còn sẽ tăng tấn công vật lý và phòng thủ vật lý của đồng minh trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを150アップ初使用時、範囲内の味方の物理攻撃力を(\d+)アップ初使用時、範囲内の味方の物理防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Giảm tấn công vật lý của một kẻ địch đi $2 trong 12s.\n►Giảm phòng thủ vật lý của một kẻ địch đi $3 trong 12s.\n►Tăng tấn công vật lý của một đồng minh lên $4 trong 12s.\n►Tăng tỷ lệ phản công vật lý của một đồng minh lên 150 trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Tăng tấn công vật lý của đồng minh trong phạm vi 150 lên $5 trong 180s.\n►Tăng phòng thủ vật lý của đồng minh trong phạm vi 150 lên $6 trong 180s.
+
+##UE##
+ノエル・リッチモンド=Noel Richmond

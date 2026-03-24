@@ -1,0 +1,39 @@
+##Profile##
+ダーツ=Throwing Darts
+ダウンタウン育ちのダウナー系エルフ=Một tiên nhân lười biếng được nuôi dưỡng ở khu trung tâm thành phố
+
+【物理】前衛で、手数で圧倒する、ダウナー系エルフ。攻撃するたびに相手に【畏縮】ステータスを追加し、スキルのダメージと物理防御力ダウンに磨きをかける。=[Vật lý] Một tiên nhân ít năng lượng, tung ra loạt đòn tấn công nhanh từ tuyến đầu. Cô khiến kẻ địch rơi vào trạng thái "Sợ hãi" (Cower) với mỗi đòn đánh, làm tăng khả năng gây sát thương hoặc giảm phòng thủ vật lý của chúng với kỹ năng.
+
+クロエ純情白書／芽生え編=Chloe's Blank Page: Budding Emotions
+クロエ勤労日報／飲食店編=Chloe's Work Diary: The Restaurant
+クロエ勤労日報／配送業編=Chloe's Work Diary: The Delivery
+クロエ勤労日報／服飾店編=Chloe's Work Diary: The Clothing Store
+クロエ勤労日報／幕間=Chloe's Work Diary: An Interlude
+クロエ勤労日報／採取係編=Chloe's Work Diary: The Foraging Process
+クロエ勤労日報／古物商編=Chloe's Work Diary: The Antique Store
+クロエ勤労日報／居酒屋編=Chloe's Work Diary: The Tavern
+
+##UB##
+闇黒の曙光=Dark Daybreak
+
+##S1##
+紫紺の黄昏=Violet Dusk
+敵全体を、クロエの攻撃が当たるたびに【畏縮】ステータスが１つ追加されるようにする。【畏縮】は最大66まで追加される。さらに、自身の物理攻撃力を中アップさせる。=Mỗi khi một đòn tấn công của Chloe đánh trúng kẻ địch, kẻ địch đó sẽ nhận một ngăn (stack) của trạng thái bất lợi "Sợ hãi" (Cower). Có thể áp dụng tối đa 66 ngăn cùng lúc. Ngoài ra, tăng một chút P.ATK của chính Chloe.
+【畏縮】を敵へ付与できる状態になる。攻撃が敵に当たるたび【畏縮】を１つ付与する。【畏縮】は最大66まで追加される。さらに、自身の物理攻撃力を中アップさせる。=Mỗi khi một đòn tấn công của Chloe đánh trúng kẻ địch, kẻ địch đó sẽ nhận một ngăn (stack) của trạng thái bất lợi "Sợ hãi" (Cower). Có thể áp dụng tối đa 66 ngăn cùng lúc. Ngoài ra, tăng một chút P.ATK của chính Chloe.
+r:"^攻撃が当たるたびに畏縮を付与する状態になる自分の物理攻撃力を(\d+)アップ$"=►Khi đòn đánh trúng, gây trạng thái Sợ hãi (Cower).\n►Tăng P.ATK của bản thân lên $1.
+
+##S2##
+白銀の月影=Silver Moonlight
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。ダメージと物理防御力の減少量は、対象の【畏縮】の数に応じて増加する。=Gây sát thương vật lý (P.DMG) vừa phải cho kẻ địch đầu tiên phía trước, và giảm một chút P.DEF của chúng. Sát thương và mức giảm P.DEF trở nên mạnh hơn tùy theo số ngăn (stack) trạng thái "Sợ hãi" (Cower) mà kẻ địch đang có.
+
+##EX##
+更け征く夜=Deepening Night
+更け征く夜+=Đêm Sâu Thẳm+
+
+##S1+##
+紫紺の黄昏+=Hoàng Hôn Tím+
+敵全体を、クロエの攻撃が当たるたびに【畏縮】ステータスが１つ追加されるようにする。【畏縮】は最大99まで追加される。さらに、自身の物理攻撃力を中アップさせる。=Mỗi khi một đòn tấn công của Chloe trúng kẻ thù, kẻ thù đó sẽ nhận một lớp debuff "Sợ Hãi". Có thể áp dụng tối đa 99 lớp cùng lúc. Ngoài ra, tăng sức mạnh tấn công vật lý của chính Chloe một lượng vừa phải.
+【畏縮】を敵へ付与できる状態になる。攻撃が敵に当たるたび【畏縮】を１つ付与する。【畏縮】は最大99まで追加される。さらに、自身の物理攻撃力を大アップさせる。=Mỗi khi một đòn tấn công của Chloe trúng kẻ thù, kẻ thù đó sẽ nhận một lớp debuff "Sợ Hãi". Có thể áp dụng tối đa 99 lớp cùng lúc. Ngoài ra, tăng sức mạnh tấn công vật lý của chính Chloe một lượng vừa phải.
+
+##UE##
+フロムダスク・ティルドーン=Từ Hoàng Hôn Đến Bình Minh

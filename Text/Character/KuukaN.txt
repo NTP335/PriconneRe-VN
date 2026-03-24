@@ -1,0 +1,27 @@
+##Profile##
+【魔法】前衛で、猛攻をバリアで受けきる闇のドＭ娘。最も魔法攻撃力が高い味方の魔法攻撃力とクリティカルをアップさせ、魔法防御力ダウンスキルで敵を怯ませる。=[Phép] Một cô gái tối tăm và thích bị hành hạ, đứng ở tuyến đầu chịu đựng những đòn tấn công dữ dội với màn chắn của mình. Cô tăng Sát Thương Phép và Tỷ Lệ Chí Mạng Phép của đồng đội có Sát Thương Phép cao nhất, và dùng kỹ năng để hạ thấu Phòng Thủ Phép của kẻ địch, khiến chúng giật mình.
+
+##UB##
+クウカ・ドМ・エクスプロージョン=Vụ Nổ Phép của Kuuka
+
+##S1##
+ドМ・シェアリング=Chia Sẻ Phép
+自分に物理/魔法無効バリアを展開し、さらに最も魔法攻撃力が高い味方１キャラの魔法攻撃力と魔法クリティカルを大アップさせる。=Triển khai Màn Chắn lên bản thân, hấp thụ Sát Thương Vật Lý/Phép. Ngoài ra, tăng mạnh Sát Thương Phép và Tỷ Lệ Chí Mạng Phép của đồng đội có Sát Thương Phép cao nhất.
+r:"^味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tăng Sát Thương Phép của một đồng đội bằng $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Phép của một đồng đội bằng $2 trong 12s.\n►Triển khai Màn Chắn lên bản thân, hấp thụ $3 Sát Thương Vật Lý/Phép trong 12s.
+
+##S2##
+ドМ・パッション=Nhiệt Huyết Phép Thuật
+目の前の敵１キャラに魔法小ダメージを与え、魔法防御力を小ダウンさせる。さらに、自分のＨＰを大回復し、物理防御力を大アップさせる。=Gây Sát Thương Phép nhỏ lên kẻ địch phía trước và hạ thấu Phòng Thủ Phép của chúng. Ngoài ra, hồi HP bản thân rất nhiều và tăng mạnh Phòng Thủ Vật Lý của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Gây $1 Sát Thương Phép lên một kẻ địch.\n►Hạ thấu Phòng Thủ Phép của một kẻ địch bằng $2 trong 12s.\n►Hồi HP của bản thân bằng $3.\n►Tăng Phòng Thủ Vật Lý của bản thân bằng $4 trong 12s.
+
+##EX##
+ドＭ・フィールド=Vùng Trường Phép
+ドＭ・フィールド+=Vùng Trường Phép+
+
+##S1+##
+ドМ・シェアリング+=Chia Sẻ Phép+
+自分に物理/魔法吸収バリアを展開し、継続ＨＰ回復状態を付与する。さらに、最も魔法攻撃力が高い味方１キャラの魔法攻撃力と魔法クリティカルを特大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。=Triển khai Màn Chắn lên bản thân, hấp thụ Sát Thương Vật Lý/Phép và tăng khả năng hồi HP liên tục. Ngoài ra, tăng mạnh Sát Thương Phép và Tỷ Lệ Chí Mạng Phép của đồng đội có Sát Thương Phép cao nhất, và tăng nhẹ Sát Thương Chí Mạng Phép của họ.
+r:"^味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ味方単体の魔法攻撃クリティカル時のダメージを10%アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Tăng Sát Thương Phép của một đồng đội bằng $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Phép của một đồng đội bằng $2 trong 12s.\n►Tăng Sát Thương Chí Mạng Phép của một đồng đội 10% trong 12s.\n►Triển khai Màn Chắn lên bản thân, hấp thụ $3 Sát Thương Vật Lý/Phép trong 12s.\n►Hồi HP của bản thân $4/s trong 6s.
+
+##UE##
+闇のドＭオーブ=Quỷ Thể Phép

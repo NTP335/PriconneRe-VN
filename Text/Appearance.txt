@@ -1,0 +1,14 @@
+各種キャラ詳細画面にデフォルトで表示するキャラの画像を変更できます。=Bạn có thể thay đổi hình ảnh mặc định của nhân vật được hiển thị trên các trang chi tiết của họ.
+キャラ詳細表示=Hiển thị Chi tiết Nhân vật
+各画面に表示されているアイコンを変更できます。=Bạn có thể thay đổi biểu tượng đại diện cho nhân vật này.
+アイコン表示=Hiển thị Biểu tượng
+通常ポーズ=Thường
+個別ポーズ=Độc bản
+バトルで勝利した時のポーズを変更できます。\n※ポーズ変更は、一部のキャラでのみ可能です。=Bạn có thể thay đổi tư thế chiến thắng của nhân vật. ※ Chỉ áp dụng được với một số nhân vật.
+勝利ポーズ=Tư thế Chiến thắng
+★2以前=★2
+★3以降=★3+
+バトル中やマップに表示されるキャラの表示を変更できます。=Bạn có thể thay đổi nhân vật chibi được sử dụng trong trận chiến và trên bản đồ.
+バトルキャラ表示=Hiển thị Nhân vật Chibi
+★6以降=★6+
+★6のキャラは★変更を利用できません。=Không thể sử dụng với nhân vật ★6.

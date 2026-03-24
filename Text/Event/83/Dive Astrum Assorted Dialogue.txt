@@ -1,0 +1,63 @@
+------Part 2 Unlock-----
+
+物語の続きが、解放されたよ。\n少年……あの子の記憶の続きを、どうか見届けてほしい。=Phần tiếp theo của câu chuyện này đã sẵn sàng. Cậu bé... Tôi cầu xin cậu tiếp tục quan sát ký ức của cô gái đó.
+かつてのアタシたちの記憶をめぐる物語。\n元の姿に戻ったフィオと、現在と異なる姿のアメス。\n彼女たちが導くのは──？=Một câu chuyện về ký ức quá khứ của chúng ta. Fio trở về hình dạng ban đầu, và Ames mang một vẻ ngoài khác. Tất cả dẫn đến đâu...?
+秘されし七冠の過去が、此処にある。=Lịch sử bí mật của Bảy Vương Miện nằm ở đây.
+
+
+---Generic Part 2 Unlock (thanks karin)---
+
+イベントストーリーの追加と合わせて、\n更なるクエストと、新たなボスが出現しました！\n現れたボスにはこちらから挑戦することができますよ！=Cùng với việc thêm cốt truyện sự kiện, nhiệm vụ và một Boss mới đã xuất hiện! Cậu có thể thử thách bất kỳ Boss nào từ đây!
+
+---Part 2 Boss---
+
+七冠=Bảy Vương Miện
+後編ボスバトル（SCENARIO）をクリアしよう=Chiến thắng trận đánh Boss thứ hai (CỐT TRUYỆN)
+アルファ・レガリアス=Alpha Regalias
+さぁ、やろうかみんな。\nレジェンドオブアストルムの開発者として、力を重ねる時だ。=Đi thôi, cùng làm đi, mọi người.\nLà những người phát triển Legend of Astrum, đến lúc chúng ta hợp tác rồi.
+力を重ねるですって？　ハッ、馬鹿馬鹿しい。\nあなたたちが合わせればいいわ。周りを飛び回るくらいは許してあげる。=Hợp tác?\nHa, thật ngu ngốc.\nCác người cứ vui vẻ được rồi. Tôi sẽ để các người tự do.
+あっはっは☆　これはこれは寛大な沙汰だな！\nならば先駆けはいただくとしましょうか！=À-ha-ha☆ Thật rộng lượng! Nếu vậy, tôi sẽ đứng đầu!
+相手は我々の権能を一個体で操ることができるのです。\nわざわざ分散して不利になる必要がありますか？=Thứ đó hoàn toàn kiểm soát tất cả sức mạnh của chúng ta.\nCó cần phải chia ra để rơi vào thế yếu không?
+やれやれ、倒すべき敵を前にしてのんびり歓談とは嘆かわしい。\n久々の強敵との戦い、私は好きなように動きますよ。=Than ôi, trước kẻ thù cần đánh bại mà còn trò chuyện vui vẻ thì thật đáng buồn. Đã lâu rồi tôi mới chiến đấu với thứ mạnh như vậy, nên tôi sẽ làm theo ý mình.
+フム。\nこの喧噪……懐かしさを覚えるな。=Hừm.\nTất cả tiếng ồn này... gợi nhớ quá.
+バッラバラじゃないこいつら！\nこんなんで大丈夫なの！？=Bọn này hoàn toàn chia rẽ!\nChúng ta sẽ ổn chứ?!
+誰に言ってる？=Cậu đang nói về ai?
+……ピッタリじゃないの、息。=...Đồng bộ hoàn toàn, hử.
+
+かつての彼らのごとく=Như Ngày Xưa
+ネネカ、包囲攻撃。\n逃げ場を無くしなさい。=Neneka, vây họ.\nĐừng để cơ hội trốn thoát nào.
+発射タイミングは任せますよ、真那。\n教授、跳躍対策を。=Tôi sẽ giao thời điểm bắn cho cô, Mana.\nGiáo sư, xin hãy xử lý bước nhảy.
+座標の揺らぎは測定済みですよ。\n晶、揺らぎの位置をオブジェクトで塞ぎなさい。=Tôi đã đo lường biến động tọa độ rồi. Akira, hãy đảm bảo tất cả đều bị chặn bằng vật thể.
+ほいほいっと。\n長老、サポートよろしく！=Đây cô.\nTrưởng lão, tôi trông cậy vào sự hỗ trợ của người!
+ウム、承った。\nクリスティーナ・モーガン、『絶対』への導きは必要か？=Vâng, đã rõ.\nChristina Morgan, cô có cần hướng dẫn cho đòn công kích tuyệt đối không?
+フッ、無用な心配だよ長老。\n当てることにかけて、ワタシの右に出る者はいない！=Heh, Trưởng lão đừng lo. Về việc đánh trúng, tôi không ai bằng!
+……命中。=...Trúng.
+よしっ！\nあとは少年、任せたよっ！=Được rồi! Phần còn lại giao cho cậu, cậu bé!
+
+七冠融合体=Sự Hòa Hợp Của Bảy Vương Miện
+
+---Part 2 Boss (SPECIAL)---
+
+アタシたちの力を一個体に、か。\n……絶対に倒さなきゃね。=Tất cả sức mạnh của chúng ta trong một thực thể, hử? ...Chúng ta chắc chắn phải hạ gục thứ này.
+同感ですが、あちらはそう易々と排除させてくれないようですよ。=Tôi đồng ý, nhưng dường như nó sẽ không để cậu loại bỏ dễ dàng.
+ワタシたちのシャドウか。\nまったく、焦らしてくれるものだ。=Bóng tối của chúng ta, hử?\nSự kiên nhẫn của tôi đã cạn kiệt.
+悪いけど、遊んでられる気分じゃないんだ。\n力づくで突破させてもらう……風穴だらけになる覚悟はしときなよ。=Xin lỗi, nhưng tôi không có tâm trạng chơi đùa. Tôi sẽ phá vỡ bằng sức mạnh... chuẩn bị bị thủng lỗ chỗ.
+クリス、晶の射線を開きます。\nサポートなさい。=Chris, dọn đường bắn của Akira. Hỗ trợ cô ấy.
+……分かったよ。\n今のアイツの前をうかつに横切れば、\nワタシにまで穴が開きかねない。=...Được. Nếu tôi vô tình cản đường cô ấy lúc này, tôi có thể bị dọn sạch luôn.
+『武装生成』。\n世界に──放て。=Sáng Tạo Vũ Khí.\nThả chúng lên thế giới này.
+おや？　この気配……\nクリス、前に出すぎないように。=Ồ? Cảm giác này... Chris, đừng lại gần hơn.
+ああ、どうも嫌な予兆を感じるな。=Ừ, tôi có cảm giác xấu về chuyện này.
+力を溜めこんでるみたいだ。\nそれなりにリソースを食う技を撃つつもりらしいね。=Có vẻ như nó đang tích lũy sức mạnh.\nCó vẻ như nó đang chuẩn bị phóng một kỹ năng tốn nhiều tài nguyên.
+力の蓄積を阻害しましょう。\n相手の大技を待って差し上げる必要はありません。=Hãy ngăn nó tích lũy.\nKhông có lý do gì để chờ đòn đặc biệt của kẻ thù.
+大技ごと断ち切ってこその戦いだと思うがな？=Cô nghĩ cách duy nhất để thắng là ngăn kẻ thù làm bất cứ điều gì đáng kể?
+壁になってくれるのなら大歓迎だよ？=Cô có thể làm bức tường cho chúng tôi nếu muốn, biết không?
+ふっ、オマエたちの肉壁など御免被る。\nワタシの愉しみはワタシだけのものだよ──ッ！=Heh, tôi không muốn làm bức tường thịt. Niềm vui chiến thắng là của tôi và chỉ của tôi!
+後編ボスバトル（SPECIAL）=Trận Đánh Boss Phần 2 (ĐẶC BIỆT)
+愉しいっ……愉しいなぁ！\n敵の強さもさることながら、\n七冠と肩を並べて力を振るう愉悦ときたら──！=Thật vui... Thật, thật vui! Và không chỉ vì sức mạnh của đối thủ, mà còn là niềm vui khi đứng vai kề vai và ra hết sức mình giữa các Bảy Vương Miện khác!
+私にそのような享楽的な感想はありませんが。\n相手が相手です。\n余計な探りは無しで全力を出させてもらいますよ。=Tôi không thể nói tôi chia sẻ thế giới quan khoái lạc đó, nhưng đối thủ là đối thủ. Tôi sẽ dốc hết sức mà không cần thử thách không cần thiết.
+本当は、周囲に与える影響とかも考えつつ、\nリスクを考えながら戦うのがアタシのスタイルだ。=Thành thật mà nói, thông thường tôi chiến đấu trong khi tính đến rủi ro và tác động đến những người xung quanh.
+……けどさ。=...Nhưng.
+悪いけど今は、出し惜しみなしで倒させてもらうよ。\n迷路の解法としちゃあ反則だけど──=Xin lỗi, tôi đã hết kiềm chế. \nĐó không phải cách giải mê cung, nhưng...
+──すべての壁を破壊して、曲がり路なしでお前を倒す！=...Tôi sẽ phá hủy mọi bức tường trên đường, và đánh bại cô mà không thực hiện một bước rẽ nào!
+後編ボスバトル（SPECIAL）をクリアしよう=Chiến thắng trận đánh boss thứ hai (ĐẶC BIỆT)
+後編ボスバトル（SPECIAL）を挑戦回数5回以内でクリアしよう=Chiến thắng trận đánh boss thứ hai (ĐẶC BIỆT) với tổng cộng 5 lần thử

@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で、業火を従え悪を討つ真夏の騎士団長。敵単体にダメージを与えつつ、攻撃力を高めるユニオンバーストや、火傷を与えるスキルを操り敵を焼き尽くす。=[Vật lý] Đội trưởng Hiệp sĩ Mùa hè, ở tiền tuyến và đánh bại cái ác bằng lửa địa ngục. Cô sử dụng Union Burst, gây sát thương lên một kẻ địch, tăng sức tấn công và đốt cháy kẻ địch với các kỹ năng gây Burn.
+
+##UB##
+サマーインフェルノ=Summer Inferno
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分の物理攻撃力と行動速度を大アップさせる。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước, và tăng mạnh sức tấn công vật lý và tốc độ hành động (160%) trong 18s.
+## Same as Tomo UB
+
+##S1##
+ヒートスパイク=Heat Spike
+目の前の敵１キャラに物理中ダメージを与え、さらに火傷状態にする。火傷のダメージは、このキャラの物理攻撃力に応じて増加する。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước, và đồng thời gây Burn. Sát thương Burn tăng theo sức tấn công vật lý.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây Burn lên kẻ địch, gây $2/s trong 7s.
+
+##S2##
+サンライトブレイク=Sunlight Break
+
+##EX##
+サマージャスティス=Summer Justice
+サマージャスティス+=Summer Justice+
+
+##S1+##
+ヒートスパイク+=Heat Spike+
+自分の物理攻撃力を小アップさせ、目の前の敵１キャラに物理大ダメージを与え、さらに火傷状態にする。火傷のダメージは、このキャラの物理攻撃力に応じて増加する。=Tăng nhẹ sức tấn công vật lý của bản thân, gây sát thương vật lý lớn lên kẻ địch phía trước, và đồng thời gây Burn. Sát thương Burn tăng theo sức tấn công vật lý.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする$"=►Tăng sức tấn công vật lý của bản thân thêm $1 trong 180s.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây Burn lên kẻ địch, gây $3/s trong 7s.
+
+##UE##
+サマーシュバリエソード=Summer Chevalier Sword
+
+##S2+##
+サマーシュバリエスーツ=Summer Chevalier Suit
+サンライトブレイク+=Sunlight Break+
+
+自分の物理攻撃力を特大アップし、目の前の敵１キャラに物理特大ダメージを与え、スタンさせる。対象の敵が火傷状態だった場合、さらにそのキャラの最大ＨＰに応じて最大200万の物理割合ダメージを与える。=Tăng mạnh sức tấn công vật lý của bản thân, gây sát thương vật lý cực lớn lên kẻ địch phía trước, và làm choáng chúng. Nếu kẻ địch mục tiêu đang trong trạng thái Burn, đồng thời gây thêm sát thương vật lý tỷ lệ lên tới 2,000,000 dựa trên HP tối đa của nhân vật đó.
+
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵が火傷状態の時、敵単体に最大200万の物理割合ダメージを与える$"=►Tăng sức tấn công vật lý của bản thân thêm $1.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây choáng lên một kẻ địch.\n►Nếu kẻ địch đang [Burned]: Gây sát thương vật lý tỷ lệ lên tới 2,000,000 lên một kẻ địch.

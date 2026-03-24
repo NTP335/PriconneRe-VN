@@ -1,0 +1,35 @@
+##Profile##
+【物理】後衛で毒を操る、ぼっちエルフの編入生。敵が毒や猛毒になっていると強化される攻撃スキルと、敵の物理防御力を下げるスキルで味方をサポートする。=[Lực Lượng] Một học sinh chuyển trường elf cô độc sử dụng chất độc chết người từ hậu phương. Kỹ năng của cô được tăng cường chống lại kẻ thù đã bị đầu độc, và cô cũng có thể hỗ trợ đồng đội bằng cách giảm phòng thủ vật lý của kẻ thù.
+
+##UB##
+ヴェノムブラスト=Venom Blast
+目の前の敵１キャラに物理大ダメージを与えて毒状態にし、さらに物理防御力を大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ thù phía trước, gây Độc và giảm mạnh phòng thủ vật lý của nó.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン(\d+)ダメージを与える毒状態にする$"=►Gây $1 sát thương vật lý lên kẻ thù.\n►Giảm phòng thủ vật lý của kẻ thù đi $2.\n►Gây Độc, gây $3 sát thương vật lý/giây trong 20 giây.
+
+##S1##
+スパイクサークル=Spiky Circle
+目の前の敵１キャラを中心に物理ダメージフィールドを展開する。対象が毒か猛毒状態だった場合、フィールドのダメージ量が増加する。=Triển khai một vùng hiệu ứng gây sát thương vật lý xung quanh kẻ thù phía trước. Sát thương vùng hiệu ứng tăng lên nếu mục tiêu đang bị ảnh hưởng bởi Độc hoặc Nọc độc.
+r:"^発動時の中心の敵が毒または猛毒状態の時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する発動時の中心の敵が毒または猛毒状態でない時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=Nếu mục tiêu không bị đầu độc hoặc nhiễm nọc độc:\n►Triển khai vùng hiệu ứng gây $2 sát thương vật lý/giây trong 8 giây.\n\nNếu mục tiêu bị đầu độc hoặc nhiễm nọc độc:\n►Triển khai vùng hiệu ứng gây $1 sát thương vật lý/giây trong 8 giây.
+
+##S2##
+アシッドヴァイン=Acid Vines
+目の前の敵１キャラの物理防御力を中ダウンさせる。対象が毒か猛毒状態だった場合、さらに対象に物理中ダメージを与える。=Giảm trung bình phòng thủ vật lý của kẻ thù. Nếu mục tiêu đang bị ảnh hưởng bởi Độc hoặc Nọc độc, bổ sung gây sát thương vật lý trung bình.
+r:"^敵単体の物理防御力を(\d+)ダウン対象が毒または猛毒状態の時、敵単体に(\d+)の物理ダメージ$"=►Giảm phòng thủ vật lý của kẻ thù đi $1 trong 12 giây.\n\nNếu mục tiêu bị đầu độc hoặc nhiễm nọc độc:\n►Gây $2 sát thương vật lý lên kẻ thù.
+
+##EX##
+ぼっちの矜持=Loner's Dignity
+ぼっちの矜持+=Loner's Dignity+
+
+##S1+##
+スパイクサークル+=Spiky Circle+
+目の前の敵１キャラを中心に物理ダメージフィールドと、物理防御力を小ダウンさせるフィールドを展開する。対象が毒か猛毒状態だった場合、フィールドのダメージ量が増加する。=Triển khai một vùng hiệu ứng gây sát thương vật lý xung quanh kẻ thù phía trước, và giảm nhẹ phòng thủ vật lý của chúng. Sát thương vùng hiệu ứng tăng lên nếu mục tiêu đang bị ảnh hưởng bởi Độc hoặc Nọc độc.
+r:"^発動時の中心の敵が毒または猛毒状態の時、毎秒(\d+)の物理ダメージを与えるフィールドを展開する発動時の中心の敵が毒または猛毒状態でない時、毎秒(\d+)の物理ダメージを与えるフィールドを展開するフィールド内の敵の物理防御力(\d+)ダウン$"=►Triển khai vùng hiệu ứng giảm phòng thủ vật lý đi $3 trong 8 giây.\n\nNếu mục tiêu không bị đầu độc hoặc nhiễm nọc độc:\n►Triển khai vùng hiệu ứng gây $2 sát thương vật lý/giây trong 8 giây.\n\nNếu mục tiêu bị đầu độc hoặc nhiễm nọc độc:\n►Triển khai vùng hiệu ứng gây $1 sát thương vật lý/giây trong 8 giây.
+
+##S2+##
+アシッドヴァイン+=Acid Vines+
+目の前の敵１キャラの物理防御力を大ダウンさせ、物理大ダメージを与え、自分のＴＰを大回復する。対象が毒か猛毒状態だった場合、さらに物理大ダメージを与える。=Giảm mạnh phòng thủ vật lý của kẻ thù, gây sát thương vật lý lớn lên nó, và hồi rất nhiều TP của bản thân. Nếu mục tiêu đang bị ảnh hưởng bởi Độc hoặc Nọc độc, bổ sung gây sát thương vật lý trung bình.
+r:"^敵単体の物理防御力を(\d+)ダウン対象が毒または猛毒状態の時、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分のＴＰを450回復$"=►Giảm phòng thủ vật lý của kẻ thù đi $1 trong 12 giây.\n►Nếu mục tiêu bị đầu độc hoặc nhiễm nọc độc, gây $2 sát thương vật lý lên kẻ thù.\n►Gây $3 sát thương vật lý lên kẻ thù.\n►Hồi TP của bản thân lên 450.
+
+##UE##
+なかよしの弓琴=Bow of Friendship
+アオイのなかよし手帳=Sổ tay Tình bạn của Aoi

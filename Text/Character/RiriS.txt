@@ -1,0 +1,30 @@
+##Profile##
+【物理】中衛で、夏の陽光のもと研鑽する妹系大和撫子。防御力アップに加えバリアやＨＰ回復で味方の守りを固めＴＰ回復や攻撃力ダウンをも巧みに操り、場を支配する。=[Vật Lý] Một Yamato Nadeshiko kiểu chị em, học tập dưới ánh mặt trời mùa hè ở tuyến giữa. Cô ấy kiểm soát khu vực bằng cách tăng cường phòng thủ cho đội với buff P/M.DEF, khiên, và hồi HP, đồng thời khéo léo cung cấp hồi TP và debuff P/M.ATK.
+
+##UB##
+秘剣手習い・西瓜断ち=Thực hành Bí kiếm: Chém Dưa Hấu
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップして、ＨＰを小回復するフィールドを展開する。さらに目の前の敵１キャラに物理特大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。=Tăng mạnh tấn công vật lý của đồng đội trong phạm vi, và triển khai vùng hồi HP. Ngoài ra gây sát thương vật lý cực lớn cho một kẻ thù phía trước và giảm mạnh tấn công vật lý và ma thuật của nó.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン$"=►Tăng P.ATK cho đồng minh trong phạm vi 250 lên $1 trong 18s.\n►Triển khai một vùng phủ 360 độ, hồi HP cho đồng minh $2/giây trong 18s.\n►Gây $3 sát thương vật lý (P.DMG) cho kẻ địch.\n►Giảm P.ATK của kẻ địch đi $4 trong 18s.\n►Giảm M.ATK của kẻ địch đi $5 trong 18s.
+
+##S1##
+砂上戯城=Xây Lâu Đài Cát
+自分を中心とした範囲内の味方すべての物理防御力と魔法防御力を中アップする。【フィールド展開中】このスキルの効果量が上昇し、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップする。=Tăng vừa phải P.DEF và M.DEF cho đồng minh trong phạm vi 250. Nếu vùng hiệu quả đang hoạt động, hiệu ứng P.DEF và M.DEF tăng lên, tăng mạnh P.ATK cho đồng minh trong phạm vi 250 và tăng nhẹ P.CRIT DMG của họ.
+r:"^フィールド展開中、範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップフィールド展開中、範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃クリティカル時のダメージを5％アップ$"=Nếu vùng hiệu quả chưa hoạt động:\n►Tăng P/M.DEF cho đồng minh trong phạm vi lên $2 trong 12s.\n\nNếu vùng hiệu quả đang hoạt động:\n►Tăng P/M.DEF cho đồng minh trong phạm vi lên $1 trong 12s.\n►Tăng P.ATK cho đồng minh trong phạm vi lên $5 trong 12s.\n►Tăng P.CRIT DMG cho đồng minh trong phạm vi lên 5% trong 12s.
+
+##S2##
+潮騒虹橋=Âm Thanh Sóng: Cầu Cầu Vồng
+自分を中心とした範囲内の味方すべてに物理/魔法無効バリアを展開し、ＨＰとＴＰを小回復する。【フィールド展開中】バリアの無効ダメージ量が上昇し、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップする。=Triển khai Màn Chắn trên đồng minh trong phạm vi 250, chống lại sát thương vật lý/phép thuật (P/M.DMG), và hồi nhẹ HP và TP cho đồng minh trong phạm vi 250. Nếu vùng hiệu quả đang hoạt động, sát thương P/M.DMG bị Màn Chắn chống lại tăng lên, tăng mạnh P.ATK cho đồng minh trong phạm vi 250 và tăng nhẹ P.CRIT DMG của họ.
+r:"^フィールド展開中、(\d+)ダメージ分の物理魔法無効バリアを展開する(\d+)ダメージ分の物理魔法無効バリアを展開する範囲内の味方のＨＰを(\d+)回復範囲内の味方のＴＰを100回復フィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃クリティカル時のダメージを5％アップ$"=►Hồi TP cho đồng minh trong phạm vi lên 100.\n►Hồi HP cho đồng minh trong phạm vi lên $3.\nNếu vùng hiệu quả chưa hoạt động:\n►Triển khai Màn Chắn trên đồng minh trong phạm vi, chống lại $2 sát thương vật lý/phép thuật (P/M.DMG) trong 12s.\nNếu vùng hiệu quả đang hoạt động:\n►Triển khai Màn Chắn trên đồng minh trong phạm vi, chống lại $1 sát thương vật lý/phép thuật (P/M.DMG) trong 12s.\n►Tăng P.ATK cho đồng minh trong phạm vi lên $4 trong 12s.\n►Tăng P.CRIT DMG cho đồng minh trong phạm vi lên 5% trong 12s.
+
+##EX##
+波打ち際の令嬢=Nữ Chủ Biển
+波打ち際の令嬢+=Nữ Chủ Biển+
+
+
+
+##S1+##
+砂上戯城+=Xây Lâu Đài Cát+
+木刀・西瓜割=Kiếm Gỗ・Chém Dưa Hấu
+自分を中心とした範囲内の味方すべての物理防御力と魔法防御力を中アップさせる。【フィールド展開中】このスキルの効果量が上昇し、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせる。=Tăng vừa phải P.DEF và M.DEF cho tất cả đồng minh trong phạm vi xung quanh bản thân. Trong trạng thái [Vùng Hiệu Quả Đang Hoạt Động], hiệu ứng kỹ năng này tăng lên, tăng mạnh P.ATK và tăng nhẹ P.CRIT DMG cho tất cả đồng minh trong phạm vi xung quanh bản thân.
+
+r:"^フィールド展開中、範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップフィールド展開中、範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップフィールド展開中、範囲内の味方の物理攻撃力を(\d+)アップフィールド展開中、範囲内の味方の物理クリダメを12％アップ$"=►Tăng P.DEF của đồng minh trong phạm vi lên $2.\n►Tăng M.DEF của đồng minh trong phạm vi lên $4.\nKhi vùng hiệu quả đang hoạt động:\n►Tăng P.DEF của đồng minh trong phạm vi lên $1.\n►Tăng M.DEF của đồng minh trong phạm vi lên $3.\n►Tăng P.ATK của đồng minh trong phạm vi lên $5.\n►Tăng P.CRIT DMG của đồng minh trong phạm vi lên 12%.

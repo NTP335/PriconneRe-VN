@@ -1,0 +1,31 @@
+---Other---
+みんなのゲームテーブル=Bàn Chơi Của Mọi Người
+購入価格=Giá
+素材購入=Mua đồ
+エピソード=Tập
+エピソードリスト=Danh Sách Các Tập
+ゲームテーブルへ=Đến bàn chơi
+販売開始までお待ちください。=Sắp ra mắt.
+新しく追加されたミニゲームがあります。=Có một minigame mới được thêm vào.
+
+累計獲得スコア=Tổng điểm
+r:"^スコアを累計で(\d+)獲得しよう$"=Đạt tổng điểm là $1
+
+楽しいミニゲームをご紹介！\nあなたはどのミニゲームで\n遊びますか？=Dưới đây là một số Mini Game vui vẻ! Cậu sẽ chơi cái nào?
+様々なミニゲームをご用意してい\nますよ！\nどのミニゲームで遊びますか？=Chúng tôi có nhiều loại Mini Games để cậu chơi!
+
+---Not unlocked---
+こちらは10,000ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=Mua game này với giá 10.000 Rupies để có thể chơi nó!
+
+---Purchase confirmation---
+[3C404E]ルピ×[FFBB00,CE4F00]10,000[-]を消費して\n以下のミニゲームを購入しますか？[-]=[3C404E]Chi [FFBB00,CE4F00]10.000[-] Rupies để mua minigame sau?[-]
+
+---Purchase/unlock popup window---
+---(Note from Farleena: I had most already purchased by the time of translating, so i can't get those anymore :( )---
+お兄ちゃん争奪！\nどっちのチョコがおいしいでSHOW\nを購入しました。=[3C404E]Đã mua [FFBB00,CE4F00]Trận Chiến Giành Anh Hai! - Cuộc Đấu Tranh Cho Quyền Thống Trị Sô-cô-la![-]\n[3C404E]Sô-cô-la của ai sẽ ngon hơn?[-]
+駆けろ常夏！\nアルティメットビーチフラッグス\nを購入しました。=[3C404E]Lễ hội Mùa Hè, chạy đi!\nĐã mua [FFBB00,CE4F00]Chạy Về Mùa Hè Vĩnh Cửu! - Cờ Biển Tối Thượng[-]
+
+
+---Clan chat post---
+結果をクランチャットに投稿しますか？=Đăng kết quả vào Trò Chuyện Bang Hội chứ?
+クランチャット投稿確認=Xác Nhận Đăng Bài Trong Trò Chuyện Bang Hội

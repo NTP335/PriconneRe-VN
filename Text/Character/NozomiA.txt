@@ -1,0 +1,21 @@
+##Profile##
+【魔法】後衛で、希望を錬成するアルケミストアイドル。【錬金素材】から【パフューム】を創り、ダメージに加えＴＰ回復や攻撃支援能力を向上させて勝利の香りを運ぶ。=[Phép Thuật] Một thần tượng alchemist hậu phương đúc hy vọng. Cô tạo ra [Nước Hoa] từ [Vật Liệu Phép Thuật], vừa gây sát thương vừa tăng khả năng phục hồi TP và hỗ trợ tấn công, lan tỏa mùi chiến thắng.
+
+##UB##
+アルケミー・オンステージ=Thuật Alchemy Trên Sân Khấu
+味方全体の魔法攻撃力と魔法クリティカルを特大アップし、目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンする。【錬金素材】を３つ以上所持している場合、３つ消費して自分の魔法攻撃力を特大アップし、【パフューム】を１つ獲得する。【パフューム】は最大４まで獲得できる。=Tăng cực kỳ M.ATK và Tỷ Lệ Chí Mạng M. của tất cả đồng đội, gây sát thương phép lớn lên kẻ địch phía trước, và giảm M.DEF của nó một chút. Nếu ANozomi có 3+ tầng [Vật Liệu Phép Thuật], thêm tiêu hao 3 tầng, tăng cực kỳ M.ATK, và nhận 1 tầng [Nước Hoa], tối đa 4.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを180アップ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ錬金素材を３つ消費してパフュームを１つ錬成$"=►Tăng M.ATK của tất cả đồng đội theo $1 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng M. của tất cả đồng đội theo 180 trong 18s.\n►Gây $2 sát thương phép lên kẻ địch.\n►Giảm M.DEF của kẻ địch theo $3 trong 18s.\nNếu ANozomi có 3+ tầng [Vật Liệu Phép Thuật]:\n►Tiêu hao 3 tầng [Vật Liệu Phép Thuật].\n►Tăng M.ATK của bản thân theo $4 trong 180s.\n►Nhận 1 tầng [Nước Hoa].
+
+##S1##
+エレメントエール=Cổ Vũ Nguyên Tố
+味方全体の魔法攻撃力を大アップさせ、ＴＰを小回復する。さらに、自分の魔法攻撃力を中アップ、ＴＰを小回復させ、【錬金素材】を１つ獲得する。【錬金素材】は最大５まで獲得できる。このスキルの効果量は【パフューム】の数に応じて上昇する。=Tăng rất mạnh M.ATK của tất cả đồng đội và phục hồi TP của họ một chút. Đồng thời tăng M.ATK của bản thân vừa phải, phục hồi TP của bản thân một chút, và nhận 1 tầng [Vật Liệu Phép Thuật], tối đa 5. Hiệu quả kỹ năng tăng theo số tầng [Nước Hoa].
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰを30回復自分の魔法攻撃力を(\d+)アップ自分のＴＰを40回復錬金素材を１つ獲得$"=►Tăng M.ATK của tất cả đồng đội theo $1 (+$1×[Nước Hoa]) trong 12s.\n►Phục hồi TP của tất cả đồng đội 30 (+10×[Nước Hoa]).\n►Tăng M.ATK của bản thân theo $2 (+$2×[Nước Hoa]) trong 12s.\n►Phục hồi TP của bản thân 40 (+20×[Nước Hoa]).\n►Nhận 1 tầng [Vật Liệu Phép Thuật].
+
+##S2##
+ミスティーマテリアル=Vật Liệu Sương Mù
+目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせ、【錬金素材】を１つ獲得する。【錬金素材】は最大５まで獲得できる。このスキルの効果量は【パフューム】の数に応じて上昇する。=Gây sát thương phép lớn lên kẻ địch phía trước, giảm M.DEF của nó một chút, tăng sát thương Chí Mạng Phép mà nó nhận, và nhận 1 tầng [Vật Liệu Phép Thuật], tối đa 5. Hiệu quả kỹ năng tăng theo số tầng [Nước Hoa].
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体の被クリダメを5％アップ錬金素材を１つ獲得$"=►Gây $1 (+0.5×$1×[Nước Hoa]) sát thương phép lên kẻ địch.\n►Giảm M.DEF của kẻ địch theo $2 (+0.2×$2×[Nước Hoa]) trong 12s.\n►Tăng sát thương Chí Mạng Phép mà kẻ địch nhận theo 5% (+1%×[Nước Hoa]) trong 12s.\n►Nhận 1 tầng [Vật Liệu Phép Thuật].
+
+##EX##
+フレグランススマイル=Nụ Cười Hương Thơm
+フレグランススマイル+=Nụ Cười Hương Thơm+

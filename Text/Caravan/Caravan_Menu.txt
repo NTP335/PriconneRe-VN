@@ -1,0 +1,204 @@
+キャラバン=Đoàn Caravan
+ボーナス一覧=Danh Sách Thưởng
+経過ターン=Lượt Đã Trôi Qua
+
+シーズン最速到達ターン=Lượt nhanh nhất của mùa
+シーズン最速到達記録=Kỷ Lục Mùa Nhanh Nhất
+
+グルメチェイサー号=Kẻ Đuổi Theo Ẩm Thực
+バンディシャーク号=Bandyshark
+追加ボーナス発生中!=+Đang áp dụng thưởng!
+
+バンディシャーク号との距離=Khoảng Cách Bandyshark
+目標到着ボーナス=Thưởng đến đích mục tiêu
+到着までにかかったターン数=Tổng Số Lượt
+ライバルに勝利=Đã Thắng
+r:"^(\d+)ターン経過$"=$1 Lượt đã trôi qua
+r:"^(\d+)ターン休み$"=$1 Lượt nghỉ
+練習する=Thực Hành
+練習中=Trong lúc thực hành
+ライバル=Đối Thủ
+ライバル勝利ボーナス=Thưởng chiến thắng đối thủ
+区間スキップ=Bỏ Qua Khu Vực
+シーズン中、チェックポイント到達までにかかった\n最速ターン数に応じてボーナスが獲得できます！=Trong mùa, bạn có thể kiếm thưởng dựa trên\nsố lượt nhanh nhất để đến một trạm kiểm soát!
+
+r:"^ダイスを(\d+)個入手した。$"=Đã nhận được xúc xắc $1.
+\nマイルを支払って\n「ちかみち」を開通させます。\nよろしいですか？=\nTrả Công Trạng để mở Lối Đường Tắt.\nBạn có chắc không?
+15ターン以内にチェックポイントに到達すると解放されます。=Sẽ được mở khóa nếu bạn đến trạm kiểm soát trong vòng 15 lượt.
+[FF7C4E,D62146]1[-][3C404E]ターン[-]=[FF7C4E,D62146]1[-][3C404E] Lượt[-]
+r:"^\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]ターン\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Lượt[-]
+チェックポイント=Trạm
+[3C404E]あと [-][FF7C4E,D62146]1[-][3C404E]マス[-]=[FF7C4E,D62146]1[-][3C404E] ô còn lại[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]マス\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] ô còn lại[-]
+シーズン切替=Chuyển mùa
+[3C404E]あと [-][FF7C4E,D62146]1[-][3C404E]日[-]=[FF7C4E,D62146]1[-][3C404E] ngày còn lại[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]日\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] ngày còn lại[-]
+
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]時間\[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]分\[-\]$"=[FF7C4E,D62146]$1[-][3C404E]h[-][FF7C4E,D62146]$2[-][3C404E] phút còn lại[-]
+r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]分\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] phút còn lại[-]
+発動中の効果=Hiệu ứng khi kích hoạt
+サイコロを振る=Lăn xúc xắc
+料理を食べる=Ăn món ăn
+使用済=Đã dùng
+本日の消費スタミナ=Sử dụng thể lực
+[FF7C4E,D62146]本日分は獲得済みです[-]=[FF7C4E,D62146]Đã đạt mục tiêu hàng ngày[-]
+追加サイコロをゲット！=Xúc xắc thêm!
+追加ダイスをゲット！=Nhận thêm xúc xắc!
+ダイスを所持していません。=Không còn xúc xắc.
+トレジャー=Kho báu
+現在位置に戻る=Quay về
+チェックポイントまで=Đến trạm
+
+ダイスを振る=Lăn xúc xắc
+シーズン終了=Kết thúc mùa
+料理を所持していません。=Bạn không có món ăn nào.
+料理は1ターンに1品までしか食べられません。=Bạn chỉ có thể ăn một món ăn mỗi lượt.
+1ターン以内にギルド管理協会出張所へ到着=Còn 1 lượt nữa đến chi nhánh GMA.
+r:"^(\d+)ターン以内にギルド管理協会出張所へ到着$"=$1 lượt nữa đến chi nhánh GMA.
+ダイスを１個入手した。=Đã nhận xúc xắc x1.
+残り99ターン=Còn 99 lượt
+
+---Dish overwrite---
+上書き前効果=Hiệu ứng hiện tại
+上書き後効果=Hiệu ứng mới
+この料理を食べると発動中の効果が上書きされます。=Ăn món ăn này sẽ ghi đè hiệu ứng của món trước.
+
+---Bonus List---
+r:"^(\d+)ターン以内に到達$"=Đến trong vòng $1 lượt
+r:"^(\d+)ターンで到達$"=Đến trong vòng $1 lượt
+r:"^レベル(\d)$"=Cấp $1
+ターン数ボーナス=Thưởng lượt
+一定のターン以内にチェックポイントへ到達すると\nボーナスが獲得できます！=Nếu bạn đến trạm trong vòng một số lượt nhất định, bạn sẽ nhận thưởng!
+
+---Event bonus---
+次にミニゲームに挑戦した際の\n獲\r得マイルが100%アップする。=Lần sau bạn thử thách Minigame, số Miles thưởng của bạn sẽ tăng 100%.
+次にマイルマスに止まった際の\n獲得マイルが100%アップする。=Lần sau bạn dừng trên ô Mile, bạn sẽ nhận thêm 100% Miles.
+次のターン数のカウントを\nスキッ\rプする。=Bỏ qua lượt đếm tiếp theo.
+
+---GMA/Checkpoint---
+以下のアイテムを獲得しました。=Đã nhận các vật phẩm sau:
+ボーナスレベル=Cấp thưởng
+到達までにかかったターン数=Số lượt cần để đến trạm
+
+---Sell Dishes---
+sr:"^(?:\[3B3F4D\])?(.+)を売却して\n?\[-\]\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]マイルを獲得しました。(?:\[-\])?$"=[3B3F4D]Đã bán $1 và kiếm được [FFBB00,CE4F00]$2[-] Miles[-]
+
+---Lottery---
+福引券=Vé số
+福引結果=Kết quả xổ số
+所持していた福引券の抽選を行いました。=Các vé số đã được rút.
+
+---Tile---
+福引券はチェックポイント到達時に抽選が行われます。=Vé số sẽ được rút tại trạm.
+福引券を獲得しました。=Đã nhận vé số.
+福引券獲得=Đã sở hữu một vé số
+ショップマス=Ô cửa hàng
+
+---Appraisal---
+鑑定結果=Kết quả Đánh giá
+合計獲得コイン=Tiền nhận được
+以下の通りトレジャーを清算しました。=Đã đánh giá Kho báu sau:
+以下の通り、トレジャーをお引き受けしました。=Đã đánh giá Kho báu sau:
+平凡なトレジャー=Kho báu Bình thường
+貴重なトレジャー=Kho báu Quý giá
+至高のトレジャー=Kho báu Tối thượng
+
+---Treasure List---
+所持トレジャー一覧=Danh sách Kho báu Có sở hữu
+トレジャーを所持していません。=Không có Kho báu nào trong tay.
+現在トレジャーを所持していません。=Hiện tại bạn không có kho báu nào.
+
+---Shop at Map---
+マイルショップ=Cửa hàng Mile
+マップに戻る=Quay về Bản đồ
+売却する=Bán
+まとめて売却する=Bán tất cả
+所持マイル=Mile Có
+必要マイル=Mile Cần
+合計マイル=Tổng Mile
+売却メニュー=Menu Bán hàng
+購入メニュー=Menu Mua hàng
+売却できるアイテムがありません。=Không có vật phẩm nào để bán.
+これ以上売却できません。=Không thể bán thêm được nữa.
+これ以上購入できません。=Không thể mua thêm được nữa.
+マイルでアイテムを購入することができます。=Bạn có thể mua vật phẩm bằng Mile.
+料理を売却してマイルを得ることができます。=Bạn có thể kiếm được Mile bằng cách bán Món ăn.
+売却確認=Xác nhận Bán
+売却完了=Đã bán thành công
+r:"^\[3B3F4D\]以下の料理を売却して\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]マイルを獲得しますか\?\[-\]$"=[3B3F4D]Bán Món ăn sau đây để lấy[-][FFBB00,CE4F00] $1[-][3B3F4D] Mile?[-]
+r:"^\[3B3F4D\]以下の料理を売却して\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]マイルを獲得しました。\[-\]$"=[3B3F4D]Đã bán Món ăn sau đây lấy được[-][FFBB00,CE4F00] $1[-][3B3F4D] Mile.[-]
+
+現在マイルショップが開いています。\nダイスまたは料理を使用した後は利用できません。\n\nよろしいですか？=Cửa hàng Mile hiện đang mở.\nNó sẽ không khả dụng\nsau khi sử dụng Xúc xắc hoặc Món ăn.\nTiếp tục?
+
+料理=Món ăn
+特殊系=Đặc biệt
+補助系=Hỗ trợ
+移動系=Di chuyển
+サブ=Phụ
+サブ効果=Hiệu ứng phụ
+メイン効果=Hiệu ứng chính
+料理詳細=Chi tiết Món ăn
+獲得料理=Món ăn Đã nhận
+以下の料理を獲得しました。=Đã nhận được các Món ăn sau:
+食べる=Ăn
+r:"^料理所持数 ([0-9/]+)$"=Số Món ăn Có sở hữu: $1
+食べる料理を選択してください。=Chọn một Món ăn để ăn.
+所持している料理=Món ăn Đang có
+食事確認=Xác nhận Bữa ăn
+食事済=Đã ăn
+以下の料理を食べます。よろしいですか？=Ăn Món ăn sau?
+ワカナの施し=Lòng từ thiện của Wakana
+敗北=Đánh bại
+
+移動確認=Đã xác nhận di chuyển
+このマスに移動しますか？=Di chuyển đến ô này?
+立ち去る=Rời đi
+「ちかみち」を開通させずに立ち去ります。\nよろしいですか？\n\n=Bạn sẽ rời đi mà không mở lối tắt.\nBạn có chắc không?
+
+立ち去るを選ぶとイベントが終了します。\n終了後に選択し直すことはできません。=Nếu bạn chọn rời đi, sự kiện sẽ kết thúc.\nBạn sẽ không thể chọn lại sau khi sự kiện kết thúc.
+r:"^(\d)ターンの間ターン数のカウントをスキップする。$"=Trong $1 lượt, lượt không được tính.
+r:"^料理が所持上限を超えています。\n所持数が(\d+)個以下になるように料理を売却してください。$"=Bạn đã vượt quá số lượng món ăn tối đa có thể sở hữu.\nVui lòng bán món ăn cho đến khi còn $1 hoặc ít hơn.
+
+料理所持数上限=Đã Đạt Số Món Ăn Tối Đa
+料理が所持上限に達しています。\n新たに料理を入手した場合、超過分の売却が必要です。\n\nこのままダイスを振ってもよろしいですか？=Kho đồ ăn của bạn hiện đã đầy.\nNếu có thêm món ăn mới, bạn sẽ cần bán những món thừa.\nVẫn muốn tung xúc xắc?
+購入に必要なマイルが不足しています。=Bạn không có đủ dặm.
+食べられる料理を所持していません。=Bạn không có đồ ăn nào để ăn.
+所持数がいっぱいです。売却する料理を選んでください。=Kho đầy. Chọn món ăn để bán.
+r:"^\[3C404E\]料理所持数 \[-\]\[FF7C4E,D62146\]([0-9,]+)\[-\]\[3C404E\]/([0-9,]+)\[-\]$"=[3C404E]Món Ăn Đang Có:[-][FF7C4E,D62146] $1[-][3C404E]/$2[-]
+
+現在マイルガチャが開いています。\nダイスまたは料理を使用した後は利用できません。\n\nよろしいですか？=Máy Gacha Dặm hiện đang mở.\nBạn không thể sử dụng sau khi dùng xúc xắc hoặc ăn đồ ăn.\n\nTiếp tục?
+
+バンディ・シスターズに差をつけて先に\nチェックポイントへ到達するとボーナスが獲得できます!=Vượt lên trước các chị em Bandy\nvà đến checkpoint trước để nhận thưởng!
+---New Season---
+
+r:"^\[FF7C4E,D62146\]このコインの使用期限は([0-9/ :]+)までです。\[-\]$"=[FF7C4E,D62146]Đồng xu này có thể dùng đến $1.[-]
+r:"^キャラバンコイン(?:（シーズン(\d)）)?ｘ(\d+)$"=Đồng Xu Caravan (Mùa $1)ｘ$2
+
+
+まとめて３個= Tung Ba Lần
+
+シーズン切り替わり=Mùa Caravan Mới
+新シーズンが始まったため、\n所持していたトレジャーをコインに変換しました。=Vì mùa mới đã bắt đầu,\ntất kho báu của bạn đã được đổi thành đồng xu.
+------
+所持ダイス=Xúc Xắc
+r:"^ボーナスレベル(\d+)$"=Cấp thưởng $1
+区間スキップを実行した場合、出現中の仲間効果、\nおよび発動中の料理効果、マス効果は消失します。\nまた、ライバル出現時は勝敗が無効となります。=Nếu bạn bỏ qua di chuyển, mọi hiệu ứng đồng minh đang hoạt động,\nhiệu ứng món ăn và hiệu ứng ô đều sẽ biến mất. \nNgoài ra, nếu một đối thủ xuất hiện,\nkết quả trận đấu sẽ bị hủy bỏ.
+r:"^(?:\[3C404E\])?ダイスを\[FFBB00\,CE4F00\](\d+)個\[-\]使って区間スキップを実行しますか？(?:\[3C404E\])?(?:\[-\])?$"=[3C404E]Dùng [FFBB00,CE4F00]$1 xúc xắc[-] để bỏ qua di chuyển?
+シーズン最速到達ターン数=Số Lượt Nhanh Nhất Trong Mùa
+区間スキップの実行にはダイスが15個必要です。=Cần 15 xúc xắc để bỏ qua di chuyển.
+---Tutorial Kokkoro---
+皆さま、オニギリさまと共にグルメチェイサー号で冒険に出発\nいたしましょう。ダイスを振って出た目の数だけマップを進み、\nカリンさまの待つギルド管理協会出張所を目指してくださいまし。=Mọi người, hãy cùng nhau bắt đầu cuộc phiêu lưu trên tàu Gourmet Chaser với Onigiri-sama. Tung xúc xắc và di chuyển trên bản đồ, mục tiêu của chúng ta là văn phòng Hiệp hội Quản lý Guild, nơi Lady Karin đang chờ chúng ta.
+ギルド管理協会出張所では集めたトレジャーをキャラバンコインに換金し\nてくださいます。また、到達までのターン数が少ないほどボーナスを獲得\nできるようです。コインはショップでアイテムと交換いたしましょう。=Tại chi nhánh văn phòng Hiệp hội Quản lý Guild, bạn có thể đổi kho báu chúng ta thu thập được lấy Đồng Xu Caravan. Ngoài ra, càng ít lượt để đến đó, thưởng chúng ta nhận được càng lớn. Hãy thu thập xu và đổi chúng lấy vật phẩm tại cửa hàng.
+料理からは、冒険を有利に進める効果が得られますよ。1ターンに1品\nまで召し上がることができ、同じカテゴリーの効果は重複いたしません。\n…あぁっペコリーヌさま、おかわりは次のターンまで我慢でございます。=Bạn có thể ăn tối đa một món ăn mỗi lượt để nhận hiệu ứng có lợi, tuy nhiên, hiệu ứng từ các món ăn cùng loại sẽ không cộng dồn. ...À, Lady Pecorine, xin hãy đợi đến lượt tiếp theo để ăn thêm.
+道中には様々なマスがございます。「マイルマス」で集めたマイルは料理\nやトレジャーの購入にお使いいただけますよ。「トレジャーマス」や\n「料理マス」ではスロットを回して出たアイテムを獲得できるとか。=Có nhiều loại ô khác nhau bạn có thể dừng chân. Bạn có thể dùng Dặm thu được từ Ô Dặm để mua Món ăn và Kho báu. Tại Ô Kho báu và Ô Món ăn, bạn có thể quay bánh xe để nhận vật phẩm.
+「ショップマス」ではマイルを用いたアイテムの購入が可能です。\n「イベントマス」では嬉しい効果を得られるイベントが起きるようです。\n「移動マス」に止まると、そこからさらに先へ進めるのでございますね。=Bạn có thể mua vật phẩm bằng Dặm tại Ô Cửa hàng. Tại Ô Sự kiện, nhiều điều khác nhau có thể xảy ra và mang lại hiệu ứng hữu ích. Nếu bạn dừng tại Ô Di chuyển, bạn sẽ tiếp tục di chuyển.
+「ミニゲームマス」に止まったら、ミニゲームに挑戦いたしましょう。\n結果に応じた報酬が獲得できるのですね。「福引券マス」は福引券を入手\nでき、「ガチャマス」ではマイルガチャが回せるようですよ、主さま。=Bạn có thể chơi Minigame khi dừng tại Ô Minigame, và bạn sẽ nhận phần thưởng dựa trên thành tích. Ô Vé Số cho phép bạn nhận Vé Số, và Ô Gacha cho phép bạn quay Máy Gacha Dặm, thưa ngài.
+
+1～14マス差で勝利=Thắng cách từ một đến mười bốn ô
+15マス差以上で勝利=Thắng cách hơn 15 ô
+
+
+「ちかみちマス」でマイルを支払うと、チェックポイントまでの短縮\nルートが開かれるようです。「パーティマス」に止まった翌ターンは最大\n３品まで料理を召し上がれますよ。組み合わせが重要でございますね。=Nếu bạn trả dặm tại Ô Lối tắt, một đường đi nhanh hơn đến checkpoint sẽ được mở. Sau khi dừng tại Ô Tiệc, bạn có thể thưởng thức tối đa ba món ăn ở lượt tiếp theo. Rất quan trọng là chúng ta phải tận dụng hai điểm này.
+ダイスを一度に３個振ることができる「まとめて３個」モードが\n新たに追加されました。お手持ちのダイスを用いて、効率的に冒険を\n進めることができるようでございます。ぜひご活用くださいまし。=Một chế độ mới: Tung Ba Lần, đã được thêm vào, cho phép bạn tung ba xúc xắc cùng lúc. Điều này sẽ giúp chúng ta tiến xa hơn trong cuộc phiêu lưu một cách hiệu quả hơn bằng cách sử dụng xúc xắc của bạn. Xin hãy tận dụng nó.
+「まとめて３個」モードの使用中は、マス効果の発動頻度や出現する\nお仲間の制限など、ダイスを1個ずつ振って遊ぶときとは異なる点が\nあるようです。詳細は「ヘルプ」をご覧ください、主さま。=Khi sử dụng chế độ Tung Ba Lần, tần suất hiệu ứng Ô và sự xuất hiện của đồng minh có thể khác với khi bạn tung một xúc xắc mỗi lần. Chi tiết, vui lòng kiểm tra phần Hướng dẫn, thưa ngài.
+シーズン中、一度でも規定ターン以内にチェックポイントへ到達すると\n「区間スキップ」が解放されますよ。スキップを実行すると、\nそのシーズン中の最速ターン数に応じて報酬がもらえるようですね。=Đạt checkpoint trong một số lượt chỉ định trong mùa sẽ mở khóa Bỏ qua Di chuyển. Nếu bạn thực hiện Bỏ qua Di chuyển, bạn sẽ được thưởng dựa trên kỷ lục lượt của bạn trong mùa hiện tại.

@@ -1,0 +1,6 @@
+---St. Theresa Girls' Academy Holy School Festival---
+聖テレサ女学院 聖学祭会場=Địa điểm Lễ hội Học viện Nữ sinh Thánh Theresa
+
+r:"^聖テレサ女学院 聖学祭会場([0-9\-\(\)\w （）]*)$"=Địa điểm Lễ hội Thánh Theresa $1
+聖学祭\nプログラム=Chương trình Lễ hội Thánh Theresa
+名もなき芸術=Nghệ thuật Vô danh

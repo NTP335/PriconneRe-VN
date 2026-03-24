@@ -1,0 +1,18 @@
+Vampy's Birthday
+
+こんばんは♪　けんぞくぅ！\nえへへー♪　ヴァンピィちゃん、来ちゃいましたー=Chào buổi tối, Bloodkin♪ Ehehe~ Vampy-chan... đã đến rồi!
+えっ！　ありがとー！\nさすが、ヴァンピィちゃんのけんぞく！\nご主人様の大事な日は、ちゃーんと覚えてるの。いーこ、いーこ♪=Hả?! Cảm ơn cậu! Thật không ngoài sự mong đợi của Bloodkin! Cậu nhớ ngày đặc biệt của Master một cách hoàn hảo. Cậu con tốt, cậu con tốt♪
+わぁー♪\nもこもこの、かわいいおうち。\nベスちゃんのおうちにぴったり！=Ôi♪ Ngôi nhà xinh xắn, mềm mại thế này. Hoàn hảo cho Beth-chan!
+これがあればベスちゃんと、どこでもお出かけできるね。\nもちろん、けんぞくも！　さんにんいっしょだよ！=Với cái này, mình có thể đưa Beth-chan đi bất cứ đâu. Và tất nhiên, cả cậu nữa, Bloodkin! Ba chúng ta cùng nhau!
+えへへ。ヴァンピィちゃんのけんぞくは、ゆーしゅーです。\nヴァンピィちゃんのほしいもの、なんでもわかっちゃう！=Eheheh. Bloodkin của Vampy-chan thật xuất sắc quá. Cậu luôn biết chính xác Vampy-chan muốn gì!
+じゃーねー\nどうしてヴァンピィちゃん、お誕生日にここに来たかわかる？=Nhân tiện... cậu có biết tại sao Vampy-chan lại đến đây trong ngày sinh nhật không?
+それはね。お誕生日だから、一番会いたいひとに会いにきたの！\nけんぞくのことだよ。=Là vì... hôm nay là sinh nhật mình, nên mình đến để gặp người mình muốn gặp nhất. Là cậu, Bloodkin của mình.
+けんぞくがけんぞくになる前は、ずっとずーっと、長いあいだ、\nお誕生日にやりたいことも、あんまりなかったけど。=Trước khi cậu trở thành Bloodkin của mình, trong một thời gian rất, rất dài... mình chẳng muốn làm gì cả vào ngày sinh nhật.
+でもいまは、けんぞくとの時間が、一番ほしいプレゼントなの！=Nhưng giờ đây, món quà mình muốn nhất... là thời gian bên cậu, Bloodkin của mình!
+うん。これから朝まで、絵本を読んで、お菓子を食べて、お歌を歌って、\nそれから、ゲームしよ♪\nだって、けんぞくなんだから。ずっとずーっと──=Ừ. Từ giờ cho đến sáng, hãy đọc sách tranh, ăn bánh kẹo, hát bài hát... rồi chơi game nhé♪ Vì cậu là Bloodkin của mình. Mãi mãi...
+
+Player Prompts
+おそばにいなさい。\n約束よ。けんぞくぅ！=Hãy ở bên cạnh mình. Đó là lời hứa, Bloodkin của mình!
+待ってたよ。お誕生日おめでとう！=Mình đã chờ cậu rồi. Chúc mừng sinh nhật!
+これ、誕生日プレゼント！=Đây là món quà sinh nhật của mình!
+どうして僕に会いにきてくれたの？=Tại sao cậu lại làm thế?

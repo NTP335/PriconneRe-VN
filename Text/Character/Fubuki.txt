@@ -1,0 +1,33 @@
+##Profile##
+【物理】中衛の、ナマイキで超天才な盗賊ギルドの三女。【味方バリアー♡】で自分へのダメージを味方に押し付けＨＰ最大でダメージアップする範囲攻撃で敵を蹂躙する。=[Vật Lý] Em gái thứ ba của bang Bandy Sister, một người chơi giữa tuyến, nghịch ngợm và là thiên tài siêu phàm. Với [Khiên Bảo Vệ Đồng Đội♡], cô đẩy sát thương lên đồng đội và đè bẹp kẻ thù bằng các đòn tấn công diện rộng có sức mạnh tăng lên ở HP tối đa.
+ワカナをいぢめること=Để trêu chọc Wakana
+花井美春=Hanai Miharu
+妹=Chị gái em
+生意気だけど超天才！　盗賊ギルドの三女=Nghịch ngợm nhưng là thiên tài siêu phàm! Con gái thứ ba của Hội Đạo Chích
+
+##UB##
+しんじゃえ♡フルバースト=Die♡ Toàn Bộ Lực
+自分の物理攻撃力を特大アップさせる。さらに目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理防御力を中ダウンさせ、スタンさせる。ＨＰが最大の場合、このスキルのダメージがアップし、追加で最も物理防御力の低い敵１キャラに物理特大ダメージを与える。=Tăng cực lớn P.ATK của bản thân, và gây sát thương vật lý lớn lên kẻ địch trong phạm vi, giảm P.DEF của chúng và làm choáng. Nếu HP của Fubuki ở 100%, sát thương kỹ năng này tăng lên, và gây thêm một lần sát thương vật lý cực lớn lên kẻ địch có P.DEF thấp nhất.
+r:"^自分の物理攻撃力を(\d+)アップ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵を一定時間行動不能にするＨＰが最大の場合、敵単体に(\d+)の物理ダメージ$"=►Tăng P.ATK của bản thân thêm $1 trong 18s.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 1000.\n►Gây choáng lên kẻ địch trong phạm vi 1000 trong 2.5s.\n►Giảm P.DEF của kẻ địch trong phạm vi 1000 thêm $3 trong 18s.\n\nNếu HP bản thân là 100%:\n►Gây $4 sát thương vật lý lên một kẻ địch.
+
+##S1##
+かばって♡味方シールド=Bảo Vệ Em♡Khiên Đồng Đội
+前方の自分以外の一番前の味方１キャラに【味方バリアー♡】を付与する。【味方バリアー♡】が付与されている間、自分への攻撃を【味方バリアー♡】が付与されている味方１キャラが代わりに受ける。さらに自分の物理攻撃力と物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップして、ＨＰを中回復、ＴＰを小回復する。=Áp dụng trạng thái [Khiên Bảo Vệ Đồng Đội♡] lên đồng đội khác ở phía trước nhất. Trong khi [Khiên Bảo Vệ Đồng Đội♡] có hiệu lực, mọi đòn tấn công nhắm vào bản thân sẽ được đồng đội mang trạng thái [Khiên Bảo Vệ Đồng Đội♡] nhận. Đồng thời tăng cực lớn P.ATK và Tỷ Lệ Phá Giáp Vật Lý (P.CRIT Rate) của bản thân, tăng nhỏ Sát Thương Vật Lý Phá Giáp (P.CRIT DMG), hồi trung bình HP và hồi nhỏ TP của bản thân.
+r:"^味方単体に【味方バリアー♡】を付与自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを150アップ自分の物理攻撃クリティカル時のダメージを7％アップ自分のＨＰを(\d+)回復自分のＴＰを80回復$"=►Áp dụng [Khiên Bảo Vệ Đồng Đội♡] lên một đồng đội.\n►Tăng P.ATK của bản thân thêm $1 trong 12s.\n►Tăng P.CRIT Rate của bản thân thêm 150 trong 12s.\n►Tăng P.CRIT DMG của bản thân thêm 7% trong 12s.\n►Hồi HP của bản thân thêm $2.\n►Hồi TP của bản thân thêm 80.
+
+r:"^味方単体に【味方バリアー♡】を付与自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理クリダメを(\d+)％アップ自分のＨＰを(\d+)回復自分のＴＰを(\d+)回復$"="►Trao [Khiên Bảo Vệ Đồng Đội♡] cho một đồng đội đơn.\n►Tăng P.ATK của bản thân thêm $1.\n►Tăng P.CRIT RATE của bản thân thêm $2.\n►Tăng P.CRIT DMG của bản thân thêm $3%.\n►Hồi HP của bản thân thêm $4.\n►Hồi TP của bản thân thêm $5."
+
+##S2##
+きゅっ♡イズナランチャー=Kyuu♡ Máy Phóng Izuna
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、物理防御力を小ダウンさせる。ＨＰが最大の場合、このスキルのダメージがアップする。=Gây sát thương vật lý trung bình lên kẻ địch trong phạm vi, và giảm P.DEF của chúng. Nếu HP của Fubuki ở 100%, sát thương kỹ năng này tăng lên.
+
+##EX##
+ナマイキ♡ジーニアス=Nghịch Ngợm♡Thiên Tài
+ナマイキ♡ジーニアス+=Nghịch Ngợm♡Thiên Tài+
+
+##UE##
+イズナランチャー♡かすたむ=Máy Phóng Izuna♡Kasumi
+##S1+##
+かばって♡味方シールド+=Bảo Vệ Em♡Khiên Đồng Đội+
+前方の自分以外の一番前の味方１キャラに【味方バリアー♡】を付与してＨＰを小回復する。【味方バリアー♡】が付与されている間、自分への攻撃を【味方バリアー♡】が付与されている味方１キャラが代わりに受ける。さらに自分の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップして、ＨＰを中回復、ＴＰを小回復する。ＨＰが最大の場合、ＴＰの回復量がアップする。=Trao [Khiên Bảo Vệ Đồng Đội♡] lên đồng đội phía trước nhất (trừ bản thân) ở phía trước, hồi nhỏ HP cho họ. Trong khi [Khiên Bảo Vệ Đồng Đội♡] còn hiệu lực, đòn tấn công nhắm vào bản thân sẽ do đồng đội có [Khiên Bảo Vệ Đồng Đội♡] nhận thay. Ngoài ra, tăng cực lớn P.ATK và Tỷ Lệ Phá Giáp Vật Lý (P.CRIT RATE) của bản thân, tăng nhỏ Sát Thương Vật Lý Phá Giáp (P.CRIT DMG), hồi trung bình HP của bản thân, và hồi nhỏ TP của bản thân. Nếu HP ở tối đa, lượng hồi TP tăng thêm.
+r:"^味方単体に【味方バリアー♡】を付与味方単体のＨＰを(\d+)回復自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを200アップ自分の物理クリダメを12％アップ自分のＨＰを(\d+)回復自分のＴＰを80回復ＨＰが最大の場合、自分のＴＰを300回復$"=►Trao [Khiên Bảo Vệ Đồng Đội♡] cho một đồng đội đơn.\n►Hồi HP cho một đồng đội đơn thêm $1.\n►Tăng P.ATK của bản thân thêm $2.\n►Tăng P.CRIT RATE của bản thân thêm 200.\n►Tăng P.CRIT DMG của bản thân thêm 12%.\n►Hồi HP của bản thân thêm $3.\n►Hồi TP của bản thân thêm 80.\n►Nếu HP đầy, hồi TP của bản thân thêm 300.

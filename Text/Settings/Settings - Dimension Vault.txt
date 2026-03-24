@@ -1,0 +1,8 @@
+
+次元断層においてバトル速度の上限を設定できます。=Bạn có thể đặt giới hạn trên cho tốc độ chiến đấu trong Dimensional Fault.
+次元断層において、バトル速度の上限を設定できます。=Bạn có thể đặt giới hạn trên cho tốc độ chiến đấu trong Dimensional Fault.
+次元断層 バトル速度の上限設定=Cài đặt Giới hạn Tốc độ Dimensional Fault
+次元断層 バトル速度設定の確認ダイアログ=Hộp thoại xác nhận Cài đặt Tốc độ Chiến đấu cho Dimensional Fault
+次元断層バトル開始前の確認ダイアログ=Hộp thoại Xác nhận Dimensional Fault
+次元断層バトルの本戦を開始する前に、確認ダイアログを開きます。=Hiển thị hộp thoại xác nhận trước khi bắt đầu trận chiến Dimensional Fault.
+次元断層を開始する前に、バトル速度設定を確認するダイアログを開きます。=Xác nhận cho cài đặt tốc độ chiến đấu của trận chiến Dimensional Fault.

@@ -1,0 +1,26 @@
+【魔法】中衛で夏の食を満喫し、ぷかぷか漂う天然少女。ＴＰ・攻撃支援やバリアは味方の数で効果量が変化し、物理と魔法攻撃力合算のダメージで夏の思い出を心に刻む。=[Thần Kỳ] Một cô gái ngây thơ trôi nổi trên mùa hè, tận hưởng bữa tiệc hè. Hiệu quả Tăng TP/Hỗ Trợ Tấn Công & Cường Độ Rào Cản tỉ lệ với số đồng đội. Gây sát thương kết hợp Tấn Công Vật Lý+Thần Kỳ để khắc họa mùa hè vào ký ức.
+
+#UB##
+ビッグピッグヒップドロップ=Ngồi Lên Mông Lợn Lớn
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、追加の物理特大ダメージを与える。さらに、味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。物理攻撃力アップと物理クリティカルアップの効果量は味方の数に応じて変化する。=Gây sát thương thần kỳ lớn (tính là sát thương vật lý nếu P.DEF của mục tiêu < M.DEF) và sát thương vật lý lớn thêm lên một kẻ địch phía trước. Tăng mạnh Tấn Công Vật Lý và Tỷ Lệ Chí Mạng Vật Lý cho toàn đội. Hiệu ứng tỉ lệ với số đồng đội.
+r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ$"=►Gây $1 sát thương thần kỳ lên một kẻ địch (dùng giá trị DEF thấp hơn)\n►Gây $2 sát thương vật lý lên một kẻ địch\n►Tăng Tấn Công Vật Lý của toàn đội thêm $3\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của toàn đội thêm 100
+
+##S1##
+たねれんしゃ=Mưa Hạt Giống
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法大ダメージを与える。さらに、味方全体の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、物理無効バリアを展開する。物理攻撃力アップ、物理攻撃クリティカル時のダメージアップの効果量とバリアの無効ダメージ量は味方の数に応じて変化する。=Gây sát thương thần kỳ lớn (tính là sát thương vật lý nếu P.DEF của mục tiêu < M.DEF) lên một kẻ địch phía trước. Tăng mạnh Tấn Công Vật Lý, tăng nhẹ Sát Thương Chí Mạng Vật Lý, và thi triển Rào Cản Phản Thần Kỳ cho toàn đội. Các hiệu ứng tỉ lệ với số đồng đội.
+r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリダメを8％アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Gây $1 sát thương thần kỳ lên một kẻ địch (dùng giá trị DEF thấp hơn)\n►Tăng Tấn Công Vật Lý của toàn đội thêm $2\n►Tăng Sát Thương Chí Mạng Vật Lý của toàn đội thêm 8%\n►Thi triển Rào Cản Phản Thần Kỳ ($3 sát thương)
+
+##S2##
+おいしいひんやり=Đồ Ăn Vặt Mát Lạnh
+r:"^自分の魔法攻撃力を(\d+)アップ味方全体の物理クリダメを8％アップ味方全体のＨＰを(\d+)回復自分のＴＰを30回復自分以外の味方全体のＴＰを20回復$"=►Tăng Tấn Công Thần Kỳ của bản thân thêm $1\n►Tăng Sát Thương Chí Mạng Vật Lý của toàn đội thêm 8%\n►Hồi máu cho toàn đội $2\n►Hồi TP của bản thân 30\n►Hồi TP cho tất cả đồng đội khác 20
+自分の魔法攻撃力を特大アップし、味方全体の物理攻撃クリティカル時のダメージを小アップ、ＨＰを小回復させる。さらに自分のＴＰを小回復し、自分以外の味方全体のＴＰを小回復させる。魔法攻撃力アップ、物理攻撃クリティカル時のダメージアップの効果量とＴＰの回復量は味方の数に応じて変化する。=Tăng mạnh Tấn Công Thần Kỳ của bản thân, tăng nhẹ Sát Thương Chí Mạng Vật Lý cho toàn đội, và hồi phục một ít máu. Đồng thời hồi phục một ít TP của bản thân và tất cả đồng đội khác. Các hiệu ứng tỉ lệ với số đồng đội.
+
+#EX#
+はっぴーさまー+=Happy Summer+
+はっぴーさまー=Happy Summer
+
+##Special Effect##
+すーぱーはっぴー=Super Happy
+特殊効果=Hiệu ứng đặc biệt
+ダメージとＨＰ回復は物理攻撃力と魔法攻撃力を合わせるクリティカルは物理クリティカルと魔法クリティカルを合わせる=[Luôn Hoạt Động] Kết hợp Tấn Công Vật Lý và Tấn Công Thần Kỳ cho tính toán sát thương/hồi máu. Kết hợp Tỷ Lệ Chí Mạng Vật Lý và Thần Kỳ cho tính toán chí mạng.
+【常時発動】自分のユニオンバーストおよびスキルのダメージとＨＰ回復は物理と魔法攻撃力を合わせ、クリティカルは物理と魔法クリティカルの値を合わせる。=[Hiệu Ứng Vĩnh Viễn] Kết hợp Tấn Công Vật Lý và Tấn Công Thần Kỳ cho sát thương UB/kỹ năng và hồi máu. Kết hợp Tỷ Lệ Chí Mạng Vật Lý và Thần Kỳ cho tính toán chí mạng.

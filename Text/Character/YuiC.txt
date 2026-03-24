@@ -1,0 +1,31 @@
+##Profile##
+【魔法】中衛で精霊術を操り味方を支える儀装の魔法士。複数の物理攻撃力の強化スキルで味方を攻撃支援しつつ強力な回復スキルで、前線を整えバトルを掌握する。=[Phép] Một pháp sư mặc trang phục nghi lễ sử dụng kỹ thuật tâm linh để hỗ trợ đồng đội từ tuyến giữa. Với nhiều kỹ năng tăng P.ATK để hỗ trợ đồng đội, và kỹ năng hồi phục mạnh mẽ để chuẩn bị cho tuyến đầu, cô nắm giữ sự kiểm soát trận chiến.
+
+##UB##
+スピリットプレシャス=Tinh Thần Quý Giá
+味方全体のＨＰを中回復し、物理攻撃力を大アップさせる。さらに一番前の味方１キャラに継続ＨＰ回復状態を付与する。=Hồi phục HP toàn bộ đồng đội ở mức trung bình, và cực kỳ tăng P.ATK của họ. Ngoài ra, còn cấp hiệu ứng hồi phục HP liên tục cho đồng đội ở tuyến trước nhất.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Hồi phục HP toàn bộ đồng đội thêm $1.\n►Tăng P.ATK của toàn bộ đồng đội thêm $2 trong 18s.\n►Hồi phục HP của một đồng đội thêm $3/giây trong 6s.
+
+##S1##
+スピリチュアルブレイブ=Dũng Khí Tâm Linh
+最も物理攻撃力が高い味方１キャラを中心とした範囲内の味方すべての物理攻撃力を大アップさせ、さらに物理クリティカルを中アップさせる。=Cực kỳ tăng P.ATK trong phạm vi 50, tập trung vào đồng đội có P.ATK cao nhất, đồng thời tăng trung bình Tỷ lệ Chí Mạng Vật lý của họ.
+
+##S2##
+ギフトスピリット=Tinh Thần Tặng Phẩm
+最も物理攻撃力が高い味方１キャラを中心とした範囲内の味方すべてのＴＰを小回復させる。=Hồi phục TP của đồng đội trong phạm vi ở mức nhỏ, tập trung vào đồng đội có P.ATK cao nhất.
+r:"^範囲内の味方のＴＰを(\d+)回復$"=►Hồi phục TP của đồng đội trong phạm vi thêm $1.
+## 260lvl
+最も物理攻撃力が高い味方１キャラを中心とした範囲内の味方すべてのＴＰを小回復させ、物理攻撃力を小アップさせる。=Hồi phục TP của đồng đội trong phạm vi ở mức nhỏ, tập trung vào đồng đội có P.ATK cao nhất, đồng thời tăng nhỏ P.ATK của họ.
+r:"^範囲内の味方のＴＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ$"=►Hồi phục TP của đồng đội trong phạm vi 50 thêm $1.\n►Tăng P.ATK của đồng đội trong phạm vi 50 thêm $2 trong 12s.
+
+##EX##
+スピリットグレイス=Ân Điển Tinh Thần
+スピリットグレイス+=Ân Điển Tinh Thần+
+
+##S1+##
+スピリチュアルブレイブ+=Dũng Khí Tâm Linh+
+最も物理攻撃力が高い味方１キャラを中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、さらにＴＰ上昇を小アップさせる。=Cực kỳ tăng P.ATK trong phạm vi, tập trung vào đồng đội có P.ATK cao nhất, đồng thời cực kỳ tăng Tỷ lệ Chí Mạng Vật lý và tăng nhỏ Tăng TP của họ.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方のＴＰ上昇を(\d+)アップ$"=►Tăng P.ATK của đồng đội trong phạm vi 50 thêm $1 trong 12s.\n►Tăng Tỷ lệ Chí Mạng Vật lý của đồng đội trong phạm vi 50 thêm $2 trong 12s.\n►Tăng Tăng TP của đồng đội trong phạm vi 50 thêm $3 trong 12s.
+
+##UE##
+大精霊の儀仗=Bảo Vệ Tinh Thần Vĩ Đại

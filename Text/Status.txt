@@ -1,0 +1,218 @@
+---Character List---
+戦力=Sức mạnh
+物攻=Tấn công vật lý
+魔攻=Tấn công ma thuật
+物防=Phòng thủ vật lý
+魔防=Phòng thủ ma thuật
+r:"^\[3C404E\]戦力 ([0-9,]+)\[-\]$"="[3C404E]Sức mạnh $1[-]"
+r:"^\[3C404E\]物攻 ([0-9,]+)\[-\]$"="[3C404E]Tấn công vật lý $1[-]"
+r:"^\[3C404E\]魔攻 ([0-9,]+)\[-\]$"="[3C404E]Tấn công ma thuật $1[-]"
+r:"^\[3C404E\]物防 ([0-9,]+)\[-\]$"="[3C404E]Phòng thủ vật lý $1[-]"
+r:"^\[3C404E\]魔防 ([0-9,]+)\[-\]$"="[3C404E]Phòng thủ ma thuật $1[-]"
+---Stat---
+HP吸収=Hút HP
+HP自動回復=Hồi HP
+TP上昇=Tăng TP
+ＴＰ上昇=Tăng TP
+TP自動回復=Hồi TP
+TP消費軽減=Giữ TP
+物理攻撃力=Tấn công vật lý
+物理防御力=Phòng thủ vật lý
+魔法防御貫通=Xuyên phòng thủ ma thuật
+物理防御貫通=Xuyên phòng thủ vật lý
+物理クリティカル=Tỷ lệ chí mạng vật lý
+魔法攻撃力=Tấn công ma thuật
+魔法防御力=Phòng thủ ma thuật
+魔法クリティカル=Tỷ lệ chí mạng ma thuật
+回復量上昇=Hiệu quả hồi phục
+命中=Độ chính xác
+回避=Né tránh
+強化スキル=Tăng cường kỹ năng
+戦力=Sức mạnh
+ダメージカット=Giảm sát thương
+物理=Vật lý
+魔法=Ma thuật
+
+TPダウン=Giảm TP
+
+
+ＴＰ=TP
+ＨＰ=HP
+ＴＰ回復量=Lượng hồi TP
+ＨＰ回復量=Lượng hồi HP
+TP回復量=Lượng hồi TP
+HP回復量=Lượng hồi HP
+回復=Hồi phục
+
+現在のHP=HP Boss
+あなたのターンです。=Đến lượt cậu.
+
+バージョンエラー=Lỗi phiên bản
+特殊スキル=Kỹ năng đặc biệt
+通常時=Kỹ năng thường
+
+
+属性ボーナスアップ=Tăng điểm thưởng nguyên tố
+---Status Popup---
+
+スキル切り替え！=Kỹ năng thay đổi!
+r:"^与ダメアップ[＋+]([0-9.%％]+)$"=Tăng sát thương +$1
+r:"^被ダメカット[＋+]([0-9.%％]+)$"=Giảm Sát thương +$1
+r:"^属性ボーナスアップ[＋+]([0-9.%％]+)$"=Tăng điểm thưởng nguyên tố +$1
+r:"^属性ボーナス[＋+]([0-9.%％]+)$"=Thưởng nguyên tố +$1
+r:"^魔法クリティカルダメージ倍率[＋+]([0-9.%％]+)$"=Hệ số sát thương chí mạng phép thuật +$1
+r:"^物理クリティカルダメージ倍率[＋+]([0-9.%％]+)$"=Hệ số sát thương chí mạng vật lý +$1
+
+r:"^魔法防御貫通[＋+]([0-9.%％]+)$"="Xuyên phòng thủ ma thuật +$1"
+r:"^物理防御貫通[＋+]([0-9.%％]+)$"="Xuyên phòng thủ vật lý +$1"
+r:"^魔法攻撃力アップ[＋+]([0-9.%％]+)$"="Tăng tấn công ma thuật +$1"
+r:"^魔法攻撃力ダウン[＋+]([0-9.%％]+)$"="Giảm tấn công ma thuật +$1"
+r:"^魔法防御力ダウン[＋+]([0-9.%％]+)$"="Giảm phòng thủ ma thuật +$1"
+r:"^魔法防御力アップ[＋+]([0-9.%％]+)$"="Tăng phòng thủ ma thuật +$1"
+r:"^魔法ダメージ[＋+]([0-9.%％]+)$"="Sát thương ma thuật +$1"
+r:"^範囲魔法ダメージ[＋+]([0-9.%％]+)$"="Sát thương ma thuật phạm vi +$1"
+r:"^単体魔法ダメージ[＋+]([0-9.%％]+)$"="Sát thương ma thuật đơn mục tiêu +$1"
+r:"^全体魔法ダメージ[＋+]([0-9.%％]+)$"="Tổng sát thương ma thuật +$1"
+r:"^追加魔法ダメージ[＋+]([0-9.%％]+)$"="Sát thương ma thuật bổ sung +$1"
+r:"^龍眼状態の敵への魔法ダメージ[＋+]([0-9.%％]+)$"="Sát thương ma thuật lên kẻ địch có trạng thái Mắt Rồng +$1"
+
+r:"^物理攻撃力アップ[＋+]([0-9.%％]+)$"="Tăng sức mạnh tấn công vật lý +$1"
+r:"^物理攻撃力ダウン[＋+]([0-9.%％]+)$"="Giảm sức mạnh tấn công vật lý +$1"
+r:"^物理防御力アップ[＋+]([0-9.%％]+)$"="Tăng phòng thủ vật lý +$1"
+r:"^物理防御力ダウン[＋+]([0-9.%％]+)$"="Giảm phòng thủ vật lý +$1"
+r:"^物理ダメージ[＋+]([0-9.%％]+)$"="Sát thương vật lý +$1"
+r:"^範囲物理ダメージ[＋+]([0-9.%％]+)$"="Sát thương vật lý phạm vi +$1"
+r:"^単体物理ダメージ[＋+]([0-9.%％]+)$"="Sát thương vật lý đơn mục tiêu +$1"
+r:"^全体物理ダメージ[＋+]([0-9.%％]+)$"="Tổng sát thương vật lý +$1"
+r:"^追加物理ダメージ[＋+]([0-9.%％]+)$"="Sát thương vật lý bổ sung +$1"
+
+r:"^HP自動回復[＋+]([0-9.%％]+)$"="Hồi HP +$1"
+r:"^HP吸収[＋+]([0-9.%％]+)$"="Hút HP +$1"
+r:"^ＨＰ回復量[＋+]([0-9.%％]+)$"="Lượng hồi máu +$1"
+r:"^TP自動回復[＋+]([0-9.%％]+)$"="Hồi TP +$1"
+r:"^ＴＰ回復量[＋+]([0-9.%％]+)$"="Lượng hồi TP +$1"
+r:"^回復量[＋+]([0-9.%％]+)$"="Lượng hồi phục +$1"
+r:"^回復量上昇[＋+]([0-9.%％]+)$"="Bonus Hồi Phục +$1"
+
+r:"^回避[＋+]([0-9.%％]+)$"="Né Tránh +$1"
+r:"^命中[＋+]([0-9.%％]+)$"="Độ Chính Xác +$1"
+r:"^ＴＰダメージ[＋+]([0-9.%％]+)$"="Sát Thương TP +$1"
+
+r:"^反撃ダメージ[＋+]([0-9.%％]+)$"=Sát Thương Phản Đòn +$1
+r:"^反撃時の物理ダメージ[＋+]([0-9.%％]+)$"=Sát Thương Vật Lý Khi Phản Đòn +$1
+r:"^１秒当たりのダメージ量[＋+]([0-9.%％]+)$"=Sát Thương Mỗi Giây +$1
+r:"^１秒当たりのＨＰ回復量[＋+]([0-9.%％]+)$"=Hồi HP Mỗi Giây +$1
+r:"^無効ダメージ量[＋+]([0-9.%％]+)$"=Lượng Sát Thương Vô Hiệu +$1
+r:"^最大ＨＰアップ[＋+]([0-9.%％]+)$"=Tăng MAX HP +$1
+r:"^吸収ダメージ量[＋+]([0-9.%％]+)$"=Hấp Thụ Sát Thương +$1
+r:"^継続時間[＋+]([0-9.]+)秒$"=Thời Gian +$1
+r:"^無敵時間[＋+]([0-9.]+)秒$"=Thời Gian Bất Khả Xâm Phạm +$1
+r:"^召喚するドクロ親父のＬｖ[＋+]([0-9.%％]+)$"=Cấp Triệu Hồi Skull Father +$1
+r:"^行動速度低下の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Làm Chậm +$1
+r:"^束縛の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Trói +$1
+r:"^時間停止の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Dừng Thời Gian +$1
+r:"^恐慌の確定成功Ｌv[＋+]([0-9.%％]+)$"=Cấp Sợ Hãi +$1
+r:"^暗闇の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Mù +$1
+r:"^混乱の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Hỗn Loạn +$1
+r:"^誘惑の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Mê Hoặc +$1
+r:"^麻痺の確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Tê Liệt +$1
+r:"^スタンの確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Choáng +$1
+r:"^呪詛の初期ダメージ量[＋+]([0-9.%％]+)$"=Lượng Sát Thương Ban Đầu của Hex +$1
+r:"^呪いの1秒当たりのダメージ量[＋+]([0-9.%％]+)$"=Sát Thương Nguyền Rủa Mỗi Giây +$1
+r:"^毒の1秒当たりのダメージ量[＋+]([0-9.%％]+)$"=Sát Thương Độc Mỗi Giây +$1
+r:"^猛毒の1秒当たりのダメージ量[＋+]([0-9.%％]+)$"=Sát Thương Nọc Độc Mỗi Giây +$1
+r:"^確定成功Ｌｖ[＋+]([0-9.%％]+)$"=Cấp Đánh Trúng +$1
+------
+r:"^装備必要キャラLv：([0-9.%％]+)$"=[3C404E]Yêu Cầu Cấp: $1[-]
+r:"^上限解放必要キャラLv:([0-9.%％]+)$"=Cấp Nhân Vật Cần Để Mở Khóa Giới Hạn Cấp: $1
+上限解放に必要なキャラLvを満たしていません。=Cấp Nhân Vật Không Đủ Để Mở Khóa Giới Hạn.
+r:"^\[FF7C4E,D62146\]装備必要キャラLv：([0-9.%％]+)\[-\]$"=[FF7C4E,D62146]Yêu Cầu Cấp: $1[-]
+r:"^強化Lv上限  ([0-9.%％]+)$"=Cấp Tối Đa $1
+r:"^上限Lv([0-9.%％]+)$"=Cấp $1
+---Status UP Equip---
+r:"^HP吸収[＋+]([0-9.%％]+)$"=Hút HP +$1
+r:"^HP自動回復[＋+]([0-9.%％]+)$"=Hồi HP +$1
+r:"^回復量上昇[＋+]([0-9.%％]+)$"=Bonus Hồi Phục +$1
+
+r:"^TP上昇[＋+]([0-9.%％]+)$"=Tăng TP +$1
+r:"^TP自動回復[＋+]([0-9.%％]+)$"=Hồi TP +$1
+r:"^TP消費軽減[＋+]([0-9.%％]+)$"=Giữ TP +$1
+
+r:"^物理攻撃力[＋+]([0-9.%％]+)$"=Tấn Công Vật Lý +$1
+r:"^物理防御力[＋+]([0-9.%％]+)$"=Phòng Thủ Vật Lý +$1
+r:"^物理クリティカル[＋+]([0-9.%％]+)$"=Bạo Kích Vật Lý +$1
+
+r:"^魔法攻撃力[＋+]([0-9.%％]+)$"=Tấn Công Ma Thuật +$1
+r:"^魔法防御力[＋+]([0-9.%％]+)$"=Phòng Thủ Ma Thuật +$1
+r:"^魔法クリティカル[＋+]([0-9.%％]+)$"=Bạo Kích Ma Thuật +$1
+r:"^命中[＋+]([0-9.%％]+)$"=Độ Chính Xác +$1
+r:"^回避[＋+]([0-9.%％]+)$"=Né Tránh +$1
+r:"^戦力[＋+]([0-9.%％]+)$"=Sức Mạnh Chiến Đấu +$1
+
+
+r:"^回復強化[＋+]([0-9.%％]+)$"=Hồi phục +$1
+r:"^バフ強化[＋+]([0-9.%％]+)$"=Hiệu ứng +$1
+r:"^通常攻撃強化[＋+]([0-9.%％]+)$"=Tấn công thông thường +$1
+---Rank Bonus---
+r:"^RANK([0-9.%％]+)が登場した場合、RANK([0-9.%％]+)では\nRANKボーナスが獲得されていない状態になります。$"=Khi RANK $1 xuất hiện, RANK $2 sẽ không thể nhận được phần thưởng RANK.
+
+r:"^(\[[0-9A-F,]+\])RANK([0-9.%％]+)\[-\]\[3C404E\]まで強化したため\n以下のステータスボーナスを獲得しています。\[-\]$"=[3C404E]Các chỉ số tăng thêm sau đây sẽ được nhận khi nâng cấp đến $1RANK $2[-].[-]
+
+
+---Princess Knight---
+Attributes to be strengthened at once
+まとめて強化対象属性=Nâng cấp nguyên tố cùng lúc
+以下のアイテムを消費してまとめて強化しますか？=Tiêu hao các vật phẩm sau để nâng cấp tất cả cùng lúc?
+r:"^火属性攻撃力[＋+]([0-9.%％]+)$"=Tấn công Hỏa +$1
+r:"^水属性攻撃力[＋+]([0-9.%％]+)$"=Tấn công Thủy +$1
+r:"^風属性攻撃力[＋+]([0-9.%％]+)$"=Tấn công Phong +$1
+r:"^光属性攻撃力[＋+]([0-9.%％]+)$"=Tấn công Quang +$1
+r:"^闇属性攻撃力[＋+]([0-9.%％]+)$"=Tấn công Ám +$1
+
+
+##Filter
+
+基本設定=Cài đặt cơ bản
+絞り込み設定=Cài đặt bộ lọc
+すべて含む=Tất cả
+どれかを含む=Chứa bất kỳ
+攻撃属性=Loại tấn công
+攻撃特性=Đặc điểm tấn công
+単体=Đơn mục tiêu
+範囲=Vùng
+継続ダメージ=Sát thương theo thời gian
+隊列=Trận hình
+
+
+強化効果=Hiệu ứng tăng cường
+速度アップ=Tăng tốc độ
+加算速度アップ=Tăng thêm tốc độ
+物クリアップ=Tỷ lệ chí mạng Vật lý tăng
+魔クリアップ=Tỷ lệ chí mạng Ma pháp tăng
+物クリダメアップ=Sát thương chí mạng Vật lý tăng
+魔クリダメアップ=Sát thương chí mạng Ma pháp tăng
+弱体効果=Hiệu ứng giảm cường
+
+速度ダウン=Giảm tốc độ
+ＨＰ回復=Hồi HP
+継続ＨＰ回復=Hồi HP liên tục
+物理無効=Miễn nhiễm Vật lý
+魔法無効=Miễn nhiễm Ma pháp
+物理魔法無効=Miễn nhiễm Vật lý/Ma pháp
+物理吸収=Hấp thụ Vật lý
+魔法吸収=Hấp thụ Ma pháp
+物理魔法吸収=Hấp thụ Vật lý/Ma pháp
+行動不能=Khống chế
+魅了・混乱=Mê hoặc & Mê muội
+挑発=Khiêu khích
+飛行=Bay
+調和=Hòa hợp
+行動不能無効=Miễn nhiễm khống chế
+スキルの設定で使用可能です。=Có thể sử dụng trong cài đặt kỹ năng.
+
+
+
+低い順=Tăng dần
+高い順=Giảm dần
+並び順=Thứ tự
+レアリティ=Độ hiếm

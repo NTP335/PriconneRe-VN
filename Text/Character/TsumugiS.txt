@@ -1,0 +1,26 @@
+##Profile##
+【物理】中衛で敵を引き寄せ陣形を崩す夕凪のテーラー。最も攻撃力の高い敵を、敵陣から自陣に引き寄せつつ束縛や行動速度ダウンを絡めたスキルで敵の自由を縛る。=[Vật lý] Một thợ may mùa hè thu hút kẻ địch và phá vỡ đội hình ở tuyến giữa. Kéo kẻ địch có sức tấn công cao nhất đến gần bản thân và làm choáng/giảm tốc độ hành động của chúng bằng các kỹ năng trói buộc.
+
+##UB##
+カルミナサマードーム=Carmina Summer Dome
+目の前の敵１キャラに物理特大ダメージを与え、さらに行動速度を大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm mạnh tốc độ hành động của chúng (50%).
+
+##S1##
+スプラッシュストリング=Splash String
+目の前の敵１キャラに物理中ダメージを与え、さらに束縛する。=Gây sát thương vật lý trung bình lên kẻ địch phía trước và trói buộc chúng.
+
+##S2##
+サマーバインドアクション=Summer Bind Action
+前方の敵の中で物理攻撃力、魔法攻撃力いずれかで最も攻撃力が高い敵１キャラに物理小ダメージを与えて束縛し、さらにツムギの目の前まで引き寄せる。=Gây sát thương vật lý nhỏ lên kẻ địch phía trước có P/M.ATK cao nhất, trói buộc chúng và kéo chúng ra phía trước bản thân.
+
+##EX##
+テーラーイマジネーション=Tailor Imagination
+テーラーイマジネーション+=Tailor Imagination+
+
+##S1+##
+スプラッシュストリング+=Splash String+
+前方の敵の中で物理攻撃力、魔法攻撃力いずれかで最も攻撃力が高い敵１キャラに物理大ダメージを与えて束縛し、さらにＴＰを中ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước có P/M.ATK cao nhất, trói buộc chúng và giảm trung bình TP của chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体のＴＰを(\d+)失わせる$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Khiến kẻ địch bị Trói buộc trong 3.5s.\n►Giảm TP của kẻ địch bằng $2.
+
+##UE##
+サマーテーラーグローブ=Summer Tailor Glove

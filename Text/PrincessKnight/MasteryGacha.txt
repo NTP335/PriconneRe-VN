@@ -1,0 +1,20 @@
+マスタリーガチャレベル=Cấp độ Gacha Thành thạo
+マスタリーチケットを集めて、マスタリーをGET！=Thu thập vé Thành thạo và Nhận Thành thạo!
+マスタリーガチャ=Cấp độ Lĩnh ngộ
+次のレベルまで=Lên cấp tiếp theo
+はい、お疲れ様。\nここではマスタリーチケットを\n使って、マスタリー強化素材を\n手に入れることができるわよ。=Tuyệt, làm tốt lắm. Ở đây, bạn có thể dùng Vé Lĩnh ngộ để nhận Vật liệu Nâng cấp Lĩnh ngộ.
+マスタリーチケットが付与されました。=Vé Lĩnh ngộ đã được trao.
+ガチャ演出のスキップの設定です。=Cài đặt bỏ qua cảnh gacha.
+演出スキップ設定=Cài đặt bỏ qua cảnh
+「まとめて引く」で引くガチャの回数の設定です。=Cài đặt số lần rút gacha bạn có thể thực hiện khi chọn "Rút nhiều."
+まとめてガチャ回数設定=Đặt số lượng gacha cùng lúc
+スキップ設定をONにすると全ての演出が再生されなくなります。=Nếu bạn bật cài đặt Bỏ qua, tất cả các cảnh sẽ không được phát.
+所持マスタリーチケット=Vé Lĩnh ngộ của tôi
+マスタリーガチャLvアップまで=Cho đến Lv Up Gacha Lĩnh ngộ
+ガチャ結果へ=Đến kết quả gacha
+入手マスタリー 一覧=Danh sách Lĩnh ngộ đã nhận
+オールマスタリー=Tất cả Lĩnh ngộ
+ガチャ結果詳細=Chi tiết kết quả gacha
+マスタリーチケットが不足しています。=Sắp hết vé Lĩnh ngộ.
+
+r:"^([0-9\,]+)回$"=$1 lần

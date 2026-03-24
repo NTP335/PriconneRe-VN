@@ -1,0 +1,22 @@
+##Profile##
+【物理】前衛でダメダメでも逃げず戦うアルミラージ娘。最も近くの味方に強化や行動不能無効の付与、回復を行い敵の注意をそらすことで、過酷な世界を生き延びる。=[Vật Lý] Một cô gái Almiraj tuyến đầu chiến đấu mà không bỏ chạy ngay cả khi xuống dốc. Cô tăng cường đồng minh gần nhất với các buff và miễn nhiễm với khống chế, cung cấp hồi phục, và thu hút sự chú ý của kẻ địch để tồn tại trong một thế giới khắc nghiệt.
+
+##Union Burst##
+アルミラージュバッシュ=Almirage Bash
+目の前の敵１キャラに最も物理攻撃力が高い味方の物理攻撃力をもとにした物理特大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。さらに、自分以外の味方すべての物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせる。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý khổng lồ lên kẻ địch phía trước dựa trên đồng minh có P.ATK cao nhất, và giảm lớn P.ATK và M.ATK của chúng. Ngoài ra, tăng mạnh P.ATK của tất cả các đồng minh khác và tăng nhỏ P.CRIT DMG của họ. Nếu kỹ năng này phát chí mạng, sát thương sẽ là 3x thay vì 2x.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン自分以外の味方の物理攻撃力を(\d+)アップ自分以外の味方の物理クリダメを(\d+)％アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm P.ATK của một kẻ địch đi $2.\n►Giảm M.ATK của một kẻ địch đi $3.\n►Tăng P.ATK của đồng minh ngoại trừ bản thân lên $4.\n►Tăng P.CRIT DMG của đồng minh ngoại trừ bản thân lên $5%.
+
+##Skill 1 (S1)##
+ブービークラッカー=Booby Cracker
+【挑発】自分以外の最も近くの味方１キャラが、敵全体を挑発して敵から受ける行動不能を短時間無効化する。さらにそのキャラの物理防御力と魔法防御力と物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＨＰとＴＰを小回復させる。=[Khiêu khích] Đồng minh gần nhất ngoại trừ bản thân khiêu khích tất cả kẻ địch và nhận miễn nhiễm ngắn với khống chế từ kẻ địch. Ngoài ra, tăng mạnh P.DEF, M.DEF và P.ATK của đồng minh đó, tăng nhỏ P.CRIT DMG, và hồi phục nhỏ HP và TP của họ.
+r:"^対象の味方を挑発状態にする味方単体が敵から受ける行動不能を無効化する味方単体の物理防御力を(\d+)アップ味方単体の魔法防御力を(\d+)アップ味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリダメを(\d+)％アップ味方単体のＨＰを(\d+)回復味方単体のＴＰを(\d+)回復$"=►Đặt đồng minh mục tiêu vào trạng thái [Khiêu khích].\n►Vô hiệu hóa Stun từ kẻ địch cho một đồng minh.\n►Tăng P.DEF của một đồng minh lên $1.\n►Tăng M.DEF của một đồng minh lên $2.\n►Tăng P.ATK của một đồng minh lên $3.\n►Tăng P.CRIT DMG của một đồng minh lên $4%.\n►Phục hồi HP của một đồng minh lên $5.\n►Phục hồi TP của một đồng minh lên $6.
+
+
+##Skill 2 (S2)##
+甘いの食べたいなー？=Muốn Ăn Đồ Ngọt Không~?
+自分以外の味方すべての物理防御力と魔法防御力を中アップさせ、ＴＰ上昇を小アップさせる。さらにこのスキルの発動後、自分がステータスアップ効果を受ける度に、自分以外の味方すべてに【とっておきドーナツ】を１つ追加し物理攻撃力を小アップさせる。この効果は最大40回発動し、このスキルによって他のスキルの効果は発動しない。=Tăng vừa phải P.DEF và M.DEF của tất cả các đồng minh khác, và tăng nhỏ TP Boost. Ngoài ra, sau khi kích hoạt kỹ năng này, mỗi khi bản thân nhận hiệu ứng tăng trạng thái, thêm một [Bánh Dango Đặc Biệt] vào tất cả các đồng minh khác, tăng nhỏ P.ATK của họ. Hiệu ứng này kích hoạt tối đa 40 lần, và các kỹ năng khác không kích hoạt do kỹ năng này.
+r:"^自分以外の味方の物理防御力を(\d+)アップ自分以外の味方の魔法防御力を(\d+)アップ自分以外の味方のＴＰ上昇を5アップステータスアップ効果を受けるたびに自分以外の味方にとっておきドーナツを追加する状態になるステータスアップ効果を受けるたびに自分以外の味方の物理攻撃力を(\d+)アップ$"=►Tăng P.DEF của đồng minh ngoại trừ bản thân lên $1.\n►Tăng M.DEF của đồng minh ngoại trừ bản thân lên $2.\n►Tăng TP Boost của đồng minh ngoại trừ bản thân lên 5.\n►Mỗi khi nhận một buff trạng thái, đồng minh ngoại trừ bản thân nhận [Bánh Dango Bí Mật].\n►Mỗi khi nhận một buff trạng thái, tăng P.ATK của đồng minh ngoại trừ bản thân lên $3.
+
+##EX Skill##
+アルミラージのしっぽ=Almirage's Tail
+アルミラージのしっぽ+=Almirage's Tail+

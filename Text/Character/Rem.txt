@@ -1,0 +1,34 @@
+##Profile##
+鬼がかりの万能妹メイド=Một hầu gái song sinh nhỏ, cuồng nhiệt như một con quỷ
+演劇鑑賞、詩文=Xem nhà hát, thơ ca
+【物理】中衛で、鬼の力で敵を粉砕する、双子の妹。回復スキルの他にも、温度を操るスキルを得意とし、敵を凍結させた上でユニオンバーストで薙ぎ払う。=[Vật lý] Một song sinh nhỏ đè bẹp kẻ thù từ trung tuyến với sức mạnh quỷ dữ. Ngoài việc chữa lành, cô ấy còn có thể kiểm soát nhiệt độ, cho phép đóng băng kẻ thù trước khi xóa sổ chúng bằng Union Burst.
+
+##UB##
+アル・ヒューマ=Al Huma
+前方範囲内の敵すべてに物理大ダメージを与える。行動不能状態の敵に対してはダメージが上昇する。=Gây ra lượng lớn sát thương vật lý (P.DMG) cho kẻ thù trong phạm vi. Sát thương vật lý tăng lên đối với kẻ thù không thể di chuyển.
+r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ範囲内のその他の敵すべてに(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý (P.DMG) cho tất cả kẻ thù bất động trong phạm vi.\n►Gây $2 sát thương vật lý (P.DMG) cho tất cả kẻ thù còn lại trong phạm vi.
+
+##S1##
+エル・ヒューマ=El Huma
+目の前の敵１キャラに物理中ダメージを与え、さらに凍結させる。=Gây sát thương vật lý (P.DMG) trung bình cho kẻ thù ngay phía trước và khiến chúng bị Đóng băng.
+
+##S2##
+アクアヒーリング=Aqua Healing
+最もＨＰが低い味方１キャラのＨＰを中回復させる。=Hồi một lượng trung bình HP cho đồng minh có HP thấp nhất.
+
+##EX##
+鬼がかってます！=Fanatical as a Demon
+鬼がかってます！+=Fanatical as a Demon+
+
+##UB+##
+鬼がかったアル・ヒューマ=Oni Mode: Al Huma
+前方の敵すべてに物理大ダメージを与える。行動不能状態の敵に対してはこのダメージが上昇する。さらに、最も遠くの敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与える。=Gây ra lượng lớn sát thương vật lý (P.DMG) cho kẻ thù trong phạm vi. Sát thương vật lý tăng lên đối với kẻ thù không thể di chuyển. Ngoài ra, còn gây thêm một lần sát thương vật lý cho kẻ thù trong phạm vi của kẻ thù xa nhất.
+r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ範囲内のその他の敵すべてに(\d+)の物理ダメージ範囲内の敵すべてに(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý (P.DMG) cho tất cả kẻ thù bất động trong phạm vi 800.\n►Gây $2 sát thương vật lý (P.DMG) cho tất cả kẻ thù còn lại trong phạm vi 800.\n►Gây $3 sát thương vật lý (P.DMG) cho kẻ thù trong phạm vi 50 của kẻ thù xa nhất.
+
+##S1+##
+エル・ヒューマ+=El Huma+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに凍結させる。=Gây sát thương vật lý (P.DMG) trung bình cho kẻ thù trong phạm vi và khiến chúng bị Đóng băng.
+r:"^範囲内の敵すべてに(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương vật lý (P.DMG) cho kẻ thù trong phạm vi.\n►Khiến kẻ thù trong phạm vi bất động trong một khoảng thời gian.
+
+##UE##
+レムの髪飾り=Rem's Hair Ornament

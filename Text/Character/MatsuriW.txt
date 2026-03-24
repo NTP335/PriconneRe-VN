@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で母製の鎧を纏い気合い上々の獣人族騎士。自分のＨＰが低いほど与えるダメージと無効バリアの耐久力を高め、防御力ダウンと永続攻撃アップで活路を拓く。=[Vật lý] Một kỵ sĩ thú tộc mặc áo giáp do mẹ làm, chiến đấu ở tiền tuyến với tinh thần phấn chấn. HP càng thấp, sát thương gây ra và độ bền của tấm khiên phản của cô càng cao, cùng với debuff phòng thủ vật lý và buff tấn công vật lý vĩnh viễn, dẫn đến chiến thắng.
+
+##UB##
+ブレイブタイガースペシャル=Đặc Biệt Hổ Dũng Cảm
+目の前の敵１キャラに物理特大ダメージと、自分のＨＰが低いほどダメージがアップする物理ダメージを与え、味方全体の物理攻撃力を特大アップさせるが、自分がスタンする。=Gây sát thương vật lý lớn lên kẻ địch phía trước, gây sát thương vật lý lên kẻ địch theo lượng HP đã mất của bản thân, và tăng tấn công vật lý của toàn bộ đồng minh rất lớn. Gây choáng cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に自分のＨＰが低いほどダメージがアップする物理ダメージ味方全体の物理攻撃力を(\d+)アップ自分を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây [15×HP-đã mất] sát thương vật lý lên kẻ địch.\n►Tăng tấn công vật lý của toàn bộ đồng minh $2 trong 18s.\n►Gây choáng cho bản thân trong 2s.
+
+##S1##
+ジャスティスシールド=Khiên Công Lý
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を中ダウンさせる。自分のＨＰが低いほどダメージがアップする。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước và giảm phòng thủ vật lý của chúng một chút. Càng ít máu của bản thân, sát thương vật lý càng cao.
+
+##S2##
+タイガースピリット=Tinh Thần Hổ
+自分の物理攻撃力を大アップ、物理防御力を小アップさせ、物理/魔法無効バリアを展開する。自分のＨＰが低いほどバリアの無効ダメージ量がアップする。=Tăng đáng kể tấn công vật lý của bản thân, tăng nhẹ phòng thủ vật lý của bản thân và tạo khiên che chở bản thân, hóa giải sát thương vật lý/phép. Càng ít máu của bản thân, lượng sát thương vật lý/phép bị hóa giải bởi khiên càng cao.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Thời gian niệm: 0.465s.\n►Tăng tấn công vật lý của bản thân lên $1 trong 180s.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 180s.\n►Tạo khiên che chở bản thân, hóa giải $3 sát thương vật lý/phép trong 18s.
+
+##EX##
+ブレイブパワーMAX！=Dũng Khí Bùng Nổ!
+ブレイブパワーMAX！+=Dũng Khí Bùng Nổ!+
+
+##S1+##
+ジャスティスシールド+=Khiên Công Lý+
+自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理中ダメージを与え、物理防御力を中ダウンさせる。自分のＨＰが低いほどダメージがアップする。=Tăng đáng kể tấn công vật lý và tỷ lệ chí mạng vật lý của bản thân, gây sát thương vật lý lớn cho kẻ địch phía trước và giảm phòng thủ vật lý của chúng một chút. Càng ít máu của bản thân, sát thương vật lý càng cao.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=►Tăng tấn công vật lý của bản thân lên $1 trong 18s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 18s.\n►Gây $3 sát thương vật lý cho kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch lên $4 trong 12s.
+
+##UE##
+ブレイブタイガーメイル=Áo Giáp Hổ Vàng

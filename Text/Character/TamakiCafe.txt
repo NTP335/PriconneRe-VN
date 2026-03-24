@@ -1,0 +1,29 @@
+##Profile##
+【物理】後衛から客を癒しもてなす猫カフェ店員の猫娘。物攻の高いキャラの傍で周囲の物攻アップやＨＰとＴＰを回復し、周囲の味方数で強化される攻撃で敵を一掃する。=[Vật lý] Một cô mèo làm nhân viên café, chữa lành và giải trí khách hàng từ hàng sau. Cô ấy tăng P.ATK và hồi HP và TP cho đồng minh gần đồng minh có P.ATK cao. Cô ấy cũng sử dụng các đòn tấn công được tăng cường dựa trên số lượng đồng minh xung quanh để tiêu diệt kẻ thù.
+
+##UB##
+ねこねこカフェパーティー=Neko-Neko Café Party
+敵全体に物理大ダメージを与え、自分の物理攻撃力を中アップし、自分を中心とした範囲内の味方すべてのＨＰを小回復する。範囲内の味方の人数に応じて、ダメージと物理攻撃力の上昇量が増加する。=Gây sát thương vật lý lớn lên tất cả kẻ thù, tăng P.ATK của bản thân một cách vừa phải, và hồi HP cho đồng minh trong phạm vi một chút. Sát thương gây ra và buff P.ATK tăng theo số lượng đồng minh trong phạm vi.
+r:"^敵全体に(\d+)の物理ダメージ範囲内の味方のＨＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Gây $1 (+0.48×$1×Ally Count) P.DMG lên tất cả kẻ thù.\n►Hồi HP cho đồng minh trong phạm vi 150 bằng $2.\n►Tăng P.ATK của bản thân bằng $3 (+0.2×$3×Ally Count) trong 18s.
+
+##S1##
+ビターエッジ=Bitter Edge
+前方の敵すべてに物理中ダメージを与え、自分を中心とした範囲内の味方すべてのＴＰを小回復させ、自分のＴＰを小回復させる。範囲内の味方の人数に応じて、ダメージと自分のＴＰの回復量が増加する。=Gây sát thương vật lý vừa phải lên tất cả kẻ thù phía trước, hồi TP cho đồng minh trong phạm vi một chút, và hồi TP của bản thân một lượng nhỏ. Sát thương gây ra và lượng hồi TP tăng theo số lượng đồng minh trong phạm vi.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の味方のＴＰを75回復自分のＴＰを100回復$"=Thời gian niệm: 1.05s\n►Gây $1 (+0.48×$1×Ally Count) P.DMG lên tất cả kẻ thù phía trước.\n►Hồi TP cho đồng minh trong phạm vi 150 bằng 75.\n►Hồi TP của bản thân bằng 100 (+10×Ally Count).
+
+##S2##
+スウィートサービス=Sweet Service
+最も物理攻撃力の高い味方１キャラの傍に移動し、そのキャラを中心とした範囲内の味方すべての物理攻撃力を大アップ、ＨＰを小回復するフィールドを展開する。=Dịch chuyển đến một đồng minh khác có P.ATK cao nhất, và triển khai một vùng trường tăng P.ATK cho đồng minh trong phạm vi rất nhiều và hồi HP cho họ một chút.
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Thời gian niệm: 1.05s\n►Dịch chuyển đến một đồng minh khác có P.ATK cao nhất.\n►Triển khai vùng trường bán kính 150 tăng P.ATK bằng $1 trong 12s.\n►Triển khai vùng trường bán kính 150 hồi HP bằng $2/giây trong 7.5s.
+
+##EX##
+キャッツチルアウト=Cats Chill-out
+キャッツチルアウト+=Cats Chill-out+
+
+##S1+##
+ビターエッジ+=Bitter Edge+
+前方の敵すべてに物理中ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を大アップし、ＴＰを小回復させ、自分のＴＰを小回復させる。範囲内の味方の人数に応じて、ダメージと物理攻撃力の上昇量と自分のＴＰの回復量が増加する。=Gây sát thương vật lý vừa phải lên tất cả kẻ thù phía trước, tăng P.ATK cho đồng minh trong phạm vi rất nhiều, hồi TP cho họ một chút, và hồi TP của bản thân một lượng nhỏ. Sát thương gây ra, buff P.ATK và lượng hồi TP tăng theo số lượng đồng minh trong phạm vi.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の味方のＴＰを75回復自分のＴＰを100回復範囲内の味方の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 1.05s\n►Gây $1 (+0.48×$1×Ally Count) P.DMG lên tất cả kẻ thù phía trước.\n►Hồi TP cho đồng minh trong phạm vi 150 bằng 75.\n►Hồi TP của bản thân bằng 100 (+10×Ally Count).\n►Tăng P.ATK cho đồng minh trong phạm vi 150 bằng $2 (+0.2×$2×Ally Count) trong 12s.
+
+##UE##
+ナッシュカッツェ主任服=Naschkatze Chief Uniform

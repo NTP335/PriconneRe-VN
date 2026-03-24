@@ -1,0 +1,18 @@
+Ninon Joubert Birthday
+
+……ここでいいはずデス。=...Chắc chắn là chỗ này rồi.
+今日、学校の下駄箱に入っていた古めかしい手紙。\nそれには、ここで待っていると書かれていまシタ……！\nこれはきっと果たし状というやつデース！=Hôm nay tôi tìm thấy một bức thư cũ trong tủ giày ở trường. Trong thư nói "Tớ sẽ chờ cậu ngay đây"...! Chắc chắn tôi bị thách đấu rồi!
+ムムッ！　ナニヤツ！\n姿を現すがいいクセモノ！=Hừm! Ai đang cười?! Hãy lộ diện đi, đồ ác nhân!
+グ、グエー！？\nこんなところで討たれるとは、ム、無念、デース……！=H-Hự?! Bị đánh bại ở một nơi như thế này, thật... thật là quá oan ức...!
+……フゥ～！\nさすがはショーグン！\n実に見事な隠れ身デシタ！=...Ôi trời! Tuyệt vời như mọi khi, Shogun! Kỹ thuật ẩn nấp vừa rồi thật sự rất ấn tượng!
+やっぱりこの手紙、ショーグンからでしたか。\nこの呼び出しのためにわざわざワタシの学校まで来てくれたんデス？=Vậy ra bức thư này là do cậu gửi. Cậu đã đi xa đến trường em chỉ để gửi bức thư này sao?
+オー！　ショーグン、覚えててくれたんデスかー！\nバースデイプレゼントにウチジニ体験できるなんて、\nワタシ、すっごく感動デース！=Ô! Shogun, hóa ra cậu vẫn nhớ?! Lại còn được trải nghiệm "Uchijin" làm món quà sinh nhật, em xúc động quá!
+えっ？　それだけじゃない？\nこれは、さっきワタシを討った刀……！\nもしかしてこれを、ワタシに……！？=Hả? Không chỉ vậy sao? Đây là thanh katana đã giết em lúc nãy...! Không lẽ cậu định tặng thanh này cho em...?!
+ひゅーっ！　ありがとうございマース！\nショーグンから刀を賜れるトハ……！\nまるで本物みたいに作りこまれていて、美しいデス……！=Kyaaa! Cảm ơn cậu rất nhiều! Được Shogun ban tặng một thanh katana...! Nó đẹp quá, trông giống hệt như em vẫn tưởng tượng...!
+決めまシタ！\nワタシ、この刀でいつまでもショーグンをお守りいたしマス！\nさぁ、今日はこのまま、二人で街を練り歩くデース！=Em đã quyết định rồi! Em sẽ bảo vệ cậu mãi mãi bằng thanh kiếm này, Shogun! Vậy nên, hôm nay chúng ta cùng nhau diễu hành quanh thành thôi!
+
+Player Prompts
+ふっふっふ。=Heheheh...
+隙あり！=Một khe hở!
+ニノンの誕生日をお祝いしたくて。=Em muốn chúc mừng sinh nhật cậu, Ninon
+誕生日おめでとう、ニノン。=Chúc mừng sinh nhật, Ninon

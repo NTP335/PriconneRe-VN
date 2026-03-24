@@ -1,0 +1,51 @@
+挑戦開始時、アルファルピを[-][FFBB00,CE4F00]1000[-][3C404E]多く所持して出発できる=Khi bắt đầu lượt Labyrinth, bắt đầu với [-][FFBB00,CE4F00]1000[-][3C404E] αRupees nhiều hơn trong kho của bạn.
+
+挑戦開始時のアルファルピ増加=Tăng αRupees khi Bắt Đầu.
+
+
+挑戦中、ショップに並ぶアイテムの価格が[-][FFBB00,CE4F00]25％OFF[-][3C404E]になる=Trong lượt Labyrinth, giá của các món hàng\nhiển thị trong cửa hàng sẽ được [-][FFBB00,CE4F00]GIẢM 25％[-][3C404E].
+「アルファルピ」を使用して購入するショップのみ有効=Chỉ có hiệu lực với các cửa hàng chấp nhận\nαRupees.
+
+アルファルピショップ割引=Giảm Giá Cửa Hàng αRupees
+
+
+挑戦開始時、選択したギルドに応じた[-][FFBB00,CE4F00]迷宮遺物[-][3C404E]を追加獲得できる=Khi bắt đầu lượt Labyrinth, nhận thêm [-][FFBB00,CE4F00]Di Vật Labyrinth[-][3C404E].
+挑戦開始時の迷宮遺物追加=Nhận Thêm Di Vật Labyrinth Khi Bắt Đầu.
+
+バトル勝利時のアルファルピ獲得量が[-][FFBB00,CE4F00]50％[-][3C404E]増加する=Trong lượt Labyrinth, tăng αRupees nhận được từ khi thắng trận đấu thêm [-][FFBB00,CE4F00]50％[-][3C404E].
+
+バトル勝利時報酬増加=Phần Thưởng Chiến Thắng Tăng Lên
+
+全キャラ 物理攻撃力強化=Tất Các Nhân Vật Tăng Tấn Công Vật Lý
+全キャラ 物理クリダメ強化=Tất Các Nhân Vật Tăng Sát Thương Vật Lý Chí Mạng
+回復強化ステータス=Hiệu Ứng Tăng Hồi Phục
+全キャラ 回復強化=Tất Các Nhân Vật Tăng Hồi Phục
+通常攻撃強化ステータス=Hiệu Ứng Tăng Tấn Công Thường
+全キャラ 通常攻撃強化=Tất Các Nhân Vật Tăng Tấn Công Thường
+全キャラ 魔法攻撃力強化=Tất Các Nhân Vật Tăng Tấn Công Ma Thuật
+全キャラ 魔法防御力強化=Tất Các Nhân Vật Tăng Phòng Thủ Ma Thuật
+全キャラ 物理防御力強化=Tất Các Nhân Vật Tăng Phòng Thủ Vật Lý
+全キャラ 物理クリティカル強化=Tất Các Nhân Vật Tăng Chí Mạng Vật Lý
+全キャラ ＨＰ強化=Tất Các Nhân Vật Tăng MAX HP
+状態異常命中ステータス=Hiệu Ứng Độ Chính Xác Kỹ Năng Trạng Thái
+全キャラ 状態異常命中強化=Tất Các Nhân Vật Tăng Độ Chính Xác Kỹ Năng Trạng Thái
+全キャラ 魔法クリティカル強化=Tất Các Nhân Vật Tăng Chí Mạng Ma Thuật
+
+全キャラ バフ強化=Tất Các Nhân Vật Tăng Cường Hóa Buff
+全キャラのバフ強化ステータスを[-][FFBB00,CE4F00]10[-][3C404E]アップ=Tăng hiệu quả buff của tất cả nhân vật lên [-][FFBB00,CE4F00]10[-][3C404E].
+全キャラのバフ強化ステータスが[-][FFBB00,CE4F00]15[-][3C404E]アップ=Tăng hiệu quả buff của tất cả nhân vật lên [-][FFBB00,CE4F00]15[-][3C404E].
+※対象となる強化効果はロールマスタリーと共通=※Hiệu quả cường hóa của mục tiêu tương tự như Chuyên Môn Vai Trò
+
+
+全キャラ 魔法クリダメ強化=Tất Các Nhân Vật Tăng Sát Thương Ma Thuật Chí Mạng
+全キャラのデバフ強化ステータスを[-][FFBB00,CE4F00]10[-][3C404E]アップ=Tăng hiệu quả debuff của tất cả nhân vật lên [-][FFBB00,CE4F00]10[-][3C404E].
+全キャラのデバフ強化ステータスが[-][FFBB00,CE4F00]15[-][3C404E]アップ=Tăng hiệu quả debuff của tất cả nhân vật lên [-][FFBB00,CE4F00]15[-][3C404E].
+※対象となる弱体化効果はロールマスタリーと共通=*Hiệu quả suy yếu của mục tiêu tương tự như chuyên môn vai trò
+
+全キャラ デバフ強化=Tất Các Nhân Vật Tăng Cường Hóa Debuff
+全キャラ 物理与ダメージ強化=Tất Các Nhân Vật Tăng Sát Thương Vật Lý
+全キャラ 魔法与ダメージ強化=Tất Các Nhân Vật Tăng Sát Thương Ma Thuật
+
+解放されるノードの効果=Xem Trước Hiệu Ứng Nút Đã Mở Khóa
+以下のノードの解放を行いますか？=Mở khóa các nút sau?
+解放確認=Xác Nhận Mở Khóa

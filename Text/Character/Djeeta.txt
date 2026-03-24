@@ -1,0 +1,82 @@
+##Profile##
+冒険、おしゃべり=Adventure, chatting
+空への冒険を夢見る騎空士の少女=Một người phi hành mơ ước về những cuộc phiêu lưu trên bầu trời
+
+【物理】前衛で、先手必勝の大技を繰り出す騎空士。スキルによるＴＰ回復は、ユニオンバーストの発動を早めバトルの序盤から敵前衛に大ダメージを与える。=[Vật lý] Một người phi hành tấn công nhanh chóng với những đòn lớn từ tiền tuyến. Kỹ năng hồi TP cho phép cô sử dụng Union Burst nhanh chóng và gây sát thương lớn lên kẻ địch phía trước ngay từ đầu trận đấu.
+
+蒼い空と大切な仲間=Blue Sky and Precious Friends
+離れても、通じる心=Even Apart, Our Hearts Are One
+騎空士は初めての空へ=Skyfarer's First Flight
+夢への助走をあなたと=Chasing My Dream With You
+
+とっておきの場所=A Special Place
+秘めたる力=Latent Power
+団長の悩み=A Leader's Woes
+噂の騎空団=The Rumored Crew
+空を越えて来た少女=The Girl From Across The Skies
+仲間のいる喜び=The Joy of Camaraderie
+黄昏の空に思いを馳せて=Memory of the Twilight Sky
+騎空士見習いの少女=The Fledgling Skyfarer
+
+##UB##
+テンペストブレード=Tempest Blade
+
+##S1##
+ワイドブレード=Wide Blade
+目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước trực tiếp.
+
+##S2##
+ウェポンバースト=Weapon Burst
+自分のＴＰを中回復する。=Hồi phục TP của bản thân một lượng vừa phải.
+r:"^自分のＴＰを(\d+)回復$"=►Hồi phục TP của bản thân lên $1.
+## 260lvl
+自分のＴＰを中回復し、物理攻撃力を小アップさせる。=Hồi phục TP của bản thân một lượng vừa phải. Đồng thời tăng nhẹ P.ATK của bản thân.
+r:"^自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Hồi phục TP của bản thân lên $1.\n►Tăng P.ATK của bản thân lên $1 trong 12s.
+
+##EX##
+竜巻の攻刃=Tornado Blade
+竜巻の攻刃+=Tornado Blade+
+
+##S1+##
+ワイドブレード+=Wide Blade+
+目の前の敵１キャラに物理大ダメージを与える。さらに、自分のＴＰを中回復し、自分以外の味方全てのＴＰを小回復させる。=Gây sát thương vật lý lớn lên kẻ địch phía trước trực tiếp. Hồi phục TP của bản thân một lượng vừa phải, và TP của tất cả đồng đội khác một lượng nhỏ.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全員のＴＰを100回復$"=►Gây $1 P.DMG lên kẻ địch.\n►Hồi phục TP của bản thân lên 200.\n►Hồi phục TP của đồng đội lên 100.
+
+##UE##
+アシュケロン=Aschallon
+
+##UB-Kai##
+星河一天=Celestial Torrent
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分の物理攻撃力を特大アップさせる。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước trực tiếp, và tăng mạnh sức tấn công vật lý của bản thân.
+## OLD r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=►Gây $1 P.DMG lên kẻ địch.\n►Tăng P.ATK của bản thân lên $2.
+
+目の前の敵１キャラに物理特大ダメージを与え、味方全体の物理攻撃力を特大アップさせる。発動時既に【CHAIN】が付与されている場合、【CHAIN】を全て消費し、敵全体に物理中ダメージを与える。消費した【CHAIN】の数に応じて敵全体へのダメージ倍率がアップする。=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt và tăng cực đại tấn công vật lý cho toàn đội. Nếu đã có 【CHAIN】 tại thời điểm kích hoạt, tiêu tốn toàn bộ 【CHAIN】 để gây sát thương vật lý vừa lên toàn bộ kẻ địch. Tỉ lệ sát thương lên toàn bộ kẻ địch sẽ tăng tùy theo số lượng 【CHAIN】 đã tiêu thụ.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分以外の味方全体の物理攻撃力を(\d+)アップCHAINが１つ以上の場合、以下の効果が発動する敵全体に(\d+)の物理ダメージCHAINを全て消費する$"=►Gây $1 sát thương vật lý lên một mục tiêu.\n►Tăng $2 tấn công vật lý của bản thân trong 18 giây.\n►Tăng $3 tấn công vật lý của toàn đội (ngoại trừ bản thân) trong 18 giây.\n\nNếu có từ 1 【CHAIN】 trở lên, kích hoạt hiệu ứng sau:\n►Gây $4 sát thương vật lý lên toàn bộ kẻ địch.\n►Tiêu tốn toàn bộ 【CHAIN】.
+
+##S1-Kai##
+アウレア=Aurea
+目の前の敵１キャラに物理特大ダメージを与える。さらに、自分のＴＰを中回復し、自分以外の味方全てのＴＰを小回復させる。=Gây sát thương vật lý lớn lên kẻ địch phía trước trực tiếp. Hồi phục TP của bản thân một lượng vừa phải, và TP của tất cả đồng đội khác một lượng nhỏ.
+##OLD r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全員のＴＰを100回復$"=►Gây $1 P.DMG lên kẻ địch.\n►Hồi phục TP của bản thân lên 200.\n►Hồi phục TP của đồng đội lên 100.
+
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを200回復自分以外の味方全体のＴＰを100回復初使用時、味方がＵＢを使用するたびに自分にCHAINが１つ付与される状態にする$"=►Gây $1 sát thương vật lý lên một mục tiêu.\n►Hồi phục 200 TP cho bản thân.\n►Hồi phục 100 TP cho toàn đội (ngoại trừ bản thân).\n►Trong lần sử dụng đầu tiên, đưa bản thân vào trạng thái nhận 1 tầng 【CHAIN】 mỗi khi đồng đội sử dụng UB.
+
+##S2-Kai##
+トリプルアタック=Triple Attack
+目の前の敵１キャラに物理大ダメージを与え、さらに自分のＴＰを大回復する。=Gây ra lượng lớn sát thương vật lý lên kẻ địch đứng trước mặt, và phục hồi lượng lớn TP của bản thân.
+## OLD r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Phục hồi $2 TP của bản thân.
+
+
+目の前の敵１キャラに物理中ダメージを与え、自分のＴＰを中回復する。これを３回行う。=Gây sát thương vật lý vừa lên 1 kẻ địch trước mặt và hồi phục vừa TP cho bản thân. Hành động này được lặp lại 3 lần.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを190回復敵単体に(\d+)の物理ダメージ自分のＴＰを190回復敵単体に(\d+)の物理ダメージ自分のＴＰを190回復$"=►Gây $1 sát thương vật lý lên một mục tiêu.\n►Hồi phục 190 TP cho bản thân.\n►Gây $2 sát thương vật lý lên một mục tiêu.\n►Hồi phục 190 TP cho bản thân.\n►Gây $3 sát thương vật lý lên một mục tiêu.\n►Hồi phục 190 TP cho bản thân.
+
+##EX-Kai##
+剣聖の賦性=Sword Saint
+
+
+
+##S1SP##
+アウレア+=Aurea+
+目の前の敵１キャラに物理特大ダメージを与える。さらに、自分以外の味方全てのＴＰを中回復させ、自分の物理攻撃力、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップ、ＴＰを中回復する。バトル開始後、初弾のこのスキルは味方がＵＢを使用するたびに自分に【CHAIN】が１つ追加される状態にする。【CHAIN】は最大５つまで追加される。=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt. Ngoài ra, hồi phục vừa TP cho tất cả đồng đội ngoại trừ bản thân, tăng lớn tấn công vật lý và tỉ lệ chí mạng vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý và hồi phục vừa TP cho bản thân. Trong lần đầu sử dụng sau khi bắt đầu trận đấu, kỹ năng này sẽ đưa bản thân vào trạng thái nhận thêm 1 tầng 【CHAIN】 mỗi khi đồng đội sử dụng UB. 【CHAIN】 có thể tích lũy tối đa 5 tầng.
+
+Djeeta
+r:"^敵単体に(\d+)の物理ダメージ自分以外の味方全体のＴＰを150回復自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを100アップ自分の物理クリダメを3％アップ自分のＴＰを200回復初使用時、味方がＵＢを使用するたびに自分にCHAINが１つ付与される状態にする$"=►Gây $1 sát thương vật lý lên một mục tiêu.\n►Hồi phục 150 TP cho toàn đội (ngoại trừ bản thân).\n►Tăng $2 tấn công vật lý của bản thân.\n►Tăng 100 tỉ lệ chí mạng vật lý của bản thân.\n►Tăng 3% sát thương chí mạng vật lý của bản thân.\n►Hồi phục 200 TP cho bản thân.\n►Trong lần đầu sử dụng, đưa bản thân vào trạng thái nhận 1 tầng 【CHAIN】 mỗi khi đồng đội sử dụng UB.

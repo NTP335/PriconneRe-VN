@@ -1,0 +1,45 @@
+##Profile##
+【魔法】後衛の、補助魔法に特化した、晴れ姿の癒し手。自身の攻撃力と引き換えに強力なバリアと継続回復状態を味方全体に付与する。絶大な防御能力は他を圧倒する。=[Phép] Một pháp sư hậu phương sử dụng ma thuật hồi phục và hỗ trợ, mặc trang phục truyền thống. Bằng cách hy sinh sức mạnh tấn công của bản thân, cô tạo ra những rào cản mạnh mẽ hồi phục cho bạn bè, mang lại tiềm năng phòng thủ vượt trội.
+
+初日の出までのひと時=Khởi Đầu Mới, Cùng Nhau
+今年初めての共同作業=Sự Phối Hợp Năm Mới
+変わらぬ優しさ=Luôn Tử Tế, Luôn Quan Tâm
+育む二人とつなぐ味=Hương Vị Nuôi Dưỡng Hai Trái Tim
+あなたの成長がくれた魔法=Ma Thuật Mà Sự Trưởng Thành Của Bạn Đã Mang Lại Cho Em
+買い物帰りの道で……=Trên Đường Về Nhà Sau Khi Mua Sắm…
+願いで結ばれた契り=Mối Ràng Buộc Được Rèn Luyện Bởi Những Ước Nguyện
+ドキドキのお参り=Chuyến Thăm Đền Tim Đập Thình Thịch
+
+約束の大晦日=Đêm Giao Thừa Năm Mới Được Hứa.
+
+##UB##
+サンライズプロテクション=Bảo Vệ Bình Minh
+味方全体に物理/魔法無効バリアと継続ＨＰ回復状態を付与するが、自身の魔法攻撃力を特大ダウンさせる。=Triển khai Barrier lên toàn bộ đồng đội để kháng Sát thương Vật lý/Phép và cấp hiệu ứng hồi phục HP liên tục cho họ, nhưng giảm mạnh M.ATK của bản thân.
+味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与するが、自身の魔法攻撃力を特大ダウンさせる。=Triển khai Barrier lên toàn bộ đồng đội để kháng Sát thương Vật lý/Phép và cấp hiệu ứng hồi phục HP liên tục cho họ, nhưng giảm mạnh M.ATK của bản thân.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する自分の魔法攻撃力を初期値の90%ダウン$"=►Triển khai Barrier kháng $1 Sát thương Vật lý/Phép trong 18s.\n►Hồi phục HP toàn bộ đồng đội thêm $2/giây trong 10s.\n►Giảm M.ATK của bản thân thêm 90% trong 18s.
+
+##S1##
+ウィークネスペタル=Cánh Hoa Suy Yếu
+前から２番目の敵１キャラの物理攻撃力と魔法攻撃力を中ダウンさせる。=Giảm trung bình P.ATK và M.ATK của kẻ địch thứ hai gần nhất.
+
+##S2##
+ブルーミングチアーズ=Nở Rộ Vui Vẻ
+魔法攻撃を行う全ての味方キャラの魔法攻撃力を大アップさせる。=Cực kỳ tăng M.ATK cho toàn bộ đồng đội thuộc type M.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ$"=Thời gian niệm: 1.19s.\n►Tăng M.ATK của toàn bộ đồng đội thuộc type M thêm $1 trong 12s.
+
+##EX##
+ブライトネスニューイヤー=Năm Mới Rực Rỡ
+ブライトネスニューイヤー+=Năm Mới Rực Rỡ+
+
+##UB+##
+フォーチュンプロテクション=Bảo Vệ May Mắn
+味方全体に物理/魔法吸収バリアを展開し、物理ダメージカット効果と魔法ダメージカット効果、継続ＨＰ回復状態を付与する。さらに、味方全体の行動速度を大アップさせるが、自分の魔法攻撃力を特大ダウンさせる。=Triển khai Barrier lên toàn bộ đồng đội hấp thụ Sát thương Vật lý/Phép và cấp hiệu ứng hồi phục HP liên tục, Tăng Cắt Sát thương Vật lý/Phép cho họ. Ngoài ra, cực kỳ tăng tốc độ hành động của toàn bộ đồng đội, nhưng giảm mạnh M.ATK của bản thân.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する毎秒ＨＰを(\d+)回復する自分の魔法攻撃力を初期値の90%ダウン味方全体が受ける物理ダメージを5％カット味方全体が受ける魔法ダメージを5％カット味方全体の行動速度をアップ$"=►Triển khai Barrier hấp thụ $1 Sát thương Vật lý/Phép trong 18s.\n►Hồi phục HP toàn bộ đồng đội thêm $2/giây trong 10s.\n►Giảm M.ATK của bản thân thêm 90% trong 18s.\n►Cấp Cắt Sát thương Vật lý cho toàn bộ đồng đội thêm 5% trong 18s.\n►Cấp Cắt Sát thương Phép cho toàn bộ đồng đội thêm 5% trong 18s.\n►Tăng tốc độ hành động của toàn bộ đồng đội lên 200% trong 18s.
+
+##S1+##
+ウィークネスペタル+=Cánh Hoa Suy Yếu+
+前から２番目の敵１キャラの物理攻撃力と魔法攻撃力と魔法防御力とＴＰ上昇を中ダウンさせる。=Làm giảm vừa phải tấn công vật lý, tấn công ma thuật, phòng thủ ma thuật và Tăng TP của kẻ địch ở vị trí thứ hai gần nhất.
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体のＴＰ上昇を(\d+)ダウン$"=Thời gian niệm: 1.05 giây.\n►Giảm tấn công vật lý của kẻ địch đi $1 trong 12s.\n►Giảm tấn công ma thuật của kẻ địch đi $2 trong 12s.\n►Giảm phòng thủ ma thuật của kẻ địch đi $3 trong 12s.\n►Giảm Tăng TP của kẻ địch đi $3 trong 12s.
+
+##UE##
+曉の祝杖ブロッサム=Hoa Bừng Sáng

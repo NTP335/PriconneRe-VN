@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛でたい焼き器片手に悪を討つ売り子の猫娘。味方全体を物理攻撃力アップとＴＰ回復させ、ＵＢでさらに自分の攻撃力を特大強化し、驚異の威力を発揮する。=[Vật lý] Một cô mèo wielding chiếc chảo taiyaki chiến đấu chống lại cái ác với tư cách là người bán hàng. Cô ấy tăng sức mạnh P.ATK và hồi TP cho tất cả đồng minh, và trong khi dùng UB, cô ấy còn tăng P.ATK của bản thân thêm nữa để giải phóng sức mạnh kinh ngạc.
+
+猫とたわむれること=Playing With Cats
+
+##UB##
+ねこねこたい焼きラッシュ=Neko-Neko Taiyaki Rush
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を特大アップさせる。=Gây sát thương vật lý cực lớn lên kẻ thù phía trước, và đồng thời tăng P.ATK của bản thân một lượng cực lớn.
+
+##S1##
+フィッシュエッジ=Fish Edge
+
+##S2##
+猫のおもてなし=Cat Hospitality
+味方全体のＴＰを小回復させ、さらに物理攻撃力を大アップさせる。=Hồi phục một lượng TP nhỏ cho toàn đội đồng minh và tăng cường P.ATK của họ rất lớn.
+
+##EX##
+キャッツショータイム=Cats Showtime
+キャッツショータイム+=Cats Showtime+
+
+##S1+
+フィッシュエッジ+=Fish Edge+
+目の前の敵１キャラに物理大ダメージを与え、味方全体の物理攻撃力を特大アップする。さらに自分のＴＰ上昇を小アップさせ、ＴＰを中回復させる。=Gây P.DMG cho kẻ địch phía trước, tăng P.ATK cho toàn đội đồng minh một lượng rất lớn. Ngoài ra còn tăng TP Boost của bản thân và hồi phục một lượng TP vừa phải.
+r:"^敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ自分のＴＰを(\d+)回復$"=►Gây $1 P.DMG cho kẻ địch.\n►Tăng P.ATK cho toàn đội đồng minh $2 trong 12s.\n►Tăng TP Boost của bản thân $3 trong 12s.\n►Hồi phục TP của bản thân $4.
+
+##UE##
+鯛刃ニャンオペダガー=Taiba Nyan Oper Dagger

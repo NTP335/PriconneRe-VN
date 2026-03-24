@@ -1,0 +1,31 @@
+##Profile##
+【魔法】後衛で、極大魔法を操り敵を討つ姫装の猫娘。回復や補助を兼ねた各攻撃スキルを駆使し戦況を整え、極大威力のユニオンバーストを撃ち込み敵を燼滅する。=[Phép thuật] Một cô gái mèo dưới dạng công chúa, vung kiếm sức mạnh phép thuật khổng lồ từ tuyến sau để đánh bại kẻ địch. Cô ấy khéo léo sử dụng nhiều kỹ năng tấn công khác nhau cũng có chức năng hồi phục và hỗ trợ để điều khiển chiến trường, sau đó giải phóng Union Burst có sức mạnh cực kỳ để tiêu diệt kẻ địch.
+
+素直な気持ちと恩返し=Sự Chân Thành và Lòng Biết Ơn
+二人で歩んで目指す場所=Nơi chúng ta cùng hướng tới bước đi
+反省と誠意のお節介=Phản chiếu và Sự chân thành can thiệp
+復興と責任のお手伝い=Hỗ trợ Hồi phục và Trách nhiệm
+
+##UB##
+アビスエンドバースト=Kết thúc Vực thẳm Bùng nổ
+目の前の敵１キャラに魔法極大ダメージを与える。=Gây lượng sát thương phép cực lớn lên kẻ địch phía trước.
+
+##S1##
+カラミティサンダー=Thiên tai Sấm sét
+
+##S2##
+アビスコールエイド=Tiếng gọi Vực thẳm Hỗ trợ
+目の前の敵１キャラに魔法中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復させる。このスキルで与えたダメージ量に応じて、ＨＰの回復量が増加する。=Gây sát thương phép vừa phải lên kẻ địch phía trước, và hồi phục một chút HP cho đồng minh có HP thấp nhất. Lượng hồi phục HP tăng theo sát thương phép mà kỹ năng này gây ra.
+r:"^敵単体に(\d+)の魔法ダメージ味方単体のＨＰを(\d+)回復$"=Thời gian thi pháp: 0.66s\n►Gây $1 sát thương phép lên kẻ địch.\n►Hồi phục HP của đồng minh bằng $2.
+
+##EX##
+ダークフルムーン=Trăng đen Toàn phần
+ダークフルムーン+=Trăng đen Toàn phần+
+
+##S1+##
+カラミティサンダー+=Thiên tai Sấm sét+
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を大ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに、自分の魔法攻撃力を小アップさせ、ＴＰを大回復する。このスキルで与えたダメージ量に応じて、攻撃力の上昇量がアップする。=Gây sát thương phép vừa phải lên kẻ địch phía trước, giảm mạnh M.DEF của chúng, và tăng một chút sát thương chí mạng phép mà chúng nhận. Ngoài ra, tăng nhẹ M.ATK của bản thân và hồi phục rất nhiều TP cho bản thân. Mức tăng M.ATK tỷ lệ với sát thương phép mà kỹ năng này gây ra.
+r:"^敵単体に(\d+)の魔法ダメー?ジ敵単体の魔法防御力を(\d+)ダウ?ン敵単体のクリティカルを受けた?際のダメージを10％アップ自分のＴＰを350回復自分の魔法攻撃力を(\d+)アッ?プ$"=Thời gian thi pháp: 0.66s\n►Gây $1 sát thương phép lên kẻ địch.\n►Giảm M.DEF của kẻ địch đi $2 trong 12s.\n►Tăng sát thương chí mạng phép mà kẻ địch nhận lên 10% trong 12s.\n►Hồi phục TP của bản thân thêm 350.\n►Tăng M.ATK của bản thân lên $3 (+0.06×$1) trong 18s.
+
+##UE##
+フィアレスプリンセスロッド=Gậy Nữ hoàng Tự tin

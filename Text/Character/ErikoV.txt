@@ -1,0 +1,32 @@
+##Profile##
+【物理】前衛で、ピンチをチャンスに変える愛の壊し屋。\nスキルはＨＰを消費し、自身の攻撃力を高める。また、\nユニオンバーストはＨＰが低いほど超絶威力を発揮する。=[Vật lý] Kẻ Phá Hủy tiên phong để cướp cơ hội từ nanh vuốt tuyệt vọng trong tên yêu. Kỹ năng của cô tiêu hao HP của bản thân để tăng sức mạnh tấn công, và Union Burst của cô sở hữu lực lượng đáng sợ khi HP thấp.
+
+##UB##
+ラブパニッシュメント=Hình Phạt Tình Yêu
+目の前の敵１キャラに物理特大ダメージを与える。エリコのＨＰが低いほど、ダメージがアップする。=Gây sát thương vật lý lớn lên kẻ địch phía trước trực tiếp. Sát thương tăng theo khi HP của Eriko càng thấp.
+
+##S1##
+ヘヴィミキシング=Pha Chế Nặng Nề
+目の前の敵１キャラに物理中ダメージを与える。エリコのＨＰが低いほど、ダメージがアップする。=Gây sát thương vật lý trung bình lên kẻ địch phía trước trực tiếp. Sát thương tăng theo khi HP của Eriko càng thấp.
+
+##S2##
+スウィートサクリファイス=Hy Sinh Ngọt Ngào
+自分のＨＰを消費し、物理攻撃力を中アップさせる。エリコのＨＰが低いほど、効果がアップする。=Tăng sức mạnh tấn công vật lý của bản thân một lượng trung bình bằng cách tiêu hao HP. Lượng tăng tăng theo khi HP của Eriko càng thấp.
+r:"^自分のＨＰを(\d+)消費自分の物理攻撃力を(\d+)アップ$"=►Giảm HP của bản thân lên $1.\n►Tăng sức mạnh tấn công vật lý của bản thân lên $2 trong 12s.
+
+##EX##
+ディープスピリット=Tinh Thần Sâu Sắc
+ディープスピリット+=Deep Spirit+
+
+##S1+##
+ヘヴィミキシング+=Heavy Mixing+
+目の前の敵１キャラに物理大ダメージを与える。エリコのＨＰが低いほど、ダメージがアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương vật lý vừa phải lên kẻ địch đứng trước mặt. Sát thương tăng theo HP còn lại của Eriko.\nKhi đánh chí mạng, sát thương nhân 4 thay vì 2.
+
+##S2+##
+スウィートサクリファイス+=Sweet Sacrifice+
+自分の残りＨＰの50％を消費し、一定時間無敵状態になり、物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップする。さらに自分のＴＰを大回復する。エリコのＨＰが低いほど、物理攻撃力と物理クリティカルと物理攻撃クリティカル時のダメージアップの効果量が上昇する。=Giảm HP của mình còn 50% HP còn lại, trở nên bất khả xâm phạm trong một khoảng thời gian. Tăng P.ATK và Tỷ lệ chí mạng vật lý một cách lớn lao, tăng Sát thương chí mạng vật lý một cách vừa phải. HP càng thấp của Eriko thì các hiệu ứng trên càng mạnh. Ngoài ra, hồi một lượng TP rất lớn cho bản thân.
+r:"^自分の残りＨＰの50%を消費一定時間無敵状態になる自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを25％アップ自分のＴＰを(\d+)回復$"=►Tiêu thụ 50% HP còn lại của bản thân.\n►Miễn nhiễm với mọi sát thương trong 6s.\n►Tăng P.ATK của bản thân lên $1.\n►Tăng Tỷ lệ chí mạng vật lý của bản thân lên $2.\n►Tăng Sát thương chí mạng vật lý của bản thân lên 25%.\n►Hồi TP của bản thân lên $3.
+
+##UE##
+デストロイホイッパー=Whisk of Destruction
+クレイジーラブ=Crazy Love

@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛で、始原の冠装の力を振るう『誓約女君』。\n10行動目に攻撃力を大幅アップし、スキルに追撃を発生\nさせる【虚数】を得て隔絶した力で楯突く敵を抹消する。=[Vật Lý] Sức mạnh của trang phục vương miện nguyên thủy do "Regina Geas" đeo. Nhận đột phá tấn công vật lý cực lớn ở hành động thứ 10 và nhận trạng thái [Số Ảo] để kích hoạt đòn tấn công kế tiếp, xóa bỏ kẻ thù phản kháng bằng sức mạnh vượt thời gian.
+
+##UB##
+虚数魔境=Cảnh Địa Ngục Ảo
+自分の物理攻撃力を大アップし、敵全体に物理大ダメージを与え、物理防御力を小ダウンさせる。自分に【虚数】が付与されている場合、さらに最も物理防御力の低い敵１キャラに物理特大ダメージを与える。=Tăng rất lớn tấn công vật lý của bản thân, gây sát thương vật lý lớn lên tất cả kẻ địch và giảm nhẹ phòng thủ vật lý của chúng. Khi [Số Ảo] đang hoạt động, còn gây thêm sát thương vật lý cực lớn lên kẻ địch có phòng thủ vật lý thấp nhất.
+
+r:"^自分の物理攻撃力を(\d+)アップ敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン虚数付与中、敵単体に(\d+)の物理ダメージ$"=►Tăng tấn công vật lý của bản thân lên $1.\n►Gây $2 sát thương vật lý lên tất cả kẻ địch.\n►Giảm phòng thủ vật lý của tất cả kẻ địch lên $3.\n\nKhi [Số Ảo] đang hoạt động:\n►Gây $4 sát thương vật lý lên một kẻ địch.
+
+##S1##
+デモニックスラスト=Đòn Thọc Ma Quỷ
+前方の敵すべてに物理中ダメージを与える。自分に【虚数】が付与されている場合、さらに前方の敵の中で最も物理防御力の低い敵１キャラに物理大ダメージを与え、自分のＴＰを中回復する。=Gây sát thương vật lý trung bình lên tất cả kẻ địch phía trước. Khi [Số Ảo] đang hoạt động, còn gây thêm sát thương vật lý lớn lên kẻ địch phía trước có phòng thủ vật lý thấp nhất và phục hồi vừa phải TP của bản thân.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ虚数付与中、敵単体に(\d+)の物理ダメージ虚数付与中、自分のＴＰを150回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n\nKhi [Số Ảo] đang hoạt động:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Phục hồi TP của bản thân lên 150.
+
+##S2##
+アブソリュート・ワン=Chúa Tể Duy Nhất
+自分に【虚数】を付与し、物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージとＴＰ上昇を小アップし、全ての物理攻撃を回避する。闇属性の味方の数に応じて物理攻撃力と物理攻撃クリティカル時のダメージの上昇量が最大４倍までアップする。【虚数】が付与されている間、このキャラのユニオンバーストとスキルのダメージは必ず命中し、クリティカルする。=Nhận [Số Ảo], tăng cực lớn tấn công vật lý, tăng nhẹ sát thương chí mạng vật lý và Hiệu Quả Tăng TP, đồng thời tránh mọi đòn tấn công vật lý. Đồng minh thuộc nguyên tố Hắc Ám làm tăng hiệu quả tăng tấn công vật lý/sát thương chí mạng vật lý lên tối đa 4 lần. Trong khi [Số Ảo], mọi UB/kỹ năng đều đảm bảo đánh trúng và chí mạng.
+r:"^自分に虚数を付与する自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分のＴＰ上昇を15アップ全ての物理攻撃を回避する$"=►Nhận [Số Ảo] cho bản thân.\n►Tăng tấn công vật lý của bản thân lên $1.\n►Tăng sát thương chí mạng vật lý của bản thân lên 10%.\n►Tăng Hiệu Quả Tăng TP của bản thân lên 15.\n►Tránh mọi đòn tấn công vật lý.
+
+##EX##
+イニシャライズディアブロ=Khởi Động Diablo
+イニシャライズディアブロ+=Khởi Động Diablo+
+
+##S1+##
+虚数槍ル・フェイ=Giáo Lê Fey Số Ảo
+デモニックスラスト+=Đòn Thọc Ma Quỷ+
+前方の敵すべてに物理大ダメージを与える。自分に【虚数】が付与されている場合、このスキルのダメージがアップし、さらに前方の敵の中で最も物理防御力の低い敵１キャラに物理大ダメージを与え、自分のＴＰを中回復する。=Gây sát thương vật lý lớn lên tất cả kẻ địch phía trước. Nếu 【Số Ảo】 được áp dụng lên bản thân, sát thương kỹ năng này sẽ tăng, và còn gây thêm sát thương vật lý lớn lên kẻ địch phía trước có phòng thủ vật lý thấp nhất, đồng thời phục hồi vừa phải TP của bản thân.
+r:"^虚数がない時、範囲内の敵に(\d+)の物理ダメージ虚数付与中、範囲内の敵に(\d+)の物理ダメージ虚数付与中、敵単体に(\d+)の物理ダメージ虚数付与中、自分のＴＰを150回復$"=►Nếu không có [Số Ảo]:\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n\nNếu có [Số Ảo] áp dụng:\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Phục hồi TP của bản thân lên 150.

@@ -1,0 +1,32 @@
+##Profile##
+【物理】前衛で、物理火力を担う、振り袖姿の元気娘。物理攻撃キャラの攻撃力を上昇させるスキルを使う。さらに高い威力の単体ユニオンバーストの攻撃力は随一。=[Vật lý] Một cô gái vui tươi mặc kimono dài, nắm giữ hỏa lực vật lý ở tuyến đầu. Cô có thể dùng kỹ năng tăng P.ATK cho đồng minh, và tung một đòn tàn bạo lên một mục tiêu đơn với Union Burst.
+
+##UB##
+ヒヨリハッピースタンプ=Hiyori Dấu Ấn Hạnh Phúc
+目の前の敵１キャラに物理特大ダメージを与え、さらに物理防御力とＴＰ上昇を小ダウンさせる。=Gây sát thương P.DMH lớn lên kẻ địch phía trước và hơi giảm P.DEF và TP Boost của nó.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体のＴＰ上昇を(\d+)ダウン$"=►Gây $1 P.DMH lên kẻ địch.\n►Giảm P.DEF của kẻ địch xuống $2 trong 18s.\n►Giảm TP Boost của kẻ địch xuống $3 trong 18s.
+
+##S1##
+肉球チャージ=Đột Kích Bờm
+自分の物理攻撃力を中アップさせ、さらに物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせる。=Tăng rất mạnh P.ATK của bản thân, và tăng trung bình P.ATK cho tất cả đồng minh thuộc tính Vật lý.
+r:"^自分の物理攻撃力を(\d+)アップ対象の味方の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.8s.\n►Tăng P.ATK của bản thân lên $1 trong 12s.\n►Tăng P.ATK của tất cả đồng minh thuộc tính Vật lý lên $2 trong 12s.
+
+##S2##
+グッドラックパンチ=Quyền Đấm May Mắn
+
+##EX##
+ハッピーストレングス=Sức Mạnh Hạnh Phúc
+ハッピーストレングス+=Sức Mạnh Hạnh Phúc+
+
+##S1+##
+肉球チャージ+=Đột Kích Bờm+
+自分の物理攻撃力を特大アップさせ、さらに物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、物理クリティカルを中アップさせる。=Tăng rất mạnh P.ATK của bản thân, tăng trung bình P.ATK và Tỷ Lệ Chí Mạng P. cho tất cả đồng minh thuộc tính Vật lý.
+r:"^自分の物理攻撃力を(\d+)アップ対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを(\d+)アップ$"=Thời gian niệm: 0.8s.\n►Tăng P.ATK của bản thân lên $1 trong 12s.\n►Tăng P.ATK của tất cả đồng minh thuộc tính Vật lý lên $2 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng P. của tất cả đồng minh thuộc tính Vật lý lên $3 trong 12s.
+
+##UB+##
+ヒヨリソーハッピースタンプ=Hiyori Dấu Ấn Siêu Hạnh Phúc
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせ、ＴＰ上昇を小ダウンさせる。さらに、物理攻撃を行うすべての味方キャラの物理防御力を中アップさせる。=Gây sát thương P.DMH lớn lên kẻ địch phía trước, hơi giảm P.DEF và TP Boost của nó. Đồng thời, tăng trung bình P.DEF cho tất cả đồng minh thuộc tính Vật lý.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体のＴＰ上昇を(\d+)ダウン対象の味方の物理防御力を(\d+)アップ$"=►Gây $1 P.DMH lên kẻ địch.\n►Giảm P.DEF của kẻ địch xuống $2 trong 18s.\n►Giảm TP Boost của kẻ địch xuống $3 trong 18s.\n►Tăng P.DEF của tất cả đồng minh thuộc tính Vật lý lên $4 trong 18s.
+
+##UE##
+猫明神ニャンフィスト=Nắm Đấm Thần Mèo

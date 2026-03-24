@@ -1,0 +1,25 @@
+##Profile##
+【魔法】後衛で、アストルムの冒険へと導くガイド妖精。バフとバリアで味方を護りバリアを起点とする攻撃支援、風属性の味方への行動速度とＴＰの支援で仲間を支える。=[Phép thuật] Một Fairy Hướng dẫn hàng sau dẫn dắt các cuộc phiêu lưu Astrum. Bảo vệ đồng đội với buff/mặt nạ, cung cấp hỗ trợ tấn công kích hoạt bởi mặt nạ, và tăng tốc độ hành động/TP cho đồng đội nguyên tố gió.
+
+##S1##
+ルーチェ・プロデューレ=Sản Xuất Ánh Sáng
+バリアが展開されている味方すべてに物理ダメージカット効果と魔法ダメージカット効果を付与する。さらに、風属性の味方すべてのＨＰを中回復させ、行動速度を大アップさせる。=Giảm sát thương vật lý và ma thuật cho đồng đội được khiên bảo vệ. Hồi trung bình HP và tăng cực lớn tốc độ hành động cho tất cả đồng đội nguyên tố Gió.
+r:"^バリアが展開されている味方が受ける物理ダメージを15％カットバリアが展開されている味方が受ける魔法ダメージを15％カット風属性の味方のＨＰを(\d+)回復風属性の味方の行動速度アップ$"=►Giảm sát thương vật lý (P.DMG) nhận bởi đồng đội có [Khiên Bảo Vệ] thêm 15%.\n►Giảm sát thương ma thuật (M.DMG) nhận bởi đồng đội có [Khiên Bảo Vệ] thêm 15%.\n►Hồi HP cho đồng đội Gió thêm $1.\n►Tăng Tốc độ Hành động của đồng đội Gió.
+
+##S2##
+ファータ・パルピト=Nhịp Tim Đập
+味方全体の物理攻撃力と魔法攻撃力を大アップ、物理攻撃クリティカル時のダメージと魔法攻撃クリティカル時のダメージを小アップさせる。この効果はバリアが展開されている味方に対して効果量がアップする。さらに、風属性の味方すべてのＴＰを中回復させる。=Tăng cực lớn Tấn Công Vật Lý/Ma Thuật (P.ATK/M.ATK) cho tất cả đồng đội + tăng nhỏ Sát Thương Vật Lý/Ma Thuật Phá Giáp (P.CRIT DMG/M.CRIT DMG). Hiệu quả mạnh hơn với đồng đội có khiên bảo vệ. Hồi trung bình TP cho đồng đội nguyên tố Gió.
+r:"^バリアが展開されている味方の物理攻撃力と魔法攻撃力を(\d+)アップバリアが展開されている味方の物理クリダメと魔法クリダメを16％アップバリアが展開されていない味方の物理攻撃力と魔法攻撃力を(\d+)アップバリアが展開されていない味方の物理クリダメと魔法クリダメを8％アップ風属性の味方のＴＰを200回復$"=►Tăng P.ATK & M.ATK của đồng đội có [Khiên Bảo Vệ] thêm $1.\n►Tăng P.CRIT DMG & M.CRIT DMG của đồng đội có [Khiên Bảo Vệ] thêm 16%.\n►Tăng P.ATK & M.ATK của đồng đội không có [Khiên Bảo Vệ] thêm $2.\n►Tăng P.CRIT DMG & M.CRIT DMG của đồng đội không có [Khiên Bảo Vệ] thêm 8%.\n►Hồi TP cho đồng đội Gió thêm 200.
+##EX##
+リトルノピウマ=Chú Chim Nhỏ
+リトルノピウマ+=Chú Chim Nhỏ+
+
+
+
+
+
+
+
+
+
+

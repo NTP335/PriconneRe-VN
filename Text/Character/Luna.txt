@@ -1,0 +1,50 @@
+##Profile##
+【魔法】後衛で、死霊術でおともだちを作る可憐な少女。\nルナがダメージを与える度に集まってくるおともだちを、\n各スキルで消費する。消費数に応じ強大な力を発揮する。=[Ma pháp] Một cô bé dễ thương sử dụng thuật hồn thiêng từ tuyến sau để tìm bạn bè. Những người bạn mà Luna thu thập khi gây sát thương sẽ bị tiêu hao bởi mỗi kỹ năng. Sức mạnh to lớn cô ấy thể hiện dựa trên số lượng Bạn bè cô ấy tiêu hao.
+
+「おともだち」を探すこと=Đi tìm "bạn bè"
+おともだちを探す死霊術師の少女=Một cô gái thần sử tìm kiếm một người bạn
+
+おともだちになってよ！=Cùng Ta Phiêu Lưu Nào
+かくれんぼ=Trốn Tìm
+サンドイッチ=Bánh Kẹp
+夢とデート=Ngày Hẹn Hòa Giấc Mơ
+罪のありか=Trọng Tâm Của Tội Lỗi
+さみしさを、約束と=Sự Cô Độc Và Lời Hứa
+それは命と死の母=Gia Đình Trong Sinh Mệnh Và Cái Chết
+心を込めて=Với Trái Tim Cảm Tạ
+
+##UB##
+ファントムハウル=Tiếng Rú Ma Quỷ
+目の前の敵１キャラに魔法中ダメージを与える。おともだちがいる場合、最大５人までおともだちを消費してダメージを増加させる。=Gây sát thương ma pháp vừa phải lên kẻ địch ngay phía trước. Nếu Luna có bất kỳ Bạn bè nào, tiêu hao tới 5 Bạn bè để tăng sát thương.
+r:"^敵単体に(\d+)の魔法ダメージおともだちを最大５人減らす$"=►Gây $1 sát thương ma pháp lên kẻ địch.\n►Mất tối đa 5 Bạn bè.
+
+##S1##
+ソウルコンバージョン=Chuyển Hóa Hồn
+最も残りＨＰが高い味方１キャラに魔法中ダメージを与え、そのキャラのＴＰを中回復しルナのおともだちが１人追加で増える。=Gây sát thương ma pháp vừa phải lên đồng minh có %HP cao nhất và hồi TP của họ một lượng vừa phải. Luna nhận thêm 1 Bạn bè.
+最も残りＨＰが高い味方１キャラに魔法中ダメージを与え、さらにそのキャラのＴＰを中回復する。ルナのおともだちが１人追加で増える。=Gây sát thương ma pháp vừa phải lên đồng minh có %HP cao nhất và hồi TP của họ một lượng vừa phải. Luna nhận thêm 1 Bạn bè.
+r:"^味方単体に(\d+)の魔法ダメージ味方単体のＴＰを(\d+)回復おともだちを追加で１人増やす$"=►Gây $1 sát thương ma pháp lên đồng minh có %HP cao nhất.\n►Hồi TP của đồng minh lên $2.\n►Thêm 1 Bạn bè.
+## 260lvl
+最も残りＨＰが高い味方１キャラに魔法中ダメージを与え、さらにそのキャラのＴＰを中回復し、魔法攻撃力を小アップさせる。ルナのおともだちが１人追加で増える。=Gây sát thương ma pháp vừa phải lên đồng minh có %HP cao nhất và hồi TP của họ một lượng vừa phải, tăng M.ATK của họ. Luna nhận thêm 1 Bạn bè.
+r:"^味方単体に(\d+)の魔法ダメージ味方単体のＴＰを(\d+)回復おともだちを追加で１人増やす味方単体の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma pháp lên đồng minh có %HP cao nhất.\n►Hồi TP của đồng minh lên $2.\n►Thêm 1 Bạn bè.\n►Tăng M.ATK của đồng minh lên $2 trong 12s.
+
+##S2##
+消えぬ怨恨=Sự Hằn Thù Bất Diệt
+目の前の敵１キャラに魔法中ダメージを与える。おともだちが２人以上いる場合、代わりにおともだちを２人消費して魔法大ダメージを与える。=Gây sát thương ma pháp vừa phải lên kẻ địch ngay phía trước, Nếu Luna có 2 Bạn bè trở lên, tiêu hao 2 Bạn bè và gây sát thương ma pháp lớn thay vào đó.
+r:"^おともだちが２人以上いない時敵単体に(\d+)の魔法ダメージおともだちが２人以上いる時敵単体に(\d+)の魔法ダメージおともだちが２人以上いる時おともだちを２人減らす$"=Nếu Bạn bè < 2:\n►Gây $1 sát thương ma pháp lên kẻ địch.\n\nNếu Bạn bè ≥ 2:\n►Gây $2 sát thương ma pháp lên kẻ địch.\n►Mất 2 Bạn bè.
+
+##SP1##
+ルナのおともだちになってくれる？=Cùng Ta Phiêu Lưu Nào
+ルナがダメージを与える度に、おともだちが１つ増えるようになる。=Khiến Luna nhận 1 Bạn bè mỗi khi cô ấy gây sát thương lên mục tiêu.
+
+##EX##
+おともだちになってくれる？=Cậu Có Tham Gia Cuộc Phiêu Lưu Của Ta Không?
+おともだちになってくれる？+=Cậu Có Tham Gia Cuộc Phiêu Lưu Của Ta Không?+
+
+##S1+##
+ソウルコンバージョン+=Chuyển Hóa Hồn+
+最も残りＨＰが高い味方１キャラに魔法中ダメージを与え、そのキャラのＴＰを中回復し魔法攻撃力を小アップ、魔法クリティカルを大アップさせる。さらに、自分のＴＰを小回復する。ルナのおともだちが１人追加で増える。=Gây sát thương ma pháp vừa phải lên đồng minh có %HP cao nhất và hồi TP của họ một lượng vừa phải, tăng M.ATK và Tỷ lệ Chí mạng Ma pháp của họ. Hồi một lượng TP nhỏ của bản thân. Luna nhận thêm 1 Bạn bè.
+最も残りＨＰが高い味方１キャラに魔法中ダメージを与え、そのキャラのＴＰを中回復し魔法攻撃力を中アップ、魔法クリティカルを大アップさせる。さらに、自分のＴＰを小回復する。ルナのおともだちが１人追加で増える。=Gây sát thương ma pháp vừa phải lên đồng minh có %HP cao nhất và hồi TP của họ một lượng vừa phải, tăng M.ATK và Tỷ lệ Chí mạng Ma pháp của họ. Hồi một lượng TP nhỏ của bản thân. Luna nhận thêm 1 Bạn bè.
+r:"^味方単体に(\d+)の魔法ダメージ味方単体のＴＰを(\d+)回復おともだちを追加で１人増やす味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ自分のＴＰを(\d+)回復$"=►Gây $1 sát thương ma pháp lên đồng minh có %HP cao nhất.\n►Hồi TP của đồng minh lên $2.\n►Thêm 1 Bạn bè.\n►Tăng M.ATK của đồng minh lên $3 trong 12s.\n►Tăng Tỷ lệ Chí mạng Ma pháp lên $4 trong 12s.\n►Hồi TP của bản thân lên $5.
+
+##UE##
+ルナのおともだち=Bạn Bè Của Luna

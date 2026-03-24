@@ -1,0 +1,22 @@
+##Profile##
+【魔法】後衛で、シゲキ的な聖夜に鼓動高鳴る溌溂少女★【イルミネーションバレット】を消費して味方を支援し、40消費後は追加の範囲攻撃やバフでキュン★を届ける。=[Ma Thuật] Một cô gái hàng sau sôi nổi trái tim đập thình thịch trong đêm Giáng Sinh đầy hào hứng★ Hỗ trợ đồng đội bằng cách tiêu thụ [Đạn Ánh Sáng], và sau khi tiêu thụ 40, mang đến khoảnh khắc "kyun★" đầy xúc cảm với đòn tấn công diện rộng và buff bổ sung.
+
+##UB##
+クラッシュ★クラッカー=Crash★Cracker
+自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、前方の敵すべてに魔法大ダメージを与える。【イルミネーションバレット】が10の場合、すべて消費して、自分を中心とした範囲内の味方すべての魔法攻撃のダメージを小アップする。発動時既にユニオンバーストで【イルミネーションバレット】を40以上消費している場合、追加で前方の敵すべてに魔法特大ダメージを与える。=Tăng mạnh M.ATK cho tất cả đồng đội trong vòng tròn xung quanh bản thân và tăng nhẹ M.CRIT DMG, đồng thời gây sát thương phép thuật lớn cho tất cả kẻ địch phía trước. Nếu số [Illumination Bullet] là 10, sẽ tiêu hao toàn bộ chúng để tăng nhẹ M.DMG cho tất cả đồng đội trong vòng tròn xung quanh bản thân. Nếu đã tiêu hao 40+ [Illumination Bullets] bằng Union Burst khi kích hoạt, còn gây thêm sát thương phép thuật khổng lồ cho tất cả kẻ địch phía trước.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリダメを10％アップ範囲内の敵に(\d+)の魔法ダメージイルミネーションバレットが10の場合、イルミネーションバレットを10消費するイルミネーションバレットが10の場合、範囲内の味方が与える魔法ダメージを10％アップユニオンバーストでイルミネーションバレットを40以上消費している場合、範囲内の敵に(\d+)の魔法ダメージ$"=►Tăng M.ATK cho đồng đội trong phạm vi lên $1.\n►Tăng M.CRIT DMG cho đồng đội trong phạm vi lên 10%.\n►Gây $2 M.DMG cho kẻ địch trong phạm vi.\n\nNếu [Illumination Bullet] là 10:\n►Tiêu hao 10 [Illumination Bullet].\n►Tăng M.DMG gây ra của đồng đội trong phạm vi lên 10%.\n\nNếu đã tiêu hao 40 hoặc hơn [Illumination Bullet] bằng Union Burst:\n►Gây $3 M.DMG cho kẻ địch trong phạm vi.
+
+
+##S1##
+ゆきだる★ぺんぽこりん=Snowman★Penpokorin
+自分を中心とした範囲内の味方すべてのＨＰを小回復、魔法攻撃力を特大アップさせ、前方の敵すべてに魔法大ダメージを与える。さらに【イルミネーションバレット】を３つ獲得する。このスキルがクリティカルした場合、【イルミネーションバレット】の獲得量が６つになる。ユニオンバーストで【イルミネーションバレット】を40以上消費している場合、追加で自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップさせ、前方の敵すべてに魔法大ダメージを与える。=Hồi phục nhẹ HP cho tất cả đồng đội trong vòng tròn xung quanh bản thân và tăng mạnh M.ATK của họ, đồng thời gây sát thương phép thuật lớn cho tất cả kẻ địch phía trước. Ngoài ra còn nhận thêm 3 [Illumination Bullets]. Nếu kỹ năng này phát thành công chí mạng, sẽ nhận 6 [Illumination Bullets] thay vào đó. Nếu Union Burst đã tiêu hao 40+ [Illumination Bullets], còn tăng mạnh M.ATK cho tất cả đồng đội trong vòng tròn xung quanh bản thân và gây sát thương phép thuật lớn cho tất cả kẻ địch phía trước.
+r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の敵に(\d+)の魔法ダメージこのスキルがクリティカルしていない場合、イルミネーションバレットを(\d+)つ獲得このスキルがクリティカルした場合、イルミネーションバレットを(\d+)つ獲得ユニオンバーストでイルミネーションバレットを40以上消費している場合、以下の効果が発動する範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の敵に(\d+)の魔法ダメージ$"=►Hồi HP cho đồng đội trong phạm vi lên $1.\n►Tăng M.ATK của đồng đội trong phạm vi lên $2.\n►Gây $3 M.DMG cho kẻ địch trong phạm vi.\n\nNếu kỹ năng này không phát chí mạng:\n►Nhận $4 [Illumination Bullet].\n\nNếu kỹ năng này phát chí mạng:\n►Nhận $5 [Illumination Bullet].\n\nNếu đã tiêu hao 40 hoặc hơn [Illumination Bullet] bằng Union Burst:\n►Tăng M.ATK của đồng đội trong phạm vi lên $6.\n►Gây $7 M.DMG cho kẻ địch trong phạm vi.
+
+##S2##
+メリー★ばっきゅん=Merry★Bakkyun
+自分を中心とした範囲内の味方すべてのＨＰを小回復するフィールドを展開し、物理防御力と魔法防御力を中アップ、ＴＰ上昇を小アップ、魔法クリティカルを特大アップさせ、自分のＴＰを小回復し、【イルミネーションバレット】を４つ獲得する。【イルミネーションバレット】は最大10まで獲得できる。ユニオンバーストで【イルミネーションバレット】を40以上消費している場合、追加で【イルミネーションバレット】を６つ獲得し、自分のＴＰを特大回復する。=Triển khai một vùng trường xung quanh bản thân, hồi phục nhẹ HP cho tất cả đồng đội trong phạm vi, tăng trung bình P.DEF và M.DEF, tăng nhẹ TP Boost, tăng mạnh M.CRIT RATE, hồi phục nhẹ TP của bản thân và nhận 4 [Illumination Bullets]. Số [Illumination Bullets] có thể nhận tối đa là 10. Nếu Union Burst đã tiêu hao 40+ [Illumination Bullets], còn nhận thêm 6 [Illumination Bullets] và hồi phục mạnh TP của bản thân.
+r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方のＴＰ上昇を8アップ範囲内の味方の魔法クリティカルを180アップ自分のＴＰを100回復イルミネーションバレットを(\d+)つ獲得ユニオンバーストでイルミネーションバレットを40以上消費している場合、以下の効果が発動するイルミネーションバレットを(\d+)つ獲得自分のＴＰを1000回復$"=►Triển khai vùng trường hồi HP $1 mỗi giây.\n►Tăng P.DEF của đồng đội trong phạm vi lên $2.\n►Tăng M.DEF của đồng đội trong phạm vi lên $3.\n►Tăng TP Boost của đồng đội trong phạm vi lên 8.\n►Tăng M.CRIT RATE của đồng đội trong phạm vi lên 180.\n►Hồi TP của bản thân lên 100.\n►Nhận $4 [Illumination Bullet].\n\nNếu đã tiêu hao 40 hoặc hơn [Illumination Bullet] bằng Union Burst:\n►Nhận $5 [Illumination Bullet].\n►Hồi TP của bản thân lên 1000.
+
+##EX##
+チャーミング★スカイ=Charming★Sky
+チャーミング★スカイ+=Charming★Sky+

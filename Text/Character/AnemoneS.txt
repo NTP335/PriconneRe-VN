@@ -1,0 +1,21 @@
+##UB##
+フルートフル・ブルーム=Fruitful Bloom
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、魔法防御力を小ダウンさせる。さらに、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、継続ＨＰ回復状態を付与する。=Gây sát thương ma thuật lớn (tính là sát thương vật lý nếu P.DEF của mục tiêu < M.DEF) lên một kẻ địch phía trước, giảm nhẹ M.DEF, tăng mạnh M.ATK cho toàn bộ đồng minh, tăng lớn M.CRIT RATE, tăng nhẹ M.CRIT DMG, và trao phục hồi HP liên tục.
+r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ敵単体の魔法防御力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを3％アップ毎秒ＨＰを(\d+)回復する$"="►Gây $1 sát thương ma thuật lên một kẻ địch (dùng giá trị DEF thấp hơn)\n►Giảm M.DEF của một kẻ địch đi $2\n►Tăng M.ATK cho toàn bộ đồng minh đi $3\n►Tăng M.CRIT RATE cho toàn bộ đồng minh lên 100\n►Tăng M.CRIT DMG cho toàn bộ đồng minh lên 3%\n►Phục hồi $4 HP mỗi giây"
+
+##S1##
+バルーンクラップ=Balloon Clap
+目の前の敵１キャラの物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。バトル開始後、初弾のこのスキルは、追加で目の前の敵１キャラの物理攻撃のダメージと魔法攻撃のダメージを小ダウンさせる。=Giảm mạnh P.ATK/M.ATK và giảm nhẹ M.DEF của một kẻ địch phía trước. Khi dùng lần đầu trong trận đấu, thêm vào đó giảm nhẹ sát thương vật lý/ma thuật mà kẻ địch gây ra.
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン初使用時、敵単体が与える物理ダメージを5％ダウン初使用時、敵単体が与える魔法ダメージを5％ダウン$"="►Giảm P.ATK của một kẻ địch đi $1\n►Giảm M.ATK của một kẻ địch đi $2\n►Giảm M.DEF của một kẻ địch đi $3\n\nKhi dùng lần đầu:\n►Giảm sát thương vật lý do kẻ địch gây ra đi 5%\n►Giảm sát thương ma thuật do kẻ địch gây ra đi 5%"
+
+##S2##
+サマーネクター=Summer Nectar
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体の行動速度アップ光属性の味方のＨＰを(\d+)回復光属性の味方のＴＰを100回復$"="►Tăng P.DEF cho toàn bộ đồng minh đi $1\n►Tăng M.DEF cho toàn bộ đồng minh đi $2\n►Tăng tốc độ hành động cho toàn bộ đồng minh\n►Phục hồi HP cho đồng minh [Ánh sáng] đi $3\n►Phục hồi 100 TP cho đồng minh [Ánh sáng]"
+味方全体の物理防御力と魔法防御力を小アップさせ、行動速度を大アップさせる。さらに、光属性の味方すべてのＨＰとＴＰを小回復させる。バトル開始後、初弾のこのスキルは、光属性の味方の数に応じてＴＰの回復量が最大５倍までアップする。=Tăng nhẹ P.DEF/M.DEF cho toàn bộ đồng minh và tăng mạnh tốc độ hành động. Đồng thời, phục hồi nhẹ HP/TP cho toàn bộ đồng minh [Ánh sáng]. Khi dùng lần đầu trong trận đấu, lượng phục hồi TP tăng lên tối đa 5 lần dựa trên số lượng đồng minh [Ánh sáng].
+
+#EX##
+トロピカルリーフ=Tropical Leaf
+トロピカルリーフ+=Tropical Leaf+
+
+##Misc##
+【魔法】中衛で砂浜の木陰に微睡むアルラウネの妖魔人。行動速度アップや初回使用時に回復量が増加するＴＰ回復を起点に支援し、穏やかな木漏れ日と共にゆらゆら憩う。=[Ma thuật] Một Alraune Monstress chợp mắt dưới bóng cây dọc bãi cát từ vị trí trung tâm. Cô hỗ trợ đồng minh bằng cách tăng tốc độ hành động và phục hồi TP—có lượng phục hồi tăng lên khi dùng lần đầu— và đung đưa thư thái dưới ánh nắng nhẹ nhàng rải rác.

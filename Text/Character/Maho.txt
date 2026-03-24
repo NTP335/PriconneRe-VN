@@ -1,0 +1,93 @@
+##Profile##
+空想、ぬいぐるみ集め=Thích sưu tầm thú nhồi bông
+マホマホ王国のプリンセス=Công Chúa của Vương Quốc Maho-Maho
+
+【魔法】後衛で味方のサポートを担当するメルヘン少女。味方全体を強化してＴＰを回復するユニオンバーストや、ＨＰ回復、敵を暗闇にするスキルで戦況を好転させる。=[Ma thuật] Một cô gái như trong truyện cổ tích, hỗ trợ đội từ hậu phương. Lật ngược tình thế trận đấu với Union Burst tăng buff cho toàn đồng đội và hồi TP, cùng kỹ năng hồi HP và làm mù kẻ thù.
+
+ジェラシープリンセス=Jealousy Princess
+姫と王子の誓い=Lời Thề của Công Chúa và Hoàng Tử
+姫を救うは王子の心=Trái Tim của Hoàng Tử để Cứu Công Chúa
+お姫さまのおもてなし=Princess's Hospitality
+湖畔のプリンセス=Princess by the Lakeside
+籠の中のお姫様=Princess in the Cage
+マホ姫のお城へご招待=Invitation to Princess Maho's Castle
+プリンセスの気まぐれ魔法=Princess's Whimsical Magic
+夢と魔法のワンダーランド=Wonderland of Dreams and Magic
+お迎えの時間=Time for the Princess's Welcome
+姫と王子は馬車に揺られて=The Princess and the Prince Rocked by the Carriage
+
+##Legacy UB##
+メルヘンガーデン=Fairy-tale Garden
+味方全体の魔法攻撃力を小アップ、物理防御力を小アップさせ、さらにＴＰを小回復する。=Tăng nhỏ M.ATK và P.DEF của đồng đội và hồi một lượng TP nhỏ.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Tăng M.ATK của đồng đội lên $1 trong 18s.\n►Tăng P.DEF của đồng đội lên $2 trong 18s.\n►Hồi TP của đồng đội $3.
+
+##UB##
+メルヘンガーデン=Fairy-tale Garden
+味方全体の魔法攻撃力を大アップ、物理防御力を中アップさせ、さらにＴＰを固定量で小回復する。=Tăng mạnh M.ATK cho tất cả đồng đội, tăng trung bình P.DEF, và hồi một lượng TP nhỏ cố định.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体のＴＰを固定量で(\d+)回復$"=►Tăng M.ATK cho tất cả đồng đội lên $1 trong 18s.\n►Tăng P.DEF cho tất cả đồng đội lên $2 trong 18s.\n►Hồi TP cố định $3 cho tất cả đồng đội.
+
+##S1##
+マホマホヒール=Maho-Maho Healing
+ＨＰが１番低い味方１キャラのＨＰを中回復する。=Hồi HP cho thành viên đội có HP thấp nhất một lượng trung bình.
+最もＨＰの割合が低い味方１キャラのＨＰを中回復する。=Hồi HP cho thành viên đội có tỷ lệ HP thấp nhất một lượng trung bình.
+
+##S2##
+マホマホダークネス=Maho-Maho Darkness
+前から２番目の敵１キャラを暗闇状態にする。=Gây mù cho kẻ thù ở vị trí thứ 2.
+r:"^敵単体を暗闇状態にする$"=►Gây mù.
+r:"^敵単体を暗闇状態にする敵単体の物理・魔法攻撃力を(\d+)ダウン敵単体の物理・魔法クリティカルを150ダウン$"=Thời gian thi triển: 2.13 giây\n►Gây trạng thái Mù (Tấn công vật lý trượt 60%) lên một kẻ địch trong 8 giây.\n►Giảm $1 tấn công vật lý và ma thuật của một kẻ địch trong 18 giây.\n►Giảm 150 tỷ lệ chí mạng vật lý và ma thuật của một kẻ địch trong 18 giây.
+前から２番目の敵１キャラを暗闇状態にし、物理・魔法攻撃力、物理・魔法クリティカルを大ダウンさせる。=Khiến một kẻ địch ở vị trí thứ 2 từ phía trước rơi vào trạng thái mù loà (Darkness), đồng thời giảm lớn tấn công vật lý/ma pháp và tỉ lệ chí mạng vật lý/ma pháp của chúng.
+
+
+##EX##
+メルヘンチャージ=Fairy-tale Charge
+メルヘンチャージ+=Fairy-tale Charge+
+バトル開始時に自分の物理防御力を中アップさせ、さらに自分の魔法攻撃力を小アップさせる。=Tăng trung bình P.DEF của bản thân và tăng nhỏ M.ATK khi bắt đầu trận đấu.
+r:"^自分の物理防御力を(\d+)アップ自分の魔法攻撃力を(\d+)アップ$"=►Tăng P.DEF của bản thân $1.\n►Tăng M.ATK của bản thân $2.
+
+##Legacy UB+##
+メルヘンキングダム=Fairy-tale Kingdom
+味方全体の魔法攻撃力を特大アップ、物理防御力を中アップさせ、さらにＴＰを中回復し、継続ＴＰ回復状態を付与する。=Tăng khủng khiếp M.ATK và P.DEF của đồng đội, hồi TP một lượng trung bình, và tặng trạng thái hồi TP liên tục.
+###Old r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体のＴＰを(\d+)回復毎秒ＴＰを(\d+)回復する$"=►Tăng M.ATK của đồng đội lên $1 trong 18s.\n►Tăng P.DEF của đồng đội lên $2 trong 18s.\n►Hồi TP của đồng đội $3.\n►Hồi TP $4/giây trong 10s.
+
+##UB+##
+メルヘンキングダム=Fairy-tale Kingdom
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップ、物理防御力を大アップさせ、さらにＴＰを固定量で中回復し、継続ＴＰ回復状態を付与する。=Tăng khủng khiếp M.ATK cho tất cả đồng đội, tăng mạnh M.CRIT Rate và P.DEF của họ, và tăng nhỏ M.CRIT DMG. Ngoài ra còn hồi TP cố định một lượng trung bình cho tất cả đồng đội và tặng họ trạng thái hồi TP liên tục.
+###Old r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法攻撃クリティカル時のダメージを5％アップ味方全体の物理防御力を(\d+)アップ味方全体のＴＰを固定量で120回復毎秒ＴＰを10回復する$"=►Tăng M.ATK cho tất cả đồng đội lên $1 trong 18s.\n►Tăng M.CRIT Rate cho tất cả đồng đội 100 trong 18s.\n►Tăng M.CRIT DMG cho tất cả đồng đội 5% trong 18s.\n►Tăng P.DEF cho tất cả đồng đội lên $2 trong 18s.\n►Hồi TP cố định 120 cho tất cả đồng đội.\n►Hồi TP 10/giây trong 10s cho tất cả đồng đội.
+
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを5％アップ味方全体の物理防御力を(\d+)アップ味方全体のＴＰを固定量で120回復毎秒ＴＰを10回復する$"=►Tăng $1 tấn công ma thuật cho toàn thể đồng minh trong 18 giây.\n►Tăng 100 tỷ lệ chí mạng ma thuật cho toàn thể đồng minh trong 18 giây.\n►Tăng 5％ sát thương chí mạng ma thuật cho toàn thể đồng minh trong 18 giây.\n►Tăng $2 phòng thủ vật lý cho toàn thể đồng minh trong 18 giây.\n►Hồi phục 120 TP cho toàn thể đồng minh.\n►Hồi phục 10 TP mỗi giây cho toàn thể đồng minh trong 10 giây.
+
+
+##S1+##
+マホマホヒール+=Maho-Maho Healing+
+最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、さらに物理防御力を中アップし、継続ＨＰ回復状態を付与する。=Hồi HP cho thành viên đội có tỷ lệ HP thấp nhất một lượng lớn. Hơn nữa, P.DEF được tăng một lượng trung bình, và tặng trạng thái Hồi HP.
+最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに物理防御力を中アップし、継続ＨＰ回復状態を付与する。=Hồi HP cho thành viên đội có HP thấp nhất một lượng lớn. Hơn nữa, P.DEF được tăng một lượng trung bình, và tặng trạng thái Hồi HP.
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Hồi HP của một đồng đội $1.\n►Tăng P.DEF của một đồng đội $2.\n►Hồi HP $3/giây.
+
+##UE##
+ピュアメルヘンワンド=Gậy Cổ Tích Thuần Khiết
+
+
+##S1++##
+マホマホヒール++=Maho-Maho Healing++
+最もＨＰの割合が低い味方１キャラのＨＰを大回復、物理防御力を中アップし、継続ＨＰ回復状態を付与する。さらに、物理・魔法攻撃力いずれかで、最も攻撃力が高い味方１キャラの物理・魔法攻撃力を特大アップ、物理・魔法攻撃クリティカル時のダメージを小アップ、行動速度を大アップ、ＴＰを特大回復させる。（このスキルの効果は他の行動速度変化スキルと重複する）=Hồi phục lớn HP cho một đồng minh có tỷ lệ HP thấp nhất, tăng vừa phòng thủ vật lý và ban trạng thái hồi phục HP liên tục. Thêm vào đó, đối với một đồng minh có tấn công vật lý hoặc ma thuật cao nhất, sẽ tăng cực đại tấn công vật lý và ma thuật, tăng nhẹ sát thương chí mạng vật lý và ma thuật, tăng lớn tốc độ hành động và hồi phục cực đại TP. (Hiệu quả tốc độ hành động của kỹ năng này có thể cộng dồn với các kỹ năng thay đổi tốc độ hành động khác).
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する味方単体の物理・魔法攻撃力を(\d+)アップ味方単体の物理・魔法クリダメを12％アップ味方単体の行動速度50%加算味方単体のＴＰを1000回復$"=Thời gian thi triển: 1.53 giây\n►Hồi phục $1 HP cho một đồng minh.\n►Tăng $2 phòng thủ vật lý cho một đồng minh.\n►Ban trạng thái hồi phục $3 HP mỗi giây.\n►Tăng $4 tấn công vật lý và ma thuật cho một đồng minh.\n►Tăng 12% sát thương chí mạng vật lý và ma thuật cho một đồng minh.\n►Cộng thêm 50% tốc độ hành động cho một đồng minh.\n►Hồi phục 1000 TP cho một đồng minh.
+
+##Comments##
+誘拐された時は、どないしよ～思たけど、\n運命の相手かもしれへん王子はんに出会えたんやし\n人生、何があるかわからへんもんどす～\n=Khi mình bị bắt cóc, mình không biết phải làm gì~ Nhưng mình gặp hoàng tử, có lẽ là người bạn đời định mệnh của mình, nên trong cuộc sống, cậu không bao giờ biết chuyện gì sẽ xảy ra, biết không~
+王子はん、もし寒いんやったら\nうちのしっぽであったまってええんよ？\n敏感な所やから恥ずかしけど、王子はんやったら…\n=Hoàng tử, nếu cậu lạnh thì có thể dùng đuôi mình sưởi ấn, biết không? Thật ngại khi nhắc đến những phần nhạy cảm, nhưng nếu là với hoàng tử...
+せやから、もうちょっとそばに寄ってほしいなぁ\n王子はんをもっと感じたいんどす…\nうち、ワガママやろか？\n=Chính vì vậy mình muốn cậu đến gần hơn một chút, biết không... Mình muốn cảm nhận thêm về cậu, hoàng tử... Mình có ích kỷ không?
+それに、こうして二人っきりになれる時間も大切どす\nどんな場所でも王子はんが一緒やったら\n夢の中にいるようやわぁ\n=Và nữa, thời gian chúng ta có thể ở một mình như thế này rất quan trọng, biết không. Dù ở đâu, miễn là mình ở cùng hoàng tử, cảm giác như đang trong giấc mơ.
+王子はん、急ぐ旅でもないんやし、\nゆっくりしていきまひょか\n休める時に休んどかな、あかんよ～\n=Hoàng tử, chúng ta không phải đi du lịch vội vã, nên cứ thoải mái. Nghỉ ngơi khi có thể nghỉ, điều đó cần thiết~
+くるくるりん～♪\nうちの魔法で王子はんを幸せにしますえ～\nそのために毎日、魔法の研究は欠かさへんのどす\n=Kurururin~♪ Với phép thuật của mình, mình sẽ làm hoàng tử hạnh phúc, biết không~ Vì vậy, mình học phép thuật mỗi ngày, không thể bỏ lỡ được, biết không.
+うち、魔法の力加減が苦手なんよぉ\n王子はんにも迷惑かけてまうし…それでも、\nうちのこと見放さへんから、素敵なお方どす～\n=Mình không giỏi kiểm soát sức mạnh phép thuật, biết không. Có thể gây rắc rối cho hoàng tử... Nhưng cậu vẫn không bỏ rơi mình, người tuyệt vời như vậy~
+王子はんのお洋服、仕立てたんどす～\nフリルいっぱいのかいらしい仕上がりなんよ～\nうちとおそろいで、ペアルックみたいやわぁ～\n=Mình đã may quần áo cho hoàng tử, biết không~ Chúng trở nên đầy ren, dễ thương quá~ Đồng phục như một đôi khi mặc cùng mình~
+せやけど悪い魔女にも、毒リンゴにも、糸車にも、\nうちらの仲は邪魔できひんくらい、\nかた～い絆で結ばれてるんどす～\n=Dù có phù thủy xấu xa, quả táo độc hay chiếc xe ngựa quay, mối liên kết của chúng ta vẫn mạnh mẽ đến mức không thể bị phá vỡ, gắn bó keo sơn~
+その運命の相手ゆうんは、\nもちろん王子はんのことどす～\n…はっきり口に出したら恥ずかしいもんやわぁ\n=Người bạn định mệnh mà mình nhắc đến, tất nhiên là hoàng tử rồi~... Nói ra thật ngại quá, biết không.
+王子はんに出会えて、幸せやわぁ\nマホ姫はお姫はんやから、いつでも幸せなんやけど、\n運命の相手がいたほうが嬉しいわなぁ\n=Gặp được hoàng tử khiến mình vui quá, biết không~ Dù là công chúa Maho, mình luôn vui vẻ, nhưng có một người bạn định mệnh còn tuyệt hơn nhiều, biết không~
+うちのギルドハウスに、\n王子はんのスペースを用意したで～\nお菓子も用意しとくさかい、いつでも来たってな♪\n=Trong nhà guild của chúng ta, mình đã chuẩn bị một chỗ cho hoàng tử rồi~ Mình cũng đã chuẩn bị đồ ngọt, nên hoàng tử có thể đến bất cứ lúc nào♪
+王子はんのマホマホ王国衣装完成や～\nさあ王子はん\nこれを着て、一緒にマホマホ王国に出発やで～♪\n=Bộ trang phục vương quốc Maho Maho của hoàng tử đã hoàn tất rồi~ Nào, hoàng tử, mặc vào và cùng mình lên đường đến vương quốc Maho Maho thôi~♪
+王子はんとの絆がうちを強くするんやったら、\nもっと絆を深めんとあかんよね。まずは…え～い♪\nふふっ、王子はんの手、とってもあったかいわぁ♪\n=Nếu mối liên kết với hoàng tử khiến mình mạnh hơn, vậy chúng ta nên củng cố mối liên kết hơn nữa, phải không? Trước tiên... Nè~♪ Hehe, bàn tay hoàng tử ấm áp quá~
+二人の絆があるかぎり、\nずっと、ず～っと一緒やで～\nうちの運命の…愛しい王子はん♪\n=Chỉ cần có mối liên kết giữa chúng ta, chúng ta sẽ mãi mãi bên nhau~ Người bạn định mệnh... hoàng tử yêu quý của mình~
+やっぱり王子はんとうちは運命の相手…\nううん、きっとそれ以上の絆で結ばれてるんやね♪\n=Thật sự, hoàng tử và mình không chỉ là bạn định mệnh... Không, mình nghĩ chúng ta gắn bó bởi một mối liên kết còn mạnh mẽ hơn~♪
+みらくるまほりん、くるくるり～ん♪\nふふっ、王子はんと一緒におるだけで、\nこんなに幸せになれるやなんて…\n=Phép màu Mahorin, Kururu-Kururiin♪ Hehe, chỉ cần ở bên hoàng tử thôi đã khiến mình hạnh phúc rồi...

@@ -1,0 +1,15 @@
+Tamaki's Birthday
+
+今日もたい焼き屋のお手伝いおつかれさまにゃ～\n{playername}がいると\n接客も新たい焼き開発も捗って助かるにゃあ。=Hôm nay cũng cảm ơn cậu đã giúp một tay ở tiệm bánh Taiyaki nhé~ Có {playername} ở đây, việc tiếp khách lẫn phát triển loại bánh mới đều tiến triển thuận lợi, giúp ích cho tớ nhiều lắm đó nyan.
+でも、最近よく手伝ってくれるけど、\nなにか欲しいものでもあるのかにゃ？=Nhưng mà, dạo này cậu nhiệt tình giúp đỡ tớ quá, hay là cậu đang có món đồ gì muốn mua hả nyan?
+そうなのにゃ？\n欲しいものが買えたのならよかったのにゃ。\n働いたお金をパーッと使う瞬間は格別だからにゃ～♪=Ra là vậy sao nyan? Nếu cậu đã mua được món mình thích thì tốt quá rồi nyan. Khoảnh khắc được tiêu xài xả láng số tiền mình làm lụng vất vả kiếm được là tuyệt vời nhất mà nyan~♪
+……にゃ？\nあたしにプレゼント、にゃ？\nもしかしてそのために、働いてたにゃ……？=……Nyan? Quà tặng cho tớ sao nyan? Chẳng lẽ cậu làm việc chăm chỉ bấy lâu nay... là vì chuyện đó sao nyan...?
+しかもこれは……！\n巷で噂の『猫がダメになるクッション』にゃ！？\nふかふかで、自分用に買っても猫に奪われて座れにゃいという……！=Hơn nữa cái này là……! Chẳng phải là "Chiếc nệm lười khiến mèo hư đốn" đang đồn đại bấy lâu sao nyan!? Nghe nói nó êm ái đến mức dù tự mua cho mình thì cũng bị lũ mèo chiếm mất không cho ngồi luôn đó nyan……!
+あ……ありがとうにゃ～～～～～～～！\nクッションもうれしいけど、\nキミがあたしのために働いてくれてたのが、すっごくうれしいにゃあ！=A…… Cảm ơn cậu nhiều lắm nyan~~~~~~~! Chiếc nệm này làm tớ vui một, nhưng việc cậu đã vì tớ mà làm việc vất vả như vậy mới làm tớ thấy hạnh phúc mười nyan!
+だって……ずっと隣で見てたにゃ。\n手を抜いたりせず、一生懸命あたしと\nたい焼き屋を盛り立ててくれてたにゃ……=Bởi vì…… tớ đã luôn quan sát cậu ở ngay bên cạnh mà nyan. Cậu không hề lười biếng, mà đã dốc hết sức mình để cùng tớ gầy dựng tiệm bánh Taiyaki này nyan……
+……二つ、プレゼントをもらった気分にゃ。=……Tớ có cảm giác như mình vừa nhận được đến hai món quà lận nyan.
+そうだにゃ！\n早速クッションの座り心地を確かめてみるにゃ！=Đúng rồi nyan! Phải kiểm tra ngay xem chiếc nệm này ngồi có sướng không mới được nyan!
+ほら、{playername}も一緒に座るんにゃ！\nもっとくっつかないと、座れないにゃよ。\n……にゃはは、心地いいにゃ～♪=Này, {playername} cũng ngồi xuống đây đi nyan! Phải xích lại gần hơn nữa mới đủ chỗ ngồi đó nyan. ……Nyahaha, thoải mái quá đi nyan~♪
+
+実は、もう買ってあるんだ。=Thật ra, mình đã mua được thứ mình muốn rồi.
+たまき、誕生日おめでとう。=Tamaki, chúc mừng sinh nhật nhé.

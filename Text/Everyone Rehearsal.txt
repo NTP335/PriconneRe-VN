@@ -1,0 +1,56 @@
+みんなの稽古場=Phòng Thử Thách của Mọi Người
+
+ガーゴイル=Gargoyle
+剛力なる鳥像=Một bức tượng chim mạnh mẽ
+
+マグスガーゴイル=Magus Gargoyle
+魔業なる鳥像=Một bức tượng chim phép thuật
+
+ガードガーゴイル=Guard Gargoyle
+堅固なる鳥像=Một bức tượng chim vững chắc
+
+ガーゴイル・バースト=Gargoyle Burst
+剛力の浮石を従えし鳥像=Một bức tượng chim với những viên đá nổi mạnh mẽ
+
+ガーゴイル・マギ=Gargoyle Magi
+魔業の浮石を従えし鳥像=Một bức tượng chim với những viên đá phép nổi
+
+高い物理攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたボスが現れる。=Một boss được lập trình với sức mạnh Tấn Công Vật Lý cao và các đòn tấn công diện rộng mạnh mẽ.
+高い魔法攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたボスが現れる。=Một boss được lập trình với sức mạnh Tấn Công Ma Thuật cao và các đòn tấn công diện rộng mạnh mẽ.
+防御力アップスキルで高い耐久力を誇り、相手の攻撃を凌ぐようプログラムされたボスが現れる。=Một boss được lập trình để có độ bền cao và chịu đựng các đòn tấn công của kẻ thù với kỹ năng tăng phòng thủ.
+高い物理攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたマルチターゲットのボスが現れる。=Một boss nhiều mục tiêu được lập trình với sức mạnh Tấn Công Vật Lý cao và các đòn tấn công diện rộng mạnh mẽ.
+高い魔法攻撃力を宿し、強力な範囲攻撃を行うようプログラムされたマルチターゲットのボスが現れる。=Một boss nhiều mục tiêu được lập trình với sức mạnh Tấn Công Ma Thuật cao và các đòn tấn công diện rộng mạnh mẽ.
+
+モンスターHPが\n減少しない状態にする=Máu Quái Vật Không thể giảm
+
+
+クランバトルボス=Boss Trận Chiến Gia Tộc
+
+sr:"^(\d+)年(\d+月) クランバトル（([0-9 :/]+)まで）$"=Trận Guild $2 $1 (đến $3)
+
+
+前月のクランバトル登場ボスとバトルできます。=Thử thách boss của Trận Guild tháng trước.
+※限界突破によるキャラの強化内容は反映されません。=※Cấp độ Giới hạn (Limit Break) của nhân vật không được áp dụng.
+
+
+稽古場バトルをリタイアしますか？=Bạn có muốn dừng trận chiến trong Phòng Thử nghiệm không?
+稽古場バトルリタイア=Rút lui khỏi trận chiến Phòng Thử nghiệm
+申請相手のフレンドが上限に達しています。=Bạn bè của người đăng ký đã đạt đến giới hạn tối đa.
+無料対象のためアイテムやマナは消費しません。=Miễn phí, không tốn vật phẩm hay mana.
+r:"^難易度「(.+)」のクリア報酬です。$"="Đây là phần thưởng xứng đáng cho độ khó "$1"."
+初回クリア報酬獲得=Nhận phần thưởng lần đầu tiên
+初回クリア報酬=Phần thưởng vượt ải lần đầu
+---Mission---
+稽古場ミッション=Nhiệm vụ Thử nghiệm
+稽古場=Đại sảnh Thử nghiệm
+
+sr:"^(\[[0-9A-F]{6}\])?(ガーゴイル|マグスガーゴイル|ガードガーゴイル|ガーゴイル・バースト|ガーゴイル・マギ)（([\w\W]+)）をクリアしよう(\[-\])?$"="$1Đánh bại $2 ($3) tại Thử nghiệm $4"
+
+---NPC---
+ここで腕試しを\nしていきましょう！\n全力全開、\nがんばっちゃいますよ～！=Bạn có thể thử thách kỹ năng của mình ở đây! Hãy tiến lên hết tốc độ và cố gắng hết sức!
+ここで腕試しが\nできるみたいね。\n試してみるのも\nいいんじゃない？=Có vẻ như bạn có thể thử thách kỹ năng của mình ở đây. Luôn tốt để luyện tập một chút, đúng không?
+腕試しをがんばれば、\n報酬がもらえますよ。\n挑戦していきましょう☆=Nếu bạn làm tốt trong những thử nghiệm này, bạn sẽ được thưởng!\nHãy thử một lần xem!☆
+こちらでは、さまざまなタイプのボスと腕試しができます。\n何度でも挑戦することができますので、\n主さまに合った難易度で挑戦してみましょう。=Ở đây, bạn có thể thử thách kỹ năng của mình với nhiều loại boss khác nhau. Bạn có thể thử bao nhiêu lần tùy thích, vì vậy hãy thử với mức độ khó phù hợp nhất với bạn.
+腕試しができるようです。\nここで練習を重ね、実戦に\n活かしてまいりましょう。=Có vẻ như ở đây bạn có thể kiểm tra kỹ năng của mình. Hãy luyện tập và sử dụng những gì chúng ta đã học trong trận chiến thực tế.
+ここでは腕試しが\nできるんですって。\n自分の実力を測るのに、\nちょうどよさそうね。=Bạn có thể thử thách kỹ năng của mình ở đây. Có vẻ là một cách tốt để đo lường khả năng của bạn.
+

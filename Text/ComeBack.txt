@@ -1,0 +1,5 @@
+カムバックログイン=Đăng nhập trở lại
+カムバック=Trở lại
+
+r:"^.+?([0-9,.]+)日(.+)ぶりにログインしました。([\s\S]+)([0-9,.]+)日分(.+)の家具から生成されたスタミナを\nプレゼントボックスから受け取れます(.+)$"=[3C404E]Bạn đã đăng nhập lần đầu sau [FFBB00,CE4F00]$1 ngày[-].\nBạn có thể thu thập lượng stamina tương đương [FFBB00,CE4F00]$4 ngày[-]’ được tạo ra bởi $5 đồ nội thất\ntừ Hộp Quà.[-]
+

@@ -1,0 +1,23 @@
+##Profile##
+【物理】前衛で、宙を舞うように戦う幽霊の守護騎士。ＵＢで味方の攻撃と速度支援を行い、【レイスボディ】で敵の目を逃れ、不意を突く一撃で永遠の眠りにつかせる。=[Vật Lý] Một hiệp sĩ ma quái chiến đấu ở tuyến trước như đang nhảy múa trên không trung. UB của cô tăng tấn công và tốc độ cho đồng đội, và cô sử dụng khả năng [Thân Thể Ma Quái] để thoát khỏi mắt kẻ thù, tấn công ở nơi chúng ít ngờ nhất, và gửi chúng vào giấc ngủ vĩnh cửu.
+富田美憂=Tomita Miyuu
+水墨画=Tranh mực
+
+##UB##
+グレイテスト・スラスト=Đột Phá Tối Thượng
+目の前の敵１キャラに物理特大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、行動速度を大アップさせる。さらに、自分に【レイスボディ】を３つ付与する。【レイスボディ】が付与されている間は敵からの攻撃の対象にならない。【レイスボディ】は最大３つまで追加される。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước, và tăng cực lớn P.ATK cho đồng đội trong phạm vi và tăng lớn tốc độ hành động của họ. Ngoài ra còn trao 3 ngăn [Thân Thể Ma Quái] cho bản thân, tối đa 3 ngăn. Trong khi Grace có ngăn [Thân Thể Ma Quái] hiệu lực, cô không thể bị kẻ thù nhắm đến.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ自分にレイスボディを３つ付与する$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng P.ATK của đồng đội trong phạm vi thêm $2 trong 18s.\n►Tăng tốc độ hành động của đồng đội trong phạm vi lên 200% trong 18s.\n►Nhận được 3 ngăn [Thân Thể Ma Quái].
+
+##S1##
+レイスドロップ=Ma Quái Rơi
+目の前の敵１キャラに物理大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせる。自分に【レイスボディ】が付与されている場合、【レイスボディ】を１つ消費し、追加で目の前の敵１キャラに物理防御力を一定値無視する物理大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và tăng cực lớn P.ATK và Tỷ Lệ Phá Giáp Vật Lý (P.CRIT Rate) cho đồng đội trong phạm vi. Nếu Grace có ngăn [Thân Thể Ma Quái] hiệu lực, tiêu thụ 1 ngăn [Thân Thể Ma Quái] và gây thêm một lần sát thương vật lý lớn lên kẻ địch phía trước bỏ qua một phần P.DEF của chúng.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを150アップレイスボディを１つ消費する敵単体に物理防御力を50無視する(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng P.ATK của đồng đội trong phạm vi thêm $2 trong 12s.\n►Tăng P.CRIT Rate của đồng đội trong phạm vi thêm 150 trong 12s.\n\nNếu Grace có từ 1+ ngăn [Thân Thể Ma Quái]:\n►Gây $3 sát thương vật lý lên một kẻ địch, bỏ qua 50 P.DEF của chúng.\n►Tiêu thụ 1 ngăn [Thân Thể Ma Quái].
+
+##S2##
+ファントム大車輪=Bánh Xe Ma Quái
+自分の物理攻撃力を大アップ、ＴＰを特大回復し、自分以外の味方全体のＴＰを中回復させる。自分に【レイスボディ】が付与されている場合、【レイスボディ】をすべて消費し、消費した【レイスボディ】の数に応じて物理攻撃力の上昇量がアップする。=Tăng cực lớn P.ATK của bản thân và hồi TP cực lớn cho bản thân, và hồi trung bình TP cho tất cả đồng đội khác. Nếu Grace có ngăn [Thân Thể Ma Quái] hiệu lực, tiêu thụ tất cả ngăn [Thân Thể Ma Quái] và tăng lượng tăng P.ATK theo số ngăn [Thân Thể Ma Quái] đã tiêu thụ.
+r:"^自分のＴＰを725回復自分以外の味方全体のＴＰを150回復レイスボディを全て消費する自分の物理攻撃力を(\d+)アップ$"=►Hồi TP của bản thân thêm 725.\n►Hồi TP cho tất cả đồng đội khác thêm 150.\n►Tăng P.ATK của bản thân thêm $1 trong 12s.\n►Tiêu thụ tất cả ngăn [Thân Thể Ma Quái].
+
+##EX##
+丑三つ時オーラ=Vầng Halo Nửa Đêm
+丑三つ時オーラ+=Vầng Halo Nửa Đêm+

@@ -1,0 +1,84 @@
+##Profile##
+人助け、応援=Giúp đỡ mọi người, hỗ trợ.
+人助けが大好き！　前向き格闘娘=Luôn sẵn sàng giúp đỡ! Một chiến binh lạc quan.
+
+【物理】前衛で、敵前線を押し返す笑顔の元気娘。前衛に対して大ダメージを与えるユニオンバーストと、自身の攻撃力を強化するスキルを持つ攻撃役。=[Vật lý] Một cô gái năng động chiến đấu ở tuyến đầu để đẩy lùi phòng thủ của kẻ địch. Cô là một đòn tấn công với Union Burst gây sát thương nặng nề lên tuyến đầu, có thể được tăng cường thêm với kỹ năng tăng P.ATK của cô.
+
+ドキドキがくれるパワー=The Power Of A Racing Heartbeat
+ストレイキャットメモリー=Memory of a Stray Cat
+助けるべき悪人=A Villain To Help
+ムズムズの秘密=A Nagging Secret
+
+エールを送りたいのに=I Would Call For You
+勝利を君に=A Victory For You
+休みたいのに休めない！=I Can't Help It, I Can't Rest!
+しっぽは反則？=Is The Tail Off-Limits?
+ストレイキャットガール=The Stray Cat Girl
+願いは笑顔のために=An Earnest Wish for Happiness
+誓いのゆびきり=Lời Hứa Đáng Giá
+困った時はお互いさまさま=Cứu Cánh Lẫn Nhau
+
+##UB##
+ヒヨリラッシュ=Cuộc Xung Kích Của Hiyori
+目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch đứng trước mặt và gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi nhỏ xung quanh.
+
+##OLD r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch trong tầm.
+
+##S1##
+キャットストライク=Mèo Chiêu Bạo
+目の前の敵１キャラに物理中ダメー\nジを与える。=Gây sát thương vật lý trung bình lên kẻ địch đứng trước mặt.
+## r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=Giá trị này bị bỏ qua vì giống với UB. Thời gian niệm chú không thể bao gồm.
+
+##S2##
+キャットコンビネーション=Liên Hoàn Mèo
+目の前の敵１キャラに物理小ダメージを与え、さらに自分の物理攻撃力を中アップさせる。=Gây sát thương vật lý nhỏ lên kẻ địch đứng trước mặt. Tăng sát thương vật lý của bản thân một chút.
+
+自分の物理攻撃力を大アップし、目の前の敵１キャラに物理中ダメージを与える。敵の数が２キャラ以上の場合、追加で前方範囲内の敵すべてに物理中ダメージを与える。=Tăng lớn tấn công vật lý của bản thân và gây sát thương vật lý trung bình lên một kẻ địch trước mặt. Nếu số lượng kẻ địch từ 2 trở lên, gây thêm sát thương vật lý trung bình lên toàn bộ kẻ địch trong phạm vi phía trước.
+
+##OLD r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=Giá trị này bị bỏ qua vì giống với UB của Djeeta. Thời gian niệm chú không thể bao gồm.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵の数が２キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ$"=►Tăng $1 tấn công vật lý của bản thân.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n\nNếu số lượng kẻ địch từ 2 trở lên:\n►Gây $3 sát thương vật lý lên các kẻ địch trong phạm vi.
+##EX##
+肉球パワー！=Sức Mạnh Bàn Chân!
+肉球パワー！+=Sức Mạnh Bàn Chân!+
+
+##UB+##
+ヒヨリバーニングラッシュ=Cuộc Xung Kích Cháy Của Hiyori
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý cực lớn lên kẻ địch đứng trước mặt và gây sát thương vật lý trung bình lên tất cả kẻ địch trong một phạm vi xung quanh.
+
+目の前の敵１キャラに物理特大ダメージを与え、さらに前方範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý cực đại lên một kẻ địch trước mặt, đồng thời gây thêm sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi phía trước.
+
+##S1+##
+キャットストライク+=Mèo Chiêu Bạo+
+目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理小ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch đứng trước mặt và gây sát thương vật lý nhỏ lên tất cả kẻ địch trong một phạm vi nhỏ xung quanh.
+##OLD r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=Giá trị này bị bỏ qua vì giống với UB. Thời gian niệm chú không thể bao gồm.
+
+目の前の敵１キャラに物理大ダメージを与え、さらに、前方範囲内の敵すべてに物理小ダメージを与える。=Gây sát thương vật lý lớn lên một kẻ địch trước mặt, đồng thời gây thêm sát thương vật lý nhỏ lên toàn bộ kẻ địch trong phạm vi phía trước.
+##UE##
+ニャンピオンベルト=Vòng Tay Của Nyanpion
+
+##S1++##
+キャットストライク++=Mèo Chiêu Bạo++
+目の前の敵１キャラに物理大ダメージを与え、さらに、前方範囲内の敵すべてに物理大ダメージを与える。敵の数が２キャラ以上の場合、自分の行動速度を大アップし、ＴＰを特大回復する。このスキルの初回使用後、ヒヨリが敵を攻撃するたびに、以降その敵にヒヨリが与えるダメージがアップする。この効果は最大100回まで累積する。=Gây sát thương vật lý lớn lên một kẻ địch trước mặt, đồng thời gây thêm sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi phía trước. Nếu số lượng kẻ địch từ 2 trở lên, tăng lớn tốc độ hành động của bản thân và hồi cực đại TP. Sau lần sử dụng kỹ năng này đầu tiên, mỗi khi Hiyori tấn công một kẻ địch, sát thương Hiyori gây ra cho kẻ địch đó sau này sẽ tăng lên. Hiệu ứng này có thể cộng dồn tối đa 100 lần.
+
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ攻撃する度にダメージ1500増加敵の数が２キャラ以上の場合、以下の効果が発動する自分の行動速度200％アップ自分のＴＰを1000回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên các kẻ địch trong phạm vi.\n►Sát thương tăng thêm 1500 sau mỗi lần tấn công.\n\nNếu số lượng kẻ địch từ 2 trở lên:\n►Tăng 200％ tốc độ hành động của bản thân.\n►Hồi 1000 TP cho bản thân.
+
+
+##Comments##
+みんなが笑顔でいられるように！\nヒヨリ、頑張りまーっす！　いぇい！=Để mọi người có thể cười!\nHiyori sẽ cố gắng hết sức! Yay!
+この間は助けてくれてありがとう！\nやっぱり困った時はお互いさまさま、だよね！\nこれからも、一緒に助け合っていけたらいいな！=Cảm ơn cậu vì đã cứu em hôm kia! Thật sự chúng ta\ncó nợ nhau khi gặp khó khăn, phải không?!\nHy vọng từ giờ chúng ta có thể tiếp tục giúp đỡ nhau!
+ゆびきりなんて久しぶりだったよー！\n誰かに頼れるって、嬉しいな…\n騎士くんも、どんどんあたしを頼ってね！=Đã lâu rồi mới được thư giãn!\nEm rất vui vì có thể dựa vào người khác...\nCậu cũng hãy tiếp tục dựa vào em nhé, Kishi-kun!
+なんだったんだろう…あの気持ち\n胸の奥が、きゅって苦しくなって…\nあーもー！　分かんないよぉー！=Chuyện đó là sao...?\nEm cảm thấy một nỗi đau sâu sắc trong ngực...\nAaa, thôi đi! Em không hiểu!
+騎士くんに聞いたら、分かるのかな…？\n…ダメだー！　想像しただけで\nなんかドキドキしちゃうー！=Liệu Kishi-kun có thể\ncho em biết được không...? ...Không!\nChỉ nghĩ đến thôi tim em đã đập thình thịch rồi!
+お医者さんに行ってみようかな…\nでもなぁー…うーん…\nうーん…！　分かんないよぉー！=Có lẽ em nên đi gặp bác sĩ...\nnhưng... hmm... hmmm...! Em không biết!
+あの夢、なんだったんだろう…？\n夢の中でも…騎士くんは優しかったな\nあたしも…あんな風になりたい！=Giấc mơ đó là về chuyện gì...?\nNgay cả trong giấc mơ... cậu vẫn rất tốt bụng, Kishi-kun...\nEm cũng muốn trở thành người như thế!
+大きな大会の前だからって緊張してたのかも…\n騎士くんが言ってくれた通りに、いつものあたしで！\n武闘会、全力で頑張ってくるね！=Có lẽ em chỉ hơi căng thẳng vì trước giải đấu lớn...\nNhư Kishi-kun nói, em chỉ cần là chính mình!\nEm sẽ cố gắng hết sức trong giải đấu!
+胸の奥から、すっごい力が湧いてくるの！\nいつかあたしも…騎士くんがすっごい力を\n出せるような人になりたいな…=Một sức mạnh lớn trào dâng từ sâu thẳm trong ngực em!\nMột ngày nào đó... em muốn trở thành người\ncó thể đánh thức toàn bộ sức mạnh của cậu...
+やっぱりあたし、騎士くんがいてくれたら\n出来ないかもって思ったことだって、\nやりきれちゃうみたい…=Đúng như em nghĩ, được ở bên Kishi-kun\ncho em sức mạnh để làm\nnhững điều em nghĩ mình không thể...
+騎士くん。応援に来てくれてありがとう！\n聞こえたよ…騎士くんの声\nちゃんとあたしに届いたよ…！=Kishi-kun, cảm ơn cậu đã đến cổ vũ cho em!\nEm nghe thấy rồi... Giọng nói của cậu đã đến được với em!
+もう、しっぽはダメだって言ったのに…\nお詫びに、えーっと…\n甘いものが食べたいなー…なんてね=Thôi đi, em đã bảo đừng chạm vào đuôi rồi mà...\nNhư một lời xin lỗi, ừm... em muốn ăn thứ gì đó ngọt...\nĐùa thôi~.
+騎士くんを見てたら、もっと強くならなきゃって！\n優しい笑顔を、ずっとずーっと守りたいから…\nだから見ててね、騎士くん！　約束だよっ！=Khi thấy cậu, Kishi-kun, em nghĩ mình phải\nmạnh mẽ hơn! Em muốn bảo vệ nụ cười dịu dàng\n trên khuôn mặt cậu mãi mãi... Vì vậy, hãy nhìn kỹ đi,\nKishi-kun! Đó là lời hứa!
+誰も困ったりしないような…そんな世界になったらいいな\nそのためにも、あたしもーっと強くなるよ！\n騎士くん、一緒にみんなの笑顔を守っていこうね！=Sẽ thật tuyệt nếu thế giới trở nên\nkhông còn ai gặp rắc rối... Em cũng sẽ mạnh mẽ lên!\nKishi-kun, hãy cùng nhau bảo vệ nụ cười của mọi người!
+騎士くんとなら、世界だって変えられそうだよ！\nどんな人助けも一つ一つ積み重ねていけば、きっと…\nほら、特訓と同じかなーって！　そんな気がするんだ！=Em nghĩ mình sẽ có thể thay đổi thế giới với cậu, Kishi-kun!\nNếu em giúp từng người một, em chắc chắn sẽ làm được!\nNhìn kìa, giống như một kiểu luyện tập đặc biệt!\nĐó là cảm giác của em!
+決めたっ！　騎士くんと離れて一人でいるより\n騎士くんのそばでドキドキしてるほうがいいや！\nほらほら行こっ！　…やっぱりドキドキするよー！=Em đã quyết rồi! Tim em đập thình thịch bên cạnh Kishi-kun\ncòn tốt hơn là cô đơn không có cậu!\nĐi thôi, chúng ta đi! ...Em vẫn còn hồi hộp!
+ねえねえ騎士くんも一緒に行く？\nあ…でもそしたらあたし、ドキドキしっぱなしだー！\nうぅー、騎士くんといたいけど、どーしよー…=Này, này, muốn đi với em không? À...\nNhưng mà tim em đập như điên lên!\nUi, em muốn ở bên cậu, nhưng nên làm sao đây...?
+騎士くんのそばにいると\nなんだかドキドキして落ち着かないよー！\nどこかにお出かけして、気分転換しよっと！=Tim em đập nhanh quá khi ở bên cậu,\nkhông thể bình tĩnh được!\nEm sẽ ra ngoài chỗ khác cho đầu óc thư giãn!

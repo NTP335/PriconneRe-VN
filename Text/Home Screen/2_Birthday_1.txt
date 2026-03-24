@@ -1,0 +1,356 @@
+Akino
+誕生日、おめでとうございますあなたさまの誕生日の価値の前では、どんな宝石もかすんで見えてしまいますわね！=Chúc mừng sinh nhật! Một ngày đặc biệt như thế này có giá trị hơn bất kợ� viên ngọc nào!
+今日はあなたさまの誕生日？まあ、おめでとうございます！すぐにパーティーを開きましょう！=Hôm nay là sinh nhật cậu à? Vậy thì, chúc mừng sinh nhật! Hãy tổ chức tiệc ngay thôi!
+
+Ayumi
+あっあの、先輩っ！お誕生日おめでとうございます！お祝いさせてくだひゃい！ちゃ、ちゃんと言えましたっ！=Ư-ư-ừm... Senpai! Tôi muốn chúc cậu một sinh nhật thật vui vẻ! Xin cho tôi được ăn mừng cùng cậu! ...Àaaa, tôi thực sự nói ra rồi!
+お誕生日おめでとうございます！プ、プレ、プレゼントどうぞっ！先輩に似合う服を見つけましたそれから次は、先輩が好きな…=Chúc mừng sinh nhật! H-Hôm đây là p-p-p-p.. quà của cậu! Tôi tìm thấy những bộ đồ phù hợp với cậu, senpai. Và tiếp theo là, món yêu thích của cậu...
+
+Aoi
+お誕生日おめでとうございます！森にいる小鳥さんたちと合唱団を結成して、お祝いの歌を作ってきました！=Một sinh nhật thật hạnh phúc dành cho cậu! Tôi đã tạo thành một dàn đồng ca nhỏ của riêng mình với những chú chim trong rừng, và chúng tôi muốn hát cho cậu bây giờ!
+お、おたたん、おたんこなすー！すみません、ハッピーなお祝いの言葉を口にしたことがなくて…誕生日おめでとう五郎丸ー！=Ôi, xin lỗi, xin lỗi~! Tớ xin lỗi, tớ chưa bao giờ chúc mừng sinh nhật ai trước đây... Chúc mừng sinh nhật, Goroumaru~!
+
+Kyouka
+お誕生日おめでとうございますどんどん大人になっちゃう…私も早く追いつかないと…な、なんでもないです！=Chúc mừng sinh nhật cậu. Cậu càng ngày càng trưởng thành rồi... Mình phải cố gắng hơn nữa để bắt kịp. ...K-không, mình không nói gì đâu!
+今日、お誕生日なんですよねおこづかいを貯めて、カップケーキを買ってきたので、召し上がってください=Hôm nay là sinh nhật cậu, mình đã tiết kiệm tiền tiêu vặt và mua bánh cupcake cho cậu, nên hãy thưởng thức nhé!
+
+HWkyouka
+お誕生日おめでとうございますこれ、パンプキンケーキですカボチャは少し苦手ですけど、頑張って味見もしたので…！=Chúc mừng sinh nhật cậu. Hãy thử chiếc bánh bí ngô đặc biệt này. Thực ra mình không thích bí ngô, nhưng mình đảm bảo nó ngon...!
+あなたのお誕生日…これ、どうぞ私が作ったカップケーキですあっ、そんなに急いで食べたらポロポロこぼしちゃいますよ！=Sinh nhật cậu... đây... mình làm những chiếc cupcake này... ôi, cậu sẽ làm đổ chúng nếu ăn nhanh quá!
+
+
+Mimi
+ミミ、お祝いのお歌をうたうねるんたったるんたった～♪お誕生日おめでと～♪大好き、大好き♪　おにいちゃん♪=Mình sẽ hát bài chúc mừng sinh nhật cho cậu. La la-la-la la la♪ Chúc mừng sinh nhật, LowRes Onii-chan♪ Cậu là kẻ tệ nhất♪
+お誕生日おめでとう～♪ミミも早く大きくなって、おにいちゃんの、おねえちゃんになりたいな～♪=Chúc mừng sinh nhật~♪ Mimi cũng muốn lớn nhanh lên, để có thể trở thành Onee-chan của Onii-chan~♪
+
+Misogi
+誕生日おめでと！　ミソギ、にいちゃん大好き！　本当だよ！んーイタズラばっかりしてるから信じてもらえないや…=Chúc mừng sinh nhật! Em yêu anh, Nii-chan! Thật đấy! ...Có lẽ khó tin sau khi em đã chơi khăm anh nhiều lần...
+誕生日おめでとう、にいちゃん！はい、バースデープレゼント！それから、バースデーケーキ！早く開けて！　食べて！　わくわく=Chúc mừng sinh nhật, Nii-chan! Đây, một món quà! Và bánh sinh nhật! Mở nhanh lên! Ăn đi! *phấn khích*
+
+HWmisogi
+ハッピーバースデーにいちゃん！いっつもミソギと遊んでくれてありがとう！これからも一緒に遊ぼうね！=Chúc mừng sinh nhật cậu, Nii-chan! Cảm ơn vì luôn chơi với em và mọi thứ! Nhưng chúng ta chưa xong đâu nhé!
+誕生日おめでとう、にいちゃん！ミソギからのお祝いはー、んーやっぱりいたずらかな！=Chúc mừng sinh nhật, Nii-chan! Lễ kỷ niệm từ Misogi rốt cuộc vẫn là một trò đùa!
+
+peko
+おめでとうございます☆来年のあなたのお誕生日も必ずお祝いしますね♪絶対絶対ぜーったいです！=Chúc mừng sinh nhật!☆ Năm sau em cũng sẽ ở đây để ăn mừng cùng anh♪ Em thề bằng hai ngón tay út!
+今日、誕生日なんですよね！おめでとうございます！特別な日の特製特大ケーキ、一緒に食べませんか？=Hôm nay là sinh nhật cậu! Chúc mừng! Cậu có muốn ăn chiếc bánh đặc biệt cực lớn cho ngày đặc biệt này không?
+
+SPeco
+水着で過ごす、あなたの誕生日！開放的でわくわくしちゃいます！さぁ、今日は二人でおもいっきりはしゃぎましょう！=Không ngờ mình lại trải qua sinh nhật cậu trong đồ bơi! Nhưng thật sự rất thú vị. Thành thật mà nói! Hôm nay là ngày đặc biệt của cậu. nên hãy cùng nhau tận hưởng tối đa nào!
+お誕生日おめでとうございます！お魚、貝、タコ、エビ、カニ…海の幸満載のバースデーパーティーにしましょうね！=Chúc mừng sinh nhật! Cá, nhuyễn thể, mực, tôm, cua... Hãy tổ chức một bữa tiệc sinh nhật đầy hải sản!
+
+Kyaru
+はい、バースデープレゼント感謝しなさいよ！こんなものあげてるって、本当はバレたらマズいんだから…=Cậu phải trân trọng món quà sinh nhật đó! Đặc biệt vì mình sẽ chết nếu người ta biết mình tặng cậu...
+へ～、あんた、誕生日なんだ～あ、たまたまケーキ持ってるから一緒に食べましょ？…たまたまよ！　本当だからね！=Ồ, hôm nay là sinh nhật cậu~ Ồ, tớ may mắn có chiếc bánh, nên hãy ăn chung đi. Chỉ là trùng hợp thôi! Tin tớ đi!
+
+Nyaru
+お誕生日おめでとうい、一応プレゼントも用意してあるのよ？　ありがたく受け取りなさい！=Hy vọng cậu có một sinh nhật vui vẻ. M-mình có mang theo món quà cho dịp này, được chứ? Tốt nhất là cậu nên trông thích thú và biết ơn!
+ハッピーバースデーケーキ買ってきたから一緒に食べましょう変なモノは入ってないわよ？=Mình mua cho cậu chiếc bánh Chúc mừng sinh nhật và chúng ta sẽ ăn chung, và không có gì kỳ lạ trong đó, được chứ?
+
+Skyaru
+海の上で誕生日パーティーっていうのも、オシャレでしょ？さ、アンタの誕生日に乾杯よ！ハッピーバースデー♪=Tổ chức bữa tiệc sinh nhật trên biển thật sang, phải không? Nâng ly chúc mừng cậu, và chúc mừng sinh nhật!♪
+誕生日、おめでと！こんな日くらい、パーッと羽目を外して楽しみましょ☆さ～海、海！　遊ぶわよー！=Chúc mừng sinh nhật! Vào ngày như thế này, hãy ra khỏi nhà và vui chơi nào!☆ Đã đến lúc ra biển rồi! Chơi thôi!
+
+Muimi
+ハッピーバースデー！よーし！　ケーキ買いに行くぞ！今日はアタシのおごりだ！たぶん明日は雪が降るぞ！=Chúc mừng sinh nhật! Nào, hãy mua một chiếc bánh tuyệt vời! Chỉ lần này này, để tớ trả! Ừ, ngày mai chắc chắn sẽ là một ngày lạnh giá ở địa ngục!
+誕生日おめでとう！あんまり人に物あげたことなくてさ…何が欲しいんだ？=Chúc mừng sinh nhật! Mình chưa từng tặng nhiều cho người khác... cậu muốn gì?
+
+Kokkoro
+主さまの生誕された、この日は、わたくしには一年で最も尊い日心から祝福させていただきますお誕生日おめでとうございます♪=Chúa tể, ngày đặc biệt của ngài cũng là ngày quý giá nhất của tôi. Từ tận đáy lòng, chúc mừng sinh nhật.
+お誕生日おめでとうございます♪お誕生日おめでとうございます♪何度口にしても言い足りません…主さま、おめでとうございます♪=Chúc mừng sinh nhật cho cậu♪ Chúc mừng sinh nhật cho cậu♪ Tôi không thể nói đủ lần... Chúc mừng sinh nhật cho cậu, Chúa tể...♪
+
+NyKokoro
+今日は主さまにとっておめでたい一日。祝いの舞を奉納させてくださいまし心からの祝福をお贈りいたします=Hôm nay là một ngày tốt lành cho ngài, Chúa tể. Xin cho phép tôi ăn mừng ngày này qua điệu nhảy này. Tôi ước ngài có tất cả niềm vui trên đời.
+お誕生日おめでとうございますもし…もし主さまがよろしければ二人きりで過ごすことをお許しいただきたく…=Chúc mừng sinh nhật cho ngài, Chúa tể. Nếu... nếu tôi được phép táo bạo, tôi sẽ rất vinh hạnh nếu chúng ta có thể cùng nhau trải qua ngày đặc biệt này...
+
+skokkoro
+空も海も輝いて…この世の全てが、主さまのお誕生日を祝福しているようですわたくしも心よりお祝いします♪=Bầu trời và biển đang lấp lánh... Cả thế giới dường như đang ăn mừng ngày sinh nhật của ngài, Chúa tể. Nó lấp đầy trái tim tôi bằng niềm vui.
+海で、主さまのお誕生日をお祝いするなどと、故郷にいた時には考えもしませんでしたわたくし、幸せでございます=Tôi chưa bao giờ tưởng tượng được ăn mừng sinh nhật ngài bên biển khi còn ở quê nhà. Tôi rất hạnh phúc.
+
+makoto
+今日ってお前の誕生日だよな？ぐ、偶然、たまたま作ったケーキがあるんだけど…食わねぇか？=Hôm nay là sinh nhật cậu, phải không? M-mình tình cờ, biết đấy, nướng chiếc bánh mà không có lý do thực sự, nên... Cậu có muốn ăn một chút không?
+へぇ、今日が誕生日だったのかおめでとさん！んじゃ、せっかくだしなんかおごってやるよ！=Ồ, hôm nay là sinh nhật cậu à? Chúc mừng! Nào, đây là một món hời, tôi sẽ mời cậu một món gì đó!
+
+Smakoto
+今日、誕生日なんだろ？食材の買い出し、付き合えよあとでなんか作ってやるからさおまえの好きなもの…教えろよな=Hôm nay là sinh nhật cậu, phải không? Vậy thì đến giúp tôi đi chợ. Tôi sẽ làm gì đó cho chúng ta sau, nên nói tôi biết cậu muốn ăn gì.
+誕生日なんだってな。そうだな…砂浜特訓メニューのプレゼント、ってのは冗談で、あとでカキ氷でもおごってやるよ=Hôm nay là sinh nhật cậu. Đúng rồi... Tôi sẽ tặng cậu một thực đơn đặc biệt tập luyện trên bãi cát, đùa thôi, tôi sẽ mua cho cậu đá bào sau.
+
+Saren
+誕生日だったわね？お祝いに遊びに行くわよこんな日くらいはしっかり休んでたまには楽しみましょ♪=Hôm nay là sinh nhật cậu, phải không? Vậy hãy nghỉ ngày và vui chơi đi. Những ngày như thế này là để tận hưởng!
+ハッピーバースデー♪救護院のみんながプレゼントを選んだわ。もちろんあたしもねありがたく受け取りなさい！=Chúc mừng sinh nhật ♪ Mọi người ở trại mồ côi đều có món quà cho cậu. Tôi đã chọn một món quà cho cậu. Và tất nhiên, cả tôi nữa.
+
+Ssaren
+誕生日おめでとう！二人きりでバースデーパーティーしましょうか♪　なんてね=Chúc mừng sinh nhật! Sao chúng ta không tổ chức một bữa tiệc sinh nhật nhỏ cùng nhau, chỉ hai đứa? Đùa thôi.
+誕生日おめでとう♪救護院のみんなもあんたの誕生日を祝いたがってるから楽しみにしてなさいね！=Chúc mừng sinh nhật♪ Mọi người ở trại mồ côi muốn ăn mừng sinh nhật cậu, nên hãy chờ đón nhé!
+
+
+Kuka
+ドＳさんの誕生日ですね…クウカの体に巻いたリボンを乱暴にほどいて、包装紙を破る子供のように服も…ぐふふふふ=Hôm nay là sinh nhật cậu, Sadist-san... Làm ơn, xé toạc em như một đứa trẻ mở quà... Gueheheh.
+誕生日おめでとうございますケーキに深く刺さるロウソクが、とろっとろに溶けていますよフゥー…って消してください=Chúc mừng sinh nhật cậu, và làm ơn hãy thổi tắt ngọn nến được cắm sâu vào bánh và đang tan chảy...
+
+Oedo Kuuka
+お誕生日おめでとうございますところでドＳさん、和服の帯ってラッピングしてるみたいですよねプレゼントは私、なんて…ぐふふ=Chúc mừng sinh nhật, Sadist-san. Cậu không thấy dây đai kimono trông như giấy bọc quà sao? Điều đó có nghĩa là món quà của cậu là... Gueheheh!
+この着物、露出が多くて少し恥ずかしいです…でも、ドＳさんに見られていると思うとなんだか気持ちが…じゅるり=Chiếc kimono này hơi xấu hổ vì nó khá phô bày... nhưng em cảm thấy như đang bị Sadist-san nhìn... *chảy dãi*
+
+Christina
+誕生日おめでとう♪オマエの記念すべき日に立ち会えてうれしいよ！記念の誓約は…まだ早いかな？=Một sinh nhật rất vui vẻ! Tôi rất vui được chia sẻ ngày đặc biệt này với cậu! Giờ thì, tôi không nghĩ cậu đã sẵn sàng thề lời thề trang nghiêm của chúng ta chứ?
+オマエ、今日が誕生日らしいな？ほら、一つ歳をとった哀れな子羊にプレゼントだ今年もワタシを楽しませてくれよ？=Cậu, tôi nghe nói hôm nay là sinh nhật cậu, phải không? Đây là món quà cho chú cừu nhỏ đáng thương đã lớn thêm một tuổi, nên sao cậu không giải trí tôi một lần nữa trong năm nay?
+
+Arisa
+このままどんどん成長したらあなたはどうなっちゃうんだろ？…なんか、ずっと楽しみだねえへへ…お誕生日おめでと！=Tôi thực sự tò mò muốn xem cậu sẽ như thế nào khi lớn lên. Hào hứng, thậm chí! Ehehe. Chúc mừng sinh nhật!
+ちょっと自信ないけど…これ！　作ったんだ！今日は特別な日だから…あーんってしてあげよっか…？=Tôi không tự tin lắm, nhưng... Tôi đã làm cái này! Vì hôm nay là ngày đặc biệt... Tôi có nên cho cậu ăn không...?
+
+Djeeta
+誕生日おめでとう！　お祝いにパーティーしようよ！　それと何か欲しいものがあったらプレゼントしてあげるから言ってね！=Chúc mừng sinh nhật! Hãy tổ chức một bữa tiệc! Và nếu có gì cậu muốn, tôi sẽ lấy cho cậu như một món quà!
+今日はあなたの誕生日だよね、おめでとう！いっぱいお祝いしないとね！=Hôm nay là sinh nhật cậu, Chúc mừng sinh nhật! Chúng ta nên ăn mừng nhiều lắm!
+
+Jun
+誕生日おめでとう！　何かお願い事はないかい？　そ、それはダメだ少年！　兜を脱ぐなんて…恥ずかしくて爆発してしまうよ！=Chúc mừng sinh nhật, chàng trai trẻ! Có gì cậu muốn từ tôi không? ...K-không, không phải chiếc mũ bảo hiểm! Tôi sẽ chết vì xấu hổ!
+今日は君の誕生日なんだってね一つ大人になったんだから、今年はあまり無茶をしないでくれよ？君のことが心配なんだ=Tôi nghe nói hôm nay là sinh nhật cậu và vì cậu đã lớn lên, xin đừng quá liều lĩnh trong năm nay. Tôi lo cho cậu.
+
+Tamaki
+お誕生日、おめでとうにゃ！気まぐれなあたしでも、今日ぐらいは…キミだけの猫になってあげてもいいにゃ♪=Chúc mừng sinh nhật! Em biết thường ngày em là một con mèo khó tính và bất trị, nhưng chỉ hôm nay, em có thể trở thành một chú mèo ngoan cho anh!
+今日はキミの誕生日みたいにゃ！だから今日だけ特別にたい焼き食べ放題にしてあげるにゃ～=Hôm nay cứ như sinh nhật cậu vậy nè~! Cho nên tớ sẽ tặng cậu ưu đãi đặc biệt ăn thả ga bánh taiyaki chỉ hôm nay thôi!
+
+STamaki
+Happy birthday! For your present. I'll grant you any one wish! Do you want to have a desert island rendezvous...? Myahaha!
+
+tomo
+誕生日おめでとう！　ん、急に押しかけて迷惑だった？　今日はあなたの部屋を片付けようと思ってまるでお嫁さんみたいじゃない？=Chúc mừng sinh nhật cậu! Mmm? Không phải lúc tốt sao? Tớ định dọn phòng cho cậu như một món quà. Giống như một người vợ tận tụy vậy!
+ふ～ん、今日が誕生日なんだ？じゃあ、大人になったあなたにご飯でもおごってもらおうかな？な～んて、冗談だよ！=Hừm, hôm nay là sinh nhật cậu à? Được rồi, giờ cậu đã lớn, có lẽ tớ nên mời cậu đi ăn tối? Tớ đùa thôi!
+
+Nozomi
+ハッピーバースデー、トゥユー♪ハッピーバースデー、トゥユー♪どう？　キミだけのためのプライベートライブだよ！=Chúc mừng sinh nhật cậu♪ Chúc mừng sinh nhật cậu♪ Không phải ai cũng được thưởng thức buổi hòa nhạc riêng từ tớ đâu!
+おめでとう♪　キミの誕生日をお祝いできるように、ずっと前からスケジュールを調整してたんだ！　うれしい？=Chúc mừng sinh nhật♪ Tớ đã điều chỉnh lịch trình để kịp chúc mừng sinh nhật cậu! Vui chứ?
+
+XNozomi
+誕生日おめでとう！バースデーソングでお祝いするよ！キミだけのためのライブ、楽しんでってね！=Chúc mừng sinh nhật! Cùng nhau hát bài hát sinh nhật nào! Đây là buổi biểu diễn trực tiếp chỉ dành cho cậu, thưởng thức đi!
+ハッピーバースデー！はい、プレゼント私のサイン入りだよ大事にしてね！=Chúc mừng sinh nhật! Đây—món quà cho cậu! Còn có chữ ký của tớ nữa. Hy vọng cậu sẽ trân trọng nó!
+
+Eriko
+お誕生日おめでとうございますプレゼントを用意しましたわ婚姻届と、結婚指輪と、二人の新居です=Chúc mừng sinh nhật, người yêu của tớ. Tớ có vài món quà cho cậu! Một đơn xin kết hôn, một chiếc nhẫn cưới, và một ngôi nhà mới đẹp cho hai đứa.
+お誕生日を祝して、バースデーケーキをつくりましたわ隠し味は、睡眠薬としびれ薬と惚れ薬と媚薬と…私の愛情です=Để chúc mừng sinh nhật cậu, tớ làm chiếc bánh sinh nhật với nguyên liệu bí mật: thuốc ngủ, thuốc tê, thuốc yêu, thuốc kích thích và... tình yêu của tớ.
+
+Kaori
+誕生日おめでとうさ～！お祝いに私が、24時間連続で祝いの踊りを踊り続けてあげるさ～！=Chúc mừng sinh nhật cậu! Món quà của tớ là biểu diễn điệu nhảy sinh nhật không ngừng nghỉ trong 24 giờ liên tục!
+おお～！今日はキミの誕生日なの～？そうと聞いたら全力でお祝いするさ～！=Ồ~! Hôm nay là sinh nhật cậu à? Nếu vậy, tớ sẽ ăn mừng hết sức mình~!
+SKaori
+ばっちり準備万端さー！何って、キミの誕生日だよー！さぁ手と手を繋いで、レッツダンスさー！=Mọi thứ đã sẵn sàng! Cho cái gì? Sinh nhật cậu chứ còn gì! Nào! Cùng nắm tay và nhảy nào!
+誕生日、めでたいさ～！体が勝手に踊りだすさ～、あっ！ぶつかってごめんねぇ、でもやわいとこだから平気だよねー？=Sinh nhật là dịp vui vẻ~! Thân thể tớ không nhịn được mà muốn nhảy~ À! Xin lỗi vì va vào cậu, nhưng không sao vì là chỗ mềm, phải không~?
+
+Rino
+ハッピーバースデー！お兄ちゃんが大きくなっても、私が歳を取っても二人は兄妹のままですからね♪=Chúc mừng sinh nhật! Dù năm tháng có trôi qua hay chúng ta có già đi, anh vẫn luôn là Onii-chan của em, và em sẽ là em gái của anh♪
+お誕生日おめでとうございます！お兄ちゃん、やっぱり誕生日は家族と過ごすべきですよ私とパーティーしましょう！=Chúc mừng sinh nhật! Onii-chan, anh nên dành sinh nhật với gia đình. Cùng em tổ chức tiệc nào!
+
+Akari
+お兄ちゃん、お誕生日ですよねおめでとうございます！アカリと一緒に、大人の階段、上りましょうね♪=Hôm nay là ngày đặc biệt của Onii-chan, phải không? Chúc mừng sinh nhật! Giờ chúng ta có thể cùng làm những điều... người lớn hơn!
+あ！　お兄ちゃんったら、また大きくなっちゃいましたねなんだかアカリ、ドキドキしてきちゃいました～♪=Á! Onii-chan, anh lại lớn hơn rồi, phải không? Tại sao Akari cảm thấy hào hứng~♪
+
+Luna
+It's your birthday? Wow, wow! I love birthdays! So let's celebrate loads!
+
+Maho
+今日が誕生日なんどすか？それは、ほんにめでたいなあ～今日をマホマホ王国の記念日にしたいぐらいやわあ♪=Sinh nhật cậu à? Đúng là sự kiện lớn! Lớn đến mức tớ muốn biến hôm nay thành ngày lễ quốc gia trong Vương Quốc Maho-Maho!
+誕生日、おめでとうさん♪王子はんの誕生日を一緒にお祝いできて幸せやわぁ♪これからもほっこりしようなぁ～=Chúc mừng sinh nhật, vui vì được cùng chúc mừng sinh nhật của Hoàng Tử Han♪ Có vẻ tương lai sẽ thư giãn~
+
+SMaho
+今日は王子はんの誕生日やねぇほんま、めでたい日やわぁ魔法でお祝いの花火あげるからしっかり見といてな=Không có gì đáng ăn mừng hơn sinh nhật của hoàng tử của tớ. Tớ sẽ chuẩn bị pháo hoa cho cậu, nên hãy chú ý xem nhé.
+お誕生日おめでとうなぁ～まだまだ暑いさかい今日は、和菓子と冷やし抹茶でお祝いしまひょ♪=Chúc mừng sinh nhật~ Hôm nay vẫn còn nóng. Cùng nhau ăn mừng với đồ ngọt Nhật Bản và trà matcha lạnh♪
+
+Shizuru
+お誕生日おめでとう！弟くんがどれだけ大人になったかお姉ちゃんに、しっかり見せて！じーーーーーーーーーーーーっ♪=Chúc mừng sinh nhật em trai! Nào, cho chị xem em đã lớn thế nào rồi! *nhìn chằm chằm*
+キミが一つ歳をとっても、お姉ちゃんも歳をとってるから、私はずっと弟くんのお姉ちゃんのまんまだよ♪　安心した？=Dù em đã lớn, chị cũng đã lớn theo, nên chị sẽ luôn là chị của anh trai♪ Anh có yên tâm không?
+
+VShizuru
+お誕生日だね！　お姉ちゃんは今日という記念日のために、プレゼントを考え続けてたよ！はい、お姉ちゃんをあげるね☆=Sinh nhật của cậu đã đến! Tớ đã suy nghĩ mãi về món quà, nhưng chỉ có một thứ thấy đúng! Vì vậy món quà là... chính tớ!
+今日は弟くんの誕生日！大きなチョコケーキを作ったから一緒に食べようね♪=Hôm nay là sinh nhật của em trai! \Tớ làm một chiếc bánh sô cô la lớn và cùng nhau ăn nào....♪
+
+Ayane
+お兄ちゃん、お誕生日おめでと♪ぷうきちからもプレゼントがあるみたいだよ！いっぱいもらえて、いいな～！=Chúc mừng sinh nhật, Onii-chan♪ Cậu nhận được món quà từ cả tớ và Pukichi! Thật may mắn khi nhận được nhiều thế!
+ハッピーバースデー♪ぷうきちも、お兄ちゃんのお祝いしたいって！３人でパーティーしよっ！=Chúc mừng sinh nhật! Pukichi cũng muốn ăn mừng với Onii-chan! Cả ba chúng ta cùng tổ chức tiệc nào!
+Xayane
+お兄ちゃん、誕生日おめでとー！大切な日を家族みたいに一緒に過ごせてうれしいな！ぷうきちも喜んでるよ！=Chúc mừng sinh nhật!, Onii-chan♪ Thật tuyệt khi được dành ngày với anh như một gia đình thật! Pukichi cũng rất vui!
+お誕生日おめでとう！バースデーケーキは、ぷうきちの形で作ってみたよ！ダメっ、そっちは本物だよー！=Chúc mừng sinh nhật! Tớ đã cố làm chiếc bánh sinh nhật hình dáng Pukkichan! Không, cái kia là thật!
+
+Neneka
+誕生日おめでとうございます贈り物は何にしましょう…計算問題集ではどうですか？=Chúc mừng sinh nhật cậu. Để xem, món quà gì tốt đây... Bộ sưu tập bài toán, có phải không?
+今日が誕生日ですかおめでとうございます…これ以上何か必要ですか？=Chúc mừng sinh nhật hôm nay... Cậu còn cần gì nữa không?
+
+Illya
+眷属の誕生日を祝して、わらわの膝枕を贈呈しようぞどうじゃ、心地よいじゃろう？腕枕でも胸枕でも良いのじゃぞ？=Nhân dịp sinh nhật, tớ cho phép cậu gối đầu trên đùi tớ. Thoải mái chứ? Còn muốn nghỉ ngơi ở chỗ nào khác trên người tớ không?
+今日は誕生日か？　めでたいな！いくつになったのじゃ？そうか。わらわがその歳の頃は…はて？　何をしていたかのう？=Hôm nay là sinh nhật cậu à? Tớ vui cho cậu lắm! Cậu bao nhiêu tuổi? À, khi tớ ở tuổi cậu, tớ đang... làm gì nhỉ?
+XIllya
+今日はあやつの誕生日…！プレゼントを渡しつつお礼を…え…お主、いつからそこに…い、今すぐ忘れろ馬鹿者ぉ～！！=Á, ngày sinh của hắn! Khi tớ trao món quà này, tớ có thể cảm ơn hắn vì... Hả? Sao cậu ở đây, tay sai? Q-quên đi những gì vừa nghe!
+たしか、今日はお主の誕生日であったなならばこのわらわが、祝ってやろうではないか=Chắc chắn rồi, nếu hôm nay là sinh nhật cậu, cái ống hút này sẽ được ăn mừng.
+
+Anna
+シグルドよ、誕生日おめでとう！私からは日記をプレゼントだ！我らの活動を書き残すがいい！…字は書ける、よな？=Á, Sigurd! Chúc mừng sinh nhật! Món quà của tớ tặng cậu một cuốn nhật ký để ghi lại những chiến công của chúng ta! Cậu... thực sự biết viết, đúng không?
+今日は貴様が転生した日か記念に私からこれを授けよう！見よ！　暗黒騎士の紋章を！…どうだ。かっこいいだろう？=Hôm nay là ngày cậu tái sinh. Để kỷ niệm, tớ sẽ ban tặng cậu thứ này! Nhìn kìa, biểu tượng của Hiệp Sĩ Bóng Đêm! ...Cậu thấy sao? Khá ngầu, phải không?
+
+
+Tsumugi
+あの、おめでとうございます…騎士さんの誕生日ですよ！これ…ハンカチです…え？プレゼントですっ！　バカっ！=C-chúc mừng sinh nhật, anh Kishi-san... Đây là ngày đặc biệt của anh trong năm! Đây... cầm lấy chiếc khăn tay này. Gì?! Đó là món quà, rõ ràng mà!
+た、誕生日なんですよね？一応おめでとうございます！…どこで知ったかなんてどうでもいいじゃないですか！=Hôm nay là sinh nhật cậu, phải không? Chúc mừng sinh nhật cậu! Ở đâu biết cũng không quan trọng!
+た、誕生日なんですよね？一応おめでとうございます！…どこで知ったかなんてどうでもいいじゃないですか！=Hôm nay là sinh nhật cậu, phải không? Chúc mừng sinh nhật cậu! Ở đâu biết cũng không quan trọng!
+
+Miyako
+おめでとうなの！　誕生日は、仲良しとごちそうを食べるのだから今日は、ミヤコと一緒にプリンケーキを食べるの～♪=Chúc mừng sinh nhật! Sinh nhật là để ăn những món ăn ngon đặc biệt cùng bạn bè đặc biệt! Vì vậy... Hôm nay là ngày bánh pudding!
+ミヤコは死んでるけど、誕生日のお祝いは大事にしてるの！だから早くバースデープリンパーティーを始めるの～♪=Miyako đã chết, nhưng lễ sinh nhật là quan trọng! Chính vì vậy tớ sẽ bắt đầu tiệc sinh nhật sớm nhất có thể~♪
+hwmiyako
+オマエの誕生日パーティーに、ミヤコの友達の幽霊さんをたくさんつれてきたの～！どろろろ～おめでとうなの～♪=Miyako mang theo nhiều bóng ma để làm ngày đặc biệt của cậu vui vẻ! Sinh nhật ma quái... dành cho cậu!
+ひゅ～どろろろ～お誕生日～おめでとうなの～～♪=Hyu~Dororororo ~Chúc mừng sinh nhật~nano♪
+
+Grea
+ハッピーバースデーあなたのお祝いの日なのに、私までうれしいんだ。不思議だね=Chúc mừng sinh nhật. Đây là ngày đặc biệt của cậu. nhưng tại sao cả tớ cũng cảm thấy vui. Có phải là lạ không?
+今日はあなたの誕生日なんだねその…おめでとうなにか欲しいものとかある？=Hôm nay là sinh nhật của cậu nên... chúc mừng sinh nhật, cậu muốn gì không?
+
+Lima
+ハッピーバースデートゥーユー♪人間の男の子の誕生日をこうしてお祝いできるなんてね…私がプレゼントをもらった気分♪=Chúc mừng sinh nhật cậu♪ Tớ chưa bao giờ nghĩ mình sẽ được ăn mừng sinh nhật của một cậu con trai như thế này. Có cảm giác như tớ mới là người nhận được món quà♪
+お誕生日おめでとう～！あなたのためにお祝いのプランをいっぱい考えたの♪やだっ、私ったらはしゃぎすぎ？=Chúc mừng sinh nhật! Tớ đã nghĩ ra nhiều kế hoạch ăn mừng cho cậu ♪
+
+Io
+今日は君の誕生日ね～！年下の男の子が、結婚できる年齢になってプロポーズ…なんて小説みたいであこがれちゃうな♪=Chúc mừng sinh nhật, chàng trai! Tớ luôn nghĩ rằng việc cầu hôn một chàng trai vào ngày anh ấy trưởng thành là ý tưởng lãng mạn nhất...
+お誕生日おめでとう～♪昨日より一つ大人になったのねお祝いに先生が、ナデナデしてあげるわ♪=Chúc mừng sinh nhật~♪ Từ hôm qua, cậu đã lớn thêm một tuổi. Để ăn mừng, Sensei sẽ vỗ về cậu một chút~♪
+SIo
+お誕生日おめでとう～浜辺で見る君の顔がすっかり大人にみえるわふふ、夏のせいかしらね=Chúc mừng sinh nhật! Hôm nay cậu trông trưởng thành hơn mọi khi. Có lẽ là do phép màu mùa hè? Hehe.
+今日は君のお誕生日ねふふ、もちろん忘れてないわ一つ大人になったお祝いに海の家でパーティーしましょ！=Hôm nay là sinh nhật cậu đấy. Fufu, tất nhiên tôi không quên. Để chào mừng việc trở thành người lớn, chúng ta hãy tổ chức tiệc tại biệt thự biển nhé!
+
+Yui
+誕生日おめでとう、騎士クン今日はケーキの他にもいろんな料理を用意したからみんなでお祝いしようね！=Chúc mừng sinh nhật, anh Kishi-kun! Em đã làm chiếc bánh và nhiều món ăn ngon khác để chúng ta cùng nhau ăn mừng!
+騎士クン。お誕生日おめでとうあの…これ、お祝いのケーキ！その…良かったら食べてみて！えっと…これからも、よろしくね！=Anh Kishi-kun. Chúc mừng sinh nhật... đây là chiếc bánh sinh nhật! Nếu... nếu anh thích, hãy thử một miếng nhé! Ước... cảm ơn anh đã luôn ủng hộ em!
+
+NYyui
+騎士クン、お誕生日おめでとう！これからも騎士クンが幸せな日々を過ごせますように…=Chúc mừng sinh nhật! Mong rằng phía trước anh sẽ có thật nhiều ngày hạnh phúc.
+あ、あけましておめでとう！ああっ、間違えちゃった…えっと…その…お誕生日おめでとう、騎士クン！=Ồ, chúc mừng năm mới! Ồ, em lỡ nói nhầm... ừm... cái đó... Chúc mừng sinh nhật, anh Kishi-kun!
+
+Misaki
+ハッピーバースデー！アタシが、大人なバースデーをプロデュースしてあげるわ楽しみにしてなさい♪=Chúc mừng sinh nhật! Em sẽ tổ chức một bữa tiệc thật chỉn chu cho người lớn như anh. Em đảm bảo anh sẽ thích!
+誕生日、おめでと！プレゼントは…ア・タ・シ・よ♪…あれ？　引いてる？雑誌に書いてあったのに…？=Chúc mừng sinh nhật! Món quà là... A-ta-shi-yo♪... Hả? Sao lại lùi? Em đọc trong tạp chí rồi...!
+
+hwmisaki
+Happy birthday! Is there anything you want? Huh? You want Ai?!
+
+Shinobu
+お誕生日おめでとうございます今日は、とてもいい運勢ですよ金運とか健康運とか…その…れ、恋愛運とか…=Chúc mừng sinh nhật thật nhiều. Hôm nay, trong lá bùa của anh có nhiều điều tốt lành. Dấu hiệu của sức khỏe tốt, may mắn bất ngờ, và... t-tình yêu...
+あなたが歳を取って、おじいさんになったら、一緒に私もおばあさんになりますねもちろん、幽霊になったら…=Khi anh già đi và trở thành ông nội, em sẽ trở thành bà nội với anh, và tất nhiên, khi anh trở thành ma...
+
+hwshinobu
+Happy Halloween, and a happy birthday to you! Today. you can have cake instead of candy.
+
+Ninon
+ショーグンのお祝いするデス！誕生日は、おジャシキ遊びでシュラシュシュシュデース！どんちゃん騒ぎデース！=Sinh nhật của một tên shogun là một ngày lớn! Hãy để em chiêu đãi anh bằng kỹ thuật geisha đáng kinh ngạc của em! Như một ninja thực thụ!
+誕生日おめでとうデス！お祝いの紅白マンジェウを用意したデス！　二人羽織で食べさせてあげるデス！=Chúc mừng sinh nhật desu! Em đã chuẩn bị Manju đỏ trắng để ăn mừng! Em sẽ cho anh ăn hai lớp!
+
+Yukari
+キミの誕生日というわけでまずは…かんぱーい！ねえ、今日はずっと一緒にいてもいいかな…？=Là sinh nhật cậu, nên... Một ly nữa! Em... em có thể dành cả ngày với cậu được không?
+誕生日おめでとう！今日はいっぱいお祝いしてあげるね！=Chúc mừng sinh nhật! Em chúc cậu có thật nhiều dịp ăn mừng hôm nay!
+
+Yuki
+ハッピーバースデー♪今日はボクの美しさを、独り占めにしてもいいよ♪全部受け止めきれるかな？=Chúc mừng sinh nhật♪ Vẻ đẹp của em hôm nay hoàn toàn dành cho cậu chiêm ngưỡng♪ Chỉ hy vọng cậu có thể trân trọng hết sức♪
+誕生日おめでとう♪今日のキミは輝いて見えるね綺麗で美麗で華麗で壮麗だきっと世界で二番目に美しいよ！=Chúc mừng sinh nhật ♪ Hôm nay cậu có thể thấy một vẻ đẹp rực rỡ, lộng lẫy, tất nhiên là đẹp thứ hai thế giới!
+
+Yori
+た、誕生日、おめでとう！プレゼントは、アンタが私にゲームで勝ったらあげるわよ…アンタ、このゲーム得意よね？=C-chúc mừng sinh nhật! Em sẽ tặng anh món quà đặc biệt... nếu anh thắng em trong một trò chơi! Anh giỏi trò chơi này, phải không?
+お、お誕生日お、おめ、おめで…や、やっぱり無理！おめでとうなんて言えないー！プレゼントなんて渡せないよー！=Ồ, chúc mừng sinh nhật, chúc mừng sinh nhật... Không, em không thể! Em không thể chúc mừng! Em không thể tặng quà!
+
+Suzuna
+今日はヒデサイの誕生日だよね！学院のみんなでパーティーしよ？あ、でも、二人きりのパーティーってのも楽しいかも♪=Hôm nay là sinh nhật cậu, phải không? Vậy chúng ta hãy tổ chức một bữa tiệc lớn với mọi người ở trường! Mặc dù có lẽ sẽ vui hơn nếu chỉ có hai chúng ta.
+ハッピーバースデー！うちがお祝いしてあげる☆ん～誕生日に一緒なんてカップルみたいかも？=Chúc mừng sinh nhật! Chúng ta sẽ ăn mừng☆ Hừm~ Cùng nhau trong ngày sinh nhật của cậu. Có lẽ chúng ta giống như một cặp đôi?
+
+Hatsune
+お誕生日だね。おめでとうー！お祝いに超能力で…あっで、でも眠くなっちゃうし～じゃあ……………………カプッ♪=Chúc mừng sinh nhật! Em sẽ dùng siêu năng lực để tổ chức một bữa tiệc lớn cho cậu. Khoan đã. Điều đó sẽ khiến em mệt, nên... *cắn một miếng nhỏ*
+お誕生日のお祝いに、ハツネ膝枕をプレゼント！寝心地いいよ～☆ん～なんだか私も眠く…すやぁ～=Để chào mừng sinh nhật của cậu, gối tựa đầu Hatsune làm quà tặng! Nó rất thoải mái~☆ Hừm~ Em cũng hơi buồn ngủ... Suyaa~
+
+monika
+誕生日おめでとうプレゼント代わりに…今日は私が共に過ごしてやろうじ、時間を無駄にするでないぞ！=Chúc mừng sinh nhật! Em không chuẩn bị quà. Tiếc quá. Vậy em sẽ cho phép cậu dành cả ngày với MC thay vì em. Đ-đừng lãng phí cơ hội này. Nghe chưa?
+今日は貴公の誕生日らしいな大切な一日を共に祝えて、私も嬉しく思うぞ！心から祝おうじゃないか！=Hôm nay chúng ta rất vui được ăn mừng ngày quý giá dường như là sinh nhật của cậu! Hãy ăn mừng từ tận đáy lòng!
+
+Mitsuki
+ハッピーバースデー！私からの贈り物は…これよ元気が出る特製ドリンク♪一気に飲んじゃだめよ…？=Chúc mừng sinh nhật! Món quà của em cho cậu là... loại đồ uống đặc biệt này sẽ tràn đầy năng lượng cho cậu! Chỉ cần cẩn thận đừng uống hết một lần...
+君、今日が誕生日でしょう？はいこれ。私からのプレゼント特別に調合した薬なの。効能？…飲んでからのお楽しみ♪=Hôm nay là sinh nhật cậu, phải không? Nè, nhận lấy. Món quà từ em. Đó là một loại thuốc được pha chế đặc biệt. Tác dụng? … Vui sau khi uống♪
+
+Misato
+お誕生日おめでとう！今日はあなたが主役だから、なんでも言うこと聞いちゃうわ～いっぱい甘えていいのよ=Chúc mừng sinh nhật! Hôm nay là ngày đặc biệt, nên cứ yêu cầu bất cứ điều gì cậu muốn. Em sẽ nuông chiều cậu hết mức cần thiết.
+今日は、一年に一度の特別な日あなたの誕生日をお祝いできて先生とっても嬉しいわ本当におめでとう♪=Hôm nay, em rất vui vì được ăn mừng sinh nhật của cậu một năm một lần. Là sensei~ Chúc mừng♪
+
+Hiyori
+お誕生日おめでとー！はいこれ！　猫のお守り！あたしがそばにいない時は、きっと代わりに守ってくれるよ！=Chúc mừng sinh nhật! Nè, nhận lấy món quà là chiếc bùa mèo này! Nó sẽ bảo vệ cậu ngay cả khi em không ở bên cạnh!
+ハッピーバースデー、騎士くん！プレゼントは何がいい？ごはん？　装備？　それとも…そうだ！　修行に付き合うね！=Chúc mừng sinh nhật, Kishi-kun! Cậu muốn món quà gì? Gạo? Trang bị? Hay... Đúng rồi! chúng ta tỷ thí đi
+
+Shiori
+この本、お誕生日プレゼントです恋愛小説なんですけど、たまたまヒロインの名前がシオリで、しゅ、主人公の名前が…=Em mua cho cậu cuốn tiểu thuyết tình cảm này làm quà sinh nhật. Tên nữ chính tình cờ là Shiori, và t-tình cảm của cô ấy với người tên...
+お誕生日おめでとうございますあの…お姉ちゃんからも、お祝いされましたか？す、少し気になっただけで…=Chúc mừng sinh nhật Ưm... Onee-chan cũng chúc mừng cậu chứ? Em chỉ đang thắc mắc...
+
+
+Shiori
+今日、お誕生日ですよねふふ、ちゃんと覚えてますよ魔法で盛大にお祝いしなきゃ=Hôm nay là sinh nhật cậu, phải không? Eheh... Tất nhiên em nhớ. Em nên thi triển một chú phép đặc biệt để ăn mừng!
+お誕生日おめでとうございます今後もお祝いさせてくださいねこれからも、ずっと…=Chúc mừng sinh nhật. Xin phép được ăn mừng cậu trong tương lai. Từ bây giờ, mãi mãi...
+
+Chika
+お誕生日おめでとうございます短いものですが、お祝いに曲を書いてみましたここで歌ってもいいですか？=Chúc mừng sinh nhật! Bài hát hơi ngắn, nhưng em đã viết một bài để chúc mừng. Em có thể hát nó ở đây được không?
+お誕生日おめでとうございます歌以外にいいプレゼントが思いつかなくて…よかったら聞いてください=Chúc mừng sinh nhật. Em không nghĩ ra món quà nào hay ngoài bài hát... nếu cậu không phiền, xin hãy lắng nghe.
+
+Rei
+キミの誕生日か。おめでとうせっかくだし今日の修業はなしにしよう。…あれ？どうして不満そうなの？=Nghe nói hôm nay là sinh nhật cậu, vậy hôm nay chúng ta nghỉ huấn luyện đi. ...Hừm? Điều đó không khiến cậu vui sao?
+誕生日おめでとう実は何を渡せば喜んでくれるか分からなくて…良ければ一緒に選びにいかない？=Chúc mừng sinh nhật, em không biết tặng gì cho ...Nếu cậu thích, tại sao không cùng chọn?
+
+
+Mifuyu
+ケーキの準備よし！プレゼントもよし！さあ、効率的な誕生日パーティーを始めるわよ！=Bánh và nến, xong! Quà, xong! Được rồi! Chúng ta hãy tổ chức một bữa tiệc sinh nhật hiệu quả!
+誕生日おめでとうお祝いの言葉なんて非効率的かもしれないけど…キミにはちゃんと言いたかったの=Lời chúc mừng sinh nhật có thể không hiệu quả, nhưng em muốn nói với cậu một cách thích hợp
+
+Smifuyu
+誕生日おめでとう今日は二人で海を見ながら散歩したり…たまには非効率的に過ごしてみない？=Chúc mừng sinh nhật. Vì là ngày đặc biệt, tại sao chúng ta không quên đi hiệu quả và dạo bộ dọc bãi biển một cách thư giãn?
+今日がキミの誕生日だったのねだったらお祝いをしないと！さあ、海でパーティーの食材をゲットしてくるわよ！=Hôm nay là sinh nhật cậu, phải không? Vậy chúng ta nên ăn mừng! Nào, đi lấy nguyên liệu cho bữa tiệc ở bãi biển nào!
+
+RIn
+誕生日おめでと～特別な日だからこそ、ぐうたら過ごすに限るよねあたしも一緒に付き合うよ～=Chúc mừng sinh nhật! Là ngày đặc biệt, nên cậu cứ thư giãn hết mình đi. Tất nhiên em cũng sẽ cùng cậu.
+誕生日おめでと～プレゼントは買い忘れてないよ～通販の時間指定を使ってるから、もうすぐ届くはずだよ～=Chúc mừng sinh nhật~ Em không quên mua quà~ Em đang dùng dịch vụ mua hàng qua thời gian, nên sắp tới rồi~
+
+Kurumi
+お兄ちゃん、お誕生日…お、おめでとうございますっ！きょ、今日はその…い、一緒にお祝いしたいですぅ…=Chúc mừng s-sinh nhật, Onii-chan! Ư, nó... nó sẽ tốt nếu chúng ta có thể ăn mừng cùng nhau...
+おお、お誕生日…おめでとうございますぅ…！わわ、私からのプレゼント…もらって…くれますか…？=Ồ, chúc mừng sinh nhật...! Ưm, cậu có thể nhận món quà của em...? Xin hãy nhận món quà của em...
+Xkurumi
+お誕生日おめでとうございますぅいい子にしてたお兄ちゃんにプ、プレゼントを用意しました…靴下の中を見てみてください…♪=C-chúc mừng sinh nhật! Em sẽ ăn mừng với Onii-chan thật tốt. Hy vọng đủ để khiến Onii-chan vui.
+お兄ちゃん、お誕生日…お、おめでとうございますぅ…！私なりに一生懸命お祝いするからよ、喜んでくれると嬉しいです…♪=Chúc mừng sinh nhật, Onii-chan... ồ, chúc mừng sinh nhật...! Em sẽ cố gắng ăn mừng theo cách của em, nên hy vọng cậu sẽ vui....
+
+Kaya
+よっ！　おめでとう！今日はキミの誕生日だろ？パーッとなんか食べに行こうぜ今日はオレがおごってやるよ=Này! Chúc mừng sinh nhật! Hôm nay là sinh nhật cậu, phải không? Đi ăn uống và em sẽ mời cậu một ly.
+誕生日おめでとう！ダチにとって良い日ってのはこっちまでうれしくなるんだなこんな気持ち、初めてだ！=Này, chúc mừng sinh nhật! Chỉ biết đó là ngày đặc biệt của thằng bạn khiến em cũng thấy lạ lùng vui. Em chưa bao giờ cảm thấy như thế này trước đây!
+
+Ruka
+誕生日おめでとさん！いい釣竿が手に入ったんだお前さんにあげるよ。今度二人で一緒にのんびり釣りに行こう=Chúc mừng sinh nhật! Em có được một cây câu cá hay, nên cậu có thể lấy nó. Chúng ta hãy cùng đi câu cá sớm nhé, được chứ?
+お前さん、今日が誕生日なのか？そうか…めでたい日にはパーッと祝うに限る。そうと決まれば今日の飯はアタシのおごりだ！=Hôm nay là sinh nhật cậu à? Ra vậy... Vào ngày đặc biệt này thì chỉ được ăn mừng nhanh thôi. Nếu đúng thật, bữa ăn hôm nay để tôi chi trả!
+
+suzume
+お誕生日おめでとうございます♪今日だけは普通の女の子としてあなたのお祝いをしちゃ、ダメ…ですか？=Chúc mừng sinh nhật ♪ Chỉ hôm nay thôi, để tôi cùng cậu ăn mừng như một cô gái được chứ?
+お誕生日、おめでとうございますケーキをご用意しました！こ、転ばないように、そーーーっと持っていきますね=Chúc mừng sinh nhật! Tôi đã nướng chiếc bánh sinh nhật để ăn mừng cậu! T-Tôi sẽ mang nó đi thật cẩn thận và an toàn, được chứ?
+
+NYsuzume
+今日はあなたのお誕生日ですよねおめでとうございます！これから良い一年を過ごせるおまじないをかけちゃいますね♪=Hôm nay là sinh nhật cậu, phải không? Tôi sẽ niệm một phép thuật để cậu có một năm tới tốt lành.♪
+お誕生日おめでとうございます！私もあなたにプレゼントを…って、あれ…？　ない！？わ、忘れちゃいましたぁ…！=Chúc mừng sinh nhật thật nhiều! Tôi đã mang một món quà dành riêng cho... Khoan, hả...? Nó đi đâu rồi?! Ôi trời, tôi nghĩ mình để quên ở nhà rồi!
+
+
+Mahiru
+ハッピーバースデーだべ！今日はあんちゃんのためだけに渾身ネタを、飛ばーすでー！いっぱい笑ってほしいべよ♪=Chúc mừng sinh nhật! Hôm nay, tôi sẽ bay kể toàn bộ câu chuyện chỉ cho Anchan! Tôi muốn cậu cười thật nhiều ♪
+ひょうたん、常備してっか？なにキョトンとしてんだべ？今日誕生日のあんちゃんのためのギャグだべ！　おめでとう～♪=Hôm nay thì để tôi 'tránh xa' cậu một chút! ...Thôi nào, tại sao mặt cậu trống trơn? Đó là một câu đùa sinh nhật đặc biệt tôi nghĩ ra chỉ dành cho cậu thôi!
+
+Kasumi
+誕生日の余興に、今日は助手くんが探偵役をしてみよう…ねぇ先生、今日はどんな謎に挑まれるんですか？　ふふっ♪=Hôm nay là sinh nhật cậu, vậy sao cậu không thử đóng vai thám tử trong ngày hôm nay nhỉ? Vậy đấy, ngài thám tử! Hôm nay cậu đang theo đuôi vụ án nào vậy? Hehe.
+今日は助手くんの誕生日なんだって？　おめでとう！なら、捜査は早めに切り上げてお祝いをしようじゃないか！=Tôi nghe nói hôm nay là sinh nhật của trợ lý. Chúc mừng! Nếu đúng thế, chúng ta kết thúc cuộc điều tra sớm và đi ăn mừng thôi!
+
+Nanaka
+お誕生日おめでとーっ！眼鏡をプレゼントだー！つけてみて！　…うん！パーペキ！　似合ってるよ！=Chúc mừng sinh nhật! Tôi mua cho cậu một cặp kính! Thử đeo lên xem nào! ... Ừ! Hoàn hảo! Trông cậu đeo đẹp lắm!
+ハッピーバースデイッ！！キミへのプレゼントはこれだっ！私のおすすめ作品全185巻！…持って帰れるかな？=Chúc mừng sinh nhật! Đây là món quà tôi tặng cậu! 185 tập manga hay nhất theo đề xuất của tôi! ... Ơ, cậu nghĩ mình có thể mang chúng về nhà được không?
+
+Matsuri
+ハッピーバースデー♪いつもお世話になってるアンタにトラタイガーのカップケーキッス！自分、手作りに挑戦したッスよ=Chúc mừng sinh nhật♪ Dành cho cậu, người luôn được Tora Tiger ưu ái, đây là cupcake! Tôi thử làm một chút.
+えっ、今日誕生日なんスか！？じゃあ、お祝いにとっておきのトラタイガーグッズあげるッス！お近づきの印ッスよ！=Hả? Hôm nay là sinh nhật cậu?! Vậy tôi sẽ tặng cậu món đồ chơi Tora Tiger chất nhất! Đây là tín vật cho tình bạn của chúng ta!
+
+Ram
+誕生日をラムに祝ってもらえるなんて光栄に思うことね誕生日プレゼント？　もちろん出来たての蒸かし芋よ！=Cậu may mắn khi có tôi ở đây để ăn mừng sinh nhật. Món quà của tôi ư? Một nồi khoai tây hấp nóng, tất nhiên rồi!
+何が欲しいの？言ってごらんなさいなんでって、誕生日なんでしょ？ご褒美くらいくれてやるわ=Cậu muốn gì? Sao không nói đi, hôm nay là sinh nhật cậu à? Tôi sẽ được thưởng.
+
+Rkokkoro
+主さま、誕生日を迎えられたこと心からお祝い申し上げます精霊や自然も、きっと主さまの成長を祝福してくれますよ♪=Thưa ngài, tôi xin được chúc mừng sinh nhật ngài từ tận đáy lòng. Các linh hồn và tự nhiên chắc chắn sẽ chúc phúc cho sự trưởng thành của ngài.♪
+本日はお誕生日おめでとうございます、主さま人も自然も、このように時を経て成長していくのですね♪=Hôm nay là sinh nhật cậu. Chúc mừng, thưa ngài. Con người và tự nhiên, tất cả chúng ta đều lớn lên và phát triển khi thời gian trôi qua.♪

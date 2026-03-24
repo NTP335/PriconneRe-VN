@@ -1,0 +1,34 @@
+everyone came, there was a girl walking with a sad face.
+r:"^ランドソル 繁華街([0-9\-\(\)\w （）]*)$"=Trung Tâm Thành Phố Landosol $1
+r:"^ランドソル　繁華街([0-9\-\(\)\w （）]*)$"=Trung Tâm Thành Phố Landosol $1
+アンハッピートレント=Unhappy Trent
+
+
+混ぜるな危険=Không trộn lẫn
+ターゲット=Mục Tiêu
+双子エンジェルの贈り物=Quà Tỉ Của Thiên Thần Song Tử
+聖なる日のお出迎え=Lời Chào Ngày Lễ Thánh
+
+囚われたエンジェル=Thiên thần bị bắt giữ
+エンジェル昇格試験=Kỳ thi Thiên thần
+不出来な姉とデキる妹=Chị Gái Vụng Về và Em Gái Tài Hoàn
+お姉ちゃんたちVS妹たち=Chị Gái Đấu Em Gái
+お姉ちゃんたちの奮闘=Cuộc Đấu Tranh Của Các Chị Gái
+ウルトラハッピーは叶う=Ultra Happy sẽ trở thành hiện thực
+
+
+アンジェル昇格試験=Kỳ thi Thiên thần
+嗚呼美しきクリスマス=Ôi, một lễ Giáng sinh tươi đẹp
+クリスマス商戦真っ最中のショーウィンドウに映った自分の姿\nに酔うユキに出会った一行。クリスマスを楽しみにしている皆\nの邪魔にならないように、エンジェルの力で出した鏡でユキを\n移動させるのであった。=Giữa mùa bán hàng Giáng sinh, nhóm gặp Yuki đang say sưa trước hình ảnh phản chiếu trong cửa sổ shop. Để không cản trở mọi người háo hức chờ Giáng sinh, cô ấy đã dời Yuki bằng một tấm gương được gọi ra bởi thánh lực thiên thần.
+
+聞きたいけど聞きたくない=Muốn nghe nhưng không muốn hỏi
+エンジェル昇格試験　エピソード解放=Mở Khóa Tập Phim Kỳ Thi Thiên Thần
+聖夜の幽霊×吸血鬼=Ma Cà Rồng Đêm Thánh
+小さなサンタの贈り物=Quà Của Tiểu Santa
+輝け！　クリスマスライブ=Tỏa Sáng! Buổi Hòa Nhạc Giáng Sinh
+エンジェル占いにご用心=Cẩn Thận Với Bói Toán Thiên Thần
+サンタともふもふトナカイ=Santa Và Nai Đón Xù
+お姉ちゃんの愛さえあれば=Miễn Là Tôi Có Tình Yêu Của Chị Gái
+清き心のクリスマス=Giáng Sinh Trái Tim Trong Sạch
+狙え！　新事業！=Nhắm Mục Tiêu! Công Việc Mới!
+素直になれないクリスマス=Giáng Sinh Không Thể Thành Thật

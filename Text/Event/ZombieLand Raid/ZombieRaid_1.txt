@@ -1,0 +1,18 @@
+サガタウロス=Sagataur
+コラボレイドイベントのデイリーミッション報酬を受け取ろう=Nhận phần thưởng nhiệm vụ hàng ngày cho sự kiện raid hợp tác
+
+全体報酬=Tổng Phần Thưởng
+全体ミッションクリア！=Hoàn thành toàn bộ nhiệm vụ!
+討伐チケット=Vé Chinh Phục
+期間限定ミッション：2025/10/24 12:00～2025/11/03 11:59=Nhiệm vụ giới hạn thời gian: 2025/10/24 12:00 - 2025/11/03/03 11:59
+サガタウロス（NORMAL）を１回倒そう=Đánh bại Sagataur (THƯỜNG) một lần
+サガタウロスと１回バトルしよう (全難易度共通)=Hãy cùng đánh một trận với Sagataur. (Tất cả mức độ khó đều giống nhau.)
+r:"^\(期限：あと (\d+)時間(\d+)分\)$"=(Thời gian giới hạn: $1 giờ $2 phút)
+サガタウロス（HARD）を１回倒そう=Đánh bại Sagataur (KHÓ) một lần
+サガタウロス（VERY HARD）を１回倒そう=Đánh bại Sagataur (RẤT KHÓ) 1 lần
+サガタウロスを５回倒そう (全難易度共通)=Đánh bại 5 Sagataur (Mọi độ khó)
+サガタウロスを40回倒そう (全難易度共通)=Đánh bại 40 Sagataur
+サガタウロスに累計1,000,000,000ダメージ与えよう=Gây tổng sát thương 1.000.000.000 lên Sagataur
+サガタウロスに１度のバトルで30,000,000ダメージ与えよう=Gây tổng sát thương 30.000.000 lên Sagataur trong một trận chiến
+サガタウロスに累計2,000,000,000ダメージ与えよう=Gây tổng sát thương 2.000.000.000 lên Sagataur
+サガタウロスに１度のバトルで120,000,000ダメージ与えよう=Gây tổng sát thương 120.000.000 lên Sagataur trong một trận chiến

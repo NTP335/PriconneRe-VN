@@ -1,0 +1,72 @@
+##Profile##
+【物理】最前衛で、完全防御スキルを操る騎士団長。ユニオンバーストであらゆるダメージを吸収するバリアを展開できる。特に長期戦で圧倒的な防御性能を誇る。=[Vật Lý] Đội trưởng của Nightmare, người củng cố tuyến đầu với kỹ năng phòng thủ không thể xuyên thủng. Union Burst của cô tạo ra một lá chắn hấp thụ mọi loại sát thương, cho phép cọng cố vững chắc ngay cả trong những trận chiến dài nhất.
+
+格闘技、湯浴み=Võ thuật, tắm
+素顔を見せない冷静沈着な女性騎士=Một kỵ sĩ bình tĩnh, điềm tĩnh và tỉnh táo, che giấu khuôn mặt của mình
+
+君のことを知りたくて=Muốn Biết Về Cậu
+真のヒーロー=Anh Hùng Thực Thụ
+仮面に隠れた乙女心=Trái Tim Trinh Nữ Ẩn Sau Chiếc Mặt Nạ
+乙女な団長=Đội Trưởng Trinh Nữ
+ビハインド・ザ・マスク=Phía Sau Chiếc Mặt Nạ
+ヒーローの日常=Cuộc Sống Hàng Ngày Của Anh Hùng
+思い出にセルフィーを=Chụp Ảnh Tự Sướng Để Lưu Kỷ Niệm
+プレゼントは突然に=Quà Bất Ngờ
+門番と迷子=Người Gác Cổng Và Đứa Trẻ Lạc
+たとえ君に会えなくても=Ngay Cả Khi Không Thể Gặp Cậu
+ヒーローは立ち上がる=Anh Hùng Vươn Lên
+複雑なエモーション=Cảm Xúc Phức Tạp
+
+##UB##
+インフェルノシールド=Khiên Hỏa Ngục
+自分に物理/魔法吸収バリアを展開する。=Triển khai một rào cản xung quanh bản thân hấp thụ sát thương vật lý (P.DMG) và sát thương ma thuật (M.DMG).
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Triển khai Rào Cản lên bản thân hấp thụ $1 sát thương vật lý (P.DMG) và ma thuật (M.DMG) trong 18 giây.
+
+##S1##
+ブレイブリカバリー=Động Viên Lòng Dũng Cảm
+自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復する。=Hồi một lượng nhỏ HP cho đồng minh gần nhất có HP thấp nhất.
+自分の周りの味方のうち、最もＨＰの割合が低い味方１キャラのＨＰを中回復する。=Hồi một lượng nhỏ HP cho đồng minh gần nhất có tỷ lệ HP% thấp nhất.
+r:"^味方単体のＨＰを(\d+)回復$"=►Hồi HP của một đồng minh $1.
+
+##S2##
+アーマーブレイク=Kẻ Phá Giáp
+目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý (P.DMG) nhỏ lên kẻ địch đứng ngay trước mặt và giảm phòng thủ vật lý (P.DEF) của chúng một chút.
+
+##EX##
+ジャスティスバリア=Khiên Công Lý
+ジャスティスバリア+=Khiên Công Lý+
+
+##UB+##
+インフェルノランパート=Thành Trì Hỏa Ngục
+自分に物理/魔法吸収バリアを展開し、自分の周囲に範囲内の味方すべての物理攻撃力を特大アップ、行動速度を大アップさせるフィールドを展開する。=Triển khai một rào cản hấp thụ sát thương vật lý/và ma thuật (P/M) lên bản thân, và tạo một vùng lân cận xung quanh bản thân làm tăng mạnh sát thương vật lý (P.ATK) và tốc độ hành động của tất cả đồng minh trong phạm vi.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する物理攻撃力を(\d+)アップさせるフィールドを展開する行動速度をアップさせるフィールドを展開する$"=►Triển khai Rào Cản lên bản thân hấp thụ $1 sát thương vật lý/ma thuật (P/M.DMG) trong 18s.\n►Tăng sát thương vật lý (P.ATK) của đồng minh trong phạm vi 300 lên $2 trong 18s.\n►Tăng tốc độ hành động của đồng minh trong phạm vi 300 lên 155% trong 18s.
+
+##S1+##
+ブレイブリカバリー+=Động Viên Lòng Dũng Cảm+
+自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復させ、さらに物理攻撃力を中アップ、行動速度を小アップさせる。=Hồi một lượng vừa phải HP cho đồng minh gần nhất có HP thấp nhất. Tăng mạnh sát thương vật lý (P.ATK) và tăng nhẹ tốc độ hành động của đồng minh đó.
+自分の周りの味方のうち、最もＨＰの割合が低い味方１キャラのＨＰを中回復させ、さらに物理攻撃力を中アップ、行動速度を小アップさせる。=Hồi một lượng lớn HP cho đồng minh gần nhất có HP thấp nhất. Tăng mạnh sát thương vật lý (P.ATK) và tăng nhẹ tốc độ hành động của đồng minh đó.
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の行動速度アップ$"=►Hồi HP của một đồng minh $1.\n►Tăng sát thương vật lý (P.ATK) của một đồng minh $2 trong 12s.\n►Tăng tốc độ hành động của một đồng minh lên 120% trong 12s.
+
+##UE##
+シュバリエメイル=Giáp Chevalier
+
+##Comments##
+やぁ、迷子の少年。君とのおしゃべりは楽しかったよ\n私はいつも門の前にいるから、また迷子になったら\n王宮目指して訪ねておいで=Này, cậu bé lạc đường. Mình vừa trò chuyện vui vẻ với cậu đấy. Mình luôn đứng ở cổng, nếu cậu lạc đường lần nữa, nhớ ghé thăm mình trên đường đến cung điện nhé.
+わざわざお礼に来てくれるとは思わなかったよ\nしかも可愛らしい贈り物まで用意してくれて…\n照れくさいけどとても嬉しかった。ありがとう=Mình không ngờ cậu đi xa đến thế chỉ để cảm ơn mình. Hơn nữa còn mang một món quà dễ thương như vậy... Thật ngại quá, nhưng mình rất vui. Cảm ơn cậu.
+いや、今までも迷惑などでは決してなかったよ\n君とのお喋りはとても楽しかったし、有意義だった=Không, chuyện đó chưa bao giờ là phiền phức. Nói chuyện với cậu thật vui và ý nghĩa.
+もう私に会いに来ない方がいいだろうな\n私は君がいい子だと知っているが\nスパイではないかと疑う者も中にはいるんだ=Có lẽ tốt nhất là cậu đừng đến thăm mình nữa. Mình biết cậu là một cậu bé ngoan, nhưng có người nghi ngờ cậu có thể là gián điệp.
+私はこの仕事に誇りを持っているし好きなんだ\n王宮の門を守るという、先祖代々の重要な使命だし…\nそれに、君のようないい子と出会えたりもするからね=Mình tự hào về công việc này và thích nó. Đây là một bổn phận quan trọng của tổ tiên là bảo vệ cổng cung điện... Và mình còn được gặp những cậu bé ngoan như cậu nữa.
+少年、また会えるなんて本当に嬉しかったよ\nそれにしても、二人そろって眠ってしまうなんてね…\n変な夢を見たような…あまり気にするのはよそう=Cậu bé, mình thực sự rất vui khi gặp lại cậu. Nhưng hai chúng ta cùng ngủ thiếp đi... Cảm giác như chúng ta đã có một giấc mơ kỳ lạ. Đừng suy nghĩ quá nhiều về nó.
+やぁ、少年。心配をかけて悪かったね\nところで、私の素顔についてなんだが\nその…いつかは君に見せようと思う=Này, cậu bé. Xin lỗi vì đã làm cậu lo lắng. À, về khuôn mặt thật của mình... Ừm, một ngày nào đó, mình nghĩ mình sẽ cho cậu xem.
+少年、一緒に料理を作れて楽しかったよ。\n君には、普段人に言えないことも話せてしまう\nなぜだろうね、ふふ=Cậu bé, nấu ăn cùng nhau thật vui. Mình có thể nói với cậu những chuyện mình không thể thường nói với người khác. Không biết tại sao... Hehe.
+事情を話した以上は、私の素顔を少年に\n見せてもいいと思うが、やはり恥ずかしい…\nでも、君が望むのなら…少しくらいは…=Vì mình đã kể hoàn cảnh của mình, chắc cũng được phép cho cậu xem khuôn mặt thật rồi, nhưng vẫn còn thấy ngại... Nhưng nếu cậu mong muốn... thì có lẽ chỉ một chút thôi...
+許しているせいか\n心の悩みも打ち明けてしまった…\n迷惑でなければいいのだが…=Mình chắc đã để lại ấn tượng là có thể chia sẻ những lo lắng... Nếu không phiền cậu...
+少年には世話になりっぱなしだな\n倒れている私を救護院まで運んだり\n鎧や兜を洗ってもらったり…=Mình đã nhờ cậu nhiều lắm, cậu bé. Cậu đã đỡ mình đến phòng y tế khi mình ngã và thậm chí còn giặt áo giáp và mũ giáp cho mình...
+
+
+久しぶりに時間が取れそうだ\n食事でもしながら、ゆっくりと話さないか？\nこ、これはデートの誘いではないからね…？=Có vẻ sau một khoảng thời gian dài, mình sẽ có chút thời gian rảnh. Ăn cơm rồi trò chuyện một chút nhé? Ơ, đây không phải lời mời hẹn hò đâu nhé...?
+この間の任務では不覚を取ったから\n一度鍛えなおそうと思っているのだが\n少年も一緒に鍛錬しないか？=Tôi bị trúng đòn trong nhiệm vụ trước, nên đang nghĩ đến việc tập luyện lại. Cậu có muốn tập cùng tôi không?
+少年と一緒にいると、複雑な感情が芽生えてくる…\n緊張するようで安堵もするような…不思議な感じだ\n…少年はこの感覚を知っているかい？=Khi ở cùng cậu, những cảm xúc phức tạp bắt đầu nảy nở... Đó là sự kết hợp giữa lo lắng và nhẹ nhõm. Cảm giác kỳ lạ quá. Cậu có biết cảm giác này không?
+それでも、私は少年とは何も隠さない関係でありたい\n私が仮面も外して、普通の女の子になれた時に…\nそばにいるのは少年であってほしいな=Dù sao đi nữa, tôi muốn có một mối quan hệ nơi tôi không giấu giếm bất cứ điều gì với cậu. Khi tôi có thể cởi bỏ chiếc mặt nạ và trở thành một cô gái bình thường... Tôi muốn cậu ở bên cạnh.
+ふふっ、思い返すと私の方が世話になってるな\n君は私を特別扱いしないから\nつい本音で甘えてしまっているのかもしれない=Hehe, nghĩ lại thì, tôi mới là người phụ thuộc vào cậu nhiều hơn. Cậu không đối xử đặc biệt với tôi, nên có lẽ tôi vô thức bộc lộ cảm xúc thật với cậu.
+思えば、少年とは色々とあったな\n迷子のところを助けたり、逆に私が助けられたり…\n他にも個人的な相談に乗ってもらったりもした=Nhìn lại, đã có nhiều trải nghiệm khác nhau với cậu. Giúp đỡ cậu khi cậu lạc lối, và ngược lại... Tôi cũng đã tìm kiếm lời khuyên cá nhân từ cậu.

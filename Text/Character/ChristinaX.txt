@@ -1,0 +1,40 @@
+##Profile##
+【物理】前衛で戦いを愉しむ、聖夜の『誓約女君』。ユニオンバーストを使用すると得られるコインの有無で、補助と攻撃の二役を切り替え、華麗に敵を斬り倒す。=[Vật lý] Ngay cả trong mùa lễ hội, indomitable Regina Geas vẫn tiến ra mặt trận. Bằng cách thu thập và tiêu thụ đồng xu thông qua Union Burst, cô ấy có thể chuyển đổi giữa vai trò hỗ trợ và tấn công toàn lực để tiêu diệt kẻ địch một cách phong cách.
+
+睦みあいクリスマス=Giáng Sinh Vui Vẻ
+氷上の女傑=Nữ Thần Băng Giá
+誓約女君を満たすもの=Điều Gì Thỏa Mãn Regina Geas
+共に愉快な退屈を=Chia Sẻ Khoảnh Khắc Dịu Dàng Nhạt Nhẽo
+
+##UB##
+デュアリティアヴァロン=Avalon Song Song
+コインを持っていない場合、目の前の敵１キャラに物理特大ダメージを与え、自分の物理攻撃力を特大アップさせコインを獲得。コインを持っている場合、コインを消費して、必ず命中する物理特大ダメージを与える。=Nếu Christina không có Đồng xu, gây sát thương vật lý (P.DMG) khổng lồ lên kẻ địch phía trước, tăng mạnh P.ATK của bản thân và nhận được một Đồng xu. Nếu Christina có Đồng xu, tiêu thụ Đồng xu để gây sát thương vật lý khổng lồ không thể tránh.
+r:"^コインを持っていない場合、敵単体に(\d+)の物理ダメージコインを持っている場合、敵単体に(\d+)の物理ダメージコインを持っていない場合、自分の物理攻撃力を(\d+)アップ$"=Nếu Christina không có Đồng xu:\n►Gây $1 P.DMG lên một kẻ địch.\n►Tăng P.ATK của bản thân lên $3 trong 18s.\n►Nhận được một Đồng xu.\n\nNếu Christina có Đồng xu:\n►Gây sát thương $2 P.DMG không thể tránh lên một kẻ địch.\n►Tiêu thụ Đồng xu.
+
+##S1##
+エンハンスプレゼント=Quà Tăng Cường
+コインを持っていない場合、物理攻撃を行うすべての味方キャラの物理攻撃力を大アップさせる。コインを持っている場合、物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせ、自分の物理攻撃力を特大アップさせる。=Nếu Christina không có Đồng xu, tăng P.ATK cho tất cả đồng minh thuộc hệ Vật lý một lượng lớn. Nếu Christina có Đồng xu, tăng P.ATK cho tất cả đồng minh thuộc hệ Vật lý một lượng vừa phải và tăng mạnh P.ATK của bản thân. Tất cả hiệu ứng kéo dài 12s.
+r:"^コインを持っていない場合、対象の味方の物理攻撃力を(\d+)アップコインを持っている場合、対象の味方の物理攻撃力を(\d+)アップコインを持っている場合、自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.34s\nNếu Christina không có Đồng xu:\n►Tăng P.ATK của đồng minh hệ Vật lý lên $1.\n\nNếu Christina có Đồng xu:\n►Tăng P.ATK của đồng minh hệ Vật lý lên $2.\n►Tăng P.ATK của bản thân lên $3.
+
+##S2##
+デストラクション=Hủy Diệt
+デストラクション+=Hủy Diệt+
+コインを持っていない場合、目の前の敵１キャラに物理中ダメージを与える。コインを持っている場合、目の前の敵１キャラに物理中ダメージを与え、さらに味方全体のＴＰ上昇を小アップする。=Nếu Christina không có Đồng xu, gây sát thương vật lý (P.DMG) vừa phải lên kẻ địch phía trước. Nếu Christina có Đồng xu, gây sát thương vật lý vừa phải lên kẻ địch phía trước và tăng nhỏ Hiệu Quả Tăng TP (TP Boost) cho tất cả đồng minh.
+r:"^コインを持っていない場合、敵単体に(\d+)の物理ダメージコインを持っている場合、敵単体に(\d+)の物理ダメージコインを持っている場合、味方全体のＴＰ上昇を10アップ$"=Thời gian niệm: 0.58s\nNếu Christina không có Đồng xu:\n►Gây $1 P.DMG lên một kẻ địch.\n\nNếu Christina có Đồng xu:\n►Gây $2 P.DMG lên một kẻ địch.\n►Tăng Hiệu Quả Tăng TP (TP Boost) của đồng minh lên 10 trong 12s.
+
+##S2+##
+短時間全ての物理攻撃を回避する状態になり、コインを持っていない場合、目の前の敵１キャラに物理大ダメージを与える。コインを持っている場合、目の前の敵１キャラに物理大ダメージを与え、味方全体のＴＰ上昇を小アップさせる。さらにコインの有無にかかわらず、バトル終了時まで全てのスキルでコインを持っていない場合とコインを持っている場合の効果が両方発動する状態になる。この状態の間、デストラクション+に自分を中心とした範囲内の味方の行動速度を大アップさせる効果が追加される。=Bước vào trạng thái né toàn bộ tấn công vật lý (P.ATK) trong thời gian ngắn. Nếu không giữ Đồng xu, gây sát thương vật lý (P.DMG) lớn lên kẻ địch phía trước. Nếu có giữ Đồng xu, gây sát thương vật lý lớn lên kẻ địch phía trước và tăng nhỏ Hiệu Quả Tăng TP (TP Boost) cho tất cả đồng minh. Ngoài ra, bất kể có Đồng xu hay không, đến hết trận cả hiệu ứng không-có-đồng-xu và có-đồng-xu sẽ kích hoạt cho tất cả kỹ năng. Trong trạng thái này, kỹ năng Hủy Diệt+ sẽ nhận thêm hiệu ứng tăng mạnh Tốc Độ Hành Động (Action Speed) của đồng minh trong phạm vi xung quanh bản thân.
+r:"^一定時間全ての物理攻撃を回避するコインを持っていない場合、敵単体に(\d+)の物理ダメージコインを持っている場合、敵単体に(\d+)の物理ダメージコインを持っている場合、味方全体のＴＰ上昇を10アップコインを持っていない場合とコインを持っている場合の効果が両方発動する状態の間、範囲内の味方の行動速度アップコインを持っている状態と持っていない状態の両方の効果が発動するようになる$"=►Dodge toàn bộ tấn công vật lý trong 3s.\n►Không [Đồng xu]: Gây $1 P.DMG lên kẻ địch đơn.\n►Có [Đồng xu]: Gây $2 P.DMG lên kẻ địch đơn.\n►Có [Đồng xu]: Tăng Hiệu Quả Tăng TP (TP Boost) của tất cả đồng minh lên 10 trong 12s.\n►Khi cả hai trạng thái đồng xu đang hoạt động: Tăng Tốc Độ Hành Động (Action Speed) của đồng minh trong phạm vi 100 đơn vị xung quanh bản thân lên 200% trong 12s.\n►Kích hoạt hiệu ứng cho cả hai trạng thái đồng xu.
+
+##EX##
+バーンスクリプト=Kịch Bản Cháy Rực
+バーンスクリプト+=Kịch Bản Cháy Rực+
+
+##S1+##
+エンハンスプレゼント+=Quà Tăng Cường+
+コインを持っていない場合、物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップさせる。コインを持っている場合、物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせる。さらに、自分の物理攻撃力を特大アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。=Nếu Christina không có Đồng xu, tăng P.ATK cho tất cả đồng minh thuộc hệ Vật lý một lượng lớn. Nếu Christina có Đồng xu, tăng P.ATK cho tất cả đồng minh thuộc hệ Vật lý một lượng vừa phải và tăng mạnh P.ATK cùng Sát Thương Chí Mạng Vật Lý (P.CRIT DMG) của bản thân. Tất cả hiệu ứng kéo dài 12s.
+r:"^コインを持っていない場合、対象の味方の物理攻撃力を(\d+)アップコインを持っている場合、対象の味方の物理攻撃力を(\d+)アップコインを持っている場合、自分の物理攻撃力を(\d+)アップコインを持っている場合、自分の物理攻撃クリティカル時のダメージを25％アップ$"=Thời gian niệm: 0.34s\nNếu Christina không có Đồng xu:\n►Tăng P.ATK của đồng minh hệ Vật lý lên $1.\n\nNếu Christina có Đồng xu:\n►Tăng P.ATK của đồng minh hệ Vật lý lên $2.\n►Tăng P.ATK của bản thân lên $3.\n►Tăng Sát Thương Chí Mạng Vật Lý (P.CRIT DMG) của bản thân lên 25%.
+
+##UE##
+聖刻剣アヴァロン=Avalon - Kiếm Thánh
+誓約女君の祝杯=Lời Chúc Của Regina Geas

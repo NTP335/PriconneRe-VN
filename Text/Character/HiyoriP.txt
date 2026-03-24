@@ -1,0 +1,32 @@
+##Profile##
+【物理】前衛で炎翼を背に敵を粉砕する、陽気な元気娘。戦いが続く程に自身の攻撃能力を強めるスキルを操り、高めた力で放つ超爆の一撃は、あらゆる敵を塵と化す。=[Vật lý] Một cô gái vui tươi, năng động ở tuyến đầu, dang rộng đôi cánh lửa để đè bẹp kẻ thù. Kỹ năng của cô tăng sức mạnh tấn công khi trận đấu tiếp diễn, cô dùng sức mạnh đó để tung một đòn bùng nổ biến kẻ địch thành tro bụi.
+
+さらなる強さを求めて=Khát Vọng Sức Mạnh
+特訓、心重ねて=Tập Luyện Đặc Biệt Đầy Nhiệt Huyết
+守りたい想いを力に変えて=Rút Sức Mạnh Từ Khát Vọng Bảo Vệ
+未来に高鳴る胸の音=Nhịp Đập Trái Tim Vì Tương Lai
+
+##UB##
+ヒヨリブレイジングインパクト=Hiyori Đột Kích Rực Lửa
+目の前の敵１キャラに物理特大ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルで与えたダメージ量に応じて、防御力の減少量が最大６倍までアップする。=Gây sát thương P.DMH lớn lên kẻ địch phía trước, và đồng thời hơi giảm P.DEF của nó. Sát thương P.DMH càng lớn do kỹ năng này gây ra, mức giảm P.DEF càng cao, tối đa 6 lần.\nP.DEF: (+0.0004×P.DMH)
+
+##S1##
+トゥインクルブレイブ=Dũng Sĩ Lấp Lánh
+自分の物理攻撃力を中アップさせ、さらに物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Tăng trung bình P.ATK của bản thân, và đồng thời hơi tăng Tỷ Lệ Chí Mạng P. và P.CRIT DMG của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを25アップ自分の物理攻撃クリティカル時のダメージを5％アップ$"=Thời gian niệm: 0.6s\n►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Tăng Tỷ Lệ Chí Mạng P. của bản thân lên 25 trong 180s.\n►Tăng P.CRIT DMG của bản thân lên 5% trong 180s.
+
+##S2##
+バーニングサンライズ=Bình Minh Cháy Bỏng
+自分の物理攻撃力を小アップさせ、さらに目の前の敵１キャラに物理中ダメージを与える。=Hơi tăng P.ATK của bản thân, và gây sát thương P.DMH trung bình lên kẻ địch phía trước.
+
+##EX##
+バーニングソウル=Tâm Hồn Cháy Bỏng
+バーニングソウル+=Tâm Hồn Cháy Bỏng+
+
+##S1+##
+トゥインクルブレイブ+=Dũng Sĩ Lấp Lánh+
+自分の物理攻撃力と物理クリティカルを中アップさせ、さらに物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復させる。=Tăng trung bình P.ATK của bản thân, hơi tăng Tỷ Lệ Chí Mạng P. và P.CRIT DMG của bản thân, và cũng hơi hồi TP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを40アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分のＴＰを100回復$"=Thời gian niệm: 0.6s\n►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Tăng Tỷ Lệ Chí Mạng P. của bản thân lên 40 trong 180s.\n►Tăng P.CRIT DMG của bản thân lên 10% trong 180s.\n►Hồi TP của bản thân lên 100.
+
+##UE##
+ワイルドプリンセスナックル=Quyền Đấm Công Chúa Hoang Dã

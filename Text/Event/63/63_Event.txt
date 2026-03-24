@@ -1,0 +1,3 @@
+demon city
+r:"^魔族の街([0-9\-\(\)\w （）]*)$"=Thành Ma Quỷ $1
+変貌せし従者・ブラド=Servant Brad Đã Biến Đổi

@@ -1,0 +1,18 @@
+---Notification...not display at DMM---
+お気に入りキャラ設定=Cài đặt Nhân vật Yêu thích
+プロフィールのお気に入りキャラから通知が届くように設定できます。=Bạn có thể nhận thông báo từ nhân vật yêu thích trong hồ sơ của mình.
+スタミナ全回復時=Phục hồi thể lực
+スタミナが全回復したときに通知します。=Thông báo khi thể lực đã phục hồi hoàn toàn.
+ギルドハウス　マナ=Mana Nhà Guild
+ギルドハウス　スキップチケット=Vé Bỏ qua Nhà Guild
+ギルドハウス　EXPポーション=Rượu tăng EXP Nhà Guild
+ギルドハウス　スタミナ=Thể lực Nhà Guild
+ギルドハウスで受け取れるマナがいっぱいになったときに通知します。=Thông báo khi Mana có thể nhận ở Nhà Guild đã đầy.
+ギルドハウスで受け取れるスキップチケットがいっぱいになったときに通知します。=Thông báo khi Vé Bỏ qua có thể nhận ở Nhà Guild đã đầy.
+ギルドハウスで受け取れるEXPポーションがいっぱいになったときに通知します。=Thông báo khi Rượu tăng EXP có thể nhận ở Nhà Guild đã đầy.
+ギルドハウスで受け取れるスタミナがいっぱいになったときに通知します。=Thông báo khi Thể lực có thể nhận ở Nhà Guild đã đầy.
+ギルドハウス　まとめて通知=Thông báo tổng hợp Nhà Guild
+ギルドハウスで受け取れる全てのアイテムがいっぱいになったときに通知します。\n※個別のアイテムの通知を設定すると、この設定はOFFになります。=Chúng tôi sẽ thông báo khi tất cả vật phẩm có thể nhận ở Nhà Guild đã đầy.\n※Cài đặt này sẽ TẮT khi bạn thiết lập thông báo cho từng vật phẩm riêng lẻ.
+深夜帯は受け取らない=Ban đêm không nhận
+24:00～早朝6:59まで、全ての通知を受け取らないようにします。=Từ 24:00 đến sáng sớm lúc 6:59, không nhận tất cả thông báo.
+端末の設定で通知をOFFにしている場合、通知は受け取れませんのでご注意ください。=Lưu ý rằng thông báo có thể không được nhận nếu thông báo đã bị tắt trong cài đặt thiết bị.

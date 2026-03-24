@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で、豪胆にスリルを嗜む盗賊ギルドの長女。最前線で命を張りながら、獲得した【バンディダイス】の消費によって自らを大幅強化し、有象無象を地に伏せる。=[Vật Lý] Chị cả của bang hội Bandy Sister, mạnh mẽ và thích mạo hiểm. Dám liều mình ở tuyến đầu, cô ấy sử dụng [Xúc Xắc Bandy] để tự cường thân rồi hạ gục kẻ bất tài.
+ファイルーズあい=Fairouz Ai
+
+##UB##
+ティース・ワインディング=Răng Cuộn
+敵全体の物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせ、前方範囲内の敵すべてに物理大ダメージを与える。さらに、自分のＨＰを中回復する。このスキルのダメージは、１ヒットは必ずクリティカルする。=Hơi giảm phòng thủ vật lý của toàn kẻ địch, tăng sát thương chí mạng vật lý họ nhận, và gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Đồng thời hồi một lượng HP trung bình cho bản thân. Ít nhất một đòn của Kỹ Năng Đại sẽ luôn là chí mạng.
+r:"^敵全体の物理防御力を(\d+)ダウン敵全体の被クリダメを5％アップ範囲内の敵に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Giảm $1 Phòng Thủ Vật Lý của toàn kẻ địch trong 18 giây.\n►Tăng 5% Sát Thương Chí Mạng Vật Lý nhận của toàn kẻ địch trong 18 giây.\n►Gây $2 Sát Thương Vật Lý lên kẻ địch trong phạm vi 500.\n►Hồi $3 HP cho bản thân.
+
+##S1##
+チェーンエッジ=Lưỡi Liên Hoàn
+前方範囲内の敵すべてに物理中ダメージを２回与え、物理防御力を小ダウンさせる。さらに、自分のＨＰを中回復する。=Gây hai đòn sát thương vật lý trung bình lên kẻ địch phía trước và hơi giảm phòng thủ vật lý của chúng. Đồng thời hồi một lượng HP trung bình cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch trong phạm vi 500.\n►Gây $2 Sát Thương Vật Lý lên kẻ địch trong phạm vi 500.\n►Giảm $3 Phòng Thủ Vật Lý của kẻ địch trong phạm vi 500 trong 12 giây.\n►Hồi $4 HP cho bản thân.
+
+##S2##
+バンディットダイス=Xúc Xắc Bandy
+自分の物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、【バンディダイス】をすべて消費するが、消費した【バンディダイス】の数に応じて効果量がアップする。【バンディダイス】を８つ消費した場合、効果量の上昇量と効果時間が増加する。=Tăng cường sát thương vật lý rất lớn và tăng sát thương chí mạng vật lý nhẹ cho bản thân. Đồng thời tiêu hao toàn bộ ngăn [Xúc Xắc Bandy], nhưng hiệu ứng kỹ năng sẽ tăng theo số ngăn [Xúc Xắc Bandy] đã tiêu hao. Nếu tiêu hao 8 ngăn [Xúc Xắc Bandy], cả hiệu ứng và thời gian sẽ tăng lên.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを1％アップバンディダイスを全て消費する$"=►Tăng $1 Sát Thương Vật Lý của bản thân (+0.25×$1×\n[Xúc Xắc Bandy]) trong 12 giây.\n►Tăng 1% Sát Thương Chí Mạng Vật Lý của bản thân (+1%×[Xúc Xắc Bandy]) trong 12 giây.\n►Tiêu hao toàn bộ {Xúc Xắc Bandy].
+
+##SP1##
+水分補給だよ=Hồi Phục
+自分の物理防御力と魔法防御力を大アップする。さらに、自分を敵にクリティカルでダメージを与えるたびに【バンディダイス】が１つ追加される状態にし、自分に【バンディダイス】を３つ付与する。【バンディダイス】は最大８つまで追加される。=Tăng cường phòng thủ vật lý và phòng thủ ma thuật rất lớn cho bản thân, nhận 3 ngăn [Xúc Xắc Bandy], và thêm 1 ngăn [Xúc Xắc Bandy] mỗi lần đánh chí mạng, lên tối đa 8.
+r:"^クリティカルでダメージを与えるたびにバンディダイスを付与する状態になる自分にバンディダイスを３つ付与する自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Tăng $1 Phòng Thủ Vật Lý của bản thân trong 180 giây.\n►Tăng $2 Phòng Thủ Ma Thuật của bản thân trong 180 giây.\n►Khi đánh chí mạng, nhận 1 ngăn [Xúc Xắc Bandy].\n►Nhận 3 ngăn [Xúc Xắc Bandy].
+
+##EX##
+品定めの時間=Đến lúc kiểm tra hàng rồi
+品定めの時間+=Đến lúc kiểm tra hàng rồi+

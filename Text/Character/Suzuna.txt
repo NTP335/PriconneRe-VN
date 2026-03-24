@@ -1,0 +1,53 @@
+##Profile##
+【物理】後衛からクリティカル攻撃するカリスマモデル。ダメージ2倍のクリティカルダメージはスキルによる攻撃力アップでさらに破壊力を増す。=[Vật lý] Một người mẫu quyến rũ, gây sát thương phản ứng từ hậu phương. Các đòn phản ứng gấp đôi sát thương của cô ấy được tăng cường thêm bởi các kỹ năng tăng sức tấn công.
+天真爛漫で人気者のカリスマモデル=Một người mẫu thời trang charisma, ngây thơ nhưng lại rất nổi tiếng.
+
+ファッション=Fashion
+
+狙い撃っちゃうんでよろ♪=Tôi sẽ chụp anh ta.
+それがうちのポリシーだし=Đó là chính sách của chúng tôi.
+おにやばオファーじゃね？=Xin lỗi, tôi nghĩ cậu sẽ đưa ra lời đề nghị với tôi.
+もにカワ最高フィーリング=Monikawa best feeling
+キミだけのランウェイ=Một chiếc runway dành cho bạn
+うちのカレシになってよ=Trở thành bạn trai của tôi
+消えたステージ衣装=Bí ẩn trang phục
+カジノバブル=May mắn trong rút thăm
+グラビア撮影は表情が命♪=Ngoại hình là tất cả
+ベストなパフューム探そ！=Chiếc nước hoa hoàn hảo!
+カリスマモデル、スズナ！=Người Mẫu Thời Trang, Suzuna!
+計算とかオニ苦手だし～=Dở Toán Kinh Điển
+
+##UB##
+ハートブレイク=Kẻ Phá Điều Hòa
+目の前の敵１キャラに物理特大ダメージを与える。このスキルは必ずクリティカルする。=Gây sát thương vật lý lớn lên kẻ địch đứng trước mặt. Luôn tạo ra sát thương chí mạng.
+
+##S1##
+おこぷんダーツ=Tên Láo Nhỏ
+目の前の敵１キャラに物理中ダメージを与える。このスキルは必ずクリティカルする。=Gây sát thương vật lý vừa lên kẻ địch đứng trước mặt. Luôn tạo ra sát thương chí mạng.
+
+##S2##
+カリスマオーラ♪=Vòng Ánh Sáng Quyến Rũ ♪
+自分の物理攻撃力を中アップさせる。=Tăng sát thương vật lý (P.ATK) của bản thân một chút.
+
+##EX##
+もにカワフィーリング=Cảm Xúc Siêu Dễ Thương
+もにカワフィーリング+=Cảm Xúc Siêu Dễ Thương+
+
+##UB+##
+オートクチュール・ハート=Trái Tim Thời Trang Cao Cấp
+自分の物理攻撃クリティカル時のダメージを中アップさせる。さらに目の前の敵１キャラに物理特大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Tăng sát thương chí mạng vật lý (P.CRIT DMG) một chút. Gây sát thương vật lý cực lớn lên một kẻ địch đứng trước mặt. Sát thương của kỹ năng này luôn là chí mạng.
+r:"^自分の物理攻撃クリティカル時のダメージを25％アップ敵単体に(\d+)の物理ダメージ$"=►Tăng sát thương chí mạng vật lý (P.CRIT DMG) của bản thân lên 25% trong 18s.\n►Gây $1 sát thương vật lý lên kẻ địch.\nLuôn chí mạng.
+
+##S1+##
+おこぷんダーツ+=Tên Láo Nhỏ+
+目の前の敵１キャラに計３回ヒットし、クリティカル時のダメージが２倍ではなく３倍になる物理大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Tổng cộng đánh 3 lần vào 1 kẻ địch đứng trước mặt, gây sát thương vật lý lớn với hệ số chí mạng x3 thay vì x2. Sát thương của mỗi lần đánh luôn là chí mạng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây $3 sát thương vật lý lên kẻ địch.
+
+##S2+##
+カリスマオーラ♪+=Vòng Ánh Sáng Sức Hút ♪+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。=Tăng sát thương vật lý (P.ATK) và sát thương chí mạng vật lý (P.CRIT DMG) của bản thân. Hồi TP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを15％アップ自分のＴＰを150回復$"=►Tăng sát thương vật lý (P.ATK) của bản thân lên $1.\n►Tăng sát thương chí mạng vật lý (P.CRIT DMG) của bản thân lên 15%.\n►Tăng TP của bản thân lên 150.
+
+##UE##
+クリティカルキス=Nụ Hôn Chí Mạng
+カリスマオートクチュール=Thời Trang Quyến Rũ Haute Couture

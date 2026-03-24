@@ -1,0 +1,18 @@
+Yuni Shingyouji's Birthday
+
+あ、ほんとに来た……や、ほら、こないだ君、ここの話してたじゃん？\n屋台のクレープすごい普通って。だから今日あたり来るかなって──\nあっ、ちが、違うよ？　全然その、ストーカー的なアレじゃなくて！=A, cậu đến thật kìa... À thì, chẳng phải hôm nọ cậu có nhắc tới chỗ này sao? Bảo là bánh crepe ở quầy hàng này ăn "bình thường" một cách kinh ngạc ấy. Thế nên mình mới đoán chừng hôm nay cậu sẽ ghé qua── Á, không, không phải đâu nhé! Hoàn toàn không phải kiểu... cái đó, rình rập hay gì đâu!
+え？　あっ、はい……どうも……\nそっか、今日28日か、ユニ博士の誕生日だ。=Hể? A, vâng... cảm ơn cậu... Ra vậy, hôm nay là ngày 28 nhỉ, sinh nhật của "Tiến sĩ Yuni" mà.
+うん、まあ、そうだよね。\nアストルムのアバターって、なんかキャラ名もそうだけど、\n誕生日とかも本人ママ設定しがちな風潮あるもんね。=Ừm, thì đúng là vậy rồi. Avatar trong Astrum ấy mà, không chỉ tên nhân vật đâu, mà cả ngày sinh nhật người ta cũng có xu hướng bê nguyên xi ngoài đời vào để thiết lập luôn mà.
+あっ、いや、違うよ？\n全然、その、ドジっ子アピとかじゃないよ？\nあのひと意外と天然なトコあるなー、的なの狙ったわけじゃなくて──=Ơ, không, không phải đâu nhé? Hoàn toàn không phải mình đang cố diễn vai "cô nàng hậu đậu" đâu! Cũng không phải mình đang nhắm tới kiểu khiến cậu nghĩ "Chà, chị ấy cũng có lúc ngơ ngác không ngờ tới nhỉ" đâu──
+──ごめん、祝ってくれたから一応言っとこうかな。\n私の誕生日、今日でもいいんだけど今日ではないっていうか……\nあ、立ち話で大丈夫？　座る？　座ろっか、どっかその辺。=──Xin lỗi nhé, vì cậu đã cất công chúc mừng nên mình cũng nói luôn vậy. Sinh nhật của mình ấy, bảo là hôm nay cũng được nhưng mà thực ra không phải hôm nay cho lắm... À, đứng nói chuyện thế này có sao không? Ngồi nhé? Tìm chỗ nào quanh đây ngồi đi.
+厳密には私──あ、今のこっちの、真行寺さんの私ね？\n私、戸籍上の出生日は28日じゃなくて29日なんだよね。\nそう、２月29日……端的に換言すると「閏日」ってやつ。=Nói một cách chính xác thì mình── à, là "mình" của hiện tại, Shingyouji-san ấy nhé? Ngày sinh trên hộ tịch của mình không phải ngày 28 mà là ngày 29 cơ. Đúng thế, ngày 29 tháng 2... nói ngắn gọn theo kiểu khác thì chính là "ngày nhuận" đấy.
+ちなみに「４年に一回しかプレゼントもらえないじゃん！」って言って\nしばしば家庭内暴動起こしてたらしいよ、未就学時代の私。\nもちろん記憶にないっていうか、ほぼ後世の作り話だと思ってるけど。=Nhân tiện thì, nghe nói hồi còn mẫu giáo, mình hay gào lên là "Bốn năm mới được nhận quà một lần thôi à!" rồi gây náo loạn cả nhà suốt đấy. Tất nhiên là mình chẳng nhớ gì cả, chắc chỉ là mấy chuyện thêu dệt đời sau của người nhà thôi.
+そんなワケないしね、４年に一回とか。\nおおむね前日か翌日──翌日パターンのが多いかな、\n平年はその辺りが誕生日扱いになって全然普通に歳とってくし。=Làm gì có chuyện bốn năm một lần chứ. Đại khái thì là ngày hôm trước hoặc hôm sau── mà hình như thường là vào ngày hôm sau hơn thì phải, vào những năm bình thường thì cứ coi tầm đó là sinh nhật rồi vẫn già đi như người thường thôi mà.
+あれ？　今コレ何の話だっけ……あ、だから私の誕生日ね？\nそう、今日じゃないけど、今日でもだいじょぶですって話。\n祝ってくれてありがとうございます──なんて、えへへ。=Ơ? Nãy giờ mình đang nói chuyện gì thế nhỉ... à, đúng rồi, chuyện sinh nhật mình. Ừ, thì ý là không phải hôm nay, nhưng chúc mừng vào hôm nay cũng không sao cả. Cảm ơn cậu đã chúc mừng mình nhé── hì hì.
+ほんと？　すごい、誕生日２日目ってやつだ。お得すぎ、嬉しい。\nあっ、じゃあ、そしたら私、明日もここで待ってるから──\nあ、ちが、今日は待ってたわけじゃないけど！　あはは……あぶねー=Thật sao? Tuyệt quá, vậy là có cả "ngày sinh nhật thứ hai" luôn. Hời quá đi, mình vui lắm. A, vậy thì, mai mình cũng sẽ đợi ở đây nên là── Á, nhầm, không phải hôm nay mình đợi cậu đâu nhé! Ha ha ha... suýt nữa thì hố.
+
+Player Prompts
+誕生日おめでとう、由仁先輩。=Chúc mừng sinh nhật chị, tiền bối Yuni.
+自分の誕生日を忘れてたの……？=Chị quên cả ngày sinh nhật của mình luôn ạ...?
+どっかその辺に座る。=*Ngồi xuống đâu đó quanh đấy.*
+そういうことなら明日もお祝いします。=Nếu vậy thì ngày mai em cũng sẽ chúc mừng chị tiếp.

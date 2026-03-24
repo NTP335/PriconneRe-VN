@@ -1,0 +1,15 @@
+Arisa Birthday
+
+放課後にいきなり呼び出すなんて、どういうつもり？\nしかも、屋上だなんて……=Cậu đang lên kế hoạch gì vậy, gọi tôi ra đột ngột sau giờ học? Hơn nữa, còn trên tầng thượng nữa...
+学校のみんなが帰ったり、部活に行ってる時間。\nこんな人気のない時間に、二人きりなんて……\nしかも、手に持ってるのって、花束、よね……？=Đó là thời điểm mọi người trở về nhà hoặc tham gia hoạt động câu lạc bộ. Thế mà chúng ta lại ở đây, một mình trên tầng thượng... Và trong tay anh ta là gì... một bó hoa?
+これってもしかして──=Đừng nói với tôi, đây có phải...
+すごく真剣な表情……！\nいつもはボーっとしてるのに、やっぱりこれって……！=Thật là một vẻ mặt nghiêm túc...! Anh ta thường ngơ ngác, vậy thì chắc chắn đây là một...!
+ま、待って！\n心の準備が……！=K-Khoan đã! T-Tôi chưa sẵn sàng tinh thần đâu...!
+そんな強引に……！\nど、どうしよう、私、こういうの初めてで……！=Thật bất ngờ và mạnh mẽ...! T-Tôi nên làm gì? Đây là lần đầu tiên tôi trải nghiệm chuyện này...!
+誕生日……？\nあ、この花束ってプレゼント……？\n早く渡さないと萎びちゃうから、待てなかったの？=Sinh... nhật...? À, bó hoa này là món quà cho tôi ư? Cậu không thể chờ được vì nếu không cho tôi sớm, nó sẽ héo...?
+そ、そうなんだ。\nありがとう、すごくうれしい。\n……ふふっ、私の早とちりだったわけね♪=T-Tôi hiểu rồi. Cảm ơn cậu nhiều lắm, tôi thực sự rất vui. ...Hehe, có lẽ mình đã suy diễn quá nhanh♪
+でも……ドキドキする、いい誕生日だった。=Tuy nhiên... điều đó đã khiến sinh nhật trở nên thú vị và tuyệt vời hơn.
+
+Player Prompts
+伝えたいことがあるんだ。=Có điều tôi muốn nói với cậu...
+もう待てない！=Tôi không thể chờ thêm nữa!

@@ -1,0 +1,19 @@
+Inori's Birthday
+
+あーっ！　見つけたですよお兄さん！\nまったく、いつもは呼んでもいないのに現れるくせに、\nこっちが捜してるときにはなかなか見つかりませんね！=Aaa! Tìm thấy rồi, Onii-san! Tệ thật, anh lúc nào cũng xuất hiện không mời mà đến, nhưng lúc em cần tìm thì lại không tìm thấy!
+何か用、じゃありませんよ！\n今日が一体何の日だと思ってやがるんですか！=Em không ở đây vì cần gì đâu! Anh có biết hôm nay là ngày nào không?!
+……分からないんですか？\n相変わらずボケボケしてやがりますね！\n仕方がないです、このあたしが直々に教えてあげましょう。=...Anh thực sự không biết? Anh vẫn vô tâm như mọi khi! Không còn cách nào, em sẽ tự giải thích!
+今日は！\nあたしの！\n誕生日です！=Hôm nay! Là! Sinh! NHẬT!!!
+ふっふっふ。もっと祝い崇めるがいいです！\nいつもあたしがお兄さんのお世話をしてあげてますからね。\nお兄さんもお祝いしたかったに違いありません！=Hehehe. Anh nên ăn mừng và tôn thờ em nhiều hơn! Em luôn chăm sóc anh, Onii-san. Chắc chắn anh háo hức muốn tự mình ăn mừng em rồi!
+えっ？　いいんですか……？\nふっ、そうですね！\nお兄さんにも甲斐性をアピールするチャンスをあげます！=Hả? Được sao...? Heh, đúng rồi! Em sẽ hào phóng và cho anh cơ hội thể hiện bản thân!
+は？　そこまで……？\nいきなり押し掛けたのに、そこまでしてもらうのはちょっとさすがに、\nリョーシンのカシャクが……=Hả? Đi xa thế ư...? Ý em là, em đột ngột xông vào -- nếu anh làm vậy, ngay cả bố mẹ em cũng sẽ thấy tội lỗi...
+ちょっ、待つですよ！？\n誰もそこまでパワフルに祝えとは──ぴゃああっ！？\nなんで！？　なんで通りすがりの人が協力し始めるんです！？=Khoan! Không ai bảo ăn mừng mạnh thế này -- PYAAAAAAHHHHHHHHHH!? Tại sao!? Tại sao người đi đường ngẫu nhiên lại tham gia đột ngột!?
+ごめんなさいですっ、普通に！\n普通に祝ってほしいです～～～～～！=XIN LỖI! CỨ BÌNH THƯỜNG LẠI! CỨ ĂN MỪNG NHƯ BẤT KỲ SINH NHẬT NÀO~!
+ぴゃあ～～～～～～～～～～～～～～～～～～～！=PYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaaaaaaa....!
+
+Player Prompts
+何か用？=Cô cần gì không?
+おめでとう……ございます……=Chúc... mừng... sinh nhật...
+じゃあ、ケーキでも食べに行こうか。=Vậy thì, đi ăn bánh nào
+プレゼントも買おうね。=Tôi cũng sẽ mua quà cho cô
+胴上げしよう！=Và giờ... tôi sẽ nâng cô lên!

@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で、相棒と困難を越え猛進するアヤネ隊員。群る敵を二つの範囲攻撃で一気に捉え、周囲の味方の物理攻撃力とクリティカルアップで冒険を阻む壁を打ち崩す。=[Vật Lý] Phiêu lưu cùng Pukichi, Ayane có thể làm mọi thứ! Cô ấy có thể khiến kẻ thù rơi vào nguy hiểm với các đòn tấn công diện rộng, và tăng P.ATK cùng Tỷ Lệ Chí Mạng Vật Lý cho đồng đội để cùng nhau phá tan rào cản.
+
+##UB##
+ぷうきちアドベンチャー=Pukichi Adventure
+前方範囲内の敵すべてに物理特大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップする。=Gây sát thương vật lý cực lớn lên kẻ địch trong phạm vi, và tăng cường mạnh mẽ tấn công vật lý của đồng minh trong phạm vi xung quanh bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 700.\n►Tăng tấn công vật lý của đồng minh trong phạm vi 700 lên $2 trong 18s.
+
+##S1##
+ぷうきちチョッピング=Pukichi Chopping
+
+##S2##
+ぷうきちエンブレイス=Pukichi Embrace
+自分を中心とした範囲内の味方すべての物理攻撃力と物理クリティカルを大アップする。=Tăng cường mạnh mẽ tấn công vật lý và tỷ lệ chí mạng của đồng minh trong phạm vi xung quanh bản thân.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを80アップ$"=Thời gian thi pháp: 0.59s\n►Tăng tấn công vật lý của đồng minh trong phạm vi 150 lên $1 trong 180s.\n►Tăng tỷ lệ chí mạng của đồng minh trong phạm vi 150 lên 80 trong 180s.
+
+##EX##
+ブレイブフルジャーニー=Braveful Journey
+ブレイブフルジャーニー+=Braveful Journey+
+
+##S1+##
+ぷうきちチョッピング+=Pukichi Chopping+
+前方範囲内の敵すべてに物理大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、物理クリティカルを大アップさせる。=Gây sát thương vật lý cực lớn lên kẻ địch trong phạm vi, tăng cường mạnh mẽ tấn công vật lý của đồng minh trong phạm vi xung quanh bản thân, và tăng tỷ lệ chí mạng của họ một lượng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 700.\n►Tăng tấn công vật lý của đồng minh trong phạm vi 150 lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng của đồng minh trong phạm vi 150 lên $3 trong 12s.
+
+##UE##
+クマクマサファリドレス=Kuma-Kuma Safari Dress

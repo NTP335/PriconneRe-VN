@@ -1,0 +1,36 @@
+##Profile##
+【物理】後衛から、真の絆の力を発揮する仲良し姉妹。敵の数が増えるほど威力が高まる攻撃スキルと、周りの味方を強化するスキルを操り、立ち塞がる敵を一掃する。=[Vật lý] Từ hậu phương, những chị em này là bạn thân thể hiện sức mạnh của sự gắn bó thực sự. Sử dụng kỹ năng tấn công mạnh lên theo số lượng kẻ địch, và kỹ năng tăng cường đồng minh xung quanh để quét sạch kẻ thử cản đường.
+
+フォレスティエ、牧場=Forestier, Ranch
+エルフ、獣人族=Elves, Beastfolk
+二人でピクニックに行くこと=Cùng nhau đi dã ngoại
+大橋彩香、小清水亜美=Ayaka Ohashi, Ami Koshimizu
+絆でつながる信愛の姉妹=Faithful Sisters Connected by Bonds
+
+##UB##
+マイディアスター=My Dear Star
+自分の物理攻撃力を大アップさせ、さらに前方の敵すべてに物理大ダメージを与える。=Tăng P.ATK cho bản thân và gây sát thương vật lý lớn lên tất cả kẻ địch.
+r:"^自分の物理攻撃力を(\d+)アップ範囲内の敵に(\d+)の物理ダメージ$"=►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Gây $2 sát thương vật lý lên tất cả kẻ địch.
+
+##S1##
+スターライトシュート=Starlight Shoot
+前方の敵すべてに物理中ダメージを与え、さらに自分のＴＰを中回復する。範囲内の敵の数に応じて、ダメージとＴＰの回復量が増加する。=Gây sát thương vừa lên tất cả kẻ địch, và phục hồi chút TP cho bản thân. Sát thương vật lý gây ra và lượng TP phục hồi tăng theo số lượng kẻ địch.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 (+0.3×$1×Số kẻ địch) sát thương vật lý lên tất cả kẻ địch.\n►Phục hồi $2 (+25×Số kẻ địch) TP cho bản thân.
+
+##S2##
+シスターズリンク=Sisters' Link
+自分の周囲の味方すべての物理攻撃力と物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。自分の物理攻撃力に応じて、それぞれの上昇量が最大４倍までアップする。=Tăng nhẹ P.ATK, tỷ lệ P.CRIT và sát thương P.CRIT của đồng minh trong phạm vi. Các buff tăng theo P.ATK của bản thân, tối đa x4.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを1％アップ$"=►Tăng P.ATK của đồng minh trong phạm vi 200 lên $1 (+0.04×P.ATK) trong 180s.\n►Tăng tỷ lệ P.CRIT của đồng minh trong phạm vi lên $2 (+0.0005×P.ATK) trong 180s.\n►Tăng sát thương P.CRIT của đồng minh trong phạm vi 200 lên 1% (+0.00005×P.ATK) trong 180s.
+
+##EX##
+全開☆絆パワー=Zenkai☆Kizuna Power
+全開☆絆パワー+=Zenkai☆Kizuna Power+
+
+##S1+##
+スターライトシュート+=Starlight Shoot+
+前方の敵すべてに物理中ダメージと物理小ダメージを与え、さらに自分のＴＰを中回復する。範囲内の敵の数に応じて、ダメージとＴＰの回復量が増加する。=Gây sát thương vật lý vừa lên tất cả kẻ địch hai lần, và phục hồi vừa TP cho bản thân. Sát thương vật lý gây ra và lượng TP phục hồi tăng theo số lượng kẻ địch.
+前方の敵すべてに物理中ダメージを２回与え、さらに自分のＴＰを中回復する。範囲内の敵の数に応じて、ダメージとＴＰの回復量が増加する。=Gây sát thương vật lý vừa lên tất cả kẻ địch hai lần, và phục hồi vừa TP cho bản thân. Sát thương vật lý gây ra và lượng TP phục hồi tăng theo số lượng kẻ địch.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 (+0.3×$1×Số kẻ địch) sát thương vật lý lên tất cả kẻ địch.\n►Gây $2 (+0.15×$2×Số kẻ địch) sát thương vật lý lên tất cả kẻ địch.\n►Phục hồi $3 (+25×Số kẻ địch) TP cho bản thân.
+
+##UE##
+ハツネとシオリの髪飾り=Trang sức tóc của Hatsune và Shiori

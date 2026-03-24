@@ -1,0 +1,7 @@
+超時空闘技大会、開催！=Giải Đấu Trận Chiến Siêu Việt Đã Mở!
+さらなる闘いを求めて=Tìm Kiếm Trận Chiến Lớn Hơn
+ミネルβ=Minerβ
+
+街を散策していた{playername}たちは奇妙な空間に迷い込む。そこは『バトルアリーナ』、人々が時空を超えて争う闘技場だった。管理人のミネルβに促され、一同は闘技大会への参加を決意する。=Khi {playername} và bạn bè dạo quanh thị trấn, họ vô tình bước vào một địa điểm bí ẩn được gọi là Đấu Trường Trận Chiến. Sau một vài lời khích lệ từ người quản lý đấu trường—Minerß—nhóm quyết định tham gia trận chiến.
+
+{playername}たちが闘技大会に慣れてきた頃、ミネルβに闘技大会の目的を問いただすと、ミネルβは質問には答えずに『バトルアリーナ』をさらに発展させた『プリンセスアリーナ』を紹介する。={playername} và nhóm bạn đã quen thuộc với Trận Chiến Đấu Trường, nên họ hỏi Minerß về mục đích thực sự. Nhưng Minerß né tránh câu hỏi và thay vào đó, giới thiệu phiên bản nâng cấp của Đấu Trường Trận Chiến—Đấu Trường Công Chúa!

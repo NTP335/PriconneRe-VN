@@ -1,0 +1,112 @@
+子供=Trẻ em
+父親=Bố
+住人１=Cư dân 1
+住人２=Cư dân 2
+住人たち=Cư dân
+住民１=Cư dân 1
+住民２=Cư dân 2
+街に多数の魔物が現れ、子供たちを連れ去ってしまう。{playername}の助言で、モニカが人々に声をかけて子供の救出に向かうと意外な真相が判明する。魔物たちは人間に助けを求めていただけだった。=Nhiều quái vật xuất hiện trong thị trấn và bắt cóc trẻ em. Với lời khuyên của {playername}, Monika đã tiếp cận mọi người và tiến hành cứu hộ trẻ em, chỉ để phát hiện ra một sự thật bất ngờ. Các quái vật chỉ đơn giản là tìm kiếm sự giúp đỡ từ con người.
+
+モニカと{playername}が\n訓練に向かおうとした時だった──=Ngay khi Monika và {playername} sắp sửa đi rèn luyện──
+
+な！　魔物だと！？\n街の中まで入ってきたのか！？=Cái gì! Quái vật!? Chúng đã xâm nhập vào thị trấn!
+しかも、かなりの数だ……\n早く退治しないと──=Và có khá nhiều chúng... Chúng ta cần phải đánh bại chúng nhanh chóng...
+うわぁあああん！\nお父さーん、お母さーん！！=Úiii! Mẹ! Bố!
+待ってくれっ！\n子供をどうするつもりだ！？=Khoan đã! Các người định làm gì với trẻ em!?
+子供たちをさらっていったのか！？\nどうして、そんなことを……？=Chúng đã bắt trẻ em!? Tại sao chúng lại làm chuyện như vậy...?
+私の見ている前で、こんなことを許すとは、\nなんて情けない……\nなんとかしなければっ！=Thật nhục nhã khi để chuyện này xảy ra ngay trước mắt mình... Tôi phải làm gì đó!
+
+待っていてくれ。\n私が必ず……！=Chờ cho tôi. Tôi chắc chắn sẽ...
+{playername}！？\nどうして、ここに……？={playername}?!\nTại sao cậu lại ở đây...?
+そうか……\n私が何をするか予想したわけだな。=Ra vậy... Cậu đã dự đoán được điều tôi sẽ làm.
+貴公の考えている通り、\n私は魔物のところに行って、\n子供たちを取り返すつもりだ。=Như cậu dự đoán, tôi đang định đến nơi quái vật ở và đón trẻ em về.
+危険だということは、わかっている。\nしかし、どうやら私の友人たちもさらわれたらしい。\n放っておくことはできない！=Tôi biết điều đó nguy hiểm. Tuy nhiên, dường như bạn bè của tôi cũng đã bị bắt. Tôi không thể bỏ mặc chúng!
+救助依頼が色々なギルドに……？\nそれもわかっている。=Tôi hiểu rằng các yêu cầu cứu hộ đã được gửi đến nhiều guild khác nhau...? Tôi biết về điều đó.
+だが、あれだけの魔物が相手となると、\nどこのギルドも、そう簡単には引き受けないだろう。=Nhưng với quá nhiều quái vật cần xử lý, không có guild nào sẽ dễ dàng nhận nhiệm vụ này.
+複数のギルドが協力することになるはずだが……\nギルド間の交渉を待ってはいられない。\nその間にも、子供たちが苦しんでいる！=Nhiều guild nên hợp tác... nhưng chúng ta không thể chờ đợi các cuộc đàm phán giữa các guild. Trong lúc đó, trẻ em đang chịu đựng!
+
+なんと言われても、私は行くぞ！=Dù cậu nói gì đi nữa, tôi vẫn sẽ đi!
+一緒に行く。=Tôi sẽ đi cùng cậu.
+いったん街に帰ろう。=Chúng ta hãy quay về thành phố trước đã.
+な、なにを言っている！？\nダメに決まっているだろう！\n貴公には危険すぎる！=C-cậu đang nói gì vậy!? Điều đó không thể chấp nhận được! Quá nguy hiểm cho cậu!
+ん？　貴公だけではない……だと？=Hả? Không chỉ là cậu...?
+貴公には、なにか策があるようだな？\n聞かせてもらおうか。=Có vẻ như cậu có kế hoạch rồi, phải không? Hãy nói cho tôi nghe.
+子供たちがいなくなって大変だってのに、\n急に呼び出して……なんなんだ？=Mặc dù đây là một vấn đề nghiêm trọng khi trẻ em mất tích, cậu đột ngột gọi chúng tôi... Có chuyện gì vậy?
+おい、あの子がなんか話すみたいだぞ？=Này, đứa trẻ đó có vẻ muốn nói gì đó.
+
+みんな、聞いてくれ！\n私はこれから子供たちを助けに向かう！\nどうか力を貸してくれ！=Mọi người hãy lắng nghe! Tôi sẽ đi cứu trẻ em từ bây giờ! Xin hãy dành cho tôi sức mạnh của các bạn!
+ギルドに任せていては、\n救出がいつになるか、わからない……\nその間に子供たちに何かあっては大変だ！=Chúng ta không thể dựa vào các guild và chờ đợi cứu hộ trong bao lâu thì biết... Sẽ thật tồi tệ nếu có chuyện gì xảy ra với trẻ em trong khoảng thời gian đó!
+私たち全員が力を合わせれば、きっと成功する！\nみんなで子供たちを助けに行こう！=Nếu tất cả chúng ta hợp lực, chúng ta chắc chắn sẽ thành công! Hãy cùng nhau đi cứu trẻ em!
+……そ、そうだよ。\n彼女の言う通りだ！=...Đ-đúng.\nCô ấy nói đúng!
+ああ！　やってやる！\n自分たちの子供は、自分たちで取り戻すんだ！=Được! Hãy làm đi! Chúng ta sẽ tự mình đón con em mình về!
+みんな……ありがとう！\nでは、行くぞ！\n進軍開始だ！=Cảm ơn mọi người! Hãy đi! Tiến lên!
+おおおおお！！=Ôiii!
+おーーーい！\nこっちに子供たちがいたぞーっ！=Này!\nTrẻ em ở đây!
+大丈夫か！？\nいま、みんなで魔物を倒して助け出してやるからな！=Các em có sao không?! Chúng tôi sẽ đánh bại quái vật và cứu tất cả các em!
+パパ！　違うんだよ！　話を聞いて！=Bố! Bố sai rồi! Hãy lắng nghe con!
+必死で何かを訴えかける子供たちの後ろには\n大きな穴が空いていて、その中から悲痛な鳴き声が聞こえてくる。=Phía sau những đứa trẻ đang cố gắng truyền đạt điều gì đó, có một cái hố lớn, và từ bên trong vang lên những âm thanh đau khổ.
+住人たちが中を覗き込むと、穴の中には魔物の子供が\n落ちてしまったようで、切なげな声で鳴いていた。\nその姿からは、敵意のようなものは感じられない。=Có vẻ như con của quái vật đã rơi vào hố và đang rên rỉ. Ngoại hình của chúng không toát lên cảm giác thù địch.
+お、おい、誰がこんなとこに穴掘ったんだよ……=Này, ai đào cái hố này...?
+そ、そりゃ、俺が廃棄処分の資材を捨てようと思って……\nおい、とりあえずこいつを引き上げてみるぞ！=K-khoan đã, tôi định đào để thải bỏ một số vật liệu thải... Này, hãy kéo đứa này lên trước đã!
+その後、モニカと住民たちが恐る恐る魔物の子供を引き上げると、\n魔物たちはそれ以上深入りせず、森の奥へと帰っていった。=Sau đó, Monika và người dân trong thị trấn cẩn thận kéo con của quái vật lên. Các quái vật không tiến xa hơn và quay trở vào sâu trong rừng.
+これで済んだ……のか？=Chuyện này đã xong chưa...?
+きっと……\nあの魔物たちは、街を襲いに来たのではなく、\nこれを知らせに来ただけだったのだな……=Tôi chắc chắn... những quái vật đó không đến để tấn công thành phố, chúng chỉ đến để cho chúng ta biết về chuyện này...
+いやー、とにかくぜんぶ丸く収まったな！　ありがとう！\n君がみんなで助けに行こうと提案してくれたおかげだ！=Ồ, mọi chuyện cuối cùng cũng tốt đẹp! Cảm ơn cậu! Đó là đề xuất của cậu để đi giúp mọi người!
+い、いや……私は、大したことは……=K-không... Chuyện đó không đáng kể...
+お姉ちゃん、僕たちの話を聞いてくれて、\n魔物の子供を助けてくれてありがとう！=Chị ơi, cảm ơn chị đã lắng nghe chúng em và cứu con của quái vật!
+う、うむ……\nこう何度も感謝されると、さすがに気恥ずかしいな。=D-Dạ... Bị cảm ơn nhiều lần như vậy thật xấu hổ.
+{playername}、貴公もご苦労だったな。={playername}, cậu cũng đã cố gắng rất nhiều.
+
+万事が丸く収まったのは貴公のおかげだ。\n街のみんなに協力を頼むなど、私では考えつかなかった。\n私一人なら……何も考えずに魔物に切り込んでいただろうな。=Mọi chuyện đều thành công tốt đẹp nhờ có cậu. Em không thể nào nghĩ ra ý tưởng nhờ dân trong thị trấn hợp tác. Nếu chỉ là em một mình... Em đã lao vào đám quái vật mà không suy nghĩ rồi.
+貴公には助けられてばかりだな。\n本当にありがとう。=Em đã được cậu giúp đỡ nhiều lần. Cảm ơn cậu rất nhiều.
+これからも……私のそばにいて、助言してくれると……うれしい。=Từ giờ trở đi... Em sẽ rất vui nếu cậu luôn ở bên cạnh và cho em lời khuyên.
+微笑むモニカに、{playername}もやさしく微笑み返すのだった。=Khi Monika mỉm cười, {playername} cũng nhẹ nhàng mỉm cười đáp lại.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

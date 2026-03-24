@@ -1,0 +1,30 @@
+Lyrael (Eru Baraki) Bday
+
+騎士。今日はわたしの生誕祝いにお付き合いくださって、\nありがとうございます。=Knight. Cảm ơn ngài đã dành ngày hôm nay cùng em, để kỷ niệm ngày em chào đời.
+いいけど、駄菓子屋でよかったの？=Được thôi, nhưng... cô chắc chắn muốn đến một cửa hàng kẹo?
+ええ。一度あなたと訪れてみたかったのです。\nふわふわのホイップクリームとも、香しいバターとも違う、\n大変趣の深いお菓子があると聞いて……=Vâng. Em đã lâu mong được đến một nơi như vậy cùng ngài. Nghe nói ở đây có loại bánh kẹo có tính cách rất đặc biệt, khác hoàn toàn với kem tươi xốp hay bơ thơm phức.
+まあ……本当にいろんなお菓子があるのですね。\nこちらは？　……なんでしょう？\n鮮やかすぎる赤色の干物が、いくつも串にささっていますが……=Ồ... Thật sự có vô số loại kẹo ở đây. Cái này thì sao? ...Đó là gì? Có vài que cá khô sặc sỡ đỏ tươi...
+酢イカだね。=Đó là mực muối chua (su-ika)
+西瓜……？　わたしが知っている西瓜とは違うのですね。\n……あら、こちらは？　黄色くて丸い３つの……ガム？\n一つだけ大変酸っぱいものが混じっている？　そ、そのような試練が……=Dưa hấu (TLNote: suika )...? Nhưng trông khác với loại dưa hấu em biết. ...Ôi chà, còn cái này? Ba miếng kẹo cao su nhỏ, tròn, màu vàng...? Người ta nói một trong số chúng rất chua? Một thử thách như vậy...!
+……騎士。\nわたしの運命を、あなたが選んでください。\nどのような結果になろうとも、受け入れてみせます。=...Knight. Hãy chọn số phận cho em. Dù kết quả ra sao, em sẽ chấp nhận.
+では──いただきます。\n……んっ……=Tốt lắm, vậy em đi nè. ...Mm...
+
+……、……？\n──～っ！？？=.........?~~~!??
+すっっっっっ……ぱ！！！！=*khóc thầm*... *pah!!!*
+はぁ……はぁ……なんという酸味。\n……思わずもう一人のわたしになってしまうところでした……=Hah... hah... một sự chua xót không thể tưởng tượng nổi. ...Suýt nữa em đã chuyển sang "cái tôi" kia...
+………………大丈夫です。=........Em hoàn toàn ổn.
+ですが……口の中が、大変なことになってしまいました。\n元に戻るまで、付き合っていただきますからね？\n騎士……=Nhưng... miệng em giờ ở trong trạng thái tồi tệ lắm. Cho đến khi nó bình thường trở lại, ngài sẽ ở cùng em... phải không, Knight?
+それから当分のあいだ、{playername}は\nえるに付き合うことになるのだった。=Và thế là, trong một khoảng thời gian khá lâu sau đó, {playername} phải ở lại cùng Eru.
+
+……！\nあぁ、甘い……♪\nあなたは正しい選択をしてくださったようですね、騎士……♪=...! Ôi, ngọt...♪ Có vẻ ngài đã chọn đúng, Knight...♪
+騎士のくれるものは、どれも素敵です……次は、このチョコレート？\n黒と黄の包装が印象的ですね。まぁ、キャッチフレーズが……\n『おいしさイカズチ級』？　ふふっ、わたしにぴったりですね。=Mọi thứ đến từ ngài chắc chắn sẽ tuyệt vời... Tiếp theo là... loại sô cô la này? Gói đen vàng rất bắt mắt. Ôi, khẩu hiệu trên đó là... "Ngon đến mức sấm sét"? Hehe, em nghĩ nó rất hợp với mình.
+このチョコレートをたくさん買い込んで──\nあなたと食べたいです。今宵、二人きりで。=Em muốn mua nhiều sô cô la này... và ăn chúng cùng ngài. Tối nay. Chỉ hai chúng ta.
+ふふっ──\nはい、あなた♪=Hehe~ Vâng, anh yêu♪
+駄菓子をたくさん買いこみ、二人のパーティーはまだまだ続く──=Sau khi mua nhiều kẹo, bữa tiệc của họ vẫn tiếp tục...
+
+Player Prompts
+右。=Bên phải
+真ん中。=Cái ở giữa
+左。=Bên trái
+そうしましょう。=Em rất sẵn lòng làm điều đó
+だ、大丈夫ですか？=C-Cậu ổn chứ?

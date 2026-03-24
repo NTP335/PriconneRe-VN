@@ -1,0 +1,34 @@
+##Profile##
+【魔法】後衛で優美にほほ笑むジオ・テオゴニアの姫君。開始時に発動する【界雷】で、敵味方に影響を与えつつ、魔法防御ダウンと強力なダメージスキルで裁きを下す。=[Ma pháp] Một nàng công chúa duyên dáng của Gio Teogonia mỉm cười thanh lịch từ tuyến sau. Khi kích hoạt [Vương quốc Sấm sét] ban đầu, cô ảnh hưởng đến cả kẻ địch và đồng minh, phán xét kẻ địch với kỹ năng gây sát thương mạnh mẽ của mình và giảm M.DEF của chúng.
+
+天使族=Thiên Thần
+昼寝、新作スイーツの試食=Giấc Ngủ, thơm ngát hương vị bánh ngọt mới
+河瀬茉希=Maki Kawase
+優しさと傲慢さを併せ持つプリンセス=Một Công Chúa Vừa Kiệm Vừa Ngạo Mạn
+
+##UB##
+白雷夜天=Bầu Trời Đêm Sấm Sét Trắng
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。【界雷】中、このスキルのダメージが増加する。=Gây sát thương phép lớn lên kẻ địch phía trước và nhẹ nhàng hạ phòng ngự phép của chúng. Nếu [Vùng Sấm Sét] đang hoạt động, sát thương vật lý gây ra tăng.
+r:"^敵単体に(\d+)の魔法ダメージ界雷中、敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Nếu [Vùng Sấm Sét] chưa hoạt động, gây $1 sát thương phép lên kẻ địch.\n►Nếu [Vùng Sấm Sét] đang hoạt động, gây $2 sát thương phép lên kẻ địch.\n►Hạ phòng ngự phép của kẻ địch đi $3 trong 18s.
+
+##S1##
+霹靂の調べ=Giai Điệu Sấm Chớp
+自分を中心とした範囲内の味方すべての魔法攻撃力を大アップさせる。さらに、目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。【界雷】中、このスキルの魔法攻撃力の上昇量とダメージが増加する。=Tăng mạnh tấn công phép cho đồng minh trong phạm vi, gây sát thương phép trung bình lên kẻ địch phía trước và hạ phòng ngự phép của chúng trong 12s. Nếu [Vùng Sấm Sét] đang hoạt động, hiệu ứng tăng tấn công phép và sát thương phép gây ra đều tăng.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ界雷中、範囲内の味方の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ界雷中、敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=Nếu [Vùng Sấm Sét] chưa hoạt động:\n►Tăng tấn công phép cho đồng minh trong phạm vi 250 lên $1 trong 12s.\n►Gây $3 sát thương phép lên kẻ địch.\n►Hạ phòng ngự phép của kẻ địch đi $5.\n\nNếu [Vùng Sấm Sét] đang hoạt động:\n►Tăng tấn công phép cho đồng minh trong phạm vi 250 lên $2 trong 12s.\n►Gây $4 sát thương phép lên kẻ địch.\n►Hạ phòng ngự phép của kẻ địch đi $5.
+
+##S2##
+震霆の聖奏=Điện Cảnh Tuyệt Trần
+自分を中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。【界雷】中、このスキルの効果量が上昇する。=Tăng mạnh tấn công phép cho đồng minh trong phạm vi, và nhẹ nhàng tăng sát thương phép chí mạng của họ. Nếu [Vùng Sấm Sét] đang hoạt động, hiệu ứng tăng tấn công phép và sát thương phép chí mạng đều tăng.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ界雷中、範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法攻撃クリティカル時のダメージを10％アップ界雷中、範囲内の味方の魔法攻撃クリティカル時のダメージを20％アップ$"=Nếu [Vùng Sấm Sét] chưa hoạt động:\n►Tăng tấn công phép cho đồng minh trong phạm vi 250 lên $1 trong 12s.\n►Tăng sát thương phép chí mạng cho đồng minh trong phạm vi 250 lên 10% trong 12s.\n\nNếu [Vùng Sấm Sét] đang hoạt động:\n►Tăng tấn công phép cho đồng minh trong phạm vi 250 lên $2 trong 12s.\n►Tăng sát thương phép chí mạng cho đồng minh trong phạm vi 250 lên 20% trong 12s.
+
+##SP1##
+界雷=Biên Giới Sấm Sét
+環境効果【界雷】を発動する。このスキルの効果は敵、味方すべてに適用される。魔法攻撃のダメージが小アップし、物理攻撃を行うキャラが行動する度にそのキャラの最大ＨＰに応じて最大99999の割合ダメージを与える。=Kích hoạt hiệu ứng môi trường [Vùng Sấm Sét]. Kỹ năng này ảnh hưởng đến tất cả kẻ địch và đồng minh. Nhẹ nhàng tăng sát thương phép gây ra cho mọi người, và mỗi khi nhân vật thuộc hệ Vật lý thực hiện hành động, chúng sẽ nhận sát thương bằng một lượng nhỏ HP tối đa, tối đa 99999.
+
+環境を界雷にする敵味方が与える魔法ダメージを10％アップ物理攻撃をする敵味方が行動する度に最大99999の割合ダメージを与える=Nếu [Vùng Sấm Sét] đang hoạt động, tăng sát thương phép gây ra cho mọi người lên 10%, và mỗi khi nhân vật thuộc hệ Vật lý thực hiện hành động, chúng sẽ nhận sát thương bằng một lượng nhỏ HP tối đa, tối đa 99999.
+このスキルのスキルレベルは「白雷夜天」と連動しています=Cấp độ kỹ năng này liên kết với "Bầu Trời Đêm Sấm Sét Trắng"
+魔法攻撃のダメージが小アップし、物理攻撃を行うキャラが行動する度にそのキャラの最大ＨＰに応じて最大99999の割合ダメージを与える。=Sát thương từ tấn công phép được tăng nhẹ, và mỗi khi nhân vật thuộc hệ Vật lý thực hiện hành động, chúng sẽ nhận sát thương bằng một lượng nhỏ HP tối đa, tối đa 99999.
+
+##EX##
+傲慢なる雷=Sấm Sét Ngạo Mạn
+傲慢なる雷+=Sấm Sét Ngạo Mạn+

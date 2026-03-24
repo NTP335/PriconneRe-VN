@@ -1,0 +1,41 @@
+マホマホ・ミラクル・ジャーニー！　旅する少女と最果ての大樹=Mahomaho Miracle Journey! Cô Gái Du Lịch và Cây Xa Nhất
+
+綿と旅が紡ぐ物語=Một câu chuyện về bông và du lịch
+
+r:"^最果てを目指す旅路([0-9\-\(\)\w （）]*)$"=Hành trình đến tận cùng $1
+r:"^世界の果ての森([0-9\-\(\)\w （）]*)$"=Rừng ở cuối thế giới $1
+ホーリーエンブレイス=Cái Ôm Thánh
+ほっと一息、お茶の時間=Thở phào nhẹ nhõm, giờ trà
+二人のティータイム=Hai buổi trà
+特製の服=Trang phục đặc biệt
+哀執のバロメッツ=Baromets buồn bã
+目的地はどこに=Đích đến là đâu?
+
+夢の鞄に\n詰めるもの=đóng gói\ntrong túi giấc mơ
+寂しい時の\nおまじない=Cô độc\nbùa
+冒険のための基礎=Cơ bản cho cuộc phiêu lưu
+バロメッツ=Baromets
+
+スーパー●●●=Siêu ●●●
+すごい強いアヤネちゃん。=Một Ayane-chan rất mạnh.
+石頭のアヤネちゃん。=cùng với Ayane-chan.
+いつも通りのアヤネちゃん。=Ayane-chan như thường lệ.
+
+モフモフ勝負とは=Flufy game là gì?
+リマちゃんも、もこもこ大きくなったりするのかな。=Tự hỏi liệu Lima có lớn hơn không.
+アヤネちゃんが審判になるのは？=Ayane-chan sẽ là trọng tài?
+アヤネちゃんも参戦してみよう。=Ayane-chan, hãy tham gia trận chiến.
+
+ぷうきちと一緒に駆けつける。=Xông lên cùng Pukichi.
+離れていても気持ちはずっと一緒だよ。=Dù có xa nhau, tình cảm của chúng ta luôn bên nhau.
+必ず行くよ。=Tôi chắc chắn sẽ đi.
+
+冒険しよう！=Hãy cùng phiêu lưu!
+ランドソルを10周！=10 vòng Landosol!
+いっぱい食べよう。=Hãy ăn thật nhiều.
+
+フリルやレースを足してみよう。=Hãy thêm diềm và dây ren.
+僕もお揃いが欲しい。=Tôi cũng muốn một trận đấu.
+マホ姫の新境地だね。=Đây là vùng đất mới cho Công Chúa Maho.
+
+sr:"^イベント「([\s\S]+)」のスペシャルエピソードが解放されました。$"="Một tập đặc biệt của sự kiện\n"$1"\nđã được mở khóa."

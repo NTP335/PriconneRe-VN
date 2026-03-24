@@ -1,0 +1,36 @@
+##Profile##
+【魔法】中衛で、マイペースに味方を支える破杖の少女。【飛行】し、クリティカルの強化やＨＰ・ＴＰ回復で味方を支援し、魔法攻撃力を加えた物理攻撃で敵を平らげる。=[Ma thuật] Một cô gái sống theo nhịp độ riêng, hỗ trợ đồng minh từ tuyến giữa bằng cây gậy phá hủy của mình. Cô có thể sử dụng cơ chế [Bay], tăng sát thương phê phẩm cho đồng minh, đồng thời cung cấp hồi máu và hồi TP.
+
+正義の魂を受け継ぐ、爆食系天然天才娘=Thừa kế linh hồn công lý, một cô gái thiên tài với cái ăn khủng khiếp.
+ごはんをたべること=Dinner
+
+##UB##
+シャドウ・スプリット -破杖-=Shadow Split: Destruction Staff
+目の前の敵１キャラに物理と魔法攻撃力を合わせた物理特大ダメージを与え、自分の周囲の味方の物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップさせる。範囲内の味方の数に応じて味方への強化量がアップする。このスキルのクリティカルは物理と魔法クリティカルの値を合わせる。=Gây Sát thương Vật lý (P.DMG) lớn, kết hợp Sát thương Vật lý/Ma thuật (P/M.ATK), cho kẻ địch phía trước. Tăng rất mạnh Tỷ lệ Phê phẩm Vật lý (P.CRIT Rate) của đồng minh trong phạm vi, tăng nhẹ Sát thương Phê phẩm Vật lý (P.CRIT DMG) của họ. Mức tăng Tỷ lệ Phê phẩm Vật lý và Sát thương Phê phẩm Vật lý sẽ tăng theo số đồng minh trong phạm vi. Sử dụng cả Tỷ lệ Phê phẩm Vật lý/Ma thuật (P/M.CRIT Rate) để xét đòn phê phẩm.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理クリティカルを30アップ範囲内の味方の物理攻撃クリティカル時のダメー?ジを1％アップ$"=►Gây $1 Sát thương Vật lý (P.DMG) cho kẻ địch.\n►Tăng Tỷ lệ Phê phẩm Vật lý (P.CRIT Rate) của đồng minh trong phạm vi lên 30 (+50×số đồng minh) trong 18s.\n►Tăng Sát thương Phê phẩm Vật lý (P.CRIT DMG) của đồng minh trong phạm vi lên 1% (+2%×số đồng minh) trong 18s.
+
+##S1##
+シュバイン・クラプフェン=Schwein Krapfen
+目の前の敵１キャラに物理と魔法攻撃力を合わせた物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。さらに、その敵を中心とした範囲内の敵すべてを束縛する。このスキルのクリティカルは物理と魔法クリティカルの値を合わせる。=Gây Sát thương Vật lý (P.DMG) lớn, kết hợp Sát thương Vật lý/Ma thuật (P/M.ATK), cho kẻ địch phía trước, và tăng nhẹ Sát thương Phê phẩm Vật lý (P.CRIT DMG) mà kẻ địch phải nhận. Ngoài ra, gây hiệu ứng Trói (Bind) cho kẻ địch trong phạm vi. Sử dụng cả Tỷ lệ Phê phẩm Vật lý/Ma thuật (P/M.CRIT Rate) để xét đòn phê phẩm.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の被クリダメを4％アップ範囲内の敵を一定時間行動不能にする$"=►Gây $1 Sát thương Vật lý (P.DMG) cho kẻ địch.\n►Tăng Sát thương Phê phẩm Vật lý (P.CRIT DMG) mà kẻ địch phải nhận lên 4% trong 12s.\n►Gây hiệu ứng Trói (Bind) cho kẻ địch trong phạm vi 200 trong 2s.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを4％アップ範囲内の敵を一定時間行動不能にする$"=►Gây $1 Sát thương Vật lý (P.DMG) cho kẻ địch.\n►Tăng Sát thương Phê phẩm Vật lý (P.CRIT DMG) mà kẻ địch phải nhận lên 4% trong 12s.\n►Gây hiệu ứng Trói (Bind) cho kẻ địch trong phạm vi 200 trong 2s.
+
+##S2##
+おいしいおいのり=Delicious Wish
+自分の周囲の味方の物理クリティカルを中アップ、ＨＰを中回復し、ＴＰを小回復する。さらに、目の前の敵１キャラのクリティカルを受けた際のダメージを小アップさせる。範囲内の味方の数に応じて物理クリティカルの上昇量がアップする。このスキルのＨＰ回復量は、このキャラの物理と魔法攻撃力に応じて増加する。=Tăng khá Tỷ lệ Phê phẩm Vật lý (P.CRIT Rate) của đồng minh trong phạm vi, hồi một lượng HP vừa phải cho họ, và hồi nhẹ TP. Ngoài ra, tăng nhẹ Sát thương Phê phẩm Vật lý (P.CRIT DMG) mà kẻ địch phải nhận. Mức tăng Tỷ lệ Phê phẩm Vật lý sẽ tăng theo số đồng minh trong phạm vi.
+r:"^範囲内の味方の物理クリティカルを10アップ範囲内の味方のＨＰを(\d+)回復敵単体のクリティカルを受けた際のダメージを6％アップ範囲内の味方のＴＰを80回復$"=►Tăng Tỷ lệ Phê phẩm Vật lý (P.CRIT Rate) của đồng minh trong phạm vi 220 lên 10 (+50×số đồng minh) trong 12s.\n►Hồi HP của đồng minh trong phạm vi 220 thêm $1.\n►Tăng Sát thương Phê phẩm Vật lý (P.CRIT DMG) mà kẻ địch phải nhận lên 6% trong 12s.\n►Hồi TP của đồng minh trong phạm vi 220 thêm 80.
+
+##SP1##
+このスキルのスキルレベルは「シャドウ・スプリット -破杖-」と連動しています=Cấp độ kỹ năng này liên kết với 'Shadow Split: Destruction Staff'
+
+##EX##
+フォールンモード（P）=Fallen Mode (P)
+フォールンモード（P）+=Fallen Mode (P)+
+
+##S1+##
+シュバイン・クラプフェン+=Schwein Krapfen+
+自分の物理攻撃力と魔法攻撃力を中アップさせ、目の前の敵１キャラに物理と魔法攻撃力を合わせた物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。さらに、その敵を中心とした範囲内の敵すべてを束縛する。このスキルのクリティカルは物理と魔法クリティカルの値を合わせる。=Tăng nhẹ Tấn Công Vật Lý và Tấn Công Thần Kỳ của bản thân, gây sát thương vật lý lớn (kết hợp Tấn Công Vật Lý/Thần Kỳ) lên kẻ địch phía trước, và làm mục tiêu nhận thêm sát thương chí mạng vật lý. Ngoài ra, còn gây Khống Chế lên kẻ địch trong phạm vi. Dùng cả Tỷ Lệ Chí Mạng Vật Lý/Thần Kỳ để xét đòn chí mạng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の被クリダメを6％アップ範囲内の敵を一定時間行動不能にする自分の物理攻撃力を(\d+)アップ自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Lượn thêm sát thương chí mạng vật lý mà kẻ địch phải nhận thêm 6% trong 12s.\n►Gây Khống Chế lên kẻ địch trong phạm vi 200 trong 2s.\n►Tăng Tấn Công Vật Lý của bản thân thêm $2 trong 12s.\n►Tăng Tấn Công Thần Kỳ của bản thân thêm $3 trong 12s.
+
+##UE##
+デュスノミアの破杖=Gậy Phá Hủy của Dusnomia

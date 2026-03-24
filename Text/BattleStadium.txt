@@ -1,0 +1,44 @@
+バトルスタジアム=Sân vận động trận đấu
+バトルコロシアム=Đấu trường
+準備中=Sắp ra mắt
+1PTvs1PTのバトル\n順位を上げて報酬を獲得=Trận 1Đ vs 1Đ\nLeo lên bảng xếp hạng và nhận phần thưởng
+3PTvs3PTの総力戦\n順位を上げて報酬を獲得=Trận 3Đ vs 3Đ hết sức\nLeo lên bảng xếp hạng và nhận phần thưởng
+ここからアリーナに挑戦できますよ！編成を工夫してライバルに挑んじゃいましょう！=Bạn có thể thách thức Đấu trường từ đây! Hãy lập chiến thuật và đối đầu với đối thủ với một đội hình đáng gờm!
+こちらからアリーナに挑戦することができます。主さまらしい編成でライバルに挑みましょう。=Bạn có thể thách thức Đấu trường từ đây. Hãy đối mặt với đối thủ với một đội hình xứng đáng với Chủ nhân của tôi!
+ここからアリーナに挑戦できるわよ！しっかり編成を考えてライバルに挑みなさい！=Bạn có thể thách thức Đấu trường từ đây! Hãy chắc chắn lập kế hoạch đội hình của bạn cẩn thận trước khi đối đầu với đối thủ!
+総合スコアランキング=Xếp hạng Điểm tổng quát
+スコアとランキングは一定時間ごとに更新されます。=Điểm và xếp hạng được cập nhật ở các khoảng thời gian đều đặn.
+敵残りHP=HP đối thủ
+スコア内訳=Điểm
+難易度最高スコア=Điểm cao nhất
+未挑戦=Không có
+ニュー=Mới
+次の報酬まで=Đến phần thưởng tiếp theo
+総合スコア=Điểm
+改装中=Cải tạo
+
+編成選択=Chọn Trận hình
+編成最高スコア=Điểm cao nhất Đội
+次回バトルスタジアム開催までお待ちください=Vui lòng chờ cho đến khi sân vận động trận đấu tiếp theo được tổ chức
+勝敗=Thắng
+最高スコア=Cao nhất
+挑戦履歴=Lịch sử
+パーティ残りHP=HP Đội
+合計=Tổng
+残り時間ボーナス=Thưởng Thời Gian Còn Lại
+編成詳細=Đội
+敵減少HP=Sát Thương
+次回バトルスタジアム開催までお待ちください。=Vui lòng chờ đợi cho đến khi đấu trường chiến đấu tiếp theo được tổ chức.
+挑戦履歴はありません。=Không có lịch sử thử thách nào.
+---Mission---
+
+
+バトルスタジアムミッション=Nhiệm Vụ Đấu Trường Chiến Đấu
+r:"^(\[.+\])?全難易度合計で(\d+)pt獲得しよう(?:\[-\])?$"=$1 Đạt tổng $2 điểm ở mọi độ khó[-]
+r:"^(\[.+\])?難易度(.+)で1回戦おう(?:\[-\])?$"=$1 Đánh 1 lần ở độ khó $2[-]
+r:"^(\[.+\])?難易度(.+)で(\d+)pt獲得しよう(?:\[-\])?$"=$1 Đạt $3 điểm ở độ khó $2[-]
+
+---KKR tutorial---
+バトルスタジアムでは、難易度ごとにそれぞれ３つの編成が登場します。\nバトルには何度も挑戦可能ですので、編成を工夫して挑みましょう。=Trong Đấu Trường Chiến Đấu, ba đội sẽ xuất hiện cho mỗi cấp độ khó. Bạn có thể thử thách chúng nhiều lần tùy thích, vậy hãy thử nhiều chiến thuật khác nhau.
+バトル終了時に、残りHPや時間に応じたスコアを獲得できますよ。\n３つの編成のうち、最も高いスコアが総合スコアに加算されますので、\nより高いスコアの獲得を目指して編成を工夫しましょう。=Kết thúc trận đấu, bạn sẽ nhận được điểm số dựa trên HP và thời gian còn lại. Điểm số cao nhất trong cả ba thành viên đội sẽ được cộng vào tổng điểm, vậy hãy cố gắng sắp xếp để đạt điểm cao hơn.
+総合スコアに応じて、ミッションが達成できます。\nミッションを達成し、全ての報酬獲得を目指しましょう、主さま。\n総合スコアランキングもありますので、上位を目指してくださいませ。=Các nhiệm vụ sẽ được hoàn thành dựa trên tổng điểm của bạn. Hãy hoàn thành nhiệm vụ và hướng tới tất cả phần thưởng, Master. Cũng sẽ có bảng xếp hạng điểm tổng thể, vậy hãy cố gắng vươn lên đầu.

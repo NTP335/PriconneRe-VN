@@ -1,0 +1,41 @@
+思い出と共に、前へ！=Tiếp tục với những kỷ niệm!
+全員=Tất Cả
+
+これからも一緒に=Từ giờ cùng nhau
+みんなの想い=Suy Nghĩ Của Mọi Người
+Re:member　僕の願いが紡ぐ未来【前編】=Re: Tương lai của Thành Viên được dệt nên bởi ước nguyện của tôi [Phần 1]
+Re:member　僕の願いが紡ぐ未来【後編】=Re: Tương lai của Thành Viên được dệt nên bởi ước nguyện của tôi [Phần 2]
+
+sr:"^(\[[0-9A-F]{6}\])?(.+)と(.+)を倒そう(\[-\])?$"=$1Đánh bại $2 và $3.$4
+
+眠ったまま目を覚まさない主人公を起こすため、コッコロたちはランドソルに住む人々と共に手を尽くす。多少行きすぎた手段を用いて起こそうとするものの、なかなか結果は出ないのであった。=Kokkoro và những người khác hợp tác với người dân Landosol để đánh thức nhân vật chính đang ngủ. Mặc dù cô ấy đã cố gắng đánh thức bằng một phương tiện hơi quá mức, nhưng không dễ gì có kết quả.
+
+【美食殿】のギルドハウスには多くの人々が押し寄せていた。交わしたお願いや約束を自分たちが果たそうと決意するシェフィたち。しかし想像を超える過密スケジュールに驚愕するのであった。=Rất nhiều người chen chúc vào nhà guild của Gourmet Guild. Sheffy và bạn bè cô ấy quyết tâm hoàn thành các yêu cầu và lời hứa đã đưa ra. Tuy nhiên, họ choáng ngợp trước lịch trình quá tải vượt ra ngoài tưởng tượng.
+
+過去と今を伝える覚悟=Quyết Tâm Truyền Đạt Quá Khứ và Hiện Tại
+心刺す託宣=Trái Tim Xuyên Thấu Lời Tiên Tri
+歪み、歪んで=Sự Biến Dạng Biến Dạng
+絆を手放さないように=Cố Gắn Giữ Lại Những Mối Ràng Buộc
+当たり前のはずの景色=Cảnh Sắc Bình Thường
+兆しなき眠り=Giấc Ngủ Không Dấu Hiệu
+『こっち』の世界=Thế Giới "Này"
+
+r:"^世界と世界の狭間([0-9\-\(\)\w （）]*)$"=Giữa Hai Thế Giới $1
+オーバーロードフォース=Lực Tràn Kế
+ペコリーヌ、キャル、コッコロ、シェフィ=Pecorine, Kyaru, Kokkoro, Sheffy
+
+{playername}に異変が起き、ラビリスタが姿を現す。彼女に導かれ、キャルはいまだ心の中にあり続けるかつての主、覇瞳皇帝と対峙する。想いを尽くしたキャルに、覇瞳皇帝は向かうべき場所を示す。={playername} gặp một sự cố, và Labyrista xuất hiện. Cô ấy được Labyrista dẫn dắt, và Kyaru đối mặt với Hoàng Đế Hitomi vẫn còn trong tim mình. Hoàng Đế Hitomi chỉ ra nơi cần đến cho Kyaru, người đã quyết định ý chí của mình.
+あなたのそばにいるから=Bởi Vì Cậu Ở Bên Cạnh Em
+悩みを抱える{playername}を気晴らしに誘うペコリーヌ。記憶にある人々と言葉を交わしながら悩みを晴らしてゆく{playername}だったが、そこに聞き覚えのある声が響き、謎の影が姿を現す。=Pecorine mời {playername} vì có chuyện phiền. {playername} đã xoa dịu mối lo của cô ấy khi trao đổi với những người trong ký ức, nhưng một giọng nói đáng nhớ vang lên ở đó, và một bóng đen bí ẩn xuất hiện.
+本心と、偽りと=Cảm Xúc Thật và Sự Dối Trá
+覇瞳皇帝の言葉を信じソルの塔を登るキャルたち、そして自分自身の力と相対する{playername}。ペコリーヌとキャル、お互いに手の届かない二つの世界で、それぞれが窮地に立たされようとしていた。=Kyaru leo lên tháp Sol, tin vào lời của Hoàng Đế Hitomi, và {playername} đối lập với quyền năng của chính mình. Pecorine và Kyaru, mỗi người, đang cố gắng vượt qua khó khăn trong hai nơi mà nhau không thể chạm tới.
+絆はここに=Những Mối Ràng Buộc Ở Đây
+絶体絶命のキャルたちを救ったのは、これまでつないできた仲間との絆だった。その力は手の届かないはずの二つの世界をもつなげ、{playername}は自分自身の力ですべての原因に終止符を打つ。=Đó là một mối ràng buộc với một người bạn đã cứu được những nhân vật đang tuyệt vọng. Sức mạnh kết nối hai thế giới lẽ ra không thể chạm tới, và {playername} chấm dứt mọi nguyên nhân bằng quyền năng của chính mình.
+幸せを部屋に詰め込んで=Một Căn Phòng Đầy Hạnh Phúc
+戦いは終わり、大切な記憶たちと一時の別れを告げる{playername}。そしてランドソルで迎える朝、仲間たちの『おはよう』の声に囲まれながら、{playername}は心地良く目を覚ますのであった。=Trận chiến kết thúc, và {playername} kể về những ký ức quan trọng. Và trên bình minh của Landosol, {playername} thức dậy trong sự ấm áp, được bao quanh bởi lời chào buổi sáng tốt lành từ bạn bè.
+
+ペコリーヌたちはランドソルへの帰還。\nキャルたちは大切な人の目覚め。\nそれぞれが、お互いに手の届かない世界で自分に\nできることを探し、答えを求め続けていた。=Pecorine và bạn bè trở về Landosol. Kyaru và những người khác đánh thức những người họ yêu quý. Mỗi người đang tìm kiếm câu trả lời, tìm kiếm điều họ có thể làm trong một thế giới mà cả hai đều không thể chạm tới.
+
+現在起きている事態を解決するため、ソルの塔を\nのぼるキャルたち。その歩みに迷いはなく、\n大切な人のために進み続ける。\nたとえその先に、なにが待ち受けていようとも。=Kyaru leo lên tháp Sol để giải quyết tình hình hiện tại. Không có sự do dự trong bước chân và tiếp tục tiến vì những người quan trọng. Bất kể điều gì đang chờ đợi phía trước.
+
+迷宮女王の興味=Sự Quan Tâm Của Nữ Vương Mê Cung

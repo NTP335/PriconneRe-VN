@@ -1,0 +1,19 @@
+Kasumi Kirihara BDay
+
+今日は私の誕生日……先輩、覚えててくれるかな……\nここ数日、先輩との日常会話の中でさりげなく今日だってことを\n伝えてはみたけど……=Hôm nay là sinh nhật của em... Không biết Senpai có nhớ không... Em đã cố gắng nói một cách tình cờ với anh ấy rằng hôm nay là ngày này trong những cuộc trò chuyện thông thường của chúng ta trong vài ngày qua...
+先輩の生徒手帳のカレンダーにこっそり花丸を書いてみたり、\n下駄箱に暗号文を仕込んでみたり、先輩が読んでいたミステリ小説の\nページに意味深な付箋を貼りつけておいたり……回りくどすぎたかな？=Em đã bí mật vẽ một bông hoa vào ngày trong lịch trong sổ tay học sinh của Senpai... sau đó em đã giấu một tin nhắn mã hóa trong tủ giày của anh ấy... và em còn dán những tờ giấy ghi chú có ý nghĩa vào các trang của tiểu thuyết trinh thám mà anh ấy đang đọc... Có lẽ em đã làm quá quanh co rồi phải không?
+誕生日プレゼントなんて贅沢すぎることまでは望まないから、\nせめてお誕生日おめでとうって言ってくれたら、なんて──=Em không yêu cầu thứ gì xa hoa như một món quà... nhưng nếu anh ấy chỉ nói "chúc mừng sinh nhật", thế là đủ rồi--
+えっ！？　せせ、先輩！？\nどうしたんですか、私の教室にまで来るなんて……！=H-Hả?! S-Senpai?! S-Sao anh lại ở đây, đến tận lớp em...!?
+事件……？\n落ち着いてください、先輩！\nえっと……どういった内容ですか？=Một vụ án...? Xin hãy bình tĩnh, Senpai! Ưm... Anh có thể kể chi tiết được không?
+……先輩の生徒手帳のカレンダーに知らない花丸？\n…………下駄箱に、数字だらけのメッセージカード。\n………………読んでいた小説に、付箋が貼られていた。=...Một bông hoa được vẽ xuất hiện ngẫu nhiên vào ngày hôm nay trong lịch của sổ tay học sinh của anh? ...Anh tìm thấy một tờ ghi chú kỳ lạ đầy số trong tủ giày của mình. ...Và anh phát hiện ra một loạt tờ giấy ghi chú trong các trang của tiểu thuyết trinh thám anh đang đọc.
+犯人、私っ！=EM LÀ THỦ PHẠM!!
+え、ええと、先輩……確かにそれは、謎ですね。\nその……大した真実はそこにはないかもしれませんが、\n一つずつ、そこに込められたメッセージを読み解いていきましょう……=Ư-Ưm, Senpai... điều đó nghe chắc chắn như một vụ án. C-Có thể không có sự thật sâu sắc nào đằng sau nó, nhưng... hãy cùng xem xét từng manh mối và giải mã chúng nhé...?
+自分で蒔いたトリックを自分で回収していかなきゃなんて、\nどんな辱めなんだろう……うぅ……\nしかもそこで導き出される真実は……=Thật là một sự nhục nhã khi phải giải quyết bí ẩn mà chính mình đã tạo ra... Ugh... Và sự thật sẽ nảy sinh từ đó là...
+……先輩。事件解決です。=...Senpai. Anh đã giải quyết vụ án rồi.
+……分かってましたね！？\n絶対に分かってましたよねっ！\n先輩のいじわる～～～～～～～～～っ！=...Anh BIẾT rồi, phải không?! Anh hoàn toàn biết rồi! Senpai, anh thật là xấu xa~!
+
+Player Prompts
+──かすみちゃん！=...KASUMI!
+事件だよ！=Chúng ta có một vụ án mới!
+そうだ、その前に誕生日おめでとう。=Ồ phải, trước đó... Chúc mừng sinh nhật!
+プレゼントもあるよ！=Em cũng có một món quà cho cậu!

@@ -1,0 +1,196 @@
+武器=Vũ khí
+アクセサリ=Phụ kiện
+アクセサリー=Phụ kiện
+防具=Áo giáp
+EX装備コイン=Xu Trang Bị EX
+EX装備=Trang Bị EX
+毎日9:00ラインナップ更新=Cập nhật danh sách lúc 9:00 mỗi ngày
+EX装備分解=Phân giải trang bị EX
+強化Pt=Điểm Tinh Chế
+強化Pt聖杯=Điểm Tinh Chế Thánh
+スキル２=Kỹ năng 2
+スキル１=Kỹ năng 1
+
+片手剣=Kiếm
+両手剣=Trọng kiếm
+短剣=Dao găm
+槍=Thương
+斧=Rìu
+弓=Cung
+拳=Quyền
+盾=Khiên
+杖=Gậy
+本=Sách
+服=Quần áo
+鎧=Áo giáp
+白ローブ=Áo choàng trắng
+黒ローブ=Áo choàng đen
+指輪=Nhẫn
+腕輪=Vòng tay
+ネックレス=Dây chuyền
+宝珠=Ngọc
+イヤリング=Bông tai
+おまかせ強化対象の素材がありません。=Không có nguyên liệu để nâng cấp.
+必要コイン=Xu Cần Thiết
+アイテム一覧へ移動しますか?=Bạn có muốn chuyển đến Danh Sách Vật Phẩm?
+購入に必要なEX武器コインが不足しています。=Không đủ Xu Trang Bị EX.
+アイテム一覧へ=Danh Sách Vật Phẩm
+EX武器コイン不足=Không đủ Xu Trang Bị EX
+おまかせ分解設定=Cài Đặt Tự Động Phân Giải
+まとめて\n分解する=Phân Giải\nHàng Loạt
+おまかせ\n分解する=Tự Động\nPhân Giải
+10個のアイテムを選択中=Chọn 10 vật phẩm
+外す=Tháo trang bị
+分解=Tháo dỡ
+保護=Bảo vệ
+上限解放=Giới hạn
+まとめて分解=Tháo dỡ hàng loạt
+選択解除=Bỏ chọn
+絞り込み中(仮)=Lọc (tạm thời)
+詳細表示するEX装備を\n選択してください。=Chọn trang bị EX để hiển thị chi tiết.
+上限に達したアイテムはプレゼントに送られます。=Trang bị đã đạt giới hạn sẽ được gửi đến Hộp quà.
+使用制限状態のEX装備は選択できません。=Trang bị EX đã sử dụng không thể chọn.
+購入回数または所持数が上限に達しています。=Bạn đã đạt số lượng mua hoặc sở hữu tối đa.
+他キャラが装備中のEX装備が選択されています。=Trang bị EX hiện đang được trang bị cho nhân vật khác đã được chọn.
+パーティキャラのEX装備を変更できます。=Bạn có thể thay đổi trang bị EX của nhân vật trong đội.
+EX装備が変更されていません。=Trang bị EX chưa được thay đổi.
+装備確定=Xác nhận trang bị
+おまかせ装備=Tự động trang bị
+EX装備設定=Cài đặt trang bị EX
+全て外す=Tháo tất cả
+装備なし=Không có trang bị
+選択可能なEX装備を所持していません。=Bạn không có trang bị EX nào được chọn.
+EX装備入れ替え詳細=Thay thế chi tiết
+装備選択=Lựa chọn trang bị
+装備可能なEX装備がありません。=Không có trang bị EX nào có thể trang bị.
+入れ替えるEX装備が選択されていません。=Trang bị EX cần thay thế chưa được chọn.
+上限解放回数=Giới hạn
+スキルあり=Kỹ năng
+
+EX装備絞り込み=Lọc trang bị EX
+選択したEX装備を絞り込み表示します。=Trang bị EX đã chọn sẽ được lọc.
+
+絞り込みをリセット=Đặt lại bộ lọc
+アクセサリー全て=Tất cả Phụ kiện
+EX防具アクセサリー交換対象=Mục tiêu thay thế phụ kiện EX
+防具全て=Tất cả Giáp
+EX防具コイン交換対象=Mục tiêu thay thế xu giáp EX
+武器全て=Tất cả Vũ khí
+EX武器コイン交換対象=Mục tiêu thay thế xu vũ khí EX
+EX装備種別=Loại trang bị EX
+優先消費設定=Cài đặt ưu tiên tiêu hao
+アドベンチャーで獲得した際に自動で分解するEX装備を設定します。=Đặt trang bị EX sẽ tự động tháo dỡ\nkhi nhận được trong phiêu lưu.
+
+おまかせ強化設定=Cài đặt Tự động tinh luyện
+EX装備強化=Tinh luyện trang bị EX
+所持強化Pt=Điểm sở hữu
+EX装備強化Ptを使用します。=Sử dụng Điểm tinh luyện trang bị EX.
+EX装備強化Pt使用=Việc sử dụng Điểm tinh luyện trang bị EX
+
+装備中のEX装備は選択できません。=Trang bị EX đang được trang bị không thể chọn.
+保護状態のEX装備は選択できません。=Trang bị EX đang ở trạng thái bảo vệ không thể chọn.
+未装備のEX装備です。=Trang bị EX đã tháo.
+装備可能なキャラがいません。=Không có nhân vật nào có thể trang bị.
+装備するキャラを選択してください。=Hãy chọn nhân vật cần trang bị.
+装備するキャラを選択できます。=Bạn có thể chọn nhân vật cần trang bị.
+装備キャラ選択=Chọn nhân vật trang bị
+
+獲得上限解放Pt=Giới hạn Tăng Cấp Tối đa
+使用できる素材がありません。=Không có vật liệu nào có thể sử dụng.
+上限解放素材を選択してください。=Vui lòng chọn vật liệu Tăng Cấp Giới hạn.
+選択数=Chọn
+EX装備上限解放=Nâng Cấp Vũ khí EX
+EX装備は\nアドベンチャーで入手することができます。=Vũ khí EX có thể nhận được qua Cuộc phiêu lưu.
+
+EX装備一覧にフィルタを適用します。=Áp dụng bộ lọc cho danh sách Vũ khí EX.
+EX装備強化素材絞り込み=Lọc vật liệu tinh luyện Vũ khí EX
+おまかせ強化実行時の消費対象を設定します。=Đặt mục tiêu tiêu hao khi thực hiện Tinh luyện Tự động.
+おまかせEX装備強化設定=Cài đặt Tinh luyện Vũ khí EX Tự động
+EX装備強化Pt=Điểm\nTinh luyện Vũ khí EX
+
+以下のアイテムを消費して強化します。=Tiêu hao các vật phẩm sau để tinh luyện.
+EX装備強化確認=Xác nhận Tinh luyện Vũ khí EX
+★3以上のEX装備が消費されます。=Vũ khí EX ★3 trở lên sẽ bị tiêu hao.
+返還アイテム=Vật phẩm hoàn trả
+
+
+EX装備(武器)を装備していません。=Không trang bị\nVũ khí EX (vũ khí).
+EX装備(防具)を装備していません。=Không trang bị\nVũ khí EX (áo giáp).
+EX装備(アクセサリー)を装備していません。=Không trang bị\nVũ khí EX (phụ kiện).
+装備変更=Thay đổi
+EX装備一覧=Danh sách vật phẩm
+変更せずにダイアログを閉じます。\nよろしいですか？=Đóng cửa sổ mà không thay đổi.\nCó được không?
+差分確認=Kiểm tra thay đổi
+
+他キャラが装備中のEX装備を選択する=Chọn Vũ khí EX mà\nnhân vật khác đang trang bị
+優先ステータス=Trạng thái ưu tiên
+条件を指定して自動でEX装備を装備します。=Tự động trang bị Vũ khí EX\nbằng cách chỉ định điều kiện.
+おまかせEX装備設定=Cài đặt Vũ khí EX Tự động
+
+装備選択(クランバトル)=Lựa chọn Trang bị (Trận chiến Clan)
+入手可能な遠征クエストがありません。=Không có nhiệm vụ thám hiểm nào có sẵn.
+この装備はこれ以上上限解放できません。=Trang bị này không thể Tăng Cấp Giới hạn thêm nữa.
+
+以下のEX装備を装備します。=Đã trang bị Vũ khí EX sau đây.
+おまかせEX装備確認=Xác nhận Vũ khí EX Tự động
+変更後=Sau
+変更前=Trước
+sr:"^「(.+)」のEX装備$"="Vũ khí EX của "$1""
+sr:"^EX装備（(.+)）$"=Vũ khí EX ($1)
+入手可能なアドベンチャークエストがありません。=Không có nhiệm vụ Cuộc phiêu lưu nào có sẵn.
+以下のアイテムの入手方法を確認できます。=Bạn có thể kiểm tra cách nhận các vật phẩm sau.
+
+装備中のEX装備を外します。\nよろしいですか？=Tháo Vũ khí EX đã trang bị. \nBạn có chắc chứ?
+EX装備確認=Kiểm tra Vũ khí EX
+
+EX装備の選択上限に達しています。=Đã đạt giới hạn lựa chọn Vũ khí EX.
+EX装備入れ替え確認=Xác nhận thay thế Vũ khí EX
+EX装備を入れ替えます。\nよろしいですか？=Hoán đổi Vũ khí EX.\nCó được không?
+
+r:"^([0-9,]+)Pt使用$"=Sử dụng $1 điểm
+装備品・強化アイテムは\nクエストで入手することができます。=Trang bị và vật liệu tinh luyện có thể nhận được từ nhiệm vụ.
+以下のアイテムを消費して上限解放します。=Tiêu hao các vật phẩm sau để Nâng cấp Giới hạn.
+EX装備上限解放確認=Xác nhận Nâng cấp Giới hạn Vũ khí EX
+
+EX装備で、キャラのステータスをさらにパワーアップできます。付け替えできるのでお気に入りの組み合わせを探してみましょう。EX装備はアドベンチャーで入手できますよ。=Với Vũ khí EX, bạn có thể tăng cường thêm trạng thái của nhân vật. Bạn có thể thay đổi chúng, vì vậy hãy tìm tổ hợp yêu thích của mình. Vũ khí EX có thể nhận được trong cuộc phiêu lưu.
+
+EX装備コインを使ってEX装備の交換ができるようです。\nEX装備コインは武器・防具・アクセサリーの種類があり、\n対応するEX装備を分解または強化で消費すると手に入りますよ。=Có vẻ như Vũ khí EX có thể được đổi bằng xu Vũ khí EX. Có các loại xu Vũ khí EX cho vũ khí, áo giáp và phụ kiện, và bạn có thể nhận được chúng bằng cách tháo dỡ hoặc nâng cấp Vũ khí EX tương ứng.
+
+【クラン】ホープオブアーチャー=[Clan] Hy vọng của Xạ thủ
+
+
+カシコミノツルギ=Kashikominotsurugi
+ヒドゥンエッジ=Lưỡi Kiếm Ẩn
+白馬の戦弓=Cung Chiến Bạch Mã
+クルーエルナックル=Khiên Tay Tàn Khốc
+グリーンウッド=Gỗ Xanh
+スペリオールガントレット=Găng Tay Ưu Tú
+レッドアイウィズダム=Trí Tuệ Mắt Đỏ
+トリックスター=Kẻ Lừa Lọc
+救済者の聖典=Kinh Thánh Của Người Cứu Rỗi
+ハープボウ=Cung Đàn Hạc
+ナイトガード=Bảo Vệ Ban Đêm
+特殊魔法大全=Bách Khoa Toàn Thư Ma Thuật Đặc Biệt
+黒魔女の本=Sách Phù Thủy Đen
+エルブンローブ=Áo Choàng Thần Tiên
+パラディンメイル=Giáp Paladin
+ノーブルビースト=Thú Cưng Quý Tộc
+デモンズオーダー=Mệnh Lệnh Ma Quỷ
+グレイブウィッチ=Phù Thủy Mộ
+巫女の法衣=Áo Trang Miko
+フォーチュンペンダント=Dây Chuyền May Mắn
+チャンピオンリング=Nhẫn Đấu Sĩ Vô Địch
+クリティカルリング=Nhẫn Bạo Kích
+パワーリング=Nhẫn Sức Mạnh
+慈母の涙=Nước Mắt Mẹ
+賢王の耳飾り=Hoả Tinh Vua Trí Tuệ
+慈母の涙=Nước Mắt Mẹ
+賢王の耳飾り=Hoả Tinh Vua Trí Tuệ
+
+スコフニュング=Skofnyung
+世界樹の蔦弓・マグナ=Cung Dây Leo Của Yggdrasil: Magna
+修武の籠手=Găng Tay Của Shuubu
+
+
+
+ヴィズ・ラ・リュンヌ=Vis la Lune

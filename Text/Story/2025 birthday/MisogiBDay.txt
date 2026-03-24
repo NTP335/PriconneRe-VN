@@ -1,0 +1,15 @@
+Misogi's BDay
+
+にいちゃーんっ！　やっほー！\n昨日暗号の手紙くれたのにいちゃんでしょ？　解読楽勝だったよ～♪\nもしかして、みそぎの誕生日だからプレゼント？=Nii-chaaan! Yahoo! Cậu là người gửi bức thư mã cho tớ hôm qua, đúng chứ? Giải mã nó dễ ợt~♪ Chẳng lẽ vì hôm nay là sinh nhật của Misogi nên đây là món quà?
+あれ～また手紙？　なになに……\nこれっ！　宝の地図だ！！\nこの×マークがついてるところに行けばいいんだね！=Hả? Một bức thư khác? Để tớ xem... cái này...! Đây là bản đồ kho báu! Tớ chỉ cần đến nơi được đánh dấu bằng chữ X!
+なになに、公園の端の一番大きい木から、25歩。\n１、２、３……おっとっと……ここに落とし穴だっ！\nみそぎが教えた通りの穴だね、にいちゃん♪　上手上手！=Cái gì đây? Hai mươi lăm bước từ cái cây lớn nhất ở rìa công viên. Một, hai, ba... Oops... Ở đây có một cái bẫy hố! Chỉ như Misogi dạy cậu, Nii-chan♪ Giỏi lắm, giỏi lắm!
+……25歩！　そしたらさらに北に向かって……北、ってこっちだよね。\nここから大股で50歩……よいしょ、っと。フェンス脇を通ってー\n……あっここ気を付けないと怖い犬がいるんだよね！=Hai mươi lăm bước! Rồi chúng ta tiếp tục hướng bắc... Bắc, theo hướng này, đúng chứ? Năm mươi bước với bước chân dài từ đây... Đi thôi. Đi qua hàng rào... À, ở đây có con chó dữ, nên phải cẩn thận!
+っと……ここだ！　大きな木にぶら下がってる紐をひっぱる？\nってこれも罠じゃない？　どんぐりがいっぱい落ちてくるとか……\nじゃあ～反対側のこれが正解かなっ？　えい！=Ồ... đây rồi! Mình phải kéo sợi dây treo trên cái cây lớn này? Khoan, đây chẳng phải cũng là bẫy sao? Có lẽ một đống quả sồi sẽ rơi xuống... Vậy, cái ở phía bên kia mới là đáp án đúng chứ? Đi thôi!
+わああっこれ、どんぐりじゃない！　飴だ～！\nたっくさんのキャンディ、すごいすごい！\nにいちゃんの宝の地図、最高だね！=Ồ, đây không phải quả sồi! Đó là kẹo! Và lựa chọn kẹo của cậu tuyệt vời quá! Anh Nii, bản đồ kho báu của anh tuyệt nhất!
+にししっ、ありがと♪　すごく楽しかった！\nみそぎ、にいちゃんがお祝いしてくれるのが一番うれしいんだ！=Nishishi, cảm ơn anh♪ Vui quá! Misogi hạnh phúc nhất khi được anh ăn mừng cùng, anh Nii!
+ねぇねぇ、このキャンディ、秘密基地に隠しに行こうよ！\nみそぎ、この前いいところ見つけたから、にいちゃんにだけ\n教えてあげるよ！　絶対、誰にも内緒だからね♪=Này, này, đi giấu kẹo này ở căn cứ bí mật đi! Misogi đã tìm được một chỗ tuyệt vời vài hôm trước, nên mình chỉ nói với anh Nii thôi! Anh tuyệt đối không được nói với ai khác, nhé♪
+
+Player Prompts
+大正解！　次はこれをどうぞ。=Đúng rồi! Đây là manh mới tiếp theo
+一緒に行こう！=Cùng nhau thôi!
+誕生日おめでとう、みそぎ！=Chúc mừng sinh nhật, Misogi!

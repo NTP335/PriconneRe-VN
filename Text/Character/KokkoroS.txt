@@ -1,0 +1,31 @@
+##Profile##
+【物理】中衛で、物理キャラの補助を行う癒しの巫女。ＨＰが一番少ない味方単体への特大回復スキルを持ち、瀕死の味方ですら瞬時に治癒する。=[Vật lý] Một nữ tu chữa lành, hỗ trợ nhân vật vật lý từ vị trí giữa. Với khả năng hồi phục rất lớn cho thành viên đội có HP thấp nhất, cô có thể đưa đồng minh trở về từ bờ vực cái chết trong tích tắc.
+
+##UB##
+オーシャンヒール=Ocean's Healing
+最もＨＰが低い味方１キャラのＨＰを特大回復させる。=Hồi phục rất lớn HP của đồng minh có HP thấp nhất.
+最もＨＰの割合が低い味方１キャラのＨＰを特大回復させる。=Hồi phục rất lớn HP của đồng minh có HP thấp nhất.
+
+##S1##
+ネレイドスピア=Nereid Spear
+
+##S2##
+ネーブルサポート=Navel Support
+味方全体の物理攻撃力を中アップさせる。=Tăng nhẹ P.ATK cho toàn bộ đồng minh.
+
+##EX##
+夏の天啓=Summer Oracle
+夏の天啓+=Summer Oracle+
+
+##UB+##
+オーシャンサンクチュアリ=Ocean's Sanctuary
+最もＨＰの割合が低い味方１キャラのＨＰを特大回復させる。さらに味方全体のＨＰを中回復し、物理攻撃力を特大アップ、ＴＰ上昇を小アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。さらに敵全体の物理防御力を小ダウンさせる。=Hồi phục rất lớn HP của đồng minh có HP thấp nhất, và hồi phục trung bình HP của toàn bộ đồng minh. Tăng rất lớn P.ATK cho toàn bộ đồng minh, tăng trung bình P.CRIT DMG và tăng nhẹ TP Boost của họ. Đồng thời, giảm nhẹ P.DEF của toàn bộ kẻ địch. Tất cả hiệu ứng kéo dài 18 giây.
+最もＨＰが低い味方１キャラのＨＰを特大回復させる。さらに味方全体のＨＰを中回復し、物理攻撃力を特大アップ、ＴＰ上昇を小アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。さらに敵全体の物理防御力を小ダウンさせる。=Hồi phục rất lớn HP của đồng minh có HP thấp nhất, và hồi phục trung bình HP của toàn bộ đồng minh. Tăng rất lớn P.ATK cho toàn bộ đồng minh, tăng trung bình P.CRIT DMG và tăng nhẹ TP Boost của họ. Đồng thời, giảm nhẹ P.DEF của toàn bộ kẻ địch. Tất cả hiệu ứng kéo dài 18 giây.
+r:"^味方単体のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰ上昇を10アップ味方全体の物理攻撃クリティカル時のダメージを20％アップ敵全体の物理防御力を(\d+)ダウン$"=►Hồi phục HP của đồng minh thêm $1.\n►Hồi phục HP của toàn bộ đồng minh thêm $2.\n►Tăng P.ATK của toàn bộ đồng minh thêm $3.\n►Tăng TP Boost của toàn bộ đồng minh thêm 10.\n►Tăng P.CRIT DMG của toàn bộ đồng minh thêm 20%.\n►Giảm P.DEF của toàn bộ kẻ địch thêm $4.
+
+##S1+##
+ネレイドスピア+=Nereid Spear+
+目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を大ダウンさせる。=Gây ra sát thương Vật lý nhỏ cho kẻ địch phía trước và giảm rất lớn P.DEF của nó.
+
+##UE##
+涼槍アクアスカッシュ=Aqua Breezelance

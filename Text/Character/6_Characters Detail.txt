@@ -1,0 +1,43 @@
+---char profile---
+ステータス=Trạng thái
+ランク詳細=Chi tiết hạng
+身長=Chiều cao
+体重=Cân nặng
+血液型=Nhóm máu
+誕生日=Ngày sinh
+種族=Chủng tộc
+趣味=Sở thích
+A型=Nhóm A
+B型=Nhóm B
+AB型=Nhóm AB
+O型=Nhóm O
+?型=?
+?月?日=???
+獣人族=Thú nhân
+魔族=Ma nhân
+ヒューマン=Nhân loại
+エルフ=Tiên nhân
+ドラゴン族=Long nhân
+
+この専用装備１は強化Lv上限まで強化しています。=[3C404E]UE-1 này không thể tinh luyện thêm.[-]
+この専用装備２は強化Lv上限まで強化しています。=[3C404E]UE-2 này không thể tinh luyện thêm.[-]
+この専用装備２は最大まで強化しています。=[3C404E]UE-2 này không thể tinh luyện thêm.[-]
+このキャラ専用装備は強化Lv上限まで強化しています。=[3C404E]UE này không thể tinh luyện thêm.[-]
+現在の最高ランクです=Hạng cao nhất hiện tại
+
+現在のランク以降に必要な装備の確認ができます。=Bạn có thể kiểm tra trang bị cần thiết sau hạng hiện tại.
+現在より高いRANKで必要な装備の確認ができます。=Xem trang bị cần thiết cho các hạng sau.
+r:"^絆ランク演出(\d+)$"=Mức độ kết nối $1
+r:"^解放演出(\d+)$"=Mở khóa hoạt hình $1
+r:"^★(\d)才能開花演出$"=★$1 Thăng cấp
+[FF7C4E,D62146]絆ランクを上げると閲覧できる演出が追加されます[-]=[FF7C4E,D62146]Tăng mức độ kết nối để mở khóa.[-]
+
+検索に該当するキャラがいません。=Không có nhân vật nào khớp với tìm kiếm.
+---Dialog---
+特定の条件を達成すると\n報酬がもらえますよ！\nがんばりましょう♪=Bạn có thể nhận phần thưởng khi đạt được một số mục tiêu nhất định! Chúc may mắn! ♪
+浜辺で食うものって\nなんであんなに\nうまいのかな～=Tôi tự hỏi tại sao đồ ăn trên bãi biển lại ngon thế.
+オマエと一緒にいると、毎日が\nクリスマスみたいな気分なの♪\nとーってもワクワクするの～！=Khi ở cùng cậu, cứ như là Giáng sinh mỗi ngày vậy ♪ Em rất hào hứng!
+
+フレンドの申請や\n承認ができますよ\nどうぞ、良き交流を！=Bạn sẽ có thể gửi và chấp nhận lời mời kết bạn, vì vậy hãy tiến lên, hãy tử tế!
+バトルをして力比べを\nしてみましょう！\n実力が試されますね、\n頑張ってください！=Hãy cùng nhau chiến đấu và so sánh sức mạnh, đó sẽ là một bài kiểm tra khả năng của chúng ta, chúc may mắn!
+ようこそ！\n皆さんの素敵な出会いを\nギルド管理協会が\nお手伝いします！=Chào mừng đến với Hiệp hội Quản lý Guild, nơi chúng tôi ở đây để giúp bạn gặp gỡ những người tuyệt vời!

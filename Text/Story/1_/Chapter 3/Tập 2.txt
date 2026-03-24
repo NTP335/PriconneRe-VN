@@ -1,0 +1,73 @@
+After the events in the bedroom,\n{playername} decided to stay up and have dinner\nwith Suzume and the others.=Sau những chuyện xảy ra trong phòng ngủ,\n{playername} quyết định thức thêm chút nữa để dùng bữa tối\ncùng Suzume và những người khác.
+But first, there was a little something that needed taking care of...=Nhưng trước hết, có một việc nhỏ cần phải giải quyết đã...
+Ahaha...\nThank you for the help, {playername}.=A ha ha...\nCảm ơn cậu đã giúp đỡ nhé, {playername}.
+Taking little Kurumi to her bedroom for me...\nI would have struggled to carry her all that way on my own.\nThere's something to be said for having a man in the house!=Bế bé Kurumi về phòng ngủ giúp tôi...\nMột mình tôi chắc sẽ vất vả lắm mới bế em ấy đi quãng đường xa như vậy. Đúng là nhà có đàn ông có khác!
+
+No problem.=Không có gì đâu.
+
+Thanks.\nWe really would be happy to have you here at the Orphanage\nfor as long as you want to stay, you know?=Cảm ơn cậu nhé.\nChúng tôi thực sự rất vui lòng nếu cậu ở lại Trại trẻ mồ côi này\nbao lâu tùy thích, cậu biết mà.
+I can always use a little help with the chores!\nAnd I know I can trust you with anything.=Tôi luôn cần thêm người giúp một tay việc nhà!\nVà tôi biết mình có thể tin tưởng giao cho cậu bất cứ việc gì.
+Hmm?\nOh, hey, Suzume!\nI didn't know you were back!=Hửm?\nỒ, chào chị Suzume!\nEm không biết là chị đã về rồi đấy!
+Oh, yes.\nWe just returned a little while ago.\nIt's good to see you too, Ayane!=Ồ, đúng vậy.\nChị vừa mới về được một lúc thôi.\nRất vui được gặp em, Ayane!
+Uh-huh! Welcome home!=Vâng ạ! Chào mừng chị đã về nhà!
+You shouldn't stay out so long, you know.\nI mean, I'm a big girl, so I don't mind...\nBut Kurumi gets lonely without you!=Chị không nên đi lâu như vậy đâu.\nÝ em là, em lớn rồi nên không sao...\nNhưng Kurumi sẽ thấy cô đơn khi thiếu chị đấy!
+Ahaha...\nSorry for leaving you alone, Ayane.=A ha ha...\nXin lỗi vì đã để em ở nhà một mình nhé, Ayane.
+We ran into a little bit of trouble this time,\nso we got back later than expected...\nBut I'll try to spend as much time here as I can.=Lần này bọn chị gặp chút rắc rối,\nnên về muộn hơn dự kiến...\nNhưng chị sẽ cố gắng dành nhiều thời gian ở đây nhất có thể.
+Unhh... Uhh...? \nH-huh...? \Did I... fall asleep? =Ưm... Ơ...?\nH-hả...?\nEm đã... ngủ quên sao?
+Oh, I'm sorry! Did we wake you?\nIt's okay, you can go back to sleep, Kurumi!=Ồ, chị xin lỗi! Bọn chị làm em thức giấc à?\nKhông sao đâu, em ngủ tiếp đi, Kurumi!
+Wait, huh...?\n{playername}, is that you?\nWhy're you here carrying Kurumi?=Khoan đã, hả...?\n{playername}, là anh đấy à?\nSao anh lại ở đây bế Kurumi thế?
+Umm...?\nAyane, you know {playername} too?\nI didn't know you were friends...=Ưm...?\nAyane, cậu cũng biết {playername} sao?\nTớ không biết là hai người là bạn đấy...
+Well, yeah.\nYou too?=Vâng, đúng vậy.\nCả cậu nữa sao?
+Ahaha...\nYou really do seem to know everyone,\ndon't you, {playername}?=A ha ha...\nCó vẻ như cậu thực sự quen biết tất cả mọi người nhỉ,\nđúng không {playername}?
+Actually, girls, a bunch of stuff happened...\nAnd {playername} is going to be staying here\nat the Orphanage for a while!=Thực ra các em ơi, có rất nhiều chuyện đã xảy ra...\nVà {playername} sẽ ở lại đây,\ntại Trại trẻ mồ côi này một thời gian!
+I hope you'll make him feel nice and welcome!\nKurumi, Ayane!=Chị hy vọng các em sẽ đón tiếp cậu ấy thật nồng hậu nhé!\nKurumi, Ayane!
+Sure, you got it!\nLeave it to me!=Chắc chắn rồi, chị cứ yên tâm!\nCứ giao cho em!
+Mister {playername}!\nYou can ask me anything about life here at the Orphanage!\nJust call me Master Ayane!=Anh {playername}!\nAnh có thể hỏi em bất cứ điều gì về cuộc sống ở Trại trẻ mồ côi này!\nCứ gọi em là tiền bối Ayane nhé!
+"I guess that would make me Master Pukichi!\nNice to meetcha, greenhorn!"="Ta đoán thế thì ta sẽ là Đại sư Pukichi!\nRất vui được gặp ngươi, đồ lính mới!"
+Umm...?\nDoes that mean I'm Master Kurumi?=Ưm...?\nVậy có nghĩa em là tiền bối Kurumi ạ?
+It would feel kinda weird to be called that\nby Mister {playername}...\nEheheh...=Sẽ cảm thấy hơi kỳ kỳ khi được\nanh {playername} gọi như thế...\nHì hì hì...
+
+I don't think I welcomed you properly before...=Em nghĩ lúc nãy em chưa chào mừng anh đúng cách...
+But if you're staying here, we're family!=Nhưng nếu anh ở lại đây, chúng ta là gia đình!
+It's great to have you here... "Big Bro!" ♪=Thật tuyệt khi có anh ở đây... "Anh trai!" ♪
+Welcome home, "Big Bro!" ♪=Chào mừng anh về nhà, "Anh trai!" ♪
+
+Ahaha...\nAre you all having a group hug?\nWhat a cute little bunch you are!=A ha ha...\nCác em đang ôm nhau tập thể đấy à?\nĐúng là một lũ nhóc đáng yêu quá đi mất!
+But I think that's enough for now.\nIt's getting pretty late, so you two should really get some sleep.\nIf you stay up late, the nasty monsters will gobble you up!=Nhưng chị nghĩ thế là đủ rồi đấy.\nMuộn lắm rồi, hai đứa thực sự nên đi ngủ đi thôi.\nNếu thức khuya, quái vật xấu xí sẽ đến bắt các em đi đấy!
+There we go, all ready!\nI'm afraid it's only leftovers, but eat as much as you like!=Xong rồi đây, tất cả đã sẵn sàng!\nChị e là chỉ còn đồ ăn thừa thôi, nhưng các em cứ ăn bao nhiêu tùy thích nhé!
+You really are a magnet for trouble, {playername}.\nAt least for tonight, try to have a hearty meal and a good night's sleep.\nAll's well that ends well, wouldn't you say?={playername}, cậu đúng là thỏi nam châm thu hút rắc rối mà.\nÍt nhất là tối nay, hãy cố gắng ăn một bữa thật ngon và ngủ một giấc thật sâu nhé.\nMọi chuyện kết thúc êm đẹp là tốt rồi, cậu thấy đúng không?
+Wait, huh...?\nMilady, could it be that you're already acquainted\nwith {playername} as well?=Khoan đã, hả...?\nTiểu thư, chẳng lẽ chị cũng đã quen biết\nvới {playername} từ trước rồi sao?
+Well, yes.\nWe've met a few times before.\nHe helped me out with some work once or twice.=À, đúng vậy.\nBọn chị đã gặp nhau vài lần rồi.\nCậu ấy cũng đã giúp chị làm việc một hai lần gì đó.
+I hear you've helped Suzume out before as well, {playername}?\nYou certainly do get around.=Tôi nghe nói cậu cũng từng giúp đỡ Suzume trước đây rồi hả, {playername}?\nCậu quả là đi đây đi đó nhiều thật đấy.
+Ahaha...\nDid you know that Ayane and Kurumi\nare already friends with him, too?=A ha ha...\nChị có biết là Ayane và Kurumi\ncũng đã là bạn với cậu ấy rồi không?
+You should have seen Kurumi just now!\nShe and Ayane looked so happy to see him,\nit was like they were one big family!=Chị nên nhìn thấy Kurumi lúc nãy!\nEm ấy và Ayane trông hạnh phúc đến nhường nào khi gặp cậu ấy,\ncứ như thể họ là một gia đình lớn vậy!
+The both of them even started calling him "big bro."\nIt was quite the little reunion!=Cả hai đứa thậm chí còn bắt đầu gọi cậu ấy là "anh trai".\nĐúng là một cuộc hội ngộ nhỏ thú vị!
+Oh...?\nJust so we're clear on this, {playername},\nI won't forgive you if you try anything funny with my kids.=Ồ...?\nNói trước để chúng ta hiểu rõ chuyện này nhé, {playername},\ntôi sẽ không tha thứ cho cậu nếu cậu định giở trò gì với lũ trẻ của tôi đâu.
+Of course, I know what a good-hearted soul you are,\nso I'm sure there's nothing to worry about there.=Tất nhiên, tôi biết cậu là một người có tâm hồn lương thiện,\nnên tôi chắc chắn là không có gì phải lo lắng về chuyện đó cả.
+But it's my duty to keep all the Sarendia Orphanage children safe.\nIf any unsavory individuals lay a finger on them,\nthey'll be tasting the sharp edge of my blade!=Nhưng nhiệm vụ của tôi là giữ an toàn cho tất cả lũ trẻ ở Trại trẻ mồ côi Sarendia.\nNếu có bất kỳ kẻ bất lương nào dám đụng vào các em,\nhọ sẽ phải nếm thử lưỡi kiếm sắc bén của tôi đấy!
+Dear me, though, I really am tired.=Trời ạ, nhưng mà tôi thực sự mệt rồi.
+I rushed all the way from my mansion in the mountains\nto find those Nightmare goons attacking Caon,\nand had to stop them all on my own...=Tôi đã phải vội vã từ biệt thự trên núi về đây\nkhi thấy đám thuộc hạ của Nightmare tấn công Caon,\nvà đã phải một mình ngăn cản tất cả bọn họ...
+And it's not even over. I have to head out soon for the inquiry!\nI might not be getting any sleep tonight...\nOhhh, this is going to play havoc with my skin.=Và mọi chuyện vẫn chưa kết thúc đâu. Tôi sắp phải đi tham gia cuộc thẩm vấn rồi!\nCó lẽ đêm nay tôi sẽ không được chợp mắt tí nào mất...\nÔi, việc này sẽ tàn phá làn da của tôi mất thôi.
+Ahaha...\nWe're all grateful for your hard work, milady.=A ha ha...\nTất cả chúng em đều biết ơn sự vất vả của tiểu thư.
+Actually, though...\nIf there's an inquiry, shouldn't we go along too?\nWe were far more involved in the whole thing than milady was...=Nhưng thực ra...\nNếu có cuộc thẩm vấn, chẳng phải chúng em cũng nên đi cùng sao?\nBọn em liên quan đến vụ này nhiều hơn tiểu thư mà...
+No, no.\nFor tonight's discussion,\nwe're just going to talk things over guildmaster-to-guildmaster.=Không, không cần đâu.\nĐối với cuộc thảo luận tối nay,\nchúng ta sẽ chỉ nói chuyện trên danh nghĩa các hội trưởng với nhau thôi.
+I'll be representing the Sarendia Orphanage,\nand there'll be Jun from Nightmare,\nas well as, ehm, Maho from Caon?=Tôi sẽ đại diện cho Trại trẻ mồ côi Sarendia,\nvà sẽ có Jun từ Nightmare,\ncũng như, ừm, Maho từ Caon nữa chứ nhỉ?
+The three of us will be discussing how to proceed.=Ba người chúng tôi sẽ thảo luận về cách thức tiến hành tiếp theo.
+It's getting pretty late already,\nso I imagine your questioning won't be until tomorrow.\nWe'll need to hear from all of you in due time, so be prepared for that.=Bây giờ cũng đã khá muộn rồi,\nnên tôi đoán cuộc thẩm vấn của các cậu sẽ phải đợi đến ngày mai. Chúng tôi sẽ cần nghe ý kiến từ tất cả các cậu vào thời điểm thích hợp, nên hãy chuẩn bị tinh thần cho việc đó đi.
+Until then, I hope our two guests\nwill be happy to stay here at the Orphanage?\nWe won't charge you anything for room and board.=Cho đến lúc đó, tôi hy vọng hai vị khách của chúng ta\nsẽ cảm thấy thoải mái khi ở lại Trại trẻ mồ côi này chứ?\nChúng tôi sẽ không tính phí ăn ở của hai người đâu.
+If you don't have anywhere else to go,\nyou're free to stay here for as long as you like.=Nếu các cậu không còn nơi nào khác để đi,\ncác cậu có thể tự do ở lại đây bao lâu tùy thích.
+
+That sounds great, but are you sure?=Nghe tuyệt thật đấy, nhưng cậu có chắc không?
+
+Well, yes.\nWe'll expect you to at least earn your keep, of course.\nI can help you find work if you need it.=À, tất nhiên rồi.\nTất nhiên là chúng tôi kỳ vọng cậu ít nhất cũng phải làm việc để bù đắp chi phí sinh hoạt. Tôi có thể giúp cậu tìm việc nếu cậu cần.
+And just so we're clear, don't go running off anywhere.\nWe didn't just take you in out of the goodness of our hearts.\nI also need to keep an eye on you until the questioning is over.=Và để nói cho rõ ràng, đừng có mà chạy đi đâu đấy. Chúng tôi không chỉ nhận các cậu vào vì lòng tốt đơn thuần đâu. Tôi cũng cần phải giám sát cậu cho đến khi cuộc thẩm vấn kết thúc.
+You see, somebody needed to take you into custody.\nCaon's guildhouse was in a pretty awful state\nafter the chaos of the attack...=Cậu thấy đấy, cần có ai đó quản lý các cậu.\nTrụ sở của Caon đang trong tình trạng khá tồi tệ\nsau sự hỗn loạn của cuộc tấn công...
+And Nightmare's base of operations is the palace,\nso they can't let just anyone inside.=Còn căn cứ hoạt động của Nightmare là hoàng cung,\nnên họ không thể để bất cứ ai vào trong đó được.
+So really, letting you stay with us was the only option.\nWe were basically a neutral third party in this incident,\nso it made a lot of sense from that angle, too.=Vì vậy thực sự, để cậu ở lại với chúng tôi là lựa chọn duy nhất. Về cơ bản, chúng tôi là bên thứ ba trung lập trong sự việc này, nên xét từ góc độ đó thì điều này cũng rất hợp lý.
+Though technically, we're on the same side as Nightmare,\nseeing as we're both Princess Knight guilds.\nSo we can't call ourselves completely impartial...=Mặc dù về mặt kỹ thuật, chúng tôi cùng phe với Nightmare,\nvì cả hai đều là các bang hội thuộc Hiệp sĩ Công chúa. Nên chúng tôi cũng không thể tự gọi mình là hoàn toàn vô tư được...
+What an awkward situation...\nIt's all so messy.\nHow did a peaceful guild like ours get mixed up in all this?=Thật là một tình huống khó xử...\nMọi chuyện thật rắc rối. Làm sao mà một bang hội hòa bình như chúng ta lại bị cuốn vào tất cả những chuyện này cơ chứ?
+I-it's probably all my fault, isn't it?!\nI'm so sorry!=Ch-chắc chắn tất cả là lỗi của em rồi đúng không?!\nEm vô cùng xin lỗi!
+Why would you even think that, Suzume?=Tại sao em lại nghĩ như vậy hả Suzume?
+None of us did anything wrong here. We're just victims!\nSo act a little more confident!\nShowing weakness will only get you taken advantage of.=Không ai trong chúng ta làm gì sai ở đây cả. Chúng ta chỉ là nạn nhân thôi! Nên hãy hành xử tự tin hơn một chút đi! Tỏ ra yếu đuối chỉ khiến em bị người khác lợi dụng thôi.
+Oh, wait... You haven't been in Landosol very long,\nhave you, {playername}?\nSo you're probably not too clear on all this inter-guild politics.=Ồ, khoan đã... Cậu mới đến Landosol chưa lâu,\nphải không {playername}?\nNên chắc cậu không rõ lắm về tất cả những chuyện chính trị giữa các bang hội này đâu.
+You basically have "I'm lost" written all over your face...\nWell, don't worry, I'll explain what you need to know.\nLet's go over the basics while we eat, shall we?=Trên mặt cậu hiện rõ chữ "tôi đang lạc lối" luôn kìa...\nChà, đừng lo, tôi sẽ giải thích những gì cậu cần biết. Chúng ta hãy cùng điểm qua những điều cơ bản trong khi ăn nhé?

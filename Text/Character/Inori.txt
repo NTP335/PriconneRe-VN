@@ -1,0 +1,35 @@
+##Profile##
+拳で語る喧嘩屋ドラゴン少女=Một cô gái rồng đánh đấm bằng nắm đấm
+
+【物理】前衛で範囲攻撃が得意な口達者のドラゴン娘。ユニオンバーストで範囲内の敵をまとめて吹き飛ばし、陣形を乱したところで、敵を一気に焼き尽くす。=[Vật lý] Một cô gái rồng nói lưu loát, chuyên về tấn công tầm xa ở tuyến đầu. Cô ấy thổi bay kẻ địch trong phạm vi với UB của mình, thiêu rụi tất cả kẻ thù trong một lần khi đội hình bị xáo trộn.
+
+##UB##
+ドラゴンズロアー=Tiếng Gầm Rồng
+前方範囲内の敵すべてに物理大ダメージを与え、さらに火傷状態を付与し、大きく吹き飛ばす。=Gây sát thương Vật lý lớn lên kẻ địch trong phạm vi, khiến họ bị thiêu đốt, và thổi bay họ.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする$"=►Gây $1 sát thương Vật lý lên kẻ địch trong phạm vi.\n►Khiến kẻ địch trong phạm vi bị Thiêu đốt, gây $2/s trong 12s.\n►Đẩy lùi kẻ địch trong phạm vi 300 đơn vị.
+
+##S1##
+ドラゴニックピコハン=Búa Rồng Pico
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせる。=Gây ra lượng sát thương vật lý nhỏ và khiến kẻ địch trong phạm vi bị Choáng.
+
+##S2##
+ドラゴンファイア=Lửa Rồng
+前方範囲内の敵すべてに物理中ダメージを与える。=Gây ra lượng sát thương vật lý trung bình lên kẻ địch trong phạm vi.
+## Blame Cygames for invisible space symbol
+前方範囲内の敵すべてに物理中ダメージを与える。=Gây ra lượng sát thương vật lý trung bình lên kẻ địch trong phạm vi.
+
+##EX##
+やってやるですよ=Để Mình Làm
+やってやるですよ+=Để Mình Làm+
+
+##UB+##
+アウェイキングロアー=Tiếng Gầm Thức Tỉnh
+前方範囲内の敵すべてに物理大ダメージを与え、火傷状態にし、大きく吹き飛ばす。さらに自分の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。火傷のダメージは、このキャラの物理攻撃力に応じて増加する。=Gây ra lượng sát thương vật lý lớn lên kẻ địch trong phạm vi, khiến họ bị Thiêu đốt và đẩy lùi. Ngoài ra, còn tăng mạnh sát thương vật lý và tỷ lệ chí mạng của bản thân. Sát thương Thiêu đốt tăng theo sát thương vật lý của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える火傷状態にする自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Khiến kẻ địch trong phạm vi bị Thiêu đốt, gây $2(+0.04×Sát thương Vật lý)/s trong 12s.\n►Đẩy lùi kẻ địch trong phạm vi 300 đơn vị.\n►Tăng sát thương vật lý của bản thân lên $3 trong 180s.\n►Tăng tỷ lệ chí mạng của bản thân lên $4 trong 180s.
+
+##S1+##
+ドラゴニックピコハン+=Búa Lưỡi Liềm Rồng+
+前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Gây ra lượng sát thương vật lý trung bình và khiến kẻ địch trong phạm vi bị Choáng, đồng thời đẩy lùi nhẹ.
+
+##UE##
+イノリのピコハン=Búa Lưỡi Liềm Của Inori

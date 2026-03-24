@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛で、敵の防御力を削ぎ取る渚の名探偵。攻撃力が高い敵に目標を定めて防御力を下げつつ、味方を強化するスキルで、どんな難事件も解決へと導く。=[Phép] Một thiên tài thám tử trên bãi biển, hoạt động ở hậu phương và xé giảm phòng thủ kẻ thù. Với kỹ năng nhắm vào kẻ địch có sức tấn công cao, hạ phòng thủ của chúng trong khi tăng cường đồng đội, cô có thể giải quyết mọi vụ án khó.
+
+##UB##
+サマー・ディテクティブ=Thám Tử Hè
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラに魔法大ダメージを与え、魔法防御力を中ダウンさせる。さらに物理クリティカルと魔法クリティカルを特大ダウンさせる。=Gây sát thương phép lớn cho kẻ địch có P/M.ATK cao nhất (cái nào cao hơn), và hạ M.DEF của nó một chút. Ngoài ra, hạ rất lớn Tỷ lệ Chí Mạng Cận Chiến và Tỷ lệ Chí Mạng Phép của nó.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体の物理クリティカルを(\d+)ダウン敵単体の魔法クリティカルを(\d+)ダウン$"=►Gây $1 sát thương phép cho một kẻ địch.\n►Hạ M.DEF của một kẻ địch đi $2 trong 18s.\n►Hạ Tỷ lệ Chí Mạng Cận Chiến của một kẻ địch đi $3 trong 18s.\n►Hạ Tỷ lệ Chí Mạng Phép của một kẻ địch đi $4 trong 18s.
+
+##S1##
+アクアキャプチャー=Bẫy Bắt Aqua
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラの魔法防御力を中ダウンさせ、さらにクリティカルを受けた際のダメージを小アップさせる。=Hạ M.DEF vừa phải của kẻ địch có P/M.ATK cao nhất (cái nào cao hơn), và tăng nhẹ lượng sát thương Chí Mạng Phép mà nó nhận.
+r:"^敵単体の魔法防御力を(\d+)ダウンクリティカルを受けた際のダメージを12％アップ$"=►Hạ M.DEF của một kẻ địch đi $1 trong 12s.\n►Tăng lượng sát thương Chí Mạng Phép mà một kẻ địch nhận lên 12% trong 12s.
+
+##S2##
+ショアインテリジェンス=Trí Thực Bờ Biển
+自分以外の味方全体の魔法攻撃力と魔法クリティカルを大アップさせる。自分の魔法攻撃力に応じて、魔法攻撃力の上昇量がアップする。=Tăng rất lớn sát thương phép và Tỷ lệ Chí Mạng Phép cho tất cả đồng đội khác. Lượng tăng sát thương phép phụ thuộc vào sát thương phép của bản thân.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを(\d+)アップ$"=►Tăng sát thương phép của tất cả đồng đội khác lên $1 (+0.035×Sát thương phép bản thân) trong 12s.\n►Tăng Tỷ lệ Chí Mạng Phép của tất cả đồng đội khác lên $2 trong 12s.
+
+##EX##
+ミスティックサマー=Hè Huyền Ảo
+ミスティックサマー+=Hè Huyền Ảo+
+
+##S1+##
+アクアキャプチャー+=Bẫy Bắt Aqua+
+物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラの魔法防御力を特大ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに魔法中ダメージを与える。このスキルは必ずクリティカルする。=Hạ rất lớn M.DEF của kẻ địch có P/M.ATK cao nhất (cái nào cao hơn), và tăng nhẹ lượng sát thương Chí Mạng Phép mà nó nhận. Ngoài ra, gây sát thương phép vừa phải cho một kẻ địch, luôn đảm bảo chí mạng.
+r:"^敵単体の魔法防御力を(\d+)ダウンクリティカルを受けた際のダメージを16％アップ敵単体に(\d+)の魔法ダメージ$"=►Hạ M.DEF của một kẻ địch đi $1 trong 12s.\n►Tăng lượng sát thương Chí Mạng Phép mà một kẻ địch nhận lên 16% trong 12s.\n►Gây $2 sát thương phép cho một kẻ địch.
+
+##UE##
+サマーディテクティブロッド=Gậy Thám Tử Hè

@@ -1,0 +1,23 @@
+レッツゴー、イイコトクラブ！=Đi thôi, Câu Lạc Bộ Những Điều Tốt!
+r:"^レッツゴー、イイコトクラブ！([0-9\-\(\)\w （）]*)$"=Đi thôi, Câu Lạc Bộ Những Điều Tốt! $1
+
+
+真夏のバーサークスライム=Slime Điên Cuồng Giữa Mùa Hè
+
+
+Boss Description
+最も近い１～３番目の敵にそれぞれ物理小ダメージを与える。さらに物理防御力を大ダウンさせる。このスキルの効果はダメージを無効化しても付与される。=Gây sát thương vật lý nhỏ lên kẻ địch gần nhất (vị trí thứ 1 hoặc thứ 3). Ngoài ra, giảm lớn phòng thủ vật lý. Hiệu quả kỹ năng này có thể áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+最も近い敵１キャラに物理特大ダメージを与え、ＴＰを小ダウンさせる。このスキルはダメージを無効化してもＴＰをダウンさせる。=Gây sát thương vật lý cực lớn lên kẻ địch gần nhất và giảm TP một chút. Kỹ năng này có thể vô hiệu hóa sát thương nhưng cũng giảm TP.
+ユニオンバーストは、最も近い１～５番目の敵にそれぞれのキャラの現在ＨＰに応じた物理割合ダメージを与え、キャラの最大ＨＰをバトル終了まで15％減少させる。=Union Burst gây sát thương vật lý theo phần trăm dựa trên HP hiện tại của mỗi kẻ địch gần nhất (1-5 mục tiêu), giảm 15% HP tối đa của kẻ địch cho đến khi trận đấu kết thúc.
+召喚体、分身を攻撃対象にしない。=Thân thể triệu hồi, các bản sao không phải là mục tiêu tấn công.
+魔道具の影響で制御不能に陥ったスライム。濃厚な粘液は夏の装いなどいとも容易く溶解し、秘められた素肌を炎天下に曝け出させる。=Slime mất kiểm soát do hiệu ứng của phép thuật. Slime dày đặc dễ dàng tan chảy vào trang phục mùa hè, lộ ra làn da trần trụi ẩn dưới ánh mặt trời chói chang.
+真夏のバーサークスライムから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Nó tăng tỷ lệ hồi TP của nhân vật trong đội, tỷ lệ này được tính từ tất cả sát thương mà Berserk Slime giữa mùa hè phải nhận.
+真夏のバーサークスライムは環境効果によるダメージを受けない。=Berserk Slimes giữa mùa hè không nhận sát thương từ hiệu ứng môi trường.
+ユニオンバーストは、最も近い１～５番目の敵にそれぞれのキャラの元々のＨＰに応じた物理割合ダメージを与え、キャラの最大ＨＰをバトル終了まで40％減少させる。=Union Burst gây sát thương vật lý theo phần trăm dựa trên HP ban đầu của mỗi kẻ địch gần nhất (1-5 mục tiêu), giảm 40% HP tối đa của kẻ địch cho đến khi trận đấu kết thúc.
+最も近い１～３番目の敵にそれぞれ物理小ダメージを与える。さらに物理防御力を大ダウンさせ、バリアを解除する。このスキルの効果はダメージを無効化しても付与される。=Gây sát thương vật lý lên kẻ địch gần nhất từ thứ 1 đến thứ 3. Giảm lớn phòng thủ vật lý, xóa bỏ khiên. Hiệu quả kỹ năng này có thể áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+
+毎秒飛行状態のキャラを含む敵全体の物理攻撃力と魔法攻撃力をバトル終了まで小ダウンさせる。=Mỗi giây, nó giảm sức mạnh tấn công vật lý và ma thuật của tất cả kẻ địch, bao gồm cả nhân vật đang bay, cho đến khi trận đấu kết thúc.
+スライムフィールドを展開し、飛行状態のキャラを含む敵全体の行動速度を中ダウンさせる。【スライムフィールド効果】以下の効果が発動する。=Triển khai Slime Field để giảm tốc độ của tất cả đối thủ, bao gồm cả nhân vật đang bay. Các hiệu ứng của Slimefield Effect và bên dưới sẽ được kích hoạt.
+召喚体、分身を除いた最も近い敵１キャラに物理特大ダメージを与え、ＴＰを小ダウンさせる。このスキルはダメージを無効化してもＴＰをダウンさせる。=Gây sát thương vật lý cực lớn lên kẻ địch gần nhất, ngoại trừ thân thể triệu hồi và các bản sao, và giảm TP một chút. Kỹ năng này giảm TP của bạn ngay cả khi bạn vô hiệu hóa sát thương.
+召喚体、分身を除いた最も近い１～３番目の敵にそれぞれ物理小ダメージを与える。さらに物理防御力を大ダウンさせ、バリアを解除する。このスキルの効果はダメージを無効化しても付与される。=Ngoại trừ các bản triệu hồi và bản sao, mỗi kẻ địch gần nhất nhận sát thương vật lý nhỏ. Ngoài ra, giảm lớn phòng thủ vật lý và xóa bỏ khiên. Hiệu quả kỹ năng này có thể áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+ユニオンバーストは、召喚体、分身を除いた最も近い１～５番目の敵にそれぞれのキャラの元々のＨＰに応じた物理割合ダメージを与え、キャラの最大ＨＰをバトル終了まで40％減少させる。=Union Burst gây sát thương vật lý theo phần trăm dựa trên HP ban đầu của mỗi kẻ địch gần nhất (1-5 mục tiêu), ngoại trừ thân thể triệu hồi và các bản sao, giảm 40% HP tối đa của kẻ địch cho đến khi trận đấu kết thúc.

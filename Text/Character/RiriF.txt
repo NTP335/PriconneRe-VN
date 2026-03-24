@@ -1,0 +1,53 @@
+##Profile##
+【物理】中衛で、黒羽の力を使い空を制する嘆鎌の少女。バトル開始時に、敵の範囲攻撃を躱す【飛行】状態となり生成したシャドウと共に、眼前の敵を一薙ぎに斬り払う。=[Vật Lý] Cô gái của lưỡi hái than vãn, điều khiển bầu trời bằng sức mạnh của những chiếc lông đen ở tuyến giữa. Khi trận đấu bắt đầu, cô ấy bước vào trạng thái [Bay] có thể né mọi đòn tấn công phạm vi của địch và chém xuyên địch phía trước bằng bóng tối do mình tạo ra.
+
+贖罪を胸に強さを求める妹系大和撫子=Một Yamato Nadeshiko thầm kính, tìm kiếm sức mạnh với lòng sám hối trong tim
+華道、読書（古典）、トーゴク画=Cắm hoa, Đọc sách (Kinh điển), Nghệ thuật Togoku
+
+依依恋恋=Yêu sâu sắc
+随喜渇仰=Kính trọng và Vui mừng
+一炊之夢=Giấc mơ về một bữa ăn
+布衣之交=Tình bạn giữa những người bình thường
+
+##UB##
+シャドウ・スプリット -嘆鎌-=Phân Thân Bóng Tối: Lưỡi Hái Than Vãn
+【召喚】目の前の敵１キャラに物理大ダメージを与える。このスキルのダメージは自分のシャドウの数に応じて増加する。さらにユニオンバーストを使用しない、自分のシャドウを２体生成する。=[Triệu hồi] Gây sát thương vật lý lớn cho một kẻ thù phía trước. Sát thương vật lý gây ra tăng theo số bóng tối của bản thân. Ngoài ra, tạo ra hai bóng tối của chính mình không thể dùng UB.
+r:"^敵単体に(\d+)の物理ダメージシャドウを(\d+)体生成する$"=►Gây $1 (+3.6×$1×\nSố bóng tối) sát thương vật lý cho một kẻ thù.\n►Tạo $2 bóng tối.
+
+##S1##
+残花流転=Biến Hóa Hoa Phù Du
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせる。=Tăng mạnh tấn công vật lý của đồng đội trong phạm vi.
+
+
+##S2##
+黒羽胴払い=Quét Lông Đen
+
+##SP1##
+フォールンフェザー=Lông Rơi
+【飛行】自分を飛行状態にする。=[Bay] Chuyển sang trạng thái Bay. Bay cho phép tránh mọi đòn tấn công hoặc kỹ năng có hiệu ứng phạm vi.
+自分を飛行状態にする=►Chuyển sang trạng thái Bay.
+このスキルのスキルレベルは「シャドウ・スプリット -嘆鎌-」と連動しています=Cấp độ kỹ năng này liên kết với "Phân Thân Bóng Tối: Lưỡi Hái Than Vãn"
+
+##EX##
+フォールンモード（R）=Trạng Thái Rơi (R)
+フォールンモード（R）+=Trạng Thái Rơi (R)+
+
+##S1+##
+残花流転+=Biến Hóa Hoa Phù Du+
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせる。範囲内の味方の人数に応じて、最大７キャラ分まで物理攻撃力の上昇量が増加する。=Tăng mạnh tấn công vật lý của đồng đội trong phạm vi. Mức tăng tấn công vật lý tăng theo số đồng đội, tối đa 7 lần.
+
+##UE##
+アルゲアの嘆鎌=Lưỡi Hái của Algea
+
+##Comments##
+ですが兄様は、広い心で受け入れてくださいました\n兄様の度量を見くびってしまったこと、お詫びさせて\nくださいませ。そして本当に…ありがとうございます=Nhưng Anh đã chấp nhận em với một trái tim rộng mở. Em xin lỗi vì đã đánh giá thấp lòng bao dung của anh. Và... cảm ơn anh rất nhiều.
+護衛どころか、許していただけるのかどうかすら\nわからず…お会いするまで不安でいっぱいだったのです\n兄様に拒まれたら…とても悲しいですから…=Em không biết liệu anh có tha thứ cho em không, huống chi là bảo vệ em... Em cảm thấy lo lắng cho đến khi chúng ta gặp nhau. Sẽ rất buồn nếu Anh từ chối...
+実は兄様に護衛の依頼をするか、とても悩んだのです\n何せわたくしたちは罪を犯し、兄様たちとも戦い、\n街の人々を苦しめた張本人…ですから=Thực ra, em rất lo lắng về việc có nên nhờ Anh bảo vệ chúng ta không. Sau tất cả, chúng ta đã phạm tội, đánh nhau với Anh, và hành hạ người dân thành phố.
+この姿になるたび、自分の罪を思い出します\n兄様に刃を向けた無礼も…今となっては\nこの命を捧げてでもお詫びしたいほどです…！=Mỗi lần nhìn thấy hình dạng này, em nhớ về tội lỗi của chính mình... Ngay cả sự thiếu tôn trọng khi chỉ lưỡi kiếm về phía Anh... Giờ em muốn xin lỗi, ngay cả khi phải hy sinh tính mạng...!
+最近、兄様のお隣にいるだけで楽しくて…\n何気ない毎日すら冒険に出ているようにワクワクします\nこれほど日常を変えてしまうなんて、さすが兄様ですね=Dạo này, chỉ cần ở bên cạnh Anh đã thấy vui vẻ quá... Cảm giác như mỗi ngày đều là một cuộc phiêu lưu. Anh đã thay đổi cuộc sống hàng ngày của em nhiều lắm. Em ngưỡng mộ.
+普段は人に肌を見せたりはしないもので…\nこの服装は恥ずかしいというか…少々抵抗感があります\nで、ですが、兄様になら、見られても…？=Em thường không để người khác nhìn thấy da của mình... Bộ trang phục này thật xấu hổ... Em cảm thấy hơi miễn cưỡng, nhưng, Anh, anh có thấy em...?
+ですが、本当にうれしいのです。この御恩は必ずや\n生涯をかけてお返しせねばと、心から思えるほどに\nですから今しばらく、お側においてください。兄様…=Nhưng em rất vui. Vui đến mức em cảm thấy từ tận đáy lòng rằng mình phải báo đáp ơn nghĩa của anh suốt đời, vì vậy hãy ở bên cạnh em một chút nữa, Anh...
+兄様があまりにも、わたくしを普通の少女として\n接してくださるから…己の立場を忘れてしまいます\nふふっ…やはりわたくしは未熟者ですね=Anh đối xử với em như một cô gái bình thường hay đến mức em quên mất địa vị của mình. Hehe... Thì ra, em vẫn còn non nớt.
+このままここにいていいのかと思う時があるのです…\n多くの人を傷つけた罰を受けるべき身でありながら\n兄様とこれほど幸せな時間を過ごしていていいのかと=Có lúc em tự hỏi liệu em có nên ở lại đây không... Để dành nhiều thời gian cho anh trai, trong khi em đáng lẽ phải bị trừng phạt vì đã làm tổn thương nhiều người.
+まだこの力を使わねば、まともに戦えません…\nですが、これから兄様の背から学び、強くなります\nどうかわたくしにたくさん稽古をつけてくださいませ！=Nếu em không dùng sức mạnh này, em sẽ không chiến đấu được properly... Tuy nhiên, từ giờ em sẽ học hỏi từ phía sau lưng anh, Anh, và em sẽ trở nên mạnh mẽ hơn. Hãy để em rèn luyện nhiều nhé!
+まさか本当に兄様とご一緒に冒険できるとは\n今でも夢を見ているようです。御恩返しのはずが\nこちらばかりがお世話になって…心苦しいばかりです…=Em chưa bao giờ nghĩ rằng mình thực sự được đi phiêu lưu cùng anh, Anh. Em vẫn còn đang mơ về điều đó. Em nên cảm ơn anh, nhưng chỉ có anh là người chăm sóc em... Nó thật đau đớn...

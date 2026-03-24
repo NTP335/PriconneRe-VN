@@ -1,0 +1,23 @@
+r:"^異世界さまぁばけぇしょん([0-9\-\(\)\w （）]*)$"=Kỳ nghỉ hè ở thế giới khác $1
+記憶喰い・シロクジラ=White Whale The Memory Eater
+シロクジラ=White Whale
+ボスの沈黙無効=Vô hiệu hóa khả năng im lặng của boss
+
+
+
+
+
+
+彼方よりの訪客から異世界の因子を取り込み、種を超えし力を会得した巨鯨の魔物。遥か高みを回遊する脅威に、世界を跨ぐ絆が試される。=Một con quái vật cá voi khổng lồ đã hấp thụ các yếu tố từ một thế giới khác từ một vị khách từ xa và đã có được những sức mạnh vượt xa các loài khác. Những mối liên kết xuyên thế giới bị thử thách bởi mối đe dọa này di chuyển từ phía trên cao.
+
+敵全体の物理攻撃力と魔法攻撃力を中ダウンさせる。=Giảm một cách vừa phải sức tấn công vật lý và ma thuật của tất cả kẻ địch.
+味方全体のＴＰを大回復させる。=Hồi lại một lượng lớn TP cho tất cả đồng minh.
+
+記憶喰い=Memory Eater
+
+シロクジラから受けるすべてのダ\n　メージで発生する、パーティキャラのＴＰ回復\n　量を中ダウンさせる。\n=Nó trung hòa lượng TP phục hồi của các thành viên trong party được tạo ra bởi tất cả sát thương mà cá voi trắng nhận.\n
+敵の挑発を無視して、召喚体、分身を除いた最\n　も遠い敵１キャラに、物理中ダメージを与え、\n　沈黙状態をバトル終了まで付与する。\n=Bỏ qua các trêu chọc của kẻ địch, tôi gây Sát thương Vật lý lên một trong những kẻ địch ở xa nhất, ngoại trừ cơ thể được triệu hồi và các bản sao, và tạo hiệu ứng im lặng cho chúng cho đến hết trận.\n
+敵の挑発を無視して、召喚体、分身を除いた後\n　ろから２番目の敵に、物理中ダメージを与え、\n　沈黙状態をバトル終了まで付与する。\n=Bỏ qua các trêu chọc của kẻ địch, tôi gây Sát thương Vật lý lên kẻ địch thứ hai từ phía sau, ngoại trừ cơ thể triệu hồi và bản sao, và tạo hiệu ứng im lặng cho chúng cho đến hết trận.\n
+敵の挑発を無視して、召喚体、分身を除いた後\n　ろから３番目の敵に、物理中ダメージを与え、\n　沈黙状態をバトル終了まで付与する。=Bỏ qua các trêu chọc của kẻ địch, tôi gây Sát thương Vật lý lên kẻ địch thứ ba từ phía sau, ngoại trừ cơ thể triệu hồi và bản sao, và tạo hiệu ứng im lặng cho chúng cho đến hết trận.
+
+

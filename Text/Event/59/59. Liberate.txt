@@ -1,0 +1,135 @@
+
+r:"^追想のデフラグが\n(\d+)個解放されました。$"=$1 Reminiscent defrag đã được mở khóa.
+追想のデフラグ エピソード解放=Reminiscence Defrag Episode đã được Mở khóa.
+楽園の守護者=Paradise Guardian
+討伐証（前編専用）=Victory Medal (Phần 1)
+討伐証（後編専用）=Huy chương Chiến thắng (Phần 2)
+
+r:"^追想の楽園([0-9\-\(\)\w （）]*)$"=Kỷ niệm Thiên đường $1
+久遠の園を象る者=Người Điêu khắc Vườn Vĩnh cửu
+アスラ=Asla
+オクトー=Octo
+リベレイト・ジ・エデン　 いつか、また会う未来で【前編】=Giải phóng Thiên đường: Đôi khi trong tương lai chúng ta sẽ gặp lại [Phần 1]
+リベレイト・ジ・エデン　 いつか、また会う未来で【後編】=Giải phóng Thiên đường: Đôi khi trong tương lai chúng ta sẽ gặp lại [Phần 2]
+
+r:"^(\[[0-9A-F]{6}\])?【前編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1【Phần 1】 Hoàn thành nhiệm vụ sự kiện $2 lần (Bất kỳ Phần nào) $3
+r:"^(\[[0-9A-F]{6}\])?【後編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1【Phần 2】 Hoàn thành nhiệm vụ sự kiện $2 lần (Bất kỳ Phần nào) $3
+r:"^(\[[0-9A-F]{6}\])?【前編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Phần 1】 Đánh Boss 1 lần (Bất kỳ Phần nào, Bất kỳ Độ khó nào) $2
+r:"^(\[[0-9A-F]{6}\])?【後編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Phần 2】 Đánh Boss 1 lần (Bất kỳ Phần nào, Bất kỳ Độ khó nào) $2
+後編
+r:"^(\[[0-9A-F]{6}\])?討伐証交換前編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Đặt lại danh sách phần thưởng (Phần 1) của giao dịch chinh phạt $2 lần$3
+r:"^(\[[0-9A-F]{6}\])?討伐証交換後編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Đặt lại danh sách phần thưởng (Phần 2) của giao dịch chinh phạt $2 lần$3
+
+束の間の勝利=Chiến thắng tập thể
+r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスターを倒そう(\[-\])?$"=$1Đánh bại bóng ma của Chika và Tsumugi cùng với quái vật đồng hành!$2
+
+
+不穏なる兆し=Dấu hiệu của sự xáo trộn
+奪われた絆の証=Bằng chứng của mối liên kết bị cướp đoạt
+祭りを楽しんでいたムイミだったが、突然謎の少女に襲撃されてブローチを奪われてしまう。その少女を捜している最中、次第に様子がおかしくなっていく街の人たちに追われ始めるも、カヤの助けで難を逃れる。=Muimi đang tận hưởng lễ hội thì bỗng bị một cô gái bí ẩn tấn công và bị cướp mất chiếc brooch. Trong khi tìm kiếm cô gái, cô bắt đầu bị người dân trong thành truy đuổi, họ dần trở nên điên loạn, nhưng cô đã thoát khỏi những khó khăn cùng với Kaya.
+生き残りたちの夜会=Bữa tiệc đêm sinh tồn
+ムイミと{playername}は、同様にカヤに助けられたペコリーヌ、ノゾミと合流する。街の異変について情報交換するも有効な手立てが見つからず、ムイミのブローチを奪った少女を捜しに行くこととなる。=Muimi và anh trai cùng tham gia với Pecorine và Nozomi, những người cũng được Kaya giúp đỡ. Bất chấp việc trao đổi thông tin về những bất thường của thành phố, không có cách hiệu quả để tìm ra, nên anh sẽ đi tìm kiếm cô gái đã lấy chiếc brooch của Muimi.
+真夜中の決死行=Cái chết nửa đêm
+ムイミは、カヤたちに古くからの仲間の面影を重ねながら少女の捜索をしていた。再び様子のおかしいチカとツムギと戦闘になったところ、原因不明の不調に陥る。そこへ捜していた少女ミラまでもが現れる。=Muimi đang tìm kiếm một cô gái cùng với Kaya và những người bạn cũ. Khi cô chiến đấu lại với Chika và Tsumugi kỳ lạ, cô rơi vào một nguyên nhân chưa biết. Ngay cả cô gái Mira đang tìm kiếm cũng xuất hiện.
+楽園に抗う金色の解放者=Người giải phóng màu vàng chống lại thiên đường
+ムイミたちは、ミラの人々を思い出の中に閉じ込め「楽園の住人」にする能力に抵抗する。その時ムイミたちに人々を「楽園」から解放する力が発現し、チカやツムギたちを異変から救うことに成功する。=Muimi và đồng nghiệp chống lại người Mira trong ký ức của họ và trở thành "cư dân thiên đường". Lúc đó, Muimi và những người khác có sức mạnh giải phóng con người khỏi "thiên đường", và thành công trong việc cứu Chika và Tsumugi khỏi những bất thường.
+楽園創造=Tạo ra thiên đường
+ムイミたちが人々を楽園からの解放を進めていると、突如として繁華街が異様な光景へと変わる。驚くムイミたちの前に、ミラとその相棒アスラが現れる。アスラは、ムイミを楽園へ迎えるためにある人物を呼ぶ。=Khi Muimi đang giải phóng khỏi thiên đường, trung tâm thành phố bỗng biến thành một cảnh tượng kỳ lạ. Trước sự ngạc nhiên của Muimi, Mira và cộng sự Asura xuất hiện. Asura gọi một người để chào mừng Muimi đến thiên đường.
+解放者の責任=Trách nhiệm của Sự Giải phóng
+ムイミは、目の前に現れたオクトーの前から動けずにいた。一\n方、カヤは楽園の住人になったイノリ、ノゾミもファンたちと\nそれぞれ対峙し、自分たちの進むべき未来に気付き戦う覚悟を\n決めるのだった。=Muimi không thể di chuyển trước mặt Okto, người xuất hiện trước cô. Mặt khác, Kaya, người đã trở thành cư dân của thiên đường, cũng đối mặt với những người hâm mộ và quyết định nhận thức về tương lai mà họ nên đi theo.
+揺らぐ導き手=Những người lãnh đạo lay chuyển
+アスラの仕掛けた思い出の誘惑を振り切るムイミ。ミラは、そ\nの決断を理解できずにいた。ムイミは、そんなミラとしばし行\n動を共にする中で彼女の考えに理解を示しながらも、最後まで\n自身の意志を貫き通す。=Muimi lắc mình thoát khỏi sự cám dỗ từ ký ức của Asura. Mira không hiểu quyết định của cô. Muimi thể hiện sự hiểu biết về suy nghĩ của Mira trong khi làm việc với cô ấy một thời gian, nhưng cuối cùng vẫn giữ vững ý chí của mình đến cùng.
+思い出は虚無へ還る=Ký ức trở về với trí tưởng tượng
+ミラたちの拠点に辿り着いたムイミは、再びアスラと対峙す\nる。アスラは、ムイミの思い出に対する考え方により、ミラの\n心に迷いが生じていると知る。アスラは、ムイミの説得を諦\nめ、全ての思い出を奪い去る。=Muimi đến căn cứ của Mira và đối đầu với Asura một lần nữa. Asura biết rằng trái tim của Mira do dự vì cách suy nghĩ của Muimi. Asura từ bỏ việc thuyết phục Muimi và chiếm đoạt tất cả ký ức.
+大悪党の復活=Sự hồi sinh của kẻ xấu
+思い出を奪われたムイミだったが、カヤとノゾミの思い、そし\nてオクトーによって復活する。アスラは、ムイミの復活や自身\nの秘密に動揺して暴走する。ムイミたちは、強大な力を前にし\nても諦めず撃破する。=Muimi bị tước đoạt ký ức, nhưng được Kaya, Nozomi và Okto hồi sinh. Asura bỏ chạy do sự hồi sinh của Muimi và bí mật của cô. Muimi và những người khác đánh bại mà không bỏ cuộc ngay cả trước sức mạnh mạnh mẽ.
+アスラの消滅に伴い、「楽園」にまつわる異変は全て元に戻\nる。そしてランドソルでは何事もなかったかのように建国祭が\n再開され、事件に関わったムイミたちもそれぞれの未来を胸\nに、前へ進んでいくのだった。=Với sự tiêu diệt của Asura, tất cả những bất thường liên quan đến thiên đường trở về ban đầu. Lễ hội thành lập được tiếp diễn như thể không có gì xảy ra ở Landosol, và Muimi cùng những người liên quan đến sự kiện tiến về phía trước với tương lai của họ.
+白紙の未来を金色で染めて=Nhuộm một Tương lai Trống rỗng bằng Vàng
+
+後編
+
+追想のデフラグ=Kỷ niệm Khôi phục
+懐かしき過去の結晶=Viên Tinh Thể Hoài niệm của Quá khứ
+懐かしいような不思議な感覚に襲われ、倒れるムイミ。不思議\nな空間で目覚めたムイミは、そこに浮かんでいた不思議な結晶\nに触れる。眩い輝きと共に目の前に広がるのは、記憶の中にあ\nる懐かしい光景であった。=Muimi gục ngã sau khi bị một cảm giác kỳ lạ, hoài niệm tấn công. Cô thức dậy trong một không gian bí ẩn, và chạm vào một viên tinh thể bí ẩn đang lơ lửng ở đó. Cùng với sự rực rỡ chói loà, những gì hiện ra trước mắt cô là một cảnh tượng hoài niệm trong ký ức.
+イベントクエストを進めると、ムイミさまの大切な思い出のエピソードを楽しむことができますよ。\nエピソードを見ると、ピースに情景が描かれていくようでございます。=Khi bạn tiến qua các nhiệm vụ sự kiện, bạn có thể thưởng thức các tập của ký ức quý giá của cô Muimi. Nhìn vào tập, dường như cảnh đang được vẽ trên mảnh.
+描かれたピースを組み合わせて、パズルの完成を目指しましょう。\nどんな光景が浮かび上がるのか、わたくしも楽しみでございます。=Kết hợp các mảnh đã vẽ và nhằm hoàn thành trò giải đố. Tôi cũng rất mong chờ xem cảnh sẽ hiện ra như thế nào.
+リーダーはどっちだ！閲覧で操作可能=Ai là người lãnh đạo! Có thể thao tác bằng cách xem
+勝ちたい理由閲覧で操作可能=Có thể thao tác bằng cách duyệt xem lý do bạn muốn thắng
+聞き上手な誓約女君閲覧で操作可能=Có thể thao tác bằng cách xem Regina Geas, người biết lắng nghe tốt
+秘めたる本当の実力……？閲覧で操作可能=Sức mạnh thật ẩn giấu...? Có thể thao tác bằng cách xem
+友と書いてライバルと読む閲覧で操作可能=Viết cùng bạn bè và đọc cùng đối thủ Có thể thao tác bằng cách duyệt xem
+悪と正義の高笑い閲覧で操作可能=Có thể thao tác bằng cách xem tiếng cười của ác và chính nghĩa
+プリンセスナイトとは閲覧で操作可能=Princess Night có thể thao tác bằng cách xem
+まだ見ぬ日々に想い馳せて閲覧で操作可能=Có thể thao tác bằng cách duyệt xem trong khi suy nghĩ về những ngày chưa từng thấy
+後編公開までお待ちください=Vui lòng chờ đến khi phần hai được phát hành
+オクトーの追想　その1=Ký Ức Về Octo Phần 1
+オクトーの追想　その2=Ký Ức Về Octo Phần 2
+オクトーの追想　その3=Ký Ức Về Octo Phần 3
+オクトーの追想　その4=Ký Ức Về Octo Phần 3
+オクトーの追想　その5=Ký Ức Về Octo Phần 3
+リーダーはどっちだ！=Ai mới là thủ lĩnh chứ!
+表示できるストーリーがありません。=Không có câu chuyện nào để hiển thị.
+勝ちたい理由=Tại sao tôi muốn chiến thắng
+クリスティーナの追想　その1=Hồi Ức Về Christina Phần 1
+クリスティーナの追想　その2=Hồi Ức Về Christina Phần 2
+クリスティーナの追想　その3=Hồi Ức Về Christina Phần 3
+聞き上手な誓約女君=Regina Geas - Người Lắng Nghe Tốt
+秘めたる本当の実力……？=Sức mạnh thật sự ẩn giấu...?
+ダイゴの追想　その1=Ký Ức Của Daigo Phần 1
+ダイゴの追想　その2=Ký Ức Của Daigo Phần 2
+ダイゴの追想　その3=Ký Ức Của Daigo Phần 3
+友と書いてライバルと読む=Viết như một người bạn, đọc như một đối thủ
+ラビリスタの追想　その1=Hồi Ức Của Mê Cung Phần 1
+ラビリスタの追想　その2=Hồi Ức Của Mê Cung Phần 2
+ラビリスタの追想　その3=Hồi Ức Của Mê Cung Phần 3
+悪と正義の高笑い=Tiếng cười của ác và công lý
+マサキの追想=Ký Ức Về Masaki
+プリンセスナイトとは=Princess Night là gì
+ラジラジの追想　その1=Hồi Ức Về Rajiraji Phần 1
+ラジラジの追想　その2=Hồi Ức Về Rajiraji Phần 2
+ラジラジの追想　その3=Hồi Ức Về Rajiraji Phần 3
+ネネカの追想=Hồi Ức Về Neneka
+
+まだ見ぬ日々に想い馳せて=Hoài niệm về những ngày chúng ta chưa từng thấy
+
+跳躍王のお仕置き=Sự Trừng Phạt Của Vua Nhảy
+虎の尾を踏む=Giẫm Lên Đuôi Hổ
+二人なら絶対だって=Nếu Chỉ Còn Hai Chúng Ta, Thì Chắc Chắn
+一番怪しい七冠は誰だ=Ai Là Đáng Nghi Ngờ Nhất Trong Bảy Vương Miện
+簡単すぎる問題=Vấn Đề Quá Dễ
+魔物使いは語る=Nhà Ảo Thuật Nói
+悪党たちの目指す未来=Tương Lai Mà Kẻ Ác Nhằm Tới
+
+
+
+
+
+Onii－chanたちとの戦いに敗れたノウェムとオクトー\n街に戻ってもノウェムは悔しさを爆発させていた。=Knowem, kẻ bị đánh bại trong trận chiến với ONII-CHAN, đã quay về phố Octo, và Knowem vỡ òa hối tiếc.
+Onii－chanたちに負けたことを悔しがるノウェムだが、オク\nトーは全く気にしない。その態度が気に入らないノウェムは勝\n利へのこだわりを示す。そんなノウェムをオクトーは秘かにう\nらやましく思う。=Knowem hối tiếc vì ONII-CHAN đã thua, nhưng Octo thì chẳng quan tâm chút nào.\nKhông thích thái độ đó, Knowem thể hiện quyết tâm chiến thắng của mình.\nOcto lại thầm ghen tị với một Knowem như vậy.
+任務を終えた帰り道。\nノウェムはため息交じりに呟きを漏らす。=Trên đường về sau khi hoàn thành nhiệm vụ.\nKnowem thở dài và thì thầm.
+誓約女君について人使いが荒いと愚痴るノウェム。しかし当の\n本人にそれを聞かれていた。オクトーは逃走したため、ノウェ\nムは地獄のように長い時間を過ごすことになるのであった。=Một Knowem phàn nàn rằng người có thái độ thô bạo về lời thề thì thô bạo.\nTuy nhiên, người đó đã được hỏi như vậy.\nVì Okto trốn thoát, Knowem đã trải qua một thời gian dài như địa ngục.
+街道をぶらつきながら、ノウェムはオクトーに話しかける。=Nawem nói chuyện với Okto trong khi đang bám vào đường cao tốc.
+オクトーの実力を知りたいノウェムは、足止めをしてダイゴと\n戦わせることに成功する。しかし一撃を入れられるオクトーを\n見たノウェムは、反射的に背後からダイゴに攻撃して気絶させ\nてしまうのだった。=Knowem, người muốn biết khả năng của Okto, đã thành công trong việc dừng và đấu với Daigo.\nTuy nhiên, khi thấy Okto, kẻ có thể đánh trúng, anh ta tấn công Daigo từ phía sau và khiến anh ta bất tỉnh.
+晶とはどんな人物なのか気になったノウェムは、同じ七冠の誓\n約女君に人柄を尋ねてみる。誓約女君の返答から、晶への絆と\nライバル心をノウェムは感じ取るのだった。=Knowem, người lo lắng về Akira là ai, hỏi về tính cách của cô ấy với lời thề Bảy Vương Miện cùng một kiểu.\nTừ câu trả lời của lời thề, Knowem cảm nhận được sự gắn bó và đối thủ của cô ấy.
+悪と正義、それぞれのこだわりを持って高笑いの練習に励んで\nいるノウェムとマサキ。満足のいく高笑いの実現のため二人は\n協力（？）することになるが、巻き込まれたオクトーはため息\nをつくのだった。=Ác và công lý, Knowem và Masaki đang nỗ lực luyện tập tiếng cười đỉnh cao.\nHai người sẽ hợp tác (?) để hiện thực hóa một trận cười thỏa mãn, nhưng Okto, người bị liên quan, chỉ thở dài.
+ノウェムとオクトーは時と場所を選ばず勝負を仕掛けてくるダ\nイゴについて、跳躍王にクレームを入れる。しかし跳躍王にす\nらダイゴは制御不能だと言われ、二人は肩を落とすのであっ\nた。=Nawem và Okto phàn nàn với Vua Nhảy về Daigo, kẻ sẽ chơi trò chơi bất kể thời gian và địa điểm.\nTuy nhiên, ngay cả Vua Nhảy cũng nói rằng Daigo không thể kiểm soát được, và họ thất vọng buông vai.
+ギルドハウス内を捜し回り、=Nhìn quanh nhà Guild,
+張り込み中のノウェムとオクトーは、会話の中で理想のギルド\nハウスの話題になり、やがて自分たちはこのゲームを楽しめて\nはいないのではと気付く。そして、いつか本当に楽しめる日が\n来ることを想い馳せる。=Knowem và Okto, đang trong cuộc trò chuyện, trở thành chủ đề về nhà Guild lý tưởng trong cuộc trò chuyện, và cuối cùng nhận ra rằng họ chưa từng tận hưởng trò chơi này.\nVà tôi sẽ nghĩ rằng một ngày nào đó bạn có thể thực sự tận hưởng nó.
+任務に向かうノウェムとオクトーは、出立前に跳躍王の元へと向かう。=Knowem và Okto hướng tới nhiệm vụ của mình, đến gặp Vua Nhảy trước khi rời đi.
+任務のために跳躍王から跳躍の力を借りるノウェムとオク\nトー。しかしその能力を買い物などの私用に使っていたことが\nバレてしまい、お仕置きとして極寒の雪山に跳躍させられ、放\n置されてしまうのだった。=Knowem và Okto mượn sức nhảy từ Vua Nhảy cho nhiệm vụ của mình.\nTuy nhiên, thứ họ dùng cho mục đích cá nhân như mua sắm đã bị hỏng, và họ bị bỏ lại trên ngọn núi tuyết lạnh như một hình phạt và bị bỏ mặc.
+ノウェム=Knowem
+教授、ちょっと例のアレ=Giáo sư, một ví dụ nhỏ
+誓約女君と剣を交えるノウェム。絶対防御を破りたいという彼\n女の思いを聞いてオクトーは逃げようとするが、結局手伝うこ\nとになってしまう。そのまま二人は力を合わせ誓約女君に挑む\nのであった。=Knowem, người cầm kiếm thề giao ước.\nKhi nghe thấy cô ấy muốn phá vỡ lá chắn tuyệt đối của mình, Okto cố trốn chạy, nhưng cuối cùng lại giúp đỡ.\nHọ chỉ hợp tác và thách thức lời thề đó.
+たまたま出会ったダイゴと世間話をするノウェムとオクトー。\n打ち合わせ一切なしの状態で見事な連携でダイゴの名前を弄\nる。ついにブチ切れて暴れ出したダイゴから、二人は笑いなが\nら逃げ出すのだった。=Nawem và Okto nói chuyện với Daigo, người tình cờ gặp Daigo.\nKhông có cuộc họp nào cả, họ chơi đùa với tên Daigo trong sự hợp tác tuyệt vời.\nCuối cùng, hai người trốn khỏi Daigo, bị cắt đứt và phát cuồng.
+暇を持てあましたノウェムとオクトーは、\nたまたま鉢合わせたダイゴに話しかける。=Knawem và Okto, có thời gian rảnh, tình cờ nói chuyện với Daigo, một chiếc bát.
+晶の人柄について変貌大妃に尋ねるノウェム。仕事では助け合\nうこともあったが、それでも晶は信用できない怪しい女だと言\nい張る変貌大妃に、ノウェムは思わず本音をこぼしかけたの\nだった。=Knowem hỏi về tính cách của công chúa lớn Akira.\nCông việc của cô đôi khi giúp đỡ lẫn nhau, nhưng cô vẫn bộc lộ ý định thật sự về sự biến đổi của mình, khẳng định Akira là một người phụ nữ đáng ngờ không đáng tin cậy.
+晶のことが気になっているノウェムは、=Knawem lo lắng về Akira là
+オクトーに化けてノウェムにイタズラする変貌大妃。しかしノ\nウェムはあっさり正体を見抜いてしまう。深い絆を結んだ者た\nちが相手だと、変化を見抜かれやすいのかもしれないと変貌大\n妃は感心するのだった。=Một công chúa biến hình biến thành Okto và nghịch ngợm trong cái biết của Knowawem.\nTuy nhiên, Knawem dễ dàng nhận ra danh tính thật của cô.\nCông chúa biến hình ấn tượng rằng nếu những người có mối liên hệ sâu sắc là đối thủ, họ có thể dễ dàng bị phát hiện.
+ノウェムは、次の戦いに向けて作戦を立てたいと、=Nawem muốn lập chiến lược cho trận chiến tiếp theo
+ノウェムは、オクトーが戦闘をモンスターに任せていることに\n疑問を抱く。オクトーはモンスターの有用性を説くが、扱いの\n難しい一体がいるという。それが自分だと気付いたノウェムは\nオクトーを追いかける。=Knawem chất vấn trận chiến của Okto với quái vật.\nOkto thuyết giáo về tính hữu ích của quái vật, nhưng được nói rằng có loại khó xử lý.\nKnowem nhận ra rằng chính mình đang truy đuổi Okto.
+その日、一仕事を終えたノウェムとオクトーは、帰路についていた。=Ngày hôm đó, Konowem và Okto, sau khi hoàn thành công việc, đang trên đường về nhà.
+激務を終え疲労困憊のムイミとオクトー。だがこれも自由になるためだと\n自分たちに言い聞かせる。そして、自分たちの目標が世界一の悪いヤツら\nになることだと、改めて確認し合うのだった。=Muimi và Okto kiệt sức sau khi hoàn thành công việc vất vả.\nNhưng hãy cho chúng tôi biết rằng đây cũng là tự do.\nVà họ kiểm tra lại rằng mục tiêu của họ sẽ là những kẻ tồi nhất thế giới.
+激務を終えたノウェムとオクトーは、やっとの思いで街へと戻ってきた。=Knawem và Okto, đã hoàn thành công việc vất vả, cuối cùng đã trở về thành phố với những suy nghĩ riêng của mình.
+過去を超える思い出を=Ký ức vượt ra quá khứ
+全ての結晶に触れ、懐かしい思い出を見てきたムイミ。楽しかった過去に\n浸りたいという想いを振り切り、ムイミは進むことを決意する。昔の思い\n出を超える未来を作るために、彼女は目を覚ますのであった。=Muimi chạm vào tất cả các tinh thể và thấy ký ức hoài niệm.\nCô lắc lư trong ham muốn đắm mình vào quá khứ vui vẻ, và Muimi quyết định rời đi.\nCô thức tỉnh để tạo ra tương lai vượt qua ký ức cũ.
+不思議な結晶に触れ、様々な思い出を感じたムイミ。=Muimi chạm vào một tinh thể bí ẩn và cảm nhận nhiều ký ức khác nhau.

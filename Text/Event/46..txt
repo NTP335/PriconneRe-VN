@@ -1,0 +1,10 @@
+r:"^ガストロス山([0-9\-\(\)\w （）]*)$"=Địa Điểm Núi Gastros $1
+邪牛神モーモン=Thần Ác Bò
+
+勝利のおせち=Năm Mới Chiến Thắng
+
+みんなでおせちパーティー=Tiệc Tân Năm Của Mọi Người
+
+ノーマルクエスト・ハードクエストのクリア時に出現することがあります=Có thể xuất hiện khi nhiệm vụ thường/nhiệm vụ khó đã được hoàn thành
+集合写真追加=Thêm ảnh chụp nhóm
+「みんなでおせちパーティー」に\n集合写真が追加されました。=Một bức ảnh chụp nhóm đã được thêm vào\n"Tiệc Tân Năm".

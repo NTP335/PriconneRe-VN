@@ -1,0 +1,171 @@
+通常=Bình thường
+Pアリーナ=P.Arena
+Bアリーナ=B Arena
+アリーナ=Đấu trường
+マスター=Chủ nhân
+限定=Thưởng
+購入する=Mua
+r:"^所持数：(\d+)$"=Đang giữ: $1
+sr:"^(\d+月)(\d+)日まで販売中$"=Giảm giá đến $2 $1
+残り0回=Hết hàng
+r:"^残り(\d+)回$"=Còn $1 lần
+ダンジョンショップ=Cửa hàng Hầm ngục
+残り購入回数=Còn lại
+すべて選択=Chọn tất cả
+全て解除=Xóa
+全て選択=Chọn tất cả
+すべて解除=Hủy
+[FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Nhân vật giới hạn không thể\nmở khóa bằng Mảnh Ký ức.[-]
+主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=Chủ nhân, hãy cùng chuẩn bị cho chuyến đi nhé. Điều đó sẽ tạo nên một cuộc phiêu lưu còn trọn vẹn hơn.
+
+これ以上、\n購入できません=Không thể mua thêm.
+これ以上、\\n購入できません=Không thể mua thêm.
+所持コイン=Xu hiện có:
+これ以上購入回数を減らせません。=Không thể giảm số lượng mua thêm nữa.
+ポーション=Đề Cao Kinh Nghiệm
+r:^"([0-9,]+)でまとめて購入する$"=Mua tất cả với: $1
+まとめて購入する=Mua tất cả
+---Confirm---
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]Dùng $1 × [FFBB00,CE4F00]$2[-]\nđể mua các vật phẩm sau?[-]
+
+---Bough List---
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]Bạn đã dùng $1 × [FFBB00,CE4F00]$2[-]\n để mua các vật phẩm sau.[-]
+
+sr:"^(?:\[3C404E\])?(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\]([0-9,]+)\[-\]を購入しました。(?:\[-\])?$"=[3C404E]Bạn đã dùng $1 × [FFBB00,CE4F00]$2[-] để mua\n$3 × [FFBB00,CE4F00]$4[-].[-]
+
+---sort order---
+ピュアメモリー\nピースのみ=Chỉ dùng Mảnh Ký ức\nThuần túy
+メモリーピースのみ=Chỉ dùng Mảnh Ký ức
+表示項目=Hiển thị vật phẩm
+ポジション=Vị trí
+価格順=Giá
+入手順=Ngày
+決定=OK
+
+---purchase window---
+購入完了=Mua thành công
+ショップを閉じる=Đóng cửa hàng
+購入確認=Mua vật phẩm?
+所持マナ=Mana hiện có:
+女神の秘石必要数確認=Xác nhận Đổi Pháp Lệnh Thiêng
+
+---bonus---
+マスターショップ （開店準備中）=Cửa hàng Chủ nhân (Đang chuẩn bị)
+マスターショップ (開店準備中)=Cửa hàng Chủ nhân (Đang chuẩn bị)
+マスターコイン獲得で解放=Mở khóa bằng cách nhận được Xu Chủ nhân
+限定ショップ （準備中）=Cửa hàng Bonus (Đã đóng)
+
+限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=Số lần Cửa hàng Bonus có thể xuất hiện tối đa đã đạt được, và Cửa hàng Bonus sẽ không xuất hiện cho đến 04:59(JST).
+
+ショップ閉店確認=Đóng cửa hàng
+[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]Bạn có muốn đóng Cửa hàng Bonus hôm nay ngay bây giờ không?\n\nLần mở tiếp theo sẽ là [FFBB00,CE4F00]sau 05:00(JST).[-][-]
+
+限定ショップ=Cửa hàng Bonus
+必要マナ=Yêu cầu Mana
+
+限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=Cửa hàng Bonus đã có thêm vật phẩm mới.
+
+本日の出現数=Xuất hiện
+限定ショップは開かれていません。=Cửa hàng Bonus chưa mở.
+今日の出現回数上限に達しました。\n回数上限は05:00にリセットされます。=Số lần xuất hiện tối đa cho hôm nay đã đạt được và sẽ được reset lúc 05:00.
+購入するアイテムを選択してください。=Hãy chọn vật phẩm để mua.
+購入できるアイテムがありません。=Không có vật phẩm nào có thể mua.
+---master shop---
+マスターコイン上限確認=Giới hạn Xu Chủ nhân
+マスターコインはプレイヤーLvと所持EXPが上限に達した状態でスタミナ消費した際に獲得できます。=Xu Chủ nhân có thể nhận được khi tiêu hao thể lực sau khi cấp và EXP của người chơi đã đạt tối đa.
+現在の獲得状況=Trạng thái hiện tại
+コイン獲得上限確認=Giới hạn Master Coin
+リセット対象のアイテムがありません。=Không có vật phẩm nào để đặt lại.
+
+r:"^(\d+)で一部ラインナップを今すぐ更新$"=Đặt lại một số đội hình: $1
+r:"^([0-9,]+)で今すぐ更新$"=$1: Đặt lại
+r:"^([0-9,]+)で一部更新$"=$1: Đặt lại một số.
+一部ラインナップは毎日5:00更新=Một số đội hình được đặt lại hàng ngày lúc 5:00 (JST)
+r:"^([0-9/]+) 枚$"=$1 Coin
+
+
+sr:"^(.{4,20})不足$"=Không đủ $1
+sr:"^購入に必要な(.{4,20})が不足しています。$"=Không đủ $1 để mua.
+バトルアリーナへ=Đến Đấu Trường
+プリンセスアリーナへ=Đến Đấu Trường Công Chúa
+ダンジョンへ移動しますか?=Chuyển đến Hầm Ngục?
+プリンセスアリーナへ移動しますか?=Chuyển đến Đấu Trường Công Chúa?
+バトルアリーナへ移動しますか?=Chuyển đến Đấu Trường?
+
+
+---npc---
+主さま、マスターコインをマスターショップで入手困難なアイテムと\n交換できるようです。プレイヤーLvを上限まで上げた後、スタミナを消費\nすることでマスターコインが手に入るようです。=Chủ nhân, dường như ngài có thể đổi Master Coins lấy các vật phẩm khó có được tại Cửa Hàng Master. Khi đã đạt cấp độ người chơi tối đa, ngài có thể nhận Master Coins từ việc tiêu hao thể lực khi đạt giới hạn EXP.
+---Divine Amulet---
+在のメモリーピース1個あたりの単価=Giá mỗi Mảnh:
+現在のメモリーピース1個あたりの単価=Giá mỗi Mảnh:
+対象アイテムのメモリーピース個あたりの単価が=Giá mỗi Mảnh Ký Ức:
+
+ピュアメモリーピース1個あたりの単価=Giá mỗi Mảnh Ký Ức Thuần Khiết:
+ピュアメモリーピース単価一覧=Bảng giá Mảnh Ký Ức Thuần Khiết
+ピュアメモリーピース購入時の、1個あたりの女神の秘石の\n必要数の詳細は下記をご覧ください。=Xem bên dưới để biết chi tiết số lượng Bùa Thần Cần Thiết cho mỗi Mảnh khi mua Mảnh Ký Ức Thuần Khiết.
+
+メモリーピース購入数=Số lượng Mảnh Ký Ức đã mua
+そのまま購入=Chỉ cần mua cái đó
+r:"^([0-9,]+)で購入$"=mua $1
+★6才能開花に必要な数を超えています。=Vượt quá số lượng cần thiết cho Thăng Cấp *6.
+[FF7C4E,D62146]専用装備１作成に必要な数を超えています。[-]=[FFF7C4E,D621446]Số lượng này vượt quá yêu cầu để tạo vật phẩm UE-1.[-]
+[FF7C4E,D62146]専用装備１作成に必要な数を所持しています。[-]=[FFF7C4E,D621446]Bạn có đủ số lượng cần thiết để tạo UE-1.[-]
+[FF7C4E,D62146]専用装備２作成に必要な数を超えています。[-]=[FFF7C4E,D621446]Số lượng này vượt quá yêu cầu để tạo vật phẩm UE-2.[-]
+[FF7C4E,D62146]専用装備２作成に必要な数を所持しています。[-]=[FFF7C4E,D621446]Bạn có đủ số lượng cần thiết để tạo UE-2.[-]
+[FF7C4E,D62146]専用装備１の最大上限解放に必要な数を所持しています。[-]=[FF7C4E,D62146]Đã có đủ số lượng cần thiết để mở khóa giới hạn tối đa của UE-1.[-]
+[FF7C4E,D62146]専用装備１の最大上限解放に必要な数を超えています。[-]=[FF7C4E,D62146]Đã vượt quá số lượng cần thiết để giải phóng giới hạn tối đa của UE-1.[-]
+
+
+必要素材が不足しています。=Nguyên liệu cần thiết không đủ.
+[FF7C4E,D62146]コネクトランク最大上限解放に\n必要な数を所持しています。[-]=[FF7C4E,D62146]Đang sở hữu đủ số lượng cần thiết để\ngiải phóng giới hạn tối đa Connect Rank.[-]
+
+
+使用可能なスロットがありません。=Không có ô sử dụng được.
+sr:"^\[FF7C4E,D62146\]([べ-・ー＆]{2,11})(\（.{2,10}\）)?の専用装備(.)を\n(.)段階強化するのに必要な数を超えています。\[-\]$"=[FFF7C4E,D621446]Bạn có đủ số lượng cần thiết để nâng cấp\nTrang Bị Độc Nhất của $1$2-$3 lên $4 cấp.[-]
+
+sr:"^\[FF7C4E,D62146\]([べ-・ー＆]{2,11})(\（.{2,10}\）)?の専用装備２を\n作成するのに必要な数を所持しています。\[-\]$"
+[FF7C4E,D62146]ミオ（デレマス）の専用装備(.)を\n作成するのに必要な数を所持しています。[-]=[FFF7C4E, D621446] Bạn có đủ số lượng cần thiết để tạo Trang Bị Độc Nhất của $1$2-$3.[-]
+
+[FF7C4E,D62146]専用装備１作成に必要な数を超えています。[-]=[FFF7C4E,D621446]Số lượng này vượt quá yêu cầu để tạo vật phẩm Trang Bị Độc Nhất-1.[-]
+[FF7C4E,D62146]専用装備１作成に必要な数を所持しています。[-]=[FFF7C4E,D621446]Bạn có đủ số lượng cần thiết để tạo Trang Bị Độc Nhất-1.[-]
+
+[FF7C4E,D62146]専用装備２作成に必要な数を超えています。[-]=[FFF7C4E,D621446]Số lượng này vượt quá yêu cầu để tạo vật phẩm Trang Bị Độc Nhất-2.[-]
+[FF7C4E,D62146]専用装備２作成に必要な数を所持しています。[-]=[FFF7C4E,D621446]Bạn có đủ số lượng cần thiết để tạo Trang Bị Độc Nhất-2.[-]
+
+キャラLv限界突破に必要な数が含まれています。\n専用装備１の上限解放に必要な数を購入できます。=Chứa số lượng cần thiết để Vượt Giới Hạn nhân vật.\nBạn có thể mua số lượng cần thiết để mở khóa Unique Equipment 1.
+特定の強化分の購入数を超えています。\nそのまま購入しますか？=Vượt quá số lượng cần thiết cho việc nâng cấp UE.\nBạn có muốn tiếp tục mua?
+★5に必要な個数まで指定できます。=Bạn có thể chỉ định lên số lượng bạn cần cho ★5.
+★4に必要な個数まで指定できます。=Bạn có thể chỉ định lên số lượng bạn cần cho ★4.
+★3に必要な個数まで指定できます。=Bạn có thể chỉ định lên số lượng bạn cần cho ★3.
+★2に必要な個数まで指定できます。=Bạn có thể chỉ định lên số lượng bạn cần cho ★2.
+限定ショップは開かれていません=Cửa Hàng Thưởng chưa mở
+メモリーピース購入数=Số lượng Mảnh Ký Ức đã mua
+以下のアイテムを購入しますか?=Bạn có mua các vật phẩm sau không?
+メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=Số lượng Bùa Thần Cần Thiết cho mỗi Mảnh\nphụ thuộc vào số lượng Mảnh Ký Ức đã mua.\nXem bên dưới để biết chi tiết.
+メモリーピース単価一覧=Bảng giá đơn vị Mảnh Ký Ức
+sr:"^([べ-ヺー＆＝]+)(（.+）)?のメモリーピースの購入数が(\d)になりました。$"=Số lần mua của $1$2 hiện là $4.
+
+r:"^(\d)個になります。$"=$1 mỗi Mảnh
+
+対象アイテム1個あたりの単価が=Đơn giá cho mỗi vật phẩm mục tiêu là
+sr:"^([べ-ヺー＆＝]+) ?(（.+）)?の\nメモリーピースの購入数が(\d+)になりました。$"=Tổng số lần mua\nMảnh Ký ức của $1$2 là $3.
+---Reset---
+一部毎日5:00更新=Làm mới một số Nhiệm vụ hàng ngày lúc 5:00 (JST)
+
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Dùng $1 ×[FFBB00,CE4F00]$2[-]\nđể làm mới nội dung cửa hàng?[-]
+
+r:"^\[3B3F4D\]マスターコイン×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n?以下のアイテムをリセットしますか？\[-\]$"=[3B3F4D]Dùng Master Coin ×[FFBB00,CE4F00]$1[-]\nđể làm mới các vật phẩm sau?[-]
+[FF7C4E,D62146]リセット対象外のアイテムはリセットされません。[-]=[FF7C4E,D62146] Các vật phẩm không đủ điều kiện làm mới sẽ không được làm mới.[-]
+リセット対象外のアイテム=Vật phẩm không được làm mới
+リセット対象のアイテム=Vật phẩm sẽ được làm mới
+r:"^次回ラインナップは(\d+):00更新$"=Lần làm mới tiếp theo lúc $1:00 (JST)
+毎日5:00ラインナップ更新=Làm mới Nhiệm vụ hàng ngày lúc 5:00 (JST)
+毎日5:00更新　出現数4/5
+r:"^毎日5:00更新　出現数(\d)/5$"=Làm mới Nhiệm vụ hàng ngày lúc 5:00 (JST) Tăng:$1/5
+
+r:"^本日の出現数　([0-9/]+)回$"=Xuất hiện hôm nay: $1
+メインクエストのクリア時に\n出現することがあります。=Thỉnh thoảng xuất hiện sau khi\nhoàn thành Nhiệm vụ chính.
+
+獲得したアイテムは直接付与されます。=Vật phẩm nhận được sẽ được thêm trực tiếp.
+交換しました。=Đã đổi.
+ピース交換完了=Hoàn thành đổi mảnh

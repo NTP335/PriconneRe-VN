@@ -1,0 +1,146 @@
+女性=Phụ nữ
+アクドーイ=Krook
+猫たち=Mèo
+ねえ{playername}！=Này, {playername}!
+捕らわれていたタマキを脱出させた{playername}。実はファントムキャッツが捕らえられた一連の事件は、悪徳商人アクドーイの陰謀だった。タマキたちはアクドーイを倒し、その金を町中にばらまく。={playername}, người đã trốn cùng với Tamaki, người đã bị bắt. Thực tế, chuỗi sự kiện trong đó Phantom Cat bị bắt là một âm mưu của Krook'd & Co. Tamaki và bạn bè cô ấy đã đánh bại Krook và rải tiền của hắn khắp thị trấn.
+悪党「アクドーイ商会」を倒したタマキに促され、\n泥棒の犯行予告があった家の\n用心棒になった{playername}。={playername}, người được Tamaki thúc giục, người đã đánh bại kẻ xấu 'Krook'd & Co', trở thành bảo vệ tại ngôi nhà có thông báo về tội trộm.
+実際に泥棒を捕まえてみたところ、それはタマキだった。\nタマキは何かの間違いだと言うが、美少女義賊・\nファントムキャッツの正体は衆目に晒されてしまう。=Khi thực sự bắt được kẻ trộm, đó lại là Tamaki. Tamaki nói đó là một sự nhầm lẫn, nhưng danh tính của nữ trộm xinh đẹp Phantom Cat đã bị lộ trước mọi người.
+タマキはそのまま王宮騎士団に連行されていったが、\n王宮騎士団の去った後にはなぜか、\n「アクドーイ商会」の名刺が落ちていたのだった。=Tamaki bị Hiệp sĩ Hoàng gia dẫn đi, nhưng sau khi Hiệp sĩ Hoàng gia rời đi, có một tấm danh thiếp của "Krook'd & Co" nằm trên mặt đất.
+おい、聞いたか、ファントムキャッツのこと。\n善良な人の家に泥棒に入って\n王宮騎士団に捕まったって噂が……=Này, cậu có nghe về Phantom Cat không? Hắn đã đột nhập vào nhà một người tốt và bị Hiệp sĩ Hoàng gia bắt được...
+ああ。\n善人からも金を盗み取るなんて、ついに正体を現したな。=Ừ. Hắn còn trộm tiền của người tốt nữa. Cuối cùng hắn cũng lộ bản chất thật rồi.
+私、ファントムキャッツのこと、\n信じてたのに、裏切られた気分……=Tôi đã tin tưởng Phantom Cat, nhưng giờ cảm thấy bị phản bội...
+結局、義賊なんてのはいなかったんだよ。=Cuối cùng thì cũng không có kẻ trộm chính nghĩa nào cả.
+街全体に、堕ちた義賊・ファントムキャッツの話題が\n広まり始めたその夜──=Cả thị trấn bắt đầu bàn tán về kẻ trộm chính nghĩa Phantom Cat đã sa ngã đêm hôm đó──
+……タマキ。=...Tamaki.
+……にゃ？　独房の外から声が聞こえてくるにゃ……=...nya? Tôi nghe thấy giọng nói từ bên ngoài phòng giam...
+この声は……{playername}！？\nどうしてここに……=Giọng này là...{playername}!?\nLàm sao cậu vào được đây...
+あたしと話に来た……？\nそっか……わざわざあたしと話すために、\n留置所まで来てくれたにゃんて……=Cậu đến để nói chuyện với tôi...? Tôi hiểu rồi...cậu đã đi hẳn đến trung tâm giam giữ để nói chuyện với tôi...
+もう、あたしは{playername}と話せないかもしれないから……\n今までのこと、全部謝っておくにゃ。=Có lẽ tôi sẽ không thể nói chuyện với {playername} nữa...\nnên tôi xin lỗi vì tất cả những gì tôi đã làm trước đây.
+……義賊のこと、今まで色々黙っててごめんにゃ。\nそれから結果的にキミに片棒を担がせてたことも……=...Xin lỗi vì đã giấu kín về chuyện kẻ trộm chính nghĩa.\nVà vì đã để cậu tham gia vào đó...
+あたし、最近うまくいきすぎて、\n調子に乗ってたのかもしれないにゃ……=Tôi nghĩ mình có thể đã để cảm xúc chi phối gần đây...
+そのせいで、よく調べもせずに、\n無実の人の家に泥棒に入ってしまったにゃ……=Vì vậy, tôi đã đột nhập vào nhà một người vô tội mà không kiểm tra...
+今思えば、あの時{playername}が止めてくれて\n本当によかったのにゃ。ていうか、キミの言うことを聞いて、\n慎重に活動してれば、もっとよかったのにゃ……=Bây giờ nghĩ lại~nya, thật may mắn là {playername} đã ngăn tôi lại lúc đó~nya. Hay nói đúng hơn, nếu tôi đã lắng nghe cậu và hành động cẩn thận~nya, thì tốt hơn~nya...
+本当にごめんにゃ……\nもしかしたら、以前のことも遡って、\nキミにも責任が追及されるかもしれないにゃ。=Tôi thực sự xin lỗi...có lẽ họ sẽ quay lại và buộc cậu chịu trách nhiệm nữa.
+でも、安心してほしいのにゃ。\nなんとかして、{playername}はこの先、\n罪に問われることのないよう努力するのにゃ。=Nhưng đừng lo~nya.\nTôi sẽ cố gắng hết sức để đảm bảo cậu không bị rắc rối vì chuyện này, {playername}~nya.
+ぜんぶ、ぜーんぶあたしが悪いって……\n裁判でも、そう証言するのにゃ。\nだから──=Tôi sẽ làm chứng tại tòa rằng tôi hành động một mình~nya. Vì vậy──
+だから、この会話の後から、{playername}は……\nあたしと、無関係の人間になるにゃ。=Vì vậy, từ sau cuộc nói chuyện này~nya, {playername}...cậu sẽ không còn liên quan gì đến tôi~nya.
+今までいろいろ、お世話になったにゃ。=Cảm ơn vì tất cả những gì cậu đã làm cho tôi~nya.
+思い返せば、キミには助けられてばっかりだったにゃ。\n初めて会った時も……子猫がいなくなった時も……\nあたしが義賊をしてたときも……=Khi nhìn lại, cậu luôn giúp đỡ tôi~nya. Lần đầu chúng ta gặp nhau~nya...khi chú mèo con biến mất~nya...khi tôi là kẻ trộm chính nghĩa~nya...
+ねえ、{playername}。\n今まで、{playername}と過ごした時間、楽しかったにゃ。=Này, {playername}. Tôi vui khi được ở bên cậu~nya.
+……ありがとうにゃ……=...Cảm ơn~nya...
+それじゃあ、あと３秒で\n{playername}はあたしと無関係になるにゃ。３、２、１……=Vậy thì, sau 3 giây {playername} và tôi sẽ trở thành người xa lạ~nya. 3, 2, 1...
+手に握っている物を壁に投げつける。=Ném thứ gì đó vào bức tường.
+にゃふっ？\nにゃーーーっ！？=Nya-fu?\nNya-ah!
+けほっ、にゃふっ！\nな、なにが起きたのにゃ……！？=Ho~nya-fu! Chuyện gì vậy~nya...!?
+これは……留置所の壁が……=Đây là...bức tường của trung tâm giam giữ...
+{playername}っ……！\nもしかして、助けてくれたにゃ……？={playername}...!\nCậu đã cứu tôi~nya...?
+すんすん……この匂いは、火薬……？\nもしかして爆弾で、牢を爆破したのにゃ……？=Hít hà...mùi này là thuốc súng...?\nCậu đã thổi bay buồng giam bằng bom~nya...?
+{playername}のばかばかっ！\n壁を壊してまで留置場からあたしを脱走させて……=Đồ ngốc {playername}! Cậu đã phá tường và giúp tôi trốn khỏi trung tâm giam giữ...
+場合によっては、キミもお尋ね者になるかもしれないにゃ。\nそれでも……よかったのにゃ！？=Tùy tình hình, cậu có thể trở thành người bị truy nã nữa~nya. Dù vậy...có ổn không~nya!?
+……え？\n後ろを見ろって……あーっ！　ここは！=...Hả? Nhìn phía sau...à! Đây là!
+この前、あたしが盗みに入った屋敷……\nアクドーイ商会の屋敷にゃ！=Biệt thự tôi đã đột nhập trước đây...biệt thự của Krook'd & Co.~nya!
+留置所じゃなかったのかにゃ……？\nってことは、あの騎士団は、アクドーイの手下だった？\nだとしても、アクドーイはなんでこんなことを……=Trước đây không phải là nhà tù~nya...? Vậy thì, những hiệp sĩ đó là tay sai của Krook? Nhưng tại sao Krook lại làm chuyện như vậy...
+あなたたち、ちょっとお待ちなさい！=Các người, đợi một chút!
+っ！？\nお前は……アクドーイ！=Hả!? Ngươi là... Krook!
+アクドーイ、どうしてこんなことをしたのにゃ。\nあたしに復讐するなら、ここに直接誘い込めばよかったにゃ。=Krook, tại sao ngươi lại làm chuyện như vậy~nya. Nếu ngươi muốn trả thù tôi, ngươi có thể dụ tôi đến đây trực tiếp~nya.
+ふっふっふ、こないだはお世話になりましたね、タマキさん。\nどうしてこんなことをしたかって……？\nあなたをただ殺しても、私の復讐は完成しないからです！=Fufufu, cảm ơn vì ngày hôm trước, Tamaki-san. Tại sao tôi lại làm chuyện như vậy...? Bởi vì giết ngươi sẽ không hoàn thành được mối thù của tôi!
+復讐が完成、にゃ……？=Hoàn thành mối thù~nya...?
+私の目的、それは……\n近頃世間でちやほやされている義賊・ファントムキャッツの\n名声を地に落とすことだったんですよ。=Mục tiêu của tôi, đó là... phá hủy danh tiếng của kẻ trộm chính nghĩa Phantom Cat vốn được công chúng ca ngợi gần đây.
+ちょっと目安箱に手紙でも入れれば、調子に乗って\n貧乏な家にも泥棒に入るんじゃないかと考えたんですが、\n狙い通りでした。=Tôi nghĩ nếu tôi bỏ một lá thư vào hộp thư góp ý, chúng sẽ để cảm xúc chi phối và đột nhập vào những ngôi nhà nghèo nữa, và nó đã thành công như kế hoạch.
+どこまでも、ずるがしこいやつだにゃ……！=Ngươi thật là một kẻ xảo quyệt và lén lút~nya...!
+しかし、ファントムキャッツ。\nあなたがこうしてすぐ調子に乗ることは事実です。\nそれでもまだ、義賊なんて行為を続ける気ですか？=Nhưng, Phantom Cat.\nĐúng là ngươi dễ để cảm xúc chi phối như vậy.\nNgươi vẫn còn ý định tiếp tục hành động kẻ trộm chính nghĩa của mình chứ?
+いつまた私のような者に騙されるともしれずにね！\nはーーーーっはっはっは！=Cậu sẽ không bao giờ biết khi nào sẽ bị một kẻ như tôi lừa lại! Hahahahaha!
+……確かに、こないだのあたしは、\nうっかり間違えてしまったかもしれないにゃ。=...Đúng vậy, có lẽ tôi đã mắc sai lầm ngày hôm trước~nya.
+……でも、これからのあたしには\n今までと違うことがあるのにゃ。=...Nhưng, có điều gì đó khác biệt ở tôi bây giờ~nya.
+……今までと違うこと、ですか……？\nなんですか、それは！=...Điều khác biệt, ngươi nói...? Là gì!
+それは、あたしのそばには{playername}が\nいてくれるってことにゃ！　確かに、あたしは気まぐれだし、\nよく考えないで突っ走っちゃうこともあるかもしれないにゃ。=Đó là vì {playername} ở bên cạnh tôi~nya! Đúng vậy, tôi tính tình khó đoán và thường xông vào mà không suy nghĩ~nya.
+あたし一人なら間違いもあるかもしれないけど……でも……！=Nếu một mình thì em có thể mắc lỗi, nhưng... nhưng...!
+でも、{playername}がそばにいてくれるなら……！\n二人なら違うにゃ！=Nhưng miễn là {playername} ở bên cạnh...! Cùng nhau thì khác hẳn~nya!
+それに、もし二人とも間違ってても、\n一緒に地獄に落ちる覚悟はできてるにゃ！=Và ngay cả khi cả hai đều sai, chúng ta cũng sẵn sàng cùng nhau rơi xuống địa ngục~nya!
+くそ……こわっぱがああっ！\n死になさいっ！！=Chết tiệt... đồ nhãi! Chết đi!!
+タマキ、危ない！=Tamaki, cẩn thận!
+タマキを守る。=Bảo vệ Tamaki.
+大丈夫にゃ！\nよっ、と！=Không sao~nya!\nBắt đầu thôi!
+にゃ、にゃ、にゃっ！\nこれで……どうにゃ！=Nya~nya~nya! Còn cái này thì sao...~nya!
+ぐっ……！？　は、離しなさい！=Guhh...!? T-tảo tay ra!
+{playername}、今にゃ！={playername}, bây giờ~nya!
+っがはっ……！　こん、な……バカな……=Gahh...! C-cái này... không thể nào...
+ナイスにゃ、{playername}。\nアクドーイは気絶したようだにゃ。\nいまのうちにずらかるにゃ！=Tốt lắm, {playername}. Krook dường như đã bất tỉnh~nya. Tụi mình đi khỏi đây đi trước khi có thể~nya!
+あっ……そうだ、どうせなら……！\nちょっと待っててほしいにゃ、{playername}！=À... Đúng rồi, nếu cậu định làm...! Làm ơn chờ một chút, {playername}, meow!
+…………うんしょっと。ふう。=............xong rồi. Phew.
+この風呂敷を見るにゃ。\nにゃはは、たっぷり盗んできたにゃ。\nアクドーイ商会の、あくどく貯めたお金にゃ。=Nhìn cái túi vải này~nya.~nyaha, tụi mình đã lấy được nhiều tiền từ Krook'd & Co. Tiền mà họ tích lũy bằng những phương pháp đáng ngờ.
+これをばらまけば、アクドーイも痛い目を見て、\n街のみんなも喜ぶにゃ！　だから、ばらま……あっ！=Nếu tụi mình rải tiền này ra, Krook sẽ khổ và mọi người trong thị trấn sẽ vui mừng! Vậy nên hãy rải nó... à!
+これをばらまいても……いいかにゃ？　{playername}？=Rải cái này có ổn không...~nya? {playername}?
+派手に行こう！=Cứ thả ga đi!
+……ありがとにゃ、{playername}。\nそれじゃあ、行くにゃ！=...Cảm ơn cậu, {playername}.\nVậy thì, đi thôi!
+さあ、みんな！\nこのお金を、好きなだけばらまくにゃ！=Lên nào, mọi người!\nHãy rải tiền này thỏa thích!
+にゃー！=Nya!
+よしよし！\nそれじゃあみんな、行くにゃ！=Được rồi! Vậy thì mọi người cùng đi thôi!
+にゃーーー！　街のみんにゃ！\nこれは、ご迷惑かけたファントムキャッツの、お詫びにゃ──！=Nya-nya! Mọi người trong thị trấn! Đây là lời xin lỗi từ Phantom Cat - kẻ đã gây phiền phức cho các người-nya-!
+……これでよし、と。=...Vậy là đủ rồi.
+にゃ、にゃ、にゃー！\nこないだ間違えて泥棒に入って、ご迷惑をおかけしたお家にも、\nしっかりばらまいてきたにゃ！=Nya-nya-nya! Tụi mình cũng đã rải tiền vào những ngôi nhà mà hôm kia vô tình đã đột nhập và gây phiền phức!
+
+何かと気まぐれで、早とちりで……\n間違いを起こすあたしだけど……=Em tính tình khó đoán, vội vàng và đôi khi mắc lỗi...
+……これからもよろしく頼むにゃ！=...Nhưng từ giờ hãy tiếp tục chăm sóc em nữa nhé!
+
+笑顔で言うタマキとともに、\n{playername}は残りの金をばらまくために、\n夜の街を駆けるのだった。=Cùng với Tamaki mỉm cười bên cạnh, {playername} chạy qua thị trấn đêm để rải phần tiền còn lại.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

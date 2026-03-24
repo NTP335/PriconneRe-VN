@@ -1,0 +1,39 @@
+３rdアニバーサリーフォトブック=Album Ảnh Kỷ Niệm 3 Năm
+フォト\nブック=Album Ảnh
+追憶の戦域=Chiến Trường Ký Ức
+追憶戦=Ký Ức
+追憶戦・覇=Ký Ức và Chinh Phục
+Reminiscence &\nConquestへ=Đến Ký Ức và Chinh Phục
+追憶戦・覇へ=Đến Ký Ức và Chinh Phục
+
+宝箱詳細=Chi Tiết Rương
+受け取り=Biên Lai
+次の報酬まで\n--:--=Cho đến phần thưởng tiếp theo:
+
+ゼーンの領域=Phạm Vi Của Zane
+r:"^ゼーンの領域(\d+)層$"=Cấp Độ Zane $1
+覇瞳皇帝の領域=Phạm Vi Của Kaiser Insight\n
+r:"^覇瞳皇帝の領域(\d+)層$"=Cấp Độ Kaiser Insight $1
+
+ミロクの領域=Phạm Vi Của Miroku
+r:"^ミロクの領域(\d+)層$"=Cấp Độ Miroku $1
+
+
+アラクネの領域=Phạm Vi Của Arachne
+r:"^アラクネの領域(\d+)層$"=Cấp Độ Arachne $1
+
+r:"^記憶領域(\d+)層$"=Giai Đoạn Ký Ức $1
+
+r:"^(\d+)層$"=Giai Đoạn $1
+r:"^記憶領域(\d+)層をクリアしよう$"=Hoàn thành Giai Đoạn $1 của Phạm Vi Ký Ức.
+追憶戦宝箱詳細=Chi Tiết Rương Ký Ức
+一定時間ごとにクリア済みの階層に応じて\n以下のアイテムが獲得できます。=Theo khoảng thời gian định kỳ, bạn có thể nhận được các vật phẩm sau tùy theo cấp độ bạn đã hoàn thành.
+記憶領域1層クリアで解放されます。=Hoàn thành Giai Đoạn 1 của Phạm Vi Ký Ức để mở khóa.
+r:"^次の報酬まで\n([0-9:]+)$"=Cho đến phần thưởng tiếp theo\n$1
+挑戦する難易度を変更できます。=Bạn có thể thay đổi độ khó thử thách.
+
+毎月更新 究極錬成パック=Gói Tổng Hợp Tối Thượng Hàng Tháng
+追憶戦・覇に挑戦しよう=Thử Thách Ký Ức và Chinh Phạt
+追憶戦の報酬を受け取ろう=Nhận Phần Thưởng Trận Nhớ Lại
+サーヴァント・ブレド=Lưỡi Kiếm Tòng Tộc
+サーヴァント・マギ=Pháp Sư Tòng Tộc

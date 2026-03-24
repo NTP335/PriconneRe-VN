@@ -1,0 +1,49 @@
+##Profile## 
+【物理】中衛で、強力な範囲攻撃を操る、忍術の使い手。範囲攻撃のスキルで敵を倒す事で、自分のＴＰを回復し、強力なユニオンバーストの発動頻度を上げる。=[Vật lý] Một ninja sử dụng đòn tấn công diện rộng mạnh mẽ từ vị trí giữa. Hồi TP cho bản thân bằng cách hạ gục kẻ thù với kỹ năng tấn công diện, cho phép cô sử dụng Union Burst hủy diệt thường xuyên hơn.
+
+忍法開発=Developing ninja arts
+Profile
+トーゴクの神秘、オシエテクダサイ！=Hãy dạy tôi tất cả những bí ẩn của Togoku!
+
+険しきセイシツへの道=Con đường khó khăn đến Seisitsu
+笑顔を作る力=Sức mạnh của nụ cười
+チューシン・ニノン誕生！=Chushin Ninon đã ra đời!
+新たな家来=Một thuộc hạ mới.
+
+風雲のユウギジョー！=Một ngày tuyệt vời để giải trí!
+ユメに向かってシノブデス=Giấc mơ của giới ninja
+開催！H－１グランプリ=H-1 Grand Prix đáng kinh ngạc!
+料理はアイジョーデス！=Nấu ăn như một samurai!
+合言葉は『天下統一』=Nhiệm vụ bất khả
+とっておきの忍法！=Vũ khí bí mật của ninja!
+町外れのクニトリ合戦！=Chinh phục vùng ngoại ô!
+炸裂！秘剣チュバメ切り=Đòn đánh bí mật: Slicey Swallow
+
+##UB##
+忍法・灼熱地獄=Ninpo: Địa ngục cháy bỏng
+
+##S1##
+旋風撃=Cuộc tấn công bão tố
+前方範囲内の敵すべてに物理小ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを中回復する。とどめを刺した敵の数に応じてＴＰの回復量が増加する。=Gây sát thương vật lý nhỏ cho tất cả kẻ địch trong phạm vi. Phục hồi TP của bản thân một lượng vừa phải nếu kẻ địch bị đánh bại bởi kỹ năng này.
+r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを150回復$"=Thời gian niệm: 1.85s\n►Gây $1 P.DMG cho kẻ địch trong phạm vi 750.\n►Phục hồi TP của bản thân 150 cho mỗi kẻ địch bị hạ.
+
+##S2##
+火炎扇=Quạt bùng cháy
+目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Gây sát thương vật lý vừa phải cho kẻ địch ngay phía trước và đẩy lùi chúng một chút.
+
+##EX##
+ホンノウジブースト=Honnoji Hustle
+ホンノウジブースト+=Honnoji Hustle+
+
+##UB+##
+忍法・烈火之紅蓮旋風=Ninpo: Cơn gió đỏ rực cháy
+前方範囲内の敵すべてに物理大ダメージを与え、自分の物理攻撃力を大アップさせ、ＴＰを小回復する。とどめを刺した敵の数に応じて物理攻撃力の上昇量とＴＰの回復量が増加する。=Gây sát thương cho tất cả kẻ địch trong phạm vi phía trước, tăng P.ATK của bản thân và phục hồi TP một chút. Lượng tăng P.ATK và lượng phục hồi TP tăng theo số kẻ địch bị hạ.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを100回復$"=►Gây $1 P.DMG cho kẻ địch trong phạm vi 815.\n►Tăng P.ATK của bản thân lên $2 trong 12s.\n►Phục hồi TP của bản thân 100.\n►Phục hồi TP của bản thân 200 cho mỗi kẻ địch bị hạ.
+
+##S1+##
+旋風撃+=Hurricane Assault+
+前方範囲内の敵すべてに物理中ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを特大回復する。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi. Phục hồi TP của bản thân một lượng lớn nếu kẻ địch bị đánh bại bởi kỹ năng này.
+r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを1000回復$"=Thời gian niệm: 1.85s\n►Gây $1 P.DMG cho kẻ địch trong phạm vi 750.\n►Phục hồi TP của bản thân 1000 cho mỗi kẻ địch bị hạ.
+
+##UE##
+紅蓮爆炎扇=Ngọn lửa đỏ rực

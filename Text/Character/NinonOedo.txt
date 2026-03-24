@@ -1,0 +1,31 @@
+##Profile## 
+【物理】最前衛で、忍法を駆使して敵と戦うクノイチ。ユニオンバーストはクリティカル時のダメージを１．５倍にする特性を持ち、うまくかみ合った時の威力は抜群。=[Vật lý] Một cô ninja từ hàng tiên phong tung ra các kỹ thuật đặc biệt vào kẻ địch. Khi Union Burst của cô trúng chí mạng, nó gây ra 1.5 lần sát thương của một đòn chí mạng thông thường, trở nên vô cùng mạnh mẽ trong hoàn cảnh phù hợp.
+
+##UB##
+忍法・フジヤマ手裏剣=Ninpo: Shuriken Fujiyama
+目の前の敵１キャラに物理特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý cực lớn lên kẻ địch đứng ngay phía trước. Khi kỹ năng này trúng chí mạng, sát thương sẽ tăng lên gấp ba thay vì gấp đôi.
+
+##S1##
+忍法・チュバメ返し=Ninpo: Swoopy Swallow
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch đứng ngay phía trước và giảm một chút phòng thủ vật lý của chúng.
+
+##S2##
+忍法・影分身の術=Ninpo: Shadow Clone no Jutsu
+自分の物理攻撃力を中アップさせ、さらに行動速度を大アップさせる。=Tăng sát thương vật lý của bản thân một chút và tăng cường tốc độ hành động của bản thân rất nhiều.
+
+##EX##
+忍法・剛力ハッスルの極み=Ninpo: Ultra Superstrength
+忍法・剛力ハッスルの極み+=Ninpo: Ultra Superstrength+
+
+##S1+##
+忍法・チュバメ返し+=Ninpo: Swoopy Swallow+
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý lên một kẻ địch phía trước và giảm phòng thủ vật lý của chúng. Sát thương khi kỹ năng này trúng chí mạng sẽ tăng gấp ba thay vì gấp đôi.
+
+##S2+##
+忍法・影分身の術+=Ninpo: Shadow Clone no Jutsu+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、自分の行動速度を大アップさせ、ＴＰを大回復する。=Tăng sát thương vật lý của bản thân rất nhiều, tăng sát thương chí mạng vật lý một chút, tăng tốc độ hành động rất nhiều và hồi lại lượng TP lớn.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分の行動速度アップ自分のＴＰを500回復$"=►Tăng sát thương vật lý của bản thân lên $1 trong 180s.\n►Tăng sát thương chí mạng vật lý của bản thân lên 10% trong 180s.\n►Tăng tốc độ hành động của bản thân lên 200%.\n►Hồi lại 500 TP cho bản thân.
+
+##UE##
+なりきりクノイチセット=Narikiri Kunoichi Set
+スゴウデクノイチセット=Awesome Dekunoichi Set

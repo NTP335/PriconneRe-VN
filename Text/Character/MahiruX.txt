@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で味方を支援し、守護する聖夜の牧場主。範囲内の敵をノックバックさせることで相手の隊列を崩し全体物理バリア展開と単体ＨＰ回復で激戦を勝利に導く。=[Vật Lý] Chủ trang trại của đêm thánh, hỗ trợ và bảo vệ đồng minh ở hàng giữa. Bằng cách đẩy lùi kẻ thù trong tầm, cô phá rối hàng ngũ của chúng và dẫn đầu trận chiến đến chiến thắng với việc triển khai rào cản vật lý phạm vi rộng và hồi phục HP cho một mục tiêu.
+
+##UB##
+エリザベスドリームランド=Elizabeth Dreamland
+味方全体の物理防御力を中アップさせ、さらに物理無効バリアを展開する。=Tăng trung bình Phòng Thủ Vật Lý cho tất cả đồng minh và triển khai Màn Chắn cho tất cả đồng minh, hấp thụ Sát Thương Vật Lý.
+r:"^味方全体の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Tăng Phòng Thủ Vật Lý của đồng minh lên $1 trong 18s.\n►Triển khai Màn Chắn cho tất cả đồng minh, hấp thụ $2 Sát Thương Vật Lý trong 18s.
+
+##S1##
+セイントハーベスト=Mùa Gặt Thánh
+最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに物理防御力を中アップする。=Hồi HP cực lớn cho đồng minh có HP thấp nhất và tăng Phòng Thủ Vật Lý của họ một lượng trung bình.
+
+##S2##
+ワイルドホイール=Bánh Xe Hoang Dã
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに行動速度を大ダウンさせ、大きく吹き飛ばす。範囲内の敵の数に応じて吹き飛ばしの距離がダウンする。=Gây lượng Sát Thương Vật Lý trung bình lên kẻ thù trong phạm vi của kẻ thù phía trước nhất, giảm mạnh tốc độ hành động của chúng và đánh bay chúng. Khoảng cách đánh bay phụ thuộc vào số kẻ thù trong phạm vi.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の行動速度を一定時間低下させる$"=►Gây $1 Sát Thương Vật Lý lên kẻ thù trong phạm vi 150.\n►Giảm tốc độ hành động của kẻ thù trong phạm vi 150 xuống 60% trong 12s.\n►Đẩy lùi kẻ thù 600 đơn vị.
+
+##EX##
+クリスマスファーミング=Nông Nghiệp Giáng Sinh
+クリスマスファーミング+=Nông Nghiệp Giáng Sinh+
+
+##S1+##
+セイントハーベスト+=Mùa Gặt Thánh+
+最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに物理防御力を中アップする。さらに味方全体の物理攻撃力を大アップし、ＨＰとＴＰを小回復する。=Hồi HP cực lớn cho đồng minh có HP thấp nhất và tăng Phòng Thủ Vật Lý của họ một lượng trung bình. Ngoài ra, tăng mạnh Tấn Công Vật Lý cho tất cả đồng minh và hồi nhẹ HP và TP của họ.
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)アップ味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを(\d+)回復味方全体のＨＰを(\d+)回復$"=►Hồi HP của đồng minh lên $1.\n►Tăng Phòng Thủ Vật Lý của đồng minh lên $2 trong 12s.\n►Tăng Tấn Công Vật Lý của tất cả đồng minh lên $3 trong 12s.\n►Hồi TP của tất cả đồng minh lên $4.\n►Hồi HP của tất cả đồng minh lên $5.
+
+##UE##
+大聖牧杖エリザベス=Gậy Thánh Lớn Elizabeth

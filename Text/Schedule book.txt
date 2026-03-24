@@ -1,0 +1,50 @@
+予定帳=Lịch trình
+主さま、ご用事が立て込んでいらっしゃるようですね。\n日々のご予定の管理はわたくしにおまかせくださいまし。=Chủ nhân, dường như ngài có nhiều việc cần xử lý.\nXin hãy để em quản lý các nhiệm vụ hàng ngày của ngài.
+
+まとめておまかせ=Hoàn Tất Tất Cả
+リストの設定=Cài đặt Danh Sách
+実行=Thực hiện
+
+メインかイベントクエストを10回クリアしよう=Hoàn thành "Nhiệm vụ Chính" hoặc "Nhiệm vụ Sự kiện" 10 lần
+メインかイベントクエストを20回クリアしよう=Hoàn thành "Nhiệm vụ Chính" hoặc "Nhiệm vụ Sự kiện" 20 lần
+イベントクエストを10回クリアしよう=Hoàn thành "Nhiệm vụ Sự kiện" 10 lần
+メイン(HARD、VERY HARD)かイベントクエスト(HARD)を3回クリアしよう=Hoàn thành Nhiệm vụ Chính/Sự kiện KHÓ/RẤT KHÓ 3 lần
+バトルアリーナで1回戦おう=Tham gia "Đấu Trường" 1 lần
+プリンセスアリーナで1回戦おう=Tham gia "Đấu Trường Công Chúa" 1 lần
+アリーナコインを1回受け取ろう=Thu thập Xu Đấu Trường 1 lần
+プリンセスアリーナコインを1回受け取ろう=Thu thập Xu Đấu Trường Công Chúa 1 lần
+ギルドハウスでアイテムを受け取ろう=Thu thập vật phẩm tại Nhà Bang Hội
+マナクエストを残り挑戦回数分クリアしよう=Hoàn thành các nhiệm vụ Mana còn lại
+経験値クエストを残り挑戦回数分クリアしよう=Hoàn thành các nhiệm vụ Rượu Tăng EXP còn lại
+ノーマルガチャを引こう=Rút Gacha Thường
+
+イベントのデイリーミッション報酬を受け取ろう=Nhận thưởng nhiệm vụ hàng ngày sự kiện
+ダンジョンを1回クリアしよう=Hoàn thành 1 tầng của Dungeon
+キャラのスキルを1回強化しよう=Nâng cấp kỹ năng của nhân vật 1 lần
+装備強化で装備の★を1つ増やそう=Tinh luyện trang bị của nhân vật 1 lần
+マナを1回購入しよう=Mua Mana 1 lần
+クランメンバーに「いいね」しよう=Thích một thành viên bang hội
+ルナの塔に1回挑戦しよう=Thử thách Tháp Trăng 1 lần
+クランバトルに1回挑戦しよう=Tham gia Trận Chiến Bang Hội 1 lần
+ダンジョンに1回挑戦しよう=Thử Dungeon 1 lần
+マナを購入しよう=Mua 1 bộ Mana
+
+
+限定ショップで買い物をしよう=Mua vật phẩm tại Cửa hàng Thưởng
+通常ショップで買い物をしよう=Mua vật phẩm tại Cửa hàng Thường
+
+スキップする項目がありません。=Không có nhiệm vụ nào để bỏ qua.
+
+ダンジョンスキップ確認=Xác nhận Bỏ qua Dungeon
+ダンジョンの全バトルをスキップして、報酬を獲得しますか？=Bạn có muốn bỏ qua tất cả trận chiến dungeon và nhận thưởng không?
+
+マナクエストスキップ確認=Xác nhận Bỏ qua Nhiệm vụ Mana
+経験値クエストスキップ確認=Xác nhận Bỏ qua Nhiệm vụ Rượu EXP
+スキップしますクエストを 実行します。\nよろしいですか？=Đang bỏ qua nhiệm vụ.\nTiếp tục?
+スキップチケットと挑戦回数を消費してマナクエストを実行します。よろしいですか？=Tiêu hao Vé Bỏ qua và Lượt thử để hoàn thành Nhiệm vụ Mana.\nTiếp tục?
+スキップチケットと挑戦回数を消費して経験値クエストを実行します。よろしいですか？=Tiêu hao Vé Bỏ qua và Lượt thử để hoàn thành Nhiệm vụ Rượu EXP.\nTiếp tục?
+
+スキップ失敗=Bỏ qua Thất bại
+ダンジョン突入中のためダンジョンのスキップを実行できませんでした。=Không thể bỏ qua Hầm ngục vì bạn đã tham gia một Hầm ngục khác.
+グループシャッフル後、プリンセスアリーナに移動していないためプリンセスアリーナコインが受け取れません=Không thể nhận Đồng Princess Arena vì bạn chưa tham gia Princess Arena kể từ khi các bảng đấu bị trộn.
+グループシャッフル後、バトルアリーナに移動していないためアリーナコインが受け取れません=Không thể nhận Đồng Battle Arena vì bạn chưa tham gia Battle Arena kể từ khi các bảng đấu bị trộn.

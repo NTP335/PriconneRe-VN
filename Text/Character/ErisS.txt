@@ -1,0 +1,33 @@
+your return format should be like this.
+please remember and pay close attention!
+##Profile##
+【魔法】後衛で、永く夢見た本物の夏に咲き綻ぶ黒薔薇。【いばらの冠】の呪縛は再臨により解き放たれ、調和状態や攻防支援、回復効果を施し、月下の浜辺に静かに佇む。=[Phép thuật] Một bông hồng đen nở rộ trong mùa hè thực sự đã mơ ước lâu, ở hàng sau. Lời nguyền [Thủy miện gai] được giải phóng khi tái xuất hiện, cấp trạng thái hài hòa, hỗ trợ tấn công/phòng thủ, và hiệu ứng hồi phục, đứng lặng lẽ trên bãi biển dưới ánh trăng.
+
+##Union Burst##
+アンサス・エリュシオン=Anthos Elysion
+目の前の敵１キャラに魔法大ダメージを２回与え、味方全体に魔法無効バリアを展開する。【いばらの冠】が付与されている場合、このスキルの効果量が大幅にダウンし、自分のスキル発動時の最大ＨＰの10％を消費する。このスキルで自分のＨＰを消費する量は、特殊スキルを除くスキルを使用するたびに増加する。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Gây sát thương phép thuật lớn hai lần lên kẻ địch phía trước và triển khai Mặt nạ phản phép thuật cho tất cả đồng đội. Nếu [Thủy miện gai] được áp dụng, hiệu ứng kỹ năng này giảm đi đáng kể, và tiêu thụ 10% HP tối đa của bản thân khi kích hoạt kỹ năng. Lượng HP tiêu thụ bởi kỹ năng này tăng mỗi lần một kỹ năng (trừ kỹ năng đặc biệt) được sử dụng. Sát thương tự gây bởi kỹ năng này không hồi TP cho bản thân.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージいばらの冠付与中、自分のスキル発動時の最大ＨＰの10％を消費$"=►Triển khai Mặt nạ Phản Phép Thuật hấp thụ $1 sát thương.\n►Gây $2 sát thương phép thuật lên kẻ địch đơn.\n►Gây $3 sát thương phép thuật lên kẻ địch đơn.\n►Trong khi có [Thủy miện gai]: Tiêu thụ 10% HP tối đa khi kích hoạt kỹ năng.
+
+##Skill 1 (S1)##
+ペタラ・カリス=Petala Charis
+味方全体の魔法攻撃力を特大アップさせ、ＨＰを中回復、ＴＰを小回復させる。【いばらの冠】が付与されている場合、このスキルの効果量が大幅にダウンし、自分のスキル発動時の最大ＨＰの10％を消費する。このスキルで自分のＨＰを消費する量は、特殊スキルを除くスキルを使用するたびに増加する。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Tăng M.ATK của tất cả đồng đội một cách lớn lao, hồi HP của họ một cách vừa phải, và hồi một chút TP cho họ. Nếu [Thủy miện gai] được áp dụng, hiệu ứng kỹ năng này giảm đi đáng kể, và tiêu thụ 10% HP tối đa của bản thân khi kích hoạt kỹ năng. Lượng HP tiêu thụ bởi kỹ năng này tăng mỗi lần một kỹ năng (trừ kỹ năng đặc biệt) được sử dụng. Sát thương tự gây bởi kỹ năng này không hồi TP cho bản thân.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復味方全体のＴＰを50回復いばらの冠付与中、自分のスキル発動時の最大ＨＰの10％を消費$"=►Tăng M.ATK của tất cả đồng đội lên $1.\n►Hồi HP cho tất cả đồng đội lên $2.\n►Hồi TP cho tất cả đồng đội lên 50.\n►Trong khi có [Thủy miện gai]: Tiêu thụ 10% HP tối đa khi kích hoạt kỹ năng.
+
+##Skill 2 (S2)##
+プレーステール=Placetail
+目の前の敵１キャラに魔法大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。【いばらの冠】が付与されている場合、このスキルの効果量が大幅にダウンし、自分のスキル発動時の最大ＨＰの10％を消費する。このスキルで自分のＨＰを消費する量は、特殊スキルを除くスキルを使用するたびに増加する。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Gây sát thương phép thuật lớn lên kẻ địch phía trước và giảm lớn P.ATK và M.ATK của chúng. Nếu [Thủy miện gai] được áp dụng, hiệu ứng kỹ năng này giảm đi đáng kể, và tiêu thụ 10% HP tối đa của bản thân khi kích hoạt kỹ năng. Lượng HP tiêu thụ bởi kỹ năng này tăng mỗi lần một kỹ năng (trừ kỹ năng đặc biệt) được sử dụng. Sát thương tự gây bởi kỹ năng này không hồi TP cho bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウンいばらの冠付与中、自分のスキル発動時の最大ＨＰの10％を消費$"=►Gây $1 sát thương phép thuật lên kẻ địch đơn.\n►Giảm P.ATK của kẻ địch lên $2.\n►Giảm M.ATK của kẻ địch lên $3.\n►Trong khi có [Thủy miện gai]: Tiêu thụ 10% HP tối đa khi kích hoạt kỹ năng.
+
+##EX Skill: ##
+メタノイア=Metanoia
+メタノイア+=Metanoia+
+
+##Special Skills 1##
+アナスタシス=Anastasis
+ＨＰが０になった時に発動し、倒れずに自分の【いばらの冠】とステータスダウン効果を全て解除してＨＰを大回復させる。さらに、バトル終了時まで味方全体の魔法攻撃力を極大アップ、魔法防御力を大アップ、魔法クリティカルを特大アップ、魔法攻撃クリティカル時のダメージを中アップ、魔法攻撃のダメージを小アップさせ、調和状態を付与する。調和状態の間は物理防御力と魔法防御力のうち高い方によって計算されたダメージを受ける。このスキルはバトル中一度しか発動しない。=Kích hoạt khi HP về 0, ngăn chặn thất bại, loại bỏ tất cả [Thủy miện gai] và các trạng thái giảm từ bản thân, và hồi HP một cách lớn lao. Ngoài ra, cho đến hết trận, tăng M.ATK của tất cả đồng đội một cách lớn lao, tăng M.DEF của họ một cách lớn lao, tăng Tỷ lệ chí mạng phép thuật của họ một cách lớn lao, tăng Sát thương chí mạng phép thuật của họ một cách vừa phải, tăng một chút Sát thương phép thuật của họ, và cấp cho họ trạng thái Hài hòa. Khi ở trạng thái Hài hòa, sát thương nhận được được tính dựa trên P.DEF hoặc M.DEF cao hơn. Kỹ năng này chỉ có thể kích hoạt một lần mỗi trận.
+r:"^自分のＨＰを(\d+)回復自分のいばらの冠を解除する自分のステータスダウン効果を解除する味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体の魔法クリティカルを300アップ味方全体の魔法クリダメを30％アップ味方全体が与える魔法ダメージを10％アップ味方全体に調和状態を付与する$"=►Hồi HP của bản thân lên $1.\n►Loại bỏ [Thủy miện gai] của bản thân.\n►Xóa các trạng thái giảm của bản thân.\n►Tăng M.ATK của tất cả đồng đội lên $2.\n►Tăng M.DEF của tất cả đồng đội lên $3.\n►Tăng Tỷ lệ chí mạng phép thuật của tất cả đồng đội lên 300.\n►Tăng Sát thương chí mạng phép thuật của tất cả đồng đội lên 30％.\n►Tăng Sát thương phép thuật của tất cả đồng đội lên 10％.\n►Cấp [Hài hòa] cho tất cả đồng đội.
+
+##Special Skills 2##
+シネスティマ=Synesthesia
+バトル終了時まで自分に【いばらの冠】を付与し、物理防御力と魔法防御力とＴＰ上昇を極大ダウンする。=Áp dụng [Thủy miện gai] cho bản thân cho đến hết trận, và giảm lớn P.DEF, M.DEF, và Tăng TP.
+r:"^自分にいばらの冠を付与する自分の物理防御力を(\d+)ダウン自分の魔法防御力を(\d+)ダウン自分のＴＰ上昇を(\d+)ダウン$"=►Cấp [Thủy miện gai] cho bản thân.\n►Giảm P.DEF của bản thân lên $1.\n►Giảm M.DEF của bản thân lên $2.\n►Giảm Tăng TP của bản thân lên $3.

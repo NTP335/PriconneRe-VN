@@ -1,0 +1,5 @@
+コンサートポスター=Áp phích buổi hòa nhạc
+前後編のEXを除く=Không bao gồm phần đầu và thứ hai của EX
+
+
+r:"^イベントクエスト ([ A-Za-z\-0-9]+)$"=Nhiệm vụ sự kiện $1

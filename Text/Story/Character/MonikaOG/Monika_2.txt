@@ -1,0 +1,80 @@
+
+モニカは決闘大会のための練習相手として{playername}を指名する。モニカはリーチの短さを補うために上空からの攻撃法を修得しようとする。二人はとりあえず足腰の強化としてランニングに励む。=Monika đề cử {playername} làm bạn luyện tập cho giải đấu đấu đôi. Monika cố gắng học các kỹ thuật tấn công từ trên không để bù đắp cho tầm với ngắn của mình. Trước mắt, họ tập trung vào việc củng cố đôi chân bằng cách chạy.
+
+{playername}はモニカに呼ばれて、\n待ち合わせ場所へとやって来た。={playername} đến nơi hẹn khi được Monika gọi.
+
+来たか。\n今日は貴公に相談がある。=Cậu đến rồi.\nTớ có chuyện muốn thảo luận với cậu, đồng đội.
+一週間後にある決闘大会を知っているか？\n最近やたらと宣伝されている、あのイベントだ。=Cậu có biết về giải đấu đấu đôi sẽ diễn ra trong một tuần không? Đó là sự kiện được quảng bá mạnh mẽ gần đây.
+じつは、その大会に出ようと思っている。\n私の所属する部隊、ヴァイスフリューゲルの名を\n広く知らしめるいい機会だからな。=Thực ra, tớ đang nghĩ đến việc tham gia giải đấu đó. Đó là cơ hội tuyệt vời để làm tên tuổi của Weissflügel, guild tớ thuộc về, được biết đến rộng rãi.
+というわけで、\n大会に向けて特訓をしたい。\n貴公にはその手伝いをしてもらいたいのだ。=Vậy nên, tớ muốn luyện tập cho giải đấu.\nTớ muốn cậu giúp tớ với việc đó.
+特訓相手としては、腕前がもの足りないが……\n貴公のそばにいると力がわいてくるからな。=Dù kỹ năng của cậu có thể còn thiếu sót như một bạn luyện tập...\nTớ cảm thấy tràn đầy năng lượng khi ở bên cậu, đồng đội.
+それに貴公は目の付け所もいい。\nなにか気づいたことがあれば、指摘してほしいのだが……\nどうだ？=Hơn nữa, cậu có con mắt tinh tế. Nếu cậu nhận ra điều gì, tớ muốn cậu chỉ ra... Cậu nghĩ sao?
+タダというわけには……=Không phải miễn phí, tớ đoán vậy...
+見返りがほしい、ということか。\nそうだな、私としてもその方が気兼ねしないで済む。=Cậu muốn có điều gì đó để đổi lại, phải không? Ừ, cũng tốt cho tớ, nên tớ không cảm thấy nợ cậu.
+では、こういうのはどうだ？\n貴公の手伝いのおかげで優勝できたら、\n賞品を山分けするというのは。=Vậy thì, thế này được không? Nếu tớ thắng nhờ sự giúp đỡ của cậu, chúng ta sẽ chia giải thưởng.
+そうか、引き受けてくれるか！=Ra vậy, vậy cậu sẵn sàng chấp nhận!
+では、さっそく特訓だ。\nここでは人の邪魔になる。場所を変えよう。=Vậy thì, hãy bắt đầu luyện tập ngay. Ở đây chúng ta sẽ cản trở người khác. Đổi chỗ khác thôi.
+ここならば、思う存分動けるな。\nさっそく特訓を──=Ở đây, chúng ta có thể di chuyển tự do. Bắt đầu luyện tập──
+ん？　どうした？\n特訓の前に言いたいこと……？=Hả? Có chuyện gì vậy? Có điều gì cậu muốn nói trước khi luyện tập không?
+私に致命的な弱点がある、だと！？\nそれは本当か？=Cậu nói tớ có điểm yếu chết người!? Thật sao?
+戦ってみればわかる……？\nそうか、では手合わせ願おうか！=Tớ sẽ hiểu khi chúng ta đấu...? Ra vậy, vậy hãy đấu một trận!
+ん、なんだ？\n長い木の枝など拾って……=Hừm, cái gì đây? Nhặt những cành dài và...
+……うわっ！　なにをする！\nいきなり枝を向けて……\nおちょくっているのか！=...Ôi! Cậu làm gì vậy?! Đột ngột chĩa cành về phía tớ... Cậu đang trêu tớ à?
+
+わっ！\nやめろっ！　え、枝で押すな！\nぬぐぐ……剣が……届かない……！！=Này! Dừng lại! Đừng đẩy tớ bằng cành! Ư... Tớ không với tới bằng kiếm...!!
+おいっ、脇腹をつつくな！\nくっ、くすぐったい……！　くふ……=Này, đừng chọc vào sườn tớ! Nó khiến tớ cười... Heh...
+ひ、卑怯だぞ、そんな長い枝を持たれたら……\nん？\nそうか、貴公の言っていた私の弱点はこれか！=Ha... Cầm một cành dài như vậy là bất công... Hả? Ra vậy, vậy đây là điểm yếu cậu nói tới!
+私の手足では、長い武器を持った相手と正面から戦うのは\n大きな不利があるのか……\n多少左右に動いてもリーチの差はいかんともしがたい……=Với cánh tay và chân tớ, việc đối mặt trực diện với đối thủ có vũ khí dài là một bất lợi lớn... Ngay cả khi tớ di chuyển một chút sang trái hoặc phải, sự chênh lệch về tầm với vẫn khó khắc phục...
+むむむ……\nどうしたものか？=Hừm, hừm... Tớ nên làm gì đây?
+貴公に秘策がある……？\nど、どんな方法だ！？=Cậu có kế hoạch bí mật rồi, đồng đội...? B-bí quyết gì vậy!?
+空……？\nなるほど、正面も左右もダメなら、\n上から攻めればいい、と。=Bầu trời...? Ra vậy, nếu phía trước và hai bên không được, thì tấn công từ phía trên.
+確かに、それなら相手にとっても予想外の攻撃だ。\nそう簡単に対処はできないな。=Đúng vậy, đó sẽ là đòn tấn công bất ngờ đối với đối thủ. Họ sẽ không dễ dàng đối phó với nó.
+しかも、空を舞う戦法は、\n白翼という意味を持つヴァイスフリューゲルの名に\n相応しい戦法でもある……うむ、さすが貴公だ。=Hơn nữa, một kỹ thuật trên không trung phù hợp với cái tên Weissflügel, có nghĩa là Cánh Trắng... Đúng vậy, cậu thật đáng kinh ngạc.
+しかし、上から攻めるというのは、難しいぞ。\nかなりの訓練が必要になるな……=Tuy nhiên, tấn công từ trên cao là thử thách. Nó sẽ đòi hỏi một lượng đáng kể huấn luyện...
+{playername}……貴公も訓練に付き合ってくれるか？={playername}... Cậu sẽ tham gia huấn luyện cùng tôi không?
+もちろん。=Tất nhiên.
+そ、そうか！　よかった……\nでは、二人でがんばるぞ！=T-Tôi hiểu! Tuyệt vời... Vậy thì, chúng ta cùng cố gắng nhé!
+
+
+こら{playername}、なにを休んでいる！\nまだメニューの半分しか、こなしていないぞ！\n訓練の本番はここからだ！=Này, {playername}, sao cậu nghỉ ngơi rồi? Chúng ta mới hoàn thành một nửa chương trình huấn luyện thôi! Buổi huấn luyện thực sự bắt đầu từ đây!
+
+
+まずは足腰を鍛えなくては……！\nさぁ、追加でランニング１０キロだ！=Trước tiên, chúng ta cần củng cố đôi chân...! Giờ thì, hãy thêm chạy bộ 10 kilômét!
+
+モニカの訓練は数時間に及び、\nヘロヘロに疲れ果てる{playername}であった。=Buổi huấn luyện của Monika kéo dài vài giờ, khiến {playername} kiệt sức.
+
+
+強化Lv上限  {0}=Nâng cấp Cấp độ Tối đa {0}
+
+
+
+
+
+自信がない……=Tôi không tự tin...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

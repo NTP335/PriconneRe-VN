@@ -1,0 +1,25 @@
+Elpis Mode Intro
+
+溢るる災禍と希望の証=Thảm Họa Trào Dâng & Minh Chứng Hy Vọng
+
+エルピス島の北部──大地に穿たれた大穴。\n{playername}たちは、その大穴から現れた魔物の群れと\n戦いを繰り広げていた。=Phía bắc đảo Elpis—một hố sâu khổng lồ đâm toác cả mặt đất. {playername} và những người khác đang lao vào một trận chiến ác liệt với bầy ma vật đang tuôn ra từ vực thẳm đó.
+ああもう、ゾロゾロわらわらと……！\nいい加減に死ねえぇぇぇぇっ！！！=A lô cái gì mà cứ lũ lượt kéo đến thế này...! Chết hết đi cho rảnh nợoooo!!!
+ふぅっ……今ので最後みたいですね。\nさすがですキャルちゃん、大活躍でしたっ♪=Phù... có vẻ vừa rồi là tên cuối cùng rồi. Đúng là Karyl-chan có khác, cậu đã lập công lớn đấy♪
+……ったく、倒しても倒してもキリがないわ。\nこんな連中がまだまだ出てくるっての？=...Thật là, đánh hết con này đến con khác mà vẫn không thấy điểm dừng. Ngươi bảo là cái lũ này vẫn còn xuất hiện nữa sao?
+はい。しかも、この大穴から現れたのは\nドラゴンをはじめとした強力な魔物ばかり……\n気を引き締めてまいりましょう。=Vâng. Hơn nữa, những kẻ xuất hiện từ hố sâu này toàn là những ma vật hùng mạnh, bao gồm cả Rồng... Chúng ta hãy cùng tập trung tinh thần nào.
+最初の群れは片付けたけど、すぐに次が出てきそうね。\n空にも魔物の影が見えてるし……\nここで食い止めなきゃ、エルピス島に魔物が溢れちゃうわ。=Chúng ta đã dọn dẹp xong đợt đầu tiên, nhưng đợt tiếp theo chắc sẽ tới sớm thôi. Tôi đã thấy bóng dáng ma vật trên bầu trời rồi... Nếu không chặn đứng chúng tại đây, đảo Elpis sẽ tràn ngập ma vật mất.
+そうなったら、頑張って進めてきたエルピス島開拓は水の泡に……\nいえ、いずれはランドソルにも魔物が押し寄せてきちゃいます。\n絶対にここで食い止めないとっ！=Nếu chuyện đó xảy ra, bao nhiêu công sức khai phá đảo Elpis mà chúng ta đã cố gắng sẽ tan thành mây khói... Không, sớm muộn gì lũ ma vật cũng sẽ tràn đến Landosol mất. Nhất định phải chặn đứng chúng ở đây!
+分かってるけど……さすがに敵が多すぎるわよ。\nそこらで拾った遺物っぽいものが、うまく使えるといいんだけど。\n他にも何か転がってないかしら……=Biết là vậy nhưng... kẻ địch thực sự quá đông. Giá như những thứ trông giống di vật nhặt được quanh đây có thể sử dụng hiệu quả thì tốt quá. Không biết còn thứ gì khác rơi rớt quanh đây không nhỉ...
+小ぶりですが、美しい像でございますね。\n先ほどの魔物から出てきたものでしょうか？\nただならぬ雰囲気を感じますが──=Tuy nhỏ nhắn nhưng đây là một bức tượng thật đẹp. Phải chăng nó rơi ra từ con ma vật lúc nãy? Tôi cảm nhận được một bầu không khí không hề tầm thường từ nó—
+ひゃっ、もう次の魔物が！？\nもう、休憩する暇もないですねっ！=Hả, lại con ma vật tiếp theo rồi sao!? Trời ạ, chẳng có thời gian mà nghỉ ngơi nữa!
+大丈夫、一匹だけよ！\n私が倒すから、みんなは周りを警戒して！=Không sao, chỉ có một con thôi! Để tôi hạ nó, mọi người hãy cảnh giác xung quanh đi!
+ありがとう……って、えぇっ？\nこの力は……っ！=Cảm ơn nhé... Ơ, cái gì thế này? Sức mạnh này là...!
+やるじゃない、シェフィ！\n瞬殺だったわよ！=Khá lắm, Shefi! Đúng là hạ gục trong chớp mắt luôn!
+う、うん……自分でもびっくりしてるわ。\n{playername}の力が、\nいつもより強く感じられたんだけど……=Ừ-Ừm... chính tôi cũng thấy ngạc nhiên nữa. Sức mạnh của {playername} dường như truyền đến mạnh mẽ hơn bình thường...
+なるほど、確かに……\nこの島の名前──『エルピス』とは神話における希望の女神の名です。\nその像は、女神の姿をかたどった物なのかもしれません。=Ra là vậy, thảo nào... Tên của hòn đảo này— "Elpis"— chính là tên của vị nữ thần hy vọng trong thần thoại. Bức tượng đó có lẽ được tạc theo hình dáng của chính vị nữ thần ấy.
+この大穴はいわば、災いで満ちたパンドラの匣。\nそして女神エルピスの像は、大穴から溢れ出す災いと戦う\nわたくしたちに、希望という加護を与えてくれるのかもしれません。=Cái hố lớn này có thể ví như chiếc hộp Pandora chứa đầy tai ương. Và bức tượng nữ thần Elpis có lẽ đang ban tặng sự bảo hộ của hy vọng cho chúng ta, những người đang chiến đấu chống lại thảm họa tràn ra từ hố sâu đó.
+よく分かんないけど、そういうことならやる気が出てくるわ。\nこいつらを倒しまくれば、あたしたちはもっと強くなれるのね！=Chẳng hiểu lắm nhưng nếu là vậy thì tôi thấy phấn chấn rồi đấy. Cứ tiêu diệt sạch lũ này là chúng ta sẽ mạnh lên đúng không!
+ですねっ、希望が湧いてきました！\n女神さまの力も借りて、この島を……いえ、世界を守りましょう！=Đúng thế, hy vọng đang trỗi dậy rồi! Hãy mượn sức mạnh của nữ thần để bảo vệ hòn đảo này... không, bảo vệ cả thế giới này luôn!
+…………これは……=............Cái này là............
+シェフィちゃん、強化するよ！=Shefi-chan, cường hóa thôi nào!
+もしかして、この像のおかげなのかな。=Chẳng lẽ là nhờ bức tượng này sao?

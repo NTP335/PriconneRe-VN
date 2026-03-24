@@ -1,0 +1,42 @@
+ダイオウショウジョウ=Great Ape
+お、大猿さん。落ち着いてください……！=Ồ, ngài Great Ape. Xin hãy bình tĩnh...!
+虫歯の痛みで我を忘れてしまわれているようです。\n治療するには、どうにか落ち着いていただかなければ。=Có vẻ như anh đã quên mình vì cơn đau do sâu răng. Chúng tôi cần anh bình tĩnh lại để điều trị.
+大猿さん、あと少しだけ我慢してください。\nきっと、私たちがなんとかしますから。=Xin hãy kiên nhẫn với chúng tôi một chút nữa, Great Ape. Chúng tôi chắc chắn sẽ giúp anh.
+ふむ、これで大猿さまの虫歯治療ができますね。\nここからは専門家のドクターさまに診ていただきます。=Hừm, giờ chúng ta có thể điều trị sâu răng cho Great Ape. Từ đây, bác sĩ chuyên khoa sẽ khám cho anh ấy.
+お疲れさまでした。コッコロちゃん。\nこれで私たちの任務は無事達成、ですね。=Làm tốt lắm, Kokkoro-chan. Với điều này, nhiệm vụ của chúng ta đã thành công, phải không?
+ええ、とはいえ……\n治療後の経過を観察する必要もありますので。\n少し時間をおいて、また様子を見に参りましょう。=Vâng, tuy nhiên... Chúng ta cũng cần quan sát sự tiến triển sau khi điều trị. Hãy đợi một chút và kiểm tra anh ấy lần nữa.
+魔物保護区の奥地……\nこちらで異変が起きたと聞きましたが、これは……=Ở vùng sâu của Khu Vực Bảo Vệ Ma Quỷ... Tôi nghe nói có điều gì đó bất thường đã xảy ra ở đây, nhưng đây là gì...?
+魔物たちが興奮していますね。\nそれに、この破壊の跡は……あの大猿さんの？=Những con ma quỷ dường như đang hào hứng. Và sự phá hủy này, có phải do Great Ape đó gây ra?
+何か起きたのは間違いなさそうですね。\nみなさん、はぐれたりしないよう十分に注意を。\n総員、前進です。=Có vẻ như có chuyện gì đó đã xảy ra chắc chắn rồi. Mọi người, hãy cẩn thận không bị tách ra. Tất cả chúng ta, tiến lên.
+
+あの様子は……\n以前より暴れっぷりが増しておられますね。=Có vẻ như anh ta đang trở nên hung bạo hơn trước.
+再び虫歯になってしまわれたのでしょうか。\n自然に生きる魔物は、自身で虫歯を治す手段がないのですね。=Anh ta có bị sâu răng lần nữa không? Quái vật tự nhiên không có cách tự điều trị sâu răng, phải không?
+だからこそ、私たちがいるんです。\n元は大人しい魔物のはず、\nお願いですからいい子にしてください……！=Chính vì vậy chúng ta mới ở đây. Chúng từng là những con quái vật yên tĩnh, nên xin hãy cư xử cho đúng mực!
+シオリさま、ふと思ったのですが……\nあの大猿さまなら、密林に生えてる植物などで\n歯ブラシのようなものを作れたりしないでしょうか？=Cô Shiori, tôi vừa nảy ra ý tưởng. Liệu Great Ape đó có thể làm ra thứ gì đó như bàn chải từ các loại cây mọc trong rừng không?
+えっと、大猿さんに歯磨きを教える、ということですか？\n知能の高い魔物ですから、教えれば\n理解してくれる可能性はありそうですけど……=Vậy, cô đề xuất dạy con khỉ lớn cách đánh răng? Nó là một con quái vật thông minh, nên có thể hiểu nếu chúng ta dạy nó, nhưng...
+とはいえ、それもすべて事を解決してから、です。\nレンジャーとして、まずはこの森に平穏を取り戻しましょう。=Tuy nhiên, chúng ta nên giải quyết vấn đề hiện tại trước. Với tư cách là những người bảo vệ rừng, hãy khôi phục hòa bình cho khu rừng này.
+承知いたしました。大猿さま、\nここまで来たらとことんまで付き合ってさしあげます。\nさあ、どうか大人しくしてくださいまし。=Hiểu rồi. Chúng tôi sẽ ở cùng Great Ape cho đến cuối cùng. Xin hãy cư xử cho đúng mực.
+
+なんとか大人しくなってくれました。\nあとは虫歯の治療と……大猿さんに歯ブラシの作り方、\nそして歯磨きを覚えてもらいましょう。=Anh ta cuối cùng cũng bình tĩnh lại. Giờ chúng ta cần điều trị sâu răng cho anh ta và dạy anh ta cách làm bàn chải, và cách đánh răng.
+いいですか、わんわんの主さま。ニャットさまも。\n虫歯になると、あのようになってしまうのです。=Các ngươi đã sẵn sàng chưa, Doggie my Lord và Nyatt? Các ngươi sẽ kết thúc như thế nếu bị sâu răng.
+というわけでお二人も。\n虫歯予防のため、歯磨きをさせていただきます。=Vậy, cả hai các ngươi nữa. Chúng tôi sẽ đánh răng cho các ngươi để phòng ngừa sâu răng.
+私がニャットちゃんを。\nコッコロちゃんがあるじちゃんを担当ですね。=Tôi sẽ chăm sóc Nyatt-chan, và Kokkoro-chan sẽ chăm sóc Arujichan.
+くぅーん…………=Kuuun..............
+そのような顔をされてもダメです。\nどうかお覚悟なさってくださいまし。=Dù cậu làm khuôn mặt như vậy, cũng không có tác dụng. Xin hãy chuẩn bị tinh thần.
+ニャットちゃんも、ちょっとの間の辛抱ですから。\n我慢してくださいね。=Nyatt-chan, xin hãy kiên nhẫn với chúng tôi một chút. Xin hãy chịu đựng.
+グルル…………=Gururu..............
+
+このプレッシャーは……\n気を付けてください、今までとは雰囲気が違います。=Cẩn thận, bầu không khí khác với trước rồi.
+無意識に力を抑えていたんでしょうか。\n我を忘れたことで、潜在能力が解放されたみたいですね。=Họ có đang vô thức kìm nén sức mạnh của mình không? Có vẻ như việc quên bản thân đã mở khóa khả năng tiềm ẩn của họ.
+まともに受けては被害甚大でしょう。\nあの剛力に俊敏さ、何か対策を取りたいですが……\n速度を下げたり、力を抑えたりできれば。=Nếu chúng ta đối mặt trực diện, thiệt hại sẽ nghiêm trọng. Chúng ta cần tìm cách xử lý sự kết hợp giữa sức mạnh và sự nhanh nhẹn... Giá như chúng ta có thể làm chậm chúng lại hoặc kiềm chế sức mạnh của chúng.
+しかし、果実を食べることで力を高めているようですが、\nあれでは余計に虫歯が悪化してしまいます。=Nhưng có vẻ như bằng cách ăn trái cây, sức mạnh của chúng được tăng cường. Tuy nhiên, điều này chỉ làm tệ thêm tình trạng sâu răng.
+ええ、早く大猿さんを止めましょう。\nこれ以上、無益な争いを避けるためにも。=Được, hãy nhanh chóng dừng Đại Vượn lại để tránh xung đột không cần thiết.
+あれは……！\nどうやら力を溜めているみたいです。=Đó là……!\nRõ ràng nó đang tích lũy sức mạnh.
+大猿さんの体躯で暴れ回られると、\n私たちには手が付けられません。\nその前になんとかしないと……=Nếu Đại Vượn điên cuồng, chúng ta sẽ không thể xử lý được. Chúng ta cần làm gì đó trước khi quá muộn.
+ならば、一気に畳みかけることで\n準備が整う前に、大猿さまの攻撃体勢を崩してしまいましょう。=Vậy hãy áp đảo chúng và phá vỡ tư thế tấn công của chúng trước khi chúng kịp chuẩn bị.
+攻撃を仕掛けるタイミングが肝要です。\nみなさま、呼吸を合わせてまいりましょう。いざ……！=Thời điểm tấn công là rất quan trọng. Hãy đồng bộ hơi thở của chúng ta và ra tay!
+ここまでの力を持っていたなんて……\nでも、私たちも譲れません。=Tôi không thể tin rằng chúng lại có sức mạnh đến thế... Nhưng chúng ta cũng không thể lùi bước.
+人も魔物も……誰も傷つけず、傷つかないように。\nそんな道を、最後まで諦めずに探すって、決めたんです。=Chúng ta phải tìm cách không làm ai bị tổn thương, cả con người lẫn quái vật. Chúng ta đã quyết định tiếp tục tìm kiếm con đường đó cho đến tận cùng.
+それこそが、レンジャーとして最も重要なこと。\nわたくしたちが合宿で学んできたものを生かすのは、\nこの瞬間をおいて他にありません。=Đó là điều quan trọng nhất với tư cách là một Người Ranger. Không có khoảnh khắc nào khác để áp dụng những gì chúng ta đã học trong trại huấn luyện.
+大猿さまも、暴れたくて暴れているわけではありません。\nきっと、わたくしたちの想いは伝わるはずです。=Đại Vượn không muốn điên cuồng. Tôi tin rằng chúng sẽ hiểu được cảm xúc của chúng ta.
+ええ……だから、持てる能力を出し切りましょう。\nここが正念場……いきます！=Đúng... Chính vì vậy chúng ta cần sử dụng toàn bộ sức mạnh chúng ta có. Đây là khoảnh khắc sự thật. Hãy cùng làm đi!

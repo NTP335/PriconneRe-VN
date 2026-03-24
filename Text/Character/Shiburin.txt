@@ -1,0 +1,32 @@
+##Profile##
+【物理】前衛で、氷を創出し味方を護る、クールな少女。目の前の敵を束縛するスキルや挑発で行動を妨害し、自身にもバリアを展開し、鉄壁の防御能力を発揮する。=[Vật lý] Một cô gái ngầu lòi bảo vệ đồng minh bằng cách triệu hồi băng ở tuyến đầu. Trong khi cản trở đòn tấn công kẻ địch bằng cách trói buộc chuyển động và khiêu khích, cô ấy bảo vệ bản thân khỏi tác hại bằng một rào cản để tạo phòng thủ hoàn hảo.
+
+##UB##
+アイオライト・ブルー=Iolite Blue
+目の前の敵１キャラに物理大ダメージを与え、さらに自分に物理/魔法無効バリアを展開する。=Gây sát thương vật lý lớn lên kẻ địch phía trực tiếp trước và triển khai một rào cản phủ quanh bản thân, hóa giải sát thương vật lý và phép thuật.
+r:"^敵単体に(\d+)の物理ダメージ\n(\d+)ダメージ分の物理魔法無効バリアを展開\nする$"=►Triển khai Rào Cản trên bản thân, hóa giải $2 sát thương Vật lý/Phép thuật trong 18 giây. ►Gây $1 sát thương Vật lý lên kẻ địch.
+
+##S1##
+ラズール・レオ=Lazuli Leo
+前方範囲内の敵すべてに物理小ダメージを与え、物理防御力と魔法防御力を小ダウンさせ、さらに敵全体を挑発する。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch trong phạm vi, giảm nhỏ phòng thủ vật lý và phép thuật của chúng, và khiêu khích tất cả kẻ địch.
+前方範囲内の敵すべてに物理中ダメージを与え、物理防御力と魔法防御力を小ダウンさせ、さらに敵全体を挑発する。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi, giảm nhỏ phòng thủ vật lý và phép thuật của chúng, và khiêu khích tất cả kẻ địch.
+
+##S2##
+アウィン・ジャッジメント=Hauyne Judgement
+
+アウィン・ジャッジメント+=auyne Judgement+
+
+前方範囲内の敵すべてを束縛する。=Gây trói lên tất cả kẻ địch trong phạm vi.
+r:"^範囲内の敵を一定時間行動不能にする$"=►Gây trói lên tất cả kẻ địch trong phạm vi 400 trong 2.5 giây.
+
+##EX##
+蒼穹の鼓動=Azure Pulse
+蒼穹の鼓動+=Azure Pulse+
+
+##S1+##
+ラズール・レオ+=Lazuli Leo+
+前方範囲内の敵すべてに物理中ダメージを与え、物理防御力と魔法防御力を小ダウンさせ、さらに敵全体を挑発し、自分の物理防御力と魔法防御力を中アップする。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi, giảm nhỏ phòng thủ vật lý và phép thuật của chúng, và khiêu khích tất cả kẻ địch. Ngoài ra, còn tăng trung bình phòng thủ vật lý và phép thuật cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御力を(\d+)ダウン\n範囲内の敵の魔法防御力を(\d+)ダウン\n敵全体を挑発する\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=►Khiêu khích tất cả kẻ địch trong 19 giây. ►Gây $1 sát thương Vật lý lên kẻ địch trong phạm vi 400. ►Giảm phòng thủ Vật lý của kẻ địch trong phạm vi 400 đi $2 trong 12 giây. ►Giảm phòng thủ Phép thuật của kẻ địch trong phạm vi 400 đi $3 trong 12 giây. ►Tăng phòng thủ Vật lý của bản thân lên $4 trong 12 giây. ►Tăng phòng thủ Phép thuật của bản thân lên $4 trong 12 giây.
+
+##UE##
+ステージオブクール=Cool Stage

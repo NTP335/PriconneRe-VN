@@ -1,0 +1,71 @@
+
+シーズンパス=Thẻ Mùa Giải
+Lv購入=Mua Lv
+r:"^シーズンパス([A-Z]*)$"=Thẻ Mùa Giải $1
+
+シーズンパスミッションへ=Đến Nhiệm vụ Thẻ Mùa Giải
+シーズンパスミッション=Nhiệm vụ Thẻ Mùa Giải
+ミッション報酬受取=Nhận phần thưởng nhiệm vụ
+次のLvまで=Cho đến Lv tiếp theo
+完了=Hoàn thành
+r:"^(\d+)Lv購入$"=Mua $1 Lv
+レベルを有償ジュエルで引くことができます。=Bạn có thể mua cấp độ bằng Jewel trả phí.
+有償ジュエルを使用してシーズンパスのパスLvを購入しますか？=Bạn có muốn sử dụng Jewel trả phí để mua cấp độ Thẻ Mùa Giải không?
+シーズンパス　パスLv購入=Mua cấp độ Thẻ Mùa Giải
+購入Lv数指定=Chỉ định số Lv mua
+獲得できる報酬=Phần thưởng có thể nhận
+プレミアム枠の報酬と\n20Lvが\n獲得できます=Bạn có thể nhận phần thưởng mốc Premium\nvà tăng thêm 20 Lv.
+プレミアム枠の報酬が\n獲得できます=Bạn có thể nhận phần thưởng mốc Premium.
+有償ジュエルを使用してプレミアムパスを購入しますか？=Bạn có muốn sử dụng Jewel trả phí để mua Thẻ Premium không?
+プレミアムパス購入=Mua Thẻ Premium
+
+
+繰り返し報酬について=Về phần thưởng lặp lại
+期間中一定ポイントを獲得する度に報酬が獲得できます=Mỗi khi tích lũy đủ một lượng điểm nhất định trong thời gian diễn ra sự kiện, bạn sẽ nhận được phần thưởng.
+
+プレミアムパス購入確認=Xác nhận mua Gói Premium Pass
+このプレミアムパスは有償ジュエルで購入できます。=Gói Premium Pass này có thể mua bằng Jewel trả phí
+
+r:"^\[FFBB00,CE4F00\](\d+)ジュエル\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\]シーズンパス\[-\]\[3C404E\]のプレミアムパスを\n購入しますか？\n今シーズンのプレミアムパス販売期間：\n([0-9/ :]+)まで\[-\]$"=[3C404E]Tiêu [FFBB00,CE4F00]$1 Jewels[-] để mở khóa\n[FFBB00,CE4F00]Vé mùa[-] Premium Pass không?\nThời gian mở bán Premium Pass cho mùa giải này:\nCòn hiệu lực đến $2[-]
+
+ポイント付きプレミアムパス購入確認=Premium Pass with Points Purchase Confirmation
+r:"^\[FFBB00,CE4F00\](\d+)ジュエル\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\]シーズンパス\[-\]\[3C404E\]の\n(\d+)レベル付きプレミアムパスを購入しますか？\n今シーズンのプレミアムパス販売期間：\n([0-9/ :]+)まで\[-\]$"=[3C404E]Tiêu [FFBB00,CE4F00]$1 Jewels[-] để mở khóa\n[FFBB00,CE4F00]Vé mùa[-] Premium Pass +$2 Cấp không?\nThời gian mở bán Premium Pass cho mùa giải này:\nCòn hiệu lực đến $3[-]
+
+以下のミッション報酬を受け取りました。=Bạn đã nhận được các phần thưởng nhiệm vụ dưới đây.
+シーズンパスpt\r\n=Điểm Thẻ Mùa Giải\r\n
+
+
+
+
+残り期限=Thời hạn
+シーズン=Mùa giải
+シーズンパス画面へ=Đến màn hình Thẻ Mùa Giải
+シーズンパス画面=Màn hình Thẻ Mùa Giải
+r:"^究極錬成を(\d+)回行おう$"=Hãy thực hiện Luyện kim tối thượng $1 lần
+r:"^コネクトRANKを合計(\d+)上げよう$"=Hãy tăng tổng cộng $1 Connect RANK
+r:"^キャラのレベルを合計で(\d+)上げよう$"=Hãy tăng tổng cộng $1 cấp độ nhân vật
+r:"^黎明界ラビリンスをスキップせずに(\d+)回クリアしよう$"=Hãy vượt qua Mê cung Lê Minh $1 lần mà không dùng Skip
+ミッションが開催されていません。=Hiện không có nhiệm vụ nào đang diễn ra.
+
+ゲームに1回ログインしよう=Hãy đăng nhập vào game 1 lần
+r:"^ゲームに合計(\d+)回ログインしよう$"=Hãy đăng nhập vào game tổng cộng $1 lần
+
+
+r:"^スタミナを(\d+)消費しよう$"=Hãy tiêu hao $1 Stamina
+r:"^スタミナを合計(\d+)消費しよう$"=Hãy tiêu hao tổng cộng $1 Stamina
+r:"^メイン・イベント・サイドいずれかのクエストを(\d+)回クリアしよう$"=Hãy vượt ải Main Quest, Event Quest hoặc Side Quest $1 lần
+
+r:"^経験値クエストかマナクエストを合計(\d+)回クリアしよう$"=Hãy vượt ải EXP Quest hoặc Mana Quest tổng cộng $1 lần
+
+r:"^深域クエストを(\d+)回クリアしよう$"=Hãy vượt ải Deep Quest $1 lần
+ジュノー=Juno
+
+r:"^バトルアリーナかプリンセスアリーナで合計(\d+)回戦おう$"=Hãy tham gia Battle Arena hoặc Princess Arena tổng cộng $1 lần
+r:"^追憶の戦域 追憶戦・覇を(\d+)回クリアしよう$"=Hãy vượt ải "Reminiscence Battle - Conquest" trong Khu vực Truy ức tổng cộng $1 lần
+r:"^深淵討伐戦でボスに(\d+)回挑戦しよう$"=Hãy khiêu chiến Boss trong Abyss Subjugation Battle (Thâm Uyên Thảo Phạt Chiến) $1 lần.
+r:"^深淵討伐戦で(\d+)0億Pt獲得しよう$"=Hãy đạt $1 tỷ điểm trong Abyss Subjugation Battle.
+
+
+トレジャークエストは除く=Ngoại trừ các Nhiệm vụ kho báu (Treasure Quests)
+r:"^次元断層で(\d+)回勝利しよう$"="Hãy giành chiến thắng $1 lần tại Vết nứt chiều không gian (Dimensional Fault)."
+r:"^エルピス討魔戦線でボスバトルを(\d+)回クリアしよう$"=Hãy vượt qua Boss Battle trong Mặt trận Diệt ma Elpis $1 lần.

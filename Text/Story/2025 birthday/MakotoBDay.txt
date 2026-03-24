@@ -1,0 +1,15 @@
+Makoto Aki BDay
+
+よお、なんだよ放課後に呼び出しやがって。\nあたしとサシで決闘でもしようってのか？=Này. Ý tưởng gì vậy, gọi tôi ra đây sau giờ học? Muốn thách đấu một chọi một với tôi hả?
+なんてな♪\n今どき屋上でンなことするヤツいるわけねぇけどさ。\nあはははっ……=Đùa thôi♪ Chẳng ai lại làm chuyện như thế trên sân thượng thời này. Ahahaha...
+……いや、なに笑ってんだあたし。\nだったらなんなんだって話だよ。\n昼休みとかじゃなくて、放課後にわざわざ呼び出す理由……=...Không, tôi đang cười cái quái gì đây? Nếu là vậy thì còn ý nghĩa gì? Tại sao anh ta lại cố tình gọi tôi sau giờ học thay vì giờ ăn trưa...
+一緒に帰る、とかならこんなとこ誘う必要ねぇよな。\nなんか相談事とか？　でも、昼休みもここで一緒に飯食ったし。\nこんなふうに改まってって、まさか……=Nếu chỉ là đi chung về nhà, anh ta đâu kéo tôi lên đây. Chuyện nói chuyện gì đó? Nhưng chúng ta đã ăn ở đây trưa rồi... Gọi tôi lên đây trang trọng như vậy, đừng bảo...
+おっ、おう！？\nま、待った、心の準備が──=Ừ-Ừ?! C-Chờ đã, tôi chưa sẵn sàng tinh thần đâu!
+──あ？　ああーっ！　なるほどな！\nいやなんでもない、気にすんな！\nサンキュー！　すっかり忘れてたぜ！=Hả? AAAAAHHHH! Hiểu rồi! Không, quên đi, cứ coi như không! Cảm ơn! Tôi quên sạch!
+はぁ～、変な想像しちまった。\nわりぃな、プレゼントまで用意してもらって。\n開けてみてもいいか？　まぁもう開けてるけど。=Thở phào... để ý tới ý tưởng ngớ ngẩn rồi. Xin lỗi, cậu còn chuẩn bị quà cho tôi nữa. Tôi mở được chứ? Thôi, tôi mở rồi.
+へぇ、ぬいぐるみ……かわいい……っ、こほん。\nあたしにしちゃ、かわいすぎるけど……おまえらしいな。\n大事にさせてもらうぜ、この──=Ồ, gấu bông... dễ thương quá... Ahem! Quá dễ thương cho phong cách của tôi rồi, nhưng... đây là món quà rất "đúng chất cậu". Tôi sẽ trân trọng món quà này──
+──クマのぬいぐるみ。\nん？　クマ……？\nなぁ……おまえ、なんでクマを選んだ？=...gấu bông. Hả? Gấu...? Này, {playername}... sao cậu lại chọn con gấu?
+おまえ、あたしのぱ……余計なこと思い出したりしてねぇよなっ！？\nおい待て！　なんで逃げようとしてんだ！\nこらぁっ！　待ちやがれ！　どこまでも追いかけるからなーっ！？=Cô...! Quần... CÔ KHÔNG CHỈ NHỚ RA ĐIỀU KHÔNG NÊN NHỚ ĐÚNG KHÔNG?! NÀY, ĐỢI ĐÃ! ĐỪNG CÓ CHẠY ĐI, CẤUUUU!! QUAY LẠI ĐÂY! TÔI SẼ ĐUỔI CẤU ĐẾN CUỐI CÙI THẾ GIỚI NẾU PHẢI, CẤU BIẾT KHÔNG?!
+
+Player Prompts
+真琴ちゃん。=Makoto-chan

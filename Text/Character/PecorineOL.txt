@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛で、仲間との絆を力に変え戦う腹ペコ王女。敵のＨＰ状態で永続の物理攻撃力上昇と、短時間の特大攻撃力上昇＆自己ＴＰ回復を使い分け戦況を一変させる。=[Vật lý] Một công chúa đói khát chiến đấu bằng sức mạnh của tình đồng đội. Cô có thể tăng P.ATK vĩnh cửu hoặc tạm thời tùy theo HP kẻ địch, và tự hồi TP để thay đổi hoàn toàn tình hình trận đấu.
+
+##UB##
+オーバーロードストライク=Đòn Quá Tải
+目の前の敵１キャラに物理特大ダメージを与える。対象の残りＨＰが最大ＨＰの50％以上だった場合、味方全体のＴＰ上昇を小アップさせ、対象の残りＨＰが50％未満の場合、与えるダメージがアップする。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Nếu HP cao nhất của kẻ địch ≥ 50%, tăng nhẹ TP Boost cho tất cả đồng đội, ngược lại gây sát thương vật lý lớn lên kẻ địch.
+r:"^対象の残りＨＰが50％以上の場合、味方全体のＴＰ上昇を5アップ対象の残りＨＰが50％未満の場合、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Gây $2 sát thương vật lý lên kẻ địch.\n►Nếu HP kẻ địch ≥ 50%, tăng TP Boost cho tất cả đồng đội thêm 5 trong 18s.\n►Nếu HP kẻ địch < 50%, gây $1 sát thương vật lý lên kẻ địch.
+
+##S1##
+リミッターオーバーライト=Ghi đè Giới hạn
+自分に継続ＨＰ回復状態を付与する。残りＨＰが最も高い敵の残りＨＰが最大ＨＰの50％以上だった場合、味方全体の物理攻撃力を大アップ、物理クリティカルを中アップさせ、対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を特大アップさせる。=Hồi HP cho bản thân. Nếu HP cao nhất của kẻ địch ≥ 50%, tăng lớn P.ATK và tăng vừa phải Tỷ lệ Chí mạng vật lý cho tất cả đồng đội, ngược lại tăng rất lớn P.ATK cho tất cả đồng đội.
+r:"^毎秒ＨＰを(\d+)回復する対象の残りＨＰが50％以上の場合、味方全体の物理攻撃力を(\d+)アップ対象の残りＨＰが50％以上の場合、味方全体の物理クリティカルを50アップ対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.465s\n►Hồi HP của bản thân $1/giây trong 6s.\n►Nếu HP kẻ địch ≥ 50%, tăng P.ATK $2 và Tỷ lệ Chí mạng vật lý 50 cho tất cả đồng đội trong 180s.\n►Nếu HP kẻ địch < 50%, tăng P.ATK $3 cho tất cả đồng đội trong 12s.
+
+##S2##
+イノーマスクリーヴ=Chém Cực Lớn
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。対象の残りＨＰが最大ＨＰの50％以上だった場合、自分の物理攻撃力を大アップさせ、対象の残りＨＰが50％未満の場合、自分のＴＰを大回復させる。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước và giảm nhẹ P.DEF của nó. Nếu HP cao nhất của kẻ địch ≥ 50%, tăng lớn P.ATK của bản thân, ngược lại hồi một lượng TP lớn cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン対象の残りＨＰが50％以上の場合、自分の物理攻撃力を(\d+)アップ対象の残りＨＰが50％未満の場合、自分のＴＰを(\d+)回復$"=Thời gian niệm: 0.465s\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch $2 trong 12s.\n►Nếu HP kẻ địch ≥ 50%, tăng P.ATK của bản thân $3 trong 180s.\n►Nếu HP kẻ địch < 50%, hồi TP của bản thân $4.
+
+##EX##
+インビジブルエナジー=Năng lượng Vô hình
+インビジブルエナジー+=Năng lượng Vô hình+
+
+##S1+##
+リミッターオーバーライト+=Ghi đè Giới hạn+
+自分に継続ＨＰ回復状態を付与し、ＴＰを小回復する。残りＨＰが最も高い敵の残りＨＰが最大ＨＰの50％以上だった場合、味方全体の物理攻撃力を特大アップ、物理クリティカルを中アップさせ、対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を特大アップさせる。=Hồi HP và TP cho bản thân. Nếu HP cao nhất của kẻ địch ≥ 50%, tăng lớn P.ATK và tăng vừa phải Tỷ lệ Chí mạng vật lý cho tất cả đồng đội, ngược lại tăng rất lớn P.ATK cho tất cả đồng đội.
+r:"^毎秒ＨＰを(\d+)回復する自分のＴＰを100回復対象の残りＨＰが50％以上の場合、味方全体の物理攻撃力を(\d+)アップ対象の残りＨＰが50％以上の場合、味方全体の物理クリティカルを70アップ対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.465s\n►Hồi HP của bản thân $1/giây trong 12s.\n►Hồi TP của bản thân 100.\n►Nếu HP kẻ địch ≥ 50%, tăng P.ATK $2 và Tỷ lệ Chí mạng vật lý 70 cho tất cả đồng đội trong 180s.\n►Nếu HP kẻ địch < 50%, tăng P.ATK $3 cho tất cả đồng đội trong 24s.
+
+##UE##
+超越叛逆のプリンセスソード=Kiếm Công chúa Khởi nghĩa Siêu việt

@@ -1,0 +1,31 @@
+##Profile##
+【物理】中衛の、攻撃に特化した、ぐるぐるうさぎっこ。行動頻度は少ないが、高威力の範囲攻撃を放ち、味方全体の物理攻撃力を大きく高めるスキルも効果抜群。=[Vật lý] Cô thỏ băng bó đánh từ trung tuyến, chuyên về sức công kích. Dù đòn tấn công không thường xuyên, chúng gây sát thương rộng và mạnh, và cô ấy còn có thể tăng lớn tấn công vật lý cho tất cả đồng đội.
+
+##UB##
+ぐるぐるうさぎさんスタンプ=Cú Giẫy Thỏ Băng Bó
+
+##S1##
+ぐるぐるアタック=Đấm Băng Bó
+
+##S2##
+ぐるぐるうさぎさんエール=Điệu Nhảy Vui Vẻ Của Thỏ Băng Bó
+味方全体の物理攻撃力を特大アップさせるが、味方全体の物理防御力と魔法防御力を小ダウンさせる。=Tăng khổng lồ Tấn Công Vật Lý cho tất cả đồng đội, đổi lại giảm nhỏ Phòng Thủ Vật Lý và Ma Thuật của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ\n味方全体の物理防御力を初期値の(\d+)％ダウン\n味方全体の魔法防御力を初期値の(\d+)％ダウン$"=►Tăng Tấn Công Vật Lý đồng đội $1 trong 18s.\n►Giảm Phòng Thủ Vật Lý đồng đội $2% trong 18s.\n►Giảm Phòng Thủ Ma Thuật đồng đội $3% trong 18s.
+
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を初期値の(\d+)%ダウン味方全体の魔法防御力を初期値の(\d+)%ダウン$"=►Tăng Tấn Công Vật Lý đồng đội $1 trong 18s.\n►Giảm Phòng Thủ Vật Lý đồng đội $2% trong 18s.\n►Giảm Phòng Thủ Ma Thuật đồng đội $3% trong 18s.
+
+##EX##
+ぐるぐるうさぎさんパワー=Sức Mạnh Thỏ Bọc Băng
+ぐるぐるうさぎさんパワー+=Sức Mạnh Thỏ Bọc Băng+
+
+##S1+##
+ぐるぐるアタック+=Đập Băng Củi+
+
+##S2+##
+ぐるぐるうさぎさんエール+=Nhảy Vui Vẻ Của Thỏ Bọc Băng+
+味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップさせる。この効果は自分に対してのみ時間によって解除されない。さらに自分のＴＰを中回復、自分以外の味方全員のＴＰを小回復するが、味方全体の物理防御力と魔法防御力を小ダウンさせる。=Tăng cường cực lớn Tấn Công Vật Lý, Tỷ Lệ Chí Mạng Vật Lý và Sát Thương Chí Mạng Vật Lý cho toàn đồng minh. Hiệu ứng này không hết với bản thân. Đồng thời, phục hồi TP của mình một lượng vừa và phục hồi TP của tất cả đồng minh khác, nhưng cũng giảm Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của toàn đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の物理攻撃クリティカル時のダメージを6％アップ自分のＴＰを150回復自分以外の味方全体のＴＰを50回復味方全体の物理防御力を初期値の10％ダウン味方全体の魔法防御力を初期値の10％ダウン$"=►Tăng Tấn Công Vật Lý của toàn đồng minh lên $1 trong 18s (180s với bản thân).\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của toàn đồng minh lên 100 trong 18s (180s với bản thân).\n►Giảm Phòng Thủ Vật Lý của toàn đồng minh đi 10% trong 18s (180s với bản thân).\n►Phục hồi TP của mình thêm 150.\n►Phục hồi TP của tất cả đồng minh khác thêm 50.\n►Giảm Phòng Thủ Vật Lý của toàn đồng minh đi 10% trong 18s.\n►Giảm Phòng Thủ Ma Thuật của toàn đồng minh đi 10% trong 18s.
+
+##UE##
+ぐるぐるうさぎさんブレード=Lưỡi Thỏ Bọc Băng
+ぐるぐるうさぎさんぼうし=Mũ Thỏ Bọc Băng

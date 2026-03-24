@@ -1,0 +1,47 @@
+##Profile##
+【物理】前衛で敵後方に花火を仕掛ける夜涼みの悪戯娘。敵の最前衛をスタンで足止めしつつ、最後衛を中心としたＵＢで狭範囲の敵を引き寄せ、ＴＰダウンで攻勢を阻む。=[Vật Lý] Một cô gái nghịch ngợm, pháo tay phía sau hàng ngũ địch ở tuyến đầu. Cô dùng kỹ năng Choáng để trói chân tiền đội địch và hút kẻ địch bằng kỹ năng đặc biệt (UB) tập trung vào hậu đội. Ngoài ra, cô còn giảm TP địch để cản trở sự tấn công của họ.
+
+逆転のイタズラシュート！=Pháo Tay Đảo Ngược!
+船の上の鬼ごっこ！=Trò Chơi Bắt Bóng Trên Tàu!
+お宝はトロピカル！=Kho Báu Nhiệt Đới!
+線香花火に火をつけて！=Thả Pháo Tay Sáng!
+
+##UB##
+ビックリ・ファイヤーワーク=Pháo Tay Bất Ngờ
+前方の最も遠い敵を中心に、範囲内の敵すべてに物理大ダメージを与え、自分の目の前まで引き寄せる。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi và kéo chúng ra phía trước mình.
+
+##S1##
+サマースプラッシュボム=Bom Nước Nóng Hè
+前方範囲内の敵すべてに物理中ダメージを与え、ＴＰを中ダウンさせる。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi và giảm TP của chúng một chút.
+
+##S2##
+トロピカルサンシャイン=Nắng Nhiệt Đới
+目の前の敵１キャラに物理中ダメージを与え、スタンさせる。さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước và gây Choáng cho chúng. Ngoài ra, giảm một chút phòng thủ vật lý của kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 0.45 giây\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây Choáng cho kẻ địch trong 1.5 giây.\n►Giảm phòng thủ vật lý của kẻ địch đi $2 trong 12 giây.
+
+##EX##
+サマートリック=Mẹo Hè
+サマートリック+=Mẹo Hè+
+
+##S1+##
+サマースプラッシュボム+=Bom Nước Nóng Hè+
+前方範囲内の敵すべてに物理中ダメージを与え、ＴＰを中ダウンさせ、行動速度を小ダウンさせる。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi, giảm TP của chúng một chút, và giảm một chút tốc độ hành động của chúng (95%).
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵のＴＰを(\d+)失わせる範囲内の敵の行動速度を一定時間低下させる$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm TP của kẻ địch trong phạm vi đi $2.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi trong 12 giây.
+## Same as PTAyumi and Nea skill
+
+##UE##
+浜辺のトリックシューズ=Giày Chơi Khăm Bãi Biển
+
+##Comments##
+にいちゃん、線香花火しようよ！=Nii-chan, thả pháo hoa nào!
+やっぱり海水浴場は人がたくさんいるのかな～\nきっとみんな浮かれ気分だよね！\nにいちゃん、ミソギたちも思いっきり楽しんじゃおう！\n=Biển chắc chắn sẽ đông đúc thôi... Chắc chắn mọi người sẽ có tâm trạng lễ hội! Nii-chan, cùng Misogi vui vẻ hết mình nhé!
+にいちゃん泳ぐのあんまり得意じゃないの？\nう～ん、水場を探検することもあるよね～\nよし！　イタズラの特訓と一緒に泳ぐのも特訓しよう！\n=Nii-chan, bơi không phải sở trường của cậu, phải không? Hmm, nhưng khám phá nước cũng vui. Được rồi! Cùng luyện tập bơi như một phần trong buổi luyện tập chơi khăm!
+あ、さっきからミソギのやりたいことばっかりだね\nにいちゃんはやりたいことある？\n=Ồ, Misogi đã nói về những việc cô ấy muốn làm từ lâu rồi. Cậu có chuyện gì muốn làm không, Nii-chan?
+かき氷に～スイカわりに～砂のお城作りでしょ～\nああ～、海でやりたいことがいっぱいだよぉ～！\n=Đá bào, đập dưa hấu, xây lâu đài cát, đúng chứ? À, có quá nhiều thứ mình muốn làm ở bãi biển!
+え？　ミソギと遊びたいの？\nもー、それじゃあ今まで通りじゃん！\n…えへへ、でも嬉しいな。じゃあ覚悟してね！\n=Hả? Cậu muốn chơi với Misogi à? Vậy thì giống như trước! ...Hehe, nhưng mình vui. Vậy chuẩn bị tinh thần đi!
+ミソギは楽しいイタズラが好きなんだ～！\nミソギも、引っ掛かった人も笑顔になれなきゃね！\nだからにいちゃん、これからも笑ってほしいな！\n=Misogi thích những trò chơi khăm vui vẻ! Cả Misogi và người bị lừa đều phải cười! Vì vậy, Nii-chan, tớ cũng muốn cậu luôn cười!
+毎日夏休みならずっとにいちゃんといられるのにな～\nでもそれだと宿題もいっぱいになっちゃうか…\nにいちゃんか、宿題か…きゅうきょくのせんたくだ…\n=Nếu mỗi ngày đều là kỳ nghỉ hè, em có thể ở bên Nii-chan mãi mãi. Nhưng rồi em sẽ có quá nhiều bài tập về nhà... Nii-chan hay bài tập... cuối cùng vẫn là một lựa chọn khó khăn...
+水着を着るとなんだかワクワクしてくるよね～！\n一年中着てたいな！　…え、寒い日は風邪ひいちゃう？\nじゃあいつか一年中あったかい島を探す冒険にいこう！\n=Mặc đồ tắm khiến em thấy háo hức, cậu biết không? Em muốn mặc nó quanh năm!... Hả, bị cảm lạnh vào những ngày lạnh? Vậy thì hãy cùng đi chinh phục một hòn đảo ấm áp quanh năm nào!
+でも安心してね、にいちゃん！\nイタズラのアイデアはまだまだあるから！\nミソギのひらめきは止まらないよー！\n=Nhưng đừng lo, Nii-chan!\nEm vẫn còn đầy ý tưởng đùa giỡn!\nNguồn cảm hứng của Misogi chưa bao giờ ngừng!
+ってにいちゃんに言っちゃったらダメじゃん！\n何にも知らないにいちゃんに仕掛けないと、\nビックリも半減しちゃうもんね～…\n=Nhưng nếu em kể cho Nii-chan nghe thì không tốt, phải không? Nếu em không bất ngờ, Nii-chan, và bày trò đùa giỡn mà cậu không hay biết, yếu tố bất ngờ sẽ bị giảm...
+海でのイタズラ考えてるんだ～！\n今思いついてるのは、激辛かき氷とか～、\n暴走バナナボートとか～、炸裂ビーチボールとか～…\n=Em đang nghĩ đến những trò đùa ở biển! Những ý tưởng vừa nghĩ ra là thứ như kem đá siêu cay, chuyến đi thuyền chuối hoang dã, và những quả bóng bãi biển nổ tung...

@@ -1,0 +1,95 @@
+---Kaori's Soulful Karate Dojo---
+---Title/description---
+これぞ琉球魂！\n押し寄せるマジムンをなぎ倒す\n爽快アクションゲーム！=Tinh thần Ryukyu!\nChém đứt Majimun tấn công trong một trò chơi hành động sảng khoái!
+左右をタップしてマジムンを倒し\nましょう！\n放て！\n琉球犬アラウンドシュート！=Nhấn ←Trái và →Phải để đánh bại Majimun!\nBắn!\nRyukyu-ken Around Shot!
+
+---Tips---
+戦いに備えて、カオリさまとイメージトレーニングをいたしましょう。\n左右から押し寄せる魔物をクリックか左右キーで撃退してくださいまし。\n色違いの魔物は、尻尾の炎の数だけ攻撃する必要がございます。=Hãy cùng tập luyện với Kaori để chuẩn bị cho trận chiến!\nNhấp vào quái vật đến từ trái và phải, hoặc sử dụng các mũi tên ←Trái và →Phải để đánh lui chúng. Quái vật có màu khác nhau cần bị tấn công nhiều lần tương ứng với số ngọn lửa trên đuôi.
+足もとが光っている魔物を倒すと、フィーバーゲージが上昇します。\nゲージが最大まで溜まるとフィーバーモードが発動しますよ。\n時間の許す限り連打して、魔物たちを一網打尽にいたしましょう。=Đánh bại đối thủ có ánh sáng lấp ló bên dưới sẽ làm tăng Thanh Gauge Sốt. Khi Gauge của bạn đạt tối đa, Chế độ Sốt sẽ kích hoạt! Hãy tiếp tục đánh càng nhiều càng tốt trong thời gian này!
+合計スコアに応じて、報酬を獲得することができます。\nどの難易度でトレーニングをしてもスコアは共通ですので\nご自分に合った難易度をお選びください。=Bạn sẽ nhận được phần thưởng dựa trên tổng điểm của mình.\nĐiểm tích lũy qua tất cả các cấp độ, vì vậy hãy tự do chọn cấp độ phù hợp nhất với bạn!
+
+---Result screen---
+ハイスコア=Điểm cao
+撃破数=Đã đánh bại
+過去最高スコア=Điểm Cao
+撃破スコア=Điểm Đánh bại
+匹=X
+残りライフ / ボーナス=Máu Còn Lại / Lối Chơi
+最大コンボ / ボーナス=Combo Tối Đa / Lối Chơi
+
+---Earn title---
+難易度EXTRAで一度に\n70000以上のスコアを獲得したため\n称号「荒波のマジムンバスター」を獲得しました。=Bạn đạt được 70.000 điểm trở lên ngay lập tức ở độ khó EXTRA!\nBạn đã nhận được danh hiệu [FFBB00,CE4F00]Kẻ Diệt Sóng Dữ Majimun[-]!
+
+---Win dialogues---
+まだまだ私は元気だよ～！\nマジムンでもなんでも、\nどんとこーいさー♪=Vẫn còn tràn đầy năng lượng! Dù là Majimun hay gì, tôi sẵn sàng đối đầu bất cứ lúc nào! ♪
+何匹で襲ってきたって\n私はマブイを落っことさないよ～！\nくしゅん！　あ……\n今のくしゃみで落っこちたかも～？=Dù bao nhiêu kẻ tấn công, tôi cũng sẽ không làm rơi Mabui của mình! Hatschi! À... Có lẽ cái hắt hơi vừa rồi làm tôi làm rơi nó?
+あれ～？　戦ってるうちに\n水着がどっか行っちゃった～？\nねぇキミ、どっかで見なかった～？\nなんで離れるさ～？=Hả? Áo tắm của tôi đi đâu trong lúc đánh nhau rồi? Này, cậu có thấy nó ở đâu không? Nó có trôi đi rồi không?
+
+ひーやーさーさー♪\n戦いの後は、踊りを踊って\n気分スッキリさ～！=Hi-ya-sa-sa~♪\nNhảy múa sau trận chiến thật sảng khoái~!
+
+私の空手は世界最強さ～！\n夏の陽射しと青い海も合わされば、\n向かうところ敵なしだよー！=Karate của tôi là mạnh nhất thế giới! Kết hợp với ánh mặt trời mùa hè và biển xanh, không ai có thể sánh kịp!
+恥ずかしいところ\n見られちゃったね～\n水着？　水着のことじゃないよー？=Cậu đã thấy điều gì đó xấu hổ rồi đúng không? Không, tôi không nói về áo tắm đâu..
+絶好調さ～！　この調子で\n海の平和を取り戻すよ～！\n楽しい夏が待ってるさ～！=Tôi đang ở đỉnh cao phong độ! Chúng ta sẽ đem lại hòa bình cho biển cả trong chớp mắt! Và sau đó một mùa hè vui vẻ đang chờ đón chúng ta!
+
+---Lose dialogue---
+なんくるない、なんくるない\n次、頑張ればいいんだよ～！\n海で泳いで\nリフレッシュするさー！=Đừng lo, lần sau tôi sẽ cố gắng hết sức! Trước tiên tôi sẽ ra biển tắm một chút để tỉnh táo lại!
+
+あうぅ～残念さ～\nマジムンに魂を\n奪われちゃったかな～？=Ồ, tiếc quá.\nMajimun có đã lấy mất tinh thần của cậu không?
+マジムンだらけで目が回るさ～！\nふらふらさ～！=Tất cả những con Majimuuuun này..\nTôi thấy chóng mặt quá!\nTôi không chịu nổi!
+今日は踊りのキレも悪いよ～\nゴーヤーっぽいもの食べて、元気回復さ～！=Động tác nhảy của tôi hôm nay không sắc bén lắm! Tốt nhất nên ăn thứ gì đó như dưa muộng để lấy lại năng lượng!
+
+---Story---
+カオリと海辺で大特訓！=Buổi tập luyện đặc biệt trên bãi biển của Kaori!
+
+海辺で一人、空手の特訓をしているカオリ。自分の頭の中で思\nい浮かべたマジムンを大量に倒すというイメージトレーニング\nをしていた彼女は、{playername}に応援を頼みながら、特訓に励\nむのであった。=Kaori đang tự mình tập karate trên bãi biển. Cô ấy đang tập luyện tinh thần để đánh bại những Majimun mà cô ấy tưởng tượng ra trong đầu. Với {playername} cổ vũ, cô ấy chăm chỉ chìm đắm vào buổi tập.
+
+せい、はっ！\nえーい、さーっ！=Sei~! Ha~! Eei~! Saa~!
+何してるの？=Cậu đang làm gì vậy?
+あ、{playername}！　ハイターイ♪\nこれー？　イメージトレーニングさー！=À, {playername}! Hai-tai!♪\nCái này..? Là tập luyện tinh thần!
+相手はマジムンだからねー\n故郷の血が騒ぐんだよ～！=Cậu biết không, vì đối thủ là Majimun,\nnguyên dân quê hương tôi sôi sục trong người tôi!
+{playername}もやってみるー？\n大丈夫、私の真似をしたらいいだけよー！=Cậu muốn thử không, {playername}?\nĐừng lo, cứ bắt chước tôi!
+まずは集中してイメージするさー……=Trước tiên hãy tập trung tưởng tượng chúng...
+ほら、目の前にマジムンがいっぱい出てくるでしょー？\nそれをなぎ倒すんさー！=Nào, có rất nhiều Majimun ở phía trước cậu, đúng không?\nHãy cắt đứt chúng!
+……え？=...Hả?
+え、出てこない～？\n集中力が足りないさ～、もっと強くイメージするさ～！=Hả? Cậu không thấy chúng sao?\nCó vẻ cậu thiếu tập trung.\nCậu cần phải cố gắng hơn!
+難しい？　う～ん、仕方ないさ～！\nじゃあ、そこで応援しててほしいさ～！=Quá khó? Hmm, thì cũng không thể trách được!\nCổ vũ cho tôi trong khi tôi thể hiện!
+{playername}の応援だけは、\nイメージじゃ満足できないからね～♪=Có vẻ {playername} không thể thỏa mãn chỉ với trí tưởng tượng~♪
+じゃあ、いっくさ～！=Được rồi, cùng làm đi!
+
+礼に始まり礼に終わる=Mọi thứ đều bắt đầu và kết thúc bằng lòng biết ơn!
+
+イメージトレーニングを終えたカオリは、{playername}と礼を交\nわす。その際に頭をぶつけてしまったカオリは、頭を冷やすた\nめに海へ行こうと誘う。体が冷えたらまた特訓だと、張り切る\nカオリだった。=Sau khi hoàn thành buổi tập luyện tinh thần, Kaori cúi chào với {playername}. Cô ấy va đầu vào $1 và dẫn cậu ấy ra biển để giải nhiệt. Cô ấy háo hức muốn tập luyện thêm một chút sau khi đã dịu đi.
+
+はいやぁっ！\n……ふぅ、こんなところだね～♪=Hai-yaah! ...Phew, vậy là đủ rồi~♪
+本当にマジムンがいるみたいだった。=Thật sự cảm giác như Majimun đang ở đây
+{playername}にも見えた～？\nよかったさ～！=Cậu cũng thấy chúng phải không, {playername}?\nMay quá!
+でもこれでイメージトレーニングはバッチリよ～\n応援してくれてありがとうね～=Nhưng với thế này, buổi tập luyện tinh thần của tôi đã hoàn thành~\nCảm ơn vì đã cổ vũ cho tôi~
+そうだ、最後はちゃんと礼をしないと～\n空手は礼に始まり礼に終わるのが基本だからね～！=Phải... Tôi phải thể hiện lòng biết ơn!\nKarate bắt đầu và kết thúc bằng việc thể hiện lòng biết ơn một cách thích hợp!
+{playername}もするの～？\nじゃあ、私と向かい合って～、礼っ！=Cậu cũng sẽ làm phải không, {playername}?\nVậy, nhìn tôi và cúi chào!
+いたた～！\nあは～、顔がぶつかっちゃったねぇ♪\n{playername}、勢いよく頭を下げ過ぎだよ～♪=Ôi ôi ôi! Aha... đầu chúng ta va vào nhau♪\n{playername}, cậu cúi chào quá sâu♪
+大丈夫～？　顔、痛いところはない～？\nちょっとよく見せるさ～=Cậu ấy ổn chứ~? Có chỗ nào trên mặt đau không~?\nĐể tôi xem nào~
+ん？　近い？　近づかないと見えないでしょ～？\nほらほら、逃げちゃダメさ～♪=Hm...? Gần...? Tôi không thấy được trừ khi tôi ở gần, phải không?\nNào, đừng chạy trốn♪
+おでこがちょっと赤くなってるだけだね～\nこれくらいなら、冷やしておけば大丈夫だね～=Trán cậu chỉ hơi đỏ thôi~\nSẽ ổn thôi nếu làm mát một chút~
+じゃあ、冷やすために海に行くさ～！\n決して泳ぎたいわけじゃないよ～？=Được rồi, chúng ta ra biển để làm mát nó!\nChắc chắn không phải vì tôi muốn bơi, được chứ?
+体が冷えたらまたイメージトレーニングして、\n体をあっためればいいさ～♪=Nếu làm mát, cậu có thể tập luyện tinh thần thêm để tự làm ấm mình lên~♪
+
+
+挑め、己の限界に=Đẩy đến giới hạn!
+
+マジムンを倒すイメージトレーニングを繰り返し、体が温まっ\nてきたカオリ。これならもっと本気を出せると思ったカオリ\nは、限界を超えるためにより強いマジムンをイメージして、激\nしい特訓に挑むのであった。=Kaori đang được làm ấm từ tất cả buổi tập luyện tinh thần.\nCô ấy nghĩ rằng bây giờ có thể nghiêm túc hơn, nên tưởng tượng ra những Majimun mạnh hơn để vượt qua giới hạn của mình và thử thách bản thân với những buổi tập khắc nghiệt hơn.
+
+だいぶ体があったまってきたさ～=Tôi đã khá được làm ấm rồi~
+これならもう少し、\n本気でやってみてもいいかもねぇ～=Có lẽ đến lúc nghiêm túc hơn một chút~
+もっと強くマジムンをイメージするさ～！\n今の私の限界を超えるよ～！=Tôi sẽ tưởng tượng những Majimun mạnh hơn,\nvượt qua giới hạn của mình~!
+さぁ、どんどんかかってくるさ～！=Nào, cứ mang chúng đến~!
+
+本物が一番=Thứ thật sự là tốt nhất!
+
+r:"^より強くイメージしたマジムンを打ち破ったカオリ。まだまだ\n上を目指せると言う彼女は、休憩するために砂浜に寝転ぶ。([\s\S]{2,10})の膝を枕にしながら、カオリはイメージより本物が一番\nだと微笑む。$"=Kaori đánh bại Majimun mà cô ấy tưởng tượng sẽ mạnh hơn nữa. Cô ấy nói rằng vẫn có thể nhắm mục tiêu cao hơn, nên nằm xuống bãi biển nghỉ ngơi. Dùng đầu gối của $1 làm gối, Kaori mỉm cười nói rằng thứ thật sự vẫn tốt hơn trong tưởng tượng của cô.
+
+琉球犬アラウンドシュートッ！\n……か、勝ったさ～！=Ryukyu-ken Around Shot!\n...T-Tớ thắng rồi~!
+自分でイメージしたものだけど、\nなかなかの強敵だったさ～！=Dù là do tớ tưởng tượng ra, nhưng đối thủ cũng khá đáng gờm~!
+さすがに疲れたねぇ～\nでも、まだまだ上を目指せるはずさ～！=Aaah.. Tớ mệt quá~\nNhưng tớ vẫn có thể nhắm cao hơn nữa~!
+とりあえず今は、砂浜に寝転んで休憩さ～\n気持ちのいい枕でもあったらいいんだけど、\nそれもイメージで我慢さ～=Trước mắt, tớ chỉ muốn nằm xuống bãi biển nghỉ ngơi. Thật tốt nếu có chiếc gối êm, nhưng tớ chắc cũng phải chịu đựng thôi~
+ん？　なんか本当に柔らかいさ～？\n……{playername}？\n私、{playername}の膝を枕にしてるさ～？=Hả? Có gì đó.. thật mềm mại~ ...{playername}?\nTớ đang dùng đùi của {playername} làm gối à~?
+これ、イメージ、じゃないよね？\nあは～、気持ちいいさ～、やっぱり本物が一番だね～♪=Tớ không tưởng tượng nhầm chứ..?\nAha~, cảm giác thật sự tốt~, thứ thật sự quả là tốt nhất~♪

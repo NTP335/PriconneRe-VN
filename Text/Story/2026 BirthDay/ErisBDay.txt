@@ -1,0 +1,20 @@
+Eris Birthday
+
+騎士クン、今日の待ち合わせって、もしかして……=Hiệp sĩ-kun, buổi hẹn hôm nay, lẽ nào là...
+ありがとう……ありがとう、騎士クン。\nわたしは騎士クンが、今ここにいてくれるだけで、本当に幸せだよ。\nこの時間、二人っきりで過ごせるなんて──でも。=Cảm ơn anh... cảm ơn anh nhiều lắm, Hiệp sĩ-kun. Chỉ cần có anh ở bên cạnh lúc này thôi là em đã thấy thực sự hạnh phúc rồi. Được dành khoảng thời gian này chỉ riêng hai chúng ta thế này── nhưng mà.
+あ、でも。もしもお願いできるなら\nひとつ、欲しいものがあるの。=A, nhưng mà. Nếu em có thể đưa ra một thỉnh cầu... thì có một thứ em rất muốn có.
+えっとね、変だと思われるかもしれないんだけど。\n騎士クンの……サイン。\nダメ、かな？=Ừm thì, có thể anh sẽ thấy hơi kỳ lạ... nhưng em muốn xin... chữ ký của Hiệp sĩ-kun. Không được... sao anh?
+この紙の……この欄だよ。\n騎士クンの名前でサインをして……\nあとはハンコを押してくれたら、完璧。=Ở tờ giấy này... ngay ô này này. Anh ký tên của mình vào đây... rồi đóng dấu vào nữa là hoàn hảo luôn.
+うん。\n……………………な……、なんちゃって。\nじょ、冗談……だよ。=Vâng. ...................Đ-Đùa thôi mà. Em... chỉ đùa chút thôi.
+この夢の中でもらったプレゼントは、きっと持って帰れないから\nただのごっこ遊びになっちゃうけど……それなら、\nちょっとだけ、本格的にできたらうれしいな、って。=Món quà nhận được trong giấc mơ này chắc chắn là không thể mang về rồi, nên nó cũng chỉ là trò chơi giả vờ thôi... nhưng nếu đã vậy, em nghĩ mình sẽ rất vui nếu chúng ta làm nó thật nghiêm túc một chút.
+えっ、本当に……書いてくれたの？\nこんな冗談みたいなお願い、叶えてくれるなんて……=Ơ, anh thực sự... viết rồi sao? Một thỉnh cầu cứ như đùa thế này mà anh cũng thực hiện giúp em...
+……えっと、じゃあ……\nこのあと……二人でデート、とか。\n今日だけ一日、夫婦みたいに……それも、いい？=...Ừm, vậy thì... sau đây... chúng ta đi hẹn hò nhé? Chỉ riêng ngày hôm nay thôi, hãy cứ như một cặp vợ chồng... như vậy cũng được chứ anh?
+こんな素敵な夢を見せてくれて……\nありがとう。騎士クン……♪=Cảm ơn anh vì đã cho em thấy một giấc mơ tuyệt vời thế này... Hiệp sĩ-kun...♪
+
+Player Prompts
+うん。誕生日おめでとう、エリさん！=Ừm. Chúc mừng sinh nhật em, Eri-san!
+プレゼントは何がいい？=Em muốn quà gì nào?
+紙とペンを受け取る。=*Nhận lấy tờ giấy và cây bút*
+うん…………うん？=Được rồi... Ơ...?
+『婚姻届』…………？="Đơn đăng ký kết hôn"......?
+今日は、僕にできることなら何でも。=Hôm nay, bất cứ điều gì trong khả năng của anh, anh đều sẽ thực hiện cho em.

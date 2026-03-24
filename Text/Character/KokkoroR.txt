@@ -1,0 +1,34 @@
+##Profile##
+【物理】後衛で、わんわんと一緒の新緑レンジャー少女。自分の攻撃力に応じて強化される物理攻撃支援スキルやＨＰ継続回復、バリアで周囲を支え、絆の勝利へと導く。=[Vật lý] Một nữ thợ săn với trang phục xanh mới, chiến đấu từ hàng sau cùng với chú cún dễ thương. Cô hỗ trợ đồng minh với kỹ năng tăng P.ATK, hồi phục HP, và khiên cường độ mạnh lên theo sức tấn công bản thân. Cô dẫn dắt đội nhóm đến chiến thắng thông qua sự gắn bó.
+
+人と自然、交わるココロ=Trái tim nơi con người và thiên nhiên gặp gỡ
+森の恵みと薬草泥棒=Lòng tốt của rừng và kẻ trộm thảo mộc
+大自然のガイド役=Hướng dẫn cho thiên nhiên xanh
+こころからの憧れ=Khao khát từ trái tim
+
+##UB##
+主従の絆風=Master-Servant Bond Style
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、物理クリティカルを中アップさせる。自分の物理攻撃力が高い程、物理攻撃力と物理クリティカルの上昇量が最大５倍までアップする。=Tăng rất lớn P.ATK của đồng minh trong phạm vi 100, và tăng trung bình P.CRIT của họ trong 18 giây. Càng cao P.ATK bản thân, tăng P.ATK và P.CRIT càng lớn, tối đa 5 lần.
+## Same as MGMonikas
+
+##S1##
+わんわんと一緒=With Doggie My Lord
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。自分の物理攻撃力が高い程、物理攻撃力の上昇量が最大５倍までアップする。=Tăng rất lớn P.ATK của đồng minh trong phạm vi, và tăng nhẹ P.CRIT DMG của họ. Càng cao P.ATK bản thân, tăng P.ATK càng lớn, tối đa 5 lần.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを5％アップ$"=►Tăng P.ATK của đồng minh trong phạm vi 100 thêm $1 (+0.145×$1) trong 12 giây.\n►Tăng P.CRIT DMG của đồng minh trong phạm vi 100 thêm 5% trong 12 giây.
+
+##S2##
+深緑の癒風=Deep Green Healing Breeze
+自分を中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与し、物理/魔法吸収バリアを展開する。=Trao cho đồng minh trong phạm vi khả năng hồi phục HP liên tục, và thi triển khiên bảo vệ họ, hấp thụ Sát thương Vật lý/Phép thuật.
+r:"^毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Hồi phục HP của đồng minh trong phạm vi 100 thêm $1/giây trong 12.5 giây.\n►Thi triển khiên bảo vệ cho đồng minh trong phạm vi 100, hấp thụ $2 Sát thương Vật lý/Phép thuật trong 12 giây.
+
+##EX##
+わんわんコンビネーション=Doggie My Lord Combination
+わんわんコンビネーション+=Doggie My Lord Combination+
+
+##S1+##
+わんわんと一緒+=With Doggie My Lord+
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、物理攻撃クリティカル時のダメージと物理防御力と魔法防御力を小アップさせる。さらに、自分を中心とした範囲内の味方すべてのＴＰを小回復させる。自分の物理攻撃力が高い程、物理攻撃力の上昇量が最大５倍までアップする。=Tăng rất lớn P.ATK của đồng minh trong phạm vi, và tăng nhẹ P.CRIT DMG, P.DEF và M.DEF của họ. Ngoài ra, hồi phục nhẹ TP của đồng minh trong phạm vi. Càng cao P.ATK bản thân, tăng P.ATK càng lớn, tối đa 5 lần.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを5％アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方のＴＰを80回復$"=►Tăng P.ATK của đồng minh trong phạm vi 100 thêm $1 (+0.145×$1) trong 12 giây.\n►Tăng P.CRIT DMG của đồng minh trong phạm vi 100 thêm 5% trong 12 giây.\n►Tăng P.DEF của đồng minh trong phạm vi 100 thêm $2 trong 12 giây.\n►Tăng M.DEF của đồng minh trong phạm vi 100 thêm $3 trong 12 giây.\n►Hồi phục TP của đồng minh trong phạm vi 100 thêm 80.
+
+##UE##
+わんわんの主さま=Doggie My Lord

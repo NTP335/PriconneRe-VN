@@ -1,0 +1,139 @@
+r:"^(\[[0-9A-F,]{6,13}\])階\[-\]$"=$1F[-]
+階=F
+回廊探索=Lối Đi Ma Quỷ
+パーティ=Đội
+保存パーティ=Lưu Đội
+ルナの塔においてバトル速度の上限を設定できます。=Bạn có thể thiết lập tốc độ chiến đấu tối đa trong Tháp Luna.
+バトル速度の上限設定=Cài đặt giới hạn tốc độ chiến đấu
+このパーティを保存しますか？=Bạn có muốn lưu đội này không?
+対象タブ=Tab
+パーティ名=Tên Đội
+残り挑戦回数がリセットされるまでお待ちください。=Vui lòng chờ đến khi giới hạn lần thử của bạn được reset.
+r:"^このEXクエストは(\d+)階をクリアすると解放されます。$"=Nhiệm vụ EX này sẽ được mở khóa sau khi hoàn thành Tầng $1.
+キャラ全回復=Hồi Toàn
+r:"^\[3B3F4D\]あと\[-\]\[64C9FD,0060BA\](\d+)時間\[-\]\[3B3F4D\]で利用できます。\[-\]$"=[3B3F4D]Có thể sử dụng trong [64C9FD,0060BA]$1h[-].[-]
+r:"^\[3B3F4D\]あと\[-\]\[64C9FD,0060BA\](\d+)分\[-\]\[3B3F4D\]で利用できます。\[-\]$"=[3B3F4D]Có thể sử dụng trong [64C9FD,0060BA]$1p[-].[-]
+1日1回キャラを全回復できます。=Bạn có thể hồi HP cho tất cả mọi người một lần mỗi ngày.
+sr:"^あと(\d+)?時?間(\d+分)で利用できます。$"=Còn $1h$2 để sử dụng.
+
+全てのキャラのHPを全回復します。=Hồi HP cho toàn bộ nhân vật.
+編成したキャラのTPもリセットされます。=TP cũng sẽ được reset.
+サポートキャラはリセット対象外です。=Nhân vật hỗ trợ không thể được reset.
+
+クリア済み=Đã Hoàn Thành
+この階はすでにクリアしています。=Tầng này đã được hoàn thành rồi.
+
+EXクエスト一覧=Tầng EX
+
+回廊探索 クリアパーティ一覧=Danh sách Đội đã hoàn thành Tìm kiếm Lối Đi Ma Quỷ
+ルナの塔頂上 EXクエスト=Nhiệm vụ EX Đỉnh Tháp Luna
+
+
+頂上=Top
+
+不参加=N/A
+
+未編成=Chọn
+
+模擬戦で使用=Dùng cho Trận Đấu Giả Lập
+本戦で使用=Dùng cho Trận Đấu Thật
+未所持/戦闘不能/制限Lv以下のキャラは編成できません。=Nhân vật cấp thấp \ Không sở hữu \ Không thể chiến đấu\nkhông thể sử dụng.
+本戦の場合、本戦使用済みのキャラは編成されません。=Trong trận đấu thật, nhân vật\nkhông thể được điều động nhiều hơn một lần.
+本日の編成キャラ数=Nhân vật hôm nay
+
+ルナの塔バトル開始確認=Xác nhận bắt đầu trận đấu
+本戦を開始しますか？=Bạn có muốn bắt đầu không?
+
+今後このメッセージを表示しない=Không hiển thị thông báo này nữa
+
+r:"^\[3C404E\]リタイアするとスタミナが\[FFBB00,CE4F00\](\d+)\[-\]消費され、\nキャラのHP・TPがバトル前の状態に戻ります。\n\nよろしいですか？\[-\]$"=[3C404E]Rút lui sẽ tiêu hao [FFBB00,CE4F00]$1[-] stamina và khôi phục HP và TP của nhân vật về trạng thái trước trận đấu.\n\nBạn có chắc không?[-]
+
+模擬戦では報酬は獲得できません。=\u2800    Không thể nhận phần thưởng từ Trận Đấu Giả Lập.
+
+進行中バトル=Trận đấu đang diễn ra
+ルナの塔へ=Đến Tháp Luna
+「★1、★2、★6への変更」はできません。="Thay đổi thành ★1, ★2, ★6" không thể thực hiện.
+選択パーティ=Đội chọn lọc
+パーティ編成使用確認=Xác nhận lựa chọn đội
+このパーティ編成を使用しますか？=Cậu có muốn sử dụng đội hình này không?
+未所持/制限Lv以下のキャラは編成できません。=Nhân vật cấp thấp / chưa sở hữu không thể sử dụng.
+今後このメッセージを表示しない\n※この設定は後から［設定］で変更できます。=Không hiển thị thông báo này trong tương lai.\n※Có thể thay đổi sau từ [Cài đặt].
+
+クエストリタイア=Rời nhiệm vụ
+[3C404E]リタイアするとクエスト報酬を\n獲得することができません。\n\nよろしいですか？[-]=[3C404E]Cậu sẽ không nhận được phần thưởng nào nếu rời đi.\n\nCó chắc không?[-]
+リタイアすると報酬を\n獲得することができません。\n挑戦回数は消費されません。\n\nよろしいですか？\n=Cậu sẽ không nhận được phần thưởng nào nếu rời đi.\n\nCó chắc không?
+
+
+r:"^ルナの塔(\d+)階 EXクエスト$"=Nhiệm vụ EX Tầng $1 Tháp Luna
+r:"^ルナの塔(\d+)階$"=Tháp Luna $1F
+r:"^(\d+)階 クリアパーティ一覧$"=Danh sách đội đã vượt tầng $1
+このパーティはバトルに参加していません。=Đội này chưa tham gia trận đấu.
+同名キャラ編成の設定が「編成不可」になっています。=Cài đặt về nhân vật cùng tên trong một đội là "Không Cho Phép"
+未所持のキャラは編成できません。=Nhân vật chưa sở hữu không thể được phân vào đội.
+変更可=Đang thay đổi
+変更不可=Không thể thay đổi
+選択したパーティの★=★ Đội đã chọn
+「★１、２、６へ変更」「星5に才能開花をしていないキャラを変更」はできません。=Cậu không thể thay đổi ★ của nhân vật ★1, ★2 và ★6. Chỉ nhân vật ★5 mới có thể thay đổi ★.
+選択したパーティの★に変更する=\u2800 Thay đổi ★ thành ★ của đội đã chọn
+選択したパーティと現在のキャラの★の数が異なります。=★ của nhân vật đã chọn và \nnhân vật hiện tại khác nhau.
+現在のキャラの★=★ nhân vật hiện tại
+同じキャラを編成することはできません。=Cậu không thể gán cùng một nhân vật vào đội nhiều hơn một lần.
+05:00までは他のサポートキャラを選択できません。=Cậu không thể chọn nhân vật hỗ trợ khác\ncho đến 05:00 (JST).
+[FF7C4E,D62146]全回復できる回数は毎日5:00にリセットされます。[-]=[FF7C4E,D62146]Thời gian hồi chiêu của Hồi Phục Toàn Diện được reset lúc 5:00 mỗi ngày.[-]
+[FF7C4E,D62146]　1度本戦でサポートキャラを使用すると、\n05:00まで他のサポートキャラは使用できません。[-]=[FF7C4E,D62146] Một khi nhân vật hỗ trợ\nđược chọn, không thể chọn nhân vật hỗ trợ khác cho đến 05:00 (JST).[-]
+[3C404E]全てのキャラのHPを全回復しました。[-]=[3C404E]HP của tất cả nhân vật\nđã được phục hồi hoàn toàn.[-]
+[3C404E]全回復できる回数は毎日05:00にリセットされます。[-]=[3C404E]Hồi Phục Toàn Diện được reset hàng ngày lúc 05:00 (JST).[-]
+ダメージをうけたキャラがいないため、利用できません。=Không thể sử dụng vì không có nhân vật nào bị thương.
+すでに他のサポートキャラが設定されています。=Cậu đã gán một nhân vật Hỗ trợ vào đội này rồi.
+すでにサポートキャラに設定されています。=Nhân vật Hỗ trợ đã được thiết lập.
+戦闘不能キャラは編成できません。=Nhân vật không thể chiến đấu không thể được phân vào đội.
+到達時間=Khi
+この階をクリアしたクランメンバーです。=Các thành viên bang hội đã vượt qua tầng này.
+r:"^(\d+)階 クリアメンバー$"=Người sống sót tầng $1
+
+このEXクエストをクリアしたクランメンバーです。=Các thành viên bang hội đã vượt qua Nhiệm vụ EX này.
+r:"^(\d+)階EXクエスト クリアメンバー$"=Người sống sót Nhiệm vụ EX tầng $1
+r:"^(\d+)階EX クリアパーティ一覧$"=Danh sách đội đã vượt Nhiệm vụ EX tầng $1
+このクエストをクリアしたクランメンバーです。=Các thành viên bang hội đã vượt qua nhiệm vụ này.
+回廊探索 クリアメンバー=Người sống sót Lối Đi Ảo Ảnh
+r:"^回廊探索 wave(\d)$"=Làn Sóng $1 Lối Đi Ảo Ảnh
+バトルスキップを行いますか？=Cậu có muốn bỏ qua trận đấu không?
+[FF7C4E,D62146]対象のクエストはありません。[-]=[FF7C4E,D62146]Không có nhiệm vụ nào khả dụng.[-]
+クリアで使用できます。=Phải vượt qua trước.
+AUTO・SMARTで操作せずバトル終了した場合リプレイできます。=Nếu trận đấu kết thúc mà không sử dụng AUTO/SMART, có thể chiến lại.
+※「AUTO」にてバトルが行われます。\nまたスキップ時はUB即発動モードはOFFになります。\n※リプレイは最後まで操作方法を変えずにバトルを行った場合に再生できます。=※Trận đấu sẽ được mô phỏng với "AUTO".\nNgoài ra, khi bỏ qua, chế độ UB tức thời sẽ được TẮT.\n※Trận đấu có thể chiến lại nếu chiến đấu mà không thay đổi chế độ chiến đấu cho đến khi kết thúc.
+
+スキップ結果確認=Xác nhận kết quả bỏ qua
+リタイアすると、\n敵とキャラのHP・TPがバトル前の状態に戻ります。\n\nよろしいですか？=Khi cậu bỏ cuộc, HP và TP của nhân vật sẽ trở về như trước trận đấu.\n\nCó ổn không?
+
+スキップ結果確認=Xác nhận kết quả bỏ qua
+スキップした結果を反映しますか？=Bạn có muốn tiếp tục với kết quả bỏ qua này không?
+
+---Story card---
+閲覧したい章を選択してください。=Vui lòng chọn chương bạn muốn xem.
+ルナの塔ストーリー一覧=Danh sách câu chuyện Tháp Luna
+レディの理想と大人の真実=Lý tưởng của một quý cô và sự thật của người trưởng thành
+姉なる命題と博士の対偶=Bộ đôi năng động của chị em và học giả
+追憶の歌姫と彷徨う幽霊=Nữ ca sĩ hoài niệm và con ma du mục
+美の探求者と女君の宴=Người tìm kiếm vẻ đẹp và bữa tiệc của quý cô
+ちぐはぐワーク&レスト=Công việc và nghỉ ngơi không tương xứng
+忍剣珍道中=Con đường đến kiếm thuật ninja
+冥風戦記外伝・吸血鬼伝承=Gale Chronicles: Huyền thoại Ma cà rồng
+あまあま妹シューターズ！=Chị em ngọt ngào bắn súng!
+もふもふメルヘン珍道中=Cuộc phiêu lưu cổ tích mềm mại
+ティーチャーズガイダンス=Sự hướng dẫn của giáo viên
+スターたちの二重奏=Bản đôi của các vì sao
+失われた記憶を求めて=Tìm kiếm những ký ức đã mất
+姉妹の絆と願いの塔=Mối liên kết của chị em và Tháp Ước nguyện
+シスターズ・ブッキング=Chị em đặt chỗ
+あまのじゃくゴーストハウス=Ngôi nhà ma Amanojaku
+二つの誇りは絆と共に=Liên kết và Tự hào
+すれちがいディスタンス=Đi cùng đường nhưng lại bỏ lỡ nhau
+湧き上がる勇気が=Lòng can đảm ẩn sâu bên trong
+トリプルヒーロー参上！=Ba anh hùng xuất hiện!
+---NPC---
+選択した使用したいパーティ内のキャラの★数が現在設定している★数と\n異なります。★選択した使用したいパーティの★に変更できます。\n★の数は★5～★3の間で変更できますよ。=Cấp ★ của các nhân vật được chọn trong đội bạn muốn sử dụng khác với cấp ★ hiện tại. ★ Bạn có thể thay đổi cấp ★ của đội bạn muốn sử dụng. Số ★ có thể được thay đổi từ ★ 3 đến ★ 5.
+塔は育てたキャラ全員を編成することが可能で、何回でも挑戦できます。\n1日に1回、HPを全回復できる「キャラ全回復」ボタンが使えます。=Bạn có thể thử tháp nhiều lần tùy thích bằng các đội hình bao gồm bất kỳ nhân vật nào bạn có. Bạn cũng có thể sử dụng "Full Heal" một lần mỗi ngày để phục hồi hoàn toàn HP của đội.
+塔に出現するシャドウは、バトル開始時にTPが溜まっています。\n加えて、バトルの制限時間を過ぎると全滅してしまいます。\n残り時間にもお気を付けくださいませ。=Các bóng tối trong tháp bắt đầu trận chiến với thước đo TP đã đầy. Hơn nữa, đội của bạn sẽ bị xóa sổ nếu vượt quá thời gian chiến đấu. Vui lòng chú ý đến thời gian còn lại.
+70階までクリアすると、特殊なボスが出現する「EXクエスト」に\n挑戦できます。これは3パーティで挑む特別なクエストです。\n主さま、しっかりと準備を整えて挑みましょう。=Hoàn thành 70F sẽ cho phép bạn thử thách "EX Quest". Bạn có thể sử dụng 3 đội để đối đầu với Special Boss này. Thưa ngài, hãy chuẩn bị thật kỹ trước khi đối mặt với kẻ thù này.
+ルナの塔に出現する強敵を倒すと「プリンセスハート」が手に入ります。\nこちらはキャラ専用装備の作成に必要ですので、\nなくさないように大事に持っておきましょう。=Bạn có thể kiếm được Princess Hearts bằng cách đánh bại các kẻ thù mạnh mẽ xuất hiện trong Tháp Luna. Chúng là cần thiết để tạo ra Trang bị Độc nhất của nhân vật, nên hãy cẩn thận không để mất chúng.

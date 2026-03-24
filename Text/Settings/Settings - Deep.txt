@@ -1,0 +1,2 @@
+まとめてスキップのチェック引継ぎ確認ダイアログ表示=Hiển thị hộp thoại xác nhận cho các thao tác: bỏ qua, tiếp nhận, kiểm tra, đối thoại
+まとめてスキップで深域クエストのチェックが引継がれたことの確認ダイアログを表示するか設定します。=Đặt để bỏ qua việc hiển thị hộp thoại xác nhận rằng nhiệm vụ Deep Levels đã được kiểm tra.

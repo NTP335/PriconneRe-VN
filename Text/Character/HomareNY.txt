@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、魔力を笑顔に隠す晴れ着姿の龍の首魁。自分の攻撃強化とＴＰ回復をし、ＵＢで放つ曙光の落涙は敵数で威力と防御力の減少量を上げ、全ての災厄を祓う。=[Ma thuật] Một boss rồng trong trang phục hè, che giấu sức mạnh phép thuật sau nụ cười. Cô tăng sức mạnh tấn công của bản thân, hồi TP và sử dụng UB vừa tăng sức mạnh vừa hạ phòng thủ theo số kẻ địch, đồng thời trừ khử mọi tà ác.
+
+ボスの極楽もてなし術=Nghệ Thuật Tiếp Đón Cực Đoan Của Boss
+臥竜を揺さぶる同人誌=Một doujinshi khiến rồng phải xao động
+優しい願いを憂う臥竜=Một con rồng lo lắng về một lời nguyện dịu dàng
+臥竜の仁義=Phong thái của một con rồng nằm nghỉ
+
+##UB##
+ドラゴンズティアー=Nước Mắt Rồng
+敵全体に魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。敵の数に応じて、ダメージと防御力の減少量が増加する。=Gây sát thương phép vừa phải lên toàn bộ kẻ địch và hạ nhẹ M.DEF của chúng. Sát thương phép và mức hạ M.DEF tăng theo số kẻ địch.\nSát thương phép: (+M.DMG × 0.65 × Số kẻ địch)\nM.DEF: (+M.DEF × Số kẻ địch)
+r:"^敵全体に(\d+)の魔法ダメージ敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép lên toàn bộ kẻ địch.\n►Hạ M.DEF của toàn bộ kẻ địch đi $2.
+
+##S1##
+スティッキーバイト=Cắn Dính
+自分の魔法攻撃力と魔法クリティカルを特大アップ、魔法攻撃クリティカル時のダメージを小アップし、ＴＰを中回復させる。=Tăng mạnh M.ATK và Tỷ lệ Chí Mạng phép của bản thân, tăng nhẹ Sát thương Chí Mạng phép của bản thân, và hồi TP vừa phải cho bản thân.
+
+##S2##
+クルーエルブルーム=Hoa Tràm Diệt Vong
+敵全体に魔法中ダメージを与え、魔法防御力を中ダウンさせる。=Gây sát thương phép vừa phải lên toàn bộ kẻ địch và hạ nhẹ M.DEF của chúng.
+
+##EX##
+サンライズフォーカス=Tập Trung Bình Minh
+サンライズフォーカス+=Tập Trung Bình Minh+
+
+##S1+##
+スティッキーバイト+=Cắn Dính+
+自分の魔法攻撃力と魔法クリティカルを特大アップ、魔法攻撃クリティカル時のダメージを小アップし、ＴＰを中回復させる。敵の数に応じて、魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージの上昇量が増加する。=Tăng mạnh M.ATK và Tỷ lệ Chí Mạng phép của bản thân, tăng nhẹ Sát thương Chí Mạng phép của bản thân, và hồi TP vừa phải cho bản thân. Mức tăng M.ATK, Tỷ lệ Chí Mạng phép và Sát thương Chí Mạng phép tăng theo số kẻ địch.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを10％アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 0.59s\n►Tăng M.ATK của bản thân lên $1 (+0.2×$1×Số kẻ địch) trong 12s.\n►Tăng Tỷ lệ Chí Mạng phép của bản thân lên $2 (+20×Số kẻ địch) trong 12s.\n►Tăng Sát thương Chí Mạng phép của bản thân lên 10% (+1%×Số kẻ địch) trong 12s.\n►Hồi TP của bản thân lên $3.
+
+##UE##
+竜女将の極道扇子=Quạt Của Bà Chủ Rồng

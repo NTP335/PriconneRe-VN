@@ -1,0 +1,2 @@
+未達成=Chưa hoàn thành
+主さま、オート進行が使えるようになりましたよ。\nオート進行は未クリアや★3未達成のメインクエストで使用できます。=Chủ nhân, giờ bạn có thể sử dụng Tự Động Tiến Độ.\nTự động tiến độ có thể được sử dụng trên các nhiệm vụ sự kiện hoặc nhiệm vụ chính chưa hoàn thành.

@@ -1,0 +1,16 @@
+Event PV
+その日──光が世界を焼いた。=Ngày hôm đó--một ánh sáng đã thiêu đốt thế giới này.
+何もかも、真っ赤に燃えて、灰になった。\n家族も、友達も……大切な人さえも。=Cháy trong một màu đỏ rực rỡ, mọi thứ đều hóa thành tro. Gia đình tôi, bạn bè tôi... ngay cả người tôi yêu.
+その街で、ただ一人。少女だけが生き残った。=Trong thị trấn đó, chỉ một người đã sống sót. Chỉ một cô gái trẻ.
+赤く焼け融けていく世界の、灰に埋もれた中で──\nただ一つ、燃え尽きずに残ったのは。\n胸中を焦がす復讐心。=Trong thế giới đang cháy đỏ và tan chảy này... chỉ một thứ vẫn còn nguyên vẹn, được chôn dưới tro tàn. Một khát vọng trả thù da diết.
+火の粉の舞う平原を、\n重苦しい曇天を染める紅蓮の世界を、\n燃え残った体と命を燃料にひた走る。=Xuyên qua những đồng bằng đầy tia lửa, xuyên qua thế giới đỏ thẫm tô điểm bầu trời mây áp đặt... Tôi chạy, được thúc đẩy bởi cơ thể và sự sống còn lại.
+もう誰もいない──、一人ぼっちの少女。\nたった一人の旅団──\nたった一人の兵士となって。=Không còn ai ở lại--chỉ một cô gái cô độc. Một Đội quân chỉ gồm một người--một người lẻ loi.
+次回、『Bocchi Battle Brigade\n　～ぼっち最期の日～』=Lần sau, "Đội quân chiến đấu cô độc -Ngày cuối cùng của tôi với tư cách một kẻ cô độc-"
+──そうだ。\nやっぱり、私は『ぼっち』なんだ──\nだってもう、友達はみんな死んでしまったから。=...Đúng vậy. Có lẽ mình thực sự là một kẻ cô độc... Rốt cuộc, tất cả bạn bè của mình đều đã chết rồi.
+──私を一人ぼっちにした全ての敵に、復讐を──=...Chống lại những kẻ thù đã khiến mình trở thành cô độc. Trả thù...
+
+Event Title
+Bocchi Battle Brigade ～ぼっち最期の日～=Đội quân chiến đấu cô độc -Ngày cuối cùng của tôi với tư cách một kẻ cô độc-
+
+Event Tagline
+凶悪な魔物に滅ぼされた世界。たった一人きりになってしまった少女は世\n界滅亡の命運を変えられるのか──=Một thế giới bị hủy diệt bởi những quái vật tàn ác. Liệu cô gái, giờ đây thực sự cô độc, có thể thay đổi số phận hủy diệt của thế giới...?

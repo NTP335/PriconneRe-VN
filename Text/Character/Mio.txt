@@ -1,0 +1,33 @@
+##Profile##
+スーパースターを目指す元気娘☆☆★=Cô gái tràn đầy năng lượng hướng đến danh vọng siêu sao ☆☆★
+
+【魔法】後衛で攻防共に活躍するパッション溢れる少女。ダメージを受けた味方中心に回復魔法で補助をし、さらに魔法攻撃を仕掛けて、敵を一網打尽にする。=[Ma Thuật] Một cô gái nhiệt huyết đóng góp cho cả tấn công và phòng thủ từ hậu phương. Trong khi hỗ trợ đồng minh bị thương với hồi máu nhắm mục tiêu, cô ấy phóng ra những đòn tấn công ma thuật để quét sạch đội hình kẻ thù.
+
+##UB##
+スパークル・マジック=Ma Thuật Lấp Lánh
+目の前の敵１キャラに魔法特大ダメージを与え、さらに自分の魔法攻撃力を大アップさせる。=Gây sát thương Ma Thuật cực lớn lên kẻ thù ngay phía trước. Tăng cường lớn Tấn Công Ma Thuật của bản thân.
+
+##S1##
+トリプル・スター=Ba Ngôi Sao
+目の前の最大３キャラまでの敵に魔法小ダメージを与える。このダメージは、遠い敵ほど増加する。=Gây sát thương Ma Thuật nhỏ lên tối đa ba kẻ thù ngay phía trước. Sát thương này tăng lên theo khoảng cách của kẻ thù.
+
+##S2##
+進め☆ファイトエール=Tiếp Tục Chiến Đấu! ☆
+最もＨＰが低い味方１キャラを中心とした範囲内の味方すべてのＨＰを小回復する。=Áp dụng Trói lên tất cả kẻ thù trong phạm vi.
+
+##EX##
+天性の魅力=Duyên Nơ Thân Thiện
+天性の魅力+=Duyên Nơ Thân Thiện+
+
+##S1+##
+トリプル・スター+=Ba Ngôi Sao+
+目の前の最大３キャラまでの敵に魔法中ダメージを与え、自分のＴＰを小回復し、魔法攻撃力を中アップ。このダメージは、遠い敵ほど増加する。=Gây sát thương Ma Thuật vừa lên tối đa ba kẻ thù ngay phía trước, phục hồi TP của bản thân một lượng nhỏ và tăng cường vừa Tấn Công Ma Thuật của bản thân. Sát thương này tăng lên theo khoảng cách của kẻ thù.
+r:"^１番目に近い敵単体に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ３番目に近い敵単体に(\d+)の魔法ダメージ自分のＴＰを(\d+)回復自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương Ma Thuật lên kẻ thù gần nhất thứ 1.\n►Gây $2 sát thương Ma Thuật lên kẻ thù gần nhất thứ 2.\n►Gây $3 sát thương Ma Thuật lên kẻ thù gần nhất thứ 3.\n►Phục hồi TP của bản thân thêm $4.\n►Tăng Tấn Công Ma Thuật của bản thân lên $5 trong 180s.
+
+##UE##
+ステージオブパッション=Sân Khấu Đam Mê
+
+##UE2##
+スターライトドレス・ミオ=Váy Áo Tinh Tế Mio
+進め☆ファイトエール+=Tiếng Hò Hét Chiến Đấu Phía Trước☆+
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復するフィールドを展開する自分のＴＰを150回復$"=►Tăng Tấn Công Ma Thuật của đồng minh trong phạm vi lên $1.\n►Phục hồi HP của đồng minh trong phạm vi lên $2.\n►Triển khai một vùng hiệu quả phục hồi HP $3 mỗi giây.\n►Phục hồi TP của bản thân thêm 150.

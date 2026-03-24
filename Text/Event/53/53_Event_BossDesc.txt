@@ -1,0 +1,14 @@
+リトル・サマー・メモリーズ　渚でみつけた小さな幸せ
+r:"^ちいさな出会いの海岸([0-9\-\(\)\w （）]*)$"=Bãi biển Cuộc gặp gỡ nhỏ $1
+ムーンレイゲート=Cổng Ánh trăng
+みゅ～ちゃん すくすく日記=Nhật ký của Myu-chan
+前へ=Quay lại
+一覧に戻る=quay lại mục lục
+
+みゅ～ちゃんすくすく日記その1=Nhật ký của Myu-chan Số 1
+みゅ～ちゃんすくすく日記その2=Nhật ký của Myu-chan Số 2
+みゅ～ちゃんすくすく日記その3=Nhật ký của Myu-chan Số 3
+みゅ～ちゃんすくすく日記その4=Nhật ký của Myu-chan Số 4
+絵日記解放=Mở khóa nhật ký hình ảnh
+スペシャルバトル解放チュートリアル=Hướng dẫn trận đặc biệt
+

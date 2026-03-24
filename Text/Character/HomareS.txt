@@ -1,0 +1,35 @@
+##Profile##
+【魔法】後衛で夏の清涼に翼を休める水着姿の龍の首領。攻防弱体化に加え、ステータスダウン付与のたび増加する【日食】の数に応じたダメージで、抗う全てを灰に帰す。=[Ma thuật] Một thủ lĩnh rồng trong đồ bơi đang nghỉ ngơi sau cánh trong không khí mát mẻ của hậu phương. Ngoài việc làm yếu tấn công và phòng thủ, sát thương tăng theo số ngọn [Nhật Thực] tích lũy qua mỗi debuff, đốt cháy mọi kháng cự thành tro bụi.
+
+##UB##
+ドラゴンズコール=Tiếng Gọi Rồng
+最も魔法防御力の低い敵１キャラに魔法大ダメージを与え、魔法防御力を中ダウン、クリティカルを受けた際のダメージを小アップさせる。対象の【日食】の数が25以上の場合、その敵を中心とした範囲内の敵すべてに魔法大ダメージを与える。最も魔法防御力の低い敵１キャラの【日食】の数に応じてこのスキルのダメージがアップする。=Gây sát thương phép lớn lên kẻ địch có M.DEF thấp nhất, hạ nhẹ M.DEF của nó, và tăng nhẹ Sát thương Chí Mạng phép mà nó nhận. Nếu kẻ địch có 25 ngọn [Nhật Thực] trở lên, gây thêm sát thương phép lớn lên kẻ địch trong phạm vi. Sát thương phép gây ra tăng theo số ngọn [Nhật Thực].
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体の被クリダメを6％アップ対象の日食が25以上の時、範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 (+0.036×$1×[Nhật Thực]) sát thương phép lên một kẻ địch.\n►Hạ M.DEF của một kẻ địch đi $2 trong 18s.\n\nNếu kẻ địch có 25+ ngọn [Nhật Thực]:\n►Gây $3 (+0.036×$3×[Nhật Thực]) sát thương phép lên kẻ địch trong phạm vi 400.
+
+##S1##
+アクアスプラッシュ=Vụn Nước
+最も魔法防御力の低い敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせる。対象の【日食】の数が25以上の場合、その敵を中心とした範囲内の敵すべてに魔法中ダメージを与え、自分の魔法攻撃力を大アップ、ＴＰを小回復する。最も魔法防御力の低い敵１キャラの【日食】の数に応じてこのスキルのダメージがアップする。=Gây sát thương phép lớn lên kẻ địch có M.DEF thấp nhất, và hạ nhẹ M.DEF của nó. Nếu kẻ địch có 25 ngọn [Nhật Thực] trở lên, gây thêm sát thương phép vừa phải lên kẻ địch trong phạm vi, tăng mạnh M.ATK của bản thân và hồi nhẹ TP. Sát thương phép gây ra tăng theo số ngọn [Nhật Thực] của mục tiêu.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン対象の日食が25以上の時、範囲内の敵に(\d+)の魔法ダメージ対象の日食が25以上の時、自分の魔法攻撃力を(\d+)アップ対象の日食が25以上の時、自分のＴＰを100回復$"=►Gây $1 (+0.018×$1×[Nhật Thực]) sát thương phép lên một kẻ địch.\n►Hạ M.DEF của một kẻ địch đi $2 trong 12s.\n\nNếu mục tiêu có 25+ ngọn [Nhật Thực]:\n►Gây $3 (+0.018×$3×[Nhật Thực]) sát thương phép lên kẻ địch trong phạm vi 400.\n►Tăng M.ATK của bản thân lên $4 trong 12s.\n►Hồi TP của bản thân lên 100.
+
+##S1+##
+アクアスプラッシュ+=Vụn Nước+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン対象の日食が25以上の時、範囲内の敵に(\d+)の魔法ダメージ対象の日食が25以上の時、自分の魔法攻撃力を(\d+)アップ対象の日食が25以上の時、自分のＴＰを(\d+)回復$"="►Gây $1 sát thương phép lên kẻ địch có M.DEF thấp nhất\n►Hạ M.DEF của chúng đi $2\n\nNếu mục tiêu có ≥25 [Nhật Thực]:\n►Gây $3 sát thương phép lên kẻ địch xung quanh mục tiêu\n►Tăng M.ATK của bản thân lên $4\n►Hồi TP của bản thân lên $5"
+最も魔法防御力の低い敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせる。対象の【日食】の数が25以上の場合、その敵を中心とした範囲内の敵すべてに魔法大ダメージを与え、自分の魔法攻撃力を大アップ、ＴＰを小回復する。最も魔法防御力の低い敵１キャラの【日食】の数に応じてこのスキルのダメージがアップする。=Gây sát thương phép lớn lên kẻ địch có M.DEF thấp nhất đồng thời hạ nhẹ M.DEF của chúng. Khi mục tiêu có ≥25 [Nhật Thực], gây thêm sát thương phép lớn lên kẻ địch xung quanh, đồng thời tăng mạnh M.ATK của bản thân và hồi nhẹ TP. Sát thương tỷ lệ với số ngọn [Nhật Thực] của mục tiêu.
+
+##S2##
+サマーサンダーボルト=Tia Chớp Mùa Hè
+敵全体の魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。さらに自分のＴＰを中回復する。最も魔法防御力の低い敵１キャラの【日食】の数が25以上の場合、敵全体のクリティカルを受けた際のダメージを小アップさせる。=Hạ mạnh M.ATK của toàn bộ kẻ địch, hạ nhẹ M.DEF của chúng, và hồi TP vừa phải cho bản thân. Nếu một kẻ địch có 25 ngọn [Nhật Thực] trở lên, tăng nhẹ Sát thương Chí Mạng phép mà toàn bộ kẻ địch nhận.
+r:"^敵全体の魔法攻撃力を(\d+)ダウン敵全体の魔法防御力を(\d+)ダウン自分のＴＰを200回復対象の日食が25以上の時、敵全体の被クリダメを4％アップ$"=►Hạ M.ATK của toàn bộ kẻ địch đi $1 trong 12s.\n►Hạ M.DEF của toàn bộ kẻ địch đi $2 trong 12s.\n►Hồi TP của bản thân lên 200.\n\nNếu một kẻ địch có 25+ ngọn [Nhật Thực]:\n►Tăng Sát thương Chí Mạng phép mà toàn bộ kẻ địch nhận lên 4% trong 12s.
+
+##SP1##
+ダウンバースト=Gió Lốc
+このスキルのスキルレベルは「ドラゴンズコール」と連動しています=Cấp độ kỹ năng này liên kết với "Tiếng Gọi Rồng"
+敵全体をステータスダウンを受ける度に、【日食】が１つ追加される状態にする。【日食】は最大50まで追加される。さらに敵全体の魔法防御力を小ダウンさせる。=Hạ nhẹ M.DEF của toàn bộ kẻ địch, và thêm ngọn [Nhật Thực] lên một kẻ địch khi họ nhận debuff, tối đa 50 ngọn.
+r:"^敵全体をステータスダウン効果を受けるたびに日食が付与される状態にする敵全体の魔法防御力を(\d+)ダウン$"=►Khi một đồng minh áp dụng debuff lên kẻ địch, gây hiệu ứng [Nhật Thực].\n►Hạ M.DEF của toàn bộ kẻ địch đi $1 trong 180s.
+
+##EX##
+ホットサマーゲイズ=Ánh Mắt Hè Nóng Bỏng
+ホットサマーゲイズ+=Ánh Mắt Hè Nóng Bỏng+
+
+##UE##
+ドラゴンズバカンス=Kỳ Nghỉ Của Rồng

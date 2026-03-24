@@ -1,0 +1,36 @@
+##Profile##
+ツムギ=Tsumugi
+ファッション大好きなキュートガール=Một cô gái dễ thương yêu thích thời trang
+裁縫=Sewing
+
+【物理】前衛で、敵の妨害に特化したテーラーガール。敵を強制的に移動させる事で陣形を崩し、さらに移動速度・行動速度を低下させ相手の反撃を遅らせる。=[Thể chất] Một thợ may chuyên về phá hoại từ tiền tuyến. Cô phá vỡ đội hình kẻ địch bằng cách di chuyển chúng xung quanh đồng thời làm chậm tốc độ di chuyển và hành động của chúng.
+
+##UB##
+フェイタリティバインド=Terminal Tie-Up
+前方範囲内の敵すべてに物理中ダメージを与えて束縛し、さらに前方範囲内の一番遠くの敵を大きく引き寄せ、一番近くの敵を大きく吹き飛ばす。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch trong phạm vi và gây trói kéo. Kéo kẻ địch xa nhất trong phạm vi lại gần hơn một chút và đẩy kẻ địch gần nhất lùi lại một chút.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Làm kẻ địch trong phạm vi bất động trong một khoảng thời gian.
+
+##S1##
+キャプチャーストリング=Capture String
+前から２番目の敵１キャラに物理中ダメージを与え、さらに小さく引き寄せる。=Gây sát thương vật lý nhỏ lên kẻ địch ở vị trí thứ 2 và kéo chúng lại gần hơn một chút.
+
+##S2##
+スパイラルヤーン=Spiral Yarn
+前方範囲内の敵すべてに物理小ダメージを与え、さらに移動速度と行動速度を小ダウンさせる。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch trong phạm vi và giảm tốc độ di chuyển và hành động của chúng một chút.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の移動速度を一定時間低下させる範囲内の敵の行動速度を一定時間低下させる$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm tốc độ di chuyển của kẻ địch trong phạm vi trong một khoảng thời gian.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi trong một khoảng thời gian.
+
+##EX##
+テーラーガッツ=Tailor's Grit
+テーラーガッツ+=Tailor's Grit+
+
+##UB+##
+エンドドレステーラー=Endless Dresstailor
+前方範囲内の敵すべてに物理大ダメージを与えて束縛し、さらに前方範囲内の一番遠くの敵を大きく引き寄せ、一番近くの敵を大きく吹き飛ばす。範囲内の敵の数に応じて、与えるダメージ量が増加する。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong khu vực phía trước, trói chúng, và kéo mạnh kẻ địch xa nhất lại gần đồng thời đẩy kẻ địch gần nhất ra xa. Lượng sát thương tăng lên dựa trên số lượng kẻ địch trong khu vực.
+
+##S1+##
+キャプチャーストリング+=Capture String+
+前から２番目の敵１キャラに物理中ダメージを与え、小さく引き寄せ、スタンさせる。さらに自分の物理攻撃力を中アップ、物理防御力を小アップさせる。=Gây sát thương vật lý nhỏ lên kẻ địch ở vị trí thứ 2 gần nhất. Kéo mục tiêu lại gần cô một chút và choáng váng mục tiêu. Ngoài ra, tăng P.ATK của bản thân một lượng trung bình và tăng P.DEF của bản thân một lượng nhỏ.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây choáng váng lên kẻ địch trong 1.5s.\n►Tăng P.ATK của bản thân lên $2 trong 12s.\n►Tăng P.DEF của bản thân lên $3 trong 12s.
+
+##UE##
+ハイクチュリエベルト=High Couturier Belt

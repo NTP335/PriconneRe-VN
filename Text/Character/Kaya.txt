@@ -1,0 +1,34 @@
+##Profile##
+拳で語る喧嘩屋ドラゴン少女=Một thiếu nữ rồng đấm bốc nói chuyện bằng nắm đấm
+
+【物理】前衛で、敵を殴り倒す喧嘩屋ドラゴン族。スキルで自身の物理攻撃力を高め、全身全霊を懸け放つ初弾のユニオンバーストは、超大な破壊力を誇る。=[Cận Chiến] Một thiếu nữ rồng đấm bốc hùng mạnh, đánh bại kẻ thù bằng sức mạnh thuần túy từ tuyến đầu. Cô tăng sức tấn công cận chiến của bản thân qua kỹ năng và dồn hết sức mạnh vào một đòn Liên Kết Độc Tửy hủy diệt.
+
+##UB##
+ドラゴンズエンドフィスト=Quyền Đoạn Trường Rồng
+目の前の敵１キャラに物理特大ダメージを与える。バトル開始後、初弾のユニオンバーストはダメージ量が大幅アップ。=Gây sát thương cận chiến khổng lồ cho kẻ địch ngay phía trước. Sát thương được tăng cực lớn lần đầu tiên Liên Kết Độc Tửy này được dùng trong trận.
+r:"^敵単体に(\d+)の物理ダメージ初使用時、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương cận chiến cho một kẻ địch.\n\nĐối với lần 1 UB:\n►Gây $2 sát thương cận chiến cho một kẻ địch.
+
+##S1##
+ドラゴニックスマッシュ=Quyền Rồng Nộ
+目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương cận chiến vừa phải cho kẻ địch ngay phía trước.
+
+##S2##
+ドラゴライズスタンス=Thế Đứng Dragolyzer
+自分の物理攻撃力と物理クリティカルを大アップさせる。=Tăng lớn sát thương cận chiến và Tỷ lệ Chí Mạng Cận Chiến của bản thân.
+
+##EX##
+ブレイズアップドラゴン=Rồng Hỏa Thiêu
+ブレイズアップドラゴン+=Rồng Hỏa Thiêu+
+
+##UB+##
+アルティメイタムブラスト=Bạo Phá Tối Hậu
+自分の物理攻撃力を大アップし、目の前の最大２キャラまでの敵に物理特大ダメージを与える。バトル開始後、初弾のユニオンバーストはダメージ量が大幅アップし、物理防御力を一定割合無視する。=Tăng cường rất mạnh P.ATK của bản thân, gây sát thương P.DMG cực lớn lên tối đa 2 kẻ địch gần nhất. Khi trận đấu bắt đầu, UB lần 1 gây sát thương P.DMG cực lớn lên tối đa 2 kẻ địch gần nhất, bỏ qua một phần trăm nhất định P.DEF của địch.
+r:"^自分の物理攻撃力を(\d+)アップ１番目に近い敵単体に(\d+)の物理ダメージ２番目に近い敵単体に(\d+)の物理ダメージ初使用時、１番目に近い敵単体に物理防御力を５%無視する(\d+)の物理ダメージ初使用時、２番目に近い敵単体に物理防御力を５%無視する(\d+)の物理ダメージ$"=►Tăng P.ATK của bản thân lên $1.\n\nĐối với UB lần 1:\n►Gây $4 sát thương P.DMG lên kẻ địch thứ 1 và 2 gần nhất, bỏ qua 5% P.DEF của địch.\n\nĐối với UB lần 2 trở đi:\n►Gây $2 sát thương P.DMG lên kẻ địch thứ 1 và 2 gần nhất.
+
+##S1+##
+ドラゴニックスマッシュ+=Draconic Smash+
+目の前の敵１キャラに物理中ダメージを与える。バトル開始後、初弾のこのスキルはダメージ量が大幅アップし、さらに敵の物理防御力を小ダウン、自分の物理攻撃力を特大アップさせる。=Gây sát thương P.DMG vừa phải lên một kẻ địch. Khi trận đấu bắt đầu, lần sử dụng kỹ năng đầu tiên gây sát thương P.DMG lớn lên một kẻ địch, hơi giảm P.DEF của địch và tăng cường rất mạnh P.ATK của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ初使用時、敵単体に(\d+)の物理ダメージ初使用時、敵単体の物理防御力を(\d+)ダウン初使用時、自分の物理攻撃力を(\d+)アップ$"=Đối với lần sử dụng kỹ năng đầu tiên:\n►Gây $2 sát thương P.DMG lên một kẻ địch.\n►Giảm P.DEF của kẻ địch đi $3.\n►Tăng P.ATK của bản thân lên $4.\n\nĐối với lần sử dụng kỹ năng thứ 2 trở đi:\n►Gây $1 sát thương P.DMG lên một kẻ địch.
+
+##UE##
+ドラゴンズフィスト=Dragon's Fist

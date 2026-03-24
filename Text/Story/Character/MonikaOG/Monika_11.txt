@@ -1,0 +1,196 @@
+敵チームの生徒=Học sinh Đối phương
+味方チームの生徒=Học sinh Đồng đội
+モニカは新奥義の特訓が難航し、焦っていた。ある時夢の世界で彼女は、友を信じ好機を待つことが大切だと悟る。夢の出来事を通じて確かな感覚を掴んだモニカは、ついに新奥義を会得するのだった。=Monika đang vật lộn với buổi tập đặc biệt cho một bí kíp mới và cảm thấy lo lắng. Một lần, trong thế giới giấc mơ, cô nhận ra rằng tin tưởng bạn bè và chờ đợi cơ hội thích hợp là rất quan trọng. Thông qua sự kiện trong giấc mơ, Monika cảm nhận được một cảm giác nhất định về kỹ thuật và cuối cùng đã làm chủ nó.
+数日後に開幕する大会で優勝するべく、\n{playername}が見守る中、\nモニカは連日、新奥義の修行を行っていた。しかし……=Để giành chiến thắng trong giải đấu sẽ bắt đầu vài ngày tới, khi {playername} quan sát, Monika tập luyện kỹ thuật tối thượng mới của mình ngày qua ngày, nhưng...
+うわあっ！？=Ối trời!?
+……だ、大丈夫だ。岩を砕くどころか、\n自分の技で吹き飛ばされてしまうとは情けない……\n話は祖国で聞いていたが、これほど会得が難しいとはな……=...Tớ ổn. Thật nhục nhã khi tớ không thể thậm chí phá một tảng đá, huống chi là thổi bay chính mình bằng kỹ thuật của tớ... Tớ nghe kể từ quê hương, nhưng không biết nó khó làm chủ đến thế...
+もう一度だ！\n……っ！=Lại lần nữa!...!
+モニカをくすぐる。=Chọc Monika.
+氷袋をモニカの頬っぺたに当てる。=Đặt túi đá lên má Monika.
+あはははっ！！！！\n……なにをするっ！？　というより、どうしてくすぐった！？=Aha ha ha ha!!... Cậu đang làm gì thế!?\nVà tại sao cậu lại chọc tớ!?
+なに？　休憩した方がいい？\nいや、しかし……んぐっ！？=Sao? Cậu nghĩ tớ cần nghỉ? Không, nhưng... Ư!?
+これは、チョコレート……！！\nんん～……口の中がとろけるようだ……♪=Đây là sô cô la...!! Ưm... Nó tan trong miệng...♪
+……こほん。休憩は終わりだ。続きを──\nわ、分かった分かった！　従うから人を荷物のように抱えるな！=...Ờm. Giờ nghỉ kết thúc rồi. Tiếp tục thôi... N-Như thế nào, tớ hiểu rồi, hiểu rồi! Đừng ôm tớ như hành lý!
+いつっ……！？　……だ、大丈夫だ。手当て、感謝する。\nしかし……これぐらいで休んでいるようでは──=Khi...!? ...Tớ ổn. Cảm ơn vì đã chăm sóc. Nhưng... Nếu tớ nghỉ vì chuyện như thế này...
+焦ってる？=Cậu đang vội à?
+あ、焦ってないぞ！？　私はいつだって冷静に……\nいや、たしかに焦りまくっているな……=Hả, không, tớ không vội!? Tớ lúc nào cũng bình tĩnh và... Không, tớ thừa nhận, tớ đang hoảng loạn...
+私が会得しようとしている奥義は、祖国に伝わるものなんだ。\nまさに嵐のような大技で、敵を一掃する。\nただ、使いこなせる者はほとんどいない。=Bí kíp tớ đang cố gắng làm chủ là một kỹ thuật được truyền lại từ quê hương tớ. Đó là một kỹ thuật khổng lồ quét sạch kẻ thù như cơn bão. Nhưng có rất ít người có thể sử dụng nó.
+諦めていた背も伸びたんだし、\n奥義の会得だって不可能ではないと挑戦してはみたが……\nまさかそよ風すら掴めないとはな。=Tớ lớn hơn và đã bỏ cuộc, nhưng tớ cố gắng thử thách bởi vì không phải là không thể làm chủ bí kíp... Nhưng tớ không ngờ đến mức không thể thậm chí nắm bắt được một làn gió.
+強引に捕まえようとすれば暴れて吹き飛ばされるし、\n誘導してもなびきやしない。気まぐれな性質で、私は弄ばれてばかりだ。=Nếu tớ cố ép, nó sẽ phát cuồng và thổi bay tớ, và nếu tớ cố hướng dẫn, nó lại không nhúc nhích. Nó thích thú và tớ chỉ bị chơi đùa.
+私はこの奥義の使い手になることで、自分の成長を証明したい。\nしかしそれができなくて、焦ってるのかもしれん。=Tớ muốn chứng minh sự trưởng thành của mình bằng cách trở thành người sử dụng bí kíp này. Nhưng có lẽ tớ thiếu kiên nhẫn vì không làm được.
+……よし！　休憩は終わりだ！\n日が落ちる前に、一回でも多くの奥義を──=...Được rồi! Giờ nghỉ kết thúc! Trước khi mặt trời lặn, hãy thực hiện càng nhiều bí kíp càng tốt──
+って貴公！！　また体が光っているぞ！？\n……うわっ！？=Này, đồng đội!!\nCậu lại phát sáng rồi!? ...Ối trời!?
+本気か！？=Cậu thật sự à!?
+おーい、作戦会議は終わったかー？\nドッジボールの続き、そろそろ始めたいんだけどー……=Này, cuộc họp chiến lược kết thúc chưa? Tớ muốn tiếp tục trò chơi bóng chày sớm...
+もう少し待ってくれ！！\n……現状の説明および、貴公の作戦をもう一度復唱させてほしい。=Chờ một chút nữa!!\n...Tớ sẽ lặp lại tình hình hiện tại và chiến lược của chúng ta một lần nữa.
+我々は今、\n放課後の校庭でドッジボールという球技を行っている。\n戦況は圧倒的に不利で、我ら赤組は壊滅寸前だ。=Ngay bây giờ, chúng ta đang chơi bóng chày trong sân trường sau giờ học. Trận chiến đang ở thế bất lợi áp đảo, và chúng ta, Đội Đỏ, đang ở bờ vực của sự hủy diệt.
+赤組の内野に残っているのは……\nボールを避けることに関してはまさにプロ級である貴公。\nそして子供扱いゆえに一切のボールが飛んでこない私の二人のみ。=Người duy nhất còn lại trong khu vực trong của đội đỏ là... Cậu, người chuyên tránh bóng. Và tớ, người không có bóng nào được ném đến vì được đối xử như trẻ con.
+皮肉にも我々のおかげで勝敗は先送りされてきたが、もう日が沈む。\n……つまり、門限によって我々は敗北するということだ。=Một cách mỉa mai, nhờ chúng ta, kết quả đã bị hoãn, nhưng mặt trời đang lặn. ...Nói cách khác, chúng ta sẽ thua theo thời hạn.
+そして敗北したチームは、なんと言った？\n『一週間の間、毎日お菓子を奢る』……だ！=Và họ nói gì về đội thua? \"Mời họ ăn kẹo mỗi ngày trong một tuần\"...!
+私だってな、少ない軍資金でどうにかやりくりしているのだぞ！？\n毎日奢りなんてことになれば……自分のお菓子が買えないではないか！=Tớ cũng đang cố gắng cân bằng với ít tiền của mình, cậu biết chứ!? Nếu tớ phải mời họ mỗi ngày... Tớ sẽ không thể mua kẹo của chính mình!
+くぅ……『ドッジボールとはなにか？』と\nクラスメイトに質問したばかりに……！=Grrr... Chỉ vì tớ hỏi bạn cùng lớp \"Bóng chày là gì?\"...!
+……しかし、過ぎてしまったことはしょうがない。\n同じように考えた貴公は、私にある作戦を提案した。=...Nhưng khóc vì sữa đổ ra cũng vô ích. Cậu, người cũng nghĩ như vậy, đã đề xuất một chiến lược cho tớ.
+貴公がボールに当たっても、\n私がそのボールをキャッチできれば貴公はアウトにならない。\nそのルールを利用して、我々でボールの主導権を握るというものだ。=Ngay cả khi cậu bị bóng đánh trúng, cậu cũng không bị loại nếu tớ có thể bắt được nó. Đó là luật. Chúng ta sẽ dùng nó để chiếm quyền kiểm soát bóng.
+つまり……貴公は囮として、自らボールの的になる。\n私は貴公に当たったボールを確実にキャッチして、敵に当てていく。\nなぁ、本当にこの作戦でいくのか？=Nói cách khác... cậu sẽ là mồi nhử và biến bản thân thành mục tiêu cho bóng. Tớ sẽ bắt bóng đánh trúng cậu và ném nó vào kẻ thù. Này, cậu chắc chứ muốn theo kế hoạch này?
+……なんだ？　弱気なのが珍しいだとぉ！？\nむしろ何故それほど強気でいられるのだ！？=...Sao? Hiếm khi thấy cậu nhút nhát thế! Thay vào đó, tại sao cậu lại tự tin thế?
+私なら全員倒せると考えているのか！？\n……いや。そう思っているから、話したのだろうな。=Cậu nghĩ cậu có thể hạ chúng tất cả một mình à!? ...Không. Chính vì vậy cậu đã nói với tớ, đúng không?
+言っておくが、銃やナイフの扱いには慣れていても、ボールは初めてだ。\n貴公が私を凄腕の軍人だと頼りにしてくれるのはうれしいが……=Tớ nói với cậu đây, tớ quen xử lý súng và dao, nhưng đây là lần đầu tiên tớ chơi với bóng. Tớ đánh giá cao việc cậu tin tưởng tớ như một binh sĩ lành nghề, nhưng...
+僕が知っているのは目の前のモニカだけ。=Người duy nhất tớ thấy là Monika ngay trước mặt tớ.
+……目の前の、私？=...Tớ ở phía trước?
+……だとすれば、より一層分からないな。\n私は小柄だし、力も強そうに見えないと思うが……=...Nếu vậy thì mình càng thấy bối rối hơn. Mình nhỏ và trông cũng không mạnh mẽ cho lắm...
+こうと決めたらやり抜くでしょ？=Nhưng cậu đã quyết tâm theo cho đến cùng rồi đúng không?
+私の外見や肩書きではなく、中身を信頼している……\nつまり、そう言いたいのか……？=Cậu tin tưởng mình không phải vì ngoại hình hay danh phận, mà vì con người bên trong... đây là điều cậu muốn nói...?
+はははっ！　いいだろう！\n友よ、その作戦……のったぞ！=Hahaha! Được! Bạn tôi, kế hoạch đó... Mình tham gia!
+よし！　来るがいい！！=Được rồi! Cứ để đây cho tôi!!
+いくぞ、そりゃあっ！！=Đi thôi, bắt đầu nào!!
+その場を動かない。=Đứng yên đó đừng động.
+……えっ！？　当たった！？=...Hả!? Trúng rồi!?
+よしっ！　ギリギリだったが……貴公の作戦、うまくいったぞ！\nボールはこの通り、私の手の中だ！！=Đúng rồi! Suýt thì trượt, nhưng... kế hoạch của cậu thành công rồi! Bóng đang ở ngay đây, trong tay mình!!
+……作戦？　それじゃ、あいつはわざと当たったのか？\nモニカにボールを取らせるために！？=...Kế hoạch? Vậy là cậu ta cố ý để trúng? Để Monika lấy được bóng!?
+驚くのはまだ早いぞ。\n我が渾身の一撃……受けてみよっ！！=Còn quá sớm để ngạc nhiên. Cú đá toàn lực của mình... đón lấy nào!!
+よっと！\n……なんかすごいの来ると思ったけど、案外普通だったな？\n次はこっちの番だ！=Ơ kìa! ...Mình tưởng là thứ gì kinh dị chứ, hóa ra cũng bình thường. Đến lượt mình rồi!
+いきなり当てるのは無理か……\nしかし今ので分かったぞ。真正面からではボールは取られてしまう。=Không thể đánh trúng ngay lập tức... nhưng mình đã học được điều từ lần đó. Nếu ném thẳng, hắn sẽ bắt được.
+チャンスを待とう。=Hãy chờ một cơ hội.
+待つ……？=Chờ...?
+とりゃあっ！！=Đón lấy này!!
+ボールを体で受け止める。=Dùng cơ thể bắt bóng.
+よし、キャッチしたぞ……！　ところで貴公よ、涙目になってるぞ。\n体ではなく、両手で受け止めるのは無理なのか？\n……そうか、それだけは無理か。=Được rồi, mình bắt được rồi...! À này, cậu có khóc không? Sao không dùng tay mà dùng cả người thế? ...À, mình hiểu rồi, không thể được.
+何度も全身でボールを受け止めるのは流石に痛そうだな。\nこの状況を、はやく変えなければ……=Chắc hẳn đau lắm khi liên tục dùng cả người đón bóng. Chúng ta phải thay đổi tình thế này nhanh thôi...
+『チャンスを待て』とこいつは言ったが……\n待つとは一体……="Chờ một cơ hội" hắn nói... ý hắn là gì vậy...
+モニカちゃーん！　こっちこっち！！=Monika-chaaan! Bên này, bên này!!
+……そうか！　我々の仲間は、外にもいる。\n貴公のアドバイスの意味も理解したぞ。つまり……=...Ra vậy! Bên ngoài cũng có bạn bè. Mình hiểu ý lời khuyên của cậu rồi. Nói cách khác...
+そりゃあっ！！=Bắt đầu nào!!
+……ナイスモニカちゃん！\nちょっとスピードアップして投げ返すよー！=...Tuyệt vời, Monika-chan! Mình sẽ tăng tốc một chút và ném lại!
+……よし。これしき問題ない。\nもっと速く投げ返してもいいぞーっ！=...Được rồi. Không sao đâu. Cậu cứ ném lại nhanh hơn nữa!
+どっちから来るんだ……？\nみんな、警戒しろよ……！=Nó sẽ đến từ hướng nào...? Mọi người, cảnh giác...!
+……よし！　今だっ！！=...Bây giờ!!
+うわっ！　……当てられた！？=Ugh! ...Mình bị trúng rồi!?
+ふふん。好機を待つ……それこそが勝利の鍵だ！\nこの調子で、どんどん当てていくぞ！！=Heheh. Chờ đợi cơ hội... đó là chìa khóa chiến thắng! Hãy tiếp tục đánh họ như thế này!!
+ドッジボールの試合は白熱し、\nそしてついに……=Trò chơi dodgeball trở nên nóng bỏng, và cuối cùng...
+勝利を祝して……かんぱーい！！\n……くっ～～～勝利の後のラムネは格別だ♪=Để ăn mừng chiến thắng... nâng ly nào!! ...Ahh~ Lamune sau khi thắng thì đúng là tuyệt vời♪
+ところで貴公……怪我は大丈夫か？\n私も無様に転んだりして、お互いボロボロだな。=Nhân tiện, cậu có sao không...? Mình cũng ngã một cách vụng về, chúng ta đều hỗn loạn cả.
+でも楽しかったね。=Nhưng vui phải không?
+ああ、楽しかった！\n窓の外からいつも見ているばかりだったが……\n誰かと遊ぶとは、こんな感じだったのだな。=À, vui lắm! Trước đây mình chỉ xem từ bên ngoài cửa sổ... nhưng chơi cùng ai đó lại thế này, hả?
+そうだ。貴公にこれをやろう。=Đúng rồi. Mình tặng cậu cái này.
+戦友とは、勝利とお菓子を分かち合うのが鉄則。\nそういうわけで、チョコレートも半分こだ！=Đây là quy tắc trong đồng đội: cùng chia sẻ chiến thắng và đồ ngọt. Vậy thì, cùng chia sẻ món sô-cô-la này!
+これは私だけが知る機密情報なのだが……\nラムネの後のチョコレートは最高にうまいのだぞ？=Đây là thông tin mật chỉ mình biết... nhưng sô-cô-la sau khi uống ramune thì ngon nhất, cậu biết không?
+さぁ、遠慮するな。\nそのままかぶりついてこい！=Nào, đừng ngại. Cứ cắn một miếng đi!
+……ん？　なにを照れているのだ？\n人に食べさせてもらうというのは、そんなに恥ずかしいことなのか？=...Hả? Tại sao cậu lại ngại? Ăn đồ của người khác có đáng ngại thế sao?
+……おかしいな。この間屋上の隅っこで、\nクラスメイトがこんな風にお菓子を分け合っているのを見たのだが……=...Kỳ lạ quá. Hôm trước, mình thấy vài bạn cùng lớp chia sẻ đồ ngọt như thế này ở góc sân thượng...
+二人とも楽しそうに笑っていてな。\n友人と過ごすとはどんな感じなのだろうと、ずっと考えていたんだ。=Họ đều cười rất hạnh phúc. Mình tự hỏi thời gian dành với bạn bè là như thế nào. Mình đã suy nghĩ về điều này từ lâu rồi.
+貴公には打ち明けるが……\n私は本来の任務以外にもう一つ、個人的なミッションがある。=Mình sẽ nói cho cậu biết... mình có một sứ mệnh cá nhân khác ngoài sứ mệnh ban đầu.
+それはな……友人を作って全力で青春することだ！=Đó là... làm bạn và tận hưởng tuổi trẻ hết mình!
+放課後に、誰かと一緒にお菓子を食べながら他愛もない会話をする。\nこれはきっと青春の第一歩なんだ。=Sau giờ học, trò chuyện thân mật với ai đó trong khi ăn đồ ngọt. Đây chắc chắn là bước đầu tiên của tuổi trẻ.
+貴公にはすまないが\n私のミッション制覇に付き合ってもらうぞ。=Xin lỗi, nhưng cậu sẽ phải cùng mình chinh phục sứ mệnh này.
+では我が友よ、その口を大きく開けるがいい。\n……しかし、青春とはいささかくすぐったい感じがするな！=Vậy thì, bạn tôi, hãy mở to miệng ra nào. ...Nhưng tuổi trẻ thật sự hơi ngứa ngáy, ha!
+はい、お疲れさま！\nチョコレートの味はどうだった？=Thế đấy, làm tốt lắm! Sô-cô-la vị thế nào?
+でも二人ってあま～い関係っていうより、\n一緒に助け合うザ・戦友って感じよね。=Nhưng hai cậu giống như những đồng đội giúp đỡ nhau hơn là một mối quan hệ ngọt ngào, phải không?
+背中を預け合ったり、一緒に子供みたいにはしゃいだり……\nそんな絆も、かけがえのないものだと思うわ。=Cả hai đều tin tưởng lưng cho nhau, và cùng nhau chơi đùa như trẻ con... Mối liên kết như vậy cũng vô giá, mình nghĩ vậy.
+どんなに困難な道も、二人なら乗り越えられるはず。\nというわけで、応援してるからねー！=Dù con đường có khó khăn đến đâu, hai cậu cũng có thể vượt qua nếu ở bên nhau. Chính vì vậy, mình sẽ cổ vũ cho hai cậu!
+……はっ！？　またこの現象か！？\n貴公といると妙なことばかり起こるな……=Hả!? Hiện tượng này lại xảy ra!? Tại sao những chuyện kỳ lạ lúc nào cũng xảy ra khi tôi ở bên cậu...
+だがその後はいつも、不思議と清々しい気持ちになる。\nそれはきっと夢の中に貴公が……ああ、いや。\nこれは胸の内に留めておこう。=Nhưng sau đó, tôi luôn cảm thấy sảng khoái một cách kỳ lạ. Chắc chắn là vì cậu ở trong giấc mơ của tôi... À, không. Tôi sẽ giữ điều này trong lòng.
+さて……ちょっと休息を取りすぎたな。\n訓練を再開しよう。=Ừm... Tôi đã nghỉ quá lâu rồi. Hãy cùng tiếp tục luyện tập thôi.
+元気になったね。=Cậu trông khá hơn rồi.
+そう見えるか？　実はな、自分でもよく分からないのだが……\n今ならできそうな気がするんだ。=Vậy sao? Thực ra, tôi cũng không hiểu lắm về bản thân... nhưng tôi cảm thấy giờ mình có thể làm được rồi.
+そうだ。がむしゃらに追い求めるだけではだめだ。\n勝利の風は、好機を待つものにのみ、掴むことができる。\nだから──=Đúng vậy. Chỉ đuổi theo một cách mù quáng là chưa đủ. Gió chiến thắng chỉ thổi cho những ai chờ đợi thời cơ thích hợp. Vì vậy...
+…………今だ！=...Ngay bây giờ!
+せりゃああっ！！=Nhận lấy!!
+や……やったぞ！\n成功……ううっ……=Tôi... Tôi làm được rồi! Thành công... ục...
+だ、大丈夫だ……\nこの奥義、体への負担が大きいようだ……=Tôi không sao... Kỹ thuật này gây rất nhiều áp lực lên cơ thể tôi...
+最後の奥の手として、なるべく使わないようにしよう。\n使いどころは……そうだな。貴公の作戦にゆだねる。=Tôi sẽ cố gắng không dùng nó nhiều nhất có thể, chỉ dùng như một phương án cuối cùng. Thời điểm là... ừ. Tôi sẽ giao phó cho chiến thuật của cậu.
+大会は明日からだ。\n最後まで共に、全力を尽くして戦おう。=Giải đấu bắt đầu từ ngày mai. Hãy cùng nhau chiến đấu với hết sức mình cho đến tận cuối.
+
+差し出された、傷だらけの小さな手。\n{playername}はその手に触れ、大きくうなずくのだった。=Cô ấy giang tay nhỏ đầy vết thương ra. {playername} chạm vào bàn tay đó và gật đầu chắc chắn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

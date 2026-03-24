@@ -1,0 +1,124 @@
+プリンセスアリーナコイン=Princess Arena Coin
+アリーナコイン=Battle Arena Coin
+ダンジョンコイン=Dungeon Coin
+マスターコイン=Master Coin
+クランコイン=Clan Coin
+アルケスコイン=Alces coin
+コネクトコイン=Connect coin
+
+スタミナ=Stamina
+マナ=Mana
+ルピ=Rupies
+ジュエル=Jewel
+プレイヤー経験値=Player Exp
+ランダム装備BOX=Random Equipment BOX
+みんなでお花見=Everyone cherry blossom viewing
+みんなの好きなもの=Everyone's favorite
+
+特定のキャラのメモリーピースを交換できるチケット。=Vé dùng để đổi lấy Mảnh bộ nhớ (Memory Piece) của một nhân vật nhất định.
+特定のEX★5防具と交換できるチケット。=Vé dùng để đổi lấy các trang bị phòng thủ EX★5 nhất định.
+ペコリーヌの力の極限を超えて引き上げるとされる指輪。装備するとプレイヤーLvを超えてキャラLv限界突破が可能。=Chiếc nhẫn được cho là có khả năng đẩy sức mạnh của Pecorine vượt qua mọi giới hạn. Khi trang bị, nhân vật có thể đột phá giới hạn cấp độ (Level Cap) để vượt qua cả cấp độ của người chơi.
+
+
+
+討伐依頼証=Hunting Ticket
+深淵討伐戦期間中に入手できる証。\n消費してボスバトルに挑戦できる。=Chứng từ có thể nhận được trong thời gian diễn ra Vực Thẳm Chinh Phạt Chiến. \n Dùng để thách thức Boss.
+ランダムなアストラルスフィアが獲得できる。=Có thể nhận được ngẫu nhiên Astral Spheres.
+ランダムアストラルスフィアBOX=Hộp Astral Sphere ngẫu nhiên
+アストラルの顕在化により発生したマスターピースの欠片。互いに引きあう性質を持ち複数を集めることで合体し、マスターピースとなる。=Mảnh vỡ Masterpiece sinh ra từ sự hiện hữu của Astral. Chúng có đặc tính tự hút lẫn nhau, khi thu thập đủ số lượng sẽ kết hợp lại thành một Masterpiece hoàn chỉnh.
+
+ハロウィンパーティ=Halloween party
+
+イベント期間中にモンスターを討伐した証。集めて討伐証交換ができる。=Chứng nhận tiêu diệt quái vật trong thời gian diễn ra sự kiện. Có thể thu thập để đổi lấy các phần thưởng tương ứng.
+イベント期間中に入手できるチケット。消費してボスバトルに挑戦できる。=Vé có thể nhận được trong thời gian diễn ra sự kiện. Dùng để tham gia các trận đấu Boss.
+
+プレイヤーLvを最大まで高めた者のみが獲得できる特別な通貨。マスターショップで買い物ができる。=Loại tiền tệ đặc biệt chỉ dành cho những người đã đạt cấp độ Người chơi tối đa. Có thể dùng để mua sắm tại Master Shop.
+この世界での衣食住に不可欠なアストルムの流通通貨。ギルドハウスのショップで買い物ができる。=Đồng tiền lưu thông của Astrum, không thể thiếu cho các nhu cầu ăn, mặc, ở tại thế giới này. Có thể dùng để mua sắm tại cửa hàng trong Guildhouse.
+バトルアリーナに挑戦した者のみが獲得できる特別な通貨。アリーナショップで買い物ができる。=Loại tiền tệ đặc biệt chỉ dành cho những người tham gia thách thức Battle Arena. Có thể dùng để mua sắm tại Arena Shop.
+プリンセスアリーナに挑戦した者のみが獲得できる特別な通貨。Pアリーナショップで買い物ができる。=Loại tiền tệ đặc biệt chỉ dành cho những người tham gia thách thức Princess Arena. Có thể dùng để mua sắm tại P Arena Shop.
+様々な物質に宿る力の源で、キャラの成長には欠かせない。ショップで買い物もできる。=Nguồn sức mạnh ẩn chứa trong nhiều vật chất khác nhau, không thể thiếu cho sự trưởng thành của nhân vật. Cũng có thể dùng để mua sắm tại cửa hàng.
+ダンジョンに挑戦した者のみが獲得できる特別な通貨。ダンジョンショップで買い物ができる。=Loại tiền tệ đặc biệt chỉ dành cho những người tham gia thách thức Dungeon. Có thể dùng để mua sắm tại Dungeon Shop.
+クランバトルに挑戦した者のみが獲得できる特別な通貨。クランショップで買い物ができる。=Loại tiền tệ đặc biệt chỉ dành cho những người tham gia thách thức Clan Battle. Có thể dùng để mua sắm tại Clan Shop.
+
+EX装備(アクセサリー)を分解するこ\nとで獲得できる特別な通貨。EX装備\nショップで買い物ができる。=Loại tiền tệ đặc biệt nhận được thông qua việc phân giải Trang bị EX (Phụ kiện). Có thể dùng để mua sắm tại Cửa hàng Trang bị EX.
+EX装備(防具)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=Loại tiền tệ đặc biệt nhận được thông qua việc phân giải Trang bị EX (Giáp trụ). Có thể dùng để mua sắm tại Cửa hàng Trang bị EX.
+EX装備(武器)を分解することで獲得\nできる特別な通貨。EX装備ショップ\nで買い物ができる。=Loại tiền tệ đặc biệt nhận được thông qua việc phân giải Trang bị EX (Vũ khí). Có thể dùng để mua sắm tại Cửa hàng Trang bị EX.
+
+
+銅枠（RANK2～4）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung đồng (RANK 2-4).
+銀枠（RANK3～8）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung bạc (RANK 3-8).
+金枠（RANK6～11）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung vàng (RANK 6-11).
+紫枠（RANK10～18）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung tím (RANK 10-18).
+赤枠（RANK17～21）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung đỏ (RANK 17-21).
+緑枠（RANK20～24）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung xanh lá (RANK 20-24).
+橙枠（RANK23～28）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung cam (RANK 23-28).
+空枠（RANK27～32）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung xanh da trời (RANK 27-32).
+桃枠（RANK31～36）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=Loại tài nguyên quý giá có thể dùng thay thế cho các mảnh và bản thiết kế cần thiết khi chế tạo trang bị RANK khung hồng (RANK 31-36).
+
+EX★5装備を分解することで獲得できる特別な通貨。EX装備ショップでEX★5装備と交換ができる。=Loại tiền tệ đặc biệt nhận được thông qua việc phân giải Trang bị EX★5. Có thể dùng để đổi lấy Trang bị EX★5 tại Cửa hàng Trang bị EX.
+EX装備の錬成に使用することができる。=Có thể sử dụng để Luyện kim (Synthesis) Trang bị EX.
+ランダムなEX★5装備が獲得できる。=Có thể nhận được ngẫu nhiên một Trang bị EX★5.
+ランダムEX★5装備BOX=Hộp Trang bị EX★5 ngẫu nhiên
+
+虹色に輝く不思議な力をまとった宝石。=Viên ngọc mang sức mạnh bí ẩn tỏa ra ánh sáng cầu vồng.
+
+ランダムな原鉱が獲得できる。=Có thể nhận được ngẫu nhiên quặng nguyên khai.
+ランダム原鉱BOX=Hộp quặng nguyên khai ngẫu nhiên
+
+ランダムなEXPポーションが獲得できる。=Có thể nhận được ngẫu nhiên bình thuốc kinh nghiệm (EXP Potion).
+ランダムEXPポーションBOX=Hộp thuốc kinh nghiệm ngẫu nhiên
+
+EX装備の強化に使用すると、強化Ptが1加算される。=Khi sử dụng để cường hóa trang bị EX, điểm cường hóa sẽ được cộng thêm 1 Pt.
+オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=Áp phích thúc đẩy khu vực Oma "Hình minh họa câu cá ngừ Tunnus đầu xuân"
+王宮騎士団×ランフェス求人ポスター=Áp phích tuyển dụng của Quân đoàn Hiệp sĩ Hoàng gia × Lan-Fest
+ストーリー閲覧で獲得したアイテムです。=Vật phẩm nhận được từ việc đọc câu truyện.
+『ナッシュカッツェ』の招き猫=Mèo chiêu tài của tiệm "Nashkatze"
+
+マイページに設定できるフレーム画像。=Ảnh khung có thể thiết lập tại Trang cá nhân (My Page).
+オーマ地域振興ポスター『新春トゥンヌス釣上図柄』=Áp phích thúc đẩy khu vực Oma "Hình minh họa câu cá ngừ Tunnus đầu xuân"
+カスタムマイページのフレーム=Khung dành cho Trang cá nhân tùy chỉnh (Custom My Page).
+銀だこハイボール酒場コラボ記念カスタムマイページ=Trang cá nhân tùy chỉnh kỷ niệm hợp tác với Gindako Highball Tavern.
+
+
+
+
+アストラルスフィアBOX=Hộp Astral Sphere
+各属性のアストラルスフィアが獲得できる。=Có thể nhận được Astral Sphere (Tinh cầu Tinh tú) của mỗi thuộc tính.
+コネクトオーブ・アーツ、コネクトオーブ・ソウル、コネクトオーブ・ガードが獲得できる。=Có thể nhận được Connect Orb: Arts (Kết nối cầu - Thuật), Connect Orb: Soul (Kết nối cầu - Hồn), và Connect Orb: Guard (Kết nối cầu - Vệ).
+コネクトオーブBOX=Hộp Connect Orb
+
+
+
+TANITAコラボ記念カスタムマイページ=Trang cá nhân tùy chỉnh kỷ niệm hợp tác với TANITA.
+TANITAコラボログイン=Đăng nhập sự kiện hợp tác với TANITA.
+
+7周年記念カスタムマイページ=Trang cá nhân tùy chỉnh kỷ niệm 7 năm
+追想のデフラグ カスタムマイページ=Trang cá nhân tùy chỉnh Truy Tưởng Defragment (Defrag)
+豊島園 庭の湯コラボ記念カスタムマイページ　クロエ=Trang cá nhân tùy chỉnh kỷ niệm hợp tác với Toshimaen Niwa-no-yu – Chloe
+豊島園 庭の湯コラボ記念カスタムマイページ　チエル=Trang cá nhân tùy chỉnh kỷ niệm hợp tác với Toshimaen Niwa-no-yu – Chieru
+豊島園 庭の湯コラボ記念カスタムマイページ　ユニ=Trang cá nhân tùy chỉnh kỷ niệm hợp tác với Toshimaen Niwa-no-yu – Yuni
+豊島園 庭の湯コラボ記念カスタムマイページ　【なかよし部】=Trang cá nhân tùy chỉnh kỷ niệm hợp tác với Toshimaen Niwa-no-yu – [Nakayoshi-bu]
+
+
+主さま、カスタムマイページのフレームを獲得いたしましたよ。\nフレームを設定してマイページを飾ってみましょう。=Thưa Chủ nhân, chúng ta đã nhận được khung cho Trang cá nhân tùy chỉnh rồi đấy ạ. Hãy thiết lập khung và trang trí cho trang cá nhân của mình nhé.
+
+アストラルスフィア=Astral Sphere
+世界を構成している属性の力であるアストラルの結晶。内に秘めた属性が未分化の不安定な状態ゆえに励起されると莫大な属性の力を放つ。=Tinh thể Astral, nguồn sức mạnh của các thuộc tính cấu thành nên thế giới. Do các thuộc tính tiềm ẩn bên trong đang ở trạng thái chưa phân hóa và bất ổn, nên khi được kích thích, nó sẽ giải phóng một nguồn năng lượng thuộc tính khổng lồ.
+世界を構成している属性の力であるアストラルのうち闇の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Bảo ngọc kết tinh từ thuộc tính Bóng tối trong số các nguồn sức mạnh Astral cấu thành nên thế giới. Bằng cách sử dụng, bạn có thể kích hoạt thuộc tính tương ứng.
+世界を構成している属性の力であるアストラルのうち光の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Bảo ngọc kết tinh từ thuộc tính Ánh sáng trong số các nguồn sức mạnh Astral cấu thành nên thế giới. Bằng cách sử dụng, bạn có thể kích hoạt thuộc tính tương ứng.
+世界を構成している属性の力であるアストラルのうち風の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Bảo ngọc kết tinh từ thuộc tính Gió trong số các nguồn sức mạnh Astral cấu thành nên thế giới. Bằng cách sử dụng, bạn có thể kích hoạt thuộc tính tương ứng.
+世界を構成している属性の力であるアストラルのうち水の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Bảo ngọc kết tinh từ thuộc tính Nước trong số các nguồn sức mạnh Astral cấu thành nên thế giới. Bằng cách sử dụng, bạn có thể kích hoạt thuộc tính tương ứng.
+世界を構成している属性の力であるアストラルのうち火の属性が結晶化した宝玉。使用することで対応する属性を活性化させることができる。=Bảo ngọc kết tinh từ thuộc tính Lửa trong số các nguồn sức mạnh Astral cấu thành nên thế giới. Bằng cách sử dụng, bạn có thể kích hoạt thuộc tính tương ứng.
+
+古の王が遺した、女神の聖像。込められた祈りによって微かな恵みが灯る。コネクトRANKの強化上限を解放するために必要。=Thượng tượng Nữ thần do vị vua cổ đại để lại. Những lời cầu nguyện ẩn chứa bên trong thắp lên một ân huệ nhỏ bé. Cần thiết để giải phóng giới hạn cường hóa của Connect Rank.
+キャラの中に眠る闘志の力を呼び醒まし、立ち向かう勇気を湧き上がらせる小さなオーブ。使用すると　　コネクトRANKを強化できる。=Viên ngọc nhỏ thức tỉnh sức mạnh đấu chí đang ngủ say trong nhân vật, khơi dậy lòng dũng cảm để đương đầu chiến đấu. Khi sử dụng có thể cường hóa Connect Rank.
+キャラの中に眠る才気の力を呼び醒まし、技巧を洗練させる小さな　　オーブ。使用するとコネクトRANKを強化できる。=Viên ngọc nhỏ thức tỉnh sức mạnh tài trí đang ngủ say trong nhân vật, giúp rèn giũa kỹ nghệ trở nên tinh xảo hơn. Khi sử dụng có thể cường hóa Connect Rank.
+不安定な世界の歪みから誕生した特異個体の精霊。数奇な擦れ違いを端に暴走し、他の精霊たちを巻き込んで里に壊滅の音色を響かせる。=Một tinh linh cá thể đặc biệt được sinh ra từ sự vặn vẹo của thế giới bất ổn. Bắt nguồn từ những sự lỡ dở trớ trêu, nó nổi điên, cuốn theo các tinh linh khác và làm vang vọng âm hưởng của sự hủy diệt khắp ngôi làng.
+古の王が遺した、銀色に輝く女神の聖像。心まで澄む白銀の輝きには清らかな祝福が宿る。コネクトRANKの強化上限を解放するために必要。=Thượng tượng Nữ thần tỏa ánh bạc do vị vua cổ đại để lại. Ánh hào quang bạc rực rỡ làm thanh khiết cả tâm hồn ẩn chứa một lời chúc phúc trong lành. Cần thiết để giải phóng giới hạn cường hóa của Connect Rank.
+キャラの中に眠る加護の力を呼び醒まし、守りを強固なものとする小さなオーブ。使用するとコネクト　　RANKを強化できる。=Viên ngọc nhỏ thức tỉnh sức mạnh gia hộ đang ngủ say trong nhân vật, giúp củng cố phòng ngự trở nên vững chắc. Khi sử dụng có thể cường hóa Connect Rank.
+古の王が遺した、黄金に輝く女神の聖像。煌めく星の恩寵が進むべき道を示す。コネクトRANKの強化上限を解放するために必要。=Thần tượng Nữ thần tỏa ánh vàng rực rỡ do vị vua cổ đại để lại. Ơn phước từ những ngôi sao lấp lánh sẽ chỉ lối cho con đường phía trước. Cần thiết để giải phóng giới hạn cường hóa của Connect Rank.
+
+
+
+---Dedicated Ring---
+sr:"^([べ-ヺー＆＝]+)(（.+）)?\s?専用リング$"=Dedicated $1$2's Ring

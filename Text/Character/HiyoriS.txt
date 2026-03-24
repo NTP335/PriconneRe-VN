@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛で皆にエールを送り鼓舞する真夏の元気娘。味方のＨＰを継続回復し行動速度アップの他、味方の数に応じてクリティカル強化と攻撃力を引き上げ勝利に導く。=[Vật lý] Một cô gái vui tươi tận hưởng mùa hè đỉnh cao, người cổ vũ và truyền cảm hứng cho đồng minh từ tuyến đầu. Cô liên tục hồi HP cho đồng minh, tăng tốc độ hành động của họ, và dẫn dắt họ đến chiến thắng bằng cách tăng cường đòn chí mạng và tăng sức mạnh tấn công dựa trên số lượng đồng minh còn lại.
+
+##UB##
+ヒヨリチアーサンシャイン=Hiyori Năng Lượng Mặt Trời Mùa Hè
+自分を中心とした範囲内の味方すべての物理攻撃力と物理クリティカルを中アップし、物理攻撃クリティカル時のダメージを小アップする。範囲内の味方の人数に応じて、物理攻撃力と物理クリティカルの上昇量が増加する。=Tăng trung bình P.ATK và Tỷ Lệ Chí Mạng P. cho đồng minh trong phạm vi, và hơi tăng P.CRIT DMG của họ. Mức tăng P.ATK và Tỷ Lệ Chí Mạng P. tăng theo số lượng đồng minh trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを20アップ範囲内の味方の物理攻撃クリティカル時のダメージを3％アップ$"=►Tăng P.ATK của đồng minh trong phạm vi 80 lên $1 (+$1×Số Đồng Minh) trong 18s.\n►Tăng Tỷ Lệ Chí Mạng P. của đồng minh trong phạm vi 80 lên 20 (+20×Số Đồng Minh) trong 18s.\n►Tăng P.CRIT DMG của đồng minh trong phạm vi 80 lên 3% trong 18s.
+
+##S1##
+肉球スプラッシュ=Vảy Nước Bờm
+自分を中心とした範囲内の味方すべての物理攻撃力を小アップし、行動速度を大アップする。範囲内の味方の人数に応じて、物理攻撃力の上昇量が増加する。=Hơi tăng P.ATK của đồng minh trong phạm vi, và tăng rất mạnh tốc độ hành động của họ. Mức tăng P.ATK tăng theo số lượng đồng minh trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=Thời gian niệm: 0.59s.\n►Tăng P.ATK của đồng minh trong phạm vi 80 lên $1 (+$1×Số Đồng Minh) trong 12s.\n►Tăng tốc độ hành động của đồng minh trong phạm vi 80 lên 150% trong 12s.
+
+##S2##
+ハートリィハイブイ=Trái Tim Vui Vẻ V
+自分を中心とした範囲内の味方すべてのＨＰを小回復し、継続ＨＰ回復状態を付与する。=Hồi HP cho đồng minh trong phạm vi một lượng nhỏ, và ban cho họ khả năng hồi HP liên tục.
+r:"^範囲内の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.59s\n►Hồi HP cho đồng minh trong phạm vi 80 lên $1.\n►Hồi HP cho đồng minh trong phạm vi 80 lên $2/giây trong 10.5s.
+
+##EX##
+ミッドサマーエール=Cổ Vũ Mùa Hè
+ミッドサマーエール+=Cổ Vũ Mùa Hè+
+
+##S1+##
+肉球スプラッシュ+=Paw Splash+
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを小アップし、行動速度を大アップする。範囲内の味方の人数に応じて、物理攻撃力と物理クリティカルの上昇量が増加する。=Tăng cường mạnh mẽ ATK vật lý (P.ATK) cho đồng minh trong phạm vi, tăng nhẹ tỷ lệ chí mạng vật lý (P.CRIT Rate) và tăng cường mạnh mẽ tốc độ hành động. Mức tăng ATK vật lý và tỷ lệ chí mạng vật lý sẽ tăng theo số lượng đồng minh trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを10アップ範囲内の味方の行動速度アップ$"=►Tăng ATK vật lý (P.ATK) cho đồng minh trong phạm vi 80 lên $1 (+$1×Số đồng minh) trong 12s.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) cho đồng minh trong phạm vi 80 lên 10 (+10×Số đồng minh) trong 12s.\n►Tăng tốc độ hành động của đồng minh trong phạm vi 80 lên 150% trong 12s.
+
+##UE##
+トゥインクルサマービキニ=Twinkle Summer Bikini

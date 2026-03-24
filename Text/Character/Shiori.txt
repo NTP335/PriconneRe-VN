@@ -1,0 +1,48 @@
+##Profile##
+柏崎 栞=Kashiwazaki Shiori
+読書、お散歩=Đọc Sách, Đi Bộ
+【物理】最後衛から高火力スキルを連発するスナイパー。ダメージを与えつつ、ＴＰを回復するスキルを持ち、強力な一撃のユニオンバーストを、素早く発動する。=[Vật lý] Một xạ thủ phóng hàng loạt kỹ năng tấn công đáng sợ từ hậu phương. Ngoài việc gây sát thương, kỹ năng của cô ấy còn mang lại TP, cho phép cô ấy sử dụng Union Burst mạnh mẽ của mình nhanh hơn.
+
+読書が趣味の病弱少女=Một cô gái yếu ớt thích đọc sách
+
+儚げな少女との出会い=Cuộc Gặp Gỡ Mong Manh
+風に揺れる少女=Cô Gái Vương Gió
+いっぱい喋りたいこと=Biết Bao Chuyện Để Nói
+大好きなお姉ちゃん=Chị Gái Được Yêu Quý
+優しさに寄り添って=Được Thu Hút Bởi Sự Tử tế
+やきもちニャットちゃん=Nyatt-chan Ghen Tị
+初風邪と初看病=Lần Đầu Tiên Luôn
+手を繋いで行こう=Cùng Nắm Tay
+
+##UB##
+エンチャントアロー=Mũi Tên Phép Thuật
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を大アップさせる。=Gây sát thương Vật lý lớn lên kẻ địch ngay phía trước. Tăng mạnh Tấn công Vật lý của bản thân
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=►Tăng Tấn công Vật lý của bản thân lên $1.\n►Gây $2 Sát thương Vật lý lên kẻ địch.
+## Same as HSuzuna S1
+
+##S1##
+トライアロー=Ba Phát Bắn
+目の前の最大３キャラまでの敵に物理小ダメージを与え、さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý nhỏ lên tối đa 3 kẻ địch ngay phía trước. Hồi một lượng nhỏ TP cho bản thân.
+r:"^最大３キャラに各(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 Sát thương Vật lý lên tối đa 3 nhân vật.\n►Hồi TP cho bản thân đi $2.
+
+##S2##
+ウィンドアロー=Mũi Tên Gió
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý trung bình lên một kẻ địch ngay phía trước đồng thời hồi một lượng nhỏ TP cho bản thân.
+
+##EX##
+エンハンスエイム=Ngắm Bắn Nâng Cao
+エンハンスエイム+=Ngắm Bắn Nâng Cao+
+
+##UB+##
+エングロスアロー=Mũi Tên Mê Hoặc
+目の前の最大２キャラまでの敵に物理特大ダメージを与え、物理防御力を小ダウンさせる。さらに、自分の物理攻撃力を特大アップさせる。=Gây sát thương Vật lý khổng lồ lên kẻ địch phía trước, tối đa hai nhân vật, và giảm nhẹ Phòng thủ Vật lý của chúng. Ngoài ra, tăng mạnh Tấn công Vật lý của bản thân.
+r:"^１番目に近い敵単体に(\d+)の物理ダメージ１番目に近い敵単体の物理防御力を(\d+)ダウン２番目に近い敵単体に(\d+)の物理ダメージ２番目に近い敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=►Gây $1 Sát thương Vật lý lên kẻ địch gần nhất.\n►Giảm Phòng thủ Vật lý của kẻ địch gần nhất đi $2 trong 18s.\n►Gây $3 Sát thương Vật lý lên kẻ địch thứ hai gần nhất.\n►Giảm Phòng thủ Vật lý của kẻ địch thứ hai gần nhất đi $4 trong 18s.\n►Tăng Tấn công Vật lý của bản thân lên $5 trong 90s.
+
+##S1+##
+トライアロー+=Ba Phát Bắn+
+目の前の最大３キャラまでの敵に物理小ダメージを与える。このダメージは、遠い敵ほどダメージが増加する。さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý nhỏ lên tất cả kẻ địch trong phạm vi. Sát thương được tăng lên dựa trên số lượng mục tiêu.
+目の前の最大３キャラまでの敵に物理中ダメージを与える。このダメージは、遠い敵ほどダメージが増加する。さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý trung bình lên tất cả kẻ địch trong phạm vi. Sát thương được tăng lên dựa trên số lượng mục tiêu.
+r:"^１番目に近い敵単体に(\d+)の物理ダメージ２番目に近い敵単体に(\d+)の物理ダメージ３番目に近い敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 Sát thương Vật lý lên mục tiêu gần nhất.\n►Gây $2 Sát thương Vật lý lên mục tiêu thứ hai gần nhất.\n►Gây $3 Sát thương Vật lý lên mục tiêu thứ ba gần nhất.\n►Hồi TP cho bản thân đi $4.
+
+##UE##
+ハツネお手製の護り石=Talisman Làm Tay Của Hatsune

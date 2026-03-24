@@ -1,0 +1,71 @@
+タマキからのお願いで、指定の通路の見張り番をした{playername}は、お礼にとたい焼きを貰う。翌日、美少女義賊「ファントムキャッツ」が出没したというニュースが、ランドソルの街を駆け巡った。=Để đền đáp ơn Tamaki, {playername} đã canh gác một lối đi được chỉ định và nhận được vài chiếc taiyaki như phần thưởng. Ngày hôm sau, tin tức về sự xuất hiện của băng cướp thiếu nữ xinh đẹp "Ma Mèo" đã lan truyền khắp thành phố Landosol.
+ある日、{playername}は、\nタマキに呼び出されて市街地の大きな屋敷の側にきた。=Một ngày nọ, {playername} được Tamaki gọi đến bên một biệt thự lớn trong thành phố.
+{playername}、よく来てくれたにゃ。\n今日はちょっと、キミに話したいことがあるのにゃ。={playername}, tớ vui vì cậu đã đến~nya. Hôm nay tớ có chuyện muốn nói với cậu~nya.
+{playername}は、\n最近この辺に現れる謎の義賊・ファントムキャッツっていうのを\n知っているかにゃ？={playername}, cậu có biết về tên cướp bí ẩn xuất hiện gần đây không~nya? Ma Mèo~nya?
+知らないのかにゃ？\n弱きを助け強きを挫く、美少女義賊……\nその名もファントムキャッツ……！=Cậu không biết~nya?\nTên cướp thiếu nữ xinh đẹp giúp người yếu và đánh bại kẻ mạnh...\nTên cô ấy là Ma Mèo...!
+いったい、正体は何者なのにゃ……！=Cô ấy thực sự là ai vậy~nya...!
+おっさん？=Một ông già?
+にゃーっ！　誰がおっさんにゃ……\nこ、こほん、おっさんではきっとないのにゃ……=Meo-! Ai là ông già chứ~nya...\nc-cough, cô ấy chắc chắn không phải ông già~nya...
+と、とにかく、ファントムキャッツは可愛い美少女義賊だと\n聞いたにゃ。=Dù sao thì, tớ nghe nói Ma Mèo là một tên cướp thiếu nữ dễ thương và xinh đẹp~nya.
+……ところで義賊といえば……=...Nói về tên cướp...
+{playername}は、義賊ってどう思うかにゃ……？={playername}, cậu nghĩ sao về tên cướp~nya...?
+悪いやつからだけお金を盗む、正義の泥棒……\nそんな義賊がにゃ、例えば目の前にいたとしたら……=Chỉ lấy tiền của kẻ xấu, một kẻ trộm mang lẽ công...\nnếu có một tên cướp như vậy đứng trước mặt cậu~nya, ví dụ như...
+ゆすって分け前をいただく。=Tớ sẽ bóc lột hắn và lấy phần của mình.
+泥棒は泥棒だ。すぐ捕まえよう。=Trộm thì vẫn là trộm. Phải bắt ngay.
+にゃっ！？　そ、それはだめにゃ！\nっていうか、そっちの方が悪いやつにゃ！=Meo-!? K-không, không phải vậy~nya!\nĐúng là ý đó, cậu mới là kẻ xấu~nya!
+
+ううん……やっぱり、軽々しく正体は明かせないにゃ……\nいくら{playername}でも……=Không... Tớ thực sự không thể lộ danh tính dễ dàng thế đâu, nya... Ngay cả với {playername}...
+ま、それはそれとしてにゃ。\n実は今日は、キミに相談があって、\n呼び出させてもらったにゃ。=Thôi, chuyện đó không quan trọng~nya. Thực ra, hôm nay tớ có chuyện muốn nhờ cậu, đó là lý do gọi cậu tới đây~nya.
+ここの屋敷は、巷で暴利をむさぼる高利貸し、アクドーイの\n家だと言われているにゃ。=Biệt thự này được cho là thuộc về một kẻ cho vay nặng lãi tên là Krook'd, người làm giàu bằng cách bóc lột người trên đường phố~nya.
+善人から不当に奪った財産で私腹を肥やす……\nきっと、義賊の天誅が下ってもしかたないやつにゃ！=Hắn béo túi bằng tài sản đã chiếm đoạt bất hợp pháp từ người lương thiện... chắc chắn hắn xứng đáng nhận sự trừng phạt thần thánh từ một tên cướp~nya!
+で……ええと……\nそれとは関係ない話なんだけどにゃ……=Vậy nên... ừm... chuyện này không liên quan, nhưng~nya...
+今日これからここの逃走経路……じゃなかった、ごほん、\n通路に人が通らないように、さりげなく見張っていてほしいにゃ。=Tớ muốn cậu canh gác lối thoát này... ý tớ là, cough, lối đi này, và đảm bảo không ai đi qua một cách tùy tiện~nya.
+え、なんでかってにゃ？　それは……\nええと……ちょっと、人に見られると\n恥ずかしい魔法の練習をするのにゃ。=Tại sao, cậu hỏi~nya? Bởi vì... ừm... tớ sẽ thử nghiệm một phép thuật mà thấy ngượng nếu có người nhìn thấy~nya.
+今晩はギルドのみんなも手が離せなくて……\nお願いにゃ！　頼まれてくれないかにゃ……？=Mọi người trong guild đều bận tối nay... làm ơn đi~nya! Cậu sẽ giúp tớ chứ~nya...?
+ほんとかにゃ！\n引き受けてくれるにゃ！？=Thật hả~nya! Cậu đồng ý rồi~nya!?
+さっすが{playername}にゃ！\nそれでこそあたしが見込んだだけあるにゃ！=Đúng là {playername}!\nChính vì vậy tớ rất kỳ vọng ở cậu~nya!
+とりあえず、あたしが戻ってくるまで、\nここで見張っててほしいにゃ。\n頼んだにゃ！=Trước mắt, tớ muốn cậu canh gác chỗ này cho đến khi tớ quay lại~nya. Tớ tin cậy cậu~nya!
+にゃーっ！　大漁、大漁♪=Meo-! Mẻ lớn, mẻ lớn♪
+おまたー、にゃ！　見張り、ありがとうにゃ！=Hẹn gặp lại~nya! Cảm ơn vì đã canh gác~nya!
+その担いでいる大きな風呂敷は……？=Chiếc túi vải to đó cậu đang mang là gì vậy...?
+細かいことを気にしたらダメにゃ！=Đừng bận tâm chi tiết~nya!
+さ、もうここに用事はないにゃ。\n早く離れるにゃ。=Không còn việc gì để làm ở đây nữa~nya. Đi nhanh thôi~nya.
+いつまでぼーっとしてるにゃ？\n早く逃げないと見つかるにゃ……っとと。=Cậu định ngơ ngác đến bao giờ ~nya?\nNhanh lên chạy đi, không bị bắt ~nya...
+夜も遅くなってるし、早く帰らないと危ないにゃよ？\nにゃっ！=Đã khuya rồi, nên cậu không về sớm thì nguy hiểm ~nya? Nya-!
+おっと、分かれ道に来たのにゃ。\n今日はこれで……=Ôi, chúng ta tới ngã ba đường rồi ~nya. Hôm nay tới đây thôi...
+あ、忘れてたのにゃ。\n今日は付き合ってくれてありがとにゃ{playername}！\nこれはお礼にゃ！=Ồ, mình quên mất ~nya.\nCảm ơn cậu đã đi cùng mình hôm nay {playername}!\nĐây là quà cảm ơn ~nya!
+あたしのバイトのまかないとしてもらった、\nたい焼きの詰め合わせにゃ！=Đây là taiyaki mình nhận được từ công việc bán thời gian ~nya!
+すっごく美味しいにゃ！\nきっとキミも気に入ってくれると思うのにゃ。=Chúng thật ngon ~nya! Mình chắc cậu cũng sẽ thích ~nya.
+それじゃあ、またにゃ！\n今日は本当にありがとにゃ～！=Vậy thì, hẹn gặp lại ~nya! Cảm ơn cậu rất nhiều vì hôm nay ~nya!
+上機嫌なタマキを見送った{playername}。\nその翌日、ファントムキャッツが出たというニュースで\nランドソルは騒然となったのだった。={playername} nhìn Tamaki rời đi với tâm trạng tốt. Ngày hôm sau, Landosol xôn xao với tin tức về sự xuất hiện của Phantom Cat.
+
+
+
+奇跡のような美少女に違いない。=Cô ấy chắc chắn là một cô gái xinh đẹp diệu kỳ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

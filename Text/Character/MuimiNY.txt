@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で、新風纏う「天楼覇断剣」を振るう少女。皆より一足遅れて突撃し、敵の前衛を吹き飛ばした後、強化した範囲物理攻撃で、ダンゴになった敵を斬り払う。=[Vật Lý] Một cô gái sử dụng Spiresbane Blade ở tuyến đầu với phong cách mới. Cô xông lên một bước phía sau mọi người, quét sạch tiền tuyến kẻ địch, sau đó dùng các đòn tấn công vật lý diện rộng tăng cường để giết bất kỳ kẻ địch nào biến thành dango.
+
+冒険、思い出話=Phiêu Lưu, Hoài Niệm
+
+##UB##
+新春乾坤天晴剣=Shinshun Kenkon Tenseiken
+
+##S1##
+どけぇー！=Tránh Ra!
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、さらに物理防御力を小ダウンさせて小さく吹き飛ばす。=Xông thẳng vào kẻ địch phía trước ngay sau khi trận đấu bắt đầu và gây sát thương vật lý vừa phải. Giảm nhỏ P.DEF của chúng, và đẩy lùi chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch đi $2 trong 18s.\n►Đẩy lùi kẻ địch đi 200 đơn vị.
+
+##S2##
+もらったぞ！=Đã Hiểu!
+前方範囲内の敵すべてに物理小ダメージを与え、さらに自分の物理攻撃力を小アップさせる。=Gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi, và cũng tăng nhỏ P.ATK của bản thân.
+
+##EX##
+ニューイヤーテンション=Căng Thẳng Năm Mới
+ニューイヤーテンション+=Căng Thẳng Năm Mới+
+
+##S1+##
+どけぇー！+=Tránh Ra!+
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理大ダメージを与え、物理防御力を中ダウンさせて小さく吹き飛ばす。さらに暫くの間無敵状態になる。=Xông thẳng vào kẻ địch phía trước ngay sau khi trận đấu bắt đầu và gây sát thương vật lý lớn. Giảm P.DEF của chúng một lượng vừa phải, và đẩy lùi chúng. Trở nên bất khả xâm phạm trong thời gian ngắn.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン一定時間無敵状態になる$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch đi $2 trong 18s.\n►Đẩy lùi kẻ địch đi 200 đơn vị.\n►Trở nên miễn nhiễm với mọi sát thương trong 7s.
+
+##UE##
+大悪党の新春晴れ着=Nắng Năm Mới Của Kẻ Xấu Vĩ Đại

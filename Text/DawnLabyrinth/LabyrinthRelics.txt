@@ -1,0 +1,357 @@
+## Initial Relic ##
+ＨＰ＋15％物理/魔法与ダメ＋15％=►HP Tối Đa +15% ►Sát Thương Vật Lý/Phép Thuật +15%
+お使いの端末は正常です=Thiết bị của bạn đang hoạt động tốt.
+
+プリンセスエンチャント=Princess Enchant
+物理/魔法攻撃力アップ（加入キャラ数×4％、最大100％）=Bonus Tấn Công Vật Lý/Phép Thuật (Nhân vật tham gia x4%, tối đa 100%)
+r:"^物理/魔法攻撃力アップ（加入キャラ数×4％、最大100％）（現在(\d+)人）$"=►Bonus Tấn Công Vật Lý/Phép Thuật (Nhân vật tham gia x4%, tối đa 100%)(Hiện tại $1)
+
+アストラルブースト=Astral Boost
+属性ボーナス＋50％=►Bonus Nguyên Tố +50%
+
+トゥインクルブレス=Twinkle Breath
+ボスバトルを除いて一度だけバトル敗北を免除=►Miễn bị đánh bại trong trận chiến một lần, không bao gồm trận boss
+
+サレンディアエンゲージ=Sarendia Engage
+ショップの販売価格－10％=►Giá Cửa Hàng -10%
+
+サレンディアノーブル=Sarendia Noble
+通常攻撃強化アップ（アルファルピ所持数×0.01、最大100）=►Tăng Cường Tấn Công Thường Lên (Sở Hữu αRupees x0.01, Tối Đa 100)
+r:"^通常攻撃強化アップ（アルファルピ所持数×0.01、最大100）（現在(\d+)枚）$"=►Tăng Cường Tấn Công Thường Lên (Sở Hữu αRupees x0.01, Tối Đa 100)(Hiện tại $1)
+
+ナイツオブフェイス=Nights of Face
+物理/魔法クリダメ＋50％物理/魔法クリティカル－25％=►Sát Thương Chí Mạng Vật Lý/Phép Thuật +50% ►Tỷ Lệ Chí Mạng Vật Lý/Phép Thuật -25%
+
+レジーナガーラ=Regina Gear
+敵の物理/魔法被ダメ＋25％味方の物理/魔法被ダメ＋25％=►Sát Thương Vật Lý/Phép Thuật Kẻ Thù +25% ►Sát Thương Vật Lý/Phép Thuật Đồng Minh +20%
+
+ラビリンスオーソリティ=Labyrinth Authority
+挑戦開始時にラビリスタが加入=►Labyrista tham gia ngay từ đầu thử thách
+
+マスターオブラビリンス=Master of Labyrinth
+挑戦開始時にランダムな★1の迷宮遺物を１個獲得=►Nhận ngẫu nhiên một Relic Labyrinth ★1 ngay từ đầu thử thách
+
+イルミネイトカルミナ=Illuminate Carmina
+物理/魔法攻撃力＋15％バフ強化＋15=►Tấn Công Vật Lý/Phép Thuật +15% ►Tăng Cường Buff +15
+
+ヴォイスフォーユー=Voice for You
+30秒ごとに物理/魔法攻撃力ダウン解除=►Hiệu Ứng Giảm Tấn Công Vật Lý/Phép Thuật bị loại bỏ mỗi 30 giây
+
+
+ディアボロスフィアー=Diablos Sphere
+敵のＴＰ上昇－15=►Tăng TP Kẻ Thù -15
+
+ブルートナハト=Blutnacht
+15秒ごとにＴＰ固定量100回復\n敵のＴＰ100ダウン=Mỗi 15 giây: ►Phục Hồi 100 TP cho đồng minh. ►Giảm 100 TP của kẻ thù trong phạm vi.
+
+エリザベスガーディアン=Elizabeth Guardian
+バトル開始時に最もＨＰが多いキャラが敵を挑発=►Ngay từ đầu trận chiến, nhân vật có HP cao nhất sẽ [Taunt] kẻ thù.
+
+ドングリースピリット=Acorn Spirit
+行動不能無効１回=►Miễn nhiễm Choáng một lần
+
+ノブレスウィスタリア=Noblesse Wistaria
+初期アルファルピ+3000\nアルファルピ獲得量－30%=►αRupees Ban Đầu +3.000 ►Lượng Nhận αRupees -30%
+
+リヴァイアサンコール=Leviathan Call
+物理/魔法クリダメアップ（アルファルピ所持数×0.01%、最大100%）=►Tăng Sát Thương Chí Mạng Vật Lý/Phép Thuật (Sở Hữu αRupees x0.01, Tối Đa 100)
+r:"^物理/魔法クリダメアップ（アルファルピ所持数×0.01%、最大100%）（現在(\d+)枚）$"=►Tăng Sát Thương Chí Mạng Vật Lý/Phép Thuật (Sở Hữu αRupees x0.01, Tối Đa 100)(Sở Hữu αRupees x0.01, Tối Đa 100)(Hiện tại $1)
+
+兵法二海一流=Hyōpo Nikai Ichiryu
+デバフ強化＋20=►Tăng Cường Debuff +20
+
+バインディングローズ=Binding Rose
+敵への継続ダメージアップ（加入キャラ数×10％、最大50万ダメージ）=►Sát Thương Liên Tục lên đối thủ tăng (Nhân vật tham gia x10%, tối đa 500.000 sát thương)
+r:"^敵への継続ダメージアップ（加入キャラ数×10％、最大50万ダメージ）（現在(\d+)人）$"=►Sát Thương Liên Tục lên đối thủ tăng (Nhân vật tham gia x10%, tối đa 500.000 sát thương)(Hiện tại $1)
+
+迷宮遺物詳細=Labyrinth Relic Details
+
+【美⾷殿】と共に迷宮を冒険するための遺物。王家の装備を精巧に模しており、味方の⾝体能⼒を⼤きく向上させてくれる。=Một relic cho khám phá dungeon với 【Guild Ẩm Thực】. Được mô phỏng tinh xảo từ trang thiết bị hoàng gia, nó tăng cường đáng kể khả năng vật lý của đồng minh.
+【美⾷殿】と共に迷宮を冒険するための遺物。冒険の道中で絆を結べば結ぶほどに、味⽅の攻撃⼒を⾼めてくれる。=Một di vật khám phá hầm ngục cùng 【Gourmet Guild】. Mối liên kết càng vững chắc trong cuộc phiêu lưu, càng tăng cường sức tấn công cho đồng đội.
+
+【トゥインクルウィッシュ】と共に迷宮を冒険するための遺物。３人のアストラルに呼応して、属性の力を増幅させてくれる。=Một di vật khám phá hầm ngục cùng 【Twinkle Wish】. Cộng hưởng với ba sinh vật Astrals, nó khuếch đại sức mạnh nguyên tố.
+【トゥインクルウィッシュ】と共に迷宮を冒険するための遺物。ギルドマスターの諦めない心が、味方を一度だけ敗北から守る。=Một di vật khám phá hầm ngục cùng 【Twinkle Wish】. Tinh thần bất khuất của guild master bảo vệ đồng đội khỏi thất bại một lần.
+
+【サレンディア救護院】と共に迷宮を冒険するための遺物。主人が築いた信頼関係のおかげで、商品の価格を値引きしてもらえる。=Một di vật khám phá hầm ngục cùng 【Sarendia Orphanage】. Xây dựng trên niềm tin được tôi luyện bởi chủ nhân, nó cấp giảm giá trên hàng hóa.
+【サレンディア救護院】と共に迷宮を冒険するための遺物。主人の気品を漂わせる剣は、築いた富を⼒に変転させる効果を持つ。=Một di vật khám phá hầm ngục cùng 【Sarendia Orphanage】. Một thanh kiếm thấm đẫm sự thanh lịch của chủ nhân, nó chuyển hóa tài sản tích lũy thành sức mạnh.
+
+【王宮騎士団】と共に迷宮を冒険するための遺物。団長の愛⽤品を模し会⼼率と引き換えに、会⼼時の威⼒を⾼めてくれる。=Một di vật khám phá hầm ngục cùng 【Nightmare】. Lấy cảm hứng từ trang bị yêu thích của thuyền trưởng, nó tăng sát thương phản đạn nhưng giảm tỷ lệ phản đạn.
+【王宮騎士団】と共に迷宮を冒険するための遺物。副団長の催す闘争の宴は、敵味⽅が受けるダメージをみな悉く増加させる。=Một di vật khám phá hầm ngục cùng 【Nightmare】. Bữa tiệc chiến đấu của phó thuyền trưởng làm tăng tất cả sát thương nhận bởi cả đồng minh và kẻ thù.
+
+【ラビリンス】と共に迷宮を冒険するための遺物。迷宮女王はその権能でナイトがどこに居ようとも即座に参戦してくれる。=Một di vật khám phá hầm ngục cùng 【Labyrinth】. Nữ hoàng Labyrinth dùng quyền năng để lập tức tham gia cùng Kishi bất cứ nơi đâu.
+【ラビリンス】と共に迷宮を冒険するための遺物。マスターの⼒を冠した剣は、開発者権限の⼀部を解放し、遺物を即座に獲得する。=Một di vật khám phá hầm ngục cùng 【Labyrinth】. Một thanh kiếm được trao quyền năng của Master mở khóa đặc quyền nhà phát triển để lập tức có được di vật.
+
+【カルミナ】と共に迷宮を冒険するための遺物。これを振るう者の熱き声援は、ステージに立つ者の能力をより一層高めてくれる。=Một di vật khám phá hầm ngục cùng 【Carmina】. Những lời cổ vũ nhiệt huyết của người cầm nó cực kỳ tăng cường khả năng của những người trên sân khấu.
+【カルミナ】と共に迷宮を冒険するための遺物。ハンドマイクを通じて拡がっていく歌声は、味方の疲労をふき飛ばす。=Một di vật khám phá hầm ngục cùng 【Carmina】. Những bài hát phát qua micro cầm tay xua tan sự mệt mỏi của đồng đội.
+
+【悪魔偽王国軍】と共に迷宮を冒険するための遺物。紅き両刃から禍々しく迸る魔力の前では、いかなる敵だろうと戦意を失う。=Một di vật khám phá hầm ngục cùng 【Diabolos】. Ma thuật ác độc phun ra từ cặp lưỡi kiếm đỏ thẫm khiến bất kỳ kẻ thù nào mất ý chí chiến đấu.
+【悪魔偽王国軍】と共に迷宮を冒険するための遺物。重く振りかざす一撃は、斬り裂いた獲物の生気を我が物とする。=Một di vật khám phá hầm ngục cùng 【Diabolos】. Mỗi đòn đánh nặng nề hấp thụ sức sống của con mồi bị chém.
+
+【牧場】と共に迷宮を冒険するための遺物。被ったらたちまちその場で最も目立つ存在となり、すべての攻撃を引きつけてしまう。=Một di vật khám phá hầm ngục cùng 【Elizabeth Park】. Khi đeo, khiến người dùng trở thành mục tiêu nổi bật nhất, thu hút mọi đòn tấn công.
+【牧場】と共に迷宮を冒険するための遺物。持ち主のやる気を呼び起こし、ぐうたらさを１回だけ無効化できる。あくまで１回だけ。=Một di vật khám phá hầm ngục cùng 【Elizabeth Park】. Đánh thức động lực của chủ nhân, phủ nhận sự lười biếng một lần. Chỉ một lần thôi.
+
+【メルクリウス財団】と共に迷宮を冒険するための遺物。人から決して多く受け取らず、生まれ持った財のみで戦いぬく高潔さの証。=Một di vật khám phá hầm ngục cùng 【Mercurius Foundation】. Bằng chứng của sự chính trực - không bao giờ lấy nhiều từ người khác, chiến đấu chỉ với tài sản bẩm sinh.
+【メルクリウス財団】と共に迷宮を冒険するための遺物。富を積めば積むほど精神を集中させ、必殺の一突きを敵に見舞う。=Một di vật khám phá hầm ngục cùng 【Mercurius Foundation】. Tích lũy tài sản mài nhọn sự tập trung để tung ra đòn đâm chí mạng.
+
+【トワイライトキャラバン】と共に迷宮を冒険するための遺物。さまざまな者たちの個性を学習し、敵を苦しめる術に転化する。=Một di vật khám phá hầm ngục cùng 【Twilight Caravan】. Học hỏi các đặc điểm của nhiều cá nhân và chuyển hóa chúng thành kỹ thuật để hành hạ kẻ thù.
+【トワイライトキャラバン】と共に迷宮を冒険するための遺物。二本の刀が見せる煌めきは、悪党どもの気炎を容易く挫く。=Một di vật khám phá hầm ngục cùng 【Twilight Caravan】. Ánh sáng lấp lánh của cặp lưỡi kiếm dễ dàng đập tan sự kiêu ngạo của ác nhân.
+
+## Relic Type Level ##
+【会心】=【Tập Trung】
+【会心+1】=【Tập Trung +1】
+【会心+2】=【Tập Trung +2】
+【会心+3】=【Tập Trung +3】
+【会心+5】=【Tập Trung +5】
+
+【加速】=【Tốc Độ】
+【加速+1】=【Tốc Độ +1】
+【加速+2】=【Tốc Độ +2】
+【加速+3】=【Tốc Độ +3】
+【加速+5】=【Tốc Độ +5】
+
+【守備】=【Phòng Thủ】
+【守備+1】=【Phòng Thủ +1】
+【守備+2】=【Phòng Thủ +2】
+【守備+3】=【Phòng Thủ +3】
+【守備+5】=【Phòng Thủ +5】
+
+【弱体】=【Giảm Buff】
+【弱体+1】=【Giảm Buff +1】
+【弱体+2】=【Giảm Buff +2】
+【弱体+3】=【Giảm Buff +3】
+【弱体+5】=【Giảm Buff +5】
+
+【強化】=【Tăng Buff】
+【強化+1】=【Tăng Buff +1】
+【強化+2】=【Tăng Buff +2】
+【強化+3】=【Tăng Buff +3】
+【強化+5】=【Tăng Buff +5】
+
+## Effect ## 
+
+r:"^ダメージを受けるたびＴＰ(\d+)回復（最大(.)回）$"=►Hồi $1 TP khi nhận sát thương (Tối đa $2 lần)
+r:"^バトル開始時、物理/魔法攻撃力アップフィールド展開（現在値[＋+]([0-9.%％]+)％）$"=►Ở đầu trận, triển khai Vùng Tăng P.ATK/M.ATK (Giá trị hiện tại +$1%)
+r:"^バトル開始時ＴＰ(\d+)回復$"=►Hồi $1 TP ở đầu trận
+r:"^バフ強化＋(\d+)$"=►Tăng Cường Buff +$1
+r:"^回復強化＋(\d+)$"=►Tăng Cường Hồi Phục +$1
+r:"^属性ボーナス[＋+]([0-9.%％]+)$"=►Bonus Nguyên Tố +$1%
+r:"^敵の物理/魔法与ダメ[－\-]([0-9.%％]+)\n?敵の物理/魔法被ダメ[＋+]([0-9.%％]+)$"=►Sát thương vật/lượn địch bị giảm -$1%\n►Sát thương vật/lượn địch nhận +$2%
+r:"^敵の物理/魔法攻撃力[－\-]([0-9.%％]+)$"=►Giảm tấn công vật/lượn địch $1%
+r:"^敵の物理/魔法被クリダメ[＋+]([0-9.%％]+)$"=►Tăng sát thương chí mạng vật/lượn địch nhận $1%
+r:"^敵の物理/魔法防御力[－\-]([0-9.%％]+)$"=►Giảm phòng thủ vật/lượn địch $1%
+r:"^物理/魔法クリダメ[＋+]([0-9.%％]+)$"=►Sát thương chí mạng vật/lượn +$1%
+
+r:"^物理/魔法攻撃力アップ（先頭キャラの物理防御力×(\d+)）$"=►Tăng tấn công vật/lượn (Phòng thủ vật của nhân vật tiền tuyến ×$1)
+r:"^物理/魔法攻撃力アップ（先頭キャラの魔法防御力×(\d+)）$"=►Tăng tấn công vật/lượn (Phòng thủ lượng của nhân vật tiền tuyến ×$1)
+r:"^物理/魔法攻撃力[＋+]([0-9.%％]+)$"=►Tấn công vật/lượn +$1%
+r:"^物理/魔法防御力[＋+]([0-9.%％]+)$"=►Phòng thủ vật/lượn +$1%
+r:"^物理/魔法クリティカル[＋+]([0-9.%％]+)$"=►Tỷ lệ chí mạng vật/lượn +$1%
+r:"^状態異常命中[＋+]([0-9.%％]+)$"=►Độ chính xác trạng thái bất thường +$1
+r:"^通常攻撃強化[＋+]([0-9.%％]+)$"=►Tăng sức mạnh tấn công thường +$1
+r:"^通常攻撃強化[＋+]([0-9.%％]+)\nＨＰ吸収[＋+]([0-9.%％]+)$"=►Tăng sức mạnh tấn công thường +$1\n►Hút máu +$2
+r:"^重複可能の行動速度[＋+]([0-9.%％]+)$"=►Tốc độ hành động có thể chồng +$1%
+r:"^ＨＰ吸収[＋+]([0-9.%％]+)$"=►Hút máu +$1
+r:"^ＴＰ上昇[＋+]([0-9.%％]+)$"=►Tăng TP +$1
+r:"^ＴＰ消費軽減[＋+]([0-9.%％]+)$"=►Giảm chi phí TP +$1
+
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）$"=►Hồi máu liên tục (Số lần [Giữ] ×$1/giây)
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）（現在(\d+)個）$"=►Hồi máu liên tục (Số lần [Giữ] ×$1/giây) (Hiện tại: $2)
+
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）$"=►Hồi máu liên tục (Số lần [Giữ] ×$1/giây)
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）（現在(\d+)個）$"=►Hồi máu liên tục (Số lần [Giữ] ×$1/giây) (Hiện tại: $2)
+
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）$"=►Hồi máu liên tục (Số lần [Giữ] ×$1/giây)
+r:"^継続ＨＰ回復（毎秒【守備】数×(\d+)回復）（現在(\d+)個）$"=►Hồi máu liên tục (Số lần [Giữ] ×$1/giây) (Hiện tại: $2)
+
+r:"^敵全体に毒付与（毎秒【弱\n?体\n?】\n?数×(\d+)ダメージ）$"=►Đổ độc toàn bộ địch\n(Gây sát thương [Số Debuff] ×$1/giây)
+r:"^敵全体に毒付与（毎秒【\n?弱\n?体\n?】\n?数×(\d+)ダメージ）（\n?現\n?在\n?(\d+)個）$"=►Đổ độc toàn bộ địch (Gây sát thương [Số Debuff] ×$1/giây) (Hiện tại: 0)
+
+r:"^敵全体に呪い付与（毎秒【弱\n?体\n?】\n?数×(\d+)ダメージ）$"=►Nguyền rủa toàn bộ địch\n(Gây sát thương [Số Debuff] ×$1/giây)
+r:"^敵全体に呪い付与（毎秒【弱\n?体\n?】\n?数×(\d+)ダメージ）（\n?現\n?在\n?(\d+)個）$"=►Nguyền rủa toàn bộ địch (Gây sát thương [Số Debuff] ×$1/giây) (Hiện tại: $2)
+
+
+
+r:"^(\d+)秒ごとに物理無効バリア展開（【守備】数×(\d+)無効）（現在(\d+)個）$"=►Triển khai Rào Chắn Khắc Vật mỗi $1s (Bỏ qua [Số Giữ] ×$2) (Hiện tại: $3)
+r:"^(\d+)秒ごとに魔法無効バリア展開（【守備】数×(\d+)無効）（現在(\d+)個）$"=►Triển khai Rào Chắn Khắc Lượn mỗi $1s (Bỏ qua [Số Giữ] ×$2) (Hiện tại: $3)
+
+r:"^(\d+)秒ごとに物理無効バリア展開（【守備】数×(\d+)無効）$"=►Triển khai Rào Chắn Khắc Vật mỗi $1s\n(Bỏ qua [Số Giữ] ×$2)
+r:"^(\d+)秒ごとに魔法無効バリア展開（【守備】数×(\d+)無効）$"=►Triển khai Rào Chắn Khắc Lượn mỗi $1s\n(Bỏ qua [Số Giữ] ×$2)
+
+r:"^物理/魔法攻撃力アップ（加入キャラ数×(\d+)％、最大(\d+)％）（現在(\d+)人）$"=Lượn/Vật ATK Bonus (Nhân vật tham gia ×$1%, tối đa $1%) (Hiện tại $3 người)
+
+鋼装堅鎧=Giáp Thép Cứng Cáp
+獲得ボーナス=Đã nhận phần thưởng
+ジャッジメントアロー=Mũi Tên Phán Quyết
+
+## Purchase ##
+r:"^\[3C404E\]アルファルピ×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n以下のアイテムを購入しますか？\[-\]$"=[3C404E]Bạn có muốn dùng [FFBB00,CE4F00]$1[-] αRupees để mua các vật phẩm này không?[-]
+sr:"^\[3C404E\]アルファルピ×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)を購入しました。\[-\]$"=[3C404E]Đã dùng [FFBB00,CE4F00]$1[-] αRupees để mua [FFBB00,CE4F00]$2[-].
+アルファルピが不足しています。=αRupees không đủ
+
+## Relic Name ##
+アブゾーブハチェット=Rìu Hút Máu
+インヘイルアックス=Hút Rìu
+エレメントサージオーブ=Quả Cầu Dòng Nguyên Tố
+オオトリノカタナ=Otorinokatana
+キラースピア=Giáo Sát Thủ
+クリティカルアーク=Cung Phép Kỳ
+クリーヴフィスト=Nắm Đấm Chém
+クレナイノタチ=Kurenainotachi
+シリーズなし=Không thuộc bộ
+スカイストライク=Đòn Trời
+ハナミノカタナ=Kiếm Ngắm Hoa
+フェイタリティ=Tử Thần
+ラプチャーガントレット=Găng Tay Rapture
+リーサルハルバード=Kích Liesal
+再生ノ腕輪=Vòng Tay Tái Tạo
+冷玉の杖=Gậy Bóng Lạnh
+創世緑杖=Gậy Xanh Sinh Mệnh
+加速の玉飾り=Ballade Tăng Tốc
+回生杖=Khai Phóng
+天戴冠のゼニスブレード=Lưỡi Kiếm Đỉnh Cao
+崩刀ヤマツキ=Phá Hoại Đêm Trăng
+幻獣飾テンタシオン=Ngựa Bạch Cám Dỗ
+幽玄煌装・絶魔=Ẩn Sâu: Zema
+強化のジェム=Viên Đá Tăng Cường
+影刃剣プラール=Kiếm Bóng Tối Prar
+抗鉄のプレート=Tấm Giáp Chống Sắt
+抗魔のドレス=Trang Phục Chống Ma Quỷ
+斬赤刃ディバイド=Lưỡi Kiếm Đỏ Chia Cắt
+断刃拒絶のアルギュロス=Argyros Sự Từ Chối Chém Đầu
+断壁鎖刃フラグメント=Mảnh Lưỡi Liềm Cắt Đứt
+星明りの儀杖=Gậy Nghi Lễ Dưới Ánh Sao
+星涙の輝盾=Khiên Lấp Lánh Nước Mắt Sao
+暗剣ポワゾン=Kiếm Bóng Tối Poisson
+桜堅牢のコート=Áo Khoác Sakura Kiên Cố
+極醒のアミュレット=Bùa Hộ Mệnh Tối Thượng
+水蓮の盾=Khiên Suiren
+永天鏡の王笏=Chén Rượu Đường Trời
+泉湧命環・豊穣=Izumi-no-mikoto-kan: Mùa Màng Bội Thu
+流烈の耳飾り=Hoành Tai Dòng Chảy
+海宝華の煌盾=Khiên Lấp Lánh Hokke Biển
+深淵蝕杖マリディクト=Gậy Ăn Mòn Bóng Tối Maridict
+滅刻凶刃ヴェノマス=Lưỡi Kiếm Phá Hoại Venomas
+炎王のグレートソード=Kiếm Vua Lửa Vĩ Đại
+熾天使の翔靴=Giày Thiên Thần
+燦然御纏アノラ・ベイラ=Sanzen Mimaro Anola Baila
+疾風の翼靴=Giày Cánh Gió
+白光輝鎧・断壁=Áo Giáp Ánh Sáng Trắng: Bức Tường Chia Cắt
+瞬閃蝶の月飾り=Trăng Bướm Lấp Lánh
+破守帽ディスペル=Mũ Phá Rào Cản: Trừng Giải
+碧貴石の聖輪=Nhẫn Thánh Ngọc Xanh Da Trời
+空命護珠=Viên Ngọc Bảo Vệ Cuộc Sống Trên Trời
+紅反鋼のアーマー=Áo Giáp Thép Sự Răn Đỏ Thẫm
+紫晶ビザリオ=Amethyst Vizario
+緋華栄華のグラナート=Granate Rực Rỡ Đỏ Thẫm
+緑護ノ盾輪=Nhẫn Khiên Bảo Vệ Ngọc Lục Bảo
+聖減術のテラドレス=Trang Phục Terra Giảm Lượng Thánh Thiêng
+華舞玲瓏のハルナデシコ=Hoa Vũ Tinh Xảo Hồng
+蒼珠の腕輪=Vòng Tay Ngọc Xanh Da Trời
+薔薇飾帽イレース=Mũ Irace Trang Trí Hoa Hồng
+蛇紋のツルギ=Kiếm Họa Rắn
+覇光帝龍のグローリア=Vinh Quang Rồng Ánh Sáng Bạo Chúa
+豊命輪=Vòng Tay Sự Sinh Sôi Dồi Dào
+輪廻ノ翡翠珠輪=Nhẫn Ngọc Lục Bảo Luân Hồi Samsara
+鉄防甲=Giáp Thiết Giáp Công Thủ
+闇至宝アノマリーラ=Báu Vật Bóng Tối Anomalyra
+防守のメイル=Giáp Công Thủ
+霜影虚装アビスモナーク=Vua Vực Sâu Bóng Giáp Frostshadow
+青輝の環=Nhẫn Ánh Sáng Lam
+風渡りの靴=Giày Bước Gió
+風神の護風恩寵=Ân Điển Thần Gió
+魔封衣=Robe Ấn Ký Ma Thuật
+魔杖メジナエ=Gậy Ma Thuật Mejinae
+魔護霊装=Trang Phục Phòng Ma
+進化のイヤリング=Hoành Tai Tiến Hóa
+邪眼杖ドゥーム=Gậy Mắt Ác Doom
+妖精霊杖・癒光=Gậy Tiên: Ánh Sáng Hồi Phục
+天命授環・伊邪那=Nhẫn Thiên Phúc: Izana
+セレスティアルエイジ=Thiên Cổ
+アースデストラクション=Phá Địa
+
+薔薇彩鎧カリスティア=Giáp Hồng Kalistia
+薔薇織衣エリュシオン=Y Hoa Hồng Elysion
+薔薇夜装アイオニオス=Áo Ngủ Đêm Hồng Ionios
+薔薇天装セレスティア=Cứu Thế Hồng Celestia
+
+## Relic Desc ##
+効果詳細=Chi Tiết Hiệu Quả
+迷宮内で見つかった槍。鋭い一撃で敵に深い傷を負わせる。=Ngọn giáo được khai quật từ trong mê cung. Những đòn chém sắc bén của nó gây ra những vết thương sâu sắc cho kẻ thù.
+迷宮内で見つかった刀。致命の攻撃を与えたときの威力を高める。=Lưỡi kiếm khai quật từ vực sâu mê cung. Khuếch đại sát thương gây ra bởi các đòn chí mạng.
+迷宮内で見つかった籠手。強化された一撃を放つことができる。=Xà bạc khai quật từ mê cung. Trao cho người đeo sức mạnh tấn công được gia tăng.
+迷宮内で⾒つかった⼸。装備すると致命の一射を与えやすくなる。=Cây cung tìm thấy trong mê cung. Tăng khả năng đánh trúng điểm yếu khi bắn.
+迷宮内で⾒つかったドレス。装備者の抗魔の才を攻撃⼒に換える。=Chiếc váy tìm thấy trong mê cung. Chuyển đổi kháng ma thuật của người mặc thành sức mạnh tấn công.
+迷宮内で見つかった大剣。装備者の攻撃力を強化する。=Một thanh đại đao tìm thấy trong mê cung. Tăng sức mạnh tấn công của người đeo.
+迷宮内で⾒つかった杖。癒しの⼒を高めてくれる。=Một cây gậy tìm thấy trong mê cung. Tăng cường sức mạnh của phép hồi phục.
+迷宮内で見つかった指輪。装備者の生命力を強化する。=Chiếc nhẫn tìm thấy trong mê cung. Tăng lượng máu tối đa của người đeo.
+迷宮内で見つかったローブ。装備者を魔法攻撃から守る。=Một chiếc áo choàng tìm thấy trong mê cung. Bảo vệ người đeo khỏi các đòn tấn công phép thuật.
+迷宮内で見つかった腕輪。装備者に再生の力を与える。=Chiếc vòng tay tìm thấy trong mê cung. Ban cho người đeo khả năng tự hồi phục.
+迷宮内部で発見された円盾の形をした遺物。装備者に星の癒しを与え攻撃をエネルギーに変換する。=Một di vật hình khiên tròn khai quật từ bên trong mê cung. Cung cấp khả năng hồi phục và chuyển đổi sát thương nhận vào thành năng lượng cho người đeo.
+迷宮内部で発⾒された杖の遺物。封じられた星々の神秘が、力の消耗を肩代わりしてくれる。=Một di vật gậy khai quật từ bên trong mê cung. Giảm tiêu hao ma lực của kỹ năng người đeo, vận dụng sức mạnh của những vì sao bị phong ấn.
+迷宮内部で発見された、翼の生えた靴形の遺物。装備した者に疾風の力を施し、行動を速める。=Một di vật hình giày có cánh, tìm thấy trong mê cung. Ban cho người đeo sự nhanh nhẹn, tăng tốc độ trong trận chiến.
+迷宮内部で発⾒された、⾸飾りの遺物。宝⽯の輝きで敵を虜にし、怪異をもたらすという。=Một di vật dây chuyền khai quật từ bên trong mê cung. Phù phép kẻ thù bằng viên ngọc lấp lánh, khiến chúng mắc phải những bệnh trạng bí ẩn.
+迷宮内部で発見された、杖の形をした遺物。杖先のコアから流れる邪気が敵に呪いを付与する。=Một di vật hình gậy tìm thấy trong mê cung. Nguyền rủa kẻ thù bằng năng lượng ác độc phát ra từ lõi của nó.
+迷宮内部で発見された、短剣の形をした遺物。刃に仕込まれた毒が気化し、接敵と共に毒を与える。=Một di vật hình dao găm khai quật từ bên trong mê cung. Thả ra khí độc từ lưỡi dao, đầu độc kẻ thù với mỗi đòn đánh.
+迷宮内部で発見された、帽子の形をした遺物。絡みつく茨の様に、敵の攻撃力を阻害する。=Một di vật hình mũ tìm thấy trong mê cung. Làm suy yếu khả năng tấn công của đối thủ, như thể bị trói buộc bởi những bụi gai.
+迷宮内部で発見された、刀の形をした遺物。秋の紅を映す美しき刃は致命の攻撃をさらに強化する。=Một di vật hình kiếm khai quật từ bên trong mê cung. Tăng cường sức mạnh của các đòn chí mạng, lưỡi kiếm sắc bén như lá thu phong.
+迷宮内部で発⾒された籠⼿の遺物。装備者は研ぎ澄まされた強力な一撃を放つことができる。=Một di vật xà bạc khai quật từ bên trong mê cung. Tăng cường sức mạnh đòn đánh của người đeo với lực tàn phá tinh tế.
+迷宮内部で発⾒された斧の遺物。繰り出される⼀撃は、掠めるだけで獲物の魂を吸い取る。=Một di vật hình rìu khai quật từ bên trong mê cung. Rút cạn sinh lực của kẻ thù với mỗi lần đánh, dù chỉ là vết thương nhẹ.
+迷宮内部で発⾒された、ドレスの遺物。精霊の加護が、防魔結界から力を集めてくれる。=Một di vật hình váy khai quật từ bên trong mê cung. Khai thác kháng ma thuật của người mặc để tăng cường kỹ năng.
+迷宮内部で発見された、大剣の形をした遺物。湧き出る炎の力が、攻撃の能力を大きく高める。=Một di vật hình đại đao tìm thấy trong mê cung. Truyền cho người cầm sức mạnh lửa dữ dội, tăng cường đáng kể sức tấn công.
+迷宮内部で発⾒された鎧の遺物。千年咲く桜の如く、盤石な堅牢さを装備者に与える。=Một di vật giáp khai quật từ bên trong mê cung. Ban cho người đeo sức mạnh phòng thủ như cây anh đào cổ xưa, tăng cường đáng kể khả năng phòng ngự.
+迷宮内部で発⾒された杖の遺物。装備者に⼤樹の恵みを施し、治癒術の才覚を授けてくれる。=Một di vật gậy khai quật từ bên trong mê cung. Tăng cường phép hồi phục của người đeo với sức mạnh nuôi dưỡng của cây cổ thụ.
+迷宮内部で発見された、指輪の形をした遺物。装備者を天空の護りで包み込み生命力を増幅させる。=Một di vật hình nhẫn tìm thấy trong mê cung. Bao phủ người đeo trong sự bảo hộ thiên giới, tăng máu và sức mạnh phòng thủ.
+迷宮内部で発⾒された、ローブの遺物。神樹の蔦が織り込まれ、装備者を魔法から護る。=Một di vật áo choàng khai quật từ bên trong mê cung. Cung cấp phòng thủ ma thuật mạnh mẽ, vải dệt với những thân dây leo thiêng liêng.
+迷宮内部で発⾒された、腕輪の遺物。溢れ出す⾃然の⼒は装備者に生命の息吹をもたらす。=Một di vật vòng tay khai quật từ bên trong mê cung. Truyền năng lượng sống cho người đeo, thúc đẩy sự hồi phục nhanh chóng và sinh khí.
+迷宮の奥深くに眠る宝石を飾った円盾。海のような青き魔力は装備者に庇護を与え、迫り来る脅威すらエネルギーへと昇華させる。=Một chiếc khiên tròn trang trí bằng ngọc đang ngủ sâu trong mê cung. Bảo vệ người cầm với ma thuật đại dương, biến tổn thất thành nguồn sức mạnh.
+迷宮の奥深くに眠る聖なる腕輪。失われた技術で装飾された宝石が装備者に加護を齎し、危機が迫ると膨大な力を分け与える。=Một chiếc vòng tay thiêng liêng đang ngủ yên trong vùng sâu thẳm của mê cung. Ban tặng người đeo sức mạnh cổ xưa, đặc biệt khi nguy hiểm rình rập.
+迷宮の奥深くに眠る、かつて天界に伝えられし杖。天にかざすと鏡⽟に篭められた祈りが溢れ出して尽きることなき力を授ける。=Một cây gậy đang ngủ yên trong vùng sâu thẳm của mê cung, từng được truyền lại từ cõi trời. Dẫn chảy năng lượng thần thánh khi được giương lên trời, giải phóng sức mạnh phép thuật vô bờ.
+迷宮の奥深くに眠る、幻獣を象る首飾り。この宝石の神秘に魅せられた者は、一切の異変や脅威に抗うことができなくなってしまう。=Một chiếc dây chuyền hình sinh vật thần thoại, đang ngủ yên trong vùng sâu thẳm của mê cung. Quyến rũ kẻ thù bằng vẻ đẹp huyền bí, tước đi khả năng kháng cự của chúng.
+迷宮の奥深くに眠る、⽩⾦の鎧。⽩⻯の鱗を繋ぎ合わせた外装が盟友の力を集結させる効果を持ち強力無比な一撃を可能にする。=Áo giáp bằng bạch kim đang ngủ yên trong vùng sâu thẳm của mê cung. Tận dụng sức mạnh tổng hợp của đồng đội, tung ra những đòn đánh hủy diệt.
+迷宮の奥深くに眠る、栄華の象徴として仕立てられたドレス。深紅に咲き乱れる花の加護は、装備者の絶魔の⼒を攻撃⼒へ変換する。=Một chiếc váy được may mặc như biểu tượng của vinh quang, đang ngủ yên trong vùng sâu thẳm của mê cung. Biến sức mạnh phép thuật phòng thủ của người mặc thành sức mạnh tấn công, được điểm xuyết họa tiết hoa đỏ thẫm.
+迷宮の奥深くに眠る、光⿓の⼒を授かりし⼤剣。その⼀振りはかつての栄光の羽ばたきを想起させ、極限の覇気を世界に放つ。=Một thanh đại kiếm được ban tặng sức mạnh của rồng ánh sáng, đang ngủ yên trong vùng sâu thẳm của mê cung. Thao túng sức mạnh của rồng ánh sáng, mỗi lần vung kiếm là minh chứng cho những chiến thắng quá khứ và sức mạnh áp đảo.
+迷宮の奥深くに眠る、妖精の輝きを封じた杖。宝⽟から無限の⽣命⼒が溢れ出し、増幅された快癒の⼒であらゆる苦しみを取り除く。=Một cây gậy niêm phong ánh sáng của các nàng tiên, đang ngủ yên trong vùng sâu thẳm của mê cung. Dẫn chảy ma thuật tiên để cung cấp năng lượng hồi phục vô tận, chữa lành cả những vết thương nghiêm trọng nhất.
+迷宮の奥深くに眠る、翠緑に彩られた指輪。装備者に、かつて豊穣に溢れた楽園の光景を想起させ、際限なき⽣命⼒を与える。=Một chiếc nhẫn được trang trí bằng màu lục bảo, đang ngủ yên trong vùng sâu thẳm của mê cung. Truyền cho người đeo sự sống bền bỉ vô tận của một vườn địa đàng đã mất, tăng cường đáng kể máu của họ.
+迷宮の奥深くに眠る、白金の輝きを放つ鎧。顕現する翅は、意思を持つかのよう、装備者に呼応して物理攻撃を断つ障壁を展開する。=Áo giáp tỏa ra ánh sáng bạch kim rực rỡ, đang ngủ yên trong vùng sâu thẳm của mê cung. Triệu hồi đôi cánh hư ảo bảo vệ người mặc khỏi thiệt hại vật lý, như được dẫn dắt bởi ý thức.
+迷宮の奥深くに眠る、翠宝玉をあしらった腕輪。常に滾々とマナが湧き出し、生命力を湛え続ける。=Một chiếc vòng tay được trang trí bằng ngọc lục bảo, đang ngủ yên trong vùng sâu thẳm của mê cung. Ban tặng mana và sức sống vô tận, những viên ngọc là nguồn mạch của sự sống và ma thuật.
+迷宮の奥深くに眠っていた月を象る耳飾り。内部から発する魔力は装備者に蝶のような瞬麗さを授け活力加速を大きく上昇させる。=Một chiếc bông tai hình vầng trăng, đang ngủ yên trong vùng sâu thẳm của mê cung. Tăng cường sự nhanh nhẹn và duyên dáng của người đeo, như được ban tặng sự nhẹ nhàng của con bướm.
+迷宮の奥深くに眠る、⼑⾝に鎖を這わせた妖⼑。主の意思に逆らい暴れる鎖が怨敵の守りを打ち崩し紫黒の凶刃が悉くを断ち斬る。=Một thanh kiếm nguyền rủa với những sợi xích bò trên lưỡi kiếm, đang ngủ yên trong vùng sâu thẳm của mê cung. Một lưỡi kiếm đầy ác ý, những sợi xích phá vỡ sự phòng thủ của kẻ thù, cho phép lưỡi kiếm tối tăm chém xuyên mọi đối thủ.
+迷宮の奥深くに眠る、伝説に語られる極みの一振り。鳳凰の力を宿した真紅の刃は、焔の如き赫く激烈な一撃を与える。=Thanh kiếm tối thượng được nhắc đến trong huyền thoại, đang ngủ yên trong vùng sâu thẳm của mê cung. Thao túng sức mạnh hỏa diễn của phượng hoàng, mỗi lần vung kiếm là một vụ nổ hủy diệt huyền thoại.
+迷宮の奥深くに眠る、幽庵の煌きを宿す鎧。顕現する翅は、意思を持つかのよう、装備者に呼応して魔法攻撃を絶つ障壁を展開する。=Áo giáp chứa đựng ánh sáng của sự cô độc, đang ngủ yên trong vùng sâu thẳm của mê cung. Triệu hồi đôi cánh ma quỷ bảo vệ khỏi các đòn tấn công phép thuật, có thể cảm nhận nhu cầu của người mặc.
+迷宮の奥深くに眠る、月を蝕む杖存在するだけで、絶えず呪力の奔流を溢れさせ、近づく全ての敵を呪いで浸食していく。=Một cây gậy che khuất ánh trăng, đang ngủ yên trong vùng sâu thẳm của mê cung. Tỏa ra aura nguyền rủa, nguyền rủa bất kỳ kẻ thù nào tiến gần.
+迷宮の奥深くに眠る、東の国に伝わりし聖鎧。玉の様に透き通る輝きを放つ鎧は、装備者に華の加護を授け、守護の力を高める。=Áo giáp thiêng liêng được truyền lại ở vùng đất phương Đông, đang ngủ yên trong vùng sâu thẳm của mê cung. Ban tặng người mặc sự bảo vệ dịu dàng của những bông hoa nở rộ, vẻ lấp lánh như ngọc bích được đánh bóng.
+迷宮の奥深くに眠る、炎天の魔力を封じた耳飾り。潜在能力を究極まで呼び覚まし、強化の力を大幅に上昇させる。=Một chiếc bông tai niêm phong ma thuật của bầu trời cháy rực, đang ngủ yên trong vùng sâu thẳm của mê cung. Giải phóng sức mạnh tiềm ẩn của người đeo, khuếch đại tác động của mọi buff.
+迷宮の奥深くに眠る、黒刃の刺剣刃に埋め込まれた宝玉が、絶え間なく邪毒を撒き散らし、破滅へと刻々と時を数える。=Một thanh rapier lưỡi đen đang ngủ yên trong vùng sâu thẳm của mê cung. Gây ra độc dại dột cho kẻ thù, lưỡi kiếm là điềm báo của cái chết không thể tránh khỏi.
+迷宮中枢部に隠された黎明の秘宝データ保管のため属性の⼒の断⽚が封じられており、内なるアストラルを著しく上昇させる。=Một kho báu của bình minh, ẩn náu trong lòng mê cung. Tăng cường khả năng nguyên tố của người đeo, hấp thụ năng lượng đã tích lũy từ bình minh của thời xa xưa.
+迷宮内で⾒つかった鎧。同朋の強靭を、自身の攻撃に変換する。=Áo giáp tìm thấy trong mê cung. Tận dụng sức bền của đồng minh để tăng cường khả năng tấn công của người mặc.
+迷宮内で⾒つかった靴。装備した者は迅速に動くことができる。=Giày tìm thấy trong mê cung. Ban tặng người đeo sự linh hoạt và nhanh nhẹn vượt trội.
+迷宮内で見つかったイヤリング。装備者に活力加速を与える。=Một chiếc bông tai tìm thấy trong mê cung. Tăng cường năng lượng của người đeo, cho phép hành động nhanh hơn trong trận chiến.
+迷宮内で見つかった斧。攻撃と共に敵の体力を吸い取る力を宿す。=Một cái rìu tìm thấy trong mê cung. Đánh cắp sức sống từ kẻ thù với mỗi đòn đánh, bổ sung sinh lực cho chính người cầm.
+迷宮内で見つかった耳飾り。装備者の強化効果を高める。=Một phụ kiện tai tìm thấy trong mê cung. Tăng cường hiệu quả của mọi buff được áp dụng lên người đeo.
+迷宮内で見つかった鎧。装備者を物理攻撃から守る。=Áo giáp tìm thấy trong mê cung. Che chở người mặc khỏi thiệt hại vật lý.
+迷宮内で見つかった鎧。装備者の守りの力を高めることができる。=Áo giáp tìm thấy trong mê cung. Củng cố khả năng phòng thủ của người mặc.
+迷宮内部で発⾒された、⼑の遺物血で⾚く染まった⼑⾝で、敵の装甲をたやすく断ち割る。=Một thanh kiếm cổ relic khám phá được bên trong mê cung. Xé toạc phòng thủ bằng lưỡi kiếm đỏ thẫm, như thể áo giáp chỉ là vải mỏng.
+迷宮内部で発⾒された、⼸の遺物装備者は烈⾵の⼒を授かり、獲物の急所を貫きやすくなる。=Một cây cung relic khám phá được bên trong mê cung. Tăng cường độ chính xác và xác suất chí mạng, được dẫn dắt bởi những cơn gió cuộn xoáy.
+迷宮内部で発⾒された、鎧の遺物紅き鋼の加護は、守備力を攻撃力へと変換する力を持つ。=Một áo giáp relic khám phá được bên trong mê cung. Biến chỉ số phòng thủ của người mặc thành sức tấn công bổ sung.
+迷宮内部で発⾒された腕輪の遺物あしらわれた蒼珠が、敵を感知し力を授ける。=Một chiếc vòng tay relic khám phá được bên trong mê cung. Cảnh báo người đeo về kẻ thù lân cận và tăng cường sức mạnh cho họ.
+迷宮内部で発見された、槍の遺物特殊な形の穂先が、敵により深い傷を刻み込む。=Một ngọn giáo relic khám phá được bên trong mê cung. Gây ra thương tích nghiêm trọng với thiết kế đặc trưng, đảm bảo mỗi nhát thọc còn chết chóc hơn.
+迷宮内部で発見された、耳飾りの形をした遺物。魔石に込められた魔力が強化の力を増幅させる。=Một relic hình dạng bông tai khám phá được bên trong mê cung. Tăng cường sức mạnh của mọi buff, rút năng lượng từ viên ngọc phép thuật.
+迷宮内部で発見された、鎧の形をした遺物。高度な技術で精錬された鋼は、物理攻撃から身を護る。=Một relic hình dạng áo giáp khám phá được bên trong mê cung. Mang lại khả năng phòng thủ vượt trội chống lại đòn đánh vật lý, được chế tác bằng nghề mộc đã thất truyền.
+迷宮内部で発見された耳飾りの形をした遺物。流水の激しさのように、活力加速を増幅させる。=Một relic hình dạng bông tai khám phá được bên trong mê cung. Tăng tốc độ của người đeo, nhanh và không ngừng nghỉ như dòng sông cuộn xoáy.
+迷宮深層部に静眠せし虚影の装衣深淵から出でし蝕影は、存在全てを霜雪の如く凍てつかせ、抗う敵の剣盾両翼を虚壊させる。=Một trang phục của những bóng tối ảo, yên lặng nằm trong các lớp sâu của mê cung. Bao phủ người mặc trong những bóng tối lạnh giá khiến kẻ thù bất động và tước đi vũ khí với nỗi kinh hoàng băng giá.
+迷宮深淵部に佇む歴戦無敗の⼤剣台座から剣を⼿にした者は天そのものを冠すかの如き全能感を得て千軍を容易く退ける剛⼒を得る。=Thanh đại kiếm bất bại của nhiều trận chiến, đứng vững trong vực thẳm abyssal của mê cung. Ban tặng người cầm sức mạnh như thần, khiến họ bất khả chiến bại trước mọi kẻ thù.
+迷宮最深部に残された久遠の遺物神代の大戦より聖騎士に脈々と受け継がれ、装備者へ戦いの記憶とともに不滅の力を分け与える。=Một relic vĩnh cửu để lại ở phần sâu nhất của mê cung. Truyền cho người đeo sự khôn ngoan và sức mạnh của những chiến binh huyền thoại, đảm bảo di sản của họ trường tồn.
+迷宮最奥部に鎮祀されし神業の遺物。風を司る神々の恩寵が宿されており、装備者は無尽蔵の活力が疾風の如き速さで体を駆け巡る。=Một relic thần thánh được thờ cúng ở phần sâu nhất của mê cung. Ban tặng người đeo năng lượng không mệt mỏi và phản xạ chớp nhoáng, như được chúc phúc bởi chính cơn gió.
+迷宮最下層に供奉された伝承の環選ばれし者がひとたび⼿にすれば創造神話の如く、千万無量の⽣命⼒を齎すと云われる。=Một chiếc nhẫn huyền thoại dâng lên ở tầng thấp nhất của mê cung. Ban tặng cho người được chọn sức sống như thần, như thể họ là vị thần của sự sống vậy.
+迷宮内で見つかった円盾。受けた攻撃をエネルギーに変換できる。=Một chiếc khiên tròn tìm thấy trong mê cung. Biến những đòn đánh trúng thành nguồn sức mạnh cho người cầm.
+迷宮内で見つかった腕輪。戦いの始まりとともに、装備者にエネルギーを与える。=Một chiếc vòng tay tìm thấy trong mê cung. Tăng năng lượng cho người đeo khi trận chiến bắt đầu, đảm bảo họ sẵn sàng cho cuộc chiến.
+迷宮内で⾒つかった杖。装備者に力を温存させる効果をもたらす。=Một cây gậy tìm thấy trong mê cung. Giúp người cầm giữ nguồn ma thuật, khiến phép thuật hiệu quả hơn.
+迷宮内で見つかった刀。敵の守りを断ち崩す力がある。=Một thanh kiếm tìm thấy trong mê cung. Cắt qua phòng thủ một cách dễ dàng, khiến kẻ thù dễ bị tổn thương.
+迷宮内で見つかった帽子。装備すると敵の攻撃を弱体させる。=Một chiếc mũ tìm thấy trong mê cung. Làm suy yếu lực đánh của đối thủ, bảo vệ người đeo.
+迷宮内で見つかった短剣。持つだけで敵を毒にすることができる。=Một con dao găm tìm thấy trong mê cung. Đầu độc kẻ thù với mỗi đòn đánh, chất độc thấm từ lưỡi dao.
+迷宮内で見つかった杖。所持するだけで敵を呪うことができる。=Một cây gậy tìm thấy trong mê cung. Nguyền rủa kẻ đối địch chỉ bằng sự hiện diện, khiến họ phải chịu tác động của ma thuật bóng tối.
+迷宮内で見つかった首飾り。敵に異常を与えやすくなる。=Một chiếc dây chuyền tìm thấy trong mê cung. Tăng cường khả năng gây tệ hại của người đeo, khiến kẻ thù dễ bị ảnh hưởng bởi các chứng trạng.
+迷宮の奥深くに眠る、天使の加護を宿した戦靴。装備するだけで神性を授かり、天使のような自在さで空を翔ることができる。=Đôi ủng chiến đấu được thấm nhuần phước lành của thiên thần, đang ngủ yên trong vùng sâu thẳm của mê cung. Ban tặng sự thần thánh khi trang bị, cho phép người đeo bay lượn trên bầu trời với sự tự do của thiên thần.
+迷宮の奥深くに眠る、宝飾をあしらったベール。蔽布の下から滲み出るオーラが、相手の敵意を解きほぐし、無力化させてしまう。=Một chiếc khăn voan đính ngọc đang ngủ yên trong vùng sâu thẳm của mê cung. Aura thấm ra từ dưới lớp vải khiến thù địch bất lực, khiến kẻ thù trở nên vô dụng.
+迷宮の奥深くに眠る、地神の力を宿した烈槍。大地の力を糧に放つ無比の一閃は、地に立つすべての敵に甚大なダメージを与える。=Một ngọn giáo dữ tợn được thấm nhuần sức mạnh của thần đất, đang ngủ yên trong vùng sâu thẳm của mê cung. Được thúc đẩy bởi sức mạnh của trái đất, đường chém bất khả chiến bại của nó gây ra thiệt hại khổng lồ lên mọi kẻ thù đứng trên mặt đất.
+迷宮の奥深くに眠る、地核のエネルギーを封じた籠手。振るう一撃は、世界を破壊するかの如く、通常攻撃を大きく強化する。=Găng tay khóa năng lượng lõi trái đất, đang ngủ say trong mê cung sâu. Mỗi lần vung, như thể có thể vỡ tan thế giới, làm tăng cường rất lớn cho đòn tấn công thường.

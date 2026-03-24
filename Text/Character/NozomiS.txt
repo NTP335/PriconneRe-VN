@@ -1,0 +1,30 @@
+##Profile##
+【物理】中衛でみんなを応援する真夏のトップアイドル。すべてのスキルで味方全体の物理攻撃をサポートし、バトル中盤から味方全体のＴＰ回復で、皆を勝利に導く。=[Vật Lý] Một thần tượng mùa hè hàng đầu cổ vũ mọi người ở tuyến giữa. Cô dùng mọi kỹ năng để hỗ trợ P.ATK của tất cả đồng minh, và phục hồi TP của tất cả đồng minh giữa trận, dẫn dắt mọi người đến chiến thắng.
+
+##UB##
+メモリーズ・オブ・サマー=Kỷ Niệm Mùa Hè
+味方全体の物理攻撃クリティカル時のダメージを小アップさせ、目の前の敵１キャラに物理特大ダメージを与える。=Tăng Sát Thương Chí Mạng P. của tất cả đồng minh một chút, và gây sát thương vật lý lớn lên kẻ địch phía trước.
+r:"^味方全体の物理攻撃クリティカル時のダメージを16％アップ敵単体に(\d+)の物理ダメージ$"=►Tăng Sát Thương Chí Mạng P. của tất cả đồng minh theo 16% trong 18s.\n►Gây $1 sát thương vật lý lên kẻ địch.
+
+##S1##
+サマーアイドルエール=Cổ Vũ Thần Tượng Mùa Hè
+味方全体の物理攻撃力を大アップさせ、物理防御力と魔法防御力を中アップさせる。=Tăng rất mạnh P.ATK của tất cả đồng minh, và tăng P.DEF và M.DEF của họ vừa phải.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Tăng P.ATK của tất cả đồng minh theo $1 trong 12s.\n►Tăng P.DEF của tất cả đồng minh theo $2 trong 12s.\n►Tăng M.DEF của tất cả đồng minh theo $3 trong 12s.
+
+##S2##
+サマーブリーズ=Làn gió hè
+味方全体のＴＰを小回復させ、さらに物理攻撃力を中アップさせる。=Hồi một chút TP cho toàn bộ đồng đội và tăng sát thương vật lý (P.ATK) ở mức vừa phải.
+r:"^味方全体のＴＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ$"=►Hồi $1 TP cho toàn bộ đồng đội.\n►Tăng sát thương vật lý (P.ATK) của toàn bộ đồng đội lên $2 trong 12 giây.
+## Same with WTamaki S2
+
+##EX##
+サンシャインスマイル=Nụ cười nắng vàng
+サンシャインスマイル+=Nụ cười nắng vàng+
+
+##S1+##
+サマーアイドルエール+=Cổ vũ Idol Mùa hè+
+味方全体の物理攻撃力を特大アップさせ、物理防御力と魔法防御力を中アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng mạnh sát thương vật lý (P.ATK) cho toàn bộ đồng đội, tăng vừa phải phòng thủ vật lý (P.DEF) và phòng thủ ma thuật (M.DEF), đồng thời tăng nhẹ Hiệu quả Hồi TP (TP Boost).
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰ上昇を５アップ$"=►Tăng sát thương vật lý (P.ATK) của toàn bộ đồng đội lên $1 trong 12 giây.\n►Tăng phòng thủ vật lý (P.DEF) của toàn bộ đồng đội lên $2 trong 12 giây.\n►Tăng phòng thủ ma thuật (M.DEF) của toàn bộ đồng đội lên $3 trong 12 giây.\n►Tăng Hiệu quả Hồi TP (TP Boost) của toàn bộ đồng đội lên 5 trong 12 giây.
+
+##UE##
+ブリリアントサマー=Mùa hè rực rỡ

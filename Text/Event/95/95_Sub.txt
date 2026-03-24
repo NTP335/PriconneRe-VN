@@ -1,0 +1,275 @@
+福弾ける出張ビストロ=Fortune-Bursting Traveling Bistro
+ゲスト名鑑=Tên Khách Mời
+sr:"^福弾ける出張ビストロ　(.+)$"=Fortune-Bursting Traveling Bistro: $1
+
+『ほっぺを落とせば、半人前。\n福弾けさせりゃ、一人前』=『Nếu chỉ mới làm thực khách thấy ngon đến rớt cả hàm, thì vẫn chỉ là hạng xoàng.\nNếu khiến cho phúc lành bùng nổ, thì mới là bậc thầy thực thụ』
+ふふ、ここに飾られた料理人の銅像。\nその台座に書かれた料理の格言ですね。=Hì hì, bức tượng đồng của người đầu bếp được trưng bày ở đây.\nĐó chính là châm ngôn ẩm thực được khắc trên bệ đỡ nhỉ.
+──コロコロコロ。\n『福が弾ける』とは、何やら雅な言い回し──\nあいや、失礼仕り候。話の胆へ進みましょうぞ。=── Koro koro koro.\n『Phúc lành bùng nổ』, thật là một cách diễn đạt tao nhã──\nÀ, xin thứ lỗi cho tôi. Hãy đi vào trọng tâm của câu chuyện thôi nào.
+再度お呼び立てしてしまい、申し訳ございません……\n『ビストロプリンセス』の本番までに、\n少しでも料理の練習をさせていただきたいと思いまして……=Xin lỗi vì lại gọi mọi người đến đây lần nữa……\nTôi muốn được luyện tập nấu ăn thêm một chút cho đến trước khi buổi biểu diễn chính thức của 『Bistro Princess』 bắt đầu……
+騎士様に、良い場所はありませんかとお訊ねしたところ、\nこちらへとご案内していただきまして。=Khi tôi hỏi ngài Hiệp sĩ xem có nơi nào tốt không,\nngài ấy đã dẫn tôi đến đây.
+成程成程。\n祭事用に設えられた臨時の厨房なれど、器具や食材に不足なし。\n『りはぁさる』にはうってつけかと拝察致しんす。=Ra là vậy, ra là vậy.\nTuy chỉ là gian bếp tạm thời được dựng lên phục vụ lễ hội, nhưng dụng cụ và nguyên liệu không thiếu thứ gì.\nTôi trộm nghĩ nơi này thật hoàn hảo cho một buổi 『diễn tập』.
+はい。それに騎士様からは、ただ練習するだけではなく\n作った料理を、ゲストの方々にご賞味してもらうのはいかがでしょうかと\nご提案もいただいておりますわ。=Vâng. Thêm vào đó, ngài Hiệp sĩ còn đề xuất rằng thay vì chỉ luyện tập,\ntại sao chúng ta không mời các vị khách thưởng thức những món ăn mình đã làm ra nhỉ.
+ほっぺを落とせば、半人前=Nếu chỉ mới làm rớt hàm, thì vẫn chỉ là hạng xoàng
+確かに。感想をもらうつもりで作るほうが\n気持ちも入りますね。\n素晴らしいアイデアです、騎士。=Đúng vậy. Việc nấu ăn với ý định lắng nghe cảm nhận của mọi người\nsẽ giúp chúng ta dồn hết tâm trí vào món ăn hơn.\nĐó là một ý tưởng tuyệt vời đấy, Hiệp sĩ.
+ただ……公務もありますし、練習用のキッチンの広さも限られますし。\n本番までは、別々の方がよいかもしれません。\nお二人はいかがでしょうか？=Có điều…… chúng ta còn có công vụ, diện tích bếp luyện tập cũng có hạn.\nCó lẽ từ giờ đến lúc bắt đầu chính thức, chúng ta nên làm việc riêng rẽ thì hơn.\nHai người thấy sao?
+合点でありんす。\n気を持たせる仕儀は在らねど、三姫揃い踏みの姿、\n本番で披露するのが宜しきかと存じまする。=Tôi hoàn toàn đồng ý.\nTuy không có ý định làm ra vẻ bí hiểm, nhưng tôi nghĩ việc cả ba nàng công chúa cùng xuất hiện\nnên để dành đến buổi biểu diễn chính thức thì tốt hơn.
+畏まりました、お二人とも。\nそれでは別々に、\nお客様をお迎えすることにいたしましょう。=Tôi hiểu rồi, thưa hai người.\nVậy thì chúng ta hãy đón tiếp khách khứa một cách riêng biệt nhé.
+じゃあ僕も、お料理手伝いますよ！=Vậy thì em cũng sẽ giúp một tay nấu nướng ạ!
+それはありがたいです。\n騎士とのクッキング……わくわくしますね。=Được vậy thì tốt quá.\nNấu ăn cùng Hiệp sĩ…… thật là phấn khích quá đi.
+──コロコロコロ。\n本番では覇を競う好敵手なれど、稽古の最中は腕を磨く同士。\n為れば声を揃え、士気を上げるもまた一興かと。=── Koro koro koro.\nDù là đối thủ cạnh tranh ngôi vị ở buổi chính thức, nhưng trong lúc luyện tập chúng ta là những đồng đội cùng mài giũa kỹ năng.\nVì thế, cùng nhau hô vang để nâng cao tinh thần cũng là một điều thú vị.
+ふふっ、いいですね。\nでは、掛け声はどのような……えっ、こちらですか。=Hì hì, hay đấy ạ.\nVậy câu khẩu hiệu sẽ là gì đây…… ơ, cái này sao?
+ネフィ＝ネラ媛、お気に召して……？\nわ、分かりました。では僭越ながら、わたくしが音頭を。\nせーの……！=Công chúa Nephy-Nella, cô thích câu này sao……?\nV-vâng. Vậy tôi xin mạn phép được bắt nhịp.\nMột, hai, ba……!
+こうして『ビストロプリンセス』が始まるまでの数日間、\nプリンセスが各々で料理を振る舞うことになったのだった。=Cứ như thế, trong vài ngày cho đến khi 『Bistro Princess』 chính thức bắt đầu,\nmỗi nàng công chúa sẽ thay nhau trổ tài nấu nướng phục vụ mọi người.
+ビストロプリンセス本番まで、料理の練習をしようとクッキングスタジア\nムを訪れたプリンセスたち。Corneliaのアイデアで料理をゲストに振舞う\nことになり、３人はそれぞれ気合を入れるのだった。=Các nàng công chúa đã ghé thăm đấu trường nấu ăn để luyện tập chuẩn bị cho sự kiện Bistro Princess chính thức. Theo ý tưởng của Cornelia, họ quyết định phục vụ món ăn cho các vị khách, và cả ba người đều đang hừng hực khí thế với quyết tâm của riêng mình.
+
+さぁ、参りますよ。\n目指すはランドソル万博の屋台、完全制覇です。\nついてきてください騎士──そして、アネモネ。=Nào, chúng ta đi thôi.\nMục tiêu là chinh phục toàn bộ các gian hàng tại hội chợ Landosol.\nHãy đi theo tôi, Hiệp sĩ── và cả Anemone nữa.
+──え、と。\n意味、わかりません──\nそもそもなんで、私……。──クローチェさんは……？=── Ơ, dạ.\nEm không hiểu ý chị lắm──\nVới lại tại sao lại là em……. ── Còn chị Croce thì sao……?
+クローチェは本日、ジオ・テオゴニアのパビリオンに展示中なので。\nわたしたちは、ペコリーヌ姫へのお勧めのメニューなどをまとめるため\n地図を作っていたのです。よろしければ、手伝っていただけますか？=Vì hôm nay Croce đang được trưng bày tại khu triển lãm của Geo Teogonia rồi.\nBọn chị đang lập một bản đồ tổng hợp những món ăn gợi ý cho Công chúa Pecorine.\nNếu được, em có thể giúp bọn chị một tay không?
+地図作りなんて──面倒、だけど……\n何かあったら騎士のひとを手伝うよう、媛に言われてるし──=Lập bản đồ sao── Phiền phức thật, nhưng mà……\nVì em đã được Công nương dặn là nếu có chuyện gì thì hãy giúp đỡ Hiệp sĩ nên là──
+美食と文化の祭典へ=Hướng tới lễ hội của ẩm thực và văn hóa
+──わかりました。でも、ついていくだけ──\n他は、期待しないでください。\nお勧めとか──コメントとか──=── Em hiểu rồi. Nhưng em chỉ đi theo thôi đấy──\nĐừng kỳ vọng gì khác ở em.\nNhư là gợi ý món ăn── hay nhận xét gì đó──
+ふふ、十分ですよ。\n協力に感謝します。\nでは改めて、わたしたちも万博を楽しむといたしましょう。=Hì hì, thế là đủ rồi.\nCảm ơn sự hợp tác của em.\nVậy thì một lần nữa, chúng ta hãy cùng tận hưởng hội chợ thôi nào.
+見事な飴細工、とてもかわいらしいですね。\nぜひ買ってみましょう……アネモネも、いかがですか？=Những tác phẩm kẹo nghệ thuật này thật tuyệt vời, trông đáng yêu quá nhỉ.\nNhất định phải mua thử mới được…… Anemone thấy sao, em cũng muốn chứ?
+えぇと──そう、ですね──？\n食べられれば一緒だと思うけど──=Dạ thì── cũng được ạ──?\nEm nghĩ cứ ăn được thì cái nào chẳng giống nhau──
+こちらの揚げ物も、いろいろな味があるようですよ。\nアネモネ、好きなものを選んでください。=Món chiên ở đây cũng có vẻ có nhiều hương vị lắm đấy.\nAnemone, em hãy chọn món mình thích đi.
+──私が、好きなもの──\nそう言われても──=── Thứ mà em thích──\nChị nói vậy thì em cũng chịu──
+……あぁ、すみません。\nあなたを見ていると、つい物を買ってあげたくなるようで。\nもし負担に感じるのでしたら、控えますが……=…… Ôi, xin lỗi em.\nCứ nhìn em là chị lại vô tình muốn mua cái gì đó cho em mất rồi.\nNếu em cảm thấy áp lực thì chị sẽ kiềm chế lại……
+あ、いえ──そうではなくて。\n断るつもりはないです、けど──=À, dạ không── không phải thế đâu ạ.\nEm không định từ chối đâu, nhưng mà──
+──ライラエルさんは、プリンセスですし。\n勧めるならいっそ──命令してください。\nそれなら私も──気が楽なので。=── Chị Lyrael là Công chúa mà.\nNếu chị muốn gợi ý thì thà rằng── chị cứ ra lệnh cho em đi.\nNhư vậy thì em── cũng thấy thoải mái hơn.
+そうですか……わかりました。\nでは──=Ra là vậy sao…… chị hiểu rồi.\nVậy thì──
+──花の娘よ。\nこの塩味の唐揚げを食すがいい。=── Này thiếu nữ của muôn hoa.\nHãy nếm thử món gà rán vị muối này đi.
+わかりました──いただきます。=Em rõ rồi── em xin phép ăn ạ.
+よい返事だ。\nでは次は、this髪飾りを身につけよ。=Câu trả lời tốt lắm.\nTiếp theo, hãy đeo món trang sức tóc này vào đi.
+はい──こうですか。\n…………=Vâng── như thế này ạ.\n…………
+宜しい。\nその調子で騎士と共に、我の付き人を成し遂げるがいい。=Tốt lắm.\nHãy cứ tiếp tục như thế, cùng với Hiệp sĩ hoàn thành tốt vai trò người hầu cận của ta.
+ふぅ♪　万博のお勧め情報もだいぶ集まりましたね。\nアネモネも、協力に感謝します。=Phù♪ Vậy là chúng ta đã thu thập được kha khá thông tin gợi ý tại hội chợ rồi nhỉ.\nCảm ơn em đã giúp đỡ nhé, Anemone.
+──……あ、すみません。\nそうですね、役に立ったなら何よりです──=── …… À, xin lỗi chị.\nVâng, nếu em giúp ích được gì thì tốt quá──
+──なんでわかるんですか。\nまぁ──その通りですけど──\n……でも……=── Sao anh lại biết được chứ.\nThì đúng là── như vậy thật nhưng mà──\n…… Nhưng mà……
+気に入ってくれたのはうれしいですが……どうかしたのですか？\n懸念があるのなら、なんでも言ってください。\n地図作りを手伝ってくれたお礼もしたいですし。=Chị rất vui vì em thích nó, nhưng có chuyện gì sao?\nNếu có điều gì lo lắng, em cứ nói cho chị biết nhé.\nChị cũng muốn cảm ơn em vì đã giúp chị lập bản đồ mà.
+それなら──この髪飾り。\nもう一つ、おねだりしてもいいですか。\n友達が、目を覚ましたら──お揃いにできるように──=Nếu vậy thì── món trang sức tóc này.\nEm có thể xin thêm một cái nữa được không ạ?\nĐể sau này khi bạn của em tỉnh lại── bọn em có thể dùng đồ đôi với nhau──
+どうかな、アネモネちゃん？=Em thấy sao, Anemone-chan?
+アネモネちゃん、その花飾り気に入ったの？=Anemone-chan, em thích món trang sức hoa đó à?
+裏世界の皆様は危機を脱し、\n残るはランドソルの皆様のみ…\n彼らを救い出すために、どうか…\nお立ち下さいペコリーヌ姫…！=Mọi người ở thế giới bên kia đã thoát khỏi nguy hiểm,\nGiờ chỉ còn lại thần dân của Landosol mà thôi…\nĐể cứu lấy họ, xin người hãy…\nHãy đứng dậy đi, Công chúa Pecorine…!
+プリコネフェス2026開催記念 ログイン=Đăng nhập kỷ niệm tổ chức PriConne Fes 2026
+物語の続きが解放されましたよ！\nさあ、メリッサさんとの決着をつけるのは今です……！=Chương tiếp theo của câu chuyện đã được mở khóa rồi!\nNào, đã đến lúc chấm dứt mọi chuyện với Melissa rồi……!
+{playername}くんも一緒に、\nこの国の未来を見届けましょう……！=Hãy cùng với {playername}-kun\nchứng kiến tương lai của đất nước này nhé……!
+
+
+裏世界のプリンセスのみなさまが、きたる『ビストロプリンセス』に備え\nお料理の練習に励まれるようです。『福弾けさせりゃ、一人前』……。\nいったい、どのような反応を意味するお言葉なのでしょうか。=Có vẻ như các vị công chúa của thế giới bên kia đang nỗ lực luyện tập nấu nướng để chuẩn bị cho sự kiện 『Bistro Princess』 sắp tới. 『Nếu khiến cho phúc lành bùng nổ, thì mới là bậc thầy thực thụ』…… Rốt cuộc thì những lời đó ám chỉ một phản ứng như thế nào nhỉ?
+『出張ビストロ』オープンの噂は瞬く間に広まり、早くも来訪のご予約が\n殺到しているのだとか。これも、お三方が持つ『カリスマ性』によるもの\nでございますね。主さまもみなさまのお手伝い、頑張ってくださいまし。=Tin đồn về việc khai trương 『Bistro Lưu Động』 lan truyền nhanh chóng, nghe nói các yêu cầu đặt chỗ đã đổ về dồn dập rồi. Đây chắc hẳn cũng là nhờ vào sức hút 『Charisma』 mà cả ba người họ sở hữu. Chủ nhân cũng hãy cố gắng giúp đỡ mọi người một tay nhé.
+
+みなさん、お待たせしちゃいました\nペコリーヌ、完全復活です☆\nみなさんの食卓を守るため\nもう二度と、わたしはめげません！=Xin lỗi vì đã để mọi người phải chờ đợi!\nPecorine đã hoàn toàn hồi phục rồi đây☆\nĐể bảo vệ bàn ăn của tất cả mọi người,\nem sẽ không bao giờ nản lòng thêm một lần nào nữa!
+
+特定のコンテンツを閲覧することで解放されます。=Sẽ được mở khóa sau khi xem một số nội dung nhất định.
+ライラエルのメニュー=Lylael’s Menu
+ネフィ＝ネラのメニュー=Nefi-Nera’s Menu
+ヴァイオレットのメニュー=Violet’s Menu
+
+
+
+
+
+
+わっちの民は如何なる時も気炎万丈。\n其の一因は煉獄の地の糧食に、辛味酸味が多く含まれる故かと存じます。\n慣れぬ者には近寄るだけで熱い、辛いを通り越して痛いと評判なれど──=Thần dân của ta lúc nào cũng hừng hực khí thế. Ta trộm nghĩ, một phần nguyên nhân là do lương thực ở vùng đất luyện ngục này chứa rất nhiều vị cay và chua. Với những người không quen, chỉ cần đến gần thôi là đã thấy nóng, cái cay nồng ấy thậm chí còn được đồn đại là đau đớn đến mức tê dại──
+しかし異界には、刺激を拒まぬばかりか好んで御身を晒さんとす\n「どえむ」なる怪癖を抱きし者が居ると、妹子より聞き及び候。\nその姿が如何なるものか、わっちもぜひ識りとう存じまする。=Thế nhưng, ta có nghe em gái kể rằng ở dị giới, có những kẻ mang một thói quen kỳ lạ gọi là "Do-M", họ không hề khước từ sự kích thích mà còn tự nguyện dấn thân vào nó nữa. Ta cũng rất muốn biết dáng vẻ của những người đó ra sao.
+あふ、ふあぁっ……ク、クウカ、感動が止まりません……\nこんな刺激を味わってしまったら、もう……\n向こう側から戻ってこられなくなっちゃいます……=A... phù... K-Kuuka không thể ngừng xúc động được... Nếu đã nếm trải sự kích thích như thế này rồi thì... em không thể quay trở về từ phía bên kia được nữa đâu...
+こんなステキな刺激があるなんて、知りませんでした……！\nジオ・ゲヘナ、それはクウカが目指したヘヴン……！\nドＳさんと一緒に定住したい……=Em không hề biết trên đời lại có sự kích thích tuyệt vời đến thế này...! Geo Gehenna, đó chính là Thiên Đường mà Kuuka hằng tìm kiếm...! Em muốn được định cư ở đây cùng với ngài Sadist...
+──フゥム。\n煉獄きっての豪傑さえ、口にした途端に滂沱の如き涙を撒き散らし\n七転八倒の様を晒した、曰くつきの調味料でありんしたが……=── Hừm. Đây vốn là loại gia vị tai tiếng khiến ngay cả những hào kiệt lừng lẫy nhất luyện ngục cũng phải rơi lệ đầm đìa và lăn lộn trong đau đớn ngay khi vừa nếm thử...
+──コロコロ、コロ。\nまこと世は広きもの、わっちも未だ寡聞と云った所か喃。=── Koro koro, koro. Thế gian này quả là rộng lớn, xem ra ta vẫn còn nông cạn quá chăng.
+あのっ、すみません……おかわりをいただけませんか？\nこの刺激、もっともっと味わいたい……！\nクウカの全身が悲鳴を上げてます！　喜びで！！=Dạ, xin lỗi... cho em xin thêm một phần nữa được không ạ? Em muốn nếm trải sự kích thích này thêm nữa, nhiều hơn nữa...! Toàn thân Kuuka đang gào thét đây này! Vì sung sướng!!
+ええっ！？　ドＳさんっ！？\nそ、そんなご無体な……クウカに、クウカに我慢させるだなんてっ！\nううう……ドＳさんのドＳ……っ！=Hả!? Ngài Sadist!? Ng-ngài thật tàn nhẫn... lại bắt Kuuka, bắt Kuuka phải nhịn thế này sao! Ư ư ư... ngài Sadist đúng là "đồ Sadist"...!
+また来ますね……ぐふふ……っ。=Em sẽ quay lại sau nhé... gư hưu hưu...
+もうそのへんにしておこうね。=Thôi, đến mức đó là được rồi nhé.
+
+騎士、知っていますか？\nジオ・テオゴニアに自生する野菜の類は、まるで茶菓子のように甘く、\n栄養価も非常に高いのです。=Hiệp sĩ, anh có biết không? Những loại rau mọc tự nhiên ở Geo Teogonia ngọt ngào như bánh kẹo, và giá trị dinh dưỡng cũng cực kỳ cao.
+おかげでジオ・テオゴニアの子どもたちには好き嫌いが少ないのですよ。\nふふ……よい機会ですので、共に調理してみましょうか。=Nhờ vậy mà trẻ em ở Geo Teogonia rất ít khi kén ăn đấy. Hì hì... nhân cơ hội này, chúng ta hãy cùng nhau nấu nướng nhé?
+はぁっ……はぁっ……\nこんな味……はじめてかも……っ。=Hà... hà... Đây có lẽ là lần đầu tiên... mình được nếm hương vị này...
+野菜のはずなのに、まるで砂糖菓子みたいな……\nそれでいて奥底からじんわりと湧き上がる芳醇で優しい土の香り……\n単調な甘さだけじゃなく、深みと味わいを与えてるわ！=Rõ ràng là rau củ mà lại ngọt như kẹo đường vậy... Thế nhưng, hương thơm nồng nàn và dịu nhẹ của đất mẹ từ sâu bên trong lại từ từ lan tỏa... Nó không chỉ có vị ngọt đơn điệu, mà còn mang lại sự đậm đà và tinh tế nữa!
+ちょうど、救護院の子どもたちの好き嫌いをなくすための野菜料理を\n探していたところなの！\nレシピと材料を分けてもらうことってできるかしら？=Mình vốn đang tìm kiếm những món rau để giúp lũ trẻ ở trại cứu trợ chữa chứng kén ăn đây! Liệu cô có thể chia sẻ công thức và nguyên liệu cho mình được không?
+ええ、構いませんよ。\nしかし、子どもたちに振る舞うとなると注意点もあります。=Được chứ, tôi không phiền đâu. Tuy nhiên, nếu định nấu cho trẻ nhỏ thì cũng có điều cần lưu ý.
+これらの野菜は甘味相応にカロリーも高くなっていまして。\n端的に言ってしまえば……食べ過ぎると太ります。=Những loại rau này có lượng calo cao tương đương với độ ngọt của chúng. Nói một cách ngắn gọn thì... ăn nhiều quá sẽ béo đấy.
+っ～～～！？\nや、やっぱり持ち帰りはナシで～！！=...!? Th-thế thì thôi, không mang về nữa đâuuu!!
+
+今回はジオ・ニヴルヘル特産のキノコをご用意いたしました。\nジオ・ニヴルヘルの中では珍しく、鮮やかな色の食材ですわ。=Lần này tôi đã chuẩn bị loại nấm đặc sản của Geo Niflhel. Đây là một loại thực phẩm có màu sắc rực rỡ, vốn rất hiếm thấy ở Geo Niflhel.
+とにかく成長が早くて、運んでいる間もどんどん大きくなっていきます。=Chúng lớn nhanh đến mức ngay cả trong lúc vận chuyển cũng cứ thế to dần ra.
+盛り付け次第でとても華やかにテーブルを彩ることができるので、\nおしゃれに敏感な方に、気に入っていただけるとよいのですが……\nもちろん、毒性はありませんのでご安心ください。=Tùy vào cách bày biện mà chúng có thể làm bàn ăn trở nên rất lộng lẫy, tôi hy vọng những người nhạy bén với cái đẹp sẽ thích chúng... Tất nhiên là không có độc đâu nên mọi người cứ yên tâm nhé.
+むぐむぐ……ぷはぁっ！\n食べてるうちに大きくなるキノコなんて、すごいですねっ！？=Măm măm... phù! Loại nấm có thể lớn lên ngay trong khi mình đang ăn thế này, thật là đáng kinh ngạc đúng không ạ!?
+見た目はキラキラカラフルなのに、\n味はジューシーで少ししょっぱくてほんのり甘くて！\nうちのギルドマスターなら、きっとクレープに入れると思います！=Bên ngoài thì lấp lánh sắc màu, mà hương vị thì lại mọng nước, hơi mặn mặn và có chút ngọt thanh nữa! Nếu là Guild Master nhà em, chắc chắn chị ấy sẽ cho chúng vào bánh crepe cho xem!
+こういうのをなんていうんでしたっけ？\nえーと……\nそう！　まさに最小ケルピーって感じですね！=Cái kiểu như thế này người ta gọi là gì nhỉ? Để xem nào... Đúng rồi! Cảm giác chính xác là "Kelpie nhỏ nhất" đấy ạ!
+えっ？　えっと……？\nも、もしかして、才色兼備とおっしゃりたいのでしょうか……？=Hả? Ờm... C-có phải em muốn nói là "tài sắc vẹn toàn" không...?
+そうです、それ！\nかわいくっておいしくてボリュームもあって、とっても素敵ですねっ♪=Đúng là nó rồi ạ! Vừa đáng yêu, vừa ngon lại còn đầy đặn nữa, thật là tuyệt vời quá đi♪
+あっ、いっぱいアイデアが浮かんできましたよ～！\nこのかわいいキノコの模様をああしてこうして……\nこんな感じのリボンをつければ、きっとかわいくなるはず！=A, em nảy ra bao nhiêu là ý tưởng rồi này! Lấy hoa văn của cây nấm đáng yêu này làm thế này thế kia... rồi gắn thêm một cái nơ như thế này nữa, nhất định sẽ rất xinh cho xem!
+ありがとうございます、お兄ちゃん、ヴァイオレットさん！\nおかげでかわいいお洋服のアイデアがモリモリです！\n今度、作ったお洋服をプレゼントしますね！=Em cảm ơn anh, cảm ơn chị Violet! Nhờ mọi người mà em có thêm cả đống ý tưởng cho quần áo mới rồi! Lần tới em sẽ tặng mọi người bộ đồ do em tự tay làm nhé!
+このキノコからアイデアを得たお洋服ですか……？\n歩いているうちに、大きくなる服……？　それは、着こなす自信が……\n騎士様は、いかがですか……？=Quần áo lấy ý tưởng từ loại nấm này sao...? Một bộ đồ cứ mặc rồi đi bộ là lại to ra à...? Cái đó thì tôi không tự tin là mình mặc được đâu... Hiệp sĩ thấy sao...?
+
+
+近ごろジオ・テオゴニアの住民たちが、ランドソルとの交流を通じて\n『映え』なる文化を学んでいるそうです。味わうだけでなく、\nお菓子を通じて、友だちと喜びを共有できるのが醍醐味だとか。=Dạo gần đây, cư dân của Geo Teogonia thông qua việc giao lưu với Landosol đã học được nét văn hóa gọi là "sống ảo". Nghe nói cái thú vui lớn nhất không chỉ là thưởng thức hương vị, mà còn là được sẻ chia niềm vui với bạn bè thông qua những món đồ ngọt.
+わたしたちも『映える』スイーツ作りに挑戦してみましょう。\n友だちと過ごす時間がより楽しくなるスイーツを、目指しますよ♪=Chúng ta cũng hãy thử thách bản thân với việc làm đồ ngọt "sống ảo" nhé. Mục tiêu là tạo ra những món đồ ngọt giúp khoảng thời gian bên bạn bè trở nên thú vị hơn nữa nha♪
+ぜぇ、はぁ,はぁっ……な、なんというスイーツでしょう！\n拡散マストな最旬ルック、最先端のトレンドテイスト！\n今の私は、そう……スクールカーストトップレベル女子！=Hộc, hà, hà... Th-thật là một món đồ ngọt không tưởng! Vẻ ngoài cực kỳ bắt mắt phải chia sẻ ngay, hương vị dẫn đầu xu hướng luôn! Tôi của hiện tại chính là... một cô gái ở đỉnh cao của hệ thống phân cấp trường học!
+なんという多幸感……っ！　映えだけでなく口にするだけで\n夢がかなうほどのスイーツがあるなんて……部長さんっこれは\n大発明なのではっ！？=Thật là một cảm giác hạnh phúc tột độ...! Không chỉ đẹp mã mà chỉ cần nếm một miếng thôi là cảm giác như mọi giấc mơ đều thành hiện thực vậy... Trưởng CLB ơi, đây chẳng phải là một đại phát minh sao!?
+……はっ！　すみません、コミュ力が暴走して意味不明なことを……\n今のは映えスイーツの見せる幻覚でした夢でした。=...Hả! Xin lỗi mọi người, kỹ năng giao tiếp của tôi bị bộc phát quá đà nên đã nói những điều khó hiểu... Vừa rồi chỉ là ảo giác do món đồ ngọt này gây ra thôi, là một giấc mơ thôi.
+現実ではぼっちの私が陽キャぶったところで\nしょせんは夢。でも……幸せな夢でした。\nこれに浸れば現実から目を背け……=Trong thực tế, một kẻ cô độc như tôi dù có cố tỏ ra hoạt bát thì cuối cùng cũng chỉ là mơ mà thôi. Thế nhưng... đó là một giấc mơ hạnh phúc. Nếu cứ chìm đắm trong này thì tôi có thể trốn tránh thực tại...
+アオイの友だちなら、クローチェがいるではありませんか。\n最近はよく、アオイの話をしてくれますよ。=Nếu là bạn của Aoi thì chẳng phải đã có Croce rồi sao? Dạo này em ấy hay kể cho chị nghe về Aoi lắm đấy.
+呼ばれてきました、アオイさんの大親友のクローチェですっ！\n実はわたし、お食事機能的なものがアップデートされたんですよっ♪\nだから、アオイさんと一緒にスイーツだって楽しめちゃいますっ！=Được gọi tên là có mặt đây, người bạn thân nhất của chị Aoi - Croce đây ạ! Thật ra em mới được cập nhật chức năng ăn uống rồi đấy nhé♪ Thế nên là em có thể cùng chị Aoi thưởng thức đồ ngọt được rồi!
+じゃ、じゃあ一緒に、ライラエルさんのスイーツを食べても\nいいんですね……！？　へへへ、へへへ……\nこんな私もリア充の仲間入りが果たせちゃいますねっ！？=V-vậy là chúng ta có thể cùng nhau ăn đồ ngọt của chị Lyrael được rồi đúng không...!? Hề hề hề... Vậy là một kẻ như tôi cuối cùng cũng được gia nhập hội những người có cuộc sống viên mãn rồi nhỉ!?
+はいっ。\nまずはポポおじいさんにボディを変えてもらいに行かないとっ！\nでは早速出かけましょうっ！=Vâng ạ! Trước tiên em phải nhờ ông Popo thay đổi cơ thể cho đã! Chúng ta đi ngay thôi nào!
+あっ、待って待って待ってその持ち方嫌な予感がっ！\nまた服が破けちゃいます今度は物理でーーーーーっ！=Á, đợi đã, đợi đã, cách bế đó em có điềm chẳng lành! Quần áo em lại rách mất thôi, lần này là do lực tác động vật lý đấyyyyy!
+今回のメニューは、揚げ菓子です。\n小麦粉とバターたっぷりの生地を砂糖ヤシの甘い油で揚げると、\nさっくりとした食感と素朴な甘みが癖になるお菓子に仕上がります。=Thực đơn lần này là bánh chiên. Khi chiên lớp bột có nhiều bột mì và bơ trong loại dầu ngọt chiết xuất từ dừa đường, chúng ta sẽ có một loại bánh với kết cấu giòn tan và vị ngọt mộc mạc cực kỳ gây nghiện.
+一口食べれば、たちまち懐かしく優しい気持ちに……\n子どもから大人まで、誰もが幸せに包まれるような、\n定番のお菓子をみなさまに振る舞いましょう。=Chỉ cần cắn một miếng, ngay lập tức bạn sẽ cảm thấy hoài niệm và dịu êm... Hãy cùng mời mọi người thưởng thức món bánh truyền thống giúp từ trẻ em đến người lớn đều cảm thấy ngập tràn hạnh phúc này nhé.
+はふぅ……なんや夢心地で、幻まで見えてもうた。\n優しい甘さに体がふわふわして、まだドキドキが止まらへんよ……=Hà... Cảm giác như đang ở trên mây vậy, còn nhìn thấy cả ảo giác nữa. Vị ngọt dịu khiến cơ thể nhẹ bẫng như bông, tim mình vẫn chưa ngừng đập thình thịch đây này...
+一瞬のできごとやのに\n身も心もメルヘンの世界に旅してきたみたいやわぁ。\nさすがはライラエルはん、ほんまにメルヘンで幸せなお菓子や♪=Dù chỉ diễn ra trong chớp mắt nhưng cảm giác như cả thể xác lẫn tâm hồn đều vừa được chu du đến thế giới thần tiên vậy. Quả không hổ danh là cô Lyrael, đúng là một món bánh thần tiên mang lại hạnh phúc mà♪
+喜んでいただけて何よりです。\nマホ姫にそう言ってもらえると、わたしもうれしくなります。=Cô thấy vui là tôi mừng rồi. Được Công chúa Maho khen như vậy khiến tôi cũng cảm thấy rất hạnh phúc.
+マホマホ王国の住人たちも、きっと大好きになると思うわぁ、このお味♪\nそや、今からみんなに持って行ってあげまひょ。=Cư dân của Vương quốc Mahomaho chắc chắn cũng sẽ thích hương vị này lắm cho xem♪ Đúng rồi, hay giờ mình mang về cho mọi người luôn đi.
+それから……この前はマホマホ王国のお話しかできひんかったけど、\nライラエルはんを、王国のお城にご招待させてもろてもよろしいやろか。=Với lại... lần trước mình mới chỉ kể chuyện về Vương quốc Mahomaho thôi, không biết mình có thể mời cô Lyrael đến thăm lâu đài của vương quốc được không nhỉ?
+国民総出で歓迎させてもらいますえ。\nきっとマホマホ王国のことも気に入ってもらえると思います♪=Toàn thể quốc dân sẽ ra đón tiếp cô nồng hậu. Mình tin chắc là cô cũng sẽ yêu mến Vương quốc Mahomaho cho mà xem♪
+まあ、それはぜひ。\nですが、マホマホ王国というのは、いったいどちらにあるのです？=Ôi, nhất định rồi. Thế nhưng, Vương quốc Mahomaho đó rốt cuộc là nằm ở đâu vậy?
+うふふ、それは行ってのお楽しみ……\nほな今から、ライラエルはんをマホマホ王国にご招待いたしまひょ♪=Hì hì, cái đó thì phải đến nơi mới biết được... Vậy thì ngay bây giờ, mình xin mời cô Lyrael đến Vương quốc Mahomaho nhé♪
+えっ、今からですか？\nですが、わたしはまだここでお菓子を……=Ơ, ngay bây giờ ạ? Nhưng tôi vẫn còn đang làm bánh ở đây...
+アーサー、ガウェイン、ランスロット。早速準備開始どす。\n王子はんも、一緒にお手伝いお願いしますえ♪=Arthur, Gawain, Lancelot. Bắt đầu chuẩn bị ngay thôi nào. Hoàng tử cũng giúp một tay với nhé♪
+王子はん……？\n騎士、あなたは一体……=Hoàng tử...? Hiệp sĩ, anh rốt cuộc là...
+さあさ、うちに任せておくれやす♪\nほな行きまひょ～、みらくるまほりんくるりんぱ～♪=Nào nào, cứ tin tưởng ở mình đi♪ Đi thôi nào, Miracle Maho-rin Kururin-pa～♪
+
+
+
+ジオ・テオゴニアの特産品は、甘いお菓子だけではありませんよ。\nこのしゅわしゅわクリームは、口の中で弾ける食感が特徴なんです。\n今回はこちらを使って、刺激的なスイーツを作ってみましょう。=Đặc sản của Geo Teogonia không chỉ có đồ ngọt thôi đâu. Loại kem sủi bọt này có đặc trưng là kết cấu nổ lách tách trong miệng. Lần này chúng ta hãy dùng nó để làm ra một món đồ ngọt thật kích thích nhé.
+わたしも昔は、しゅわしゅわが苦手で敬遠していたのですが……\n最近食べられるようになって、その良さがわかってきました。\n大人の味を、楽しんでいただきましょうね。=Hồi trước tôi cũng không thích mấy món sủi bọt này và thường né tránh chúng... Nhưng gần đây tôi đã ăn được và hiểu ra cái hay của nó rồi. Hãy cùng thưởng thức hương vị của người lớn nhé.
+な、なんかすごい声出ちゃった気がするわ……\nでもそれくらいに美味しいわよ、thisシュークリーム！=Hình như... mình vừa phát ra âm thanh gì đó kỳ cục lắm thì phải... Nhưng cái bánh su kem này ngon đến mức đó luôn đấy!
+喉を通り抜ける刺激は、まさに食べる麦しゅわ……！\nさらに、しっかりとコクのあるクリームが確かな満足感をくれる！\nしゅわしゅわ感の後で、甘さが口に染みわたって……もう病みつきよ！=Cái cảm giác kích thích khi trôi qua cổ họng, đúng là món bia lúa mạch dạng ăn được mà...! Hơn nữa, lớp kem đậm đà béo ngậy mang lại sự thỏa mãn thực thụ! Sau cảm giác sủi bọt, vị ngọt lan tỏa khắp khoang miệng... mình nghiện mất rồi!
+労働後の一杯、「とりあえず生」の常識を変える可能性を秘めてるかも！\n飲み会でいきなり甘いものは邪道？　いいえそんなことはないわ！=Nó có khả năng thay đổi quan niệm thông thường về ly bia "trước tiên cứ cho vại bia tươi" sau giờ làm việc đấy! Ăn đồ ngọt ngay từ đầu buổi nhậu là sai trái sao? Không hề nhé!
+労働者の疲れ切った頭は、\nいつだって糖分と麦しゅわを求めているんだもの！！=Bởi vì đầu óc mệt mỏi của những người lao động lúc nào cũng khao khát đường và bia lúa mạch sủi bọt mà!!
+あ～、いい感じに回ってきた……あ、ねぇねぇおかわりしていい？\n今日はもう、カロリーとか明日の体調とか気にしないわ～！=A~, cảm giác lâng lâng phê quá rồi... Này này, cho mình thêm phần nữa được không? Hôm nay mình không quan tâm đến calo hay sức khỏe ngày mai đâu!
+ぐでんぐでんの～っ、\nべろんべろんになっちゃいたい気分なの～！\nお願～い！　えへへへへ～♪=Mình đang muốn được say bí tỉ, say khướt lờ đờ luôn đây này! Đi mà! Hề hề hề hề～♪
+えぇ、どうぞお召し上がりください。\nそんなに喜んでいただけるなら、作り手冥利に尽きますから。=Vâng, mời cô cứ dùng tự nhiên. Thấy cô vui đến vậy là niềm hạnh phúc lớn nhất của người làm ra nó rồi.
+……しかし、ぐでんぐでんのべろんべろんになるような材料は、\n一切使っていないのですが……思い込みの結果なのでしょうか。\n食とは本当に奥深いものなのですね……=...Tuy nhiên, tôi hoàn toàn không sử dụng bất kỳ nguyên liệu nào có thể gây say xỉn cả... Có lẽ là do tâm lý chăng. Ẩm thực đúng là một điều thật sâu sắc...
+ジオ・テオゴニアには多種多様なスイーツがあります。\n野生のものだけでなく、自分の手で調理するのもよいものです。\nわたしも時折こうして、スイーツ作りを楽しんでいるんですよ。=Ở Geo Teogonia có rất nhiều loại đồ ngọt đa dạng. Không chỉ những loại có sẵn trong tự nhiên, mà việc tự tay mình chế biến cũng rất thú vị. Thỉnh thoảng tôi cũng tận hưởng việc làm đồ ngọt như thế này đấy.
+異世界からいらっしゃるみなさまにも好評ですよ。\n味はもちろん、見た目のかわいさにも心を奪われてしまうとか。\nさぁ騎士も、おもてなしを手伝ってください。=Các vị khách đến từ thế giới khác cũng rất ưa chuộng chúng. Nghe nói không chỉ hương vị mà vẻ ngoài đáng yêu cũng khiến họ say đắm. Nào Hiệp sĩ, anh cũng hãy giúp tôi đón tiếp khách nhé.
+はぁ、はぁ……思わず声が出ちゃった……\n美味しくてかわいくて……こんなの初めてだよ……=Hà, hà... mình vô tình phát ra tiếng mất rồi... Vừa ngon vừa đáng yêu... đây là lần đầu tiên mình thấy thế này luôn...
+ああ、もう。らしくないところ、見られちゃった……\nまさか、あなたもいるなんて思いもしなかったから、\nもう……すっごく気まずい。=A, thật là. Bị nhìn thấy bộ dạng không giống mình chút nào rồi... Mình chẳng thể ngờ là anh cũng ở đây, thật là... ngại quá đi mất.
+ふふっ、お気に召しましたか？\nジオ・テオゴニアでも選りすぐりのかわいいスイーツですからね。\n思わず声が出てしまうのも、仕方のないことです。=Hì hì, cô có thích không? Đó là một trong những món đồ ngọt đáng yêu nhất được tuyển chọn ở Geo Teogonia mà. Việc vô tình phát ra tiếng cũng là điều dễ hiểu thôi.
+それはもう、文句なしでしたよ。\n見た目だけじゃなくて味や食感も、全部かわいいなんて、\n反則です。この私が我を忘れちゃうなんて……=Chuyện đó thì không còn gì để bàn cãi rồi. Không chỉ vẻ ngoài mà cả hương vị lẫn kết cấu, tất cả đều đáng yêu, đúng là phạm quy mà. Đến cả tôi mà còn quên cả bản thân mình nữa...
+だから、その……私がかわいいスイーツに夢中になって、\nヘンな声まで上げてたことは……\nここだけの内緒にしてもらえたら助かるな、と……=Thế nên là, ừm... cái việc tôi quá mê mẩn món đồ ngọt đáng yêu này mà phát ra mấy tiếng kỳ cục đó... Nếu anh có thể giữ bí mật chỉ giữa hai chúng ta thôi thì tốt quá...
+ええ、そうですね。騎士。\nわたしも同感です……♪=Vâng, đúng vậy nhỉ, Hiệp sĩ. Tôi cũng đồng ý với ý kiến đó...♪
+だ、だからですよ！\n普段は私、お堅いイメージで通してるんで！\nあなたもお願いだから、内緒にしていてよーっ！=Th-thế nên mới bảo! Thường ngày tôi luôn giữ hình ảnh nghiêm túc mà! Nên làm ơn đi, anh cũng phải giữ bí mật đấy nhé!
+トモちゃん、すごくかわいかったよ。=Tomo-chan, em đã rất đáng yêu đấy.
+
+
+弱肉強食。食の営みとは即ち、互いの命を賭した戦いに他ならず──\n心に隙あらば忽ち敗れ、勝者の食卓に上ることとなり申す。\nこれぞ煉獄の地に於ける、唯一絶対の法にありけり。=Cá lớn nuốt cá bé. Hoạt động ăn uống nói cho cùng chính là cuộc chiến đặt cược mạng sống của nhau── nếu trong tâm có sơ hở thì sẽ lập tức bại trận và trở thành món ăn trên bàn của kẻ thắng cuộc. Đây chính là luật lệ duy nhất và tuyệt đối tại vùng đất luyện ngục này.
+俎板の上の魚と云えど油断は禁物。\n目を反らせば、途端に牙を剥くやもしれませぬ。\n此方の料理を食せば、其の意味を否が応にも知らされましょう……=Ngay cả là cá đã nằm trên thớt cũng tuyệt đối không được lơ là. Chỉ cần rời mắt đi một chút thôi là chúng có thể nhe nanh múa vuốt ngay lập tức. Nếu nếm thử món ăn này, dù muốn hay không thì cô cũng sẽ hiểu được ý nghĩa đó...
+……はっ！　な、なんだい今のは？\nまるで全身を切り裂かれるような感触が……\nアタシは幻でも見ていたのか？=...Hả! C-cái gì vừa rồi thế? Cảm giác cứ như toàn thân bị xẻ ra vậy... Mình vừa nhìn thấy ảo ảnh sao?
+コロコロ──\n此の度御賞味頂きましたは、ジオ・ゲヘナに棲む太刀魚の料理に候。\n其の刃は死してなお鋭く、食した者に襲い掛かるので御座います。=Koro koro── Món mà cô vừa thưởng thức chính là món cá hố (thái đao ngư) sống ở Geo Gehenna. Lưỡi đao của nó dù đã chết vẫn cực kỳ sắc bén và sẽ tấn công kẻ nào dám ăn nó.
+命の危機にあっては、あらゆる感覚が研ぎ澄まされるもの。\n其れは味覚も他ならず……故に此の料理も絶品とされ、\n命知らずの猛者に好んで食されておりまする。=Khi đối mặt với hiểm nguy sát sườn, mọi giác quan đều sẽ trở nên nhạy bén vô cùng. Vị giác cũng không ngoại lệ... chính vì thế món ăn này được coi là một tuyệt phẩm, và thường được những kẻ dũng cảm không sợ chết ưa chuộng.
+確かにとんでもなく旨かったけれど……\nまさかそれは、アタシが死ぬほど集中してたからってことなのかい？\n世界広しと言えど、すごい料理があるもんだ……=Đúng là nó ngon đến mức không tưởng thật... nhưng chẳng lẽ là vì mình đã phải tập trung cao độ đến mức cận kề cái chết sao? Thế giới này đúng là rộng lớn, có những món ăn thật đáng kinh ngạc...
+刃引きの下拵えをすれば落命には到りませぬ故、ご安心くだしゃんせ。\nされど才覚ある者が口にすれば、襲い来る剣気を無意識に捉え\n戦陣の幻を見ることもあるとの由──即ち、先程のルカ殿の如くに。=Tôi đã sơ chế mài mòn lưỡi đao rồi nên sẽ không đến mức mất mạng đâu, xin cô cứ yên tâm. Tuy nhiên, nếu là người có tài năng thực thụ nếm thử, họ có thể vô thức cảm nhận được kiếm khí đang tấn công và nhìn thấy ảo cảnh nơi chiến trường── tức là giống như cô Luka vừa rồi vậy.
+それなら良かった……とはいかないね。\n幻とはいえ、一方的に斬られたとあっちゃ女サムライの名が廃る。\nここはおかわりをいただいて、リベンジといきたいもんだ。=Nghe vậy thì cũng đỡ... cơ mà không được đâu nhé. Dù chỉ là ảo ảnh nhưng nếu bị chém một chiều như thế thì danh tiếng nữ Samurai của mình vứt đi đâu. Cho mình xin thêm phần nữa, mình muốn phục thù.
+其の意気や良し──されど、肝心の太刀魚がネタ切れにありんす。\nルカ殿さえ宜しければ、自ら太刀魚釣りに赴くも良御座んしょう。\n釣り道具一式も、此方に取り揃えておりますれば。=Khí thế đó tốt lắm── thế nhưng, khổ nỗi là cá hố đã hết sạch nguyên liệu rồi. Nếu cô Luka không phiền thì tự mình đi câu cá hố cũng là một ý hay đấy. Bộ dụng cụ câu cá tôi cũng đã chuẩn bị sẵn ở đây rồi.
+問題ないよ、こちとら釣りにも自信あり──\nって、なんだいそれは？　ジュンの好きそうな全身鎧かい？\n魚釣りの道具にしちゃ、ずいぶんと物々しい様子だが……=Không vấn đề gì, mình cũng tự tin vào khả năng câu cá của mình lắm── ủa mà, cái gì kia? Một bộ giáp toàn thân mà Jun chắc sẽ thích à? Gọi là đồ đi câu cá mà trông có vẻ hầm hố quá nhỉ...
+太刀魚が潜みしは、煉獄の大地より噴き出す灼熱の溶岩流。\n備えなしでは近寄るだけで、御身が炭と化します故……\n注意召されよ、コロコロ──=Loài cá hố này ẩn mình trong dòng dung nham nóng rực phun trào từ lòng đất luyện ngục. Nếu không có trang bị bảo hộ, chỉ cần đến gần thôi là cơ thể cô sẽ biến thành tro ngay... Hãy cẩn trọng nhé, koro koro──
+Cái thế giới Geo Gehenna này hoang dã đến mức nào vậy trời! Nhưng mà, không chấp nhận thử thách thì không phải bản tính của dân câu cá... Anh cũng đi theo tôi đi, xuất phát thôi!
+ジオ・ゲヘナに蔓延る魔物、奇々怪々にして千差万別。\n喩えば、此れなるは空を舞う巨躯の鳥。\n体躯もさることながら、貫目も相応にありますれば。=Quái vật tràn lan ở Geo Gehenna thật kỳ lạ và muôn hình vạn trạng. Ví dụ như con chim khổng lồ đang bay lượn trên bầu trời kia chẳng hạn. Thân hình nó đã lớn, mà trọng lượng cũng tương xứng như vậy.
+カレイドフェニックス程ではあらねど、捕らうも食すも一苦労。\n然は然りながら、得られる滋養は保証いたしまする。\n食事に兼ねての鍛錬と心得るがよござんしょ。=Tuy không bằng Kaleid Phoenix nhưng để bắt được và ăn được nó cũng là cả một vấn đề đấy. Mặc dù vậy, tôi đảm bảo về giá trị dinh dưỡng mà nó mang lại. Cứ coi như đây là buổi luyện tập kết hợp với ăn uống đi nhé.
+……はっ！？\n鎧は……ぶ、無事か……\nすまない、今のは気にしないでくれ……=...Hả!? Bộ giáp... v-vẫn ổn chứ... Xin lỗi, đừng bận tâm đến chuyện vừa rồi nhé...
+しかし、ジオ・ゲヘナの料理とは、すさまじいものだ。\n全身に漲るタンパクの奔流、油に煌めく表面は岩肌が如く頑強に\n見えて柔らかく、肉体を満たし磨き上げていくような感覚すらある。=Tuy nhiên, món ăn của Geo Gehenna đúng là phi thường thật. Một luồng protein cuộn trào khắp cơ thể, lớp bề mặt óng ánh mỡ trông vững chãi như vách đá nhưng thực ra lại mềm mại, có cảm giác như cơ thể đang được lấp đầy và tôi luyện vậy.
+感服いたしました、媛。\nこれほどまでに身体へ直に響き、血肉が躍動するような一品を食すのは、\n私も初めての経験です。=Tôi thực sự khâm phục, thưa Công nương. Đây là lần đầu tiên tôi được thưởng thức một món ăn tác động trực tiếp đến cơ thể mạnh mẽ như thế này, cảm giác như xương máu đang sôi sục vậy.
+お前さまほどの兵のお墨付きとあらば、用意した甲斐があるというもの。\nどれ、一口と言わず。\n心を込めて拵えた料理、騎士殿も期待で目を輝かせております故。=Được một chiến binh như cô công nhận thì công sức chuẩn bị của tôi thật không uổng phí chút nào. Nào, đừng chỉ ăn một miếng. Đây là món ăn được nấu bằng cả tấm lòng, ngài Hiệp sĩ đây cũng đang nhìn với ánh mắt lấp lánh đầy mong chờ kìa.
+い、いえ！\n心遣いは痛み入りますが、このあと会場の見回りの公務も\n控えていますので！　失礼いたします！！=Kh-không, tôi xin kiếu! Tôi rất cảm kích tấm lòng của cô nhưng sau đây tôi còn có công vụ tuần tra quanh hội trường nữa! Tôi xin phép đi trước ạ!!
+惜しきかな。\nジュン殿の乱れたお姿、\n一見に留めておくには勿体なき余興でありました喃。=Thật đáng tiếc quá đi. Bộ dạng bối rối của cô Jun, nếu chỉ được xem một lần thì đúng là một trò giải trí phí phạm quá rồi.
+
+
+煉獄、ジオ・ゲヘナ──種種様様の魔物らは、強さも味も千差万別。\n炎を纏う魔物の肉は炙り加減で香ばしく。\n毒持つ魔物の肉は仕込み次第で薬効を得ますれば。=Luyện ngục, Geo Gehenna── các loài ma thú muôn hình vạn trạng, sức mạnh và hương vị cũng thiên sai vạn biệt. Thịt của ma thú mang hỏa khí sẽ trở nên thơm lừng tùy theo độ lửa. Còn thịt của ma thú có độc, nếu biết cách sơ chế thì sẽ thu được dược tính.
+果て扨て、掛かる肉らを諸共に、コトコトぐつぐつ鍋で煮込んだならば\n如何なる仕儀になりましょうや？\nジオ・ゲヘナ流、寄鍋の極意──篤と仕上げを御覧じ給え。=Vậy thì, nếu đem tất cả những loại thịt đó hầm chung trong một chiếc nồi sôi sùng sục, kết quả sẽ ra sao đây? Bí truyền lẩu thập cẩm phong cách Geo Gehenna── hãy tận mắt chiêm ngưỡng thành phẩm cuối cùng.
+はぁはぁ……ふぅふぅ……\n予想外の展開に思わず引き込まれて……体が火照ってきちゃいました。\nそれに、冒険小説を読み終わったときみたいなドキドキが止まりません。=Hà hà... phù phù... Em vô tình bị cuốn vào những diễn biến ngoài dự đoán... khiến cơ thể nóng bừng lên. Hơn nữa, tim em cứ đập thình thịch không thôi, giống như cảm giác khi vừa đọc xong một cuốn tiểu thuyết phiêu lưu vậy.
+あっ、体調が悪くなったとかじゃありませんから。\n……とってもおいしいです。=À, không phải là em thấy không khỏe đâu ạ. ...Nó thực sự rất ngon.
+これが、煉獄の魔物の味……ちょっと辛くて、体にもよさそうで。\n癖になっちゃいますね。=Đây chính là hương vị của ma thú luyện ngục... hơi cay một chút, và có vẻ tốt cho sức khỏe. Chắc em sẽ nghiện mất thôi.
+シオリ殿の舌に響いた御様子、幸甚に思い侍り。\n然れど、此れなる魔物らは煉獄の美味のほんの一角。\n秘境には、数え切れぬほどの魔物──将又美食が隠されておりましょう。=Thấy món ăn hợp khẩu vị của tiểu thư Shiori, ta lấy làm vinh hạnh vô cùng. Tuy nhiên, những ma thú này chỉ là một góc nhỏ trong tinh hoa ẩm thực của luyện ngục thôi. Tại những vùng đất bí ẩn, vẫn còn vô số ma thú── hay nói cách khác là những mỹ vị đang ẩn giấu.
+ジオ・ゲヘナには、私の知らない風景がまだまだあるんですね。\n私、また行ってみたくなっちゃいました！=Ở Geo Gehenna vẫn còn nhiều phong cảnh mà em chưa biết đến quá. Em lại muốn đến đó lần nữa rồi!
+──コロコロコロ。\nシオリ殿が望むのであれば、\n何時也と案内致しまする。=── Koro koro koro. Nếu tiểu thư Shiori mong muốn, ta sẵn lòng dẫn đường bất cứ lúc nào.
+岩漿煮え滾る巌窟、瘴気渦巻く古跡、精霊荒れ狂う混沌の原野──\n何れも未だ見ぬ一大冒険譚になりんしょう。\n万事万端、相調えてお越しくだしゃんせ。=Hang động nham thạch sôi sùng sục, di tích cổ xưa chìm trong chướng khí, hay cánh đồng hỗn mang nơi tinh linh điên cuồng gào thét── tất cả sẽ trở thành một thiên anh hùng ca phiêu lưu chưa từng thấy. Hãy chuẩn bị mọi thứ thật sẵn sàng rồi ghé thăm nhé.
+ほ、本当ですか……っ？\nぜひお願いします！　色々と準備をしなくちゃ……\nまずは体を鍛えるところから、ですね。=Th-thật sao ạ...? Nhất định nhờ chị giúp đỡ! Em phải chuẩn bị nhiều thứ đây... Trước tiên là phải rèn luyện cơ thể đã nhỉ.
+私、きっと強くなります！\nジオ・ゲヘナの秘境へ行けるくらい……\nCorneliaさん。一緒にトレーニング、お願いします！=Em nhất định sẽ trở nên mạnh mẽ hơn! Để có thể đặt chân đến những vùng đất bí ẩn của Geo Gehenna... Chị Cornelia, xin hãy tập luyện cùng em nhé!
+斯くの如き祝祭の場、民草の心も華やぐと云ふもの。\n足を運ぶ老若男女、皆々が喜ぶ料理となると……\n此れは中々に悩ましき難事なりけり。=Ở nơi lễ hội như thế này, lòng người cũng trở nên phấn chấn hơn. Nhưng để làm ra một món ăn có thể khiến tất cả mọi người, từ già trẻ gái trai đều hài lòng... thì quả là một nan đề nan giải.
+万人の心躍らせるは至難の極み故。\n先ずは愛らしき稚児らの為、童心くすぐる一品を。\n騎士殿の御手を借りられるとあらば、美味なる品と仕上がりましょうぞ。=Vì làm lay động trái tim của vạn người là điều cực kỳ khó khăn, nên trước tiên hãy tạo ra một món ăn gợi lên sự thích thú cho những đứa trẻ đáng yêu. Nếu có sự giúp sức của ngài Hiệp sĩ, chắc chắn chúng ta sẽ tạo nên một món ăn tuyệt hảo.
+はぁはぁ……くっくっくっ……\n滾る……滾るぞ……っ！\n私の中に秘められた漆黒の魔力の高まりを感じる……！=Hà hà... khà khà khà... Nó đang cuộn trào... đang cuộn trào đây này...! Ta cảm nhận được ma lực đen tối ẩn giấu trong mình đang tăng vọt!
+一口噛めば、血潮の如く湧き上がる肉汁……\n舌先に宿るのは、地獄の業火……ではなく、優しき炎の加護。\n交じり合う辛味と旨味は、まさに禁断の饗宴！=Chỉ một miếng cắn, nước thịt trào ra như dòng máu nóng... Thứ ngự trị trên đầu lưỡi không phải hỏa ngục, mà là sự bảo hộ của ngọn lửa dịu êm. Sự hòa quyện giữa vị cay và vị ngọt thịt này đúng là một bữa tiệc cấm kỵ!
+揚げ物の衣もパリパリですっごくおいしー……\nい、いや！　人々を暴食の堕落へといざなう黄金の鎧！\n流石は煉獄を冠する主……その手腕、我が盟友と認めるに相応しい！=Lớp vỏ chiên giòn rụm ngon quá đi... À, không! Đó là bộ giáp vàng lôi kéo con người vào sự sa ngã của thói phàm ăn! Quả không hổ danh là bá chủ luyện ngục... bản lĩnh đó thật xứng đáng để ta công nhận là đồng minh!
+──コロコロコロ。\nあにはからんや、勿体ない賛辞でありんす。\n幼き童らが食しやすいよう調えたものであった故。=── Koro koro koro. Thật bất ngờ, đó quả là một lời khen quá mức rồi. Ta vốn chỉ chuẩn bị để những đứa trẻ nhỏ có thể dễ dàng ăn được thôi mà.
+え……おさなき、わらべ……？=Ơ... đ-đứa trẻ nhỏ...?
+然様。\nお前さまたちの言葉を借りるのであれば……\n「おこさまらんち」と言えば馴染み深くありんしょう？=Chính xác. Nếu mượn lời của các ngươi... thì gọi là "Suất ăn trẻ em" (Okosama Lunch) nghe sẽ quen thuộc hơn nhỉ?
+わーーーーっ！！！\nみ、見るなシグルド！　今の私を見るなー！！=Oaaaa!!! Đ-đừng nhìn, Sigurd! Đừng nhìn ta lúc này!!
+そういえば、先日ユキノに教わったデザートのレシピが\nありまして……試しに作ってみようと思うのですが、\n騎士様のお手をお借りしてもよろしいでしょうか？=Nhắc mới nhớ, hôm nọ tôi có học được một công thức món tráng miệng từ Yukino... Tôi đang định làm thử, không biết có thể nhờ ngài Hiệp sĩ giúp một tay được không?
+このレシピは、なんと喉に良い薬膳のような効能もあるのです。\n久遠氷河の氷を適量に、果物に薬草、砂糖などを加えれば──=Công thức này thậm chí còn có tác dụng như dược thiện rất tốt cho cổ họng đấy. Chỉ cần cho một lượng đá vừa đủ từ sông băng vĩnh cửu, thêm trái cây, thảo dược và đường vào là──
+……はっ。\nい、今のは……あー、あー……♪\nの、喉の調子が回復しています……っ！=...Hả. V-vừa rồi là... a-a-a...♪ Tình trạng cổ họng của mình đang hồi phục rồi...!
+清冽な薬草の香気が鼻腔を満たしながら、刺激的すぎることなく……\n上品な清涼感と、優しい甘味が調和する様は、\nまるで交響曲のようで……精霊たちも喜んでいるみたいです！=Hương thảo dược thanh khiết tràn lấp khoang mũi mà không quá nồng... Sự hòa quyện giữa cảm giác mát lạnh thanh tao và vị ngọt dịu dàng giống như một bản giao hưởng vậy... Dường như cả các tinh linh cũng đang vui mừng!
+ふふ、とても素敵な歌声です。\nチカさんのような方のお役に立てたのならば、\nきっとユキノも喜ぶと思いますわ。=Hì hì, giọng hát thật tuyệt vời. Nếu có thể giúp ích cho một người như cô Chika đây, chắc chắn Yukino cũng sẽ vui lòng lắm.
+～♪\nすごい……心なしか前よりも音域が広がったような気がします！\nそれだけでなく、声の大きさやビブラートも、すごく向上してる……！=～♪ Tuyệt quá... cảm giác như âm vực của mình rộng hơn trước thì phải! Không chỉ thế, độ vang và kỹ thuật rung (vibrato) cũng tiến bộ rõ rệt...!
+ノゾミやツムギ、ランファさんにも勧めてあげたいな……\nヴァイオレットさん、今度みんなでジオ・ニヴルヘルにお邪魔しても\nいいでしょうか？　みんなにこの氷菓子を食べさせてあげたくて。=Mình muốn giới thiệu món này cho Nozomi, Tsumugi và cả Ranpha nữa... Cô Violet ơi, hôm nào cho phép bọn mình cùng ghé thăm Geo Niflhel được không? Mình muốn cho mọi người ăn thử món kem đá này.
+きっと喜んでくれるはずです♪\nそうしたら、カルミナとランファさんで、一緒にライブをするのも\nいいかもしれません！=Chắc chắn mọi người sẽ thích lắm đây♪ Khi đó, Carmina và Ranpha cùng tổ chức một buổi biểu diễn chung thì tuyệt biết mấy!
+まだ、ジオ・ニヴルヘルでの公演はしたことがありませんし……\nきっと、プロデューサーも賛成してくれます！\nじゃあ、私さっそく相談してきますね！　ごちそうさまでした！=Bọn mình chưa từng biểu diễn ở Geo Niflhel bao giờ... Chắc chắn anh quản lý cũng sẽ đồng ý thôi! Vậy mình đi bàn bạc ngay đây! Cảm ơn vì bữa ăn nhé!
+そ、そこまでの効能はないはずなのですが……\nどうしましょう、話がどんどん大きくなってきてしまいました、\n騎士様……！=C-công dụng chắc không đến mức đó đâu... Làm sao đây, câu chuyện cứ thế bị thổi phồng lên mất rồi, ngài Hiệp sĩ ơi...!
+ジオ・ニヴルヘルは、死の気配が満ちる静寂の地。\n他の世界と比べれば、街の喧騒や活気などとは無縁の、\n寂しい場所だと思われるでしょう。=Geo Niflhel là vùng đất tĩnh lặng bao trùm bởi hơi thở của cái chết. So với các thế giới khác, nơi đây có lẽ bị coi là chốn hiu quạnh, xa rời sự náo nhiệt và sức sống của phố thị.
+しかしそのような土地にも、様々な文化が息づいています。\n貴重な機会ですし、この世界の営みを感じるような料理を、\n皆様にも召し上がっていただきたいです……=Nhưng ngay cả ở một vùng đất như thế, các loại hình văn hóa vẫn luôn tồn tại. Nhân cơ hội quý báu này, tôi cũng muốn mọi người được thưởng thức những món ăn mang hơi thở cuộc sống của thế giới này...
+……実に美味ですのに……曖昧にして模糊、繊細にして不可解……！\n清流の魚のごとく素早く優雅な喉越しでありながら\n酔い痴れることを許さないほどはかなく消える後味……=...Thực sự rất ngon... nhưng lại cứ mơ hồ khó nắm bắt, tinh tế mà đầy bí ẩn...! Cảm giác trôi xuống cổ họng nhanh và thanh thoát như loài cá giữa dòng suối trong, nhưng hậu vị lại tan biến chóng vánh đến mức chẳng kịp để ta say đắm...
+舌の上にかすかな残り香しかなく。けれどたまらない満足感。\n口にするたび変化する味わいは新鮮で、病みつきになること必至！\n材料も調理法も全く見当がつかないのは初めての経験ですわ～っ！！=Trên đầu lưỡi chỉ còn sót lại một chút dư hương, nhưng cảm giác thỏa mãn thì không thể cưỡng lại. Mỗi lần nếm thử vị lại thay đổi thật mới mẻ, chắc chắn sẽ gây nghiện mất! Đây là lần đầu tiên tôi hoàn toàn không đoán được nguyên liệu hay cách chế biến luôn đấy!!
+喜んでいただけて、大変光栄です。\nジオ・ニヴルヘルでも知る人は少ない、珍しい料理ですわ。\n巨鯨城の書庫にある古い本から、再現してみたのですが……=Được cô yêu thích là vinh dự lớn của tôi. Đây là một món ăn hiếm có mà ngay cả ở Geo Niflhel cũng ít người biết đến. Tôi đã thử tái hiện lại nó từ một cuốn sách cổ trong thư viện của Lâu đài Cá Voi Khổng Lồ...
+お願いですわ、ジオ・ニヴルヘルのプリンセス。\n一体何でできているのか、教えていただけませんこと？\nこれは商機！　間違いなく大きな商いとなるネタですわっ！=Xin cô đấy, Công chúa của Geo Niflhel. Cô có thể cho tôi biết món này làm từ gì không? Đây là cơ hội kinh doanh! Chắc chắn sẽ là một phi vụ làm ăn lớn đấy ạ!
+商い……？\nえぇと、それは……この料理をどなたかに売ると？=Kinh doanh...? Ờm, ý cô là... sẽ bán món ăn này cho ai đó sao?
+その通り！　他の世界でも話題沸騰、大人気間違いなしですわ！\n人々は謎めいた料理の魅力にとりつかれ、やがてジオ・ニヴルヘルは\n多くの訪問客で賑わうこととなるでしょう！=Chính xác! Đảm bảo nó sẽ tạo nên một cơn sốt và cực kỳ được ưa chuộng ở các thế giới khác! Mọi người sẽ bị mê hoặc bởi sức hút của món ăn bí ẩn này, và chẳng mấy chốc Geo Niflhel sẽ trở nên nhộn nhịp với vô số khách tham quan!
+ジオ・ニヴルヘルに活気がもたらされるのであれば、\nわたくしとしても喜ばしく思います。\nですが……=Nếu Geo Niflhel có thể trở nên sôi động hơn thì tôi cũng lấy làm mừng. Tuy nhiên...
+何か、問題がありまして？=Có vấn đề gì sao ạ?
+実は。この料理……作るたび、食べるたびに味も見た目も変わるのです。\n完成した料理と同様に、食材もまた変化し続けます。\n再現することは非常に難しく、安定して提供することは無──=Thực ra, món ăn này... mỗi lần làm, mỗi lần ăn thì hương vị và vẻ ngoài đều thay đổi. Giống như món ăn hoàn chỉnh, các nguyên liệu cũng liên tục biến đổi. Việc tái hiện lại là cực kỳ khó, và để cung cấp một cách ổn định là điều kh──
+まあ、なんて素晴らしいのかしら！\n一期一会の味だなんて、これ以上ない体験価値を提供できますわ！=Ôi, thật là tuyệt vời làm sao! Hương vị "đời người chỉ gặp một lần" chẳng phải là giá trị trải nghiệm đỉnh cao nhất sao!
+さぁヴァイオレットさん、さっそく計画を練りましょう！\n世界を超えた商売のパートナーとして！\n私たちの腕の見せ所ですわよ、おーっほっほっほっほっ！！=Nào cô Violet, chúng ta hãy cùng lập kế hoạch ngay thôi! Với tư cách là đối tác kinh doanh xuyên thế giới! Đây chính là lúc để chúng ta trổ tài đấy, ô hô hô hô hô!!
+あわわわわ……もしやわたくしは、\n途方もない計画に巻き込まれつつあるのでしょうか……？\nグ、グレイス、助けてください……！=A oa oa oa... phải chăng tôi đang bị cuốn vào một kế hoạch kinh thiên động địa nào đó rồi sao...? G-Grace ơi, cứu chị với...!
+近頃、ジオ・ニヴルヘルで注目されている食べ物があるそうですわ。\n甘くてぷるぷるした、愛らしい見た目のお菓子──\nとある少女の来訪がきっかけとなり民の間にも広まりつつあるのだとか。=Nghe nói dạo gần đây ở Geo Niflhel đang có một loại thực phẩm rất được chú ý. Một món bánh ngọt ngào, núng nính với vẻ ngoài đáng yêu── dường như sau chuyến ghé thăm của một thiếu nữ nọ, nó đang bắt đầu lan rộng trong dân chúng.
+その名はプリン……ふふっ、名前まで愛らしいのですね。\nそれではわたくしも頑張って作ってみようと思います。\n騎士様も有識者として、お手伝いをお願いしますね。=Tên nó là Pudding... hì hì, ngay cả cái tên cũng thật đáng yêu. Vậy thì tôi cũng sẽ cố gắng làm thử xem sao. Ngài Hiệp sĩ, với tư cách là một chuyên gia, mong ngài hãy giúp đỡ tôi nhé.
+コイツ、プリンなの！　ちゃんと甘くておいしくてプリンだったの！\n見た目は全然違うのにプリンなの……\nすごいプルプルだったの！=Thứ này chính là Pudding! Nó ngọt lịm, ngon lành đúng chuẩn Pudding luôn! Dù vẻ ngoài trông khác hoàn toàn nhưng vẫn là Pudding... Nó núng nính dã man luôn!
+プルプルしすぎて、ミヤコの服まで……あれ？\n……もしかして、気のせいだったの？\n切ないけれど、服が弾けたの。びっくりしたの……=Nó núng nính quá mức làm quần áo của Miyako cũng... ủa? ...Hay là mình tưởng tượng nhỉ? Nhưng rõ ràng là quần áo đã bị bung ra luôn đó. Làm mình hết hồn hà...
+食べたら何か異変が起きたということですか……？\n材料はランドソルで仕入れたものですし、\nグレイスに試食してもらった時は、特に変わりなかったはずなのに……=Ý em là có chuyện gì lạ xảy ra sau khi ăn sao...? Nguyên liệu là tôi nhập từ Landosol, mà lúc nhờ Grace ăn thử thì thấy có gì bất thường đâu nhỉ...
+や、それは私が至らぬせいですね。\n姫の期待に応えられず、\nボケるタイミングを逃した己が不明を嘆くばかりです。およよ。=À, đó là do tôi còn thiếu sót thôi. Tôi đã không đáp ứng được kỳ vọng của Công chúa, chỉ biết than thở cho sự ngu muội của bản thân vì đã lỡ mất thời điểm để tấu hài thôi. Ôi da.
+グレイス、いたのですか！？\nあの時も、呆けるほうの期待はしていませんでしたけど……=Grace, cô ở đó từ lúc nào thế!? Mà lúc đó tôi cũng đâu có kỳ vọng cô tấu hài đâu...
+いえいえ、姫。超一流のレイス力があれば\nプリンの衝撃で服の一着や二着弾けて当然なんですよ。\nですよねミヤコセンパイ？　さすがですリスペクトです。=Không không, thưa Công chúa. Với sức mạnh Wraith siêu cấp thì việc một hai bộ quần áo bị bung ra do chấn động của bánh Pudding là chuyện đương nhiên mà. Đúng không hả tiền bối Miyako? Quả không hổ danh, thật đáng kính nể.
+んん～？　……そうなの、ミヤコはすごいの！\nだからオマエもミヤコセンパイを尊敬するべきなの！\n尊敬の証はプリンおかわりでいいの！　たくさん作るの！=Hửm~? ...Đúng rồi đó, Miyako giỏi lắm mà! Thế nên ngươi cũng phải kính trọng tiền bối Miyako đi! Minh chứng cho sự kính trọng chính là cho ta thêm Pudding! Làm thật nhiều vào nhé!
+わ、わかりました、センパイ様……\nおかわり、用意いたしますね。=V-vâng, thưa tiền bối... Tôi sẽ chuẩn bị thêm ngay đây.
+その後ミヤコは、プリン欲のままにおかわりを要求しつづけ、\n材料はあっという間に底をつくのだった。=Sau đó, Miyako cứ tiếp tục đòi thêm Pudding theo cơn thèm khát vô tận, và nguyên liệu đã cạn sạch chỉ trong chớp mắt.
+本日はジオ・ニヴルヘルより、特別な青魚が届いております。\nああ、騎士様ご安心ください。\n青魚と申しましても、ゾンビ魚などではありませんので……=Hôm nay có một loại cá xanh đặc biệt được gửi đến từ Geo Niflhel. À, ngài Hiệp sĩ yên tâm đi. Tuy gọi là cá xanh nhưng nó không phải là cá thây ma hay gì đâu...
+この魚は栄養価が高く、中でも頭が良くなる成分が豊富とか。\nゾンビの進行を食い止める効果があると、注目されているそうです。\n学生さんにもおすすめですわ。さっそく焼いてみましょう。=Loài cá này có giá trị dinh dưỡng cao, đặc biệt là rất giàu thành phần giúp thông minh hơn. Nghe nói nó còn đang được chú ý nhờ tác dụng ngăn chặn quá trình biến thành thây ma nữa. Rất hợp cho các bạn học sinh đấy. Chúng ta cùng nướng thử ngay thôi nào.
+はあ……はあ……\nこんなの……初めてだし……\nもうっ、立ってらんないよぉ……っ。=Hà... hà... Chuyện này... là lần đầu tiên... Trời ơi, mình không đứng vững nổi nữa rồi...
+身がホクホクでテンあげだし～っ！\n皮も骨も、お目目まで……\n捨てるとこなさすぎるんですけど～っ！=Thịt cá mềm thơm làm mình phấn khích quá đi~! Từ da, xương cho đến tận mắt... chẳng có chỗ nào để vứt đi cả luôn á~!
+そ、それは良かったです……\nこのお魚の目玉にはドコサヘキサエン酸が豊富に含まれており、\nそれが頭に良いと言われておりますわ。=V-vậy thì tốt quá rồi... Trong mắt của loài cá này chứa rất nhiều Axit Docosahexaenoic, được cho là rất tốt cho trí não đấy.
+マジマジっ！？　さっきから頭サエサエちうなのはその……\nアンタガタドコサ……ヘキサ……的なののおかげなのかなぁ？\nってか今のうちなら、せんせ～になれちゃうかも♪=Thiệt hả trời!? Cái đầu mình bỗng dưng minh mẫn nãy giờ chắc là nhờ vào... cái chất Đô-cô-sa... Hê-xa... gì đó rồi nhỉ? Mà với đà này, khéo mình làm giáo viên được luôn ấy chứ♪
+ということで問題ですっ！\n「３割引きは、何割引きでしょー？」答えてヴァイオレっち……あれ？\nヴァイオレットって何色だっけ？　すみれ？　じゃー答えてスミペっ♪=Vậy nên là ra đề nè! "Giảm giá 3 phần là giảm bao nhiêu phần?" Trả lời đi Violet-chi... ủa? Violet là màu gì ta? Màu hoa tím hả? Vậy trả lời đi Sumipe-chi♪
+スミペ……わたくしですか？\n確かにわたくしには、スミレというまたの名がありますが…\n……えっと、あの。３割引きは、３割引きでは…………？=Sumipe... là tôi sao? Đúng là tôi cũng có cái tên khác là Sumire (Hoa tím)... nhưng mà... Ờm, thì... giảm giá 3 phần chính là giảm giá 3 phần chứ còn gì nữa ạ............?
+おお～すごい大正解！！\nもしかしてスミペって勉強できる系！？=Ồ~ đỉnh quá, đúng phóc luôn!! Không lẽ Sumipe là kiểu người học giỏi sao!?
+じゃあさじゃあさ、今度一緒に勉強しよっ！\n放課後ファミレス誘うんでよろ～♪=Vậy thì vậy thì, bữa nào tụi mình cùng học chung đi! Để mình rủ đi nhà hàng gia đình sau giờ học nhé, hóng nha~♪
+あ……は、はい。\nよろ～……ですわ……=A... v-vâng. Hóng... ạ...
+
+
+はて、如何なさりましたか喃、騎士殿や。\n何やら面持ちが優れぬ御様子。\n華やぐ祝祭の場を支え、御苦労が溜まった事かと拝察致しんす。=Hả? Có chuyện gì vậy, Kỵ Sĩ?\nNgài trông có vẻ không được khỏe lắm.\nTôi cho rằng việc hỗ trợ cho lễ hội sôi động này cuối cùng cũng đã ảnh hưởng đến ngài.
+会場の皆々も、所労にあてられては元も子もなし。\n斯く為れば、滋養強壮に覿面の食材を此れへ。\n精力の増す一品にて、英気を養って頂くが宜しきかと存じまする。=Nếu tất cả mọi người ở hội trường đều kiệt sức thì thật vô nghĩa.\nVì vậy, hãy để tôi đem đến đây loại nguyên liệu có tác dụng bồi bổ sinh lực tức thì.\nTôi nghĩ một món ăn tăng cường sinh lực để giúp ngài lấy lại khí thế là điều nên làm.
+はぁはぁ……クスクス……！=Hà hà... khúc khích...!
+たった一口で湧き上がる抑えきれない情動と、獣が如き衝動……\n絡みつくような歯触りと濃厚な香味が綯い交ぜになって\n五感を刺激すると同時に神経が活性化して敏感に……=Chỉ một miếng thôi mà cảm xúc trào dâng không thể kìm nén, một xung động như thú dữ... Cảm giác nhai dính quyện cùng hương vị nồng đậm đan xen, vừa kích thích ngũ quan vừa khiến các dây thần kinh hoạt động nhạy bén...
+クスクスクス……見えました。確かに見えましたわ。\n私とあなた様のヴァージンロード。そこに至るための道程が……\nクスクスクス、クスクスクスクス……！=Khúc khích khúc khích... Em đã thấy rồi. Chắc chắn là em đã thấy rồi. Con đường hoa của em và anh. Hành trình để tiến tới nơi đó... Khúc khích khúc khích, khúc khích khúc khích...!
+ええ、ジオ・ゲヘナのお料理、さすがですわ。\nここに、ミツキさんにいつぞや作っていただいた例の薬を垂らせば\n効力は倍増。あなた様は私に──クスクスクス……=Vâng, món ăn của Geo Gehenna quả nhiên danh bất hư truyền. Nếu nhỏ thêm loại thuốc mà chị Mitsuki từng làm cho em dạo nọ vào đây, hiệu quả sẽ tăng gấp bội. Anh sẽ thuộc về em── khúc khích khúc khích...
+さぁ、あなた様……っ！　遠慮なさらずにどうぞ。\nエリコの愛情 IN ジオ・ゲヘナのお料理スペシャルを……\n二人のゴールまで、あと一口……拒否権はありませんわ……！！=Nào, anh yêu...! Đừng ngại ngần gì cả. Hãy thưởng thức "Tình yêu của Eriko TRONG Món ăn đặc biệt Geo Gehenna"... Chỉ còn một miếng nữa thôi là đến đích của hai ta rồi... Anh không có quyền từ chối đâu...!!
+──やんぬるかな。火に油、鬼に金棒とは正に此の事。\nエリコ殿の燃え盛る情愛、喩えるなら猛り狂う獣の如し也。\n騎士殿が如何に捌くか喰らうか、御手並み拝見とさせてくだしゃんせ。=── Than ôi. Đúng là đổ thêm dầu vào lửa, như hổ thêm cánh. Tình yêu cháy bỏng của tiểu thư Eriko, ví như một con mãnh thú đang cuồng loạn vậy. Để ta xem ngài Hiệp sĩ sẽ xoay xở thế nào, hay bị nuốt chửng đây.
+ケーキのデコレーションは、実に多種多様ですね。\nこの間は、リンドたちがわたしのために、わたしの似顔絵を描いた\nケーキを作ってくれて……とてもうれしかったのを覚えています。=Trang trí bánh thật sự có vô số kiểu dáng.\nHồi trước, đám Lind và mọi người đã làm chiếc bánh cho tôi\nVới chân dung tôi được vẽ lên đó... Tôi vẫn nhớ rõ mình đã hạnh phúc thế nào.
+技術が必要ではありますが、何事もチャレンジです。\n今回は、そう……騎士の似顔絵ケーキを作ってみましょうか。\nあなたを慕う方々に、きっと喜んでいただけるでしょう♪=Nó đòi hỏi kỹ năng, nhưng mọi thứ đều đáng để thử.\nLần này—đúng rồi… tôi sẽ thử làm một chiếc bánh có hình chân dung của Hiệp sĩ xem sao.\nNhững người ngưỡng mộ anh chắc chắn sẽ rất vui đấy♪
+はふぅ……=Hà phù...
+甘い口溶け、ふわふわの食感……舌も心もとろけちゃう……\n弟くんの味、堪能しちゃった……♪=Vị ngọt tan chảy, kết cấu bồng bềnh... cả lưỡi và trái tim đều như tan ra vậy... Chị đã thưởng thức trọn vẹn hương vị của em trai rồi...♪
+私も弟くんを再現したクレープ、作ったことあるけど。\n弟くんの魅力をここまで再現できるなんて……\nよほどの愛情をもって弟くんを見てなきゃ辿りつけない境地だよ！=Em cũng từng làm bánh crepe tái hiện hình ảnh em trai rồi,\nNhưng để tái hiện sức hút của em ấy đến mức này...\nThì phải nhìn em ấy bằng một tình yêu khủng khiếp lắm mới đạt đến cảnh giới này được!
+弟くんをここまで深く理解してるなんて、\nさてはライラエルさんも……=Để hiểu em trai sâu sắc đến thế,\nchắc hẳn cô Lyrael cũng...
+えっ……？　い、いえ、わたしはそのような……\n騎士はあくまで、大事な客人であって、\n特別な感情を抱いていたりは、け、決して……=Hả...? Kh-không, tôi không có như vậy đâu...\nHiệp sĩ suy cho cùng chỉ là một vị khách quan trọng,\nvà tôi tuyệt nhiên k-không hề có tình cảm đặc biệt nào...
+ライラエルさんも、弟くんのお姉ちゃんになりたいんですね！=Cô Lyrael cũng muốn trở thành chị gái của em trai đúng không nào!
+…………お姉ちゃん？=………… Chị gái?
+確かにこのケーキには、お姉ちゃん力が溢れてる……\nでもやっぱり弟くんの永世終身名誉殿堂入りお姉ちゃんとしては、\nそう簡単にお姉ちゃん認定するわけにはいかなくて。ごめんなさいっ。=Đúng là chiếc bánh này tràn đầy năng lượng của một người chị...\nNhưng với tư cách là người chị danh dự vĩnh viễn trong đền thờ huyền thoại của em trai,\ntôi không thể công nhận vị trí chị gái một cách dễ dàng được. Xin lỗi nhé!
+あっでも、私とリノちゃんの間！\n次女ポジションだったらオッケーですよ。\n姉妹で仲良く弟くんを挟んで、いっぱい甘やかしてあげましょうねっ♪=À nhưng mà, vị trí ở giữa tôi và Rino-chan!\nVị trí em gái thứ thì tôi đồng ý đấy.\nChị em mình sẽ cùng nhau kẹp lấy em trai và cưng chiều cậu ấy thật nhiều nhé♪
+え、えっと……つ、謹んでお受けいたします……？=Ơ, ờm... t-tôi xin kính cẩn nhận lời...?
+異世界との交流を通じて、わたくしたちは多くのことを学んでおります。\n例えば、資源の乏しい土地で工夫して食材を用意する……\nそのような考えで作られた料理が、他の世界にも多く存在するそうです。=Thông qua giao lưu với các thế giới khác, chúng tôi đang học hỏi được rất nhiều điều.\nVí dụ như việc khéo léo chuẩn bị nguyên liệu ở những vùng đất khan hiếm tài nguyên...\nNghe nói có rất nhiều món ăn được tạo ra từ tư duy đó ở các thế giới khác nữa.
+きっとジオ・ニヴルヘルでも、意外なものが料理に使えるはず。\n今回の料理は、そんな助言をいただいて作りました。\n食べても問題ないとは、思うのですが……お試しください。=Chắc chắn ngay cả ở Geo Niflhel, những thứ không ngờ tới cũng có thể dùng làm thức ăn.\nMón ăn lần này tôi làm dựa trên lời khuyên như vậy.\nTôi tin là ăn vào cũng không sao đâu... xin hãy dùng thử.
+ふぅ、はぁ、んっ……あはっ、スゴかったぁ……\n経験なんてないはずなのに、アブない夏の幻まで見えちゃって……\nえへへ、もうアカリ……触手さんのトリコになっちゃいそうです……=Phù, hà, ừm... a, tuyệt quá đi...\nDù đáng lẽ không có kinh nghiệm gì, vậy mà em còn thấy cả ảo ảnh một mùa hè nguy hiểm nữa...\nHề hề, chắc Akari sắp trở thành nô lệ của mấy anh xúc tu rồi...
+えぇと……あ、あの、アカリ様？\nお味の方は、お気に召しましたでしょうか……？\n大変強いぬるぬる感が特徴で、食材としては一般的ではないのですが……=Ờm... n-này, tiểu thư Akari?\nKhông biết hương vị có hợp ý người không ạ...?\nĐặc trưng của nó là cảm giác cực kỳ nhầy nhụa, vốn không phải là nguyên liệu phổ biến...
+あぁ、ヴァイオレットさん……このぬるねば感、スゴすぎますよぉ……\nヴァイオレットさんも、ほら……触手さんにカラダを委ねて、\nアカリと一緒にトリコになっちゃいましょう……ねっ……♪=A, cô Violet... cái cảm giác dính dính nhầy nhầy này đỉnh lắm luôn á...\nCô Violet cũng vậy đi, nè... hãy phó mặc cơ thể cho mấy anh xúc tu,\nvà cùng trở thành nô lệ với Akari nhé... nha...♪
+こ、これは……もしや、そういった類の成分が……？\n味見はしましたが、わたくしには効果がないだけだったのかも……\n気を確かに、アカリ様！　触手などに敗北してはなりませんわ……！=Đ-đây là... không lẽ lại chứa thành phần loại đó sao...?\nTôi cũng nếm thử rồi, nhưng có lẽ chỉ là nó không có tác dụng với tôi thôi...\nBình tĩnh lại đi, tiểu thư Akari! Người không được đầu hàng trước xúc tu đâu...!
+はっ……だ、大丈夫ですよ、ヴァイオレットさん。\nちょっとシゲキが強めで、感動が限界を超えちゃっただけで。\n触手は旨味がぎゅっと詰まってる感じで、美味しかったですっ。=Hả... kh-không sao đâu cô Violet.\nChỉ là kích thích hơi mạnh một chút nên cảm xúc hơi quá giới hạn thôi.\nXúc tu mang lại hương vị umami cực đậm đà, ngon lắm ạ.
+そ、それはよかったです……\nジオ・ニヴルヘルの食文化が発展するのであれば、\nそれは何よりの成果となりますから。ご協力に感謝いたします。=V-vậy thì tốt quá...\nNếu văn hóa ẩm thực của Geo Niflhel có thể phát triển, thì đó là thành quả tuyệt vời nhất.\nCảm ơn sự hợp tác của cô.
+はいっ、アカリに任せてください♪\nこの調子でヴァイオレットさんも、\n新しい感覚をどんどん開発しちゃいましょうっ♪=Vâng, cứ giao cho Akari nhé♪\nCứ đà này, cô Violet cũng hãy cùng em khám phá thêm thật nhiều cảm giác mới nhé♪
+そ、それは……\n新しい味覚を、という意味ですよね……？=Ý-ý cô là... những vị giác mới, đúng không...?

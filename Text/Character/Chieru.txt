@@ -1,0 +1,32 @@
+##Profile##
+ダンス、カラオケ=Nhảy, Hát Karaoke.
+自由奔放ナチュラル無礼な現代っ子=Một cô gái phóng khoáng, bắt trend với tính cách sắc bén.
+
+【物理】前衛でパンチを放つちぇる盛りＭＡＸな女の子。クリティカルを出すたびに【ちぇる】を溜め、自己を強化し続け、後半になるほど敵をちぇるっとじぇのさいする。=[Vật lý] Một cô nàng dễ thương, đầy nhiệt huyết tiên phong đấm thẳng kẻ thù. Mỗi cú đánh chí mạng của cô ấy sẽ làm tăng số đếm Cheru, tăng cường khả năng cho đến khi cô ấy có thể gây ra cảnh tàn sát đầy "chell" ở giai đoạn cuối trận đấu.
+
+##UB##
+ちぇるちぇる☆じぇのさい=Cheru-Cheru☆Carnage
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力と物理クリティカルを大アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Tăng lớn lực công kích vật lý và tỷ lệ chí mạng vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng lực công kích vật lý của bản thân lên $2.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $3.
+
+##S1##
+ちぇるうぃ☆だんす？=Chell☆We☆Dance?
+自分の物理攻撃力と物理クリティカルと行動速度を大アップさせ、敵にクリティカルでダメージを与えるたびに【ちぇる】ステータスが１つ追加される。【ちぇる】は最大30まで追加される。=Tăng cực lớn lực công kích vật lý, tỷ lệ chí mạng vật lý và tốc độ hành động của bản thân. Mỗi lần đánh trúng chí mạng vào kẻ địch, bản thân nhận 1 hiệu ứng "Cheru". Tối đa có thể áp dụng 30 hiệu ứng Cheru cùng lúc.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の行動速度アップクリティカルでダメージを与えるたびにちぇるを付与する状態になる$"=►Tăng lực công kích vật lý của bản thân lên $1 trong 20s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 20s.\n►Tăng tốc độ hành động của bản thân lên 200% trong 20s.
+
+##S2##
+きゃすと☆あ☆ちぇるーん=Mega☆Cheru~n
+目の前の敵１キャラに物理小ダメージを与えて物理攻撃力を大ダウンさせ、さらに自分の物理攻撃力と物理クリティカルを小アップさせる。物理攻撃力と物理クリティカルの上昇量は【ちぇる】の数に応じて増加する。=Gây sát thương vật lý nhỏ lên kẻ địch phía trước và giảm lớn lực công kích vật lý của chúng. Tăng nhỏ lực công kích vật lý và tỷ lệ chí mạng vật lý của bản thân. Hiệu ứng tăng chỉ số này sẽ tăng thêm dựa trên số hiệu ứng Cheru bản thân đang có.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm lực công kích vật lý của kẻ địch lên $2 trong 12s.\n►Tăng lực công kích vật lý của bản thân lên $3 (+148×[Cheru]) trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $4 (+7×[Cheru]) trong 12s.
+
+##EX##
+世界で一番☆ちぇるんな子=The Chelliest Girl in the World
+世界で一番☆ちぇるんな子+=The Chelliest Girl in the World+
+
+##S1+##
+ちぇるうぃ☆だんす？+=Chell☆We☆Dance?+
+自分の物理攻撃力と行動速度を特大アップ、物理クリティカルを大アップさせ、敵にクリティカルでダメージを与えるたびに【ちぇる】ステータスが１つ追加される。さらに【ちぇる】を30追加する。【ちぇる】は最大77まで追加される。=Tăng cực lớn lực công kích vật lý, tỷ lệ chí mạng vật lý và tốc độ hành động của bản thân. Mỗi lần đánh trúng chí mạng vào kẻ địch, bản thân nhận 1 hiệu ứng "Cheru". Tối đa có thể áp dụng 77 hiệu ứng Cheru cùng lúc. Ngay lập tức áp dụng 30 hiệu ứng "Cheru".
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の行動速度アップちぇるを30追加クリティカルでダメージを与えるたびにちぇるを付与する状態になる$"=►Tăng lực công kích vật lý của bản thân lên $1 trong 180s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 180s.\n►Tăng tốc độ hành động của bản thân lên 225% trong 180s.\n►Áp dụng 30 [Cheru] cho bản thân.
+
+##UE##
+ももいろ☆ぺんら☆なっくる=Momoiro☆Penra☆Nakkuru

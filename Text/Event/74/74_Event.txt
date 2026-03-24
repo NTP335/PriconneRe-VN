@@ -1,0 +1,18 @@
+r:"^フラワーヴィレッジ周辺([0-9\-\(\)\w （）]*)$"=Làng Hoa $1
+
+魔物植物・モベルベ=Quái Thực Vật - Moberbe
+
+魔法攻撃力が最も低い敵１キャラに魔法特大ダメージを与え、スタン状態を付与する。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương Ma thuật lớn lên nhân vật địch có Ma Lực thấp nhất và gây trạng thái choáng. Trạng thái bất thường của kỹ năng này được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+自身の魔法攻撃力を大アップさせる。=Tăng đáng kể Ma Lực của bản thân.
+敵全体に魔法大ダメージを与え、行動速度を中ダウンさせる。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương Ma thuật lớn lên tất cả địch và giảm đi đáng kể tốc độ di chuyển của chúng. Trạng thái bất thường của kỹ năng này được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+ユニオンバーストは、敵全体に最大ＨＰに応じた魔法割合ダメージを与え、ＴＰを中ダウンさせる。さらに物理防御力と魔法防御力を大ダウンさせる。自身の物理防御力と魔法防御力を特大アップさせる。このスキルの状態異常はダメージを無効化しても付与される。このスキルはダメージを無効化してもＴＰダウンさせる。=Union Burst: Gây sát thương Ma thuật lên tất cả địch dựa trên HP tối đa của chúng và giảm TP của chúng. Ngoài ra, giảm đáng kể Phòng thủ Vật lý và Ma thuật. Tăng đáng kể Phòng thủ Vật lý và Ma thuật của bản thân. Trạng thái bất thường của kỹ năng này được áp dụng ngay cả khi sát thương bị vô hiệu hóa. Kỹ năng này giảm TP ngay cả khi sát thương bị vô hiệu hóa.
+品種改良を施され、卑劣漢に服従するよう仕立てられた魔物植物。絢爛と咲き誇る巨躯は悪意に操られるがまま花祭りの開催を脅かす。=Một quái thực vật đã được nuôi để phục tùng một kẻ đáng khinh. Bông hoa khổng lồ rực rỡ này bị thao túng bởi ý đồ xấu xa và đe dọa việc tổ chức lễ hội hoa.
+
+森に潜む脅威が魔物植物に呼応するかのごとく押し寄せる。思わぬドジが命取りとならぬよう、冷静に草木の群れを打ち破れ。=Những mối đe dọa rình rập trong rừng xông vào như thể đang đáp lại các quái thực vật. Hãy bình tĩnh đánh bại các cụm thực vật để những sai sót ngoài ý muốn không trở thành chết người.
+モベルベから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Giảm đáng kể lượng phục hồi TP cho nhân vật trong đội hình xảy ra từ mọi sát thương nhận vào từ Moberbe.
+
+地面に潜り、敵全体に毒状態を付与し続ける。さらに、敵全体のＨＰ回復量を大ダウンさせる。地面に潜っている最中、自身が一定ダメージを受けると、スキルが中断され、自身のステータスダウン効果を解除し、物理防御力と魔法防御力を特大ダウンさせる。中断されずに毒を撒き終えると、敵全体に長時間のスタン状態を付与する。このスキルにより付与された毒のダメージでは、ＴＰが回復しない。=Lăn xuống đất và tiếp tục gây độc lên tất cả địch. Hơn nữa, giảm đáng kể lượng phục hồi HP của tất cả địch. Nếu nhận một lượng sát thương nhất định khi đang lăn xuống đất, kỹ năng của bạn sẽ bị gián đoạn, hiệu ứng giảm trạng thái sẽ bị hủy, và Phòng thủ Vật lý cùng Ma thuật của bạn sẽ giảm đáng kể. Nếu bạn hoàn thành việc lan tỏa độc mà không bị gián đoạn, nó sẽ gây choáng tất cả địch trong một thời gian dài. Sát thương độc do kỹ năng này gây ra không phục hồi TP.
+
+主の命を遂行すべく、魔物植物はひたすら愚直に村を目指す。不屈の覚悟で進行を食い止め、笑顔咲く祭典を始めよう！=Để thực hiện sứ mệnh của chủ nhân, quái thực vật lao thẳng về phía làng. Hãy dừng bước tiến của nó bằng quyết tâm kiên định và bắt đầu một lễ hội tràn ngập nụ cười!
+敵全体に魔法大ダメージを与え、行動速度を特大ダウンさせる。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương Ma thuật lớn lên tất cả địch và giảm đáng kể tốc độ di chuyển của chúng. Trạng thái bất thường của kỹ năng này được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+鮮やかな大輪を地表に残し、魔物は土中深くに身を潜める。再びその姿があらわとなるとき、辺りは猛毒の花粉で満たされるだろう。=Để lại một bông hoa lớn sáng trên mặt đất, quái vật đào sâu xuống lớp đất. Khi nó xuất hiện lại, khu vực sẽ tràn ngập phấn hoa cực kỳ độc hại.

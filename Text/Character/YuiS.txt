@@ -1,0 +1,29 @@
+##Profile##
+【魔法】中衛で、魔法キャラを補助する夜凪の魔法士。累積する攻撃強化スキルとＴＰ回復、物魔両面の無効バリアや継続ＨＰ回復で攻守共に味方を支え勝利へ導く。=[Ma thuật] Một pháp sư đêm yên tĩnh hỗ trợ đồng minh thuộc hệ ma thuật ở hàng giữa. Cô hỗ trợ đồng minh với các kỹ năng tích lũy tăng cường tấn công, khôi phục TP, rào cản kép chống lại sát thương vật lý/ma thuật và hồi HP liên tục, dẫn dắt đến chiến thắng cả trong tấn công lẫn phòng thủ.
+
+##UB##
+スプレッドアフェクション=Tỏa Tình Yêu Thương
+魔法攻撃を行うすべての味方キャラの魔法攻撃力を中アップさせ、物理/魔法無効バリアを展開し、さらに継続ＨＰ回復状態を付与する。このスキルの魔法攻撃力の上昇量は自分の残りＨＰに応じて最大２倍までアップする。=Tăng vừa phải tấn công ma thuật cho toàn bộ đồng minh thuộc hệ ma thuật, triển khai Rào Cản lên họ phớt lờ sát thương vật lý/ma thuật, và ban cho họ hồi HP liên tục. Lượng tăng tấn công ma thuật có thể lên gấp đôi, dựa trên HP còn lại của bản thân.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Tăng tấn công ma thuật của toàn bộ đồng minh thuộc hệ ma thuật đi $1 trong 180s.\n►Triển khai Rào Cản lên toàn bộ đồng minh thuộc hệ ma thuật phớt lờ $2 sát thương vật lý/ma thuật trong 18s.\n►Khôi phục HP của toàn bộ đồng minh thuộc hệ ma thuật $3/giây trong 18s.
+
+##S1##
+マリンコンフィデンス=Sự Tự Tin Biển Cả
+魔法攻撃を行うすべての味方キャラの魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng nhẹ tấn công ma thuật, tỷ lệ chí mạng ma thuật và sát thương chí mạng ma thuật cho toàn bộ đồng minh thuộc hệ ma thuật.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを30アップ対象の味方の魔法攻撃クリティカル時のダメージを1％アップ$"=►Tăng tấn công ma thuật của toàn bộ đồng minh thuộc hệ ma thuật đi $1 trong 180s.\n►Tăng tỷ lệ chí mạng ma thuật của toàn bộ đồng minh thuộc hệ ma thuật đi 30 trong 180s.\n►Tăng sát thương chí mạng ma thuật của toàn bộ đồng minh thuộc hệ ma thuật đi 1% trong 180s.
+
+##S2##
+ヴァイタルウェーブ=Sóng Sức Sống
+魔法攻撃を行うすべての味方キャラのＴＰを小回復させ、自分のＨＰを小回復する。=Khôi phục TP một chút cho toàn bộ đồng minh thuộc hệ ma thuật, và khôi phục HP của bản thân một chút.
+r:"^対象の味方のＴＰを100回復自分のＨＰを(\d+)回復$"=Thời gian niệm: 0.66 giây\n►Khôi phục TP của toàn bộ đồng minh thuộc hệ ma thuật đi 100.\n►Khôi phục HP của bản thân đi $1.
+
+##EX##
+ラバーズオンザビーチ=Đôi Tình Nhân Trên Bãi Biển
+ラバーズオンザビーチ+=Đôi Tình Nhân Trên Bãi Biển+
+
+##S1+##
+マリンコンフィデンス+=Sự Tự Tin Biển Cả+
+魔法攻撃を行うすべての味方キャラの魔法攻撃力と魔法クリティカルを中アップし、魔法攻撃クリティカル時のダメージを小アップさせる。このスキルの魔法攻撃力の上昇量は自分の残りＨＰに応じて最大２倍までアップする。=Tăng vừa phải tấn công ma thuật và tỷ lệ chí mạng ma thuật, tăng nhẹ sát thương chí mạng ma thuật cho toàn bộ đồng minh thuộc hệ ma thuật. Lượng tăng tấn công ma thuật có thể lên gấp đôi, dựa trên HP còn lại của bản thân.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリティカルを60アップ対象の味方の魔法攻撃クリティカル時のダメージを(3|３)％アップ$"=►Tăng tấn công ma thuật của toàn bộ đồng minh thuộc hệ ma thuật đi $1 trong 180s.\n►Tăng tỷ lệ chí mạng ma thuật của toàn bộ đồng minh thuộc hệ ma thuật đi 60 trong 180s.\n►Tăng sát thương chí mạng ma thuật của toàn bộ đồng minh thuộc hệ ma thuật đi 3% trong 180s.
+
+##UE##
+トゥインクルサマーバンド=Ban Nhạc Hè Lấp Lánh

@@ -1,0 +1,22 @@
+
+鈴代紗弓=Suzuyo Sayumi
+【魔法】後衛で、底知れぬ叡智を秘めた天才錬金術師。高い方の防御力でダメージを受ける調和状態を付与し、２回まで性能が上昇していくＵＢで、妄想を爆発させる。=[Ma pháp] Một nhà giả kim thiên tài tuyến sau, mang trong mình trí tuệ vô biên. Gửi tặng đồng minh trạng thái Hòa hợp, sử dụng chỉ số Phòng thủ cao hơn (P.DEF/M.DEF) của họ để tính sát thương, trong khi UB của cô ấy leo thang lên tới 2 cấp để giải phóng sức mạnh ảo tưởng bùng nổ.
+##UB##
+究極錬成‐氷炎融合=Kiệt tác Tối thượng – Ngọn Lửa Băng Giải Phóng
+r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを5％アップ$"=►Gây $1 sát thương ma pháp lên 1 kẻ địch (sử dụng giá trị Phòng thủ thấp hơn).\n►Tăng M.ATK của tất cả đồng minh lên $2.\n►Tăng Tỷ lệ Chí mạng Ma pháp của tất cả đồng minh lên 100.\n►Tăng Sát thương Chí mạng Ma pháp của tất cả đồng minh lên 5%.
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法クリダメを小アップさせる。このスキルを使用するたび、最大２回までダメージが増加し、３回目以降はステータスアップの効果時間が増加する。=Gây sát thương ma pháp khổng lồ lên kẻ địch phía trước (tính là sát thương vật lý nếu P.DEF < M.DEF của mục tiêu), tăng M.ATK của tất cả đồng minh rất lớn, tăng Tỷ lệ Chí mạng Ma pháp rất lớn, và tăng nhẹ Sát thương Chí mạng Ma pháp. Mỗi lần dùng tăng sát thương (tối đa 2 lớp), và sau lần dùng thứ 3 kéo dài thời gian buff.
+
+##S1##
+インフラマエ=Inferno
+インフラマエ+=Inferno+
+味方全体の魔法攻撃力を特大アップ、Ｔ\nＰ上昇を小アップさせる。さらに、目の\n前の敵１キャラに対象の物理防御力が魔\n法防御力より低い場合、物理ダメージ扱\nいになる魔法大ダメージを与え、魔法防\n御力を小ダウンさせる。=Tăng M.ATK của tất cả đồng minh rất lớn và tăng nhẹ Tăng TP của họ. Ngoài ra, gây sát thương ma pháp lớn lên kẻ địch phía trước nhất dựa trên phòng thủ thấp hơn của chúng, và giảm nhẹ M.DEF của chúng.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Tăng M.ATK của tất cả đồng minh lên $1.\n►Tăng Tăng TP của tất cả đồng minh lên $2.\n►Gây $3 sát thương ma pháp lên 1 kẻ địch, tính theo giá trị thấp hơn giữa P.DEF hoặc M.DEF của chúng.\n►Giảm M.DEF của 1 kẻ địch lên $4.
+
+##S2##
+アクシリウム=Hỗ Trợ
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体に調和状態を付与する味方全体のＨＰを(\d+)回復味方全体のＴＰを80回復$"=►Tăng M.ATK của đồng minh lên $1.\n►Tăng M.DEF của đồng minh lên $2.\n►Gửi tặng [Hòa hợp] cho tất cả đồng minh.\n►Hồi HP của đồng minh lên $3.\n►Hồi TP của đồng minh lên 80.
+味方全体の魔法攻撃力を特大アップ、魔法防御力を大アップ、調和状態を付与し、ＨＰとＴＰを小回復させる。調和状態の間は物理防御力と魔法防御力のうち高い方によって計算されたダメージを受ける。=Tăng M.ATK của đồng minh rất lớn, tăng M.DEF rất lớn, gửi tặng [Hòa hợp], và hồi HP/TP nhẹ.\nTrong khi ở trạng thái [Hòa hợp], sát thương được tính bằng giá trị cao hơn giữa P.DEF hoặc M.DEF.
+
+##EX##
+基創錬成+=Luyện Tạo Sinh Mệnh +
+基創錬成=Luyện Tạo Sinh Mệnh

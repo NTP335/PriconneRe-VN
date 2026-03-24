@@ -1,0 +1,172 @@
+アドベンチャー=Phiêu Lưu
+冒険先一覧=Danh Sách Phiêu Lưu
+遺跡調査=Điều Tra Di Tích
+まとめて\n帰還確認=Trở Về\nHàng Loạt
+まとめて\n出発=Xuất Phát\nHàng Loạt
+パーティ上限=Giới Hạn Đội
+r:"^冒険中PT\n\(([0-9/]+)\)$"=Đội\nPhiêu Lưu\n($1)
+冒険中=Đang Phiêu Lưu
+sr:"^(.+)が現れた！$"=$1 xuất hiện!
+メモピ数=#Ghi Chú
+メモピ=Ghi Chú
+メモリーピース対象=Mục Tiêu M.Shard
+人数=Người
+人数:=Người
+10キャラ=10 Nhân Vật
+おまかせ=Ngẫu Nhiên
+全選択解除=Hủy Tất Cả
+必要戦力=Yêu Cầu
+時間短縮=Giảm thời gian
+繰り返し出発=Đi lại
+出発する=Xuất phát
+
+成功報酬=Phần thưởng thành công
+以下のクエストが進行中です。\n状態を確認しますか？=Các nhiệm vụ sau đang tiến hành.\nKiểm tra trạng thái?
+アドベンチャー確認=Đã xác nhận phiêu lưu
+アドベンチャー画面に移動します。=Chuyển đến màn hình Phiêu lưu.
+
+時間短縮設定=Cài đặt giảm thời gian
+r:"^(\d+)ジュエル1時間短縮$"=$1 Ngọc cho 1 giờ giảm
+1チケット1時間短縮=1 Vé cho 1 giờ giảm
+ジュエルを使って必要時間を短縮！=Tăng tốc bằng Ngọc!
+チケットを使って必要時間を短縮！=Tăng tốc bằng Vé!
+r:"^\[FF7C4E\,D62146\]残り ([0-9/]+)回\[-\]$"=[FF7C4E,D62146]$1 Còn lại[-]
+チケットが不足しています。=Vé không đủ.
+EX装備錬成Ptが不足しています。=Không có đủ Điểm Tinh Luyện Trang Bị EX.
+チケットやジュエルを使って時間を短縮！=Tiết kiệm thời gian bằng Vé và Ngọc!
+1日の時間短縮可能回数の上限に達しているため時間短縮できません。=Hôm nay bạn không thể tăng tốc thêm cho Phiêu lưu.
+戦力オーバーによる時間短縮の上限になりました。=Bạn đã đạt giới hạn thời gian có thể giảm bằng Sức Mạnh.
+自動分解設定確認=Xác nhận cài đặt tự động tháo dỡ
+アドベンチャーで獲得した際、\n以下のEX装備を自動で分解します。=Khi nhận được trong Phiêu lưu, \nthiết bị EX sau sẽ tự động bị tháo dỡ:
+ファストチケットを所持していません。=Bạn không có Vé Nhanh.
+これ以上短縮できません。=Không thể rút ngắn thêm.
+帰還したパーティはありません。=Chưa có đội nào trở về.
+冒険中のパーティはありません。=Chưa có đội nào được cử đi Phiêu lưu.
+時間短縮アイテムが設定されていません。=Chưa đặt vật phẩm giảm thời gian.
+現在は別の画面に移動できません。=Hiện tại bạn không thể chuyển sang màn hình khác.
+時間短縮詳細=Chi tiết giảm thời gian
+繰り返し出発5回目=Lần xuất phát thứ 5
+繰り返し出発4回目=Lần xuất phát thứ 4
+繰り返し出発3回目=Lần xuất phát thứ 3
+繰り返し出発2回目=Lần xuất phát thứ 2
+繰り返し出発1回目=Lần xuất phát thứ 1
+合計必要時間=Tổng thời gian
+戦力時間短縮=Sức Mạnh dư thừa
+合計短縮時間=Giảm
+周回数上限です。=Số lần đi tối đa.
+
+撤退=Rút lui
+結果確認=Kết quả
+パーティ確認=Đội đã xác nhận
+
+このパーティは帰還していません。=Đội này chưa trở về.
+パーティ数上限=Giới hạn đội
+冒険中のパーティが上限に達しています。=Đội trong khi phiêu lưu đã đạt giới hạn tối đa.
+この操作には対応していません。=Thao tác này không được hỗ trợ.
+
+短縮する=Rút ngắn
+周回追加=+ Vòng
+周回詳細=Chi tiết vòng
+遠征中のパーティーはありません。=Chưa có đội thám hiểm nào được cử đi.
+冒険中パーティの状態を確認できます。=Bạn có thể kiểm tra tình trạng của đội trong khi phiêu lưu.
+アドベンチャーパーティ一覧=Danh sách đội phiêu lưu
+周回数が指定されていません。=Số lần đi chưa được chỉ định.
+他の冒険に参加しています。=Đi thêm một phiêu lưu khác.
+
+残り必要時間=Thời gian còn lại
+撤退確認=Xác nhận rút quân
+r:"^本日の残り撤退可能回数  ([0-9/]+)$"=Lần rút hôm nay: $1
+時間短縮に使用したアイテムは返却されません。=Vật phẩm đã dùng sẽ không được hoàn lại.
+帰還していないアドベンチャーの報酬は獲得できず、\n必要時間もリセットされます。\n\nよろしいですか？=Bạn sẽ không nhận được phần thưởng nào khi rút quân, và thời gian yêu cầu sẽ được đặt lại.\nĐồng ý chứ?
+
+報酬詳細=Chi tiết phần thưởng
+キャンペーン=Chiến dịch
+終了日時=Ngày kết thúc
+戦力が不足しています。=Tổng sức mạnh không đủ.
+人数が不足しています。=Số người không đủ.
+冒険開始に必要な戦力が不足しています。=Không đủ Sức mạnh để bắt đầu Phiêu lưu.
+戦力不足=Thiếu Sức mạnh
+
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Những Cuộc phiêu lưu còn dưới $1m sẽ được tăng tốc bằng Ngọc.\n※Giảm thời gian được thực hiện theo bội số của 1 giờ.
+
+r:"^本日のジュエルでの短縮残り回数　([0-9/]+)$"=Lượng Ngọc dùng hôm nay: $1
+r:"^本日のジュエルでの時間短縮可能回数 ([0-9/]+)$"=Lượng Ngọc dùng hôm nay: $1
+ジュエルを消費して\n時間短縮を行います。よろしいですか？=Tiêu hao Ngọc và tăng tốc.\nĐồng ý chứ?
+[FD8F00]帰還[-]=[FD8F00]Quay lại[-]
+
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Những Cuộc phiêu lưu còn dưới $1m sẽ được tăng tốc bằng Vé Tốc hành.\n※Giảm thời gian được thực hiện theo bội số của 1 giờ.
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットとジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Những Cuộc phiêu lưu còn dưới $1m sẽ được tăng tốc bằng Vé Tốc hành và Ngọc.\n※Giảm thời gian được thực hiện theo bội số của 1 giờ.
+r:"^本日のチケットでの短縮残り回数　([0-9/]+)$"=Lượng Vé Tốc hành dùng hôm nay: $1
+r:"^本日のチケットでの時間短縮可能回数 ([0-9/]+)$"=Lượng Vé Tốc hành dùng hôm nay: $1
+ファストチケットを消費して\n時間短縮を行います。よろしいですか？=Tiêu hao Vé Tốc hành và giảm thời gian.\nĐồng ý chứ?
+
+ファストチケットとジュエルを消費して\n時間短縮を行います。よろしいですか？=Tiêu hao Vé Tốc hành và Ngọc\nđể rút ngắn thời gian. Đồng ý chứ?
+
+
+再出発しない=Quay lại
+再出発する=Bắt đầu lại
+レースの神様=Thần Đua
+ファントムキャッツ登場！=Mèo Ảo Ảnh Xuất hiện!
+
+r:"^([0-9/]+)キャラ$"=$1 Nhân vật
+戦力不足のため実行できない遠征があります。=Có những Cuộc phiêu lưu không thể thực hiện do không đủ Sức mạnh.
+対象のアドベンチャーポイントがありません。=Không có điểm phiêu lưu mục tiêu.
+編成クリア=Xóa đội hình
+メモリーピース優先設定=Cài đặt ưu tiên ghi chú
+アドベンチャーポイント一覧=Danh sách điểm phiêu lưu
+優先編成=Danh sách
+最大人数=Số người tối đa
+おまかせ編成時に、優先設定されたキャラクターが優先的に編成されます。=Với đội ngẫu nhiên, nhân vật sẽ được ưu tiên theo Cài đặt Ưu tiên của bạn.
+優先キャラクター設定=Cài đặt Nhân vật Ưu tiên
+チェックしたアドベンチャーがありません。=Không có cuộc phiêu lưu nào được chọn.
+優先設定の情報がありません。=Chưa thiết lập Cài đặt Ưu tiên nào.
+出発可能パーティが上限に達しています。=Đã đạt số lượng đội tối đa có thể xuất phát.
+以下のアドベンチャーに出発します。よろしいですか？=Xuất phát cho cuộc phiêu lưu sau. Đồng ý chứ?
+1時間未満の時間短縮が設定されています。=Đã đặt giảm thời gian dưới 1 giờ.
+出発確認=Xác nhận xuất phát
+繰り返し回数=Số lần lặp
+r:"^(\d+)回追加$"=+$1 Chuyến
+周回数を追加しました。=Số chuyến đã được đặt.
+周回追加完了=Việc thêm chuyến đã hoàn thành.
+
+ガイド=Hướng dẫn
+コンテンツ=Nội dung
+自動分解\n設定=Tự động Tháo dỡ\nCài đặt
+優先度\n設定=Thiết lập\nƯu tiên
+思い出イベント=Sự kiện Kỷ niệm
+これまでに発見した思い出イベントのイラストを確認出来ます。=Bạn có thể xem hình minh họa của các Sự kiện Kỷ niệm đã khám phá được cho đến nay.
+まだ発見していない思い出イベントです。=Sự kiện Kỷ niệm này chưa được tìm thấy.
+r:"^選択は(\d+)キャラまでです。$"=Tối đa $1 nhân vật có thể được chọn.
+
+メモピドロップ枠=Rớt Mảnh Ký ức
+冒険へ出発する時メモリーピース対象に編成されたキャラは、冒険\nから帰還した際の報酬としてメモリーピースを獲得できる可能性が\nあります。強化したいキャラクターを優先的に編成しましょう。=Các nhân vật được chọn cho Mảnh Ký ức khi được cử đi phiêu lưu có thể nhận được chúng làm phần thưởng khi trở về. Ưu tiên những nhân vật bạn muốn mạnh lên.
+優先度設定されたキャラクターは、おまかせ編成時にメモリーピース対象の枠に優先的に編成されます。強化したいキャラクターに優先度を設定しましょう。=Các nhân vật được đặt là Ưu tiên sẽ được chọn trước tiên làm mục tiêu Mảnh Ký ức khi tạo đội ngẫu nhiên. Ưu tiên những nhân vật bạn muốn mạnh lên.
+パーティの戦力が高くなるほど、冒険から帰還する時間が短くなり\nます。キャラクターを強化して戦力アップさせましょう。=Càng cao Sức mạnh của đội, họ sẽ càng trở về từ cuộc phiêu lưu nhanh hơn. Hãy củng cố đồng minh để bản thân trở nên mạnh mẽ hơn.
+冒険出発前と出発後に、チケットやジュエルを使用して時間短縮が\nできます。時間短縮は１日で上限があり、日が変わると上限はリ\nセットされます。アイテムを使用して効率よく冒険をしましょう。=Trước và sau khi xuất phát, bạn có thể sử dụng Vé Tốc độ và Đá quý để tiết kiệm thời gian. Có giới hạn giảm thời gian và được reset mỗi ngày. Hãy dùng vật phẩm để đẩy nhanh các Cuộc phiêu lưu.
+
+5人以上編成してください。=Vui lòng bao gồm 5 nhân vật trở lên.
+変更先のキャラクターを選択してください。=Vui lòng chọn nhân vật bạn muốn hoán đổi vào.
+優先度を変更するキャラクターを選択してください。=Chọn nhân vật mà bạn\nmuốn thay đổi mức Ưu tiên.
+優先度変更=Thay đổi Ưu tiên
+
+遠征中=Trong khi thám hiểm
+帰還したパーティがあります。=Có một đội đã trở về.
+一括帰還確認=Trả về hàng loạt
+アドベンチャー遷移時に、帰還したパーティがある場合\nアドベンチャーパーティ一覧を表示するか設定します。=Bạn có thể chọn liệu Danh sách Đội Phiêu lưu có được tự động hiển thị\nkhi vào menu Phiêu lưu nếu có đội đã trở về.
+アドベンチャー設定=Cài đặt Phiêu lưu
+アドベンチャーパーティ一覧表示=Hiển thị danh sách đội phiêu lưu
+「表示する」を選択すると、帰還したパーティがある場合\n「アドベンチャーパーティ一覧」を表示します。=Nếu bạn chọn "Hiển thị", "Danh sách Đội Phiêu lưu" sẽ được hiển thị nếu có đội đã trở về.
+
+
+ファストチケットを消費して以下のアドベンチャーに出発します。よろしいですか？=Tiêu thụ một Vé Tốc độ và xuất phát cho Cuộc phiêu lưu sau.\nĐược chứ?
+設定されている内容がリセットされます。\nよろしいですか？=Các thiết lập sẽ được reset.\nĐược chứ?
+
+sr:"^(.+)のアドベンチャーから撤退しました。$"=Rút lui khỏi Cuộc phiêu lưu $1.
+アドベンチャー撤退=Rút lui Phiêu lưu
+
+アドベンチャーでは、仲間にしたキャラを冒険させることができます。一定の時間が経過すると冒険から帰還し、『EX装備』等のアイテムを獲得します。結果報告を確認し報酬を受け取りましょう。=Trong Phiêu lưu, bạn có thể cử đồng minh cùng nhau ra hành trình. Sau một khoảng thời gian nhất định, họ sẽ trở về từ cuộc phiêu lưu của mình với đa dạng vật phẩm, bao gồm "EX Trang bị". Kiểm tra kết quả và gặt hái phần thưởng.
+
+【美食殿】を訪れたカリンは、アストライア大陸の各地で見つ\nかった新たな冒険先の調査をぺコリーヌたちに依頼する。ぺコ\nリーヌたちは新たな冒険に心を躍らせて依頼を快諾し、お宝を\n求めて旅立つのだった。=Karin, người đã ghé thăm [Guild Ẩm thực], yêu cầu Pecorine và những người khác điều tra những điểm đến phiêu lưu mới được tìm thấy ở nhiều nơi trên lục địa Astraea. Pecorine và những người khác háo hức với cuộc phiêu lưu mới, vui vẻ nhận lời yêu cầu và xuất phát để tìm kho báu.
+アストライア大陸の未踏地=Vùng đất Chưa khám phá của Astraea
+
+チェックされていないアドベンチャーポイントの\n設定はクリアされます。\n\nよろしいですか？=Các cài đặt cho điểm phiêu lưu không được chọn sẽ bị xóa. \n\nBạn có chắc không?

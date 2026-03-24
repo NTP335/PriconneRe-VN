@@ -1,0 +1,116 @@
+深淵討伐戦=Trận chiến Abyss
+前哨クエスト=Nhiệm vụ Tiền đồn
+前哨クエストで討伐依頼証を獲得しよう！=Nhận Vé Săn Bắn từ Nhiệm vụ Tiền đồn!
+朱火の深淵=Abyss Đỏ Thẫm
+轟流の深淵=Abyss Bão Tố
+玄闇の深淵=Abyss Quên Lãng
+烈風の深淵=Abyss Gió Mạnh
+燦爛の深淵=Abyss Rực Rỡ
+
+深淵討伐戦へ=Đến Trận chiến Abyss
+スタミナ不足のため実行しません。=Không thực hiện được do không đủ thể lực.
+スコア報酬=Phần thưởng Điểm số
+r:"^スコアを([0-9,]+)pt獲得しよう$"=Đạt được $1 điểm
+r:"^\[3C404E\]初回クリアでスコア\[-\]\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\[3C404E\]獲得！\[-\]$"=[3C404E] Đạt được [FFBB00,CE4F00]$1 điểm[-] khi phá lần đầu![-]
+スコアレート=Tỷ lệ điểm
+ボスリザルト=Kết quả Boss
+初回クリアボーナス=Phần thưởng Lần đầu phá
+模擬戦のためスコア、報酬は獲得できません。=Điểm số và phần thưởng sẽ không được nhận cho trận đấu giả lập.
+サポートキャラが編成されているため再戦できません。=Không thể thách đấu lại vì đội có nhân vật hỗ trợ.
+リタイアすると報酬を\n獲得することができません。\n討伐依頼証は消費されません。\n\nよろしいですか？\n=Nếu bạn thoát, bạn sẽ không nhận được phần thưởng nào. Đơn yêu cầu Chinh phục sẽ không bị tiêu hao.\n\nBạn có chắc không?
+
+難易度HARD=Khó
+難易度NORMAL=Bình thường
+スキップ可能な前哨クエストがありません。=Không có nhiệm vụ Tiền đồn nào có thể bỏ qua.
+r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]枚で挑戦\[-\]$"=[3C404E] Thử thách với [FFBB00,CE4F00]$1[-] lần[-]
+
+撃破回数=Số lần đánh bại
+消費討伐依頼証=Sử dụng Vé Săn Bắn
+r:"^スキップチケットと討伐依頼証を消費して\n([0-9]+)回バトルをスキップします。$"=Tiêu hao Vé Bỏ qua và Vé Săn Bắn để bỏ qua $1 trận đấu.
+
+ボス難易度選択=Lựa chọn độ khó Boss
+模擬戦のため報酬は獲得できません。=Phần thưởng sẽ không được nhận cho các trận đấu giả lập.
+モンスターＨＰを本戦状態\\nにする=Đặt máu quái vật về trạng thái trận chính
+モンスターＨＰを本戦状態\nにする=Đặt máu quái vật về trạng thái trận chính
+モンスターＨＰを本戦状態\にする=Đặt máu quái vật về trạng thái trận đấu
+討伐依頼証枚数=Số lượng Vé Săn Bắn
+スキップダメージ=Sát thương Bỏ qua
+sr:"^(.{2,6})の所持数が足りません。$"=Không đủ $1.
+
+[FFFFFF]深淵討伐戦の前哨クエストを1回クリアしよう[-]=[FFFFFF] Hoàn thành 1 lần Nhiệm vụ Tiền đồn Chinh phục Abyss[-]
+深淵討伐戦の前哨クエストを1回クリアしよう=Hoàn thành 1 lần Nhiệm vụ Tiền đồn Chinh phục Abyss
+[FFFFFF]深淵討伐戦で全ボスのVERY HARDをクリアしよう[-]=[FFFFFF] Phá tất cả boss trong Trận chiến Abyss ở chế độ VÔ CÙNG KHÓ.[-]
+深淵討伐戦で全ボスのVERY HARDをクリアしよう=Phá tất cả boss trong Trận chiến Abyss ở chế độ VÔ CÙNG KHÓ.
+---NPC Tutorial Kokkoro---
+深淵討伐戦では特定の属性ボーナスが強化されるようです。\n前哨クエストで討伐依頼証を集めることで\nボスに挑戦できるようです。=Có vẻ như bonus nguyên tố nhất định sẽ được tăng cường trong trận Chinh phục Abyss. Bạn có thể thách đấu boss bằng cách thu thập Vé Săn Bắn cho cuộc Chinh phục từ Nhiệm vụ Tiền đồn.
+ボス戦では、与えたダメージに応じてスコアが加算されます。ボスの\n初回クリアや到達スコアの報酬として、マスターピースのかけらが手に\n入りますよ。万全の準備を整えて挑戦いたしましょう。=Trong trận đấu boss, điểm số của bạn sẽ tăng dựa trên sát thương bạn gây ra. Như phần thưởng khi hoàn thành vòng đầu tiên của boss và đạt điểm cuối cùng, bạn sẽ nhận được Mảnh Kiệt tác. Hãy đảm bảo bạn đã sẵn sàng hoàn toàn cho thử thách.
+
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]枚消費して、同じパーティでもう一度クエストをプレイします。[-]=[3C404E] Sử dụng [FFBB00,CE4F00]1[-] Vé Săn Bắn để chơi một nhiệm vụ khác với cùng một đội. [-]
+[3C404E]討伐依頼証を[FFBB00,CE4F00]1[-]消費して、同じパーティで\nもう一度クエストをプレイします。よろしいですか？[-]=[3C404E] Sử dụng [FFBB00,CE4F00]1[-] Vé Săn Bắn để chơi một nhiệm vụ khác với cùng một đội.\nBạn có đồng ý không?[-]
+
+
+
+復刻ストーリーイベント=Sự kiện cốt truyện tái bản
+確認できるアイテムがありません。=Không có vật phẩm nào để kiểm tra.
+挑戦回数を消費して1回バトルをスキップします。=Tiêu hao lượt khiêu chiến để bỏ qua 1 trận đấu.
+
+---Tutorial First Time---
+き、き、緊急事態です！　『深域』の最奥地帯である『深淵』から、\nとてつもなく強力な魔物が現れたようです！=Khẩn cấp! Một quái vật cực kỳ mạnh mẽ đang xuất hiện từ vùng sâu nhất của 'Abyss'!
+カリンさん！？　ここまで走ってきたんですか！？\nそれに強力な魔物って……？=Karin!? Cô chạy suốt đường đến đây à? Và nói là một con quái vật mạnh...?
+
+はいはい、いつもの「もっと強い敵が現れた！」ね。\nまっかせなさい！　そんなのソッコーでぶっ倒してきてやるわ！=Ừ ừ, thường là "Giờ có kẻ thù mạnh hơn rồi!". Giao cho tôi! Tôi sẽ hạ gục nó trong chớp mắt!
+
+キャルさま！？\n一人で行ってしまわれました……！\n大丈夫でしょうか？=Kyaru-sama!? Cô ấy đi một mình...! Có ổn không nhỉ?
+
+あ！　でも、引き返してきましたよ～？=À! Nhưng cô ấy đã quay lại rồi!
+
+無理無理無理無理ぃ！\nちょっとシャレになってないわよアレ！=Không thể nào, không thể nào, không thể nào! Cái thứ đó đùa đấy à!
+
+はい。洒落にならないのも当然です。\n言ってしまえばあの魔物は、\n『深域』の魔物たちの親玉ですから……！=Tất nhiên là không đùa. Nói đơn giản, con quái vật đó là boss của quái vật 'Abyss'...
+
+親玉ですか～！　それは強そうですし……\n食べ応えもありそうですね☆　じゅるり♪=Boss à? Nghe thử thách thật... và ngon quá☆ Ngon!
+
+い、言っておくけど、アレは今度こそ食べられないと思うわよ！？\nていうかそもそも、あんなのどうやって倒せってのよ～！？=T-Tôi chỉ muốn nói thế này: Tôi nghĩ cô không ăn được cái này! Và thật sự, làm sao chúng ta đánh bại thứ như thế!?
+
+そうですね……肝心なのは『属性』です。\n『深淵』での戦闘は、これまでの『深域』クエストと同様に\n『属性の力』を活用すれば有利に進められるはずですよ。=Chìa khóa nằm ở 'thuộc tính'. Giống như các nhiệm vụ 'Abyss' trước, sử dụng sức mạnh của 'thuộc tính' sẽ cho chúng ta ưu thế trong trận chiến này.
+
+なるほど。\nでは主さま、引き続き『属性』を揃えることを意識して\n戦ってまいりましょう。=Ra vậy. Vậy, Aruji-sama, hãy tiếp tục tập trung thu thập 'thuộc tính' phù hợp khi chiến đấu.
+
+ま、戦い方はそれでいいとして……報酬は弾むんでしょうね？\nしょっぱいアイテムしかなかったら承知しないわよ？=Được rồi, chiến thuật ổn và thế, nhưng... phần thưởng phải xứng đáng! Tôi sẽ không chấp nhận bất kỳ món đồ tệ nào!
+
+ふふふ♪　報酬に関しては、お任せください！\n現地で取得した『アストラルスフィア』や『アストラルシャード』は\nこれまで通り自由に持ち帰っていただいて構いません。さらに──=Hehe♪ Giao phần thưởng cho tôi! Các cậu vẫn có thể tự do mang về bất kỳ 'Astral Sphere' hay 'Astral Shard' nào thu được tại hiện trường. Ngoài ra──
+
+今回は特別報酬として、\n『マスターピースの欠片』もご用意します！=Nhân dịp đặc biệt này, chúng tôi cũng cung cấp 'Masterpiece Fragments'!
+
+大変豪華な報酬ですね。\nそれがあれば、主さまのお力もさらに強くなられるかと。=Phần thưởng thật tuyệt vời. Với những thứ đó, sức mạnh của Master chắc chắn sẽ tăng thêm.
+
+あのさ……手際が良すぎて怖いんだけど……\n走ってきたのも実はわざとだったりしない？=Cậu biết không... cách cậu chuẩn bị kỹ thật đáng sợ... Có phải cậu cố ý chạy đến đây không?
+
+そんなことはありませんよ？\nそういうわけで、この『深淵討伐戦』──\nお願いしますみなさん！　力を貸してください！=Tất nhiên là không. Vậy, xin hãy nhận 'Abyss Conquest' này! Chúng tôi cần sức mạnh của các cậu!
+
+主さまのためとあっては、いてもたってもいられません……\n早速編成を組み、挑戦してみましょう！=Nếu vì Master, em không thể ngồi yên... Hãy tập hợp đội và thử đi!
+
+……あーもうしょうがないわね！　とっとと片付けてきてやるから、\n報酬いーっぱい用意しときなさいよね！=...Ồ, được rồi! Tôi sẽ xử lý nhanh, nên hãy chuẩn bị thật nhiều phần thưởng nhé!
+【美食殿】、レッツゴーです☆=[Guild Đồ Ăn Ngon], đi thôi☆
+
+
+
+
+####
+消費討伐チケット=Vé Tiêu Diệt Dùng Một Lần
+討伐チケットを消費して\n5回バトルをスキップします。=Dùng Vé Tiêu Diệt để bỏ qua 5 trận đấu.
+討伐報酬券=Vé Phần Thưởng Tiêu Diệt
+r:"^キャラストーリー(\d+)話解放中！$"=Câu chuyện nhân vật $1: Đã mở khóa!
+
+強敵との手合わせ、夜廻り=Một trận đấu tập với kẻ thù đáng gờm, và ca làm đêm
+
+新刊入荷=Sách mới có hàng
+ログインボーナスとして以下のアイテムを受け取りました。=Nhận được các vật phẩm sau như phần thưởng đăng nhập:
+チャレンジ報酬=Phần thưởng thử thách
+初回討伐完了まではチャレンジ報酬は獲得できません。=Phần thưởng thử thách sẽ không được nhận cho đến khi lần tiêu diệt đầu tiên hoàn thành.
+
+r:"^(\d+)枚の討伐報酬券をまとめて交換しますか？$"=Bạn có muốn đổi $1 vé phần thưởng tiêu diệt ngay không?
+討伐報酬券を集めて、豪華報酬をGET!=Thu thập vé phần thưởng săn quái vật để nhận phần thưởng tuyệt vời!
+こんにちは！ギルド管理協会です！\nとっておきの報酬も用意していますので頑張ってくださいね=Xin chào! Đây là Hiệp Hội Quản Lý Guild! Chúng tôi đã chuẩn bị một số phần thưởng đặc biệt, nên hãy cố gắng lên!
+
+ナーナ、すいりとかろんぱとか、\nむずかしくてわかんないけど…\nお友だちとドーナツのためならっ\nせーいっぱいがんばるよっ！=Nana, em không hiểu những thứ khó như suy luận và câu đố logic... nhưng vì bạn bè và vì bánh donut, em sẽ cố gắng hết sức!

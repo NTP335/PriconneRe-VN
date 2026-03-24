@@ -1,0 +1,26 @@
+##Profile##
+【魔法】後衛を飛び出し悪戯の限りを尽くす幻惑の妖精。敵陣を勝手気ままに飛び回り、敵の攻撃を空振りさせて、ＵＢで４種の妨害効果をランダムに与え大混乱に陥れる。=[Phép] Một tiên đồng nghịch ngợm xông ra từ phía sau và chơi đủ trò. Cô bay quanh đội hình kẻ thù tự do, làm cho đòn tấn công của chúng trượt và gây hỗn loạn bằng cách ngẫu nhiên áp dụng bốn loại hiệu ứng gây rối loạn với UB của cô.
+悪戯をすること=Đang Chơi Khăm
+幻霧に戯れる悪戯好きなガイド妖精=Một tiên đồng hướng dẫn nghịch ngợm chơi với sương ảo
+##UB##
+ネビア・インフェリチータ=Nebbia Infelicità
+敵全体を混乱状態、恐慌状態、暗闇状態、スタン状態のいずれかにし、自分を一定時間無敵状態にする。=Gây một trong các hiệu ứng: Hoang tưởng, Sợ hãi, Mù quáng, hay Choáng lên tất cả kẻ thù, và trở nên miễn nhiễm với mọi sát thương trong một khoảng thời gian cố định.
+敵全体を混乱させる敵全体を恐慌状態にする敵全体を暗闇状態にする敵全体を一定時間行動不能にする一定時間無敵状態になる=►Trở nên miễn nhiễm với mọi sát thương trong 6s.  Kích hoạt ngẫu nhiên một trong 4 hiệu ứng sau: ►Gây Hoang tưởng lên tất cả kẻ thù trong 6s. ►Gây Sợ hãi lên tất cả kẻ thù trong 6s. ►Gây Mù quáng lên tất cả kẻ thù trong 6s. ►Gây Choáng lên tất cả kẻ thù trong 6s.
+
+##S1##
+スケルツォ=Scherzo
+最も物理攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての物理攻撃を回避する。さらに、ランダムな敵の傍に移動する。=Gây Gắn bó lên kẻ thù có P.ATK cao nhất, phục hồi nhẹ HP của bản thân, và nhận né tránh P.ATK trong một khoảng thời gian. Đồng thời di chuyển ngẫu nhiên đến một kẻ thù.
+r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての物理攻撃を回避する$"=►Chuyển đến kẻ thù có P.ATK cao nhất. ►Gây Gắn bó lên kẻ thù trong 4s. ►Phục hồi HP của bản thân bằng $1. ►Chuyển đến kẻ thù ngẫu nhiên.
+
+##S2##
+カプリッチョ=Capriccio
+最も魔法攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての魔法攻撃を回避する。さらに、ランダムな敵の傍に移動する。=Gây Gắn bó lên kẻ thù có M.ATK cao nhất, phục hồi nhẹ HP của bản thân, và nhận né tránh M.ATK trong một khoảng thời gian. Đồng thời di chuyển ngẫu nhiên đến một kẻ thù.
+r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての魔法攻撃を回避する$"=►Chuyển đến kẻ thù có M.ATK cao nhất. ►Gây Gắn bó lên kẻ thù trong 4s. ►Phục hồi HP của bản thân bằng $1. ►Chuyển đến kẻ thù ngẫu nhiên.
+
+##SP1##
+ネルシエロ=Nel Cielo
+このスキルのスキルレベルは「ネビア・イン\nフェリチータ」と連動しています=Cấp độ kỹ năng này được liên kết với "Nebbia Infelicità"
+
+##EX##
+ディスペットピウマ=Dispetto Piuma
+ディスペットピウマ+=Dispetto Piuma+

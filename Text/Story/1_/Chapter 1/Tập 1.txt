@@ -1,0 +1,65 @@
+Around a month has passed since {playername} began his new life\nin the city of Landosol.=Khoảng một tháng đã trôi qua kể từ khi {playername} bắt đầu cuộc sống mới\ntại thành phố Landosol.
+Our story begins on an ordinary day like any other.=Câu chuyện của chúng ta bắt đầu vào một ngày bình thường như bao ngày khác.
+My lord, this is a little difficult to say, but...\nWe don't have any money left.=Thưa Chủ nhân, điều này hơi khó nói, nhưng mà...\nChúng ta không còn đồng nào cả.
+The village elder did give me some funds when I left my hometown,\nbut I'm afraid those funds have dry.\nLandosol is a big city, after all. It's not a cheap place to live.=Trưởng làng có đưa cho em một ít lộ phí khi em rời quê nhà,\nnhưng em e là số tiền đó đã cạn kiệt rồi.\nDù sao thì Landosol cũng là một thành phố lớn. Sống ở đây không hề rẻ chút nào.
+Now, I know we have managed to make it this far,\nby settling for the cheapest accommodation,\ngathering our own ingredients for food, and so forth...=Em biết là chúng ta đã cố gắng xoay xở đến tận bây giờ\nbằng cách ở những nơi rẻ nhất,\ntự tìm kiếm nguyên liệu nấu ăn, và vân vân...
+But saving money can only take us so far.\nAt this point, my purse is as good as empty.=Nhưng tiết kiệm cũng chỉ có giới hạn thôi.\nĐến thời điểm này, túi tiền của em coi như trống rỗng rồi.
+So, my lord, if I may be so bold...\nMight I ask for permission to find a job?=Vì vậy, thưa Chủ nhân, nếu em mạn phép được nói...\nLiệu em có thể xin phép Ngài để đi tìm một công việc không?
+Though it pains me to leave your side for any length of time,\nI feel it will be best for both of us if I find some honest work,\nearn a healthy income, and use it to support our life here.=Dù rất đau lòng khi phải rời xa Ngài dù chỉ một khoảnh khắc,\nem cảm thấy sẽ tốt nhất cho cả hai nếu em tìm được một công việc tử tế,\nkiếm một khoản thu nhập ổn định và dùng nó để trang trải cuộc sống của chúng ta tại đây.
+You need not trouble yourself, of course.\nPlease feel free to idle away the day, doing as you please,\nand eating whatever delicious morsels catch your eye.=Tất nhiên, Ngài không cần phải bận tâm đâu.\nXin Ngài cứ thoải mái nghỉ ngơi suốt cả ngày, làm bất cứ điều gì Ngài thích,\nvà ăn bất cứ món ngon nào lọt vào mắt xanh của Ngài.
+Here is your allowance for today.\nEnjoy!=Đây là tiền tiêu vặt của Ngài cho ngày hôm nay.\nChúc Ngài vui vẻ!
+Now if you don't mind, I must excuse myself.\nI will return to our lodgings around nightfall.=Bây giờ nếu Ngài không phiền, em xin phép đi trước.\nEm sẽ trở về nhà trọ khi trời tối.
+...Is something the matter, my lord?\nYour face looks somehow paler than usual.=...Có chuyện gì sao, thưa Chủ nhân?\nTrông mặt Ngài có vẻ nhợt nhạt hơn bình thường.
+Perhaps your health has suffered in this unfamiliar environment...\nHow awful... Oh, or are you worried that your allowance will not suffice?=Có lẽ sức khỏe của Ngài đã bị ảnh hưởng do môi trường xa lạ này...\nThật tệ quá... Ồ, hay là Ngài lo lắng tiền tiêu vặt sẽ không đủ?
+I must apologize.\nThe coins I just gave you, you see,\nwere the very last handful I had managed to save.=Em phải xin lỗi Ngài.\nNhững đồng xu em vừa đưa cho Ngài,\nthực ra là những đồng cuối cùng mà em đã cố gắng dành dụm được.
+Hmmm... I suppose I have no choice.\nI will go and sell some of my accessories to supplement your funds.=Hừm... Em đoán là mình không còn lựa chọn nào khác.\nEm sẽ đi bán một vài món phụ kiện của mình để tăng thêm ngân quỹ cho Ngài.
+
+Wait!=Chờ đã!
+
+Mmmh?!=Mmmh?!
+My lord...\nPlease do not put your arms around me so suddenly in public...\nWhatever is the matter? Does my absence concern you so greatly?=Chủ nhân... \nXin Ngài đừng ôm em đột ngột như vậy ở nơi công cộng...\nCó chuyện gì sao ạ? Việc em vắng mặt khiến Ngài lo lắng đến vậy sao?
+I see...\nYou want to find work for yourself, as well?=Em hiểu rồi...\nNgài cũng muốn tự mình đi tìm việc làm sao?
+I would prefer to avoid troubling you with such drudgery if possible...\nBut perhaps it would weigh on your mind to do nothing while another\nworks for your sake?=Nếu có thể, em không muốn làm phiền Ngài bằng những công việc vất vả như vậy...\nNhưng có lẽ Ngài sẽ cảm thấy nặng lòng khi không làm gì trong lúc\nngười khác đang làm việc vì mình?
+If that is truly what you wish, I will respect your desires.\n*chuckle* You are such a kind-hearted fellow.=Nếu đó thực sự là điều Ngài muốn, em sẽ tôn trọng ý nguyện của Ngài.\ncười thầm Ngài đúng là một người có trái tim nhân hậu mà.
+It is certainly more efficient if we earn our income together.\nVery well, so be it.=Chắc chắn sẽ hiệu quả hơn nếu chúng ta cùng nhau kiếm thu nhập.\nĐược rồi, quyết định vậy đi.
+Let's see now...\nIt seems that there should be a noticeboard in this plaza\nwhere job vacancies are frequently posted.=Để xem nào...\nDường như có một bảng thông báo ở quảng trường này,\nnơi các tin tuyển dụng thường xuyên được dán lên.
+My intentions were to visit this noticeboard\nand pick out a job that seems best suited for my skills.\nDoes this plan seem suitable to you, my lord?=Dự định của em là tới bảng thông báo đó\nvà chọn ra một công việc phù hợp nhất với khả năng của mình.\nKế hoạch này Ngài thấy có ổn không ạ?
+Well then, let us see...\nAh yes, there we are!\nThat must be the noticeboard I had heard about.=Vậy thì, để chúng ta xem nào...\nA đúng rồi, nó kia kìa!\nĐó chắc hẳn là bảng thông báo mà em đã nghe nói tới.
+
+Just a little higher...!=Cao thêm chút nữa thôi...!
+Wa-wa-waaaahh?!=Oa-oa-oa-oaa?!
+Hm?=Hửm?
+Owieeeee!=Đau quá đi!
+
+Are... Are you all right down there?\nIt looked like you took quite the spectacular tumble...=Bạn... Bạn đằng ấy có sao không?\nTrông cú ngã của bạn vừa rồi "ngoạn mục" thật đấy...
+Owieeee...\nOhh, I'm so sorry!\nI'm all right, really! Don't worry about me!=Đau quá...\nÔi, mình xin lỗi nhé!\nMình không sao đâu, thật đấy! Đừng lo cho mình!
+Eheheh... I was trying to reach high enough to stick this poster up,\nbut I guess I totally lost my balance!\nOh, Suzume, you can be such a klutz sometimes!=Ehehe... Mình đang cố rướn người để dán tấm áp phích này lên,\nnhưng chắc là mình hoàn toàn mất thăng bằng rồi!\nÔi Suzume ơi, thi thoảng cậu hậu đậu quá đi mất!
+..."Suzume"?=..."Suzume" sao?
+Ahh?!\nWhy, if it isn't {playername}!=Á?!\nƠ, chẳng phải là {playername} đây sao!
+I haven't seen you around lately!\nLooks like I went and embarrassed myself again, huh?=Lâu rồi không gặp cậu nhỉ!\nCó vẻ như mình lại vừa làm trò cười cho thiên hạ rồi, hả?
+...My lord?\nAre you already acquainted with this young lady?=...Thưa Chủ nhân?\nNgài đã quen biết vị tiểu thư này từ trước rồi sao?
+Oh, absolutely!\nI met {playername} a little while ago.\nHe helped me out when I was in a bit of trouble!=Ồ, chắc chắn rồi!\nMình đã gặp {playername} cách đây một thời gian.\nCậu ấy đã giúp đỡ mình khi mình gặp chút rắc rối!
+So wait, this girl...\nUm... Could she be your little sister, {playername}?!=Khoan đã, cô bé này...\nỪm... Có khi nào cô bé là em gái của cậu không, {playername}?!
+Awwww, she's such a cutie!\nHow old are you, little miss?\nAre you on a little date with your big brother today?=Ôi trời, cô bé đáng yêu quá đi!\nEm bao nhiêu tuổi rồi tiểu thư nhỏ?\nHôm nay em đang đi hẹn hò với anh trai mình à?
+Um, my lord and I are not related...\nI am but his humble attendant. My name is Kokkoro.=Ừm, em và Chủ nhân không có quan hệ huyết thống...\nEm chỉ là người hầu cận khiêm nhường của Người thôi. Tên em là Kokkoro.
+Oh, I see!\nSo you're sort of the same as me, then!=Ồ, ra vậy!\nThế thì em cũng giống chị rồi!
+The same... as you?\nAh... Do you mean to say you are also in service to my lord?=Giống... chị sao?\nA... Ý chị muốn nói là chị cũng đang phụng sự Chủ nhân của em ư?
+No, no, not like that!\nSorry, I'm awful at explaining things...=Không, không phải thế đâu!\nXin lỗi nhé, chị dở khoản giải thích mọi chuyện lắm...
+Ehm, as you can probably tell, I'm just your average maid...\nBut I'm in service to a certain most noble individual!=E hèm, như em thấy đấy, chị chỉ là một hầu gái bình thường thôi...\nNhưng chị đang phụng sự cho một nhân vật vô cùng cao quý!
+Actually, it was milady—the lady I work for—\nwho sent me here to see about hiring some professional help.\nSee, take a look at this vacancy poster! I made it myself!=Thực ra, chính là tiểu thư - người chị đang làm việc cho -\nđã cử chị đến đây để tìm kiếm một số sự trợ giúp chuyên nghiệp.\nNày, nhìn vào tấm áp phích tuyển dụng này đi! Chị tự tay làm đấy!
+Hmm... Seeking assistance with a change of residence?\nOrganizing luggage and providing a transportation escort...\nThis sounds like a simple job, but the reward is quite the sum!=Hừm... Tìm kiếm sự trợ giúp cho việc thay đổi nơi ở sao?\nSắp xếp hành lý và hộ tống vận chuyển...\nCông việc nghe có vẻ đơn giản, nhưng phần thưởng thì khá lớn đấy chứ!
+Eheh!\nMilady is very... particular... about avoiding unnecessary expenses...\nBut when she does spend, she tends to go a little overboard!=Eheh!\nTiểu thư nhà chị vốn rất... kỹ tính... trong việc tránh những chi phí không cần thiết...\nNhưng một khi đã chi tiền, cô ấy có xu hướng hơi "vung tay quá trán"!
+The two of you were coming to look at this noticeboard, right?\nIf you're looking for work... Perhaps I could interest you in\ntaking up this little job of ours?=Hai người cũng tới đây để xem bảng thông báo đúng không?\nNếu các bạn đang tìm việc... Có lẽ các bạn sẽ hứng thú với\ncông việc nhỏ này của bên mình chứ?
+Only if it's not too much trouble, of course.\nBut it would be quite reassuring if I could hire someone\nI already know and trust, instead of a total stranger!=Tất nhiên là chỉ khi việc này không quá phiền hà thôi.\nNhưng sẽ yên tâm hơn nhiều nếu chị có thể thuê ai đó\nmà chị đã quen biết và tin tưởng, thay vì một người hoàn toàn xa lạ!
+Hmmm... This does sound like just what we were looking for,\nand the conditions are difficult to complain about, too.=Hừm... Việc này nghe đúng là những gì chúng ta đang tìm kiếm,\nvà các điều kiện cũng khó mà chê vào đâu được.
+But I cannot make this decision of my own accord.\nWhat do you think, my lord?=Nhưng em không thể tự mình đưa ra quyết định này.\nNgài nghĩ sao, thưa Chủ nhân?
+
+Help... Being crushed by... maid...=Cứu... Sắp bị đè bẹp... bởi hầu gái rồi...
+
+Hmm? Whatever do you mean?\nOh, I see... When Miss Suzume lost her balance and fell over,\nshe seems to have landed squarely on top of you.=Hửm? Ý Ngài là sao ạ?\nỒ, em hiểu rồi... Khi cô Suzume mất thăng bằng và ngã nhào,\ncô ấy dường như đã đáp thẳng lên người của Ngài.
+Wahhh?!\nI-I-I-I'm sorry! So sorry!=Oa?!\nM-m-m-mình xin lỗi! Thành thật xin lỗi!
+Honestly, I really am such a terrible klutz sometimes!\nI can't believe I just held an entire conversation \nwhile straddled right across your body!=Thật sự là, đôi khi mình hậu đậu đến mức không chịu nổi!\nMình không thể tin được là mình vừa trò chuyện suốt nãy giờ\ntrong khi đang ngồi chễm chệ ngay trên người cậu!
+P-p-p-please forgive me!\nI'll get off right away! ...Uh, uwhoa, uwahhhhh?!=L-l-l-làm ơn tha lỗi cho mình nhé!\nMình sẽ đứng dậy ngay đây! ...Ơ, u-oa, oa a a a a?!
+Ah... In your hurry to arise, you seem to have fallen yet again.\nAt this point, rather than merely straddling,\nyou appear almost to be locked in a passionate embrace.=A... Vì quá vội vàng đứng dậy nên chị có vẻ lại ngã thêm lần nữa rồi.\nĐến mức này thì thay vì chỉ là ngồi đè lên,\nhai người trông gần như là đang ôm nhau thắm thiết luôn ấy.
+Ehm.........\nY-you certainly are a rather clumsy young lady.=E hèm.........\nChị-chị đúng là một tiểu thư khá vụng về đấy.
+I can see how you might have trouble transporting goods,\nso perhaps we really should offer our services.=Em có thể thấy chị sẽ gặp khó khăn như thế nào trong việc vận chuyển đồ đạc,\nvì vậy có lẽ chúng em thực sự nên đề nghị giúp đỡ một tay.

@@ -1,0 +1,8 @@
+
+赤い霧の精霊=Red Fog Spirit
+顕れる苦衷 アイラ＆シナツ=Revealed Bitterness: Ira & Shinatsu
+r:"^黒き薔薇が咲く場所へ([0-9\-\(\)\w （）]*)$"=Đến Nơi Hoa Hồng Đen Nở Rộ $1
+r:"^赤く染まりしランドソル([0-9\-\(\)\w （）]*)$"=Landosol Nhuộm Đỏ $1
+
+SPECIALの顕れる苦衷 アイラ＆シナツ=SPECIAL's Revealed Bitterness: Ira & Shinatsu
+SPECIALかEXHIBITIONで顕れる苦衷 アイラ＆シナツを5回以内に討伐しよう=Hạ gục Revealed Bitterness: Ira & Shinatsu trong năm lần thử trong Special hoặc EXHIBITION

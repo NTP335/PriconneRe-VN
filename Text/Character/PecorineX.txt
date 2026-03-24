@@ -1,0 +1,29 @@
+##Profile##
+【魔法】中衛でみんなに笑顔を届ける腹ペコサンタ王女。前線で敵の攻撃を耐えながら範囲内の味方の防御サポートと敵の防御ダウンまでこなし、聖夜に勝利の輝きを灯す。=[Ma thuật] Một công chúa Santa đói khát mang nụ cười đến mọi nhà từ tuyến giữa! Cô có thể chịu đòn kẻ địch ở tuyến trước đồng thời tăng phòng thủ cho đồng minh xung quanh và giảm phòng thủ kẻ địch. Với những kỹ năng này, cô chiếu sáng ánh sáng chiến thắng trong Đêm Thánh.
+
+##UB##
+プレシャスストライク=Precious Strike
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。さらに、自分に物理ダメージカット効果と魔法ダメージカット効果を付与してＨＰを中回復する。=Gây Sát thương Ma thuật (M.DMG) lớn cho kẻ địch phía trước, giảm nhẹ Phòng thủ Ma thuật (M.DEF) của mục tiêu. Ngoài ra, còn tặng cho bản thân Khả năng Chống Sát thương Vật lý/Ma thuật (P/M.DMG Cut) và hồi một lượng HP vừa phải.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分が受ける物理ダメージを15％カット自分が受ける魔法ダメージを15％カット自分のＨＰを(\d+)回復$"=►Gây $1 Sát thương Ma thuật (M.DMG) cho kẻ địch.\n►Giảm Phòng thủ Ma thuật (M.DEF) của kẻ địch đi $2 trong 18s.\n►Tặng bản thân Khả năng Chống Sát thương Vật lý (P.DMG Cut) 15% trong 18s.\n►Tặng bản thân Khả năng Chống Sát thương Ma thuật (M.DMG Cut) 15% trong 18s.\n►Hồi HP của bản thân thêm $3.
+
+##S1##
+ロイヤルアフェクション=Royal Affection
+最もＨＰが低い味方１キャラのＨＰを中回復させる。さらに、そのキャラを中心とした範囲内の味方すべての物理防御力と魔法防御力を中アップさせる。=Hồi một lượng HP vừa phải cho đồng minh có HP thấp nhất. Ngoài ra, còn tăng khá Phòng thủ Vật lý (P.DEF) và Phòng thủ Ma thuật (M.DEF) cho đồng minh trong phạm vi.
+r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=►Hồi HP của đồng minh thêm $1.\n►Tăng Phòng thủ Vật lý (P.DEF) của đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Tăng Phòng thủ Ma thuật (M.DEF) của đồng minh trong phạm vi 300 lên $3 trong 12s.
+
+##S2##
+フローズンスラッシュ=Frozen Slash
+目の前の敵１キャラに魔法大ダメージを与える。さらに自分を中心とした範囲内の味方すべてに物理/魔法無効バリアを展開し、ＴＰを小回復させる。=Gây Sát thương Ma thuật (M.DMG) lớn cho kẻ địch phía trước. Ngoài ra, tạo Khiên (Barrier) trên đồng minh trong phạm vi, chống lại Sát thương Vật lý/Ma thuật (P/M.DMG), và hồi nhẹ TP cho họ.
+r:"^敵単体に(\d+)の魔法ダメージ(\d+)ダメージ分の物理魔法無効バリアを展開する範囲内の味方のＴＰを50回復$"=►Gây $1 Sát thương Ma thuật (M.DMG) cho kẻ địch.\n►Tạo Khiên (Barrier) trên đồng minh trong phạm vi 300, chống lại Sát thương Vật lý/Ma thuật (P/M.DMG) bằng $2 trong 12s.\n►Hồi TP của đồng minh trong phạm vi 300 thêm 50.
+
+##EX##
+聖夜の晩餐パワー=Holy Night Supper Power
+聖夜の晩餐パワー+=Holy Night Supper Power+
+
+##S1+##
+ロイヤルアフェクション+=Royal Affection+
+最もＨＰが低い味方１キャラのＨＰを中回復させる。さらに、そのキャラを中心とした範囲内の味方すべての物理防御力と魔法防御力を大アップさせ、自分のＴＰを中回復する。=Hồi một lượng HP vừa phải cho đồng minh có HP thấp nhất, tăng khá Phòng thủ Vật lý (P.DEF) và Phòng thủ Ma thuật (M.DEF) cho đồng minh trong phạm vi xung quanh đồng minh đó, và hồi một lượng TP vừa phải cho bản thân.
+r:"^味方単体のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを220回復$"=►Hồi HP của đồng minh thêm $1.\n►Tăng Phòng thủ Vật lý (P.DEF) của đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Tăng Phòng thủ Ma thuật (M.DEF) của đồng minh trong phạm vi 300 lên $3 trong 12s.\n►Hồi TP của bản thân thêm 220.
+
+##UE##
+クリスマスプリンセス=Christmas Princess

@@ -1,0 +1,25 @@
+【物理】前衛で盛夏の白波を華麗に乗りこなす氷竜少女。敵全体を挑発し、被弾で溜まる【ぐずぐず】をＵＢで発散することで周囲に攻撃支援と天真爛漫な笑顔を振りまく。=[Vật Lý] Nàng thiếu nữ rồng băng thanh thoát cưỡi những con sóng trắng của mùa hè. Kích thích tất cả kẻ địch, chuyển đổi ngăn [Rên Rỉ] khi bị đánh thành hỗ trợ tấn công từ UB, và tỏa những nụ cười vô tội đến đồng minh.
+
+##UB##
+夏舞・騎遊氷竜=Natsumai - Trò Chơi Cưỡi Rồng Băng Mùa Hè
+目の前の敵１キャラの物理防御力を小ダウンさせ、物理大ダメージを与える。さらに、自分のＨＰを中回復する。【ぐずぐず】が４つ以上付与されている場合、【ぐずぐず】を４つ消費して自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、このスキルのダメージがアップし、目の前の敵１キャラに追加の物理特大ダメージを与える。【ぐずぐず】を４つ消費した場合、このスキルのダメージは物理防御力を一定値無視し、必ずクリティカルする。=Giảm nhẹ P.DEF và gây sát thương vật lý lớn lên một kẻ địch phía trước, đồng thời khôi phục vừa phải HP của bản thân. Với 4+ [Rên Rỉ], tiêu thụ 4 để tăng cực mạnh P.ATK của đồng minh gần, tăng cường sát thương kỹ năng này, và gây thêm sát thương vật lý cực lớn bỏ qua P.DEF và luôn phá thủ.
+r:"^敵単体の物理防御力を(\d+)ダウンぐずぐずが４つ未満の場合、敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復ぐずぐずが４つ以上の場合、ぐずぐずを４つ消費するぐずぐずが４つ以上の場合、範囲内の味方の物理攻撃力を(\d+)アップぐずぐずが４つ以上の場合、敵単体に物理防御力を50無視する(\d+)の物理ダメージぐずぐずが４つ以上の場合、敵単体に物理防御力を50無視する(\d+)の物理ダメージ$"="►Giảm P.DEF của một kẻ địch lên $1\nNếu [Rên Rỉ] < 4:\n►Gây $2 sát thương vật lý lên một kẻ địch\n►Khôi phục HP của bản thân lên $3\nNếu [Rên Rỉ] ≥ 4:\n►Tiêu thụ 4 [Rên Rỉ]\n►Tăng P.ATK của đồng minh trong phạm vi lên $4\n►Gây $5 sát thương vật lý (bỏ qua 50 P.DEF) lên một kẻ địch\n►Gây $6 sát thương vật lý (bỏ qua 50 P.DEF) lên một kẻ địch"
+
+##S1##
+氷菓=Kẹo Băng
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン範囲内の味方の物理攻撃力を(\d+)アップ$"="►Gây $1 sát thương vật lý lên một kẻ địch\n►Giảm P.ATK của một kẻ địch lên $2\n►Giảm M.ATK của một kẻ địch lên $3\n►Giảm P.DEF của một kẻ địch lên $4\n►Tăng P.ATK của đồng minh trong phạm vi lên $5"
+目の前の敵１キャラに物理大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウン、物理防御力を小ダウンさせる。さらに、自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせる。$"=Gây sát thương vật lý lớn lên một kẻ địch phía trước, đồng thời giảm mạnh tấn công vật lý/phép thuật của chúng và giảm nhỏ phòng thủ vật lý. Ngoài ra còn tăng mạnh tấn công vật lý cho đồng minh gần đó.
+
+##S2##
+汐沓=Shiohama
+r:"^敵全体を挑発する自分が受ける物理ダメージを15％カット自分が受ける魔法ダメージを15％カット物理攻撃力を(\d+)アップさせるフィールドを展開する物理防御力を(\d+)アップさせるフィールドを展開する魔法防御力を(\d+)アップさせるフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する毎秒ＴＰを10回復するフィールドを展開する$"=►Kích hoạt khiêu khích tất cả kẻ địch ►Giảm sát thương vật lý nhận vào 15% ►Giảm sát thương phép thuật nhận vào 15% ►Triển khai Vùng Tăng Tấn Công Vật Lý (+$1) ►Triển khai Vùng Tăng Phòng Thủ Vật Lý (+$2) ►Triển khai Vùng Tăng Phòng Thủ Phép Thuật (+$3) ►Triển khai Vùng Hồi HP ($4 mỗi giây) ►Triển khai Vùng Hồi TP (10 mỗi giây)
+【挑発】敵全体を挑発し、自分に物理ダメージカット効果と魔法ダメージカット効果を付与する。さらに、自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、物理防御力と魔法防御力を中アップ、ＨＰとＴＰを小回復させるフィールドを展開する。$"=[Khiêu khích] Kích hoạt khiêu khích tất cả kẻ địch đồng thời nhận giảm sát thương vật lý/phép thuật. Ngoài ra còn triển khai các vùng tăng mạnh tấn công vật lý, tăng trung bình phòng thủ vật lý/phép thuật, và hồi nhỏ HP/TP cho đồng minh gần đó.
+
+##EX##
+アイスクリームぐずり味=Kem - Vị Tức Giận
+アイスクリームぐずり味+=Kem - Vị Tức Giận+
+
+##Special Skill##
+絶対に赤ちゃん化しない！=Tôi sẽ tuyệt đối không bao giờ biến thành em bé!
+攻撃を受けた時、自分にぐずぐずを１つ付与する=Nhận 1 [Rên Rỉ] khi bị tấn công
+敵から攻撃を受けた時に発動し、自分に【ぐずぐず】を１つ付与する。【ぐずぐず】は最大８つまで追加される。=Kích hoạt khi bị tấn công và cấp 1 [Rên Rỉ] cho bản thân [Rên Rỉ] có thể chồng lên tối đa 8 lần

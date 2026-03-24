@@ -1,0 +1,60 @@
+ジュンとの出会い=Cuộc gặp gỡ với Jun
+黄金色の悩みごと=Nỗi phiền muộn sắc vàng kim
+
+ジータたちは、フリーマーケット会場で\n少し困った様子のジュンを見かける。=Djeeta và những người khác bắt gặp Jun với vẻ mặt có chút ưu tư tại khu chợ đồ cũ.
+騎空団の装備を充実させようと、\nフリーマーケットにやってきたジータたち。\nするとそこには、{playername}の見知った姿があった。=xĐể củng cố trang bị cho đoàn kỵ sĩ, nhóm của Djeeta đã ghé thăm khu chợ đồ cũ. Tại đó, họ đã bắt gặp một bóng dáng quen thuộc đối với {playername}.
+さて、どうしたものかな……=Chà, nên làm thế nào cho phải đây nhỉ...
+
+Player Input
+こんにちは、ジュンさん。=Chào chị, Jun-san.
+
+ん？\nああ、少年。\nこんにちは、君も買い物かな？=Hửm?\nÀ, là cậu thiếu niên đó sao.\nChào cậu, cậu cũng đang đi mua sắm à?
+わわっ、【王宮騎士団（NIGHTMARE）】の団長さん……！\nあなたって、本当に知り合いが多いんだね。=Oa oa, là đoàn trưởng của 【Đội kỵ sĩ hoàng gia (NIGHTMARE)】 kìa...!\nCậu thực sự quen biết nhiều người thật đấy.
+そちらの君は……はじめまして、だよね。\n少年、よければ私にも紹介してくれるかな。=Còn cô bé bên cạnh này là... chúng ta mới gặp nhau lần đầu nhỉ.\nCậu thiếu niên này, nếu được thì cậu giới thiệu em ấy cho tôi với nhé.
+
+Player Input
+騎空士のジータだよ。=Đây là Djeeta, Kỵ sĩ bầu trời.
+
+ああ、君がジータちゃんなんだね。\n少年から話はよく聞いているよ。=À, ra em là Djeeta-chan đó sao. Tôi đã được nghe kể khá nhiều về em từ cậu thiếu niên này rồi.
+私はジュンだ。\n【王宮騎士団（NIGHTMARE）】の団長を務めている。\nよろしくね。=Tôi là Jun. Hiện đang đảm nhận chức vụ đoàn trưởng của 【Đội kỵ sĩ hoàng gia (NIGHTMARE)】. Rất vui được gặp em.
+こちらこそ、よろしくお願いします！\n団長さんの話は、私もよく聞いてるんです。\nとっても強くて頼りになる人だって……=Em cũng vậy, rất mong được chị giúp đỡ ạ! Em cũng thường xuyên nghe kể về chị. Rằng chị là một người vô cùng mạnh mẽ và đáng tin cậy...
+ふふ、そう言われると少し気恥ずかしいな。\n私はただ、自分の役目を果たしているだけだよ。=Hì hì, nghe em nói vậy tôi thấy hơi ngại đấy. Tôi chỉ đơn giản là đang hoàn thành tốt bổn phận của mình mà thôi.
+
+Player Input
+今日はお休みなの？=Hôm nay chị được nghỉ phép ạ?
+
+いや、休憩時間だよ。\nそれで自主的に会場を見回っていたんだ。=Không, chỉ là giờ nghỉ giải lao thôi. Vậy nên tôi mới tự nguyện đi tuần tra quanh khu vực hội chợ này.
+こういった大きな催し物には、観光客 cũng nhiều vì vậy. \n人が多ければ、それだけトラブル cũng dễ xảy ra. \n大きな揉め事に発展する前に対処しておきたいと思ったんだ。=Những sự kiện lớn như thế này thường thu hút rất nhiều khách du lịch. Càng đông người thì càng dễ nảy sinh rắc rối. Tôi muốn xử lý mọi chuyện trước khi chúng biến thành những cuộc tranh chấp lớn.
+そうだったんですね。\nあ、じゃあ……\nその金色のは押収品か gì đó không ạ? =Hóa ra là vậy ạ. A, vậy thì... cái vật màu vàng kim đó là tang vật bị tịch thu hay gì sao chị?
+ジータが視線を向けたのは、ジュンが手にしている金色の物体だった。=Ánh mắt của Djeeta hướng về vật thể màu vàng kim mà Jun đang cầm trên tay.
+ああ、これか……\n押収品ではないのだけど……\n実は少し困っているんだ。=À, cái này hả... Không phải đồ tịch thu đâu, nhưng mà... Thực ra tôi đang hơi đau đầu vì nó đây.
+
+これはヒヒイロカネといってね、異国で見つかる kim loại đó. \n見回りをしていたとき、露店でつい買ってしまったんだよ。=Cái này được gọi là Hihiirokane, một loại kim loại được tìm thấy ở vùng đất xa xôi. Trong lúc đi tuần tra, tôi đã lỡ tay mua nó ở một sạp hàng ven đường.
+ヒヒイロカネ……\n不思議な名前ですね。=Hihiirokane... Một cái tên lạ tai thật đấy.
+その店主によると、なんでも cực kỳ bền chắc và có thể dùng làm nguyên liệu chế tạo vũ khí. \n実際、手にしてみると cái sự cứng cáp của nó hiện rõ luôn. =Theo lời chủ tiệm, nó là loại vật liệu cực kỳ bền chắc để chế tác vũ khí và áo giáp. Quả thực, khi cầm trên tay, tôi có thể cảm nhận rõ độ cứng cáp của nó.
+熱心に声をかけられた上、\n私も武具の素材になるのであればと思ってね。=Phần vì bị người bán chào mời nhiệt tình quá, phần vì tôi cũng nghĩ nếu nó dùng làm vật liệu rèn đúc được thì cũng tốt.
+それで買ってみたはよかったのだけど……\n今になって、武具にするには lượng nó quá ít. =Mua thì cũng xong rồi, nhưng đến giờ tôi mới nhận ra bấy nhiêu đây là quá ít để rèn thành một món vũ khí hay giáp trụ hoàn chỉnh.
+確かに装備一式を作るのは khó khăn nhỉ. \nかといって、武器にするにしても lựa chọn cũng không nhiều. =Đúng là để làm cả một bộ trang bị thì có vẻ khó thật. Mà kể cả có định rèn vũ khí thì chắc cũng không có nhiều lựa chọn lắm.
+やはり慣れないことはするものじゃないな。\nいつも là tôi không bao giờ mua sắm tùy hứng đâu... =Quả nhiên là không nên làm những việc mình không quen. Bình thường tôi chẳng bao giờ mua sắm ngẫu hứng như thế này cả...
+きっと自分が思うよりも、周りの空気に bồng bềnh rồi. \n恥ずかしい話をしてしまったな。すまない、quên đi giúp tôi nhé. =Chắc là tôi đã bị bầu không khí xung quanh làm cho phấn chấn hơn mình tưởng rồi. Tôi lỡ kể một chuyện thật đáng xấu hổ. Xin lỗi nhé, nếu các em quên được chuyện này thì tôi mừng lắm.
+気にしないでください！\n買ってから考えるってこと、em cũng thỉnh thoảng thế mà. =Chị đừng bận tâm! Chuyện mua xong rồi mới tính sau, chính em cũng hay gặp phải mà.
+そう言ってもらえると気が楽だよ。\nありがとう、ジータちゃん。=Nghe em nói vậy tôi cũng thấy nhẹ lòng hơn. Cảm ơn em nhé, Djeeta-chan.
+……そうだ。\n話のついでに、これの使い道を一緒に考えてくれないか？\n二人なら私よりも柔軟な発想ができると思うんだ。=...Phải rồi. Sẵn tiện đang nói chuyện, các em có thể cùng tôi suy nghĩ xem nên dùng thứ này vào việc gì không? Tôi nghĩ hai đứa sẽ có những ý tưởng linh hoạt hơn tôi đấy.
+分かりました！\n私たちでよければ giúp chị một tay! =Vâng ạ! Nếu chúng em có thể giúp ích được gì thì tụi em sẵn lòng!
+助かるよ。\nさっそくだけど、少年。\n何かいいアイデアはあるかな？=Cứu tinh đây rồi. Vậy thì, cậu thiếu niên, cậu có ý tưởng hay ho nào không?
+
+Player Input
+盾にするのはどうかな？=Làm thành một chiếc khiên thì chị thấy sao ạ?
+
+盾か……\n確かに、少し手を加えれば手持ちの盾になりそうだね。\n頑強さ故の加工の手間も、最小限に抑えられるかもしれない。=Một chiếc khiên sao... Quả thật, nếu gia công thêm một chút thì có vẻ sẽ thành một chiếc khiên tay được đấy. Nhờ độ bền chắc của nó, có khi công sức rèn đúc cũng được giảm thiểu xuống mức thấp nhất không chừng.
+いいアイデアだよ、{playername}！=Ý tưởng hay lắm đó, {playername}!
+……よし。\nでは、これは君たちに譲ろう。\nぜひ有効活用してほしい。=...Được rồi. Vậy thì, ta sẽ nhường thứ này lại cho các em. Rất mong các em sẽ sử dụng nó một cách thật hữu ích.
+えっ？\nど、どうしてですか？=Hả? T-Tại sao ạ?
+アイデアをくれたお礼だよ。\nそれに、私が盾に頼るわけにはいかないんだ。=Đây là quà đáp lễ cho ý tưởng của các em. Hơn nữa, bản thân ta không thể dựa dẫm vào một chiếc khiên được.
+他でもない、私自身が皆を守る盾だからね。=Bởi vì không ai khác, chính ta mới là tấm khiên bảo vệ mọi người.
+おっと、のんびりしすぎたかな。\nそろそろ持ち場に戻らないと。\n少年、ジータちゃん。またね。=Ôi chao, có vẻ ta đã thong thả quá rồi. Đến lúc ta phải quay lại vị trí trực chiến thôi. Cậu thiếu niên, Djeeta-chan, hẹn gặp lại nhé.
+あ……\nは、はい。=A... V-Vâng ạ.
+…………\nジュンさんって、かっこいいね……=....Chị Jun ngầu thật đấy...
+ジュンから受け取ったヒヒイロカネを手に、\nジータは思わずぽつりと呟いたのだった──=Cầm trên tay thỏi Hihiirokane nhận được từ Jun, Djeeta đã bất giác thốt lên những lời đó──
+
+

@@ -1,0 +1,45 @@
+##Profile##
+傭兵などのアルバイト=Công việc bán thời gian làm lính đánh thuê
+仕事も私事も効率優先な傭兵少女=Một lính đánh thuê ưu tiên hiệu quả\ncả trong công việc và chuyện cá nhân
+
+【物理】中衛の、スタンと回復のスキルを持つ傭兵戦士。\n高い防御力と自己回復能力を併せ持つ事で、\n中衛の守りを堅固にし、パーティを底支えする。=[Vật Lý] Một lính đánh thuê chiến đấu từ hàng giữa với kỹ năng choáng và hồi máu. Combo phòng thủ cao và khả năng tự hồi máu của cô tạo nên nền tảng cho đội hình bằng cách giữ hàng giữa vững chắc.
+
+##UB##
+スプラッシュダイブ=Lụt Sóng
+
+##S1##
+ファーストエイド=Sơ Cứu
+
+##S2##
+ハイドロスラッシュ=Chém Nước
+
+##EX##
+マーセナリープライド=Niềm Kiêu Hãnh Của Lính Đánh Thuê
+マーセナリープライド+=Niềm Kiêu Hãnh Của Lính Đánh Thuê+
+
+##UB+##
+ボルテクスストリーム=Dòng Xoáy
+目の前の敵１キャラに物理特大ダメージを与え、さらにスタンさせる。そのキャラがユニオンバースト発動時既に行動不能状態だった場合、さらに敵全体に物理特大ダメージを与え、スタンさせる。=Gây sát thương vật lý khổng lồ cho kẻ địch đối diện trực tiếp và choáng chúng thêm. Nếu mục tiêu đã bị vô hiệu hóa khi UB được kích hoạt, nó sẽ gây thêm sát thương vật lý cho tất cả kẻ địch và choáng chúng.
+## OLD r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵全体に(\d+)の物理ダメージ敵全体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Gây Choáng cho kẻ địch trong 4s.\n\nNếu đã bị choáng:\n►Gây $2 sát thương vật lý cho tất cả kẻ địch.\n►Gây Choáng cho tất cả kẻ địch trong 4s.
+
+
+目の前の敵１キャラに物理特大ダメージを与え、スタンさせる。発動時既にこのスキルの対象が行動不能状態だった場合、このスキルは必ずクリティカルし、敵全体に追加の物理特大ダメージを与え、スタンさせる。=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt và làm choáng chúng. Tại thời điểm kích hoạt, nếu mục tiêu đã ở trạng thái không thể hành động, kỹ năng này chắc chắn sẽ gây bạo kích (Critical), đồng thời gây thêm sát thương vật lý cực đại lên toàn bộ kẻ địch và làm choáng chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする目の前の敵が行動不能状態の場合、以下の効果が発動する敵全体に(\d+)の物理ダメージ敵全体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên một mục tiêu.\n►Làm choáng một mục tiêu trong 4 giây.\n\nNếu mục tiêu đã bị khống chế:\n►Gây $2 sát thương vật lý lên toàn bộ kẻ địch.\n►Làm choáng toàn bộ kẻ địch trong 4 giây.\n►Chắc chắn gây sát thương bạo kích.
+
+
+##S1+##
+ファーストエイド+=Sơ Cứu+
+自分のＨＰを大回復し、さらに自分の物理防御力と魔法防御力を大アップし、自分の周りに範囲内の味方すべてを小回復するフィールドを展開する。=Hồi một lượng lớn máu cho bản thân. Tăng đáng kể phòng thủ vật lý và phép của bản thân. Tạo một vùng xung quanh bản thân hồi máu nhẹ cho đồng minh trong phạm vi.
+## OLD r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Hồi máu của bản thân lên $1.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 12s.\n►Tăng phòng thủ phép của bản thân lên $3 trong 12s.\n►Tạo một vùng (Bán kính 150) hồi máu $4/giây trong 8.5s.
+
+自分のＨＰを大回復、物理・魔法防御力を大アップし、自分の周囲に範囲内の味方すべてのＨＰを小回復するフィールドを展開する。=Hồi phục mạnh HP của bản thân, tăng mạnh phòng thủ vật lý và ma pháp, đồng thời triển khai một vùng không gian (field) xung quanh bản thân để hồi phục nhẹ HP cho toàn bộ đồng đội trong phạm vi.
+r:"^自分のＨＰを(\d+)回復自分の物理・魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Hồi phục $1 HP cho bản thân.\n►Tăng $2 phòng thủ vật lý và ma pháp cho bản thân trong 12 giây.\n►Triển khai một vùng không gian bán kính 150, hồi phục $3 HP mỗi giây trong 8.5 giây.
+
+##UE##
+溟竜槍レヴィアタン=Răng Cá Leviathan
+
+
+##S1++##
+ファーストエイド++=Sơ Cứu++
+自分のＨＰを大回復、物理・魔法防御力を大アップし、自分の周囲に範囲内の味方すべてのＨＰを小回復するフィールドを展開する。発動時既に目の前の敵１キャラが行動不能状態だった場合、自分のＴＰを特大回復する。=Hồi phục mạnh HP của bản thân, tăng mạnh phòng thủ vật lý và ma pháp, đồng thời triển khai một vùng không gian xung quanh bản thân để hồi phục nhẹ HP cho toàn bộ đồng đội trong phạm vi. Tại thời điểm kích hoạt, nếu mục tiêu kẻ địch trước mặt đã ở trạng thái không thể hành động, hồi phục cực đại TP cho bản thân.
+r:"^自分のＨＰを(\d+)回復自分の物理・魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する目の前の敵が行動不能状態の場合、自分のＴＰを1000回復$"=►Hồi phục $1 HP cho bản thân.\n►Tăng $2 phòng thủ vật lý và ma pháp cho bản thân.\n►Triển khai một vùng không gian hồi phục $3 HP mỗi giây.\n\nNếu kẻ địch trước mặt bị khống chế:\n►Hồi phục 1000 TP cho bản thân.

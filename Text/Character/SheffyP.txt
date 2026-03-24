@@ -1,0 +1,31 @@
+##Profile##
+【物理】中衛で新たな力と共に再廻する姫装の氷竜少女。環境効果【絶氷】でクリティカルダメージを高め、火力と手数を併せ持つ剣技で、再び共に歩むため道を切り開く。=[Vật Lý] Cô gái rồng băng xoay tròn một lần nữa với sức mạnh mới mẻ và trang phục công chúa. Cô tích lũy ngăn [Băng Tuyệt Đối] để tăng sát thương phá thủ và lực tấn công, dùng kỹ năng kiếm và số lượng kiếm áp đảo để mở đường đoàn tụ, để cô có thể bước đi cùng chúng ta một lần nữa.
+
+##UB##
+廻舞・姫銀氷竜=Vũ Điệu Trinh Nữ: Công Chúa Băng Rồng Bạc
+目の前の敵１キャラに物理特大ダメージを２回与える。【絶氷】中、このスキルのダメージがアップし、物理防御力を一定値無視する。=Gây 2 đòn sát thương vật lý cực lớn lên kẻ địch phía trước. Khi [Băng Tuyệt Đối] đang hoạt động, tăng sát thương vật lý gây ra, bỏ qua một phần P.DEF của kẻ địch.
+r:"^絶氷中、敵単体に物理防御力を50無視する(\d+)の物理ダメージ絶氷中、敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=Nếu [Băng Tuyệt Đối] đang hoạt động:\n►Gây $1 sát thương vật lý lên kẻ địch, bỏ qua 50 P.DEF của chúng.\n►Gây $2 sát thương vật lý lên kẻ địch, bỏ qua 50 P.DEF của chúng.\n\nNếu [Băng Tuyệt Đối] không hoạt động:\n►Gây $3 sát thương vật lý lên kẻ địch.\n►Gây $4 sát thương vật lý lên kẻ địch.
+
+##S1##
+剣踏=Bước Kiếm
+目の前の敵１キャラに物理中ダメージを２回与え、物理防御力を小ダウンさせる。【絶氷】中、このスキルの効果量が上昇し、さらにクリティカルを受けた際のダメージを小アップさせる。=Gây 2 đòn sát thương vật lý vừa phải lên kẻ địch phía trước và giảm nhẹ P.DEF của chúng. Khi [Băng Tuyệt Đối] đang hoạt động, tăng sát thương vật lý gây ra và lượng P.DEF giảm, đồng thời tăng P.CRIT DMG nhận của kẻ địch.
+r:"^絶氷中、敵単体に(\d+)の物理ダメージ絶氷中、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ絶氷中、敵単体の物理防御力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン絶氷中、敵単体の被クリダメを8％アップ$"=Nếu [Băng Tuyệt Đối] đang hoạt động:\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch đi $5 trong 12 giây.\n►Tăng P.CRIT DMG nhận của kẻ địch lên 8% trong 12 giây.\n\nNếu [Băng Tuyệt Đối] không hoạt động:\n►Gây $3 sát thương vật lý lên kẻ địch.\n►Gây $4 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch đi $6 trong 12 giây.
+
+##S2##
+銀雪の舞=Vũ Điệu Tuyết Vàng
+味方全体の物理攻撃力と物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップさせる。【絶氷】中、このスキルの効果量が上昇し、さらに自分のＨＰを小回復、ＴＰを特大回復させる。=Tăng cực mạnh P.ATK, Tỷ Lệ Phá Thủ và tăng nhẹ Sát Thương Phá Thủ cho tất cả đồng minh. Khi [Băng Tuyệt Đối] đang hoạt động, tăng thêm mức tăng P.ATK, Tỷ Lệ Phá Thủ và Sát Thương Phá Thủ, khôi phục nhẹ HP của bản thân và khôi phục cực nhiều TP của bản thân.
+r:"^絶氷中、味方全体の物理攻撃力を(\d+)アップ絶氷中、味方全体の物理クリティカルを180アップ絶氷中、味方全体の物理攻撃クリティカル時のダメージを9％アップ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを120アップ味方全体の物理攻撃クリティカル時のダメージを6％アップ絶氷中、自分のＨＰを(\d+)回復絶氷中、自分のＴＰを600回復$"=Nếu [Băng Tuyệt Đối] đang hoạt động:\n►Tăng P.ATK của tất cả đồng minh lên $1 trong 12 giây.\n►Tăng Tỷ Lệ Phá Thủ của tất cả đồng minh lên 180 trong 12 giây.\n►Tăng Sát Thương Phá Thủ của tất cả đồng minh lên 9% trong 12 giây.\n►Khôi phục HP của bản thân lên $3.\n►Khôi phục TP của bản thân lên 600.\n\nNếu [Băng Tuyệt Đối] không hoạt động:\n►Tăng P.ATK của tất cả đồng minh lên $2 trong 12 giây.\n►Tăng Tỷ Lệ Phá Thủ của tất cả đồng minh lên 120 trong 12 giây.\n►Tăng Sát Thương Phá Thủ của tất cả đồng minh lên 6% trong 12 giây.
+
+##SP1##
+絶氷世界=Thế Giới Băng Tuyệt Đối
+このスキルのスキルレベルは「廻舞・姫銀氷竜」と連動しています=Cấp độ kỹ năng liên kết với "Vũ Điệu Trinh Nữ: Công Chúa Băng Rồng Bạc"
+自分のＴＰ上昇を中アップさせ、環境効果【絶氷】を発動する。環境効果【絶氷】の効果は敵、味方すべてに適用される。物理攻撃クリティカル時のダメージが小アップする。=Tăng vừa phải TP Boost của bản thân. Kích hoạt hiệu ứng môi trường [Băng Tuyệt Đối]. Hiệu quả kỹ năng này áp dụng cho tất cả kẻ địch và đồng minh. Tăng nhẹ Sát Thương Phá Thủ cho mọi người.
+自分のＴＰ上昇を30アップ環境を絶氷にする敵味方の物理攻撃クリティカル時のダメージを10％アップ=►Tăng TP Boost của bản thân lên 30 trong 180 giây.\n►Tăng Sát Thương Phá Thủ của mọi người lên 10% trong 180 giây.
+
+##EX##
+ラディアントルッツ=Lutz Rực Rỡ
+ラディアントルッツ+=Lutz Rực Rỡ+
+
+
+絶氷=Phá Băng
+物理攻撃クリティカル時のダメージが小アップする。=Tăng nhẹ Sát Thương Phá Thủ Vật Lý.

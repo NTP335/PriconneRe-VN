@@ -1,0 +1,35 @@
+##Profile##
+【物理】後衛で高威力の弓技を放つ夏のカリスマモデル。バトル中に一度だけ放つ「サマーランウェイ♪」でＴＰを全回復し、以降ユニオンバーストがクリティカルになる。=[Vật Lý] Một người mẫu quyến rũ với kỹ năng cung thuật tỏa sáng từ hàng sau. Dù Summer Catwalk chỉ có thể dùng 1 lần mỗi trận, nó sẽ khôi phục hoàn toàn TP của cô ấy và khiến Union Burst luôn tạo ra sát thương chí mạng.
+後衛で高威力の弓技を放つ夏のカリスマモデル。バトル中に放つ「サマーランウェイ♪」でＴＰを全回復して、発動後のユニオンバーストがクリティカルになる。=Một người mẫu quyến rũ với kỹ năng cung thuật tỏa sáng từ hàng sau. Dù Summer Catwalk chỉ có thể dùng 1 lần mỗi trận, nó sẽ khôi phục hoàn toàn TP của cô ấy và khiến Union Burst luôn tạo ra sát thương chí mạng.
+
+##UB##
+トロピカルスプラッシュ=Bắn Tung Tóe Mùa Hè
+目の前の敵１キャラに物理特大ダメージを与える。既に「サマーランウェイ♪」を使用していた場合、このスキルは確定でクリティカルする。=Gây sát thương vật lý cực lớn lên kẻ địch đứng trước mặt. Nếu Summer Catwalk đã được dùng, kỹ năng này luôn tạo ra sát thương chí mạng.
+
+##S1##
+トロピカルダーツ=Phi Tên Mùa Hè
+目の前の敵１キャラに物理小ダメージを３回与える。=Gây sát thương vật lý nhỏ lên kẻ địch đứng trước mặt 3 lần.
+r:"^敵単体に(\d+)の物理ダメージを３回与える$"=►Gây $1 sát thương vật lý lên kẻ địch 3 lần.
+
+##S2##
+サマーランウェイ♪=Đường Chạy Mùa Hè♪
+自身の物理攻撃力を特大アップさせ、さらにＴＰを特大回復させる。=Tăng mạnh sát thương vật lý (P.ATK) của bản thân. Hồi TP của bản thân một lượng rất lớn.
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰを全回復$"=►Tăng sát thương vật lý (P.ATK) của bản thân lên $1 trong 180s.\n►Hồi TP của bản thân lên 1000.
+
+##EX##
+真夏のバイブス=Cảm Giác Mùa Hè Rực Rỡ
+真夏のバイブス+=Cảm Giác Mùa Hè Rực Rỡ+
+
+##S1+##
+トロピカルダーツ+=Darts Nhiệt Đới+
+目の前の敵１キャラに物理小ダメージを３回与え、さらに自分の物理攻撃力を中アップさせる。このスキルは確定でクリティカルする。=Gây sát thương vật lý nhỏ lên kẻ địch phía trước 3 lần. Đồng thời, tăng sát thương vật lý của bản thân một chút. Đòn tấn công này luôn là đòn chí mạng.
+r:"^敵単体に(\d+)の物理ダメージを３回与える自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch 3 lần.\n►Tăng sát thương vật lý của bản thân lên $2 trong 12s.
+
+##S2+##
+サマーランウェイ♪+=Sân Khấu Hè♪+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを中アップし、ＴＰを特大回復させる。このスキルの初回使用後、行動パターンが変化する。=Tăng sát thương vật lý của bản thân rất lớn, tăng sát thương chí mạng vật lý một chút và hồi lượng TP rất lớn. Sau lần dùng kỹ năng đầu tiên, thay đổi kiểu tấn công.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを28％アップ自分のＴＰを全回復$"=►Tăng sát thương vật lý của bản thân lên $1 trong 180s.\n►Tăng sát thương chí mạng vật lý của bản thân lên 28% trong 180s.\n►Hồi TP cho bản thân 1000.\n\nVới lần dùng kỹ năng đầu tiên:\n►Chuyển sang Kiểu Tấn Công 2 trong 180s.
+
+##UE##
+盛夏弓スプラッシュハート=Mũi Tên Trái Tim Mùa Hè
+ヤバ盛りフルーツパフェ=Parfait Trái Cây Độc

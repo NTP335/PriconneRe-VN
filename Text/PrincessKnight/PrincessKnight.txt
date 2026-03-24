@@ -1,0 +1,81 @@
+プリンセスナイト強化=Princess Knight
+
+プリンセスナイト=Princess Knight
+強化詳細=Chi tiết Nâng cấp
+強化Lv=Cấp Nâng cấp
+属性レベル=Cấp độ Nguyên tố
+属性スキル=Kỹ năng Nguyên tố
+マスタースキル=Kỹ năng Chủ chốt
+火属性攻撃力=Sức mạnh Thuộc tính Lửa
+水属性攻撃力=Sức mạnh Thuộc tính Nước
+風属性攻撃力=Sức mạnh Thuộc tính Gió
+光属性攻撃力=Sức mạnh Thuộc tính Ánh sáng
+闇属性攻撃力=Sức mạnh Thuộc tính Bóng tối
+
+属性=Nguyên tố
+未強化=Chưa nâng cấp
+このノードは強化済みです。=Nút này đã được tăng cường.
+所持シャード=Mảnh đang có
+消費シャード=Chi phí Mảnh
+ノード詳細=Chi tiết Nút
+選択したノードの強化詳細です。\n未強化の前提ノードは自動で強化されます。=Đây là chi tiết nâng cấp của nút đã chọn. Nút chưa nâng cấp sẽ tự động được tăng cường.
+強化済みです。=Nó đã được tăng cường.
+強化可能なノードがありません。=Không có nút nào có thể tăng cường.
+消費マスターピース=Chi phí MP
+所持マスターピース=MP đang có
+所持マスターピース(欠片)=MP đang có (Mảnh)
+消費マスターピース(欠片)=Chi phí MP (Mảnh)
+
+sr:"^(?:\[3C404E\])?(.+)の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?$"=[3C404E]$2 của $1 tăng lên [FFBB00,CE4F00]$3[-].[-]
+sr:"^(?:\[3C404E\])?(.+)の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?(?:\r)?\n(?:\[3C404E\])?(.+)?の(.+)が\[-\]\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ(?:\[-\])?$"=[3C404E]$2 của $1 tăng lên [FFBB00,CE4F00]$3[-].\n$5 của $4 tăng lên [FFBB00,CE4F00]$6[-].[-]
+
+魔法与ダメージ=Sát thương Phép thuật
+物理与ダメージ=Sát thương Vật lý
+ＴＰ上昇強化=Tăng TP
+属性ボーナス強化=Tăng Nguyên tố
+物理攻撃力強化=Tăng Tấn công Vật lý
+魔法攻撃力強化=Tăng Tấn công Phép thuật
+
+ＨＰ強化=Tăng HP Tối Đa
+HP吸収強化=Tăng Hút HP
+HP自動回復強化=Tăng Hồi HP
+TP自動回復強化=Tăng Hồi TP
+TP消費軽減強化=Tăng Duy Trì TP
+物理防御力強化=Tăng Phòng Thủ Vật Lý
+魔法防御力強化=Tăng Phòng Thủ Ma Thuật
+魔法与ダメージ強化=Tăng Sát Thương Ma Thuật
+物理与ダメージ強化=Tăng Sát Thương Vật Lý
+物理クリティカルダメージ強化=Tăng Sát Thương Vật Lý Chí Mạng
+魔法クリティカルダメージ強化=Tăng Sát Thương Ma Thuật Chí Mạng
+物理クリティカル強化=Tăng Tỷ Lệ Chí Mạng Vật Lý
+魔法クリティカル強化=Tăng Tỷ Lệ Chí Mạng Ma Thuật
+回復量上昇強化=Tăng Hồi Máu
+命中強化=Tăng Độ Chính Xác
+回避強化=Tăng Né Tránh
+魔法クリティカルダメージ=Sát Thương Ma Thuật Chí Mạng
+魔法クリダメ強化=Tăng Sát Thương Ma Thuật Chí Mạng
+物理クリティカルダメージ=Sát Thương Vật Lý Chí Mạng
+物理クリダメ強化=Tăng Sát Thương Vật Lý Chí Mạng
+物理・魔法クリティカル強化=Tăng Tỷ Lệ Chí Mạng Vật Lý & Ma Thuật
+物理・魔法防御力強化=Tăng Phòng Thủ Vật Lý & Ma Thuật
+物理・魔法攻撃力強化=Tăng Tấn Công Vật Lý & Ma Thuật
+物理・魔法クリティカルダメージ強化=Tăng Sát Thương Chí Mạng Vật Lý & Ma Thuật
+
+強化地点へ=Đến Nút Hiện Tại
+
+強化可能なマスタースキル=Kỹ Năng Chủ Có Thể Nâng Cấp
+以下のノードの強化を実行しますか？=Bạn có muốn nâng cấp các nút kỹ năng sau không?
+
+属性攻撃力=Lực Công Kích Nguyên Tố
+火属性の強化詳細=Chi Tiết Nâng Cấp Nguyên Tố Lửa
+水属性の強化詳細=Chi Tiết Nâng Cấp Nguyên Tố Nước
+風属性の強化詳細=Chi Tiết Nâng Cấp Nguyên Tố Gió
+光属性の強化詳細=Chi Tiết Nâng Cấp Nguyên Tố Ánh Sáng
+闇属性の強化詳細=Chi Tiết Nâng Cấp Nguyên Tố Bóng Tối
+
+強化内容がありません。=Không có nâng cấp nào.
+ノードをすべて強化すると解放されます。=Hãy nâng cấp tất cả các nút để mở khóa.
+前提ノードの強化が必要です。=Bạn cần nâng cấp các nút tiên quyết.
+
+強化可能な属性スキル=Kỹ Năng Nguyên Tố Có Thể Nâng Cấp
+r:"^\[FFBB00\,CE4F00\]([0-9.％%]+)\[-\]\[3C404E\]アップ\[-\]$"=[FFBB00,CE4F00]+$1[-]

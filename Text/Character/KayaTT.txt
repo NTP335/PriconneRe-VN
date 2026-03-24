@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で味方を勝利にナビする喧嘩屋ドラゴン族。ユニオンバーストで自身の攻撃速度を極大アップさせ、物理攻撃力アップスキルのシナジーで拳の雨を降らせる。=[Vật Lý] Một thiếu nữ rồng đấm sĩ dẫn dắt đồng đội đến chiến thắng ở tuyến đầu. Tối đa hóa tốc độ hành động với Union Burst, và dùng sự cộng hưởng của kỹ năng tăng sức mạnh tấn công vật lý để mưa nắm đấm xuống.
+
+##UB##
+ドラゴンズエンドバースト=Dragon's End Burst
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分の行動速度を極大アップさせ、ＴＰ上昇を小アップさせる。=Gây sát thương P.DMG cực lớn lên kẻ địch phía trước, tăng cường rất mạnh tốc độ hành động của bản thân, và tăng cường lượng Tăng TP một chút.
+r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ自分のＴＰ上昇を(\d+)アップ$"=►Gây $1 sát thương P.DMG lên một kẻ địch.\n►Tăng tốc độ hành động của bản thân lên 500% trong 18 giây.\n►Tăng lượng Tăng TP của bản thân trong 18 giây.
+
+##S1##
+ドラゴンズエッジ=Dragon's Edge
+
+##S2##
+アクセルリアクター=Accel Reactor
+自分の物理攻撃力を大アップさせる。さらに、自分が行動速度アップ状態の場合、ＴＰを中回復し、行動速度アップ状態でない場合、行動速度を特大アップさせる。=Tăng cường rất mạnh P.ATK của bản thân. Ngoài ra, nếu Kaya có hiệu ứng tăng tốc độ hành động, cô ấy sẽ hồi phục TP của bản thân một lượng vừa phải, và nếu Kaya không có hiệu ứng tăng tốc độ hành động, cô ấy sẽ tăng tốc độ hành động của bản thân lên một lượng lớn.
+自分の物理攻撃力を特大アップさせる。さらに、自分が行動速度アップ状態の場合、ＴＰを中回復し、行動速度アップ状態でない場合、行動速度を特大アップさせる。=Tăng cường rất mạnh P.ATK của bản thân. Ngoài ra, nếu Kaya có hiệu ứng tăng tốc độ hành động, cô ấy sẽ hồi phục TP của bản thân một lượng vừa phải, và nếu Kaya không có hiệu ứng tăng tốc độ hành động, cô ấy sẽ tăng tốc độ hành động của bản thân lên một lượng lớn.
+r:"^自分の物理攻撃力を(\d+)アップ行動速度アップ状態の場合、自分のＴＰを(\d+)回復行動速度アップ状態でない場合、自分の行動速度アップ$"=►Tăng P.ATK của bản thân lên $1 trong 12 giây.\n►Nếu tốc độ hành động của bản thân > 100%, hồi phục TP của bản thân lên $2.\n►Nếu tốc độ hành động của bản thân ≤ 100%, tăng tốc độ hành động của bản thân lên 250% trong 12 giây.
+
+##EX##
+フルバーストドラゴン=Full Burst Dragon
+フルバーストドラゴン+=Full Burst Dragon+
+
+##S1+##
+ドラゴンズエッジ+=Dragon's Edge+
+目の前の敵１キャラに物理中ダメージを与える。さらに、自分が行動速度アップ状態の場合、目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を大アップさせる。=Gây sát thương P.DMG vừa phải lên kẻ địch phía trước. Ngoài ra, nếu Kaya có hiệu ứng tăng tốc độ hành động, cô ấy sẽ gây sát thương P.DMG lớn lên kẻ địch phía trước và tăng cường rất mạnh P.ATK của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ行動速度アップ状態の場合、敵単体に(\d+)の物理ダメージ行動速度アップ状態の場合、自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương P.DMG lên một kẻ địch.\n\nNếu tốc độ hành động của bản thân > 100%:\n►Gây $2 sát thương P.DMG lên một kẻ địch.\n►Tăng P.ATK của bản thân lên $3 trong 50 giây.
+
+##UE##
+タイムラーベフィスト=Time Lab Fist

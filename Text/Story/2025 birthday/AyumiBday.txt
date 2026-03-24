@@ -1,0 +1,13 @@
+Ayumi Ishibashi Birthday 2025
+
+{playername}先輩っ、こ、こんにちはっ！\n本日は、私のお誕生日のお祝いに、\nこのようなお出かけを企画していただき……えーと、その……={playername}-senpai, x-chào! Hôm nay, để ăn mừng sinh nhật của em... Cậu đã lên kế hoạch cùng đi chơi, nên... Ưmm, thì...
+うぅ……私、すごい緊張しちゃってる……\n{playername}先輩とお食事に行くだけなのに……\nでも、二人っきりのお出かけって考えたらやっぱり……=Ugh... Em căng thẳng quá... Em chỉ đi ăn cùng với {playername}-senpai thôi... Nhưng, khi nghĩ về việc chỉ có hai chúng ta đi chơi cùng nhau... Như mong đợi, thật sự là...!
+は、はいっ……ありがとうございます、{playername}先輩。\nふぅ……あの、今日は誘ってもらえてすごくうれしいですっ！=V-Vâng... Cảm ơn cậu rất nhiều, {playername}-senpai. Phew... Ưm, điều em muốn nói là em thực sự rất vui vì cậu đã mời em hôm nay!
+家族とか友達にお祝いしてもらうのは、今までもあったんですけど。\nこんなふうに過ごす誕生日は、初めてなので……\nお、お手柔らかにお願いします。=Trước đây tớ có bạn bè và gia đình cùng đến chúc mừng sinh nhật, nhưng đây là lần đầu tiên tớ trải nghiệm sinh nhật như thế này... T-Tớ hy vọng cậu sẽ nhẹ nhàng với tớ!
+……って、あれ？\nこの言い方だともしかして、{playername}先輩のこと、\n友達以上に大切な人、って言ってるみたいに思われたり……？=...Khoan, hả? Vừa rồi tớ nói thế, chẳng phải cứ như tớ đang coi {playername}-senpai là người quan trọng hơn bạn bè sao...?
+は、はいっ！\nよろしくお願いします、{playername}先輩っ！=D-Dạ! Rất vui được gặp cậu hôm nay, {playername}-senpai!
+ううん、「みたい」なんかじゃないもん……\nだから、もっと素直な気持ちで楽しもう。\n{playername}先輩と過ごす、大切な時間をっ……=Không, đâu phải 'cứ như'... Vì vậy tớ sẽ tận hưởng chuyến đi này với tất cả cảm xúc thật lòng của tớ dành cho cậu. Khoảng thời gian quý giá bên cậu, {playername}-senpai, thật là hạnh phúc...
+
+Player Prompts
+まずは、お誕生日おめでとう、あゆみ。=Trước tiên... Chúc mừng sinh nhật, Ayumi
+それじゃあゆみ、行こうか。=Vậy thì, Ayumi, chúng ta đi thôi

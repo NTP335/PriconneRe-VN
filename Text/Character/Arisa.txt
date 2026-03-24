@@ -1,0 +1,79 @@
+##Profile##
+【物理】後衛の、長期戦に優れた、森の守護者見習い。ＴＰ回復によるユニオンバーストの速攻が可能。さらに使用後はスキル効果が上昇するため高い殲滅力を誇る。=[Vật lý] Một người canh giữ rừng đầy khát vọng, giỏi trong các trận đánh kéo dài từ hậu phương. Hồi TP cho phép sử dụng nhanh Union Burst, tăng hiệu quả kỹ năng để có sức tấn công lớn hơn.
+
+キレイな葉っぱを集めること=Thu thập những chiếc lá đẹp
+
+森番を目指すエルフの少女=Một elf trẻ đang nỗ lực trở thành người canh giữ rừng
+
+自然の導き=Nature's Guidance
+深緑の守護者=The Verdant Steward
+収穫祭=Harvest Festival
+妖精のいたずら=Pixie Mischief
+エルフの弓術=Tên Lõi Của Tiên Cung
+まどろみの森=Forest of Dreams
+放浪するエルフ=The Elven Wanderer
+妖精の楽園=Pixie Paradise
+フォレストムーブ=Forest Movement
+森の意志=Will of the Forest
+妖精の調べ=Fairy Investigation
+重なり合う決意=Overlapping Resolutions
+
+##UB##
+私の矢があなたを貫く！=I'll Fill You With Arrows!
+目の前の敵１キャラに物理特大ダメージを与える。このスキルを既に使用していた場合、ダメージが増加する。=Gây sát thương vật lý lớn cho kẻ địch đứng ngay phía trước. Tăng sát thương nếu kỹ năng này đã được sử dụng trước đó.
+r:"^敵単体に(\d+)の物理ダメージユニオンバースト使用後、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Sau khi dùng Union Burst, gây $2 sát thương vật lý cho một kẻ địch.
+
+##S1##
+絡みつく蔦=Clinging Vines
+最も魔法攻撃力が高い敵１キャラに物理小ダメージを与え、さらに行動速度を小ダウンさせる。=Gây sát thương vật lý nhỏ cho kẻ địch có M.ATK cao nhất và giảm nhẹ tốc độ hành động của họ.
+r:"^自分のＴＰを(\d+)回復ユニオンバースト使用後、自分のＴＰを(\d+)回復$"=Thời gian thi triển: 1.35s\n►Hồi phục cho bản thân $1 TP.\n►Sau khi sử dụng UB, hồi phục cho bản thân $2 TP.
+
+##S2##
+翅の輝き=Cánh Đồng Tiệc
+自分のＴＰを中回復する。既にユニオンバーストを使用していた場合、回復量が増加する。=Hồi một lượng TP vừa phải cho bản thân. Lượng TP hồi tăng lên sau khi dùng Union Burst.
+r:"^自分のＴＰを(\d+)回復ユニオンバースト使用後、自分のＴＰを(\d+)回復$"=►Hồi $1 TP cho bản thân.\n►Sau khi dùng Union Burst, hồi $2 TP cho bản thân.
+## 260lvl
+自分のＴＰを中回復する。既にユニオンバーストを使用していた場合、回復量が増加する。さらに自分の物理攻撃力を小アップさせる。=Hồi một lượng TP vừa phải cho bản thân. Lượng TP hồi tăng lên sau khi dùng Union Burst. Đồng thời tăng nhỏ P.ATK cho bản thân.
+r:"^自分のＴＰを(\d+)回復ユニオンバースト使用後、自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=Thời gian thi triển: 1.35s\n►Hồi $1 TP cho bản thân.\n►Sau khi dùng Union Burst, hồi $2 TP cho bản thân.\n►Tăng $3 P.ATK cho bản thân.
+
+
+自分のＴＰを大回復する。既にユニオンバーストを使用していた場合、回復量が増加する。さらに自分の物理攻撃力を小アップさせる。=Hồi phục lượng lớn TP cho bản thân. Nếu đã sử dụng Union Burst trước đó, lượng hồi phục sẽ tăng thêm. Đồng thời tăng nhẹ tấn công vật lý của bản thân.
+
+
+
+##EX##
+エルフの弓術=Tên Lõi Của Tiên Cung
+エルフの弓術+=Tên Lõi Của Tiên Cung+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Tăng lớn P.ATK cho bản thân ngay khi trận đấu bắt đầu.
+
+##UB+##
+この矢に未来を乗せて！=Tương Lai Của Em Sẽ Đặt Trên Mũi Tên Này!
+目の前の敵１キャラに物理特大ダメージを与える。このスキルを使用するたび、最大４回までダメージが増加する。=Gây sát thương lớn lên kẻ địch đứng ngay trước mặt. Nhận một chồng tăng sát thương mỗi lần dùng Union Burst, tối đa 5 chồng.
+##OLD r:"^敵単体に(\d+)の物理ダメージ５回目以降の使用時、敵単体に(\d+)の物理ダメージ$"=Union Burst lần 1-4:\n►Gây $1 sát thương vật lý lên kẻ địch.\n\nUnion Burst lần 5 trở lên:\n►Gây $2 sát thương vật lý lên kẻ địch.
+
+目の前の敵１キャラに物理特大ダメージを与える。【妖精の導き】が３つ以上の場合、追加で物理中ダメージを２回与える。このスキルのダメージは【妖精の導き】の数に応じて増加する。=Gây sát thương vật lý cực đại cho 1 kẻ địch trước mặt. Nếu có từ 3 tầng 【Sự dẫn dắt của Tiên】 trở lên, gây thêm 2 lần sát thương vật lý vừa. Sát thương của kỹ năng này tăng dựa trên số tầng 【Sự dẫn dắt của Tiên】 hiện có.
+r:"^敵単体に(\d+)の物理ダメージ妖精の導きが３つ以上の場合、以下の効果が発動する敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n\nNếu [Sự dẫn dắt của Tiên] từ 3 trở lên:\n►Gây $2 sát thương vật lý cho một kẻ địch.\n►Gây $3 sát thương vật lý cho một kẻ địch.
+##S1+##
+絡みつく蔦+=Dây Leo Bám Chặt+
+最も魔法攻撃力が高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力と行動速度を小ダウンさせる。=Gây sát thương vật lý vừa phải lên kẻ địch có M.ATK cao nhất. Giảm M.ATK và tốc độ hành động một chút của mục tiêu.
+
+##OLD r:"^敵単体に(\d+)の物理ダメージ敵単体の行動速度を一定時間低下させる敵単体の魔法攻撃力を(\d+)ダウン$"=Thời gian triển khai: 1.27s\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Làm tốc độ hành động của kẻ địch giảm còn 80% trong 12s.\n►Giảm $2 M.ATK của kẻ địch trong 12s.
+
+
+最も魔法攻撃力が高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力と行動速度を小ダウンさせる。バトル開始後、初弾のこのスキルは自分をステータスアップ効果を受ける度に、【妖精の導き】が１つ追加される状態にする。【妖精の導き】は最大５つまで追加される。=Gây sát thương vật lý vừa cho 1 kẻ địch có tấn công ma pháp cao nhất, đồng thời giảm nhẹ tấn công ma pháp và tốc độ hành động của mục tiêu. Lần đầu sử dụng kỹ năng này sau khi bắt đầu trận đấu, bản thân sẽ vào trạng thái nhận thêm 1 tầng 【Sự dẫn dắt của Tiên】 mỗi khi nhận được hiệu ứng tăng chỉ số. 【Sự dẫn dắt của Tiên】 có thể cộng dồn tối đa 5 tầng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の行動速度50％ダウン敵単体の魔法攻撃力を(\d+)ダウンステータスアップ効果を受けるたびに自分に妖精の導きを付与する状態になる$"=Thời gian thi triển: 1.27s\n►Gây $1 sát thương vật lý cho một kẻ địch.\n►Giảm 50％ tốc độ hành động của một kẻ địch.\n►Giảm $2 tấn công ma pháp của một kẻ địch.\n►Vào trạng thái mỗi khi nhận được hiệu ứng tăng chỉ số, bản thân nhận thêm 1 [Sự dẫn dắt của Tiên].
+
+
+##UE##
+クインティタニアス=Quintitanius
+
+
+
+##S1++##
+絡みつく蔦++=Dây Leo Bám Chặt++
+最も魔法攻撃力が高い敵１キャラに物理大ダメージを与え、さらに魔法攻撃力と行動速度を大ダウンさせる。バトル開始後、初弾のこのスキルは自分をステータスアップ効果を受ける度に、【妖精の導き】が１つ追加される状態にする。【妖精の導き】は最大10まで追加される。=Gây sát thương vật lý lớn cho 1 kẻ địch có tấn công ma pháp cao nhất, đồng thời giảm mạnh tấn công ma pháp và tốc độ hành động của mục tiêu. Lần đầu sử dụng kỹ năng này sau khi bắt đầu trận đấu, bản thân sẽ vào trạng thái nhận thêm 1 tầng 【Sự dẫn dắt của Tiên】 mỗi khi nhận được hiệu ứng tăng chỉ số. 【Sự dẫn dắt của Tiên】 có thể cộng dồn tối đa 10 tầng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の行動速度20％ダウン敵単体の魔法攻撃力を(\d+)ダウンステータスアップ効果を受けるたびに自分に妖精の導きを付与する状態になる$"=Thời gian thi triển: 1.27s\n►Gây $1 sát thương vật lý cho một kẻ địch.\n►Giảm 20％ tốc độ hành động của một kẻ địch.\n►Giảm $2 tấn công ma pháp của một kẻ địch.\n►Vào trạng thái mỗi khi nhận được hiệu ứng tăng chỉ số, bản thân nhận thêm 1 [Sự dẫn dắt của Tiên].
+
+
+
+

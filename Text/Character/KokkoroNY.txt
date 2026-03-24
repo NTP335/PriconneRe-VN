@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で、味方の補助に秀でた、新風の巫女。物理クリティカル時のダメージアップのスキルで味方の殲滅力を高めつつ、挑発や継続回復で耐久面を支える。=[Vật Lý] Miko năm mới đứng ở tiền tuyến để hỗ trợ đồng đội. Với kỹ năng tăng sức mạnh cho chí mạng vật lý, nâng cao khả năng đánh gục kẻ địch của đồng đội, đồng thời bảo vệ họ bằng thách đấu và hồi máu theo thời gian.
+
+お正月験担ぎガイド=Người Dẫn Đường May Mắn Năm Mới
+二人羽織チャレンジ=Hai Thể Thành Một
+一年の計は元旦にあり=Chìa Khóa Của Năm
+舞い上がる願い=Điệu Nhảy May Mắn
+
+##UB##
+ニューイヤーズブライト=Ánh Sáng Năm Mới
+自分のＨＰを中回復し、味方全体に継続ＨＰ回復を付与し、さらに物理攻撃力を大アップさせる。=Hồi HP bản thân lên mức trung bình, tăng HP Regen cho toàn đồng đội và tăng lực tấn công vật lý (P.ATK) của đồng đội lên rất lớn.
+r:"^自分のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する味方全体の物理攻撃力を(\d+)アップ$"=►Hồi HP của bản thân lên $1.\n►Hồi HP của đồng đội $2/giây trong 10 giây.\n►Tăng P.ATK của đồng đội lên $3 trong 18 giây.
+
+##S1##
+スピリットウォール=Tường Linh Hồn
+【挑発】自身に物理/魔法吸収バリアを展開し、さらに敵全体を挑発する。=[Thách Đấu] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương vật lý/ma thuật (P/M DMG) và thách đấu toàn bộ kẻ địch.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する敵全体を挑発する$"=►Triển khai Rào Cản lên bản thân hấp thụ $1 P/M.DMG trong 12 giây.\n►Kích động (Provoke) toàn bộ kẻ địch trong 17 giây.
+
+##S2##
+ブレッシングスピリット=Lời Chúc Linh Thiêng
+最も物理攻撃力が高い味方の物理攻撃力を中アップ、物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを中アップさせる。=Tăng trung bình P.ATK, tăng lớn P.CRIT Rate, và tăng trung bình P.CRIT DMG cho đồng đội có P.ATK cao nhất.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方単体の物理攻撃クリティカル時のダメージを30％アップ$"=►Tăng P.ATK của đồng đội có P.ATK cao nhất lên $1 trong 12 giây.\n►Tăng P.CRIT Rate của đồng đội có P.ATK cao nhất lên 100 trong 12 giây.\n►Tăng P.CRIT DMG của đồng đội có P.ATK cao nhất lên 30% trong 12 giây.
+
+##EX##
+祝福の新風=Gió May Mắn
+祝福の新風+=Gió May Mắn+
+
+##S1+##
+スピリットウォール+=Tường Linh Hồn+
+【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を小アップさせ、さらに敵全体を挑発する。=[Thách Đấu] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương vật lý/ma thuật (P/M DMG), tăng P.ATK cho toàn đồng đội, và thách đấu toàn bộ kẻ địch.
+【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を大アップさせ、さらに敵全体を挑発する。=[Thách Đấu] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương vật lý/ma thuật (P/M DMG), tăng P.ATK cho toàn đồng đội, và thách đấu toàn bộ kẻ địch.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ敵全体を挑発する$"=►Triển khai Rào Cản lên bản thân hấp thụ $1 P/M.DMG trong 12 giây.\n►Tăng P.ATK của toàn đồng đội lên $2 trong 12 giây.\n►Kích động (Provoke) toàn bộ kẻ địch trong 17 giây.
+
+##UE##
+新春祈幸の精霊杖=Gậy Cầu Nguyện Tinh Thần Năm Mới

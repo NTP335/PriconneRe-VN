@@ -1,0 +1,29 @@
+##Profile##
+【物理】中衛で敵を悪戯で翻弄する恐怖のキョンシー娘。最も魔法攻撃力が高い敵に急襲を仕掛け、ＴＰ減少や魔法攻撃力ダウン、スタン等の妨害スキルで機先を制する。=[Vật Lý] Một cô gái Giang Tây đáng sợ, chơi khăm kẻ thù ở tuyến giữa. Cô ấy phục kích kẻ thù có M.ATK cao nhất và sử dụng các kỹ năng cản trở như giảm TP, giảm M.ATK và choáng để chiếm thế thượng phong.
+
+##UB##
+キョンシーヘルラッシュ=Cơn Cuồng Nộ Giang Tây
+敵全体に物理大ダメージを与え、魔法攻撃力を大ダウンさせる。=Gây sát thương vật lý lớn cho tất cả kẻ thù và giảm mạnh M.ATK của họ.
+r:"^敵全体に(\d+)の物理ダメージ敵全体の魔法攻撃力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật cho tất cả kẻ thù.\n►Giảm M.ATK của tất cả kẻ thù đi $2 trong 18s.
+
+##S1##
+恐怖のデカドングリ=Quả Đực Đáng Sợ
+最も魔法攻撃力が高い敵１キャラに物理大ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加し、さらに魔法攻撃力を大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ thù có M.ATK cao nhất. Nếu là kẻ thù thuộc hệ M, sát thương vật lý tăng lên và giảm mạnh M.ATK của chúng.
+r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合魔法攻撃力を(\d+)ダウン$"=Thời gian thi pháp: 0.59s\n►Gây $1 sát thương vật lý lên một kẻ thù.\n\nNếu kẻ thù có M.ATK cao nhất thuộc hệ M:\n►Gây $2 sát thương vật lý lên một kẻ thù.\n►Giảm M.ATK một kẻ thù đi $3 trong 12s.
+
+##S2##
+ぐうたらになる呪い=Lời Nguyền Của Sự Lười Biếng
+最も魔法攻撃力が高い敵１キャラのＴＰを中ダウンさせ、魔法攻撃力を特大ダウンさせ、さらにスタンさせる。=Giảm trung bình TP của kẻ thù có M.ATK cao nhất, giảm mạnh M.ATK của chúng và gây choáng.
+r:"^敵単体のＴＰを(\d+)失わせる敵単体の魔法攻撃力を(\d+)ダウン敵単体を一定時間行動不能にする$"=Thời gian thi pháp: 0.59s\n►Giảm TP của kẻ thù có M.ATK cao nhất đi $1.\n►Giảm M.ATK của kẻ thù có M.ATK cao nhất đi $2 trong 12s.\n►Gây choáng kẻ thù có M.ATK cao nhất trong 3s.
+
+##EX##
+キョンシーオカルトパワー=Sức Mạnh Tà Thuật Giang Tây
+キョンシーオカルトパワー+=Sức Mạnh Tà Thuật Giang Tây+
+
+##S1+##
+恐怖のデカドングリ+=Quả Đực Đáng Sợ+
+最も魔法攻撃力が高い敵１キャラに物理大ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加し、魔法攻撃力を大ダウンさせ、さらにスタンさせる。=Gây sát thương vật lý lớn lên kẻ thù có M.ATK cao nhất. Nếu là kẻ thù thuộc hệ M, sát thương vật lý tăng lên, giảm mạnh M.ATK của chúng và gây choáng.
+r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合魔法攻撃力を(\d+)ダウン対象が魔法攻撃をする敵だった場合一定時間行動不能にする$"=Thời gian thi pháp: 0.59s\nNếu kẻ thù có M.ATK cao nhất thuộc hệ V:\n►Gây $1 sát thương vật lý lên một kẻ thù.\n\nNếu kẻ thù có M.ATK cao nhất thuộc hệ M:\n►Gây $2 sát thương vật lý lên một kẻ thù.\n►Giảm M.ATK một kẻ thù đi $3 trong 12s.\n►Gây choáng một kẻ thù trong 1s.
+
+##UE##
+ぐうたらキョンシーキャップ=Mũ Phán Xét Của Kẻ Lười Biếng

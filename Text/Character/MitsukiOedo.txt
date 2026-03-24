@@ -1,0 +1,29 @@
+##Profile##
+【物理】中衛で、戦況のすべてを見据える隻眼の闇医者。ＨＰが低い敵を束縛し防御力ダウンスキルで仕掛けつつ呪詛の毎秒増加する継続ダメージで敵の命を刻々と蝕む。=[Vật lý] Một bác sĩ chợ đen một mắt, quan sát toàn bộ trận đấu diễn ra ở tuyến giữa. Cô trói những kẻ thù có HP thấp và dùng kỹ năng giảm P.DEF của địch để liên tục tăng sát thương trong khi làm suy yếu mạng sống của chúng bằng lời nguyền.
+
+##UB##
+ローズデストラクション=Hoa Hồng Hủy Diệt
+前方範囲内の敵すべてに物理大ダメージを与え、呪い状態にする。範囲内の敵がすでに呪い状態だった場合、さらに呪詛状態にする。呪詛による継続ダメージは毎秒ごとに増加する。=Gây sát thương vật lý lớn lên kẻ thù trong phạm vi 900 và khiến chọn bị Nguyền Rủa. Nếu kẻ thù trong phạm vi 900 đã bị Nguyền Rủa, sẽ gây ra Nguyền Rủa Nặng. Sát thương liên tục do Nguyền Rủa Nặng gây ra tăng lên mỗi giây.
+r:"^範囲内の敵に(\d+)の物理ダメージ敵が呪い状態の時、毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする敵が呪い状態でない時、(\d+)ダメージを与える呪い状態にする$"=►Gây $1 sát thương vật lý lên kẻ thù trong tầm.\n►Nếu kẻ thù trong tầm đã bị Nguyền Rủa, gây Nguyền Rủa Nặng gây $2/s và sát thương tăng 30% mỗi giây trong 19s.\n►Nếu kẻ thù trong tầm chưa bị Nguyền Rủa, gây Nguyền Rủa gây $3/s trong 13s.
+
+##S1##
+ローズカルテ=Bản Đồ Hoa Hồng
+すべての敵のうち最もＨＰの割合が低い敵１キャラに物理中ダメージを与え、物理防御力と魔法防御力を小ダウンさせ、さらに束縛する。=Gây sát thương vật lý trung bình lên kẻ thù có tỷ lệ HP thấp nhất trong toàn bộ kẻ thù, nhẹ nhàng giảm P.DEF và M.DEF của chúng, và trói chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên một kẻ thù.\n►Giảm P/M.DEF của kẻ thù đi $2 trong 12s.\n►Gây trói lên kẻ thù trong 3.5s.
+
+##S2##
+アポトーシスエンハンサー=Cường Hóa Tế Bào Apoptosis
+前方範囲内の敵すべてを呪い状態にし、物理防御力と魔法防御力を小ダウンさせる。=Gây Nguyền Rủa lên kẻ thù trong tầm và giảm P.DEF và M.DEF của chúng một chút.
+r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Gây Nguyền Rủa lên kẻ thù trong phạm vi 900 gây $1/s trong 13s.\n►Giảm P/M.DEF của kẻ thù trong phạm vi 900 đi $2 trong 12s.
+
+##EX##
+ブラックメディカルケア=Chăm Sóc Y Tế Đen
+ブラックメディカルケア+=Chăm Sóc Y Tế Đen+
+
+##S1+##
+ローズカルテ+=Bản Đồ Hoa Hồng+
+すべての敵のうち最もＨＰの割合が低い敵１キャラに物理大ダメージを与え、物理防御力と魔法防御力を中ダウン、物理攻撃力と魔法攻撃力を中ダウンさせ、さらに束縛する。=Gây sát thương vật lý lớn lên kẻ thù có tỷ lệ HP thấp nhất trong toàn bộ kẻ thù, giảm trung bình P.DEF, M.DEF, P.ATK và M.ATK của chúng, và trói chúng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên một kẻ thù.\n►Giảm P/M.DEF của kẻ thù đi $2 trong 12s.\n►Giảm P/M.ATK của kẻ thù đi $4 trong 12s.\n►Gây trói lên kẻ thù trong 3.5s.
+
+##UE##
+ローゼスシリンジ=Xi Măng Hoa Hồng

@@ -1,0 +1,150 @@
+次元断層=Lỗi Không gian
+次元断層へ=Đến Lỗi Không gian
+r:"^開催期間:([0-9/ :]+)～([0-9/ :]+)$"="Thời gian: $1 đến $2 (JST)"
+PHASE\nクリア報酬=Phần thưởng Hoàn thành Giai đoạn
+出現中！=Xuất hiện!
+出現中!=Xuất hiện!
+
+クエスト詳細=Chi tiết nhiệm vụ
+このバトルではキャラ制限は発生しません。=Không giới hạn nhân vật trong trận đấu này.
+ボスのHPは敗北時にリセットされます。=HP của boss sẽ được reset khi bị đánh bại.
+模擬戦設定になっています。=Đặt chế độ tập luyện.
+
+トレジャークエスト=Nhiệm vụ kho báu
+トレジャークエスト出現まで=Nhiệm vụ kho báu tiếp theo
+ゲージが最大までたまると、トレジャークエストに挑戦できます。=Khi thanh đo đầy, bạn có thể thử thách Nhiệm vụ kho báu.
+
+バトル開始確認=Xác nhận bắt đầu trận đấu
+みんな昂りますよぉ！=Mọi người đều hào hứng!
+
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?追\n?加\n?さ\n?れ\n?る。$"=Đã thêm Bóng tối của $1$2 và $3$4.
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+?)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?追\n?加\n?さ\n?れ\n?る。$"=Đã thêm Bóng tối của $1$2, $3$4, và $5$6.
+
+r:"^シャドウ(\d)体追加$"=Thêm $1 bóng tối
+r:"^モンスター(\d)体追加$"=Thêm $1 quái
+
+シャドウ★6化=Bóng tối ★6
+シャドウ強化=Tăng cường Bóng tối
+
+sr:"^([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?★\n?6\n?に\n?な\n?る。$"=Bóng tối của $1$2 và $3$4 trở thành ★6.
+------
+リ=Li
+ノ=Không
+([べ-ヺー＆＝]+?)(（.+）)?のシャドウが★6になる。
+$1$2's shadow becomes ★6.
+
+([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?★\n?6\n?に\n?な\n?る。
+$1$2, $3$4, and $5$6's shadow becomes ★6.
+------
+sr:"^([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?のシャドウが★6になる。$"=Bóng tối của $1$2$3$4$5$6$7$8$9$10$11$12$13$14 trở thành ★6
+
+------
+([べ-ヺー＆＝]+?)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る。
+Unique Equipment was added to $1$2's Shadow.
+
+([べ-ヺー＆＝]+?)(（.+）)?(?:と|、)([べ-ヺー＆＝]+)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る
+Unique Equipment was added to $1$2 and $3$4's Shadow.
+
+([べ-ヺー＆＝]+?)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?、([べ-ヺー＆＝]+)(（.+）)?の\n?シ\n?ャ\n?ド\n?ウ\n?に\n?専\n?用\n?装\n?備\n?が\n?追\n?加\n?さ\n?れ\n?る。
+Unique Equipment was added to $1$2, $3$4, $5$6's Shadow.
+------
+
+バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ50%カット状態にさせる。=Ở đầu trận đấu, Đồ cổ của Car sẽ giảm M.DMG của tất cả đồng minh 50%.
+バトル開始時、カーズ・レリックが味方全体を魔法\nダメージ75%カット状態にさせる。=Ngay khi trận đấu bắt đầu, Di vật Ma thuật sẽ giảm sát thương ma thuật của toàn đồng đội đi 75%.
+
+ボスUB・スキル強化=Tăng cường kỹ năng UB của boss
+ボスモンスターのユニオンバーストとスキルが強化される。=Union Burst và kỹ năng của quái vật boss được tăng cường.
+
+開始時魔法ダメージカット=Giảm sát thương ma thuật khi bắt đầu
+モンスター強化=Tăng cường quái vật
+sr:"^(.+?)のスキルが強化される。$"=Kỹ năng của $1 được tăng cường.
+バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Ngay khi trận đấu bắt đầu, Di vật Hồi phục sẽ giảm sát thương vật lý của toàn đồng đội đi 75%.
+バトル開始時、ヒール・レリックが味方全体を物理ダメージ50%カット状態にさせる。=Ngay khi trận đấu bắt đầu, Di vật Hồi phục sẽ giảm sát thương vật lý của toàn đồng đội đi 75%.
+
+バトル開始時、ボスモンスターがＴＰダウン100％カット状態になる。=Ngay khi trận đấu bắt đầu, debuff giảm TP trên quái vật boss sẽ bị cắt bỏ 100%.
+バトル開始時、ボスモンスターがＴＰダウン50％カット状態になる。=Ngay khi trận đấu bắt đầu, debuff giảm TP trên quái vật boss sẽ bị cắt bỏ 50%.
+ボスＴＰダウンカット=Cắt bỏ giảm TP của boss
+バトル開始時、シールド・レリックのが味方全体に\n継続ＴＰ回復状態を付与する。=Ngay khi trận đấu bắt đầu, Di vật Khiên sẽ áp dụng hiệu ứng hồi TP liên tục cho toàn đồng đội.
+開始時ＴＰ継続回復付与=Thưởng hồi TP liên tục khi bắt đầu
+バトル開始時、アタック・レリックが味方全体の行\n動速度を特大アップさせるフィールドを展開する。=Ngay khi trận đấu bắt đầu, Di vật Tấn công sẽ tạo ra một trường làm tăng tốc độ hành động của toàn đồng đội.
+開始時行動速度アップフィールド=Trường tăng tốc độ hành động khi bắt đầu
+開始時物理ダメージカット=Giảm sát thương vật lý khi bắt đầu
+シャドウ最大ＨＰアップ=Tăng máu tối đa của Shadow
+すべてのシャドウの最大ＨＰが大幅に上昇する。=Máu tối đa của tất cả Shadow sẽ tăng lên rất nhiều.
+バトル開始時、シールド・レリックのが味方全体の\nＨＰを特大回復させる。=Ngay khi trận đấu bắt đầu, Di vật Khiên sẽ phục hồi máu của toàn đồng đội.
+開始時ＨＰ回復=Hồi máu khi bắt đầu
+ボス物理防御力（ダウン不可）アップ=Tăng phòng thủ vật lý của boss (tuyệt đối)
+ボス魔法防御力（ダウン不可）アップ=Tăng phòng thủ ma thuật của boss (tuyệt đối)
+バトル開始時、ボスモンスターの物理防御力を小\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Tăng nhẹ phòng thủ vật lý của boss khi bắt đầu trận. Hiệu ứng này không bị ảnh hưởng bởi giảm phòng thủ vật lý.
+バトル開始時、ボスモンスターの魔法防御力を小\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Tăng nhẹ phòng thủ ma thuật của boss khi bắt đầu trận. Hiệu ứng này không bị ảnh hưởng bởi giảm phòng thủ ma thuật.
+
+バトル開始時、ボスモンスターの魔法防御力を中\nアップさせる。この効果は魔法防御力ダウンの影響\nを受けない。=Tăng trung bình phòng thủ vật lý của boss khi bắt đầu trận. Hiệu ứng này không bị ảnh hưởng bởi giảm phòng thủ vật lý.
+バトル開始時、ボスモンスターの物理防御力を中\nアップさせる。この効果は物理防御力ダウンの影響\nを受けない。=Tăng trung bình phòng thủ ma thuật của boss khi bắt đầu trận. Hiệu ứng này không bị ảnh hưởng bởi giảm phòng thủ ma thuật.
+
+
+
+r:"^バトル時間が(\d+)秒になる。$"=Thời gian trận đấu là $1 giây.
+バトル時間制限=Giới hạn thời gian trận đấu
+
+危険度詳細=Chi tiết nguy hiểm
+ボス魔法ダメージカット=Giảm sát thương ma thuật của boss
+ボス物理ダメージカット=Giảm sát thương vật lý của boss
+ダメージ減衰=Giảm sát thương
+物理ダメージカット=Giảm sát thương vật lý
+魔法ダメージカット=Giảm sát thương ma thuật
+バトル開始時、すべてのキャラのＨＰ吸収を特大ダウンさせる。=Ngay khi trận đấu bắt đầu, khả năng hấp thụ máu của toàn bộ nhân vật sẽ giảm mạnh.
+ＴＰダウン=Giảm TP
+ＴＰダウンカット=Cắt bỏ giảm TP
+すべてのモンスター=Tất cả quái vật
+ボスモンスター=Quái vật boss
+魔法ダメージ=Sát thương ma thuật
+物理ダメージ=Sát thương vật lý
+トレジャークエストはすべてクリアしました。=Đã hoàn thành tất cả nhiệm vụ kho báu.
+sr:"^バトル開始時、(.+)が(\D+)(.+)％カット状態になる。$"=Ngay khi trận đấu bắt đầu, $2 gây ra lên $1 sẽ bị cắt thành $3%.
+
+
+編成キャラ数制限=Nhân vật giới hạn đội hình
+r:"^編成可能キャラ数が(\d+)キャラになる。$"=Số nhân vật có thể sắp xếp là $1.
+編成制限=Bị hạn chế
+
+バトル開始後一定時間、ボスモンスターの物理攻撃\n力が中アップする。=Tấn công vật lý của Quái vật boss sẽ tăng lên mức trung bình trong một khoảng thời gian sau khi trận đấu bắt đầu.
+バトル開始後一定時間、ボスモンスターの魔法攻撃\n力が中アップする。=Tấn công ma thuật của Quái vật boss sẽ tăng lên mức trung bình trong một khoảng thời gian sau khi trận đấu bắt đầu.
+開始時攻撃力アップ=Tăng sức mạnh tấn công khi bắt đầu
+
+バトル開始時、ボスモンスターが敵全員のTPを中\nアップさせる。=Ngay khi trận đấu bắt đầu, quái vật boss sẽ tăng TP của toàn bộ kẻ địch một cách vừa phải.
+開始時TP回復=Bắt đầu phục hồi TP
+
+ボスモンスターのユニオンバーストが強化される。=Union Burst của boss quái vật được tăng cường.
+ボスUB強化=Boss UB Tăng Cường
+
+r:"^パーティキャラの最大HPが(\d+)％ダウンする。$"=HP tối đa của nhân vật trong đội giảm $1%.
+キャラ最大HPダウン=Giảm HP tối đa nhân vật
+
+全PHASEクリア達成！=Đã hoàn thành tất cả các Phase!
+すべてのPHASEをクリアしました！\n\nここからはEXTRA PHASEに突入し\nまだ勝利していないクエストに\n挑戦することができます。=Đã hoàn thành tất cả các phase!\n\nTừ đây bạn có thể vào EXTRA PHASE và thử thách các nhiệm vụ chưa từng thắng.
+
+スペシャルバトルの=Trận đặc biệt
+スペシャルバトル=Trận đặc biệt
+
+r:"^(\[[0-9A-F]{6}\])?次元断層のEXTRA PHASEをクリアしよう(\[-\])?$"=$1 hoàn thành EXTRA PHASE của Dimensional Fault $2
+
+途中でリタイアした場合、この内容はキャンセルされます。=Nếu bạn bỏ cuộc giữa chừng, nội dung này sẽ bị hủy.
+
+sr:"^([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?のシャドウに専用装備(１|２)が追加される。$"=Trang bị độc nhất $15 đã được thêm vào\nShadow của $1$2$3$4$5$6$7$8$9$10$11$12$13$14
+
+sr:"^([べ-ヺー＆＝の]+)(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?が追加される。$"=$1$2$3$4$5$6$7$8$9$10$11$12$13$14 đã được thêm vào.
+モンスター追加=Quái Vật Được Thêm Vào
+
+
+
+５つのPHASEからなる期間限定クエスト『次元断層』が登場しました。\nクエストに３回勝利すると次のPHASEに進めますよ。討伐したモンス\nターは強化されて復活するので、気を引き締めて挑みましょう、主さま。=Một nhiệm vụ giới hạn thời gian "Dimension Fault" gồm 5 PHASE đã xuất hiện. Nếu bạn thắng nhiệm vụ ba lần, bạn sẽ tiến đến PHASE tiếp theo. Các quái vật bị đánh bại sẽ được tăng cường và hồi sinh, vì vậy hãy chuẩn bị tinh thần và thử thách, Lord.
+
+クエストに勝利してゲージが最大になると、トレジャークエストが出現し\nます。トレジャークエストに勝利することでジュエルを獲得できますよ。\n出現したらぜひ挑戦してみてくださいまし。=Nếu bạn thắng nhiệm vụ và đổ đầy thanh đo, một nhiệm vụ kho báu sẽ xuất hiện. Bạn có thể nhận được ngọc bằng cách thắng nhiệm vụ kho báu. Hãy thử khi nó xuất hiện.
+
+PHASE5をクリアしたことで、EXTRA PHASEが解放されました。\nEXTRA PHASEでは、すべてのクエストの最大危険度まで挑戦でき\nるようでございます。すべて勝利して完全クリアを目指しましょう。=Hoàn thành PHASE5 đã mở khóa EXTRA PHASE. Trong EXTRA PHASE, dường như bạn có thể thử thách tất cả nhiệm vụ đến mức nguy hiểm tối đa. Hãy thắng tất cả và hướng đến hoàn thành hoàn toàn.
+
+バトル開始時、すべてのシャドウのＴＰを特大回復。=Ở đầu trận, tất cả Shadows phục hồi một lượng lớn TP.
+
+
+リッチゴーレム=Golem Giàu Có
+【物理】次元の狭間に誕生した、生きた財宝。\n煌めく財貨を散しながら、冒険者に襲い掛かる。\n\n\n・ユニオンバーストは、敵全体に物理大ダメージ\n　を与え、物理攻撃力と魔法攻撃力を大ダウンさ\n　せる。その後、自身の物理防御力と魔法防御力\n　を特大ダウン。このスキルの状態異常はダメー\n　ジを無効化しても付与される。\n\n・敵全体に物理中ダメージを与え、スタンさせる。\n　その後、自身の物理防御力と魔法防御力を特大\n　ダウン。このスキルの状態異常はダメージを無\n　効化しても付与される。\n\n・前方３キャラに物理中ダメージを与え、ノック\n　バックさせる。その後、自身の物理防御力と魔\n　法防御力を特大ダウン。このスキルの状態異常\n　はダメージを無効化しても付与される。\n\n・目の前の１キャラに物理中ダメージを与える。\n　その後、自身の物理防御力と魔法防御力を特大\n　ダウン。=[Vật Lý] Một kho báu sống sinh ra trong khe hở chiều không. Nó tấn công các nhà phiêu lưu khi rải rác những của cải lấp lánh.\n\n►UB: Gây sát thương Vật Lý khổng lồ lên tất cả kẻ thù và giảm mạnh Tấn Công Vật Lý và Tấn Công Ma Thuật. Sau đó, giảm mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của bản thân. Các trạng thái bệnh do kỹ năng này gây ra kéo dài ngay cả khi sát thương bị vô hiệu hóa.\n\n►Gây sát thương Vật Lý vừa phải lên tất cả kẻ thù và gây choáng. Sau đó, giảm mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của bản thân. Các trạng thái bệnh do kỹ năng này gây ra kéo dài ngay cả khi sát thương bị vô hiệu hóa.\n\n►Gây sát thương Vật Lý vừa phải lên ba nhân vật phía trước và đẩy lùi chúng. Sau đó, giảm mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của bản thân. Các trạng thái bệnh do kỹ năng này gây ra kéo dài ngay cả khi sát thương bị vô hiệu hóa.\n\n►Gây sát thương Vật Lý vừa phải lên nhân vật kẻ thù phía trước. Sau đó, giảm mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của bản thân. Các trạng thái bệnh do kỹ năng này gây ra kéo dài ngay cả khi sát thương bị vô hiệu hóa.

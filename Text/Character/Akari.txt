@@ -1,0 +1,53 @@
+##Profile##
+【魔法】中衛で、魔法パーティの強化を担う、双子の妹。敵の魔法防御力を大幅に下げるスキルや、魔法攻撃力を上昇させ、回復効果を付与するユニオンバーストを使う。=[Ma pháp] Một cặp song sinh em, người củng cố các đội hình hướng ma pháp từ hàng giữa. Có kỹ năng giảm mạnh phòng thủ ma pháp của kẻ thù và một Union Burst tăng tấn công ma pháp và mang lại hiệu ứng hồi phục.
+
+サックス=Chơi saxophone
+甘え上手なみんなの人気者=Người được cả thị trấn yêu quý và muốn chiều chuộng
+
+等身大の『自分らしさ』=Life-Size "Personality"
+感謝の気持ちを音に乗せて=Biết ơn Âm thanh
+背伸びをしてみたら=Cứ thử giãn ra thôi
+一番かわいくなるために=Để trở nên dễ thương nhất
+
+お兄ちゃんじゃなきゃダメ=Phải là cậu
+お兄ちゃんと初めての……=Lần đầu tiên của chúng ta...
+好みに合わせますよ♪=Bất cứ thứ gì cậu thích nhất♪
+お兄ちゃん、たくましい♪=To lớn và mạnh mẽ♪
+教えるの上手ですね♪=Cậu đã dạy em rất nhiều♪
+お願いします、コーチ！=Xin hãy huấn luyện em, huấn luyện viên!
+もう限界ですぅ=Em đã đến giới hạn rồi!
+アカリ、落ちちゃうよぉ！=Ôm em vào lòng đi!
+
+##UB##
+スイートデビルエール=Lời Cứu Vãn Của Tiểu Ác Quỷ
+味方全体の魔法攻撃力を小アップさせ、さらに次の攻撃のダメージ量に応じて追加でＨＰを回復させる。=Tăng nhẹ Tấn công Ma pháp của đồng minh và hồi phục HP của họ dựa trên sát thương gây ra bởi đòn tấn công tiếp theo của họ.
+味方全体の魔法攻撃力を中アップさせ、さらに次の攻撃のダメージ量に応じて追加でＨＰを回復させる。=Tăng trung bình Tấn công Ma pháp của đồng minh và hồi phục HP của họ dựa trên sát thương gây ra bởi đòn tấn công tiếp theo của họ.
+r:"^味方全体の魔法攻撃力を(\d+)アップ$"=►Tăng Tấn công Ma pháp của tất cả đồng minh lên $1.
+
+##S1##
+シャドウボルト=Shadow Bolt
+目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương ma pháp trung bình lên kẻ thù phía trước trực tiếp.
+r:"^敵単体に(\d+)の魔法ダメージ$"=►Gây $1 Sát thương Ma pháp lên một kẻ thù.
+
+##S2##
+小悪魔のキス=Impish Kiss
+目の前の敵１キャラの魔法防御力を大ダウンさせる。=Hạ thấp Phòng thủ Ma pháp của kẻ thù phía trước trực tiếp một lượng trung bình.
+r:"^敵単体の魔法防御力を(\d+)ダウン$"=►Hạ thấp Phòng thủ Ma pháp của kẻ thù đi $1.
+
+##EX##
+スウィートイグニッション=Sweet Ignition
+スウィートイグニッション+=Sweet Ignition+
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Tăng trung bình Tấn công Ma pháp của bản thân ở đầu trận.
+
+##UB+##
+メルティデビルチャーム=Melty Devil Charm
+味方全体の魔法攻撃力を特大アップさせ、魔法クリティカルを大アップさせ、次の攻撃のダメージ量に応じて追加でＨＰを回復させる。さらに敵全体の魔法防御力を小ダウンさせる。=Tăng trung bình Tấn công Ma pháp của đồng minh và tăng lớn Tỷ lệ Chí mạng Ma pháp của đồng minh. Hồi phục tất cả đồng minh dựa trên sát thương của đòn tấn công tiếp theo của họ. Hạ thấp Phòng thủ Ma pháp của tất cả kẻ thù một chút.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ敵全体の魔法防御力を(\d+)ダウン$"=►Cấp khả năng hút máu cho đòn tấn công tiếp theo của đồng minh.\n►Tăng M.ATK của đồng minh lên $1 trong 18s.\n►Tăng Tỷ lệ CHÍ MẶC của đồng minh lên $2 trong 18s.\n►Giảm M.DEF của tất cả kẻ địch lên $3 trong 18s.
+
+##S1+##
+シャドウボルト+=Shadow Bolt+
+目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương pháp thuật vừa phải lên kẻ địch phía trước và giảm M.DEF một chút.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương pháp thuật lên kẻ địch.\n►Giảm M.DEF của kẻ địch lên $2.
+
+##UE##
+デモンズトライデント=Demon's Trident

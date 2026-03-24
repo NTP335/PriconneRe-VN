@@ -1,0 +1,69 @@
+カオリとの出会い=Cuộc gặp gỡ với Kaori
+白熱！　格闘大会！=Cuộc tranh tài nảy lửa! Đại hội võ thuật!
+
+フリーマーケットの隅で開かれる格闘大会──\nそこにはカオリもいて……？=Một đại hội võ thuật được tổ chức nơi góc chợ đồ cũ── Và Kaori cũng đang ở đó sao...?
+フリーマーケットの期間も終わりに近づいてきたある日──\nジータと{playername}が会場を訪れると、\n露店も少ない広場の隅に人だかりができているのを見かけた。=Một ngày nọ, khi kỳ hội chợ đồ cũ sắp sửa khép lại── Djeeta và {playername} ghé thăm khu hội chợ thì bắt gặp một đám đông đang tụ tập ở góc quảng trường, nơi vốn có khá ít sạp hàng.
+野郎ども、準備はいいか！\n第一回フリーマーケット格闘大会、始まりだァーーーーッ！！！=Hỡi các anh em, chuẩn bị sẵn sàng chưa! Đại hội võ thuật Chợ Đồ Cũ lần thứ nhất, xin được phép bắt đầuuuuuu!!!
+オオーーーーッ！！！=Ồ Ồ Ồ Ồ Ồ!!!
+格闘大会？\nいくら広場の隅っことはいえ、こんなところで？=Đại hội võ thuật sao? Cho dù là ở góc quảng trường đi nữa, mà lại tổ chức ở nơi thế này à?
+ん～？\nあ～{playername}～！　ハイタ～イ♪\nキミも参加するの～？=Hửm~? A~ {playername} ơi~! Hai-tai~♪ Cậu cũng định tham gia hả~?
+
+Player Input
+カオリちゃん！？=Kaori?!
+
+この子とも知り合いなの？\n……あなた、ちょっと仲がいい女の子が多すぎない？\nまあ、別にいいんだけどね？=Cậu cũng quen biết cả cô bé này nữa sao?\n...Này, chẳng phải cậu có hơi bị nhiều "bạn nữ thân thiết" quá rồi không?\nMà thôi, tớ cũng chẳng để tâm đâu nhé?
+{playername}に紹介されて、\nジータとカオリは挨拶を交わしたのだった。=Sau khi được {playername} giới thiệu, Djeeta và Kaori đã chào hỏi nhau.
+それで……\nカオリちゃんはこの大会に参加するの？\nどういう大会なのかな。=Thế nên là... Kaori-chan sẽ tham gia đại hội này à?\nKhông biết đây là kiểu đại hội như thế nào nhỉ.
+実はね～？\n私もよく分からないさ～\n盛り上がってるから、来てみたんだよ～=Thực ra á~?\nTớ cũng không rõ lắm đâu~\nThấy không khí sôi nổi quá nên tớ ghé vào xem thử thôi~
+なんだ、嬢ちゃんたち知らなかったのか？\nだったら説明しよう！　こいつは武器屋主催の格闘大会さ！\n国の許可はしっかり取ってるみたいだぜ。=Gì chứ, các cô bé không biết sao?\nVậy để ta giải thích cho! Đây là đại hội võ thuật do cửa hàng vũ khí tổ chức đấy!\nNghe đâu họ cũng xin phép quốc gia đàng hoàng rồi.
+規模は小せぇが、優勝者には店主自慢の装備がもらえるって話だ。\nおまけに参加費はタダ！\n腕に自信があるんだったら、参加しない手はないぜ！=Quy mô tuy nhỏ thôi, nhưng nghe nói người thắng cuộc sẽ nhận được trang bị tâm đắc của chủ tiệm đấy.\nThêm nữa là miễn phí tham gia luôn!\nNếu tự tin vào bản lĩnh của mình thì chẳng có lý do gì mà không tham chiến cả!
+へ～、面白そうだね～！\nやっぱり参加してみてよかったさ～♪=Hê~, nghe có vẻ thú vị đấy nhỉ~!\nQuả nhiên quyết định tham gia là đúng đắn mà~♪
+……わ、私も参加する！=...E-Em cũng sẽ tham gia!
+
+Player Input
+ジータ?=Djeeta?
+
+腕自慢が参加するなら、いい経験になると思うし……\nそれに、この間みたいに剣がないままで戦う時が来るかもしれない。\n格闘技も鍛えていかないとね。これも修行だよ！=Nếu có những cao thủ tham gia thì mình nghĩ đây sẽ là một trải nghiệm tốt... Hơn nữa, có thể sẽ đến lúc mình phải chiến đấu mà không có kiếm trong tay như dạo trước. Mình cũng cần phải rèn luyện cả kỹ năng cận chiến nữa. Đây cũng là một phần của sự tu hành mà!
+武器屋=Cửa hàng vũ khí
+決まりだね～♪\n主催者さ～ん、また一人エントリーさ～！=Quyết định vậy đi nhé~♪ Ban tổ chức ơi~, có thêm một người đăng ký nữa nè~!
+こうしてジータとカオリの二人は格闘大会に参戦し、\n順調にトーナメントを勝ち進み──\n決勝戦で拳を交えることとなった。=Thế là cả Djeeta và Kaori đều tham chiến, thuận lợi vượt qua các vòng đấu loại── để rồi cuối cùng họ phải đối đầu trực tiếp với nhau trong trận chung kết.
+わっとっと！\nあは～、すごいキレさ～=Úi chà chà! Ha ha~, những cú ra đòn của em sắc bén thật đấy~
+またかわされた！？\nくっ、見切られてる！　=Lại bị né mất rồi sao!? Hự, chị ấy đọc thấu chiêu thức của mình rồi!
+じゃあ、今度はこっちの番さ～\nいっくよー！！=Vậy thì, giờ đến lượt chị đây~ Chuẩn bị tinh thần nhéee!!
+
+Player Input
+二人ともすごい……！=Cả hai người đều tuyệt vời quá...!
+
+うむ……だが差は開いてきたな。\nカオリ選手に比べて、ジータ選手の疲労が激しい。\n……じきに勝負はつくだろう。=Ừm... nhưng khoảng cách đã bắt đầu lộ rõ rồi. So với tuyển thủ Kaori, tuyển thủ Djeeta đang lộ rõ vẻ mệt mỏi. ...Trận đấu có lẽ sắp ngã ngũ rồi.
+はぁ、はぁ……\n強いね、カオリちゃん……=Hà, hà... Cậu mạnh thật đấy, Kaori-chan...
+あは～ジータも強いよ～\nでも、まだ何か隠してるでしょ～？=A ha~ Djeeta cũng mạnh mà~ Nhưng mà, cậu vẫn còn đang giấu nghề gì đó phải không~?
+っ！？\nえへへ、バレてたか……=!? Hì hì, bị cậu phát hiện rồi sao...
+やっぱり～？\nなんとなく、そんな気がしたんだよ～♪\nねぇねぇ、隠してないで私に見せてほしいさ～！=Quả nhiên là vậy à~? Tớ cứ lờ mờ cảm thấy thế đó~♪ Này này, đừng giấu nữa mà hãy cho tớ xem đi~!
+……分かった。\n本当は今の自分の実力だけで戦い抜きたかったけど……\nそう簡単にはいかないよね。=...Tớ hiểu rồi. Thật lòng thì tớ muốn chiến đấu bằng chính thực lực hiện tại của mình cho đến cùng, nhưng... mọi chuyện không dễ dàng như vậy nhỉ.
+いくよ、カオリちゃん！\nこれが私の──とっておき！！=Tới đây, Kaori-chan! Đây chính là── con át chủ bài của tớ!!
+わわっ、眩しいさ～！！=Oa oa, chói mắt quá đi mất~!!
+はぁぁぁ……！！=Hàaaaa...!!
+あは～！　でーじすごいね～！\nうんうん、とっておきって言ってたのも分かるよ～！=A ha~! Thật là khủng khiếp quá đi~! Ừm ừm, tớ hiểu tại sao cậu lại gọi đó là át chủ bài rồi~!
+お待たせ、カオリちゃん。\nさぁ、勝負再開だよ！=Để cậu đợi lâu rồi, Kaori-chan. Nào, tiếp tục trận đấu thôi!
+ジータがジョブチェンジをしたことで、勝負は再び白熱。\n一進一退の攻防は続いていった。\nしかしそれでも、じわじわと経験の差が現れはじめていた──=Nhờ việc Djeeta chuyển đổi nghề nghiệp (Job Change), trận đấu lại một lần nữa trở nên nảy lửa. Những màn tấn công và phòng thủ giằng co quyết liệt cứ thế tiếp diễn. Thế nhưng, khoảng cách về kinh nghiệm vẫn bắt đầu dần dần lộ rõ──
+やっぱりカオリちゃんは強い……！\nジョブチェンジしても、まだ届かない。\nこうなったら一か八か、大技にかけるしか……！　=Quả nhiên Kaori-chan mạnh thật...! Dù đã chuyển đổi nghề nghiệp rồi mà mình vẫn chưa thể chạm tới tầm của chị ấy. Đã đến nước này thì đành phải đánh cược tất cả vào một chiêu thức lớn thôi...!
+ん～？\nジータ、次に仕掛けてきそうだね～\nだったら、こっちも全力でいくさ～！　=Hửm~? Djeeta, có vẻ cậu sắp tung chiêu tiếp theo rồi nhỉ~ Vậy thì, tớ cũng sẽ dốc toàn lực đây~!
+
+Player Input
+相打ち！？=Cả hai cùng trúng đòn sao!?
+
+ま、まだまだぁ……！\nやあああっ！！=V-Vẫn chưa xong đâu...! Yaaaaah!!
+受けて立つさ～！\nそりゃー！=Tới luôn đi nào~! Soiyah~!
+え？\nわわっ！？=Hả?\nOa oa?!
+かくして──\nジータがジョブチェンジの限界を迎えてしまったことで決着がつき、\n格闘大会はカオリの優勝となったのだった。=Và thế là── trận đấu đã ngã ngũ khi Djeeta chạm đến giới hạn của việc chuyển đổi nghề nghiệp, chức vô địch đại hội võ thuật đã thuộc về Kaori.
+悔しいなぁ……\nもうちょっと頑張れると思ったんだけど……=Tiếc quá đi mất... Mình cứ ngĩ là mình còn có thể cố gắng thêm một chút nữa chứ...
+ジータもすごかったよ～\nでーじ楽しくて、ヒヤヒヤしたさ～！=Djeeta cũng siêu lắm đó~ Vui cực kỳ luôn, làm chị cũng hú hồn mấy phen đấy~!
+だからね～……\nはい、これジータにあげるよ～！=Vậy nên là~... Này, cái này chị tặng lại cho Djeeta đó~!
+これって……優勝賞品だよね！？\nダメだよ、それはカオリちゃんがもらったものだから！=Cái này là... phần thưởng vô địch mà đúng không!? Không được đâu, đó là đồ mà chị Kaori đã nỗ lực để nhận được mà!
+楽しい勝負と、ジータのとっておきを見せてくれたお礼さ～\n私からの気持ちだよ～=Đây là quà đáp lễ cho trận đấu vui vẻ này, và cũng vì em đã cho chị xem "át chủ bài" của mình nữa~ Đó là tấm lòng của chị thôi~
+そ、そういうことなら……\n断るのも悪い……かな。\nじゃあ、ありがたくもらっちゃいます！=N-Nếu đã vậy thì... có lẽ từ chối cũng không hay lắm nhỉ. Vậy thì, em xin phép nhận nó với tất cả lòng biết ơn ạ!
+こっちこそ、ありがとう～♪\nジータ、また戦おうね～！=Chị mới là người phải cảm ơn em nè~♪ Djeeta, lần tới chúng mình lại so tài tiếp nhé~!
+うん！\n今度は私が勝つからね！=Vâng ạ! Lần tới nhất định em sẽ thắng cho xem!
+拳を交えたことで絆が深まったジータとカオリ──\nそんな二人の姿に、{playername}をはじめとした\n格闘大会の関係者一同は熱烈な拍手を贈るのだった。=Sợi dây liên kết giữa Djeeta và Kaori đã trở nên sâu sắc hơn sau màn so tài này── Nhìn dáng vẻ của hai người họ, tất cả những người có mặt tại đại hội võ thuật, bao gồm cả {playername}, đều dành tặng những tràng pháo tay nồng nhiệt nhất.
+
+ジータ・カオリ=Djeeta Kaori

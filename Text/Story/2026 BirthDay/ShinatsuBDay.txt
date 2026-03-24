@@ -1,0 +1,21 @@
+Shinatsu's Birthday
+
+これは……現実世界？\nなぜ、私がここにいるんだ？=Đây là... thế giới thực sao? Tại sao tôi lại ở đây?
+いや、違うな……これは夢か。\n私の理想を実現したような形で……\n誰の思惑かは分からないが、悪意は感じない。=Không, không phải rồi... Đây là một giấc mơ sao? Nó được tạo ra như thể để hiện thực hóa lý tưởng của tôi vậy... Tôi không biết ai là người đứng sau chuyện này, nhưng tôi không cảm thấy ác ý nào cả.
+キミもここに？　そうか、なるほど……\nキミと過ごす時間を、私は望んでいた……ということか。=Cả cậu cũng ở đây sao? Ra vậy, tôi hiểu rồi... Có nghĩa là, tôi đã luôn khao khát... khoảng thời gian được ở bên cạnh cậu.
+……いや、気にしないでくれ。\nそれより、この後はどうする？\n行きたい場所ややりたいことがあれば、私も付き合おう。=......Không, đừng để tâm đến lời tôi vừa nói. Quan trọng hơn là sau đây chúng ta sẽ làm gì? Nếu cậu có nơi nào muốn đi hay việc gì muốn làm, tôi sẽ đi cùng cậu.
+ふぅ……静かな場所で過ごすひととき、実にいいな。\n青々とした草木に、晴れ渡った空……眺めているだけで、心が安らぐ……=Phù... Tận hưởng một khoảnh khắc tại nơi yên tĩnh thế này thực sự rất tuyệt. Cỏ cây xanh mướt, bầu trời trong vắt... Chỉ cần ngắm nhìn thôi cũng đủ thấy lòng bình yên...
+実をいうと、街中のような騒がしさは少々苦手でな……\n人並みに娯楽を楽しむということに、難儀する性分なんだ。\nだから……連れてきてくれて、感謝している。=Thú thật là tôi hơi kém trong việc chịu đựng sự ồn ào náo nhiệt của phố thị... Bản tính của tôi vốn khó lòng tận hưởng những thú vui giải trí như bao người khác. Chính vì thế... tôi rất biết ơn vì cậu đã đưa tôi đến đây.
+しかし……キミはこうしていて、退屈に感じたりしないのか？\n私の好みに付き合わせてしまっているなら、少々心苦しいのだが……=Thế nhưng... cậu ở đây thế này có thấy nhàm chán không? Nếu cậu chỉ đang miễn cưỡng chiều theo sở thích của tôi, thì tôi thấy hơi áy náy...
+む……それはありがたいが……\nいったいどういう理由で？=Hửm... Được vậy thì quý quá, nhưng mà... vì lý do gì cơ?
+誕生日、とは……私の？　……あぁ、そうか……\n私にそんなものがあるなどと、考えたことすらなかったな……=Sinh nhật... là của tôi sao? ...À, ra vậy... Tôi thậm chí còn chưa bao giờ nghĩ rằng mình lại có một ngày như thế...
+ふふっ……それなら確かに、今日はこの上なく特別な日だ。\nならば遠慮する必要もないか……キミの祝いの言葉、確かに受け取った。=Phì cười... Nếu đã vậy thì chắc chắn rồi, hôm nay là một ngày đặc biệt không gì bằng. Vậy thì tôi cũng chẳng cần phải khách sáo nữa nhỉ... Lời chúc mừng của cậu, tôi xin trân trọng đón nhận.
+これは……釣り道具？　ふふっ……ありがたく使わせてもらうよ。\nそうだ、次に会うときは一緒に釣りにでも出かけないか？=Đây là... dụng cụ câu cá sao? Hi hi... Tôi sẽ mạn phép sử dụng chúng nhé. Phải rồi, lần tới khi gặp lại, chúng ta cùng nhau đi câu cá nhé?
+あぁ、今日のことはずっと覚えておく。\nキミからの贈り物も、交わした約束も……決して忘れないよ。\n……ありがとう、{playername}。=Phải, tôi sẽ nhớ mãi về ngày hôm nay. Cả món quà từ cậu, lẫn lời hứa mà chúng ta đã trao... tôi sẽ không bao giờ quên đâu. ...Cảm ơn cậu nhé, {playername}.
+
+Player Prompts
+志名都さん？=Shinatsu-san?
+今日は志名都さんをお祝いする日なので。=Bởi vì hôm nay là ngày để chúc mừng chị mà, Shinatsu-san.
+だって今日は、誕生日ですよね。=Thì bởi vì hôm nay là sinh nhật của chị mà, đúng không?
+プレゼントもありますよ。=Em còn có cả quà tặng chị nữa này!
+いいですね、約束しましょう。=Được ạ, tụi mình hứa nhé.

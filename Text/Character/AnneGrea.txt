@@ -1,0 +1,38 @@
+##Profile##
+【魔法】中衛で、魔力共鳴し連撃を放つマナリアの双姫。ステータスアップ効果を受けると増加する【友情の魔印】がスキルを強化し、波長を合わせた炎の魔槍で敵を討つ。=[Phép thuật] Hai công chúa của Manaria cộng hưởng với nhau để phóng loạt phép thuật tấn công từ trung tuyến. Với [Dấu ấn Phép thuật của Tình bạn] từ tăng chỉ số, họ có thể tăng cường kỹ năng và phóng ngọn giáo phép lửa để tiêu diệt kẻ thù.
+
+一緒にピアノを連弾すること=Chơi piano cùng nhau
+ヒューマン、半人半竜=Người, bán người bán rồng
+
+約束を誓い合うマナリアの双姫=Hai công chúa của Manaria đã thề nguyện
+人助けの魔法=Phép thuật giúp đỡ người khác
+再会の魔法=Phép thuật đoàn tụ
+繋がりあう魔法=Phép thuật kết nối
+素直になる魔法=Phép thuật trung thực
+
+##UB##
+レイディアントインフェルノ=Radiant Inferno
+目の前の敵１キャラに魔法大ダメージを２回与える。このスキルのダメージは、【友情の魔印】の数に応じて増加する。さらに、自分の周囲の味方すべての魔法攻撃力を大アップさせる。=Gây sát thương phép lớn lên kẻ địch phía trước hai lần. Sát thương phép tăng theo số lượng [Dấu ấn Phép thuật của Tình bạn]. Ngoài ra, tăng mạnh M.ATK của đồng minh trong phạm vi.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 (+0.225×$1× \n[Dấu ấn Phép thuật của Tình bạn]) sát thương phép lên kẻ địch.\n►Gây $2 (+0.225×$1× \n[Dấu ấn Phép thuật của Tình bạn]) sát thương phép lên kẻ địch.\n►Tăng M.ATK của đồng minh trong phạm vi 200 lên $3 trong 18s.
+
+##S1##
+フレンズリンケージ=Friends Linkage
+目の前の敵１キャラに魔法小ダメージを２回与える。このスキルのダメージは、【友情の魔印】の数に応じて増加する。=Gây sát thương phép nhỏ lên kẻ địch phía trước hai lần. Sát thương phép tăng theo số lượng [Dấu ấn Phép thuật của Tình bạn].
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Gây $2 sát thương phép lên kẻ địch.
+
+##S2##
+フレンズリード=Friends Lead
+自分がステータスアップ効果を受ける度に、【友情の魔印】が１つ追加される。【友情の魔印】は最大40まで追加される。さらに自分の魔法攻撃力と魔法クリティカルを特大アップさせ、ＴＰ上昇を小アップさせる。=Mỗi khi Anne & Grea nhận được tăng cường, nhận 1 [Dấu ấn Phép thuật của Tình bạn], tối đa 40. Ngoài ra, tăng mạnh M.ATK và Tỷ lệ CHÍ MẠNG của bản thân, và tăng nhỏ TP Boost của bản thân.
+r:"^ステータスアップ効果を受けるたびに【友情の魔印】を付与する状態になる自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを200アップ自分のＴＰ上昇を15アップ$"=►Khi nhận được tăng cường, nhận 1 [Dấu ấn Phép thuật của Tình bạn].\n►Tăng M.ATK của bản thân lên $1 trong 180s.\n►Tăng Tỷ lệ CHÍ MẠNG của bản thân lên 200 trong 180s.\n►Tăng TP Boost của bản thân lên 15 trong 180s.
+
+##EX##
+マナリアハート=Manaria Heart
+マナリアハート+=Manaria Heart+
+
+##S1##
+フレンズリンケージ=Friends Linkage
+フレンズリンケージ+=Friends Linkage+
+ブレイズフレンズランス=Blaze Friends Lance
+
+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを80アップ自分の魔法クリダメを6％アップ自分のＴＰを90回復友情の魔印が40の場合、敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương ma thuật lên 1 kẻ địch.\n►Gây $2 sát thương ma thuật lên 1 kẻ địch.\n►Tăng sát thương ma thuật của bản thân lên $3.\n►Tăng tỷ lệ chí mạng ma thuật của bản thân lên 80.\n►Tăng sát thương chí mạng ma thuật của bản thân lên 6％.\n►Hồi 90 TP cho bản thân.\n\nNếu [Dấu Hiệu Bạn Bè] là 40:\n►Gây $4 sát thương ma thuật lên 1 kẻ địch.

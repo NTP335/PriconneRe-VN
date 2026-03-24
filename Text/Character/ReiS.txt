@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で水刃の加護を纏い水面を駆ける渚の剣士。クリティカル時のダメージを底上げしＵＢ発動の度、纏う【水刃の加護】で全スキルダメージを上げ、敵陣を穿つ。=[Vật lý] Một kiếm sư tuyến đầu được trang trí bởi sự bảo vệ của những lưỡi kiếm nước và vượt qua mặt nước. Với mỗi lần kích hoạt UB, tỷ lệ chí mạng vật lý của đồng minh được tăng cường, và "Lời chúc Lưỡi kiếm Nước" bao bọc xung quanh làm tăng sát thương của mọi kỹ năng, xuyên thấu hàng ngũ kẻ thù.
+
+##UB##
+サマーオーシャングレイス=Sự duyên dáng Đại dương Mùa hè
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【水刃の加護】を７つ追加する。【水刃の加護】は最大10まで追加される。このスキルのダメージは、【水刃の加護】の数に応じて増加し、１ヒットは必ずクリティカルする。=Gây sát thương vật lý cực lớn cho một kẻ thù phía trước, và nhận được 7 [Lời chúc Lưỡi kiếm Nước], tối đa là 10. Sát thương vật lý tăng theo số lượng [Lời chúc Lưỡi kiếm Nước], và mỗi đòn đánh đều chắc chắn là chí mạng.
+
+##S1##
+レイジングフラッド=Lũ lụt cuồng nộ
+自分の周囲の味方すべての物理攻撃力を特大アップさせ、目の前の敵１キャラに物理小ダメージを与える。このスキルの物理攻撃力の上昇量とダメージは、【水刃の加護】の数に応じて増加する。【水刃の加護】を１つ消費する。=Tăng sức tấn công vật lý và tỷ lệ chí mạng vật lý của đồng minh trong phạm vi rất lớn và gây sát thương vật lý nhỏ cho một kẻ thù phía trước. Mức tăng sức tấn công vật lý và sát thương vật lý gây ra dựa trên số lượng [Lời chúc Lưỡi kiếm Nước]. Tiêu thụ 1 [Lời chúc Lưỡi kiếm Nước].
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=►Tăng sức tấn công vật lý của đồng minh trong phạm vi lên $1 trong 12s.\n►Gây $2 sát thương vật lý cho một kẻ thù.
+
+##S2##
+アズールショット=Phát bắn Ngọc lam
+目の前の敵１キャラに物理中ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージは、【水刃の加護】の数に応じて増加する。【水刃の加護】を１つ消費する。=Gây sát thương vật lý vừa phải cho một kẻ thù phía trước và tăng nhẹ sát thương vật lý chí mạng mà chúng phải nhận. Sát thương vật lý gây ra dựa trên số lượng [Lời chúc Lưỡi kiếm Nước]. Tiêu thụ 1 [Lời chúc Lưỡi kiếm Nước].
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを16％アップ$"=►Gây $1 sát thương vật lý cho một kẻ thù.\n►Tăng sát thương vật lý chí mạng mà kẻ thù phải nhận lên 16% trong 12s\n►Tiêu thụ 1 [Lời chúc Lưỡi kiếm Nước].
+
+##EX##
+アンリミットサマー=Mùa hè Vô hạn
+アンリミットサマー+=Mùa hè Vô hạn+
+
+##S1+##
+レイジングフラッド+=Lũ lụt cuồng nộ+
+自分の周囲の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、目の前の敵１キャラに物理大ダメージを与える。このスキルの物理攻撃力の上昇量とダメージは、【水刃の加護】の数に応じて増加する。さらに、自分のＴＰを中回復し、【水刃の加護】を１つ消費する。=Tăng sức tấn công vật lý và tỷ lệ chí mạng vật lý của đồng minh trong phạm vi rất lớn và gây sát thương vật lý cực lớn cho một kẻ thù phía trước. Mức tăng sức tấn công vật lý và sát thương vật lý gây ra dựa trên số lượng [Lời chúc Lưỡi kiếm Nước]. Cũng hồi TP của bản thân một cách vừa phải và tiêu thụ 1 [Lời chúc Lưỡi kiếm Nước].
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＴＰを175回復$"=►Tăng sức tấn công vật lý của đồng minh trong phạm vi lên $1 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của đồng minh trong phạm vi lên $2 trong 12s.\n►Gây $3 sát thương vật lý cho một kẻ thù.\n►Hồi TP của bản thân lên 175.\n►Tiêu thụ 1 [Lời chúc Lưỡi kiếm Nước].
+
+##UE##
+トゥインクルサマーソード=Kiếm Mùa hè Lấp lánh

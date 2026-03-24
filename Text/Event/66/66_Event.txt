@@ -1,0 +1,4 @@
+r:"^アンブローズ魔法学園([0-9\-\(\)\w （）]*)$"=Học Viện Ma Thuật Ambrose $1
+放たれし暴魔・アルゲース=Arges Ác Quỷ Đã Giải Thoát
+称号一覧に直接追加されます=sẽ được thêm trực tiếp vào danh sách tiêu đề
+ベンキョーできる系女子！=Cô ấy là kiểu con gái có thể làm được!

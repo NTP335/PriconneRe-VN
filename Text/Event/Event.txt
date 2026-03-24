@@ -1,0 +1,226 @@
+---Event Banner---
+r:"^◆([0-9//: ]+)を迎える$"=◆Hãy tiếp tục theo dõi $1
+終了まであと=Sự kiện kết thúc trong:
+日=Ngày
+時間=giờ
+分=phút
+開演直前=Sắp ra mắt
+
+r:"^ギルドレース　３区→４区([0-9\-\(\)\w （）]*)$"=Đua Guild [Vùng 3→4] $1
+r:"^神殿への参道([0-9\-\(\)\w （）]*)$"=Đường Đến Đền $1
+r:"^ランドソル郊外([0-9\-\(\)\w （）]*)$"=Ngoại Ô Landosol $1
+r:"^光の裂け目([0-9\-\(\)\w （）]*)$"=Khe Nứt Ánh Sáng $1
+r:"^エリザベスパーク([0-9\-\(\)\w （）]*)$"=Công Viên Elizabeth $1
+r:"^エルピス島 開拓キャンプ一帯([0-9\-\(\)\w （）]*)$"=Đảo Elpis: Khu Vực Trại Khai Hoang $1
+r:"^ゴーストグレイヴ([0-9\-\(\)\w （）]*)$"=Kiếm Ma Quỷ $1
+r:"^マホマホ王国避暑地？([0-9\-\(\)\w （）]*)$"=Kỳ Nghỉ Hè Vương Quốc Mahomaho? $1
+r:"^キッチンスタジアム([0-9\-\(\)\w （）]*)$"=Sân Vườn Bếp $1
+r:"^イルシオンの孤島([0-9\-\(\)\w （）]*)$"=Đảo Ảo Ảnh $1
+r:"^マシーナ地方([0-9\-\(\)\w （）]*)$"=Vùng Đất Masina $1
+r:"^タルグム地方([0-9\-\(\)\w （）]*)$"=Vùng Đất Targum $1
+r:"^ヴィ・ランドソル([0-9\-\(\)\w （）]*)$"=Vi Landosol $1
+r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=Sự kiện: từ $1 đến $2
+r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=Từ $1 đến $2
+r:"^([0-9/ :]+)まで$"=Đến khi $1
+
+r:"^(\d+)日 (\d+)時間$"=$1 ngày $2 giờ
+r:"^(\d+)体撃破$"=$1 × Đã Đánh Bại
+r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Đánh bại $1 trùm bằng cách dùng\n vé bỏ qua và vé trùm.\nĐiều này OK chứ??
+討伐証を集めて、豪華報酬をGET!=Thu thập Huy Chương Chiến Thắng và nhận Phần Thưởng!
+
+[FFBB00,CE4F00]30[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]30[-][3C404E]Vé[-]
+[FFBB00,CE4F00]20[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]20[-][3C404E]Vé[-]
+---Event---
+登録中=Đã Đăng Ký
+ドロップ報酬=Phần thưởng rơi
+ボス詳細=Chi Tiết Boss
+信頼度=Mối Quan Hệ
+消費ボスチケット=Chi Phí Vé Boss
+見放題=Xem Tất Cả
+まで開催中=Đến Sự Kiện
+r:"^推奨プレイヤーLv : (\d+)$"=Cấp đề xuất: $1
+イベントへ=Đến Sự Kiện
+r:"^([0-9/: ]{11})に$"=$1
+イベント開催期間が終了します=Thời gian sự kiện sẽ kết thúc.
+イベント開催予定！=Sự kiện sắp tới!
+イベント開催決定！=Sự kiện sắp tới!
+イベント開催終了！=Sự kiện đã kết thúc!
+ボスバトルは終了しました。=Trận đấu boss đã kết thúc.
+イベントクエストは終了しました。=Nhiệm vụ sự kiện đã kết thúc.
+r:"^開催日時:([0-9/: ]+)～([0-9/: ]+)$"=Thời gian: $1 đến $2
+r:"^期間限定([0-9/: ]+)～([0-9/: ]+)$"=Thời gian$1 đến $2
+
+ボスバトルはスキップできません。=Không thể bỏ qua trận đấu boss.
+イベント報酬券を所持していません。=Bạn không có vé thưởng sự kiện.
+リタイア確認=Xác Nhận Rút Lui
+イベント=Sự Kiện
+レイドイベント=Sự kiện raid
+
+討伐証=Huy Chương
+討伐証交換=Gacha Huy Chương
+イベントクエスト=Nhiệm Vụ Sự Kiện
+イベント\nミッション=Sự Kiện\nNhiệm Vụ
+ベントミッション=Nhiệm Vụ Sự Kiện
+所持上限を超えたアイテムはプレゼントに送られます。=Vật phẩm đạt cấp tối đa sẽ được gửi dưới dạng quà tặng.
+スペシャル=Đặc Biệt
+SP=Bí Mật
+スキップ結果=Kết Quả Bỏ Qua
+スキップ完了=Bỏ Qua Hoàn Tất!
+合計獲得報酬=Tổng Phần Thưởng
+スキップチケット確認=Vé Bỏ Qua
+r:"^イベントクエスト(.+)クリアで解放$"=Hoàn thành nhiệm vụ sự kiện $1 để mở khóa.
+sr:"^(イベント|メイン)クエスト(.+)をクリアで解放されます。$"=Hoàn thành nhiệm vụ $1 $2 để mở khóa.
+r:"^ボスバトル(.+)クリアで解放$"=Hoàn thành trận đấu Boss $1 để mở khóa.
+信頼度プレゼント一覧=Danh Sách Quà Tặng Mối Quan Hệ
+プレゼント一覧=Danh Sách Quà Tặng
+r:"^信頼度を(\d+)まで到達させよう$"=Tăng mối quan hệ lên $1
+信頼度をMAXにしよう=Cấp mối quan hệ tối đa
+
+「VERY HARD」ボスは、１日１体討伐できます。=Boss "Rất Khó" chỉ có thể bị đánh bại một lần mỗi ngày.
+「VERY HARD」は、１日１回完了できます。="RẤT KHÓ" chỉ có thể hoàn thành một lần mỗi ngày.
+残り討伐体数=Số Lần Còn Lại
+ボスチケット枚数=Vé Boss
+合計討伐数=#Chiến Thắng
+r:"^\[FF7C4E,D62146\]([0-9]+)体目出現！\[-\]$"="[FF7C4E,D62146]Boss $1 đã xuất hiện![-]"
+[FF7C4E,D62146]ボス出現！[-]=[FF7C4E,D62146]Boss đã xuất hiện![-]
+r:"^【(\d+)回挑戦中】$"=[Thử Thách: $1]
+r:"^([0-9]+)回目の討伐証交換ラインナップ$"=Hộp Gacha Huy Chương Chiến Thắng Số $1
+挑戦途中のボスはスキップできません。=Boss đang trong quá trình thử thách không thể bỏ qua.
+EXHIBITION討伐数=Số lần Triển lãm
+EXHIBITION＋討伐数=Số lần Triển lãm+
+EXHIBITION＋ バトルログ=NHẬT KÝ TRẢI NGHIỆM+Battle
+
+獲得可能=Còn hàng
+スキップチケットとスタミナを消費してクエストを\n実行します。よろしいですか？=Dùng vé bỏ qua và thể lực\nđể chơi phụ bản này?
+消費スタミナ=Chi phí T.Lực
+消費チケット=Chi phí Vé
+限定キャラ加入\nミッション完了！=Hoàn thành Nhiệm vụ Nhân vật Sự kiện!
+討伐証を集めて、メモリーピースをGET!=Thu Thập Huy Chương để nhận Mảnh Ký ức!
+全ラインナップ詳細=Tất cả Đội
+便利設定=Tùy chọn
+r:"^([1-9])回目の報酬をリセット$"=Đổi quà $1
+報酬をリセット=Đặt lại Quà
+もう一度交換=Đổi lại
+獲得した報酬は所持アイテムに直接付与されます。=Phần thưởng nhận được sẽ được trao trực tiếp cho bạn.
+現在のラインナップ=Đội Hiện tại
+プリンノート=Ghi chú Pudding
+スキップチケット解放=Mở khóa Vé Bỏ qua
+
+ダメージ割合=Tỷ lệ Sát thương
+与えた総ダメージ=Tổng sát thương
+
+編成不可=Không thể\nSử dụng
+
+前編へ=Đến Phần 1
+後編へ=Đến Phần 2
+[3C404E]リタイアするとボスバトル報酬を\n獲得することができません。\nボスチケットは消費されません。\n\nよろしいですか？\n[-]=[3C404E]Bạn sẽ không thể nhận phần thưởng trận boss nếu bỏ cuộc.\nVé boss không bị tiêu hao.\n\nTiếp tục?[-]
+ボスバトルリタイア=Bỏ cuộc Trận boss
+あとボスを3回1バトルで撃破することで解放されます。=Có thể Bỏ qua khi đánh bại boss 3 lần trong 1 trận.
+あとボスを2回1バトルで撃破することで解放されます。=Có thể Bỏ qua khi đánh bại boss 2 lần trong 1 trận.
+あとボスを1回1バトルで撃破することで解放されます。=Có thể Bỏ qua khi đánh bại boss 1 lần trong 1 trận.
+魔法提督ラブリー★モニカ レッツゴー！マジカルカルテット！=Đô đốc Ma thuật Lovely★Monika Cùng nhau nào! Bộ tứ Ma thuật!
+---Login---
+イベントログインボーナス獲得=Nhận Quà Đăng nhập Sự kiện
+r:"^(\d+)日目のログインボーナスとして以下のアイテムを(?:獲得しま|受け取りま)した。$"=Nhận vật phẩm làm quà đăng nhập Ngày $1.
+
+---exhibition---
+バトルログがまだありません。=Không có nhật ký trận.
+エキシビションモード バトルログ=Nhật ký Trận Chế độ Triển lãm
+バトルログは最大60件までしか保存できません。=Bạn chỉ có thể lưu trữ tối đa 60 bản ghi trận.
+バトルログがありません。=Không có nhật ký trận.
+推奨プレイヤーLv=Cấp đề xuất
+
+現在の挑戦回数=Số lần thử
+
+r:"^挑戦回数[\r]*\n(\d+)回$"=$1pan
+討伐日時=Thời gian:
+
+r:"^挑戦(\d+)回目$"=Đội $1
+---lineup---
+
+交換=Lăn
+r:"^(\d+)枚消費$"=Đổi $1
+全ラインナップの確認=Đội Đầy đủ
+リセット対象報酬=Phần thưởng Chính
+通常報酬=Phần thưởng Chung
+設定可能!=Có thể cấu hình!
+まとめて交換=Tất cả một lần
+すべて交換=Đổi
+報酬ラインナップリセットについて=Phần thưởng Đội được Đặt lại
+リセットする=Đặt lại
+獲得一覧へ=Danh sách
+リセット確認=Xác nhận đặt lại
+リセットすると元に戻すことはできません。\nリセットすることにより、\n新しい報酬ラインナップに切り替わります。\n\nよろしいですか？=Việc đặt lại không thể hoàn tác; việc đặt lại sẽ chuyển bạn sang danh sách phần thưởng mới.\n\nBạn có chắc chắn không?
+リセットすると元に戻すことはできません。リセットすることにより、新しい報酬ラインナップに切り替わります。よろしいですか？=Việc đặt lại không thể hoàn tác; việc đặt lại sẽ chuyển bạn sang danh sách phần thưởng mới.\n\nBạn có chắc chắn không?
+リセット完了=Đặt lại hoàn tất
+報酬ラインナップをリセットしました。=Danh sách phần thưởng đã được đặt lại.
+r:"^合計 (\d+)$"=Tổng $1
+r:"^残り (\d+)/(\d+)$"=$1/$2 Còn lại
+r:"^(\d+)回目の報酬ラインナップをすべて獲得しました。$"=Bạn đã nhận được toàn bộ danh sách phần thưởng $1.
+次の報酬ラインナップに切り替えます。=Chuyển sang danh sách phần thưởng mới.
+
+討伐証交換で、リセット対象アイテムを入手すると、即時ラインナップのリセットが行えます。\n\nリセット対象アイテムを入手した後も、リセットせずに引き続き同じラインナップ内から交換することも可能です。\n\n6回目以降のラインナップリセットは、討伐証交換報酬のラインナップを交換しきった場合に限り、リセットを行えます。=Sau khi nhận được phần thưởng đặt lại danh sách từ Gacha Huy chương Chiến thắng, bạn có thể đặt lại danh sách ngay lập tức.\n\nBạn cũng có thể lựa chọn tiếp tục sử dụng danh sách hiện tại mà không đặt lại.\n\nTừ danh sách thứ 6 trở đi, bạn chỉ có thể đặt lại sau khi nhận được toàn bộ danh sách Huy chương Chiến thắng.
+討伐証交換で、リセット対象アイテムを入手すると、即時ラインナップのリセットが行えます。\n\nリセット対象アイテムを入手した後も、リセットせずに引き続き同じラインナップ内から交換することも可能です。\n\n5回目以降のラインナップリセットは、討伐証交換報酬のラインナップを交換しきった場合に限り、リセットを行えます。=Sau khi nhận được phần thưởng đặt lại danh sách từ Gacha Huy chương Chiến thắng, bạn có thể đặt lại danh sách ngay lập tức.\n\nBạn cũng có thể lựa chọn tiếp tục sử dụng danh sách hiện tại mà không đặt lại.\n\nTừ danh sách thứ 5 trở đi, bạn chỉ có thể đặt lại sau khi nhận được toàn bộ danh sách Huy chương Chiến thắng.
+
+イベント報酬券の交換で、リセット対象報酬を入手すると、即時ラインナップのリセットが行えます。\n\nリセット対象報酬を入手した後も、リセットせずに引き続き同じラインナップ内から交換することも可能です。\n\n6回目以降は報酬のラインナップを交換しきった場合に限り、リセットを行えます。=Việc đổi Vé Phần thưởng Sự kiện lấy Phần thưởng Chính cho phép bạn đặt lại danh sách ngay lập tức.\n\nNgay cả khi đã nhận Phần thưởng Chính, bạn vẫn có thể tiếp tục đổi từ danh sách hiện tại mà không đặt lại.\n\nBắt đầu từ lần đổi thứ 6, bạn chỉ có thể đặt lại sau khi đã dùng hết tất cả phần thưởng trong danh sách.
+
+r:"^(\d+)回目の報酬交換ラインナップ$"=Danh sách phần thưởng đổi: Vòng $1
+
+まとめて交換確認=Xác nhận đổi một lần
+交換後のBOX状況=Trạng thái hộp
+リセットするBOX数=Đặt lại hộp
+r:"^([0-9,]+)枚の討伐証をまとめて交換しますか？$"=Bạn có muốn đổi\n\n$1 Huy chương Chiến thắng một lần không?
+
+r:"^([0-9,]+)枚のイベント報酬券をまとめて交換しますか？$"=Bạn có muốn đổi\n\n$1 Vé Phần thưởng Sự kiện hàng loạt không?
+リセットすると元に戻すことはできません。\n\nリセットすることにより、\n新しい報酬ラインナップに切り替わります。\n\nよろしいですか？=Việc đặt lại không thể hoàn tác; việc đặt lại sẽ chuyển bạn sang danh sách phần thưởng mới.\n\nBạn có chắc chắn không?
+
+
+
+r:"^討伐証([0-9,]+)枚を消費して、以下のアイテムを獲得できます。$"=Đổi $1 Huy chương Chiến thắng và nhận được các vật phẩm sau.
+確定で獲得できる報酬はありません。=Không có phần thưởng Cố định.
+まとめて交換詳細=Chi tiết đổi một lần
+リセットされないBOXの報酬は、未確定のためこの一覧に含まれません。=Phần thưởng hộp không được đặt lại không có trong danh sách này vì chúng chưa được quyết định.
+
+まとめて交換完了=Đổi một lần hoàn tất
+リセットしたBOX数=Đặt lại hộp
+交換結果は以下になりました。=Kết quả đổi như sau.
+討伐証を所持していません。=Bạn không có Huy chương Chiến thắng nào.
+r:"^(\d+)回交換はできません。$"=Bạn không có Huy chương Chiến thắng nào.
+
+sr:"^\[3C404E\]([^\[]+)\[-\]$"=[3C404E]$1[-]
+ボスNORMAL討伐で解放！=Đánh bại boss (N) để Mở khóa!
+解放条件=Điều kiện mở khóa
+[FFBB00,CE4F00]イベント限定キャラをGETしよう！[-]=[FFBB00,CE4F00]Nhận nhân vật giới hạn sự kiện![-]
+イベントを進めて、ボスに挑戦！\nボスNORMALを討伐すると、\n限定キャラ解放！！=Tiến lên sự kiện và thử thách boss! Nếu bạn đánh bại boss NORMAL, nhân vật giới hạn sẽ được Mở khóa!!
+アイテムが不足しています=Không đủ vật phẩm
+未読EPISODE=Tập chưa đọc
+sr:"^(?:\[3C404E\])?(.+?)との信頼度エピソード\n「\[FFBB00,CE4F00\](.+?)\[-\]」が\n解放されました。(?:\[-\])?$"="[3C404E]$1's Intimacy Episode\n"[FFBB00,CE4F00]$2[-]"\nĐã được mở khóa.[-]"
+sr:"^イベント「エピソード・オブ・パイレーツ　([\s\S]+)」のスペシャルエピソードが解放されました。$"="Tập đặc biệt của sự kiện "Tập của \n$1" đã được mở khóa."
+sr:"^(.+)(（.{2,10}）)?が(\n)?解放されました。$"=$1$2$3 đã được Mở khóa.
+
+イベント限定キャラ解放=Nhân vật Giới hạn Sự kiện đã được Mở khóa
+条件を達成したためスキップチケットを使用することができるようになりました。=Vì bạn đã đáp ứng điều kiện\nBạn có thể sử dụng Vé Bỏ qua.
+sr:"^(.+?)との信頼度(エピソード)?$"=$1's Intimacy $2
+信頼度エピソード解放=Tập Thân mật đã được Mở khóa
+閲覧する=Xem
+
+sr:"「([^」]+)」\nのスペシャルエピソードが解放されました。"=Tập đặc biệt của\n$1\nđã được mở khóa.
+
+
+---NPC (Karin)---
+お疲れ様です！\nここでは、討伐証と報酬を\n交換することができます！=Otsukaresama! Bạn có thể đổi Huy chương Chiến thắng lấy phần thưởng ở đây!
+受け取ることができる\n報酬があるようです\n確認してみてください=Bạn có phần thưởng\nđang chờ được nhận!
+報酬がもらえますよ！\nチェックしてみてください=Đừng quên nhận!\nPhần thưởng nhiệm vụ của bạn!
+終わっちゃいましたねー\n討伐証は努力の証！\n報酬と交換しましょう！=Sự kiện kết thúc rồi! Nhưng những Huy chương Chiến thắng này là minh chứng cho nỗ lực của cậu, nên đừng quên đổi chúng!
+お疲れ様でした\n討伐証の交換、\nお忘れないように！=Chào mừng trở lại! Đừng để những Huy chương Chiến thắng không được đổi!
+ギルド管理協会です！\n討伐証をお持ちでしたら、\n報酬交換できますよ=Lời chào từ Hiệp Hội Quản Lý Guild! Cậu có thể đánh bại quái vật và đổi chúng lấy phần thưởng ở đây.
+イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。=Sự kiện này có một câu chuyện đặc biệt.\nCác tập mới sẽ được mở khóa khi cậu tiến qua các nhiệm vụ sự kiện.
+強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。=Sự kiện này có một boss cực mạnh với độ khó Rất Khó.\nChỉ có thể đánh bại nó một lần mỗi ngày.\nCậu cần chuẩn bị thật tốt nếu hy vọng chinh phục nó.
+討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラ{{A}}もあります。\nたくさん集めてキャラを仲間にしましょう。=Trao đổi Huy Chương Chiến Thắng là cơ hội để nhận phần thưởng.\nTrong số phần thưởng có Mảnh Ký Ức cho các nhân vật liên quan đến Sự Kiện. Hãy cố gắng thu thập thật nhiều để mở khóa thành viên mới trong đội!
+スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。=Trận chiến đặc biệt là trận chiến trong đó chế độ trận đấu thay đổi theo 3 chế độ. Nhận thêm phần thưởng xa hoa và phần thưởng nhiệm vụ. Chỉ có thể chinh phục một lần trong thời gian, vì vậy hãy lập kế hoạch tổ chức và thử thách.
+
+エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。=Chế độ Triển Lãm cho phép cậu chiến đấu với các boss ĐẶC BIỆT nhiều lần. Cậu cũng có thể lưu và xem lại nhật ký trận đấu, vì vậy hãy tìm chiến lược của riêng mình và thử nghiệm các đội hình khác nhau.
+イベントお疲れ様です！\n皆さんのご活躍ぶりには\nいつも感謝しています=Chúc mừng sự kiện! Tôi luôn biết ơn vì thành công của cậu!
+討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。=Gacha Huy Chương Chiến Thắng là cơ hội để nhận phần thưởng. Trong số phần thưởng, cũng có mảnh ký ức của nhân vật xuất hiện trong sự kiện. Thu thập nhiều và kết bạn với nhân vật giới hạn.
+イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。=Các nhân vật có thể được giải phóng sẽ xuất hiện khi cậu hoàn thành các nhiệm vụ giới hạn sự kiện. Hãy cố gắng hoàn thành nhiệm vụ trong thời gian sự kiện.
+イベントクエストやボスに挑戦すると、信頼度エピソードが発生する\nことがございます。会話の結果によって信頼度がアップし、\n特定の信頼度に到達するとプレゼントがもらえます。=Khi cậu thử thách các nhiệm vụ và boss sự kiện, các tập độ tin cậy có thể xảy ra. Tùy thuộc vào kết quả cuộc trò chuyện, độ tin cậy sẽ tăng lên, và khi đạt đến một mức độ tin cậy nhất định, cậu sẽ nhận được một món quà.

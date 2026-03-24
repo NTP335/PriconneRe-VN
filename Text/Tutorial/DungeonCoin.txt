@@ -1,0 +1,2 @@
+ダンジョンコインを手に入れましたね。\n獲得したダンジョンコインはショップで使えます。\nさっそくショップに行ってみましょう。=[3C404EFF]Bạn nhận được một xu hầm ngục.\nXu hầm ngục kiếm được có thể dùng trong cửa hàng. Đi đến cửa hàng ngay bây giờ.
+ダンジョンコインを集めることで、\nキャラのメモリーピースや、\n装備と交換できます。=[3C404EFF]Bằng cách thu thập xu hầm ngục, bạn có thể đổi chúng lấy Mảnh Ký ức Nhân vật và trang bị.

@@ -1,0 +1,240 @@
+部下の男=Nam Nhân Viên
+男性=Nam
+魅空=Misora
+商店街の店員=Nhân Viên Cửa Hàng
+通行人の男=Nam Đi Đường
+
+落ちていく最中、黒服に追われる少女を連れ逃げる光景を見た\n{playername}。地面に落ちる直前ミソラをかばう。それを受けて思わ\nず超能力で危機回避したミソラは、ラブに少し近づけたと笑う\nのだった。={playername} thấy một cô gái bị những người đàn ông mặc đồ đen đuổi theo khi họ đang rơi. Anh bảo vệ Misora ngay trước khi chạm đất, khiến Misora vô tình dùng năng lực siêu nhiên cứu cả hai. Cô cười khi nhận ra mình đã gần như rơi vào tình yêu hơn một chút.
+
+「超能力を使わない」と宣言したミソラは\n{playername}の腕を掴んだまま\n城壁の上から飛び降りた。=Misora tuyên bố 'Tôi sẽ không bao giờ dùng năng lực nữa' và nhảy từ đỉnh bức tường trong khi vẫn nắm tay {playername}.
+
+それは数秒後、彼らの命を奪うのに十分な高さで──……=Nó đủ cao để lấy mạng họ chỉ trong vài giây...
+
+そのとき。\nまるで走馬灯のように、\n{playername}の脳裏に不思議な光景がよぎった。=Ngay lúc đó, một cảnh tượng kỳ lạ hiện lên trong tâm trí {playername}.
+
+えっと……=Ừm...
+僕は、何をしてたんだっけ……=Mình vừa...
+『……から……へ。\n……、発見できま……』="Từ... đến... không thể... tìm thấy..."
+
+『……了解。\n班を……、……の捜索を……』="...Rõ.\nĐội... Tiếp tục tìm kiếm..."
+
+……あのひと、何をしてるんだろう？=...Người đó đang làm gì vậy?
+
+……班長。\n目標は、瞬間移動みたいなことだってできちまうんでしょう？\nなら、もうこの辺りにはいないんじゃ……=...Thưa lãnh đạo, mục tiêu không phải có khả năng dịch chuyển sao? Có lẽ cô ấy không còn ở khu vực này nữa.
+
+いや。\n目標が能力を使えば、こっちの機器に反応があるはずだ──=Không. Nếu mục tiêu đang dùng năng lực thì thiết bị của chúng ta đã phản ứng rồi.
+
+……ちょっと待て。\n地元のガキが見てる。\n移動するぞ。=...Khoan đã, có đứa trẻ đang nhìn. \nĐi thôi trước.
+
+行っちゃった……=Chúng đi rồi...
+
+僕も、誰かを探していたような……？=Chẳng phải mình cũng đang tìm một người sao...?
+
+──きゃんっ★=Kyaa★
+
+すみませーん、大丈夫ですかっ？\nわたしったら、すっごい慌てちゃっててー=Xin lỗi, cậu ổn chứ? Tôi đang vội lắmー
+
+君は……=Cậu là...
+
+わたしですか？\nわたしは、試験体Ｍ３号──=Tôi? Tôi là Thử nghiệm M3ー
+
+じゃなくて♪\n流魅空っていいます★\nあなたは……=Không♪ Tôi là Nagare Misora, còn cậu là...?
+
+っと！\nごあいさつしてる場合じゃなかったです！\nわたし今、とっても大変なんでしたっ。=Á! Giờ không phải lúc để xã giao đâu.\nBây giờ, tôi đang gặp rắc rối lớn!
+どうしたの？=Có chuyện gì vậy?
+えっとえっと……=Ừm...
+
+すみません、初対面のあなた！\nわたし、悪いやつらに追われちゃってて。\n助けてくださいっ！=Xin lỗi, người mà tôi chưa từng gặp!\nTôi đang bị vài tên xấu đuổi theo nên hãy cứu tôi!
+
+そんなこと言われても……=Dù cậu nói thế...
+
+もぉ。こんなかわい……かよわいオンナノコが\nよってたかって狙われてるんですよ？\nオトコノコなら、助けなくっちゃ！　ですよ？=Nhưng một cô gái xinh đẹpー... yếu ớt bị đuổi theo～\nBất kỳ người đàn ông nào cũng sẽ cứu cô ấy, phải không?
+
+分かった。=Được.
+
+えっ？\nほんとに？=Hả? Cậu chắc chứ?
+
+困ってるなら、助けるよ。=Nếu cậu gặp rắc rối, tôi sẽ cứu cậu.
+
+ふふっ……はい★=Ehehe... Được rồi★
+
+目標発見！\nさっきのガキも一緒です！=Tìm thấy mục tiêu rồi!\nĐứa trẻ ban đầu cũng ở với cô ấy!
+
+まとめて捕らえろ！\n絶対逃がすな！=Bắt chúng!\nĐừng để chúng trốn!
+
+あちゃー、さっそく見つかっちゃったみたいですね。=Ahhー Hình như chúng tìm thấy rồi.
+
+逃げよう！=Chạy thôi!
+
+はーい★=Vâng～★
+
+待て、ガキども！=Khoan, mấy đứa ranh!
+
+逃げ切れると思うなよ！=Đừng nghĩ rằng các ngươi có thể thoát thân!
+
+んー\nこのままじゃ、追いつかれちゃいそうですねー=Hừm...\nCứ thế này thì bọn họ sẽ bắt được chúng mìnhー
+
+──あっ♪\nこんなところに消火器が★=Ồ♪ Một bình chữa cháy ở nơi như thế này★
+
+どうするの！？=Phải làm sao bây giờ!?
+
+もちろん、決まってるじゃないですか♪\nせーのっ──=Mình có ý tưởng♪\nBây giờー
+
+どるるるる～ん★=Dorururu～n ★
+
+うおおおっ！？=Ối!
+
+げほっ、げほっ……\nガキが、ナメやがって……！=*ho khan*...\nMấy đứa ranh, đừng có chọc giận bọn ta!
+
+ちょっとあんたたち、なにやってんだい！？=Khoan, bọn họ đang làm gì vậy!?
+
+
+ケーサツ呼ぶぞ、ケーサツ！=Tôi gọi cảnh sát đây!
+
+んー\nなんだかずいぶん騒ぎになっちゃいましたね。=Hừmー\nVừa rồi gây ra khá nhiều ồn ào, phải không?
+
+ふふっ。\nものはついでです♪\nそこの自転車、借りちゃいましょう★=Ehehe～ Vậy thì tận dụng cơ hội này nhé♪\nChúng ta mượn chiếc xe đạp kia đi?
+
+それはちょっと……=Có hơi...
+
+もー、あとで返せば大丈夫ですって♪\nはやくはやく～！=Được rồi～ Tớ sẽ trả lại sau♪\nThôi nào, đi thôi!
+
+ふぅ★\nひとまず、あのひとたちは振り切れたみたいですねー♪=Phew～★\nCó vẻ như tạm thời chúng ta đã lọt khỏi tay bọn họー♪
+
+ふふっ。\n大変かもですけど、がんばって漕いでくださーい★\n限界になったら、わたしが代わってあげますから♪=Ehehe. Có thể sẽ mệt, nhưng cố lên nhé★\nKhi cậu mệt rồi, mình sẽ thay cậu♪
+
+まだ、大丈夫……=Mình vẫn ổn...
+
+わぁ、頼もしいです★\nさっすがオトコノコ、ってカンジですねー♪=Ồ, đáng tin cậy thật!\nCậu đúng là con trai thật♪
+
+それに……ふふっ。\nこういうの、なんだかドキドキしますね♪\nスパイ映画のワンシーンってカンジじゃないですか？=Hơn nữa... Ehehe♪ Cảm giác như thế này thật sự làm tim mình đập thình thịch♪\nChúng ta trông giống như cảnh trong phim gián điệp phải không?
+
+こんな状況なのに、楽しそうだね。=Cậu thật sự đang tận hưởng bất chấp tình hình.
+
+たしかに、捕まったら。\nまたアンチサイ装置をつけられて、幽閉されちゃうでしょうけど……\nふふっ♪=Đúng thật, nếu mình bị bắt...\nThì bọn họ sẽ gắn thiết bị để khóa năng lượng của mình và giam mình lại nữa. Ehehe♪
+
+なんてゆーかー\nこうして誰かが助けてくれるのって、いーなーって★=Nhưng mà... Được cứu như thế này cũng không tệ chút nào★
+
+わたしのコト、身体を張って助けてくれるヒトなんて。\nこれまでずーっと、だーれもいませんでしたから。=Cho đến bây giờ, mình chưa từng có người nào sẵn sòng mạo hiểm mạng sống vì mình.
+
+そもそも、どうして追われてたの？=Tại sao bọn họ lại truy đuổi cậu ngay từ đầu?
+
+それはですね、わたしがとーってもカワイイから★\n……じゃなくて……=Thấy không, là vì mình xinh đẹp quá★\n...À, chắc không phải♪
+
+わたし、どうもこの世界のイレギュラー？\nっていうか、バグみたいな存在らしいんですよねー=Có vẻ như mình là một ngoại lệ trong thế giới này.\nGiống như một lỗi trong chương trình vậy.
+
+おかげで、拉致られたり実験台にされたりで。\nほんとカンベンしてほしいなーってキモチなんですけど。\nついでに親も死んじゃいましたし？=Vì thế, mình đã bị bắt cóc và dùng làm đối tượng thí nghiệm.\nMình thực sự muốn trốn khỏi tất cả những chuyện đó, nhưng bố mẹ mình cũng đã mất rồi.
+
+……そんな……=Thế à...
+
+...Ehe.\nもうカオもちゃんと覚えてないんで、気にしないでください★\nそれよりもー=...Ehe. Mình thậm chí còn không nhớ mặt họ, nên cậu đừng phải cảm thấy tội lỗi★\nQuan trọng hơn làー
+
+そろそろ、お別れしときましょっか♪\nたくさん漕いでくれて、ありがとうございました。=Đã đến lúc tạm biệt rồi♪\nCảm ơn cậu rất nhiều vì đã đưa mình đi xa đến thế～
+
+えっ？=Gì cơ?
+
+だってほら。\n足も疲れちゃうわけですから、\nこのまま永遠に自転車で逃避行ってワケにもいかないですよね？=Cậu biết chứ, chúng ta không thể trốn mãi bằng xe đạp được, phải không? Cuối cùng cậu cũng sẽ mệt...
+
+結局、追っ手の狙いはわたしなんですから。\nいつまでもわたしに付き合ってると、\nあなたまでひどいコトになっちゃうかもですよ？=Và rốt cuộc, chỉ có mình là mục tiêu bọn họ truy đuổi.\nNếu cậu cứ tiếp tục ở bên cạnh mình, cậu sẽ gặp nguy hiểm, cậu biết chứ?
+
+……そうかもしれないけど……=Điều đó có thể đúng, nhưng...
+
+けど？=Nhưng...?
+
+こうなったら、最後まで付き合うよ。=Dù có vậy đi nữa, mình sẽ ở bên cậu đến tận cùng.
+
+……わぁ★\nわぁ～★=...Ồ★\nThật sự ồ～★
+
+こんな状況で、本当にそんなコト言えちゃうなんて。\nさすが、ってカンジですね。=Mình thực sự ấn tượng vì cậu có thể nói điều đó trong tình huống như thế này. Cậu đúng là nam tử hơn mình tưởng★
+
+……ふふっ。\nイイですねー\nボーイミーツガールで吊り橋効果とか★=...Ehehe. Cảm giác này thật tuyệtー\nTình huống kiểu "Boy Meets Girl"★
+
+っとぉ★\nなんでもないでーす♪=Ồ, chẳng có gì♪
+
+そうと決まれば、じゃんじゃん漕いでくださいね？\n振り落とされないように、\nわたし、ぴーったりくっついちゃいますから♪=Nếu cậu quyết tâm như vậy, thì hãy đạp xe nhanh hơn nữa!\nVà mình sẽ bám vào cậu chặt hơn để không bị rơi♪
+
+あなたみたいなひとと、もっと早く出会えてたら──\nわたしは救われてたかもですね。\n騎士さん……★=Nếu mình gặp được người như cậu sớm hơn, có lẽ mình đã được cứu rồi. Kishi-san...★
+
+落ちる──！！=Mình sắp rơiー!!
+
+城壁の上から、\n即死確実の速度で落下する\nミソラと{playername}。=Misora và {playername} đang rơi từ đỉnh tường thành với tốc độ chắc chắn sẽ chết.
+
+地面にたたきつけられる直前、\n{playername}は──=Ngay trước khi chúng chạm đất, {playername}...
+
+ミソラを抱きしめる。=Ôm chặt Misora.
+
+ミソラをかばう。=Bảo vệ Misora.
+
+っ！！？=!!?
+
+……あ、あれ……？=C-chuyện gì vậy...?
+
+……ふふっ。\nおはようございます、きーしさん★=...Hehe. Dậy đi nào, Kishi-san★
+
+僕たち、落ちてたはずじゃ……=Chúng ta lẽ ra phải va chạm xuống đất...
+
+そうですねー\n二人して、頭から真っ逆さまでしたもんねー=Đúng rồiー\nHai đứa mình đang rơi đầu xuống đấtー
+
+なら今のコレは、\n走馬灯、ってやつじゃないですか？=Điều đó có nghĩa là đây là khoảnh khắc 'cuộc đời hiện ra trước mắt' chăng?
+
+……なーんて。\n騎士さんが見た「走馬灯っぽいもの」は\nわたしが共感覚で見せた、まぼろしってやつです。=...Đùa thôi★\nĐiều cậu thấy trước đó chỉ là ảo giác.
+
+それに──\n確かにわたしたち、地面にぶつかっちゃう0.1秒前でしたけど。\nそれより早く、テレポーテーションで跳んじゃいました。=Và... đúng là chúng ta đang rơi đầu xuống đất. Nhưng 0.1 giây trước khi chạm đất, tôi đã dịch chuyển hai đứa mình đến đây.
+
+……死ぬのなんて、ぜんぜん怖くないですし。\n騎士さんと一緒なら、すっごくアリよりのアリだなーって。\nそう思ったんですけど……=Tôi thực sự không sợ chết nếu ở cùng cậu.\nĐó là điều tôi nghĩ, nhưng...
+
+さっき騎士さんが、わたしをハグしてくれたとき。\nなんだかすっごく、「キュン★」てしちゃって。\n気付いたら、テレポーテーション使っちゃってました。=Khi Kishi-san ôm tôi lúc nãy, tôi cảm thấy 「Kyuun★」\nđến mức đã dịch chuyển hai đứa mình trước khi kịp biết mình đang làm gì.
+
+ごめんなさい？\n超能力使いません、って約束したのに。\nわたしってば、また秒で破っちゃいましたね。=Tôi thực sự xin lỗi. Tôi đã hứa không dùng năng lực psi, nhưng lại phá lời hứa một lần nữa.
+
+それは、いいけど……=Được... nhưng mà...
+
+本当に、死ぬつもりだったの……？=Cậu thực sự không sao nếu chết...?
+
+はい★\nだって、夕陽がとってもキレイでしたし？\n二人でそれを眺めるシチュも、イイカンジでしたし。=Vâng★ Nói thì... hoàng hôn đẹp quá, và cảm giác thật tuyệt khi chỉ có hai đứa mình ngắm nhìn.
+
+それに、わたしを探しに来てくれた騎士さんに\nちょっと「キュン★」ってしちゃいましたから。\nだから、いいかなーって。=Và khi tôi nhận ra Kishi-san đang tìm tôi, tôi cảm thấy 「Kyuun★」, đó là lý do tôi không sao khi làm tất cả những việc đó.
+
+……でも……=Nhưng...
+
+終わる直前に、もーっとイイカンジの「キュン★」しちゃったので。\nなんだか、つい？　みたいな♪\nこれも吊り橋効果なんですかねー？=Ngay trước khi chạm đất, tôi có cảm giác 「Kyuun★」 còn lớn hơn.\nKhông biết đây có phải là Hiệu ứng cầu treoー?
+
+ミソラちゃんの考えが、分からない……=Tôi thực sự không biết cậu đang nghĩ gì...
+
+ふふっ、気にしないでください。\nぶっちゃけ、わたしもわたしにびっくりしてるので♪=Hehe. Cậu không cần phải hiểu đâu～\nQuan trọng hơn là, tôi cũng bất ngờ đấy biết không♪
+
+もう、お気付きかもですけど。\nわたし、結構気まぐれで天邪鬼ってゆーか。\n衝動的なうえにひねくれてるってゆーか、まぁそういうカンジなので。=Cậu có lẽ đã nhận ra rồi... Tôi không phải người tuân theo quy tắc về việc mình có thể hay không thể làm♪ Và tôi thường hay hành động theo cảm hứng～ Dù sao thì tôi cũng cảm thấy như vậy về bản thân.
+
+憎まれると喜んじゃうし。\n大事なものは壊したくなっちゃうし。\nほんと、自分でも嫌になっちゃうんですけど……=Tôi vui khi mọi người ghét tôi, tôi muốn phá hủy những thứ quan trọng với tôi, và tôi cũng thực sự ghét bản thân...
+
+あっ、でもでも。\n騎士さんからハグされて、終わるのやーめたってした理由は\nなんとなくわかりました★=Ồ, nhưng mà... Tôi có thể hiểu tại sao mình lại dịch chuyển hai đứa sau khi được cậu ôm rồi★
+
+それってやっぱり、今の「キュン★」が\nステキだったからだと思うんですよ。\nこういうキモチがラブなんだったら、もっと知りたいなーって♪=Rốt cuộc, cảm giác 「Kyuun★」 đó thật tuyệt.\nNếu cảm giác này là tình yêu, tôi muốn tìm hiểu thêm về nó♪
+
+ふふっ★\n騎士さんラブへの道、一歩前進ってカンジですね♪=Hehe★ Có lẽ đây là một bước tiến gần hơn đến tình yêu của Kishi-san♪
+
+……一つ、聞いても良い？=...Tôi có thể hỏi cậu một việc được không?
+
+はい★\nなんでもどうぞ？=Tất nhiên★ Cứ hỏi bất cứ điều gì.
+
+フラれて傷つきたいって言ってたけど……=Cậu nói cậu muốn bị đổ vỡ tình cảm...
+
+僕が君を好きになったら、どうするの？=Nhưng nếu tôi rơi vào tình yêu với cậu thì sao?
+
+安心してください★\nラブラブになったとしても、\n騎士さんのコト壊したりなんかしませんよ。=Đừng lo★\nNếu cậu thực sự yêu tôi, tôi sẽ không cố phá vỡ tình yêu của cậu.
+
+さっきも言いましたよね？\n「騎士さんラブになれたら、どう転んでも絶対楽しい」って。\nわたし的には、フラれて傷つくのも楽しそうですし──=Tôi đã nói với cậu trước đó rồi, đúng không?\n'Tôi chắc chắn sẽ tận hưởng việc yêu Kishi-san dù thế nào.'\nCó thể đúng là tôi thích bị đổ vỡ tình cảmー
+
+ラブラブになったら、最高に楽しいじゃないですか。\nわたし的には、もちろんとってもうれしいですし？\nそれにー=Nhưng được yêu cậu sẽ mang lại cho tôi niềm vui lớn nhất.\nVà mục tiêu của tôi là cuối cùng vẫn vui vẻ. Ngoài raー
+
+騎士さんが、ほんとにわたしとラブラブになったら？\n騎士さんのコトを好きな、たくさんのひとから嫉妬されて──\nわたし、とっても恨まれたりしそうで★=Nếu Kishi-san thực sự yêu tôi, thì tất cả những người đã đến yêu Kishi-san...\nTôi chắc chắn họ sẽ oán ghét tôi.
+
+あはっ♪\nそういうの、修羅場っていうんですか？\n想像するだけで、なんだかゾクゾクしちゃいますね……★=Aha♪ Chẳng phẽ sẽ kết thúc bằng một trận ẩu đả lớn sao?\nChỉ nghĩ đến việc đó xảy ra thôi cũng đã thấy hồi hộp.
+
+というわけで？\nそんな楽しい未来のためにも──=Vậy, cậu hiểu chứ? Vì tương lai đó...
+
+わたしこれからも、騎士さんとラブラブになれるように。\nまだまだいっぱいがんばっちゃいまーす★=Để tôi có thể yêu Kishi-san.\nTừ nay về sau, tôi sẽ cố gắng hết sức～★
+
+──かつて敵として出会い、\n{playername}たちと何度も争った少女・ミソラ。=──Họ từng gặp nhau như kẻ thù.\nCô gái đã chiến đấu với {playername} nhiều lần, Misora.
+
+敵ではなくなった現在も、\nミソラは他の少女たちと違う\nあやうさを抱えたままなのだった。=Mặc dù họ không còn là kẻ thù, Misora vẫn mang một mối nguy hiểm khác biệt so với bất kỳ cô gái nào khác.

@@ -1,0 +1,39 @@
+BGM購入=Mua BGM
+BGM変更=BGM
+
+BGM変更へ=Thay đổi nhạc nền
+所持ルピ=Rupies Đang Có
+---bgm shop---
+初期設定に戻す=Khôi phục mặc định
+
+ギルドハウス3F=3T
+ギルドハウス2F=2T
+ギルドハウス1F=1T
+ギルドハウス1FのBGMを初期設定に戻します。\nよろしいですか？=Khôi phục nhạc nền tầng 1 về mặc định?
+ギルドハウス2FのBGMを初期設定に戻します。\nよろしいですか？=Khôi phục nhạc nền tầng 2 về mặc định?
+ギルドハウス3FのBGMを初期設定に戻します。\nよろしいですか？=Khôi phục nhạc nền tầng 3 về mặc định?
+ギルドハウス1FのBGMを初期設定に戻しました。=Nhạc nền Tầng 1 của Nhà Guild đã được khôi phục về cài đặt mặc định.
+ギルドハウス2FのBGMを初期設定に戻しました。=Nhạc nền Tầng 2 của Nhà Guild đã được khôi phục về cài đặt mặc định.
+ギルドハウス3FのBGMを初期設定に戻しました。=Nhạc nền Tầng 3 của Nhà Guild đã được khôi phục về cài đặt mặc định.
+------
+r:"^\[3C404E\]ルピ×\[FFBB00,CE4F00\]([\d,]+)\[-\]を消費して\n以下のBGMを購入しますか？\[-\]$"=[3C404E]Dùng [-][FFBB00,CE4F00]$1[-][3C404E] Rupies để mua bản nhạc này?[-]
+(tempt)
+sr:"^([\s\S]{3,30})\nを購入しました。$"=Đã mua\n$1
+---NPC koro---
+メモリアルサウンドボックスの購入により、ギルドハウスの各フロアで流れるBGMを変更できるようになりました。お好みの楽曲を購入してくださいませ。主さまの選曲、楽しみです。=Giờ chúng ta có Máy Phát Nhạc Kỷ Niệm rồi, cậu có thể mua các bản nhạc mới để dùng làm nhạc nền trên màn hình chính và từng tầng của nhà guild. Tôi rất mong được nghe những giai điệu cậu thích, chủ nhân.
+
+---NPC karin---
+ようこそ！\nこちらでは、\nギルドハウスで流れる音楽の\n変更や購入が出来ますよ=Chào cậu!\nỞ đây, cậu có thể chọn nhạc mới để phát trên màn hình chính hoặc trong Nhà Guild
+
+こちらでは、ＢＧＭの変更が\nできますよ\nどんな曲に変更しますか？\nふふふ、私も楽しみです♪=Đây là nơi cậu có thể thay đổi cài đặt nhạc nền! Cậu đang tìm kiếm bản nhạc kiểu nào?\nHa ha, tôi rất mong được nghe đấy!
+
+ギルドハウスの\nＢＧＭを変更できますよ\nあなたの好きな曲、\n私にも聴かせてくださいね=Cậu có thể chọn đủ loại bản nhạc để phát trên màn hình hoặc trong nhà guild! Sao không cho tôi xem vài bản cậu thích nào?
+
+ＢＧＭの変更や購入は、こちらから\nできますよ\n素敵な音楽を、たくさんご用意\nいたしました！=Nếu cậu muốn thay đổi nhạc nền hoặc mua bản nhạc mới, cậu đã đến đúng chỗ rồi! Chúng tôi có rất nhiều lựa chọn!
+
+いらっしゃいませ！\nＢＧＭの購入はこちらです\n素敵な曲がたくさんあって、\n目移りしちゃいますね=Luôn vui khi được gặp cậu! Chào mừng đến cửa hàng âm nhạc. Có quá nhiều bản nhạc đẹp. Khó lựa chọn lắm phải không?
+
+こちらでは、ＢＧＭを購入\nすることができますよ\n試聴することもできるので、\nじっくり選んでくださいね=Đây là nơi cậu có thể mua các bản nhạc mới để dùng! Cậu có thể nghe thử trước nên cứ thoải mái mà xem xét.
+------
+ストーリーイベントテーマ=Chủ đề Sự Kiện Cốt Truyện
+

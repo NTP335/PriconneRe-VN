@@ -1,0 +1,21 @@
+【魔法】後衛で、制服姿に胸を高鳴らせるアオハル猫娘。攻防両面のサポートに加え行動速度アップとＴＰ回復で味方を支援し、最も遠くの敵を狙うＵＢで輝く勝利を得る。=[Phép] Cô nàng mèo tràn đầy năng lượng trẻ trung, trái tim đập nhanh khi thấy đồng phục! Ngoài hỗ trợ tấn công và phòng thủ từ hậu phương, cô hỗ trợ đồng minh bằng cách tăng tốc độ hành động và hồi phục TP, và đạt chiến thắng rực rỡ với UB, nhắm vào kẻ địch xa nhất.
+
+魔法攻撃を行うすべての味方キャラの魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、最も遠い敵１キャラに魔法特大ダメージを与える。=Tăng mạnh sát thương phép và tỷ lệ chí mạng của tất cả đồng minh sử dụng tấn công phép, và gây sát thương phép cực lớn lên kẻ địch xa nhất.
+
+魔法攻撃を行うすべての味方キャラの魔法攻撃力を特大アップさせ、行動速度を大アップさせる。=Tăng mạnh sát thương phép của tất cả đồng minh sử dụng tấn công phép và tăng rất mạnh tốc độ hành động của họ.
+
+最も遠くの味方１キャラを中心とした範囲内の味方すべての物理防御力と魔法防御力を中アップさせ、ＴＰを小回復させる。=Tăng vừa phải P.DEF và M.DEF của tất cả đồng minh trong vùng xung quanh đồng minh xa nhất và hồi phục nhẹ TP cho họ.
+
+ブルームウィッチバースト=Bùng nổ Phù thủy Chổi
+ブックオブエンハンス=Sách Tăng cường
+ブックオブエンハンス+=Sách Tăng cường+
+ライトオブユース=Ánh sáng Tuổi trẻ
+ライトオブユース+=Ánh sáng Tuổi trẻ+
+スクールデイズシャイネス=Xấu hổ Ngày trường học
+スクールデイズシャイネス+=Xấu hổ Ngày trường học+
+
+r:"^対象の味方の魔法攻撃力を(\d+)アップ\n対象の味方の魔法クリティカルを150アップ\n敵単体に(\d+)の魔法ダメージ$"=►Tăng sát thương phép của đồng minh mục tiêu lên $1 trong 18s.\n►Tăng tỷ lệ chí mạng phép của đồng minh mục tiêu thêm 150 trong 18s.\n►Gây $2 sát thương phép lên kẻ địch xa nhất.
+
+r:"^対象の味方の魔法攻撃力を(\d+)アップ\n対象の味方の行動速度アップ$"=Thời gian thi pháp: 0.59s\n►Tăng sát thương phép của đồng minh mục tiêu lên $1 trong 12s.\n►Tăng tốc độ hành động của đồng minh mục tiêu lên 160% trong 12s.
+
+r:"^範囲内の味方の物理防御力を(\d+)アップ\n範囲内の味方の魔法防御力を(\d+)アップ\n範囲内の味方のＴＰを70回復$"=Thời gian thi pháp: 0.59s\n►Tăng P.DEF của tất cả đồng minh trong phạm vi 250 lên $1 trong 12s.\n►Tăng M.DEF của tất cả đồng minh trong phạm vi lên $2 trong 12s.\n►Hồi phục TP của tất cả đồng minh trong phạm vi 70 thêm 250.

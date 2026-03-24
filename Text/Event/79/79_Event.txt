@@ -1,0 +1,86 @@
+一日店長の軌跡=Hành trình của một Quản lý Cửa hàng Một ngày
+r:"^一日店長の軌跡([0-9\-\(\)\w （）]*)$"=Hành trình của một Quản lý Cửa hàng Một ngày $1
+ヴェノム・ヒュドラ=Venom Hydra
+
+敵全体に物理小ダメージを与え、行動速度を大ダウンさせる。さらに敵キャラのＨＰが80％未満の場合、麻痺状態を付与する。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương vật lý nhỏ cho tất cả kẻ thù và giảm đáng kể tốc độ di chuyển của chúng. Ngoài ra, nếu HP của nhân vật kẻ thù dưới 80%, nó sẽ gây tê liệt. Trạng thái bất thường do kỹ năng này gây ra sẽ được áp dụng ngay cả khi sát thương bị vô hiệu hóa.\n
+ユニオンバーストは、敵全体に物理大ダメージを与える。その後敵キャラが行動速度ダウン状態の場合、物理大ダメージを与える。さらに敵キャラが行動不能状態の場合、物理大ダメージを与える。=Union Burst gây sát thương vật lý lớn cho tất cả kẻ thù. Nếu tốc độ hành động của nhân vật kẻ thù bị giảm sau đó, nó gây sát thương vật lý lớn. Nếu nhân vật kẻ thù không thể hành động, nó gây sát thương vật lý lớn.\n
+洞窟の奥深くに潜む凶悪な魔蛇。竦み上がるような大口からマヒ性の毒を吐き、根城に迷い込んだ獲物たちの自由を奪い去って捕食する。=Một con rắn quỷ dữ tợn ẩn nấp sâu trong hang động. Nó phun nọc độc gây tê liệt từ cái miệng khổng lồ đáng sợ, tước đoạt con mồi lạc vào hang ổ của nó và nuốt chửng chúng.\n
+
+ユニオンバーストは、敵全体に物理大ダメージを与える。敵キャラが行動不能状態の場合、物理特大ダメージを与える。このスキルによるダメージでは、ＴＰ回復量が大ダウンする。=Union Burst gây sát thương vật lý cho tất cả đối thủ. Nếu nhân vật kẻ thù bị vô hiệu hóa, nó gây sát thương vật lý cực lớn. Sát thương từ kỹ năng này làm giảm đáng kể hồi TP.\n
+敵全体に物理小ダメージを与え、行動速度を大ダウンさせる。さらに自身を中心とした範囲内の敵に物理小ダメージを与え、麻痺状態を付与する。=Gây sát thương vật lý cho toàn bộ đối thủ, giảm đáng kể tốc độ di chuyển của chúng. Ngoài ra, gây sát thương vật lý nhỏ lên đối thủ trong phạm vi xung quanh chính nó, khiến chúng bị tê liệt.\n
+最も近い敵１キャラに物理大ダメージを与え、麻痺状態を付与する。=Gây sát thương vật lý lên nhân vật kẻ thù gần nhất và gây tê liệt.\n
+ヒュドラ=Hydra
+ヴェノム=Venom
+テイスティング=Tasting
+ユニオンバーストは、敵全体に物理大ダメージを与える。その後敵キャラが行動速度ダウン状態の場合、物理大ダメージを与える。さらに敵キャラが行動不能状態の場合、物理大ダメージを与える。このスキルによるダメージでは、ＴＰ回復量が大ダウンする。=Union Burst gây Sát thương Vật lý cho tất cả đối thủ. Khi Tốc độ Di chuyển của nhân vật kẻ thù bị giảm, nó gây Sát thương Vật lý. Khi nhân vật kẻ thù bị vô hiệu hóa, nó gây Sát thương Vật lý. Sát thương từ kỹ năng này làm giảm đáng kể hồi TP.\n
+
+
+
+
+
+
+こいつがこの洞窟の主……！\n……でも魔物辞典に載ってる通常種とは見た目が違う。\nなんか全体的に、黒い……！=Đây là chủ nhân của hang động này...!\n...Nhưng hình dạng của nó khác với những con thường thấy trong bách khoa toàn thư quái vật.\nNhìn chung, nó hơi đen...!
+見た目だけじゃないよルイちゃん！\n恐らく強さも通常とは比べ物にならない……！\n……みんな、頑張ろう……！=Không chỉ là hình dạng đâu, Rui-chan!\nNó có lẽ mạnh hơn nhiều so với những con thường thấy...!\n...Mọi người, hãy cố gắng hết sức...!
+大丈夫だよノゾミちゃん。\nうちの用心棒、剣術は一流だからさ。=Không sao đâu, Nozomi-chan.\nVệ sĩ của chúng ta đẳng cấp cao về kiếm thuật.
+はーい！\nイロハはサイキョーでーす！=Dạ!\nIroha là siêu mạnh!
+キシャアアアッ！！=Kishaaaa!!
+──ッ！！？=──!!?
+え……魔物の動きが止まった！？=Ể... cử động của con quái vật dừng lại rồi!?
+ヘビに睨まれたカエルよろしく、\nイロハに睨まれたヘビってやつ？\nでも油断はしちゃ駄目だからね。=Như con ếch bị con rắn nhìn chằm chằm, giờ là con rắn bị Iroha nhìn chằm chằm? Nhưng đừng chủ quan.
+らじゃっ！！=Rõ!!
+はいっ、イロハの勝ちね！=Vâng, Iroha thắng rồi!
+……はは、まじで強すぎるなうちの姪。\n本当に血繋がってんのか不安になるわ。=...Haha, cháu gái tôi nghiêm túc quá mạnh. Nó khiến tôi lo liệu chúng ta có thật sự có quan hệ huyết thống không.
+っ！？　こいつまだ倒れてない！\n洞窟の奥へ逃げたわよ！=Gì cơ!? Nó chưa bị hạ gục! Nó chạy vào sâu trong hang động!
+なにー！？\nオージョーギワが悪いよー！　待てー！！=Gì cơ!? Bất công quá! Chờ đã!!
+ああ、イロハちゃん！\n……みんな、追いかけよう！=À, Iroha-chan! ...Mọi người, đuổi theo nó!
+……っと。\n明らかに空気変わったくさい。=...Ồ.\nKhông khí rõ ràng khác biệt.
+そうだね……\nあちこちに強い魔物が潜んでる……そういう匂いがするよ。=Ừ... Cảm giác như quái vật mạnh đang rình rập khắp nơi... mùi cũng thế.
+ノゾミちゃん、匂いで魔物の強さまで分かるんだ！？\nすごい！　かっこいい！\nルイちゃん、イロハにも匂いフェチになる秘薬作って～！=Nozomi-chan, cậu thậm chí còn biết mạnh yếu quái vật qua mùi!?\nTuyệt vời! Ngầu quá!\nRui-chan, làm cho Iroha một loại thuốc để trở thành người đam mê mùi vị nữa đi!
+いや匂いフェチになる秘薬じゃないけどね。\nそれに今ノゾミが言った匂いってのは、ほんとの匂いじゃないから。\n怪しい気配がする的な比喩表現だから。=Không, đó không phải thuốc để trở thành người đam mê mùi vị.\nHơn nữa, mùi Nozomi nhắc đến không phải mùi thật.\nĐó là cách nói ẩn dụ như cảm nhận được sự hiện diện đáng ngờ.
+クンクン……っ！\nみんな、獰猛な獣の匂いが近づいてくるよ！=Huýt...!\nMọi người, mùi thú dữ đang đến gần!
+あ、本当に匂いだったんだ……=À, vậy đúng là mùi...
+よし追い詰めたっ！\nそれじゃあいくよー！　はああ……\nわあっ！？=Được rồi, chúng ta đã dồn nó vào góc!\nĐi thôi! Haa...\nỐi!?
+……っつー……食らっちゃった。\nなんだよさっきのは手加減してたの！？=...Ái chà... Tôi bị trúng rồi.\nLúc nãy là sao, chúng nó đang nhường chúng ta à!?
+この魔物さっきより強くなってる！？\nイロハちゃん大丈──っ！？\nソノさん……その魔力……？=Quái vật này mạnh hơn trước!?\nIroha-chan cậu có ổn không──!?\nSono-san... ma lực đó...?
+……私は基本省エネでさ。\n頑張るの疲れるしだるいけど。\n……それでも。=...Thường thì tôi luôn tiết kiệm năng lượng.\nCố gắng là mệt và rắc rối, nhưng...\nDù vậy.
+姪がやられて黙ってられるかってのよ……！！=Tôi có thể làm ngơ khi cháu gái bị tấn công...!!
+ソノおばちゃん……！！=Dì Sono...!!
+……おねーちゃんな。=...Chị.
+そこは譲らないのね。\n……よし、いくわよ！！=Cậu không bỏ cuộc, nhỉ?\n...Được rồi, đi thôi!!
+はあ……はあ……何回脱皮すんのよ。\nその度に強くなるし。こんなんズルじゃん……=Hah... hah... Nó lột da bao nhiêu lần nữa?\nVà mỗi lần lại mạnh hơn. Bất công quá...
+ふうー、疲れた！\nイロハもちょっと休憩！！=Phew, tôi mệt rồi!\nIroha cũng đang nghỉ ngơi một chút!!
+ソノさん……！　イロハちゃん……！\nどうしよう、このままじゃ……=Sono-san...! Iroha-chan...!\nTôi phải làm sao đây, với tình hình này...
+……なんて顔してるのノゾミ。=...Mặt đó là sao, Nozomi.
+そんな顔ファンが見たらがっかりするわよ。\n嘆いてる暇があるならさっさと立ち上がって。\n……アイドルも錬金術師も、同じでしょ？=Nếu người hâm mộ thấy biểu cảm đó, họ sẽ thất vọng.\nNếu có thời gian than vãn, hãy đứng dậy nhanh lên.\n...Thần tượng và nhà giả kim cũng vậy, đúng không?
+諦めないやつが最後に勝つのよ。=Người không bỏ cuộc sẽ chiến thắng cuối cùng.
+……そうだねっ！\nうん、私は諦めない！=...Đúng vậy!\nỪ, tôi sẽ không bỏ cuộc!
+いくよ、絶対勝たなくちゃ！=Đi thôi, chúng ta nhất định phải thắng!
+まだまだ成長期！=Vẫn còn phát triển!
+よーし……！\n今度こそ完璧に私たちの勝利だよね！=Được rồi...!\nLần này chắc chắn là chiến thắng hoàn hảo của chúng ta!
+ここまで来られたのは、隣にルイちゃんがいてくれたから。\nありがと、ルイちゃん♪=Chúng ta đến được đây là vì Louie ở bên cạnh tôi.\nCảm ơn, Louie♪
+ぐっ、アイドルスマイル眩しい……っ！=Ồ, nụ cười thần tượng đó rực rỡ...!
+……ま、今のはちょっとだけ認めてあげるわ。\n錬金術の腕はからっきしだけどね。=...Được, tôi thừa nhận một chút.\nDù kỹ năng giả kim của cậu là vô vọng.
+そ、それはこれからもっともっと成長するもん！\nという訳で今後ともよろしくね師匠！=Đ-đó là thứ tôi sẽ tiếp tục phát triển và cải thiện!\nVì vậy hãy tiếp tục hướng dẫn tôi, Master!
+……今後とも、か。\nふふ……しょうがないわね♪=...Tiếp tục, nhỉ.\nHehe... Có lẽ tôi không còn lựa chọn nào khác♪
+ビ、ビリビリ……っ。\nあれ、体が痺れて動けない……っ！？=B-Bzzz...\nKhông xong rồi, cơ thể tôi bị tê liệt và không thể di chuyển...!?
+クンクン……この匂い、神経をマヒさせる毒素が混じってる！\nみんな、こいつのブレス攻撃に注意だよ！=Huýt... Mùi này, có độc tố gây tê liệt thần kinh trộn lẫn vào!\nMọi người, cẩn thận với đợt tấn công hơi thở của nó!
+いやあんたは大丈夫なのノゾミ！？=Nozomi, cậu ổn với việc này chứ?!
+私はルイちゃんが作ってくれたこのマスク。\n『ガスマスク（まさかの布タイプ）』があるから！=Tôi có chiếc mặt nạ này do Rui-chan làm cho tôi.\nThe 'Gas Mask (Surprisingly Cloth Type)'!
+思わぬところで役に立ったね……\n……っと、みんなくるよ！！=Nó hóa ra lại hữu ích bất ngờ...\n...Ồ, mọi người đến rồi!!
+うわ、ヘビがいっぱい……っ！\nこれ一匹ずつ倒していくとか無理だよね……めんどさ的に。=Ồ, có nhiều con rắn quá...!\nKhông thể đánh bại từng con một... Rắc rối thật.
+私お手製の特大爆弾で一網打尽にしてやるわ！\n……ってニョロニョロ動き過ぎよ！\nなんとか一箇所に集めないと……！=Tôi sẽ quét sạch chúng bằng quả bom khổng lồ tự làm!\n...Nhưng chúng bò quá nhiều!\nTôi phải tập hợp chúng lại một chỗ bằng cách nào đó...!
+オッケー、それなら私に任せて！\nそういうのなら得意かも！=Được rồi, để tôi lo!\nTôi có thể giỏi loại chuyện này!
+やっほーみんなー！　カルミナのノゾミだよ～！\n今日は集まってくれてありがと～♪\n今からゲリラライブ・イン・洞窟やっちゃうよ～♪=Này mọi người~! Tôi là Nozomi từ Carmina~!\nCảm ơn vì đã tập hợp ở đây hôm nay~♪\nChúng tôi sẽ có một buổi biểu diễn bất ngờ trong hang~♪
+いや相手ヘビだから！=Nhưng đó là rắn!
+おお～集まってきた～！\nさすがアイドル～！=Ồ~ chúng đang tập hợp~!\nĐúng là thần tượng~!
+……なんでもアリね。=...Cái gì cũng được, nhỉ.
+ヘビの魔物たち=Quái vật rắn
+イチゴに擬態し甘い香りを放つ蛇。\n無防備に近づく敵を襲い捕食する。=Một con rắn mô phỏng dâu tây và phát ra mùi thơm ngọt.\nNó tấn công và săn mồi kẻ thù không cảnh giác.
+イチゴヘビ=Rắn Dâu Tây
+はあ……しぶとかったけど、これが最後みたい。\nここまで来たら絶対に勝ち切ろう……！\n私と【アルケス錬金堂】のみんなならきっとできるよ！=Haa... Khó khăn, nhưng đây dường như là con cuối cùng.\nNếu chúng ta đã đi được xa như vậy, chúng ta phải thắng bằng mọi giá...!\nVới tôi và mọi người từ Alces Atelier, chúng ta chắc chắn có thể làm được!
+……ちょっとノゾミ。\nなんで分けちゃうのよ。\nそれをいうなら。……私たち【アルケス錬金堂】……でしょ？=...Này, Nozomi.\nTại sao cậu chia chúng ta ra?\nNếu cậu định nói vậy, thì phải là... chúng tôi ở Alces Atelier... đúng không?
+……ふふ。さすがうちのギルマス。\n良いこと言うじゃん。=...Hehe. Đúng là guild master của chúng ta.\nCậu nói điều hay đó.
+うん！\nノゾミちゃんも一緒だよ！=Ừ!\nNozomi-chan cũng ở với chúng tôi!
+……みんな、ありがとう。\nじゃあもう一回……！=...Mọi người, cảm ơn.\nĐược rồi, một lần nữa...!
+私たち【アルケス錬金堂】なら絶対に勝てる！=Chúng ta chắc chắn sẽ thắng vì chúng ta là Alces Atelier!
+「ええ！」\n「だね！」\n「うん！」="Ôi!"\n"Đúng rồi!"\n"Ôi!"

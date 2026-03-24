@@ -1,0 +1,32 @@
+##Profile##
+【物理】中衛で、敵をまとめてなぎ倒す、真夏の南国娘。吹き飛ばし効果を持つスキルで敵をまとめ、攻撃対象が多い程、威力が増すユニオンバーストで敵をなぎ倒す。=[Vật Lý] Một cô gái nhiệt đới mùa hè chém đứt đám đông từ trung tuyến. Khả năng gây knockback và Union Burst gây sát thương càng lớn khi càng nhiều mục tiêu khiến cô là chuyên gia kiểm soát đám đông.
+
+##UB##
+琉球犬アラウンドシュート=Ryukyu-Ken Đạn Xoáy
+前方範囲内の敵すべてに物理中ダメージを与える。このスキルの攻撃対象の数が多いほどダメージが増加する。=Gây sát thương vật lý vừa phải lên tất cả kẻ địch trong phạm vi. Sát thương tăng dựa trên số lượng mục tiêu.
+
+##S1##
+円心裂波=Cuộn Xoáy Nghiền Nát
+前方範囲内の敵すべてに物理小ダメージを与え、さらに目の前の敵１キャラを小さく吹き飛ばす。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch trong phạm vi và đẩy lùi nhẹ kẻ địch ngay phía trước.
+
+##S2##
+琉球犬唄=Ryukyu Calypso
+自身の物理攻撃力を大アップさせ、さらに自分を中心とした範囲内の味方の行動速度を中アップさせる。=Tăng lớn tấn công vật lý của bản thân và tăng vừa phải tốc độ hành động của tất cả đồng minh trong phạm vi.
+r:"^自分の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=►Tăng P.ATK của bản thân lên $1.\n►Tăng tốc độ hành động của đồng minh trong phạm vi lên 135% trong 12 giây.
+
+##EX##
+琉球犬式蹴脚術=Ryukyu Kickboxing
+琉球犬式蹴脚術+=Ryukyu Kickboxing+
+
+##S1+##
+円心裂波+=Cyclone Smash+
+前方範囲内の敵すべてに物理中ダメージを与えてスタンさせ、さらに目の前の敵１キャラを大きく吹き飛ばす。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi, làm choáng họ, và đẩy lùi kẻ địch đứng trước mặt.
+
+##S2+##
+琉球犬唄+=Ryukyu Calypso+
+自分を中心とした範囲内の味方の行動速度を大アップさせる。さらに、自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップ、ＴＰを中回復する。=Tăng mạnh P.ATK của bản thân, tăng nhẹ P.CRIT DMG của bản thân và hồi phục TP của bản thân một cách vừa phải. Đồng thời tăng mạnh tốc độ hành động của đồng minh trong phạm vi.
+r:"^範囲内の味方の行動速度アップ自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを6％アップ自分のＴＰを150回復$"=►Tăng tốc độ hành động của đồng minh trong phạm vi 300 lên 155% trong 12 giây.\n►Tăng P.ATK của bản thân lên $1 trong 180 giây.\n►Tăng P.CRIT DMG của bản thân thêm 6% trong 180 giây.\n►Hồi phục TP của bản thân 150.
+
+##UE##
+琉球犬式・神舞之籠手=Ryukyu-Ken Style: Divine Dance Gauntlet
+琉球犬式・踊三線=Ryukyu Dog Style: Dance Sanshin

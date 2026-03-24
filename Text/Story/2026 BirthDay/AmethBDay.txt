@@ -1,0 +1,17 @@
+Ameth's Bday
+
+……これでよし、と。\nまったくもう、前代未聞よ？\n『夢』のリクエストをしてくるなんて。=...Thế này là được rồi.\nThật là, chuyện này đúng là chưa từng có tiền lệ đấy.\nAi lại đi yêu cầu sắp xếp một "giấc mơ" cơ chứ.
+あんたの部屋で誕生日パーティーね。\nお招きいただけて光栄だけど……あんた、ほんと誤解されないようにね？=Một bữa tiệc sinh nhật trong phòng của cậu à.\nĐược mời thì tôi cũng lấy làm vinh hạnh, nhưng mà... cậu liệu mà đừng để người khác hiểu lầm đấy nhé?
+とはいえ夢の中にはケーキもプレゼントも持ち込めないから、\nあたしが用意しなきゃなのよね……そうね、せっかくだし、\nあんたの記憶の中にある豪華な食事を全部出してあげるわ。=Nói gì thì nói, trong giấc mơ không thể mang theo bánh kem hay quà cáp được, nên tôi đành phải tự mình chuẩn bị thôi... Ừ thì, nhân dịp này, tôi sẽ dọn ra tất cả những món ăn xa xỉ nhất có trong ký ức của cậu.
+それじゃ、二人だけの誕生日パーティーといきましょっか♪=Vậy thì, chúng ta cùng bắt đầu bữa tiệc sinh nhật chỉ có hai người thôi nào♪
+ありがと。\n他の誰でもない、あんたに──生まれたことを祝われるのは、\nあたしにとっていちばんのプレゼントよ。=Cảm ơn nhé.\nĐược chính cậu—không phải ai khác—chúc mừng ngày mình sinh ra, đối với tôi đó chính là món quà tuyệt vời nhất.
+──はい、ケーキ食べさせたげる。\n口を開けなさい。\nなにモジモジしてるのよ。これくらいよくやってんでしょ。=──Nào, để tôi đút bánh kem cho cậu ăn.\nHá miệng ra đi.\nSao còn lúng túng thế kia? Việc này cậu vẫn thường làm suốt còn gì.
+はい、あーん、と。\n……おいしい？\nそ。それじゃあたしもいただこうかしら。=Nào, "a~m" một cái nào.\n...Ngon không?\nVậy à. Thế thì để tôi cũng thưởng thức một chút vậy.
+へっ？　あたしもやるの！？\nいやよ恥ずかしい……ってぐいぐいくるわねあんた！\nもうっ、分かったわよ──あーん。=Hả? Cậu cũng đút cho tôi nữa á!?\nKhông chịu đâu, xấu hổ lắm... Ơ kìa, cậu cứ lấn tới thế! Rồi rồi, tôi biết rồi mà──A~m.
+……まったくもう。\nあんた、最近あたしとの距離感が近すぎるのよ。\nこれでも一応、女神アメス様なのよ？=...Thật là.\nDạo này cậu cứ thích rút ngắn khoảng cách với tôi quá đấy.\nDù gì tôi cũng là nữ thần Ameth đại nhân cơ mà?
+……普通の女の子みたいに照れさせないでよね。=...Đừng có làm tôi đỏ mặt như một cô gái bình thường thế chứ.
+
+Player Prompts
+誕生日おめでとう、アメスさま。=Chúc mừng sinh nhật nhé, Ameth-sama.
+口を開ける。=*Há miệng ra*
+アメスさまの誕生日だから。=Bởi vì hôm nay là sinh nhật của Ameth-sama mà.

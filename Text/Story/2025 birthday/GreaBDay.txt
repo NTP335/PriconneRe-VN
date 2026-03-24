@@ -1,0 +1,22 @@
+Grea BDay
+
+ここは一体……？\nあっ、{playername}さん！\nよかった、知り合いがいて……=Mình đang ở đâu thế này...? Ôi, {playername}! May quá, có mặt quen thuộc...
+それが、よくわからなくて。\n気がついたらここにいたんだけど……\n{playername}さんはこの場所に心当たりある？=Mình cũng không hiểu rõ bản thân. Trước khi nhận ra, mình đã thấy mình ở đây... Cậu có biết gì về nơi này không, {playername}?
+そうなんだ……どうりで嫌な気配がないと思った。\nそれに、私の姿を誰も気にしてないみたい。\nでも、どうして私がここに……？=Mình hiểu rồi... Không trách mình không cảm nhận được điều gì khó chịu xung quanh. Và hơn nữa, dường như không ai quan tâm đến hình dạng của mình. Nhưng tại sao mình lại ở đây...?
+お祝いの魔法……みたいなものかな？\nだったらうれしいけど、\n急に来たから、何をしたらいいのか……=Có lẽ đây là một loại... phép thuật liên quan đến sinh nhật hay gì đó? Mình sẽ rất vui nếu đúng như vậy, nhưng nó xảy ra quá đột ngột nên mình thực sự không biết phải làm gì...
+いいの？\nうーん……なら、お言葉に甘えさせてもらってもいい？\nちょっと不安だけど、きっと、めったにない機会だから。=Cậu chắc chứ? Hmm... vậy thì, mình có thể nhận lời đề nghị của cậu chứ? Mình vẫn còn hơi lo lắng, nhưng sẽ không để cơ hội hiếm có này trôi qua.
+学校か……雰囲気は違うけど、やっぱり親近感湧くね。\n音楽室もすごく懐かしいなって思ったよ。\nピアノ、触らせてくれてありがとう。=Trường học của cậu, hử...? Không khí khác, nhưng mình vẫn cảm thấy quen thuộc. Phòng nhạc cũng mang lại ký ức rất hoài niệm. Cảm ơn cậu vì đã để mình chơi đàn piano.
+ハンバーガーって、かぶりついて食べるの？\nそんなに口を大きく開けられるかな……\nあむっ……んっ、おいしい……！=Một chiếc bánh hamburger, cậu nói... và cậu ăn bằng cách cắn? Mình tự hỏi liệu mình có thể mở miệng rộng đến thế không... Amph... Nn, ngon quá...!
+その後も{playername}とグレアは\n共に様々な場所を巡った。\nそして……=Sau đó, {playername} và Grea đã cùng đi đến nhiều nơi. Cho đến khi cuối cùng...
+ありがとう、{playername}さん。\n知らない場所を歩くのは、正直不安だったけど……\nあなたのおかげで、すごく楽しかったよ。=Cảm ơn cậu, {playername}. Thật ra, mình hơi lo lắng khi đi bộ quanh một nơi xa lạ, nhưng... nhờ cậu, mình đã rất vui.
+あっ、気づいてたんだ……？\nうん……アンたちはいつも私のことを心配してくれるから。\nそのお礼に、ここで見たものを話せたらって思ってたんだ。=À, cậu để ý rồi à...? Vâng... Anne và những người khác luôn lo lắng cho mình. Để đáp lại sự lo lắng của họ, mình hy vọng có thể kể cho họ nghe những gì mình đã thấy ở đây hôm nay với cậu.
+こんな夢みたいな話、アンもルゥも絶対興味持つと思う。\nそれで「私も行きたい！」なんて言ったりしてね……\nふふっ、勇気を出してよかった。=Mình chắc chắn Anne và Lou sẽ quan tâm đến câu chuyện mơ mộng như vậy. Họ thậm chí có thể nói: "Mình cũng muốn đi!"... Hehe, mình vui vì mình đã đánh bạo.
+ありがとう。\nこっちに来てからいろいろあったけど……\nおかげで忘れられない誕生日になったよ。=Cảm ơn. Đã có nhiều chuyện xảy ra kể từ khi mình đến đây, nhưng... Nhờ cậu, đây là một sinh nhật mà mình sẽ không bao giờ quên.
+
+Player Prompts
+どうしてここに？=Cậu đang làm gì ở đây?
+ここは僕の故郷だよ。=Đây là quê hương của mình
+今日がグレアの誕生日だから……かも？=Hôm nay là sinh nhật của Grea... nên có lẽ vì thế?
+じゃあ、僕が街を案内するよ！=Vậy thì, để mình dẫn cậu đi thăm thành phố!
+アンたちへのお土産話もできたね。=Với tất cả những gì cậu đã thấy hôm nay, mình chắc chắn Anne và những người khác sẽ được nghe một câu chuyện thú vị!
+グレア、お誕生日おめでとう！=Chúc mừng sinh nhật, Grea!

@@ -1,0 +1,110 @@
+宝石蜘蛛=Nhện Ngọc
+【物理】群れなすレディ\n\n・アラクネの手先。\n際限なく地の底から湧き、糸で獲物を束縛する。\n\n\n・最も近い敵１キャラに物理大ダメージを与える。\n\n・ランダムな敵１キャラに束縛状態を付与する。\n\n・宝石蜘蛛を１体倒すたびに、魔蜘の金糸獲得ま\n　でのカウントが１減少する。その後、倒された\n　宝石蜘蛛は再度出現する。さらに、先頭の宝石\n　蜘蛛は敵全体をノックバックさせる。=[Vật Lý] Bộ hạ bầy đàn của Lady Arachne. Chúng không ngừng xuất hiện từ sâu thẳm trái đất, trói con mồi bằng tơ.\n\n► Gây sát thương vật lý nặng lên nhân vật địch gần nhất.\n\n► Gây hiệu ứng trói lên một nhân vật địch ngẫu nhiên.\n\n► Mỗi lần một Nhện Ngọc bị đánh bại, số đếm để nhận "Lụa Nhện Vàng" sẽ giảm đi một. Sau khi bị đánh bại, Nhện Ngọc sẽ tái xuất hiện. Ngoài ra, Nhện Ngọc dẫn đầu sẽ đẩy lùi tất cả kẻ thù.
+【物理】鬱憤に酔うバンディ\n\n・シスターズ長女。\n妹たちに背中を預けつつ敵先陣の装甲を裂き、苛\n烈無比な斬撃を絶え間なく浴びせる。\n\n\n・バトル開始時、自身の物理防御力と魔法防御力\n　を中アップさせる。この防御力アップ効果で上\n　昇した防御力は、バトル中に受ける防御力ダウ\n　ンスキルの影響を受けない。\n\n・バトル開始時、ダメージ上限スキルを使用して、\n　一度の行動で受けるダメージの値が一定を超え\n　た場合、受けるダメージの値に応じてダメージ\n　量を減少させる。\n\n・ヤマトから受けるすべてのダメージで発生する、\n　パーティキャラのＴＰ回復量を中ダウンさせる。\n\n・ユニオンバーストは、最も近い敵１キャラに物\n　理特大ダメージを与え、物理防御力を中ダウン\n　させる。このスキルの効果はダメージを無効化\n　しても付与される。\n\n・最も遠い敵１キャラに物理特大ダメージを与え\n　大きく引き寄せ、さらに物理防御力を中ダウン\n　させる。このスキルの効果はダメージを無効化\n　しても付与される。\n\n・自身のＨＰが30％以下になると、味方全体の\n　行動速度を大アップさせる。=[Vật Lý] Con gái cả của các chị em Bandy, say mê trong oán hận. Cô phụ thuộc vào các em gái trong khi xé toạc giáp của kẻ thù và liên tục thực hiện những đường chém dữ dội và không khoan nhượng.\n\n► Ở đầu trận, tăng phòng thủ vật lý và phép thuật của cô một lượng vừa phải. Phòng thủ tăng thêm từ hiệu ứng tăng phòng thủ này không bị ảnh hưởng bởi kỹ năng giảm phòng thủ nhận được trong trận.\n\n► Ở đầu trận, sử dụng kỹ năng giới hạn sát thương để giảm lượng sát thương nhận trong một hành động nếu vượt qua ngưỡng nhất định. Lượng sát thương được giảm theo giá trị sát thương nhận được.\n\n► Giảm lượng hồi TP của nhân vật trong đội một lượng vừa phải từ mọi sát thương nhận từ Yamato.\n\n► Union Burst gây sát thương vật lý khủng khiếp lên kẻ thù gần nhất và giảm phòng thủ vật lý của chúng một lượng vừa phải. Hiệu ứng của kỹ năng này được áp dụng ngay cả khi sát thương bị hủy.\n\n► Gây sát thương vật lý khủng khiếp lên kẻ thù xa nhất, hút chúng mạnh mẽ và tiếp tục giảm phòng thủ vật lý của chúng một lượng vừa phải. Hiệu ứng của kỹ năng này được áp dụng ngay cả khi sát thương bị hủy.\n\n► Khi HP của chính mình dưới 30%, tăng mạnh tốc độ hành động của tất cả đồng minh.
+【物理】虚ろに揺らぐバンディ\n\n・シスターズ次女。\n彼女自身は戦闘能力を有さず攻撃に及ぶこともな\nいが、姉妹に授ける補助効果は決して侮れない。\n\n\n・バトル開始時、自身の物理防御力と魔法防御力\n　を中アップさせる。この防御力アップ効果で上\n　昇した防御力は、バトル中に受ける防御力ダウ\n　ンスキルの影響を受けない。\n\n・バトル開始時、ダメージ上限スキルを使用して、\n　一度の行動で受けるダメージの値が一定を超え\n　た場合、受けるダメージの値に応じてダメージ\n　量を減少させる。\n\n・自身以外の味方全体の物理防御力と魔法防御力\n　を特大アップさせ、ＴＰを小回復する。=[Vật Lý] Con gái thứ hai của các chị em Bandy, đung đưa một cách trống rỗng. Mặc dù bản thân thiếu khả năng chiến đấu và không tham gia tấn công, nhưng các hiệu ứng hỗ trợ cô cung cấp cho các chị gái không nên xem thường.\n\n► Ở đầu trận, tăng phòng thủ vật lý và phép thuật của cô một lượng vừa phải. Phòng thủ tăng thêm từ hiệu ứng tăng phòng thủ này không bị ảnh hưởng bởi kỹ năng giảm phòng thủ nhận được trong trận.\n\n► Ở đầu trận, sử dụng kỹ năng giới hạn sát thương để giảm lượng sát thương nhận trong một hành động nếu vượt qua ngưỡng nhất định. Lượng sát thương được giảm theo giá trị sát thương nhận được.\n\n► Tăng mạnh phòng thủ vật lý và phép thuật của tất cả đồng minh ngoại trừ bản thân và phục hồi nhẹ TP của họ.
+【物理】理性の飛んだバンディ\n\n・シスターズ三女。\n上空から高みの見物をしつつ妨害を撒き散らし、\nトドメを刺すこともせず慌てふためく敵を嘲笑う。\n\n\n・バトル開始時、自身の物理防御力と魔法防御力\n　を中アップさせる。この防御力アップ効果で上\n　昇した防御力は、バトル中に受ける防御力ダウ\n　ンスキルの影響を受けない。\n\n・バトル開始時、ダメージ上限スキルを使用して、\n　一度の行動で受けるダメージの値が一定を超え\n　た場合、受けるダメージの値に応じてダメージ\n　量を減少させる。\n\n・フブキから受けるすべてのダメージで発生する、\n　パーティキャラのＴＰ回復量を中ダウンさせる。\n\n・ユニオンバーストは、敵全体のバリア効果を解\n　除し、キャラの現在ＨＰに応じた物理割合ダ\n　メージを与え、さらにスタン状態を付与する。\n　このスキルによるダメージでは、ＴＰが回復し\n　ない。このスキルの状態異常はダメージを無効\n　化しても付与される。\n\n・最も近い敵１キャラにキャラの現在ＨＰに応じ\n　た物理割合ダメージを与え、さらにスタン状態\n　を付与する。=[Vật Lý] Con gái thứ ba của các chị em Bandy, đã mất hoàn toàn lý trí. Trong khi quan sát từ trên cao, cô lan truyền sự hỗn loạn và chế giễu những kẻ thù hoảng loạn mà không thực hiện đòn kết liễu.\n\n► Ở đầu trận, tăng phòng thủ vật lý và phép thuật của cô một lượng vừa phải. Phòng thủ tăng thêm từ hiệu ứng tăng phòng thủ này không bị ảnh hưởng bởi kỹ năng giảm phòng thủ nhận được trong trận.\n\n► Ở đầu trận, sử dụng kỹ năng giới hạn sát thương để giảm lượng sát thương nhận trong một hành động nếu vượt qua ngưỡng nhất định. Lượng sát thương được giảm theo giá trị sát thương nhận được.\n\n► Giảm lượng hồi TP của nhân vật trong đội một lượng vừa phải từ mọi sát thương nhận từ Fubuki.\n\n► Union Burst loại bỏ hiệu ứng khiên khỏi tất cả kẻ thù, gây sát thương vật lý theo phần trăm dựa trên HP hiện tại của nhân vật, và gây hiệu ứng choáng. TP không được phục hồi từ sát thương do kỹ năng này gây ra. Hiệu ứng trạng thái từ kỹ năng này được áp dụng ngay cả khi sát thương bị hủy.\n\n► Gây sát thương vật lý theo phần trăm dựa trên HP hiện tại của nhân vật lên kẻ thù gần nhất và gây hiệu ứng choáng.
+
+
+
+魔蜘の金糸=Lụa Nhện Vàng
+獲得数=Số lần nhận được
+全体ミッションクリアで解放=Mở khóa bằng cách hoàn thành tất cả nhiệm vụ
+魔蜘の金糸を獲得で解放=Mở khóa bằng cách nhận được Lụa Nhện Vàng
+宝石蜘蛛の群れ討伐で魔蜘の金糸獲得!=Nhận "Lụa Nhện Vàng" bằng cách đánh bại\nbầy Nhện Ngọc!
+撃退数=Số lần đẩy lùi
+r:"^残り魔蜘の金糸 : (\d+)$"=Lụa Nhện Vàng: $1
+r:"^([0-9,]+)体\((\d+)%\)$"=$1 Lần ($2%)
+全プレイヤーでバンディ・シスターズを合計1,000,000回倒そう=Đánh bại các chị em Bandy 1,000,000 lần với tất cả người chơi
+で挑戦=được dùng\nđể thử thách
+残り体数=Tổng còn lại
+宝石蜘蛛の群れ=Bầy Nhện Ngọc
+
+r:"^魔蜘の金糸獲得まで　([0-9/])+ \(本日の残り獲得可能数：(\d+)\)$"=$1 cho đến khi nhận được Lụa Nhện Vàng. (Số lần nhận được còn lại cho hôm nay: $2)
+挑戦報酬=Phần Thưởng Thử Thách
+「バンディ・シスターズ」解放！="Các chị em Bandy" Đã Mở Khóa!
+廻舞・姫銀氷竜=Vũ Điệu Trinh Nữ: Rồng Băng Bạc
+
+魔蜘の金糸獲得まで=Cho đến khi bạn nhận được Lụa Nhện Vàng
+本日の魔蜘の金糸の獲得上限に達しています。=Bạn đã đạt đến số lượng tối đa Lụa Nhện Vàng có thể nhận được hôm nay.
+
+
+リタイアすると報酬を\n獲得することができません。\nスタミナは消費されません。\n\nよろしいですか？=Nếu bạn thoát, bạn sẽ không nhận được bất kỳ phần thưởng nào.\nThể Lực sẽ không được tiêu hao. \nBạn có chắc không?
+このバトルからは　逃げられない！=Các người không thể trốn khỏi trận chiến này!
+
+みな、さま……！=Mọi người...!
+身体が……言うことを、聞かない……！=Cơ thể em... không nghe lời em...!
+こんな同士討ち、させられるなんて……！=Em không thể tin là chúng ta bị buộc phải giết lẫn nhau như thế này!
+──まだ死んではおらぬな？\n身の程知らずの虫けらどもよ。\n最後には無論、互いの刃で喉を斬り合ってもらうが──その前に。=-Các ngươi chưa chết, phải không? Các sinh vật rẻ mạt không biết mình là ai. Cuối cùng, tất nhiên, tôi sẽ để các ngươi cắt cổ nhau bằng lưỡi kiếm của mình, nhưng trước đó...
+シェフィ、ちゃんっ……！=Sheffy...!
+今の我ならば、エリスとやらの防御魔法も紙切れ同然。\nとなれば……貴様らが死ぬ前に、ようやっと。\n拝ませてやるでな──=Với tình trạng hiện tại của tôi, phép thuật phòng thủ của Eris chẳng khác nào một mảnh giấy. Điều đó có nghĩa... trước khi các ngươi chết, tôi cuối cùng cũng sẽ có thể tôn thờ ngươi
+この娘の魂が砕け散り、無へと帰す様を！\nカカッ！\nクカカカッ──！=Cảnh tượng linh hồn cô gái này vỡ vụn và trở về hư vô! Kaka! Kukakaka~!
+このっ……！\nやめろって、言ってるでしょうがっ……！=Các ngươi...! Tôi đã bảo dừng lại...!
+──お兄。=⁇ Anh.
+いと。ほどいた。\nなんとか。お兄だけ。=Anh họ. Tôi đã cởi nó ra. somehow. Chỉ là em trai tôi.
+{playername}くん！？\n危険です、一人じゃっ……={playername}?! Nguy hiểm khi ở một mình...
+……！\nあれはっ──=...! Đó là...!
+『晶さまから託された、大切なプログラム……\n必ずや、主さまにお届けいたします。』=Một chương trình quý giá được Akira-sama giao phó cho em... Em sẽ chuyển nó cho anh, Master
+『……お父さまといい、晶さまといい。\nわたくしはどうも、大事なものを預かることが多いように思いますね。』=...Cha và Akira-sama. Em nghĩ em có xu hướng chăm sóc những thứ quan trọng với mình
+『──そう。\nキミにとって、そしてアタシたちにとって、\nと～っても大事なものさ。』=『Đúng vậy. Vì cậu, vì chúng tớ, điều này cực kỳ quan trọng.』
+『ロストした人の魂を、元の身体に戻す蘇生魔法。\nコンプレッションデータをアバター状態にするプログラム。\nまあ要するに──』=Ma thuật hồi sinh đưa linh hồn đã mất trở về thể xác ban đầu. Một chương trình đưa dữ liệu nén vào trạng thái avatar. Nói đơn giản thì, ⁇
+『“解凍ソフトの、超すごい版”みたいな感じかな。』=Giống như một phiên bản siêu đỉnh của phần mềm解冻 (giải đông)
+よ、良かった……\n……ですが……=Th-Thật tốt quá... Nhưng...
+──傀儡の糸を切ったところで、状況は何も変わらぬわ！\nその程度の冷気など、忽ちのうちに燃やし尽くしてくれる……！=-Cắt đứt sợi dây marionette cũng chẳng thay đổi được gì! Lượng không khí lạnh đó sẽ đốt cháy cậu thành tro trong tích tắc...!
+いくらプリンセスフォームだからって、\nあいつ一人じゃ、ムチャもイイトコだわ……！\n助けに、行かないと……！=Chỉ vì cô ấy ở dạng công chúa chứ không có nghĩa là cô ấy có thể tự làm được...! Mình phải đi cứu cô ấy...!
+ですが……わたくしたちも、満身創痍の有様です……！=Nhưng... chúng ta cũng đầy thương tích rồi...!
+『う～ん？\nそれならたぶん大丈夫かも～』=Ừm? Nếu vậy, chắc mình sẽ ổn thôi~
+えっ、ホマレさん！？\nそれに、大丈夫って──=Hả? Homare-san?! Và chị nói sẽ ổn mà!
+『ふふっ。\nみんなの仲間が、今そっちに向かってるから～』=He he. Bạn bè của mọi người đang trên đường đến đó rồi~
+仲間、って……！？=Bạn bè...?!
+──ぴいぃぃぃ～～～～っ！！！=⁇ Piiiiiiiiii!!!
+──ナーナさんっ？=-Nana-san?
+はぁはぁっ……やっと着いた～\nって！！！\nなにあのおっきいクモ～～～ッ！？！=*thở dốc*... Cuối cùng cũng đến được rồi!!! Con nhện khổng lồ kia là sao vậy?!
+ナーナさま、危険です！\nどうかお下がりください……！=Tiểu thư Nana, nguy hiểm lắm! Xin hãy lùi lại...!
+てかあんた、なにしにきたのよ……！？=Khoan, mục đích của cậu đến đây là gì...!?
+えっと……えっと。\nナーナ、よわっぴいウサギさんだけど……\nでもでも……お友だちを、運ぶくらいはできるからっ──=Ưm... Ưm. Nahna, đây là thỏ bông xù... Nhưng, nhưng... Em ít nhất cũng có thể mang bạn bè theo~
+おねがい！\nほーちゃーーーんっ！=Làm ơn! Hoo-chaaan!
+……はぁ、はぁ……\nあ、暑かったぁ～……\n運んでくれとは言いましたけど、あんなところに収納されるなんて……=...*thở dốc*... Th-Thật nóng quá... Mình bảo chúng mang theo, nhưng lại để ở chỗ như vậy...
+ほ、ほーちゃん様まで……？=Ngay cả Ho-chan-sama...?
+……こほんっ！\nほんの少し、ドタバタしてしまいましたが……どうかご安心を。=...Ahem! Mình chỉ hơi bối rối thôi, nhưng... Xin đừng lo lắng.
+【アルターメイデン】の皆さんに、以前お約束したように──\n偉大にして優雅な鳳凰が、癒しの加護を差し上げましょう！\nそ～れっ！=Đến tất cả mọi người trong Alter Maiden, như các cậu đã hứa trước đó, chú phượng hoàng vĩ đại và thanh lịch sẽ ban phước lành chữa lành cho các cậu! Hãy nhận lấy cái này!
+きず。\nなおった。=Kizu. Đã sửa xong.
+助かりました、ホウオウさま！=Cảm ơn, Master Ho-oh!
+おのれっ……！\n権能を失くした鶏肋風情がっ……！=Nguyền rủa các ngươi...! Các đốt xương gà đã mất sức mạnh...!
+あ、あなたが持ってっちゃった私の権能！\n必ず返してもらいますから！\nやっちゃってください、騎士さんたち～っ！=Ồ, chính ngươi đã lấy sức mạnh của ta! Ta sẽ lấy lại chắc chắn! Làm đi, Kishi-san!
+ありがとうございます、ほーちゃん！　ナーナちゃん！\nおかげでまた、全力全開で戦えますっ！\nいいえ──=Cảm ơn nhiều lắm, Ho-chan! Nana! Nhờ có các cậu, mình lại có thể chiến đấu với đầy đủ sức mạnh rồi! Nô~
+シェフィちゃんが、戻ってきてくれたんですから！\nさっきまでのわたしたちとは、一味も二味も違いますよっ！！=Shepherd, cậu về rồi! Cậu hoàn toàn khác chúng tớ!
+私が眠っているあいだに、頼もしい仲間がたくさん増えたみたいね。\nぜひ紹介してもらいたいけど、まずは──=Trong lúc mình ngủ, có vẻ cậu đã kết được nhiều bạn đáng tin cậy. Mình muốn được giới thiệu với họ, nhưng trước tiên ⁇
+必ず、この戦いに勝利しましょう！=Hãy để chúng ta giành chiến thắng trong trận chiến này, bất cứ điều gì xảy ra!
+プレシアちゃんっ……？=Precia...?
+──シェフィちゃんっ！！=⁇ Sheffy!!
+はっはっはっ……！=Ha ha ha...!
+シェフィちゃんっ……！！=Sheffy...!!
+……ただいま、おに──いっ！？=...Anh về rồi, onii?!
+……よくも、みんなを！=...Sao dám làm vậy với mọi người!
+クカカ……=Kakakaka...
+どのような手妻か知らぬが──=Mình không biết cậu là vợ kiểu gì, nhưng...
+今更そんな小娘一人助けたところで！=Đã quá muộn để cứu một cô bé như thế rồi!
+やってみなくちゃわからないわ！=Mình sẽ biết khi thử!
+貴様も、我が傀儡となるが良い！=Cậu cũng sẽ trở thành con rối của ta!
+──はあああっ！=⁇ Haaaaah!
+行って！=Lên! Lên!
+
+
+
+期間限定ミッション：2024/08/16 12:00～2024/08/21 11:59=Nhiệm vụ giới hạn thời gian: 2024/08/16 12:00 ～ 2024/08/21 11:59
+受け取り期限：2024/08/26 14:59=Hạn nhận thưởng: 2024/08/26 14:59
+全プレイヤーでフレイヤを合計500,000回倒そう=Đánh bại Freyja tổng cộng 500.000 lần trên toàn bộ người chơi.
+全プレイヤーでバンディ・シスターズを合計750,000回倒そう=Đánh bại Bandy Sisters tổng cộng 750.000 lần trên toàn bộ người chơi.
+全プレイヤーでバンディ・シスターズを合計500,000回倒そう=Đánh bại Bandy Sisters tổng cộng 500.000 lần trên toàn bộ người chơi.
+期間限定=Giới hạn thời gian
+全プレイヤーでフレイヤを合計750,000回倒そう=Đánh bại Freyja tổng cộng 750.000 lần trên toàn bộ người chơi.
+全プレイヤーでフレイヤを合計1,000,000回倒そう=Đánh bại Freyja tổng cộng 1.000.000 lần trên toàn server.
+全プレイヤーでアラクネを合計1,000,000回倒そう=Đánh bại Arachne tổng cộng 1.000.000 lần trên toàn server.
+全プレイヤーでアラクネを合計1,500,000回倒そう=Đánh bại Arachne tổng cộng 1.500.000 lần trên toàn server.
+バンディ・シスターズを1回倒そう=Đánh bại Bandy Sisters một lần.
+宝石蜘蛛の群れに1回挑戦しよう=Thử thách đàn Jewel Spiders một lần.
+全プレイヤーでアラクネを合計2,000,000回倒そう=Đánh bại Arachne tổng cộng 2.000.000 lần trên toàn server.
+フレイヤを1回倒そう=Đánh bại Freyja một lần.
+アラクネを1回倒そう=Đánh bại Arachne một lần.
+
+

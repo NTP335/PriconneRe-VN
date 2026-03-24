@@ -1,0 +1,34 @@
+##Profile##
+お菓子作り=Làm bánh kẹo
+男勝りで情に厚いワイルド娘=Một cô gái hoang dã, mạnh mẽ\nvẫn biết cảm thông
+
+【物理】前衛で、敵の防御力を削り取る、正義の獣人。敵の盾役の防御力を下げ、着実にダメージを与えることで早期に敵の守りを突破する。=[Thể Chất] Một cô gái sói của công lý, phá hủy phòng thủ kẻ địch từ tuyến đầu. Hạ thấp phòng thủ của kẻ địch kiên cố để gây sát thương đáng kể, phá hủy nhanh chóng lớp bảo vệ của chúng.
+
+##UB##
+ウルフェンバイト=Cắn Sói
+目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力を中ダウンさせる。=Gây sát thương thể chất (P.DMG) cho kẻ địch ngay phía trước và giảm vừa phải Kháng Thể Chất (P.DEF) của nó.
+
+##S1##
+ハードスラッシュ=Chém Mạnh
+目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương thể chất vừa phải (P.DMG) cho kẻ địch ngay phía trước.
+
+##S2##
+ブレイブハウリング=Tiếng Hú Anh Hùng
+目の前の敵１キャラの物理防御力を中ダウンさせる。=Giảm vừa phải Kháng Thể Chất (P.DEF) của kẻ địch ngay phía trước.
+r:"^敵単体の物理防御力を(\d+)ダウン$"=►Giảm Kháng Thể Chất (P.DEF) của một kẻ địch lên $1.
+
+##EX##
+狼牙の猛撃=Răng Sói Cuồng Nộ
+狼牙の猛撃+=Răng Sói Cuồng Nộ+
+
+##UB+##
+ウルフェンランページ=Sự Phẫn Nộ Của Sói
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。さらに自分に【狼牙の咆哮】を付与する。【狼牙の咆哮】が付与されている間、すべてのスキルの効果値が増加する。=Gây sát thương thể chất khổng lồ (P.DMG) cho kẻ địch phía trước và giảm rất lớn Kháng Thể Chất (P.DEF) của chúng. Ngoài ra, trao cho bản thân trạng thái "Tiếng Hú Của Sói". Khi "Tiếng Hú Của Sói" đang hoạt động, hiệu quả của mọi kỹ năng sẽ được tăng cường.
+r:"^自分に狼牙の咆哮を付与する敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=►Trao cho bản thân Tiếng Hú Của Sói.\n►Gây $1 sát thương thể chất (P.DMG) cho một kẻ địch.\n►Giảm Kháng Thể Chất (P.DEF) của một kẻ địch lên $2.
+
+##S1+##
+ハードスラッシュ+=Chém Mạnh+
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を小アップさせる。=Gây sát thương thể chất lớn (P.DMG) cho kẻ địch ngay phía trước. Tăng vừa phải Lực Thể Chất (P.ATK) của bản thân.
+
+##UE##
+ウルフェンブレード=Lưỡi Kiếm Sói

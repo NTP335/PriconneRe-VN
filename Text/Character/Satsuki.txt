@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で、華奢な体躯に厚い仁義を宿す鬼のお嬢。攻防自己強化や行動不能無効化で豪胆に立ち続け、自分が呪詛状態の時に振るう追加攻撃で、怪力無双の力を示す。=[Vật Lý] Oni nữ tuyệt vời ở tuyến đầu, mang trong mình lòng công bằng mạnh mẽ dù thân hình mảnh khảnh. Cô kiên quyết đứng vững với các kỹ năng tự tăng cường tấn công, phòng thủ và miễn nhiễm trạng thái, đồng thời thể hiện sức mạnh siêu nhân vượt trội của mình với các đòn tấn công bổ sung khi ở trạng thái nguyền rủa.
+
+鬼族=Oni
+怪力無双、ハードボイルドな仁義の鬼嬢=Nữ chiến binh vô địch, một oni lạnh lùng và có danh dự
+
+##UB##
+六角納骨・陰入蟻落とし=Nghĩa Trang Rokkaku - Côn Trùng Ngụy Bóng Tối
+目の前の敵１キャラに物理極大ダメージを与えてバリアを解除する。さらに、自分と目の前の敵１キャラを呪詛状態にする。呪詛による継続ダメージは毎秒ごとに増加する。発動時既に自分が呪詛状態だった場合、追加で目の前の敵１キャラに物理大ダメージを２回与える。このスキルの呪詛による自分へのダメージでは自分のＴＰは回復しない。=Gây sát thương vật lý cực lớn lên một kẻ địch phía trước và hủy khiên của chúng. Hơn nữa, trạng thái Nguyền Rủa lên bản thân và kẻ địch phía trước. Sát thương theo thời gian từ Nguyền Rủa tăng lên mỗi giây. Nếu đã ở trạng thái Nguyền Rủa khi kích hoạt, còn gây thêm sát thương vật lý lớn hai lần lên kẻ địch phía trước. Sát thương từ Nguyền Rủa của kỹ năng này không hồi TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のバリアを解除する自分を毎秒ダメージが初期値(\d+)の(\d+)％ずつアップするダメージを与える呪詛状態にする敵単体を毎秒ダメージが初期値(\d+)の(\d+)％ずつアップするダメージを与える呪詛状態にする自分が呪詛状態の時、敵単体に(\d+)の物理ダメージ自分が呪詛状態の時、敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Xóa khiên của một kẻ địch.\n►Gây Nguyền Rủa lên bản thân, gây sát thương mỗi giây bắt đầu từ $2 và tăng $3% mỗi lần.\n►Gây Nguyền Rủa lên một kẻ địch, gây sát thương mỗi giây bắt đầu từ $4 và tăng $5% mỗi lần.\n►Khi đã bị Nguyền Rủa, gây $6 sát thương vật lý lên một kẻ địch.\n►Khi đã bị Nguyền Rủa, gây $7 sát thương vật lý lên một kẻ địch.
+
+##S1##
+六角納骨・引き独鈷=Nghĩa Trang Rokkaku - Vajra Kéo
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせ、自分のＴＰを中回復する。発動時既に自分が呪詛状態だった場合、追加で目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃のダメージを小アップする。=Gây sát thương vật lý lớn lên một kẻ địch phía trước, giảm nhẹ P.DEF của chúng, và hồi TP vừa phải cho bản thân. Nếu đã ở trạng thái Nguyền Rủa khi kích hoạt, còn gây thêm sát thương vật lý lớn lên kẻ địch phía trước và tăng nhẹ sát thương vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＴＰを(\d+)回復自分が呪詛状態の時、敵単体に(\d+)の物理ダメージ自分が呪詛状態の時、自分が与える物理ダメージを(\d+)％アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm $2 P.DEF của một kẻ địch.\n►Hồi $3 TP cho bản thân.\n►Khi đã bị Nguyền Rủa, gây $4 sát thương vật lý lên một kẻ địch.\n►Khi đã bị Nguyền Rủa, tăng $5% sát thương vật lý do bản thân gây ra.
+
+##S2##
+奉献の盃=Ly Cống Hiến
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップ、物理防御力と魔法防御力を中アップする。発動時既に自分が呪詛状態だった場合、自分のＨＰ吸収を中アップする。=Tăng cực lớn P.ATK của bản thân, tăng nhẹ Sát thương Chí Mạng Vật Lý, và tăng vừa phải P.DEF và M.DEF. Nếu đã ở trạng thái Nguyền Rủa khi kích hoạt, tăng vừa phải Hấp Thụ HP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリダメを(\d+)％アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分が呪詛状態の時、自分のＨＰ吸収を(\d+)アップ$"=►Tăng $1 P.ATK của bản thân.\n►Tăng $2% Sát thương Chí Mạng Vật Lý của bản thân.\n►Tăng $3 P.DEF của bản thân.\n►Tăng $4 M.DEF của bản thân.\n►Khi đã bị Nguyền Rủa, tăng $5 Hấp Thụ HP của bản thân.
+
+##EX##
+不屈の鬼=Oni Bất Khả Chiến Bại
+不屈の鬼+=Oni Bất Khả Chiến Bại+
+
+自分の物理攻撃力を特大アップ、物理クリティカルを極大アップ、物理攻撃クリティカル時のダメージを小アップ、物理防御力と魔法防御力を特大アップし、バトル終了まで自分が敵から受ける行動不能を無効化して自分のＴＰを特大回復する。発動時既に自分が呪詛状態だった場合、自分のＨＰ吸収を中アップする。=Tăng cực lớn P.ATK của bản thân, tăng cực lớn Tỷ Lệ Chí Mạng Vật Lý, tăng nhẹ Sát thương Chí Mạng Vật Lý, tăng cực lớn P.DEF và M.DEF, vô hiệu hóa các hiệu ứng khiến bất lực nhận từ kẻ địch đến hết trận, và hồi TP cực lớn cho bản thân. Nếu đã ở trạng thái Nguyền Rủa khi kích hoạt, còn tăng vừa phải Hấp Thụ HP của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理クリダメを(\d+)％アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分が呪詛状態の時、自分のＨＰ吸収を(\d+)アップ自分が敵から受ける行動不能を無効化する自分のＴＰを(\d+)回復$"=►Tăng $1 P.ATK của bản thân.\n►Tăng $2 Tỷ Lệ Chí Mạng Vật Lý của bản thân.\n►Tăng $3% Sát thương Chí Mạng Vật Lý của bản thân.\n►Tăng $4 P.DEF của bản thân.\n►Tăng $5 M.DEF của bản thân.\n►Khi đã bị Nguyền Rủa, tăng $6 Hấp Thụ HP của bản thân.\n►Miễn nhiễm Choáng từ kẻ địch.\n►Hồi $7 TP cho bản thân.

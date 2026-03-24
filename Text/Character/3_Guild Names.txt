@@ -1,0 +1,38 @@
+トゥインクルウィッシュ=Twinkle Wish
+美食殿=Gourmet Guild
+Gourmet Guild
+カルミナ=Carmina
+ラビリンス=Labyrinth
+ラビリンスギルド拠点=Labyrinth Guild base
+リトルリリカル=Little Lyrical
+フォレスティエ=Forestier
+悪魔偽王国軍（ディアボロス）=Diabolos
+悪魔偽王国軍\nーディアボロスー=Diabolos
+ディアボロス=Diabolos
+王宮騎士団（NIGHTMARE）=Nightmare
+王宮騎士団ーNIGHTMAREー=Nightmare Bảo Vệ Ngai Vàng
+サレンディア救護院=Nhà Nuôi Trẻ Sarendia
+牧場（エリザベスパーク）=Công Viên Elizabeth
+牧場ーエリザベスパークー=Công Viên Elizabeth
+エリザベスパーク=Công Viên Elizabeth
+自警団ーカォンー=Caon
+自警団（カォン）=Caon
+カォン=Caon
+メルクリウス財団=Tổ Chức Mercurius
+メルクリウス財団 拠点=Căn cứ Tổ Chức Mercurius
+トワイライトキャラバン=Đoàn Caravan Hoàng Hôn
+ヴァイスフリューゲル　ランドソル支部=Chi Nhánh Landosol Weissflügel
+ヴァイスフリューゲル ランドソル支部=Chi Nhánh Landosol Weissflügel
+ルーセント学院=Học Viện Lucent
+聖テレサ女学院（なかよし部）=Câu Lạc Bộ Hữu Nghị
+ニュージェネレーションズ=Thế Hệ Mới
+ドラゴンズネスト=Tổ Rồng
+ヴァイスフリューゲル\nランドソル支部=Weissflügel (Chi Nhánh Landosol)
+ヴァイスフリューゲル=Weissflügel
+レイジ・レギオン=Binh Đoàn Cuồng Nộ
+レイジレギオン=Binh Đoàn Cuồng Nộ
+アルターメイデン=Thiếu Nữ Biến Dạng
+
+アルケス錬金堂=Xưởng Alces
+
+リッチモンド商工会=Hiệp Hội Thương Mại Richmond

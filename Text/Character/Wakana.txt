@@ -1,0 +1,40 @@
+##Profile##
+【物理】中衛の、貧乏クジを引きがちな盗賊ギルド次女。召喚したスキッドがワカナをかばって前線に立ち、自身は攻撃支援にＨＰとＴＰ回復まで、献身的に味方を支える。=[Vật lý] Con gái thứ hai của guild Bandy Sisters, thường bị bất lợi ở vị trí giữa. Các Spike Brothers được triệu hồi đứng ở tuyến đầu để bảo vệ Wakana, còn bản thân cô hết lòng hỗ trợ đồng đội bằng cách tăng cường tấn công và hồi HP, TP.
+石見舞菜香=Iwami Mainaka
+編み物=Knitting
+大変だけど元気です。盗賊ギルドの次女=Cô ấy khỏe mạnh, nhưng đang làm tốt. Con gái thứ hai của guild Thieves.
+##UB##
+お願い！スパイクブラザーズ=Please! Spike Brothers!
+【召喚】味方全体の物理攻撃力を特大アップさせ、目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。さらにワカナが呼び出したスパイクブラザーズが味方にいる場合、スパイクブラザーズのＨＰを大回復し、そうでない場合スパイクブラザーズを１体呼び出す。=[Triệu hồi] Tăng mạnh P.ATK cho toàn đồng đội, gây sát thương vật lý lớn lên kẻ địch phía trước và giảm P.DEF của nó. Nếu Spike Brothers đang ở trên sân, hồi HP mạnh cho chúng; nếu không, triệu hồi Spike Brothers lên sân.
+r:"^味方全体の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンスパイクブラザーズのＨＰを(\d+)回復スパイクブラザーズを呼び出す$"=►Tăng P.ATK cho toàn đồng đội $1 trong 18s.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch $3 trong 18s.\n►Nếu Spike Brothers đang ở trên sân, hồi HP của chúng $4; Nếu không, triệu hồi Spike Brothers.
+
+##S1##
+カレー、いかがです？=Would You Like Some Curry?
+自分以外の味方全体の物理攻撃力と物理クリティカルを特大アップさせ、ＨＰとＴＰを中回復させる。さらに、自分の物理攻撃力を中アップ、物理クリティカルを大アップし、ＨＰとＴＰを小回復する。=Tăng mạnh P.ATK và Tỷ lệ Chí mạng vật lý cho toàn đồng đội khác, và hồi trung bình HP và TP của họ. Đồng thời tăng trung bình P.ATK của bản thân, tăng mạnh Tỷ lệ Chí mạng vật lý của bản thân, và hồi nhẹ HP và TP của bản thân.
+r:"^自分以外の味方全体の物理攻撃力を(\d+)アップ自分以外の味方全体の物理クリティカルを180アップ自分以外の味方全体のＨＰを(\d+)回復自分以外の味方全体のＴＰを150回復自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを90アップ自分のＨＰを(\d+)回復自分のＴＰを75回復$"=►Tăng P.ATK cho toàn đồng đội khác $1 trong 12s.\n►Tăng Tỷ lệ Chí mạng vật lý cho toàn đồng đội khác 180 trong 12s.\n►Hồi HP cho toàn đồng đội khác $2.\n►Hồi TP cho toàn đồng đội khác 150.\n►Tăng P.ATK của bản thân $3 trong 12s.\n►Tăng Tỷ lệ Chí mạng vật lý của bản thân 90 trong 12s.\n►Hồi HP của bản thân $3.\n►Hồi TP của bản thân 75.
+
+
+
+##S2##
+スパイクラッシュ=Spiral Crash
+目の前の敵１キャラに物理大ダメージを与え、味方全体に物理/魔法無効バリアを展開する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và triển khai khiên cho toàn đồng đội chống lại sát thương vật lý/ma thuật.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai khiên cho toàn đồng đội chống lại $2 sát thương vật lý/ma thuật trong 12s.
+
+##SP1##
+誰か助けて～！=Somebody Help Me!
+このスキルのスキルレベルは「お願い！スパ\nイクブラザーズ」と連動しています=Cấp độ kỹ năng này liên kết với "Please! Spike Brothers!"
+【召喚】ワカナが呼び出したスパイクブラザーズが味方にいない場合、スパイクブラザーズを１体呼び出す。スパイクブラザーズは召喚後、ワカナに【スパイクガード】を付与し、敵から攻撃を受けるたび、その敵の最大ＨＰに応じて最大99999の割合ダメージを与える状態になる。さらに次の行動から、スパイクブラザーズがスキルを発動した後、一定時間【スパイクガード】が付与されているキャラへの敵の攻撃を代わりに受ける。=[Triệu hồi] Nếu Spike Brothers không có trên sân, triệu hồi chúng lên sân. Sau khi chúng được triệu hồi, tặng [Spike Guard] cho Wakana, gây sát thương lên kẻ địch dựa trên HP tối đa của chúng (tối đa 99999) cho mỗi lần Wakana bị tấn công. Từ hành động tiếp theo trở đi, chúng sẽ nhận sát thương thay cho nhân vật có trạng thái [Spike Guard].
+スパイクブラザーズを呼び出す=►Triệu hồi Spike Brothers.
+
+##EX##
+とっておき節約レシピ=Best Money-Saving Recipe
+とっておき節約レシピ+=Best Money-Saving Recipe+
+
+
+##UE##
+ワカナのお手製エプロン=Wakana's Handmade Apron
+##S1+##
+カレー、いかがです？+=Would You Like Some Curry?+
+自分以外の味方全体の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＨＰとＴＰを中回復させる。さらに、自分の物理攻撃力を中アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップし、ＨＰとＴＰを小回復する。=Tăng mạnh P.ATK và Tỷ lệ Chí mạng vật lý cho toàn đồng đội khác, tăng nhẹ Sát thương Chí mạng vật lý của họ, và hồi trung bình HP và TP của họ. Ngoài ra, tăng trung bình P.ATK của bản thân, tăng mạnh Tỷ lệ Chí mạng vật lý của bản thân, tăng nhẹ Sát thương Chí mạng vật lý của bản thân, và hồi nhẹ HP và TP của bản thân.
+
+r:"^自分以外の味方全体の物理攻撃力を(\d+)アップ自分以外の味方全体の物理クリティカルを180アップ自分以外の味方全体のＨＰを(\d+)回復自分以外の味方全体のＴＰを150回復自分以外の味方全体の物理クリダメを6％アップ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを90アップ自分のＨＰを(\d+)回復自分のＴＰを75回復自分の物理クリダメを3％アップ$"=►Tăng P.ATK cho toàn đồng đội trừ bản thân $1.\n►Tăng Tỷ lệ Chí mạng vật lý cho toàn đồng đội trừ bản thân 180.\n►Hồi HP cho toàn đồng đội trừ bản thân $2.\n►Hồi TP cho toàn đồng đội trừ bản thân 150.\n►Tăng Sát thương Chí mạng vật lý cho toàn đồng đội trừ bản thân 6%.\n►Tăng P.ATK của bản thân $3.\n►Tăng Tỷ lệ Chí mạng vật lý của bản thân 90.\n►Hồi HP của bản thân $4.\n►Hồi TP của bản thân 75.\n►Tăng Sát thương Chí mạng vật lý của bản thân 3%.

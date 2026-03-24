@@ -1,0 +1,142 @@
+
+r:"^ムーサの町([0-9\-\(\)\w （）]*)$"=Thị trấn Musa $1
+SPECIALの葛藤のうえきちゃん=Ueki-chan trong Xung đột Đặc biệt
+ラウドラパーン=Laudrapan
+SPECIALのラウドラパーン=Laudrapaan của Đặc biệt
+SPECIALかEXHIBITIONでラウドラパーンを5回以内に討伐しよう=Chinh phục Laudrapaan trong năm lần thử (Đặc biệt hoặc TRIỂN LÃM)
+
+デレマスコラボ復刻記念 お得なジュエル1800個=Kỷ niệm hợp tác Deremas phục hồi 1800 viên ngọc
+デレマスコラボ復刻記念 お得なジュエル3000個=Kỷ niệm hợp tác Deremas phục hồi 3000 viên ngọc
+デレマスコラボ復刻記念 ジュエル7500個パック=Gói 7500 viên ngọc kỷ niệm hợp tác Deremas phục hồi
+スターライトプリンセス　Re:M@STER！【前編】=Công Chúa ánh sao Re:M@STER! [Phần 1]
+スターライトプリンセス　Re:M@STER！【後編】=Starlight Princess Re:M@STER! [Phần 2]
+
+
+
+特別ミッション=Nhiệm vụ đặc biệt
+ファースト=Giai đoạn 1
+セカンド=Giai đoạn 2
+サード=Giai đoạn 3
+第1層=Giai đoạn 1
+第2層=Giai đoạn 2
+第3層=Giai đoạn 3
+第4層=Giai đoạn 4
+各層のミッションをすべてクリアするとボスが出現します。=Sau khi hoàn thành tất cả nhiệm vụ ở mỗi cấp độ, một boss sẽ xuất hiện.
+
+討伐証交換リセットを1回しよう=Đặt lại Giấy chứng nhận chinh phục 1 lần
+討伐証交換リセットを3回しよう=Đặt lại Giấy chứng nhận chinh phục 3 lần
+討伐証交換リセットを5回しよう=Đặt lại Giấy chứng nhận chinh phục 5 lần
+ミオ（デレマス）を編成してイベント後編HARDボスを倒そう=Sắp xếp Mio (Deremas) và đánh bại nửa sau sự kiện, boss HARD
+ミオ（デレマス）の★を2にしよう=Nâng ★ của Mio lên 2
+
+イベント後編HARDボスを3回倒そう=Phần 2 sự kiện: Đánh bại boss HARD 3 lần
+イベント後編HARDクエスト1-1を3回クリアしよう=Phần 2 sự kiện: Hoàn thành Nhiệm vụ HARD 1-1 3 lần
+イベント前編HARDボスを3回倒そう=Phần 1 sự kiện: Đánh bại boss HARD 3 lần
+イベント前編HARDクエスト1-1を3回クリアしよう=Phần 1 sự kiện: Hoàn thành Nhiệm vụ HARD 1-1 3 lần
+
+イベント前編VERY HARDボスを倒そう=Phần 1 sự kiện: Đánh bại boss VERY HARD
+イベント後編VERY HARDボスを倒そう=Phần 2 sự kiện: Đánh bại boss VERY HARD
+
+
+
+イベントストーリー後編　第1話を見よう=Câu chuyện sự kiện Phần 2: Xem Tập 1
+イベントストーリー後編　第3話を見よう=Câu chuyện sự kiện Phần 2: Xem Tập 3
+イベントストーリー後編　エンディングを見よう=Câu chuyện sự kiện Phần 2: Xem Kết thúc
+
+イベントストーリー前編　第1話を見よう=Câu chuyện sự kiện Phần 1: Xem Tập 1
+イベントストーリー前編　第3話を見よう=Câu chuyện sự kiện Phần 1: Xem Tập 1
+イベントストーリー前編　エンディングを見よう=Câu chuyện sự kiện Phần 1: Xem Kết thúc
+
+
+
+
+
+
+
+ノビノビうえきちゃん=Ueki-chan Không Ngừng Lớn
+ミッション全達成です\n頑張った甲斐が\nありましたね！=Nhiệm vụ đã hoàn\nthành toàn bộ. Nỗ lực\ncủa chúng ta đáng giá!
+うえきちゃんの様子を観察しながら、特別ミッションをクリアしていきましょう。ミッション達成後にこの場所を訪れると、自動で報酬を獲得できますよ。=Trong khi theo dõi tình trạng của Ueki-chan, hãy hoàn thành các nhiệm vụ đặc biệt. Sau khi hoàn thành, việng đến nơi này sẽ tự động nhận phần thưởng.
+各層のミッションをすべてクリアすると、ボスが出現するようです。ボスを倒せば、さらに先へ進むことができます。=Có vẻ như hoàn thành tất cả nhiệm vụ ở mỗi tầng sẽ khiến một boss xuất hiện. Đánh bại boss sẽ cho phép chúng ta tiến xa hơn.
+ボスを倒すとうえきちゃんの様子が変わるようです。ミッションをクリアする、ボスを倒す、を繰り返してともに頂上を目指しましょう。=Có vẻ như đánh bại boss sẽ thay đổi tình trạng của Ueki-chan. Hãy lặp lại việc hoàn thành nhiệm vụ và đánh bại boss để cùng hướng đến đỉnh cao.
+見てください！お星様の世界です！すごい景色ですね☆=Nhìn kìa! Một thế giới sao! Quang cảnh tuyệt vời thật☆
+本当に素晴らしい場所でございます堪能いたしましょう=Đây thực sự là một nơi tuyệt vời. Hãy tận hưởng nó hết mình.
+せっかく見つけたクウカがまた飛んでマス！=Kuuka mà chúng ta tìm thấy cuối cùng cũng đã bay trở lại rồi!
+何落ち着いてるのよおかしいでしょなんか色々と…！=Tại sao cậu lại bình tĩnh thế? Thật kỳ lạ, ở nhiều phương diện...!
+星の輝きを浴びたボクはまた一段と美しいね…=Tắm trong ánh sao, em còn đẹp hơn...
+見て、流れ星…！みんなで願い事をしようよ=Nhìn kìa, một sao băng...! Chúng ta hãy cùng nhau ước nguyện đi.
+ウチュウキター！テンション爆上がりですしおすし！=Vũ trụ đã đến! Cảm xúc của tôi bùng nổ—sushi o sushi!
+ああ、そうだね私たちにぴったりなシチュエーションだ=À, phải. Đây là hoàn cảnh hoàn hảo cho chúng ta.
+きゃっ！？　おおお落ちちゃいます～！お嬢様～！！？？=Kyaa!? S-S-Sao tôi rơi~! Ojou-sama~!!??
+さんせーい！じゃあ、あたしは…うーん、うーん…！=Đồng ý! Vậy, với tôi... Hừm, hừm...!
+スズメ、大丈夫！？高い場所だから気をつけなさいね=Suzume, cậu ổn chứ!? Cẩn thận vì nơi này cao.
+あっ、あそこに先輩がいるじーーーー…=À, Senpai ở đằng kia. Nhìn chằm chằm...
+おにぎり型の雲ってどんな味がするんでしょう…じゅるり☆=Tôi tự hỏi đám mây hình cơm nắm có vị như thế nào... Nước miếng☆
+この雲、ふかふかで気持ちいい～ぐっすり眠れそう～=Đám mây này mềm mại và dễ chịu~ Tôi có thể ngủ ngon~
+お空で遊ぶのってすごく気持ちいいねるんたった～♪=Chơi đùa trên bầu trời thật tuyệt! La la la~♪
+はぁはぁ…も、もう限界にゃ…帰りたいにゃ…=Haa haa... S-S-Vượt quá giới hạn rồi nya... Muốn về nhà nya...
+空の上でもカルミナ…オンステージ！=Ngay cả trên bầu trời, Carmina... Trên sân khấu!
+気持ちいいところね遠足で生徒たちも連れてこようかしら=Nơi này cảm giác dễ chịu. Có lẽ tôi sẽ đưa học sinh đi dã ngoại.
+風が心地よいですね優しく、囁きかけているように感じます=Gió thổi rất dễ chịu. Có vẻ như nó đang thì thầm nhẹ nhàng.
+空は気持ちいいの～これが天にも昇る気持ちってやつなの=Bầu trời thật tuyệt~ Đây có phải là cảm giác lên thiên đàng không nhỉ?
+うう、ぼっちへの風当たりが強すぎませんか！？=Uuu, gió có phải quá khắc nghiệt với kẻ cô đơn không!?
+かなり高くまで登ってまいりましたですが…=Chúng ta đã leo khá cao rồi, nhưng...
+かわいい雲さんやね一緒に連れて帰りたいわぁ♪=Những đám mây dễ thương quá. Mình muốn đem chúng về nhà♪
+むむ、視界が白く…クリスちゃん、気を付けるんだ！=Mumu, tầm nhìn đang trắng xóa... Chris-chan, cẩn thận!
+うっひゃ～…！足場が雲になるってどういうこと！？=Uhyaa~...! Ý gì vậy, chỗ đặt chân biến thành mây!?
+ははは、鎧の重さで沈んでいるぞ団長☆そぉれ一本釣りだ！=Hahaha, chìm xuống vì áo giáp nặng, Dancho☆ Đó, câu cá một dây!
+なんだか不思議な感触してますね～ふわふわですよ♪=Cảm giác hơi bí ẩn~ Mềm mại quá♪
+あ、足に絡みつくツタの感触がたまりません～～！=Ái chà, cảm giác dây leo quấn quanh chân không thể cưỡng lại~~!
+あれ…お姉ちゃんどこに行ったのかな…お姉ちゃーん？=Hở... Onee-chan đi đâu rồi...? Onee-chaaan?
+これくらいの高さでへこたれてたらヒーロー失格ッス！=Bỏ cuộc ở độ cao này thì không xứng làm anh hùng đâu!
+大人の階段を登るわよー！=Leo những bậc thang trưởng thành—!
+マスターセンリも一発からです！頑張りますよ！=Master Senri cũng bắt đầu bằng một phát! Em sẽ cố gắng!
+キャルちゃん！見てくださいいい景色ですよ☆=Kyaru-chan! Nhìn kìa, cảnh đẹp quá☆
+はーっはっはっは！世界征服への第一歩を始めるぞ！=Hah hah hah hah! Bắt đầu bước đầu tiên cho cuộc chinh phục thế giới!
+見て見て！雲でぷうきちを作ったよー！=Nhìn xem! Em làm Pukichi từ mây—!
+だいぶ登ったね～ちょっと下のほう見てみようよ！=Leo khá nhiều rồi~ Nhìn xuống một chút thôi!
+あ！　お姉ちゃん！こんなところで寝ちゃ危ないよー！=Á! Onee-chan! Ngủ ở đây nguy hiểm—!
+わぁ、すご～い…！私も何か作りたいなぁ…♪=Waa, tuyệt vời...! Em cũng muốn làm thứ gì đó...♪
+そうですね！えーと、どれどれ…って、わわわわ！=Vâng! Ưm, cái nào cái nào... Khoan, wawawa!
+しおりんの声が聞こえたような…すやぁ…☆=Nghe như giọng Shiorin... Zzz...☆
+あっ！ほら見てしまむー、しぶりん星がすごいよ！=Á! Nhìn xem Shimamu—ngôi sao Shiburin tuyệt quá!
+…トップアイドルになった時の景色ってこんな感じなのかな=...Cảnh đẹp khi trở thành thần tượng hàng đầu là như vậy sao?
+あの星みたいに私たちも輝きたいですね！=Chúng ta cũng muốn rực rỡ như ngôi sao đó!
+
+
+錬金術は～……ヒッヒ……錬れば錬るほど、色が変わ……あ、{playername}くん。=Giả kim thuật~... Hehe... Càng tinh chế, màu sắc càng thay đổi... À, {playername}-kun.
+くー…くー……むにゃ=Zzz... Zzz... *lầm bầm*
+ふふ、気持ちよさそうに寝ちゃって。…風邪ひいちゃうよ～=Hehe, ngủ ngon quá... Có thể bị cảm lạnh~
+後編の物語が開放されたようです。主さま、さっそく参りましょう。=Phần hai câu chuyện dường như đã được mở khóa. Master, chúng ta hãy tiến ngay.
+後編では、ムーサの町を舞台に新たな冒険が繰り広げられます。前編とは異なるボスや、新しいコンテンツも用意されておりますのでぜひプレイしてみてくださいまし。=Trong phần hai, những cuộc phiêu lưu mới sẽ diễn ra ở thị trấn Mootha. Các boss khác với nửa đầu và nội dung mới đang chờ đón, hãy thử đi.
+アイドルの本気=Sức Mạnh Thật Sự Của Thần Tượng
+お疲れさま！　いっぱい助けてくれてありがとねっ！でも、まだまだ始まったばかりだよ！=Làm tốt lắm! Cảm ơn sự giúp đỡ! Nhưng đây mới chỉ là khởi đầu!
+うえきちゃんに、本気のアイドルの力を見せてあげなくちゃ！キラキラパワーで、これからも頑張ろー！=Phải cho Ueki-chan xem sức mạnh thật sự của thần tượng! Hãy tiếp tục với sức mạnh rực rỡ của chúng ta!
+余裕の勝利=Chiến Thắng Quyết Định
+いえーい10勝達成♪　余裕余裕～=Hoan hô, đã đạt 10 trận thắng♪ Dễ như ăn bánh~
+って、まだいるみたい！　元気いいな～こっちも負けてらんないね！　まだまだいけるよー！=Khoan, còn nhiều nữa! Năng lượng quá~ Ở đây cũng không thể thua! Chúng ta vẫn có thể tiếp tục!
+頼れる姿=Sự Hiện Diện Đáng Tin Cậy
+急に大変なことになってきちゃった……でも、キミがいれば何とかなりそうかな。頼りにさせてもらうよ。=Mọi thứ bỗng trở nên khó khăn... nhưng với cậu ở đây, tôi nghĩ chúng ta sẽ ổn. Tôi sẽ trông cậy vào cậu.
+
+
+
+
+
+
+混迷の開花=Sự Nở Rộ Của Bối Rối
+突然つぼみちゃんがうえきちゃんになっちゃうし、花粉はいっぱい出てくるし、わけがわかんないよー！キミの力を貸して！　お願い～！=Bỗng nhiên, Bud-chan biến thành Plant-chan, bụi phấn bay tứ tung, và chẳng có gì có nghĩa cả! Hãy giúp tôi! Tôi xin cậu!
+
+話したいのに=Tôi Muốn Nói Chuyện
+さらなる高みへ=Đến Đỉnh Cao Hơn Nữa
+かなりの回数戦ってきたね。ちょっとノってきたかも。=Chúng ta đã chiến đấu khá nhiều rồi. Tôi nghĩ chúng ta đã bắt đầu vào guồng.
+キミも、まだまだやれるよね？さあ、一緒に行こう。うえきちゃんを落ち着かせてあげないと。=Cậu vẫn có thể tiếp tục, phải không? Nào, hãy cùng nhau đi. Chúng ta cần phải làm cho Plant-chan bình tĩnh lại.
+蒼の剣士とともに=Cùng Với Kiếm Sĩ Xanh Biếc
+うん、これで20勝……意外とすごいじゃん。=Vâng, vậy là 20 trận thắng... Cậu thật sự ấn tượng đấy.
+けど、相手はまだやる気みたいだよ。背中は私が守るから、最後まで気を抜かずに戦おう。=Nhưng dường như đối thủ vẫn muốn chiến đấu. Tôi sẽ che chắn lưng cho cậu, vì vậy hãy giữ tập trung đến cuối cùng.
+みんなの笑顔を守るため=Để Bảo Vệ Nụ Cười Của Mọi Người
+わー！　30勝しちゃうなんてすごいです！私も負けません！=Ồ! 30 trận thắng—thật tuyệt! Tôi cũng sẽ không thua!
+みんなの笑顔を守るために、ウヅキ頑張ります！=Để bảo vệ nụ cười của mọi người, Uzuki sẽ cố gắng hết sức!
+勝利のピース=Mảnh Chiến Thắng
+えへへ、勝利のピースです♪全部、あなたの応援のおかげです……ありがとうございます！=E he he, đây là Mảnh Chiến Thắng♪ Tất cả đều nhờ sự ủng hộ của cậu... Cảm ơn cậu nhiều lắm!
+最高のアイドルに近付けるように……うえきちゃんを、アイドルの心で満たしてあげられるように……わたし、これからも頑張りますね！=Để em có thể tiến gần hơn đến việc trở thành idol xuất sắc nhất... để em có thể lấp đầy Plant-chan bằng trái tim của một idol... Em sẽ luôn cố gắng!
+私がキミの力になってあげるお給料の相談は、またあとでね=Em sẽ là sức mạnh của cậu. Chuyện lương thưởng của em chúng ta tính sau, được chứ?
+```

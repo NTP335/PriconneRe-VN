@@ -1,0 +1,27 @@
+##Profile##
+【魔法】後衛から強力な単体攻撃を放つ真夏の猫娘。\nスキルで敵の魔法防御力を下げた上で、\n敵単体への魔法攻撃を繰り出し、大ダメージを与える。=[Phép] Một pháp sư tai mèo phóng ra những phép thuật đơn mục hủy diệt từ hậu phương. Cô ta tạo ra lượng sát thương lớn bằng cách hạ thấp phòng thủ phép của một kẻ địch trước khi thổi bay chúng bằng phép thuật của mình.
+
+##UB##
+レイジングフローター=Cuồng nộ Cao su
+
+##S1##
+ウォーターバレット=Đạn Nước
+
+##S2##
+スパイラルウェーブ=Sóng xoáy Ốc
+目の前の敵１キャラに魔法小ダメージを与え、さらに魔法防御力を中ダウンさせる。=Gây sát thương phép nhỏ lên kẻ địch ngay phía trước và giảm M.DEF của chúng một chút.
+
+##EX##
+ハイドロリンク=Liên kết Nước
+ハイドロリンク+=Liên kết Nước+
+
+##UB+##
+サマーフルフローター=Lướt trôi Hè tràn đầy
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。発動時既にこのスキルの対象が魔法防御力ダウン状態だった場合、さらに魔法大ダメージを与える。=Gây sát thương phép cực lớn lên kẻ địch ngay phía trước, và giảm M.DEF một chút. Nếu mục tiêu của kỹ năng này đã ở trạng thái giảm M.DEF khi kích hoạt, nó sẽ gây thêm sát thương phép.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン対象が魔法防御力ダウン状態の時、敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Giảm M.DEF của kẻ địch đi $2.\n\nNếu M.DEF của kẻ địch đã bị giảm:\n►Gây $3 sát thương phép lên kẻ địch.
+
+##S1+##
+ウォーターバレット+=Đạn Nước+
+
+##UE##
+猫輪サマーフロート=Lướt trôi Mèo

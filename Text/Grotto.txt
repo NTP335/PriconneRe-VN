@@ -1,0 +1,29 @@
+マナクエスト=Nhiệm Vụ Mana
+経験値クエスト=Nhiệm Vụ EXP
+マナを大量獲得=Kiếm được nhiều Mana
+EXPポーションを大量獲得=Tìm thấy nhiều Potion EXP
+キャラのLvアップに使う\nEXPポーションを獲得=Nhận Potion EXP để nâng cấp nhân vật.
+スキル強化や装備強化\nショップで使うマナを獲得=Nhận Mana để tăng cường kỹ năng và tinh chế trang bị.
+
+スキップチケットと挑戦回数を消費してクエストを\n実行します。よろしいですか？=Sử dụng vé bỏ qua và lượt thử để hoàn thành nhiệm vụ này?
+
+---npc dialogue---
+育成に必要なアイテムが\n獲得できるクエストです\nわたくし、主さまのために、\n強くなりますよ=Trong nhiệm vụ này, bạn có thể nhận vật phẩm cần thiết cho Huấn Luyện.\nEm sẽ mạnh lên vì cậu, Chủ Nhân.
+
+このクエストを攻略すれば、\nアイテムがもらえますよ\nたくさん集めて、どんどん\n強くなっちゃいましょう！=Bạn sẽ nhận được một số vật phẩm tốt khi hoàn thành nhiệm vụ này! Thu thập càng nhiều càng tốt và trở nên cực mạnh!
+
+クエストを攻略すると、\nアイテムが手に入るんだって\nもらえるものは、\nもらっておきましょ！=Bạn cũng có thể nhận vật phẩm bằng cách hoàn thành nhiệm vụ.\nHãy lấy hết những gì chúng ta có thể!
+
+このクエストを攻略すると、\nアイテムが手に入るらしいわ。\nもっと強くなるために、\n一生懸命がんばるわね！=Có vẻ như bằng cách hoàn thành nhiệm vụ này, chúng ta có thể thu được một số vật phẩm tốt. Em sẽ cố gắng hết sức để trở nên mạnh hơn nữa!
+キャラ強化に必要な「EXPポーション」を獲得できるクエストと「マナ」を獲得できるクエストの２種類があります。１日に挑戦できる回数は、それぞれのクエストで２回ずつです。=Có hai loại nhiệm vụ: loại cung cấp Potion EXP cần thiết để nâng cấp nhân vật và loại cung cấp Mana. Mỗi loại nhiệm vụ có thể chơi tối đa hai lần mỗi ngày.
+こちらでは★6才能開花に必要なアイテム、「プリンセスオーブ」を手に入れられます。たくさん集めて、才能開花を目指しましょう。=Trong ngôi đền này, chúng ta sẽ có thể tìm thấy Ngọc Công Chúa, một tài nguyên cần thiết để nâng cấp nhân vật lên ★6. Hãy thu thập càng nhiều càng tốt và đạt đến đỉnh cao sức mạnh mới.
+------
+
+経験値クエストへ=Đến Nhiệm Vụ EXP
+マナクエストへ=Đến Nhiệm Vụ Mana
+探索TOPへ=Đến Hang Động
+
+枚=vé
+
+r:"^リセットまであと(\d+)時間$"=Đặt lại sau $1 giờ
+r:"^リセットまであと(\d+)分$"=Đặt lại sau $1 phút

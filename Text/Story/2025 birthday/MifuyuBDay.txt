@@ -1,0 +1,16 @@
+Mifuyu Oogami BDay
+
+お疲れさま。\nやっぱりキミがいると仕事がはかどるわね。=Hôm nay làm tốt lắm. Công việc trôi chảy thật sự khi có cậu ở bên.
+効率が二倍にも三倍にもなる感覚っていうのかしら。\n私が思った以上の成果が出せるから、本当に助かるわ。\nなんだか今日は特に張り切ってたみたいだし。=Có thể nói là cảm giác hiệu quả gấp đôi, thậm chí gấp ba. Cậu thực sự là cứu tinh vì giúp tớ đạt được kết quả vượt ngoài mong đợi. Và hôm nay, cậu dường như đặc biệt nhiệt huyết.
+でもどうして急に仕事の手伝いをしたいなんて言い出したの？\nあ、もしかしてお小遣いを使いこんじゃったとか？\nもう、ダメよ？　ちゃんと節制しないと。=Nhưng... sao cậu đột ngột nói muốn giúp tớ với công việc? À... đừng bảo cậu lại xài hết tiền tiêu vặt rồi chứ? Thật sự, vậy không được! Cậu phải học cách kiềm chế.
+え……？\n確かに今日は私の誕生日だけど……\nえ？　私のために、こんなに張り切って働いてくれたの？=Hả...? Đúng, hôm nay là sinh nhật tớ, nhưng... chờ đã, cậu đã cố gắng như vậy... vì tớ ư?
+あ、ありがとう……なんだか悪いわね。\nこんなに頑張らなくても、もっと気楽なお祝いでもよかったのに……=T-Cảm ơn... Giờ tớ cảm thấy hơi tội. Cậu không cần phải làm đến mức đó, một bữa tiệc đơn giản cũng được mà...
+ふふっ、なにそれ。\n私だけにしか通じない口説き文句よ、それ。=Hehe, chuyện gì vậy... Loại đường dẫn tình cảm đó chỉ có tác dụng với tớ thôi, cậu biết chứ!
+……本来なら仕事の後は速やかに帰るべき、だけど……\n今日は特別な日だもの。時間を贅沢に使ってもいいわよね。=...Thông thường, sau giờ làm tớ sẽ về thẳng nhà... Nhưng hôm nay là đặc biệt, nên tớ nghĩ mình có thể tự do dành thời gian nhiều hơn một chút.
+じゃあ、あなたの頑張りを無駄なく受け取るために。\nこれから二人で、誕生日パーティーをしましょっか！=Vậy thì, để công sức của cậu không uổng phí... sao không tổ chức một bữa tiệc sinh nhật, chỉ có hai đứa mình?
+ふふっ、ありがとう！\nじゃあ行きましょうか。=Hehe, cảm ơn nhé! Vậy thì, ta đi thôi?
+ここからのエスコートは、キミに任せるわ♪=Từ đây về sau, tớ giao việc hộ tống cho cậu♪
+
+Player Prompts
+美冬さんの誕生日をお祝いするために。=Tớ muốn chúc mừng sinh nhật cậu, Mifuyu-san
+美冬さんのためなら最高効率を目指す！=Vì cậu, Mifuyu-san, tớ sẽ vận hành ở hiệu quả tối đa!

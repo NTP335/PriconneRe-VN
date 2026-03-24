@@ -1,0 +1,21 @@
+---Buy Mana---
+5:00にリセット=Đặt lại lúc 5:00
+購入回数=Số lần mua
+r:"^無償([0-9.]+)で$"=Dùng $1 Miễn phí
+r:"^有償([0-9.]+)で$"=Dùng $1 Trả phí
+
+r:"^([0-9.]+)セット購入$"=Mua theo bộ $1
+r:"^([0-9.]+)で$"=Dùng $1
+
+ジュエルが不足しています=Không đủ Ngọc
+マナ購入詳細=Chi tiết mua Mana
+購入履歴=Lịch sử mua hàng
+
+r:"^マナセットを([0-9.]+)セット購入しますか？$"=để mua $1 bộ Mana?
+r:"^ジュエル×([0-9.]+)を消費して$"=Dùng $1 Ngọc
+最低獲得マナ=Lượng Mana nhận tối thiểu
+所持無償ジュエル=Ngọc Miễn phí hiện có:
+r:"^\[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([0-9.]+)セット購入\[-\]\[3C404E\]で、おまけで探索回数もGET！\[-\]$"=[3C404E]Mua thêm[-][FFBB00,CE4F00] $1 bộ[-] để nhận thêm lượt thử Hang động![-]
+r:"^([0-9.]+)セット購入ごとに、おまけで探索回数をGET！$"=Mua thêm $1 bộ để nhận thêm lượt thử Hang động!
+マナ上限に達しているためこれ以上購入できません。=Không thể mua thêm vì bạn đã đạt đến giới hạn Mana.
+おまけ=Thưởng

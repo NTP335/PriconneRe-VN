@@ -1,0 +1,215 @@
+破竹の勢いで勝ち進む二人は、決勝で強敵相手に苦戦を強いられてしまう。{playername}は逆転を狙い、前線で奮闘する。そんな彼を信じたモニカは新奥義を発動させ、絆の力で勝利をもぎ取る。=Hai người họ tiến lên với đà không thể ngăn cản, nhưng ở trận chung kết họ đối mặt với một đối thủ khó chịu. {playername} nhắm đến sự tái xuất và chiến đấu quyết liệt ở tuyến đầu. Monika, người tin tưởng cậu, đã kích hoạt kỹ thuật bí mật mới và đoạt chiến thắng bằng sức mạnh của sự gắn bó.
+
+大会当日──\nモニカと{playername}は会場にて、開会式に参加していた。=Vào ngày giải đấu, Monika và {playername} có mặt tại địa điểm, tham gia lễ khai mạc.
+これより、開会式を始めたいと思います！\nまずはご覧ください！　この大観衆を！=Chúng tôi sẽ bắt đầu lễ khai mạc! Hãy nhìn xem đám đông này đi!
+おおおおっ！=Ôi chà!!
+ランドソル一の最強コンビを見届けようと、\n会場は満員となっています！=Họ ở đây để chứng kiến cặp đôi mạnh nhất ở Landosol!
+モニカ隊長ー！！=Đội trưởng Monika!!
+がんばってねー！！=Cố lên!!
+あいつら、応援に来てくれたのか。\nそれにしても、すごい熱気だな……=Họ có đến đây để cổ vũ cho chúng ta không? Dù sao thì, thật đáng kinh ngạc khi họ nhiệt tình đến thế...
+緊張してる？=Cậu có hồi hộp không?
+そ、それは{playername}の方だろう！\n……と言ってやるつもりだったが、普段と変わらん様子だな……=T-tức là cậu, {playername}... định nói vậy, nhưng có vẻ chúng ta giống nhau.
+私はこの人数に臆したわけではない。\nそれでも貴公の調子を見ていたら、少し肩の力が抜けた。=Tôi không bị đe dọa bởi số lượng người này. Nhưng thấy tình trạng của cậu, tôi cảm thấy thoải mái hơn một chút.
+……そうだとも。\n状況が変わろうとも、いつも通り力を尽くすのみだ！=...Đúng vậy. Dù tình hình ra sao, chúng ta chỉ cần làm hết sức mình như mọi khi!
+そして戦いの舞台はこちら！\n相手を戦闘不能にするか。降参させるか。\nそれともこのフィールドの場外へ追い込むのか……戦略はさまざま！=Và sân khấu của trận chiến đã ở đây! Cậu có thể khiến đối thủ bất lực hoặc buộc họ đầu hàng. Hoặc cậu có thể đẩy họ ra khỏi khu vực này... Có nhiều chiến thuật khác nhau!
+さぁさぁ！\nここからは手に汗握る真剣勝負を、刮目せよっ！！=Đi nào! Từ đây trở đi, hãy quan sát cẩn thận trận chiến nghiêm túc sẽ khiến cậu đổ mồ hôi!
+それでは第一試合！　選手入場です！\n両チーム、どうぞ中央へ！=Hãy bắt đầu trận đấu đầu tiên! Các vận động viên đang vào! Cả hai đội, hãy tiến về trung tâm!
+よし！　私たちの出番だ。\n{playername}、行くぞ！=Được rồi! Đến lượt chúng ta. {playername}, đi thôi!
+げっ！？　あの時の……\n言っておくが、子供が相手でも手加減はしないぞ。=Hả?! Thằng đó từ lần trước... Tôi nói với cậu đấy, tôi sẽ không nương nhẹ dù cậu là đứa trẻ.
+奇遇だね！　それとも運命なのかな！？\nでも敵同士だなんて、僕は悲しいよ……！=Thật trùng hợp! Hay là số mệnh!? Nhưng tôi buồn vì chúng ta là đối thủ...
+なんだ、おまえたちか。因縁があるな。\nお互い、いい戦いをしよう。=À, là các cậu. Chúng ta có chút ân oán. Hãy có một trận đấu tốt đẹp.
+それでは両チームの挨拶が終わったところで……\n試合開始！！=Bây giờ khi cả hai đội đã hoàn thành lời chào......trận đấu bắt đầu!!
+先にあの小僧を片付けるぞ！=Tôi sẽ xử lý thằng nhóc đó trước!
+おっけー　それじゃ、僕が先行でいくよっ！=Được rồi, vậy tôi đi trước!
+
+貴公の予想した通りで来たな。私が迎え撃つ。\n援護は頼んだぞ！　{playername}！=Đúng như tôi dự đoán. Tôi sẽ chặn chúng. Che chở tôi! {playername}!
+受けてみよっ……せりゃあっ！！=Hãy thử xem......Nhận lấy!!
+羽のように軽そうな子だし、\n空中斬りなんてすぐ振り払えると思ったけど、ちょっとこれは……！=Cô ấy trông nhẹ như một chiếc lá, và tôi nghĩ cô ấy có thể dễ dàng thoát khỏi một đường chém từ trên không, nhưng đây là...!
+よし！　体勢が崩れた！\nこのまま宙返りで着地！　背後からトドメの──=Vâng! Hắn mất thăng bằng! Tôi sẽ hạ cánh bằng một vòng người và kết liễu hắn từ phía sau bằng──
+一撃でノックダウン！？　これはすごい！\nしかしモニカ選手、ここで止まらず、\n疾風のような速さでフィールドを駆け抜けていきます！=Hạ gục trong một đòn!? Thật đáng kinh ngạc! Nhưng Monika không dừng lại ở đó, cô ấy chạy qua sân đấu với tốc độ của cơn gió mạnh!
+目指すその先には──=Mục tiêu của cô ấy là──
+来るなら来いっ！！=Đừng đến gần hơn!!
+覚悟っ！！=Sẵn sàng!!
+モニカを強化する。=Tăng cường Monika.
+紫電一閃っ！！=Violetshock Flare!!
+うわああっ！？=Ối trời!?
+ま、まさに一撃必殺……！\nモニカ選手の体が光に包まれたと思ったら、\nものすごい稲妻と共に勝負が決まりました！！=M-Một đòn giết chết...! Ngay khi cơ thể Monika được bao quanh bởi ánh sáng, trận đấu đã được quyết định với một tia sấm kinh hoàng!!
+勝者、モニカチームです！！！！=Người chiến thắng là đội của Monika!!!
+し、信じらんねぇ……\nあんな小さな子が倒しちまった……=T-Tôi không thể tin được... Cô bé đó đã đánh bại hắn...
+ふふん！　モニカ隊長っていうんだ！\n遠い国から、俺たちと友達になるために来たんだぜ！=Hehe! Tên cô ấy là Đội trưởng Monika! Cô ấy là bạn của chúng tôi đến từ một đất nước xa xôi!
+そ、そうなのか……\nところで、相棒の方はずっと後ろにいたな。\n剣を構えたまんま、なにやってたんだ？=Vậy sao... À, nhưng bạn bè của cô ấy suốt lúc đứng phía sau cô ấy. Ông ấy đã rút kiếm ra, sao không ra tay nhỉ?
+あのね、お兄ちゃんは援護担当なんだよ！\n実はすっごい魔法を使って、モニカ隊長を助けてたの！=Anh ấy đảm nhận phần hỗ trợ mà! Thật sự đã dùng phép thuật tuyệt vời để hỗ trợ cho Đội Trưởng Monika!
+な、なんだ。そういうことか……\nつまりあの二人は『どっちもすげー』ってことか……\nこれはとんだダークホースかもしれんぞ！！=Ra là vậy. Vậy là như vậy... Nói cách khác, cả hai đều "tuyệt vời"... Đây có thể là một ẩn bóng!!
+モニカがすごいって言ってるよ。=Monika, người ta nói thật tuyệt vời.
+本当か？　だとすれば、我が参謀殿のおかげだな。\n貴公の助けなくして、私の活躍はなかった。=Đúng vậy sao? Nếu vậy, đó là nhờ đồng đội.\nKhông có sự giúp đỡ của cậu, em đã không thể tỏa sáng được.
+私は前線で攻撃と守りを。貴公はそんな私に支援と指示を。\n私たちの戦い方を貫いていけば、どんな相手にも負けはしない！！=Em tấn công và phòng thủ trên mặt trận. Cậu hỗ trợ và chỉ dẫn em. Nếu chúng ta giữ nguyên cách chiến đấu ấy, chúng ta sẽ không thua bất kỳ ai!!
+こうしてモニカと{playername}は順調に順位を上げ、\nついに準決勝を勝ち抜き、決勝戦出場が決まったのだった……=Và vì vậy, Monika và {playername} từng bước vượt qua các vòng đấu, và cuối cùng đã giành chiến thắng ở bán kết, giành được vé đến trận chung kết...
+みなさま！　お待たせしました！\nいよいよ最終決戦が始まります！！\n勝ち上がったのは……この２チームです！！=Quý vị thưa! Cảm ơn quý vị đã chờ đợi! Trận đấu quyết định sắp bắt đầu!! Hai đội đã vượt qua được là... chính hai đội này!!
+貴公、やはりこうなったぞ。\n我らの最後の相手は……あの兄弟だ。=Hai người cuối cùng cũng đã đến đây.\nĐối thủ cuối cùng của chúng ta là... hai anh em kia.
+通称『クラッシャー兄弟』！\n数々の大会で優勝を果たしてきたこの二人！\n覇者たちが見せる豪快な戦いをとくとご覧あれ～！=Được gọi là "Anh Em Nghiền Nát"! Hai người này đã giành được nhiều giải đấu với những màn trình diễn đầy mãn nhãn! Hãy ngắm nhìn và chiêm ngưỡng trận đấu quyền lực của những nhà vô địch!
+対するは……異色のダークホース！！\n一見すれば、とても挑戦者には見えません。\nしかし！　彼らこそまさに新しい風！　その戦いに刮目してください！=Mặt khác... một ẩn bóng với phong cách độc nhất!! Ngay từ cái nhìn đầu tiên, họ trông không giống như những người thách thức chút nào. Nhưng! Họ là làn gió mới! Hãy chú ý đến trận đấu của họ!
+それでは両者、なにか意気込みを──=Bây giờ, hai đội, các bạn có điều gì muốn nói trước khi──
+不要だ。騎士道たるもの、言葉ではなく、刃で語るべし。=Không cần. Một hiệp sĩ nên nói bằng thanh kiếm, không phải bằng lời nói.
+同感だな。さっそく始めよう。=Tôi đồng ý. Hãy bắt đầu thôi.
+えっ、えっ！？\n……ええと、両者気合十分のようです！\nそれでは……はじめ！！=Ừa, ừa!?\n...À, cả hai đội đều đầy nhiệt huyết!\nVậy thì... bắt đầu!!
+よし、貴公。\n作戦通り、まず奴らの動きを観察してから──=Được rồi, đồng đội.\nTheo kế hoạch, trước tiên quan sát cử động của chúng rồi──
+とぉりゃあああ──っ！！！！=Nhận đây──!!!
+いきなりだと！？\n貴公、避けろっ！！=Đột ngột vậy!?\nĐồng đội, né đi!!
+ケホッコホッ……さ、さすがクラッシャー兄弟！\n序盤からクライマックス級の一撃です！！\nモニカチームは無事でしょうか！？=Ho... ho... Như mong đợi từ Anh Em Nghiền Nát!\nMột đòn ở cấp độ cao trào ngay từ đầu!! Đội Monika ổn chứ!?
+貴公、大丈夫か？　とっさに紫電一閃で相殺しようとしたのだが……\n攻撃を反らすだけで精いっぱいだった……=Cậu không sao chứ, đồng đội? Em đã cố đánh trả bằng Violetshock Flare... nhưng chỉ có thể chống đỡ được đòn tấn công của chúng...
+おかげで二人とも無事だよ。=Nhờ vậy, cả hai chúng ta đều ổn.
+そうだな。しかし……腕を負傷してしまった。\n当初はあいつらが疲れてきたところで\nあの奥義を使う予定だったが……それまで私が持ちこたえられない。=Tốt. Nhưng... tay em bị thương. Em định dùng bí kíp đó khi chúng mệt... nhưng không nghĩ là có thể chịu được đến lúc đó.
+では今すぐ使えるかといえば……\nあいつらが元気なうちは、前線を守る私もうかつに隙を作れない。\n貴公、すまない。時間を稼ぐ間に、作戦を立て直してくれ！=Vậy thì em có thể dùng ngay bây giờ, cậu nói...? Miễn là chúng còn đầy năng lượng, em không thể tạo ra khe hở ở mặt trận. Cậu, xin lỗi cậu. Trong khi em cố gắng kéo dài thời gian, hãy nghĩ ra một kế hoạch mới!
+おおっと！　二人とも無事のようです！\nそしてモニカ選手、反撃に乗り出しました！！=Ồ! Cả hai đều ổn! Và Monika đang chuyển sang tấn công!!
+せぇいっ！！　やぁっ！！=Nhận đây!! Và đây!!
+速いな。しかし、一人で我ら兄弟を相手にするつもりか？=Cậu nhanh đấy. Nhưng cậu định đối đầu với hai anh em chúng tôi một mình sao?
+大した覚悟だが……甘いぞっ！=Có gan lắm... nhưng cậu ngây thơ quá!
+くぅ……！　うわっ……！？=Ugh...! Whoa...!?
+モニカ選手、二人の攻撃を受け止めるので精いっぱいだ！\nしかしそこへ、二人が一気に畳みかけます！！\nモニカ選手、大ピンチだー！？=Monika gần như không thể chống đỡ được đòn tấn công của chúng! Nhưng rồi, cả hai cùng tung một đòn kết liễu!! Monika gặp nguy hiểm rồi!?
+これで終わりだ。=Đến lúc kết thúc rồi.
+……くっ！！=...Guh!!
+モニカ！！=Monika!!
+……貴公！？=...Đồng đội!?
+奥義の準備をして！=Chuẩn bị bí kíp đi!
+貴公が前線に出るつもりか……？\n……まさか、それが新しい作戦なのか！？\nいくらなんでも無茶だ！=Cậu định lên mặt trận...? ...Không lẽ, đó là kế hoạch mới của cậu!? Quá liều lĩnh rồi!
+いや。無茶なのはこいつが一番分かっている。\nならば私のやるべきことは──=Không. Anh ấy hiểu hơn ai hết mức độ liều lĩnh của việc đó. Vậy thì điều tôi phải làm là──
+わ、分かった……！\nこの場は任せるが、無理はするなよ！=Được rồi...! Tôi giao chuyện này cho cậu, nhưng đừng cố quá sức!
+おおっと、モニカチームは役割をチェンジするようです！\n一体、なにを始めようというのでしょうか！=Ồ! Đội Monika đang thay đổi vai trò! Họ đang cố làm gì vậy!
+ん？　モニカ選手……剣を構えて集中しています！\nどうやらまだ奥の手があるようですね！=Hm? Monika... đang tập trung với thanh kiếm đã sẵn sàng! Có vẻ cô ấy vẫn còn một quân bài tẩy!
+私が新奥義を放ち、形勢逆転を狙う。\nその準備を終えるまで、あいつが時間を稼いでくれる。=Tôi sẽ giải phóng một bí kíp mới và thay đổi cục diện. Cho đến khi tôi chuẩn bị xong, anh ấy sẽ kéo dài thời gian cho tôi.
+しかし……=Nhưng...
+しかし、それを黙って見ているわけがありません！\nクラッシャー兄弟の総攻撃に……ああっ！\n{playername}選手ダウン！=Nhưng chúng sẽ không để yên đâu! Đòn tấn công toàn lực của Anh Em Nghiền Nát nhắm vào... không hay rồi! {playername} ngã rồi!
+やはり失敗か……！　奥義が成功するとも限らん……\n私も前線へ戻って、あいつと一緒に戦った方が……！=Vậy là thất bại rồi...! Không có gì đảm bảo kỹ thuật tối thượng của tôi sẽ thành công... Tôi nên quay lại mặt trận và chiến đấu bên cạnh anh ấy...!
+おおっ！？　立ち上がりました……！！\nそして兄の方に……しがみついた！？　弟は引きはがそうとしますが……\nうまい！　見事な避けっぷりです！！=Ối!? Anh ấy đứng dậy...!! Và bám vào hai Anh Em...! Hai Anh Em cố gắng lắc hắn ra, nhưng... hay quá! Hắn né một cách khéo léo!!
+死に物狂いです！　ある種の執念すら感じます！\n一体なにが彼をここまで突き動かすのでしょうか！？=Anh ấy tuyệt vọng! Tôi có thể cảm nhận được một sự kiên cường từ hắn! Điều gì thôi thúc hắn đến mức độ này!?
+……そんなの、決まっているではないか。=...Chẳng phải rõ ràng sao?
+あいつが必死に戦っているのは、私のためだ。\n私をただ信じて……好機を待っているのだ。=Anh ấy đang chiến đấu tuyệt vọng vì tôi. Anh ấy chỉ đơn giản là tin tưởng tôi... và chờ đợi thời điểm thích hợp.
+あいつは諦めない。私が奥義を放つまで、絶対に……\nならば、私がすべきことは……=Anh ấy sẽ không bỏ cuộc. Cho đến khi tôi giải phóng bí kíp, anh ấy sẽ không bao giờ... Vậy thì, điều tôi phải làm là...
+あいつを信じ、私がやるべきことをやり抜く！=Tin tưởng anh ấy, và làm điều tôi phải làm!
+すーはー……=*Hít sâu*, *thở ra*...
+ああっ！　ついにクラッシャー兄弟が彼を引きはがしました！！\n二つの刃が、可憐な少女に迫ります！\nしかしモニカ選手、動かないっ！！=Ôi! Anh em Crusher cuối cùng cũng hạ gục hắn rồi!! Lưỡi kiếm của chúng đang tiến tới cô gái xinh đẹp! Nhưng Monika vẫn không nhúc nhích!!
+モニカ……！=Monika...!
+今だっ！！=Bây giờ!!
+っ！？　モニカ選手にご注目ください！！\nすさまじい風と稲妻が、モニカ選手の周囲に渦巻いております！！=Hả!? Nhìn Monika kìa!! Một cơn gió mạnh và tia chớp đang xoáy quanh cô ấy!!
+待たせたなっ！\n手加減はしない……我が奥義、受けてみよ！=Xin lỗi để cậu chờ lâu! Tớ sẽ không giữ lại... Đón công phu bí mật của tớ đi!
+なるほど……これは予想以上だ。\n相手に不足なしっ！　我ら兄弟、全力で迎え撃とう！=Ra vậy... Còn hơn cả tớ tưởng. Chúng là đối thủ xứng đáng! Anh em ơi, hãy đối mặt với chúng bằng toàn bộ sức mạnh!
+せりゃぁああっ！！！！=Đi thôooooo!!
+勝利を、友のために……！=Chiến thắng, vì bạn bè...!
+旋風雷閃撃鎖斬っ！！=Archon Squallchain!!
+みなさま、お待たせいたしました！\nこれより、表彰式を始めます！\nチャンピオンチーム、表彰台へどうぞ！！=Quý vị thưa, cảm ơn đã kiên nhẫn chờ đợi! Chúng tôi sẽ bắt đầu lễ trao giải! Đội vô địch, xin mời lên bục nhận giải!!
+{playername}、歩けるか？\n……だいぶあいつらに痛めつけられたからな。\n体も顔もひどいことになっている……=Cậu đi được không, {playername}? ...Cậu bị chúng làm tổn thương nặng nề. Cơ thể và khuôn mặt đang trong tình trạng tồi tệ...
+
+男前だって褒められた。=Tớ muốn thể hiện bản chất nam tính.
+そうなのか？\n私から言わせれば、貴公は出会った時から変わらないがな……=Thế à?\nTheo tớ thấy, cậu chưa thay đổi gì kể từ khi chúng ta gặp nhau...
+見ず知らずの私を心配して危険な場所までついてきて、\n困っている私のために、見返りもなく力を貸してくれた。=Cậu lo lắng cho tớ, một người lạ, và theo tớ đến nơi nguy hiểm. Cậu giúp đỡ tớ mà không đòi hỏi bất cứ điều gì khi tớ gặp khó khăn.
+私を子供のようにからかうこともあるが、\n私を私以上に信頼してくれて、迷っている時は道を一緒に探してくれた。=Cậu đôi khi trêu chọc tớ như một đứa trẻ, nhưng cậu tin tưởng tớ hơn cả tớ tự tin vào bản thân. Khi tớ lạc lối, cậu giúp tớ tìm ra con đường.
+背を預けあえる仲間は多くいるが、\n貴公が隣にいると……どんな状況でも、不思議と負ける気がしない。\n……貴公が、私をそうさせるのだ。=Tớ có nhiều đồng đội có thể dựa vào nhau, nhưng khi cậu ở bên cạnh... Dù trong tình huống nào, tớ cũng không cảm thấy như mình sẽ thua. ...Cậu khiến tớ cảm thấy như vậy.
+{playername}は最初から『男前』だったぞ。={playername}, cậu "nam tính" ngay từ đầu.
+い、今のは友人としての意見だ！\nにしても、ずいぶんと歩きにくそうだな……よし！=Đ-đó chỉ là ý kiến của tớ với tư cách là bạn! Dù sao, cậu trông khó đi lắm... Đây!
+私の肩に掴まれ。\n腕を回すのは無理でも、支えぐらいにはなるはずだ。=Nương vào vai tớ. Dù cậu không thể ôm lấy tớ, tớ cũng phải hỗ trợ được cậu.
+よし、これなら……わっとっと！？=Được rồi, thế này chắc được... Ôi trời!
+す、すまない。私もフラフラだな……\n結局、貴公に支えられてしまった。=X-xin lỗi. Tớ cũng chóng mặt... Cuối cùng vẫn là cậu đang nương tựa tớ.
+しかし、そうやって私たちはここまで来たのだ。\n支えあっていこうではないか！　これからも、ずっとずっとな！=Nhưng đó là cách chúng ta đến được đây. Hãy hỗ trợ nhau! Từ bây giờ, mãi mãi!
+我が友よ、準備はいいか！？\nではあの表彰台に向かって……さぁ行くぞっ！！=Bạn tớ, cậu sẵn sàng chưa!? Vậy thì hãy tiến về bục nhận giải... Đi thôi!!
+
+支え支えられ、モニカと{playername}は表彰台へと上がった。\n次の日、新聞に掲載された小さな軍人のインタビューには、\n祖国やランドソルのこと……友への感謝の言葉が綴られていたという。=Hỗ trợ và được hỗ trợ lẫn nhau, Monika và {playername} đã leo lên bục nhận giải. Ngày hôm sau, một cuộc phỏng vấn nhỏ với một người lính được đăng trên báo. Nó chứa đựng lời tri ân gửi đến đất nước của họ, Landosol... và người bạn của họ.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

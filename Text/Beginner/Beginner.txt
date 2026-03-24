@@ -1,0 +1,29 @@
+---Input Name---
+r:"^※(\d+)文字以内で入力してください。名前は後でも変更できます。$"=※Giữa 1 và $1 ký tự..
+登録する=Đăng ký
+プレイヤー名登録=Đăng ký tên người chơi
+
+名前登録確認=Xác nhận đăng ký tên
+
+[3C404E]プレイヤー名の登録が完了しました。[-]=[3C404E]Đăng ký tên người chơi hoàn tất.[-]
+名前登録完了=Đăng ký tên hoàn tất
+
+---Locked menu---
+r:"^メインクエスト([\s\S]*)クリアで解放$"=Hoàn thành Nhiệm vụ Chính\n$1
+r:"^メインクエスト([\s\S]*)クリアで$"=Nhiệm vụ Chính $1 đã được hoàn thành.
+---Birthday Registration---
+誕生日登録=Đăng ký ngày sinh
+登録した誕生日はプロフィールから確認できます。=Ngày sinh đã đăng ký có thể xem được trên hồ sơ của bạn.
+好きな日付を誕生日として登録できます。=Bạn có thể đăng ký bất kỳ ngày nào làm ngày sinh.
+誕生日を後から変更することはできません。=Bạn không thể thay đổi ngày sinh sau này.
+あなたの誕生日を入力してください。\n誕生日から7日間、キャラたちのお祝い\nメッセージを聞くことができます。=Vui lòng nhập ngày sinh của bạn.\nBạn có thể nghe lời chúc mừng của các nhân vật trong bảy ngày kể từ ngày sinh của bạn.
+あなたの誕生日を下記で登録します。=Đăng ký ngày sinh như sau.\n Có chứ?
+
+誕生日を登録しました。=Ngày sinh đã đăng ký vào lúc:
+{playername} さん=$1-san
+{playername}さん=$1-san
+
+---Profile---
+‐年‐月合計スコア=Chưa tham gia.
+‐階=Không có thông tin
+‐位=Không có hạng

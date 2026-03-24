@@ -1,0 +1,88 @@
+##Profile##
+瞑想、動植物の飼育=Thiền định, chăn nuôi động thực vật
+主を慕う、小さなガイド役=Một hướng đạo viên nhỏ bé chăm sóc chủ nhân của mình
+【物理】中衛で、補助と攻撃で皆を支える、導きの巫女。ユニオンバーストは、味方全体の攻撃力アップに加えて自らも回復するため、継続的なサポートが可能となる。=[Vật Lý] Một hướng đạo viên tận tâm hỗ trợ mọi người từ tuyến giữa với các buff và đòn tấn công. Union Burst của cô ấy tăng sức mạnh tấn công của tất cả đồng đội đồng thời hồi phục máu cho chính mình, cho phép cô ấy ở lại trận đấu lâu hơn.
+
+覚醒と芽生える想い=Trái Tim Tỉnh Thức và Cảm Xúc Mới Nở
+こころの拠り所=Nơi Trú Ẩn Của Trái Tim
+導き導かれて=Sự Hướng Dẫn Cho Kẻ Hướng Dẫn
+ガイド役の憂鬱=Một Hướng Đạo Viên Buồn Bã
+コッコロのこころ=Trái Tim Của Kokkoro
+懐かしいぬくもり=Hơi Ấm Hoài Cổ
+しっぽのある迷い子=Đứa Trẻ Lạc Đường Mềm Mại Với Đuôi
+保護者はどっち？=Người Nào Là Người Bảo Vệ?
+『はじめまして、主さま』=『Rất vui được gặp cậu, chủ nhân』
+ふるさとへの手紙=Một lá thư gửi quê hương
+青くて広くてまぶしくて=Màu Xanh Lấp Lánh Vĩ Đại
+ちっちゃな新米ガイド役=Ngày Đầu Tiên Của Một Hướng Dẫn Viên Nhỏ
+
+##UB##
+オーロラ=Aurora
+味方全体の物理攻撃力と魔法攻撃力を小アップさせ、さらに自分のＨＰを中回復させる。=Tăng sức mạnh tấn công vật lý và ma thuật cho toàn đồng đội một chút, và hồi một chút HP của bản thân.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Tăng tấn công vật lý của đồng đội lên $1 trong 18s.\n►Tăng tấn công ma thuật của đồng đội lên $2 trong 18s.\n►Hồi HP của bản thân $3.
+
+##S1##
+トライスラッシュ=Tri-Slash
+
+##S2##
+スピードアップ=Tăng Tốc
+味方全体の行動速度を小アップさせ、さらに物理攻撃力を小アップさせる。=Tăng nhẹ tốc độ hành động và tấn công vật lý của đồng đội.
+r:"^味方全体の行動速度アップ味方全体の物理攻撃力を(\d+)アップ$"=►Tăng tốc độ hành động của toàn đồng đội lên 120% trong 12s.\n►Tăng tấn công vật lý của đồng đội lên $1 trong 12s.
+
+##EX##
+精霊の啓示=Giác Ngộ Tâm Linh
+精霊の啓示+=Giác Ngộ Tâm Linh+
+
+##UB+##
+オーロラブルーミング=Aurora Blooming
+自分のＨＰを大回復させる。味方全体のＨＰを中回復し、物理攻撃力と魔法攻撃力を大アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng mạnh sức mạnh tấn công vật lý và ma thuật cho toàn đồng đội, tăng nhẹ TP Boost cho toàn đồng đội, hồi nhiều HP của bản thân và hồi vừa phải HP cho đồng đội.
+###Old r:"^自分のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ$"=►Hồi HP của bản thân $1.\n►Hồi HP cho toàn đồng đội $2.\n►Tăng tấn công vật lý của đồng đội lên $3 trong 18s.\n►Tăng tấn công ma thuật của đồng đội lên $4 trong 18s.\n►Tăng TP Boost của đồng đội lên $5 trong 18s.
+
+自分のＨＰを大回復させる。味方全体のＨＰを中回復し、物理・魔法攻撃力を大アップさせ、さらにＴＰ上昇を小アップさせる。発動時既に自分が物理・魔法攻撃力アップ状態だった場合、味方全体の物理・魔法攻撃力を極大アップさせる。=Hồi phục lớn HP cho bản thân. Hồi phục vừa HP cho toàn thể đồng minh, tăng lớn tấn công vật lý và ma thuật, đồng thời tăng nhẹ mức hồi TP. Nếu tại thời điểm kích hoạt, bản thân đang trong trạng thái tăng tấn công vật lý và ma thuật, sẽ tăng cực đại tấn công vật lý và ma thuật cho toàn thể đồng minh.
+
+r:"^自分のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復味方全体の物理・魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を10アップ自分が物理・魔法攻撃力アップ状態の場合、味方全体の物理・魔法攻撃力を(\d+)アップ$"=►Hồi phục $1 HP cho bản thân.\n►Hồi phục $2 HP cho toàn thể đồng minh.\n►Tăng $3 tấn công vật lý và ma thuật cho đồng minh trong 18 giây.\n►Tăng 10 mức hồi TP cho đồng minh trong 18 giây.\n\nNếu tấn công vật lý và ma thuật của bản thân đang được tăng:\n►Tăng $4 tấn công vật lý và ma thuật cho đồng minh trong 18 giây.
+
+##S1+##
+トライスラッシュ+=Tri-Slash+
+目の前の敵１キャラに物理中ダメージを与え、さらに自分の物理攻撃力を中アップさせ、ＴＰ上昇を小アップさせる。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước. Tăng vừa phải tấn công vật lý của bản thân và tăng nhẹ TP Boost của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng tấn công vật lý của bản thân lên $2 trong 12s.\n►Tăng TP Boost của bản thân lên $3 trong 12s.
+
+##S2+##
+スピードアップ+=Tăng Tốc+
+味方全体の行動速度を大アップさせ、さらに物理攻撃力を特大アップ、物理クリティカルを大アップさせる。さらに最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップ、物理クリティカルを大アップさせ、味方全体のＴＰを小回復させる。=Tăng cực mạnh tốc độ hành động cho toàn đồng đội, tăng khủng khiếp tấn công vật lý của họ và tăng rất mạnh tỷ lệ chí mạng tấn công vật lý. Đồng thời tăng khủng khiếp tấn công vật lý và tăng rất mạnh tỷ lệ chí mạng cho đồng đội có tấn công vật lý cao nhất, và hồi nhẹ TP cho toàn đồng đội.
+###old r:"^味方全体の行動速度アップ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方全体のＴＰを50回復$"=►Tăng tốc độ hành động của toàn đồng đội lên 160% trong 18s.\n►Tăng tấn công vật lý của toàn đồng đội lên $1 trong 18s.\n►Tăng tỷ lệ chí mạng tấn công vật lý của toàn đồng đội lên 100 trong 18s.\n►Tăng tấn công vật lý của đồng đội có tấn công vật lý cao nhất lên $2 trong 18s.\n►Tăng tỷ lệ chí mạng tấn công vật lý của đồng đội có tấn công vật lý cao nhất lên 100 trong 18s.\n►Hồi 50 TP cho toàn đồng đội.
+
+r:"^味方全体の行動速度60％アップ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方全体のＴＰを50回復$"=Thời gian thi triển: 1.4 giây\n►Tăng 60％ tốc độ hành động cho toàn thể đồng minh trong 18 giây.\n►Tăng $1 tấn công vật lý cho toàn thể đồng minh trong 18 giây.\n►Tăng 100 tỷ lệ chí mạng vật lý cho toàn thể đồng minh trong 18 giây.\n►Tăng $2 tấn công vật lý cho một đồng minh trong 18 giây.\n►Tăng 100 tỷ lệ chí mạng vật lý cho một đồng minh trong 18 giây.\n►Hồi phục 50 TP cho toàn thể đồng minh.
+
+##UE##
+アメスアミュレット=Ameth Amulet
+コッコロの精霊=Kokkoro Spirit
+
+##S1++##
+トライスラッシュ++=Tri-Slash++
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を中アップさせ、ＴＰ上昇を小アップさせる。自分が物理・魔法攻撃力アップ状態だった場合、追加の物理大ダメージを与え、さらに、最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップ、ＴＰ上昇を小アップ、ＴＰを中回復させる。=Gây sát thương vật lý lớn cho một kẻ địch trước mặt, đồng thời tăng vừa tấn công vật lý và tăng nhẹ mức hồi TP cho bản thân. Nếu bản thân đang trong trạng thái tăng tấn công vật lý và ma thuật, sẽ gây thêm sát thương vật lý lớn, đồng thời tăng cực đại tấn công vật lý, tăng lớn tỷ lệ chí mạng vật lý, tăng nhẹ sát thương chí mạng vật lý, tăng nhẹ mức hồi TP và hồi phục vừa TP cho một đồng minh có tấn công vật lý cao nhất.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を15アップ自分が物理・魔法攻撃力アップ状態の場合、以下の効果が発動する敵単体に(\d+)の物理ダメージ対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを120アップ対象の味方の物理クリダメを12％アップ対象の味方のＴＰ上昇を5アップ対象の味方のＴＰを150回復$"=Thời gian thi triển: 0.66 giây\n►Gây $1 sát thương vật lý cho một kẻ địch.\n►Tăng $2 tấn công vật lý cho bản thân.\n►Tăng 15 mức hồi TP cho bản thân.\n\nNếu tấn công vật lý và ma thuật của bản thân đang được tăng:\n►Gây $3 sát thương vật lý cho một kẻ địch.\n►Tăng $4 tấn công vật lý cho đồng minh mục tiêu.\n►Tăng 120 tỷ lệ chí mạng vật lý cho đồng minh mục tiêu.\n►Tăng 12% sát thương chí mạng vật lý cho đồng minh mục tiêu.\n►Tăng 5 mức hồi TP cho đồng minh mục tiêu.\n►Hồi phục 150 TP cho đồng minh mục tiêu.
+
+
+
+##Comments##
+
+主さまのガイドを務めさせていただきます\n以後お見知りおきを=Thưa chủ nhân, em sẽ làm hướng dẫn viên cho ngài.\nRất vui được gặp ngài.
+ランドソルのような都会での生活には、\nまだ慣れません…ですが、ガイド役として、\nしっかりと主さまをご案内いたします=Em vẫn còn thấy khó thích nghi với cuộc sống ở một thành phố lớn như Landosol... Tuy nhiên, em sẽ kiên trì trong nhiệm vụ tư vấn cho ngài một cách thích hợp, thưa chủ nhân.
+わたくし、故郷から遠く離れて過ごしておりますが、\n寂しくなどありませんよ\n主さまが傍にいてくださいますから=Dù ở xa quê hương đến thế,\nem hoàn toàn không cảm thấy cô đơn.\nTất cả bởi vì em có ngài ở bên cạnh, thưa chủ nhân.
+主さまが困ったり心配したり迷ったりされた時には\nわたくしがお導きいたします、ガイド役として\nお任せくださいませ=Thưa chủ nhân, nếu một ngày ngài cảm thấy lạc lối, lo lắng hay phiền muộn,\nem sẽ dốc hết sức mình
+effort in guiding you.\nplease leave everything to me. 
+ガイド役がお世話をするのは、当然のこと\nむしろ、わたくしのようなものを傍に置いていただいて…\nお礼をいうのはわたくしの方でございます=Đó là điều tự nhiên của một hướng dẫn viên là chăm sóc chủ nhân mình.\nThực ra, em mới là người nên cảm ơn ngài\nvì đã cho em được ở bên cạnh.
+いつもありがとう…ですか？\nそんな滅相もございません\nお礼をいわれるようなことなど、何もしておりませんよ=Cảm ơn ngài... như thường lệ?\nĐừng có khó, thưa chủ nhân.\nEm chưa làm gì đáng để ngài cảm ơn cả.
+おはようございます、主さま\n素敵な朝ですよ。起きてください\n起きないと…イタズラしてしまいますよ♪=Chào buổi sáng, thưa chủ nhân.\nHôm nay trời đẹp quá. Xin ngài hãy tỉnh dậy.\nNếu không... em sẽ trêu ngài♪
+主さまに看病をしていただくなんて…\nガイド役失格、身が縮む思いです\nですが…とても、うれしいです。えへへ=Làm sao em có thể để chủ nhân chăm sóc mình...?\nNghĩ đến sự thiếu sót trong nhiệm vụ của bản thân như vậy khiến em đau lòng.\nVà mà... điều đó cũng khiến em rất vui. Eheheh...
+山育ちですので、ずっと動物と触れ合って育ちました\nわんわんも、にゃんにゃんも、モーモーも、ブーブーも\n生き物はみんな愛らしいですね=Lớn lên trong núi, em có nhiều tiếp xúc với\nđộng vật. Em yêu chó con, mèo con, heo con và bò con...\nTất cả sinh vật đều đáng yêu.
+ですから今、このように主さまの\nお世話をさせていただけて、とてもうれしいのです\nこれからもずっとお傍にいさせてください=Chính vì vậy mà em rất vui khi cuối cùng cũng\nđược chăm sóc ngài như bây giờ.\nXin cho em được ở bên cạnh ngài mãi mãi.
+わたくし、小さな頃よりずっと、\n主さまにお仕えすることを\n夢見ておりました=Thực tế, em đã mơ về ngày được phục vụ ngài, thưa chủ nhân.\nKể từ khi em còn nhỏ.
+わたくしに至らぬ点などございませんでしょうか\n御不快なことがあれば、なんなりと\nおっしゃってください、主さま=Có điều gì không đạt yêu cầu trong phục vụ của em không?\nNếu ngài thấy điều gì không ưng ý,\nxin hãy thông báo ngay cho em, thưa chủ nhân.
+主さまがアメスさまの託宣を受けられている最中、\n一人で暇ではないか、ですか？\n主さまの寝顔を見られて、むしろ幸せでございます♪=Ngài hỏi em có thấy nhàm chán khi chủ nhân giao tiếp\nvới Lady Ameth không? Ồ, không. Nhìn gương mặt ngài đang ngủ khiến em\nchỉ cảm thấy hạnh phúc thôi.♪
+主さま。もし寝つけないようなことがありましたら、\nわたくしが添い寝いたしますので仰ってくださいね\nそれにその…わたくしも独り寝は寂しいので…=Thưa chủ nhân... nếu ngài có khó ngủ,\nxin cho em biết, em sẽ vui vẻ nằm bên cạnh ngài,\nRốt cuộc... em cũng không muốn ngủ một mình...
+主さまも、随分と生活に慣れてこられましたね…\nわたくしなど居なくても…え、ずっと一緒だよって…\nはいっ！　これからも全身全霊でお仕えいたします♪=Ngài đã quen với cuộc sống rồi, phải không,\nthưa chủ nhân...? Ngay cả khi em không ở đây... Hả?\nChúng ta sẽ luôn bên nhau? Vâng!\nEm sẽ tiếp tục phục vụ ngài hết mình♪
+あ、だからといって、急になでるのをやめなくても…\nきょ、今日はこのままにしていただき、明日からは、\nわたくしががんばったときに甘やかしてくださいまし♪=À... em không muốn ngài phải dừng vuốt đầu ngay lập tức...\nEm-em sẽ cho phép cho hôm nay, nhưng từ giờ trở đi, xin ngài\ngiữ lại cho những lần em vượt quá nhiệm vụ♪
+んもう…主さまは最近、わたくしを甘やかしすぎです\n主さまをお世話するのはわたくしにとって喜びであり、\nさらにご褒美をいただいていては天罰が下ります=Thật sự... Dạo này ngài đã làm em hư quá rồi.\nChăm sóc ngài đã là niềm vui lớn nhất của em,\nnên sẽ sai nếu nhận thêm phần thưởng.
+今日も主さまにお仕えできて、充実した一日でした♪\nわわっ…あ、主さま、なぜ急に頭をなでて…\nえ、今日もお世話になったから？=À, một ngày đầy ý nghĩa trong khi phục vụ chủ nhân♪\nÀh... À, thưa chủ nhân, sao ngài đột nhiên vuốt đầu em... Hả? Để cảm ơn em vì đã giúp đỡ?

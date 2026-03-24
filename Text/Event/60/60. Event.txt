@@ -1,0 +1,25 @@
+願福寄災の招き猫=Beckoning Cat of Blessings and Calamities
+r:"^ランドソル 市街地([0-9\-\(\)\w （）]*)$"=Khu đô thị Landosol $1
+
+猫専用のカフェメニュー=Thực Đơn Cà Phê Dành Riêng Cho Mèo
+三足のわらじ=Giày Rơm Ba Chân
+タマキのために=Vì Tamaki
+必要不可欠なもの=Không Thể Thiếu
+相談役にするなら？=Bạn Muốn Ai Làm Cố Vấn Của Bạn?
+モニカのために=Vì Monika
+猫と和解せよ=Hòa Giải Với Những Con Mèo
+子どもたちとの接し方=Cách Tương Tác Với Trẻ Em
+たい焼きの開発=Sự Phát Triển Của Taiyaki
+接客のつらいとこ=Phần Khó Khăn Của Dịch Vụ Khách Hàng
+着こなしはどうにゃ？=Bạn Mặc Nó Như Thế Nào?
+猫グッズを作ろう♪=Hãy Làm Đồ Dùng Cho Mèo ♪
+スパイとの付き合い方=Cách Hòa Hợp Với Gián Điệp
+おろしたてのエプロン=Tạp Dề Mới Giặt
+
+
+
+
+
+
+カフェの戦闘服はエプロン=Đồng phục chiến đấu của quán cà phê là tạp dề
+なにやら思いがけない方向に事態が転がってしまったが……\nこの制服に身を包んでいると、不思議と気合が入るようだ！\n軍人には軍服、カフェ店員にはエプロン、だな！=Tình hình đã phát triển theo hướng bất ngờ, nhưng khi bạn mặc bộ đồng phục này, bạn dường như đang suy nghĩ!\nĐồng phục quân sự cho binh lính, tạp dề cho nhân viên quán cà phê!

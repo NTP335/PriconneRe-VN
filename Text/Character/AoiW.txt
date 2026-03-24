@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で敵を妨害する、作業服姿のぼっちエルフ。友情の絆で結ばれた『マイフレンドくん』と放つＵＢは、敵の動きを阻み、物理防御力を劇的に下げる。=[Lực Lượng] Một elf cô đơn trong trang phục công sở cản trở kẻ thù ở đường giữa. UB (Kỹ năng Đặc biệt) giải phóng "My Friend-kun", người được gắn kết bởi tình bạn, chặn di chuyển của kẻ thù và giảm mạnh phòng thủ vật lý của chúng.
+
+##UB##
+フレンドリーコンボショット=Friendly Combo Shot
+前方の最も遠い敵を中心に、範囲内の敵すべてを行動する度にダメージを与える毒状態にし、行動速度を小ダウンさせ、さらに物理防御力を特大ダウンさせるフィールドを展開する。=Triển khai một vùng hiệu ứng xung quanh kẻ thù xa nhất, gây Độc lên kẻ thù trong phạm vi và gây sát thương mỗi khi chúng thực hiện hành động, giảm nhẹ tốc độ hành động của chúng và giảm mạnh phòng thủ vật lý của chúng.
+r:"^行動する度に(\d+)ダメージを与える毒状態にするフィールドを展開する敵の行動速度を低下させるフィールドを展開するフィールド内の敵の物理防御力(\d+)ダウン$"=►Triển khai vùng hiệu ứng bán kính 250 xung quanh kẻ thù xa nhất,:\n►Gây Độc lên kẻ thù trong phạm vi, gây $1 sát thương mỗi hành động của kẻ thù trong 18 giây.\n►Giảm tốc độ hành động của kẻ thù trong phạm vi còn 80% trong 18 giây.\n►Giảm phòng thủ vật lý của kẻ thù trong phạm vi đi $2 trong 18 giây.
+
+##S1##
+ポイゾナスバレット=Poisonous Bullet
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理小ダメージを与え、毒状態にし、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý nhỏ lên kẻ thù trong phạm vi, gây Độc lên chúng, và cũng giảm phòng thủ vật lý của chúng một chút.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên kẻ thù trong phạm vi 300.\n►Gây Độc lên kẻ thù trong phạm vi 300, gây $2/giây trong 24 giây.\n►Giảm phòng thủ vật lý của kẻ thù trong phạm vi 300 đi $3 trong 12 giây.
+
+##S2##
+スタンバレット=Stun Bullet
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理小ダメージを与え、さらに麻痺状態にする。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi và khiến họ bị tê liệt.
+
+##EX##
+ぼっち精神=Lonely Spirit
+ぼっち精神+=Lonely Spirit+
+
+##S1+##
+ポイゾナスバレット+=Poisonous Bullet+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理小ダメージを与え、毒状態にし、さらに物理防御力を小ダウンさせる。さらに対象が毒状態の場合、物理中ダメージを与える。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi, khiến họ bị ngộ độc và giảm phòng thủ vật lý của họ một chút. Ngoài ra, nếu kẻ địch đã bị ngộ độc, gây sát thương vật lý trung bình.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする範囲内の敵の物理防御力を(\d+)ダウン敵が毒状態の時、範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 300.\n►Khiến kẻ địch trong phạm vi 300 bị ngộ độc, gây $2/s trong 24s.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi 300 đi $3 trong 12s.\n►Nếu kẻ địch trong phạm vi đã bị ngộ độc, gây $4 sát thương vật lý cho kẻ địch trong phạm vi 300.
+
+##UE##
+トイスリングショット=Toy Slingshot

@@ -1,0 +1,47 @@
+##Profile##
+【物理】中衛で着脱可能な鉄腕を放つ機械人族のロボ娘。ＵＢ発動で【フルチャージ】状態になり、【バッテリー】が切れるまで強化スキルを連発し、一帯を超速圧砕する。=[Vật Lý] Một cô gái automaton bắn các cánh tay thép có thể tháo rời vào kẻ thù từ hàng giữa. Union Burst của cô ấy kích hoạt chế độ "Sạc Đầy" cho phép cô ấy liên tục dùng các kỹ năng mạnh mẽ cho đến khi [Battery] của cô cạn kiệt, quét sạch chiến trường với tốc độ cực hạn.
+
+ローチェ=Croce
+昼寝、誰かの役に立つこと=Ngủ trưa, giúp đỡ ai đó
+未換装時252kg=252kg (không bao gồm phụ kiện)
+機械人族=Automaton
+スマイル満タン！　パワフル機械少女=Tràn đầy nụ cười! Cô Gái Automaton Mạnh Mẽ
+
+機械仕掛けの好奇心=Sự Tò Mò Cơ Khí
+機械人族は夢を見るか=Automaton Có Mơ Không?
+ドキドキドッキング=Doki-Doki Docking
+クローチェinランドソル=Croce ở Landosol
+
+##UB##
+ギガンティックアームパンチ=Cú Đấm Tay Khổng Lồ
+前方範囲内の敵すべてに物理大ダメージを与え、【フルチャージ】状態になり【バッテリー】を７つ充填し、１ヒットを必ずクリティカルさせる。【バッテリー】を充填している場合、このスキルがクリティカルした場合ダメージが２倍から３倍に変わる。充填されていない場合、自分の物理攻撃力を特大アップさせ行動速度を特大アップさせる。(この効果は重複する)【バッテリー】は最大７まで充填される。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi, vào chế độ [Sạc Đầy], và tích lũy 7 [Battery], tối đa là 7. Nếu [Battery] đã sạc đầy, sát thương phản công vật lý sẽ được nhân ba. Ngược lại, tăng rất lớn tấn công vật lý của bản thân và tăng một chút tốc độ hành động của bản thân (có thể chồng lấn). Đòn tấn công này luôn là phản công chí mạng.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 800.\n\nNếu đã sạc 7 [Battery]:\n►Tăng tấn công vật lý của bản thân lên $2 trong 180s.\n►Tăng tốc độ hành động của bản thân lên 300% trong 180s.
+
+##S1##
+ジャンピングロケットパンチ=Rocket Punch Nhảy
+最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý lớn cho một kẻ địch ở phía sau cùng và tăng một chút sát thương phản công vật lý mà nó phải nhận.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを8％アップ$"=►Gây $1 sát thương vật lý cho một kẻ địch ở phía sau cùng.\n►Tăng sát thương phản công vật lý mà một kẻ địch phải nhận lên 8% trong 12s.
+
+##S2##
+イグニッション！=Đốt Cháy!
+
+##SP1##
+オーバーヒート=Quá Tải
+ユニオンバーストを使用してから一定回数行動後に発動し、前方範囲内の敵すべてに物理大ダメージを与え、自分のＴＰを-1000し、【フルチャージ】状態を解除する。さらに、【システムダウン】状態になり、自分のステータスアップ効果をすべて解除し、行動速度を特大ダウンさせる。(他の行動速度変化スキルと重複する)【バッテリー】をすべて消費する。=Kích hoạt sau một số hành động nhất định sau khi UB được dùng. Gây sát thương vật lý lớn cho kẻ địch trong phạm vi, giảm 1000 TP của bản thân và rời khỏi chế độ [Sạc Đầy]. Ngoài ra, vào chế độ [Hệ Thống Sập], giải trừ mọi buff của bản thân và giảm rất lớn tốc độ hành động của bản thân (có thể chồng lấn). Tiêu thụ tất cả [Battery].
+r:"^範囲内の敵に(\d+)の物理ダメージ自分のＴＰを1000失わせる自分のステータスアップ効果を解除する自分の行動速度ダウンバッテリーを７つ消費する$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 800.\n►Giảm 1000 TP của bản thân.\n►Giải trừ mọi buff từ bản thân.\n►Giảm tốc độ hành động của bản thân lên 300% trong 180s.\n►Tiêu thụ 7 [Battery].
+【フルチャージ】中=Sạc Đầy
+このスキルのスキルレベルは「ギガンティックアームパンチ」と連動しています=Cấp độ kỹ năng này liên kết với "Cú Đấm Tay Khổng Lồ"
+
+##SP2##
+ブーステッドロケットパンチ=Rocket Punch Tăng Cường
+最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。【バッテリー】を１つ消費する。=Gây sát thương vật lý lớn cho một kẻ địch ở phía sau cùng và tăng một chút sát thương phản công vật lý mà nó phải nhận. Đòn tấn công này luôn là phản công chí mạng, và sát thương phản công vật lý được nhân ba. Tiêu thụ 1 [Battery].
+r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを8％アップバッテリーを１つ消費する$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Tăng sát thương phản công vật lý mà một kẻ địch phải nhận lên 8% trong 12s.\n►Tiêu thụ 1 [Battery].
+
+##SP3##
+サマーソルトソニック=Somersault Sonic
+自分の物理攻撃力と物理クリティカルを中アップさせ、前方範囲内の敵すべてに物理大ダメージを与える。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。【バッテリー】を１つ消費する。=Tăng vừa phải tấn công vật lý và tỷ lệ phản công vật lý của bản thân, và gây sát thương vật lý lớn cho kẻ địch trong phạm vi. Đòn tấn công này luôn là phản công chí mạng, và sát thương phản công vật lý được nhân ba. Tiêu thụ 1 [Battery].
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを50アップ範囲内の敵に(\d+)の物理ダメージバッテリーを１つ消費する$"=►Tăng tấn công vật lý của bản thân lên $1 trong 12s.\n►Tăng tỷ lệ phản công vật lý của bản thân lên 50 trong 12s.\n►Gây $2 sát thương vật lý cho kẻ địch trong phạm vi 800.\n►Tiêu thụ 1 [Battery].
+
+##EX##
+フルブースト=Tăng Cường Toàn Diện
+フルブースト+=Full Boost+

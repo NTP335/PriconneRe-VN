@@ -1,0 +1,33 @@
+##Profile##
+【魔法】前衛で、血を対価に敵を攻撃する聖夜の吸血鬼。残りＨＰが低い程ダメージが上昇するスキルと、ＨＰを消費するスキルを組み合わせ、絶大な破壊力を発揮する。=[Ma thuật] Một ma cà rồng lễ hội trả giá bằng máu để tung ra những đòn tấn công mạnh mẽ từ tuyến đầu. Bằng cách tiêu hao HP với các kỹ năng để cung cấp cho những đòn tấn công mạnh hơn khi sức khỏe thấp, cô ấy có thể gây ra mức độ sát thương đáng sợ.
+
+##UB##
+ヴァーミリオンノエル=Illya Giáng Sinh
+目の前の敵１キャラに魔法特大ダメージを与え、さらに自分の魔法攻撃力を中アップさせる。イリヤのＨＰが低い程ダメージがアップする。=Gây sát thương Ma thuật khủng khiếp lên kẻ địch ngay phía trước và tăng vừa phải M.ATK của bản thân. Gây nhiều sát thương hơn khi HP của Illya càng thấp.
+
+##S1##
+バットカーニバル=Lễ Hội Dơi
+目の前の敵１キャラに魔法中ダメージを与える。イリヤのＨＰが低い程ダメージがアップする。=Gây sát thương Ma thuật vừa phải lên kẻ địch ngay phía trước. Gây nhiều sát thương hơn khi HP của Illya càng thấp.
+
+##S2##
+ブラッディソーン=Gai Máu
+ブラッディソーン+=Gai Máu+
+前方範囲内の敵すべてに魔法中ダメージを与え、さらに自分の魔法攻撃力を中アップさせるが、残りＨＰの20%を消費する。イリヤのＨＰが低い程ダメージがアップする。=Gây sát thương Ma thuật vừa phải lên tất cả kẻ địch trong phạm vi và tăng vừa phải M.ATK của bản thân, với cái giá phải trả là 20% HP của bản thân. Gây nhiều sát thương hơn khi HP của Illya càng thấp.
+r:"^範囲内の敵すべてに(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の残りＨＰの20%を消費$"=►Gây $1 sát thương Ma thuật lên tất cả kẻ địch trong phạm vi 615.\n►Tăng M.ATK của bản thân lên $2 trong 12s.\n►Tiêu hao 20% HP còn lại của bản thân.
+
+##S2+##
+自分の残りＨＰの20％を消費して、自分を一定時間無敵状態にする。さらに自分の魔法攻撃力を特大アップし、前方範囲内の敵すべてに魔法特大ダメージを与え、自分のＴＰを特大回復する。イリヤのＨＰが低い程ダメージがアップする。=Tiêu hao 20% HP còn lại để trở thành bất khả xâm phạm trong một khoảng thời gian. Ngoài ra, tăng mạnh M.ATK của bản thân, gây sát thương Ma thuật khủng khiếp lên tất cả kẻ địch trong khu vực phía trước, và hồi phục mạnh TP của bản thân. Sát thương tăng lên khi HP của Illya càng thấp.
+r:"^自分の残りＨＰの20%を消費一定時間無敵状態になる自分の魔法攻撃力を(\d+)アップ範囲内の敵すべてに(\d+)の魔法ダメージ自分のＴＰを(\d+)回復$"=►Tiêu hao 20% HP hiện tại.\n►Nhận trạng thái Bất Khả Xâm Phạm trong 6s.\n►Tăng M.ATK của bản thân lên $1 trong 12s.\n►Gây $2 sát thương Ma thuật lên tất cả kẻ địch trong phạm vi 615.\n►Hồi TP của bản thân lên $3.
+
+##EX##
+聖夜の盟約=Hiệp ước Đêm Tĩnh Lặng
+聖夜の盟約+=Hiệp ước Đêm Tĩnh Lặng+
+
+##S1+##
+バットカーニバル+=Lễ Hội Dơi+
+自分の魔法攻撃力を小アップさせ、さらに目の前の敵１キャラに魔法大ダメージを与える。イリヤのＨＰが低い程、攻撃力の上昇量とダメージがアップする。=Tăng chút ít M.ATK của bản thân và gây sát thương Ma thuật lớn lên kẻ địch ngay phía trước. Tăng M.ATK của bản thân và gây nhiều sát thương hơn khi HP của Illya càng thấp.
+r:"^自分の魔法攻撃力を(\d+)アップ敵単体に(\d+)の魔法ダメージ$"=►Tăng M.ATK của bản thân lên $1 trong 180s.\n►Gây $2 sát thương Ma thuật lên kẻ địch.
+
+##UE##
+聖夜斧ノエルファング=Rìu Thần Noelfang
+聖夜を統べるマント=Áo Choàng Cai Trị Đêm Thánh

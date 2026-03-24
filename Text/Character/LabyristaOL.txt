@@ -1,0 +1,38 @@
+##Profile##
+【物理】前衛で世界の理をすべて見つめる『迷宮女王』。味方を攻撃面で強化し、継続ＨＰ回復を全体に付与するスキルで戦線を整え、自身も圧倒的な力で敵を殲滅する。=[Vật Lý] Một "Nữ Hoàng Mê Cung" tiền phương, người thấu hiểu mọi logic của thế giới. Củng cố đồng minh về mặt tấn công, chuẩn bị hàng ngũ chiến đấu với các kỹ năng hồi HP liên tục cho tất cả đồng minh, và hủy diệt kẻ địch bằng sức mạnh áp đảo.
+
+人間観察=Quan Sát Nhân Loại
+
+普通の味、帰還する=Vị giác thông thường, trở về
+天才らしい戦い方=Phong cách chiến đấu thiên tài
+可能性の描く未来を=Một tương lai rút ra khả năng
+騎士は女王すらも救う=Kỵ sĩ cứu cả nữ hoàng
+
+##UB##
+オーバーロードストラクチャ=Cấu Trúc Quá Tải
+目の前の敵１キャラに物理大ダメージを与え、さらにその敵が物理攻撃を受けた際のダメージを小アップさせる。七冠の権能を解放し自分の物理攻撃力を大アップさせる。=Gây Sát thương V.Lý lớn lên kẻ địch phía trước, và tăng nhẹ Sát thương V.Lý mà chúng nhận. Mở khóa quyền năng của Bảy Vương Miện và tăng cực lớn S.ATK V.Lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージその敵が受ける物理ダメージを8％アップ自分の物理攻撃力を(\d+)アップ$"=►Gây $1 Sát thương V.Lý lên một kẻ địch.\n►Tăng Sát thương V.Lý mà kẻ địch nhận thêm 8% trong 18s.\n►Tăng S.ATK V.Lý của bản thân lên $2 trong 18s.
+
+##S1##
+アペンドカレッジ=Kết Nối Lòng Dũng Cảm
+味方全体の物理攻撃力を中アップさせ、物理クリティカルを中アップさせる。さらに、味方全体に継続ＨＰ回復状態を付与する。=Tăng vừa phải S.ATK V.Lý và Tỷ lệ Chí mạng V.Lý cho tất cả đồng minh. Ngoài ra, ban tặng hồi HP liên tục cho tất cả đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Tăng P.ATK của toàn bộ đồng đội lên $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng P. của toàn bộ đồng đội lên $2 trong 12s.\n►Hồi HP của toàn bộ đồng đội $3/giây trong 12s.
+
+##S2##
+プロテクトブレイク=Protection Break
+
+##SP1##
+スカルプト=Sculpt
+敵単体に物理大ダメージを与える。=Gây sát thương vật lý lớn lên một kẻ địch.
+
+##EX##
+エンスローンメント=Entertainment
+エンスローンメント+=Entertainment+
+
+##S1+##
+アペンドカレッジ+=Append Courage+
+味方全体の物理攻撃力と物理クリティカルを大アップさせ、物理無効バリアを展開する。さらに味方全体に継続ＨＰ回復状態を付与する。=Tăng mạnh P.ATK và Tỷ Lệ Chí Mạng P. cho toàn bộ đồng đội, và triển khai Màn Chắn phản chọi sát thương vật lý. Ngoài ra, cấp khả năng hồi HP liên tục cho toàn bộ đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Tăng P.ATK của toàn bộ đồng đội lên $1 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng P. của toàn bộ đồng đội lên $2 trong 18s.\n►Triển khai Màn Chắn cho toàn bộ đồng đội phản chọi $3 sát thương vật lý trong 18s.\n►Hồi HP của toàn bộ đồng đội $4/giây trong 18s.
+
+##UE##
+超越叛逆のクイーンソード=Transcendental Rebellion Queen Sword

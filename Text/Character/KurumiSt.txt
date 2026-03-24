@@ -1,0 +1,29 @@
+##Profile##
+【物理】後衛で、皆のため意を決し奮起する小さな女優。残りＨＰが多いほど物理攻撃力がアップし、物理攻撃無効バリアのスキルやＨＰ・ＴＰ継続回復で味方を支援する。=[Vật lý] Là một diễn viên nhí ở hàng sau, cô ấy thu thập can đảm và đứng lên vì tất cả mọi người. Sức tấn công vật lý của cô ấy tăng theo lượng máu còn lại, và cô ấy hỗ trợ đồng đội với các kỹ năng như khiên hóa giải sát thương vật lý và hồi máu/TP liên tục.
+
+##UB##
+ブルーミングスポットライト=Blooming Spotlight
+物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせる。自分の残りＨＰが多いほど、物理攻撃力の上昇量がアップする。=Tăng vừa tấn công vật lý cho tất cả đồng đội thuộc tính vật lý. Phần trăm máu còn lại của bản thân càng cao, mức tăng tấn công vật lý càng lớn.
+r:"^対象の味方の物理攻撃力を(\d+)アップ$"=►Tăng tấn công vật lý cho tất cả đồng đội thuộc tính vật lý lên $1 (+0.14×HP) trong 18 giây.
+
+##S1##
+タイニーエール=Tiny Cheer
+自分のＴＰを小回復させ、物理攻撃を行うすべての味方キャラに継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。=Hồi một lượng nhỏ TP của bản thân, và trao cho tất cả đồng đội thuộc tính vật lý khả năng hồi máu và TP liên tục.
+r:"^自分のＴＰを(\d+)回復毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する$"=Thời gian niệm: 1.27 giây\n►Hồi TP của bản thân lên $1.\n►Hồi máu cho tất cả đồng đội thuộc tính vật lý $2/giây trong 10.5 giây.\n►Hồi TP cho tất cả đồng đội thuộc tính vật lý 10/giây trong 10.5 giây.
+
+##S2##
+プロテクトベル=Protection Bell
+物理攻撃を行うすべての味方キャラに物理無効バリアを展開し、物理攻撃力を小アップさせる。自分の残りＨＰが多いほど、バリアの無効ダメージ量と物理攻撃力の上昇量がアップする。=Triển khai khiên lên tất cả đồng đội thuộc tính vật lý, hóa giải sát thương vật lý, và tăng nhỏ tấn công vật lý của họ. Phần trăm máu còn lại của bản thân càng cao, khiên càng mạnh và mức tăng tấn công vật lý càng lớn.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する対象の味方の物理攻撃力を(\d+)アップ$"=►Triển khai khiên lên tất cả đồng đội thuộc tính vật lý, hóa giải $1(+0.14×HP) sát thương vật lý trong 12 giây.\n►Tăng tấn công vật lý cho tất cả đồng đội thuộc tính vật lý lên $2(+14%×HP) trong 12 giây.
+
+##EX##
+ステージの魔法=Magic of the Stage
+ステージの魔法+=Magic of the Stage+
+
+##S1+##
+タイニーエール+=Tiny Cheer+
+物理攻撃を行うすべての味方キャラの物理クリティカルを中アップさせ、継続ＨＰ回復状態と継続ＴＰ回復状態を付与する。自分の残りＨＰが多いほど、継続ＨＰ回復量がアップし、継続ＴＰ回復量が最大1.4倍までアップする。さらに、自分のＴＰを中回復する。=Tăng tỷ lệ chí mạng vật lý cho tất cả đồng đội thuộc tính vật lý, và trao cho họ khả năng hồi máu và TP liên tục. Phần trăm máu còn lại của bản thân càng cao, tốc độ hồi máu/TP càng lớn. Ngoài ra, hồi một lượng vừa TP của bản thân.
+r:"^自分のＴＰを200回復毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する対象の味方の物理クリティカルを50アップ$"=Thời gian niệm: 1.27 giây\n►Hồi TP của bản thân lên 200.\n►Hồi máu cho tất cả đồng đội thuộc tính vật lý $1(+0.005×HP)/giây trong 10.5 giây.\n►Hồi TP cho tất cả đồng đội thuộc tính vật lý 10(+0.00006×HP)/giây trong 10.5 giây.\n►Tăng tỷ lệ chí mạng vật lý cho tất cả đồng đội thuộc tính vật lý lên 50 trong 12 giây.
+
+##UE##
+リトルアクトドレス=Little Act Dress

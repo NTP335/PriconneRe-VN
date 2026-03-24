@@ -1,0 +1,35 @@
+##Profile##
+【物理】中衛で、攻撃と補助の両方をこなす海の傭兵。ユニオンバーストの効果で味方全体の物理攻撃力を高め、物理攻撃パーティの能力アップに一役買う。=[Vật Lý] Một lính đánh thuê bờ biển cung cấp sức mạnh tấn công và hỗ trợ từ hàng giữa. Union Burst của cô tăng tấn công vật lý cho đồng minh, củng cố toàn đội hình.
+
+目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý vừa phải cho kẻ địch trước mặt, và thêm sát thương vật lý nhỏ cho các kẻ địch xung quanh mục tiêu.
+
+##UB##
+レヴィアタンランス=Giáo Leviathan
+目の前の敵１キャラに物理大ダメージを与え、さらに味方全体の物理攻撃力を中アップさせる。=Gây sát thương vật lý lớn cho kẻ địch đối diện trực tiếp. Tăng vừa phải tấn công vật lý của đồng minh.
+r:"^敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng tấn công vật lý của đồng minh lên $2.
+
+##S1##
+ハイドロスティング=Quây Nước
+目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理小ダメージを与える。=Gây sát thương vật lý nhỏ cho kẻ địch trước mặt, và thêm sát thương vật lý nhỏ cho các kẻ địch xung quanh mục tiêu.
+
+##S2##
+ハンティングモード=Chế độ Săn Bắn
+自分の物理攻撃力を中アップさせ、さらに物理クリティカルを大アップさせる。=Tăng vừa phải Tấn Công Vật Lý và Tỷ Lệ Chí Mạng của bản thân.
+
+##EX##
+サマーマーセナリー=Lính Thuê Mùa Hè
+サマーマーセナリー+=Lính Thuê Mùa Hè+
+
+##S1+##
+ハイドロスティング+=Vòng Xoay Nước+
+目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý vừa phải cho kẻ địch trước mặt, và thêm sát thương vật lý nhỏ cho các kẻ địch xung quanh mục tiêu.
+It deals P.DMG to one enemy in front of you, and also does physics -based damage to all the surrounding enemies.
+
+##S2+##
+ハンティングモード+=Chế độ Săn Bắn+
+自分の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。さらに短時間物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップさせる。=Tăng Tấn Công Vật Lý của bản thân một lượng lớn, tăng lớn Tỷ Lệ Chí Mạng của bản thân. Ngoài ra, tăng lớn Tỷ Lệ Chí Mạng của bản thân và tăng vừa phải Sát Thương Chí Mạng của bản thân trong một thời gian ngắn.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを24％アップ$"=►Tăng Tấn Công Vật Lý của bản thân bằng $1.\n►Tăng Tỷ Lệ Chí Mạng của bản thân bằng $2.\n►Tăng Tỷ Lệ Chí Mạng của bản thân bằng $3.\n►Tăng Sát Thương Chí Mạng của bản thân 24%.
+
+##UE##
+蒼竜槍ミズチ=Thương Rắn Lưỡi Cua Mizuchi
+蒼竜装ロタン=Giáp Rắn Lưỡi Cua Lotan

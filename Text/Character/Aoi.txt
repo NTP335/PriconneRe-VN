@@ -1,0 +1,47 @@
+##Profile##
+友達作りのイメトレ=Kết bạn
+
+【物理】最後衛から状態異常の矢を放つ、ぼっちの射手。ダメージと共に付与する毒や麻痺の追加効果により、防御力の高い敵であっても、確実にＨＰを削りとる。=[Vật lý] Một tay cung đơn độc bắn những mũi tên độc từ hậu phương. Độc và tê liệt mà cô gây ra có thể rút cạn máu của kể cả chiến binh vững chắc nhất.
+
+結成！ＢＢ団=Chúng Là Đội BB!
+つかみはOK！？=Ấn Tượng Đầu Tiên
+友達づくりは命がけ=Trong Tình Bạn và Chiến Tranh, Mọi Thứ Có Thể Chấp Nhận
+真のぼっち対決！？=Người Cô Đơn Đấu với Người Cô Đơn!
+テーマソング完成！=Đến Giờ Nhạc Chủ Đề Rồi!
+あなたがそばにいてほしい=Cần Cậu Ở Bên Cạnh
+星降る夜の奇跡=Phép Màu Dưới Bầu Trời Sao
+私の、一番の友達=Bạn Thân Tốt Nhất Của Tôi
+
+「友達」に憧れる、エルフの森の女の子=Một cô gái từ khu rừng elf khao khát có bạn bè.
+
+##UB##
+ツイストヴァイン=Dây Leo Xoắn Ốc
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.
+目の前の敵１キャラを中心とした範囲内の敵に物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch trong phạm vi.
+
+##S1##
+ポイズンアロー=Mũi Tên Độc
+目の前の敵１キャラに物理中ダメージを与え、さらに毒状態にする。=Gây sát thương vật lý vừa phải lên kẻ địch ngay phía trước và gây Độc.
+r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây Độc, sát thương $2/s.
+
+##S2##
+パラライズアロー=Mũi Tên Tê Liệt
+目の前の敵１キャラに物理小ダメージを与え、さらに麻痺状態にする。=Gây sát thương vật lý nhỏ lên kẻ địch ngay phía trước và gây Tê Liệt.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Làm kẻ địch bất động.
+
+##EX##
+フォレストシューター=Xạ Thủ Rừng Xanh
+フォレストシューター+=Xạ Thủ Rừng Xanh+
+
+##UB+##
+ヴェノムブルーミング=Độc Hoa Nở Rộ
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに毒状態にする。このスキルの対象が毒状態だった場合、代わりに物理特大ダメージを与え、さらに猛毒状態にする。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong phạm vi 1 nhân vật phía trước, gây Độc. Nếu mục tiêu đã bị Độc, sẽ gây thêm sát thương vật lý và gây Độc Tối.
+r:"^敵が毒状態の時、範囲内の敵に(\d+)の物理ダメージ敵が毒状態の時、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない時、範囲内の敵に(\d+)の物理ダメージ敵が毒状態でない時、(\d+)ダメージを与える毒状態にする$"=Nếu mục tiêu chưa bị Độc hoặc Độc Tối:\n►Gây $3 sát thương vật lý lên tất cả kẻ địch trong phạm vi 400.\n►Gây Độc, sát thương $4/s trong 24s.\n\nNếu mục tiêu đã bị Độc hoặc Độc Tối:\n►Gây $1 sát thương vật lý lên tất cả kẻ địch trong phạm vi 400.\n►Gây Độc Tối, sát thương $2/s trong 12s.
+
+##S1+##
+ポイズンアロー+=Mũi Tên Độc+
+目の前の敵１キャラに物理中ダメージを与え、さらに毒状態にする。このスキルの対象が毒状態だった場合、代わりに物理特大ダメージを与え、さらに猛毒状態にする。=Gây sát thương vật lý vừa phải lên 1 kẻ địch phía trước và gây Độc. Nếu mục tiêu đã bị Độc, sẽ gây thêm sát thương và gây Độc Tối.
+r:"^敵が毒状態の時、敵単体に(\d+)の物理ダメージ敵が毒状態でない時、敵単体に(\d+)の物理ダメージ敵が毒状態の時、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない時、(\d+)ダメージを与える毒状態にする$"=Thời gian niệm: 0.86s\nNếu mục tiêu chưa bị Độc hoặc Độc Tối:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây Độc, sát thương $4/s trong 24s.\n\nNếu mục tiêu đã bị Độc hoặc Độc Tối:\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây Độc Tối, sát thương $3/s trong 12s.
+
+##UE##
+BB団の絆ベレー=Mũ Lính BB

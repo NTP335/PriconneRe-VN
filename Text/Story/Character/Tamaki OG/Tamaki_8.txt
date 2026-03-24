@@ -1,0 +1,81 @@
+{playername}は、タマキと同時に「夢」を見る。たまきのダイエットに協力する{playername}は、夢の中でも目覚めてからも、タマキのいたずらな魅力に振り回されるのだった。={playername} thấy cùng một "giấc mơ" với Tamaki. Ngay cả sau khi thức giấc trong giấc mơ và giúp Tamaki với chế độ ăn kiêng, cậu vẫn bị lay động bởi sức hấp dẫn nghịch ngợm của Tamaki.
+{playername}は、タマキがバイトをしているという\nたい焼き屋の屋台までやってきていた。={playername} đã đến quầy bán taiyaki nơi Tamaki làm thêm.
+お、{playername}にゃ！\nこんなところでどうしたにゃ？=Ồ, {playername}~nya!\nCậu đến đây làm gì~nya?
+もしかして、たい焼きを食べにきたにゃ？=Cậu đến ăn taiyaki à~nya?
+{playername}だったら、たっぷりとサービスするにゃ！\nだからほら、何か買っていく──=Nếu là {playername}, tôi sẽ phục vụ nhiều lắm~nya!\nThôi nào, mua gì đi──
+って、これはなんにゃ！？\nた、たい焼きから光が──にゃああああああっ！？=Cái gì vậy~nya!?\nT, taiyaki đang phát sáng──nyaaaaaaa!?
+ほら、エサにゃ。\nたくさんあるからいっぱい食べるにゃ……はぁ……=Đây, đồ ăn~nya.\nCó nhiều lắm, ăn thả cửa đi~nya... haa...
+あ、{playername}……\nいらっしゃいにゃ。\nたい焼き、買っていくかにゃ？=À, {playername}... chào cậu~nya.\nCậu muốn mua taiyaki không~nya?
+元気がないみたいだけど、何かあったの？=Cậu có vẻ không khỏe lắm, có chuyện gì sao?
+……さすが{playername}にゃ。\nあたしが悩んでいることに、すぐに気づくなんて……=...Thật đúng như {playername}~nya.\nCậu đã nhận ra mình đang bối rối rồi...
+実は、その……=Thực ra thì, ừm...
+{playername}は、あたしを見て、\n何か気づかないにゃ？={playername}, cậu không thấy có gì lạ khi nhìn mình~nya?
+実はあたし……最近、その、太ってきたのにゃ。=Thực ra, em... dạo này, cái đó, em tăng cân rồi~nya.
+だからダイエット中なのに……こうやってエサをあげてると、\nあたしもお腹が減ってくるにゃ……=Nên em đang ăn kiêng... nhưng khi cho mèo ăn kiểu này, em cũng thấy đói~nya...
+まかないのたい焼きも、涙を飲んで猫たちにあげてるにゃ……=Em còn phải cho mèo ăn taiyaki như bữa ăn của nhân viên với đôi mắt đẫm nước mắt~nya...
+だけど……もう、お腹と背中がくっつきそうで、\n我慢の限界なのにゃ……！=Nhưng... cái bụng và lưng sắp dính vào nhau rồi, em không chịu nổi nữa~nya...!
+うぅ……{playername}！\nキミを見込んで、頼みがあるのにゃ！=Ưu... {playername}! Em có chuyện muốn nhờ cậu~nya!
+どうか、どうかダイエットを手伝ってほしいのにゃ！\nあたし一人の意志じゃなかなか……=Làm ơn, làm ơn giúp em ăn kiêng~nya! Em không làm được một mình...
+わかった。ダイエット、手伝うよ。=Được, em sẽ giúp cậu ăn kiêng.
+本当かにゃ！？\nあ、ありがとにゃ、{playername}！\n早速、明日からダイエットを開始するにゃ！=Thật sao~nya!? À, cảm ơn~nya, {playername}! Mai chúng ta bắt đầu ăn kiêng thôi~nya!
+翌日。=Ngày hôm sau.
+ふっふっ、ふっふっ！=Hehe, hehe!
+がんばれ、がんばれ！=Cố lên, cố lên!
+はあ、はあ、マラソン、一体、何キロ走らせる気にゃ……\n有酸素運動にはなるけどにゃあ……=Haa, haa... chạy marathon kiểu này phải chạy bao nhiêu km đây... là tập thể dục có oxy nhưng~nyaa...
+はあ、はあ…よ、ようやくゴールが見えてきたのにゃ……\nあそこまで行ければ休める……！\nラストスパート、頑張るにゃ！=Haa, haa... cuối cùng cũng thấy đích rồi~nya... Nếu tới được đó là được nghỉ...! Em sẽ cố gắng hết sức ở chặng cuối~nya!
+うにゃああああああああっ……！=Unyaaaaaaaaaaaaa!
+ご、ゴール……！\nゴール、してやったのにゃ……！=Vào đích...! Em làm được rồi, làm được rồi~nya...!
+ふああ、つかれたにゃああああああ……=Fuaa, em mệt~nyaaaaaaaaa...
+はあ、はあ……にゃ？=Haa, haa...~nya?
+どうしたにゃ、{playername}。\n視線を逸らしてるにゃ。=Sao thế~nya, {playername}. Cậu đang tránh nhìn em~nya.
+あ、もしかして……=Ồ, chẳng lẽ...?
+{playername}、今、汗で服が張り付いたあたしの体を見て、\nちょっとドキドキしてたんじゃないかにゃ？={playername}, cậu vừa thấy người em dính đầy mồ hôi vào áo nên hơi hào hứng một chút đúng không~nya?
+Fufufu{playername}の視線には、\nあたしは敏感なのにゃ。=Fufufu, em rất nhạy với ánh mắt của {playername}.
+男の子はしょうがないにゃあ……\n……じゃあもしかして、{playername}は、\nこの服の中も見たい、にゃ……？=Không thể trách được vì cậu là con trai~nyaa... Thế thì, có thể {playername} cũng muốn xem bên trong chiếc áo này~nya...?
+あたし……{playername}になら、\n見せてあげてもいいかにゃ……=Em... nếu là {playername}, em không ngại cho cậu xem đâu...
+にゃーんちゃって！\n冗談にゃー！\n期待、したかにゃ？=Nyaan đùa thôi! Đùa~nya! Cậu đã tin chứ~nya?
+ふふふ。でも、{playername}に見ててもらったら、\nサボり防止になっていいにゃ！　これからもよろしくにゃ！=Fufufu. Nhưng nếu {playername} nhìn em, em sẽ không dám lười nữa! Từ giờ em trông cậy vào cậu~nya!
+アンタ、珍しく女の子の体を見てドギマギしてたわね～=Cậu bối rối một cách lạ thường khi thấy cơ thể con gái~
+それにしても、タマキって積極的なのか、\nからかってるのか、よくわからない子ね。=Nhưng Tamaki là một cô gái kỳ lạ. Em không biết là cô ấy thân mật hay đang đùa.
+それも含めて、気まぐれってことか。\nああいう子と付き合ったら、やっぱり大変なのかしらね。\nまあ、退屈はしないかもだけど……=Có lẽ đó là một phần của sự tùy hứng của cô ấy.\nChắc chắn sẽ khó để hẹn hò với một cô gái như vậy.\nThôi thì, có lẽ cũng sẽ không nhàm chán đâu...
+まあいいか。\n実際に悩むのはアンタだし。それじゃあね～=Thôi kệ. Đó là vấn đề của cậu nếu cậu thực sự bối rối. Gặp lại sau~
+……うにゃ……？\nうぅ……いつの間にか、寝てたみたいにゃ……=...Unya...? Ưu... em ngủ thiếp đi lúc nào không hay~nya...
+不思議な夢だったにゃ……=Đó là một giấc mơ kỳ lạ~nya...
+でも、夢の中でもあたしはたい焼き屋をしてたのにゃ！=Nhưng ngay cả trong giấc mơ, em cũng đang bán taiyaki~nya!
+...Huh?\n{playername}の夢でも、あたしがたい焼き屋をしてた？=...Hả? Trong giấc mơ của {playername} nữa, em cũng đang bán taiyaki?
+……にゃるほど。\nあたしと同じ夢を見てたみたいだにゃ。\n不思議なこともあるもんだにゃ。=...Nyai hiểu.\nCó vẻ như chúng ta đã mơ cùng một giấc~nya. Đôi khi những chuyện kỳ lạ cũng xảy ra~nya.
+ふふっ、夢の内容を思い出してたら、\n楽しくなってきたのにゃ。=Fufu, khi nhớ lại nội dung giấc mơ, em thấy vui~nya.
+なんて言ったって、{playername}は、\n夢の中でもあたしの魅力にイチコロだったにゃ。=Rốt cuộc thì, {playername} cũng bị mê hoặc bởi vẻ quyến rũ của em ngay cả trong giấc mơ~nya.
+にゃはは、夢の中の続き……ということで、\nこの中を見せてあげようかにゃ……？=Nyahaha, chúng ta tiếp tục từ giấc mơ...\nVậy thì, em cho cậu xem bên trong chứ~nyaa...?
+にゃはは、冗談にゃ！\nそれじゃあ、お仕事、再開にゃ！=Nyahaha, em đùa thôi!\nVậy thì, chúng ta quay lại làm việc thôi~nya!
+嬉しそうに笑いながら、タマキは仕事に戻るのだった。=Tamaki cười vui vẻ và quay trở lại công việc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

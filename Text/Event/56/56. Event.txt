@@ -1,0 +1,107 @@
+平和の道は前途多難=Con Đường Hòa Bình Đầy Thử Thách
+【王宮騎士団（NIGHTMARE）】の和平大使に任命されたマ\nツリとクリスティーナ。二人はヒューマンと獣人族の険悪な関\n係を改善するため、獣人族との和平交渉へと向かうことになる\nのであった。=Matsuri và Christina đã được bổ nhiệm làm Đại Sứ của RPK. Họ đang hướng đến đàm phán hòa bình với các thú vật để cải thiện mối quan hệ tồi tệ giữa con người và thú vật.
+
+
+
+掟破りの和平交渉=Đàm Phán Hòa Bình Phá Luật
+獣人族の首長会議に列席したマツリたち。反ヒューマン感情の\n高まる空気の中、クリスティーナは獣人族とヒューマンの異文\n化交流を提案する。こうして波乱万丈の和平活動の幕が上がる\nのだった。=Matsuri và những người khác đã tham gia vô địch của các Thú Vật. Trong bầu không khí cảm xúc chống con người, Christina đề xuất một sự trao đổi văn hóa khác giữa thú vật và con người. Bằng cách này, bức màn của hoạt động hòa bình đầy xáo trộn đã được nâng lên.
+
+偽りなき約束=Lời Hứa Chân Thành
+和平活動の一環としてウサギ族の集落へのホームステイを計画\nしたクリスティーナ。出立の準備をしに立ち寄った先でマツリ\nの母と邂逅したクリスティーナは、マツリを必ず無事に帰すと\n約束を交わすのだった。=Christina lên kế hoạch homestay tại thỏ như một phần của hoạt động hòa bình. Christina, người gặp mẹ của Matsuri vào cuối quá trình chuẩn bị cho chuyến đi, đã hứa với bà sẽ luôn đưa Matsuri an toàn trở về.
+
+はじめてのホームステイ=Lần Homestay Đầu Tiên
+ウサギ族の集落を訪れたマツリたちは、ウサギ族の人の良さに\nつけ込んで不公平な取引を行う商人に遭遇する。クリスティー\nナの機転と活躍で商人を追い払った一行は、ウサギ族からの歓\n待を受けるのだった。=Matsuri khi thăm làng thỏ gặp một thương gia lợi dụng lòng tốt của thỏ và thực hiện các giao dịch bất công. Nhóm, người đã đuổi được thương gia bằng sự thông minh của Christina và thành công của mình, nhận được sự chào đón từ thỏ.
+
+剥がれ落ちる虚飾=Lột Trong Vỏ Giả Tạo
+トラ族の村で伝統ある祭儀に参加したマツリは、手違いで村の\n広場で暴れ出してしまった魔物を止めるために戦う。しかし戦\nいの最中、魔物の攻撃でマツリの帽子が落ちてしまい、獣人の\n耳が露になってしまう。=Matsuri, người tham gia một nghi lễ truyền thống trong làng hổ, chiến đấu để ngăn chặn quái vật đã xông vào quảng trường làng do nhầm lẫn. Tuy nhiên, trong trận chiến, chiếc mũ của Matsuri rơi ra do tấn công của quái vật, và đôi tai của cô ấy bị lộ.
+
+ヒューマンと獣人族の間で=Giữa Con Người và Thú Vật
+祭儀の場から逃げ出したマツリは、自身がトラ族の獣人である\nことを改めて受け入れる。そしてトラ族の族長に挑まれた決闘\nで果敢に立ち向かう姿を見せたマツリは、トラ族の皆に仲間と\nして認められるのだった。=Matsuri, người đã chạy trốn khỏi nghi lễ, chấp nhận bản thân là thú vật hổ. Matsuri thể hiện sự đối đầu táo bạo trong một trận đấu tay đôi do hổ thách đấu, và được tất cả những con hổ công nhận là đồng đội.
+
+一日限りのダブルヒーロー=Hai Anh Hùng Chỉ Một Ngày
+トラ族の一員として認められたマツリたちの前に姿を消してい\nた補佐が現れる。獣人族を煽動して大きな争いを巻き起こそう\nと企む補佐の野望は、マツリとクリスティーナの活躍によって\n打ち砕かれるのであった。=Một trợ lý, người đã biến mất trước mặt Matsuri (khi cô ấy được công nhận là thành viên bộ tộc hổ), xuất hiện. Khát vọng của trợ lý, người có ý định kích động thú vật và gây ra một cuộc đấu tranh lớn, đã bị phá vỡ bởi thành công của Matsuri và Christina.
+
+開かれた重き門戸=Cánh Cửa Nặng Nề Đã Mở
+ヒーローショーの新しい主役に抜擢されたマツリは、観客席に\nクリスティーナたちの姿を見つける。微笑みを浮かべたマツリ\nは舞台に飛び出すと、元気よく口上を述べながらヒーローの名\n乗りを上げるのだった。=Matsuri, người đã được chọn là nhân vật chính mới của vở kịch anh hùng, tìm thấy Christina trong khán đài. Matsuri mỉm cười và nhảy ra sân khấu, và cô hô lên tên anh hùng của mình.
+
+補佐=Sự Hỗ Trợ
+ピクニック気分で=Với tâm trạng dã ngoại
+r:"^和平活動の道のり([0-9\-\(\)\w （）]*)$"=Hành Trình Hoạt Động Hòa Bình $1
+オブシダンゴーレム=Obsidian Golem
+
+任務完了！=Nhiệm vụ hoàn thành!
+開かれた重き門戸が\n解放可能になりました。=Cánh cửa nặng nề đã mở.
+今回の任務=Nhiệm vụ này
+
+今はこの祝杯を=Giờ lễ hội này
+
+
+古巣に思うこと=Suy Nghĩ Về Tổ Cũ
+ウサギ族の住まい=Nhà Của Bộ Tộc Thỏ
+正義の味方参上ッス！=Đồng Minh Của Công Lý Đã Đến!
+ウサギ族へのレッスン=Bài Học Cho Bộ Tộc Thỏ
+トラ族の教え=Bài học của Bộ Tộc Hổ
+新しい世界=New World
+新しい和平活動を考えよう=Cân nhắc một Chiến dịch Hòa bình Mới
+和平のために=Vì Hòa bình
+クリスティーナについて=Về Christina
+任務完了ッス！=Nhiệm vụ Hoàn thành!
+トラ族の暮らし=Cuộc Sống Của Bộ Tộc Hổ
+
+ビジネスのお勉強=Nghiên cứu Kinh doanh
+ウサギ族は癒し系？=Bộ tộc Thỏ có thuộc type trị liệu không?
+
+ハグをすること。=Ôm.
+手をつなぐこと。=Nắm tay.
+話をちゃんと聞くこと。=Lắng nghe câu chuyện cho kỹ.
+
+獣人族ってどんな人？=Người thú là loại người như thế nào?
+みんなの期待に応えよう。=Hãy đáp ứng kỳ vọng của mọi người.
+クリスティーナさんも一緒だね。=Christina cũng vậy.
+
+
+……すごいよね。=......Cô ấy thật tuyệt vời.
+強いよね。=Cô ấy mạnh.
+かっこいいよね。=Cô ấy thật ngầu.
+
+いいトレーニングになるかも。=Có lẽ đây là một buổi tập luyện tốt.
+商人が来るんじゃないかな。=Tôi đoán tên thương nhân sẽ đến.
+山肌を下って街に行くんだって。=Cậu xuống núi và đi đến thành phố.
+
+トラタイガーに会えなかったかも。=Có lẽ tôi đã không gặp được Tora Tiger.
+今より強くなってたかも？=Bây giờ cậu đã mạnh hơn chưa?
+もっとトラ族っぽくなってたかも？=Cậu có cảm thấy mình giống một Hổ hơn không?
+
+決めポーズを研究しよう。=Hãy nghiên cứu tư thế quyết định.
+立派なヒーローだね。=Đó là một vị anh hùng vĩ đại.
+かっこいい！=ngầu!
+
+まだ任務が残ってるって……=Nhiệm vụ vẫn còn ...
+大騒ぎだったね。=Đã thành một màn hỗn loạn.
+楽しかったね。=Vui mà, đúng không?
+
+
+誰が一番強いんだろう？=Ai là người mạnh nhất?
+マツリちゃんもトラ族だよね。=Matsuri cũng là một người hổ.
+武術大会とか好きそう。=Tôi thích các giải võ thuật.
+
+毒は毒をもって制す……？=Điều khiển bằng độc với độc ...?
+約束は守る人だから。=Lời hứa là của người giữ nó.
+頼れるクリスティーナさんだから。=Bởi vì tôi có thể dựa vào Christina.
+
+いつものクリスティーナさんだ。=Đó là Christina thường ngày.
+かわいいと思う。=Tôi nghĩ nó dễ thương.
+とっても強そう。=Trông nó rất mạnh.
+
+クリスティーナ先生。=Christina-Sensei.
+きっと優しいんだね。=Cô ấy chắc chắn tốt bụng.
+大変そうだね。=Trông có vẻ khó.
+
+トモちゃんは？=Tomo-chan?
+ジュンさんも元気にしてるよ。=Jun cũng đang làm tốt.
+マツリちゃんとか？=Matsuri-chan?
+
+
+拳で語り合う……？=Nói chuyện bằng nắm đấm ...?
+ランドソルの文化を紹介する。=Giới thiệu văn hóa của Landosol.
+一緒にご飯を食べる。=Ăn cơm cùng nhau.

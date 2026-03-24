@@ -1,0 +1,34 @@
+##Profile##
+【物理】中衛で、火花を纏い夕闇を彩る真夏の壊し屋。二つのスキルで物理防御力を下げ、ダメージ量に応じてクリティカル上昇が延長するＵＢで眼前の敵を粉砕する。=[Vật lý] Một Kẻ Phá Hủy giữa mùa hè, nhuộm bóng tối bằng tia lửa ở tuyến giữa. Cô sử dụng hai kỹ năng để giảm phòng thủ vật lý của bản thân và đè bẹp kẻ địch phía trước với Union Burst kéo dài hiệu ứng tăng crit dựa trên lượng sát thương nhận.
+
+##UB##
+デッドリーサマーサンセット=Hoàng Hôn Mùa Hè Chết Chóc
+目の前の敵１キャラに物理特大ダメージを与える。さらに自分の物理クリティカルを大アップさせる。このスキルで与えたダメージ量に応じて、クリティカルの上昇時間が増加する。=Gây sát thương vật lý lớn lên một kẻ địch phía trước. Ngoài ra, tăng rất lớn tỷ lệ phản crit vật lý của bản thân. Thời gian tăng tỷ lệ phản crit vật lý tăng theo lượng sát thương gây ra bởi kỹ năng (15s+0.00004×Sát thương vật lý).
+
+##S1##
+ミッドサマーブラスト=Vụ Nổ Mùa Hè
+
+##S2##
+アルケミックサマー=Mùa Hè Giả Kim
+目の前の敵１キャラの物理防御力を中ダウンさせる。さらに、自分のＴＰを小回復する。=Giảm trung bình phòng thủ vật lý của kẻ địch phía trước nhất. Ngoài ra, hồi nhẹ TP của bản thân.
+目の前の敵１キャラの物理防御力を大ダウンさせる。さらに、自分のＴＰを小回復する。=Giảm rất lớn phòng thủ vật lý của kẻ địch phía trước nhất. Ngoài ra, hồi nhẹ TP của bản thân.
+r:"^敵単体の物理防御力を(\d+)ダウン自分のＴＰを(\d+)回復$"=►Giảm phòng thủ vật lý của kẻ địch lên $1 trong 12s.\n►Hồi TP của bản thân lên $2.
+
+##EX##
+ネバーエンディングサマー=Mùa Hè Vô Tận
+ネバーエンディングサマー+=Mùa Hè Vô Tận+
+
+##S1+
+ミッドサマーブラスト+=Vụ Nổ Mùa Hè+
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせ、さらに自分の物理攻撃力を大アップする。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm trung bình phòng thủ vật lý của họ, và tăng rất lớn sức mạnh tấn công vật lý của bản thân trong 18s.
+
+##S2+##
+アルケミックサマー+=Mùa Hè Giả Kim+
+目の前の敵１キャラのクリティカルを受けた際のダメージを小アップ、毒状態と猛毒状態にし、物理防御力を大ダウンさせる。さらに、自分のＴＰを中回復する。対象の敵が毒状態だった場合、毒のダメージがアップ、猛毒状態だった場合、猛毒のダメージがアップする。=Tăng nhẹ sát thương phản crit nhận, gây Độc và Nọc, và giảm rất lớn phòng thủ vật lý của kẻ địch phía trước. Cũng hồi trung bình TP của bản thân. Nếu mục tiêu đã bị Độc, tăng sát thương Độc. Nếu mục tiêu đã bị Nọc, tăng sát thương Nọc.
+r:"^敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを(\d+)％アップ(\d+)ダメージを与える毒状態にする敵が毒状態の時、(\d+)ダメージを与える毒状態にする(\d+)ダメージを与える猛毒状態にする敵が猛毒状態の時、(\d+)ダメージを与える猛毒状態にする自分のＴＰを(\d+)回復$"=►Giảm phòng thủ vật lý của một kẻ địch lên $1.\n►Tăng sát thương phản crit mà một kẻ địch nhận lên $2%.\n►Gây Độc, gây $3 sát thương vật lý.\nNếu kẻ địch đã bị Độc:\n►Gây Độc, gây $4 sát thương vật lý.\n►Gây Nọc, gây $5 sát thương vật lý.\nNếu kẻ địch đã bị Nọc:\n►Gây Nọc, gây $6 sát thương vật lý.\n►Hồi TP của bản thân lên $7.
+
+##UE##
+ミッドサマー=Mùa Hè
+
+##UE2##
+ロマンスポーション=Thuốc Tình Yêu

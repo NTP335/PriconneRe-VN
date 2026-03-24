@@ -1,0 +1,36 @@
+12月=Tháng 12
+11月=Tháng 11
+10月=Tháng 10
+09月=Tháng 9
+08月=Tháng 8
+07月=Tháng 7
+06月=Tháng 6
+05月=Tháng 5
+04月=Tháng 4
+03月=Tháng 3
+02月=Tháng 2
+01月=Tháng 1
+9月=Tháng 9
+8月=Tháng 8
+7月=Tháng 7
+6月=Tháng 6
+5月=Tháng 5
+4月=Tháng 4
+3月=Tháng 3
+2月=Tháng 2
+1月=Tháng 1
+
+
+sr:"^1月(\d+日)のストーリー(\d)?$"=Tháng 1 $1 Story $2
+sr:"^2月(\d+日)のストーリー(\d)?$"=Tháng 2 $1 Story $2
+sr:"^3月(\d+日)のストーリー(\d)?$"=Tháng 3 $1 Story $2
+sr:"^4月(\d+日)のストーリー(\d)?$"=Tháng 4 $1 Story $2
+sr:"^5月(\d+日)のストーリー(\d)?$"=Tháng 5 $1 Story $2
+sr:"^6月(\d+日)のストーリー(\d)?$"=Tháng 6 $1 Story $2
+sr:"^7月(\d+日)のストーリー(\d)?$"=Tháng 7 $1 Story $2
+sr:"^8月(\d+日)のストーリー(\d)?$"=Tháng 8 $1 Story $2
+sr:"^9月(\d+日)のストーリー(\d)?$"=Tháng 9 $1 Story $2
+sr:"^10月(\d+日)のストーリー(\d)?$"=Tháng 10 $1 Story $2
+sr:"^11月(\d+日)のストーリー(\d)?$"=Tháng 11 $1 Story $2
+sr:"^12月(\d+日)のストーリー(\d)?$"=Tháng 12 $1 Story $2
+sr:"^(\d+月)(\d+日)/(.+)歳$"=$1 $2 ($3yo)

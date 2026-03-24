@@ -1,0 +1,60 @@
+##Profile## 
+一人前の商人を目指すパワフルお嬢様=Một tiểu thư mạnh mẽ hướng tới việc trở thành một thương gia thực thụ
+
+【物理】前衛で大暴れして攻める、令嬢剣士。自分の周りに、味方を回復するフィールドを作り出し、自ら前線を支え導く姿も、名家を背負う者のあるべき姿。=[Vật lý] Một kiếm sĩ trẻ chiến đấu dữ dội ở tuyến đầu. Tạo một trường phục hồi máu cho đồng minh xung quanh, cho phép cô ấy giữ vị trí tiền tuyến như người thừa kế của một gia tộc quý tộc.
+
+慈善事業=Charitable Business Ventures
+
+##UB##
+ノーブルアサルト=Noble Assault
+目の前の敵１キャラに物理特大ダメージを与える。=Gây sát thương vật lý khủng khiếp lên kẻ địch phía trước trực tiếp.
+r:"^敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.
+
+##S1##
+プラウドスラッシュ=Haughty Slash
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップさせる。その後笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước trực tiếp. Tăng nhẹ sức tấn công vật lý của bản thân. Nếu bị tấn công khi đang cười, sẽ phản công kẻ địch trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm chú: 1.3575s.\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 280 khi phản công trong 2s tiếp theo.\n►Tăng P.ATK của bản thân lên $1 trong 12s.
+
+##S2##
+ヒーリングジュエル=Ngọc Tái Tạo
+自分の周囲に、範囲内の味方すべてを小回復するフィールドを展開する。=Triển khai một vùng phạm vi 150, hồi phục một lượng HP nhỏ cho tất cả đồng minh lân cận.
+r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Triển khai một vùng hồi phục $1 HP/giây cho đồng minh trong 8 giây.
+
+
+
+自分を中心に範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップ、ＨＰを小回復するフィールドを展開する。サレン（同名キャラを除く）が味方にいる場合、さらにＴＰを小回復させるフィールドを展開する。=Triển khai một trường (field) quanh bản thân, tăng cực đại tấn công vật lý, tăng lớn tỷ lệ chí mạng vật lý và hồi phục một lượng nhỏ HP cho tất cả đồng minh trong phạm vi. Nếu có Saren (ngoại trừ các phiên bản khác của cùng nhân vật) trong đội hình, triển khai thêm trường hồi phục một lượng nhỏ TP.
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する物理クリティカルを100アップさせるフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開するサレンがいる場合、毎秒ＴＰを10回復するフィールドを展開する$"=►Triển khai trường phạm vi 300 quanh bản thân giúp tăng $1 tấn công vật lý trong 12.5 giây.\n►Triển khai trường phạm vi 300 quanh bản thân giúp tăng 100 tỷ lệ chí mạng vật lý trong 12.5 giây.\n►Triển khai trường phạm vi 300 quanh bản thân giúp hồi phục $2 HP mỗi giây trong 12.5 giây.\n\nNếu có [Saren]:\n►Triển khai trường phạm vi 300 quanh bản thân giúp hồi phục 10 TP mỗi giây trong 12 giây.
+
+##EX## 
+フレイムソウル=Linh Hồn Bừng Cháy
+フレイムソウル+=Linh Hồn Bừng Cháy+
+バトル開始時に自分の物理攻撃力を中アップさせる。=Tăng sát thương vật lý của bản thân một chút ngay từ đầu trận.
+r:"^自分の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1.
+バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Tăng sát thương vật lý của bản thân một chút ngay từ đầu trận.\nTăng phòng thủ vật lý của bản thân một chút ngay từ đầu trận.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Tăng P.ATK của bản thân lên $1.\n►Tăng P.DEF của bản thân lên $2.
+
+##UB+##
+ノーブルプロミネンス=Vinh Quang Quý Tộc
+目の前の敵１キャラに物理特大ダメージを与え、その敵を中心として物理ダメージフィールドを展開し、自分の物理攻撃力を特大アップさせ、さらに物理/魔法吸収バリアを展開する。=Gây sát thương vật lý khổng lồ cho kẻ địch ngay phía trước và tạo ra một vùng cháy xung quanh chúng, gây sát thương vật lý mỗi giây cho mọi kẻ địch trong phạm vi. Tăng sát thương vật lý của bản thân rất lớn và tạo một khiên xung quanh bản thân, hấp thụ sát thương vật lý và ma thuật.
+###OLD r:"^敵単体に(\d+)の物理ダメージ毎秒(\d+)の物理ダメージを与えるフィールドを展開する自分の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai vùng phạm vi 400 gây $2 sát thương vật lý/giây trong 15.5 giây.\n►Tăng P.ATK của bản thân lên $3 trong 12 giây.\n►Triển khai Khiên trên bản thân, hấp thụ $4 sát thương vật lý/ma thuật trong 18 giây.
+
+サレン（同名キャラを除く）が味方にいる場合、前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせる。そうでない場合、目の前の敵１キャラに物理特大ダメージを与える。さらに、前から２番目の敵１キャラを中心として物理ダメージフィールドを展開し、自分の物理攻撃力を特大アップ、ＨＰを小回復し、物理/魔法吸収バリアを展開する。=Nếu có Saren (ngoại trừ các phiên bản khác của cùng nhân vật) trong đội hình, gây sát thương vật lý lớn cho tất cả kẻ địch trong phạm vi phía trước và giảm nhẹ phòng thủ vật lý của chúng. Nếu không, gây sát thương vật lý cực đại cho một kẻ địch trước mặt. Thêm vào đó, triển khai một trường gây sát thương vật lý lấy kẻ địch thứ hai từ phía trước làm trung tâm, đồng thời tăng cực đại tấn công vật lý, hồi phục một lượng nhỏ HP cho bản thân và triển khai rào chắn hấp thụ sát thương vật lý/ma thuật.
+
+r:"^サレンがいない場合、敵単体に(\d+)の物理ダメージサレンがいる場合、範囲内の敵に(\d+)の物理ダメージサレンがいる場合、範囲内の敵の物理防御力を(\d+)ダウン毎秒(\d+)の物理ダメージを与えるフィールドを展開する自分の物理攻撃力を(\d+)アップ自分のＨＰを(\d+)回復(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Nếu không có [Saren]:\n►Gây $1 sát thương vật lý cho một kẻ địch đơn lẻ.\n\nNếu có [Saren]:\n►Gây $2 sát thương vật lý cho kẻ địch trong phạm vi 600.\n►Giảm $3 phòng thủ vật lý của kẻ địch trong phạm vi trong 18 giây.\n\n►Triển khai trường phạm vi 400 tại kẻ địch thứ 2 gần nhất, gây $4 sát thương vật lý mỗi giây trong 15.5 giây.\n►Tăng $5 tấn công vật lý cho bản thân trong 18 giây.\n►Hồi phục $6 HP cho bản thân.\n►Triển khai rào chắn hấp thụ $7 sát thương vật lý và ma thuật trong 18 giây.
+
+
+##S1+## 
+プラウドスラッシュ+=Chém Kiêu Ngạo+
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップさせ挑発する。笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Gây sát thương vật lý trung bình cho kẻ địch ngay phía trước. Tăng sát thương vật lý và TP Boost của bản thân một chút. Khiêu khích kẻ địch. Nếu bị tấn công khi đang cười, phản công vào kẻ địch trong phạm vi.
+
+【挑発】目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップさせ挑発する。笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Khiêu khích】 Gây sát thương vật lý vừa cho một kẻ địch trước mặt, đồng thời tăng vừa tấn công vật lý, tăng nhẹ mức hồi TP cho bản thân và khiêu khích kẻ địch. Nếu bị tấn công trong lúc đang cười, sẽ phản công lại toàn bộ kẻ địch trong phạm vi phía trước.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 1.3575s.\n►Khiêu khích tất cả kẻ địch trong 5 giây.\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên tất cả kẻ địch trong phạm vi 320 khi phản công trong 2 giây tiếp theo.\n►Tăng P.ATK của bản thân lên $3 trong 12 giây.\n►Tăng TP Boost của bản thân lên $4 trong 12 giây.
+
+
+##S1++## 
+プラウドスラッシュ++=Chém Kiêu Ngạo++
+【挑発】自分の物理・魔法防御力を大アップ、物理攻撃力を大アップ、ＴＰ上昇を小アップさせ、物理ダメージカット効果と魔法ダメージカット効果を付与する。さらに、前方範囲内の敵すべてに物理大ダメージを与え、敵全体を挑発する。笑っている間に攻撃されると、前方範囲内の敵すべてに物理大ダメージで反撃し、自分のＴＰを大回復する。=【Khiêu khích】 Tăng lớn phòng thủ vật lý và ma thuật, tăng lớn tấn công vật lý, tăng nhẹ mức hồi TP cho bản thân, đồng thời ban hiệu ứng giảm sát thương vật lý và ma thuật. Thêm vào đó, gây sát thương vật lý lớn cho tất cả kẻ địch trong phạm vi phía trước và khiêu khích toàn bộ kẻ địch. Nếu bị tấn công trong lúc đang cười, sẽ phản công tất cả kẻ địch trong phạm vi phía trước bằng sát thương vật lý lớn và hồi phục lớn TP cho bản thân.
+r:"^自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分のＴＰ上昇を15アップ自分が受ける物理ダメージを15％カット自分が受ける魔法ダメージを15％カット範囲内の敵に(\d+)の物理ダメージ敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ自分のＴＰを500回復$"=Thời gian thi triển: 1.3575 giây.\n►Tăng $1 phòng thủ vật lý cho bản thân.\n►Tăng $2 phòng thủ ma thuật cho bản thân.\n►Tăng 15 mức hồi TP cho bản thân.\n►Giảm 15％ sát thương vật lý nhận vào.\n►Giảm 15％ sát thương ma thuật nhận vào.\n►Gây $3 sát thương vật lý cho kẻ địch trong phạm vi.\n►Khiêu khích toàn bộ kẻ địch.\n►Gây $4 sát thương vật lý cho kẻ địch trong phạm vi (phản công).\n►Hồi phục 500 TP cho bản thân.
+
+##UE##
+紅輝石ウィスタリア=Rực Rỡ Hoa Tử Đằng

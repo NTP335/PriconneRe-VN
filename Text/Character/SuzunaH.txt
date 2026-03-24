@@ -1,0 +1,31 @@
+##Profile##
+【物理】後衛でアタッカーを狙う小悪魔カリスマモデル。誘惑状態だと威力アップの攻撃スキルや、ＴＰを奪い取る妨害スキルを放ち、物理攻撃力が最も高い敵を狙い撃つ。=[Vật Lý] Một người mẫu quyến rũ như tiểu quỷ, nhắm vào kẻ tấn công từ hàng sau. Khi ở trạng thái "cám dỗ", các kỹ năng tấn công mạnh lên và kỹ năng cản trở đánh cắp TP sẽ được phóng ra, nhắm vào kẻ địch có sát thương vật lý (P.ATK) cao nhất.
+
+##UB##
+ハロウィンチャームバレット=Hầu Gái Dịu Dàng Halloween
+前方の敵の中で最も物理攻撃力が高い敵１キャラに物理大ダメージを与え、さらに誘惑状態にする。対象が誘惑状態の場合、与えるダメージがアップする。=Gây sát thương vật lý lớn lên kẻ địch đứng trước mặt có sát thương vật lý (P.ATK) cao nhất, và khiến chúng bị ảnh hưởng bởi hiệu ứng "Quyến Rũ" (Charm). Nếu kẻ địch đã bị quyến rũ, sẽ tăng sát thương vật lý gây ra.
+r:"^敵が誘惑状態の時、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体を誘惑する$"=Nếu kẻ địch bị Quyến Rũ/Bối Rối:\n►Gây $1 sát thương vật lý lên kẻ địch.\n\nNếu kẻ địch không bị Quyến Rũ/Bối Rối:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây hiệu ứng Quyến Rũ lên kẻ địch trong 5s.
+
+##S1##
+ラブリートリック=Mẹo Dễ Thương
+自分の物理攻撃力を中アップさせ、さらに前方の敵の中で最も物理攻撃力が高い敵１キャラに物理中ダメージを与える。対象が誘惑状態の場合、このスキルは必ずクリティカルする。=Tăng sát thương vật lý (P.ATK) của bản thân một chút, và gây sát thương vật lý vừa lên kẻ địch có sát thương vật lý (P.ATK) cao nhất. Nếu kẻ địch bị Quyến Rũ/Bối Rối, kỹ năng này luôn chí mạng.
+
+##S2##
+ナイトメアルージュ=Đêm Tử Trần Rouge
+前方の敵の中で最も物理攻撃力が高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。対象が誘惑状態の場合、ＴＰ上昇を中ダウンさせ、誘惑状態でない場合、束縛する。=Giảm một chút TP của kẻ địch có sát thương vật lý (P.ATK) cao nhất, và cũng hồi một chút TP cho bản thân. Nếu kẻ địch bị Quyến Rũ/Bối Rối, sẽ giảm mạnh Tăng TP của chúng; nếu không, sẽ gây hiệu ứng Trói (Bind).
+r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復敵が誘惑状態の時、敵単体のＴＰ上昇を30ダウン敵が誘惑状態でない時、敵単体を一定時間行動不能にする$"=Thời gian niệm: 0.97s\n►Giảm TP của kẻ địch đi $1.\n►Hồi TP của bản thân lên $2.\n►Nếu kẻ địch bị Quyến Rũ/Bối Rối, giảm Tăng TP của kẻ địch đi 30 trong 24s.\n►Nếu kẻ địch không bị Quyến Rũ/Bối Rối, gây hiệu ứng Trói lên kẻ địch trong 2.5s.
+## 260lvl
+前方の敵の中で最も物理攻撃力が高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復し、物理攻撃力を小アップさせる。対象が誘惑状態の場合、ＴＰ上昇を中ダウンさせ、誘惑状態でない場合、束縛する。=Giảm một chút TP của kẻ địch có sát thương vật lý (P.ATK) cao nhất, hồi một chút TP cho bản thân và tăng sát thương vật lý (P.ATK) của bản thân. Nếu kẻ địch bị Quyến Rũ/Bối Rối, sẽ giảm mạnh Tăng TP của chúng; nếu không, sẽ gây hiệu ứng Trói (Bind).
+r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ敵が誘惑状態の時、敵単体のＴＰ上昇を30ダウン敵が誘惑状態でない時、敵単体を一定時間行動不能にする$"=Thời gian niệm: 0.97s\n►Giảm TP của kẻ địch đi $1.\n►Hồi TP của bản thân lên $2.\n►Tăng sát thương vật lý (P.ATK) của bản thân lên $3 trong 12s.\n►Nếu kẻ địch bị Quyến Rũ/Bối Rối, giảm Tăng TP của kẻ địch đi 30 trong 24s.\n►Nếu kẻ địch không bị Quyến Rũ/Bối Rối, gây hiệu ứng Trói lên kẻ địch trong 2.5s.
+
+##EX##
+ハロウィンセレクトコーデ=Mã Lựa Chọn Halloween
+ハロウィンセレクトコーデ+=Mã Lựa Chọn Halloween+
+
+##S1+##
+ラブリートリック+=Mẹo Dễ Thương+
+自分の物理攻撃力を大アップさせ、さらに前方の敵の中で最も物理攻撃力が高い敵１キャラに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは２倍ではなく３倍になる。対象が誘惑状態の場合、このスキルは必ずクリティカルし、与えるダメージがアップする。対象が誘惑状態でない場合、誘惑状態にし、物理防御力を中ダウンさせる。=Tăng mạnh sát thương vật lý (P.ATK) của bản thân và gây sát thương vật lý cực lớn lên kẻ địch đứng trước mặt có sát thương vật lý (P.ATK) cao nhất. Sát thương chí mạng vật lý (P.CRIT DMG) được nhân lên 3 lần. Nếu kẻ địch đang ở trạng thái Quyến Rũ/Bối Rối, kỹ năng này luôn chí mạng và sát thương gây ra tăng lên. Nếu không, sẽ gây hiệu ứng Quyến Rũ lên kẻ địch và giảm sát thương vật lý (P.DEF) của chúng một chút.
+r:"^自分の物理攻撃力を(\d+)アップ敵が誘惑状態の時、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体を誘惑する敵単体の物理防御力を(\d+)ダウン$"=►Tăng sát thương vật lý (P.ATK) của bản thân lên $1 trong 12s.\nNếu kẻ địch bị Quyến Rũ/Bối Rối:\n►Gây $2 sát thương vật lý lên kẻ địch.\nNếu kẻ địch không bị Quyến Rũ/Bối Rối:\n►Gây $3 sát thương vật lý lên kẻ địch.\n►Gây hiệu ứng Quyến Rũ lên kẻ địch trong 4s.\n►Giảm sát thương vật lý (P.DEF) của kẻ địch đi $4 trong 12s.
+
+##UE##
+霊弓トリックオアキス=Tính Khiêu Khích Cung Thần

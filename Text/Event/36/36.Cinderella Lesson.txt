@@ -1,0 +1,15 @@
+r:"^辺境の地([0-9\-\(\)\w （）]*)$"=Vùng biên giới $1
+魔物の姫=Công chúa quỷ
+
+学びの楽しさ=Niềm vui học hỏi
+勝利はみんなの手で=Chiến thắng thuộc về tất cả mọi người
+孤独を埋めるもの=Những thứ lấp đầy sự cô đơn
+ハッピーエンドをあなたに=Một kết thúc hạnh phúc dành cho bạn
+舞台裏の真実=Sự thật phía sau hậu trường
+愛はいつもそこにある=Tình yêu luôn ở đó
+魔物の姫=Công chúa quỷ
+バトルは淑女のたしなみ=Trận chiến là một quý cô
+淑女への道は足下から=Con đường trở thành quý cô bắt đầu từ đôi chân
+夢の扉は突然開く=Cánh cửa giấc mơ bỗng mở ra
+靴とドレスと魔法使い=Giày, váy và pháp sư
+バトルは淑女のたしなみ=Trận chiến là một quý cô

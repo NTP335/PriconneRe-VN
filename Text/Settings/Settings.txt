@@ -1,0 +1,36 @@
+アイテム=Vật phẩm
+設定=Cài đặt
+タイトルへ戻る=Quay về Màn hình chính
+SDカード保存設定=Chuyển dữ liệu sang SD
+称号=Tiêu đề
+実績=Hiệu năng
+コード入力=Nhập mã
+アカウント連携=Liên kết mạng xã hội
+サポート=Hỗ trợ
+フレンド=Bạn bè
+アルバム=Album
+ジュエル\nショップ=Cửa hàng Ngọc
+プロフィール=Hồ sơ
+思い出\nアルバム=Kỷ niệm\nAlbum
+絆の記憶=Kỷ niệm liên kết
+
+
+---code input---
+一定期間内に無効なシリアルコードを3回連続で\n入力すると1時間入力できなくなります。=Nếu bạn nhập mã serial không hợp lệ 3 lần liên tiếp trong một khoảng thời gian nhất định,\nbạn sẽ không thể nhập trong 1 giờ.
+半角英数字のみ入力できます。=Chỉ có thể nhập chữ cái và số.
+
+シリアルコードを入力してください。=Vui lòng nhập mã serial.
+データ=Dữ liệu
+サポート、フレンド=Hỗ trợ, bạn bè
+絆ランク演出=Sản xuất hạng liên kết
+バースデーストーリーの通知=Thông báo câu chuyện sinh nhật
+バースデーストーリーが追加された際、通知を表示するか設定します。=Khi câu chuyện sinh nhật được thêm vào, hiển thị thông báo.
+
+選択肢の自動選択設定=Tự động chọn tùy chọn
+オート再生中または早送り再生中に複数の選択肢が表示された際、選択肢を自動で選ぶか設定します。\n「自動選択する」は一番上の選択肢が自動で選ばれます。\n「自動選択しない」は複数の選択肢が表示された際、ストーリー再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Khi nhiều tùy chọn được hiển thị trong khi phát tự động hoặc phát nhanh,\nthiết lập có tự động chọn tùy chọn hay không.\n"Tự động chọn" sẽ tự động chọn tùy chọn đầu tiên.\n"Không tự động chọn" sẽ tạm dừng phát câu chuyện khi nhiều tùy chọn được hiển thị.\n※Nếu chỉ có một tùy chọn được hiển thị, nó sẽ được tự động chọn bất kể thiết lập.
+
+テキスト表示速度設定=Thiết lập tốc độ hiển thị văn bản
+
+無効なシリアルコードです。\n再度入力してください。=Mã serial không hợp lệ.\nVui lòng thử lại.
+[3C404E]無効なシリアルコードです。\n連続で無効なシリアルコードが入力されたため一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しました。[-]=[3C404E] Mã serial không hợp lệ.\nTạm thời [FF7C4E,D62146]chức năng bị hạn chế[-] do nhập mã serial không hợp lệ liên tiếp[-]
+[3C404E]連続で無効なシリアルコードが入力されたため\n一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しています。\n制限が解除されるまでしばらくお待ちください。[-]=[3c404e] Chức năng tạm thời [FF7C4E,D62146]bị hạn chế[-] vì đã nhập mã serial không hợp lệ liên tiếp.\nVui lòng chờ một chút cho đến khi hạn chế được gỡ bỏ.

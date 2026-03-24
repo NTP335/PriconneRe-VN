@@ -1,0 +1,42 @@
+##Profile##
+【物理】前衛で、光を操り味方を守る聖夜のサレンママ。敵の攻撃を防ぎ、ダメージを与えるユニオンバーストや、ダメージを与えつつ回復するスキルで、攻守双方を担う。=[Vật Lý] Một đấu sĩ tiền tuyến sử dụng quyền năng ánh sáng và bảo vệ đồng minh, Mẹ Saren là thánh nữ của đêm. Với UB vừa phòng thủ tấn công kẻ địch vừa gây sát thương, cùng kỹ năng gây sát thương đồng thời hồi máu, cô là một đấu sĩ linh hoạt vừa tấn công vừa phòng thủ.
+
+絆色のケーキ=Bánh Kết Nối
+白く美しい親愛=Tình Cảm Trắng Tinh Khôi
+二人のサンタクロース=Hai Ông già Noel
+親愛なるクリスマス大作戦=Chiến Dịch Giáng Sinh Yêu Thương
+
+##UB##
+シールドオブガーデン=Lá Chắn Khu Vườn
+前方のランダムな敵キャラに単体物理大ダメージを計３回与え、味方全体の物理・魔法攻撃力を中アップさせ、自分に光の盾を３つ付与する。光の盾は１回ダメージを受ける毎に代わりに１つ破壊され、同時に敵にダメージを与える。=Gây 3 lần sát thương vật lý lớn cho kẻ địch phía trước ngẫu nhiên, tăng vừa phải Tấn Công Vật Lý và Ma Thuật cho đồng minh, và tạo 3 khiên ánh sáng lên bản thân. Mỗi khiên bị phá hủy sẽ gây sát thương vật lý cho kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ攻撃してきた敵に(\d+)ダメージを与えて消失する光の盾を最大5つまで付与する$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Gây $2 sát thương vật lý cho kẻ địch.\n►Gây $3 sát thương vật lý cho kẻ địch.\n►Tăng Tấn Công Vật Lý cho đồng minh lên $4 trong 18s.\n►Tăng Ma Thuật cho đồng minh lên $5 trong 18s.\n►Tạo 3 khiên lên bản thân, phản lại $6 sát thương vật lý khi bị tấn công.
+
+##S1##
+アメイジングギフト=Món Quà Tuyệt Vời
+自分を中心とした範囲内の味方すべての物理攻撃力と魔法攻撃力を大アップさせ、さらに物理防御力と魔法防御力を中アップさせる。=Tăng lớn P.ATK và M.ATK cho đồng minh trong phạm vi, tăng vừa phải P.DEF và M.DEF cho đồng minh trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=Thời gian niệm: 0.8s\n►Tăng $1 P.ATK và M.ATK cho đồng minh trong phạm vi 300 trong 12s.\n►Tăng $3 P.DEF và M.DEF cho đồng minh trong phạm vi 300 trong 12s.
+
+##S2##
+ルミナスバレット=Đạn Phát Quang
+前方のランダムな敵キャラに、単体物理小ダメージを計３回与える。さらに、最もＨＰが低い味方１キャラのＨＰを中回復させる。=Gây 3 lần sát thương vật lý nhỏ liên tiếp lên một kẻ địch ngẫu nhiên phía trước, và hồi một lượng HP vừa phải cho đồng minh có HP thấp nhất.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ味方単体のＨＰを(\d+)回復$"=Thời gian niệm: 0.8s\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Hồi $1 HP cho một đồng minh.
+
+##EX##
+サイレントブレイズ=Ngọn Lửa Thầm Lặng
+サイレントブレイズ+=Ngọn Lửa Thầm Lặng+
+
+##S1+##
+アメイジングギフト+=Món Quà Tuyệt Vời+
+自分を中心とした範囲内の味方すべての物理攻撃力と魔法攻撃力を特大アップ、物理防御力と魔法防御力を中アップさせ、さらに物理クリティカルと魔法クリティカルを大アップさせる。=Tăng cực lớn P.ATK và M.ATK cho đồng minh trong phạm vi, tăng vừa phải P.DEF và M.DEF cho đồng minh trong phạm vi. Đồng thời, tăng rất lớn Tỷ Lệ Chí Mạng Vật Lý và Ma Thuật cho đồng minh trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の物理クリティカルを100アップ範囲内の味方の魔法クリティカルを100アップ$"=Thời gian niệm: 0.8s\n►Tăng $1 P.ATK và M.ATK cho đồng minh trong phạm vi 350 trong 12s.\n►Tăng $3 P.DEF và M.DEF cho đồng minh trong phạm vi 350 trong 12s.\n►Tăng 100 Tỷ Lệ Chí Mạng Vật Lý và Ma Thuật cho đồng minh trong phạm vi 350 trong 12s.
+
+##UE##
+サレンディアノエルドレス=Váy Giáng Sinh Sarendia
+
+##Saren Xmas##
+サレンディアノエルケーキ=Bánh Giáng Sinh Sarendia
+ルミナスバレット+=Đạn Phát Quang+
+目の前の最大３キャラまでの敵に物理中ダメージを与え、物理防御力を小ダウンさせる。さらに、最もＨＰが低い味方１キャラのＨＰを中回復させ、味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップさせる。=Gây sát thương vật lý vừa phải lên tối đa 3 kẻ địch phía trước và giảm nhẹ P.DEF của chúng. Ngoài ra, hồi HP vừa phải cho đồng minh có HP thấp nhất, tăng cực lớn P.ATK cho tất cả đồng minh, tăng rất lớn TỶ LỆ CHÍ MẠNG VẬT LÝ, và tăng nhẹ SÁT THƯƠNG CHÍ MẠNG VẬT LÝ.
+r:"^１番目に近い敵単体に(\d+)の物理ダメージ１番目に近い敵単体の物理防御力を(\d+)ダウン２番目に近い敵単体に(\d+)の物理ダメージ２番目に近い敵単体の物理防御力を(\d+)ダウン３番目に近い敵単体に(\d+)の物理ダメージ３番目に近い敵単体の物理防御力を(\d+)ダウン味方単体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の物理クリダメを3％アップ$"=►Gây $1 sát thương vật lý lên kẻ địch gần nhất.\n►Giảm $2 P.DEF của kẻ địch gần nhất.\n►Gây $3 sát thương vật lý lên kẻ địch thứ hai gần nhất.\n►Giảm $4 P.DEF của kẻ địch thứ hai gần nhất.\n►Gây $5 sát thương vật lý lên kẻ địch thứ ba gần nhất.\n►Giảm $6 P.DEF của kẻ địch thứ ba gần nhất.\n►Hồi HP cho một đồng minh $7.\n►Tăng $8 P.ATK cho tất cả đồng minh.\n►Tăng 100 Tỷ Lệ Chí Mạng Vật Lý cho tất cả đồng minh.\n►Tăng 3% Sát thương Chí Mạng Vật Lý cho tất cả đồng minh.
+
+

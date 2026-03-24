@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で、空飛ぶ絨毯で巡り回るオアシスの姉御。自分の物防を大幅に高めて敵を挑発するスキルと敵のＴＰとＴＰ上昇をダウンさせるＵＢで、爽やかに勝利を掴む。=[Vật Lý] Người bảo vệ tiền tuyến, Anego, một thần tượng xác sống bay trên chiếc thảm bay. Với kỹ năng gây sát thương vật lý lớn lên kẻ địch phía trước, giảm TP Boost và lượng TP của chúng, cô thanh thoát giành chiến thắng.
+
+##UB##
+急の太刀・流れ八艘=Lưỡi Kiếm Nhanh: Dòng Chảy Tám Thuyền
+目の前の敵１キャラに物理大ダメージを与え、ＴＰ上昇を小ダウンさせ、ＴＰを中ダウンさせる。さらに、自分のＨＰを中回復する。=Gây Sát Thương Vật Lý lớn lên kẻ địch phía trước, giảm nhẹ TP Boost của chúng và giảm trung bình lượng TP của chúng. Ngoài ra, hồi phục nhẹ HP bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体のＴＰ上昇を20ダウン敵単体のＴＰを250失わせる自分のＨＰを(\d+)回復$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch.\n►Giảm TP Boost của kẻ địch lên 20 trong 18s.\n►Giảm lượng TP của kẻ địch lên 250.\n►Hồi phục HP bản thân lên $2.
+
+##S1##
+序の太刀・流水刃=Lưỡi Kiếm Đầu Tiên: Lưỡi Kiếm Nước Chảy
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を中ダウンさせる。=Gây Sát Thương Vật Lý trung bình lên kẻ địch phía trước và giảm trung bình Phòng Thủ Vật Lý của chúng.
+
+##S2##
+破の太刀・巴円舞=Lưỡi Kiếm Phá Hoại: Vũ Điều Hóa Thân Tomoe
+【挑発】自分の物理防御力を特大アップし、物理吸収バリアを展開する。さらに、敵全体を挑発して自分のＴＰを中回復する。=[Khiêu Khích] Tăng mạnh Phòng Thủ Vật Lý bản thân và tạo lá chắn hấp thụ Sát Thương Vật Lý. Khiêu khích toàn bộ kẻ địch và hồi phục trung bình lượng TP bản thân.
+r:"^自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理吸収バリアを展開する敵全体を挑発する自分のＴＰを200回復$"=►Tăng Phòng Thủ Vật Lý bản thân lên $1 trong 12s.\n►Tạo lá chắn hấp thụ $2 Sát Thương Vật Lý trong 12s.\n►Khiêu khích toàn bộ kẻ địch trong 12s.\n►Hồi phục lượng TP bản thân lên 200.
+
+##EX##
+水郷の契=Lời Hứa Ven Nước
+水郷の契+=Lời Hứa Ven Nước+
+
+##S1+##
+序の太刀・流水刃+=Lưỡi Kiếm Đầu Tiên: Lưỡi Kiếm Nước Chảy+
+目の前の敵１キャラに物理大ダメージを与え、物理攻撃力を特大ダウン、物理防御力を大ダウンさせる。さらに、自分のＨＰを中回復する。=Gây Sát Thương Vật Lý lớn lên kẻ địch phía trước, giảm mạnh Phòng Thủ Vật Lý của chúng và giảm cực mạnh Tấn Công Vật Lý của chúng. Đồng thời hồi phục trung bình HP bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復敵単体の物理攻撃力を(\d+)ダウン$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch.\n►Giảm Phòng Thủ Vật Lý của kẻ địch lên $2 trong 12s.\n►Giảm Tấn Công Vật Lý của kẻ địch lên $4 trong 12s.\n►Hồi phục HP bản thân lên $3.
+
+##UE##
+涼しき水辺のサラサリアン=Salasaria Nước Mát

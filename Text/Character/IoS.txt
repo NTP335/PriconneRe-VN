@@ -1,0 +1,34 @@
+##Profile##
+【魔法】後衛で、敵の体力を奪い取る、夏の夜の先生。ダメージを与えつつ味方を回復するスキルを複数持ち、攻守どちらの側でも高い能力を発揮する。=[Phép] Một giáo viên mùa hè vui vẻ đánh cắp máu của quân địch ở hậu phương. Việc sở hữu nhiều kỹ năng vừa gây sát thương vừa hồi máu cho đồng minh khiến cô tỏa sáng ở cả mặt trận tấn công lẫn phòng thủ.
+
+##UB##
+タイフーン・ラブドリーム=Cơn Bão Mơ Yêu
+敵全体に魔法中ダメージを与え、さらに味方全体のＨＰを中回復させる。=Gây sát thương phép trung bình cho toàn bộ kẻ địch và hồi một lượng máu trung bình cho toàn bộ đồng minh.
+r:"^敵全体に(\d+)の魔法ダメージ味方全体のＨＰを(\d+)回復$"=►Gây $1 sát thương phép cho toàn bộ kẻ địch.\n►Hồi máu cho đồng minh $2.
+
+##S1##
+ラブスティール=Kẻ Cướp Tình Yêu
+前方範囲内の敵すべてに魔法小ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復する。範囲内の敵の数に応じて回復量が増加する。=Gây sát thương phép nhỏ cho kẻ địch trong phạm vi và hồi một chút máu cho đồng minh có máu thấp nhất. Lượng máu hồi tăng theo số kẻ địch trong phạm vi.
+r:"^範囲内の敵すべてに(\d+)の魔法ダメージ味方単体のＨＰを(\d+)回復$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n►Hồi máu cho một đồng minh $2.
+
+##S2##
+ラブスプラッシュ=Vũ điệu Yêu thương
+前方範囲内の敵すべてに魔法小ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương phép nhỏ cho kẻ địch trong phạm vi và giảm nhẹ Phòng thủ Phép của chúng.
+r:"^範囲内の敵すべてに(\d+)の魔法ダメージ範囲内の敵すべての魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n►Giảm Phòng thủ Phép của kẻ địch trong phạm vi $2.
+
+##EX##
+ラブサマーティーチング=Bài Học Mùa Hè Dịu Dàng
+ラブサマーティーチング+=Bài Học Mùa Hè Dịu Dàng+
+
+##S1+##
+ラブスティール+=Kẻ Cướp Tình Yêu+
+前方範囲内の敵すべてに魔法中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復する。範囲内の敵の数に応じて回復量が増加する。=Gây sát thương phép trung bình cho kẻ địch trong phạm vi và hồi một chút máu cho đồng minh có máu thấp nhất. Lượng máu hồi tăng theo số kẻ địch trong phạm vi.
+
+##S2+##
+ラブスプラッシュ+=Vũ điệu Yêu thương+
+自分の魔法攻撃力を大アップ、魔法クリティカルを大アップする。さらに前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。範囲内の敵の数に応じてダメージと魔法防御力のダウン量がアップする。=Gây sát thương phép trung bình cho kẻ địch trong phạm vi và giảm nhẹ Phòng thủ Phép của chúng. Đồng thời, tăng mạnh Tấn công Phép và Tỷ lệ Chí mạng Phép của bản thân. Sát thương phép gây ra và Phòng thủ Phép bị giảm tăng theo số kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを150アップ$"=►Gây $1 (+0.18×$1×Số kẻ địch) sát thương phép cho kẻ địch trong phạm vi 1100.\n►Giảm Phòng thủ Phép của kẻ địch trong phạm vi 1100 $2 (+0.1×$2×Số kẻ địch) trong 18s.\n►Tăng Tấn công Phép của bản thân $3 trong 180s.\n►Tăng Tỷ lệ Chí mạng Phép của bản thân 150 trong 180s.
+
+##UE##
+恵愛剣サマーラブファミリア=Kiếm Gia Đình Mùa Hè Dịu Dàng
+サマーオブラブ=Mùa Hè Của Tình Yêu

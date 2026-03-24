@@ -1,0 +1,35 @@
+##Profile##
+絵本作り=Làm sách tranh
+母性溢れる優しいみんなの「ミサト先生」=Một người mẹ thân thiện, được mọi người gọi là Cô Misato
+【魔法】後衛で魔法キャラを支援する、みんなの先生。ユニオンバーストのＨＰ回復＆魔防アップ、先頭キャラの継続ＨＰ回復スキルは、味方の耐久力を大幅に高める。=[Ma thuật] Một giáo viên được yêu mến, hỗ trợ nhân vật phép thuật từ hậu phương. Với Union Burst hồi HP và tăng phòng thủ ma thuật, cùng kỹ năng HP Regen cho đồng minh tiền phương, cô gia tăng đáng kể khả năng chịu đựng của đội.
+
+##UB##
+シスターフェイバー=Sister's Blessing
+味方全体のＨＰを中回復し、さらに魔法防御力を小アップさせる。=Hồi một lượng HP vừa phải cho đồng minh. Tăng nhỏ M.DEF của họ.
+r:"^味方全体のＨＰを(\d+)回復味方全体の魔法防御力を(\d+)アップ$"=►Hồi $1 HP cho đồng minh. ►Tăng $2 M.DEF cho đồng minh trong 18s.
+
+##S1##
+ディバインフォース=Divine Force
+自分の周囲の味方すべての魔法攻撃力を小アップさせる。=Tăng vừa phải M.ATK cho tất cả đồng minh gần đó.
+
+##S2##
+アフェクションキュア=Caring Cure
+一番前の味方１キャラに継続ＨＰ回復状態を付与する。=Cấp HP Regen cho đồng minh tiền phương.
+r:"^毎秒ＨＰを(\d+)回復する$"=Thời gian thi triển: 1.6s ►Hồi $1 HP/giây.
+
+##EX##
+天女の威光=Angelic Majesty
+天女の威光+=Angelic Majesty+
+
+##UB+##
+ホーリーエンブレイス=Holy Embrace
+味方全体のＨＰを中回復し、魔法防御力を小アップ、魔法攻撃力を特大アップ、魔法クリティカルと魔法攻撃クリティカル時のダメージを中アップさせ、さらに継続ＨＰ回復状態を付与する。=Hồi một lượng HP trung bình cho tất cả đồng minh, và tăng nhỏ M.DEF, tăng lớn M.ATK, tăng trung bình M.CRIT Rate và M.CRIT damage. Đồng thời cấp trạng thái HP Regen cho đồng minh.
+r:"^味方全体のＨＰを(\d+)回復味方全体の魔法防御力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の魔法攻撃クリティカル時のダメージを25％アップ毎秒ＨＰを(\d+)回復する$"=►Hồi $1 HP cho đồng minh. ►Tăng $2 M.DEF cho đồng minh trong 18s. ►Tăng $3 M.ATK cho đồng minh trong 18s. ►Tăng $4 M.CRIT Rate cho đồng minh trong 18s. ►Tăng 25% M.CRIT DMG cho đồng minh trong 18s. ►Hồi $5 HP/giây cho đồng minh trong 18s.
+
+##S1+##
+ディバインフォース+=Divine Force+
+自分の周囲の味方すべての魔法攻撃力を大アップさせ、さらに魔法クリティカルを中アップさせる。=Tăng lớn M.ATK và tăng trung bình tỷ lệ chí mạng ma thuật cho tất cả đồng minh gần đó.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを40アップ$"=Thời gian thi triển: 1.17s ►Tăng $1 M.ATK cho đồng minh trong phạm vi 300 trong 12s. ►Tăng 40 M.CRIT Rate cho đồng minh trong phạm vi 300 trong 12s.
+
+##UE##
+アガペーヴェール=Agape Veil

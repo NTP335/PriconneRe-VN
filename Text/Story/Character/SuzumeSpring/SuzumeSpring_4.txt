@@ -1,0 +1,125 @@
+夢の中ですずめは、庭の手入れで汚してしまった服の代わりに、以前にも\nらった咲恋のお古を身につける。今まで着たこともなかった宝物が特別な\n日の思い出となっていくことに、すずめは喜びを覚えるのだった。=Trong giấc mơ, để thay thế bộ đồng phục hầu gái bị bẩn khi chăm sóc vườn, Suzume mặc một bộ trang phục cũ được truyền lại từ Saren từ lâu trước. Suzume vui sướng khi bộ trang phục quý giá mà cô chưa từng mặc, giờ trở thành một kỷ niệm đáng trân trọng của một ngày đặc biệt.
+
+{playername}とスズメの手伝いもあり\n無事にコンテストは当初に予定していた会場で開催される運びとなった。\nその当日……=Với sự giúp đỡ của {playername} và Suzume, cuộc thi được tổ chức tại địa điểm như kế hoạch ban đầu. Vào ngày đó...
+わああ……\n盛況ですねえ！=Ồ... Thật là một thành công vang dội!
+広大なダンスホールに、ランドソル中から集まったかのような量の\n様々なポートレートが飾られている。=Phòng khiêu vũ khổng lồ được trang trí với rất nhiều bức chân dung đa dạng, như thể được thu thập từ khắp Landosol.
+コンテストの出展者さんも、見に来た人たちも\nみんな楽しそうです。\nがんばった甲斐がありました♪=Ngay cả những người trưng bày và khách đến cũng trông có vẻ vui vẻ. Tất cả đều xứng đáng với công sức bỏ ra♪
+ふぁあ……あ、すみません……\n無事開催できて、気が緩んじゃったみたいで……\n閉会式までが、コンテストなのに……=*Ngáp*... À, xin lỗi... Thấy cuộc thi diễn ra suôn sẻ, khiến mình thư giãn... Mặc dù cuộc thi cần kéo dài đến lễ bế mạc...
+
+choice2
+少し休んだら？=Sao cậu không nghỉ ngơi một chút?
+いいんでしょうか？\nでも……ふぁあ……\nうう、すみません……=Được không? Nhưng... *Ngáp*... Ugh, xin lỗi...
+そうですよね……\nふぁあ……だったら、少しだけ……=Tôi hiểu mà... *Ngáp*... Vậy thì, chỉ một chút thôi...
+んっ……なんだか眩し……\nうう、急にすごい眠気が……=Ừm... Có vẻ hơi sáng... Ugh, đột nhiên thấy buồn ngủ quá...
+
+所用で咲恋の邸宅を訪れたものの、不在で引き返す\n{playername}は、庭で土いじりをする見知った顔を見つける。={playername} đang thăm viếng biệt thự của Saren vì công việc và khi sắp phải về vì Saren vắng mặt, {playername} nhìn thấy một khuôn mặt quen thuộc trong vườn.
+すずめちゃん？=Suzume?
+ひゃ、ひゃわああああ！？=H-Hyaaaaah?!
+あ……{playername}さんでしたか。\nびっくりしましたぁ……\nどうしてこちらに？=Ồ... Là cậu, {playername}. Cậu làm mình giật mình... Sao cậu lại ở đây?
+なるほど、お嬢さまにご用事だったのですか……\nでも今日はお出かけになっておられますので、\nぜひ、またの機会にお越しください。=À, cậu có việc với tiểu thư... Nhưng hôm nay cô ấy vắng, nên hãy quay lại vào lúc khác.
+私ですか？　はい、今日は天気がいいので\n庭のお手入れをしていました。=Còn tôi thì sao? À, hôm nay thời tiết đẹp nên tôi chỉ đang chăm sóc vườn thôi.
+ええ？　け、見学ですか？\n私は構いませんが……見ていて楽しいのでしょうか？=Hả? Cậu muốn xem tôi? Tôi không phiền đâu, nhưng... cậu thực sự chỉ muốn xem thôi sao?
+なるほど、ガーデニングにご興味が……\nそういうことでしたら、ご参考になるか分かりませんが\n納得するまで見ていってください。=À, cậu quan tâm đến làm vườn... Tôi không chắc mình có hữu ích không nhưng cứ xem thoải mái cho đến khi hài lòng.
+今は、ちょうどこちらの花壇に苗を植えていたところです。\nこのお花、なんだか分かりますか？=Bây giờ, tôi chỉ đang gieo hạt trong luống hoa.\nCậu biết đó là loại hoa gì không?
+実は、お嬢さまの誕生花なんです。\nお嬢さまのお誕生日にお渡しできるように\n今から育てているんですよ。=Đó thực ra là hoa sinh nhật của tiểu thư. Tôi đang trồng chúng để tặng vào ngày sinh nhật tiểu thư.
+まずはこうやって、土に堆肥を混ぜ込んで……\nひゃわあああっ！=Trước tiên, tôi trộn phân hữu cơ vào đất như thế này... Hyaaaaah!
+ううっ、またやってしまいました……\n泥だらけですぅ……=Ugh, tôi lại làm vậy rồi... Giờ thì toàn bộ đều dính bùn...
+
+着替えたほうが……=Có lẽ cậu nên thay đồ...
+それがですね……今日はあまりに天気が良かったので\n着替えのメイド服と制服は全部洗濯中なんです。\nなので、乾くまではこのままでいるしか……=Về chuyện đó... Hôm nay thời tiết đẹp quá nên tất cả các bộ đồng phục hầu gái và trang phục khác của tôi đang được giặt. Nên tôi không còn lựa chọn nào khác ngoài việc cứ để như vậy cho đến khi chúng khô...
+ですが、汚れてしまったものはしょうがありません。\nこの際汚れを気にせずに、普段できないことまでがんばります！=Nhưng giờ thì không có gì phải lo vì tôi bẩn rồi. Tôi có thể làm những việc mà bình thường tôi không thể làm vì không còn phải lo lắng nữa!
+ええ？　手伝う？\nそれは、あなたの服まで汚れてしまいますから……=Hả? Cậu muốn giúp? Nhưng điều đó sẽ khiến quần áo của cậu cũng bẩn theo...
+……分かりました。\nでは、汚れない程度でお願いします～=...Hiểu rồi. Vậy thì, hãy cố gắng đừng bẩn quá nhé~...
+って、は、はううう！\nうう、さらに泥だらけに～……でも、今はもう気にしません！\nがんばりますよー！=Khoan, ha-hawawawa! Uuu, còn bẩn hơn rồi~...\nNhưng giờ thì tôi không cần lo về việc bẩn, nên tôi sẽ tiếp tục cố gắng hết sức~!
+それから数時間ほど後……\n{playername}とすずめは、花壇の土を入れ替え一息つく。=Sau vài tiếng... {playername} và Suzume đã hoàn thành việc thay đất ở luống hoa và nghỉ ngơi.
+ふう……おかげさまで、やりたかったことは全部できました！\nきっと奇麗に咲いてくれると思います♪=Phew... Nhờ có cậu giúp đỡ, tớ mới hoàn thành hết mọi việc! Chắc chắn sẽ nở hoa thật đẹp♪
+ですけど、思ったより早く終わってしまったので\n替えのメイド服はまだ乾いてなさそうです……=Tuy nhiên dường như tớ hoàn thành quá sớm đến nỗi đồng phục hầu gái chưa kịp khô...
+え？　それ以外の服、ですか？\nええと……あることにはあるのですが……=Hả? Còn những bộ đồ khác ngoài đồng phục hầu gái thì sao? Ơ... Có lẽ là có...
+お嬢さまからいただいたお古の服なのですが\nもったいなくて着られないです！=Đó là bộ đồ cũ tớ nhận từ tiểu thư, nhưng tớ không thể mặc vì nó quý quá!
+
+choice2
+咲恋ちゃんはなんて？=Saren nói gì về chuyện đó?
+着てるとこ見たいな。=Tớ muốn thấy cậu mặc nó.
+うっ……確かに、お嬢さまは気にせず着てほしいと\nおっしゃってましたが……=Uuu... Cô ấy đã nói muốn tớ mặc mà không cần lo lắng, nhưng...
+あう……そんなこといわれましても。\n私が着ても、どうせ似合いませんし……=Ồ... Cậu không cần phải nói thế. Dù sao thì nó cũng không vừa với tớ...
+
+お嬢さまのメイドとして、着ていいものかどうか……\nえ？　もちろん、嫌いではないです！=Tớ chỉ không biết liệu mình có thể mặc nó với tư cách là hầu gái của tiểu thư hay không... Hả? Tất nhiên là tớ không ghét bộ đồ này!
+とっても素敵な服なんです。\n私だって、本当は着てみたいとは思ってますけど……=Đó là một bộ đồ tuyệt vời. Tớ muốn thử mặc nó, nhưng...
+写真は撮らないから。=Tớ sẽ không chụp ảnh đâu.
+そ、そんなのは当たり前です！！\nうう～……わ、分かりました！=Đ-Điều đó đương nhiên rồi!! Ugh... T-Tớ hiểu rồi!
+本当に……ちょっとだけですよ？\nですけど、その前にちょっとお風呂で泥を落としてきますね。=Chỉ... Chỉ một chút thôi, được chứ? Nhưng trước đó, tớ sẽ tắm và rửa bùn trước đã.
+いえあの、シャワーだけですので！\n雀の行水であがってきますぅ！=Không, ơ, chỉ là tắm nước đổ xuống thôi! Suzume sẽ tự lau chùi ngay!
+観念したすずめが着替える間に\n庭にはアフタヌーンティーのセットが用意されていた。=Khi Suzume cam chịu và thay đồ, một bộ đồ trà chiều đã được chuẩn bị sẵn trong vườn.
+はうう……そんなにまじまじと見られると、困ってしまいます……\nあ、あの……おかしくはないですよね？=Hauu... Cậu nhìn tớ nhiều quá khiến tớ khó xử... Ơ-Ơ... Tớ trông có kỳ lạ không?
+ええと、髪は濡らしてしまうと乾かすのに時間がかかってしまうので\n普段のままで申し訳ありません……=Ơ, tóc tớ mất một lúc để khô khi bị ướt, xin lỗi vì để nguyên thế...
+お嬢さまが中学生の頃に着ておられた服ですので、\nサイズはピッタリなんです。\n何度かお洗濯もさせていただいたんですよ？=Đó là bộ đồ tiểu thư mặc hồi trung học nên size vừa tớ hoàn hảo. Tớ đã giặt nó vài lần rồi, cậu biết đấy?
+
+choice2
+お嬢さまみたい。=Giống hệt một tiểu thư.
+あ、ありがとうございましゅ……\nでも、その……あまり見ないでくださいぃ……=C-Cảm ơn cậu nhiều... Nhưng, ơ... Xin đừng nhìn tớ nhiều thế...
+そ、そんな！\nももも、もったいないおことばですぅ……=K-Không thể nào! Đ-Đ-Đó là phí quá...
+
+あうう～、なんだか落ち着きません……\nお茶会自体はお嬢さまにお付き合いさせていただいて\n経験はあるのですが……=Hauuu, tớ không thể tự trấn tĩnh được... Tớ có vài kinh nghiệm ở các buổi tiệc trà với tiểu thư, nhưng...
+そ、そうですよ！　これ、よかったんでしょうか？\n勝手にお茶とお菓子まで……=T-Tớ vừa nhớ ra! Những thứ này dùng được không? Chúng ta còn dùng cả trà và đồ ăn nhẹ...
+咲恋ちゃんに許可はもらった。=Saren đã cho phép tớ.
+え、ええええ？　お、お嬢さまに連絡されたんですか！？\nメールで、喜んでおられた？　そ、そうですか……=Sao-Cái gì? Cậu liên lạc với tiểu thư!? Cô ấy dường như vui vẻ từ tin nhắn...? T-Tớ hiểu rồi...
+なら、こちらに来る前にお嬢さまに確認されていればよかったのでは……\nあ、いえ！　なんでもありません！=Nếu cậu có thể làm thế, thì sao không xác nhận xem tiểu thư có ở đây trước khi đến... À, không! Thật không có gì!
+
+choice2
+見せてあげたらいいのに。=Sẽ tốt nếu cậu cho cô ấy xem cái này.
+やっぱり見せたくない？=Cậu thật sự không muốn cô ấy thấy?
+うう、そんなの恐れ多いですよぉ……\nお嬢さまのほうが何倍も似合いますし……=Uuu, như thế thì quá rồi... Tiểu thư sẽ trông đẹp hơn tớ nhiều lần...
+そ、そういうわけではありません！\nただやっぱり、恥ずかしくて……=K-Không phải thế! Chỉ là... Thật sự rất xấu hổ...
+
+この服は、お嬢さまからいただいた、私にとっての宝物で、\n着るのは恐れ多いと思っていたのですが……=Bộ đồ này do tiểu thư tặng, là thứ tớ trân trọng sâu sắc. Chính vì vậy tớ sợ mặc nó...
+なんでしょう……いざ着てみると、\nなんだか心が浮きたつような感じです。=Tớ tự hỏi tại sao... Khi mặc nó, tớ cảm thấy như trái tim mình được nâng lên.
+今はまだ、お嬢さまにお見せする勇気はありませんけど、\nもし、あなたが一緒に居てくださるなら……=Tớ chưa đủ can đảm để cho tiểu thư xem, nhưng nếu ở cùng cậu...
+その勇気もでるかもしれません……\nごごご、ごめんなさい！\n何か変な事言ってしまいました！=Tớ có thể sẽ có can đảm... T-T-Tớ xin lỗi! Tớ nói điều gì kỳ lạ vậy!
+あの……それでですね、お嬢さまの気持ちは味わえましたので、\nここからは私がお返しにお給仕をさせてもらってもいいでしょうか？\nなんだか落ち着かなくて。=Ơ... Bây giờ tớ đã nếm thử cảm giác trở thành một tiểu thư, cậu có phiền nếu tớ đáp lại và phục vụ cậu không? Tớ vẫn chưa thể trấn tĩnh được.
+ええ？　ダ、ダメですかぁ？\nドジでこの服まで汚したら大変……？\nた、確かにそうですね……=Hả? T-Tớ không thể? Sẽ rất tệ nếu tớ vụng về và làm bẩn bộ đồ này nữa...? Ừ-Ừ, cậu có lý...
+分かりました。\nそれでは、もう少しだけ、甘えさせてもらいますね……=Được rồi. Vậy tớ sẽ để mình thư giãn thêm một chút nữa...
+メイドお嬢さまとのお茶会は、\n替えのメイド服が乾くまで続いたのだった。=Buổi tiệc trà tiếp diễn cho đến khi bộ đồ thay của Lady Maid khô.
+はい、お疲れさま。\n確かに、こっちでもスズメちゃんって\n普段はメイド服姿ばかりだものね。=Vâng, làm tốt lắm. Nếu tớ nhớ không lầm, Suzume thường mặc đồng phục hầu gái ngay cả ở đây.
+あの子だって年頃なんだから色んな服を着たいでしょうに。\nもしかしたら、そういう気持ちが他の子たちの服を作る\n原動力になってたりもするのかしらね。=Cô bé đã ở độ tuổi đó, nên muốn mặc nhiều bộ đồ khác nhau là bình thường. Có lẽ cảm giác đó là thứ thúc đẩy cô bé làm đồ cho các cô gái khác.
+今回はそういうところを引き出せてあげてよかったんじゃない？\nあの子自身がメイドでいたい、って気持ちなのは分かるけど\nそれ以外の部分も含めてあの子なんだから。=Cậu có vui không khi lần này cô bé đã thể hiện được khía cạnh đó? Tớ hiểu cô bé muốn trở thành hầu gái, nhưng dù vậy cô bé vẫn là một cô gái trong tâm trí.
+まあ、こういう部分を見せるのはあんた相手くらいのもんなんだから\nしっかりと受け止めてあげなさい。\nそれじゃあね。=Thôi, cậu là người duy nhất cô bé thể hiện khía cạnh đó, nên hãy tận hưởng trọn vẹn nhé. Gặp lại sau.
+
+二人が目を覚ますとコンテストはちょうど\n審査員による講評が始まるところだった。=Khi cả hai tỉnh dậy, các giám khảo sắp bắt đầu đưa ra phản hồi.
+はうっ！　ね、寝ちゃってました！\nコンテストは……無事進行しているようですね。=Hauh! T-Tớ ngủ quên! Cuộc thi... vẫn đang diễn ra suôn sẻ.
+優秀賞の候補となる写真が貼り出されるが、\nその中にスズメの写真はない。=Họ đã đăng những bức ảnh sẽ nhận giải Xuất sắc, nhưng ảnh của Suzume không được đăng ở đâu cả.
+わあ……素敵な写真ばかりですね。\nみなさん、本当に楽しそうで。\nここにあなたの撮った写真があればよかったですけど。=Ồ... Tất cả đều là những bức ảnh tuyệt vời. Mọi người trông như đang rất vui vẻ. Sẽ thật tuyệt nếu bức ảnh cậu chụp cũng ở đó.
+ちょっともったいなかったかな？=Tớ nghĩ có lẽ hơi tiếc một chút?
+でも、仕方がないですよね。\nお手伝いをがんばりすぎてコンテストの運営側になっちゃいましたから。\n一参加者としてエントリーは辞退してよかったと思います。=Nhưng tớ nghĩ đó là điều tất yếu, chúng ta làm việc chăm chỉ đến nỗi cuối cùng lại trở thành một phần của ban tổ chức cuộc thi. Với tư cách là người tham gia, tớ nghĩ rút lui là tốt.
+それに、こんなにたくさんの人に見てもらうのは\nやっぱりちょっと恥ずかしいですし……=Chưa kể, để nhiều người nhìn vào ảnh của tớ sẽ quá xấu hổ...
+そう話している間に、壇上では入賞者が発表され\n会場は拍手に包まれる。=Trong khi họ trò chuyện với nhau, giải thưởng Người chiến thắng được công bố trên sân khấu và khán phòng nhanh chóng vang lên tiếng vỗ tay.
+それではみなさま、改めまして入賞者およびすべての参加者のみなさま\nそしてエキシビジョンのカメラマンたちに盛大な拍手を！=Vậy thì mọi người, một lần nữa, hãy cùng vỗ tay chào mừng những người chiến thắng, tất cả các người tham gia, và các nhiếp ảnh gia của triển lãm!
+コンテストは大成功ですね。\nふふ、実行委員さんもうれしそうです。=Cuộc thi đã thành công vang dội. Hehe, ông Ủy ban điều hành trông cũng vui vẻ.
+あら、あなたたち。\nこんな場所にいたのね。=Ồ, là các cậu. Tôi không ngờ cả hai đều có mặt ở đây.
+会場のオーナーさん！=Chủ địa điểm!
+ふふ、あなたたちのおかげで素敵なコンテストになったわ。\n改めてお礼を言わせてちょうだい。=Hehe, tất cả là nhờ sự giúp đỡ của hai người mà cuộc thi này mới diễn ra tốt đẹp. Hãy để tôi một lần nữa được cảm ơn hai người.
+いえ、そんなことは……\n私たちはメイドとして……じゃなくて、ただお手伝いしただけです。=Không, không phải... Chúng tôi chỉ là hầu gái... Không, ý tôi là... Chúng tôi chỉ muốn giúp đỡ.
+面白いことを言うのねえ。\nでも、次はエキシビジョンじゃなくて正式に参加してほしいわ。=Đó là một cách nói thú vị. Nhưng lần sau, sẽ tốt hơn nếu hai người tham gia chính thức thay vì chỉ tham gia triển lãm.
+そういえば、実行委員さんもおっしゃってましたね。\nエキシ……なんでしょう？=Nhớ lại, ông Ủy ban điều hành có nói về điều đó, phải không? Triển... Gọi là gì nhỉ?
+エキシビジョンよ。\n正式なエントリーはしていない人たちの写真も展示しているの。\nほら、あそこ。=Triển lãm. Nó trưng bày các bức ảnh từ những người không tham gia chính thức. Nhìn kìa, ở ngay đó.
+指し示された一角には入賞写真に勝るとも劣らない\n人数の人垣ができていた。=Cô chỉ tới một khu vực của địa điểm với nhiều người xếp hàng, không ít hơn bức ảnh chiến thắng.
+わあ、すごい人ですけど……\nあ、あれって……=Ồ, có bao nhiêu người kinh khủng thế... Nhưng... K-Kia là...
+審査員の方や、主催側の人たちの写真よ。\nその中でも、あなたの写真……とっても素敵だったわ。=Đó là bức ảnh từ Ban giám khảo và Ban tổ chức. Trong đó có cả của cậu nữa... Đây là một bức ảnh rất đẹp.
+はううう！\nそ、そういえばさっきから何か視線を感じてたのですが……=Hauuuu! Bây giờ cậu nhắc đến, tớ đã cảm thấy có ánh mắt nhìn mình từ lâu rồi...
+たくさんの人が見てくれたね。=Có nhiều người đang xem quá.
+はいぃ……\nは、恥ずかしいですけど……=Vâng... T-Tớ thấy xấu hổ, nhưng...
+あなたの素敵な写真が、\nたくさんの人に見てもらえて……うれしいです♪=Tớ rất vui... Vì có nhiều người đang xem bức ảnh tuyệt vời mà cậu chụp♪
+こうして……フォトコンテストは盛況のうちに\n幕を閉じたのであった。=Và vậy... cuộc thi nhiếp ảnh kết thúc thành công và khép lại.
+それから数日後。\nサレンディア救護院の、いつもの日常。=Vài ngày sau, một ngày bình thường tại Nhà trẻ Sarendia.
+あのー……みなさ～ん？\nそろそろご飯の時間ですよ～？\n早く席についてくださ～い。=Àm... Mọi người? Sắp đến giờ ăn rồi~? Nhanh lên và ngồi đi.
+壁に貼られたスズメの写真を、救護院の子どもたちがのぞきこんでいる。=Trẻ em ở nhà trẻ đang nhìn vào bức ảnh của Suzume trên tường.
+えー、もうちょっといいじゃん！\nなあ？=Ơ, chỉ một chút nữa thôi! Không được sao?
+ねえねえ、この写真あのカメラで撮ったの？\nこんど私も撮って撮って！=Này, cậu có chụp bức ảnh này với máy ảnh đó không? Lần sau, cũng chụp ảnh tớ nữa nhé!
+うん、今度ね。=Được, lần sau.
+あう、すみません……\n私の写真はいつでも見れるから、ご飯の後で、ね？=À, nghe tớ nói... Các cậu có thể xem ảnh của tớ bất cứ lúc nào, chỉ cần sau khi ăn xong, được chứ?
+まあまあ、今日くらいはいいんじゃない？\nこんないい写真なんだし、みんな見たいに決まってるよ。\nママ・サレンも褒めてたしね！=Thôi, được nếu chỉ hôm nay thôi, phải không? Bức ảnh đẹp thế, tất nhiên ai cũng muốn xem. Mẹ Saren cũng khen nó!
+『おう！　普通に出展してれば優勝してたんじゃねえか？』="Ừ! Nếu cậu tham gia bình thường thì chẳng phải đã thắng rồi sao?"
+あうう……コンテスト以上に、\nみんなに見られるのは恥ずかしいですぅ……=Auuu... Bị mọi người ở đây thấy còn xấu hổ hơn là trong cuộc thi...
+またお出かけしようね。=Chúng ta cùng đi chơi lần nữa nhé.
+メイドを休んで、ですか？\nは、はい……\nあなたが、一緒なら……是非また！=Ý cậu là để tớ nghỉ việc hầu gái lần nữa? Ừ-Ừ... Nếu được ở cùng cậu... Tớ rất sẵn lòng!
+もう少しだけおしゃれをして……\nお供させてください♪=Chỉ còn một chút nữa thôi mà vẫn thời trang...\nHãy để tớ tiếp tục đồng hành cùng cậu♪
+そう答えるスズメの笑顔は、\n写真の中の彼女と同じくらい眩しく輝いているのだった。=Nụ cười trên khuôn mặt Suzume khi trả lời cậu lấp lánh rực rỡ như nụ cười trong bức ảnh.

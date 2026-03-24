@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で聖学祭を盛りアゲる、はぴちぇる系女子。攻撃ヒットのたびに【ちぇる】を貯め、威力が増すスキルと味方全体の物理攻撃力アップ効果のＵＢで勝利に導く。=[Vật Lý] Một cô gái hapichieru tham gia Lễ hội Trường học ở tuyến đầu. Với kỹ năng mạnh lên theo cấp độ và UB tăng công kích vật lý cho toàn đội, cô tích lũy [Cheru] với mỗi đòn đánh trúng và dẫn dắt đội nhân chiến thắng.
+
+##UB##
+ちぇるちぇる☆かあにばる=Cheru-Cheru☆Carnival
+自分に【ちぇる】が40貯まっている場合、味方全体の物理攻撃力を特大アップさせ、自分のＴＰ上昇と物理攻撃クリティカル時のダメージを小アップさせる。さらに目の前の敵１キャラに物理大ダメージを与える。=Nếu Chieru tích lũy được 40 [Cheru], tăng lớn lực công kích vật lý cho toàn đồng đội, và tăng nhỏ TP Boost và sát thương chí mạng vật lý của bản thân. Ngoài ra, còn gây sát thương vật lý lớn lên kẻ địch phía trước.
+r:"^ちぇるが40貯まっている場合、味方全体の物理攻撃力を(\d+)アップちぇるが40貯まっている場合、自分のＴＰ上昇を(\d+)アップちぇるが40貯まっている場合、自分の物理攻撃クリティカル時のダメージを10％アップ敵単体に(\d+)の物理ダメージ$"=►Gây $3 sát thương vật lý lên kẻ địch.\n\nNếu Chieru tích lũy được 40 [Cheru]:\n►Tăng lực công kích vật lý cho toàn đồng đội lên $1 trong 18s.\n►Tăng TP Boost của bản thân lên $2 trong 18s.\n►Tăng sát thương chí mạng vật lý của bản thân lên 10% trong 18s.
+
+##S1##
+ちぇるるん☆らっしゅあわー=Cherurun☆Rush Hour
+目の前の敵１キャラに物理中ダメージを与える。このスキルのダメージは【ちぇる】の数に応じて増加する。=Gây sát thương vật lý trung bình lên kẻ địch phía trước. Sát thương của kỹ năng này tăng theo số lượng [Cheru].
+
+##S2##
+ちぇるふぇす☆あらも～ど=Cheru Fest☆a la Mode
+相手に攻撃を命中させる度に、自分に【ちぇる】ステータスが１つ追加されるようにする。【ちぇる】は最大40まで追加される。さらに、自分の物理攻撃力と行動速度を大アップさせる。=Mỗi khi một đòn tấn công của Chieru trúng kẻ địch, nhận 1 tầng [Cheru], tối đa 40. Ngoài ra, còn tăng cực lớn lực công kích vật lý và tốc độ hành động của bản thân.
+r:"^チエル（聖学祭）の攻撃が当たるたびにちぇるを１つ得る自分の行動速度アップ自分の物理攻撃力を(\d+)アップ$"=►Khi đòn đánh trúng, nhận 1 [Cheru].\n►Tăng tốc độ hành động của bản thân lên 175% trong 180s.\n►Tăng lực công kích vật lý của bản thân lên $1 trong 180s.
+
+##EX##
+24時間☆ちぇるんな子=24 Hours☆Cherun na Ko
+24時間☆ちぇるんな子+=24 Hours☆Cherun na Ko+
+
+##S1+##
+ちぇるるん☆らっしゅあわー+=Cherurun☆Rush Hour+
+目の前の敵１キャラに物理中ダメージを与える。このスキルのダメージは【ちぇる】の数に応じて増加する。自分に【ちぇる】が40貯まっている場合、味方全体の物理攻撃力と物理クリティカルを特大アップさせる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước. Sát thương của kỹ năng này tăng theo số lượng [Cheru]. Nếu Chieru tích lũy được 40 [Cheru], tăng lớn lực công kích vật lý và tỷ lệ chí mạng vật lý cho toàn đồng đội.
+r:"^敵単体に(\d+)の物理ダメージちぇるが40貯まっている場合、味方全体の物理攻撃力を(\d+)アップちぇるが40貯まっている場合、味方全体の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n\nNếu Chieru tích lũy được 40 [Cheru]:\n►Tăng lực công kích vật lý cho toàn đồng đội lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý cho toàn đồng đội lên $3 trong 12s.
+
+##UE##
+はぴちぇる☆ふぇすうぇあ=Hapicheru☆Fes Wear

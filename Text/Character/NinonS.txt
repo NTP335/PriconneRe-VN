@@ -1,0 +1,22 @@
+【魔法】中衛で陽光の下、煌く水面を共に駆けるシノビ。【水遁の印】を自らの攻撃力へと変え、束縛フィールドと水遁の術で最も遠い敵とその周囲に速やかな天誅を下す。=[Phép thuật] Một shinobi chạy qua mặt nước lấp lánh dưới ánh mặt trời. Chuyển đổi [Dấu Ấn Ràng Buộc Sóng] thành sức mạnh tấn công, mang hình phạt thần thánh nhanh chóng tới kẻ địch xa nhất và vùng xung quanh thông qua các trường ràng buộc và kỹ thuật thoát nước.
+
+##UB##
+常夏忍法・ノウリョウ背水之陣=Eternal Summer Ninjutsu: Desperate Stand of the Rising Dragon
+r:"^敵単体に(\d+)の魔法ダメージ水遁の印が１つ以上の場合、以下の効果が発動する水遁の印を１つ消費する自分の魔法攻撃力を(\d+)アップ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを4％アップ$"="►Gây $1 sát thương phép lên một kẻ địch\n\nNếu [Dấu Ấn Ràng Buộc Sóng] ≥ 1:\n►Tiêu thụ 1 [Dấu Ấn Ràng Buộc Sóng]\n►Tăng sát thương phép của bản thân lên $2\n►Gây $3 sát thương phép lên kẻ địch trong phạm vi\n►Giảm phòng thủ phép của kẻ địch trong phạm vi đi $4\n►Tăng sát thương chí mạng mà kẻ địch nhận lên 4%"
+前方の最も遠い敵１キャラに魔法特大ダメージを与える。自分に【水遁の印】が付与されている場合、【水遁の印】を１つ消費して自分の魔法攻撃力を大アップし、追加で前方の最も遠い敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương phép cực lớn lên kẻ địch xa nhất. Khi có [Dấu Ấn Ràng Buộc Sóng], tiêu thụ 1 để tăng sát thương phép của bản thân rất nhiều và gây thêm sát thương phép lớn lên kẻ địch xung quanh mục tiêu xa nhất, đồng thời giảm một chút phòng thủ phép của chúng và tăng sát thương chí mạng mà chúng nhận."
+
+
+##S1##
+常夏忍法・まきびし貝の術=Eternal Summer Ninjutsu: Caltrop Shell Technique
+r:"^敵単体に(\d+)の魔法ダメージ敵を行動不能にするフィールドを展開する水遁の印が１つ以上の場合、以下の効果が発動する水遁の印を１つ消費する自分の魔法攻撃力を(\d+)アップ範囲内の敵に(\d+)の魔法ダメージ$"="►Gây $1 sát thương phép lên một kẻ địch\n►Triển khai trường Ràng buộc\n\nNếu [Dấu Ấn Ràng Buộc Sóng] ≥ 1:\n►Tiêu thụ 1 [Dấu Ấn Ràng Buộc Sóng]\n►Tăng sát thương phép của bản thân lên $2\n►Gây $3 sát thương phép lên kẻ địch trong phạm vi"
+前方の最も遠い敵１キャラに魔法特大ダメージを与え、そのキャラを中心とした範囲内の敵すべてを束縛するフィールドを展開する。自分に【水遁の印】が付与されている場合、【水遁の印】を１つ消費して自分の魔法攻撃力を大アップし、追加で前方の最も遠い敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与える。=Gây sát thương phép cực lớn lên kẻ địch xa nhất và triển khai trường Ràng buộc xung quanh chúng. Khi có [Dấu Ấn Ràng Buộc Sóng], tiêu thụ 1 để tăng sát thương phép của bản thân rất nhiều và gây thêm sát thương phép trung bình lên kẻ địch xung quanh mục tiêu xa nhất.
+
+
+##S2##
+常夏忍法・水遁印ムスビ=Eternal Summer Ninjutsu: Water Seal - Musubi
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを150アップ自分の魔法クリダメを8％アップ自分のＴＰを250回復敵の数に応じて、水遁の印を獲得$"="►Tăng sát thương phép của bản thân lên $1\n►Tăng tỷ lệ chí mạng phép của bản thân lên 150\n►Tăng sát thương chí mạng phép của bản thân lên 8%\n►Hồi lại 250 TP cho bản thân\n►Nhận [Dấu Ấn Ràng Buộc Sóng] dựa trên số kẻ địch"
+自分の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップ、ＴＰを中回復し、さらに【水遁の印】を獲得する。敵の数に応じて、【水遁の印】の獲得量が増加する。【水遁の印】は最大５つまで獲得できる。=Tăng sát thương phép rất nhiều, tăng tỷ lệ chí mạng phép rất lớn, tăng sát thương chí mạng phép một chút, hồi TP vừa phải và nhận [Dấu Ấn Ràng Buộc Sóng]. Số lượng dấu ấn tăng theo số kẻ địch (Tối đa: 5).
+
+##EX##
+トトノイサウナの極み=Totono Sauna's Pinnacle
+トトノイサウナの極み+=Totono Sauna's Pinnacle+

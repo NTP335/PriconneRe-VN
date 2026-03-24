@@ -1,0 +1,282 @@
+キャラ選択=Chọn Nhân Vật
+じゃない私=Không, Em...
+マホマホ王国ショー=Buổi Diễn Vương Quốc Mahomaho
+美を統べる者=Bà Chúa Sắc Đẹp
+
+カレーにしてゆうげ=Cà Ri Và Yuuge
+
+Aoi
+気合入れて募集=Đang Cố Gắng Hết Sức
+キャンプマイスター=Chuyên Gia Cắm Trại
+得意分野（かも）=Món Đặc Sản (Có Thể)
+ぼっち専用=Tôi Không Xứng Đáng
+
+Akari
+一緒にいきたい=Ánh Mắt Chó Con
+恋の魔法=Ma Thuật Của Tình Yêu
+
+Akino
+出口はこっち=Theo Tôi!
+二人一緒なら=Cùng Nhau Chúng Ta Là...
+
+Anna
+我が名は!!=Hãy Sợ Tên Ta!
+満を持して=Sự Thỏa Mãn
+
+Anne
+きょうみしんしん=Tôi Tò Mò!
+
+Ameth
+ぷにぷにプニプニ=Punipuni Punipuni
+
+Arisa
+感動の出会い=Sự Mạc Khải Vui Vẻ
+
+Ayane
+ぬいぐるみ集め=Người Sưu Tầm Say Mê
+
+Ayumi
+りめんばーみー！=Nhớ Tôi!
+ライバル出現？=Đối Thủ Xuất Hiện?
+
+Chika
+集中しすぎて=Giai Điệu Mê Hoặc
+
+Christina
+退屈だ……=Sự Nhàm Chán Đáng Nguyền Rủa
+
+Djeeta
+紙ヒコーキに夢を乗せて=Người Mơ Mộng Trên Cao
+
+Eriko
+ロックオン=Mục Tiêu Đã Xác Định
+
+Grea
+ダメだよ？=Khu Vực Cấm
+
+Hatsune
+寝惚けて=Chị Gái Nổi Loạn
+私の色=Màu Của Tôi
+
+Hiyori
+作戦説明=Những Kế Hoạch Tốt Đẹp Nhất
+じゃんけんタイム！=Đến Giờ Kéo-Búa-Bao!
+
+Illya
+わらしべ世界征服=Nhiệm Vụ Giao Dịch Của Kẻ Ác
+
+Io
+みんなの手本=Giao cho Io-Sensei
+闇の授業=Lớp Chướng
+
+Inori
+下剋上=Cuộc Khởi Nghĩa
+不安の種=Nguồn Gốc Lo Lắng
+征服完了！=Chinh Phục Thành Công!
+
+Jun
+コーディネート=Quan Tâm Thời Trang
+
+Kaori
+てーげーカオリ=Đừng Lo Lắng!
+
+Kyaru
+つんつん=Tsundere
+かけ声=Tiếng Hét
+
+Kasumi
+探偵のサガ=Vụ Tuyển Diễn Viên Thám Tử
+キメッ☆=Kimet☆
+
+Kaya
+買うぜ？=Mua chứ?
+お仕事中=Trong giờ làm
+
+Karin
+素敵な仲間=Bạn tốt
+
+Kokkoro
+はじめてのあじ=Công Thức Mới Dũng Cảm
+ふわふわ=Nhẹ Nhàng Bay Bổng
+
+Kuuka
+気づいたら=Điều Đó Xảy Ra Với Người Tốt
+くせになる=Chính Xác Theo Ý Cô Ấy
+高まる=Leo Thang
+
+Kurumi
+人目のつかない所=Nơi Ẩn náu Hoàn Hảo
+
+Kyouka
+あやしい…=Đáng Ngờ...
+お花のようせいさん=Như Tiên Hoa
+
+Lima
+乙女の憧れ=Giấc Mơ Của Khuôn Mặt Trong Trẻo
+
+Lou
+敵前逃亡=Bí Kíp Bí Mật
+
+Mahiru
+異色のコンビ=Hài Kịch Tân Tiến
+認識=Sự Công Nhận
+
+Maho
+王国はあります=Vì Cô Ấy Nói Thế
+しゃなりしゃなり
+
+Makoto
+口ではそう言っても=Khao Khát Thầm Kín
+フリフリ=Vải Đăng Ten Bay Nhẹ
+
+Matsuri
+ポーズの練習！=Luyện Tạo Dáng
+●ヒミツ図鑑● ①マツリちゃん=*Bách Khoa Toàn Thư Bí Mật* 1 Matsuri-chan
+
+Mifuyu
+徹底比較=Mua Sắm Tối Ưu?
+得意分野=Đặc Sản
+
+Mimi
+すくすく子うさぎ=Một Chú Thỏ Đang Lớn
+
+Misaki
+オトナっぽい？=Rất Tinh Tế?
+セクシーアピール=Sức Hấp Dẫn Gợi Cảm
+
+Misato
+愛は剣より強し=Sức Mạnh Của Tình Yêu?
+
+Misogi
+イタズラガール=Đứa Bé Thích Đùa
+３人いつも=Luôn Là Ba
+
+Mitsuki
+お見舞い？=Vị Khách Bên Giường
+チクッと=Tan Vỡ
+
+Miyako
+作ってオーラ=Một Quyết Định Ám Ảnh
+
+Monika
+子供じゃない=Nỗi Buồn Trước Khi Ngủ
+至福のカフェ=Quán Cà Phê Hạnh Phúc
+
+Muimi
+必殺技=Đòn Tấn Công Đặc Biệt
+
+Nanaka
+新奥義=Một Kỹ Thuật Mới?
+
+Ninon
+奥義？=Bí Mật Của Phương Đông
+新忍法=Ninpo: Konohagakure no Jutsu
+
+Neneka
+ドッキリ大成功=Mày Đã Bị Lừa Rồi!
+
+Nozomi
+ちょっとおでかけ=Ẩn Danh
+
+Pecorine
+ナイスリアクション=Ẩm thực gia thực thụ
+パワーアップ☆=Tăng cường sức mạnh☆
+
+Homare
+ヒミツの作者=Tác giả bí mật
+
+Rei
+実は釣り好き=Niềm vui giản dị
+守る力=Sức mạnh để bảo vệ
+
+Luna
+おともだちになってくれる？=Cậu có muốn làm bạn không?
+
+Rin
+早寝=Đi ngủ sớm
+身代わり=Thay thế
+
+Rino
+小さな間違い=Không có hàu cho cậu
+おそろい=Đồng đội
+
+Ruka
+増える舎弟=Đoàn tùy túc bất ngờ
+
+Chloe
+勘違いされがち=Thường bị hiểu nhầm
+黄色い声援=Cổ vũ vàng
+
+Chierun
+ちぇる～ん☆=Chieru-n☆
+ちぇる式走法=Phương pháp chạy phong cách Chieru
+
+Creditta
+第一の忠臣！=Tì bạc trung thành đầu tiên!
+
+Saren
+ヒットのアイデア=Ưu đãi đặc biệt
+
+shefi
+じゃなくて=Không phải vậy đâu
+
+Shinobu
+占い師=Xem bói
+よく視える=Cậu nhìn rõ rồi
+
+Shiori
+敵より読書=Ưu tiên
+魔法少女？=Ma pháp thiếu nữ?
+
+Shizuru
+心配性=Lời gợi ý như chị gái
+
+Suzume
+皿割り記録=Kỷ lục mới!
+
+Suzuna
+においで引き寄せ=Mùi hương quyến rũ
+
+Tamaki
+焼きたてほやほや=Vừa nướng
+赤字確定=Thâm hụt đã xác nhận
+
+Tomo
+料理の腕前=Tài năng bếp núc
+一緒に！=Cùng nhau!
+
+Tsumugi
+最高の服を=Thợ may tận tâm
+
+Yuni
+本の虫=Mọt sách
+得手不得手=Mạnh và yếu
+
+Yori
+まだはやい=Phản đối quá đáng
+恥ずかしい…！=Thật xấu hổ ...!
+
+Labyrista
+腕前=Kỹ năng
+
+Ranpha
+時間切れ=Tạm dừng
+
+Yui
+まどろみのユイ=Giấc mơ ngọt ngào
+ぺこぺこ=Bụng kêu ùng ục
+
+Yukari
+反面教師=Làm gương tốt nhất
+贅沢な時間=Thời gian sang trọng
+
+Yuki
+自信満々=Phần thưởng tốt nhất trong tất cả
+ボクと癒やしタイム=Thời gian thư giãn cùng tôi
+
+vampy
+さいきょーですし♪=Sushi ngon nhất♪
+
+負けられない=Tôi sẽ không thua
+
+姉妹っぽいこと=Điều gì đó giống chị gái

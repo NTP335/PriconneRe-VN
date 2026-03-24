@@ -1,0 +1,33 @@
+##Profile##
+【魔法】前衛で己を鼓舞し高めた魔力を放つ蒼海の冥姫。発動の度、攻撃力とクリティカル時ダメージが上昇するＵＢと自己犠牲を払う強力な範囲攻撃技で敵を撃滅する。=[Phép] Một nàng công chúa tối tăm của Biển Xanh, tự khích lệ bản thân thức tỉnh sức mạnh phép thuật mới từ mặt trận. UB của cô tăng M.ATK và sát thương phép chí mạng, rồi giải phóng một đòn tấn công diện rộng tàn phá, đánh đổi bằng sức khỏe của chính mình.
+
+大迷宮のつくりかた=Làm thế nào để xây dựng một mê cung vĩ đại
+出航！　ヘカーテ船長=Cánh buồm lên đường! Thuyền trưởng Hecate
+鷹になりたい白鳥の子=Đứa con thiên nga ước trở thành chim ưng
+賞金首のすすめ=Khuyến nghị cho thợ săn tiền thưởng
+
+##UB##
+覇海姫・竜征冥風裂波斬=Công chúa biển tối cao: Chém sóng gió rồng phá sóng
+前方範囲内の敵すべてに魔法大ダメージを与え、自分の魔法攻撃力を大アップし、魔法攻撃クリティカル時のダメージを小アップさせる。=Gây sát thương phép lớn cho kẻ địch trong phạm vi, tăng mạnh M.ATK của bản thân, và tăng nhẹ sát thương phép chí mạng của bản thân.
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを2％アップ$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi 600.\n►Tăng M.ATK của bản thân lên $2 trong 180s.\n►Tăng sát thương phép chí mạng của bản thân lên 2% trong 180s.
+
+##S1##
+羅刹涅槃・絶海=Cứu rỗi ma quỷ: Biển vô bờ
+前方範囲内の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương phép vừa phải cho kẻ địch trong phạm vi, và giảm M.DEF của chúng.
+
+##S2##
+覇海魔封印弾・禍式=Đạn trấn yêu biển tối cao: Phong cách thảm họa
+前方範囲内の敵すべてに魔法中ダメージを与え、さらに自分のＴＰ上昇を小アップさせるが、残りＨＰの30％を消費する。自分の魔法攻撃力が高いほど、消費するＨＰが最大60％まで増加する。=Gây sát thương phép vừa phải cho tất cả kẻ địch trong phạm vi phía trước và tăng nhẹ TP Boost của bản thân. Tiêu thụ 30% HP còn lại. Lượng HP tiêu thụ tăng lên tối đa 60% dựa trên M.ATK của bản thân.
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＴＰ上昇を20アップ自分の残りＨＰの30％を消費$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi 600.\n►Tăng TP Boost của bản thân lên 20 trong 12s.\n►Tiêu thụ 30% HP còn lại của bản thân.
+
+##EX##
+深淵冥魔蒼海呪=Necromancer vực sâu: Lời nguyền Biển Xanh
+深淵冥魔蒼海呪+=Necromancer vực sâu: Lời nguyền Biển Xanh+
+
+##S1+##
+羅刹涅槃・絶海+=Cứu rỗi ma quỷ: Biển vô bờ+
+前方範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ、魔法攻撃力を特大ダウンさせる。=Gây sát thương phép lớn cho kẻ địch trong phạm vi, giảm M.DEF của chúng, và giảm mạnh M.ATK của chúng.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi 600.\n►Giảm M.DEF của tất cả kẻ địch trong phạm vi 600 đi $2 trong 18s.\n►Giảm M.ATK của tất cả kẻ địch trong phạm vi 600 đi $3 trong 18s.
+
+##UE##
+七界覇王晦冥喝破之装=Bạo chúa tối cao của bảy thế giới: Tiếng gầm hủy diệt của áo giáp bóng tối

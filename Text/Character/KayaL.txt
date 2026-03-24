@@ -1,0 +1,31 @@
+##Profile##
+【物理】前衛で先陣を切り未来を掴む喧嘩屋ドラゴン族。初弾が大幅強化するスキルで自分の攻撃力とＴＰを大きく高め、威力を増したＵＢで先制し群がる敵を薙ぎ払う。=[Vật Lý] Một thiếu nữ rồng đấm sĩ cắt ngang tuyến đầu và đoạt lấy tương lai. Với kỹ năng tăng cường rất mạnh đòn đánh đầu tiên, tăng cường rất mạnh P.ATK và TP của cô ấy, và dùng UB có lực tăng cường để phóng đi càn quét đám kẻ địch.
+
+格闘技=Võ thuật
+
+##UB##
+ドラゴンズエンドブレイク=Dragon's End Break
+前方範囲内の敵すべてに物理大ダメージを与え、大きく吹き飛ばし、自分の物理攻撃力を短時間特大アップさせる。バトル開始後、初弾のユニオンバーストはダメージ量が大幅アップする。=Gây sát thương P.DMG lớn lên kẻ địch trong phạm vi, đánh bay chúng và tăng cường rất mạnh P.ATK của bản thân trong thời gian ngắn. Khi trận đấu bắt đầu, UB lần 1 gây sát thương P.DMG cực lớn lên kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の物理ダメージ初使用時、範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=►Đối với UB lần 1, gây $2\nsát thương P.DMG lên kẻ địch trong phạm vi 600.\n►Đối với UB lần 2+, gây $1 sát thương P.DMG lên kẻ địch trong phạm vi 600.\n►Tăng P.ATK của bản thân lên $3 trong 7.5 giây.
+
+##S1##
+レイジングフィスト=Raging Fist
+前方範囲内の敵すべてに物理中ダメージを与え、自分の物理クリティカルを大アップする。バトル開始後、初弾のこのスキルは物理クリティカルの上昇量が大幅アップする。=Gây sát thương P.DMG vừa phải lên kẻ địch trong phạm vi và tăng cường rất mạnh Tỷ lệ Chí Mạng P.CRIT của bản thân. Khi trận đấu bắt đầu, lần sử dụng kỹ năng đầu tiên tăng cường rất mạnh Tỷ lệ Chí Mạng P.CRIT của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ初使用時、自分の物理クリティカルを(\d+)アップ$"=Thời gian niệm: 1.875 giây\n►Gây $1 sát thương P.DMG lên kẻ địch trong phạm vi 450.\n►Đối với lần sử dụng kỹ năng đầu tiên, tăng Tỷ lệ Chí Mạng P.CRIT của bản thân lên $3 trong 12 giây.\n►Đối với lần sử dụng kỹ năng thứ 2 trở đi, tăng Tỷ lệ Chí Mạng P.CRIT của bản thân lên $2 trong 12 giây.
+
+##S2##
+ドラグニックコール=Dragonic Call
+自分の物理攻撃力を大アップさせ、ＴＰを中回復させる。バトル開始後、初弾のこのスキルは物理攻撃力の上昇量とＴＰの回復量が大幅アップする。=Tăng cường rất mạnh P.ATK của bản thân và hồi phục TP của bản thân một lượng vừa phải. Khi trận đấu bắt đầu, lần sử dụng kỹ năng đầu tiên tăng cường P.ATK của bản thân và hồi phục TP của bản thân một lượng rất lớn.
+r:"^自分の物理攻撃力を(\d+)アップ初使用時、自分の物理攻撃力を(\d+)アップ自分のＴＰを(\d+)回復初使用時、自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.965 giây\nĐối với lần sử dụng kỹ năng đầu tiên:\n►Tăng tấn công vật lý của bản thân lên $2 trong 12 giây.\n►Hồi phục TP của bản thân lên $4.\n\nĐối với lần sử dụng kỹ năng thứ 2 trở đi:\n►Tăng tấn công vật lý của bản thân lên $1 trong 12 giây.\n►Hồi phục TP của bản thân lên $3.
+
+##EX##
+リベレイトドラゴン=Liberate Dragon
+リベレイトドラゴン+=Liberate Dragon+
+
+##S1+##
+レイジングフィスト+=Raging Fist+
+前方範囲内の敵すべてに物理大ダメージを与え、自分の物理クリティカルを大アップする。バトル開始後、初弾のこのスキルは物理クリティカルの上昇量が大幅アップし、ＴＰを特大回復させる。=Gây sát thương P.DMG cực lớn lên kẻ địch trong phạm vi và tăng cường rất mạnh Tỷ lệ Chí Mạng P.CRIT của bản thân. Khi trận đấu bắt đầu, lần sử dụng kỹ năng đầu tiên tăng cường rất mạnh Tỷ lệ Chí Mạng P.CRIT của bản thân và hồi phục TP của bản thân một lượng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ初使用時、自分の物理クリティカルを(\d+)アップ初使用時、自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.875 giây\n►Gây $1 sát thương P.DMG lên kẻ địch trong phạm vi 450.\n►Đối với lần sử dụng kỹ năng đầu tiên, tăng Tỷ lệ Chí Mạng P.CRIT của bản thân lên $3 trong 12 giây.\n►Đối với lần sử dụng kỹ năng thứ 2 trở đi, tăng Tỷ lệ Chí Mạng P.CRIT của bản thân lên $2 trong 12 giây.\n►Đối với lần sử dụng kỹ năng đầu tiên, hồi phục TP của bản thân lên $4.
+
+##UE##
+ソウルリベレイター=Soul Liberator

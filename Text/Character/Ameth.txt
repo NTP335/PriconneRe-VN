@@ -1,0 +1,30 @@
+##Profile##
+【魔法】後衛で、新たな姿で騎士の冒険を支える妖精。ダメージカットや防御力アップ、無効バリアで味方を護りバリアを起点とする攻撃力とＴＰの支援で攻勢に転ずる。=[Ma Thuật] Một tiên nữ ở tuyến sau, hỗ trợ Kishi trong cuộc phiêu lưu dưới dạng mới. Cô bảo vệ đồng minh với giảm sát thương, tăng phòng thủ và khiên, và kích thích sự tấn công của họ với Tăng Tấn Công Vật Lý (P.ATK), Tăng Tấn Công Ma Thuật (M.ATK) và Tăng TP nếu họ có khiên đang hoạt động.
+
+勇気は朽ちることなく=Lòng dũng cảm không bao giờ phai nhạt
+新たな姿で騎士の冒険を支え続ける妖精=Một tiên nữ tiếp tục hỗ trợ cuộc phiêu lưu của Kishi dưới dạng mới.
+
+##UB##
+フィオレ・フェリチータ=Fiore Felicità
+味方全体の物理防御力と魔法防御力を大アップさせ、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。=Tăng cực lớn phòng thủ vật lý (P.DEF) và phòng thủ ma thuật (M.DEF) cho tất cả đồng minh, cấp cho họ khả năng hồi phục HP liên tục, và triển khai Khiên (Barrier) lên tất cả đồng minh để phớt lờ sát thương vật lý/ma thuật (P/M.DMG).
+
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tăng phòng thủ vật lý (P.DEF) của tất cả đồng minh lên $1 trong 18s.\n►Tăng phòng thủ ma thuật (M.DEF) của tất cả đồng minh lên $2 trong 18s.\n►Hồi phục HP của tất cả đồng minh $1/s trong 10.5s.\n►Triển khai Khiên (Barrier) lên tất cả đồng minh phớt lờ $4 sát thương vật lý/ma thuật (P/M.DMG) trong 90s.
+
+##S1##
+ルーチェ・クラティーヴァ=Luce Creativa
+最もＨＰが低い味方１キャラのＨＰを中回復し、さらに物理ダメージカット効果と魔法ダメージカット効果を付与する。=Hồi phục vừa phải HP của đồng minh có HP thấp nhất, và cấp cho họ Khả Năng Cắt Sát Thương Vật Lý/Ma Thuật (P/M.DMG Cut).
+r:"^味方単体のＨＰを(\d+)回復味方単体が受ける物理ダメージを15％カット味方単体が受ける魔法ダメージを15％カット$"=Thời gian niệm: 1.04s\n►Hồi phục HP của một đồng minh lên $1.\n►Cấp cho đồng minh Khả Năng Cắt Sát Thương Vật Lý (P.DMG Cut) 15% trong 12s.\n►Cấp cho đồng minh Khả Năng Cắt Sát Thương Ma Thuật (M.DMG Cut) 15% trong 12s.
+
+##S2##
+トーレ・スプレデンテ=Torre Splendente
+バリアが展開されている味方全ての物理攻撃力と魔法攻撃力を極大アップさせ、ＴＰを中回復させる。自分の魔法攻撃力が高い程、物理攻撃力と魔法攻撃力の上昇量が最大５倍までアップする。=Tăng cực lớn tấn công vật lý/ma thuật (P/M.ATK) của tất cả đồng minh có Khiên (Barrier), và hồi phục TP của họ một lượng vừa phải. Càng cao tấn công ma thuật (M.ATK) của bản thân, mức tăng tấn công vật lý/ma thuật (P/M.ATK) càng cao, tối đa 5 lần.
+r:"^バリアが展開されている味方の物理攻撃力を(\d+)アップバリアが展開されている味方の魔法攻撃力を(\d+)アップバリアが展開されている味方のＴＰを200回復$"=Thời gian niệm: 0.74s\n►Tăng tấn công vật lý (P.ATK) của tất cả đồng minh có Khiên (Barrier) lên $1 trong 18s.\n►Tăng tấn công ma thuật (M.ATK) của tất cả đồng minh có Khiên (Barrier) lên $2 trong 18s.\n►Hồi phục TP của tất cả đồng minh có Khiên (Barrier) lên 200.
+
+##SP1##
+スクデット=Scudo
+味方全体の物理防御力を初期値の15％アップ味方全体の魔法防御力を初期値の15％アップ=Thời gian niệm: 2.04s\n►Tăng phòng thủ vật lý (P.DEF) của tất cả đồng minh lên 15% trong 12s.\n►Tăng phòng thủ ma thuật (M.DEF) của tất cả đồng minh lên 15% trong 12s.
+このスキルのスキルレベルは「フィオレ・フェリチータ」と連動しています=Cấp độ kỹ năng này liên kết với "Fiore Felicità"
+
+##EX##
+リファーレピウマ=Rifare Piuma
+リファーレピウマ+=Rifare Piuma+

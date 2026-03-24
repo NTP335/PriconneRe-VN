@@ -1,0 +1,16 @@
+Io Hasekura Birthday
+
+あら、どうかしたの？\nさっきの授業で分からないところでもあった？=Ôi trời, có chuyện gì sao? Có điều gì từ bài học trước khiến cô bối rối không?
+えっと……確かに今日は私の誕生日だけど……\nもしかしてこれ、私への誕生日プレゼント？=Ừm... đúng là hôm nay là sinh nhật em... Đây có phải là món quà sinh nhật cho em không?
+……ふふっ。\n覚えててくれてありがとう。\nでも、お勉強と関係ないものを持ってきちゃダメよ？=...Hehe. Cảm ơn vì còn nhớ. Tuy nhiên, đừng mang theo trường những thứ không liên quan đến việc học, được chứ?
+これは先生が預かっておくわね。\n放課後、先生のところに来るように。=Sensei sẽ lo liệu chuyện này cho cậu. Sau giờ học, đến gặp tôi để lấy lại.
+──屋上で待ってるわ。=...Tôi sẽ chờ trên sân thượng.
+ごめんなさいね。\nなんだか回りくどいことしちゃって。\nでも、廊下は他の生徒の目があったから……ね？=Xin lỗi cậu nhé? Vì đã quanh co như vậy. Nhưng... trong hành lang có quá nhiều mắt nhìn theo chúng ta... cậu hiểu chứ?
+はい。約束通り、このプレゼントは返すわ。\nそれで……=Đây. Như đã hứa, tôi sẽ trả món quà này lại cho cậu. Vì vậy...
+もう放課後だから。\n改めて……いいかしら。=Đã qua giờ học rồi. Cậu có thể... làm lại không?
+ありがとう……♪=Cảm ơn...♪
+ふふっ、学校の屋上でこんなことするなんて。\nとっても胸がドキドキするわね♪\n本当よ？　音……聞いてみる……？=Hehe, làm việc như thế này trên sân thượng trường... Trái tim em đập nhanh quá♪ Cậu không tin? Muốn nghe... tiếng đập của nó...?
+
+Player Prompts
+伊緒ちゃん、誕生日おめでとう！=Chúc mừng sinh nhật, Io-chan!
+誕生日おめでとう、伊緒ちゃん。=Chúc mừng sinh nhật, Io-chan

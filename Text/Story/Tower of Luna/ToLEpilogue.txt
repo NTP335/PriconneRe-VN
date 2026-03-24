@@ -1,0 +1,26 @@
+Tower of Luna Epilogue
+
+見届ける者たち=Những người chứng kiến
+
+{playername}たちが去っていったルナの塔。\nしかし、塔の中ではかすかに、ささやきかわす声があった。=Tòa tháp Luna, nơi mà nhóm của {playername} vừa rời khỏi. Thế nhưng, bên trong tòa tháp ấy vẫn còn vang lên những tiếng thì thầm khe khẽ trao nhau.
+行ってしまった。\nふふ、もう姿が見えなくなってしまった。=Họ đi rồi. Hì hì, bóng dáng họ đã hoàn toàn khuất xa rồi.
+寂しい、と。\nそう思いますか。あなたは。=Cô đơn sao? Cậu cảm thấy như vậy có đúng không?
+いいや。\n……と言ったら嘘になるかもしれないけれど、\n万に一つの可能性すらなかったものだから。=Không đâu. ......Dẫu nói thế có thể là một lời nói dối, nhưng ngay từ đầu, chuyện này vốn dĩ chẳng có lấy một phần vạn khả năng cơ mà.
+もう一人の僕や、彼女に出会えた。\nそれだけでも十分だよ。\n記憶のかけらから構成された僕にとって、これ以上の望みはない。=Được gặp lại "một tôi khác" và cả cô ấy nữa. Chỉ bấy nhiêu đó thôi là đã đủ lắm rồi. Với một kẻ được tạo nên từ những mảnh vỡ ký ức như tôi, thì chẳng còn mong ước nào lớn lao hơn thế nữa.
+ありがとう。ミネルヴァさん。=Cảm ơn cô nhé, Minerva-san.
+拾い集められた、あなたの記憶のかけらたち。\nまさか、こんなふうに『あなた』を復元できるとは思いませんでした。=Những mảnh vỡ ký ức của cậu đã được gom nhặt lại. Tôi thực sự chưa bao giờ nghĩ rằng có thể phục dựng lại "cậu" theo cách như thế này.
+私がそうする理由も、必要も本来はなかったはず。\n……ですが。きっと──私は、彼女の願いにずっと触れていたから。\n情が移ったのでしょうか。=Vốn dĩ tôi chẳng có lý do hay sự cần thiết nào để phải làm điều đó. ......Thế nhưng. Có lẽ là vì──tôi đã luôn tiếp xúc với tâm nguyện của cô ấy suốt bấy lâu nay. Phải chăng là tôi cũng đã nảy sinh tình cảm rồi?
+塔のバグが共鳴したとはいえ、奇跡のような……=Dẫu nói là do lỗi hệ thống của tòa tháp cộng hưởng tạo thành, nhưng chuyện này vẫn hệt như một phép màu vậy......
+いいえ。\nやはり──0.1パーセントの欠損は埋められない。=Không. Quả nhiên──0.1 phần trăm khiếm khuyết đó vẫn không thể lấp đầy.
+あなたは完全に元の彼と同じではなく、\n現在の彼とも同じでありながら、同じではないのです。=Cậu không hoàn toàn giống với bản thể gốc của anh ấy trước đây, và dù có những điểm tương đồng với anh ấy hiện tại, thì cậu vẫn không phải là anh ấy.
+情報だけでは、電気信号だけでは測れないほどにかすかな、\nけれど絶対的な差異が、そこにはある。=Ở đó tồn tại một sự khác biệt, mỏng manh đến mức không thể đong đếm được bằng thông tin hay tín hiệu điện tử, nhưng nó lại mang tính tuyệt đối.
+だからエリスさんは彼を選んだんだね。\n僕はつまるところ、彼の複製でしかないと見抜いて。=Chính vì vậy mà Eris-san mới chọn anh ấy nhỉ. Vì cô ấy đã nhìn thấu rằng, suy cho cùng, tôi cũng chỉ là một bản sao của anh ấy mà thôi.
+彼との未知の未来を、彼女が自分から求めていくのなら\n私はそれを喜びたい。\nそして、彼らを見送ったあなたのことも。=Nếu cô ấy tự mình khao khát tìm kiếm một tương lai chưa định hình cùng anh ấy, thì tôi muốn chúc phúc cho điều đó. Và chúc phúc cho cả cậu nữa, người đã đứng đây tiễn biệt họ.
+被造物が自我を持つことを、模造品が願いを持つことを。\n私は愛おしく思います──=Việc một tạo vật có được cái tôi riêng, một bản mô phỏng lại mang trong mình những ước vọng. Tôi cảm thấy điều đó thật đáng trân quý làm sao──
+もう一人の{playername}。\nあなたに一つ、お願いがあります。="Một {playername} khác" ơi. Tôi có một thỉnh cầu dành cho cậu.
+この塔を守ってくれませんか。\nあの二人の『秘密基地』のようなこの場所を。=Cậu có thể giúp tôi bảo vệ tòa tháp này không? Nơi vốn hệt như một "căn cứ bí mật" của hai người họ vậy.
+私はいずれ、ここを発ちます。\nこれから、私にはなすべきことがあるのです。=Sớm muộn gì tôi cũng sẽ rời khỏi nơi này. Từ giờ trở đi, tôi có những việc mình cần phải thực hiện.
+……うん、もちろん。\nミネルヴァさんが警戒していることも、僕には分かる。=......Ừm, dĩ nhiên rồi. Tôi cũng hiểu được những điều mà Minerva-san đang cảnh giác.
+ここは長い間に、作り手すらも予想できない形に育っているから、\n誰かが見張っていないと。\n……そうだよね？=Nơi này qua thời gian dài đã phát triển theo một hình thái mà ngay cả người tạo ra nó cũng không thể dự đoán được, vì vậy cần phải có ai đó trông chừng. ......Phải vậy không?
+ありがとう。\nあなたに、万象の塔のもと、天象の加護がありますように。\nそして。=Cảm ơn cậu. Cầu chúc cho cậu, dưới chân tòa tháp của vạn vật, sẽ nhận được sự bảo hộ của thiên tượng. Và rồi.
+太陽と星の祝福がありますように。=Cầu chúc cho sự chúc phúc của mặt trời và những vì sao luôn ở bên cậu.

@@ -1,0 +1,39 @@
+##Profile## 
+みんなを笑顔にするお笑い牧場主=Cô gái nông trại vui tính, thích khiến mọi người cười
+
+【物理】中衛で、相手の動きを乱す牧場主。敵前衛をノックバックさせることで、隊列を崩し、他のキャラが使う範囲攻撃の対象に敵を押し込む。=[Vật Lý] Một nông dân phá rối di chuyển kẻ thù từ vị trí giữa. Đẩy lùi kẻ thù ở hàng trước, đưa chúng vào phạm vi tấn công diện tích của đồng minh.
+
+##UB## 
+エリザベス=Elizabeth
+目の前の敵１キャラに物理特大ダメージを与え、さらにスタンさせる。=Gây lượng Sát Thương Vật Lý lớn lên kẻ thù đứng trước mặt và gây choáng.
+
+##S1##
+ミルクタンクアタック=Đập Thùng Sữa
+目の前の敵１キャラに物理小ダメージを与え、さらに小さく吹き飛ばす。=Gây lượng Sát Thương Vật Lý nhỏ lên kẻ thù đứng trước mặt và đẩy lùi nhẹ.
+
+##S2##
+フォークスラッシュ=Đập Cây Chổi Lúa
+目の前の敵１キャラに物理中ダメージを与え、さらに自分の物理攻撃力を小アップさせる。=Gây lượng Sát Thương Vật Lý trung bình lên kẻ thù đứng trước mặt. Tăng nhẹ Tấn Công Vật Lý của bản thân.
+
+##EX## 
+つかみの鉄板ネタ=Lời Chào Mở Đầu
+つかみの鉄板ネタ+=Lời Chào Mở Đầu+
+
+##UB+## 
+エリザベスコンビネーション=Sự Kết Hợp Elizabeth
+目の前の敵１キャラに物理特大ダメージを与え、長時間スタンさせて大きく吹き飛ばし、さらにそのキャラを中心とした範囲内の敵すべてに物理大ダメージを与え、混乱させる。=Gây lượng Sát Thương Vật Lý cực lớn lên kẻ thù đứng trước mặt, gây choáng và đẩy lùi mục tiêu. Sau đó, gây lượng Sát Thương Vật Lý lớn lên tất cả kẻ thù ở hàng trước và gây bối rối lên các mục tiêu.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする範囲内の敵に(\d+)の物理ダメージ範囲内の敵を混乱させる$"=►Gây $1 Sát Thương Vật Lý lên kẻ thù.\n►Gây choáng lên kẻ thù trong 5s.\n►Đẩy lùi kẻ thù 300 đơn vị.\n►Gây $2 Sát Thương Vật Lý lên kẻ thù trong phạm vi 300.\n►Gây bối rối lên kẻ thù trong phạm vi 300 trong 4s.
+
+##S1+## 
+ミルクタンクアタック+=Đập Thùng Sữa+
+目の前の敵１キャラに物理大ダメージを与え、さらに混乱状態を付与し、大きく吹き飛ばす。=Gây lượng Sát Thương Vật Lý trung bình lên kẻ thù đứng trước mặt, gây bối rối và đẩy lùi xa.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を混乱させる$"=►Gây $1 Sát Thương Vật Lý lên kẻ thù.\n►Gây bối rối lên kẻ thù.
+
+##S2+## 
+フォークスラッシュ+=Đập Cây Chổi Lúa+
+目の前の敵１キャラに物理大ダメージを与え、スタンさせる。さらに自分の物理攻撃力を大アップさせる。=Gây sát thương vật lý lên kẻ thù đứng trước và gây choáng. Ngoài ra, tăng sức mạnh tấn công vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 1.4s\n►Gây $1 Sát Thương Vật Lý lên kẻ thù.\n►Gây choáng lên kẻ thù trong 1s.\n►Tăng Tấn Công Vật Lý của bản thân lên $2 trong 12s.
+
+##UE##
+エリザベスポンチョ=Áo Choàng Elizabeth
+特濃【牧場】ミルク=Sữa Ranch Đặc Đặc

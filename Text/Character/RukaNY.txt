@@ -1,0 +1,42 @@
+##Profile##
+【物理】前衛で雪月花の舞を納める新春の姉御。攻撃を当てる度に増加する【剣の刻印】でＵＢとスキルの威力を上昇させ、目にも止まらぬ斬撃で敵を圧倒する。=[Vật Lý] Chị em boss Tết Nguyên Đán, biểu diễn điệu múa Tết. Tăng sức mạnh UB và kỹ năng với [Dấu Kiếm] tăng lên sau mỗi lần tấn công, và áp đảo kẻ địch với một đường chém không thể thấy.
+
+福を呼ぶ小さな手=Bàn Tay Nhỏ Mang Lại May Mắn
+アタシの一番の福=Lời Chúc Tốt Đẹp Nhất Của Tôi
+新年に舞う熱き羽根=Lưỡi Kiếm Nóng Đang Múa Đón Xuân
+迷える刃と頼れる瞳=Kiếm Mất Mắt Tin Cậy
+
+##UB##
+雪の太刀・冬帝　細雪=Kiếm Tuyết: Hoa Tuyết Hoàng Đế
+自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理大ダメージを与える。このスキルのダメージは【剣の刻印】の数に応じて増加する。=Tăng mạnh P.ATK và P.CRIT của bản thân, và gây lượng sát thương vật lý (P.DMG) khủng khiếp cho một kẻ địch phía trước. Sát thương của kỹ năng này tăng theo số lượng [Dấu Kiếm].
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを100アップ敵単体に(\d+)の物理ダメージ$"=►Tăng Tấn Công Vật Lý bản thân lên $1 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý bản thân lên 100 trong 18s.\n►Gây $1 Sát Thương Vật Lý lên kẻ địch.
+
+##S1##
+月の太刀・寒月=Kiếm Nguyệt: Trăng Lạnh
+目の前の敵１キャラに物理中ダメージを与える。【剣の刻印】の数が最大時に使用すると、すべて消費し、目の前の敵１キャラに物理特大ダメージを与え、自分の物理攻撃力を特大アップさせる。=Gây Sát Thương Vật Lý trung bình lên kẻ địch phía trước. Khi sử dụng với số lượng [Dấu Kiếm] tối đa, sẽ tiêu hao toàn bộ, gây Sát Thương Vật Lý lớn lên kẻ địch phía trước và tăng Tấn Công Vật Lý bản thân lên một lượng lớn.
+
+##S2##
+花の太刀・冬残花=Kiếm Hoa: Vết Tàn Mùa Đông
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップさせる。このスキルのダメージは【剣の刻印】の数に応じて増加する。=Gây Sát Thương Vật Lý trung bình lên kẻ địch phía trước và tăng Tấn Công Vật Lý bản thân lên một lượng trung bình. Sát thương của kỹ năng này tăng theo số [Dấu Kiếm].
+
+##SP1##
+初回発動時=Kích Hoạt Lần Đầu
+このスキルのスキルレベルは「雪の太刀・冬帝　細雪」と連動しています=Cấp độ kỹ năng này liên kết với "Kiếm Tuyết: Fuyutei Sasetsu"
+敵に攻撃が当たるたびに【剣の刻印】が１つ追加されるようにする。【剣の刻印】は最大35まで追加される。自分に【剣の刻印】を10付与し、目の前の敵１キャラに物理中ダメージを与える。さらに、自分の物理攻撃力を特大アップさせる。=Mỗi khi một đòn tấn công của Ruka trúng kẻ địch, nhận 1 tầng [Dấu Kiếm], tối đa 35 tầng. Tự trao 10 [Dấu Kiếm], gây Sát Thương Vật Lý lớn lên kẻ địch phía trước. Tăng Tấn Công Vật Lý bản thân lên một lượng lớn.
+
+##EX##
+極月の到り=Hiện Thực Tối Thượng
+極月の到り+=Hiện Thực Tối Thượng+
+
+##S1+##
+月の太刀・寒月+=Kiếm Nguyệt: Trăng Lạnh+
+目の前の敵１キャラに物理大ダメージを与える。【剣の刻印】の数が最大時に使用すると、すべて消費し、目の前の敵１キャラに物理特大ダメージを与え、自分の物理攻撃力を特大アップさせる。=Gây Sát Thương Vật Lý lớn lên kẻ địch phía trước. Khi sử dụng với số lượng [Dấu Kiếm] tối đa, sẽ tiêu hao toàn bộ, gây Sát Thương Vật Lý lớn lên kẻ địch phía trước và tăng Tấn Công Vật Lý bản thân lên một lượng lớn.
+r:"^敵単体に(\d+)の物理ダメージ【剣の刻印】が35の時、敵単体に(\d+)の物理ダメージ【剣の刻印】が35の時、自分の物理攻撃力を(\d+)アップ$"=Thời gian niệm: 0.27s\nNếu Ruka có <35 [Dấu Kiếm]:\n►Gây $1 Sát Thương Vật Lý lên kẻ địch.\n\nNếu Ruka có 35 [Dấu Kiếm]:\n►Tiêu hao toàn bộ [Dấu Kiếm].\n►Gây $2 Sát Thương Vật Lý lên kẻ địch.\n►Tăng Tấn Công Vật Lý bản thân lên $3 trong 12s.
+
+##SP1+##
+敵に攻撃が当たるたびに【剣の刻印】が１つ追加されるようにする。【剣の刻印】は最大35まで追加される。自分に【剣の刻印】を10付与し、目の前の敵１キャラに物理大ダメージを与える。さらに、自分の物理攻撃力を特大アップさせる。=Mỗi khi một đòn tấn công của Ruka trúng kẻ địch, nhận 1 tầng [Dấu Kiếm], tối đa 35 tầng. Tự trao 10 [Dấu Kiếm], gây Sát Thương Vật Lý lớn lên kẻ địch phía trước. Tăng Tấn Công Vật Lý bản thân lên một lượng lớn.
+## Preview
+敵に攻撃が当たるたびに【剣の刻印】が１つ追加されるようにする。【剣の刻印】は最大35まで追加される。自分に【剣の刻印】を10付与し、目の前の敵１キャラに物理大ダメージを与える。さらに、自分の物理攻撃力を特大アップさせる。このスキルのスキルレベルは「雪の太刀・冬帝　細雪」と連動しています=Mỗi khi một đòn tấn công của Ruka trúng kẻ địch, nhận 1 tầng [Dấu Kiếm], tối đa 35 tầng. Tự trao 10 [Dấu Kiếm], gây Sát Thương Vật Lý lớn lên kẻ địch phía trước. Tăng Tấn Công Vật Lý bản thân lên một lượng lớn. Cấp độ kỹ năng này liên kết với "Kiếm Bạc: Tuyết Vương Hoa".
+
+##UE##
+振袖・碧縮緬寒椿模様=Áo Kimono Dài Tay: Họa Tiết Tràm Giấy Ngọc

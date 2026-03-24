@@ -1,0 +1,21 @@
+【物理】中衛で友情の芽を育む、真夏の『普通』の少女。【プルメリアのお守り】で強力な一撃から先頭を守り、味方の数で効果量が変化するスキルを鮮やかに命中させる。=[Vật Lý] Một cô gái "bình thường" giữa mùa hè, ươm mầm tình bạn. Cô ấy bảo vệ đơn vị phía trước nhất với "Bảo Vệ Plumeria" và dùng kỹ năng bắn chính xác, hiệu ứng tỉ lệ với số đồng đội.
+
+
+##Union Burst##
+プルメリア☆スプラッシュ=Plumeria☆Splash
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。さらに追加の物理特大ダメージを与え、クリティカルを受けた際のダメージを小アップさせ、味方全体に魔法無効バリアを展開する。このスキルの効果量は味方の数に応じて変化する。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ P.DEF của chúng. Ngoài ra, còn gây thêm sát thương vật lý lớn, tăng nhẹ sát thương nhận từ đòn chí mạng, và thi triển rào cản phản thần kỳ cho toàn đội. Hiệu ứng của kỹ năng này thay đổi dựa trên số đồng đội.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体に(\d+)の物理ダメージ敵単体の被クリダメを6％アップ(\d+)ダメージ分の魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm P.DEF của một kẻ địch $2.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Lượn thêm sát thương chí mạng mà kẻ địch phải nhận 6%.\n►Thi triển rào cản triệt tiêu $4 sát thương thần kỳ.
+
+##Skill 1 (S1)##
+水やりショット=Đạn Tưới Cây
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに追加の物理中ダメージを与え、味方全体の魔法防御力を小アップさせる。このスキルの効果量は味方の数に応じて変化する。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ P.DEF của chúng. Ngoài ra, còn gây thêm sát thương vật lý vừa phải và tăng nhẹ M.DEF cho toàn đội. Hiệu ứng của kỹ năng này thay đổi dựa trên số đồng đội.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体に(\d+)の物理ダメージ味方全体の魔法防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm P.DEF của một kẻ địch $2.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Tăng M.DEF của toàn đội $4.
+
+##Skill 2 (S2)##
+夏バテ防止です=Phòng Ngừa Mệt Mỏi Mùa Hè
+味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、一番前の味方１キャラに【プルメリアのお守り】を２つ付与する。さらに、自分のＴＰを中回復する。【プルメリアのお守り】が付与されている間に１回ダメージを受けると【プルメリアのお守り】を１つ消費してダメージを無効化し、同時に敵に物理中ダメージを与える。このスキルの物理攻撃力アップ、物理クリティカルアップの効果量とダメージとＴＰの回復量は味方の数に応じて変化する。=Tăng mạnh Tấn Công Vật Lý cho toàn đội, tăng mạnh Tỷ Lệ Chí Mạng Vật Lý của họ, và trao hai [Bảo Vệ Plumeria] cho đồng đội ở vị trí phía trước nhất. Ngoài ra, còn hồi phục một ít TP của bản thân. Khi một đồng đội có [Bảo Vệ Plumeria] nhận sát thương, một lá bùa sẽ tiêu hao để triệt tiêu sát thương đó và đồng thời gây sát thương vật lý vừa phải lên kẻ địch. Tăng Tấn Công Vật Lý, tăng Tỷ Lệ Chí Mạng Vật Lý, sát thương và hồi TP của kỹ năng này thay đổi dựa trên số đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方単体に攻撃してきた敵に(\d+)の物理ダメージを与えて消失するプルメリアのお守りを最大２つまで付与する自分のＴＰを250回復$"=►Tăng Tấn Công Vật Lý của toàn đội $1.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của toàn đội 100.\n►Trao cho một đồng đội tối đa 2 [Bảo Vệ Plumeria] gây $2 sát thương vật lý lên kẻ địch tấn công rồi biến mất.\n►Hồi TP của bản thân 250.
+
+##EX##
+水浴びしませんか？+=Có muốn tắm không?+
+水浴びしませんか？=Có muốn tắm không?

@@ -1,0 +1,46 @@
+##Profile##
+人情味溢れる粋でいなせな「姉御」=Một người chị cả thông minh, tinh tế, tràn đầy lòng tốt
+釣り=Câu Cá
+さまよう刃を断て！=Chém đứt lưỡi kiếm lang thang!
+因果応報の切れ味=Lưỡi Kiếm Đỉnh Cao Nhân Quả
+お見合いハプニング=Sự Kiện Hẹn Hò
+幽霊退治はお手の物？=Cậu có giỏi trừ ma không?
+お魚くわえた野良猫=Mèo hoang ngậm con cá
+その女、姉御肌につき=Người phụ nữ ấy có trái tim người chị
+波打ち際の一閃=Một tia sáng trên bãi biển
+放っておけない性分=Mình không thể để cô ấy một mình
+
+【物理】前衛で味方のため剣を振るう、いなせな姉御。相手へのカウンターも行う挑発や、敵の防御力を下げるユニオンバーストを持ち、攻防両面で実力を発揮する。=[Vật Lý] Một kiếm sĩ danh dự, vung kiếm ở tiền tuyến để bảo vệ đồng minh. Không chỉ có thể thu hút đòn tấn công của kẻ địch khi đánh trả, Union Burst của cô còn hạ thấp phòng thủ của chúng, mang lại sự cân bằng mạnh mẽ giữa tấn công và phòng thủ.
+
+##UB##
+零の太刀・水月鏡花=Đòn Chí Mạng: Trăng Đứt Đoạn
+目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力を大ダウンさせる。=Gây lượng sát thương vật lý (P.DMG) lớn cho kẻ địch ngay phía trước và giảm P.DEF của chúng một lượng lớn.
+
+##S1##
+一の太刀・雫薙ぎ=Đòn Đầu Tiên: Sự Thầm Lặng
+敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理中ダメージを与え、さらに小さく吹き飛ばす。=Kích hoạt khiêu khích tất cả kẻ địch và vào tư thế. Nếu bị tấn công trong tư thế này, gây sát thương vật lý (P.DMG) vừa phải cho tất cả kẻ địch trong phạm vi và đẩy lùi chúng nhẹ.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ$"=►Kích hoạt khiêu khích tất cả kẻ địch trong 17s.\n►Đánh trả nếu nhận sát thương trong 2s tiếp theo bằng $1 sát thương vật lý (P.DMG) trong phạm vi 200.\n►Đẩy lùi tất cả kẻ địch 200 đơn vị.
+
+##S2##
+海内無双の型=Tư Thế Vô Song
+自分のＨＰを中回復し、さらに物理防御力を中アップさせる。=Hồi một lượng nhỏ HP của bản thân và tăng vừa phải P.DEF.
+r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Hồi HP của bản thân lên $1.\n►Tăng P.DEF của bản thân lên $2.
+
+##EX##
+明鏡止水の境地=Giác Ngộ Thật Sự
+明鏡止水の境地+=Giác Ngộ Thật Sự+
+バトル開始時に自分の魔法防御力を大アップさせる。=Tăng mạnh M.DEF của bản thân khi bắt đầu trận đấu.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân lên $1.
+
+##UB+##
+極の太刀・止水龍吟の哮り=Đòn Tối Thượng: Rồng Nước Gầm
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。さらに自分に【絶海の型】を１つ付与する。【絶海の型】が付与されている間に１回ダメージを受けると【絶海の型】を１つ消費してダメージを無効化し、同時に敵に物理特大ダメージを与える。このスキルによるダメージは必ずクリティカルする。=Gây lượng sát thương vật lý (P.DMG) khủng khiếp cho kẻ địch phía trước và giảm P.DEF của chúng một lượng rất lớn. Đồng thời nhận trạng thái [Hình Thái Biển Xa]. Khi nhận sát thương với trạng thái [Hình Thái Biển Xa] đang hoạt động, tiêu hao trạng thái, phản chọi toàn bộ sát thương nhận vào một lần và gây lượng sát thương vật lý (P.DMG) khủng khiếp cho kẻ địch tấn công. Đòn tấn công này luôn là đòn chí mạng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン攻撃してきた敵に(\d+)の物理ダメージを与えて消失する絶海の型を最大１つまで付与する$"=►Gây $1 sát thương vật lý (P.DMG) cho kẻ địch.\n►Giảm P.DEF của kẻ địch đi $2 trong 24s.\n►Nhận trạng thái [Hình Thái Biển Xa], phản chọi toàn bộ sát thương nhận vào và gây $3 sát thương vật lý (P.DMG) cho kẻ địch tấn công một lần.
+
+##S1+##
+一の太刀・雫薙ぎ+=Đòn Đầu Tiên: Sự Thầm Lặng+
+敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、さらに小さく吹き飛ばす。=Kích hoạt khiêu khích tất cả kẻ địch. Nếu bị tấn công trong lúc khiêu khích, gây lượng sát thương vật lý (P.DMG) lớn cho kẻ địch trong phạm vi, giảm sát thương vật lý (P.DMG) của chúng một chút và thổi bay chúng thành những mảnh nhỏ.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Kích hoạt khiêu khích tất cả kẻ địch trong 17s.\n►Đánh trả nếu nhận sát thương trong 2s tiếp theo bằng $1 sát thương vật lý (P.DMG) trong phạm vi 200.\n►Đẩy lùi tất cả kẻ địch 200 đơn vị.\n►Giảm P.DEF của kẻ địch trong phạm vi 200 lên $2 trong 12s.
+
+##UE##
+真打 絶海・波浪丸=Zekkai & Haromaru - Nguồn Gốc

@@ -1,0 +1,21 @@
+【魔法】後衛で超速飛行からの大火力を叩き込むロボ娘。上空から速度バフで味方全体を支援しつつ、自分のバリアを解除して力へと変え、世界の命運を背負い飛翔する！=[Ma thuật] Một cô gái máy bay lao về phía sau với tốc độ siêu nhanh và phóng ra hỏa lực mạnh mẽ. Trong khi hỗ trợ đồng đội với tăng tốc từ phía trên, cô ấy gỡ bỏ khiên của mình và biến nó thành sức mạnh, vươn cao với số phận của thế giới trên vai!
+
+全備重量278.1kg=Tổng trọng lượng: 273.1kg
+##UB##
+エアリアルブラストーム=Aerial Blast Storm
+
+味方全体の魔法攻撃力と魔法クリティカルを特大アップさせ、目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。=Tăng mạnh M.ATK và M.CRIT cho tất cả đồng đội, gây sát thương phép lớn lên kẻ địch phía trước nhất, và giảm nhẹ M.DEF của chúng. Một đòn luôn chí mạng, và sát thương chí mạng được nhân ba thay vì hai.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Tăng M.ATK cho tất cả đồng đội lên $1.\n►Tăng M.CRIT cho tất cả đồng đội lên $2.\n►Gây $3 M.DMG lên kẻ địch phía trước nhất.\n►Giảm M.DEF của kẻ địch đi $4.\n►Một đòn của UB này luôn chí mạng.\n►Sát thương chí mạng là 3x thay vì 2x.
+
+##S1##
+クロスピンボルト=Cross Pin Bolt
+敵全体の物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせ、行動速度を大ダウンさせる。さらに、自分のＴＰを小回復する。自分にバリアが展開されている場合、自分のバリアを全て解除し、ＨＰとＴＰを小回復する。=Giảm mạnh P.ATK và M.ATK của tất cả kẻ địch, giảm nhẹ M.DEF của chúng, tăng nhẹ sát thương chí mạng nhận vào, và giảm mạnh tốc độ hành động. Đồng thời hồi phục nhẹ TP cho bản thân. Nếu bản thân có khiên, nó sẽ bị gỡ bỏ và HP/TP được hồi phục nhẹ.
+r:"^敵全体の物理・魔法攻撃力を(\d+)ダウン敵全体の魔法防御力を(\d+)ダウン敵全体の被クリダメを(\d+％)アップ敵全体の行動速度を一定時間低下させる自分のＴＰを(\d+)回復バリアが展開されている時、自分のバリアを解除して、自分のＨＰを(\d+)回復、ＴＰを(\d+)回復$"=►Giảm P/M.ATK của tất cả kẻ địch đi $1.\n►Giảm M.DEF của tất cả kẻ địch đi $2.\n►Tăng sát thương chí mạng nhận vào của kẻ địch lên $3.\n►Giảm tốc độ hành động của kẻ địch đi 50%.\n►Hồi phục TP của bản thân lên $4.\n►Nếu bản thân có Barrier:\n　►Gỡ bỏ Barrier của bản thân.\n　►Hồi phục HP của bản thân lên $5.\n　►Hồi phục TP của bản thân lên $6.
+
+##S2##
+エアリアルバリア=Aerial Barrier
+味方全体の魔法攻撃力を特大アップ、物理防御力と魔法防御力を大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、行動速度を大アップさせる。さらに、自分のＴＰを小回復する。自分にバリアが展開されている場合、自分のバリアを全て解除し、ＨＰとＴＰを小回復する。=Tăng mạnh M.ATK cho tất cả đồng đội, tăng mạnh P.DEF và M.DEF của họ, tăng nhẹ sát thương chí mạng phép, và tăng mạnh tốc độ hành động. Đồng thời hồi phục nhẹ TP cho bản thân. Nếu bản thân có khiên, nó sẽ bị gỡ bỏ và HP/TP được hồi phục nhẹ.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理・魔法防御力を(\d+)アップ味方全体の魔法クリダメを(\d+％)アップ味方全体の行動速度アップ自分のＴＰを(\d+)回復バリアが展開されている時、自分のバリアを解除して、自分のＨＰを(\d+)回復、ＴＰを(\d+)回復$"=►Tăng M.ATK cho tất cả đồng đội lên $1.\n►Tăng P/M.DEF cho tất cả đồng đội lên $2.\n►Tăng M.Crit DMG của tất cả đồng đội lên $3.\n►Tăng tốc độ hành động của tất cả đồng đội lên 100%.\n►Hồi phục TP của bản thân lên $4.\n►Nếu bản thân có Barrier:\n　►Gỡ bỏ Barrier của bản thân.\n　►Hồi phục HP của bản thân lên $5.\n　►Hồi phục TP của bản thân lên $6.
+
+フルバースト+=Full Burst+
+スラスターＯＮ！=Thrusters ON!

@@ -1,0 +1,46 @@
+##Profile##
+【物理】前衛の魔法の果実でお姫様姿になった恋乙女。獣の姿からユニオンバーストで一定時間、人の姿に変身し味方全体の攻撃力アップスキルで、火力の底上げをする。=[Vật lý] Một thiếu nữ đáng yêu đã biến thành công chúa với một quả đặc biệt ở mặt trận. Khi biến thành hình người trong một khoảng thời gian cố định bằng Union Burst, cô ấy giải phóng kỹ năng tăng cường để hỗ trợ đồng đội và nâng cao sức mạnh hỏa lực tổng thể của bản thân.
+
+##UB##
+メタモルプリンセス=Metamorph Princess
+自分を人の姿に変化させ、さらに物理攻撃力を大アップさせる。=Biến thành hình người, tăng mạnh P.ATK của bản thân trong 24s.
+
+##S1##
+もふもふスマッシュ=Mofumofu Smash
+
+##S2##
+もふもふタックル=Mofumofu Tackle
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを中回復させる。=Gây sát thương vật lý trung bình lên kẻ địch phía trước, và đồng thời hồi một lượng trung bình TP của bản thân.
+
+##SPUB##
+変身中=Metamorphosis
+このスキルのスキルレベルは「メタモルプリ\nンセス」と連動しています=Cấp độ kỹ năng này liên kết với "Metamorph Princess".
+ビヨンドザドリーム=Beyond the Dream
+
+##SP1##
+ビューティーアンドビースト=Beauty and Beast
+自分の物理攻撃力を中アップさせ、さらにＴＰを中回復させる。=Tăng vừa phải P.ATK của bản thân và đồng thời hồi TP vừa phải cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=►Tăng P.ATK của bản thân thêm $1 trong 180s.\n►Hồi TP của bản thân thêm $2.
+
+##SP2##
+ダンスウィズミー=Dance with Me
+味方全体の物理攻撃力を大アップさせる。自分の物理攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng rất lớn P.ATK cho tất cả đồng minh. P.ATK của bản thân càng cao, mức tăng P.ATK càng lớn.
+
+##SP3##
+メタモルフォーゼ=Metamorphosis
+自分を変身させる。=Biến hình bản thân.
+
+##EX##
+夢への階段=Stairway to Dreams
+夢への階段+=Stairway to Dreams+
+
+##S1+##
+もふもふスマッシュ+=Mofumofu Smash+
+
+##SP1+##
+ビューティーアンドビースト+=Beauty and Beast+
+自分の物理攻撃力を大アップさせ、さらにＴＰを中回復させる。味方全体の物理攻撃力を中アップさせる。=Tăng rất lớn P.ATK của bản thân và đồng thời hồi TP vừa phải cho bản thân. Tăng vừa phải P.ATK cho tất cả đồng minh.
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK của bản thân thêm $1 trong 180s.\n►Hồi TP của bản thân thêm $2.\n►Tăng P.ATK của tất cả đồng minh thêm $3 trong 180s.
+
+##UE##
+ドリームドシンデレラドレス=Dreamed Cinderella Dress

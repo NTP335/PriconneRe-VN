@@ -1,0 +1,16 @@
+Kaori Kyan's Birthday
+
+はぁっはぁっはぁっ……\n今日の走り込み終わり……っと！\nあれー？　どうしてキミがここにいるさー？=Huff... huff... phew! Đó là kết thúc chạy bộ hôm nay! Ô! Hả? Cậu đang làm gì đây~sa?
+……あはっ♪\nもしかして誕生日だから、会いに来てくれたの～？\nこんなふうに会えるなんて思わなかったから、でーじうれしいよ～！=...Aha♪ Cậu đến xem em vì hôm nay là sinh nhật em~? Em không ngờ cậu lại đến xem em như thế này, nên em rất vui~!
+にふぇ～でーびる♪　ありがとうね～！=Chúc mừng sinh nhật! (Nifē dēbiru♪) Cảm ơn cậu nhiều~!
+実はね～、なかなかキミに会えないから、\nお星さまにお願いしてみようかなって思ってたんだ～\nほら、今日は七夕でしょ～？　短冊も作ってたんだよ～=Thực ra, cậu biết đấy... vì dạo này em không gặp cậu nhiều, em đang nghĩ đến việc cầu nguyện với các vì sao. Cậu biết đấy, vì hôm nay là Tanabata~ Em còn làm tanzaku nữa~
+だけど、お願いする前に、願い事が叶っちゃったさ～♪\nえへへっ♪\nねぇねぇ、この後付き合ってもらえる？=Nhưng trước khi em kịp cầu nguyện, điều đó đã thành thật~sa♪ Ehehe~ Này này, sau này cậu sẽ chơi với em chứ?
+あれが天の川かなー\nあれかなー？　織姫さまと彦星さん、キミ、見つけられた？=Đó là Dải Ngân Hà? Hay là cái kia? Cậu cũng thấy Orihime-sama và Hikoboshi-san rồi sao?
+さっきからずーっと、ちむどんどんしっぱなしさ～\n織姫さまたちもこんなふうにちむどんどんしてるかな～？=Trái tim em đã đập thình thịch suốt từ nãy~ Em tự hỏi liệu Orihime-sama và Hikoboshi-san có cảm thấy giống nhau lúc này~?
+あはっ♪　そうだよねー！\nねえキミ、また来年も誕生日、お祝いしてくれるー？=Aha♪ Cậu chắc chắn đúng! Này {playername}... năm sau cậu sẽ lại chúc mừng sinh nhật em chứ?
+織姫さまと彦星さんみたいに、ずーっとずーっと、\nキミと約束したいさ～♪\nあはっ、キミのこと、大好きだからね～♪=Giống như Orihime-sama và Hikoboshi-san, em thực sự, thật sự muốn hứa hẹn với cậu... mãi mãi~♪ Aha, em thực sự yêu cậu nhiều lắm~♪
+
+Player Prompts
+うまりびー、かりゆし、やいびーん！=Chúc mừng sinh nhật và phúc lành~! (Umaribii, Kariyushi, Yaibii! - tiếng địa phương Okinawa)
+誕生日おめでとう、香織ちゃん！=Chúc mừng sinh nhật, Kaori-chan!
+きっとしてるよ。=Chắc chắn rồi

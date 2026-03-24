@@ -1,0 +1,23 @@
+コッコロのおさいふ=Ví của Kokkoro
+コッコロの\nおさいふ=Ví của\nKokkoro
+「コッコロのおさいふ」からマナを引き出し可能です。=Ma lực có thể được rút từ "Ví của Kokkoro".
+所持上限を超えたマナはギルドハウスの\n「コッコロのおさいふ」に自動で送られます。=Ma lực vượt quá giới hạn tối đa sẽ tự động được chuyển đến "Ví của Kokkoro" trong nhà guild.
+このメッセージを以降は表示しない\n※メニューから設定が可能です=Không hiển thị thông báo này nữa\n※Có thể thiết lập từ menu
+
+引き出すマナは1以上で入力してください。=Vui lòng nhập ít nhất 1 ma lực để rút.
+マナが所持上限に達しているため引き出せません。=Đang mang theo ma lực tối đa. Không thể rút.
+sr:"^(?:\[3C404E\])?所持上限に達しているため\nプレゼントは受け取れませんでした。\n\n\[3C404E\](.+)×\[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\](?:\[-\])?$"=[3C404E]Đang mang theo $1 tối đa.\nKhông thể rút.\n\n$1 × [FFBB00,CE4F001]$2[-][-]
+
+
+所持上限をこえている、\nまたは期限を過ぎているため\nプレゼントを受け取れませんでした。=Bạn đã vượt quá giới hạn sở hữu, hoặc đã quá hạn sử dụng, nên không thể nhận quà tặng.
+
+引き出し後の所持マナ=Ma lực hiện tại
+ストックしたマナを引き出します。=Rút ma lực đã tích trữ.
+マナを引き出す=Rút Ma lực
+引き出し結果=Kết quả Rút
+r:"^\[FFBB00,CE4F00\]([0-9.]+)\[-\]\[3C404E\]マナを引き出しました。\[-\]$"=[3C404E]Rút [FFBB00,CE4F00]$1[-] Mana.[-]
+引き出せるマナがありません。=Không có Mana nào có thể rút được.
+マナ所持上限をこえました=Vượt quá giới hạn Mana sở hữu
+---setting---
+マナ所持上限時の「コッコロのおさいふ」ダイアログ表示=Thông báo của Ví Kokkoro khi đã đạt giới hạn Mana tối đa
+所持上限を超えた獲得マナが、「コッコロのおさいふ」に送られたことの確認ダイアログを表示するか設定します。=Cài đặt có hiển thị hộp thoại xác nhận hay không\nkhi Mana vượt giới hạn được gửi vào Ví của Kokkoro.

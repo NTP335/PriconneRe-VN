@@ -1,0 +1,77 @@
+子供たち=Trẻ em
+おじさん=Chú
+子供１=Trẻ em 1
+子供２=Trẻ em 2
+モニカは{playername}を連れて、子供たちとの訓練に臨む。モニカは、すばしっこい子供たちの相手をすると足腰が強くなると言う。しかし、傍から見ているとその光景は微笑ましい限りだった。=Monika đưa {playername} theo và chuẩn bị cho buổi tập luyện cùng các bạn nhỏ. Monika nói rằng việc đối phó với những đứa trẻ nhanh nhẹn sẽ giúp cô ấy củng cố đôi chân và cơ hông. Tuy nhiên, từ góc nhìn của người ngoài, cảnh tượng đó thực sự rất ấm áp.
+散歩をしていた{playername}は、\n偶然モニカを見かけた。=Trong lúc đi dạo, {playername} tình cờ gặp Monika.
+誰かと思えば、貴公か。\nどうかしたか？=Mình đang thắc mắc ai vậy, hóa ra là cậu.\nCó chuyện gì vậy?
+私が何をしているか、気になった……？\nなに、大したことではない。=Cậu tò mò về việc mình đang làm...? À, chẳng có gì quan trọng đâu.
+軍人として己を高めるため、\nこれから友人たちと訓練をするのだ。\n貴公も来るか？=Mình sắp tập luyện cùng bạn bè để cải thiện bản thân như một người lính. Cậu có đi cùng không?
+やる気のようだな。\nなら、ついて来るといい。=Có vẻ cậu rất nhiệt tình.\nVậy thì, đi theo mình đi.
+さぁ、到着だ。\n今日はここで訓練をするぞ。\n私の友人たちも、そろそろ来るはずだが……=Tới nơi rồi, hôm nay chúng ta sẽ tập ở đây.\nCác bạn của mình cũng sắp tới rồi...
+モニカちゃーん！\nお待たせー！=Monika-chan!\nXin lỗi để cậu chờ lâu!
+お、噂をすれば。\nちょうど来たようだな。=Ồ, nhắc mới nhớ.\nHóa ra các bạn vừa mới tới.
+モニカちゃん、早いね。=Monika-chan, cậu tới sớm quá.
+
+当然だ。\n軍人たるもの、時間厳守だからな。=Tất nhiên rồi.\nMột người lính luôn đúng giờ.
+さぁ、今日の訓練を始めるぞ！\nまずは整列だ！=Được rồi, bắt đầu buổi tập hôm nay thôi!\nĐầu tiên, xếp hàng!
+はーい！=Dạ!
+訓練ごっこ……？=Chơi tập luyện...?
+かわいいお友達だね？=Những người bạn dễ thương quá, đúng không?
+ごっこ、ではない！\nちゃんとした訓練だ！=Đó không phải chơi làm lính!\nĐây là buổi tập luyện thực sự!
+これは、多人数を想定した戦闘訓練だ。\n子供はすばしっこいからな。\nこちらの足腰も鍛えられて──=Đây là bài tập chiến đấu được thiết kế cho nhiều người. Các bạn thấy đấy, trẻ em rất nhanh nhẹn. Nó cũng sẽ rèn luyện đôi chân và cơ hông của chúng ta...
+
+あ、お父さんだ！\nお父さーん！　こっちこっちー！=Ồ, là Bố!\nBố, tới đây!
+みんな、娘と仲良くしてくれてありがとうね。\n今日もお菓子を持ってきたよ。=Mọi người, cảm ơn vì đã đối xử tốt với con gái tôi.\nHôm nay tôi cũng mang theo đồ ăn vặt nữa.
+わーい！=Hoan hô!
+ふん、菓子ごときで浮かれて……\nこれだから子供は。=Hừ, lại phấn khích vì đồ ăn vặt...\nTrẻ con vốn thế mà.
+……し、しかし、私だけもらわないというのも、\n和を乱す行為だ。\nうん、それはよくないな。=...Nh-Nhưng, nếu chỉ có mình không hiểu, sẽ làm mất đi sự bình yên này. Ừ, không tốt chút nào.
+モニカちゃんも、どうぞ。=Monika-chan, cậu ăn thử đi.
+
+う、うむ。\nいつも悪いな。=Dạ, được ạ.\nCảm ơn cậu nhiều.
+
+な、なんだ、{playername}？\nその疑いの目は？=K-Không, sao vậy, {playername}? Sao lại nhìn mình với ánh mắt đầy nghi ngờ vậy?
+
+私が菓子をもらうために\nここに来ていると言いたいのか！？\nち、違うぞ！　そんなわけがない！=Cậu đang muốn nói mình ở đây chỉ để lấy đồ ngọt à?! K-Không! Tất nhiên là không!
+菓子ほしさに、子供の遊び相手になるなど……\n誇り高き軍人が、そんなことをするはずがない！\nう、う、ウソではないぞ！=Làm sao có thể chứ, một người lính tự hào như mình lại làm chuyện như vậy... để chơi với một đứa trẻ chỉ vì nó muốn đồ ngọt! M-M-Mình không nói dối!
+モニカちゃん！\nはやくさっきの続きしよー！=Monika-chan! Chúng ta tiếp tục việc vừa làm thôi!
+
+あ、ああ、そうだな！\n私はあの子たちの相手をしなくてはならない！\nではな、{playername}！=Ừ-Ừ, đúng rồi!\nMình phải đối phó với chúng!\nGặp lại sau nhé, {playername}!
+
+
+モニカちゃん、このお菓子おいしいよ。\n半分あげる。=Monika-chan, đồ ăn vặt này ngon quá.\nMình sẽ chia cho cậu một nửa.
+いいのか？\nでは、私のも半分にわけてやる。=Được không?\nVậy, mình cũng chia một nửa đồ của mình cho cậu.
+
+子供たちと仲良くしているモニカを、\n微笑ましく見守る{playername}であった。={playername} nhìn Monika, người đang vui vẻ chơi đùa cùng các bạn nhỏ, với một nụ cười trên môi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Yamato's Birthday
+
+よっと──これでクリアだ。ボーヤもなかなかじゃないか。\nおっとりした見た目のくせに、\nガンシューティングが得意とは意外だね。=Toh... và thế là chúng ta đã vượt qua. Không tồi chút nào, cậu. Dù ngoại hình dịu dàng, tớ ngạc nhiên vì cậu giỏi trò bắn súng thế này.
+次はあっちのクレーンゲームを空っぽにしてやろうかい。\n誕生日を祝ってくれるんだろう？\nそれならアタシの気が済むまで付き合ってもらわないとね♪=Tiếp theo, sao không đi chơi trò cần cẩu kia? Cậu đang ăn mừng sinh nhật tớ, phải không? Vậy thì cậu nên đi cùng tớ cho đến khi tớ thỏa thích♪
+いいかい、このゲーセンはプライズのラインナップが\n他と一味違うんだ。\nほら、景品をよぅく見てみな。=Nghe này, danh sách giải thưởng ở sân chơi này còn hơn hẳn chỗ khác. Đi, nhìn kỹ đi.
+ああ、現物はこっちさ。\nあのエフェクターは歪み系としちゃなかなか音がいいんだ。\nアタシも前に目を付けてたんだが、すぐに廃盤になっちまったんだよ。=Ừ, giải thưởng thực sự là cái này. Đối với một pedal distortion, thứ đó có âm thanh thật tuyệt. Trước đây tớ cũng đã để ý nó, nhưng nó đã ngừng sản xuất rất nhanh.
+まさかこんなところでお目にかかれるとはね。\nプレミアが付くようなものだってのは店側も理解してるらしい。\nこれでもかってくらいでかい重石が引換券についてるだろ。=Không ngờ tớ lại thấy nó ở nơi như thế này. Có vẻ như ngay cả sân chơi cũng biết nó gần như là một món đồ sưu tập. Thấy cách họ đặt giá vé khủng khiếp để cân bằng chưa?
+ははっ、店主としちゃ両方あって心が揺れるってとこだろ。\nそれにしてもこれは──普通に取ろうとしたら100プレイぐらいか？\n金と時間と根性、それに技術──全部必要な大勝負ってとこだね。=Hà, nếu tớ là chủ, tớ sẽ phân vân giữa việc muốn nó biến mất và muốn nó ở lại. Dù sao... thứ này, nếu cậu thử thắng một cách bình thường, sẽ mất bao nhiêu lần chơi? Tiền, thời gian, can đảm và kỹ năng -- cậu cần tất cả cho một canh bạc kiểu này.
+ボーヤが？\nアンタこんなもの欲しがるような奴にゃ見えなかったけど……\n面白いじゃないか。アンタの挑戦、見届けてやるよ。=Cậu sẽ thử, hả cậu? Tớ không nghĩ cậu là kiểu người theo đuổi thứ như thế này... Nhưng tớ thích. Tớ sẽ ở lại và xem thử thách của cậu diễn ra sao.
+……はは、本当に取っちまった。よくもまあここまで粘ったもんだ。\nそんなにそのプライズにご執心だったのかい？\n確かにいいスペックはしてるが……="...Haha, cuối cùng cậu cũng lấy được. Tớ ấn tượng vì cậu đã chịu đựng lâu như vậy. Cậu đam mê giải thưởng này đến thế sao? Không thể phủ nhận nó có thông số kỹ thuật tuyệt vời, nhưng..."
+は？\n……あっははは、いつになく真剣だと思ったらそういうことか！\nそれじゃ、ありがたく受け取っとくよ。=Hả? ...Ahahaha, tớ nghĩ cậu đang nghiêm túc bất thường, hóa ra cậu theo đuổi thứ này! Được rồi, vậy tớ sẽ vui vẻ nhận nó.
+そうとくれば──帰るよ、ボーヤ。\n義弟が苦労して取ってくれたもんを試さないワケにはいかないからね。\n今日はアンタの戦利品で、アタシが一曲聞かせてやるよ！=Với kết quả như vậy, chúng ta về nhà thôi, cậu. Tớ không thể không thử thứ mà em rể thân thiết của tớ đã cố gắng hết sức để giành lấy cho tớ. Tối nay, tớ sẽ chơi một bản nhạc bằng chiến lợi phẩm mà cậu đã vất vả kiếm được!
+
+Player Prompts
+エフェクター……の引換券？=Một vé đổi pedal hiệu ứng...?
+取ってほしくないのかな。=Có lẽ chủ không muốn nó thực sự bị thắng
+じゃあ、僕がとります。=Vậy tớ sẽ thắng nó
+どうぞ、プレゼントです。=Đây, quà sinh nhật của cậu

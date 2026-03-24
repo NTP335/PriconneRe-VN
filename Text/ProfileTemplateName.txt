@@ -1,0 +1,30 @@
+フレームデザイン選択=Lựa chọn thiết kế khung
+アニバーサリー=Kỷ niệm
+ピンク=Hồng
+レッド=Đỏ
+イエロー=Vàng
+グリーン=Xanh lá
+ライトブルー=Xanh nhạt
+ブルー=Xanh dương
+パープル=Tím
+グレー=Xám
+
+
+カードデザイン選択=Chọn thiết kế thẻ
+不思議の国の平原=Đồng bằng Wonderland
+不思議の国のお城=Lâu đài Wonderland
+ハロウィンの昼=Chiều Halloween
+きのこと小川=Nấm của Ogawa
+きのこと秋の渓谷=Thung lũng thu phủ đầy nấm
+クリスマスの夜=Đêm Giáng sinh
+クリスマスの昼=Chiều Giáng sinh
+初日の出=Bình minh ngày đầu năm mới
+願い竹の村の夜=Đêm làng tre thanh bình
+願い竹の村の昼=Trưa làng tre thanh bình
+天の川=Dải Ngân Hà
+ハロウィンの夜=Đêm Halloween
+海中の背景=Phông nền dưới nước
+サマービーチの朝日=Bình minh bãi biển mùa hè
+サマービーチの夕日=Hoàng hôn bãi biển mùa hè
+サマービーチの星空=Bầu trời sao bãi biển mùa hè
+

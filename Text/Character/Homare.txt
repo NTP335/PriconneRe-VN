@@ -1,0 +1,40 @@
+##Profile##
+妖しい微笑で全てを見透かす臥竜の頭領=Trưởng bang Rồng nhìn thấu mọi thứ với nụ cười bí ẩn
+
+【魔法】後衛から無窮の魔力で全てを支配する龍の首領。障壁となる敵を龍眼で捉え、多彩な補助系スキルで敵の魔法攻撃からの耐性を弱め、雷霆の一撃で灰燼に帰す。=[Ma thuật] Trưởng bang Rồng kiểm soát mọi thứ với sức mạnh ma thuật vô tận từ tuyến hậu. Với đôi mắt rồng, hắn bắt giữ kẻ thù trở thành rào cản và làm suy yếu sức kháng với M.ATK của chúng bằng các kỹ năng hỗ trợ đa dạng trước khi đốt cháy chúng bằng một đòn sấm sét.
+
+絵画、読書=Vẽ tranh, đọc sách
+
+青空ドローイング=Blue Sky Drawing
+女王との会談=Talks with the Queen
+君と未来を見る眼=Eyes that see the future with you
+埒外の再会=Reunion outside
+作者と読者と奇妙な縁と=The author, the reader, and the strange relationship
+クラック・ザ・リドル=Crack the Riddle
+ボスとないしょのおしごと=Jobs with Boss
+臥竜点睛=Point of sleepy dragon
+
+##UB##
+ドラゴンズドゥーム=Dragon's Doom
+最も魔法攻撃力が高い敵１キャラが龍眼状態だった場合に魔法特大ダメージを与え、魔法防御力を中ダウンさせる。さらに敵全体に魔法中ダメージを与える。=Gây sát thương ma thuật (M.DMG) lớn và giảm trung bình M.DEF của kẻ địch có M.ATK cao nhất đang bị ảnh hưởng bởi Dragon's Eyes, đồng thời gây sát thương ma thuật (M.DMG) trung bình lên tất cả kẻ địch.
+r:"^対象が龍眼状態だった場合(\d+)の魔法ダメージ龍眼状態の敵の魔法防御力を(\d+)ダウン敵全体に(\d+)の魔法ダメージ$"=►Gây $3 M.DMG lên tất cả kẻ địch.\n\nNếu kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes:\n►Gây $1 M.DMG lên kẻ địch.\n►Giảm M.DEF của kẻ địch $2 trong 18s.
+
+##S1##
+マインドクラック=Mind crack
+龍眼状態の敵すべての魔法防御力を中ダウンさせる。龍眼状態の敵がいない場合、最も魔法攻撃力が高い敵１キャラを龍眼状態にし、さらに魔法攻撃を受けた際のダメージを小アップさせる。=Giảm trung bình M.DEF của tất cả kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes.\nNếu không có kẻ địch nào bị ảnh hưởng bởi Dragon's Eyes, áp dụng Dragon's Eyes lên kẻ địch có M.ATK cao nhất.
+r:"^龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態中、その敵が受ける魔法ダメージを12％アップ$"=Thời gian niệm: 1.09s\n►Giảm M.DEF của kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes $1 trong 12s.\n►Nếu không có kẻ địch nào bị ảnh hưởng bởi Dragon's Eyes: áp dụng Dragon's Eyes lên kẻ địch có M.ATK cao nhất.\n\n►Dragon's Eyes: tăng sát thương ma thuật (M.DMG) nhận vào 12%.
+
+##S2##
+エクスプロイトフレイム=Exploit Flame
+龍眼状態の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに自分のＴＰを小回復する。=Gây sát thương ma thuật (M.DMG) trung bình lên tất cả kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes, giảm nhẹ M.DEF và tăng nhẹ M.CRIT DMG. Ngoài ra, hồi một lượng nhỏ TP cho bản thân.
+r:"^龍眼状態の敵に(\d+)の魔法ダメージ龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態の敵がクリティカルを受けた際のダメージを10％アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.09s\n►Hồi TP cho bản thân $3.\n\nNếu kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes:\n►Gây $1 M.DMG lên kẻ địch.\n►Giảm M.DEF của kẻ địch $2 trong 12s.\n►Tăng sát thương chí mạng ma thuật (M.CRIT DMG) mà kẻ địch nhận vào 10% trong 12s.
+
+##SP1##
+龍眼=Mắt Rồng
+このスキルのスキルレベルは「ドラゴンズ\nドゥーム」と連動しています=Cấp độ kỹ năng này liên kết với "Số Phận Rồng"
+最も魔法攻撃力が高い敵１キャラを龍眼状態にし、さらに魔法攻撃を受けた際のダメージを小アップさせる。=Gây hiệu ứng Mắt Rồng lên kẻ địch có M.ATK hiện tại cao nhất.
+龍眼状態中、その敵が受ける魔法ダメージを12％アップ=Thời gian niệm: 0.93s\n►Đánh dấu kẻ địch với trạng thái Mắt Rồng trong 180s.\n►Mắt Rồng: tăng sát thương phép nhận lên 12%.
+
+##EX##
+クロージングアイズ+=Nhắm Mắt+
+クロージングアイズ=Nhắm Mắt

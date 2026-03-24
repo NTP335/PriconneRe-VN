@@ -1,0 +1,40 @@
+三味線、死魔エナガのお世話=Shamisen, take care of the Death Demon Long-tailed Tit
+雪女=Snow Woman
+ポップ・タルト=Pop tart
+ジオ・ニヴルヘル_久遠氷河=Gio Nivlhel: Eternal Glacier
+真白き冬化粧を纏う、一途な心の雪女=Một người phụ nữ tuyết trung thành khoác trên mình lớp trang điểm mùa đông thuần trắng.
+
+雪女の慟哭=Lời than thở của Người phụ nữ tuyết
+純朴雪女、初めての都会へ=Yuki-onna vô tội lần đầu tiên đi đến thành phố
+はじめておけいこ=Bài học đầu tiên
+雪女、ラブラブ夫婦になる=Yuki-onna và người thân yêu của cô trở thành một cặp đôi yêu nhau
+
+##Profile##
+【魔法】後衛から、雪魄氷姿の三味を弾じる初心な雪女。多様なデバフ効果で敵を弱体化させ、最も魔防の低い敵の状態に応じて発生する追加効果で、冥府を真白に染める。=[Magic] Một người phụ nữ tuyết thuần khiết và vô tội ở hàng sau, chơi shamisen với sự thanh lịch băng giá. Cô yếu kẻ thù với nhiều loại debuffs, và tùy theo điều kiện của kẻ thù có M.DEF thấp nhất, kích hoạt hiệu ứng bổ sung khiến thế giới ngầm trắng toát.
+
+##UB##
+涅槃雪・勧進帳=Nirvana Snow: Sacred Deception
+前方の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法攻撃力ダウン状態だった場合、その敵のクリティカルを受けた際のダメージを小アップさせる。発動時既に最も魔法防御力の低い敵１キャラがＴＰ上昇ダウン状態だった場合、その敵に追加の魔法特大ダメージを与え、魔法攻撃を受けた際のダメージを小アップさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Gây ra lượng M.DMG lớn cho tất cả kẻ thù phía trước và giảm nhẹ M.DEF của chúng. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng M.ATK giảm, tăng nhẹ sát thương mà kẻ thù đó nhận khi bị chí mạng. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng TP Boost giảm, gây thêm lượng M.DMG khổng lồ cho kẻ thù đó và tăng nhẹ sát thương phép mà kẻ thù đó nhận. Mỗi lần kỹ năng này được sử dụng, sát thương tăng, tối đa ba lần.
+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン最も魔法防御力の低い敵が魔法攻撃力ダウン状態の時、敵単体の被クリダメを6％アップ最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体が受ける魔法ダメージを3％アップ$"=►Gây $1 M.DMG cho kẻ thù trong phạm vi.\n►Giảm M.DEF của kẻ thù trong phạm vi thêm $2.\n\nNếu kẻ thù có M.DEF thấp nhất có M.ATK Down:\n►Tăng sát thương chí mạng mà một kẻ thù nhận thêm 6％.\n\nNếu kẻ thù có M.DEF thấp nhất có TP Boost Down:\n►Gây $3 M.DMG cho một kẻ thù.\n►Tăng M.DMG nhận thêm của một kẻ thù thêm 3％.
+
+
+##S1##
+すくたれ・霜枯=Sukutare: Withering Frost
+前方の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法防御力ダウン状態だった場合、その敵の魔法攻撃力を大ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラが魔法攻撃力ダウン状態だった場合、その敵に追加の魔法大ダメージを与え、ＴＰ上昇を小ダウンさせ、さらに味方全体のＨＰを小回復させる。=Gây M.DMG trung bình cho tất cả kẻ thù phía trước và giảm nhẹ M.DEF của chúng. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng M.DEF giảm, giảm mạnh M.ATK của kẻ thù đó. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng M.ATK giảm, gây thêm lượng M.DMG lớn cho kẻ thù đó, giảm nhẹ TP Boost của họ, và đồng thời hồi phục nhẹ HP cho tất cả đồng đội.
+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン最も魔法防御力の低い敵が魔法防御力ダウン状態の時、敵単体の魔法攻撃力を(\d+)ダウン最も魔法防御力の低い敵が魔法攻撃力ダウン状態の時、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体のＴＰ上昇を(\d+)ダウン味方全体のＨＰを(\d+)回復$"=►Gây $1 M.DMG cho kẻ thù trong phạm vi.\n►Giảm M.DEF của kẻ thù trong phạm vi thêm $2.\n\nNếu kẻ thù có M.DEF thấp nhất có M.DEF Down:\n►Giảm M.ATK của một kẻ thù thêm $3.\n\nNếu kẻ thù có M.DEF thấp nhất có M.ATK Down:\n►Gây $4 M.DMG cho một kẻ thù.\n►Giảm TP Boost của một kẻ thù thêm $5.\n►Hồi phục HP cho tất cả đồng đội thêm $6.
+
+
+##S2##
+早雪・河東節=Early Snow: Ballad
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、さらに、敵全体の行動速度を大ダウン、移動速度を小ダウンさせる。発動時既に最も魔法防御力の低い敵１キャラがＴＰ上昇ダウン状態だった場合、敵全体に魔法大ダメージを与え、ＴＰを中ダウンさせる。=Tăng mạnh M.ATK của tất cả đồng đội, tăng rất mạnh M.CRIT RATE của họ, và tăng nhẹ M.CRIT DMG của họ. Đồng thời, giảm mạnh tốc độ hành động của tất cả kẻ thù và giảm nhẹ tốc độ di chuyển của chúng. Nếu khi kích hoạt, kẻ thù có M.DEF thấp nhất đã chịu hiệu ứng TP Boost giảm, gây lượng M.DMG lớn cho tất cả kẻ thù và giảm trung bình TP của chúng.
+
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法クリダメを8％アップ敵全体の行動速度50％ダウン敵全体の移動速度を一定時間低下させる最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵全体に(\d+)の魔法ダメージ敵全体のＴＰを150失わせる$"=►Tăng M.ATK của đồng đội thêm $1.\n►Tăng M.CRIT RATE của đồng đội thêm 120.\n►Tăng M.CRIT DMG của đồng đội thêm 8％.\n►Giảm tốc độ hành động của tất cả kẻ thù thêm 50％.\n►Giảm tốc độ di chuyển của tất cả kẻ thù trong một thời gian.\n\nNếu kẻ thù có M.DEF thấp nhất có TP Boost Down:\n►Gây $2 M.DMG cho tất cả kẻ thù.\n►Giảm TP của tất cả kẻ thù thêm 150.
+
+
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法クリダメを8％アップ敵全体の行動速度を一定時間低下させる敵全体の移動速度を一定時間低下させる最も魔法防御力の低い敵がＴＰ上昇ダウン状態の時、以下の効果が発動する敵全体に(\d+)の魔法ダメージ敵全体のＴＰを150失わせる$"=►Tăng M.ATK của đồng đội thêm $1.\n►Tăng M.CRIT RATE của đồng đội thêm 120.\n►Tăng M.CRIT DMG của đồng đội thêm 8％.\n►Giảm tốc độ hành động của tất cả kẻ thù trong một thời gian.\n►Giảm tốc độ di chuyển của tất cả kẻ thù trong một thời gian.\n\nNếu kẻ thù có M.DEF thấp nhất có TP Boost Down:\n►Gây $2 M.DMG cho tất cả kẻ thù.\n►Giảm TP của tất cả kẻ thù thêm 150.
+
+##EX##
+幽天・月冴え=Gloomy Heavens: Clear Moon
+幽天・月冴え+=Gloomy Heavens: Clear Moon+

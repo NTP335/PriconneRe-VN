@@ -1,0 +1,60 @@
+チュートリアル=Hướng dẫn
+クリアランク=Hoàn thành hạng
+連携=Liên kết
+
+
+r:"^(\[[0-9A-F]{6}\])?プレイヤーLvを(\d+)にしよう(\[-\])?$"="$1Đạt đến Cấp Người chơi $2[-]"
+
+sr:"^(\[[0-9A-F]{6}\])?(メイン|イベント)クエスト(.+)をクリアしよう(\[-\])?$"="$1Hoàn thành Nhiệm vụ $2 $3$4"
+sr:"^(\[[0-9A-F]{6}\])?(メイン|イベント)クエスト(.+)前編をクリアしよう(\[-\])?$"="$1Hoàn thành Nhiệm vụ $2 $3 (Phần 1)$4"
+sr:"^(\[[0-9A-F]{6}\])?(メイン|イベント)クエスト(.+)後編をクリアしよう(\[-\])?$"="$1Hoàn thành Nhiệm vụ $2 $3 (Phần 2)$4"
+r:"^(\[[0-9A-F]{6}\])?イベント中編クエスト(.+)をクリアしよう(\[-\])?$"=$1Hoàn thành Nhiệm vụ Sự kiện $2 (Phần Giữa)$3
+
+r:"^(\[[0-9A-F]{6}\])?クリアランクの☆を(\d+)個集めよう(\[-\])?$"="$1Thu thập sao $2★$3"
+sr:"^(\[[0-9A-F]{6}\])?([\d+]+月)クランバトル \(クランモード\)で([1-5])段階目に到達しよう(\[-\])?$"="$1Đạt đến Boss Tầng $3 trong Trận Chiến Bang Hội ($2)[-]"
+r:"^(\[[0-9A-F]{6}\])?フレンドバトルで(\d+)回戦おう(\[-\])?$"="$1Thực hiện trận đấu bạn bè $2 lần $3"
+r:"^(\[[0-9A-F]{6}\])?(\d+)キャラ獲得しよう(\[-\])?$"="$1Tổng cộng chiêu mộ $2 nhân vật$3"
+r:"^(\[[0-9A-F]{6}\])?聖跡調査クエストLv(\d+)をクリアしよう(\[-\])?$"="$1Hoàn thành Nhiệm vụ Khảo sát Thánh Địa Cấp $2$3"
+r:"^(\[[0-9A-F]{6}\])?神殿調査クエストLv(\d+)をクリアしよう(\[-\])?$"="$1Hoàn thành Nhiệm vụ Hành Hương Đền Cấp $2$3"
+r:"^(\[[0-9A-F]{6}\])?(\d+)キャラをRANK(\d+)にしよう(\[-\])?$"="$1Thăng hạng $2 nhân vật lên RANK $3$4"
+sr:"^(\[[0-9A-F]{6}\])?(バトルアリーナ|プリンセスアリーナ)で(\d+)(回勝利しよう|勝しよう)(\[-\])?$"="$1Thắng $3 lần tại $2$5"
+r:"^(\[[0-9A-F]{6}\])?バトルアリーナで(\d+)回勝利しよう(\[-\])?$"="$1Thắng $2 lần tại Đấu Trường$3"
+r:"^(\[[0-9A-F]{6}\])?ルナの塔(\d+)階をクリアしよう(\[-\])?$"="$1Hoàn thành Tầng $2 của Luna Tower$3"
+r:"^(\[[0-9A-F]{6}\])?ルナの塔(\d+)階EXクエストをクリアしよう(\[-\])?$"="$1Hoàn thành Nhiệm vụ EX Tầng $2 của Luna Tower$3"
+r:"^(\[[0-9A-F]{6}\])?★([1-6])のキャラを獲得しよう(\[-\])?$"="$1Chiêu mộ một nhân vật $2 sao$3"
+r:"^(\[[0-9A-F]{6}\])?ギルドハウスアイテムを(\d+)個設置しよう(\[-\])?$"="$1Trang bị $2 vật phẩm nhà guild$3"
+sr:"^(\[[0-9A-F]{6}\])?ダンジョン「(.+)」を制覇しよう(（追加）)?(\[-\])?$"="$1Hoàn thành Dungeon "$2"$3$4"
+
+r:"^(\[[0-9A-F]{6}\])?アドベンチャーを(\d+)回完了させよう(\[-\])?$"=$1Hoàn thành cuộc phiêu lưu $2 lần $3
+
+r:"^(\[[0-9A-F]{6}\])?【期間限定】メインストーリー第(\d+)部 第(\d+)章の第(\d+)話を閲覧しよう(\[-\])?$"=$1[Thời gian giới hạn] Xem cốt truyện chính Phần $2 Chương $3 Tập $4$5
+
+r:"^(\[[0-9A-F]{6}\])?(\d+)キャラのコネクトRANKを(\d+)まで上げよう(\[-\])?$"=$1Hãy nâng Connect RANK của $2 nhân vật lên $3$4
+
+
+sr:"^(.+?)のマスタリー(.)ヵ所をレベル(.)以上にしよう$"=Nâng tất cả cấp độ thành thạo $2 $1 lên cấp $3 trở lên
+
+（追加）=(Phụ)
+[3C404E]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[3C404E]Hoàn thành Dungeon EX-V Mode 1[-]
+[3C404E]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[3C404E]Hoàn thành Dungeon EX-V Mode 2[-]
+[3C404E]チュートリアルをクリアしよう[-]=[3C404E]Hoàn thành hướng dẫn[-]
+[3C404E]クランでダンジョンのサポートキャラを設定しよう[-]=[3C404E]Đặt Nhân vật thuê cho Dungeon trong Clan[-]
+[3C404E]クランでクランバトル・ルナの塔のサポートキャラを設定しよう[-]=[3C404E]Đặt Nhân vật thuê cho CB/Luna trong Clan[-]
+[3C404E]フレンドでクエストのサポートキャラを設定しよう[-]=[3C404E]Đặt Nhân vật thuê cho Nhiệm vụ trong Clan[-]
+[3C404E]フレンドをつくろう[-]=[3C404E]Thêm bạn bè[-]
+[3C404E]データ連携、またはアカウント連携を設定しよう[-]=[3C404E]Thiết lập liên kết dữ liệu hoặc liên kết tài khoản[-]
+[3C404E]称号を受け取ろう[-]=[3C404E]Nhận danh hiệu[-]
+
+[FFFFFF]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[FFFFFF]Hoàn thành Dungeon EX-V Mode 1[-]
+[FFFFFF]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[FFFFFF]Hoàn thành Dungeon EX-V Mode 2[-]
+[FFFFFF]チュートリアルをクリアしよう[-]=[FFFFFF]Hoàn thành hướng dẫn[-]
+[FFFFFF]クランでダンジョンのサポートキャラを設定しよう[-]=[FFFFFF]Đặt Nhân vật thuê cho Dungeon trong Clan[-]
+[FFFFFF]クランでクランバトル・ルナの塔のサポートキャラを設定しよう[-]=[FFFFFF]Đặt Nhân vật thuê cho CB/Luna trong Clan[-]
+[FFFFFF]フレンドでクエストのサポートキャラを設定しよう[-]=[FFFFFF]Đặt Nhân vật thuê cho Nhiệm vụ trong Clan[-]
+[FFFFFF]フレンドをつくろう[-]=[FFFFFF]Cùng kết bạn[-]
+[FFFFFF]データ連携、またはアカウント連携を設定しよう[-]=[FFFFFF]Thiết lập liên kết dữ liệu hoặc liên kết tài khoản[-]
+[FFFFFF]称号を受け取ろう[-]=[FFFFFF]Nhận danh hiệu[-]
+登頂せよ！『四彩の霊峰』=Leo lên! "Núi Thiêng Bốn Màu"
+
+
+ルナの塔頂上EXクエストをクリアしよう=Hoàn thành nhiệm vụ EX ở đỉnh Tháp Luna

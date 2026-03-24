@@ -1,0 +1,29 @@
+ちょっとだけお嬢さま=Tạm Thời Trở Thành Quý Cô
+スズメ、進め！=Suzume, Cố lên!
+今日は、メイドじゃなくて=Hôm Nay, Tớ Không Phải Hầu Gái
+私もたまには、特別に=Đôi Lúc, Ngay Cả Tớ Cũng Sẽ Làm Ngoại Lệ
+
+lv1
+メイド服でもお仕事着でもない服を着るのは\nまだ少し慣れませんが…お嬢さまのメイドとして\nしっかりと着こなせるようにがんばりますぅ！\n=Tớ vẫn chưa quen với việc mặc những thứ không phải đồng phục hầu gái hay đồng phục công việc... Nhưng tớ sẽ cố gắng trông thật tốt khi mặc nó với tư cách là hầu gái của Milady!
+
+lv2
+いつもなら、自分の服を繕っている時は\nちょっと申し訳なく感じるのですが…この服は\nとても楽しく作業できました。どうしてなんでしょう？\n=Thông thường, tớ cảm thấy hơi có lỗi khi tự sửa quần áo của mình... Nhưng tớ đã rất vui khi sửa bộ trang phục này. Tớ tự hỏi tại sao vậy?
+
+lv3
+この服を着ていると、救護院のみんなだけじゃなくて\nお外で出会う人たちも笑顔になってくれるんです\n=Khi tớ mặc bộ trang phục này, không chỉ người ở nhà trẻ mà cả người bên ngoài cũng đang mỉm cười.
+みなさん、とてもやさしい笑顔を向けてくれて…\nふふっ、なんだか恥ずかしがってるのが\n勿体なく感じてきました\n=Nhìn nụ cười rạng rỡ của mọi người... Hehe, tớ bắt đầu cảm thấy mình không nên xấu hổ ngay từ đầu.
+やっぱり、お花って人を幸せにしてくれるんですね\nこのお花に負けないように、\n私もみなさんの幸せのためにがんばります！\n=Hoa thực sự làm người ta vui vẻ, phải không? Tớ sẽ không thua những bông hoa này, vì vậy tớ sẽ cố gắng làm mọi người vui vẻ!
+
+lv4
+今度救護院の庭に、みんなでお花を植えるんです\nもしよかったら、あなたも一緒にどうですか？\nも、もちろん服は汚れてもいい服でやりますよ？\n=Lần sau, mọi người ở nhà trẻ sẽ trồng hoa trong khu vườn của nhà trẻ. Có lẽ, cậu có muốn tham gia không? Và tất nhiên, chúng tớ sẽ mặc những bộ đồ có thể bị bẩn.
+
+lv5
+そういえば先日、この服を着ている時はいつも笑顔ね\nとお嬢さまに言われたんです。自分では気づかなかった\nのですが…私、笑ってました？　そ、そうなんですね！\n=Nhớ lại, ngày kia, Milady bảo rằng tớ luôn mỉm cười khi mặc bộ trang phục này. Tớ không để ý bản thân, nhưng... Tớ có thực sự cười suốt thời gian đó không? Ồ-Ồ, tớ hiểu rồi!
+
+lv6
+だいぶ着慣れてきたのでしょうか…最近はこの服を\n着ていても緊張せず、自然に過ごせている気がします\nきっと、あなたが褒めてくれるからだと思います♪\n=Tớ tự hỏi liệu mình đã quen với việc mặc bộ trang phục này chưa... Tớ không nghĩ mình còn lo lắng khi mặc nó gần đây, và tớ nghĩ đó là vì cậu luôn khen tớ khi tớ mặc nó♪
+
+lv7
+これまでは、メイドのお仕事がお休みの時は\nなんだか落ち着かないままだったんですけど…\n最近は違うんです\n=Cho đến bây giờ, tớ luôn cảm thấy hơi bất an khi nghỉ việc hầu gái... Nhưng bây giờ thì khác.
+もちろん、私は心の底からお嬢さまのメイドですよ？\nですけど、メイドじゃない自分という時間から\n目を逸らしていたのかもしれません…\n=Tất nhiên, tớ vẫn là hầu gái của Milady từ tận đáy lòng. Nhưng có lẽ tớ đã tránh đối mặt với chính mình mỗi khi không làm việc như một hầu gái...
+それに気付かせてくれたのはこの服と、あなたなんです\nですので、よければこれからも、メイドじゃない時も\n一緒に過ごしてくださると、うれしいです…♪\n=Tớ đã nhận ra điều này nhờ bộ trang phục này, và nhờ cậu. Vì vậy, nếu cậu không phiền, tớ sẽ rất vui nếu cậu tiếp tục dành thời gian với tớ ngay cả khi tớ không làm việc như một hầu gái...♪

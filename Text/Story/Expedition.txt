@@ -1,0 +1,14 @@
+Pecorine's Birthday, 2025
+『オイッス～☆\nお待たせしましたっ、{playername}くん。\n二人で一緒にお出かけなんて、うれしいです♪』=Chào~☆ Xin lỗi vì để cậu đợi, {playername}-kun. Mình rất vui vì được đi chơi cùng cậu♪
+『今日は一日、朝から晩まで！　一緒に過ごせるんですから♪\n日帰りで行ける所ならどこだって行っちゃいますよ？\nさあ、レッツゴーです！』=Hôm nay, từ sáng đến tối...! Chúng ta sẽ dành cả ngày bên nhau♪ Vì vậy, hãy cố gắng đi hết tất cả những nơi có thể trong một ngày, nhé? Nào, đi thôi!
+『あっ、見てください！\nフラミンゴ！　ピンクでかわいいですね☆』=À, nhìn kìa! Hồng hạc! Chúng hồng quá và dễ thương quá, phải không☆
+『パンダが食べる笹の量って、すっごく多いらしいですよ。\nわたしもおいしいものは大好きですけど、\nパンダの食事量にはかないませんね～♪』=Nghe nói, lượng tre một con gấu trúc ăn thật sự rất lớn. Mình cũng là người sành ăn đấy, nhưng có lẽ không bằng thói quen ăn uống của gấu trúc đâu~♪
+『もう一回行きませんか、メリーゴーランド！\n……って、あらら、目が回っちゃってますね……\nじゃあ休憩がてら、観覧車に行きましょう♪』=Cậu có muốn chơi thêm lần nữa không? Ở cái ngựa gỗ này ấy! ...Khoan, ôi trời... Có vẻ mình bị chóng mặt rồi... Vậy thì, hãy nghỉ ngơi bằng cách lên cái vòng quay kia♪
+『ここの観覧車、大きくてやばいですね☆\n都心のビルも、その向こうの街も、あっほらほら！\nあなたが前に自転車で落ちた川もよく見えますよ！』=Cái vòng quay này to thật... không phải là quá lớn sao☆? Cậu có thể nhìn thấy các tòa nhà ở trung tâm thị trấn ở đây, nhưng cả những tòa nhà của thị trấn bên kia nữa—À, nhìn kia kìa! Cậu cũng có thể nhìn rõ con sông nơi cậu ngã xe lần đó!
+『あの時は大変でしたけど、風邪をひかなくてよかったです♪\nあなたが住む街をこんなふうに一緒に見られて……\nうまく言えないけど、ちょっと、いえすごく、幸せです。』=Lúc đó tình hình khó khăn thật, mình chỉ mừng là cậu không bị cảm lạnh♪ Được cùng cậu nhìn thấy thị trấn nơi cậu sống như thế này... Mình thực sự không thể diễn tả cảm xúc này bằng lời, nhưng nó khiến mình cảm thấy một chút—Không, thực sự, rất hạnh phúc.
+『あ……もう、こんな時間ですね。\n最後に一か所、行きたいところ。\n付き合ってくれますか？』=À... Có vẻ đã trễ rồi. Còn một nơi cuối cùng mình muốn đến. Cậu sẽ đi cùng mình chứ?
+『わたしの国はとっても遠いですけど。\n海に来ると、海はあなたの国とつながってるって感じられるから。\nだから、心強くて。何があってもきっと、大丈夫だって思えます♪』=Như cậu biết đấy, quê hương mình rất xa nơi này. Vậy mà, khi mình nhìn ra biển, mình cảm thấy như hai đất nước của chúng ta được kết nối bởi nó. Nó thật đáng tin cậy. Nó khiến mình cảm thấy mọi thứ sẽ ổn thôi, bất kể chuyện gì xảy ra♪
+『……えっへへ～♪　今までで一番うれしいプレゼント、\nありがとうございます、{playername}くん。\n今日一日、普通の女の子みたいにあなたと過ごせて、最高でした！』=...Ehehe~♪ Mình nên cảm ơn cậu vì món quà sinh nhật tuyệt vời nhất mình từng nhận, {playername}-kun. Mình đã được dành cả ngày với cậu như một cô gái bình thường... thực sự là tuyệt nhất!
+
+Player Prompts
+ペコさん、誕生日おめでとう。=Chúc mừng sinh nhật, Peco-san

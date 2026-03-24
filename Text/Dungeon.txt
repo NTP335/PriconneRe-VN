@@ -1,0 +1,102 @@
+帰還する=Trở về
+現在の階数=Tiến độ
+プレイヤー名=Tên Người Chơi
+対戦相手=Đối thủ
+戦闘可能キャラ=Nhân Vật Khả Dụng
+パック有効=Thời Hạn Gói
+報酬受け取り=Phần Thưởng Đã Nhận
+
+パーティ編成=Tập Hợp Đội
+現在のメンバー=Đội Hiện Tại
+
+ダンジョンへ=Đến Dungeon
+キャラ一覧へ=Đến Danh Sách Nhân Vật
+
+戦闘不能=KO
+登録済みのパーティを呼び出してバトルに挑めます。=Chọn một đội đã đăng ký.
+パーティ選択=Lựa Chọn Đội
+以下のキャラは制限のため編成できません。=Các nhân vật sau không thể sử dụng do hạn chế.
+このダイアログを表示しない=Không hiển thị hộp thoại này
+r:"^あと(\d+)時間(\d+)分は選択できません。$"=Không thể chọn trong $1h $2m.
+r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=Không thể thử thách trong $1h $2m.
+[FF7C4E,D62146]一度選択したエリアは帰還するまで変更できません。[-]=[FF7C4E,D62146]Một khi khu vực được chọn,\nkhông thể thay đổi cho đến khi bạn trở về.[-]
+このダンジョンのボスを倒すと、スキップが可能になります。=Đánh bại boss dungeon này để bỏ qua.
+クリア回数=Số lần hoàn thành
+イベント開催までお待ちください。=Vui lòng chờ đến khi sự kiện bắt đầu.
+
+
+ダンジョンはLv10以上のキャラから編成できます。=Dungeon chỉ có thể thử thách bằng các Nhân Vật Lv 10 trở lên.
+---Return---
+帰還確認=Trở về
+[3C404E]帰還しますか？[-]=[3C404E]Trở về từ dungeon này? [-]
+[FF7C4E,D62146]帰還すると最初からのスタートになります。[-]=[FF7C4E,D62146]Nếu quay trở lại, bạn sẽ phải bắt đầu lại hầm ngục từ đầu.[-]
+[FF7C4E,D62146]獲得した報酬は失われません。[-]=[FF7C4E,D62146]Phần thưởng đã nhận sẽ không bị mất.[-]
+
+---Tittle dungeon---
+砂瀑の底都=Sandfall's Capital
+天上の浮城=Heaven's Fortress
+緑竜の骸嶺=Jadewyrm's Roost
+毒瘴の闇稜=Darkblight Crag
+蒼海の孤塔=Tideborne Tower
+断崖の遺跡=Sheercliff Ruins
+密林の大樹=Deepwood Oak
+雲海の山脈=Cloudtop Peak
+紺碧の王砦=Azure King's Fortress
+---Select---
+エリア選択確認=Chọn khu vực
+sr:"^エリア「(.+)」に挑戦しますか？$"="Bạn có muốn thử thách khu vực\n"$1"?"
+---Dungeon names---
+sr:"^(\[[0-9A-F,]{6,13}\])(.+)\[-\]$"=$1$2[-]
+全報酬獲得済み=Đã nhận tất cả phần thưởng
+マスターピース（欠片）=Masterpiece (Shard)
+
+雲をつらぬく山脈=Ngọn núi xuyên qua mây.
+深い森の奥に存在する1本の大樹=Cây cổ thụ khổng lồ\nở sâu trong rừng.
+断崖絶壁で発見された遺跡=Hoang thổ được phát hiện trên một\nvách đá hiểm trở.
+大海原にそびえる謎の巨塔=Một tòa tháp cao và cô độc\nđược bao quanh bởi đại dương.
+瘴気渦巻く常闇の孤峰=Một vùng đêm vĩnh cửu,\nbị ô nhiễm bởi năng lượng bóng tối.
+厳峰に佇む竜の寝床=Đỉnh núi nguy hiểm nơi một\ncon rồng làm tổ.
+天空の番人が静かに眠る聖城=Pháo đài thần thánh nơi\nnhững người bảo vệ ngủ yên.
+砂の大瀑布が落ちゆく果ての都=Thủ đô ở\ncuối Cái Lỗ Cát Lớn
+紺碧の底に君臨する海王の城砦=Dưới đáy biển xanh thẳm nằm\nPháo đài của vua biển.
+
+r:"^([0-9/]+)階( EX)?$"=$1F$2
+最大HP=Max HP
+
+---Tips and Help Button---
+ボスバトル=Trận chiến boss
+確認したい遊び方を選択してください=Vui lòng chọn hướng dẫn bạn muốn xem.
+仲間にしたすべてのキャラで挑む総力戦です。各階層を突破すると「ダンジョンコイン」とランダムで「装備アイテム」\n「メモリーピース」といった報酬が獲得できます。=Một trận chiến toàn lực để lên đỉnh với sự giúp đỡ của tất cả những người bạn đã tuyển. Hoàn thành các tầng sẽ mang lại Dungeon Coins và phần thưởng ngẫu nhiên bao gồm trang bị và Memory Shards.
+各ダンジョンの最後にいるモンスターを倒すとギルドハウスで役に立つアイテムをもらえます。それぞれギルドハウスに設置するとスタミナを生産します。アイテムGETを目指し、ダンジョンを進みましょう。=Đánh bại boss ở cuối mỗi hầm ngục sẽ phần thưởng bạn với các vật phẩm hữu ích cho Guildhouse của bạn, chúng sẽ tạo ra thể lực một khi được đặt. Chiến đấu xuyên qua các hầm ngục để giành được những phần thưởng này!
+ダンジョン「砂瀑の底都」のボスバトルではバトルモードが３段階\n変化します。モンスター詳細を確認して、それぞれのバトルでどう\n戦うか、しっかり作戦を立ててくださいまし。=Trận chiến boss của hầm ngục "Sandfall's Capital" sẽ luân phiên qua ba Giai đoạn độc nhất trong trận đấu. Vui lòng kiểm tra chi tiết của quái vật và lập kế hoạch cách chiến đấu cho từng Giai đoạn.
+ダンジョン「紺碧の王砦」のボスバトルでは挑戦するたびに攻撃パ\nターンが変化します。モンスター詳細を確認して、それぞれのバト\nルでどう戦うか、しっかり作戦を立ててくださいまし。=Mẫu hình tấn công thay đổi mỗi lần bạn thử thách trận chiến boss của hầm ngục "Azure King's Fortress". Vui lòng kiểm tra chi tiết của quái vật và lập kế hoạch cách bạn sẽ chiến đấu trong mỗi trận đấu.
+
+この機能はまだ解放されていません。=Tính năng này chưa được phát hành.
+---Special Dungeon---
+階層一覧=Danh sách Lớp
+スペシャルダンジョン=Hầm ngục Đặc biệt
+まだ挑戦できません。=Chưa thể thử thách.
+全体マップ=Toàn bản đồ
+登頂回数=Tiến độ
+累計踏破階数=Tầng
+イベント情報=Thông tin sự kiện
+プレイ状況=Trạng thái chơi
+ミッションへ=Đến Nhiệm vụ
+累計踏破=Tầng
+[FF7C4E,D62146]TPが最大の状態でバトルを開始します。[-]=[FF7C4E,D62146]Trận đấu bắt đầu với TP tối đa.[-]
+
+次回挑戦から、ダンジョンの途中まで\n自動でスキップします。\n\nスキップしたバトルの報酬を獲得し、\n続きから挑戦開始します。=Cho lần thử tiếp theo, bạn có thể bỏ qua đến giữa hầm ngục. \n\nKiếm được phần thưởng cho các trận đấu bị bỏ qua và tiếp tục từ điểm giữa.
+初回クリア達成=Thành tựu Lần đầu hoàn thành
+期間最終日のためこれ以上挑戦できません。=Bạn không thể thử thách Hầm ngục vào ngày cuối cùng của thời gian sự kiện.
+イベントは開催終了しました。=Sự kiện đã kết thúc.
+このダンジョンをスキップできるようになりました！\n\n次回挑戦から、通常どおり挑戦するか\nバトルをスキップして報酬を獲得するか選択できます。=Bạn giờ có thể bỏ qua hầm ngục này!\n\nTừ lần thử tiếp theo, bạn có thể chọn bắt đầu từ đầu hoặc bỏ qua các trận đấu và nhận phần thưởng của chúng.
+スキップ条件達成=Đạt Điều Kiện Bỏ Qua
+マイログに保存したバトルのログが確認できます。=Bạn có thể xem Nhật Ký Trận Đấu đã lưu trong mục "Nhật Ký Của Tôi".
+周回数=Số vòng
+バトルログ確認=Thông Tin Nhật Ký Trận Đấu
+[FF7C4E,D62146]バトル情報がありません。[-]=[FF7C4E,D62146]Không có thông tin trận đấu nào.[-]
+黒月・白陽の守護像=Tượng Bảo Vệ Trăng Đen & Mặt Trời Trắng
+---Mission---
+
+---Story?---
+合わせた呼吸、重なる絆=Hơi thở kết hợp, Mối liên kết chồng lấn

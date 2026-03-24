@@ -1,0 +1,34 @@
+##Profile##
+【魔法】中衛で、皆を夢の世界に誘う宝石兎族の支配人。ステータスアップ効果を受けるたびに【かばばん君】を増やし、反射的に味方へ攻撃支援の恩返しをしてしまう。=[Ma thuật] Một quản lý Carbuncle mời gọi mọi người đến Thế giới Giấc mơ từ đường giữa! Mỗi lần nhận buff, cô ấy bị thôi thúc tạo ra ngày càng nhiều [Kababan-kun] để hỗ trợ bạn bè như một sự hoàn trả.
+田中美海=Tanaka Minami
+
+掃除、宝石や遊園地の手入れ=Dọn dẹp, chăm sóc ngọc và công viên giải trí
+宝石兎族=Carbuncle
+なんでもあげちゃうポンコツ支配人バニー=Một thỏ quản lý vô vọng luôn cho đi mọi thứ
+
+##UB##
+グランドリームパレード=Đại diễu hành Giấc mơ
+前方の敵すべてに魔法大ダメージを与え、自分のＨＰを中回復し、無敵状態になる。このスキルのダメージは【かばばん君】の数に応じて増加し、クリティカル時のダメージが３倍になる。【かばばん君】が20以上の場合、このスキルは必ずクリティカルし、40の場合、さらに、味方全体の魔法攻撃クリティカル時のダメージを小アップする。=Gây sát thương phép lớn cho tất cả kẻ địch phía trước, hồi phục một lượng HP vừa phải và trở nên miễn nhiễm với mọi sát thương trong một khoảng thời gian. Sát thương phép tăng theo số chồng [Kababan-kun], và gây sát thương phép gấp 3 nếu chí mạng. Nếu có 20+ chồng [Kababan-kun], UB luôn chí mạng. Nếu có 40 chồng [Kababan-kun], tăng nhẹ M.CRIT DMG cho tất cả đồng minh.
+r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復一定時間無敵状態になるかばばん君が40の場合、味方全体の魔法攻撃クリティカル時のダメージを15％アップ$"=►Gây $1 M.DMG cho tất cả kẻ địch.\n►Hồi HP của bản thân $2.\n►Trở nên miễn nhiễm với mọi sát thương trong 4s.\n►Nếu có 40 chồng [Kababan-kun], tăng M.CRIT DMG của đồng minh 15% trong 18s.
+
+##S1##
+かばばん君警備員モード=Chế độ bảo vệ Kababan-kun
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、自分のＨＰを小回復させ、さらに物理/魔法吸収バリアを展開する。このスキルのダメージは【かばばん君】の数に応じて増加する。=Gây sát thương phép vừa phải cho kẻ địch trong phạm vi, hồi phục một chút HP và triển khai Barrier hấp thụ P/M.DMG. Sát thương phép tăng theo số chồng [Kababan-kun].
+r:"^範囲内の敵に(\d+)の魔法ダメージ(\d+)ダメージ分の物理魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Gây $1 M.DMG cho kẻ địch trong phạm vi.\n►Triển khai Barrier hấp thụ $2 P/M.DMG trong 12s.\n►Hồi HP của bản thân $3.
+
+##Skill Desc##
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、自分のＨＰを小回復し、物理/魔法吸収バリアを展開する。このスキルのダメージは【かばばん君】の数に応じて増加し、クリティカル時のダメージが３倍になる。【かばばん君】が20以上の場合、このスキルは必ずクリティカルし、40の場合、さらにダメージを与えた敵を束縛する。=Gây sát thương phép vừa phải cho tất cả kẻ địch trong vùng xung quanh một kẻ địch phía trước, hồi phục một chút HP và triển khai barrier hấp thụ vật lý/phép. Sát thương kỹ năng này tăng dựa trên số Kababan-kun. Sát thương chí mạng nhân ba. Nếu số Kababan-kun từ 20 trở lên, kỹ năng này luôn chí mạng; nếu 40, thêm vào đó trói kẻ địch bị tổn thương.
+r:"^範囲内の敵に(\d+)の魔法ダメージかばばん君が40の場合、範囲内の敵を一定時間行動不能にする(\d+)ダメージ分の物理魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Gây $1 M.DMG cho kẻ địch trong phạm vi 300.\n►Nếu [Kababan-kun] là 40: Gây trạng thái Bind cho kẻ địch trong phạm vi.\n►Triển khai Barrier trên bản thân hấp thụ $2 P/M.DMG trong 12s.\n►Hồi HP của bản thân $3.
+
+
+##S2##
+恩返しですっ！=Đây là sự hoàn trả của tôi!
+自分の物理防御力と魔法防御力を中アップさせる。さらに、自分がステータスアップ効果を受ける度に、【かばばん君】を１体追加し、自分以外の味方すべての魔法攻撃力を小アップさせる。この効果は【かばばん君】が40より少ない場合に発動し、このスキルによって他のスキルの効果は発動しない。=Tăng vừa phải P.DEF và M.DEF của bản thân. Ngoài ra, mỗi lần một buff được áp dụng cho bản thân, nhận một chồng [Kababan-kun] và tăng nhẹ M.ATK cho tất cả đồng minh khác. Hiệu ứng bổ sung này chỉ xảy ra khi chồng [Kababan-kun] < 40, và sẽ không kích hoạt hiệu ứng của kỹ năng khác.
+r:"^自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップステータスアップ効果を受けるたびに自分にかばばん君を追加する状態になるステータスアップ効果を受けるたびに自分以外の味方の魔法攻撃力を(\d+)アップ$"=►Tăng P.DEF của bản thân $1 trong 180s.\n►Tăng M.DEF của bản thân $2 trong 180s.\n►Mỗi lần một buff được áp dụng cho bản thân, nhận một chồng [Kababan-kun] và tăng M.ATK cho tất cả đồng minh khác $3 trong 180s.
+
+##EX##
+オープニングジュエル=Viên ngọc mở đầu
+オープニングジュエル+=Viên ngọc mở đầu+
+
+
+かばばん君警備員モード+=Chế độ bảo vệ Kababan-kun+

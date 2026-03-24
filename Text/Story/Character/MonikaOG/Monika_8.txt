@@ -1,0 +1,89 @@
+小学生=Học sinh tiểu học
+小学生たち=Học sinh tiểu học
+
+アメスの力で、モニカたちは夢を見る。子供たちと仲良くしているモニカを見て、{playername}はモニカの優しさを感じる。{playername}は普段のお礼として、モニカに駄菓子をおごるのだった。=Nhờ sức mạnh của Ameth, Monika và {playername} đã có một giấc mơ. Thấy Monika chơi đùa với lũ trẻ, {playername} cảm nhận được lòng tốt của cô ấy. Như một lời cảm ơn thông thường, {playername} mời Monika ăn đồ ngọt.
+モニカと{playername}は\n二人きりで買い出しに向かっていた。=Monika và {playername} cùng đi mua sắm một mình.
+いいか、寄り道はなしだ。\n無駄なものを買っている余裕などないからな。=Nghe đây, đừng rẽ lạc. Chúng ta không thể chi tiêu cho những thứ không cần thiết được.
+そう……そんな余裕はない、のだが……\nま、まさか道中に菓子屋があるとは……！=Đúng rồi... Chúng ta không có thời gian cho việc đó, nhưng... Em-Em không ngờ trên đường lại có một cửa hàng bánh kẹo...
+いや！　菓子に目がくらんでいるわけではないぞ！\nしかし、せっかく菓子屋を見つけたのだし、\nちょっとくらいなら……=Không! Em không phải là người mê đồ ngọt đâu! Nhưng vừa thấy tiệm bánh kẹo, chỉ ăn một chút thì cũng không sao...
+わっ！　ま、まぶしい……！？\nこの光は、以前にも……=Ồ! Ánh sáng lấp lánh quá! Ánh sáng này... Em từng thấy rồi...
+わぁああああ！！=Úiii chà!!
+ん？　誰かと思えば、貴公か。\n買い物か？=Hả? Em đang thắc mắc ai chứ, hóa ra là cậu. Cậu đi mua sắm à?
+私は……ちょっとした野暮用だ。=Em... có vài việc cần làm.
+隊長～っ！　みてみて～！=Đội trưởng, nhìn này!
+おお、これはなんという菓子だ？\nなかなか美味そうだな。=Ồ, loại kẹo gì đây? Trông ngon quá.
+うんっ、とっても美味しいよ～=Ừ, nó thật sự ngon!
+そうか。\nでは私も後で買ってみるとしよう。=Ra vậy. Vậy để sau mua một ít.
+隊長？　部下を作ったの？=Đội trưởng? Cậu đã có một cấp dưới rồi sao?
+子供たちに遊んでもらってるの？=Trẻ con đi cùng cậu chơi đùa à?
+そんなわけがあるか！\nあれは、あいつらが勝手に言っているだけだ。=Đâu có thể! Chúng tự ý đi theo thôi.
+あいつらは……まぁ、友だちのようなものだ。\nよく遊ぼうと誘われて、いつも断りきれなくてな。=Chúng... ừm, chúng là bạn của em. Chúng thường rủ em chơi, em cũng không nỡ từ chối.
+今日も駄菓子屋に行きたいというから、\n仕方なく付き合ってやったんだ。=Hôm nay em vẫn muốn đến tiệm bánh kẹo nữa, nên đành đi theo chúng.
+なんだ？　私が優しい……だと？\nなんだかんだ言って付き合うから？=Gì? Em tốt bụng... cậu nói ư? Dù có phàn nàn, em chỉ đi theo vì mục tiêu giống nhau thôi?
+そ、そうだとも！\n私が優しいから、一緒にいるだけだ！\n遊びたかったとか、菓子が食べたかったというわけではないぞ。=Đ-Đúng rồi! Em chỉ là tử tế thôi, nên mới ở cùng nhau! Đâu phải em muốn chơi đùa hay ăn đồ ngọt.
+いつもありがとう。=Cảm ơn cậu như mọi khi.
+な！？\n突然、どうした？=Gì?! Cậu đột nhiên thế nào vậy?
+なに？　いつも助けられているから……？\n感謝されるようなことはしていない。\n貴公とは、ただ目的が一致しているだけだ。=Gì? Em chưa làm gì đáng để cảm ơn. Chúng ta chỉ có chung mục đích thôi.
+それでもお礼がしたい、と？\nそうか、では駄菓子を買ってもらおう。=Nhưng vẫn vậy, cậu muốn cảm ơn ư? Vậy, mời em một ít kẹo đi.
+それくらいなら、お安い御用。=Nếu thế thì không tốn bao nhiêu đâu.
+いいのだな？\nなら、まずは全種類ひとつずつ買ってもらおうか。\nどれも、一度は食べてみたかったからな。=Cậu chắc chứ? Vậy bắt đầu mua một cái mỗi loại đi. Em luôn muốn thử chúng.
+ん？　どうした、そんなに慌てて？\n特に、何個までとは言われていないはずだが？=Hả? Sao cậu vội vậy? Cậu chưa nói em mua bao nhiêu được mà?
+なになに～\nにいちゃん、お菓子買ってくれるの～？=Gì đây~? Anh ơi, anh định mời em ăn kẹo~?
+私も、私も～！=Em nữa, em nữa!
+涙目になっているが、大丈夫か？\nなに？　財布が空になってしまう、だと？\nお礼と言ったのだから、覚悟するしかないな。=Cậu ổn chứ? Trông cậu như sắp khóc rồi. Gì? Ví tiền cậu sẽ trống rỗng? Thôi, vì em đã nói là lòng biết ơn, đành chuẩn bị tinh thần vậy.
+……とはいえ、お礼をしたいのはこちらも同じだ。=...Dù sao đi nữa, em cũng muốn bày tỏ lòng biết ơn.
+私も、貴公にはいつも助けられているからな。\nい、一応、感謝しているぞ……=Em biết ơn cậu vì cậu luôn giúp đỡ em. Em-Em muốn nói là, em cảm kích...
+どうだった？　あたしからのプレゼント！　いい『夢』見られた？=Thế nào? Món quà từ em! Cậu đã có một giấc "mơ" hay chưa?
+以前のあんたとモニカの記憶を元に作った『夢』なんだけど、\nお菓子をもらってあんなに喜ぶモニカってやっぱり……\nどう見ても……=Đó là một "giấc mơ" dựa trên ký ức trước đây của cậu và Monika, nhưng niềm vui của Monika khi nhận kẹo... thì rất rõ ràng...
+ま、いいか。\n人生いろいろ、みんなちがってみんないい、ってことで。\nそれじゃあ、また会いましょ♪=Thôi kệ. Cuộc sống mỗi người khác nhau, nhưng cũng tốt thôi. Vậy thì, hẹn gặp lại nhé♪
+
+{playername}、起きたか？\n私もついさっき目が覚めた。\nどうやら、道で眠ってしまっていたようだな。={playername}, cậu đã tỉnh chưa?\nEm mới tỉnh dậy được một chút. Hình như em ngủ thiếp giữa đường rồi.
+
+前にも、こんなことがあったが……\nもしや駄菓子屋の夢を見たのではないか？=Việc này đã xảy ra trước đây rồi... Lẽ nào chúng ta lại mơ về tiệm bánh kẹo nữa?
+そうか……またしても同じ夢を見ていたようだ。\n今回も、懐かしい感覚を覚えた……貴公もか？\nあの夢はいったい……？=Ra vậy... Có vẻ như chúng ta lại có cùng một giấc mơ. Lần này, em cảm thấy một cảm giác hoài niệm... Cậu có cảm thấy không? Giấc mơ đó rốt cuộc là gì...?
+原因はまだわからないな。\nこれからも調査を続けるしかなさそうだ。=Chúng ta vẫn chưa biết nguyên nhân. Có vẻ phải tiếp tục điều tra.
+しかし、何度も同じ夢を見るとは……\nもしかすると私と{playername}の気持ちが\nつながってきているのかも……=Dù sao, cứ mãi mơ cùng một giấc mơ...\nCó lẽ cảm xúc của tôi và {playername} có liên hệ với nhau...
+って、なにを考えているんだ、私は！？\n口に出さなくてよかった……\nこんなこと、本人には言えん。=Khoan đã, em đang nghĩ gì vậy?! Em không nên nói thế... Em không thể nói những chuyện như vậy trực tiếp với người ta được.
+ま、まぁ、なんだ……\n夢で言った気持ちは嘘ではないぞ。\n貴公には感謝している……=D-Dù sao... Cảm xúc mà em bày tỏ trong giấc mơ không phải dối trá. Em biết ơn cậu...
+ひとまず、これからもよろしく頼むぞ。=Tạm thời, em sẽ dựa vào cậu. Hãy chiếu cố cho em.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

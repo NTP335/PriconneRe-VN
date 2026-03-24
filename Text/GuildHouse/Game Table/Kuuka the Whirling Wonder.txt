@@ -1,0 +1,95 @@
+---Kuuka the Whirling Wonder---
+---Title/description---
+大回転！クウカ！\n最高のエクスタシーここにあり！\n引っ張って飛ばす、空の旅！=Kuuka Vòng Xoáy Kỳ Diệu!\nCảm giác cực khoan tột độ đã đến!\nKéo, bay, hành trình qua bầu trời!
+クウカさんを引っ張ってより遠く\nへ飛ばしてあげましょう！\n色々なハプニングでクウカさんに\nエクスタシーを届けましょう！=Kéo Kuuka và đưa cô ấy bay xa nhất có thể! Hãy mang lại cảm giác cực khoan cho cô ấy bằng đủ mọi cách!
+
+---Tips---
+クウカさまの帯を引っ張って飛ばして差しあげましょう。\n合計飛距離に応じて報酬を獲得することができます。\n最高飛距離を目指してたくさん飛ばしてくださいまし。=Kéo chiếc dây của Kuuka và đưa cô ấy bay xa!\nBạn sẽ nhận phần thưởng dựa trên tổng cự ly bay.\nHãy nhắm mục tiêu đưa cô ấy bay xa nhất có thể!
+飛行中は様々なハプニングが起きます。\nクウカさまの素敵なエクスタシーをご覧ください。=Trong chuyến bay, mọi thứ tai ương đều có thể xảy ra.\nThưởng thức Kuuka rơi vào cảm giác cực khoan hoành tráng!
+リザルト画面ではプレイ内容を振り返ることができます。\nリプレイで何度でも見返すことができます。\n面白かったハプニングはシェアしてみてはいかがでしょうか。=Bạn có thể xem lại thành tích trên màn hình kết quả.\nBạn cũng có thể xem lại phát lại bao nhiêu lần tùy thích!\nHoặc tại sao không chia sẻ những sự cố thú vị bạn gặp phải?
+
+---Main screen---
+前回までの最高飛距離=Lưu vào Lịch
+合計飛距離=Tổng Cự Ly
+ハプニング図鑑=Tai Ương Phi Tự Nhiên
+
+---Ingame---
+今の高度=Chiều Cao Hiện Tại
+今の飛距離=Cự Ly Hiện Tại
+最高記録=Kỷ Lục Tốt Nhất
+
+微風=Gió Nhẹ
+強風=Cuồng Phong
+暴風=Gió Lốc
+
+---Result screen---
+起きたハプニング=Tai Ương Phi Tự Nhiên
+今回の飛距離=Quãng Đường Đã Bay
+測定不能=Không Đo Được
+
+---Pause menu---
+このエクスタシーをリタイアしますか？=Bạn có muốn thoát khỏi cảm giác cực khoan này không?
+
+---Skip replay---
+このリプレイをスキップしますか？=Bỏ qua phát lại này?
+[FF7C4E,D62146]スキップするとミニゲームトップ画面に遷移します。[-]=[FF7C4E,D62146]Bỏ qua sẽ đưa bạn về màn hình chính.[-]
+
+---Prize list---
+クウカ大回転で合計30000m飛ばそう=Làm cho Kuuka bay tổng cộng 30.000 mét
+
+その身をコマの如く回転させ、オー\nエド町の空をより遠くへ飛んだ者へ\n贈られるトロフィー。金色ハートは\n極限の状況によりもたらされる勇気\nと冒険心を称えるもの、ということ\nになっている。なお大変危険なので\n大回転のマネ事は厳禁！=Một chiếc cúp quay như con quay và được trao cho những ai đã bay xa hơn vào bầu trời Oedo. Người ta nói rằng trái tim vàng được dùng để ca ngợi lòng dũng cảm và tinh thần mạo hiểm mang lại từ hoàn cảnh cực đoan. Nó cũng rất nguy hiểm, nên đừng làm mấy trò đó!
+
+---Disasters---
+見たハプニング数=Đã Gặp
+目回し=Quay Hết Cả
+間欠泉=Mạch Nước Phun
+成層圏突入=Giữa Những Vì Sao
+トルネード=Lốc Xoáy
+バナナスライド=Trượt Chuối
+ニノンの爆裂忍法=Ninjutsu của Ninon
+バナナジャンプ=Nhảy Chuối
+土砂降り雨=Mưa Rào
+向かい風=Gió Ngược
+追い風=Gió Thuận
+アユミのうちわ=Quạt của Ayumi
+腹すべり=Trượt Bụng
+ドリル=Mũi Khoan
+スーパーボール=Pinball
+落雷=Tia Chớp
+アクダイカン像=Quan Lại
+ロケット=Tên Lửa
+超低空飛行=Lướt Thấp
+
+---Result screen dialogs---
+あ、あの、クウカは\r\nそれなりに頑丈ですので、\r\nもっと激しくても大丈夫ですよ？=Ư-Ưm, Kuuka khá kiên cường, nên cậu có thể làm mạnh hơn, biết chứ?
+も、もっと色んな責めを\r\n体験したかったです……=T-Tớ muốn trải nghiệm thêm cực hình...
+な、なんだか\r\n空のかなたが見えたような……=Em... em nghĩ mình thấy thứ gì đó trên trời...
+こ、こんなにたくさんの\r\n責めで弄ばれるなんて、\r\nクウカは幸せ者です=B-Bị trải qua muôn vàn cực khổ và thao túng... Kuuka may mắn quá!
+クウカは辱められるだけでなく、\r\n体まで弄ばれてしまいました……\r\nこんなことをされたらクウカ、\r\nもっとほしくなっちゃいます！=Không chỉ bị làm nhục, cơ thể cô ấy còn bị đùa giỡn... Trải qua điều này sẽ khiến tôi càng muốn hơn!
+飛ばされるだけでなく、\r\n色んな所にぶつけられるなんて、\r\n予期せぬ快感に感謝です♪=Không chỉ bị bay đi, tôi còn bị đánh ở đủ loại chỗ. Cảm ơn vì niềm vui bất ngờ♪
+これは、\n思っていた以上に……\nイイ……！=Cái này... tốt hơn tôi tưởng...!
+
+---Speech bubbles---
+---Ninon---
+帯回しで空を\r\n飛ぶなんて、\r\nさすがクウカデス！\r\n頑張ってクダサーイ！=Bay qua không trung bằng thắt lưng? Đúng phong cách Kuuka rồi! Chúc may mắn~!
+空を飛ぶなんて、\r\n先を越されたデース！\r\n忍法・オオダコの術の\r\n開発を急ぐデスよ！=Bay qua không trung? Cậu đi trước tôi rồi! Tôi phải nhanh lên phát triển nghệ thuật ninja bí mật của mình, Odako Jutsu!
+クウカ頑張るデスよ！\r\nオヤマの頂点を\r\n目指して、誰よりも\r\n高く跳ぶデス！=Cậu làm được rồi, Kuuka! Hướng tới đỉnh cao và nhảy cao hơn bất kỳ ai trong lúc theo đuổi ước mơ!
+ムムッ…ワタシの\r\n忍者感覚が\r\n嫌な気配を感じマシタ\r\n注意してクダサイ！=Ugh... Cảm giác ninja của tôi bắt được một sự hiện diện khó chịu, nên hãy cẩn thận!
+
+---Ayumi---
+あ、あの、クウカさん\r\n無理だけはしないで\r\nくださいね…？=Ư-Ưm, Kuuka, đừng cố quá sức, được chứ?
+なんだか嫌な\r\n気配が…クウカさん！\r\n注意してくだ……\r\nあの人なら平気かな？=Tôi có linh cảm xấu về chuyện này... Kuuka! Hãy cẩn thận... Cô ấy sẽ ổn chứ?
+回転して空を飛ぶ…\r\n私も空中から先輩を\r\n見守りたいなぁ…=Xoay tròn và bay qua không trung... Tôi cũng muốn quan sát cô ấy từ phía trên...
+最高記録を目指して\r\n頑張ってください！\r\n…こ、この場合、\r\n応援していいのかな？=Hãy cố gắng hết sức vì kỷ lục! ...C-Có nên cổ vũ cậu không?
+
+---Yuki---
+空を飛ぶの？　まあ、\r\nケガをしない程度にね\r\n美しいボクを見たから\r\n平気だと思うけど♪=Bay trên trời? Ừ, miễn là cậu không bị thương thì được. Cậu sẽ ổn thôi, vì cậu đã thấy vẻ đẹp của tôi.~♪
+あ、ボクがより美しく\n鏡に映っている！\r\nこれは、\r\n良いことがあるかもね=Ồ, tôi còn đẹp hơn trong gương! Có thể đây là dấu hiệu của chuyện tốt sắp xảy ra~!
+どうせやるなら、\r\nボクの美しさのような\n最高の記録を\r\n目指すといいよ=Nếu cậu định làm thì nên hướng tới sự vĩ đại như vẻ đẹp của tôi~
+もしも、ボクが\r\n空を飛んだら、\r\n美の神が降臨したと\r\n思われてしまうね♪=Nếu tôi bay qua không trung, mọi người sẽ nghĩ rằng Thần Sắc Đẹp đã hạ xuống~♪
+
+---Monika---
+クウカ！　\r\n深く考えず、とにかく\r\n頑張って飛んでこい！=Kuuka! Đừng suy nghĩ quá sức. Cứ cố gắng hết sức và bay~!
+我がギルドの一員\r\nとして、最高記録を\r\n目指すのだぞ！=Là thành viên của guild chúng ta, hãy hướng tới kỷ lục~!
+この気配…\r\n注意しろクウカ！\r\nなにか危険なことが…\r\nなんで笑顔になる！？=Sự hiện diện này... Cẩn thận, Kuuka! Có chuyện nguy hiểm đang xảy ra... Tại sao cậu lại cười?!
+…よく見ると、\r\n感覚と精神の\r\n鍛練になりそうだな\r\n訓練に加えてみるか=...Có vẻ đây sẽ là bài tập tốt cho cảm giác và tâm trí của cậu. Có lẽ tôi sẽ thêm nó vào kế hoạch tập luyện~

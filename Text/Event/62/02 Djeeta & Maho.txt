@@ -1,0 +1,56 @@
+マホとの出会い=Cuộc gặp gỡ với Maho
+未来の騎空団\nマスコット？=Linh vật tương lai của đoàn kỵ sĩ?
+
+ジータたちがフリーマーケットを巡っていると\n露店を出していたマホに声をかけられる。=Khi Djeeta và những người khác đang dạo quanh chợ đồ cũ, họ đã được Maho, người đang mở một gian hàng tại đó, gọi lại.
+フリーマーケット会場=Địa điểm tổ chức chợ đồ cũ
+この日もフリーマーケットを訪れていたジータたち。\nすると、とある店先から{playername}の名前を呼ぶ声があった。=Ngày hôm đó, nhóm của Djeeta lại ghé thăm khu chợ đồ cũ. Bỗng nhiên, có tiếng gọi tên {playername} phát ra từ một gian hàng nọ.
+王子は～ん。\nこっちこっち～=Hoàng tử ơi~. Lại đây, lại đây nè~
+王子はん！？=Hoàng tử sao!?
+はい、マホマホ王国の王子はんどす♪\n王子はんも来てはったんやねぇ。\nそれも……こ～んなかいらしい女の子と一緒に。=Vâng ạ, là Hoàng tử của vương quốc Maho Maho đây mà♪ Hóa ra Hoàng tử cũng đến đây chơi nhỉ. Lại còn... đi cùng một cô bé đáng yêu thế này nữa chứ.
+か、かいらしい……？=Đ-Đáng yêu sao...?
+王子はんが人気なのは誇らしいけど……\nうちを放っておいて、デートやなんて……\nいけずな王子はんやわぁ。=Dù rất tự hào vì Hoàng tử của mình được yêu mến... nhưng mà, bỏ mặc em ở đây để đi hẹn hò thế này... Hoàng tử thật là xấu tính quá đi mà.
+デっ……！？\nち、違います！\n私と彼は同じ騎空団の仲間ってだけで、そういうのじゃ……！=Hẹn...!? Kh-Không phải đâu! Em và cậu ấy chỉ là đồng đội trong cùng một đoàn kỵ sĩ thôi, không phải kiểu quan hệ đó đâu...!
+ふふっ、そない慌てんといて～\nほんの冗談やさかい♪=Hì hì, đừng cuống quýt lên thế chứ~ Em chỉ đùa chút thôi mà♪
+その後──\n改めて自己紹介をしたジータとマホ。\n互いのことを知った後、ジータはマホの店について質問した。=Sau đó── Djeeta và Maho đã chính thức giới thiệu bản thân với nhau. Sau khi đã hiểu rõ về nhau hơn, Djeeta bắt đầu hỏi thăm về cửa hàng của Maho.
+ところで、マホちゃんのお店では何を売ってるの？=Mà này, cửa hàng của em bán những gì vậy Maho-chan?
+ぬいぐるみやお洋服を売ってるんよ～♪\n【自警団（カォン）】の予算の足しになるかと思うてなぁ。\nどれもうちの手作りやから、余所ではちょ～っと手に入らへんよ～=Em bán thú nhồi bông và quần áo ạ~♪ Em nghĩ là có thể giúp tăng thêm ngân sách cho 【Đội tự vệ (Caon)】 ấy mà. Tất cả đều là đồ do tự tay em làm, nên ở nơi khác hông có tìm được đâu nha~
+これが全部手作り？\nすごい、器用なんだね！=Tất cả chỗ này đều là đồ thủ công sao? Tuyệt thật, em khéo tay quá!
+おおきに～♪\n気になる物があったら遠慮なく言うてな、ジータはん？\nお洋服の調整もお任せや～=Cảm ơn chị nhiều nha~♪ Nếu có món nào khiến chị bận tâm thì đừng ngần ngại nói cho em biết nhé, Djeeta-han? Việc chỉnh sửa kích cỡ quần áo cứ để em lo cho~
+ありがとう！\nどのお洋服もかわいいなぁ……\nうーん、私にはちょっとかわいすぎないかな？=Cảm ơn em! Bộ nào nhìn cũng dễ thương hết á... Ừm, nhưng mà với chị thì liệu có hơi quá điệu đà không nhỉ?
+そないなこと、あらしまへんよ～\n例えば……\nこのフリフリでかいらしいドレスなんかお似合いやと思うわ～♪=Hông có chuyện đó đâu ạ~ Ví dụ nhé... em thấy bộ váy xòe bồng bềnh đáng yêu này cực kỳ hợp với chị luôn đó~♪
+わわっ、お姫さまみたい！\nこ、これを私が……！？=Oa oa, nhìn cứ như công chúa vậy! C-Cái này mà để em mặc sao...!?
+
+Player Input
+似合うと思うよ。=Anh nghĩ là nó sẽ rất hợp với em đó.
+
+あなたまで！？=Đến cả cậu cũng nói thế luôn à!?
+ジータはん、ちょ～っと体に合わせてみよか～♪\nほ～ら、ジーッとしてや～=Djeeta-han à, để em ướm thử lên người chị một xíu nha~♪ Nào nào, đứng yên đó đừng có nhúc nhích nhen~
+あ、あはは……\nマホちゃん、ちょっと目が怖いよ……\nうん？=A, ha ha... Maho-chan ơi, ánh mắt em trông hơi đáng sợ đó... Hửm?
+……マホちゃん。\nその……奥の方にいる、オレンジのぬいぐるみ。\nよく見せてもらってもいいかな？=...Maho-chan. Ờm... con thú nhồi bông màu cam ở phía góc trong kia kìa. Chị có thể xem kỹ nó một chút được không?
+ああ、この子やねぇ。\nはい、どうぞ。じっくり見たってや～=À, là bé này nè. Vâng, của chị đây. Chị cứ thong thả mà ngắm nghía nhé~
+ありがとう！\n……うん、やっぱり不思議な子だね。\nついつい見ちゃうっていうか……=Cảm ơn em! ...Ừm, đúng là một bé trông lạ lẫm thật đấy. Kiểu như cứ khiến người ta không thể rời mắt được vậy...
+
+Player Input
+これは何の動物なの？=Đây là loài động vật gì vậy?
+
+この子はトカゲさんやねぇ。=Bé này là một bạn thằn lằn đó nha.
+トカゲなんだ！\n……あれ？　羽根があるみたいだけど……=Hóa ra là thằn lằn sao! ...Ơ kìa? Hình như nó có cả cánh nữa nè...
+トカゲさんや♪=Thằn lằn mà♪
+……ツノもあるよ？=...Có cả sừng nữa này?
+トカゲさんやからね～=Vì là thằn lằn nên mới thế đó~
+トカゲってツノあったっけ……？=Thằn lằn mà cũng có sừng sao nhỉ...?
+
+トカゲじゃないんじゃ……=Chắc không phải thằn lằn đâu...
+
+もう、作ったうちがトカゲって言ってるんよ？\nこの子はトカゲさんや♪=Ơ hay, chính em là người làm ra nên em bảo là thằn lằn thì nó là thằn lằn chứ bộ! Bé này là thằn lằn mà♪
+そ、それもそうだね……\n分かったよ、この子はトカゲ！=Đ-Đúng là vậy nhỉ... Chị hiểu rồi, bé này chính là thằn lằn!
+ふふっ、そうやろ～\nこの子はかわいいかわいいトカゲさんや♪=Hì hì, phải vậy chứ~ Đây là một bé thằn lằn siêu cấp đáng yêu luôn đó♪
+うん、決めた！\nマホちゃん。この子、私に売ってくれないかな？=Ừm, chị quyết định rồi! Maho-chan ơi, em bán bé này cho chị được không?
+もちろん、ええよ～\n大事にしたってや♪=Dĩ nhiên là được rồi ạ~ Chị nhớ chăm sóc bé thật tốt nhé♪
+ありがとう！\n大事にするね！=Cảm ơn em! Chị sẽ giữ gìn nó thật cẩn thận!
+
+Player Input
+気に入ったの？=Em thích nó rồi hả?
+
+うん！　なんだかすっごく気に入っちゃった！\nほら、騎空団にはマスコットも必要だと思うんだ。\nこの子がいれば、きっと空の旅がもっと楽しくなるよ！=Vâng! Em tự nhiên thấy thích bé này cực kỳ luôn! Anh/Chị xem này, em nghĩ đoàn kỵ sĩ cũng cần có một linh vật chứ. Có bé này ở bên, chắc chắn chuyến hành trình trên bầu trời sẽ càng thêm thú vị cho mà xem!
+そう言って、ジータはぬいぐるみを空に掲げるのだった。=Nói thế, Djeeta giơ cao con thú nhồi bông lên hướng về phía bầu trời.

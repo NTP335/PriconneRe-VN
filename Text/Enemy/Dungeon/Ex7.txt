@@ -1,0 +1,28 @@
+
+妖狐カムラヲ・春臨=Youko Kamurao: Spring Arrival
+妖狐カムラヲ・寒威=Youko Kamurao: Winter Fury
+妖狐カムラヲ・爽秋=Youko Kamurao: Serene Autumn
+妖狐カムラヲ・炎夏=Youko Kamurao: Fiery Summer
+
+[FFBB00,CE4F00]妖狐カムラヲ・春臨[-]=[FFBB00,CE4F00]Youko Kamurao: Spring Arrival[-]
+[FFBB00,CE4F00]妖狐カムラヲ・寒威[-]=[FFBB00,CE4F00]Youko Kamurao: Winter Fury[-]
+[FFBB00,CE4F00]妖狐カムラヲ・爽秋[-]=[FFBB00,CE4F00]Youko Kamurao: Serene Autumn[-]
+[FFBB00,CE4F00]妖狐カムラヲ・炎夏[-]=[FFBB00,CE4F00]Youko Kamurao: Mùa Hè Rực Lửa[-]
+
+四季入り乱れる霊山を棲み処とする妖狐。不可思議な妖術で四季を操り、百花咲き誇る春へと季節を巡らせ、生命の力を芽吹かせる。=Một linh hồn hồ ly sống trong ngọn núi linh thiêng nơi bốn mùa hòa trộn. Bởi phép thuật bí ẩn, nó điều khiển các mùa, biến chúng thành mùa xuân nở rộ và đánh thức sức mạnh của sự sống.
+妖狐カムラヲから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を中ダウンさせる。=Giảm moderately tỷ lệ hồi TP của nhân vật trong party từ mọi sát thương nhận bởi Kamurao.
+ユニオンバーストは、敵全体に自身の物理攻撃力に応じた物理割合ダメージと自身の魔法攻撃力に応じた魔法割合ダメージを与える。さらに、味方全体の行動速度をアップさせる。この効果の効果量は式神の数に応じて増加する。このスキルによるダメージでは、ＴＰが回復しない。=Union Burst: Gây sát thương vật lý theo % P.ATK của bản thân và sát thương ma thuật theo % M.ATK của bản thân lên tất cả kẻ địch. Ngoài ra, tăng tốc độ hành động của tất cả đồng minh. Lượng tăng hiệu quả phụ thuộc vào số lượng Shikigami. Sát thương kỹ năng này không hồi TP.
+敵全体の物理防御力と魔法防御力を中ダウンさせる。さらに、キャラのＨＰが70％未満の場合、物理攻撃力と魔法攻撃力を中ダウンさせる。=Giảm moderately P.DEF và M.DEF của tất cả kẻ địch. Ngoài ra, nếu HP nhân vật dưới 70%, giảm moderately P.ATK và M.ATK của chúng.
+自身の後方に式神を３体召喚する。左から１番目の式神は、前から２番目の敵キャラに物理小ダメージと魔法小ダメージを与える。左から２番目の式神は、前から３番目の敵キャラに物理小ダメージと魔法小ダメージを与える。左から３番目の式神は、前から４番目の敵キャラに物理小ダメージと魔法小ダメージを与える。=Triệu hồi ba Shikigami phía sau bản thân. Shikigami thứ nhất từ trái gây sát thương vật lý nhỏ và M.DMG lên kẻ địch thứ hai từ phía trước. Shikigami thứ hai từ trái gây sát thương vật lý nhỏ và M.DMG lên kẻ địch thứ ba từ phía trước. Shikigami thứ ba từ trái gây sát thương vật lý nhỏ và M.DMG lên kẻ địch thứ tư từ phía trước.
+味方全体の物理攻撃力と魔法攻撃力を特大アップさせ、物理防御力と魔法防御力を大アップさせる。=Tăng rất lớn P.ATK và M.ATK của tất cả đồng minh. Ngoài ra, tăng rất lớn P.DEF và M.DEF của họ.
+四季入り乱れる霊山を棲み処とする妖狐。不可思議な妖術で四季を操り、その力で顕現させる炎天の夏は彼我の区別なく万物を焼き焦がす。=Một linh hồn hồ ly sống trong ngọn núi linh thiêng nơi bốn mùa hòa trộn. Bởi phép thuật bí ẩn, nó điều khiển các mùa, mang đến một mùa hè cháy bỏng thiêu đốt vạn vật không phân biệt.
+ユニオンバーストは、敵全体に自身の物理攻撃力に応じた物理割合ダメージと自身の魔法攻撃力に応じた魔法割合ダメージを与える。さらに、敵全体のＨＰ回復量をダウンさせる。この効果の効果量は式神の数に応じて増加する。このスキルによるダメージでは、ＴＰが回復しない。このスキルの状態異常はダメージを無効化しても付与される。=Union Burst: Gây sát thương vật lý theo % P.ATK của bản thân và sát thương ma thuật theo % M.ATK của bản thân lên tất cả kẻ địch. Ngoài ra, giảm tỷ lệ hồi HP của tất cả kẻ địch. Lượng tăng hiệu quả phụ thuộc vào số lượng Shikigami. Sát thương kỹ năng này không hồi TP. Hiệu ứng trạng thái được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+敵全体のＨＰ吸収を特大ダウンさせる。さらに、敵全体に火傷効果を付与する。キャラのＨＰが80％未満の場合、火傷のダメージが上昇する。このスキルにより付与された火傷のダメージでは、ＴＰが回復しない。=Giảm rất lớn khả năng hấp thụ HP của tất cả kẻ địch. Ngoài ra, gây hiệu ứng cháy lên tất cả kẻ địch. Nếu HP nhân vật dưới 80%, tăng sát thương cháy. Sát thương cháy của kỹ năng này không hồi TP.
+四季入り乱れる霊山を棲み処とする妖狐。不可思議な妖術で四季を操り、落葉散る秋に実りをもたらすことで艱難辛苦に耐え忍ぶ力を与える。=Một linh hồn hồ ly sống trong ngọn núi linh thiêng nơi bốn mùa hòa trộn. Bởi phép thuật bí ẩn, nó điều khiển các mùa, mang đến một mùa thu trĩu quả cung cấp sức mạnh để vượt qua gian khó.
+ユニオンバーストは、敵全体に自身の物理攻撃力に応じた物理割合ダメージと自身の魔法攻撃力に応じた魔法割合ダメージを与える。さらに、味方全体の物理防御力と魔法防御力をアップさせる。この効果の効果量は式神の数に応じて増加する。このスキルによるダメージでは、ＴＰが回復しない。=Union Burst: Gây sát thương vật lý theo % P.ATK của bản thân và sát thương ma thuật theo % M.ATK của bản thân lên tất cả kẻ địch. Ngoài ra, tăng P.DEF và M.DEF của tất cả đồng minh. Lượng tăng hiệu quả phụ thuộc vào số lượng Shikigami. Sát thương kỹ năng này không hồi TP.
+敵全体に自身の物理防御力に応じた物理固定ダメージと自身の魔法防御力に応じた魔法固定ダメージを与える。このスキルによるダメージでは、ＴＰが回復しない。=Gây sát thương vật lý cố định dựa trên P.DEF của bản thân và sát thương ma thuật cố định dựa trên M.DEF của bản thân lên tất cả kẻ địch. Sát thương kỹ năng này không hồi TP.
+
+
+ユニオンバーストは、敵全体に自身の物理攻撃力に応じた物理割合ダメージと自身の魔法攻撃力に応じた魔法割合ダメージを与える。さらに、敵全体の行動速度をダウンさせる。この効果の効果量は式神の数に応じて増加する。このスキルによるダメージでは、ＴＰが回復しない。このスキルの状態異常はダメージを無効化しても付与される。=Union Burst: Gây sát thương vật lý theo % P.ATK của bản thân và sát thương ma thuật theo % M.ATK của bản thân lên tất cả kẻ địch. Ngoài ra, giảm tốc độ hành động của tất cả kẻ địch. Lượng tăng hiệu quả phụ thuộc vào số lượng Shikigami. Sát thương kỹ năng này không hồi TP. Hiệu ứng trạng thái được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+敵全体に物理小ダメージと魔法小ダメージを与える。このスキルのダメージは、召喚体、分身を除いた敵キャラの数が少ないほど、大きく上昇する。さらに、敵全体の行動速度を小ダウンさせ、味方全体の行動速度を中アップさせる。このスキルによるダメージでは、ＴＰが回復しない。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương vật lý nhỏ và sát thương ma thuật nhỏ lên tất cả kẻ địch. Sát thương kỹ năng này tăng đáng kể khi số lượng nhân vật kẻ địch ít đi, không tính thực thể được triệu hồi và bản sao. Ngoài ra, giảm slightly tốc độ hành động của tất cả kẻ địch và tăng moderately tốc độ hành động của tất cả đồng minh. Sát thương kỹ năng này không hồi TP. Hiệu ứng trạng thái được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+四季入り乱れる霊山を棲み処とする妖狐。不可思議な妖術で四季を操り、あらゆる者を凍てつかせる凛冽の冬へと世界を染める。=Một linh hồn hồ ly sống trong ngọn núi linh thiêng nơi bốn mùa hòa trộn. Bởi phép thuật bí ẩn, nó điều khiển các mùa, biến thế giới thành một mùa đông dữ dội đông cứng vạn vật.

@@ -1,0 +1,39 @@
+##Profile##
+【物理】前衛で、堅牢に仲間を守る海辺のお姉ちゃん。物理防御力が高い程、効果が高まる複数のスキルを巧みに操り防御と補助役をしつつ範囲攻撃で攻撃役をもこなす。=[Vật lý] Một chị bãi biển kiên cường đứng tiền phương bảo vệ đồng đội. Cô khéo léo sử dụng nhiều kỹ năng có hiệu quả tăng lên theo phòng thủ vật lý của mình, đóng vai trò phòng thủ và hỗ trợ đồng thời tấn công với sát thương diện rộng.
+
+##UB##
+サマーセイクリッドスプラッシュ=Summer Sacred Splash
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分に物理吸収バリアを展開する。自分の物理防御力が高い程ダメージとバリアの吸収ダメージ量がアップする。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi, và thi triển Mặt Trận Bảo Vệ bản thân hấp thụ sát thương vật lý. Phòng thủ vật lý càng cao, sát thương gây ra và sát thương hấp thụ bởi Mặt Trận Bảo Vệ càng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージ分の物理吸収バリアを展開する$"=►Gây $1(+50×P.DEF) sát thương vật lý cho kẻ địch trong phạm vi 500.\n►Thi triển Mặt Trận Bảo Vệ bản thân hấp thụ $2(+4×P.DEF) sát thương vật lý trong 18 giây.
+
+##S1##
+ブルーウェービング=Blue Waving
+前方範囲内の敵すべてに物理小ダメージを与え、自分の物理防御力を大アップさせ、さらに自分のＨＰを小回復する。自分の物理防御力が高い程ダメージとＨＰの回復量がアップする。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi, tăng mạnh phòng thủ vật lý bản thân, và hồi phục một lượng máu nhỏ. Phòng thủ vật lý càng cao, sát thương gây ra và lượng máu hồi phục càng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Gây $1(+20×P.DEF) sát thương vật lý cho kẻ địch trong phạm vi 500.\n►Tăng P.DEF bản thân lên $2 trong 12 giây.\n►Hồi phục máu bản thân $3(+1.6×P.DEF).
+
+##S2##
+サン・フラワリー=Sun-Flowery
+味方全体の物理攻撃力を小アップし、さらにＨＰを小回復する。自分の物理防御力が高い程、物理攻撃力の上昇量とＨＰの回復量がアップする。=Tăng P.ATK cho tất cả đồng đội và hồi phục một lượng máu nhỏ cho họ. Phòng thủ vật lý bản thân càng cao, mức tăng P.ATK và lượng máu hồi phục càng lớn.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Tăng P.ATK cho tất cả đồng đội lên $1(+2.7×P.DEF) trong 12 giây.\n►Hồi phục máu cho tất cả đồng đội $2(+0.9×P.DEF).
+
+##EX##
+お姉ちゃんサマーサンライズEX=Big Sis's Summer Sunrise EX
+お姉ちゃんサマーサンライズEX+=Big Sis's Summer Sunrise EX+
+
+##S1+##
+ブルーウェービング+=Blue Waving+
+前方範囲内の敵すべてに物理中ダメージを与え、自分の物理防御力を大アップさせ、さらに自分のＨＰを小回復し、味方全体の物理攻撃力を中アップする。自分の物理防御力が高い程ダメージとＨＰの回復量と物理攻撃力の上昇量がアップする。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi, tăng mạnh phòng thủ vật lý bản thân, hồi phục một lượng máu nhỏ, và tăng vừa phải P.ATK cho tất cả đồng đội. Phòng thủ vật lý bản thân càng cao, sát thương gây ra, lượng máu hồi phục và mức tăng P.ATK càng lớn.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ$"=►Gây $1(+40×P.DEF) sát thương vật lý cho kẻ địch trong phạm vi 500.\n►Tăng P.DEF bản thân lên $2 trong 12 giây.\n►Hồi phục máu bản thân $3(+3.2×P.DEF).\n►Tăng P.ATK cho tất cả đồng đội lên $4(+1.6×P.DEF) trong 12 giây.
+
+
+##S2+##
+サン・フラワリー+=Sun-Flowery+
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Tăng P.ATK cho tất cả đồng đội lên $1(+2.7xPDEF).\n►Hồi phục máu cho tất cả đồng đội $2(+0.9xPDEF).\n►Tặng Hiệu Ứng Hồi Máu, hồi phục $3 máu mỗi giây(+0.2xPDEF).\n►Tăng P.ATK bản thân lên $4(+2.7xPDEFxSố kẻ địch).\n►Tăng P.DEF bản thân lên $5.
+
+味方全体の物理攻撃力を大アップ、ＨＰを小回復させ、継続ＨＰ回復状態を付与する。さらに、自分の物理攻撃力を大アップ、物理防御力を小アップする。自分の物理防御力が高い程、味方全体の物理攻撃力の上昇量とＨＰの回復量がアップし、自分の物理防御力と敵の数に応じて、自分の物理攻撃力の上昇量がアップする。=Tăng mạnh P.ATK cho tất cả đồng đội, hồi phục một chút máu của họ, và tặng trạng thái Hiệu Ứng Hồi Máu. Đồng thời tăng mạnh P.ATK bản thân và tăng nhẹ P.DEF bản thân. Phòng thủ vật lý bản thân càng cao, mức tăng P.ATK cho đồng đội và lượng máu hồi phục càng lớn. Lượng P.ATK bản thân được tăng phụ thuộc vào P.DEF bản thân và số kẻ địch.
+
+##UE##
+スプラッシュハート=Splash Heart
+
+##UE2##
+夏のお姉ちゃん帽子=Elegant Summer Hat

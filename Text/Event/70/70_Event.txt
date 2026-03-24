@@ -1,0 +1,17 @@
+r:"^大晦日の王都ランドソル([0-9\-\(\)\w （）]*)$"=Đêm Giao Thừa tại Thành Phố Landosol $1
+メテオ・イン・ドリーム=Thiên Thạch Trong Giấc Mơ
+r:"^エルフの森周辺([0-9\-\(\)\w （）]*)$"=Khu Rừng Tiên $1
+{playername}の初夢=Giấc mơ đầu tiên của {playername}
+[3C404E]プチメテオを30個壊そう[-]=[3C404E]Phá hủy 30 Thiên Thạch Nhỏ[-]
+[FFFFFF]プチメテオを30個壊そう[-]=[FFFFFF]Phá hủy 30 Thiên Thạch Nhỏ[-]
+
+迎春ドリーマーズ！　新年、あけましてお隕石（メテオ）！？=Chào mừng các Giấc Mơ! Chúc Mừng Năm Mới-teor!?
+
+新年あけずしてお滅亡！？=Năm Mới Sẽ Không Tới!?
+隕石迎撃チーム、結成！？=Đội Phòng Thủ Thiên Thạch, Đã Hình Thành!?
+お年玉と落とし玉=Otoshidama và "Otoshidama"
+仁義なき正月遊戯=Trò Chơi Năm Mới Vô Luật
+予知夢を巡れば未来も巡る=Điều gì đến trong giấc mơ, sẽ đi ra
+最後の予知夢、下した決断=Giấc Mơ Tiên Tri Cuối Cùng, Quyết Định Đã Ra
+みんな揃って、新年を！=Cùng Chào Mừng Năm Mới!
+夢にまで見たお正月=Năm Mới Mình Thấy Trong Giấc Mơ

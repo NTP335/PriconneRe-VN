@@ -1,0 +1,17 @@
+Aoi Futaba's Birthday
+
+い、今……なんと仰ったんですか……？=V-Vừa nãy... cậu vừa nói gì...?
+誕生日……パーティー……\nそんなの、噂でしか聞いたことがありません……=Một bữa tiệc sinh nhật... Tôi chỉ nghe đồn về những thứ như vậy...
+えっと……誕生日パーティーって誕生日にするものですよね。\n今日は何の変哲もないごく普通の平凡な一日……\n一体誰をお祝いするんですか……？=Ưmm... bữa tiệc sinh nhật là để ăn mừng sinh nhật, đúng không? Nhưng hôm nay chỉ là một ngày bình thường, không có gì đặc biệt... Vậy chúng ta đang ăn mừng ai...?
+わた、し……？　今日は……私の誕生日……？\nぼっちはそういった記念日的なことを忘れる生き物なので、\n全然、気づきませんでした……=Tôi...? Hôm nay là... sinh nhật tôi...? Người cô đơn như tôi thường quên những thứ như vậy, nên tôi không hề nhận ra...
+つまり、私の誕生日パーティーをやろうと……？=Nói cách khác, cậu đang lên kế hoạch tổ chức một bữa tiệc sinh nhật cho tôi...?
+本気なんですね、団長さん……\n誕生日パーティー……私と、あなたで……=Cậu thực sự nghiêm túc về chuyện này, đúng không, Danchou-san...? Một bữa tiệc sinh nhật... chỉ hai chúng ta...
+分かりました……\n誕生日パーティー……やりましょう。\n私たちのぼっち歴に記念すべき一歩を踏みだしましょう。=Hiểu rồi... Vậy chúng ta sẽ tổ chức bữa tiệc sinh nhật này. Hãy cùng bước đi bước đầu tiên ý nghĩa trong lịch sử của những người cô đơn tự hào.
+二人で過ごす、誕生日……えへへ。=Dành sinh nhật của mình... chỉ với hai chúng ta... ehehe.
+ま、まずはなにをしたらいいですか……？\nそ、そうだ、プレゼントを用意しないとですね。\n誕生日パーティーを記念するプレゼントを……=M-Mình nên làm gì trước...? Ồ, phải... Mình cần chuẩn bị một món quà. Thứ gì đó để kỷ niệm bữa tiệc sinh nhật này...
+団長さん。\n二人で最高の記念日にしましょうね……♪=Danchou-san, hãy cùng nhau tạo nên bữa tiệc tuyệt vời nhất với chỉ hai chúng ta...♪
+
+Player Prompts
+誕生日パーティーをやろう。=Hãy tổ chức một bữa tiệc sinh nhật
+もちろん碧だよ。=Cậu, tất nhiên rồi, Aoi
+プレゼントも用意済みだよ。=Ừ. Mình đã chuẩn bị món quà cho cậu rồi

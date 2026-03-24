@@ -1,0 +1,98 @@
+オートで次のクエストへ進行！=Tiến tới quest tiếp theo với Auto!
+オート進行=Auto Tiến
+スキップチケットを使ってクエストをスキップ!=Bỏ qua quest bằng vé bỏ qua!
+オート進行設定中=Cài đặt Auto Tiến
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないイベントクエストで使用できます。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Chủ nhân, tính năng Auto Tiến hiện đã có thể sử dụng. Auto Tiến có thể dùng trong các event quest chưa được giải. Việc chinh phục quest sẽ thuận tiện hơn, hãy dùng ngay đi.
+
+停止する=Dừng
+停止しない=Không
+合計消費スタミナ=Tổng Thể Lực Đã Tiêu
+オート進行設定=Cài đặt Auto Tiến
+使用しない=Không dùng
+回復なしで開始=Bắt đầu không hồi phục
+sr:"^(メイン|イベント)クエスト(.+)まで進めるには、スタミナ回復が必要です。$"=Để tiến tới Quest $1 $2, bạn cần hồi phục thể lực.
+
+sr:"^オート進行で(メイン|イベント)(前編|後編|中編)?クエスト(.+)まで進めた場合、最大で以下のスタミナを消費します。$"=Nếu bạn tiến tới Quest $2$1 $2 với Auto Tiến,\nbạn sẽ tiêu hao thể lực tối đa như sau.
+プレイヤーLvアップ時や特別なコンテンツが解放された際、オート進行が停止する場合があります。=Khi người chơi lên cấp hoặc nội dung đặc biệt được phát hành, Auto Tiến có thể dừng lại.
+オート進行中にユニオンバーストを使用するか設定します。=Đặt có sử dụng Union Burst trong khi dùng Auto Tiến hay không.
+オート進行中のユニオンバースト使用設定=Cài đặt Sử dụng Union Burng Trước
+イベントストーリー解放時にオート進行を停止するか設定します。=Đặt có dừng Auto Tiến khi cốt truyện event được phát hành hay không.
+イベントストーリー解放時のオート進行停止設定=Cài đặt Tạm Dừng Auto Tiến Khi Cốt Truyện Event Được Phát Hành
+オート進行設定中はサポートキャラを編成できません。=Không thể chọn nhân vật hỗ trợ khi đang ở chế độ Auto Advance
+オート進行を停止しますか？\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Bạn có muốn dừng Auto Advance không?\nLượng Stamina tiêu thụ sau đây đã được xử lý bởi Auto Advance này.\n※Không bao gồm stamina tiêu thụ từ việc rút lui hoặc thất bại.
+
+敗北のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Do thất bại, Auto-Advance đã bị tạm dừng. Lượng Stamina tiêu thụ sau đây đã được thực hiện theo Auto-Advance này.\n※Không bao gồm stamina tiêu thụ từ việc rút lui hoặc thất bại.
+
+スタミナ不足のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Auto Advance đã dừng do stamina không đủ.\nLượng stamina sau đây đã được tiêu thụ trong quá trình tự động này.\n※Không bao gồm stamina tiêu thụ từ việc rút lui hoặc thất bại.
+
+☆3クリア未達成のためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Auto Advance đã dừng do không đạt được xếp hạng 3☆.\nLượng stamina sau đây đã được tiêu thụ trong Auto Advance này.\n※Không bao gồm stamina tiêu thụ từ việc rút lui hoặc thất bại.
+
+
+最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Auto Advance đã kết thúc do đã đến nhiệm vụ cuối cùng.\nLượng stamina sau đây đã được tiêu thụ trong phiên tự động này.\nKhông bao gồm stamina tiêu thụ từ việc rút lui hoặc thất bại.
+
+プレイヤーLvアップのためオート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Auto Advance đã bị tạm dừng do người chơi lên cấp.\nLượng stamina sau đây đã được tiêu thụ trong phiên Auto Advance này.\n※Không bao gồm stamina tiêu thụ từ việc rút lui hoặc thất bại.
+
+エリア最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Auto Advance đã kết thúc do đã đến nhiệm vụ cuối cùng của khu vực.\nLượng stamina sau đây đã được tiêu thụ trong phiên Auto Advance này.\n※Không bao gồm stamina tiêu thụ từ việc rút lui hoặc thất bại.
+
+
+イベントストーリー解放時に自動進行を停止するかの設定です。=Cài đặt để dừng Auto-Advance khi cốt truyện sự kiện được mở khóa.
+イベントストーリー解放時オート進行停止=Auto-Advance dừng khi cốt truyện sự kiện được mở khóa
+
+
+
+
+クエストクリア数=Nhiệm vụ đã hoàn thành
+オート進行停止=Tạm dừng Auto Advance
+オート進行終了=Kết thúc Auto Advance
+オート進行報酬一覧=Danh sách phần thưởng Auto Advance
+[FF7C4E,D62146]所持上限を超えたアイテムはプレゼントに送られました。[-]=[FF7C4E,D62146]Các vật phẩm vượt quá giới hạn sở hữu\nđã được gửi đến món quà. [-]
+サブストーリー=Cốt truyện phụ
+メインストーリー解放=Mở khóa Cốt truyện chính
+信頼度エピソード=Tập cảm xúc thân mật
+サブストーリー解放=Mở khóa Cốt truyện phụ
+r:"^イベントストーリーが\n(\d+)[つ個]解放されました。$"=$1 Cốt truyện sự kiện\nđã được mở khóa.
+r:"^メインストーリーが\n(\d+)[つ個]解放されました。$"=$1 Cốt truyện chính\nđã được mở khóa.
+r:"^サイドストーリーが\n(\d+)[つ個]解放されました。$"=$1 Cốt truyện bên\nđã được mở khóa.
+r:"^サブストーリーが\n(\d+)[つ個]解放されました。$"=$1 Cốt truyện phụ\nđã được mở khóa.
+r:"^信頼度エピソードが\n(\d+)[つ個]解放されました。$"=$1 Tập cảm xúc thân mật\nđã được mở khóa.
+
+イベントストーリー解放=Mở khóa Cốt truyện sự kiện
+限定ショップにアイテムが\n追加されました。=Một vật phẩm đã được thêm vào cửa hàng giới hạn.
+オート進行解放コンテンツ一覧=Danh sách nội dung được mở khóa bởi Auto Advance
+キャラクターストーリー解放=Mở khóa Cốt truyện nhân vật
+sr:"^([べ-ヺー＆＝]+)の\n絆ランクが(\d+)になりました。$"=$1\nCấp độ kết nối là $2.
+
+特別なコンテンツの解放のため、オート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Để mở khóa nội dung đặc biệt, auto-progress đã bị dừng.\nLượng stamina tiêu thụ sau đây đã được thực hiện bởi auto-progress này.\n※Không bao gồm stamina tiêu thụ trong khi rút lui hoặc thất bại.
+
+
+最小=Tối thiểu
+最大=Tối đa
+自動選択する=Tự động chọn
+ストーリーのオート再生時、複数の選択肢が表示された際に、選択肢を自動選択させるか設定します。\n「自動選択する」を選択すると、一番上の選択肢が自動選択されます。\n「自動選択しない」を選択すると、複数の選択肢が表示された際に、オート再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Khi tự động phát cốt truyện, hãy chọn có tự động chọn lựa chọn khi nhiều lựa chọn được hiển thị hay không.\nChọn "Tự động chọn" sẽ tự động chọn lựa chọn đầu tiên.\nChọn "Không tự động chọn" sẽ tạm dừng tự động phát\nkhi nhiều lựa chọn được hiển thị.\n※Nếu chỉ có một lựa chọn được hiển thị, nó sẽ được tự động chọn bất kể cài đặt.
+ストーリーのオート再生設定=Cài đặt tự động phát cốt truyện
+クエスト挑戦時に挑戦回数の設定を、最小回数か最大回数のどちらにするか設定します。=Đặt số lượng vé bỏ qua mặc định để sử dụng trên nhiệm vụ giới hạn số lần thử.
+挑戦回数上限設定=Cài đặt số lượng vé bỏ qua
+自動選択しない=Không tự động chọn
+
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないメインクエストで使用できます。=Thưa ngài, tiến trình Auto Advance hiện đã có sẵn. Auto Advance có thể được sử dụng trên nhiệm vụ chính chưa được hoàn thành.
+オート進行中の各条件は主さまお好みの設定ができるようです。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Mỗi điều kiện trong Auto Advance dường như có thể đặt nhiệm vụ chính yêu thích của bạn. Việc chinh phục sẽ trở nên tiện lợi, vì vậy hãy sử dụng ngay.
+
+クエストクリアごとの最大消費マナ=Lượng Mana tiêu thụ tối đa trên mỗi nhiệm vụ hoàn thành
+最大消費マナ=Lượng Mana tiêu thụ tối đa
+r:"^プレイヤーLv(\d+)以下は実際に消費するマナが上記より少ない場合があります。$"=Người chơi cấp $1 hoặc thấp hơn có thể thực tế tiêu thụ ít mana hơn mức trên.
+マナが不足した場合、オート進行が停止します。=Nếu mana không đủ, Auto Advance sẽ dừng.
+オート進行停止条件設定=Cài đặt điều kiện dừng Auto Advance
+オート進行が停止する条件を設定します。\n選択した停止条件に該当しない難易度の場合は、エリアの最終クエストクリアでオート進行が停止します。=Đặt các điều kiện để dừng Auto Advance. Trong trường hợp mức độ khó không nằm\n trong các điều kiện dừng đã chọn, Auto Advance sẽ dừng khi hoàn thành nhiệm vụ cuối cùng trong khu vực.
+
+スタミナが不足するまで=Cho đến khi hết stamina
+BOSS出現クエスト直前=Trước BOSS
+ストーリー解放時=Mở khóa cốt truyện
+☆3クリア未達成時の停止設定=Dừng cài đặt khi chưa đạt được xếp hạng ☆3
+☆3クリアが出来なかった場合にオート進行を停止するか設定します。=Đặt để dừng Tự động Tiến lên, nếu không thể ☆3 hoàn thành.
+スタミナが不足するまでクエストをオートで進行します。オート進行中に回復したスタミナも消費します。=Nhiệm vụ sẽ tự động tiến lên cho đến khi bạn hết thể lực.\nCũng tiêu thụ thể lực được hồi trong quá trình tự động.
+特別なコンテンツが解放された場合、オート進行が停止する場合があります。=Dừng Tự động Tiến lên khi nội dung đặc biệt được mở khóa.
+バトル中のボス会話をスキップするか設定します。=Bỏ qua hoặc thiết lập hội thoại với boss trong trận chiến.
+ボスバトル時会話のスキップ設定=Thiết lập bỏ qua hội thoại trong các trận đấu boss
+
+オート進行中サポート確認=Xác nhận Hỗ trợ Tự động Tiến lên
+オート進行中は2戦目以降も\n選択したサポートキャラが\n編成されます。=Trong khi Tự động Tiến lên,\nnhân vật hỗ trợ được chọn sẽ được tổ chức\nngay cả từ trận đấu thứ hai trở đi.

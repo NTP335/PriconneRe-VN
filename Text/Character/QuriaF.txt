@@ -1,0 +1,32 @@
+##Profile##
+【物理】中衛から、我が身を盾に味方を守る隠棘の少女。バトル開始時【飛行】し、最もＨＰの低い味方をかばい、味方のＨＰに応じて強化されるスキルで敵を牽制する。=[Vật Lý] Một cô gái với những gai nhọn ẩn, trở thành tấm khiên bảo vệ đồng đội bằng chính mạng sống. Khi trận đấu bắt đầu, cô ấy vào trạng thái [Bay] để né đòn tấn công phạm vi của kẻ địch và bảo vệ đồng đội có máu thấp nhất bằng cách đón đỡ đòn tấn công thay họ. Sau đó dùng kỹ năng để kiềm chế kẻ địch.
+
+忘れ難い罪過を抱える、黒き翼の聖女=Mang theo tội lỗi khó quên, thánh nữ với đôi cánh đen
+お菓子作り、花の世話、バイオリン演奏=Làm bánh, chăm sóc hoa, chơi violin
+
+##UB##
+シャドウ・スプリット -隠棘-=Phân Thân Bóng Tối: Gai Nhọn Ẩn
+目の前の敵１キャラに物理中ダメージを与え、自分のＨＰを中回復させる。自分を除く味方の残りＨＰに応じて、このスキルのダメージがアップする。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước và hồi phục một ít máu cho bản thân. Sát thương vật lý gây ra tăng theo HP còn lại của đồng đội, không bao gồm bản thân.\nSát thương Vật Lý: (+1.3×HP của Đồng Đội)
+
+##S1##
+ソーンメイデン=Thiếu Nữ Gai Nhọn
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を中ダウンさせる。自分を除く味方の残りＨＰに応じて、このスキルのダメージがアップする。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước và giảm một chút P.DEF của chúng. Sát thương vật lý gây ra tăng theo HP còn lại của đồng đội, không bao gồm bản thân.\nSát thương Vật Lý: (+1.2×HP của Đồng Đội)
+
+##S2##
+アンビバレントガード=Bảo Vệ Lưỡng Tính
+自分以外の最もＨＰの低い味方１キャラに継続ＨＰ回復状態と【堕天使の加護】を付与する。【堕天使の加護】が付与されている間、そのキャラへの敵の攻撃を代わりに受け、自分への物理ダメージと魔法ダメージをカットし、自分が敵から受ける行動不能を無効化する。=Trao hồi máu liên tục cho bản thân và [Lời Chúc Thiên Thần Sa Ngã] cho đồng đội có máu thấp nhất (không bao gồm bản thân), đón đỡ đòn tấn công của kẻ địch nhắm vào đồng đội đó, tăng nhẹ Sát Thương Vật Lý/Thần Kỳ cho bản thân, và miễn nhiễm hiệu ứng vô dụng.
+r:"^毎秒ＨＰを(\d+)回復する自分が受ける物理ダメージを30％カット自分が受ける魔法ダメージを30％カット味方単体に【堕天使の加護】を付与自分が敵から受ける行動不能を無効化する$"=►Hồi máu mục tiêu $1/giây trong 8s.\n►Tăng Sát Thương Vật Lý/Thần Kỳ cho bản thân 30% trong 8s.\n►Trao [Lời Chúc Thiên Thần Sa Ngã] cho một đồng đội.\n►Miễn nhiễm hiệu ứng vô dụng cho bản thân trong 8s.
+
+##SP##
+このスキルのスキルレベルは「シャドウ・スプリット -隠棘-」と連動しています=Cấp độ kỹ năng này liên kết với "Phân Thân Bóng Tối: Gai Nhọn Ẩn"
+
+##EX##
+フォールンモード（Q）=Chế Độ Sa Ngã (Q)
+フォールンモード（Q）+=Chế Độ Sa Ngã (Q)+
+
+##S1+##
+ソーンメイデン+=Thiếu Nữ Gai Nhọn+
+自分の物理攻撃力を大アップさせ、目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせる。自分を除く味方の残りＨＰに応じて、このスキルのダメージがアップする。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước, giảm một chút P.DEF của chúng, và tăng mạnh Tấn Công Vật Lý của bản thân. Sát thương vật lý gây ra tăng theo HP còn lại của đồng đội, không bao gồm bản thân.\nSát thương Vật Lý: (+1.2×HP của Đồng Đội)
+
+##UE##
+レーテの隠棘=Gai Nhọn của Lethe

@@ -1,0 +1,29 @@
+##Profile##
+【魔法】中衛で、闇色の儀装束を纏う「美を統べる者」。ステータスアップ効果を受け【美貌】を増し、魔法攻撃力ダウンや味方の強化、ＴＰ回復の効果を高めて解き放つ。=[Magic] Bà chúa sắc đẹp, khoác lên mình bộ trang phục lễ hội nhuộm màu bóng tối! Khi nhận được buff, họ sẽ nhận được chồng "Sắc đẹp", từ đó tăng cường các buff/debuff của bản thân, bao gồm giảm sát thương phép của địch, cũng như buff và hồi TP cho đồng minh.
+
+##UB##
+ボクの美貌が世界を統べるよ♪=Vẻ Đẹp Của Ta Trị Vì Thế Giới♪
+目の前の敵１キャラに魔法中ダメージを与え、魔法攻撃力を大ダウンさせる。さらに、自分を中心とした範囲内の味方すべての魔法攻撃力を大アップさせる。このスキルの効果量は【美貌】の数に応じて上昇する。=Gây sát thương phép vừa phải lên kẻ địch phía trước và giảm sát thương phép của chúng một mạnh. Ngoài ra, tăng sát thương phép của đồng minh trong phạm vi một mạnh. Tất cả hiệu ứng tăng theo số chồng [Sắc đẹp].
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法攻撃力を(\d+)ダウン範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 (+0.075×$1×[Sắc đẹp]) sát thương phép lên một kẻ địch.\n►Giảm sát thương phép của một kẻ địch đi $2 (+0.025×$2×[Sắc đẹp]) trong 18 giây.\n►Tăng sát thương phép của đồng minh trong phạm vi 100 lên $3 (+0.04×$3×[Sắc đẹp]) trong 18 giây.
+
+##S1##
+花も恥じらう可愛いボク♪=Ngay Cả Hoa Cũng E Thẹn Trước Vẻ Dễ Thương Của Ta♪
+自分を中心とした範囲内の味方すべての魔法攻撃力を中アップさせ、ＴＰを小回復する。このスキルの効果量は【美貌】の数に応じて上昇する。=Tăng sát thương phép của đồng minh trong phạm vi một chút và hồi TP cho họ một ít. Tất cả hiệu ứng tăng theo số chồng [Sắc đẹp].
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方のＴＰを40回復$"=►Tăng sát thương phép của đồng minh trong phạm vi 100 lên $1 (+0.04×$1×[Sắc đẹp]) trong 12 giây.\n►Hồi TP cho đồng minh trong phạm vi 100 lên 40 (+1×[Sắc đẹp]) trong 12 giây.
+
+##S2##
+ボクに尽くしていいよ♪=Các Ngươi Có Thể Dâng Hiến Cho Ta♪
+自分がステータスアップ効果を受ける度に、【美貌】が１つ追加される。【美貌】は最大60まで追加される。さらに、自分を中心とした範囲内の味方すべての魔法防御力を中アップさせ、魔法無効バリアを展開する。=Mỗi khi Yuki nhận được tăng trạng, nhận 1 chồng [Sắc đẹp], tối đa 60. Ngoài ra, tăng phòng thủ phép của đồng minh trong phạm vi một chút và tạo khiên cho họ, chống lại sát thương phép.
+r:"^ステータスアップ効果を受けるたびに【美貌】を付与する状態になる範囲内の味方の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法無効バリアを展開する$"=►Khi nhận buff chỉ số, nhận 1 cấp [Beauty].\n►Tăng M.DEF của đồng đội trong phạm vi 100 thêm $1 trong 180s.\n►Triển khai Barrier trên đồng đội trong phạm vi 100, chống lại $2 M.DMG trong 180s.
+
+##S1+##
+花も恥じらう可愛いボク♪+=Even Flowers Shy Away from Cute Me♪+
+自分を中心とした範囲内の味方すべての魔法攻撃力を中アップ、魔法クリティカルを小アップさせ、ＴＰを小回復する。このスキルの効果量は【美貌】の数に応じて上昇する。=Tăng trung bình M.ATK của đồng đội trong phạm vi, tăng nhẹ M.CRIT Rate của họ, và hồi phục nhẹ TP của họ. Tất cả hiệu ứng tăng theo số cấp [Beauty].
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを20アップ範囲内の味方のＴＰを40回復$"=►Tăng M.ATK của đồng đội trong phạm vi 100 thêm $1 (+0.05×$1×[Beauty]) trong 12s.\n►Tăng M.CRIT Rate của đồng đội trong phạm vi 100 thêm 20 (+1×[Beauty]) trong 12s.\n►Hồi phục TP của đồng đội trong phạm vi 100 thêm 40 (+1×[Beauty]) trong 12s.
+
+##UE##
+美を統べる者の装束=Ruler Of The Beauty's Attire
+
+##EX##
+妖艶なボクががんばるよ=Bewitching Me Will Do My Best
+妖艶なボクががんばるよ+=Bewitching Me Will Do My Best+

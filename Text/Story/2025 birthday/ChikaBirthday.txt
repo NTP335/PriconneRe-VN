@@ -1,0 +1,15 @@
+Chika Misumi's Birthday
+
+あ……！\n今日はその、お誘いいただいてありがとうございます。=À...! Ưm, cảm ơn vì đã mời em ra ngoài hôm nay.
+今日の予定は「全部僕に任せて」と仰っていましたが……\n何をするのか、お聞きしてもいいですか？=Cậu nói 'Để hôm nay cho tớ'... Em có thể hỏi chúng ta sẽ làm gì không?
+これは、コンサートのチケット？\n前に誘ってくれたから……？=Đây có phải... vé concert? Vì em đã mời cậu đến một buổi trước đó...?
+あ……クリスマスの時の、ですね。\n覚えててくれたんですか……=À... Lại vào dịp Giáng sinh. Vậy cậu nhớ...
+はい、あの日は私も楽しかったです……\nあなたも、そう感じてくれていたんですね。\nふふっ……よかった。=Vâng, em cũng vui vẻ lắm hôm đó... Vậy cậu cũng cảm thấy giống vậy. Hehe... Em mừng.
+今日も、楽しい一日になりそうです。\n前よりも……素敵な一日に。=Hôm nay cũng sẽ là một ngày vui vẻ. Một ngày tuyệt vời hơn lần trước...
+えっ？　この後にも予定が詰まってる？\nそうなんですか？　カラオケに、ビュッフェ？\nケーキもあるんですか……？　そ、そんなに……=Hả? Có còn kế hoạch sau concert nữa? Thật sao? Karaoke và buffet? Thậm chí cả bánh...? T-Đúng là nhiều quá...
+ふふっ。\nそれはとても、賑やかなことになりそうですね。=Hehehe. Nghe có vẻ sẽ là một ngày rất sôi động.
+ええ、お任せします。\n今日はあなたに……全部。=Được, em giao hết cho cậu. Hôm nay... tất cả.
+
+Player Prompts
+誕生日おめでとう。=Chúc mừng sinh nhật!
+楽しかったから、今度は僕から。=Lần trước em vui rồi, nên hôm nay để em đãi.

@@ -1,0 +1,92 @@
+魔物退治の特訓をするためモニカが街の外に出ようとするのを見て、{playername}が子供が魔物と戦うのは危険だと諭す。自分は子供ではないと否定し魔物と戦うモニカを{playername}は助ける。=Để rèn luyện diệt quái, Monika cố gắng ra ngoài thị trấn. {playername} cảnh báo rằng nguy hiểm khi một đứa trẻ chiến đấu với quái vật. Monika phủ nhận mình là đứa trẻ và {playername} giúp cô ấy chiến đấu với quái vật.
+
+{playername}が散歩をしていると、\n頭を抱えている女の子を目撃した。=Trong lúc đi dạo, {playername} chứng kiến một cô gái nắm chặt đầu mình.
+うーむ……\nギルドを結成したのはいいが、\nまさか、まともに魔物退治もできないとは……=Hừm... Tốt là chúng ta đã thành lập được guild, nhưng mình không ngờ chúng ta lại không thể diệt quái một cách hiệu quả...
+全ては、私に司令官としての能力が欠如していたせいだ。\nもっと的確に指示を出せていれば……=Tất cả đều do năng lực kém cỏi của mình với tư cách chỉ huy. Giá như mình có thể đưa ra chỉ thị chính xác hơn...
+よしっ！　ならば特訓あるのみだ！\n私が強くなれば、その分ギルドが強くなるだろう！=Được rồi! Chúng ta không còn lựa chọn nào khác ngoài việc rèn luyện! Nếu mình mạnh hơn, guild cũng sẽ mạnh lên theo!
+……しかし街中では人がいて危険だな。\n仕方ない、外に出て特訓するか。=...Nhưng nguy hiểm lắm nếu có người xung quanh trong thị trấn. Thôi, chắc mình sẽ phải rèn luyện bên ngoài.
+
+呼び止める。=Gọi cô ấy.
+む？　なんだ、貴公は？\n私に用か？=Hả? Cô là ai? Cô muốn gì từ tôi?
+街の外は危険……だと？\nそんなことはわかっている。\n危険だからこそ、訓練になるのではないか。=Bên ngoài thị trấn nguy hiểm...? Tôi biết chứ. Chính vì nguy hiểm nên mới là rèn luyện, đúng không?
+なに……？\n子供が一人で出てはダメ……？=Sao cơ...? Một đứa trẻ không nên đi ra ngoài một mình...?
+こ、子供ではないっ！=E-Em không phải trẻ con!
+私はモニカ・ヴァイスヴィント！\n誇り高きヴァイスフリューゲルに所属する、\n立派な軍人だ！=Tôi là Monika Weisswind, một thành viên tự hào của Weissflügel, một binh sĩ ưu tú!
+軍人ごっこ、楽しいよね。=Chơi trò binh sĩ vui nhỉ?
+ごっこ、ではない！=Không phải chơi trò binh sĩ!
+貴公、さては信じていないな！？\n嘘ではない、私は本当に軍人なのだ！=Cô... Cô không tin tôi, đúng không?! Đó không phải nói dối, tôi thực sự là một binh sĩ!
+ん？　両親の居場所？　私の家……？\nなぜ、そんなことを聞く？=Hả? Vị trí của cha mẹ tôi? Ngôi nhà của tôi...? Tại sao cô hỏi những chuyện như vậy?
+送り届けるため……？\nだから、私は子供ではないと言っているっ！=Để hộ tống tôi về nhà...?\nTôi đã nói rồi, tôi không phải đứa trẻ!
+ぐぬぬ……\nどうやら貴公は、私を怒らせたいようだな。=Grrr... Có vẻ cô đang cố tình kích động tôi.
+もう、貴公など知らん！\n私は特訓に向かう。止めても無駄だ！=Được rồi, tôi không quan tâm đến cô nữa! Tôi sẽ đi rèn luyện. Vô ích nếu cố gắng ngăn cản tôi!
+後を追う。=Theo sau cô ấy.
+ふむ……\nここなら、広いし訓練にもちょうどいいな。=Hừm... Nơi này rộng đủ và phù hợp để rèn luyện.
+……なんだ貴公、ついてきたのか？\n心配しなくとも、街を出たからといって、\nすぐに魔物と遭遇するはずが──=...Sao thế? Tại sao cậu lại theo tôi? Ngay cả khi chúng ta đã rời thị trấn, điều đó không có nghĩa là chúng ta sẽ gặp quái vật ngay lập tức...
+ま、魔物！？\n噂をすればなんとやら、か……=Ồ, một con quái vật?! Vậy là đúng thật rồi...
+なに？　逃げよう、だと？\nなら、一人で逃げるのだな。=Sao cơ? Cậu đề xuất chúng ta chạy trốn? Vậy thì cứ chạy một mình đi.
+私は軍人だ。魔物相手でも逃げたりはしない。\nたとえ一人でも戦ってみせる。=Tôi là một binh sĩ. Tôi sẽ không chạy trốn ngay cả khi đối mặt với quái vật. Tôi sẽ chiến đấu, ngay cả khi chỉ một mình.
+なんだ……なにを呆れている？\n仕方ない、とはどういうことだ？=Sao cơ...? Tại sao cậu lại kinh ngạc thế? Ý cậu là "không còn cách nào khác" là sao?
+モニカをパワーアップする。=Nâng cấp Monika.
+……む！？\nなんだ、これは……？\n力がみなぎってくる！？=Hả?!\nĐây là sao...?\nSức mạnh đang trào dâng trong người tôi!
+これならば、魔物も怖れることはない！\nくらえっ！=Với thế này, ngay cả quái vật cũng không còn gì để sợ! Nhận lấy đây!
+ふふ、どうだ私の実力は？\n素晴らしいだろう？=Hehe, sức mạnh của tôi thế nào? Tuyệt vời, phải không?
+そうか、すごいか！\nやっと貴公も私を軍人と認める気に……=Ra vậy, thật tuyệt! Cuối cùng cậu cũng công nhận em là một người lính rồi...
+え？　すごく強い子供でびっくりした？\nわ、私は子供ではないっ！=Hả? Cậu ngạc nhiên vì một đứa trẻ lại mạnh vậy ư? Em... em không phải trẻ con!
+お、おい！　なぜ手をつかむ！？\n誰が触れていいと言った！？=Này! Sao cậu lại nắm tay em? Ai cho phép cậu chạm vào em?
+は……？　危ないからおうちまで\n送ってあげるだと？=Hả...? Cậu sẽ đưa em về vì nguy hiểm ư?
+う、うぐぐ……\nだから、私を子供扱いするなっ！=U-Ugh... Em... em đã bảo cậu đừng đối xử với em như trẻ con rồi!
+貴公は、そんなに私を愚弄したいのか！？\n不愉快だ！=Cậu muốn chế giễu em đến thế ư? Thật khó chịu!
+これをあげるから、機嫌なおして。=Em sẽ tặng cậu cái này, nên vui lên đi.
+ふん、そのようなもの受け取る気は……=Hmph, tôi không muốn nhận thứ như vậy...
+それは……アメか？\n……し、仕方ない。\nどうしてもというなら、受け取ってやろう。=Đây là... kẹo ư?... Thôi được. Nếu cậu cứ khăng khăng, em sẽ nhận.
+
+あむっ……！\nうん、なかなかの味だ！=Ngoạm... Ừm, ngon thật đấy!
+
+貴公、名前は？\n……{playername}か。=Tên cậu?... {playername}, đúng không?
+{playername}、このアメに免じて、\nさっきの非礼は許そう。={playername}, nhờ món kẹo này, em sẽ tha thứ cho sự thô lỗ của cậu lúc trước.
+では、今日の特訓はこれくらいにしておこう。\n{playername}、帰るぞ！=Thôi, hôm nay chúng ta dừng buổi tập lại đi. {playername}, về thôi!
+
+アメ一つで、すっかり機嫌を良くするモニカであった。=Chỉ với một viên kẹo, tâm trạng của Monika đã tươi sáng lên đáng kể.
+
+
+
+
+
+
+
+
+
+こ、子供ではないっ！=E-Em không phải trẻ con!
+
+
+軍人ダッタノカー=Vâng vâng, một người lính đang làm nhiệm vụ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

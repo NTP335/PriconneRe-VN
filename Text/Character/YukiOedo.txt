@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛で、迷える皆を救う白衣を纏いし美の象徴。一番低い味方１キャラのＴＰを回復し、ＨＰ回復スキルで守り、魔法攻撃力アップのスキルで一気に攻め落とす。=[Magic] Là một hỗ trợ hàng sau, anh ấy mặc một chiếc áo choàng trắng tượng trưng cho vẻ đẹp và cứu mọi người đang lạc. Anh ấy có thể hồi phục TP của đồng đội có TP thấp nhất, bảo vệ với kỹ năng hồi HP, rồi phát động một cuộc tấn công dữ dội với kỹ năng tăng sức mạnh phép thuật.
+
+##UB##
+可愛いボクを緊急投与だよ♪=Emergency Dose for Cute Me♪
+味方全体の魔法攻撃力と行動速度を大アップさせる。さらに敵全体の魔法防御力を小ダウンさせる。=Tăng mạnh M.ATK và tốc độ hành động của tất cả đồng đội, và cũng giảm nhẹ M.DEF của tất cả kẻ thù.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度アップ敵全体の魔法防御力を(\d+)ダウン$"=►Tăng M.ATK của tất cả đồng đội thêm $1 trong 18s.\n►Tăng tốc độ hành động của tất cả đồng đội lên 160% trong 18s.\n►Giảm M.DEF của tất cả kẻ thù thêm $2 trong 18s.
+
+##S1##
+天使なボクが癒しちゃう♪=Angel-like Me Will Heal You♪
+最もＨＰが低い味方１キャラを中心とした範囲内の味方すべてのＨＰを中回復させる。=Hồi phục trung bình HP của đồng đội trong phạm vi xung quanh đồng đội có HP thấp nhất.
+
+##S2##
+ボクの美しさが処方箋さ♪=My Beauty is a Prescription♪
+最もＴＰが低い味方１キャラのＴＰを中回復させる。さらにそのキャラを中心とした範囲内の味方すべての魔法攻撃力を中アップさせる。=Hồi phục trung bình TP của đồng đội có TP thấp nhất và tăng trung bình M.ATK của đồng đội trong phạm vi của nó.
+r:"^味方単体のＴＰを(\d+)回復範囲内の味方の魔法攻撃力を(\d+)アップ$"=Thời gian thi triển: 0.695s\n►Hồi phục TP của một đồng đội thêm $1.\n►Tăng M.ATK của đồng đội trong phạm vi 200 thêm $2 trong 12s.
+## Same as NYKasumi S1 with different TP
+
+##EX##
+天使なボクががんばるよ=Angel-like Me Will Do My Best
+天使なボクががんばるよ+=Angel-like Me Will Do My Best+
+
+##S1+##
+天使なボクが癒しちゃう♪+=Angel-like Me Will Heal You♪+
+最もＨＰが低い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップさせ、ＨＰを中回復させる。=Tăng mạnh M.ATK của đồng đội trong phạm vi của đồng đội có HP thấp nhất, và hồi phục trung bình HP của họ.
+r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Hồi phục HP của đồng đội trong phạm vi 120 thêm $1.\n►Tăng M.ATK của đồng đội trong phạm vi 120 thêm $2 trong 12s.
+
+##UE##
+ボクの可愛いナース服♪=My Cute Nurse Outfit♪

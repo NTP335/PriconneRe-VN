@@ -1,0 +1,18 @@
+Tomo Mikuma's Birthday
+
+こんな繁華街であの人と待ち合わせなんて、\n珍しいな……しかも、あの人からのお誘いなんてね。=Hiếm có khi gặp anh ấy ở một khu vực đông đúc như vậy... và còn hiếm hơn nữa là anh ấy là người mời em.
+今日は私の誕生日。\nあの人は何も言わなかったけど……そういうことだよね？=Hôm nay là sinh nhật của em. Anh ấy chưa nói một lời nào về chuyện đó... nhưng đó phải là lý do, đúng không?
+ふふっ。こうして待ってる時点でうれしくて顔が緩んじゃうけど、\nそれだとまたあの人のペースに乗せられちゃうよね。\nちょっとだけ……からかっちゃおうかな。=Hehe. Chỉ đứng đây chờ thôi cũng đủ làm em mỉm cười rồi, nhưng nếu em thể hiện quá nhiều, anh ấy lại sẽ kéo em theo nhịp độ của anh ấy. Có lẽ... em nên trêu chọc anh ấy một chút trước.
+ふふ、いくらでも待つよ。\nだって今日はあなたとのバースデーデートだもん。=Hehe, em sẽ chờ bao lâu cũng được. Dù sao hôm nay cũng là buổi hẹn sinh nhật của em với anh.
+……たくさんドキドキさせてくれるんだよね？=...Anh sẽ làm tim em đập thình thịch nhiều lắm, đúng không?
+何この自信……！？\nいつもだったら、デートなんて言った時点であわあわして\n挙動不審になるはずなのに……！=Cái thái độ tự tin của anh ấy là sao...!? Thông thường, ngay lúc em nhắc đến buổi hẹn, anh ấy sẽ hoảng loạn và bắt đầu hành xử đáng ngờ...!
+えっ？　腕を……！？　そんなの周りから見たら完全に……！\nしかも「まずは」って、それ以上があるの……！？=Hả? Nắm tay...?! Nếu mọi người thấy chúng ta như thế này, sẽ hoàn toàn...! Và "trước tiên", anh nói, còn nhiều hơn nữa sau cái này...?!
+どうしよう、今日のこの人は一味違う……！\n私がたくさんドキドキさせて～とか言っちゃったから！？\nちょっとからかったつもりなのに本気になっちゃってる……！=Em nên làm gì đây? Anh ấy hôm nay hành xử khác biệt quá...! Có phải vì em bảo anh ấy làm tim em đập nhanh? Em chỉ trêu chọc thôi, mà anh ấy lại nghiêm túc...!
+待って待って！\nちょっと憧れるけどこんな街中でされたらドキドキしすぎちゃうから！\nもうっ、あなたは加減を知らないんだから……！=Khoan, khoan! Em có thể thích ý tưởng đó, nhưng nếu anh làm vậy ở giữa thành phố, tim em sẽ nổ mất! Trời ơi, anh thật sự không biết khi nào nên kìm nén lại...!
+私の誕生日に全力を注いでくれるのはすっごくうれしいから、\nもう少しだけ段階を踏んでいこう？\nお姫様抱っこ……誰もいないところでなら、やってほしいかも。=Em rất vui vì anh đã dành nhiều công sức cho sinh nhật của em, nhưng... hãy từng bước một, được chứ? Em muốn nhận cái ôm công chúa đó... miễn là ở một nơi riêng tư.
+
+Player Prompts
+お待たせ、智ちゃん。=Xin lỗi vì để cậu chờ, Tomo-chan
+任せて。=Giao cho em.
+まずは腕を組んで歩こうか。=Trước tiên, hãy đi bộ trong khi nắm tay.
+お姫様抱っこがいい？=Vâng, cậu muốn em cõng cậu như một công chúa chứ?

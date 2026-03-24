@@ -1,0 +1,35 @@
+##Profile##
+リン=Rin
+【物理】中衛で物理パーティを強化するものぐさ少女。味方の物理攻撃力をアップしつつ、味方の魔法防御を高めることで攻守ともにパーティをサポートする。=[Vật lý] Một cô gái lười biếng tăng cường các đội hình dựa trên vật lý từ trung tuyến. Cung cấp hỗ trợ toàn diện bằng cách tăng tấn công vật lý và phòng thủ ma thuật của đồng minh.
+
+遊びと睡眠が何より大事なぐうたら娘=Một kẻ lười biếng coi trọng chơi game và ngủ hơn tất cả
+
+##UB##
+お手製あんパンチャージ=Homemade Sweet Bun Boost
+味方全体のＨＰを小回復し、さらに物理攻撃力と魔法防御力を中アップさせる。=Hồi một lượng nhỏ HP cho đồng minh. Tăng nhẹ P.ATK và M.DEF của họ.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Hồi HP của đồng minh lên $1.\n►Tăng P.ATK của đồng minh lên $2 trong 18s.\n►Tăng M.DEF của đồng minh lên $3 trong 18s.
+
+##S1##
+果報は寝て待てモード=Kiên Nhẫn Là Phẩm Hạnh
+自分の周囲の味方すべての魔法防御力を大アップさせる。=Tăng lớn M.DEF cho tất cả đồng minh gần đó.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ$"=►Tăng M.DEF cho đồng minh trong phạm vi 150 lên $1 trong 12s.
+
+##S2##
+ドングリスローイング=Trận Mưa Quả Đực
+
+##EX##
+ドングリチャージ=Được Năng Lượng Từ Quả Đực
+ドングリチャージ+=Được Năng Lượng Từ Quả Đực+
+
+##UB+##
+あんパン・バケーション=Kỳ Nghỉ Bánh Mì Nhân
+味方全体のＨＰを小回復し、物理攻撃力と魔法防御力を特大アップ、物理クリティカルを大アップ、ＴＰ上昇を小アップさせる。さらに次の攻撃のダメージ量に応じて追加でＨＰを回復させる。=Hồi một chút HP cho đồng minh, tăng lớn P.ATK, M.DEF và Tỷ Lệ Chí Mạng, đồng thời tăng nhỏ TP Boost. Ngoài ra còn tặng hiệu ứng Hút Máu cho tất cả đồng minh tương ứng với lượng sát thương của đòn tấn công tiếp theo.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ$"=►Hồi HP đồng minh lên $1.\n►Áp dụng hiệu ứng Hút Máu cho 1 đòn tấn công tiếp theo của tất cả đồng minh.\n►Tăng P.ATK đồng minh lên $2 trong 18s.\n►Tăng M.DEF đồng minh lên $3 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng đồng minh lên $4 trong 18s.\n►Tăng TP Boost đồng minh lên $5 trong 18s.
+
+##S1+##
+果報は寝て待てモード+=Kiên Nhẫn Là Phẩm Hạnh+
+自分の周囲の味方すべての魔法防御力を大アップさせ、さらに物理攻撃力を大アップ、物理クリティカルを中アップさせる。=Tăng lớn M.DEF cho tất cả đồng minh gần đó, tăng trung bình P.ATK và tăng nhỏ Tỷ Lệ Chí Mạng.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=Thời gian thi pháp: 0.59s\n►Tăng M.DEF cho đồng minh trong phạm vi 250 lên $1 trong 12s.\n►Tăng P.ATK cho đồng minh trong phạm vi 250 lên $2 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng cho đồng minh trong phạm vi 250 lên $3 trong 12s.
+
+##UE##
+ジュエリズムドングリ=Viên Ngọc Rừng Xanh

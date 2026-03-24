@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛でハグの機会を窺う水着のスライムギャル。攻撃してきた敵に【ネバネバ】を自動で付着させ、攻撃力ダウンやダメージ、束縛など複数の効果を引き起こす。=[Vật lý] Một slime gyaru mặc đồ bơi lội lên mặt trận để có cơ hội ôm. Bất kỳ kẻ thù nào tấn công cô ấy sẽ chịu hiệu ứng [Dính], làm giảm tấn công, gây sát thương, hạn chế di chuyển, và nhiều hơn nữa.
+
+##UB##
+スライミィサービス=Slime-y Service
+##oldr:"^敵単体に(\d+)の物理ダメージ敵単体にネバネバを２つ付与する敵単体の物理防御力を255ダウン敵単体の物理・魔法攻撃力を1452ダウン自分のＨＰを20885回復ネバネバが４つ以上の場合、16335ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý lên một kẻ thù đơn. ►Gây 2 [Dính] lên một kẻ thù đơn. ►Giảm P.DEF của một kẻ thù đơn bằng 255. ►Giảm P.ATK & M.ATK của một kẻ thù đơn bằng 1452. ►Phục hồi HP của bản thân bằng 20885.  Nếu [Dính] từ 4 trở lên: ►Tạo M barrier miễn nhiễm sát thương vật lý/phép (16335 HP) cho bản thân.
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体にネバネバを２つ付与する敵単体の物理防御力を(\d+)ダウン敵単体の物理・魔法攻撃力を(\d+)ダウン自分のＨＰを(\d+)回復ネバネバが４つ以上の場合、(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Gán 2 tầng [Dính dớp] lên một kẻ địch.\n►Giảm $2 phòng thủ vật lý của một kẻ địch trong 18 giây.\n►Giảm $3 tấn công vật lý và ma thuật của một kẻ địch trong 18 giây.\n►Hồi phục $4 HP cho bản thân.\n\nNếu có từ 4 tầng [Dính dớp] trở lên:\n►Triển khai rào chắn vô hiệu hóa sát thương vật lý và ma thuật hấp thụ $5 sát thương.
+
+目の前の敵１キャラに物理特大ダメージ、物理防御力を中ダウン、【ネバネバ】を２つ付与する（最大６つまで）。【ネバネバ】の数に応じて敵の攻撃力はダウンする。自分のＨＰを中回復する。【ネバネバ】の数が４つ以上の場合、自分に物理/魔法無効バリアを展開する。=Gây lượng sát thương vật lý khổng lồ lên 1 kẻ thù phía trước, giảm vừa phải P.DEF của chúng, và gây 2 [Dính] (tối đa: 6). Tấn công của kẻ thù giảm dựa trên số lượng [Dính]. Phục hồi HP bản thân một lượng vừa phải. Nếu số lượng [Dính] từ 4 trở lên, tạo barrier miễn nhiễm sát thương vật lý/phép cho bản thân.
+
+##S1##
+ホットヒップドロップ+=Hot hip drop+
+ホットヒップドロップ=Hot hip drop
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを80アップネバネバが２つ以上の場合、味方全体の物理クリダメを8％アップネバネバが４つ以上の場合、味方全体のＴＰを30回復$"=►Gây $1 sát thương vật lý lên một kẻ thù đơn. ►Giảm P.DEF của một kẻ thù đơn bằng $2. ►Tăng P.ATK của tất cả đồng đội bằng $3. ►Tăng P.CRIT RATE của tất cả đồng đội bằng 80. Nếu [Dính] từ 2 trở lên: ►Tăng P.CRIT DMG của tất cả đồng đội bằng 8％. Nếu [Dính] từ 4 trở lên: ►Phục hồi TP của tất cả đồng đội bằng 30.
+
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。さらに、味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。対象の【ネバネバ】の数が２つ以上の場合、味方全体の物理攻撃クリティカル時のダメージを小アップ、４つ以上の場合、さらに味方全体のＴＰを小回復させる。=Gây sát thương vật lý vừa phải lên 1 kẻ thù phía trước và giảm nhẹ P.DEF của chúng. Đồng thời tăng mạnh P.ATK của tất cả đồng đội và tăng đáng kể P.CRIT RATE của họ. Nếu mục tiêu có 2+ [Dính], tăng nhẹ P.CRIT DMG của tất cả đồng đội. Nếu có 4+ [Dính], thêm vào phục hồi TP của tất cả đồng đội một lượng nhỏ.
+
+##S2##
+ハグハグスライム=Hug-Hug Slime
+
+r:"^自分を攻撃した敵にネバネバを１つ付与する敵単体の物理・魔法攻撃力を(\d+)ダウン自分を攻撃した敵のネバネバが６つの場合、以下の効果が発動するその敵のネバネバを２つ消費するその敵に(\d+)の物理ダメージその敵を一定時間行動不能にする自分のＨＰを(\d+)回復$"=►Gây 1 [Dính] lên kẻ thù đang tấn công. ►Giảm P.ATK & M.ATK của kẻ thù đang tấn công bằng $1.  Nếu kẻ thù đang tấn công có 6 [Dính]: ►Tiêu thụ 2 [Dính] từ kẻ thù đó. ►Gây $2 sát thương vật lý lên kẻ thù đó. ►Trói kẻ thù đó. ►Phục hồi HP của bản thân bằng $3.
+
+敵から攻撃を受けるたび、その敵に【ネバネバ】を１つ付与する状態になる。【ネバネバ】は最大６つまで追加される。【ネバネバ】の数に応じて敵の攻撃力はダウンする。【ネバネバ】が６つの敵から攻撃を受けた場合、その敵の【ネバネバ】を２つ消費し、物理中ダメージを与え、束縛し、さらに自分のＨＰを中回復する。=Khi bị tấn công, gây 1 [Dính] lên kẻ thù đang tấn công (tối đa: 6). Tấn công của kẻ thù giảm dựa trên số lượng [Dính]. Nếu bị kẻ thù có 6 [Dính] tấn công, tiêu thụ 2 [Dính] từ chúng, gây sát thương vật lý vừa phải, trói chúng, và phục hồi vừa phải HP của bản thân.
+
+##EX##
+ぷるぷるサンスクリーン=Puru-Puru Sunscreen
+ぷるぷるサンスクリーン+=Puru-Puru Sunscreen+

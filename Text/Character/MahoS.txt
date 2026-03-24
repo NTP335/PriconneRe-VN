@@ -1,0 +1,34 @@
+##Profile##
+【魔法】後衛で、膨大な魔力を振るう、真夏のおとぎ姫。高火力で対象がランダムなスキルやユニオンバーストは、攻撃対象が１つの敵に対して絶大なダメージを叩き出す。=[Ma Thuật] Công chúa trong câu chuyện cổ tích giữa mùa hè, hỗ trợ đội từ hậu phương với kho ma lực dồi dào. Dù kỹ năng mạnh và Union Burst của cô ảnh hưởng ngẫu nhiên lên mục tiêu, chúng trở nên còn tàn khốc hơn khi tập trung vào một kẻ địch.
+
+##UB##
+メルヘンサマーパレード=Diễu Hành Mùa Hè Kể Chuyện
+ランダムな敵キャラに、単体魔法中ダメージを計４回与える。=Gây sát thương ma thuật vừa phải (M.DMG) cho một kẻ địch ngẫu nhiên 4 lần.
+
+##S1##
+マホマホサマーフレンズ=Bạn Bè Mùa Hè Kỳ Diệu
+自分の魔法攻撃力を中アップさせ、さらにＴＰを中回復させる。=Tăng vừa phải Lực Ma Thuật (M.ATK) của bản thân. Hồi một lượng vừa phải Điểm Ma Thuật (TP) cho bản thân.
+自分の魔法攻撃力を大アップさせ、さらにＴＰを中回復させる。=Tăng lớn Lực Ma Thuật (M.ATK) của bản thân. Hồi một lượng vừa phải Điểm Ma Thuật (TP) cho bản thân.
+r:"^自分の魔法攻撃力を(\d+)アップ\n自分のＴＰを(\d+)回復$"=►Tăng Lực Ma Thuật (M.ATK) của bản thân lên $1\n►Hồi Điểm Ma Thuật (TP) của bản thân lên $2.
+
+##S2##
+マホマホサマーブロッサム=Hoa Mùa Hè Kỳ Diệu
+ランダムな敵１キャラに魔法大ダメージを与える。=Gây sát thương ma thuật lớn (M.DMG) cho một kẻ địch ngẫu nhiên.
+
+##EX##
+メルヘンパワー=Sức Mạnh Kể Chuyện
+メルヘンパワー+=Sức Mạnh Kể Chuyện+
+
+##S1+##
+マホマホサマーフレンズ+=Bạn Bè Mùa Hè Kỳ Diệu+
+自分の魔法攻撃力を特大アップさせ、ＴＰを中回復させ、さらにＴＰ上昇を小アップさせる。=Tăng lớn Lực Ma Thuật (M.ATK) của bản thân. Hồi một lượng vừa phải Điểm Ma Thuật (TP) cho bản thân và tăng nhỏ Tăng Điểm Ma Thuật (TP Boost) của bản thân.
+r:"^自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復自分のＴＰ上昇を(\d+)アップ$"=►Tăng Lực Ma Thuật (M.ATK) của bản thân lên $1 trong 15s.\n►Hồi Điểm Ma Thuật (TP) của bản thân lên $2.\n►Tăng Tăng Điểm Ma Thuật (TP Boost) của bản thân lên $3 trong 15s.
+
+##S2+##
+マホマホサマーブロッサム+=Hoa Mùa Hè Kỳ Diệu+
+ランダムな敵１キャラに魔法大ダメージを与え、魔法防御力を中ダウンさせる。さらに、自分の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを中アップする。=Gây sát thương ma thuật lớn (M.DMG) cho một kẻ địch ngẫu nhiên và giảm vừa phải Kháng Ma Thuật (M.DEF) của nó. Ngoài ra, còn tăng rất lớn Lực Ma Thuật (M.ATK), tăng lớn Tỷ Lệ Chí Mạng Ma Thuật (M.CRIT Rate) và tăng vừa phải Sát Thương Chí Mạng Ma Thuật (M.CRIT DMG) của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを25％アップ$"=►Gây $1 sát thương ma thuật (M.DMG) cho một kẻ địch.\n►Giảm Kháng Ma Thuật (M.DEF) của một kẻ địch lên $2 trong 18s.\n►Tăng Lực Ma Thuật (M.ATK) của bản thân lên $3 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật (M.CRIT Rate) của bản thân lên $4 trong 18s.\n►Tăng Sát Thương Chí Mạng Ma Thuật (M.CRIT DMG) của bản thân lên 25% trong 18s.
+
+##UE##
+夏華杖ファンシーロア=Gậy Rồng Mùa Hè Phong Cách
+マホマホぬいぐるみ騎士団=Kỵ Sĩ Nhồi Bông Kỳ Diệu

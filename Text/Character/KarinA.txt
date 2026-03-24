@@ -1,0 +1,29 @@
+##Profile##
+【魔法】中衛で森羅万象を究め味方を支援する錬金術師。物理、魔法の属性を問わない敵の弱体化と味方の強化に加え、スキルによる高頻度のＨＰ回復で盤石な戦局を築く。=[Magic] Một nhà giả kim đã thành thạo mọi sự sáng tạo, hỗ trợ đồng minh từ trung tuyến. Ngoài việc tăng cường bất kể kẻ địch là vật lý hay phép thuật, cô ấy xây dựng nền tảng vững chắc cho trận chiến với tần suất hồi HP cao.
+
+##UB##
+鬼神の丸薬=Divine Medicine
+前方の味方すべての物理攻撃力と魔法攻撃力を特大アップさせ、継続ＨＰ回復状態を付与する。=Tăng mạnh P.ATK và M.ATK của tất cả đồng minh tiền tuyến (bao gồm bản thân) và ban cho họ hồi HP liên tục.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Tăng P.ATK của tất cả đồng minh tiền tuyến trong phạm vi lên $1 trong 18 giây.\n►Tăng M.ATK của tất cả đồng minh tiền tuyến trong phạm vi lên $2 trong 18 giây.\n►Hồi HP của tất cả đồng minh tiền tuyến trong phạm vi $3 mỗi giây trong 10 giây.
+
+##S1##
+ミゼラブルミスト=Miserable Mist
+前方の敵すべての物理攻撃力と魔法攻撃力を大ダウンさせ、物理防御力と魔法防御力を小ダウンさせる。=Giảm mạnh P.ATK và M.ATK của tất cả kẻ địch tiền tuyến và giảm nhẹ P.DEF và M.DEF của chúng.
+r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Giảm P.ATK của tất cả kẻ địch tiền tuyến thêm $1 trong 12 giây.\n►Giảm M.ATK của tất cả kẻ địch tiền tuyến thêm $2 trong 12 giây.\n►Giảm P.DEF của tất cả kẻ địch tiền tuyến thêm $3 trong 12 giây.\n►Giảm M.DEF của tất cả kẻ địch tiền tuyến thêm $4 trong 12 giây.
+
+##S2##
+メディク=Medic
+前方の味方すべてのＨＰを中回復させ、物理防御力と魔法防御力を中アップさせる。=Hồi phục HP của tất cả đồng minh tiền tuyến (bao gồm bản thân) một cách vừa phải và tăng P.DEF và M.DEF của họ.
+r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=►Hồi HP của tất cả đồng minh tiền tuyến $1.\n►Tăng P.DEF của tất cả đồng minh tiền tuyến thêm $2 trong 12 giây.\n►Tăng M.DEF của tất cả đồng minh tiền tuyến thêm $3 trong 12 giây.
+
+##EX##
+アルケミックハーモニー=Alchemic Harmony
+アルケミックハーモニー+=Alchemic Harmony+
+
+##UE##
+ポーションボトル=Potion Bottle
+
+##S1+##
+ミゼラブルミスト+=Miserable Mist+
+前方の敵すべての物理攻撃力と魔法攻撃力を大ダウンさせ、物理防御力と魔法防御力と行動速度を小ダウンさせる。=Giảm mạnh P.ATK và M.ATK của tất cả kẻ địch tiền tuyến và giảm nhẹ P.DEF, M.DEF và tốc độ hành động của chúng.
+r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の行動速度を一定時間低下させる$"=►Giảm P.ATK của tất cả kẻ địch tiền tuyến thêm $1 trong 12 giây.\n►Giảm M.ATK của tất cả kẻ địch tiền tuyến thêm $2 trong 12 giây.\n►Giảm P.DEF của tất cả kẻ địch tiền tuyến thêm $3 trong 12 giây.\n►Giảm M.DEF của tất cả kẻ địch tiền tuyến thêm $4 trong 12 giây.\n►Giảm tốc độ hành động của tất cả kẻ địch tiền tuyến còn 90% trong 12 giây.

@@ -1,0 +1,26 @@
+※この設定は後から［設定］で変更できます。=※ Cài đặt này có thể thay đổi sau.
+※この設定は後から[設定]で変更できます。=※ Cài đặt này có thể thay đổi sau.
+この設定は後から［設定］で変更できます。=Cài đặt này có thể\ndược thay đổi sau trong [Cài đặt].
+[FF7C4E,D62146]この設定は後から［設定］で変更できます。[-]=[FF7C4E,D62146]Cài đặt này có thể thay đổi sau trong [Cài đặt].[-]
+今後このメッセージを表示しない\n※この設定は後から[設定]で変更できます。=Không hiển thị thông báo này trong tương lai.\n※ Có thể thay đổi sau từ [Cài đặt].
+
+設定変更を適応するためにアプリの再起動が必要になります。=Cần khởi động lại ứng dụng để áp dụng các thay đổi cài đặt.
+演出設定=Cài đặt Hướng
+ガチャで★3キャラを獲得した際の演出と、マイページのキャラ演出の設定を行います。\n※この設定は後から【設定】で変更できます。=Đặt hiệu ứng khi nhận nhân vật ★3 từ gacha và hiệu ứng nhân vật trên Màn hình chính.\nCài đặt này có thể thay đổi sau trong [Cài đặt].
+ガチャで★3キャラを獲得した際の演出と、マイページのキャラ演出の設定を行います。\\n\n※この設定は後から【設定】で変更できます。=Đặt hiệu ứng khi nhận nhân vật ★3 từ gacha và hiệu ứng nhân vật trên Màn hình chính.\nCài đặt này có thể thay đổi sau trong [Cài đặt].
+
+
+ガチャの★3キャラ獲得時の演出設定=Hiển thị thanh tải xuống cho nhân vật ★3 từ Gacha
+★3キャラを獲得した際の演出設定です。\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。="Hoạt hình" sẽ hiển thị thanh tải dữ liệu trước khi phát.
+★3キャラを獲得した際の演出設定です。\\n\n※「リッチ版」を選択すると、再生前にデータダウンロードを行います。="Hoạt hình" sẽ hiển thị thanh tải dữ liệu trước khi phát.
+リッチ版=Hoạt hình
+
+マイページのキャラ演出設定=Hoạt hình CG trên màn hình chính
+マイページのキャラ演出設定です。\n※「リッチ版」を選択すると、キャラ設定変更時にデータダウンロードを行います。="Hoạt hình" sẽ hiển thị thanh tải dữ liệu khi bạn thay đổi nhân vật được hiển thị.
+マイページのキャラ演出設定です。\\n\n※「リッチ版」を選択すると、キャラ設定変更時にデータダウンロードを行います。="Hoạt hình" sẽ hiển thị thanh tải dữ liệu khi bạn thay đổi nhân vật được hiển thị.
+
+リッチ版演出データの保存設定=Lưu CG hoạt hình đã tải xuống
+ダウンロードしたリッチ版演出データを保存するか設定します。\n「保存しない」を選択すると、リッチ版演出データはアプリ起動の度に削除されます。=Nếu bạn không lưu chúng, dữ liệu sẽ bị xóa và tải lại mỗi lần.
+ダウンロードしたリッチ版演出データを、端末に保存するか設定します。\\n\n「保存しない」を選択すると、リッチ版演出データはアプリ起動の度に削除されます。=Nếu bạn không lưu chúng, dữ liệu sẽ bị xóa và tải lại mỗi lần.
+保存する=Lưu
+保存しない=Không Lưu

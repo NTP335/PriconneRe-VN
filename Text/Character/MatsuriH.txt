@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で鋭爪を突き立てるハロウィン騎士見習い。ユニオンバーストの使用回数に応じて強化されるスキルで与えるダメージと行動速度をアップさせ、敵を斬り裂く。=[Vật lý] Một kỵ sĩ học việc Halloween ở tiền tuyến, đâm lén bằng vuốt sắc. Một kỹ năng mạnh lên theo số lần sử dụng Union Burst, tăng sát thương và tốc độ hành động, chém xuyên qua kẻ địch.
+
+##UB##
+ハロウィンタイガーヒーロー=Hổ Anh Hùng Halloween
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の行動速度を大アップさせる。このスキルのダメージと行動速度の上昇量は、ユニオンバーストを使用するたび増加する。（最大４回）=Gây sát thương vật lý khổng lồ lên kẻ địch phía trước và tăng tốc độ hành động của bản thân rất lớn. Sát thương và tăng tốc độ hành động của kỹ năng này tích lũy với mỗi lần sử dụng Union Burst. (Tối đa 4 lần)
+r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng tốc độ hành động của bản thân lên 150% trong 12s.
+
+##S1##
+ホロウタイガークロー=Vuốt Hổ Hư Không
+目の前の敵１キャラに物理中ダメージを与える。このスキルのダメージは、ユニオンバーストを使用するたび増加する。（最大４回）=Gây sát thương vật lý trung bình lên kẻ địch phía trước. Sát thương của kỹ năng này tăng với mỗi lần sử dụng Union Burst. (Tối đa 4 lần)
+
+##S2##
+ナイトメアタイガー=Hổ Dã Vật
+目の前の敵１キャラに物理大ダメージを与えるが、自分の残りＨＰの20％を消費する。=Gây sát thương vật lý khổng lồ lên kẻ địch phía trước nhưng tiêu hao 20% HP còn lại của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の残りＨＰの20%を消費$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tiêu hao 20% HP còn lại của bản thân.
+
+##EX##
+トリックオアジャスティス=Thích Thị Công Lý
+トリックオアジャスティス+=Thích Thị Công Lý+
+
+##S1+##
+ホロウタイガークロー+=Vuốt Hổ Hư Không+
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を小アップさせる。さらに自分のＴＰを小回復する。このスキルのダメージと物理攻撃力アップ効果は、ユニオンバーストを使用するたび増加する。（最大４回）=Gây sát thương vật lý khổng lồ lên kẻ địch phía trước, tăng một chút tấn công vật lý của bản thân, và phục hồi một chút TP của bản thân. Sát thương, tăng tấn công vật lý và phục hồi TP của kỹ năng này tăng với mỗi lần sử dụng Union Burst. (Tối đa 4 lần)
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng tấn công vật lý của bản thân $2 trong 12s.\n►Phục hồi 50 TP cho bản thân.
+
+##UE##
+ホワイトタイガーフォーム=Dạng Bạch Hổ

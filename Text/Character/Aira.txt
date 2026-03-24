@@ -1,0 +1,33 @@
+人助け、街歩き、利き麦しゅわ=Giúp đỡ mọi người, đi dạo quanh thị trấn, lúa thông minh
+
+【物理】前衛で、世界を守り笑顔を咲かせる情熱の豪炎。前方の敵全てを対象とする連撃の強化通常攻撃や、天楼覇断剣から放たれる極大ダメージの一閃で未来を切り拓く。=[Vật lý] Một chiến binh tiền tuyến với ngọn lửa nhiệt huyết bảo vệ thế giới và mang lại nụ cười. Anh ấy mở ra con đường tương lai với đòn tấn công thường mạnh mẽ nhiều lần nhắm vào tất cả kẻ thù phía trước, và một ánh chớp từ thanh kiếm Tenrou Hadanken gây ra thiệt hại khổng lồ.
+
+
+##UB##
+天楼覇断剣・焔=Heavenly Castle Supreme Severing Sword: Blaze
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ攻撃する度にダメージ1500増加$"=►Gây $1 Sát thương Vật lý cho kẻ thù trong phạm vi.\n►Gây $2 Sát thương Vật lý cho kẻ thù trong phạm vi.\n►Gây $3 Sát thương Vật lý lên một kẻ thù.\n►Sát thương tăng thêm 1500 với mỗi lần tấn công.
+
+最も物理防御力の低い敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを２回与え、最も物理防御力の低い敵１キャラに物理極大ダメージを与える。このＵＢの初回使用後、アイラが敵を攻撃するたびに、以降その敵にアイラが与えるダメージがアップする。この効果は最大100回まで累積する。さらに、行動パターンが変化し、通常攻撃が強化通常攻撃になる。強化通常攻撃は目の前の敵１キャラに物理中ダメージを与え、前方の敵すべてに物理小ダメージを２回与える。=Gây 2 đòn sát thương vật lý trung bình trong một vùng ảnh hưởng xung quanh kẻ thù có Phòng thủ Vật lý thấp nhất, và gây sát thương vật lý khổng lồ lên kẻ thù có Phòng thủ Vật lý thấp nhất. Sau lần dùng Union Burst đầu tiên, mỗi lần Aira tấn công kẻ thù sẽ tăng sát thương gây ra (+1500 sát thương mỗi lần tích lũy). Hiệu ứng này có giới hạn 100 lần tích lũy. Đồng thời thay đổi vòng kỹ năng của cô ấy vĩnh viễn và biến các đòn tấn công thường thành đòn tấn công thường nâng cao. Đòn tấn công thường nâng cao gây sát thương vật lý trung bình lên kẻ thù phía trước nhất, và hai đòn sát thương vật lý nhẹ lên tất cả kẻ thù phía trước nhất.
+
+##S1## 
+バァーニィーーングッ！！=Nó đang cháyyyy!!
+
+最も物理防御力の低い敵１キャラに物理大ダメージを２回与え、物理防御力を小ダウンさせる。=Gây 2 đòn sát thương vật lý lớn lên kẻ thù có Phòng thủ Vật lý thấp nhất và hạ thấp Phòng thủ Vật lý một chút.
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=►Gây $1 Sát thương Vật lý lên một kẻ thù.\n►Gây $2 Sát thương Vật lý lên một kẻ thù.\n►Hạ thấp Phòng thủ Vật lý của một kẻ thù đi $3.
+
+##S2##
+リンクスコンビネーション=Lynx Combination
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の物理クリダメを4％アップ$"=►Gây $1 Sát thương Vật lý cho kẻ thù trong phạm vi.\n►Gây $2 Sát thương Vật lý cho kẻ thù trong phạm vi.\n►Tăng Tấn công Vật lý của bản thân lên $3.\n►Tăng Sát thương Tấn công Vật lý của bản thân lên 4%.
+
+前方の敵すべてに物理中ダメージを２回与え、自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップする。=Gây 2 đòn sát thương vật lý trung bình lên tất cả kẻ thù phía trước, tăng mạnh Tấn công Vật lý của bản thân, và tăng nhẹ Sát thương Tấn công Vật lý của bản thân.
+
+##EX##
+バーニング肉球パワー！=Burning Paw Power!
+バーニング肉球パワー！+=Burning Paw Power!+
+
+
+
+
+
+

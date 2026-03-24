@@ -1,0 +1,121 @@
+報酬アイテム=Vật phẩm phần thưởng
+auto限定=Chỉ tự động
+1回のみ=Chỉ một lần
+1回だけ=Chỉ một lần
+何度でも=Có thể lặp lại
+クエスト内容=Chi tiết Nhiệm Vụ
+バトルに勝利する。=Chiến thắng trận đấu.
+納品アイテム=Vật phẩm nhận được
+
+出現モンスター=Quái vật
+
+裏世界での戦闘訓練=Đào tạo chiến đấu ở Thế Giới Ngược
+【トワイライトキャラバン】出動！=Huy hiệu Đoàn Caravan Hoàng Hôn!
+裏世界への修学旅行？=Chuyến tham quan trường học đến Thế Giới Ngược?
+《EX》危険な影と怪鳥獣=《EX》Bóng Ma và Quái Vật Nguy Hiểm
+《EX》危険な影の群れ=《EX》Đàn Bóng Ma Nguy Hiểm
+《EX》危険な影の群れ・偶像=《EX》Bầy Bóng Ma Nguy Hiểm: Thần Tượng
+《EX》危険な影の群れ・救護=《EX》Bầy Bóng Ma Nguy Hiểm: Orphane
+《EX》危険な影の群れ・財団=《EX》Bầy Bóng Ma Nguy Hiểm: Foundation
+《EX》危険な影の群れ・美食=《EX》Bầy Bóng Ma Nguy Hiểm: Thực Phẩm
+《EX》危険な影の群れ・黄昏=《EX》Bầy Bóng Ma Nguy Hiểm: Hoàng Hôn
+《EX》危険な影の群れ・学院=《EX》Bầy Bóng Ma Nguy Hiểm: Học Viện
+《EX》危険な影の群れ・白翼=《EX》Bầy Bóng Ma Nguy Hiểm: Cánh Trắng
+《EX》危険な影の群れ・竜巣=《EX》Bầy Bóng Ma Nguy Hiểm: Tổ Rồng
+《EX》危険な影の群れ・森精=《EX》Bầy Bóng Ma Nguy Hiểm: Tinh Linh Rừng
+《EX》危険な影の群れ・仲良=《EX》Bầy Bóng Ma Nguy Hiểm: Bạn Bè
+《EX》危険な影の群れ・魔軍=《EX》Bầy Bóng Ma Nguy Hiểm: Quân Đội Ma
+《EX》危険な魔物・鷲獅子=《EX》Quái vật nguy hiểm & Sư Tử Đại Bàng
+《EX》危険な魔物・深海竜=《EX》Ma vật nguy hiểm: Thâm Hải Long
+衝突、母性vs商魂！？=Đối đầu: Tình Mẹ vs. Tinh Thần Kinh Doanh!?
+冥界に漂う魔性の香り=Hương thơm Quyến rũ trôi nổi trong Địa Ngục
+《EX》危険な影の群れ・堕天=《EX》Bầy Bóng Ma Nguy Hiểm: Thiên Thần Sa Ngã
+《EX》危険な影の群れ・魔学=《EX》Bầy Bóng Ma Nguy Hiểm: Nghệ Thuật Hắc Ám
+
+《EX》危険な魔物・眼蔓ふたたび=《EX》Quái Vật Nguy Hiểm: Dây Leo Mắt, Một Lần Nữa
+うるわしや、冥界べっぴん旅行客=Những du khách xinh đẹp, rất xinh đẹp đến với thế giới ngầm
+冥府の魔鎧=Giáp Ma Quỷ của Thế Giới Ngầm
+
+ギャングとヒーロー=Băng Đảng và Anh Hùng
+《EX》危険な魔物・大鬼ふたたび=《EX》Quái Vật Nguy Hiểm: Đại Quỷ Lại Xuất Hiện
+
+襲来！赤髪盗賊三姉妹！？=Tấn công! Ba chị em cướp tóc đỏ?!
+《EX》天才発明家の三女、襲来=《EX》Con Gái Thứ Ba Của Một Thiên Tài Phát Minh, Tấn Công
+《EX》危険な魔物・狂熊と翼竜=《EX》Gấu Điên Nguy Hiểm và Rồng Bò
+《EX》危険な影と魔物・雷々傲M=《EX》Quái Vật Nguy Hiểm Với Sự Kiêu Ngạo Sấm Sét
+《EX》受難体質の次女、遭難=《EX》Con Gái Thứ Hai Của Cấu Trúc Nhạy Cảm, Mắc Kẹt
+《EX》危険な魔物・大鬼と雷鳥=《EX》Quái Vật Nguy Hiểm: Đại Quỷ và Chim Sét
+《EX》豪放磊落の長女、狂酔=《EX》Con Cả Của Dòng Dõi Quý Tộc Không Kiềm Chế, Say Rượu
+《EX》危険な魔物・胡狼と眼蔓=《EX》Ma Quỷ Nguy Hiểm, Horo và Dây Leo Mắt
+迷子の鳥を導け！=Dẫn Lối Cho Loài Chim Lạc Đường!
+白き剣と黒き盾=Kiếm Trắng và Khiên Đen
+冥界を笑わせに来ました！=Tớ Đến Để Khiến Thế Giới Ngầm Cười!
+大人女子会へようこそ=Chào Mừng Đến Với Buổi Tụ Hội Của Các Quý Bà Trưởng Thành
+裏世界安全講習会=Huấn Luyện An Toàn Thế Giới Ngầm
+
+おさんぽはアツアツヒヤヒヤ=Osanpo nóng, nóng và rất nóng
+冥界の魔物調査=Điều Tra Sinh Vật Thế Giới Ngầm
+魔と闇の令嬢=Tiểu Thư Của Ác Ma và Bóng Tối
+
+小悪魔妹と堕天使妹=Em Gái Quỷ Nhỏ và Chị Gái Thiên Thần Sa Ngã
+ルイズマリーの成功しすぎてるフライ=Miếng Gà Rán Quá Thành Công Của Louise Marie
+冥府のドM=Kẻ Thích Bị Trừng Phạt Của Thế Giới Ngầm
+煉獄に降り立つ氷竜=Rồng Băng Hạ Sống Trong Phòng Tuyệt Giải
+ウツクシキ黒天使たち=Những Thiên Thần Đen Xinh Đẹp
+ウサギ追いしジオ・ゲヘナ=Đuổi Thỏ Trong Gio-Gehenna
+湯あたりにご注意を=Cẩn Thận Với Suối Nước Nóng
+カスミの真実見抜くボンボン・ショコラ=Kẹo Sô-cô-la Bonbon Thấy Rõ Sự Thật Của Kasumi
+裏世界にも事件の香り=Mùi Hương Của Một Sự Việc Trong Thế Giới Ngược
+煉獄に咲く華のような=Như Một Bông Hoa Nở Trong Phòng Tuyệt Giải
+ドラゴン姉妹の頼みごと=Yêu Cầu Từ Các Chị Em Rồng
+裏世界オンステージ！=Trên Sân Khấu Ở Thế Giới Ngược!
+姫たちのお風呂外交=Ngoại Giao Công Chúa Trong Bồn Tắm
+裏世界復興支援本部=Trụ Sở Hỗ Trợ Tái Thiết Thế Giới Ngược
+妹たちのお世話合戦=Trận Chiến Chăm Sóc Của Các Chị Em
+裏世界開拓記=Tự Sự Phát Triển Thế Giới Ngược
+ワクワク森パニック！=Cơn Hoảng Loạn Rừng Rậm Thú Vị!
+甘海に掲げる大漁旗=Cờ Bắt Lớn Được Giương Trên Biển Ngọt
+挨拶代わりの裏世界カチコミ！=Cuộc Trò Chuyện Thế Giới Ngược Giống Như Lời Chào!
+新ビジネスの甘～い香り=Mùi Hương Ngọt Ngào Của Công Việc Mới
+ロケットパンチで魔物さん退治！=Đánh Bại Ma Quỷ Bằng Cú Đấm Tên Lửa!
+裏世界でのピクニック？=Dã Ngoại Ở Thế Giới Ngược?
+リトル・リバース・アドベンチャー=Phiêu Lưu Nhỏ Ở Thế Giới Ngược
+いざ、裏世界出征？=Bây Giờ, Đi Chinh Phục Thế Giới Ngược?
+甘くておいしい美容法=Phương Pháp Làm Đẹp Ngọt Ngào và Ngon
+ドＭとショタを確保せよ=Bảo Vệ Kẻ Thích Bị Trừng Phạt và Thơ Trẻ
+ジオ・ゲヘナの魔法研究=Nghiên Cứu Ma Thuật Trong Gio-Gehenna
+ミミのコロコロお手玉おにぎり=Quả Cơm Nắm Cuộn Của Mimi Đánh Tay
+裏世界の迷子ちゃん=Đứa Trẻ Lạc Trong Thế Giới Ngược
+大人の余裕を見せつけろ=Thể hiện Sự Điềm Tĩnh Người Lớn
+深淵なる煉獄での邂逅=Gặp Gỡ Trong Địa Ngục Ngục Tụ
+灼熱のケンカタイム=Thời Khắc Chiến Đấu Rực Lửa
+危険な影の群れ・獣苑=Bầy Bóng Đen Nguy Hiểm: Vườn Thú Dã Thú
+花と刃が舞い踊る=Vũ Điệu Hoa Và Lưỡi Kiếm
+傀儡の糸を払いのけろ=Giũ Bỏ Dây Của Kẻ Điều Khiển
+
+冥界ファッションショー☆=Buổi Diễn Thời Trang Dưới Địa Ngục☆
+忍者冥剣伝=Huyền Thoại Lưỡi Kiếm Quỷ Nhẫn
+《EX》危険な影の群れ・光願=EX: Bầy Bóng Đen Nguy Hiểm – Ước Nguyện Rực Rỡ
+
+
+このクエストはクリア後の挑戦ができません。=Nhiệm vụ này không thể thử lại sau khi hoàn thành.
+挑戦確認=Xác Nhận Thử Thách
+このクエストは再度クリアしても\n報酬を獲得できません。\n挑戦しますか？=Bạn sẽ không nhận được phần thưởng ngay cả khi đánh bại lại.\nBạn có muốn thử thách không?
+
+危険な影の群れ・遊戯=Bầy Bóng Đen Nguy Hiểm: Trò Chơi
+イオ先生の裏世界教室=Lớp Học Dưới Địa Ngục Của Giáo Sư Io
+軽やかなる乙女たち=Các Thiếu Nữ Duyên Dáng
+甘やかすのは誰か=Ai Sẽ Chiều Chuộng Bạn
+お腹ペコペコデュエット=Chế Độ Ăn Kiêng Dạ Dày Đói
+以下の報酬を受け取りました。=Đã nhận được các phần thưởng sau.
+
+ミスト・イン・リビングデッド=Sương Mù Trong Người Sống Chết
+《EX》危険な魔物・懶獣=《EX》 Quái Vật Nguy Hiểm: Raiju
+
+《EX》危険な魔物・雷鳥ふたたび=《EX》 Quái Vật Nguy Hiểm Thunderbird Lại Nữa
+凸凹楽団三重奏=Bộ Ba Dãy Bất Thường
+
+蒼海の孤島=Hòn đảo cô độc giữa biển xanh
+アラクネの肉マシマシマシ炒め野菜入り=Thịt Arachne siêu siêu siêu nhiều xào cùng rau củ
+目立つ女と目立たない少女=Người phụ nữ nổi bật và cô thiếu nữ mờ nhạt
+《EX》危険な魔物・翼竜ふたたび=<EX> Ma vật nguy hiểm: Dực Long tái xuất

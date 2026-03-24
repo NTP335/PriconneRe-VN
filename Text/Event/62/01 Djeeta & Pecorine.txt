@@ -1,0 +1,50 @@
+﻿外伝イベントストーリー=Truyện sự kiện ngoại truyện
+ペコリーヌとの出会い=Cuộc gặp gỡ với Pecorine
+青空の下で謁見=Diện kiến dưới bầu trời xanh
+
+フリーマーケットを訪れたジータが出会ったのは\n城をこっそり抜け出していたペコリーヌだった。=Người mà Djeeta bắt gặp khi đang dạo quanh chợ đồ cũ chính là Pecorine, người vừa mới lén lút trốn khỏi hoàng cung.
+フリーマーケット会場=Địa điểm tổ chức chợ đồ cũ
+その日の依頼を終えたジータと{playername}。\n二人は騎空団の活動に役立ちそうな物を求めて、\nフリーマーケットの会場を訪れていた。=Sau khi hoàn thành xong ủy thác của ngày hôm đó, Djeeta và {playername} đã cùng nhau ghé thăm khu chợ đồ cũ để tìm kiếm những vật dụng có ích cho các hoạt động của đoàn kỵ sĩ bầu trời (Grandcypher).
+うーん、なかなか「これだ！」っていう物は見つからないね。\n……うん？\nどうしたの{playername}、急に立ち止まって。="Ừm... mãi mà vẫn chưa thấy món nào kiểu 'Đúng là nó đây rồi!' nhỉ. ...Hửm? Có chuyện gì vậy {playername}, sao tự nhiên cậu lại dừng lại thế?"
+
+Player Input
+あの後ろ姿は……=Dáng người từ phía sau đó là...
+
+こそこそ……\nうん、今のところ誰にもバレてませんね。\nよーし、この調子で……=Lén lút, lén lút... Ừm, hiện tại thì vẫn chưa bị ai phát hiện cả. Được rồi, cứ tiếp tục thế này thôi...
+
+Player Input
+Pecorine?
+
+わわっ！？\nって、あなたでしたか！\nもう驚かせないでくださいよ～=Oa oa!? Ơ, thì ra là cậu à! Làm mình hú hồn, đừng có hù tớ như thế chứ~
+というわけで……\n改めて、オイッス～☆=Thế nên là... Một lần nữa, Oi-ssu~☆
+あ、あの……\nもしかして…………王女さま、ですか？=À, ờm... Không lẽ... cậu là... công chúa sao?
+はい！\nああっ、でも周りの皆さんには内緒にしてくれますか？\n実はこっそりお城を抜け出してきてるので……！=Đúng vậy ạ! A, nhưng mà... mọi người có thể giữ bí mật với những người xung quanh được không? Thật ra là mình đang lén trốn khỏi hoàng cung đi chơi ấy mà...!
+あと、わたしのことはペコリーヌって呼んでください。\n彼もそう呼んでくれてますから。=Với cả, hãy cứ gọi mình là Pecorine nhé. Vì cậu ấy cũng gọi mình như vậy mà.
+わ、分かりました。\nそれじゃあ……ペコリーヌさん。\nはじめまして！　私は騎空士のジータです！=Mình, mình hiểu rồi. Vậy thì... Pecorine. Rất vui được gặp cậu! Mình là Djeeta, một Kỵ sĩ bầu trời!
+騎空士のジータさん……\nああ、あなたがそうなんですね！\nよろしくお願いします！=Kỵ sĩ bầu trời Djeeta... À, hóa ra cậu chính là người đó sao! Rất vui được làm quen với cậu nhé!
+もしかして……\n私のこと知ってるんですか？=Có lẽ nào... cậu đã biết về tớ từ trước rồi ạ?
+{playername}くんから聞いてたんです。\nとっても頼りになる騎空士さんがいるって。=Tớ nghe từ {playername} kể rồi. Cậu ấy bảo là có một Kỵ sĩ bầu trời cực kỳ đáng tin cậy đi cùng đấy.
+
+そうだったんですか……\nあはは、恐縮です。=Hóa ra là vậy sao... A ha ha, tớ ngại quá.
+あの、ところで……\nどうして今日はフリーマーケットに？=Mà này, cho mình hỏi... Tại sao hôm nay cậu lại ở chợ đồ cũ thế?
+簡単に言っちゃうと視察です！\nせっかくの催し物ですから、\n皆さん盛り上がってくれてるかな～って。=Nói một cách đơn giản thì là đi thị sát ạ! Vì đây là một sự kiện đặc biệt, nên tớ muốn xem mọi người có đang tận hưởng vui vẻ không ấy mà.
+あとは……\n屋台のいい匂いに我慢できませんでした～！\nお城までただよってくるんです～！=Với cả... tớ không tài nào cưỡng lại được mùi thơm nồng nàn từ các quầy thức ăn đâu! Nó bay tận vào trong cung điện luôn đó!
+な、なるほど……\n確かに屋台の料理って妙に魅力的ですよね。\n気持ちは分かるかも。=Ra là vậy... Công nhận là đồ ăn ở các quầy hàng luôn có sức hút lạ kỳ thật. Tớ có thể hiểu được cảm giác đó.
+もうどこのお店もおいしくって、やばいです☆\nぜひ食べてみてくださいね！=Cửa hàng nào cũng ngon đến mức "khó cưỡng" luôn ấy☆ Cậu nhất định phải ăn thử đi nhé!
+ところでお二人は買い物ですか？\n食べ歩きとかも楽しんじゃってますか？=Mà hai người đang đi mua sắm à? Có đang tận hưởng việc vừa đi dạo vừa ăn uống không?
+はい！\n実は……=Vâng! Thật ra thì...
+ふむふむ。\n騎空団の活動に役立ちそうなものを探してたんですね。\nそれで、今日はなかなか収穫がないと。=Hừm hừm. Ra là hai người đang tìm kiếm thứ gì đó có ích cho các hoạt động của đoàn kỵ sĩ. Và nãy giờ vẫn chưa thu hoạch được gì hả.
+そういうことなら、わたしに考えがあります！\n少し待っててもらえますか？\nすぐに戻ってきますから！=Nếu đã vậy thì tớ có cách rồi! Chờ tớ  một chút được không? Tớ sẽ quay lại ngay đây!
+えっ？\nは、はい……=Ơ? V-vâng...
+……行っちゃった。\nペコリーヌさん、急にどうしたのかな？=...Cậu ấy đi mất rồi. Pecorine bỗng nhiên bị sao vậy nhỉ?
+お待たせしました！\nジータさん、これをどうぞ！=Để mọi người phải đợi rồi! Djeeta ơi, tặng cậu cái này nè!
+こ、これって……\n飛空艇の模型じゃないですか！？\nそれもすっごく立派……！！=Đ-đây chẳng phải là... mô hình phi thuyền sao!? Lại còn cực kỳ tinh xảo nữa...!!
+わたしが小さい頃に買った物なんです。\n大きくなったらこんな飛空艇に乗って、\n色んな国を巡ってみたいな～って！=Đây là món đồ mình đã mua từ khi còn nhỏ đấy. Lúc đó tớ từng mơ ước khi lớn lên sẽ được ngồi trên một chiếc phi thuyền như thế này để chu du khắp các quốc gia!
+そんな思い出がある品なんですか……\nとてもじゃないけど、受け取れません！=Một món quà đầy kỷ niệm như thế này... mình thực sự không thể nhận được đâu ạ!
+あはは、遠慮しないでください！\nわたしよりジータさんが持っている方が、きっと役に立ちますから！=A ha ha, đừng khách sáo mà! Tớ tin là nó sẽ có ích khi ở trong tay cậu hơn là để chỗ mình đấy!
+好きなもののためにがんばることの大切さを、わたしは知ってます。\nだから……受け取ってほしいんです。\n大好きな空と騎空団のためにがんばるあなたに。=Tớ hiểu rõ tầm quan trọng của việc nỗ lực vì những thứ mình yêu thích. Thế nên... tớ muốn cậu nhận nó. Tặng cho cậu, người đang cố gắng hết mình vì bầu trời và đoàn kỵ sĩ thân yêu.
+あ。ちなみに、これは王宮の所蔵品じゃありませんよ？\n勝手に持ち出したら、お城のみんなに怒られちゃいますから！\nというわけで、安心してくださいね☆=À, nhân tiện thì đây không phải là đồ trong kho báu hoàng gia đâu nhé? Nếu tự ý mang đồ đó ra ngoài là mình bị mọi người trong cung mắng chết mất! Vậy nên cứ yên tâm đi nha☆
+ペコリーヌさん……\n分かりました。\nそれじゃあ、ありがたくいただきます！=Pecorine... Tớ hiểu rồi. Vậy thì mình xin phép được trân trọng nhận lấy ạ!
+いつか聞かせてくださいね！\nジータさんが体験した、空の冒険のお話を！=Sau này nhất định phải kể mình nghe nhé! Những câu chuyện về chuyến phiêu lưu trên bầu trời mà cậu đã trải qua ấy!
+はいっ！\n必ず……必ず、話しに行きますね！=Vâng! Nhất định... nhất định tớ sẽ đến kể cho cậu nghe!
+ペコリーヌから飛空艇の模型を受け取ったジータは、\n空への憧れを一層強くするのだった。=Sau khi nhận được mô hình phi thuyền từ Pecorine, khao khát hướng về bầu trời của Djeeta lại càng trở nên mãnh liệt hơn bao giờ hết.

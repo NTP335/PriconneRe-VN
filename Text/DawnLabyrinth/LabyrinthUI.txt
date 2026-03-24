@@ -1,0 +1,366 @@
+黎明界ラビリンス=Mê Cung Bình Minh
+黎明界ラビリンスβ=Mê Cung Bình Minh β
+黎明界ラビリンスβに挑戦しよう=Thử thách Mê Cung Bình Minh β
+
+所持パスポート=Hộ Chiếu
+挑戦中=Đang Tiến Hành
+出発=Xuất Phát
+アルファ強化=Nâng Cấp Alpha
+遺物図鑑=Bách khoa toàn thư về Di Vật
+アルファボーナス=Thưởng Alpha
+所持ラビリンスコイン=Đang Có Đồng Tiền Mê Cung
+
+パスポートを所持していません。=Hộ chiếu không đủ.
+
+遺物効果結果=Kết Quả Hiệu Ứng Di Vật
+「トゥインクルブレス」の迷宮遺物効果により、\nバトル結果が敗北から勝利へと変更されました。=Do hiệu ứng Di Vật Mê Cung "Hơi Thở Lấp Lánh",\n kết quả trận đấu đã thay đổi từ thua thành thắng.
+
+
+挑戦を終了してラビリンスTOPに戻りますか？\n\n※「撤退する」を選択すると、報酬が獲得できない\n代わりにラビリンスパスポートが返却されます。=Bạn có muốn kết thúc thử thách và quay về Mê Cung TOP?\n\n※Nếu chọn "Rút Lui", bạn sẽ không nhận được phần thưởng nào.\nThay vào đó, Hộ Chiếu Mê Cung của bạn sẽ được hoàn trả.
+
+有効効果=Hiệu Ứng
+ボスへの\n有効効果=Hiệu Ứng\nlên Boss
+バリア=Rào Cản
+対象のキャラがいません。=Không có nhân vật mục tiêu.
+効果所有キャラ=Nhân Vật Sở Hữu Hiệu Ứng
+タグ詳細=Chi Tiết Thẻ
+
+Menu Shizuru&Rino
+呼ばれて飛び出てお姉ちゃんだよ♪\nたとえ火の中、水の中、迷宮の中っ\nこのダンジョンを踏破できるよう\n弟くんを応援してあげるからねっ♪=Chị sẽ luôn nghe lời cậu gọi♪ Dù qua lửa, nước hay hầm ngục sâu trong mê cung, chị luôn ủng hộ em trai nhỏ♪
+ほんとーに不思議な場所ですね～\nお兄ちゃんが冒険を頑張れるよう\nおまじないをかけてあげますねっ\nフレーフレー、お・兄・ちゃんっ♪=Nơi này thật kỳ lạ～ Chị sẽ thực hiện một phép triệu hồi may mắn để cậu có thể cố gắng hết sức trong cuộc phiêu lưu. Cố lên, anh ơi～
+
+tutorial laby
+やぁ少年、まさか今になって、こーんな懐かしいエリアが見つかっちゃう\nなんてね？　ま、いい機会だし挑戦していってよ。キミとキミの仲間たち\nなら、きっとこの迷宮も攻略できるはずだから、さ。=Này, cậu. Không ngờ cậu lại tìm thấy khu vực hoài niệm như thế này, nhưng đây là cơ hội tốt để cậu thử nghiệm. Ta tin cậu và đồng đội sẽ có thể vượt qua mê cung này.
+迷宮の中はルートを選択して進んでいくことになるよ。止まりたいマスを\n選択して進路を決定しよう！　止まったマスに応じた出来事が\n発生するから、くれぐれも先を見据えて行動するよーに！=Trong mê cung, cậu sẽ phải quyết định tuyến đường để tiến lên. Chọn ô mà cậu muốn dừng lại để quyết định tuyến đường! Hãy lập kế hoạch cẩn thận, vì sự kiện cậu gặp phải sẽ phụ thuộc vào ô cậu dừng chân!
+最終エリアで待つボスを倒すか、帰還を選ぶことで挑戦を終了できる。\n成果に応じたスコアや報酬が得られるから、好成績目指して頑張ろう！\nうまくいかなかったら撤退を選ぶこともできる、安心設計だよ！=Cậu sẽ kết thúc sau khi đánh bại boss ở khu vực cuối cùng hoặc bằng cách chọn quay về bất kỳ lúc nào. Dựa trên kết quả, cậu sẽ nhận được điểm số và phần thưởng, hãy cố gắng đạt kết quả tốt! Nếu mọi chuyện không suôn sẻ, cậu luôn có thể chọn rút lui. Thiết kế không gây áp lực!
+やっぱりさー、ダンジョン攻略の醍醐味といえば報酬の獲得、だよね！\n安心してよ、この迷宮──黎明界にもちゃんとお宝を仕込んであるから。\nそれこそ、ここでしか手に入らない高レア装備なんてものも……ね♪=Đúng như ta nghĩ, niềm vui thử thách hầm ngục chính là phần thưởng bạn nhận được! Nhưng đừng lo, mê cung này── Bình Minh cũng đã chuẩn bị kho báu. Đúng rồi... có những trang bị hiếm chỉ có thể tìm thấy ở đây♪
+あーそうそう、黎明界ラビリンスに挑戦するためには特別なアイテムが\n必要なんだ。いや、持ってなくても中に入ることはできるんだけど……\nその代わり報酬は持ち帰れなくなっちゃうから、忘れずに覚えておいて。=Ồ, phải rồi. Cậu sẽ cần một vật phẩm đặc biệt để thử thách Mê Cung Bình Minh. Cậu vẫn có thể vào ngay cả khi không có, nhưng... cậu sẽ không thể mang phần thưởng về, hãy nhớ điều đó.
+マップにはいろんなマスが用意されているよ。「バトルマス」は文字通り\n魔物と戦うマスだ。見事勝利すれば報酬獲得♪　「ボスバトルマス」では\n３パーティで強敵に挑戦しよう！　戦力を整えて挑むよ～に！=Có nhiều loại ô khác nhau trên bản đồ. "Ô Trận Chiến" như tên gọi là ô để chiến đấu với quái vật. Nếu thắng, cậu sẽ nhận được phần thưởng♪ Trong "Ô Trận Chiến Boss", hãy dùng 3 đội và đối đầu với đối thủ mạnh! Hãy chuẩn bị sức mạnh để đánh bại chúng!
+もちろん、バトル以外のマスも配置してるよ。止まった先で選択を\n迫られる……なんてこともあるから、状況に応じて選ぶといい！\nまさかテキトーに進めちゃうなんてことは……しないよね？=Tất nhiên, cũng có các ô được sắp xếp khác ngoài trận chiến. Cậu có thể bị buộc phải đưa ra lựa chọn sau khi dừng ở một ô... nên hãy quyết định dựa trên tình hình của mình! Cậu sẽ không chỉ lười biếng tiến về phía trước... đúng chứ?
+迷宮内で手に入る遺物たちは、ラビリンス攻略における助けとなるはずだ\nよ。それぞれが便利な効果を持つ上に、複数集めたら追加される効果なん\nてのもあるからね。見事揃えられたら七冠の力も凌駕しちゃったりして♪=Các Di Vật cậu nhận được trong mê cung sẽ giúp cậu chinh phục mê cung. Không chỉ mỗi cái có hiệu ứng hữu ích, hiệu ứng của chúng còn mạnh hơn khi cậu thu thập nhiều cái cùng lúc. Nếu cậu hoàn thành bộ sưu tập, nó thậm chí có thể vượt trội sức mạnh của 7C♪
+
+報酬は多ければ多いほどやる気が出るってー？　うんうん、それはごもっ\nともだ。ってなわけで、お題の達成や特定のアイテムを持ち帰ってきたら\n追加のご褒美もあげちゃおう！　専用のショップもオープンしてるよ。=Phần thưởng càng nhiều, cậu càng có động lực? Ừ, có lý. Dù sao, ta sẽ tặng cậu thêm phần thưởng khi cậu hoàn thành nhiệm vụ hoặc mang về một vật phẩm cụ thể! Cửa hàng riêng của chúng ta cũng đã mở cửa.
+
+報酬・ミッション=Nhiệm Vụ Phần Thưởng
+全て受け取る=Lấy hết
+シリーズ効果=Bộ
+迷宮遺物効果=Hiệu Ứng Di Vật
+詳細表示する迷宮遺物を\n選択してください。=Chọn một Di Vật Mê Cung để xem chi tiết.
+迷宮遺物を獲得すると、各詳細を確認できます。=Nhận được Di Vật Mê Cung để xem chi tiết.
+ラビリンス内で拾った迷宮遺物は、専用の図鑑に登録されていくからね。\n未発見の遺物を入手した際はご褒美をあげちゃうよ！　あ、でも、図鑑を\n埋めるのに執心しすぎて攻略がお留守にならないよう注意、だけどね！=Bất kỳ Di Vật Mê Cung nào cậu nhặt trong Mê Cung sẽ được đăng ký trong hướng dẫn cá nhân của cậu. Cậu sẽ nhận được phần thưởng cho mỗi Di Vật chưa có được! Ồ, nhưng đừng tập trung quá vào chúng và cuối cùng bỏ qua nhiệm vụ của mình!
+
+
+難易度ボーナス ×1.0=Bonus Khó x1.0
+難易度ボーナス ×1.2=Bonus Khó x1.2
+難易度ボーナス ×1.4=Bonus Khó x1.4
+難易度ボーナス ×1.7=Bonus Khó x1.7
+難易度ボーナス ×2.0=Bonus Khó x2.0
+特殊効果なし=Không có hiệu ứng
+難易度1=Khó 1
+難易度2=Khó 2
+難易度3=Khó 3
+難易度4=Khó 4
+難易度5=Khó 5
+まだ解放されていない難易度です。=Độ khó này chưa được mở khóa.
+累計=Tổng cộng
+同行するギルドを選択してください。=Chọn một bang hội để cùng đi theo.
+
+アルファルピ=αRupees
+
+挑戦終了時報酬=Phần Thưởng Hoàn Thành Thử Thách
+挑戦時アイテム=Vật Phẩm Thử Thách
+ギルド詳細=Chi Tiết Bang Hội
+
+獲得可能な報酬=Phần Thưởng Có Thể Nhận Được
+出発ボーナス=Thưởng Khởi Hành
+挑戦終了時に確率で以下のアイテムが獲得できます。=Kết thúc thử thách, bạn có thể nhận được các vật phẩm sau:
+宝箱からは以下を含む報酬が抽選されます。=Phần thưởng bao gồm các vật phẩm sau sẽ được rút từ hòm.
+挑戦開始時に以下のアイテムが獲得できます。=Các vật phẩm sau có thể nhận được khi bắt đầu thử thách:
+
+
+sr:"^【(.+)】のセレクトサイン$"=$1 Lựa Chọn Charas
+
+sr:"^\[3C404E\]ラビリンスパスポートを1枚消費して\[FFBB00,CE4F00\]【(.+)】\[-\]と一緒に出発します。\nよろしいですか？\[-\]$"=[3C404E] Tiêu hao 1 Vé Mê Cung và khởi hành cùng[FFFBB00, SE4F00] [$1][-]?[-]
+
+sr:"^\[3C404E\]\[FFBB00,CE4F00\]【(.+)】\[-\]と一緒に出発します。\nよろしいですか？\[-\]$"=[3C404E]khởi hành cùng[FFFBB00, SE4F00] [$1][-]?[-]
+
+所持ラビリンスパスポート=Đang Sở Hữu Vé Mê Cung
+ラビリンスパスポートを所持していないため報酬は獲得できません。=Bạn không thể nhận thưởng nếu không có Vé Mê Cung.
+ギルド選択確認=Xác Nhận Lựa Chọn Bang Hội
+開始時に獲得できる迷宮遺物=Di Vật Mê Cung nhận được khi bắt đầu
+
+
+シリーズ効果詳細=Chi Tiết Hiệu Ứng Chuỗi
+
+
+
+ＴＰ回復や行動速度アップにより、キャラのスキルやユニ\nオンバーストの発動数が増加する=Tăng số lần thi triển Kỹ năng và Union Burst của nhân vật nhờ vào hồi phục TP và tăng tốc độ hành động.
+【加速】4以上：ＴＰ上昇＋30重複可能の行動速度＋100％=【Gia Tốc】4 trở lên:\n►Chỉ số hồi TP +30.\n►Tăng 100% tốc độ hành động (có thể cộng dồn).
+【加速】9以上：ユニオンバースト発動時に【烈風】＋１（最大99）20秒ごとに物理/魔法与ダメアップフィールド展開（【烈風】数×1％）=【Gia Tốc】9 trở lên:\n►Khi thi triển Union Burst, nhận +1 tầng 【Liệt Phong】 (tối đa 99).\n►Mỗi 20 giây, triển khai trường tăng sát thương vật lý/ma thuật gây ra (Số tầng 【Liệt Phong】 × 1%).
+【加速】9以上：ユニオンバースト発動時に【烈風】＋１（最大99）20秒ごとに物理/魔法与ダメアップフィールド展開（【烈風】数×１％）=【Gia Tốc】9 trở lên:\n►Khi thi triển Union Burst, nhận +1 tầng 【Liệt Phong】 (tối đa 99).\n►Mỗi 20 giây, triển khai trường tăng sát thương vật lý/ma thuật gây ra (Số tầng 【Liệt Phong】 × 1%).
+
+【加速】15以上：9秒ごとにＴＰ1000回復=【Gia Tốc】15 trở lên:\n►Hồi phục 1000 TP mỗi 9 giây.
+【加速】15以上：９秒ごとにＴＰ1000回復=【Gia Tốc】15 trở lên:\n►Hồi phục 1000 TP mỗi 9 giây.
+
+
+
+
+クリティカルや通常攻撃強化により、攻撃性能を強化する=Cường hóa khả năng tấn công thông qua chí mạng và cường hóa đòn đánh thường.
+【会心】4以上：物理/魔法クリダメ＋100％=【Hội Tâm】4 trở lên:\n►Sát thương chí mạng vật lý/ma thuật +100%.
+【会心】4以上：物理/魔法クリダメ＋150％=【Hội Tâm】4 trở lên:\n►Sát thương chí mạng vật lý/ma thuật +150%.
+【会心】9以上：物理/魔法クリティカル＋2000=【Hội Tâm】9 trở lên:\n►Tỷ lệ chí mạng vật lý/ma thuật +2000.
+【会心】9以上：物理/魔法クリティカル＋2000物理/魔法クリダメ＋150％=【Hội Tâm】9 trở lên:\n►Tỷ lệ chí mạng vật lý/ma thuật +2000.\n►Sát thương chí mạng vật lý/ma thuật +150%.
+【会心】15以上：クリティカルヒット時【看破】＋１（最大99）20秒ごとにランダムな敵１体に固定ダメージ×５回（毎回5万＋対象の【看破】数×5万ダメージ）=【Hội Tâm】15 trở lên:\n►Khi gây đòn đánh chí mạng, nhận +1 tầng 【Khán Phá】 (tối đa 99).\n►Mỗi 20 giây, gây 5 lần sát thương cố định lên một kẻ địch ngẫu nhiên (Mỗi lần: 50,000 + số tầng 【Khán Phá】 của mục tiêu × 50,000 sát thương).
+【会心】15以上：クリティカルヒット時【看破】＋１（最大99）20秒ごとにランダムな敵１体に固定ダメージ×５回（毎回５万＋対象の【看破】数×５万ダメージ）=【Hội Tâm】15 trở lên:\n►Khi gây đòn đánh chí mạng, nhận +1 tầng 【Khán Phá】 (tối đa 99).\n►Mỗi 20 giây, gây 5 lần sát thương cố định lên một kẻ địch ngẫu nhiên (Mỗi lần: 50,000 + số tầng 【Khán Phá】 của mục tiêu × 50,000 sát thương).
+
+
+敵に継続ダメージ系状態異常や弱体効果を付与し、敵を弱体化させる=Làm suy yếu kẻ địch bằng cách gây các trạng thái bất thường gây sát thương duy trì và hiệu ứng giảm chỉ số.
+【弱体】4以上：敵全体に黒炎付与（毎秒1万ダメージ、毎回5％ずつダメージ上昇）=【Nhược Hóa】4 trở lên:\n►Gây trạng thái Hắc Viêm lên toàn bộ kẻ địch (10,000 sát thương mỗi giây, tăng 5% sát thương sau mỗi lần gây sát thương).
+【弱体】4以上：敵全体に黒炎付与（毎秒１万ダメージ、毎回５％ずつダメージ上昇）=【Nhược Hóa】4 trở lên:\n►Gây trạng thái Hắc Viêm lên toàn bộ kẻ địch (10,000 sát thương mỗi giây, tăng 5% sát thương sau mỗi lần gây sát thương).
+【弱体】9以上：敵への継続ダメージ＋1000％（最大50万ダメージ）=【Nhược Hóa】9 trở lên:\n►Sát thương duy trì gây lên kẻ địch +1000% (Tối đa 500,000 sát thương).
+【弱体】9以上：敵への継続ダメージ＋2000％（最大30万ダメージ）=【Nhược Hóa】9 trở lên:\n►Sát thương duy trì gây lên kẻ địch +2000% (Tối đa 300,000 sát thương).
+【弱体】15以上：弱体効果数に応じて敵の被ダメアップ（対象の弱体効果数×50％、最大＋500％）さらに敵への継続ダメージ＋1000％（最大50万ダメージ）=【Nhược Hóa】15 trở lên:\n►Tăng sát thương kẻ địch nhận vào dựa trên số lượng hiệu ứng bất lợi (Số hiệu ứng × 50%, tối đa +500%).\n►Đồng thời sát thương duy trì lên kẻ địch +1000% (Tối đa 500,000 sát thương).
+【弱体】15以上：弱体効果数に応じて敵の被ダメアップ（対象の弱体効果数×20％、最大＋200％）=【Nhược Hóa】15 trở lên:\n►Tăng sát thương kẻ địch nhận vào dựa trên số lượng hiệu ứng bất lợi (Số hiệu ứng × 20%, tối đa +200%).
+
+
+攻撃力や防御力アップのバフ効果を用いて、キャラを強化する=Cường hóa nhân vật bằng các hiệu ứng tăng tấn công và phòng thủ.
+【強化】4以上：バトル開始20秒後、物理/魔法攻撃力アップフィールド展開（現在値＋30％）敵へのダメージ減衰量緩和=【Cường Hóa】4 trở lên:\n►Sau 20 giây kể từ khi bắt đầu trận đấu, triển khai trường tăng tấn công vật lý/ma thuật (Giá trị hiện tại + 30%).\n►Giảm bớt lượng suy giảm sát thương gây ra cho kẻ địch.
+【強化】9以上：さらにバトル開始40秒後、物理/魔法攻撃力アップフィールド展開（現在値＋50％）さらに敵へのダメージ減衰量緩和=【Cường Hóa】9 trở lên:\n►Đồng thời sau 40 giây kể từ khi bắt đầu trận đấu, triển khai trường tăng tấn công vật lý/ma thuật (Giá trị hiện tại + 50%).\n►Giảm bớt lượng suy giảm sát thương gây ra cho kẻ địch.
+【強化】15以上：さらにバトル開始60秒後、物理/魔法攻撃力アップフィールド展開（現在値＋70％）さらに敵へのダメージ減衰量緩和=【Cường Hóa】15 trở lên:\n►Đồng thời sau 60 giây kể từ khi bắt đầu trận đấu, triển khai trường tăng tấn công vật lý/ma thuật (Giá trị hiện tại + 70%).\n►Giảm bớt lượng suy giảm sát thương gây ra cho kẻ địch.
+
+
+ＨＰアップやバリア展開により、耐久性能を強化する=Cường hóa khả năng chống chịu bằng cách tăng HP và triển khai rào chắn.
+【守備】4以上：全ダメージ33％カット=【Thủ Bị】4 trở lên:\n►Giảm 33% mọi loại sát thương nhận vào.
+【守備】9以上：15秒ごとに前から敵１体に物理と魔法固定ダメージ（味方全体の現在ＨＰ合計×200ダメージ）=【Thủ Bị】9 trở lên:\n►Mỗi 15 giây, gây sát thương vật lý và ma thuật cố định lên một kẻ địch từ phía trước (Sát thương bằng tổng HP hiện tại của toàn đội × 200).
+【守備】9以上：15秒ごとに前から敵1体に物理と魔法固定ダメージ（味方全体の現在ＨＰ合計×400ダメージ）=【Thủ Bị】9 trở lên:\n►Mỗi 15 giây, gây sát thương vật lý và ma thuật cố định lên một kẻ địch từ phía trước (Sát thương bằng tổng HP hiện tại của toàn đội × 400).
+【守備】15以上：15秒ごとに物理/魔法与ダメアップフィールド展開（味方全体の現在ＨＰ合計×0.0001％、最大200％）=【Thủ Bị】15 trở lên:\n►Mỗi 15 giây, triển khai trường tăng sát thương vật lý/ma thuật gây ra (Tổng HP hiện tại của toàn đội × 0.0001%, tối đa 200%).
+【守備】15以上：15秒ごとに物理/魔法与ダメアップフィールド展開（味方全体の現在ＨＰ合計×0．0004％、最大200％）=【Thủ Bị】15 trở lên:\n►Mỗi 15 giây, triển khai trường tăng sát thương vật lý/ma thuật gây ra (Tổng HP hiện tại của toàn đội × 0.0004%, tối đa 200%).
+
+仲間=Đồng Đội
+インベントリ=Hành Trang
+迷宮遺物=Di Vật Mê Cung
+
+Difficulty Details
+難易度詳細=Chi Tiết Độ Khó
+防御力（ダウン不可）アップ=Tăng Phòng Thủ (Không thể bị giảm)
+すべてのモンスターの物理/魔法防御力をアップさせ\nる。この効果は物理/魔法防御力ダウンの影響を受け\nない。=Tăng Phòng Thủ Vật Lý/Thần Kỳ cho tất cả quái vật. Hiệu ứng này không bị ảnh hưởng bởi Giảm Phòng Thủ Vật Lý/Thần Kỳ.
+全ダメージカット=Giảm Mọi Sát Thương
+すべてのモンスターが受けるダメージを一定値カッ\nトさせる。=Giảm mọi sát thương nhận vào của tất cả quái vật.
+与ダメージアップ=Tăng Sát Thương Gây Ra
+すべてのモンスターの与えるダメージをアップさせ\nる。=Tăng sát thương gây ra bởi tất cả quái vật.
+防御力アップ=Tăng Phòng Thủ
+すべてのモンスターの物理/魔法防御力をアップさせ\nる。=Tăng Phòng Thủ Vật Lý/Thần Kỳ cho tất cả quái vật.
+クリティカルダウン=Giảm Chí Mạng
+すべてのキャラの物理/魔法クリティカルをダウンさ\nせる。=Giảm Chí Mạng Vật Lý/Thần Kỳ của tất cả đồng minh.
+
+すべてのモンスターの物理/魔法防御力をアップさせ\nる。=Tăng Phòng Thủ Vật Lý/Thần Kỳ cho tất cả quái vật.
+与ダメージアップ=Tăng Sát Thương Gây Ra
+すべてのモンスターの与えるダメージをアップさせ\nる。=Tăng sát thương gây ra bởi tất cả quái vật.
+全ダメージカット=Giảm Mọi Sát Thương
+すべてのモンスターが受けるダメージを一定値カッ\nトさせる。=Giảm mọi sát thương nhận vào của tất cả quái vật.
+防御力（ダウン不可）アップ=Tăng Phòng Thủ (Không thể bị giảm)
+すべてのモンスターの物理/魔法防御力をアップさせ\nる。この効果は物理/魔法防御力ダウンの影響を受け\nない。=Tăng Phòng Thủ Vật Lý/Thần Kỳ cho tất cả quái vật. Hiệu ứng này không bị ảnh hưởng bởi Giảm Phòng Thủ Vật Lý/Thần Kỳ.
+クリティカルダウン=Giảm Chí Mạng
+すべてのキャラの物理/魔法クリティカルをダウンさ\nせる。=Giảm Chí Mạng Vật Lý/Thần Kỳ của tất cả đồng minh.
+
+エリア=Vùng
+撤退する\n （報酬なし）=Rút Lui (không thưởng)
+帰還する\n （報酬あり）=Trở Về (có thưởng)
+勧誘する=Tuyển Chọn
+選択したキャラを仲間に勧誘します。=Tuyển chọn nhân vật đã chọn vào đội của cậu.
+以下のキャラが仲間に加わりました。=Các nhân vật sau đã gia nhập đội của cậu.
+キャラ加入=Nhân Vật Đã Gia Nhập
+このマスには移動できません。=Cậu không thể di chuyển đến ô này.
+バトルマス（NORMAL）に移動します。\nよろしいですか？=Di chuyển đến Ô Chiến Đấu (BINH THƯỜNG)?
+移動先確認=Xác Nhận Đích Đến
+バトルマス=Ô Chiến Đấu
+マップを見る=Kiểm Tra Bản Đồ
+物理・魔法防御下限=Giới Hạn Phòng Thủ Vật Lý/Thần Kỳ
+
+コネクトサインマスに移動します。\nよろしいですか？=Di chuyển đến Ô Ký Hiệu Kết Nối?
+イベントマスに移動します。\nよろしいですか？=Di chuyển đến Ô Sự Kiện?
+迷宮遺物マスに移動します。\nよろしいですか？=Di chuyển đến Ô Di Vật Mê Cung?
+火属性のランダムサイン\n=Nhân Vật Ngẫu Nhiên Hỏa Tốc
+光属性のランダムサイン\n=Nhân Vật Ngẫu Nhiên Quang Tốc
+闇属性のランダムサイン\n=Nhân Vật Ngẫu Nhiên Ám Tốc
+風属性のランダムサイン\n=Nhân Vật Ngẫu Nhiên Phong Tốc
+水属性のランダムサイン\n=Nhân Vật Ngẫu Nhiên Thủy Tốc
+
+獲得するコネクトサインを選択してください。=Chọn một Ký Hiệu Kết Nối để nhận.
+獲得可能なキャラがいません。=Không có nhân vật nào khả dụng.
+勧誘可能キャラ一覧=Danh Sách Nhân Vật Có Thể Tuyển Chọn
+このコネクトサインでは以下のキャラが勧誘できます。=Cậu có thể tuyển chọn các nhân vật sau:
+
+獲得する迷宮遺物を選択してください。=Chọn một Di Vật Mê Cung để nhận.
+
+50％で★2迷宮遺物×1\n50％で★3迷宮遺物=50% cho Di Vật Mê Cung ★2 x1. 50% cho Di Vật Mê Cung ★3.
+用心して近づきましょう=Tiếp cận cẩn thận
+50％でランダムなロールの\nセレクトサイン×1\n50％でオールセレクトサイン=50% Chọn Nhân Vật Ngẫu Nhiên Vai Trò x1. 50% Chọn Tất Cả Nhân Vật.
+
+触っても\n大丈夫かな……？=Mình tự hỏi không biết có chạm vào được không...?
+不思議な石板を発見！どうする？=Chúng tôi tìm thấy một tấm bia đá kỳ lạ! Chúng ta nên làm gì đây?
+
+勧誘できるキャラがいません。=Không có nhân vật nào tôi có thể tuyển chọn.
+秘宝を所持していません。=Cậu không có kho báu nào trong tay.
+加入しているキャラがいません。=Không có nhân vật nào trong đội này.
+
+現在の状況=Tình Hình Hiện Tại
+バトルマス（EXTREME）に移動します。\nよろしいですか？=Di chuyển đến Ô Chiến Đấu (CỰC KHÓ)?
+
+ラビリンスパスポートは返却されます。=Hộ Chiếu Mê Cung sẽ được trả lại.
+ラビリンスパスポート=Vé Mê cung
+報酬を獲得せず挑戦を終了します。\n\nよろしいですか？=Hoàn thành thử thách mà không có phần thưởng?
+終了確認=Xác nhận kết thúc
+
+現在の挑戦を終了し、獲得済みの報酬を持ち帰ります。\n\nよろしいですか？=Kết thúc thử thách hiện tại và quay về với phần thưởng bạn đã kiếm được?
+
+ショップマスに移動します。\nよろしいですか？=Chuyển đến ô cửa hàng?
+r:"^(\d+)で更新$"=$1 để Reroll
+
+必要アルファルピ=Cần αRupees
+アルファルピを消費してラインナップを更新しますか？=Bạn có muốn dùng αRupees để Reroll không?
+更新確認=Xác nhận Reroll
+
+アタッカーロールのキャラか\nらランダムに1人仲間にでき\nる。=Bạn có thể nhận 1 nhân vật ngẫu nhiên từ các nhân vật trong Vai trò Tấn công.
+アタッカーロールのランダムサイン=Nhân vật ngẫu nhiên Vai trò Tấn công
+ブレイカーロールのキャラか\nらランダムに1人仲間にでき\nる。=Bạn có thể nhận 1 nhân vật ngẫu nhiên từ các nhân vật trong Vai trò Phá hủy.
+ブレイカーロールのランダムサイン=Nhân vật ngẫu nhiên Vai trò Phá hủy
+バッファーロールのキャラか\nらランダムに1人仲間にでき\nる。=Bạn có thể nhận 1 nhân vật ngẫu nhiên từ các nhân vật trong Vai trò Hỗ trợ.
+バッファーロールのランダムサイン=Nhân vật ngẫu nhiên Vai trò Hỗ trợ
+タンクロールのキャラからラ\nンダムに1人仲間にできる。=Bạn có thể nhận 1 nhân vật ngẫu nhiên từ các nhân vật trong Vai trò Chắn đòn.
+タンクロールのランダムサイン=Nhân vật ngẫu nhiên Vai trò Chắn đòn
+ヒーラーロールのキャラから\nランダムに1人仲間にでき\nる。=Bạn có thể nhận 1 nhân vật ngẫu nhiên từ các nhân vật trong Vai trò Hồi phục.
+ヒーラーロールのランダムサイン=Nhân vật ngẫu nhiên Vai trò Hồi phục
+デバッファーロールのキャラ\nからランダムに1人仲間にで\nきる。=Bạn có thể nhận 1 nhân vật ngẫu nhiên từ các nhân vật trong Vai trò Trừ debuff.
+デバッファーロールのランダムサイン=Nhân vật ngẫu nhiên Vai trò Trừ debuff
+ジャマーロールのキャラから\nランダムに1人仲間にでき\nる。=Bạn có thể nhận 1 nhân vật ngẫu nhiên từ các nhân vật trong Vai trò Cản trở.
+ジャマーロールのランダムサイン=Nhân vật ngẫu nhiên Vai trò Cản trở
+ブースターロールのキャラか\nらランダムに1人仲間にでき\nる。=Bạn có thể nhận 1 nhân vật ngẫu nhiên từ các nhân vật trong Vai trò Tăng cường.
+ブースターロールのランダムサイン=Nhân vật ngẫu nhiên Vai trò Tăng cường
+
+ショップから退出します。\n\nよろしいですか？=Rời khỏi cửa hàng?
+一度退出すると入り直すことはできません。=Không thể quay lại sau khi rời đi.
+ショップ確認=Xác nhận cửa hàng
+ボスバトルマスに移動します。\nよろしいですか？=Chuyển đến ô trận boss?
+ボスバトルマス=Ô trận boss
+守備=Phòng thủ
+加速=Tăng tốc
+会心=Chí mạng
+
+アルファルピでアイテムを購入することができます。=Bạn có thể mua vật phẩm bằng αRupees.
+所持アルファルピ=αRupees hiện có
+
+シリーズ効果が発動していません。=Hiệu ứng series chưa được kích hoạt.
+シリーズ効果一覧=Danh sách hiệu ứng series
+未編成のパーティがあっても挑戦できます。=Ngay cả khi đội của bạn chưa được tổ chức, bạn vẫn có thể thử thách chúng.
+リタイアするとバトル前の状態に戻ります。\n\nよろしいですか？=Bỏ cuộc và quay về trước trận?
+
+クリアスコア=Điểm hoàn thành
+迷宮遺物獲得スコア=Điểm nhận Di vật Mê cung
+キャラ加入スコア=Điểm nhân vật tham gia
+踏破スコア=Điểm di chuyển
+獲得した迷宮遺物=Đã nhận Di vật Mê cung
+加入したキャラ=Nhân vật đã tuyển
+獲得上限に達しました。=Bạn đã đạt đến giới hạn.
+獲得ラビリンスコイン=Đã nhận Labyrinth Coin
+獲得アルファシャード=Đã nhận Alpha Shard
+獲得ラビリンストークン=Đã nhận Labyrinth Token
+宝箱開封結果=Kết quả mở rương
+迷宮から持ち帰った宝箱を開封しました。=Cậu đã mở chiếc hộp cậu đem về từ mê cung.
+
+ラビリンスコイン=Labyrinth Coin
+難易度解放=Độ khó đã mở khóa
+
+貴方と冒険すること=Một cuộc phiêu lưu cùng cậu.
+
+解放可能地点へ=Đến điểm phát hành
+まとめて解放=Mở khóa
+
+時には、迷宮攻略に詰まってしまう……なーんてこともあるかも。\nそんなときは、アルファ強化を試してみようか。解放したノードに応じて\nラビリンス内での恩恵が得られるよ～？　どーんどん解放しちゃおう！=Đôi khi... cậu sẽ bị kẹt khi cố gắng hoàn thành mê cung. Nếu vậy, sao không thử Alpha Enhancement? Các nút đã mở khóa sẽ mang lại lợi ích bên trong mê cung, biết chứ? Vì vậy hãy tiếp tục mở khóa các nút!
+所持アルファシャード=Alpha Shard đang có
+消費アルファシャード=Chi phí Alpha Shard
+選択したノードの詳細です。\n未解放の前提ノードは自動で解放されます。=Chi tiết các nút đã chọn. Các nút đã mở khóa sẽ tự động được mở khóa.
+
+挑戦中は難易度を変更できません。=Không thể thay đổi độ khó trong khi đang thử thách.
+
+アタッカーロールのキャラから\n1人選んで仲間にできる。=Cậu có thể chọn 1 nhân vật từ Vai trò Attacker làm đồng minh.
+アタッカーロールのセレクトサイン=Chọn nhân vật Vai trò Attacker
+ブレイカーロールのキャラから\n1人選んで仲間にできる。=Cậu có thể chọn 1 nhân vật từ Vai trò Breaker làm đồng minh.
+ブレイカーロールのセレクトサイン=Chọn nhân vật Vai trò Breaker
+バッファーロールのキャラか\nら1人選んで仲間にできる。=Cậu có thể chọn 1 nhân vật từ Vai trò Buffer làm đồng minh.
+バッファーロールのセレクトサイン=Chọn nhân vật Vai trò Buffer
+タンクロールのキャラから\n1人選んで仲間にできる。=Cậu có thể chọn 1 nhân vật từ Vai trò Tank làm đồng minh.
+タンクロールのセレクトサイン=Chọn nhân vật Vai trò Tank
+ヒーラーロールのキャラから\n1人選んで仲間にできる。=Cậu có thể chọn 1 nhân vật từ Vai trò Healer làm đồng minh.
+ヒーラーロールのセレクトサイン=Chọn nhân vật Vai trò Healer
+デバッファーロールのキャラから\n1人選んで仲間にできる。=Cậu có thể chọn 1 nhân vật từ Vai trò Debuffer làm đồng minh.
+デバッファーロールのセレクトサイン=Chọn nhân vật Vai trò Debuffer
+ジャマーロールのキャラから\n1人選んで仲間にできる。=Cậu có thể chọn 1 nhân vật từ Vai trò Jammer làm đồng minh.
+ジャマーロールのセレクトサイン=Chọn nhân vật Vai trò Jammer
+ブースターロールのキャラか\nら1人選んで仲間にできる。=Cậu có thể chọn 1 nhân vật từ Vai trò Booster làm đồng minh.
+ブースターロールのセレクトサイン=Chọn nhân vật Vai trò Booster
+
+ラビリンストークンが不足しています。=Không đủ Labyrinth Token.
+この報酬は受け取り済みです。=Cậu đã nhận phần thưởng này rồi.
+
+全ギルド=Tất cả bang hội
+対象のギルドがありません。=Không có bang hội nào cho mục tiêu.
+パスポート=Passport
+スキップ可能ギルド一覧=Danh sách bang hội có thể bỏ qua
+1ギルドあたりの\n使用パスポート数=Số passport mỗi bang hội
+
+
+50％でアルファルピ×1500\n50％でアルファルピ=50%: αRupees×1500\n50%: αRupees
+ぷうきち\nフルスイ～ング☆=Pukichi\nFull Swing☆
+箱の中から声が聞こえる……=Em nghe thấy tiếng nói vọng ra từ trong hộp...
+お兄ちゃん\nこっちですよ♪=Anh ơi\nbên này♪
+弟くん\nこっちこっち♪=Em trai\nbên này♪
+★1～3迷宮遺物×１=★1~3 Labyrinth Relic x1
+r:"^現在：(\d+)$"=Hiện tại: $1
+ラビリンス内\n未加入=Bên trong\nMê cung\nChưa tham gia
+
+代償=Chi phí
+r:"^([0-9\,]+)消費$"=Tiêu hao $1
+r:"^([0-9\,]+)％でアルファルピ×([0-9\,]+)\nさらに次のイベントへ$"=$1%: αRupees×$2\nvà đến sự kiện tiếp theo.
+やってやるですよ！=Em sẽ làm!
+スロットマシンだ！挑戦する？=Đây là máy xổ số! Muốn thử không?
+今日はツイてるです！=Hôm nay em may mắn!
+挑戦終了=Hoàn thành thử thách
+もうこの辺で……=Đã đến gần đây rồi...
+もう一勝負だ！=Làm một lần nữa!
+50％でアルファルピ=50%: αRupees
+今日のあたしは\n負け知らずです！=Hôm nay tôi sẽ không thua!
+そろそろやめた方が……=Thôi đi...
+ラスト一発！=Phát bắn cuối cùng!
+
+加入済みのキャラがいません。=Hiện không có nhân vật nào tham gia.
+
+ラビリンスショップ=Cửa hàng Labyrinth
+
+パスポートを消費して、以下のギルドおよび難易度でスキップを実行します。よろしいですか？=Bạn sẽ dùng hộ chiếu để bỏ qua các bang hội và cấp độ khó sau. Bạn có chắc không?
+
+スキップするギルド=Bỏ qua bang hội
+
+消費パスポート=Chi phí hộ chiếu
+
+ギルド検索=Tìm kiếm bang hội
+
+チェックしたギルドがありません。=Không tìm thấy bang hội nào được chọn.
+Image
+パスポート不足のため\nスキップを実行できないギルドがあります。=Có những bang hội không thể bỏ qua do không đủ hộ chiếu.
+
+ダークなあたし=Bản thể bóng tối
+じゃんけん……ぽん！=Kéo, búa, bao!
+グー！！！=Búa!!!
+勝つとアルファルピ×3000\n負けるとアルファルピ=Thắng: Nhận αRupees×3000       \nThua: Nhận αRupees
+チョキにしよう=Chọn Kéo nhé!
+パーにしようかな=Có lẽ mình chọn Bao.
+
+50％でオールセレクトサイン×２=50% cho All Select Sign x2
+
+ノブレスウィスタリアの効果により、以下のアイテムを入手しました。=Nhờ hiệu ứng của Noblesse Wistaria,\nbạn đã nhận được các vật phẩm sau:
+
+r:"^すべてのモンスターが一度の行動で受けるダメージの値が「(\d+)」以上の場合、ダメージの値に応じてダメージ量を減少させる。$"=Nếu tổng sát thương mà tất cả quái nhận trong một hành động là $1 hoặc hơn, lượng sát thương sẽ được giảm theo giá trị sát thương.
+魔法クリティカルデバフ=Debuff Phép thuật Tích lũy
+
+sr:"^すべてのキャラの(.+)をダウンさせる。$"=Giảm $1 của tất cả đồng minh.

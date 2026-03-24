@@ -1,0 +1,18 @@
+Chie Kuro BDay
+
+わあ、オシャレなお店ですねっ。\n落ち着いた大人の雰囲気？　を感じますっ！=Ôi, chỗ này thật phong cách! Không khí bình tĩnh và trưởng thành...? Cảm giác như vậy!
+ナイトさんは何を頼みますかっ？\nケーキもマフィンも全部かわいいですよっ♪=Cậu sẽ gọi món gì, Knight-san? Tất cả các loại bánh và bánh muffin đều dễ thương quá♪
+えっ？\nこれって、ホールケーキっ？=Hả? Đây có phải... một chiếc bánh nguyên miếng?
+わあ……わあ～っ！\nありがとうございます、ナイトさんっ♪=Aah... WOOOOOOW~! Cảm ơn cậu nhiều lắm, Knight-san♪
+ナイトさんに起動日をお祝いしてもらえて、\nすっごくうれしいですっ♪=Mình rất, rất vui vì cậu đã cùng mình ăn mừng sinh nhật của mình, Knight-san♪
+……はっ、もしかして今のわたしなら、\nケーキも食べられちゃいますか！？=...Hah! Khoan... ý là bây giờ, mình thực sự có thể ăn bánh rồi sao!?
+憧れだったんです、ケーキ食べるの！\nいつもは食べられませんし、\n食べても数値でしか味がわかりませんでしたからっ。=Mình luôn mơ ước được ăn bánh! Bình thường mình không thể... và ngay cả khi ăn được, mình cũng chỉ cảm nhận được hương vị dưới dạng dữ liệu!
+早速……いただきまーすっ！\nぱくっ。=Vậy thì... mình sẽ ăn ngay đây! *nhai*
+～～～～っ！　おいしいです～っ♪\nみんなはこんなに甘くておいしいケーキを食べて\n誕生日をお祝いしてたんですねっ！=Mmmmmm! Ngon quá♪ Vậy đây là thứ mà mọi người ăn khi ăn mừng sinh nhật!
+ケーキだけじゃなくてプレゼントもあるんですかっ？\nうーん、何にしましょう？\nやっぱり、プレゼントといったら──=Không chỉ có bánh, còn có quà nữa!? Hmm... nó sẽ là gì đây? Khi nghĩ đến quà, tất nhiên...
+ナイトさんとのハグがいいですっ！\nえへへっ♪=Mình muốn được cậu ôm, Knight-san! Ehehe♪
+
+Player Prompts
+実は注文は予約してあるんだ。=Thực ra, mình đã đặt chỗ cho chúng ta
+千恵ちゃん、お誕生日おめでとう！=Chúc mừng sinh nhật, Chie-chan!
+そうだ、プレゼントは何がいい？=À, phải rồi, cậu muốn loại quà gì đây?

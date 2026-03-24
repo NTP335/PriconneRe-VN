@@ -1,0 +1,35 @@
+##Profile##
+【物理】中衛で、未来を信じ希望を灯すトップアイドル。バトル開始時に物理キャラのＴＰ特大回復と敵の永続物防ダウンで加勢し、物理攻撃強化とＴＰ回復で勝利へ導く。=[Vật Lý] Một thần tượng hàng đầu tin tưởng vào tương lai và thắp lên hy vọng ở tuyến giữa. Khi trận đấu bắt đầu, cô phục hồi TP cực lớn cho tất cả đồng đội thuộc kiểu P và giảm vĩnh viễn P.DEF của tất cả kẻ địch, dẫn dắt đến chiến thắng bằng cách tăng P.ATK và Khả Năng Tăng TP của đồng đội.
+
+ホープフルスマイル=Nụ Cười Hy Vọng
+思い出プレイバック=Phát lại Ký Ức
+見つめてリミテッド=Nhìn Chằm Chằm và Hạn Chế
+『今』から『いつか』へ=Từ "bây giờ" đến "Một Ngày Nào Đó"
+学んで進んで乗りこえて=Học, tiến và vượt qua
+
+##UB##
+ホープ・オンステージ=Hy Vọng Trên Sân Khấu
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに、物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và giảm P.DEF của nó một chút. Thêm nữa, tăng cực kỳ P.ATK của tất cả đồng đội thuộc kiểu P.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン対象の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch theo $2 trong 18s.\n►Tăng P.ATK của tất cả đồng đội thuộc kiểu P theo $3 trong 18s.
+
+##S1##
+グロウイレーション=Hào Quang Phấn Khởi
+物理攻撃を行うすべての味方キャラの物理攻撃力と物理クリティカルを大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。=Tăng rất mạnh P.ATK và Tỷ Lệ Chí Mạng P. của tất cả đồng đội thuộc kiểu P, và tăng Sát Thương Chí Mạng P. của họ một chút.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを(\d+)アップ対象の味方の物理攻撃クリティカル時のダメージを10％アップ$"=Thời gian niệm: 1.05s\n►Tăng P.ATK của tất cả đồng đội thuộc kiểu P theo $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng P. của tất cả đồng đội thuộc kiểu P theo $2 trong 12s.\n►Tăng Sát Thương Chí Mạng P. của tất cả đồng đội thuộc kiểu P theo 10% trong 12s.
+
+##S2##
+エールフォーフューチャー=Cổ Vũ Tương Lai
+物理攻撃を行うすべての味方キャラの物理攻撃力を大アップさせ、ＴＰを小回復させる。バトル開始後、初弾のこのスキルはＴＰの回復量が大幅アップし、敵全体の物理防御力を小ダウンさせる。=Tăng rất mạnh P.ATK của tất cả đồng đội thuộc kiểu P, và phục hồi TP của họ một chút. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên phục hồi TP cực lớn cho tất cả đồng đội thuộc kiểu P và giảm P.DEF của tất cả kẻ địch một chút.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰを(\d+)回復初使用時、対象の味方のＴＰを(\d+)回復初使用時、敵全体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 1.05s\n►Tăng P.ATK của tất cả đồng đội thuộc kiểu P theo $1 trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Phục hồi TP của tất cả đồng đội thuộc kiểu P theo $3.\n►Giảm P.DEF của tất cả kẻ địch theo $4 trong 180s\n\nĐối với lần dùng kỹ năng thứ hai trở đi:\n►Phục hồi TP của tất cả đồng đội thuộc kiểu P theo $2.
+
+##EX##
+ホープフルスマイル=Nụ Cười Hy Vọng
+ホープフルスマイル+=Nụ Cười Hy Vọng+
+
+##S1+##
+グロウイレーション+=Hào Quang Phấn Khởi+
+物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、物理クリティカルを大アップし、物理攻撃クリティカル時のダメージを小アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng rất mạnh P.ATK và Tỷ Lệ Chí Mạng P. của tất cả đồng đội thuộc kiểu P, và tăng Sát Thương Chí Mạng P. của họ một chút. Thêm nữa, tăng Khả Năng Tăng TP của họ một chút.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを(\d+)アップ対象の味方の物理攻撃クリティカル時のダメージを12％アップ対象の味方のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 1.05s\n►Tăng P.ATK của tất cả đồng đội thuộc kiểu P theo $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng P. của tất cả đồng đội thuộc kiểu P theo $2 trong 12s.\n►Tăng Sát Thương Chí Mạng P. của tất cả đồng đội thuộc kiểu P theo 12% trong 12s.\n►Tăng Khả Năng Tăng TP của tất cả đồng đội thuộc kiểu P theo $3 trong 12s.
+
+##UE##
+ハートリベレイター=Người Giải Phóng Trái Tim

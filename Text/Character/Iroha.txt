@@ -1,0 +1,26 @@
+##Profile##
+【物理】中衛で、大きな体で無邪気に遊び回る天才剣士。戦いの中で【剣圧】を溜め、その後のスキルやＵＢで物防一定無視のダメージを連発し、才気煥発の活躍を見せる。=[Vật lý] Một kiếm sư thiên tài vui vẻ chơi đùa trong một cơ thể nhỏ bé với sự ngây thơ như trẻ con. Trong chiến đấu cô ấy tích lũy [Áp lực Kiếm], cho phép cô liên tục gây sát thương bỏ qua phòng thủ vật lý, để thiên tài rạng rỡ của cô tỏa sáng.
+
+## UB ##
+イスルギ流奥義・いろは歌【琥珀】=Bí kíp Isurugi-ryū: Bài ca Iroha [Hổ phách]
+目の前の敵１キャラに物理防御力を一定値無視する物理特大ダメージを３回与える。【剣圧】が10の時の初回のユニオンバーストは、追加で目の前の敵１キャラに物理防御力を一定値無視する物理特大ダメージを３回与える。=Gây 3 lần sát thương vật lý khổng lồ (bỏ qua một phần phòng thủ vật lý) cho một kẻ địch phía trước. Khi [Áp lực Kiếm] là 10, lần UB đầu tiên thêm 3 lần sát thương vật lý khổng lồ (bỏ qua một phần phòng thủ vật lý).
+r:"^敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体に物理防御力を50無視する(\d+)の物理ダメージ剣圧が10の場合の初使用時、敵単体に物理防御力を50無視する(\d+)の物理ダメージ剣圧が10の場合の初使用時、敵単体に物理防御力を50無視する(\d+)の物理ダメージ剣圧が10の場合の初使用時、敵単体に物理防御力を50無視する(\d+)の物理ダメージ$"="►Gây $1 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch.\n►Gây $2 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch.\n►Gây $3 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch.\n\nNếu [Áp lực Kiếm] là 10 ở lần dùng đầu:\n►Gây $4 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch.\n►Gây $5 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch.\n►Gây $6 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch."
+
+## S1 ##
+イスルギ流剣術・青嵐=Bí kíp Kiếm thuật Isurugi: Bão Xanh
+目の前の敵１キャラに物理大ダメージを３回与える。【剣圧】が10の時、この物理ダメージが敵の物理防御力を一定値無視するようになり、追加で目の前の敵１キャラに物理防御力を一定値無視する物理特大ダメージを与える。=Gây 3 lần sát thương vật lý lớn cho một kẻ địch phía trước. Khi [Áp lực Kiếm] là 10, sát thương bỏ qua một phần phòng thủ vật lý và thêm 1 lần sát thương vật lý khổng lồ (bỏ qua một phần phòng thủ vật lý).
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ剣圧が10の場合、敵単体に物理防御力を50無視する(\d+)の物理ダメージ剣圧が10の場合、敵単体に物理防御力を50無視する(\d+)の物理ダメージ剣圧が10の場合、敵単体に物理防御力を50無視する(\d+)の物理ダメージ剣圧が10の場合、敵単体に物理防御力を50無視する(\d+)の物理ダメージ$"="►Gây $1 sát thương vật lý cho một kẻ địch.\n►Gây $2 sát thương vật lý cho một kẻ địch.\n►Gây $3 sát thương vật lý cho một kẻ địch.\n\nNếu [Áp lực Kiếm] là 10:\n►Gây $4 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch.\n►Gây $5 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch.\n►Gây $6 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch.\n►Gây $7 sát thương vật lý (bỏ qua 50 phòng thủ vật lý) cho một kẻ địch."
+
+## S2 ##
+イスルギ流・銀花の構え=Thế đứng Hoa Bạc Isurugi-ryū
+【剣圧】を２つ獲得し、自分の物理攻撃力を特大アップ、物理クリダメを小アップ、行動速度を大アップする。（このスキルの効果は他の行動速度変化スキルと重複する）【剣圧】は最大10まで獲得できる。このスキルを使用するたび、【剣圧】の獲得量と物理攻撃力アップと物理クリダメアップの効果値が増加する。=Tích lũy 2 [Áp lực Kiếm], tăng mạnh Tấn công Vật lý của bản thân, tăng nhẹ Sát thương Chí mạng Vật lý, và tăng đáng kể tốc độ hành động (cộng dồn với các hiệu ứng tốc độ khác). [Áp lực Kiếm] tối đa là 10. Mỗi lần dùng làm tăng tốc độ tích lũy [Áp lực Kiếm] và hiệu quả buff."
+r:"^剣圧を２つ獲得自分の物理攻撃力を(\d+)アップ自分の物理クリダメを16％アップ自分の行動速度アップ$"="►Tích lũy 2 [Áp lực Kiếm].\n►Tăng Tấn công Vật lý của bản thân $1.\n►Tăng Sát thương Chí mạng Vật lý của bản thân 16%.\n►Tăng tốc độ hành động của bản thân."
+
+##SP##
+イスルギ流・銀花の構え…？=Isurugi-ryū: Tư Thế Bạch Hoa…?
+バトル終了まで自分が敵から受ける行動不能を無効化する。さらに、【剣圧】を１つ獲得するが、自分の物理クリダメを中ダウン、物理攻撃のダメージを大ダウンする。【剣圧】は最大10まで獲得できる。=Vô hiệu hóa các hiệu ứng khống chế cho đến khi trận đấu kết thúc. Nhận 1 [Áp Lực Kiếm] (tối đa 10), nhưng giảm sát thương phản chí mạng (P.CRIT DMG) và sát thương vật lý (P.DMG) gây ra một cách vừa phải.
+r:"^剣圧を１つ獲得自分が与える物理ダメージを20％ダウン自分の物理クリダメを20％ダウン自分が敵から受ける行動不能を無効化する$"=►Nhận 1 [Áp Lực Kiếm].\n►Giảm sát thương vật lý (P.DMG) do bản thân gây ra 20%.\n►Giảm sát thương phản chí mạng (P.CRIT DMG) của bản thân 20%.\n►Vô hiệu hóa các hiệu ứng khống chế từ kẻ địch.
+
+##EX##
+剣のいろは=Nền Tảng Của Kiếm Thuật
+剣のいろは+=Nền Tảng Của Kiếm Thuật+

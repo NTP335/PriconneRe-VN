@@ -1,0 +1,32 @@
+##Profile##
+【物理】中衛でパーティの守りを支えるサンタアイドル。\nスキルで物理攻撃を無効化し、後方の味方が多いほど\n物理防御力を高めるユニオンバーストで生存力を高める。=[Vật lý] Một thần tượng Santa hỗ trợ phòng thủ cho đồng đội từ vị trí trung lập. Kỹ năng của cô cho phép triệt tiêu các đòn tấn công vật lý đối phương, và Union Burst của cô cung cấp mức tăng phòng thủ càng cao khi càng nhiều đồng đội đứng phía sau cô.
+
+##UB##
+ライド・オン・クリスマス=Lên đường nào, Santa!
+味方全体の物理防御力を小アップさせる。自分より後方にいる味方の人数に応じて、防御力の上昇量がアップする。=Tăng nhỏ phòng thủ vật lý (P.DEF) cho toàn bộ đồng đội. Mức tăng P.DEF sẽ tăng lên dựa trên số lượng đồng đội đứng phía sau mình.
+
+##S1##
+クリスマスエール=Khí thế lễ hội
+味方全体に物理無効バリアを展開する。=Triển khai một rào cản chống sát thương vật lý (P.DMG) xung quanh toàn bộ đồng đội trong 18 giây.
+
+##S2##
+フロストスラッシュ=Chém băng giá
+フロストスラッシュ+=Chém băng giá+
+
+味方全体に物理/魔法無効バリアを展開する。さらに目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、長時間凍結させて大きく吹き飛ばす。=Triển khai một rào cản triệt tiêu cả sát thương vật lý và ma thuật cho toàn bộ đồng đội. Ngoài ra, gây ra lượng sát thương vật lý (P.DMG) lớn cho toàn bộ kẻ địch trong vùng xung quanh một kẻ địch phía trước, làm chúng bị đóng băng trong thời gian dài và đẩy lùi chúng một cách đáng kể.
+
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする$"=►Triển khai Rào cản cho toàn bộ đồng đội, hấp thụ $1 sát thương vật lý/ma thuật (P/M.DMG) trong 12 giây.\n►Gây $2 sát thương vật lý (P.DMG) cho kẻ địch trong phạm vi 400.\n►Gây hiệu ứng Đóng băng (Frozen) cho kẻ địch trong phạm vi 400 trong 6 giây.\n►Đẩy lùi mục tiêu kẻ địch trong phạm vi 400 một khoảng 600.
+
+
+##EX##
+イルミネイトスマイル=Nụ cười rạng rỡ
+イルミネイトスマイル+=Nụ cười rạng rỡ+
+
+##S1+##
+クリスマスエール+=Khí thế lễ hội+
+自分のＨＰを小回復する。味方全体に物理無効バリアを展開し、物理防御力を小アップさせ、さらに継続ＨＰ回復状態を付与する。自分より後方にいる味方の人数に応じて、ＨＰ回復量と物理防御力の上昇量と継続ＨＰ回復量がアップする。=Hồi một chút HP của bản thân. Triển khai một rào cản chống sát thương vật lý (P.DMG) cho toàn bộ đồng đội. Tăng phòng thủ vật lý (P.DEF) cho đồng đội và trao cho họ khả năng hồi HP liên tục. Lượng HP hồi lại, mức tăng P.DEF và khả năng hồi HP liên tục sẽ tăng lên dựa trên số lượng đồng đội đứng phía sau mình.
+r:"^自分のＨＰを(\d+)回復(\d+)ダメージ分の物理無効バリアを展開する味方全体の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Hồi $1 HP của bản thân.\n►Triển khai Rào cản cho toàn bộ đồng đội, chống lại $2 sát thương vật lý (P.DMG) trong 27 giây.\n►Tăng phòng thủ vật lý (P.DEF) của đồng đội lên $3 trong 27 giây.\n►Hồi $4/s HP cho đồng đội trong 8,5 giây.
+
+##UE##
+聖霊剣セイントホープ=Kiếm Hy vọng Thánh Thần
+ノゾミ担サイリウム=Cây đèn fan của Nozomi

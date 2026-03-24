@@ -1,0 +1,38 @@
+##Profile##
+【物理】後衛で、攻撃と敵の弱体化の二役で輝く女商人。生ける金貨が詰まった財布を投げつける不意打ちや、金貨の嵐を巻き起こす攻撃で、相手の防御を大きく崩す。=[Vật lý] Một thương gia hoạt động ở hậu phương, xuất sắc cả trong việc gây sát thương lẫn debuff kẻ địch. Cô ấy có thể hạ thấp Phòng Thủ Vật Lý (P.DEF) của kẻ địch thông qua một đòn tấn công bất ngờ dưới dạng chiếc ví chứa Đồng Xu Tham Lam, sau đó tiêu diệt chúng bằng cơn mưa đồng xu vàng.
+
+忠義に目覚めた女商人=Một nữ thương gia thức tỉnh với lòng trung thành
+お金を数えること、悪だくみ=Đếm Tiền, Mưu Tính
+
+潜入！　貴族たちの夜会=Xâm Nhập! Buổi Tiệc Của Quý Tộc
+美食ツアーに行こう（後）=Cùng Đi Vòng Quanh Ẩm Thực (Sau)
+美食ツアーに行こう（前）=Cùng Đi Vòng Quanh Ẩm Thực (Trước)
+海外から来た商人（迷子）=Các Thương Gia Từ Nước Ngoài (Mất)
+突撃！　ギルドハウス=Xung Kích! Nhà Guild
+女商人の拠りどころ=Căn Cứ Hoạt Động Của Thương Gia
+クレジッタ流仕返し術？=Phong Cách Trả Thù Của Creditta?
+
+##UB##
+ミリオンフリッピング=Lật Đổ Triệu Phú
+前方の敵すべてに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。範囲内の敵の数に応じて、ダメージと防御力の減少量が増加する。=Gây sát thương vật lý (P.DMG) vừa phải lên tất cả kẻ địch và giảm nhỏ Phòng Thủ Vật Lý (P.DEF) của chúng. Lượng P.DMG gây ra và lượng P.DEF giảm tăng lên tùy theo số lượng kẻ địch trong phạm vi.\nP.DMG x 0.6 x Số Kẻ Địch.\nP.DEF x Số Kẻ Địch.
+
+##S1##
+トラップウォレット=Ví Bẫy
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与える。バトル開始後、初弾のこのスキルはさらに敵の物理防御力を小ダウンさせる。=Gây sát thương vật lý (P.DMG) vừa phải lên tất cả kẻ địch trong phạm vi 250 tính từ kẻ địch phía trước nhất. Khi trận đánh bắt đầu, lần dùng kỹ năng thứ nhất sẽ giảm nhỏ P.DEF của kẻ địch trong phạm vi.
+
+##S2##
+ロイヤリティライト=Ánh Sáng Hoàng Tộc
+味方全体に継続ＨＰ回復状態と継続ＴＰ回復状態を付与し、さらに物理無効バリアを展開する。=Trao hiệu quả hồi HP và hồi TP liên tục cho tất cả đồng minh, và thiết lập Khiên (Barrier) phản chọi sát thương vật lý (P.DMG).
+r:"^毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する(\d+)ダメージ分の物理無効バリアを展開する$"=►Hồi HP cho tất cả đồng minh $1/giây trong 10.5s.\n►Hồi TP cho tất cả đồng minh 10 trong 10.5s.\n►Thiết lập Khiên (Barrier) trên tất cả đồng minh phản chọi $2 P.DMG trong 11s.
+
+##EX##
+へそくりブースト=Tăng Cường Tiết Kiệm
+へそくりブースト+=Tăng Tiết Kiệm+
+
+##S1+##
+トラップウォレット+=Ví Bẫy+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与える。バトル開始後、初弾のこのスキルはさらに敵の物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi 250 đơn vị tính từ kẻ địch ở phía trước nhất. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên sẽ giảm một chút phòng thủ vật lý của kẻ địch trong phạm vi và tăng một chút sát thương phản công vật lý mà kẻ địch trong phạm vi phải nhận.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵のクリティカルを受けた際のダメージを2％アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi đi $2 trong 180s.\n►Tăng sát thương phản công vật lý mà kẻ địch trong phạm vi phải nhận lên 2% trong 180s.
+
+##UE##
+アバカス・アーバレスト=Nỏ Bàn Tính

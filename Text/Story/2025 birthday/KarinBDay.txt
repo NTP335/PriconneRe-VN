@@ -1,0 +1,17 @@
+Karin Kanzaki's Birthday
+
+ふぅ。\n今日の業務はほとんど片付きましたね。=Phew. Sắp xong lịch làm việc hôm nay rồi.
+残るは一つ……重要な案件が残っています。\nまさか、彼の方からアポイントをいただけるとは思いませんでしたが……=Chỉ còn một việc... Tôi vẫn còn một vấn đề quan trọng cần giải quyết. Tôi không ngờ người đó lại là người hẹn gặp tôi...
+こんにちは。\nふふっ、時間通りですね。=Xin chào. Hehe, cậu đến đúng giờ rồi.
+本日はご連絡いただきありがとうございます。\nこうしてお呼びいただけたということは、\nついに弊社に来る気になってくださったんですね？=Cảm ơn vì hôm nay đã liên hệ với em. Vì cậu gọi em đến đây, em đoán là cậu cuối cùng cũng đã quyết định tham gia công ty của chúng ta rồi chứ?
+それとは違う件？　そうですか……では、どういった内容でしょう？\n何かお手伝いできることがあるのでしたら、何でもお申し付けください。\nあなたの気を引くチャンス、ですからね！=Việc này là về chuyện khác à? À... Vậy, chuyện gì vậy? Nếu có gì em có thể giúp đỡ, xin hãy cho em biết. Đây là cơ hội để lấy sự chú ý của cậu!
+え？\nあ……私の誕生日をご存じだったとは……=Hả? Ồ... Em không biết là cậu biết ngày sinh của em...
+なるほど、道理でご連絡いただいたとき、\n仕事が終わってからでいいと言っていたんですね。=Bây giờ em hiểu rồi. Vì vậy nên khi cậu liên hệ với em, cậu nói sẽ đợi cho đến khi em xong việc.
+……ふふふっ、ありがとうございます。\nでは仕事モードはここまで、にしますね。\n今日はカロリー計算は抜きにして、ケーキの食べ放題といきましょう♪=...Hehehe, cảm ơn rất nhiều. Vậy thì, em sẽ kết thúc "chế độ làm việc" ngay tại đây. Hôm nay em sẽ bỏ qua việc đếm calo và thưởng thức bánh ăn thoải mái nhé♪
+会って話すたびに、肩の力が自然と抜けていく。\nあなたは本当に不思議な人です。=Mỗi lần chúng ta gặp nhau và trò chuyện, căng thẳng ở vai em tự nhiên được thư giãn. Anh ấy thực sự là một người tuyệt vời.
+……気を引かれてしまったのは、私の方でしたね。=...Có vẻ như người bị thu hút sự chú ý lại là em.
+
+Player Prompts
+佳凛さん！=Karin-san!
+佳凛さんの誕生日をお祝いしたい。=Em muốn chúc mừng sinh nhật cậu hôm nay, Karin-san.
+一緒にケーキを食べに行かない？=Tại sao chúng ta không cùng đi ăn bánh nhỉ?

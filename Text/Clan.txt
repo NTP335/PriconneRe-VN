@@ -1,0 +1,505 @@
+---Character Rental---
+サポートキャラを設定\\nできます=Chuẩn bị Nhân Vật Cho Thuê
+対象クエスト一覧=Danh sách nhiệm vụ khả dụng:
+対象のクエストは以下のものとなります。=Các Nhiệm Vụ Khả dụng có thể sử dụng Nhân Vật Cho Thuê như sau.
+
+クエスト・イベント=Nhiệm Vụ & Sự Kiện
+メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(EXHIBITION＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト=Nhiệm vụ chính (THƯỜNG)\nNhiệm vụ chính (KHÓ)\nNhiệm vụ chính (RẤT KHÓ)\nNhiệm vụ phụ\nHang động (EXP)\nHang động (MANA)\nKhảo sát Thánh Đường\nHành trình Đền thờ\nSự kiện nhiệm vụ (THƯỜNG)\nSự kiện nhiệm vụ (KHÓ)\nNhiệm vụ cốt truyện phụ (THƯỜNG)\nNhiệm vụ cốt truyện phụ (KHÓ)\nTrận boss sự kiện (Triển Lãm+)\nNhiệm vụ tầng sâu
+
+ダンジョン・追憶の戦域=Hầm ngục & Ký Ức
+メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(EXHIBITION＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト\n深淵討伐戦=Nhiệm vụ chính (THƯỜNG)\nNhiệm vụ chính (KHÓ)\nNhiệm vụ chính (RẤT KHÓ)\nNhiệm vụ phụ\nHang động (EXP)\nHang động (MANA)\nKhảo sát Thánh Đường\nHành trình Đền thờ\nSự kiện nhiệm vụ (THƯỜNG)\nSự kiện nhiệm vụ (KHÓ)\nNhiệm vụ cốt truyện phụ (THƯỜNG)\nNhiệm vụ cốt truyện phụ (KHÓ)\nTrận boss sự kiện (Triển Lãm+)\nNhiệm vụ tầng sâu\nTrận chiến Vực Sâu
+
+メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(SPECIAL＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト\n深淵討伐戦=Nhiệm vụ chính (THƯỜNG)\nNhiệm vụ chính (KHÓ)\nNhiệm vụ chính (RẤT KHÓ)\nHang động (EXP)\nHang động (MANA)\nKhảo sát Thánh Đường\nHành trình Đền thờ\nSự kiện nhiệm vụ (THƯỜNG)\nSự kiện nhiệm vụ (KHÓ)\nTrận boss sự kiện (ĐẶC BIỆT+)\nNhiệm vụ cốt truyện phụ (THƯỜNG)\nNhiệm vụ cốt truyện phụ (KHÓ)\nNhiệm vụ sâu\nTrận chiến Vực Sâu
+
+クランバトル・ルナの塔=CB & Tháp Luna
+
+対象コンテンツ一覧=Danh sách nội dung chủ đề
+対象のコンテンツは以下のものとなります。=Nội dung mục tiêu như sau:
+
+
+r:"^\-(\d+)日-(\d+)時間-(\d+)分$"=-$1 ngày-$2 giờ-$3 phút
+r:"^トレーニングログ保存件数 ([0-9/]+)$"=Nhật ký đã lưu: 6/30
+サポート設定へ=Đến Phòng Cho Thuê
+サポート獲得マナ通知=Thông báo Mana Nhận Được Từ Cho Thuê
+サポートで獲得した報酬です。=Phần thưởng nhận được từ hỗ trợ.
+後でちゃんとマニュアル読んだ=Tớ sẽ đọc hướng dẫn sau
+マイログ保存完了=Nhật ký của tớ đã được lưu
+マイログに保存しました。=Lưu vào Nhật ký của tớ.
+r:"^([0-9/]+)回$"=$1×
+
+[3C404E]サポート設定で獲得できるマナが\n合計[-][FFBB00,CE4F00]5,000,000[-][3C404E]マナ以上たまりました。[-]=[3C404E]Tổng mana nhận được từ cài đặt hỗ trợ đã vượt quá [FFBB00,CE4F00]5,000,000[-] mana.[-]
+
+---Clan List---
+r:"^\[FFBB00\,CE4F00\]最終ログイン:(\d+)時間以内\[-\]$"=[FFBB00,CE4F00]Trực tuyến: $1h[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:(\d+)日前\[-\]$"=[FFBB00,CE4F00]Đăng nhập cuối: $1 ngày trước[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:(\d+)時間前\[-\]$"=[FFBB00,CE4F00]Đăng nhập cuối: $1 giờ trước[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:(\d+)分前\[-\]$"=[FFBB00,CE4F00]Đăng nhập cuối: $1 phút trước[-]
+---[FFBB00,CE4F00]最終ログイン:9時間前[-]---
+
+---Clan Chat---
+==[FFBB00,CE4F00]1日前[-][3C404E][-]
+r:"^\[FFBB00\,CE4F00\](\d+)日前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1 ngày trước[-]
+r:"^\[FFBB00\,CE4F00\](\d+)時間前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1 giờ trước[-]
+r:"^\[FFBB00\,CE4F00\](\d+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1 phút trước[-]
+
+---Liked for stamina---
+r:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを(\d+)獲得しました。(\[-\])?$"=$1Bạn đã thích $2-san\nvà nhận được $3 stamina.$4
+
+r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Thành viên clan đã thích bạn,\nNhận Mana × [FFBB00,CE4F00]$2[-][-]
+
+月間=Tháng
+[FF7C4E,D62146]いいねされたクランメンバーにはマナがおくられます。[-]=[FF7C4E,D62146]Thành viên clan được thích sẽ nhận được Mana.[-]
+クランを脱退しました。=Đã rời khỏi bang hội.
+いいね完了=Hoàn thành lượt thích
+除名=Kích
+r:"^(.{1,10})がクランに加入しました。$"=$1 đã gia nhập bang hội.
+r:"^(.{1,10})がリーダーになりました。$"=$1 đã trở thành lãnh đạo.
+r:"^(.{1,10})がサブリーダーになりました。$"=$1 đã trở thành phó lãnh đạo.
+r:"^(.{1,10})がクランを結成しました。$"=$1 đã tạo bang hội.
+r:"^(.{1,10})がクランから脱退しました。$"=$1 đã rời khỏi bang hội.
+r:"^(.{1,10})をクランから除名しました。$"=$1 đã bị kích khỏi bang hội.
+
+r:"^([\-0-9]+)日 ?([\-0-9]+)時間 ?([\-0-9]+)分$"=$1 ngày $2 giờ $3 phút
+r:"^([\-0-9]+)日 ?([\-0-9]+)時間$"=$1 ngày $2 giờ
+r:"^([\-0-9]+)時間 ?([\-0-9]+)分$"=$1 giờ $2 phút
+r:"^([\-0-9]+)日 ?([\-0-9]+)分$"=$1 ngày $2 phút
+変更期限：=Thay đổi hạn chót:
+r:"^終了まで (\d+)時間(\d+)分$"=Kết thúc sau $1h$2m
+r:"^終了まで (\d+)分$"=Kết thúc sau $1m
+
+r:"^次の装備リクエストは(\d+)時間(\d+)分後に可能です。$"=Bạn có thể thực hiện yêu cầu trang bị tiếp theo sau $1h$2m.
+r:"^次の装備リクエストは(\d+)分後に可能です。$"=Bạn có thể thực hiện yêu cầu trang bị tiếp theo sau $1m.
+この装備リクエストは終了しました。=Yêu cầu trang bị này đã kết thúc.
+この装備リクエストは終了しました=Yêu cầu trang bị này đã kết thúc.
+ここから未読メッセージ=Tin nhắn chưa đọc từ đây
+自分が投稿したパーティです。=Đây là đội hình tôi đã đăng.
+いいね確認=Nhận "Thích"
+
+クランバトル開催中：=Trận chiến bang hội đang diễn ra:
+
+この投稿は有効期間が終了しました。=Bài đăng này đã hết hạn.
+装備リクエスト中！=Đang yêu cầu trang bị!
+寄付完了=Hoàn thành đóng góp
+
+8時間経過したため、装備リクエストが終了しました。=Bạn đã nhận được trang bị sau đây.\n8 giờ đã trôi qua và yêu cầu trang bị đã kết thúc.
+r:"^以下の装備をx(\d+)獲得しました。\n8時間経過したため、装備リクエストが終了しました。$"=Đã nhận được trang bị sau đây x$1.\nBạn đã đạt đến giới hạn đóng góp, yêu cầu trang bị đã kết thúc.
+
+[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費され、\n編成キャラとそのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]Lượt thử sẽ được tiêu hao khi trận đấu bắt đầu,\nquy định sử dụng áp dụng cho nhân vật\nvà trang bị EX của họ trong đội hình.[-]
+
+[FF7C4E,D62146]サポート以外のキャラのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]nhân vật mượn và trang bị EX của họ sẽ bị hạn chế.[-]
+[FF7C4E,D62146]バトルを開始した時点で上記のキャラと、[-]=[FF7C4E,D62146]Lượt thử sẽ được sử dụng và việc sử dụng nhân vật ngoại trừ[-]
+
+[3C404E][3C404E]クランを[-][FF7C4E,D62146]脱退[-][3C404E]します。\nよろしいですか？[-][-]=[3C404E]Bạn sẽ [FF7C4E,D62146]rút khỏi[-] bang hội.\nCó chứ?
+[FF7C4E,D62146]脱退後24時間はクランに所属・結成ができません。[-]=[FF7C4E,D62146]Bạn sẽ không thể tham gia hoặc\ntạo bang hội trong 24 giờ sau khi rời.[-]
+
+残り挑戦回数が0回です。=Lượt thử còn lại là 0.
+現在の装備リクエストの状況です。=Trạng thái yêu cầu trang bị hiện tại.
+r:"^以下の装備をx(\d+)獲得しました。\n現在の装備リクエストの状況です。$"=Bạn đã nhận được trang bị sau đây × $1.\nTrạng thái yêu cầu trang bị hiện tại.
+難易度変更したバトルでは使用できません。=Không thể sử dụng trong các trận đấu với độ khó đã thay đổi.
+所持上限を超えたアイテムはプレゼントに送られました=Các vật phẩm vượt quá giới hạn sở hữu đã được gửi dưới dạng quà tặng
+前回のリクエスト結果=Kết quả yêu cầu trước
+リクエスト結果=Kết quả yêu cầu
+sr:"^([0-9]{1,2}月)の順位：$"=$1 Hạng:
+---Clan---
+装備リクエスト=Yêu cầu
+次回のモード変更開始まで\nモードは変更できません。=Không thể thay đổi chế độ\ncho đến khi bắt đầu đổi chế độ tiếp theo.
+段階を変更したバトルでは\n撃破報酬は獲得できません。=Các trận đấu đã thay đổi Bậc sẽ không\nnhận được phần thưởng khi đánh bại chúng.
+
+クランバトル モード変更受付終了=Yêu cầu đổi chế độ đã đóng.
+開催までお待ちください。=Vui lòng chờ cho đến khi trận chiến bang hội kết thúc.
+
+メンバーリスト=Danh sách thành viên
+
+脱退=Rời khỏi
+フレンドバトル=Trận đấu bạn bè
+クランメンバーが設定しているパーティはありません。=Không có đội hình nào được thiết lập bởi thành viên clan.
+メッセージを入力してください=Nhập tin nhắn
+r:"^挑戦回数:([0-3‐])$"=Lần thử: $1
+
+ラン=Clan
+クランバトルへ=Vào Clan Battle
+リーダー=Trưởng
+先月=Tháng\ntrước
+合計スコア=Tổng điểm
+ランキング報酬確認=Phần thưởng xếp hạng
+自分の順位=Xếp hạng của bạn
+いいね=Thích
+送信=Gửi
+全クラン=Tất cả Clan
+r:"^パーティ(\d+)と\n対戦$"=Đội $1\nTrận
+クランチャット投稿=Đăng tin nhắn clan chat
+編成したパーティをクランチャットに投稿できます。=Bạn có thể đăng đội hình đã tổ chức lên clan chat.
+他メンバーのバトルログは投稿できません。=Bạn không thể đăng nhật ký trận đấu của thành viên khác.
+
+このパーティでクランチャットに投稿しますか？=Bạn có muốn đăng đội hình này lên Clan Chat không?
+パーティ名を編集します。=Chỉnh sửa tên đội.
+パーティ名編集=Chỉnh sửa tên đội
+リクエスト=Yêu cầu
+リクエスト確認=Yêu cầu vật phẩm
+選択した装備の寄付をリクエストします。\nよろしいですか？=Yêu cầu quyên góp trang bị đã chọn?
+8時間以内は新たにリクエストできません。=Bạn không thể tạo yêu cầu mới trong 8 giờ.
+寄付上限数=Số quyên góp tối đa
+リクエスト完了=Yêu cầu đã gửi
+[3C404E]チャットへの投稿を完了しました。[-]=[3C404E]Bạn đã hoàn thành đăng tin nhắn lên chat.[-]
+クランチャット投稿完了=Đăng tin nhắn clan chat hoàn tất
+[3C404E]クラン内のチャットで\n装備をリクエストしました。[-]=[3C404E]Bạn đã yêu cầu trang bị này\ntrong clan chat.[-]
+リクエスト状況=Trạng thái yêu cầu
+確認する=Xác nhận
+パーティ総戦力=Sức mạnh đội
+対戦する=Trận
+あなた=Bạn
+現在の装備リクエストの状況です。=Trạng thái yêu cầu trang bị hiện tại.
+寄付の情報がありません。=Không có thông tin quyên góp.
+現在の寄付数=Quyên góp
+寄付の確認=Quyên góp trang bị
+以下の装備を寄付します。\nよろしいですか？=Quyên góp trang bị sau đây?
+寄付状況=Trạng thái quyên góp
+寄付できる装備を所持していません。=Bạn không có trang bị để quyên góp.
+r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D62146]Còn $1 lần quyên góp hôm nay.[-]
+トレーニングモード解放中=Chế độ huấn luyện đã mở
+sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Bảng xếp hạng toàn cầu($1)[-]
+---Clan Battle---
+CPと挑戦回数は毎日05:00にリセットされます。=CP và lượt thử sẽ được reset lúc 5:00 (JST) hàng ngày.
+r:"^\[3C404E\]クランバトルの挑戦回数が\n?\[-\]\[FFBB00,CE4F00\](\d)回\[-\]\[3C404E\]アップしました。\[-\]$"=[3C404E]Lượt tham chiến Clan Battle của bạn đã tăng thêm [FFBB00,CE4F00]$1[-].[-]
+r:"^\[3C404E\]CPを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]獲得して、\[-\]$"=[3C404E]Kiếm được [FFBB00,CE4F00]$1 [-]CP,[-]
+[3C404E]マイログに保存しますか?[-]=[3C404E]Bạn có muốn lưu vào Nhật ký của mình không?[-]
+マイログ保存確認=Xác nhận lưu Nhật ký
+模擬戦中=Huấn luyện
+本日の挑戦回数の上限に達しています。=Bạn đã đạt số lần thử tối đa cho hôm nay.
+
+段階が変更されています。=Cấp đã được thay đổi.
+---Carry Over Time---
+r:"^\[3C404E\]モンスターを撃破したため\n残り時間を\[FF7C4E,D62146\]([0-9:]+)\[-\]使って\n次のバトルに挑戦できます。\[-\]$"=[3C404E]Vì bạn đã đánh bại quái vật,\nbạn có thể sử dụng Thời gian dư [FF7C4E,D62146]$1[-]\nđể thử thách trận chiến tiếp theo.[-]
+残り時間持越し通知=Thông báo Thời gian dư
+前回の編成メンバー=Đồng đội trước đó
+現在の編成メンバー=Đồng đội hiện tại
+[FF7C4E,D62146]発生中の持越しバトルがありません。[-]=[FF7C4E,D62146]Không có party dư.[-]
+---Over kill---
+r:"^\[3C404E\]オーバーキルが発生したため\nモンスターの実際の残りHPと\n与えたダメージから換算して\n持越し時間\[FF7C4E,D62146\]([0-9:]+)\[-\]が発生します。\[-\]$"=[3C404E]Do giết quá mức, thời gian dư [FF7C4E,D62146]$1[-] được tạo ra bằng cách chuyển đổi từ HP còn lại thực tế của quái vật và sát thương gây ra.[-]
+オーバーキル通知=Thông báo Giết quá mức
+---Windows popup---
+sr:"^(\d+月)クランバトル開始！！$"=CB-$1 đã bắt đầu!
+r:"^期間 ([0-9/ :]+)～([0-9/ :]+)$"=Bắt đầu $1\nKết thúc $2
+クランメンバーと協力して\n強力なモンスターを討伐しよう！=Hợp tác với các thành viên bang hội để hạ gục những quái vật mạnh mẽ!
+
+[FFBB00,CE4F00]解放期間:[-]=[FFBB00,CE4F00]Thời gian:[-]
+sr:"^\[FF7C4E,D62146\]ボスの強さは、(\d+月)クランバトル（クランモード）と同じです。\[-\]$"=[FF7C4E,D62146]Sức mạnh của boss giống hệt CB ($1).[-]
+カスタム=Tùy chỉnh
+１つ以上の段階を選択する必要があります。=Bạn cần chọn một hoặc nhiều màn chơi.
+r:"^トレーニング (\d)段階目$"=Huấn luyện Cấp $1
+トレーニングバトルの結果はスコアランキングに影響しません。=Kết quả trận huấn luyện không ảnh hưởng đến bảng xếp hạng điểm số.
+クランバトルに挑戦しよう=Trận chiến Bang hội đã mở!
+今回のクランバトル開催期間中は表示しない=Không hiển thị trong CB
+詳細=Chi tiết
+[FFFDF7,FFE0E9]圏外[-]=[FFFDF7,FFE0E9]N/A[-]
+[FDFFF8,CCFFEF]圏外[-]=[FDFFF8,CCFFEF]N/A[-]
+模擬戦・トレーニングバトルのバトル速度上限を設定します。=Đặt tốc độ trận chiến tối đa cho trận chiến thử nghiệm và huấn luyện.
+モンスター討伐演出設定=Cài đặt Tốc độ Hạ gục Quái
+モンスター討伐演出を再生するか設定します。=Đặt tốc độ hạ gục quái vật.
+
+バトルログ=Nhật ký Trận chiến
+トレーニング\nモード=Chế độ Huấn luyện
+トレーニング\\nモード=Chế độ\nHuấn luyện
+バトル設定=Cài đặt
+モンスターHPとバトル\n時間を本戦状態にする=Đặt HP và thời gian làm trạng thái chính.
+模擬戦=Huấn luyện
+本戦=Đánh
+討伐情報=Hoàn thànhⓘ
+確認=Kiểm tra
+残り挑戦回数=Số lần thử
+戦績=Thành tích
+周回=Vòng
+ヘルプ=Trợ giúp
+クラン内=Hạng
+ランバトル=Trận chiến Bang hội
+[FF7C4E,D62146]本日の上限です[-]=[FF7C4E,D62146]Tối đa hôm nay[-]
+現在のCP=CP hiện tại
+残り持越し回数=Dư thừa
+トレーニング=Thử nghiệm
+r:"^(\d)段階目$"=Cấp $1
+sr:"^(.+) (\d)段階目$"=Cấp $2 $1
+表示段階=Chọn Cấp
+絞り込み=Tìm kiếm
+レポート=Báo cáo
+全て=Tất cả
+討伐情報がありません。=Không có thông tin rõ ràng.
+討伐情報がありません=Không có thông tin rõ ràng.
+バトル情報がありません。=Không có thông tin trận đấu.
+獲得可能なアイテムがありません。=Không có vật phẩm nào có thể nhận được.
+モンスター詳細=Chi Tiết Quái Vật
+開催期間が終了しました=Clan Battle này\ndã kết thúc.
+ボスを選択してトレーニングバトルに挑戦できます。=Chọn boss để thử thách trong luyện tập.
+一覧=Tất cả
+報酬確認=Phần Thưởng Đã Nhận
+以下のモンスターを倒して報酬を受け取りました。=Đã đánh bại quái vật và nhận phần thưởng.
+本戦使用制限=Bị Hạn Chế
+[FF7C4E,D62146]トレーニングバトルでは\n報酬は獲得できません。[-]=[FF7C4E,D62146]Không thể nhận phần thưởng\ntừ trận đấu tập luyện.[-]
+[FF7C4E,D62146]模擬戦では報酬は獲得できません。[-]=[FF7C4E,D62146]Không thể nhận phần thưởng\ntừ trận đấu tập luyện.[-]
+[FF7C4E,D62146]模擬戦設定になっています。[-]=[FF7C4E,D62146]Đã chuyển sang chế độ tập luyện.[-]
+※各報酬は撃破時に獲得できます。=※Phần thưởng có thể nhận được\nkhi đánh bại mục tiêu.
+クランメンバーのバトルと、マイログに保存したバトルのログが確認できます。=Bạn có thể xem lại các trận đấu của thành viên clan.
+ダメージ=Sát Thương
+[3C404E]このモンスターは他メンバーに先に倒されました。\n[FF7C4E,D62146]※挑戦回数は消費されません。[-][-]=[3C404E]Quái vật này đã bị các thành viên khác đánh bại.\n[FF7C4E,D62146]※ Lượt thử của bạn đã được hoàn lại.[-][-]
+バトル結果確認=Xác Nhận Kết Quả Trận Đấu
+このモンスターはすでに討伐されています。=Quái vật này đã bị đánh bại rồi.
+---討伐情報=Clear info---
+ピリオド=Thời Gian
+sr:"^(\d+月)(\d+)日(\d{2})時(\d)分$"=$2 $1, $3:0$4
+sr:"^(\d+月)(\d+)日(\d)時(\d{2})分$"=$2 $1, 0$3:$4
+sr:"^(\d+月)(\d+)日(\d)時(\d)分$"=$2 $1, 0$3:0$4
+sr:"^(\d+月)(\d+)日(\d{2})時(\d{2})分$"=$2 $1, $3:$4
+
+------
+日時=Ngày
+使用制限=Bị Hạn Chế
+未所持=Chưa\nSở Hữu
+模擬戦を開始=Bắt Đầu\nTập Luyện
+Lv制限=Giới Hạn Cấp
+[FF7C4E,D62146]バトルログがありません。[-]=[FF7C4E,D62146]Không có nhật ký trận đấu.[-]
+このままバトルを開始しますか？=Bạn có muốn bắt đầu trận đấu với cài đặt hiện tại không?
+模擬戦の結果はスコアランキングに影響しません。=Trận đấu tập luyện không ảnh hưởng đến bảng xếp hạng điểm số
+編成メンバーが5キャラ未満です。=Đội hình có ít hơn 5 nhân vật.
+
+本日のCP獲得上限に達しています。=Bạn đã đạt đến giới hạn nhận CP cho hôm nay.
+更新可能になるまでお待ちください。=Vui lòng chờ cho đến khi có thể cập nhật.
+r:"^1分30秒以内に\n(\d+)人が本戦を開始しました。$"=$1 người chơi bắt đầu trận đấu\nxung đột trong vòng 1 phút 30 giây qua.
+
+サポートキャラ確認=Xác Nhận Nhân Vật Thuê
+このキャラを借ります、よろしいですか？=Thuê nhân vật này?
+獲得スコア=Điểm Số
+受けたダメージ=Sát Thương Gây Ra
+サポートキャラの★変更=Thay Đổi ★ Của Nhân Vật Hỗ Trợ
+サポートキャラの★を変更しました。\nクランメンバーのサポートキャラのため\n変更した★はタイトルに戻るとリセットされます。=★ của nhân vật hỗ trợ đã được thay đổi.\n★ đã thay đổi sẽ được đặt lại khi quay về màn hình chính vì đây là nhân vật hỗ trợ của thành viên clan.
+このパーティを編成した時と★が異なるキャラがいます。\n以下は★の設定も含めて編成が保存されています。=Có nhân vật có ★ khác với khi đội hình này được tổ chức. Bên dưới, đội hình sẽ được lưu bao gồm cả cài đặt ★.
+★設定の保存について=Lưu Cài Đặt ★
+[FF7C4E,D62146]保存時と★設定が違うキャラがいます。[-]=[FF7C4E,D62146]Một số nhân vật có cài đặt ★ khác với khi chúng được lưu.[-]
+・マイパーティ\n・バトルアリーナ/プリンセスアリーナの防衛設定=・ Cài đặt Phòng Thủ Battle Arena/Princess Arena của đội của tôi
+挑戦回数を消費してクランバトルを開始しますか？=Sử dụng lượt thử của bạn để bắt đầu trận đấu?
+[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[FF7C4E,D62146]Số lượt thử sẽ\nđược tiêu hao khi bắt đầu.\nVui lòng chơi ở nơi có kết nối ổn định.[-]
+
+[FF7C4E,D62146]模擬戦のバトル結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Kết quả trận luyện tập không được tính vào kết quả clan battle.[-]
+
+開催期間終了まで=Kết thúc trong:
+
+メインクエストへ=Đến Nhiệm vụ Chính
+CPが300たまるごとに挑戦可能数がアップします。\nCPはメインクエストで獲得できます。=Tiêu hao thể lực để tích lũy CP,\nmỗi 300 CP nhận được 1 lần thử.
+残り挑戦可能数=Lần thử
+クエストへ=Đến Nhiệm vụ
+
+模擬戦リタイア=Thoát Luyện tập
+[3C404E]模擬戦をリタイアしますか？[-]=[3C404E]Bạn có muốn thoát khỏi trận luyện tập không?[-]
+
+[FDFFF8,CCFFEF]集計中[-]=[FDFFF8,CCFFEF]Đang tính tổng[-]
+[FFFDF7,FFE0E9]集計中[-]=[FFFDF7,FFE0E9]Đang tính tổng[-]
+集計中=Đang tính tổng
+[FF7C4E,D62146]現在ランキング集計中です。[-]=[FF7C4E,D62146]Đang trong quá trình tính toán[-]
+全キャラ総戦力=Tổng Sức Mạnh
+所属クランのランキング情報がありません。=Hiện chưa có thông tin xếp hạng
+いいねは1日1回のみ利用可能です。=Lượt thích chỉ có thể dùng 1 lần/ngày
+
+sr:"^(\d+月)クランバトル最終日！$"=Ngày cuối cùng của Clan Battle ($1)!
+クランバトル開催期間が終了します=Thời gian Clan Battle sẽ kết thúc
+r:"^本日([0-9/: ]+)に$"=Hôm nay $1 (JST)
+---Reward---
+sr:"^(\d+月) (\d+)周目 (.+)$"=[$1]Vòng $2: $3
+---Battle TL---
+バトル終了=Kết thúc trận
+クリップボードにコピー=Sao chép vào bảng tạm
+総ダメージ=Tổng sát thương
+ユニオンバースト発動時間=Thời điểm UB
+バトル時間=Thời gian Chiến đấu
+
+---OF window---
+[FF7C4E,D62146]持越し回数あり[-]=[FF7C4E,D62146]Còn lại[-]
+持越し確認=Còn lại
+使用可能な持越しバトルの情報を確認できます。=Có đội Left Over khả dụng.
+r:"^持越し(\d)回目$"=Đội LO $1
+持越し時間=Thời gian LO
+参加済キャラ=Nhân vật Đã dùng
+
+持越し使用確認=Xác nhận Dùng Left Over
+バトルに使用する持越し時間を選択します。=Chọn thời gian left-over để sử dụng.
+持越し時間を使用する=Dùng thời gian left over
+持越し時間を使用しない=Không dùng thời gian left over
+持越し時間を使用するとき、\n参加済キャラを編成する。=Dùng các nhân vật\ntừ đội left over
+サポートキャラのEX装備は変更できません。=EX trang bị nhân vật hỗ trợ không thể thay đổi.
+r:"^あと(\d+)回$"=Còn $1
+r:"^(\d)戦目\n本戦参加済$"=Đã dùng ở\nĐội $1
+
+クランバトル開始確認=Xác nhận Bắt đầu
+持越し時間を消費してクランバトルを開始しますか？=Dùng thời gian left over?
+使用制限対象キャラ=Nhân vật bị hạn chế
+使用制限対象詳細=Chi tiết
+[FF7C4E,D62146]バトルを開始した時点で上記のキャラに使用制限が\nかかり、次回本戦は編成不可となります。[-]=[FF7C4E,D62146]Một khi bắt đầu, các nhân vật trên\nsẽ bị hạn chế và không thể dùng.[-]
+[FF7C4E,D62146]同時に、現在所持している持越し時間が消費されます。[-]=[FF7C4E,D62146]Mọi thời gian left-over sẽ bị tiêu hao.[-]
+このバトルでは選択できません。=Không thể rút lui ở trận chính.
+---Party search---
+おすすめ編成=Đội\ngợi ý
+非表示キャラ=Loại trừ nhân vật
+おすすめ編成から選択したキャラを含むパーティを除外して表示します。=Loại trừ các đội có chứa nhân vật đã chọn.
+リプレイではオートの変更はできません。=Bạn không thể thay đổi chế độ tự động trong chế độ xem lại.
+所持キャラ=Nhân vật đã sở hữu
+非表示フィルタ=Bộ lọc loại trừ
+パーティ情報がまだありません。しばらくして再度ご確認ください。=Không có thông tin đội hình, vui lòng quay lại sau.
+[FF7C4E,D62146]表示されている編成は、すべてAUTO・SMART設定で挑戦した編成です。[-]=[FF7C4E,D62146]Tất cả các đội hình được hiển thị đều được chơi với cài đặt AUTO và SMART.[-]
+
+---recommended party---
+上級=Nâng cao
+中級=Trung bình
+初級=Sơ cấp
+予想ダメージ=Sát thương±
+討伐時間=Thời gian
+参考ダメージ=Sát thương±
+使用可能キャラ数=Nhân vật có thể dùng
+「使用」ボタンからおすすめのパーティ編成を選べます。フィルタで非表示にするキャラを設定できます。=Nhấn nút "Sử dụng" để chọn đội hình được đề xuất, và đặt bộ lọc để ẩn nhân vật.
+リプレイで確認できるバトルは\n該当編成を使用した場合の一例です。=Các trận đấu có thể xem lại trong phát lại là ví dụ về những trận đấu đã diễn ra với hàng ngũ tương ứng.
+
+
+r:"^\[3C404E\]このおすすめ編成は、\n持越し時間\[FFBB00,CE4F00\]([0-9:]+)\[-\]を使用して\nバトルした編成です。\[-\]$"=[3C404E]Đội hình được đề xuất này là\nhình thức trận đấu sử dụng\ntime dư [FFBB00,CE4F00]$1[-].[-]
+
+
+
+持越し時間について=Về Thời gian dư.
+
+使用=Sử dụng
+パーティ保存=Lưu Đội hình
+コピー=Sao chép
+閲覧=Xem
+選択中キャラ=Đã chọn
+表示更新=Cập nhật
+リプレイ確認=Xác nhận phát lại
+[FF7C4E,D62146]リプレイで確認できるバトルは\n該当編成を使用した場合の一例です。[-]=[FF7C4E,D62146]Các trận đấu trong phát lại là ví dụ về đội hình meta.[-].
+[FF7C4E,D62146]予想ダメージ値と異なる\nバトル結果になる場合があります。[-]=[FF7C4E,D62146]Kết quả trận đấu có thể khác\nvới giá trị sát thương dự kiến[-].
+クリアパーティ詳細=Chi tiết Đội hình
+結果を通報する=Báo cáo
+通報確認=Xác nhận Báo cáo
+[3C404E]このクリアパーティを運営事務局に通報します。\nよろしいですか?[-]=[3C404E]Bạn có chắc chắn muốn báo cáo đội hình chiến thắng này cho bộ phận hỗ trợ?
+---Copy Party---
+パーティコピー=Sao chép Đội hình
+このパーティをコピーして、\n自分のマイパーティに保存しますか？=Sao chép đội hình này và\nlưu vào danh sách đội hình của bạn?
+
+---ranking rewards---
+ダメージランキング報酬=Phần thưởng Bảng xếp hạng Sát thương
+討伐報酬に加え、本戦で獲得したスコアの\nクラン内ランキングに応じて以下の報酬が獲得できます。=Các phần thưởng sau sẽ được trao theo thứ hạng trong bang hội
+
+報酬は順位が確定し次第、プレゼントに送られます。=Phần thưởng sẽ được gửi khi thứ hạng được xác nhận cuối cùng
+
+すでに解散しているクランです。=Bang hội này đã giải thể
+位= 
+-位=-
+
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング\n(.+) 全段階合計\[-\]$"=[FF9393,E82F71]Xếp hạng trong Bang hội ($1)\nTổng điểm $2:
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング\n(.+) (\d)段階目\[-\]$"=[FF9393,E82F71]Xếp hạng trong Bang hội ($1)\nĐiểm Làn $3 $2:
+
+全段階合計[-]=Tổng điểm:
+r:"^ ([0-9,]+)段階目\[-\]$"=Điểm Làn $1:
+20001位以降=20,001 trở xuống
+
+総合順位報酬=Phần thưởng Xếp hạng Tổng thể
+ピリオド順位報酬=Phần thưởng Xếp hạng Theo đợt
+sr:"^(\d+月)のランキング結果$"=($1) Kết quả Xếp hạng
+
+ボスモンスター　レベル（難易度）アップ=Tăng Cấp độ Quái vật (Độ khó)
+
+[3C404E]ボスモンスターのレベル（難易度）がアップしました。\n現在のレベル（難易度）のボスモンスターとは\nいつでも模擬戦が行えるようになります。[-]=[3C404E]Cấp độ (độ khó) của quái vật boss đã tăng. Bạn có thể thực hiện trận đấu mô phỏng với quái vật boss ở cấp độ (độ khó) hiện tại bất cứ lúc nào.[-].
+[FF7C4E,D62146]トレーニングバトルの結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Kết quả trận đấu tập luyện không được tính vào kết quả chiến đấu bang hội.[-]
+[FF7C4E,D62146]時間持越しでのバトルのため、チャレンジ報酬は獲得できません。[-]=[FF7C4E,D62146]Không thể nhận phần thưởng thử thách do trận đấu dư thời gian.[-]
+---Boss---
+持越し時間：=Kết thúc dư thời gian:
+sr:"^(.+)　Lv.(\d+)$"=$1 cấp.$2
+1体目=Boss 1
+2体目=Boss 2
+3体目=Trùm 3
+4体目=Trùm 4
+5体目=Trùm 5
+
+
+与えたダメージ=Sát thương
+全段階合計=Tổng điểm tất cả cấp
+バトルTL=Thời gian trận đấu
+お気に入り=Yêu thích
+バトルTLをコピーしました。=Đã sao chép thời gian trận đấu.
+---lap---
+回目
+r:"^(?:現在)?(\d+)(?:周|回)目(～)?$"=Lượt $1$2
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング一覧\[-\]$"=[FF9393,E82F71]Xếp hạng trong clan ($1)[-]
+sr:"^(\d+月)全クランランキング$"=Xếp hạng toàn cầu ($1)
+[FF7C4E,D62146]ランキング情報がありません。[-]=[FF7C4E,D62146]Không có thông tin xếp hạng. [-]
+---My Log---
+マイログ=Nhật ký của tôi
+r:"^模擬戦ログ保存件数([0-9/ ]+)$"=Số lượng nhật ký trận đấu giả lập đã lưu: $1
+---Battle Log detail windows---
+「１件のみ表示」は、同一編成のうちダメージが最も高いログを表示します。="Chỉ hiển thị một" hiển thị nhật ký có sát thương cao nhất trong cùng một đội hình.
+１件のみ表示=Chỉ hiển thị một
+全て表示=Hiển thị tất cả
+「本戦」は、クランメンバー全員の本戦ログを表示します。="Trận đấu" hiển thị nhật ký trận đấu chính của tất cả thành viên clan.
+表示ログの種類=Loại nhật ký hiển thị
+同一編成の表示=Hiển thị cùng đội hình
+---Ranking Result---
+1月クランバトルの順位が確定しました！=Trận chiến clan Tháng 1
+2月クランバトルの順位が確定しました！=Trận chiến clan Tháng 2
+3月クランバトルの順位が確定しました！=Trận chiến clan Tháng 3
+4月クランバトルの順位が確定しました！=Trận chiến clan Tháng 4
+5月クランバトルの順位が確定しました！=Trận chiến clan Tháng 5
+6月クランバトルの順位が確定しました！=Trận chiến clan Tháng 6
+7月クランバトルの順位が確定しました！=Trận chiến clan Tháng 7
+8月クランバトルの順位が確定しました！=Trận chiến clan Tháng 8
+9月クランバトルの順位が確定しました！=Trận chiến clan Tháng 9
+10月クランバトルの順位が確定しました！=Trận chiến clan Tháng 10
+11月クランバトルの順位が確定しました！=Trận chiến clan Tháng 11
+12月クランバトルの順位が確定しました！=Trận chiến clan Tháng 12
+
+バトル設定：クランモード=Cài đặt trận đấu: Chế độ clan
+バトル設定：シングルモード=Cài đặt trận đấu: Chế độ solo
+sr:"^\(クラン内ランキング　(\d+位)\)$"=(Xếp hạng trong clan $1)
+
+[25CFDE,0E6C98]1月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 1[-]
+[25CFDE,0E6C98]2月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 2[-]
+[25CFDE,0E6C98]3月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 3[-]
+[25CFDE,0E6C98]4月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 4[-]
+[25CFDE,0E6C98]5月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 5[-]
+[25CFDE,0E6C98]6月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 6[-]
+[25CFDE,0E6C98]7月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 7[-]
+[25CFDE,0E6C98]8月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 8[-]
+[25CFDE,0E6C98]9月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 9[-]
+[25CFDE,0E6C98]10月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 10[-]
+[25CFDE,0E6C98]11月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 11[-]
+[25CFDE,0E6C98]12月クランバトル[-]=[25CFDE,0E6C98]Trận chiến clan Tháng 12[-]
+
+ランキング報酬=Phần thưởng xếp hạng
+ランキング発表！=Thông báo xếp hạng!
+※報酬はプレゼントに順次、送られます。=※Phần thưởng sẽ được gửi đến Hộp quà.
+---NPC---
+『クランモード』はクランメンバーとボスに挑戦し他クランとランキング\nを競います。『シングルモード』は個々にボスと戦い討伐数に応じた報酬\nを獲得できます。クランリーダー、サブリーダーがモード選択できます。=Trong Chế Độ Gia Tộc, tất cả thành viên cùng hợp tác đánh bại boss và cạnh tranh với các gia tộc khác. Trong Chế Độ Cá Nhân, mỗi thành viên chiến đấu riêng và nhận phần thưởng của mình. Lãnh đạo và phó lãnh đạo gia tộc có thể thay đổi thiết lập này.
+
+
+『クランモード』はクランメンバーとボスに挑みランキングを競います。『シングルモード』は個々に挑み、討伐数に応じた報酬を獲得できます。\nクエストや調査で勝利し、CPを貯めることでボスに挑戦できますよ。=Trong Chế Độ Gia Tộc, tất cả thành viên cùng đánh bại boss và cạnh tranh trong bảng xếp hạng gia tộc. Trong Chế Độ Cá Nhân, mỗi thành viên đánh bại boss riêng lẻ. Bạn có thể kiếm được Lượt Tham Gia Trận Gia Tộc bằng cách hoàn thành nhiệm vụ và kiếm CP.
+『クランモード』の主な報酬は、メンバー全員に贈られます。『シングルモード』では、個人の達成度に応じて個人ごとに贈られます。パーティ編成を試行錯誤しながら、強敵とのバトルに挑みましょう。=Trong Chế Độ Gia Tộc, phần thưởng chính sẽ được chia đều cho tất cả thành viên. Trong Chế Độ Cá Nhân, phần thưởng của mỗi thành viên phụ thuộc vào tiến độ của họ. Hãy cố gắng hết sức để tập hợp những đội ngũ mạnh mẽ đánh bại những kẻ địch hùng mạnh này.
+装備をクランのメンバー同士で贈りあいましょう。\n一部の装備は、装備リクエストできないのでご注意ください。=Hãy chắc chắn tặng trang bị cho các đồng đội trong gia tộc.\nLưu ý rằng một số trang bị không thể được yêu cầu.
+次回クランバトル開催までお待ちください。=Vui lòng chờ đến khi Trận Gia Tộc tiếp theo bắt đầu.
+こちらではクランバトルに\n 参加された仲間のみなさんの\n 活躍を振り返ることができます=Tại đây bạn có thể xem lại các hoạt động của bạn bè đã tham gia trận chiến gia tộc.
+主さま、今回のクランバトルでの\nご活躍が記録されています\nバトルの参考にいたしましょう=Chủ nhân, các hoạt động của ngài trong Trận Gia Tộc lần này đã được ghi lại. Chúng giờ đây có thể được nghiên cứu cho những cuộc đối đầu sau này.
+今回のクランバトルでの戦績を\nおさらいできますよ！\n私にも見せてください☆=Bạn có thể xem lại Bản Ghi Chiến Đấu của mình cho trận này!\nĐể em xem qua chút nhé☆~!
+模擬戦の戦績もアンタが\n気に入ったものがあれば\n記録しておけるのね=Có vẻ như bạn có thể lưu Bản Ghi Chiến Đấu của những lần tập luyện yêu thích.
+---Damage Log---
+---(?!.*My)^.*$---
+
+まだ誰も挑戦していません=Chưa có lần tham gia nào.
+r:"^([^\n\\\.\,。\?\!…♪─]{2,10})が$"="[00ff00AA]$1[-] hit"
+sr:"^([べ-ヺー＆＝・]+)に$"=[0055FFAA]$1[-] for
+r:"^\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Sát thương[-]
+r:"^\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]で撃破\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Sát thương[-][FF7C4E,D62146] (giết)[-]
+
+削除=Xóa
+トレーニングマイログ削除確認=Xác Nhận Xóa Nhật Ký Tập Luyện Của Tôi
+[FF7C4E,D62146]一度削除するとログ情報は元に戻りません。[-]=[FF7C4E,D62146] Một khi đã xóa, thông tin nhật ký sẽ mất.[-]
+このログを削除してもよろしいですか?=Xóa nhật ký này được chứ?
+
+クランに加入=Tham Gia Gia Tộc
+クランに所属すると、\nクランバトルに挑戦することができます。=Nếu bạn tham gia một gia tộc,\nbạn có thể tham gia Trận Gia Tộc.
+クランに所属すると、=Nếu bạn tham gia vào một Gia Tộc,
+クランバトルに挑戦することができます。=Bạn có thể tham gia Trận Gia Tộc.
+
+---が dialogue void---
+かわいそうだが=Thương cho cậu
+はっ、バカが=Hah, lũ ngu

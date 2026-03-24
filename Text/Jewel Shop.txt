@@ -1,0 +1,271 @@
+必ず（かならず）保護者（ほごしゃ）の許可（きょか）をもらってから購入（こうにゅう）してください。保護者（ほごしゃ）の許可（きょか）をもらいましたか？=Hãy chắc chắn xin phép người giám hộ trước khi mua.\nCậu đã xin phép người giám hộ chưa?
+未成年（みせいねん）の方（かた）へ=Dành cho người chưa thành niên
+
+今回のクランバトルの調子はどうかしら？戦績を見れば、次のバトルに活かせるかもしれないわ=Trận chiến clan vừa rồi thế nào? Nếu chúng ta xem xét kết quả, chúng ta có thể tận dụng chúng cho lợi thế trong trận chiến tiếp theo.
+保護者（ほごしゃ）の許可（きょか）について=Về sự cho phép của phụ huynh
+ジュエルを購入（こうにゅう）するときには保護者（ほごしゃ）の許可（きょか）をもらってください。=Khi mua Ngọc, vui lòng xin phép từ phụ huynh hoặc người giám hộ.
+コラボ商品販売のお知らせ=Thông báo về việc bán hàng hợp tác
+詳細はこちら=Nhấn vào đây để xem chi tiết
+ぐふ、ぐふふ…あ、妄想してるだけなのでお気になさらず…でゅふふふ…=Guh, guhuhu... À, mình chỉ đang mơ mộng thôi, nên đừng bận tâm đến mình... dyuhuhuhu...
+ハイターイ！　これからよろしく！私と一緒に歌って踊るさ～！=Haitai! Rất vui được gặp cậu! Hãy cùng nhau hát và nhảy~!
+
+
+
+ジュエルショップ=Cửa hàng Ngọc
+ジュエル・その他購入=Ngọc/Các mua hàng khác
+所持ジュエル確認=Kiểm tra Ngọc hiện có
+マナ購入=Đổi Mana
+所持マナ確認=Kiểm tra Mana hiện có
+収納BOX拡張=Mở rộng Kho chứa
+スタミナ回復=Hồi phục Thể lực
+価格=Giá
+商品=Vật phẩm
+商品内容の詳細=Chi tiết
+r:"^毎日更新 ジュエル ([0-9]+)個$"=Ngọc Hàng ngày $1
+r:"^([1-9])回限定 ジュエル ([0-9]+)個$"="Ngọc Giới hạn $2 (còn $1)"
+r:"^([2-9])回限定$"="Giới hạn!\nChỉ $1 lần"
+1回限定=Giới hạn!\nChỉ 1 lần
+
+収納BOX拡張=Mở rộng Kho chứa
+ギルドハウスの収納BOXを拡張します。=Mở rộng không gian kho chứa của Nhà guild.
+収納数=Giới hạn Kho chứa
+拡張する数=Mở rộng thêm
+消費ジュエル=Chi phí Ngọc
+
+スタミナ回復量=Hồi phục Thể lực
+スタミナ回復=Hồi phục Thể lực
+スタミナを回復します。よろしいですか？=Hồi phục Thể lực chứ?
+
+---Storage---
+収納数：=Kho:
+[3C404E]収納BOXの収納数を拡張しました。[-]=[3C404E]Dung lượng Kho đã được mở rộng.[-]
+収納BOX拡張結果=Kết quả mở rộng Kho
+
+---actual jewel shop---
+[FF7C4E,D62146]未購入の商品はありません。[-]=[FF7C4E,D62146]Không có gì có thể mua được.[-]
+スペシャルショップ=Cửa hàng Đặc biệt
+購入済み=Đã mua
+資金決済法に基づく表示=Luật Định khoản
+スフィアパック=Gói Growsphere
+コラボ記念 専用装備グロウスフィアパック=Gói UE Growsphere Sự kiện Hợp tác
+コラボ記念 専用装備１グロウスフィアパック=Gói UE 1 Growsphere Sự kiện Hợp tác
+コラボ記念 専用装備２グロウスフィアパック=Gói UE 2 Growsphere Sự kiện Hợp tác
+専用装備グロウスフィアパック=Gói UE Growsphere
+専用装備１グロウスフィアパック=Gói UE 1 Growsphere
+専用装備２グロウスフィアパック=Gói UE 2 Growsphere
+Anniversary グロウスフィアパック=Gói Growsphere Kỷ niệm
+Anniversary 専用装備グロウスフィアパック=Gói UE Growsphere Kỷ niệm
+パックについて=Giới thiệu về Gói
+Anniversaryパックについて=Giới thiệu về gói kỷ niệm
+探索挑戦回数 +3回=Hang động +3
+探索挑戦回数 +3回購入=Mua Hang động +3
+探索挑戦回数 +3回について=Giới thiệu về Lượt thử Hang động +3
+特定商取引法に基づく表示=Luật Giao dịch Thương mại
+デイリージュエルパック=Gói Ngọc Hàng ngày
+デイリージュエルパック購入=Mua Gói Ngọc Hàng ngày
+デイリージュエルパックについて=Giới thiệu về Gói Ngọc Hàng ngày
+デイリージュエルパック期間通知=Thông báo Thời hạn Gói Ngọc Hàng ngày
+7日間スタミナ応援パック=Gói Thể lực 7 Ngày
+7日間スタミナ応援パック購入=Mua Gói Thể lực 7 Ngày
+7日間スタミナ応援パックについて=Giới thiệu về Gói Thể lực 7 Ngày
+7日間スタミナ応援パッ期間通知=Thông báo Thời hạn Gói Thể lực 7 Ngày
+30日間スタミナ応援パック=Gói Thể lực 30 Ngày
+30日間スタミナ応援パック購入=Mua Gói Thể lực 30 Ngày
+30日間スタミナ応援パックについて=Giới thiệu về Gói Thể lực 30 Ngày
+30日間スタミナ応援パッ期間通知=Thông báo Thời hạn Gói Thể lực 30 Ngày
+pack
+7日間探索挑戦回数+3回=Gói Hang động +3 7 ngày
+7日間探索挑戦回数+3回購入=Mua Gói Hang động +3 7 ngày
+7日間探索挑戦回数+3回について=Giới thiệu về Gói Hang động +3 7 ngày
+7日間探索挑戦回数+3回期間通知=Thông báo Thời hạn Gói Hang động +3 7 ngày
+30日間探索挑戦回数+3回=Gói Hang động +3 30 ngày
+30日間探索挑戦回数+3回購入=Mua Gói Hang động +3 30 ngày
+30日間探索挑戦回数+3回について=Giới thiệu về Gói Hang động +3 30 ngày
+30日間探索挑戦回数+3回期間通知=Thông báo Thời hạn Gói Hang động +3 30 ngày
+購入Lv制限あり=Giới hạn Mua theo Cấp
+マンスリーテーマパック=Gói Chủ đề Hàng tháng
+スタミナパック=Gói Thể lực
+--- Anniv---
+r:"^([0-9.a-zA-Z ]*)プリンセスフェスSPキャラ交換ガチャセット$"=Bộ Gacha Trao đổi Nhân vật SP Princess Fes $1
+r:"^([0-9.a-zA-Z ]*)スペシャルキャラ交換ガチャセット$"=Bộ Gacha Trao đổi Nhân vật Đặc biệt $1
+r:"^([0-9.a-zA-Z ]*)専用装備１グロウスフィアパック$"=Gói UE-1 Growsphere $1
+r:"^([0-9.a-zA-Z ]*)キャンペーンパック$"=Gói Chiến dịch $1
+毎月更新 ロールマスタリーパック=Gói Làm chủ Vai trò Cập nhật Hàng tháng
+7th Anniversary プリンセスナイト強化パック=Gói Tăng Cường Kỵ Sĩ Công Chúc Lần Thứ 7
+プリンセスナイト強化パック=Gói Tăng Cường Kỵ Sĩ Công Chúc
+r:"^([0-9.a-zA-Z ]*)★6キャラ育成パック$"=$1 ★6 Gói Vật Liệu Nhân Vật
+r:"^([0-9.a-zA-Z ]*)ピュアメモリーピースパック$"=$1 Gói Mảnh Ký Ẩn Tinh Khiết
+毎月更新 アストライアリングパック=Gói Vòng Tay Astraea Cập Nhật Hàng Tháng
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 服・鎧$"=$1 Gói Trang Bị EX★4: Quần Áo & Giáp
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 白ローブ・黒ローブ$"=$1 Gói Trang Bị EX★4: Áo Choàng Trắng & Áo Choàng Đen
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 両手剣・斧$"=$1 Gói Trang Bị EX★4: Đại Đao & Rìu
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック アクセサリー$"=$1 Gói Trang Bị EX★4: Phụ Kiện
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 短剣・拳$"=$1 Gói Trang Bị EX★4: Dao Găm & Quyền
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 弓・本$"=$1 Gói Trang Bị EX★4: Cung & Sách
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 盾・杖$"=$1 Gói Trang Bị EX★4: Khiên & Gậy
+r:"^([0-9.a-zA-Z ]*)EX★4装備パック 片手剣・槍$"=$1 Gói Trang Bị EX★4: Kiếm & Thương
+r:"^([0-9.a-zA-Z ]*)属性強化パック$"=$1 Gói Tăng Cường Nguyên Tố
+2024 年末年始 属性強化パック=Gói Tăng Cường Thuộc Tính Tân Năm 2024
+
+r:"^([0-9.a-zA-Z ]*)プリンセスナイト強化パック$"=$1 Gói cường hóa Princess Knight
+
+
+装備ショップ=Cửa Hàng Trang Bị
+EX★4装備パック=Gói Trang Bị EX★4
+r:"^([0-9.]+)周年 プリンセスナイト強化パック$"=Gói Tăng Cường Kỵ Sĩ Công Chúc Lần Thứ $1
+r:"^([0-9.]+)周年 SPキャラ交換ガチャセット$"=Bộ Gacha Đổi Nhân Vật SP Lần Thứ $1
+r:"^([0-9.]+)周年 ★6キャラ育成パック$"=Gói Nuôi Dưỡng Nhân Vật ★6 Lần Thứ $1
+r:"^([0-9.]+)周年 専用装備１グロウスフィアパック$"=Gói Cầu Tăng Trưởng Trang Bị Độc Nhất Lần Thứ $1
+r:"^([0-9.]+)周年 ピュアメモリーピースパック$"=Gói Mảnh Ký Ẩn Tinh Khiết Lần Thứ $1
+r:"^([0-9.]+)周年 属性強化パック$"=Gói Tăng Cường Nguyên Tố Lần Thứ $1
+sr:"^([0-9.]+)周年 EX★4装備パック\((片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)・(片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)\)$"=Gói Trang Bị EX★4 Lần Thứ $1 ($2 và $3)
+
+(片手剣|槍|弓|本|両手剣|斧|盾|杖|短剣|拳)
+
+GW スペシャルキャラ交換ガチャセット=Bộ Gacha Đổi Nhân Vật Đặc Biệt GW
+2025 GW ビギナー&カムバック強化パック=Gói Tăng Cường Người Mới & Quay Lại GW 2025
+GW 錬成スフィアパック=Gói Cầu Tinh Chế GW
+GW 専用装備１グロウスフィアパック=Gói Cầu Tăng Trưởng Trang Bị Độc Nhất GW
+GW EX★4装備パック (服・鎧)=Gói Trang Bị EX★4 GW (Quần Áo & Giáp)
+GW EX★4装備パック (白ローブ・黒ローブ)=Gói Trang Bị EX★4 GW (Áo Choàng Trắng & Áo Choàng Đen)
+GW EX★4装備パック (アクセサリー)=Gói Trang Bị EX★4 GW (Phụ Kiện)
+GW EX★4装備パック (片手剣・槍)=Gói Trang Bị EX★4 GW (Kiếm Một Tay & Thương)
+GW EX★4装備パック (弓・本)=Gói Trang Bị EX★4 GW (Cung & Sách)
+GW EX★4装備パック (短剣・拳)=Gói Trang Bị EX★4 GW (Dao Găm & Quyền)
+GW EX★4装備パック (盾・杖)=Gói Trang Bị EX★4 GW (Khiên & Gậy)
+GW EX★4装備パック (両手剣・斧)=Gói Trang Bị EX★4 GW (Kiếm Hai Tay & Rìu)
+
+
+
+
+
+sr:"^\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](.+)\[-\]\[3C404E\]を\n１セット購入しますか？\[-\]$"=[3C404E]Bạn có muốn mua 1 bộ\n[FFBB00,CE4F00]$2[-] với giá [FFBB00,CE4F00]$1 điểm[-] không?[-]
+
+r:"^探索挑戦回数+(\d+)回の期間が追加となります。\n(\d+)日間スタミナ応援パックを購入しますか？?$"=Lượt vào Grotto +$1 cho khoảng thời gian đã chọn.\nBạn có muốn mua\nGói Hỗ Trợ Thể Lực $2 Ngày không?
+
+sr:"^(?:\[3C404E\])?探索挑戦回数\+(\d+)回の期間が追加となります。\n\[-\]\[FFBB00,CE4F00\]([0-9,]+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](.+)\[-\]\[3C404E\]を購入しますか？(?:\[-\])?$"=[3C404E]Lượt vào Grotto +$1 cho khoảng thời gian đã chọn.\nBạn có muốn mua\n[FFBB00,CE4F00]$3[-] với giá [FFBB00,CE4F00]$2 điểm[-] không?[-]
+
+r:"^\[3C404E\]探索挑戦回数\+(\d+)回の期間が追加となります。\n\[-\]\[FFBB00,CE4F00\](\d+)pt\[-\]\[3C404E\]で\[-\]\[FFBB00,CE4F00\](\d+)日間スタミナ応援パック\[-\]\[3C404E\]を購入しますか？\[-\]$"=[3C404E]Lượt vào Grotto +$1 cho khoảng thời gian đã chọn.\nBạn có muốn mua Gói Hỗ Trợ Thể Lực\n$3 Ngày với giá [FFBB00,CE4F00]$2 điểm[-] không?[-]
+
+[3C404E]探索挑戦回数+3回の期間が追加となります。\n[-][FFBB00,CE4F00]480pt[-][3C404E]で[-][FFBB00,CE4F00]7日間探索挑戦回数+3回[-][3C404E]を購入しますか？[-]
+r:"^(\[3C404E\]\[FFBB00,CE4F00\])(\d+)日(\[-\]\[-\])$"=$1$2 Ngày $3
+
+残り有効期間=Thời Hạn
+
+
+sr:"^(\d+)年(\d+月)(\d+)日まで$"=Đến $2 $3, $1
+r:"^ジュエル ([0-9,]+)個$"=$1 Viên Ngọc
+
+毎月更新 ジュエル 7500個=7,500 viên ngọc (Gói hàng tháng)
+3回限定 ジュエル 7500個=7,500 Viên Ngọc (Gói mua 3 lần)
+
+r:"^アイテム装備パック([Ⅰ-Ⅻ])?（(\d+)周年）が購入可能になりました！$"=Gói Trang Bị $1 (Lần thứ $2)\nđã có sẵn!
+アイテム装備パックについて=Về Các Gói Trang Bị Vật Phẩm
+sr:"^(.+)が購入可能になりました！$"=$1 đã có sẵn!
+
+sr:"^アイテム装備パック([Ⅰ-Ⅻ])?(（再販）)?$"=Gói Trang Bị $1 $2
+r:"^アイテム装備パック(.+)?（([\d]+)周年）$"="Gói Trang Bị $1 (Kỷ niệm $2 năm)"
+ショップへ=Đến cửa hàng
+
+r:"^販売期間([0-9: /]+)まで$"=Thời gian bán đến $1
+
+ジュエル購入=Mua Gems
+[3C404E]DMMポイントが不足しています。\nチャージしますか？[-]=[3C404E]Điểm DMM không đủ, bạn có muốn nạp thêm không?[-].
+
+r:"^あと(\d+)日有効$"=Còn $1 ngày
+r:"^あと(\d+)時間有効$"=Còn $1 giờ
+
+r:"^探索挑戦回数\+(\d+)回の期間が\n追加されました。$"=Số lượt thử Hang Động +$1\nđã được thêm vào trong thời gian giới hạn.
+購入成功=Mua thành công
+---Age registration---
+入力する=nhập
+年齢確認=Xác nhận tuổi
+16歳未満=dưới 16 tuổi
+1か月=mỗi tháng
+16歳～19歳=16-19 tuổi
+20歳以上=20 tuổi trở lên
+制限なし=Không giới hạn
+5,000ptまで=Tối đa 5,000 PT
+10,000ptまで=Tối đa 10,000 PT
+生年月は後から変更することはできません。=Bạn không thể thay đổi ngày sinh sau này.
+年齢は誕生月の翌月1日に1歳加算されます。\n未成年の方は購入に法定代理人（両親等）の同意が必要です。=Một năm sẽ được cộng thêm vào tuổi vào ngày đầu tiên\ncủa tháng sau tháng sinh.\nNgười chưa thành niên cần sự đồng ý của người đại diện hợp pháp để mua hàng.
+r:"^（記入例）(\d+)$"=(Ví dụ điền) $1
+
+あなたは20歳以上です。\n1か月の購入上限はありません。=Bạn trên 20 tuổi.\nKhông có giới hạn mua hàng hàng tháng.
+sr:"^(\d{4})年(\d+月)$"=$2 $1
+あなたは16歳未満です。\n1か月の購入上限は5,000ptまでです。=Bạn dưới 16 tuổi.\nGiới hạn mua hàng hàng tháng là tối đa 5,000 PT.
+あなたは16歳～19歳です。\n1か月の購入上限は10,000ptまでです。=Bạn từ 16-19 tuổi.\nGiới hạn mua hàng hàng tháng là tối đa 10,000 PT.
+
+よろしければ、左のチェックボックスをONにして\nOKボタンをタップしてください。=Nhấp vào hộp kiểm bên trái và nhấn nút OK để xác nhận.
+あなたの生年月を以下で登録します。=Đăng ký ngày sinh của bạn bên dưới.
+
+あなたの生年月を登録しました。=Ngày sinh của bạn đã được đăng ký.
+登録完了=Hoàn tất đăng ký
+---View Jewel---
+無償ジュエル=Gems miễn phí
+有償ジュエル=Gems trả phí
+合計ジュエル=Tổng Gems
+無償ジュエルから先に消費され、=Gems miễn phí sẽ được sử dụng trước.
+詳細表示=Xem chi tiết
+購入商品の区分・所持数=Danh sách đã mua
+有償ジュエル内訳詳細=Chi tiết phân tích Gems trả phí
+有償ジュエルを所持していません。=Bạn không có Gems trả phí.
+---View Mana---
+合計マナ=Tổng Mana
+現在のストックマナ=Mana tồn kho
+無償マナ=Mana miễn phí
+有償マナ=Mana trả phí
+無償マナから先に消費され、=Mana miễn phí sẽ được sử dụng trước.
+有償マナ内訳詳細=Chi tiết phân tích Mana trả phí
+有償マナを所持していません。=Bạn không có Mana trả phí.
+[FF7C4E,D62146]有償マナは購入順に消費されます。[-]=[FFF7C4E,D621466] Mana trả phí sẽ được tiêu thụ theo thứ tự mua hàng. [-]
+
+---NPC---
+ジュエルはよく考えて\n使うことね\n無駄遣い厳禁！=Hãy suy nghĩ kỹ\nkhi chi tiêu Gems.\nĐừng lãng phí chúng!
+ジュエルを食べ物…\nいえ、貴重品と交換できます！=Ở đây bạn có thể đổi Gems lấy đồ quý giá!
+主さまのジュエルで\n貴重な品々を購入できます\nですが、無駄遣いは\n『めっ』でございますよ=Ngài ơi, ở đây ngài có thể mua các vật phẩm quý giá bằng Gems của mình. Tuy nhiên, xin hãy chắc chắn không lãng phí chúng.
+ジュエルがあれば\n貴重品と交換できるみたい\n大事に使いましょうね=Có vẻ như ở đây bạn có thể đổi Gems lấy vật phẩm quý giá. Hãy sử dụng chúng một cách khôn ngoan.
+マナ購入で、「マナ」と「スキップチケット」が手に入ります。\nさらにオマケで「メモリーピース」「女神の秘石」「探索挑戦回数増加」\nが手に入るかもしれませんよ。=Mua Mana sẽ cho bạn cả Mana và Vé Bỏ Qua.\nBạn cũng có thể nhận được phần thưởng như Mảnh Ký Ức,\nPhù Thần và thêm lượt thử Hang Động.
+
+決済手続=Thủ tục thanh toán
+r:"^(?:\[3C404E\])?\[3C404E\]DMMポイントを消費して、\n購入手続きを完了しますか？\n所持DMMポイント:(\d+)\n\[-\]\[FFBB00,CE4F00\]ここで購入したジュエルやマナは\nDMM版でご利用いただけます。\[-\](?:\[-\])?$"=[3C404E]Bạn có muốn sử dụng điểm DMM để hoàn tất giao dịch không?\nHiện tại bạn có $1 điểm DMM.\n[FFBB00,CE4F00]Ngọc và Mana mua ở đây\nchỉ có thể dùng được trên phiên bản DMM[-].[-]
+
+sr:"^\[3C404E\](.+)の\n期間があと\[-\]\[FF7C4E,D62146\](\d+)日\[-\]\[3C404E\]で終了します。\n購入ページへ移動しますか\?\[-\]$"=[3C404E]Thời hạn của $1\nsẽ kết thúc trong [-][FF7C4E,D62146]$2 ngày[-].\nBạn có muốn chuyển đến Trang mua hàng không?[-]
+
+
+購入ページへ=Đến Trang mua hàng
+
+r:"^プレイヤーLv(\d+)まで購入可能$"=Chỉ dưới Cấp $1!
+r:"^([0-9/]+) に追加購入可能$"=Có sẵn vào $1
+
+デイリージュエルパック終了通知=Thông báo kết thúc Gói Ngọc Hàng ngày
+デイリージュエルパックの\n期間が終了しました。\n購入ページへ移動しますか?=Thời hạn Gói Ngọc Hàng ngày đã kết thúc. Bạn có muốn chuyển đến trang mua hàng không?
+
+スペシャル交換チケット期限通知=Thông báo hạn chót phiếu đổi đặc biệt
+
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)日と(\d+)時間(\d+)分\)$"=Thời gian đổi sẽ kết thúc vào $2/$1 lúc $3:$4.\n(Còn $5 ngày $6 giờ $7 phút)
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)時間(\d+)分\)$"=Thời gian đổi sẽ kết thúc vào $2/$1 lúc $3:$4.\n(Còn $5 giờ $6 phút)
+r:"^交換期間が(\d+)月(\d+)日 (\d+)時(\d+)分に終了します。\n\(残り(\d+)分\)$"=Thời gian đổi sẽ kết thúc vào $2/$1 lúc $3:$4.\n(Còn $5 phút)
+
+
+sr:"^(.{2,20})未受け取り分の(.{2,6})$"=$1: Chưa nhận $2
+
+
+交換ページへ移動しますか？=Bạn có muốn chuyển đến trang đổi không?
+
+
+
+新春記念=Kỷ niệm năm mới
+2026 新春記念=Kỷ niệm năm mới 2026
+r:"^(\d+) 新春記念$"=$1 Kỷ niệm năm mới
+sr:"^(.+?) お得なジュエル(\d+)個$"=Gói $1 $2 Ngọc
+sr:"^(.+?) 専用装備１グロウスフィアパック$"=$1 Cầu 1 Trang bị Độc nhất
+毎日1回限定 スタミナパック=Gói Thể Lực Giới hạn Mỗi ngày
+sr:"^(.+?) 属性強化パック$"=$1 Gói Tăng cường Nguyên tố
+sr:"^(.+?) キャラ育成パック$"=$1 Gói Tăng cường Nhân vật
+sr:"^(.+?) ピュアメモリーピースパック$"=$1 Gói Mảnh Ký ức Tinh khiết
+
+sr:"^(.+?) ピュアメモリーピース交換チケット$"=$1 Phiếu đổi Mảnh Ký ức Tinh khiết
+sr:"^(.+?) メモリーピース交換チケット$"=$1 Phiếu đổi Mảnh Ký ức
+スペシャル交換チケット（限定+）=Phiếu đổi Đặc biệt (Hạn chế+)
+10回ガチャチケット=Vé Gacha 10 Lượt

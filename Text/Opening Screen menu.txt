@@ -1,0 +1,38 @@
+---Menu---
+キャンセル=Hủy
+一括ダウンロード=Tải tất cả
+お問い合わせ=Liên hệ với chúng tôi
+データ修復=Sửa chữa dữ liệu
+データ\n連携=Liên kết\ndữ liệu
+メニュー=Trình đơn
+ゲーム起動中=Bắt đầu trò chơi
+データダウンロード=Tải dữ liệu
+ＳＤカード保存設定=Cài đặt lưu trữ SDCard
+情報の外部送信について=Về việc truyền thông tin ra bên ngoài
+
+
+---Data Link---
+既にプリンセスコネクト！Re:Diveをプレイしている場合は「データ連携」を選択してください。\n以前のゲームデータと連携してプレイすることが出来ます。=Vui lòng chọn "Liên kết dữ liệu" nếu bạn đang chơi Princess Connect! Re: Dive.\nViệc này sẽ cho phép bạn liên kết dữ liệu trò chơi hiện có.
+連携方法を選択してください。=Vui lòng chọn phương thức liên kết.
+連携方法を選ぶ=Chọn phương thức liên kết
+パスワードを使う=Sử dụng mật khẩu
+[3C404E]連携パスワードを入力して連携する[-]=[3C404E]Liên kết bằng Mật khẩu liên kết[-]
+[3C404E]連携パスワードを設定する[-]=[3C404E]Đặt mật khẩu liên kết[-]
+プレイヤーIDと連携パスワードを入力してください。=Vui lòng nhập Player ID và mật khẩu liên kết.
+プレイヤーID=Player ID
+連携パスワード=Mật khẩu liên kết
+
+---Data Repair---
+[3C404E]データ修復を行うと動作が軽くなることがあります。\nプレイ中のゲームデータは削除されません。\n\nデータ修復を行う際\nタイトルに戻り、再度データをダウンロードします。\nタイトルに戻るまでに時間がかかる場合がございます。\nアプリを強制終了させないように、ご注意ください。\nまた、通信状況により、データダウンロードに\n時間がかかる場合があります。\n\nデータ修復を行いますか？[-]=[3C404E]Sửa chữa dữ liệu có thể làm cho hoạt động nhẹ nhàng hơn.\nDữ liệu trò chơi đang chơi sẽ không bị xóa.\nKhi sửa chữa dữ liệu, trò chơi sẽ quay về màn hình tiêu đề và tải dữ liệu lại.\nVui lòng cẩn thận không đóng ứng dụng.\nCó thể mất một thời gian để quay về màn hình tiêu đề.\nNgoài ra, tải dữ liệu có thể mất thời gian tùy thuộc vào trạng thái kết nối.\n\nBạn có muốn sửa chữa dữ liệu?[-]
+---inquiry form---
+お問い合わせフォームを開きます。よろしいですか？=Mở biểu mẫu yêu cầu. Có ổn không?
+問い合わせる=Yêu cầu
+アプリバージョン=Phiên bản ứng dụng
+ご利用機種名=Thông tin thiết bị
+フォームに引き継ぐ項目=Các mục sẽ được chuyển sang biểu mẫu
+※チェックされた情報は、アプリからお問い合わせフォームに\n引き継がれ、お客様のご利用状況を確認するために使用します。\n情報がない場合、確認や調査ができないことがございます。=※Các thông tin được chọn sẽ được chuyển từ ứng dụng sang biểu mẫu yêu cầu và được sử dụng để kiểm tra tình trạng sử dụng của khách hàng.\nNếu không có thông tin này, chúng tôi có thể không thể xác nhận hoặc điều tra bất kỳ vấn đề nào.
+ご利用機種の\nOSバージョン=Thiết bị của bạn\nPhiên bản hệ điều hành
+---Download All---
+r:"^\[3C404E\]すべてのデータのダウンロードを行います。\n通信環境の良いところでの\nダウンロードを推奨いたします。\nダウンロードを開始してよろしいですか？\n\(([0-9.]+) ([MG])B\)\[-\]$"=[3C404E]Tải tất cả dữ liệu.\nChúng tôi khuyên bạn nên tải với kết nối tốt.\nBạn có chắc chắn muốn bắt đầu tải xuống?\n($1 $2B)[-]
+
+[3C404E]ダウンロードが完了しました。\n再起動します。[-]=[3C404E]Tải xuống hoàn thành.\nĐang khởi động lại.[-]

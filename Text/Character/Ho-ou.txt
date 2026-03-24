@@ -1,0 +1,24 @@
+篠田みなみ=Shinoda Minami
+偉大にして優雅、時々ぴよぴよ=Great and graceful, sometimes piyopiyo
+##Profile##
+【物理】中衛で、華麗に舞い踊る五色絢爛な煉華の鳳凰。攻撃力バフやバリア展開などの攻防支援と、多彩で豊富なＨＰ・ＴＰ供給を両立し、浄化の力で皆に安寧を授ける。=[Vật lý] Một phượng hoàng rực rỡ tinh tế ở tuyến giữa, nhảy múa duyên dáng trong năm màu rực rỡ. Cô cân bằng giữa hỗ trợ tấn công và phòng thủ với tăng tấn công và triển khai rào cản, cùng với việc cung cấp HP và TP đa dạng và phong phú, ban cho bình yên cho tất cả với sức mạnh thanh tẩy của mình.
+
+##UB##
+五色絢爛の浄炎=Prismatic Inferno of Purification
+物理攻撃を行う味方の物防、魔防中\nアップ、物魔吸収バリア展開、物\n理・魔法ダメージカット付与、物攻\n大アップ、物理クリダメ小アップ。\n目の前の敵１キャラに物理中ダメー\nジを与える。物攻の上昇量とダメー\nジ倍率は、自分を除く味方の残りＨ\nＰに応じて最大５倍までアップ。=Tăng P.DEF và M.DEF, trao giảm sát thương P/M.DMG, triển khai rào cản hấp thụ P/M.DMG, tăng mạnh P.ATK và tăng nhẹ P.Crit DMG cho đồng minh sử dụng tấn công vật lý. Gây sát thương vật lý (P.DMG) trung bình lên kẻ địch phía trước nhất. Mức tăng P.ATK và sát thương tỷ lệ lên tối đa 5x dựa trên HP còn lại của đồng minh (trừ bản thân).
+r:"^対象の味方の物理・魔法防御力を(\d+)アップ(\d+)ダメージ分の物魔吸収バリアを展開する対象の味方が受ける物理・魔法ダメージを(\d+％)カット対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリダメを(\d+％)アップ敵単体に(\d+)の物理ダメージ$"=►Tăng P/M.DEF cho đồng minh sử dụng tấn công vật lý $1.\n►Triển khai Rào cản hấp thụ $2 P/M.DMG.\n►Trao giảm sát thương P/M.DMG $3 cho những đồng minh đó.\n►Tăng P.ATK của họ $4.\n►Tăng P.Crit DMG của họ $5.\n►Gây $6 P.DMG lên kẻ địch phía trước nhất.\n►Mức tăng P.ATK và sát thương tỷ lệ lên tối đa 5x dựa trên HP còn lại của đồng minh (trừ bản thân).
+
+##S1##
+リカバリーオブフェニクス=Phoenix's Recovery
+物理攻撃を行うすべての味方キャラ\nの物理攻撃力を中アップ、ＨＰ吸収\nを小アップさせる。自分を中心とし\nた範囲内の味方すべてのＨＰを小回\n復するフィールドを展開する。さら\nに、火属性の味方すべてのＨＰを小\n回復させ、継続ＨＰ回復状態を付与\nする。物理攻撃力の上昇量は、自分\nを除く味方の残りＨＰに応じて最大\n５倍までアップする。=Tăng P.ATK và HP Steal (đánh cắp HP) cho đồng minh sử dụng tấn công vật lý. Triển khai một vùng trường xung quanh bản thân hồi HP cho đồng minh gần đó. Cũng hồi HP và trao HP Regen (hồi HP liên tục) cho tất cả đồng minh Hỏa. Mức tăng P.ATK tỷ lệ lên tối đa 5x dựa trên HP còn lại của đồng minh khác (trừ bản thân).
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＨＰ吸収を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する火属性の味方のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Tăng P.ATK cho đồng minh sử dụng tấn công vật lý $1.\n►Tăng HP Steal của họ $2.\n►Triển khai vùng trường hồi $3 HP/giây cho đồng minh trong phạm vi.\n►Hồi HP cho đồng minh Hỏa $4.\n►Trao HP Regen cho đồng minh Hỏa $5 HP/giây.\n►Mức tăng P.ATK tỷ lệ lên tối đa 5x dựa trên HP còn lại của đồng minh (trừ bản thân).
+
+
+##S2##
+鳳凰の庭炎=Phoenix's Garden Flame
+物理攻撃を行うすべての味方キャラ\nの物理攻撃力を中アップ、ＴＰ上昇\nを小アップさせる。自分を中心とし\nた範囲内の味方すべてのＴＰを小回\n復するフィールドを展開する。さら\nに、火属性の味方すべてのＴＰを小\n回復させ、継続ＴＰ回復状態を付与\nする。物理攻撃力の上昇量は、自分\nを除く味方の残りＨＰに応じて最大\n５倍までアップする。=Tăng P.ATK và TP Boost (tăng TP) cho đồng minh sử dụng tấn công vật lý. Triển khai một vùng trường xung quanh bản thân hồi TP cho đồng minh gần đó. Cũng hồi TP và trao TP Regen (hồi TP liên tục) cho tất cả đồng minh Hỏa. Mức tăng P.ATK tỷ lệ lên tối đa 5x dựa trên HP còn lại của đồng minh khác.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰ上昇を(\d+)アップ毎秒ＴＰを(\d+)回復するフィールドを展開する火属性の味方のＴＰを(\d+)回復毎秒ＴＰを(\d+)回復する$"=►Tăng P.ATK cho đồng minh sử dụng tấn công vật lý $1.\n►Tăng TP Boost của họ $2.\n►Triển khai vùng trường hồi $3 TP/giây cho đồng minh gần đó.\n►Hồi $4 TP cho đồng minh Hỏa.\n►Trao TP Regen $5 TP/giây cho đồng minh Hỏa.\n►Mức tăng P.ATK tỷ lệ lên tối đa 5x dựa trên HP còn lại của đồng minh (trừ bản thân).
+
+##EX##
+讃える権利をあげましょう=You May Praise Me
+讃える権利をあげましょう+=You May Praise Me+

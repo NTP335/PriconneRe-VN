@@ -1,0 +1,40 @@
+r:"^紅焔の深域(.{0,5})$"=Vùng lửa đỏ $1
+r:"^翠嵐の深域(.{0,5})$"=Vực Sâu Bão Ngọc $1
+r:"^紫冥の深域(.{0,5})$"=Vực Sâu Tím U Ám $1
+r:"^蒼波の深域(.{0,5})$"=Vực Sâu Làn Sóng Xanh $1
+r:"^珀天の深域(.{0,5})$"=Vực Sâu Bầu Trời Hổ Phách $1
+
+深域クエストパック効果適用中=Hiệu quả của Gói Nhiệm Vụ Vùng Sâu hiện đang được kích hoạt.
+
+Deep Questへ=Đến Nhiệm Vụ Vùng Sâu
+深域クエストへ=Đến Nhiệm Vụ Vùng Sâu
+Talent Questへ=Đến Nhiệm Vụ Vùng Sâu
+闇属性=Hắc
+光属性=Bạch
+風属性=Phong
+水属性=Thủy
+火属性=Hỏa
+sr:"^(.+)をクリアで解放されます。$"=Hoàn thành $1 để mở khóa.
+
+カスタム設定=Cài đặt tùy chỉnh
+属性ボーナスがOFFに設定されています。=Lưỡng cư nguyên tố đang được tắt.
+属性ボーナス=Lưỡng Cư Nguyên Tố
+属性弱点=Điểm Yếu Nguyên Tố
+
+火属性キャラ=Toàn Nhân Vật Hỏa
+水属性キャラ=Toàn Nhân Vật Thủy
+風属性キャラ=Toàn Nhân Vật Phong
+光属性キャラ=Toàn Nhân Vật Bạch
+闇属性キャラ=Toàn Nhân Vật Hắc
+
+
+All [FF7C4E]Fire[-] Character
+All [DAA520]Water[-] Character
+All [006400]Wind[-] Character
+All [cc9900]Light[-] Character
+All [800080]Dark[-] Character
+
+
+チェック引継ぎ確認=Kiểm Tra Xác Nhận Giao Nhận
+
+新しい深域クエストがクリアされたため、\n最新のクリア済みクエストをチェックしました。=Đã kiểm tra các nhiệm vụ hoàn thành gần đây vì một nhiệm vụ vùng sâu mới đã được hoàn thành.

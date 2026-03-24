@@ -1,0 +1,32 @@
+##Profile##
+【魔法】後衛で、心地良い眠りの中に訪れる聖夜の悪魔。最も魔法攻撃力が高い味方に【悪魔の口づけ】を付与し、攻撃支援とＴＰ回復による付きっきりの手ほどきをする。=[Phép] Một ác quỷ trong Đêm Thánh sẽ dụ bạn vào giấc mơ thoải mái. Cô ấy ban cho đồng minh có Tấn công Phép cao nhất trạng thái [Nụ hôn Ác quỷ], và tăng buff tấn công, tăng TP, phục vụ bên cạnh họ.
+
+##UB##
+ラブリーデビルダイブ=Cú Nhảy Quỷ Dịu Dàng
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を中ダウンさせる。さらに、自分を中心とした範囲内の味方すべてのＨＰを中回復させ、物理/魔法吸収バリアを展開し、魔法防御力を大アップさせる。=Gây sát thương phép khổng lồ cho kẻ địch phía trước và giảm trung bình Phòng thủ Phép của chúng. Đồng thời, hồi trung bình máu cho đồng minh trong phạm vi, tạo khiên bảo vệ hấp thụ sát thương Vật lý/Phép, và tăng Phòng thủ Phép của họ.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン範囲内の味方のＨＰを(\d+)回復(\d+)ダメージ分の物理魔法吸収バリアを展開する範囲内の味方の魔法防御力を(\d+)アップ$"=►Gây $1 sát thương phép cho một kẻ địch.\n►Giảm Phòng thủ Phép của một kẻ địch $2 trong 18s.\n►Hồi máu cho đồng minh trong phạm vi 250 $3.\n►Triển khai khiên bảo vệ cho đồng minh trong phạm vi 250 hấp thụ $4 sát thương Vật lý/Phép trong 18s.\n►Tăng Phòng thủ Phép của đồng minh trong phạm vi 250 $5.
+
+##S1##
+スウィートハートプレゼント=Quà Tặng Người Yêu
+目の前の敵１キャラの魔法防御力を小ダウン、魔法攻撃力を大ダウンさせる。さらに【悪魔の口づけ】が付与されている味方の魔法攻撃力を特大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、そのキャラを中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。=Giảm nhẹ Phòng thủ Phép và giảm mạnh Tấn công Phép của 1 kẻ địch phía trước. Ngoài ra, tăng mạnh Tấn công Phép, tăng nhẹ Sát thương Chí mạng Phép và hồi một chút TP cho đồng minh mang trạng thái [Nụ hôn Ác quỷ], trong khi tăng mạnh Tấn công Phép và tăng nhẹ Sát thương Chí mạng Phép cho toàn bộ đồng minh trong vùng tròn xung quanh nhân vật đó.
+r:"^敵単体の魔法防御力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法攻撃クリティカル時のダメージを8％アップ範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法攻撃クリティカル時のダメージを4％アップ$"=►Giảm Phòng thủ Phép của một kẻ địch $1 trong 12s.\n►Tăng Tấn công Phép của đồng minh $2 trong 12s.\n►Tăng Sát thương Chí mạng Phép của đồng minh 8% trong 12s.\n►Tăng Tấn công Phép của đồng minh trong phạm vi $3 trong 12s.\n►Tăng Sát thương Chí mạng Phép của đồng minh trong phạm vi 4%.
+
+##S2##
+ハートフルキス=Nụ hôn Trái tim
+【悪魔の口づけ】が付与されている味方のＨＰとＴＰを小回復させる。さらにそのキャラを中心とした範囲内の味方すべてのＨＰとＴＰを小回復させる。=Hồi một chút máu và TP cho đồng minh có trạng thái [Nụ hôn Ác quỷ], và hồi một chút máu và TP cho đồng minh trong phạm vi xung quanh đồng minh đó.
+r:"^対象の味方のＨＰを(\d+)回復対象の味方のＴＰを100回復範囲内の味方のＨＰを(\d+)回復範囲内の味方のＴＰを50回復$"=►Hồi máu cho một đồng minh $1.\n►Hồi TP cho một đồng minh 100.\n►Hồi máu cho đồng minh trong phạm vi $2.\n►Hồi TP cho đồng minh trong phạm vi 50.
+
+##SP1##
+自分以外の最も魔法攻撃力が高い味方１キャラに【悪魔の口づけ】を付与し、ＨＰとＴＰを小回復させる。さらにそのキャラを中心とした範囲内の味方すべてのＨＰとＴＰを小回復させる。=Ban trạng thái [Nụ hôn Ác quỷ] cho đồng minh khác có Tấn công Phép cao nhất, hồi một chút máu và TP của họ, và hồi một chút máu và TP cho đồng minh trong phạm vi xung quanh đồng minh đó.
+r:"^自分以外の最も魔法攻撃力が高い味方１キャラに悪魔の口づけを付与する対象の味方のＨＰを(\d+)回復対象の味方のＴＰを100回復範囲内の味方のＨＰを(\d+)回復範囲内の味方のＴＰを50回復$"=►Ban trạng thái [Nụ hôn Ác quỷ] cho đồng minh khác có Tấn công Phép cao nhất.\n►Hồi máu cho một đồng minh $1.\n►Hồi TP cho một đồng minh 100.\n►Hồi máu cho đồng minh trong phạm vi $2.\n►Hồi TP cho đồng minh trong phạm vi 50.
+
+##EX##
+シークレットレッスン=Bài học bí mật
+シークレットレッスン+=Bài học bí mật+
+
+##Io Xmas##
+チャーミングホワイト=Trắng Quyến rũ
+スウィートハートプレゼント+=Quà Tặng Trái tim Ngọt ngào+
+目の前の敵１キャラの魔法防御力を小ダウン、魔法攻撃力を特大ダウンさせる。さらに【悪魔の口づけ】が付与されている味方の魔法攻撃力を特大アップ、魔法攻撃クリティカル時のダメージを小アップ、ＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべての魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。=Giảm Phòng thủ Phép và giảm mạnh Tấn công Phép của 1 kẻ địch phía trước. Ngoài ra, tăng mạnh Tấn công Phép, tăng nhẹ Sát thương Chí mạng Phép và hồi một chút TP cho đồng minh mang trạng thái [Nụ hôn Ác quỷ], trong khi tăng mạnh Tấn công Phép và tăng nhẹ Sát thương Chí mạng Phép cho toàn bộ đồng minh trong vùng tròn xung quanh nhân vật đó.
+r:"^敵単体の魔法防御力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン対象の味方の魔法攻撃力を(\d+)アップ対象の味方の魔法クリダメを10％アップ対象の味方のＴＰを100回復範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリダメを4％アップ$"=►Giảm Phòng thủ Phép của một kẻ địch $1.\n►Giảm Tấn công Phép của một kẻ địch $2.\n►Tăng Tấn công Phép của đồng minh mục tiêu $3.\n►Tăng Sát thương Chí mạng Phép của đồng minh mục tiêu 10%.\n►Hồi TP của đồng minh mục tiêu 100.\n►Tăng Tấn công Phép của đồng minh trong phạm vi $4.\n►Tăng Sát thương Chí mạng Phép của đồng minh trong phạm vi 4%.
+

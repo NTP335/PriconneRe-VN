@@ -1,0 +1,61 @@
+##Profile##
+【物理】前衛で、素早い斬撃を仕掛け敵を屠る剣術少女。ユニオンバーストで自分の攻撃力と行動速度を上昇させ、ほか攻撃スキルの殲滅能力を極限まで高め敵を圧倒する。=[Vật Lý] Một kiếm sư đam mê, tung những đòn chém nhanh như chớp để hạ gục kẻ thù từ tuyến đầu. Union Burst của cô ấy vừa tăng sức mạnh tấn công vừa tăng tốc độ hành động, tối đa hóa sự chết chóc của các kỹ năng tấn công.
+義理堅くてからかい好きな剣術少女=Một kiếm sĩ có tinh thần trách nhiệm mạnh mẽ và thích trêu chọc
+
+剣術、年長者をからかう=Kiếm thuật, trêu chọc người lớn tuổi.
+
+本当の気持ちを探して=Tìm ra cảm xúc thật của cậu.
+秘められし才能！？=Một tài năng tiềm ẩn!
+邪で純粋な気持ち=Ác nhưng lòng trong sáng.
+想定外な一生の不覚=Cuộc đời đầy những thất vọng ngoài ý muốn.
+好意と厚意の違い=Sự khác biệt giữa một ân huệ và một lòng tốt
+それが勝者の権利=Đó là quyền của người chiến thắng.
+嘘か真かそれとも恋か=Đó là thật hay giả, hay là tình yêu?
+からかい上手な剣術少女=Cô gái đánh kiếm trêu chọc
+ボーイミーツお喋りガール=Boy meets girl
+剣に賭した願い事=Nguyện ước đặt cược trên thanh kiếm
+
+##UB##
+ミクマ流奥義・阿修羅=Mikuma Hidden Art: Asura
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を特大アップさせ、行動速度を中アップさせる。=Gây P.DMG vừa phải cho kẻ địch ngay phía trước. Tăng P.ATK của bản thân rất lớn và tăng tốc độ hành động của bản thân lên 125% trong 24s.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Gây $1 P.DMG cho kẻ địch.\n►Tăng P.ATK của bản thân $2.\n►Tăng tốc độ hành động của bản thân.
+
+##S1##
+ミクマ流剣術・陣風=Mikuma style: Gale Strike
+前方範囲内の敵すべてに物理小ダメージを与える。=Gây P.DMG vừa phải cho tất cả kẻ địch trong phạm vi.
+
+##S2##
+ミクマ流剣術・燕返し=Mikuma style: Returning Swallow
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Gây P.DMG vừa phải cho kẻ địch ngay phía trước và hồi phục một lượng TP nhỏ cho bản thân.
+
+最も物理防御力の低い敵１キャラに物理大ダメージを与え、自分のＴＰを中回復させる。=Gây sát thương vật lý lớn lên 1 kẻ địch có phòng thủ vật lý thấp nhất, đồng thời hồi phục vừa TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを220回復$"=Thời gian thi triển: 1.5 giây.\n►Gây $1 sát thương vật lý lên một mục tiêu.\n►Hồi phục 220 TP cho bản thân.
+
+##EX##
+気脈呼応・波動の型=Vital Resonance: Sheer Focus
+気脈呼応・波動の型+=Vital Resonance: Sheer Focus+
+
+##UB+##
+ミクマ流奥義・烈風迅光=Mikuma Hidden Art: Gale Swift Light
+目の前の敵２キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、行動速度を大アップさせる。=Gây P.DMG rất lớn cho 2 kẻ địch phía trước, và tăng lớn sức mạnh tấn công vật lý cũng như tốc độ hành động cho tất cả đồng minh trong phạm vi.
+## OLD r:"^敵２体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=►Gây $1 P.DMG cho 2 kẻ địch.\n►Tăng P.ATK cho đồng minh trong phạm vi 150 $2 trong 24s.\n►Tăng tốc độ hành động cho đồng minh trong phạm vi 150 lên 160% trong 24s.
+
+目の前の敵３キャラに物理特大ダメージを与え、自分の物理攻撃力を特大アップし、さらに、味方全体の物理攻撃力を特大アップ、行動速度を大アップさせる。行動パターンが変化する。=Gây sát thương vật lý cực đại lên 3 kẻ địch phía trước, tăng cực đại tấn công vật lý của bản thân, đồng thời tăng cực đại tấn công vật lý và tăng mạnh tốc độ hành động cho toàn bộ đồng đội. Thay đổi chu kỳ hành động (Action Pattern).
+r:"^敵３体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ味方全体の物理攻撃力を(\d+)アップ味方全体の行動速度60％アップ$"=►Gây $1 sát thương vật lý lên 3 mục tiêu.\n►Tăng $2 tấn công vật lý cho bản thân trong 18 giây.\n►Tăng $3 tấn công vật lý cho toàn bộ đồng đội trong 18 giây.\n►Tăng 60% tốc độ hành động cho toàn bộ đồng đội trong 18 giây.
+
+
+##S1+##
+ミクマ流剣術・陣風+=Mikuma style: Gale Strike+
+前方範囲内の敵すべてに物理中ダメージを与える。前方範囲内の敵の数に応じて、ダメージが増加する。=Gây P.DMG vừa phải cho tất cả kẻ địch trong phạm vi. Sát thương được tăng dựa trên số lượng mục tiêu.
+
+前方範囲内の敵すべてに物理中ダメージを与える。前方範囲内の敵が２キャラ以上の場合、追加の物理小ダメージを与える。=Gây sát thương vật lý vừa lên toàn bộ kẻ địch trong phạm vi phía trước. Nếu có từ 2 kẻ địch trở lên trong phạm vi, gây thêm sát thương vật lý nhỏ.
+r:"^範囲内の敵に(\d+)の物理ダメージ前方範囲内の敵の数が２キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ$"=Thời gian thi triển: 0.76 giây.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 600.\nNếu có từ 2 kẻ địch trở lên trong phạm vi phía trước:\n►Gây thêm $2 sát thương vật lý lên kẻ địch trong phạm vi 600.
+
+##UE##
+天剣白嵐=Heavensbrand: White Squall
+
+
+##S1++##
+ミクマ流剣術・陣風++=Mikuma style: Gale Strike++
+前方範囲内の敵すべてに物理大ダメージを与える。前方範囲内の敵が２キャラ以上の場合、追加の物理小ダメージを与える。前方範囲内の敵が３キャラ以上の場合、さらに追加の物理小ダメージを与える。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi phía trước. Nếu có từ 2 kẻ địch trở lên trong phạm vi, gây thêm sát thương vật lý nhỏ. Nếu có từ 3 kẻ địch trở lên trong phạm vi, gây thêm một lần sát thương vật lý nhỏ nữa.
+r:"^範囲内の敵に(\d+)の物理ダメージ前方範囲内の敵の数が２キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ前方範囲内の敵の数が３キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ$"=Thời gian thi triển: 0.76 giây.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\nNếu có từ 2 kẻ địch trở lên trong phạm vi phía trước:\n►Gây thêm $2 sát thương vật lý lên kẻ địch trong phạm vi.\nNếu có từ 3 kẻ địch trở lên trong phạm vi phía trước:\n►Gây thêm $3 sát thương vật lý lên kẻ địch trong phạm vi.

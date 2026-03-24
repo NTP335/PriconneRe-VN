@@ -1,0 +1,31 @@
+##Profile##
+【魔法】後衛で魔法アタッカーを妨害する闇のせんせー。最も魔法攻撃力が高い敵を、誘惑とＴＰダウンで妨害しＴＰ回復スキルで味方を援護することで戦況を支配する。=[Phép thuật] Một phù thủy bóng tối phá rối tấn công phép từ hàng sau. Cô thống lĩnh chiến trường bằng cách cản trở địch với sự quyến rũ và giảm TP, đồng thời hỗ trợ đồng minh với kỹ năng hồi TP.
+
+##UB##
+マジカル・ラブガイダンス=Hướng Dẫn Tình Yêu Ma Thuật
+前方範囲内の敵すべてに魔法中ダメージを与え、さらに味方全体のＨＰを小回復する。このスキルで与えたダメージ量に応じてＨＰの回復量がアップする。=Gây sát thương phép vừa phải cho kẻ địch trong phạm vi 1100 và hồi nhẹ HP cho tất cả đồng minh. Lượng HP hồi được tăng dựa trên sát thương gây ra bởi kỹ năng này.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体のＨＰを(\d+)回復$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n►Hồi HP cho tất cả đồng minh bằng $2.
+
+##S1##
+ロマンティックハート=Trái Tim Lãng Mạn
+前方の敵の中で最も魔法攻撃力が高い敵１キャラに魔法小ダメージを与え、さらに誘惑状態にする。=Gây sát thương phép nhỏ cho kẻ địch có M.ATK cao nhất, và khiến chúng bị Thôi miên trong 5s.
+r:"^敵単体のＴＰを(\d+)失わせる味方単体のＴＰを(\d+)回復$"=►Giảm TP của một kẻ địch bằng $1.\n►Hồi TP của một đồng minh bằng $2.
+
+##S2##
+マジックラブビーム=Tia Yêu Ma Thuật
+前方の敵の中で最も魔法攻撃力が高い敵１キャラのＴＰを中ダウンさせ、最も魔法攻撃力が高い味方１キャラのＴＰを中回復する。=Giảm vừa phải TP của kẻ địch có M.ATK cao nhất. Đồng thời, hồi vừa phải TP của đồng minh có M.ATK cao nhất.
+r:"^敵単体のＴＰを(\d+)失わせる味方単体のＴＰを(\d+)回復$"=►Giảm TP của một kẻ địch bằng $1.\n►Hồi TP của một đồng minh bằng $2.
+## 260lvl
+前方の敵の中で最も魔法攻撃力が高い敵１キャラのＴＰを中ダウンさせ、最も魔法攻撃力が高い味方１キャラのＴＰを中回復し、魔法攻撃力を小アップさせる。=Giảm vừa phải TP của kẻ địch có M.ATK cao nhất. Đồng thời, hồi vừa phải TP của đồng minh có M.ATK cao nhất và tăng nhẹ M.ATK của họ.
+r:"^敵単体のＴＰを(\d+)失わせる味方単体のＴＰを(\d+)回復味方単体の魔法攻撃力を(\d+)アップ$"=►Giảm TP của một kẻ địch bằng $1.\n►Hồi TP của một đồng minh bằng $2.\n►Tăng M.ATK của một đồng minh bằng $3.
+
+##EX##
+シークレットエトセトララブ=Bí Mật Vân Vân Yêu
+シークレットエトセトララブ+=Bí Mật Vân Vân Yêu+
+
+##S1+##
+ロマンティックハート+=Trái Tim Lãng Mạn+
+前方の敵の中で最も魔法攻撃力が高い敵１キャラに魔法大ダメージを与え、誘惑状態にし、さらにＴＰを中ダウンさせる。=Gây sát thương phép lớn cho kẻ địch có Tấn công Phép cao nhất, khiến chúng bị mê hoặc trong 8 giây, và cũng giảm một lượng TP của chúng.
+
+##UE##
+闇のせんせードレス=Chiếc váy tối Miss

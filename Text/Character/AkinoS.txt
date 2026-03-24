@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛で、優雅なバカンスを過ごす夕映えの令嬢。敵が魔法攻撃をする場合に効果を大幅に上げる２種の範囲攻撃と攻防両面の支援スキルで、盛夏の勝鬨を上げる。=[Vật Lý] Một tiểu thư kế tịch đang thả hồn dưới hoàng hôn, dành kỳ nghỉ trên chiến tr frontline với vẻ duyên dáng. Cô thức tỉnh tinh thần mùa hè với cả hỗ trợ tấn công lẫn phòng thủ, cùng hai đòn tấn công diện rộng mạnh mẽ hơn khi đối mặt với kẻ địch sử dụng ma thuật.
+
+##UB##
+ウィスタリアンスプラッシュ=Vũ Điệu Hoa Tử Đằng
+前方範囲内の敵すべてに物理大ダメージを与え、自分の物理攻撃力を大アップする。対象が魔法攻撃をする敵だった場合、ダメージが増加する。魔法攻撃をする敵がいる場合、さらに物理攻撃力の上昇量がアップする。=Gây sát thương vật lý khổng lồ cho kẻ địch trong phạm vi và tăng P.ATK của bản thân rất lớn. Nếu tất cả kẻ địch đều thuộc kiểu M, sát thương vật lý gây ra và mức tăng P.ATK sẽ cao hơn.
+r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ魔法攻撃をする敵がいない場合、自分の物理攻撃力を(\d+)アップ魔法攻撃をする敵がいる場合、自分の物理攻撃力を(\d+)アップ$"=Nếu có bất kỳ kẻ địch nào thuộc kiểu P:\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 700.\n►Tăng P.ATK của bản thân lên $3 trong 18 giây.\n\nNếu tất cả kẻ địch đều thuộc kiểu M:\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 700.\n►Tăng P.ATK của bản thân lên $4 trong 18 giây.
+
+##S1##
+ミッドサマーエッジ=Lưỡi Kiếm Mùa Hè
+前方範囲内の敵すべてに物理小ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加する。魔法攻撃をする敵がいる場合、さらに自分のＴＰ上昇を小アップする。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi. Nếu tất cả kẻ địch đều thuộc kiểu M, sát thương vật lý gây ra tăng lên, và đồng thời tăng TP Boost của bản thân một chút.
+r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ魔法攻撃をする敵がいる場合、自分のＴＰ上昇を(\d+)アップ$"=Nếu có bất kỳ kẻ địch nào thuộc kiểu P:\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 700.\n\nNếu tất cả kẻ địch đều thuộc kiểu M:\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 700.\n►Tăng TP Boost của bản thân lên $3 trong 12 giây.
+
+##S2##
+ヒートアップソウル=Hồn Nhiệt Hè
+味方全体の物理攻撃力を大アップさせる。魔法攻撃をする敵がいる場合、物理攻撃力の上昇量がアップし、さらに魔法防御力を大アップする。=Tăng P.ATK cho tất cả đồng minh một chút. Nếu tất cả kẻ địch đều thuộc kiểu M, mức tăng P.ATK sẽ cao hơn, và đồng thời tăng M.DEF cho tất cả đồng minh rất lớn.
+r:"^魔法攻撃をする敵がいない場合、味方全体の物理攻撃力を(\d+)アップ魔法攻撃をする敵がいる場合、味方全体の物理攻撃力を(\d+)アップ魔法攻撃をする敵がいる場合、味方全体の魔法防御力を(\d+)アップ$"=Nếu có bất kỳ kẻ địch nào thuộc kiểu P:\n►Tăng P.ATK của tất cả đồng minh lên $1 trong 12 giây.\n\nNếu tất cả kẻ địch đều thuộc kiểu M:\n►Tăng P.ATK của tất cả đồng minh lên $2 trong 12 giây.\n►Tăng M.DEF của tất cả đồng minh lên $3 trong 12 giây.
+
+##EX##
+ノーブルサマースタイル=Phong Cách Mùa Hè Quý Tộc
+ノーブルサマースタイル+=Phong Cách Mùa Hè Quý Tộc+
+
+##S1+##
+ミッドサマーエッジ+=Lưỡi Kiếm Mùa Hè+
+前方範囲内の敵すべてに物理中ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加する。魔法攻撃をする敵がいる場合、さらに自分の物理攻撃力を特大アップし、ＴＰ上昇を小アップする。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi. Nếu tất cả kẻ địch đều thuộc kiểu M, sát thương vật lý gây ra tăng lên, và đồng thời tăng TP Boost của bản thân một chút và tăng P.ATK của bản thân rất lớn.
+r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ魔法攻撃をする敵がいる場合、自分の物理攻撃力を(\d+)アップ魔法攻撃をする敵がいる場合、自分のＴＰ上昇を(\d+)アップ$"=Nếu có bất kỳ kẻ địch nào thuộc kiểu P:\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 700.\n\nNếu tất cả kẻ địch đều thuộc kiểu M:\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 700.\n►Tăng P.ATK của bản thân lên $3 trong 12 giây.\n►Tăng TP Boost của bản thân lên $4 trong 12 giây.
+
+##UE##
+ブリリアントサマーメモリー=Ký Ức Mùa Hè Rực Rỡ

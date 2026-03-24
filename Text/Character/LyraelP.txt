@@ -1,0 +1,33 @@
+##Profile##
+【魔法】後衛で、民とハーモニーを奏でる天使の姫君。ステータスアップ効果を受け【エクスマキナ】が溜まると行動パターンが変化し、絶え間ない弓撃で神威を示す。=[Phép] Một công chúa thiên thần ở hàng sau, chơi đùa hòa hợp cùng dân chúng. Khi nhận hiệu ứng tăng chỉ số và tích lũy [Ex Machina], mẫu hành động của cô thay đổi, thể hiện uy lực thần thánh qua những phát bắn cung không ngừng nghỉ.
+
+##UB##
+箭雷夜天=Bầu Trời Đêm Sấm Chớp Cung
+目の前の敵１キャラに魔法特大ダメージを２回与え、魔法防御力を中ダウンさせる。=Gây sát thương phép lớn lên kẻ địch phía trước hai lần, và hạ nhẹ phòng ngự phép của chúng.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma pháp cho một kẻ địch.\n►Gây $2 sát thương ma pháp cho một kẻ địch.\n►Giảm $3 phòng thủ ma pháp của một kẻ địch trong 18 giây.
+
+##S1##
+神聖なる機翼=Cánh Thiên Cơ Thần Thánh
+味方全体の魔法攻撃力を特大アップ、魔法攻撃クリティカル時のダメージを小アップさせる。発動時既に【エクスマキナ】が60の場合、行動パターンが変化する。バトル開始後、初弾のこのスキルは、自分がステータスアップ効果を受ける度に、【エクスマキナ】が１つ追加される状態にする。【エクスマキナ】は最大60まで追加される。=Tăng mạnh tấn công phép cho tất cả đồng minh và nhẹ nhàng tăng sát thương phép chí mạng của họ. Nếu [Ex Machina] đã đạt 60 khi kích hoạt, mẫu hành động thay đổi. Lần đầu tiên kỹ năng này được sử dụng sau khi trận đấu bắt đầu, trao trạng thái mà bản thân sẽ nhận 1 lớp [Ex Machina] mỗi lần nhận hiệu ứng tăng chỉ số. [Ex Machina] có thể tích lũy tối đa 60 lần.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリダメを12％アップステータスアップ効果を受けるたびに自分にエクスマキナを１つ追加する状態になる$"=Thời gian thi triển: 1.05s\n►Tăng tấn công phép của đồng minh lên $1 trong 12s.\n►Tăng sát thương phép chí mạng của đồng minh lên 12% trong 12s.\n►Trao trạng thái: mỗi lần bản thân nhận hiệu ứng tăng chỉ số, nhận 1 [Ex Machina].
+
+##S2##
+このスキルのスキルレベルは「天鳴の疾奏」と連動しています=Cấp độ kỹ năng của kỹ năng này liên kết với kỹ năng "Thiên Lạc Tật Tấu".
+
+天鳴の疾奏=Heavenly Thunder Allegro
+天鳴の疾奏+=Thiên Lạc Tật Tấu+
+目の前の敵１キャラに魔法大ダメージを２回与え、魔法防御力を小ダウンさせる。発動時既に【エクスマキナ】が60の場合、行動パターンが変化する。=Gây 2 lần sát thương ma pháp lớn cho 1 kẻ địch trước mặt và giảm nhẹ phòng thủ ma pháp của mục tiêu. Nếu khi kích hoạt, 【Ex Machina】 đã đạt 60, mô thức hành động sẽ thay đổi.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=Thời gian thi triển: 1.05s\n►Gây $1 sát thương ma pháp cho một kẻ địch.\n►Gây $2 sát thương ma pháp cho một kẻ địch.\n►Giảm $3 phòng thủ ma pháp của một kẻ địch trong 12 giây.
+
+##EX##
+聖装、起動=Sacred Armament: Activate
+聖装、起動+=Sacred Armament: Activate+
+
+
+---Pattern Change---
+【エクスマキナ】を10消費するが、味方全体の魔法攻撃クリティカル時のダメージと魔法攻撃のダメージを小アップさせ、さらに自分の魔法攻撃力を大アップし、ＴＰを小回復する。【エクスマキナ】が10以下の場合、行動パターン変化を解除する。=Tiêu tốn 10 tầng 【Ex Machina】, tăng nhẹ sát thương chí mạng ma pháp và sát thương ma pháp của toàn đội, đồng thời tăng mạnh tấn công ma pháp của bản thân và hồi phục nhẹ TP. Nếu 【Ex Machina】 từ 10 trở xuống, trạng thái thay đổi mô thức hành động sẽ bị hủy bỏ.
+r:"^エクスマキナを10消費する味方全体が与える魔法ダメージを6％アップ味方全体の魔法クリダメを12％アップ自分の魔法攻撃力を(\d+)アップ自分のＴＰを125回復$"=Thời gian thi triển: 1.05s\n►Tiêu tốn 10 [Ex Machina].\n►Tăng 6％ sát thương ma pháp gây ra của toàn đội trong 12 giây.\n►Tăng 12％ sát thương chí mạng ma pháp của toàn đội trong 12 giây.\n►Tăng $1 tấn công ma pháp của bản thân trong 12 giây.\n►Hồi phục 125 TP cho bản thân.
+
+
+【エクスマキナ】を10消費するが、目の前の敵１キャラに魔法大ダメージを２回与え、魔法防御力を小ダウンさせ、さらに自分の魔法攻撃力を大アップし、ＴＰを小回復する。【エクスマキナ】が10以下の場合、行動パターン変化を解除する。=Tiêu tốn 10 tầng 【Ex Machina】, gây 2 lần sát thương ma pháp lớn cho 1 kẻ địch trước mặt, giảm nhẹ phòng thủ ma pháp của mục tiêu, đồng thời tăng mạnh tấn công ma pháp của bản thân và hồi phục nhẹ TP. Nếu 【Ex Machina】 từ 10 trở xuống, trạng thái thay đổi mô thức hành động sẽ bị hủy bỏ.
+r:"^エクスマキナを10消費する敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分のＴＰを125回復$"=Thời gian thi triển: 1.05s\n►Tiêu tốn 10 [Ex Machina].\n►Gây $1 sát thương ma pháp cho một kẻ địch.\n►Gây $2 sát thương ma pháp cho một kẻ địch.\n►Giảm $3 phòng thủ ma pháp của một kẻ địch trong 12 giây.\n►Tăng $4 tấn công ma pháp của bản thân trong 12 giây.\n►Hồi phục 125 TP cho bản thân.

@@ -1,0 +1,161 @@
+カスミとキーリ=Kasumi và Kiri
+
+目標のシャドウを見つけ出したIzzとキーリ。その内部に侵入し、カスミとキーリは再会を果たす。別れの決まったわずかな時間の邂逅ではあったが、今度は笑顔でさよならを告げるのであった。=Izz và Kiri tìm thấy Bóng Ma mà họ đã truy lùng. Sau khi đi vào lõi của Bóng Ma, Kasumi và Kiri được đoàn tụ. Đó chỉ là một cuộc gặp gỡ ngắn ngủi trước khi chia tay, nhưng lần này họ chia tay với nụ cười.
+
+キーリと捜査を始めてから数日が過ぎた。\nしかしカスミの『シャドウ』の手掛かりは見つからず、\nIzzは焦りを覚えていた。=Vài ngày đã trôi qua kể từ khi bắt đầu điều tra với Kiri.\nTuy nhiên, họ chưa tìm thấy manh mối nào về Bóng Ma của Kasumi,\nvà Izz đang trở nên sốt ruột.
+『このままでは』\n『名探偵さんの想いが消えてしまいます』="Cứ thế này"\n"Trái tim của thám tử tài ba sẽ biến mất."
+『聞こえますか──名探偵さん』="Cậu có nghe thấy em không, thám tử tài ba?"
+[Omitted Kiri line - ……！]
+カスミちゃん、見つからないね……=Chúng ta không tìm thấy cô ấy...
+『先輩』\n『聞き込み、お疲れさまです』="Senpai,\ncậu đã làm việc rất chăm chỉ trong cuộc điều tra."
+『お疲れのようですね』\n『少し、休んでください』="Cậu trông có vẻ mệt mỏi,\nhãy nghỉ ngơi một chút."
+二人のために休んでいられない。=Vì cả hai chúng ta, giờ tôi không thể nghỉ ngơi được.
+『名探偵さんと……キーリの、ため……？』=”Vì thám tử thiên tài...\n và Kiri...?”
+『えへへ♪』=”Ehehe ♪”
+『……先輩は、名探偵さんが大切ですか？』=”... Senpai, thám tử thiên tài rất quan trọng với cậu,\n phải không ạ?”
+頷く。=Gật đầu
+『胸が高鳴ります』=”Trái tim tôi đập thình thịch.”
+『これで、準備が整いました』=”Và với thế này, mọi chuẩn bị đã hoàn tất.”
+『……先輩に一つ、謝らなくてはいけません』=”... Tôi phải xin lỗi senpai về một điều.”
+『実はこれまでの捜査は』\n『名探偵さんを見つけるためではありませんでした』=”Sự thật là cuộc điều tra cho đến giờ\nkhông nhằm tìm kiếm thám tử thiên tài.”
+『──目標をおびき寄せるための、囮捜査だったんです』=”Đó là một chiến dịch dụ địch nhằm lôi kẻ mục tiêu ra.”
+『この体の中にわずかに残る』\n『名探偵さんの心を刺激、活性化させて』=”Bên trong cơ thể này, vẫn còn dấu vết trái tim của thám tử thiên tài.”\n”Tôi đã kích thích nó, khiến nó hồi sinh...”
+『──シャドウを、誘っていたんです』=”... và điều đó đã dụ Bóng Ma ra.”
+[Omitted shadow pause - ]
+『作戦成功、ですね』=”Chiến lược thành công, có vẻ vậy.”
+あのシャドウの中に、カスミちゃんが？=Kasumi ở trong cái Bóng Ma đó ư?
+『はい』\n『繋がりを感じます』=”Vâng,\n tôi có thể cảm nhận được sự liên kết.”
+『気を付けてください』\n『名探偵さんの心を宿したシャドウです』=”Xin hãy cẩn thận.”\n”Cái Bóng Ma đó chứa trái tim của thám tử thiên tài.”
+『何が起きるか分かりません』=”Tôi không biết chuyện gì sẽ xảy ra.”
+[Omitted monster roar]
+[Omitted shadow pause]
+『魔物が』\n『シャドウに影響されていますね』=”Các quái vật\n đang bị ảnh hưởng bởi cái Bóng Ma.”
+『先輩』\n『これから、救出作戦を実行します』=”Senpai,\n giờ chúng ta tiến hành cuộc cứu hộ.”
+『私がシャドウを取り押さえます』\n『先輩は魔物をお願いします』=”Tôi sẽ bắt giữ cái Bóng Ma.”\n”Xin hãy xử lý các quái vật, senpai.”
+『……私を守ってくれますか？』=”... Cậu sẽ bảo vệ tôi ư?”
+絶対に守る！=Tôi sẽ tuyệt đối bảo vệ cậu!
+[Omitted Kiri line - ……♪]
+『必ず』\n『名探偵さんを助けましょう』=”Chúng ta chắc chắn sẽ\ncứu được thám tử thiên tài!”
+『キー……リ……』=”Ki... ri...”
+『はい』\n『今、そこへ行きます』=”Vâng!\n Em đến ngay đây!”
+『名探偵さんっ！』=”Thám tử thiên tài!”
+何も見えない……聞こえない……\n浮いているのか、沈んでいるのかも、分からない。=”Em không thấy gì cả... Em không nghe thấy gì cả...\n Có phải em đang trôi nổi? Hay là đang chìm xuống... Em không biết.”
+不思議な光景は見えなくなった。\nしかも、さっきまで見ていたはずのものが記憶から薄れていく……\n大事な……意味が、あるはずなのに……=Em không còn thấy cảnh kỳ lạ đó nữa.\n Hơn nữa, những thứ em tưởng rằng mình vừa thấy\n đang mờ dần trong ký ức...\n Mặc dù chúng từng rất... quan trọng... ý nghĩa...
+私はどこにいるんだろう。\nいや、もう……どこにもいなくなってしまったのかな。=Em tự hỏi mình đang ở đâu.\n Không, em rồi sẽ... không còn ở đâu nữa...
+だったら、考えることもできなくなればいいのに。=Vậy thì tốt nhất nếu em ngừng suy nghĩ về nó.
+そうすれば、こんな気持ちを意識しなくて済むのにな……\n……寂しい、なんて。=Nếu em làm thế, em có thể ngừng cảm thấy như vậy...\n... Em cảm thấy rất cô đơn...
+誰か──助手くん──=Có người... Trợ lý...
+……キーリ……=... Kiri...
+『はい』=”Vâng.”
+[Omitted Kasumi line - —え？]
+『見つけました』\n『名探偵さん』=”Em tìm thấy cậu rồi,\n thám tử thiên tài.”
+その、呼び方……それに、私と同じ声……=Gọi tôi như thế... và, giọng nói đó...
+キーリ……なのかい……？=Kiri... thật là cậu ư...?
+『やっと会えました』=”Cuối cùng, em có thể gặp cậu lần nữa.”
+ああ……あぁ……！\nこれは、なんという奇跡だろう……=Ồ... Ôi!\n Đây thực sự là một phép màu...
+ううん、今際の際の幻だっていい。\nキーリ、君に会えるなんて……！=Không, được rồi nếu đây chỉ là ảo giác trong khoảnh khắc cuối đời của tôi.\nKiri, tôi có thể gặp cậu lần nữa...!
+『幻ではないです』\n『今際の際、なんて言わないでください』=”Em không phải ảo giác.”\n”Xin đừng nói đây là khoảnh khắc cuối đời của cậu.”
+『名探偵さん。キーリは、あなたを助けるために来たのですから』=”Thám tử thiên tài, Kiri đến để cứu cậu rồi.”
+キーリ……だけど、私は……もう……=Kiri... nhưng tôi rồi sẽ...
+『お願い、どうか消えないで』=”Đừng biến mất, em xin cậu đấy.”
+……その、言葉……=... Những lời đó...
+『名探偵さんは私にそう願ってくれました』=”Cậu từng ước điều đó cho em.”
+『今度は私が』\n『あなたの生存を願います』=”Lần này,\n em muốn cậu sống.”
+はは……\n恥ずかしい……聞かれてたんだ。=Haha...\n Thật xấu hổ, giờ tôi lại được nghe thế.
+分かったよ、キーリ。\n私の生存が君の願いなら。=Tôi hiểu rồi, Kiri.\n Nếu cậu muốn tôi sống
+私が、それを叶えよう。=Em sẽ làm điều ước của cậu thành hiện thực.
+『──手を』="Nắm tay tôi đi."
+──うん。=Ừ.
+[Omitted Kasumi line – っ……？]
+『名探偵さんを』\n『元の体に戻しました』="Thiên tài thám tử\nđã trở về với cơ thể nguyên bản của mình."
+『これで一安心です』="Với điều đó, tôi cảm thấy nhẹ nhõm một chút."
+
+カスミちゃん！=Kasumi-chan!
+助手くん！\n名探偵、ここに復活だよ！\nキーリ……君も、何か伝えるかい？=Trợ lý!\nThiên tài thám tử trở về rồi!\nKiri, cậu có gì muốn nói không?
+『先輩』\n『私、うまくできました』="Senpai,\nem đã làm tốt rồi."
+
+キーリ！=Kiri!
+『私の願いは叶いました』\n『先輩、ありがとうございます』="Ước nguyện của em đã được thỏa mãn."\n"Senpai, cảm ơn cậu rất nhiều."
+じ、自分の口が勝手に動くのはちょっと変な気分だね。\nだけど……名探偵、ここに復活さ！=Ư-Ước thấy hơi kỳ lạ khi cái miệng mình tự động cử động.\nNhưng... Thiên tài thám tử trở về rồi!
+
+[Omitted shadow pause - ]
+[Omitted monster roar]
+魔物……！？\n囲まれてるのか……！\nいきなり窮地というわけかなっ？=Quái vật!?\nChúng ta bị bao vây...!\nCó vẻ đây là một tình thế khá nguy hiểm.
+だけど、今の私には些末な問題だね。\n答えはすでに見えている。=Nhưng, với em lúc này, đây chỉ là vấn đề nhỏ!\nĐáp án đã rõ ràng rồi.
+『名探偵さん、頑張って』="Thiên tài thám tử, cố lên!"
+ふふっ。\n……助手くんっ！\n「３人」の力を合わせて、事件に真実の光を当てるとしよう！=Hehe, Trợ lý!\nVới sức mạnh của cả ba chúng ta,\nhãy lộ ra chân tướng thực sự của vụ án này!
+カスミとキーリを強化する。=Tăng cường Kasumi và Kiri
+[Omitted Shadow pause - ]
+──君にも、救いの光を。=Cả cho cậu, ánh sáng cứu rỗi.
+輝け──！=Tỏa sáng!
+[Omitted monster roar]
+『……すく、い……』="...Cứu... rỗi..."
+事件解決、だね。=Vụ án đã giải quyết!
+ありがとう、助手くん、キーリ。\n君たちのおかげで、私はこうしてこの場に立っている。=Cảm ơn Trợ lý, Kiri.\nNhờ cả hai mà tôi mới có thể đứng đây như thế này.
+『名探偵さんのお役に立ててよかったです』="Tôi rất vui vì có thể giúp đỡ được thiên tài thám tử."
+『これで──体をお返しできます』="Rằng tôi đã có thể trả lại cơ thể cho cậu."
+[Omitted Kasumi line - ……！]
+うん……分かっていたよ。\n今、私という体の中には二つの心がある。\nとても、歪な状態だ。=Ừ, tôi biết mà.\nBây giờ trong tôi có hai trái tim.\nĐây là một tình huống rất bất thường.
+このままずっと一緒……なんて、都合よく進むわけがない。=Nhưng theo cách này, chúng ta sẽ luôn bên nhau... nhưng không,\nkhông thể thuận lợi như vậy được.
+キーリは……どうなるの？=Chuyện gì đã xảy ra với Kiri...?
+[Omitted Kasumi line - ……]
+『悲しまないでください、名探偵さん』\n『私は満足です』\n『こうしてまた会えましたから』="Xin đừng buồn, thiên tài thám tử."\n"Tôi mãn nguyện rồi."\n"Theo cách này, tôi đã có thể gặp lại cậu."
+キーリ……=Kiri...
+『きっとまた、会えます』="Chắc chắn chúng ta sẽ gặp lại nhau."
+そっか……うん。\nそうだね。一度起きた奇跡が二度起きないなんてことは、ない。=Ra vậy... Ừ.\nĐúng rồi. Đây là một phép màu, nhưng nếu nó đã xảy ra một lần,\nnó có thể xảy ra lại.
+あぁ……それでも……それでも。\n寂しいと思ってしまう。耐え難い心の空白が大きくなっていく。\nやっぱり私は、みじめで、か弱いままだね……=À... nhưng... nhưng dù sao đi nữa.\nTôi vẫn cảm thấy cô đơn. Tôi đã cảm thấy một khoảng trống không thể chịu đựng đang lớn dần trong tim.\nTôi đã nghĩ vậy. Tôi vẫn còn thảm hại và yếu đuối...
+[Omitted Kiri line - ……]
+少しずつ、キーリが消えてゆく。\n涙で別れたことをずっと未練に思っていたのに。\nやっぱり笑顔でなんて、別れられないよ。=Từng chút một, Kiri đang biến mất.\nMặc dù tôi luôn hối tiếc vì chia tay với cô ấy trong nước mắt,\nnhưng dù sao, tôi vẫn không thể chia tay với cô ấy bằng một nụ cười.
+『名探偵さん』\n『少しだけ、時間をもらえますか』="Thiên tài thám tử,\ncó thể cho tôi một chút thời gian được không?"
+……ああ。\nそうだね、ちゃんとお別れするべきは私だけじゃないよね。\n私の体でよければ、好きに使うといい。=...À.\nỪ, đúng rồi. Tôi không phải là người duy nhất phải tạm biệt cho đúng cách.\nCậu có thể sử dụng cơ thể tôi như cậu muốn.
+『先輩』="Senpai."
+[Omitted player line - ……うん。]
+『今日はその、急に呼び出して、ごめんなさい！』\n『ほかに用事とかありませんでしたか？』="Xin lỗi vì hôm nay đã gọi cậu ra đây đột ngột như vậy!"\n"Cậu có việc gì khác cần làm không?"
+……？\nキーリ……なにを……？=...?\nKiri... cái gì...?
+『えっと……その』\n『図書室に呼び出したのは、ですね』\n『先輩に、お伝えしたいことがあったからで……』="À... ừm."\n"Tớ gọi cậu đến thư viện, cậu biết đấy."\n"Vì có điều tớ muốn nói với cậu và..."
+なに……？　図書室？　キーリ……もじもじして、照れてる？\nいや、こんなに感情豊かじゃないはず……誰かを、真似てる？\n誰をって……そんなの……=Cái gì...? Thư viện? Kiri... đang xao xuyến và tỏ vẻ ngại ngùng?\nKhông, cô ấy không dễ xúc động như vậy... cô ấy đang... bắt chước ai đó?\nAi... lại hành xử như vậy...
+『キーリに……あ、覚えてますよね？　あの子のこと』\n『その、背中を押されてしまって』\n『……気持ちを、伝えなきゃって』="Kiri... À, cậu nhớ chứ? Cô ấy như thế nào."\n"Ừm, cô ấy đã đẩy tớ vào việc này..."\n"... là chúng ta phải nói với cậu cảm xúc của mình."
+<She’s said this in a slightly ambiguous way you could potentially read more than one way about who is pushing who, and whose feelings are being told... but my read on it is that she’s actually flipping it and saying Kasumi forced her into confessing for her... when it’s the reverse and she’s pushing Kasumi. Whether Kiri has feelings too... well probably yes.”
+[Omitted Kasumi line – へ？]
+『先輩……私いつも、先輩と過ごす時間が楽しくて』\n『こんな時間がずっと続けばいいのにって、思ってしまうんです』\n『すみません。回りくどい言い方をするものじゃありませんね』="Senpai, khi ở cùng cậu, tớ luôn rất vui,\ntớ ước thời gian sẽ không bao giờ kết thúc."\n"Xin lỗi, đây không phải là điều nên nói một cách gián tiếp."
+『……大好きです』="... Tớ yêu cậu."
+～～～～～～～～っ！？=*Tiếng hét nội tâm bị kìm nén*
+<This was hilarious but also didn’t know what I should put, feel free to change it lol>
+こっ、こらぁ！\nキーリ？　ねぇキーリ！？\nなんてことを言うんだい、こんな時に！？=N-Này!\nKiri! Này, Kiri!?\nCậu đang nói gì vậy!? Lúc này!?
+これは私の中の真実。\n偽らざる私の気持ちだよ。=Đây là sự thật bên trong tôi.\nĐây là cảm xúc chân thành của tôi.
+──助手くん♪=Trợ lý ♪
+ちっ、ちがーうっ！　違うんだ助手くん！\n今のはだね、私の中のキーリが勝手にっ！　入れ替わりトリックだ！\nわざわざ呼び方を変えてまで……！　キーリ？　キーリ！？=K-Không, không! Không phải vậy đâu, Trợ lý!\nVừa nãy, đó là Kiri trong tôi muốn làm gì thì làm!\nMột trò thay thế!\nCô ấy thậm chí còn thay đổi cách cô ấy gọi cậu...! Kiri? Kiri!?
+──キーリ？=... Kiri?
+……もしかして……=... Có thể là...
+うん。\nどうやらもう、ここにはいないみたいだ。=Ừ.\nCó vẻ như cô ấy đã đi rồi.
+[Omitted Kasumi pause - ]
+……ははっ。=... Haha.
+はははっ、ははははは……♪=Ha ha... Ha ha ha... ♪
+見事にやられてしまったよ。\nまんまと、取り逃がしてしまった。=Cô ấy đã thực hiện xuất sắc.\nVà hoàn toàn trốn thoát.
+実に華麗なる犯行だった。\nまさか最後、こんなトリックを使って、\n私の悲しみを奪い……笑顔にするなんて。=Đúng vậy, cô ấy chính là tội phạm vĩ đại ở đó.\nTôi không thể tin rằng cuối cùng cô ấy đã dùng một mánh khóe như vậy\n để lấy đi nỗi buồn của tôi... và khiến tôi cười.
+私の影は、私よりも一枚上手だった。\nだったら私も……もっと強くならなくてはね。\n次こそは、ちゃんと捕まえられるように。=Bóng tối (Shadow) của tôi thậm chí còn đi trước tôi một bước.\nThôi thì, tôi cũng phải cố gắng hơn nữa chứ gì?\nLần sau, tôi sẽ bắt cô ấy thật thích đáng!
+行こう、助手くん。=Đi thôi, trợ lý.
+事件解決の余韻に浸るのも悪くないけど、\n今は新たな謎を解き明かしたい気分なんだ。=Thư giãn sau khi giải quyết xong vụ án cũng không tệ,\nnhưng giờ tôi đã có tâm trí để giải một vụ án mới rồi!
+助手として頑張るよ。=Em sẽ cố gắng hết sức trong vai trò trợ lý của anh.
+ああ。\nよろしく頼むよ──相棒。=Ừ,\ntôi sẽ trông cậy vào cậu, bạn đồng hành.
+……あー\nところでだね、あの発言なんだけど……\nほら、私の中の真実がどうとか。=... À.\nNhân tiện, về nhận xét đó...\nCậu biết đấy, cái về sự thật bên trong tôi.
+『大好きです』ってあの言葉。\n私か、キーリか。\nどっちが言ってたと思う？=Những lời "em yêu anh" đó.\nLà em nói? Hay là Kiri?\nCậu nghĩ ai là người nói?
+──君に、この謎が解けるかい？=Đó là bí ẩn cậu có thể giải được không?
+キーリとの再びの別れ。\nカスミは前とは違う、未練も後悔も残さない笑顔で、\nさよなら、と小さく呟くのであった。=Lần thứ hai chia tay với Kiri, Kasumi khác xưa,\n với nụ cười không hề hối tiếc hay hận thù,\n cô thì thầm lời tạm biệt.
+ふぅ。事件解決ってとこかしらね。\nお疲れ……あぁ、挨拶はどうでもいいって顔ね？=Phew. Vụ án có lẽ đã được giải quyết rồi.\nGiỏi lắm... À, cái nhìn đó nói rằng cậu không quan tâm đến lời chào, phải không?
+キーリのことでしょ？=Cậu muốn biết về Kiri, phải không?
+安心しなさい、ちゃんとここにいるわ。\n回収するタイミングをずっと待ち構えてたんだから。=Đừng lo, em đã ở ngay đây.\nEm đang chờ thời điểm thích hợp để đưa cô ấy trở lại.
+それにしても今回は大変だったわね。\n正直かなり危険な、反則ギリギリの手段だったけど……\nうまくいったみたいでなによりよ。=Nhưng lần này vẫn rất khó.\nThật sự, đó là một phương pháp khá nguy hiểm, vi phạm luật lệ\nmà chỉ vừa đủ hiệu quả...\nNhưng, dường như nó đã hiệu quả, và đó là điều quan trọng.
+言っておくけど、こんな手は何度も使えないわよ？\n普通なら、カスミちゃんはあのまま消えていてもおかしくなかった。=Tôi thông báo cho cậu biết, cậu không thể dùng mánh khóe này lần nữa, được chứ?\nBình thường, Kasumi-chan đã biến mất theo cách đó rồi.
+『ロスト』。\n心を失い、体を失い、世界から失われていたかもしれない。=Mất mát.\nCô ấy có thể đã mất trái tim, mất cơ thể,\n và sau đó bị mất khỏi thế giới.
+だけどカスミちゃんには、バグから生まれた『例外』──\n──キーリというもう一人の自分があった。=Tuy nhiên, với Kasumi,\nđã có một ngoại lệ sinh ra từ một lỗi (bug).\nCô ấy có một cái tôi khác, Kiri.
+それを奇跡と呼ぶべきか、\nバグを利用した反則と呼ぶべきか。=Cậu nên gọi đó là phép màu,\nhoặc có lẽ cậu nên gọi là dùng bug để gian lận hệ thống.
+あたしとしては、どちらでも構いはしないわ。=Với tôi, không quan trọng là cái nào.
+ん？　どうして、ここまでしてくれたのかって？\n……さぁてね、どうしてかしら。=Hả? Tại sao tôi lại đi xa như vậy vì cậu?\n... À, tôi tự hỏi tại sao.
+余計なことは気にしなくていいから、\nあんたはさっさと起きなさい。\n今回はさすがにあたしも疲れたわ。=Cậu không nên lo lắng về những chuyện không cần thiết,\n nên, hãy tỉnh dậy nhanh lên nào.\nLần này, cậu đã làm việc chăm chỉ như thường lệ.
+[Omitted player line – お疲れ様。]
+……あんたに言われるのも、新鮮ね。=Nghe vậy từ cậu thật sảng khoái.
+じゃあね、バイバーイ♪=Vậy thì, tạm biệt nhé ♪
+ちゃんと笑顔で、お別れはできた？\nそう。よかったわね、キーリ。\nなんだかあたしも──=Cậu có nói lời tạm biệt với một nụ cười thích đáng không?\nTốt, tôi mừng, Kiri.\nBằng cách nào đó, tôi...
+<あたしは、\nあんたとちゃんと笑顔で『さよなら』もできなかった……\nそれをずっと、後悔してるのよ。This line omitted due to it being a flashback to chp8>
+──うん。\n救われた気分だわ。=Ừ.\nTôi cảm thấy như mình đã được cứu rỗi.

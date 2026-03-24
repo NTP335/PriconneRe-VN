@@ -1,0 +1,35 @@
+##Profile##
+【物理】前衛で女神の血脈と矜持を揮う全力全開の王女。物理攻撃力の高い味方を【裁定の盾】で庇い、自身は圧倒的な防御とＨＰ回復で前線に立ち幸せな食卓を守り抜く。=【Vật lý】Vị công chúa ở hàng tiền vệ, chiến đấu hết mình với niềm kiêu hãnh và huyết thống nữ thần. Cô sử dụng 【Khiên Phán Quyết】 để bảo vệ đồng đội có tấn công vật lý cao, đồng thời đứng vững nơi tiền tuyến bằng khả năng phòng thủ và hồi phục HP vượt trội để bảo vệ bàn ăn hạnh phúc của mọi người.
+
+##Chapters##
+お腹いっぱいの、愛=Tình yêu làm no bụng
+通じ合えば、愛=Khi tâm hồn đồng điệu, đó chính là tình yêu
+むすぶのは、愛=Thứ gắn kết chúng ta là tình yêu
+いただくのは、愛=Thứ chúng ta nhận lấy là tình yêu
+
+##UB##
+アストライアヴァリアント=Astraea Variant
+味方全体の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップさせ、目の前の敵１キャラに物理防御力を一定値無視する物理特大ダメージを与え、物理防御力を小ダウンさせる。バトル開始後、初弾のこのスキルはさらに、自分のダメージブーストを中アップさせる。４回目のこのスキルはさらに、自分を【お腹いっぱい☆】状態にする。発動時既に自分が【お腹いっぱい☆】状態の場合、このスキルのダメージは必ずクリティカルする。=Tăng cực đại tấn công vật lý và chí mạng vật lý của toàn đội, tăng nhẹ sát thương chí mạng vật lý, đồng thời gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt bất kể một lượng phòng thủ vật lý nhất định và giảm nhẹ phòng thủ vật lý của mục tiêu. Lần đầu sử dụng kỹ năng này sau khi bắt đầu trận đấu, tăng thêm mức tăng sát thương của bản thân. Lần thứ tư sử dụng kỹ năng này sẽ đưa bản thân vào trạng thái 【No bụng☆】. Nếu khi kích hoạt bản thân đã ở trạng thái 【No bụng☆】, sát thương của kỹ năng này chắc chắn sẽ chí mạng.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを180アップ味方全体の物理クリダメを6％アップ敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン初使用時、自分にダメージブースト30％を付与（上限1500000）４回目の使用時、自分をお腹いっぱい☆状態にする$"=►Tăng $1 tấn công vật lý của toàn đội.\n►Tăng 180 chí mạng vật lý của toàn đội.\n►Tăng 6％ sát thương chí mạng vật lý của toàn đội.\n►Gây $2 sát thương vật lý cho một kẻ địch, bỏ qua 50 phòng thủ vật lý.\n►Giảm $3 phòng thủ vật lý của một kẻ địch.\n►Khi sử dụng lần đầu, tăng 30％ sát thương cho bản thân (tối đa 1,500,000).\n►Khi sử dụng lần thứ 4, vào trạng thái [No bụng☆].
+
+
+##S1##
+デュアライズスラッシュ=Dualize Slash
+目の前の敵１キャラに物理大ダメージを２回与え、物理防御力を小ダウン、物理・魔法攻撃力を大ダウンさせる。自分が【お腹いっぱい☆】状態の場合、このスキルのダメージは物理防御力を一定値無視し、必ずクリティカルする。さらに、自分のＨＰを中回復する。=Gây 2 lần sát thương vật lý lớn cho 1 kẻ địch trước mặt, giảm nhẹ phòng thủ vật lý, giảm mạnh tấn công vật lý và tấn công ma pháp của mục tiêu. Nếu bản thân đang ở trạng thái 【No bụng☆】, sát thương của kỹ năng này sẽ bỏ qua một lượng phòng thủ vật lý nhất định và chắc chắn chí mạng. Ngoài ra, hồi phục vừa HP cho bản thân.
+r:"^お腹いっぱい☆状態でない場合、敵単体に(\d+)の物理ダメージお腹いっぱい☆状態でない場合、敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体の物理・魔法攻撃力を(\d+)ダウンお腹いっぱい☆状態の場合、以下の効果が発動する敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体に物理防御力を50無視する(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Nếu không ở trạng thái [No bụng☆]:\n►Gây $1 sát thương vật lý cho một kẻ địch.\n►Gây $2 sát thương vật lý cho một kẻ địch.\n►Giảm $3 phòng thủ vật lý của một kẻ địch.\n►Giảm $4 tấn công vật lý và ma pháp của một kẻ địch.\n\nNếu ở trạng thái [No bụng☆]:\n►Gây $5 sát thương vật lý cho một kẻ địch, bỏ qua 50 phòng thủ vật lý.\n►Gây $6 sát thương vật lý cho một kẻ địch, bỏ qua 50 phòng thủ vật lý.\n►Hồi phục $7 HP cho bản thân.
+
+
+##S2##
+天秤の守護=Scales' Protection
+味方全体の受ける物理ダメージと魔法ダメージを減少させ、自分以外の味方全体のＨＰを中回復し、自分以外の最も物理攻撃力が高い味方１キャラに【裁定の盾】を付与する。【裁定の盾】が付与されている間、そのキャラへの敵の攻撃を代わりに受ける。さらに、自分に物理無効バリアと魔法無効バリアを展開して調和状態を付与し、ＴＰを中回復する。自分が【お腹いっぱい☆】状態の場合、味方全体の受けるダメージの減少量が２倍にアップする。=Giảm sát thương vật lý và ma pháp nhận vào của toàn đội, hồi phục vừa HP cho toàn bộ đồng đội ngoại trừ bản thân, và ban 【Khiên Phán Quyết】 cho 1 đồng đội (ngoại trừ bản thân) có tấn công vật lý cao nhất. Trong khi 【Khiên Phán Quyết】 còn hiệu lực, bản thân sẽ nhận thay các đòn tấn công từ kẻ địch nhắm vào nhân vật đó. Đồng thời, triển khai rào chắn vô hiệu hóa sát thương vật lý và ma pháp cho bản thân, ban trạng thái Điều Hòa và hồi phục vừa TP. Nếu bản thân đang ở trạng thái 【No bụng☆】, lượng sát thương giảm thiểu cho toàn đội sẽ tăng gấp đôi.
+r:"^味方全体の受ける物理ダメージを2500減少味方全体の受ける魔法ダメージを2500減少自分以外の味方全体のＨＰを(\d+)回復味方単体に【裁定の盾】を付与(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する自分に調和状態を付与する自分のＴＰを180回復$"=►Giảm 2500 sát thương vật lý nhận vào của toàn đội.\n►Giảm 2500 sát thương ma pháp nhận vào của toàn đội.\n►Hồi phục $1 HP cho toàn bộ đồng đội (ngoại trừ bản thân).\n►Ban [Khiên Phán Quyết] cho một đồng đội.\n►Triển khai rào chắn vô hiệu vật lý hấp thụ $2 sát thương.\n►Triển khai rào chắn vô hiệu ma pháp hấp thụ $3 sát thương.\n►Ban trạng thái [Điều Hòa] cho bản thân.\n►Hồi phục 180 TP cho bản thân.
+
+
+##EX##
+アストライアフォース=Astraea Force
+アストライアフォース+=Astraea Force+
+
+##SP##
+おにぎりの絆=Onigiri Bond
+敵から攻撃を受けた時に発動し、その敵に物理中ダメージを与え、自分の残りＨＰが50％未満だった場合自分のＨＰを小回復する。自分が【お腹いっぱい☆】状態の場合、このスキルのダメージは必ずクリティカルする。=Kích hoạt khi nhận đòn tấn công từ kẻ địch, gây sát thương vật lý vừa cho kẻ địch đó. Nếu HP hiện tại của bản thân dưới 50%, hồi phục nhẹ HP cho bản thân. Nếu bản thân đang ở trạng thái 【No bụng☆】, sát thương của kỹ năng này chắc chắn sẽ chí mạng.
+r:"^自分を攻撃した敵に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの50％未満の場合、自分のＨＰを10％回復$"=►Gây $1 sát thương vật lý cho kẻ địch đã tấn công bản thân.\n\nNếu HP hiện tại dưới 50％ HP tối đa:\n►Hồi phục 10％ HP cho bản thân.

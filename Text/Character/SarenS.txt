@@ -1,0 +1,51 @@
+##Profile##
+【物理】中衛で、味方の速攻を支える海辺のサレンママ。バトル開始時に味方全体のＴＰを一気に溜めることで、迅速にユニオンバーストを発動させることを可能にする。=[Physical] Người mẹ dịu dàng Saren chỉ huy đồng đội tấn công từ trung tuyến. Khả năng tăng TP cho đồng đội ngay đầu mỗi trận cho phép sử dụng Union Burst mạnh mẽ nhanh chóng.
+
+##UB##
+サマーブライトフォース=Lực Tỏa Sáng Mùa Hè
+味方全体の物理攻撃力と魔法攻撃力と行動速度を大アップさせる。=Tăng lớn tấn công vật lý, tấn công phép và tốc độ hành động của tất cả đồng đội.
+
+##S1##
+スプラッシュトワリング=Bão Hoàng Hôn
+味方全体のＴＰを大回復させ。=Hồi một lượng lớn TP cho tất cả đồng đội.
+味方全体のＴＰを大回復させる。=Hồi một lượng lớn TP cho tất cả đồng đội.
+味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を小アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng nhẹ tấn công vật lý, tấn công phép của họ.
+r:"^味方全体のＴＰを(\d+)回復$"=►Hồi $1 TP cho tất cả đồng đội.
+
+##S2##
+ブライトエール=Lời Cổ Vũ Nắng Vàng
+味方全体の物理攻撃力と魔法攻撃力と物理クリティカルと魔法クリティカルを小アップさせる。=Tăng nhẹ tấn công vật lý, tấn công phép, tỷ lệ chí mạng vật lý và tỷ lệ chí mạng phép của tất cả đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを20アップ味方全体の魔法クリティカルを20アップ$"=►Tăng tấn công vật lý của tất cả đồng đội lên $1 trong 12s.\n►Tăng tấn công phép của tất cả đồng đội lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của tất cả đồng đội lên 20 trong 12s.\n►Tăng tỷ lệ chí mạng phép của tất cả đồng đội lên 20 trong 12s.
+
+##EX##
+ノーブルバケーション=Kỳ Nghỉ Quý Tộc
+ノーブルバケーション+=Kỳ Nghỉ Quý Tộc+
+
+##S1+##
+スプラッシュトワリング+=Bão Hoàng Hôn+
+味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を大アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng lớn tấn công vật lý, tấn công phép của họ.
+味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を特大アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng lớn tấn công vật lý, tấn công phép của họ.
+r:"^味方全体のＴＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=►Hồi $1 TP cho tất cả đồng đội.\n►Tăng tấn công vật lý của tất cả đồng đội lên $2 trong 20s.\n►Tăng tấn công phép của tất cả đồng đội lên $3 trong 20s.
+
+##S2+##
+ブライトエール+=Lời Cổ Vũ Nắng Vàng+
+味方全体の物理攻撃力と魔法攻撃力を特大アップ、物理クリティカルと魔法クリティカルを大アップさせる。さらに味方全体の物理防御力と魔法防御力を中アップさせる。=Tăng lớn tấn công vật lý, tấn công phép, tỷ lệ chí mạng vật lý và tỷ lệ chí mạng phép của tất cả đồng đội. Đồng thời tăng trung bình phòng thủ vật lý và phòng thủ phép của tất cả đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の魔法クリティカルを100アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Tăng tấn công vật lý của tất cả đồng đội lên $1 trong 12s.\n►Tăng tấn công phép của tất cả đồng đội lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của tất cả đồng đội lên 100 trong 12s.\n►Tăng tỷ lệ chí mạng phép của tất cả đồng đội lên 100 trong 12s.\n►Tăng phòng thủ vật lý của tất cả đồng đội lên $3 trong 12s.\n►Tăng phòng thủ phép của tất cả đồng đội lên $4 trong 12s.
+
+##UE##
+繊麗剣サマーブライト=Kiếm Tỏa Sáng Mùa Hè Lịch Lãm
+ブライトサマーメモリー=Ký Ức Mùa Hè Rực Rỡ
+
+##Comments##
+あははっ\n日が暮れるまで浜辺でゆっくり…\nこんな日があってもいいわよね=A ha ha... Đôi khi thư giãn trên bãi biển đến khi mặt trời lặn cũng thật tuyệt, nhỉ?
+貝殻を集めてアクセサリー作り\nなんてのも悪くないわね\n思い出作りよ？　売ろうなんて\n考えてないわよ？　たぶんね=Nhặt vỏ sò rồi làm đồ trang sức nghe hay đấy. Mặc dù không bán hay gì đâu. Có lẽ vậy.
+海の砂ってサラサラしてて気持ち\nいいわよね。持ち帰って救護院に\n砂場を作ったりできないかしら？=Cát ở bãi biển mịn màng quá. Hay là chúng ta mang ít về trại mồ côi làm hồ cát nhỉ?
+子どもたちと賑やかに\n過ごすのはもちろん楽しいけど\nあんたと二人きりで過ごすのも\nなかなかいいわね=Đừng hiểu lầm, em rất vui khi chơi với các con. Nhưng đôi khi được ở một mình với cậu cũng thật tuyệt.
+あたしの水着をこんな間近で\n見られるなんて、あんた本当に\n得してるわよ♪=Cậu đã may mắn lắm đấy. Không nhiều người được thấy mình mặc đồ bơi, huống chi là gần thế này. ♪
+エレガントじゃないかもだけど\n今だけは許してね\nあたし今、とびっきり\n舞い上がっちゃってる！=Giờ này chắc chắn không phải lúc nào cũng thanh lịch rồi, nhưng lần này cậu bỏ qua cho em nhé. Em quá hào hứng rồi!
+夏の日差しって、開放的な\n気分にさせるわよね！\nあたしももう少し\n冒険してみようかしら♪=Nắng hè thật sự mang lại cảm giác tự do, phải không? Em đang muốn đi chút phiêu lưu đây. ♪
+海に来るのなんて久しぶりね～\nせっかくのバカンスなんだから\n楽しまなきゃ損よ！=Đã lâu rồi em mới tới bãi biển. Và phải tận hưởng kỳ nghỉ này mới không phí!
+本当にきれいな海よね\nもし誰もいない浜辺であんたと\n二人っきりだったら…って！\nなんであたしそんなことを！=Biển thật đẹp. Nếu hai chúng ta ở lại một mình trên bãi biển, em sẽ... Khoan, em đang nói gì vậy?!
+捕まえてみなさ～い♪\nな、なんてことあたしが\nできるわけないじゃない！！=Đuổi kịp em nếu cậu có thể! ♪ Kh-không có đâu, em đâu dám nói thật đâu!
+誕生日おめでとう♪\n救護院のみんなもあんたの\n誕生日を祝いたがってるから\n楽しみにしてなさいね！=Chúc Mừng Sinh Nhật! ♪ Mọi người ở trại mồ côi đều muốn ăn mừng với cậu, hãy chờ xem chúng em chuẩn bị gì nhé!
+誕生日おめでとう！\n二人きりでバースデーパーティー\nしましょうか♪　なんてね=Chúc mừng sinh nhật! Hay là chúng ta tổ chức một bữa tiệc nhỏ, chỉ hai đứa mình? Đùa thôi.

@@ -1,0 +1,30 @@
+##Profile##
+食べること、眠ること=Eating, sleeping
+マナリア魔法学院の新入生=Một học sinh trẻ, mới toanh của Học viện Mysteria.
+【魔法】後衛で、オメメちゃんと戦う、ノーテンキ少女。スキルで呼び出すオメメちゃんは敵の攻撃を防ぐほか、その数が多いほどユニオンバーストの威力を増加させる。=[Magic] Một cô gái trẻ hồn nhiên, chiến đấu từ hậu phương cùng người bạn đồng hành Mr. Gawker. Mỗi người bạn nhỏ cô triệu hồi có thể bảo vệ cô khỏi các đòn tấn công, và số lượng chúng làm tăng sức mạnh của Union Burst cô.
+
+##UB##
+オメメチャンアタック！=Mr. Gawker Attack!
+目の前の敵１キャラを中心とした範囲内の敵すべてに、オメメちゃんがいない場合魔法小ダメージを与える。オメメチャンがいる場合、オメメちゃんの数に応じて、ダメージが増加する魔法中ダメージを与える。=Gây ra M.DMG vừa phải cho tất cả kẻ địch trong phạm vi. Sát thương tăng lên cho mỗi Mr. Gawker đang hoạt động.
+r:"^範囲内の敵に(\d+)の魔法ダメージを5回与える$"=►Gây $1 M.DMG lên kẻ địch trong phạm vi 5 lần.
+
+##S1##
+ビギナーズラック=Beginner's Luck
+オメメチャン出番ですぅ！=Come on Out, Mr. Gawker!
+オメメちゃんを１体呼び出す。オメメちゃんはルゥがダメージを受けるたびに１体逃げてしまうが、そのとき敵にダメージを与える。=Triệu hồi một Mr. Gawker. Mỗi lần Lou nhận sát thương, một Mr. Gawker chạy trốn, gây sát thương lên kẻ địch.
+r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメちゃんを最大5体呼び出す$"=►Triệu hồi một Mr. Gawker gây $1 sát thương lên kẻ địch tấn công Lou, sau đó biến mất. (Tối đa 5)
+
+##S2##
+目の前の敵１キャラに魔法大ダメージを与える。=Gây ra M.DMG lớn lên kẻ địch ngay phía trước.
+
+##EX##
+ネバーギブアップ=Never Give Up
+ネバーギブアップ+=Never Give Up+
+
+##S1+##
+オメメチャン出番ですぅ！+=Come on Out, Mr. Gawker!+
+オメメちゃんを２体呼び出し、自分の魔法攻撃力を中アップさせる。オメメちゃんはルゥがダメージを受けるたびに１体逃げてしまうが、そのとき敵にダメージを与える。=Triệu hồi 2 Mr. Gawkers và tăng M.ATK cho bản thân. Mỗi lần Lou nhận sát thương, một Mr. Gawker chạy trốn, gây sát thương lên kẻ địch.
+r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメちゃんを最大5体呼び出す自分の魔法攻撃力を(\d+)アップ$"=►Triệu hồi một Mr. Gawker gây $1 sát thương lên kẻ địch tấn công Lou, sau đó biến mất. (Tối đa 5)\n►Tăng M.ATK của bản thân lên $2.
+
+##UE##
+オメメちゃん！=Ông Gawker!

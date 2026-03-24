@@ -1,0 +1,52 @@
+
+まとめて\nおまかせ強化=Tăng cấp\nNhiều
+まとめて強化=Tăng cường nhiều lần
+
+おまかせ選択=Tự động chọn
+
+選択したキャラをまとめておまかせ強化します。=Nhân vật đã chọn sẽ được tăng cường cùng lúc.
+選択キャラ=Đã chọn
+
+おまかせ強化条件=Điều kiện Tăng cường tự động
+キャラLv/スキルLv強化=Cấp nhân vật/Cấp kỹ năng
+装備を装着=Trang bị
+原鉱を消費=Sử dụng quặng
+装備Lv強化=Làm tinh
+ランクアップ条件=Điều kiện Nâng hạng
+上限消費500,000,000まで=Tối đa lên đến 500.000.000.
+
+まとめておまかせ強化で一度に強化できるキャラ上限に達しました。=Đã đạt giới hạn số nhân vật có thể tăng cường cùng lúc bằng Tăng cường tự động nhiều lần.
+
+一度に強化できるキャラ上限に達しました。=Đã đạt giới hạn số nhân vật có thể tăng cường cùng lúc.
+おまかせ強化対象キャラ=Nhân vật cần tăng cường
+まとめておまかせ強化確認=Xác nhận tăng cường
+
+最大強化=Tối đa
+未装備スロットに装備=Trang bị vào\nô trống
+キャラLvとスキルLv強化=Cấp nhân vật và cấp kỹ năng
+装備を最大強化=Làm tinh tối đa trên trang bị
+おまかせ強化の条件を設定します。=Đặt điều kiện cho Tăng cường tự động.
+おまかせ強化条件設定=Cài đặt điều kiện Tăng cường tự động
+設定を変更しました。=Cài đặt đã được thay đổi.
+
+まとめておまかせ強化完了=Tăng cường tự động nhiều lần đã hoàn thành
+以下のキャラのおまかせ強化が完了しました。=Tăng cường nhân vật đã hoàn thành.
+
+装備/強化対象の装備アイテム=Trang bị/Làm tinh trang bị
+グロウスフィア使用済みキャラが選択されています。=Một nhân vật đã sử dụng Growsphere được chọn.
+まとめておまかせ強化キャラ詳細=Chi tiết nhân vật Tăng cường tự động
+
+まとめておまかせ強化を利用すれば、多くのキャラをよりお手軽に強化できるようです。強化条件を設定し、キャラをさらに強くしてみましょう。=Có vẻ như cậu có thể tăng cường nhiều nhân vật tiện lợi hơn bằng cách sử dụng Tăng cường nhiều lần. Hãy đặt điều kiện theo ý thích và làm cho đồng minh của chúng ta còn mạnh hơn nữa.
+まとめておまかせ強化では、多くのキャラを一括でおまかせ強化ができる\n上に、強化の条件を細かく設定可能でございます。=Trong Tăng cường tự động, cậu có thể tăng cường nhiều nhân vật cùng lúc, và cũng có thể đặt các điều kiện tăng cường chi tiết.
+
+まとめておまかせランクアップは、多くのキャラを一括でランクアップで\nきるようです。主さま、この機能をしっかり使いこなし、共に成長してま\nいりましょう。=Nâng hạng tập thể cho phép cậu nâng hạng nhiều nhân vật cùng lúc. My Lord, hãy tận dụng tính năng này và cùng nhau phát triển.
+ランクアップの条件を設定します。=Đặt điều kiện để nâng hạng.
+ランクアップ条件設定=Cài đặt điều kiện nâng hạng
+
+アイテム、もしくはマナが不足しているため強化できません。=Không thể tăng cường do thiếu vật phẩm hoặc Mana.
+
+強化条件=Điều kiện tăng cường
+選択したキャラをまとめて強化します。=Tăng cường tất cả nhân vật đã chọn cùng lúc.
+r:"^RANK (\d+)までランクアップ$"=Nâng hạng lên RANK $1
+まとめて強化可能なキャラがいません。=Không còn nhân vật nào có thể Tăng cường nhiều lần nữa.
+まとめて強化を利用すれば、一度に多くのキャラを強化できるようです。\nまとめておまかせ強化を行うか、まとめておまかせランクアップを行うか\n選び、キャラをさらに強くしてみましょう。=Bằng cách sử dụng Tăng cường nhiều lần, có vẻ như cậu có thể tăng cường nhiều nhân vật cùng lúc. Hãy chọn giữa thực hiện nhiều lần tăng cường tự động hoặc nhiều lần nâng hạng và trao quyền năng mạnh hơn cho nhân vật của cậu.

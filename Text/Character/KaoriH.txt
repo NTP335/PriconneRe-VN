@@ -1,0 +1,25 @@
+##Profile##
+【物理】前衛の敵を追い詰める程、力を増す幽玄南国娘。敵の体力が少ない程、効果が高まる攻撃力アップスキルとダメージ量アップの攻撃スキルで、敵を逃さず仕留める。=[Vật Lý] Một cô gái từ đất nước phương Nam ma quái, sức mạnh được tăng lên đến mức săn lùng kẻ thù tiền phương. Khi HP của kẻ địch càng ít, kỹ năng tăng sức mạnh và sát thương càng lớn, giúp bạn tiêu diệt kẻ địch không sót một ai.
+
+##UB##
+琉球犬ハロウィンダイヴ=Ryukyu-Ken Halloween Dive
+目の前の敵１キャラに物理大ダメージを与える。対象の最大ＨＰに対する残りＨＰの割合が少ない程ダメージがアップする。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Tỷ lệ HP còn lại của kẻ địch càng thấp, sát thương vật lý càng cao.
+
+##S1##
+幽玄足刀=Đá Yugen
+目の前の敵１キャラに物理中ダメージを与え、さらに自分の物理攻撃力を小アップさせる。対象の最大ＨＰに対する残りＨＰの割合が少ない程、ダメージと攻撃力の上昇量がアップする。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước, và đồng thời tăng nhẹ P.ATK của bản thân. Tỷ lệ HP còn lại của kẻ địch càng thấp, sát thương và buff tăng P.ATK càng lớn.
+
+##S2##
+サーターアンダギーさ～=Sata Undergi~sa
+自分の物理攻撃力を中アップさせ、物理クリティカルを大アップさせる。最もＨＰの割合が低い敵の、最大ＨＰに対する残りＨＰの割合が少ない程、このスキルの効果値が増加する。=Tăng vừa phải P.ATK và tăng mạnh tỷ lệ chí mạng P.CRIT của bản thân. Tỷ lệ HP còn lại của kẻ địch càng thấp, buff tăng P.ATK và tỷ lệ chí mạng càng lớn.
+
+##EX##
+琉球犬式南瓜術=Phong Cách Ryukyu-Ken: Kỹ Thuật Bí Ngô
+琉球犬式南瓜術+=Phong Cách Ryukyu-Ken: Kỹ Thuật Bí Ngô+
+
+##S1+##
+幽玄足刀+=Đá Yugen+
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を小アップさせる。対象の最大ＨＰに対する残りＨＰの割合が少ない程、ダメージと攻撃力の上昇量がアップする。対象の残りＨＰが50％未満の場合、自分の物理攻撃がクリティカルした時のダメージを中アップする。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và đồng thời tăng nhẹ P.ATK của bản thân. Tỷ lệ HP còn lại của kẻ địch càng thấp, sát thương và buff tăng P.ATK càng lớn. Nếu HP còn lại của kẻ địch < 50%, tăng vừa phải sát thương chí mạng P.CRIT DMG của bản thân.
+
+##UE##
+琉球犬式・南瓜道着=Phong Cách Ryukyu-Ken: Đồng Phục Bí Ngô

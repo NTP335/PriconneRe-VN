@@ -1,0 +1,40 @@
+##Profile##
+【魔法】後衛から、仲間を啓蒙するユニちゃんズの才媛。自分以外の味方全員の物理・魔法両方の攻撃力アップとクリティカル時のダメージアップで皆を勝利へと導く。=[Phép] Một thành viên thiên tài của Yuni-chanzu, người thắp sáng đồng minh từ hàng sau. Cô dẫn dắt mọi người đến chiến thắng với kỹ năng tăng cả P.ATK & M.ATK cho tất cả đồng minh ngoại trừ bản thân, và cũng tăng sát thương khi đánh chí mạng.
+
+陳情書と擬体運用青空教室=Lớp học Bầu trời Xanh về Kiến nghị và Vận hành Mô phỏng
+
+##UB##
+真理と実存の共同幻想=Ảo ảnh Chung của Sự thật và Sự tồn tại
+自分以外の味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに一定時間、神速くんを【学びの時間】状態にする。【学びの時間】中、さらに自分以外の味方全体の物理攻撃と魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng mạnh mẽ P/M.ATK cho tất cả đồng minh khác, và nhận trạng thái [Thời gian Học tập] trong một khoảng thời gian.\n[Thời gian Học tập]: Tăng trung bình P/M.CRIT DMG cho tất cả đồng minh khác.
+r:"^自分以外の味方の物理攻撃力を(\d+)アップ自分以外の味方の魔法攻撃力を(\d+)アップ神速くんを学びの時間状態にする学びの時間中、自分以外の味方の物理攻撃クリティカル時のダメージを12％アップ学びの時間中、自分以外の味方の魔法攻撃クリティカル時のダメージを12％アップ$"=►Tăng P/M.ATK cho tất cả đồng minh khác lên $1 trong 18s.\n►Cấp [Thời gian Học tập] cho bản thân trong 18s.\n►Nếu Yuni có [Thời gian Học tập], tăng P/M.CRIT DMG của đồng minh lên 12%.
+
+##S1##
+魔法力学的解析演習=Phân tích và Bài tập về Cơ học Ma thuật
+前方範囲内の敵すべての物理防御力と魔法防御力を小ダウンさせる。【学びの時間】中、さらにクリティカルを受けた際のダメージを小アップさせる。=Giảm nhẹ P/M.DEF của kẻ thù trong phạm vi. Trong [Thời gian Học tập], tăng trung bình sát thương chí mạng phải chịu của kẻ thù.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン学びの時間中、範囲内の敵のクリティカルを受けた際のダメージを8％アップ$"=Thời gian niệm: 0.465s\n►Giảm P.DEF của kẻ thù trong phạm vi 1080 lên $1 trong 12s.\n►Giảm M.DEF của kẻ thù trong phạm vi 1080 lên $2 trong 12s.\n►Nếu Yuni có [Thời gian Học tập], tăng sát thương chí mạng phải chịu P/M.CRIT DMG của kẻ thù trong phạm vi lên 8% trong 12s.
+
+##S2##
+形而上学的拡張理論=Lý thuyết Mở rộng Siêu hình
+自分以外の味方全体の行動速度を大アップさせ、ＴＰ上昇を小アップさせる。【学びの時間】中、さらに自分以外の味方全体のＴＰを小回復する。=Tăng tốc độ hành động của tất cả đồng minh khác, và tăng nhẹ TP Boost của họ. Trong [Thời gian Học tập], phục hồi nhẹ TP của tất cả đồng minh khác.
+r:"^自分以外の味方の行動速度アップ自分以外の味方のＴＰ上昇を5アップ学びの時間中、自分以外の味方のＴＰを(\d+)回復$"=Thời gian niệm: 0.625s\n►Tăng tốc độ hành động của tất cả đồng minh khác lên 150% trong 12s.\n►Tăng TP Boost của tất cả đồng minh khác lên 5 trong 12s.\n►Nếu Yuni có [Thời gian Học tập], phục hồi TP của tất cả đồng minh khác lên $1.
+## 260lvl
+自分以外の味方全体の行動速度を大アップさせ、ＴＰ上昇と物理・魔法攻撃力を小アップさせる。【学びの時間】中、さらに自分以外の味方全体のＴＰを小回復する。=Tăng tốc độ hành động của tất cả đồng minh khác, và tăng nhẹ P.ATK, M.ATK và TP Boost của họ. Trong [Thời gian Học tập], phục hồi nhẹ TP của tất cả đồng minh khác.
+r:"^自分以外の味方の行動速度アップ自分以外の味方のＴＰ上昇を5アップ自分以外の味方の物理攻撃力を(\d+)アップ自分以外の味方の魔法攻撃力を(\d+)アップ学びの時間中、自分以外の味方のＴＰを(\d+)回復$"=Thời gian niệm: 0.625s\n►Tăng tốc độ hành động của tất cả đồng minh khác lên 150% trong 12s.\n►Tăng TP Boost của tất cả đồng minh khác lên 5 trong 12s.\n►Tăng P/M.ATK của tất cả đồng minh khác lên $1 trong 12s.\n►Nếu Yuni có [Thời gian Học tập], phục hồi TP của tất cả đồng minh khác lên $3.
+
+##SP1##
+このスキルのスキルレベルは「真理と実存の共同幻想」と連動しています=Cấp độ kỹ năng này được liên kết với "Ảo ảnh Chung của Sự thật và Sự tồn tại"
+禁忌の断章=Chương Cấm kỵ
+自分以外の味方全体の物理攻撃力と魔法攻撃力を中アップさせる。=Tăng trung bình P/M.ATK cho tất cả đồng minh khác.
+自分以外の味方の物理攻撃力を初期値の22%アップ\n自分以外の味方の魔法攻撃力を初期値の22%アップ=Thời gian niệm: 2.1s\n►Tăng P.ATK của tất cả đồng minh khác lên 22% trong 12s.\n►Tăng M.ATK của tất cả đồng minh khác lên 22% trong 12s.
+
+##EX##
+聖域の学び=Học tập Nơi trú ẩn
+聖域の学び+=Học tập Nơi trú ẩn+
+
+##S1+##
+魔法力学的解析演習+=Phân tích và Bài tập về Cơ học Ma thuật+
+前方範囲内の敵すべての物理防御力と魔法防御力を小ダウンさせ、目の前の敵１キャラの物理防御力と魔法防御力を小ダウンさせる。【学びの時間】中、さらにクリティカルを受けた際のダメージを小アップさせる。=Giảm nhẹ P/M.DEF của kẻ thù trong phạm vi, và giảm nhẹ P/M.DEF của kẻ thù phía trước nhất. Trong [Thời gian Học tập], tăng trung bình sát thương chí mạng phải chịu P/M.CRIT DMG của kẻ thù.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン学びの時間中、範囲内の敵のクリティカルを受けた際のダメージを8％アップ$"=Thời gian niệm: 0.465s\n►Giảm P/M.DEF của kẻ thù trong phạm vi 1080 lên $1 trong 12s.\n►Giảm P/M.DEF của kẻ thù trong phạm vi 1080 lên $1 trong 12s.\n►Giảm P/M.DEF của một kẻ thù lên $3 trong 12s.\n►Nếu Yuni có [Thời gian Học tập], tăng sát thương chí mạng phải chịu P/M.CRIT DMG của kẻ thù trong phạm vi lên 8% trong 12s.
+
+##UE##
+高機動万能靴・レプリカ=Bản sao Giày Đa năng Di chuyển Cao

@@ -1,0 +1,16 @@
+Nozomi Sakurai BDay
+
+お待たせ～っ！\nごめ～ん、私が指定した時間なのに遅れちゃって……！\n仕事が……なんて言い訳はよくないよね。=Xin lỗi vì để cậu đợi~! Em biết đấy... Em đến muộn dù đã định giờ rồi...! "Có công việc"... không phải là lý do hay cho lắm, phải không?
+遅れた分は、いつかかならず返すからっ！\nこれまで何度も待たせちゃった分も合わせると、\n……丸一日分くらい、私の時間をあげなきゃだね！=Em sẽ bồi thường cho sự trễ này một ngày nào đó! Và cộng thêm những lần khác em làm cậu đợi... Chắc em phải dành cả một ngày để chú ý đến cậu mới được!
+それで、えっと……今日、なんだけど。\nどうして呼び出したのか……分かる？=Vậy, ừm... Về hôm nay... Cậu biết tại sao em gọi cậu đến đây không?
+やった、やっぱり覚えててくれた！\nごめんね、祝ってもらうために呼び出すようなことして。=Yay! Em biết cậu sẽ nhớ! Xin lỗi vì đã kéo cậu ra đây chỉ để ăn mừng sinh nhật em.
+もしかしたら{playername}くんが気を遣って\n誘いづらいかなーなんて、私から誘っちゃった……えへへ。=Em nghĩ có lẽ {playername}-kun sẽ ngại mời em ra ngoài vì quá lo cho em, nên em đã chủ động... Ehehe.
+わぁっ、ありがとー！\nでも、なんだか自信がなさげだね？=Ồ, cảm ơn cậu nhiều lắm! Nhưng... cậu có vẻ không tự tin về việc này cho lắm, phải không?
+……♪　確かに『桜井望』はアイドルだけど、\nそれに相応しいプレゼントなんて、考えなくていいんだよ。\n……キミがくれた贈り物。それだけで大きな価値があるんだから。=...Ehe♪ Đúng là "Nozomi Sakurai" là một thần tượng, nhưng cậu không cần phải suy nghĩ quá sức để chọn món quà phù hợp cho "cô ấy". Đây là món quà mà cậu tự mình chọn cho em. Chỉ vậy thôi cũng đã có giá trị hơn mọi thứ rồi.
+う～ん、それでもまだ納得いってない感じ？\nふふ、そんなに私を喜ばせたいんだね。\n……あ、じゃあ一つだけ、お願いしてもいいかな？=Hmm... vẫn chưa tin ư? Hehe, cậu thực sự muốn làm em hạnh phúc đến vậy, hả? ...Ồ, vậy thì em có thể hỏi cậu một chuyện được không?
+キミが身に着けてるもの……欲しい、かも。=Bộ đồ cậu đang mặc bây giờ... em hơi muốn nó.
+ごっ、誤解しちゃダメだよ！？\nキミの香りがいつもそばにあったらな～、なんて思ってないからね！？=Đ-Dừng hiểu lầm nhé, được chứ?! Không phải em nghĩ sẽ thật tuyệt nếu luôn có mùi hương của cậu ở gần đâu... thật đấy!
+
+誕生日おめでとう、望。=Chúc mừng sinh nhật, Nozomi
+これ、誕生日プレゼント。どうかな……=Đây là món quà sinh nhật của em. Nhưng em tự hỏi...
+プレゼント選びですごく悩んじゃって。=Em đã cố gắng tìm một món quà phù hợp với cậu

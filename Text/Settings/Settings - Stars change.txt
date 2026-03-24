@@ -1,0 +1,5 @@
+パーティ呼び出し時の★変更確認=Xác nhận thay đổi ★ khi chọn đội
+パーティ呼び出し時の★変更のチェックボックス=Hộp kiểm Xác nhận thay đổi ★
+パーティ呼び出し時に★の設定が異なるキャラがいる場合、確認ダイアログを表示するか設定します。=Nếu có nhân vật với cài đặt ★ khác khi dùng đội đã lưu, hiển thị hộp thoại xác nhận.
+
+パーティ呼び出し時に★の設定が異なるキャラがいる場合に表示される確認ダイアログのチェックボックス\n「選択したパーティの★に変更する」の初期値を設定します。\n※パーティ呼び出し時の★変更確認の設定が「表示しない」の場合もこの設定で呼び出します。=Thiết lập giá trị mặc định của hộp kiểm trong hộp thoại xác nhận xuất hiện khi có nhân vật\nvới cài đặt ★ khác khi gọi đội, thành "Thay đổi thành ★ của đội đã chọn".\n※Cài đặt này cũng được dùng khi xác nhận thay đổi ★\nkhi gọi đội được đặt là "Không hiển thị".

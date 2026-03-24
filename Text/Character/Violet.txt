@@ -1,0 +1,56 @@
+長縄まりあ=Maria Naganawa
+香水集め、物語を読むこと=Sưu tập nước hoa, đọc truyện
+冥府に咲くアンデッド系プリンセス=Công chúa xác sống nở rộ trong cõi âm
+
+##Profile##
+【物理】前衛で、儚くも凛と咲くジオ・ニヴルヘルの姫。継続ダメージ効果を鈍化させる環境効果【忌火】で盾に、絶怠霊度の継続割合攻撃で矛となり、静寂の冥府を護る。=[Vật lý] Một công chúa tuyến đầu của Gio Nivlhel, nở rộ phù du nhưng kiên quyết. Nàng đóng vai trò là lá chắn với hiệu ứng môi trường [Ngọn Lửa Ghê tởng], giảm thiểu các hiệu ứng sát thương liên tục, và là ngọn giáo với các đòn tấn công phần trăm liên tục của Lethargic Spirit, bảo vệ cõi âm thầm lặng.
+
+##UB##
+アブソルト・アケディア=Absolute Acedia
+目の前の敵１キャラの物理防御力と魔法防御力を小ダウンさせる。【忌火】中、物理防御力と魔法防御力のダウン量がアップし、目の前の敵１キャラを絶怠霊度状態にして、さらに自分のＨＰを中回復する。絶怠霊度状態は、そのキャラの最大ＨＰに応じて最大444444の割合ダメージを継続して発生させる。=Giảm đáng kể P.DEF và M.DEF của kẻ địch phía trước. Trong khi [Ngọn Lửa Ghê tởng] đang hoạt động, tăng lượng giảm, khiến kẻ địch phía trước mắc phải Lethargic Spirit, hồi phục nhẹ HP của bản thân, và gây sát thương phần trăm liên tục lên đến 444,444 dựa trên HP tối đa của mục tiêu.
+
+##S1##
+ソウルストリーム=Soul Stream
+味方全体に物理/魔法無効バリアを展開し、物理防御力と魔法防御力を大アップさせる。さらに、目の前の敵１キャラの物理攻撃力と魔法攻撃力を大ダウンさせる。【忌火】中、味方全体のＨＰを中回復、ＴＰを小回復させ、目の前の敵１キャラにそのキャラの最大ＨＰに応じて最大444444の物理割合ダメージを与える。=Triển khai rào cản phá vỡ vật lý/phép thuật cho tất cả đồng đội và tăng mạnh P.DEF và M.DEF của họ. Ngoài ra, giảm mạnh P.ATK và M.ATK của kẻ địch phía trước. Trong khi [Ngọn Lửa Nguyền rủa], hồi phục vừa phải HP của tất cả đồng đội, hồi phục nhẹ TP của họ, và gây sát thương vật lý phần trăm lên kẻ địch phía trước lên tối đa 444,444 dựa trên HP tối đa của họ.
+
+##S2##
+イモータル・ステップ=Immortal Step
+自分に【穢レ】を付与し、物理防御力と魔法防御力を小アップする。【穢レ】が付与されている間は敵から受ける特定のダメージの30％を継続ダメージに変換する。【忌火】中でない場合、このスキルの効果は発動しない。【穢レ】によって変換される継続ダメージでは味方のＴＰは回復しない。=Áp dụng [Defilement] lên bản thân và tăng nhẹ P.DEF và M.DEF. Trong khi [Defilement] đang hoạt động, chuyển 30% một số sát thương nhận từ kẻ địch thành sát thương liên tục. Hiệu quả kỹ năng này không kích hoạt bên ngoài [Ngọn Lửa Ghê tởng]. Sát thương liên tục được chuyển bởi [Defilement] không hồi phục TP của đồng đội.
+
+##SP1##
+忌火の境界
+環境効果【忌火】を発動する。このスキルの効果は敵、味方すべてに適用される。継続ダメージを与える状態異常のダメージの発生間隔と効果時間が延長される。=Kích hoạt hiệu ứng môi trường [Ngọn Lửa Ghê tởng] ảnh hưởng đến tất cả đồng đội/kẻ địch. Kéo dài khoảng thời gian kích hoạt và thời gian của các tình trạng tật xấu sát thương liên tục.
+環境を忌火にする継続ダメージを与える状態異常のダメージの発生間隔と効果時間が２倍になる=Thời gian niệm: 1.05s\n►Gấp đôi khoảng thời gian và thời gian của các tình trạng tật xấu sát thương liên tục khiến [Ngọn Lửa Ghê tởng].
+
+忌火の境界=Biên giới Ngọn Lửa Ghê tởng
+継続ダメージを与える状態異常のダメージの発生間隔と効果時間が延長される。=Gấp đôi khoảng thời gian và thời gian của các tình trạng tật xấu sát thương liên tục
+忌火=Ngọn Lửa Ghê tởng
+
+
+
+##EX##
+死なずの玉体=Immortal Frame
+死なずの玉体+=Immortal Frame+
+
+
+
+New Debuff
+絶怠霊度=Lethargic Spirit
+
+
+
+
+
+
+
+10% HP damage to nearby enemies
+
+r:"^敵単体の物理・魔法防御力を(\d+)ダウン忌火中、最大444444の割合ダメージを与える絶怠零度状態にする忌火中、自分のＨＰを(\d+)回復忌火中、敵単体の物理・魔法防御力を(\d+)ダウン$"=►Giảm P.DEF và M.DEF của kẻ địch lên $1 trong 18s.\nTrong khi [Ngọn Lửa Ghê tởng] đang hoạt động:\n►Khiến kẻ địch mắc phải [Lethargic Spirit] trong 10s, gây sát thương phần trăm lên đến 444444 sát thương vật lý.\n►Hồi phục HP của bản thân lên $2.\n►Giảm P.DEF của kẻ địch lên $3 trong 18s.\n►Giảm M.DEF của kẻ địch lên $3 trong 18s.
+r:"^敵単体の物理・魔法防御力を(\d+)ダウン忌火中、最大444444の割合ダメージを与える絶怠霊度状態にする忌火中、自分のＨＰを(\d+)回復忌火中、敵単体の物理・魔法防御力を(\d+)ダウン$"=►Giảm P.DEF và M.DEF của kẻ địch $1 trong 18s.\nKhi [Abhorrent Flame] đang hiệu lực:\n►Áp dụng [Lethargic Spirit] lên kẻ địch trong 10s, gây sát thương vật lý theo tỷ lệ tối đa 444444.\n►Hồi HP của bản thân $2.\n►Giảm P.DEF của kẻ địch $3 trong 18s.\n►Giảm M.DEF của kẻ địch $3 trong 18s.
+
+r:"^(\d+)ダメージ分の物魔無効バリアを展開する味方全体の物理・魔法防御力を(\d+)アップ忌火中、味方全体のＨＰを(\d+)回復忌火中、味方全体のＴＰを90回復敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン忌火中、敵単体に最大444444の物理割合ダメージを与える$"=►Triển khai khiên chống lại $1 sát thương vật lý/ma thuật trong 12s.\n►Tăng P.DEF và M.DEF cho toàn đồng đội $2 trong 12s.\n►Giảm P.ATK của kẻ địch $3 trong 18s.\n►Giảm M.ATK của kẻ địch $4 trong 12s.\nKhi [Abhorrent Flame] đang hiệu lực:\n►Hồi HP cho toàn đồng đội $5.\n►Hồi TP cho toàn đồng đội 90.\n►Gây sát thương bằng 10% HP tối đa (tối đa 444444) lên mục tiêu kẻ địch gần nhất.
+
+r:"^(\d+)ダメージ分の物魔無効バリアを展開する味方全体の物理・魔法防御力を(\d+)アップ忌火中、味方全体のＨＰを(\d+)回復忌火中、味方全体のＴＰを90回復敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン忌火中、敵単体に最大444444の物理割合ダメー$"=►Triển khai khiên chống lại $1 sát thương vật lý/ma thuật trong 12s.\n►Tăng P.DEF và M.DEF cho toàn đồng đội $2 trong 12s.\n►Giảm P.ATK của kẻ địch $3 trong 18s.\n►Giảm M.ATK của kẻ địch $4 trong 12s.\nKhi [Abhorrent Flame] đang hiệu lực:\n►Hồi HP cho toàn đồng đội $5.\n►Hồi TP cho toàn đồng đội 90.\n►Gây sát thương bằng 10% HP tối đa (tối đa 444444) lên mục tiêu kẻ địch gần nhất.
+
+
+r:"^忌火中、自分に穢レを付与する忌火中、自分の物理防御力を(\d+)アップ忌火中、自分の魔法防御力を(\d+)アップ$"=Thời gian niệm: 1.05s\nKhi [Abhorrent Flame] đang hiệu lực:\n►Áp dụng [Defilement] lên bản thân trong 90s.\n►Tăng P.DEF của bản thân $1 trong 90s.\n►Tăng M.DEF của bản thân $2 trong 90s.

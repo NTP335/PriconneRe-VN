@@ -1,0 +1,30 @@
+##Profile
+【魔法】中衛で、お花畑に春を届ける花衣装の優等生。スキル発動回数に応じた効率的な自己強化やクリティカル時の追加効果を持つスキルとＵＢで勝利の風を吹かせる。=[Phép thuật] Một học sinh ưu tú mặc trang phục hoa mang mùa xuân đến vườn hoa. Thổi làn gió chiến thắng với sự cường hóa bản thân hiệu quả tùy theo số lần kích hoạt kỹ năng, và kỹ năng với UB có thêm hiệu ứng khi chí mạng.
+
+##UB##
+バタフライストリーム=Dòng bướm
+目の前の敵１キャラに魔法極大ダメージを与える。このスキルがクリティカルした場合、追加の魔法特大ダメージを与える。=Gây M.DMG lớn cho kẻ địch phía trước. Nếu kỹ năng này trúng chí mạng, gây thêm M.DMG.
+
+##S1##
+フローラルブレス=Hơi thở hoa
+目の前の敵１キャラに魔法特大ダメージを与える。このスキルがクリティカルした場合、自分の魔法攻撃力を特大アップし、魔法攻撃クリティカル時のダメージを小アップする。=Gây M.DMG lớn cho kẻ địch phía trước. Nếu kỹ năng này trúng chí mạng, tăng rất lớn M.ATK của bản thân và tăng nhẹ M.CRIT DMG của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを10％アップ$"=►Gây $1 M.DMG cho một kẻ địch.\n►Tăng M.ATK của bản thân thêm $2 trong 12s.\n►Tăng M.CRIT DMG của bản thân thêm 10% trong 12s.
+
+##S1+##
+ファーマメントフローラ=Hoa bầu trời
+フローラルブレス+=Hơi thở hoa+
+r:"^目の前の敵１キャラに魔法特大ダメージを与え、自分のＴＰを小回復する。このスキルがクリティカルした場合、自分の魔法攻撃力を特大アップ、魔法攻撃クリティカル時のダメージを小アップする。$"=Gây M.DMG lớn cho một kẻ địch phía trước và hồi nhẹ TP của bản thân. Nếu kỹ năng này chí mạng, tăng rất lớn M.ATK của bản thân và tăng nhẹ M.CRIT DMG.
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを10％アップ自分のＴＰを40回復$"=►Gây $1 M.DMG cho một kẻ địch đơn lẻ.\n►Tăng M.ATK của bản thân thêm $2.\n►Tăng M.CRIT DMG của bản thân thêm 10%.\n►Hồi TP của bản thân thêm 40.
+
+##S2##
+スプリングダンス=Điệu nhảy mùa xuân
+自分の魔法クリティカルを特大アップ、魔法攻撃クリティカル時のダメージを小アップする。このスキルは３回まで、使用する度に魔法クリティカルの効果量がダウンし、魔法攻撃クリティカル時のダメージの効果量がアップする。さらに、自分のＨＰを小回復し、ＴＰ上昇を小アップする。=Tăng rất lớn M.CRIT Rate của bản thân, và tăng nhẹ M.CRIT DMG của bản thân. Sau 3 lần sử dụng, hiệu quả M.CRIT Rate của kỹ năng này sẽ giảm và hiệu quả M.CRIT DMG sẽ tăng. Ngoài ra, hồi nhẹ HP của bản thân và tăng TP Boost của bản thân.
+r:"^自分の魔法クリティカルを250アップ自分の魔法攻撃クリティカル時のダメージを5％アップ自分のＨＰを(\d+)回復自分のＴＰ上昇を5アップ$"=►Tăng M.CRIT Rate của bản thân thêm 250 (-65×Count) trong 180s.\n►Tăng M.CRIT DMG của bản thân thêm 5% (+5%×Count) trong 180s.\n►Hồi HP của bản thân thêm $1.\n►Tăng TP Boost của bản thân thêm 5 trong 180s.
+
+##EX##
+ブレイブハズカム=Dũng cảm đã đến
+ブレイブハズカム+=Dũng cảm đã đến+
+バトル開始時に自分の魔法クリティカルを中アップさせる。=Tăng trung bình M.CRIT Rate của bản thân khi bắt đầu trận đấu.
+バトル開始時に自分の魔法クリティカルを大アップさせる。=Tăng rất lớn M.CRIT Rate của bản thân khi bắt đầu trận đấu.
+r:"^自分の魔法クリティカルを(\d+)アップ$"=►Tăng M.CRIT Rate của bản thân thêm $1.
+

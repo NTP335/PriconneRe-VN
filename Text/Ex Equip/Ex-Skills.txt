@@ -1,0 +1,139 @@
+スキル詳細=Chi Tiết Kỹ Năng
+
+バトル中攻撃力小アップ=Tăng Tấn Công (S) Trong Trận
+開始時攻撃力中アップ=Tăng Tấn Công Đầu Trận (M)
+r:"^バトル開始後(\d+)秒間自分の物理攻撃力を(\d+)％アッ\nプさせる。$"=Tăng tấn công vật lý bản thân lên $2% trong $1s sau khi trận đấu bắt đầu.
+r:"^バトル開始後(\d+)秒間自分の魔法攻撃力を(\d+)％アッ\nプさせる。$"=Tăng tấn công phép thuật bản thân lên $2% trong $1s sau khi trận đấu bắt đầu.
+
+開始時物/魔ダメカット付与=Giảm Sát Thương Đầu Trận
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の物理/魔法ダメー\nジカット効果を付与する。$"=Áp dụng hiệu ứng giảm sát thương vật lý và phép thuật $2% cho bản thân trong $1s sau khi trận đấu bắt đầu.
+
+開始時物理ダメカット付与=Giảm Sát Thương Vật Lý Đầu Trận
+開始時魔法ダメカット付与=Giảm Sát Thương Phép Thuật Đầu Trận
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の物理ダメージ\nカット効果を付与する。$"=Áp dụng hiệu ứng giảm sát thương vật lý $2% cho bản thân trong $1s sau khi trận đấu bắt đầu.
+r:"^バトル開始後(\d+)秒間自分に(\d+)％の魔法ダメージ\nカット効果を付与する。$"=Áp dụng hiệu ứng giảm sát thương phép thuật $2% cho bản thân trong $1s sau khi trận đấu bắt đầu.
+
+開始時継続ＨＰ回復付与=Hồi HP Đầu Trận
+r:"^バトル開始後(\d+)秒間自分に残りＨＰ([0-9.\.]+)％の継続\nＨＰ回復状態を付与する。$"=Áp dụng trạng thái hồi HP liên tục $2% cho bản thân trong $1s sau khi trận đấu bắt đầu.
+
+バトル中盤攻撃力大アップ=Tăng Tấn Công (L) Giữa Trận
+バトル開始後45秒経過時に自分の物理攻撃力を20％アップさせる。=Nếu thời gian còn lại dưới 45s: Tăng tấn công vật lý bản thân lên 20%.
+バトル開始後45秒経過時に自分の魔法攻撃力を20％アップさせる。=Nếu thời gian còn lại dưới 45s: Tăng tấn công phép thuật bản thân lên 20%.
+バトルの残り時間が45秒を切ると自分の物理攻撃力を20％アップさせる。=Nếu thời gian còn lại dưới 45s: Tăng tấn công vật lý bản thân lên 20%.
+バトルの残り時間が45秒を切ると自分の魔法攻撃力を20％アップさせる。=Nếu thời gian còn lại dưới 45s: Tăng tấn công phép thuật bản thân lên 20%.
+
+
+開始時クリダメ中アップ=Tăng Sát Thương Bạo Kích Đầu Trận
+r:"^バトル開始後(\d+)秒間自分の物理攻撃クリティカル\n時のダメージを(\d+)％アップさせる。$"=Tăng sát thương bạo kích vật lý bản thân lên $2% trong $1s sau khi trận đấu bắt đầu.
+r:"^バトル開始後(\d+)秒間自分の魔法攻撃クリティカル\n時のダメージを(\d+)％アップさせる。$"=Tăng sát thương chí mạng ma thuật của bản thân lên $2% trong $1s sau khi trận đấu bắt đầu.
+開始時クリティカル中アップ=Tăng chí mạng khi bắt đầu
+r:"^バトル開始後(\d+)秒間自分の物理クリティカルを\n(\d+)％アップさせる。$"=Tăng tỷ lệ chí mạng vật lý của bản thân lên $2% trong $1s sau khi trận đấu bắt đầu.
+r:"^バトル開始後(\d+)秒間自分の魔法クリティカルを\n(\d+)％アップさせる。$"=Tăng tỷ lệ chí mạng ma thuật của bản thân lên $2% trong $1s sau khi trận đấu bắt đầu.
+
+
+開始時防御力中アップ=Tăng phòng thủ khi bắt đầu
+r:"^バトル開始後(\d+)秒間自分の物理防御力を(\d+)％アッ\nプさせる。$"=Tăng phòng thủ vật lý của bản thân lên $2% trong $1s sau khi trận đấu bắt đầu.
+r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプさせる。$"=Tăng phòng thủ ma thuật của bản thân lên $2% trong $1s sau khi trận đấu bắt đầu.
+
+
+バトル中盤クリティカル強化=Tăng chí mạng giữa trận
+魔蜘ノ凶槍=Ngọn giáo bạo lực của nhện phép thuật
+バトルの残り時間が45秒を切ると味方全体の物理クリティカルと物理攻撃クリティカル時のダメージを３％アップさせる。=Khi còn dưới 45 giây trong trận đấu, tăng tỷ lệ chí mạng vật lý và sát thương chí mạng vật lý cho tất cả đồng đội lên 3%.
+
+バトル中盤クリティカル中アップ=Tăng chí mạng (L) giữa trận
+
+バトルの残り時間が45秒を切ると自分の物理クリティカルを５%アップさせる。=Nếu thời gian còn lại dưới 45s: Tăng tỷ lệ chí mạng vật lý lên 5%.
+
+バトル中物理強化=Tăng tấn công (M) trong trận
+バトル中物理攻防強化=Tăng vật lý (M) trong trận
+バトル開始後90秒間自分の物理攻撃力と物理防御力を３％アップさせる。=Tăng tấn công vật lý và phòng thủ vật lý của bản thân lên 3% trong 90 giây sau khi trận đấu bắt đầu.
+
+バトル中魔法耐性強化=Tăng kháng (M) trong trận
+バトル開始後90秒間自分の魔法防御力３％アップさせ、３％の魔法ダメージカット効果を付与する。=Tăng phòng thủ ma thuật của bản thân lên 3% trong 90 giây sau khi trận đấu bắt đầu, đồng thời tạo hiệu ứng giảm 3% sát thương ma thuật.
+
+バトル中ダメージ強化=Tăng sát thương giữa trận
+バトルの残り時間が45秒を切ると自分の物理クリティカルと物理攻撃クリティカル時のダメージを２０％アップさせる。=Nếu thời gian còn lại dưới 45s: Tăng tỷ lệ chí mạng vật lý và sát thương chí mạng vật lý lên 20%.
+
+
+開始時ダメージ強化=Tăng sát thương khi bắt đầu
+
+バトル開始後90秒間自分の物理攻撃力と物理攻撃クリティカル時のダメージを３％アップさせる。=Tăng tấn công vật lý và sát thương chí mạng vật lý của bản thân lên 3% trong 90 giây sau khi trận đấu bắt đầu.
+
+バトル中クリティカル強化=Tăng chí mạng trong trận
+バトル開始後24秒間自分の物理攻撃力と物理攻撃クリティカル時のダメージを５％アップさせる。=Tăng tấn công vật lý và sát thương chí mạng vật lý của bản thân lên 5% trong 24 giây sau khi trận đấu bắt đầu.
+バトル開始後90秒間自分の物理クリティカルと物理攻撃クリティカル時のダメージを３％アップさせる。=Tăng tỷ lệ chí mạng vật lý và sát thương chí mạng vật lý của bản thân lên 3% trong 90 giây sau khi trận đấu bắt đầu.
+
+バトル中物理耐性強化=Tăng phòng thủ (M) trong trận
+バトル開始後90秒間自分の物理防御力３％アップさせ、３％の物理ダメージカット効果を付与する。=Tăng phòng thủ vật lý của bản thân lên 3% trong 90 giây sau khi trận đấu bắt đầu, đồng thời tạo hiệu ứng giảm 3% sát thương vật lý.
+
+バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを３％アップさせる。=Tăng tỷ lệ chí mạng ma thuật và sát thương chí mạng ma thuật của bản thân lên 3% trong 90 giây sau khi trận đấu bắt đầu.
+
+バトル中魔法攻防強化=Tăng ma thuật (M) trong trận
+バトル開始後90秒間自分の魔法攻撃力と魔法防御力を３％アップさせる。=Tăng tấn công ma thuật và phòng thủ ma thuật của bản thân lên 3% trong 90 giây sau khi trận đấu bắt đầu.
+
+バトル開始後90秒間自分の物理攻撃力と物理クリティカルを３％アップさせる。=Tăng tấn công vật lý và tỷ lệ chí mạng vật lý của bản thân lên 3% trong 90 giây sau khi trận đấu bắt đầu.
+
+
+魔法攻撃力=Tấn công ma thuật
+
+火属性攻撃力アップ=Tăng sức tấn công thuộc tính Hỏa
+装備者が火属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Hỏa, tăng sức tấn công vật lý của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が火属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Hỏa, tăng sức tấn công ma thuật của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+
+水属性攻撃力アップ=Tăng sức tấn công thuộc tính Nước
+装備者が水属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Nước, tăng sức tấn công vật lý của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が水属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Nước, tăng sức tấn công ma thuật của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+
+風属性攻撃力アップ=Tăng sức tấn công thuộc tính Gió
+装備者が風属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Gió, tăng sức tấn công vật lý của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が風属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Gió, tăng sức tấn công ma thuật của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+
+光属性攻撃力アップ=Tăng sức tấn công thuộc tính Ánh sáng
+装備者が光属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Ánh sáng, tăng sức tấn công vật lý của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が光属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Ánh sáng, tăng sức tấn công ma thuật của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+
+闇属性攻撃力アップ=Tăng sức tấn công thuộc tính Bóng tối
+装備者が闇属性の場合、バトル開始後90秒間自分の物理攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Bóng tối, tăng sức tấn công vật lý của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が闇属性の場合、バトル開始後90秒間自分の魔法攻撃力を40％アップさせる。=Nếu người trang bị thuộc tính Bóng tối, tăng sức tấn công ma thuật của người đó lên 40% trong 90 giây sau khi trận đấu bắt đầu.
+
+
+
+火属性防御力アップ=Tăng phòng thủ thuộc tính Hỏa
+水属性防御力アップ=Tăng phòng thủ thuộc tính Nước
+風属性防御力アップ=Tăng phòng thủ thuộc tính Gió
+光属性防御力アップ=Tăng phòng thủ thuộc tính Ánh sáng
+闇属性防御力アップ=Tăng phòng thủ nguyên tố Bóng tối
+
+装備者が火属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Nếu người mặc thuộc nguyên tố Lửa, tăng Phòng Thủ và Kháng Ma Thuật cho bản thân lên 20% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が水属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Nếu người mặc thuộc nguyên tố Nước, tăng Phòng Thủ và Kháng Ma Thuật cho bản thân lên 20% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が風属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Nếu người mặc thuộc nguyên tố Gió, tăng Phòng Thủ và Kháng Ma Thuật cho bản thân lên 20% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が光属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Nếu người mặc thuộc nguyên tố Ánh sáng, tăng Phòng Thủ và Kháng Ma Thuật cho bản thân lên 20% trong 90 giây sau khi trận đấu bắt đầu.
+装備者が闇属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Nếu người mặc thuộc nguyên tố Bóng tối, tăng Phòng Thủ và Kháng Ma Thuật cho bản thân lên 20% trong 90 giây sau khi trận đấu bắt đầu.
+
+
+バトル開始後90秒間自分の魔法防御力を３％アップさせ、自分に３％の魔法ダメージカット効果を付与する。=Tăng Kháng Ma Thuật (M.DEF) của bản thân lên 3% và Giảm Sát Thương Ma Thuật (M.DMG Cut) lên 3% trong 90 giây sau khi trận đấu bắt đầu.
+バトル開始後90秒間自分の物理防御力を３％アップさせ、自分に３％の物理ダメージカット効果を付与する。=Tăng Phòng Thủ (P.DEF) của bản thân lên 3% và Giảm Sát Thương Vật Lý (P.DMG Cut) nhận vào lên 3% trong 90 giây sau khi trận đấu bắt đầu.
+
+
+オーバー・ザ・ムーン=Vượt Qua Mặt Trăng
+バトル開始後90秒間味方全体の物理攻撃力を10％アップさせる。=Tăng Tấn Công Vật Lý (P.ATK) cho toàn đội lên 10% trong 90 giây sau khi trận đấu bắt đầu.
+
+
+魔蜘ノ縁環=Nhẫn Ma Nhện Kết Nối
+魔蜘ノ煌輪=Vòng Tay Ma Nhện Huy Hoàng
+魔蜘ノ玲玉=Linh Ngọc Ma Nhện
+魔蜘ノ艶装=Vòng Cổ Ma Nhện Diễm Lệ
+魔蜘ノ絢飾=Bông Tai Ma Nhện Rực Rỡ
+
+バトル中物理攻撃強化　=Cường hóa tấn công vật lý trong trận chiến
+バトル開始後90秒間自分の物理攻撃力と物理クリティカルと物理攻撃クリティカル時のダメージを３％アップさせる。=Trong 90 giây sau khi bắt đầu trận đấu, tăng 3% tấn công vật lý, tỷ lệ chí mạng vật lý và sát thương chí mạng vật lý của bản thân.
+バトル中物魔耐久強化=Cường hóa chống chịu vật lý & ma thuật trong trận chiến
+バトル開始後90秒間自分の物理防御力と魔法防御力を３％アップさせ、３％の物理ダメージカット効果と魔法ダメージカット効果を付与する。=Trong 90 giây sau khi bắt đầu trận đấu, tăng 3% phòng thủ vật lý và phòng thủ ma thuật của bản thân, đồng thời ban hiệu ứng giảm 3% sát thương vật lý và sát thương ma thuật nhận vào.
+バトル中魔法攻撃強化　=Cường hóa tấn công ma thuật trong trận chiến
+バトル開始後90秒間自分の魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージを３％アップさせる。=Trong 90 giây sau khi bắt đầu trận đấu, tăng 3% tấn công ma thuật, tỷ lệ chí mạng ma thuật và sát thương chí mạng ma thuật của bản thân.
+
+
+
+
+ヴィズ・ラ・リュンヌ=Vis la Lune
+バトル開始後90秒間味方全体の魔法攻撃力を10％アップさせる。=Tăng 10% tấn công phép thuật cho toàn bộ đồng đội trong vòng 90 giây sau khi bắt đầu trận đấu.

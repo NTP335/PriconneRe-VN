@@ -1,0 +1,50 @@
+開催中キャンペーン=Chiến dịch Đặc biệt
+r:"^メインクエスト エリア([0-9～ ]+)$"=Khu vực Nhiệm vụ Chính $1
+復刻イベントクエスト=Nhiệm vụ Sự kiện Hồi sinh
+復刻イベントクエスト（NORMAL）=Nhiệm vụ Sự kiện Hồi sinh (Thường)
+復刻イベントクエスト（HARD）=Nhiệm vụ Sự kiện Hồi sinh (Khó)
+イベントクエスト（NORMAL）=Nhiệm vụ Sự kiện (THƯỜNG)
+イベントクエスト（HARD）=Nhiệm vụ Sự kiện (Khó)
+サイドストーリークエスト=Nhiệm vụ phụ
+SPダンジョン=Hầm ngục Bí mật
+聖跡調査クエスト=Nhiệm vụ Khảo sát Thánh điện
+神殿調査クエスト=Nhiệm vụ Hành trình Đền thờ
+スキップ確認=Xác nhận Bỏ qua
+全バトルをスキップして、報酬を獲得しますか？=Có muốn bỏ qua tất cả trận đấu và nhận phần thưởng không?
+---Half Stamina---
+r:"^\[475F7B\]メインクエスト(.+|)の\n消費スタミナが半減\[-\]$"=[475F7B]Thể lực tiêu hao giảm 50% \ncho Nhiệm vụ Chính $1[-]
+消費スタミナ半減=Giảm 50% Thể lực Tiêu hao
+---mana---
+マナドロップ量アップ=Tăng Lượng Rơi Mana
+[475F7B]メインクエスト（NORMAL）         の\nマスターコイン獲得量が1.5倍にアップ[-]
+sr:"^\[475F7B\](.+?)((?:（|\().+(?:）|\)))?\n?の\n?(.+)(ドロップ|獲得)量が\n?([0-9.]+)倍にアップ\[-\]$"=[475F7B]$3 $4 × $5\ncho $1 $2[-]
+獲得=Đã nhận
+ドロップ=Rơi
+残り挑戦回数が0回です。=Số lần thử còn lại là 0.
+
+---exp---
+プレイヤーEXP獲得量アップ=Tăng EXP
+
+---reward---
+報酬ドロップ量アップ=Tăng Lượng Rơi Phần thưởng
+デイリージュエルパック効果=Hiệu quả Gói Ngọc Hàng ngày
+
+---Master Coin---
+マスターコイン獲得量アップ=Tăng Phần thưởng Xu Master
+
+r:"^あと(\d+)日$"=Còn $1 ngày
+r:"^あと(\d+)時間$"=Còn $1 giờ
+r:"^あと(\d+)分$"=Còn $1 phút
+
+r:"^Lv(\d+)まで$"=Đến cấp $1
+
+アプリ配信期間終了=Kết thúc thời gian sự kiện
+
+
+パスポート獲得数増加=Tăng Số lượng Huy hiệu nhận được
+[475F7B]黎明界ラビリンスの\nパスポート獲得数が通常よりも1枚増加[-]=[475F7B]Hành trình Mê cung Bình minh\nSố Huy hiệu nhận được tăng lên 1[-]
+
+---attempt---
+挑戦回数アップ=Tăng số lần thử
+
+sr:"^\[475F7B\](.+?)((?:（|\().+(?:）|\)))?\n?の\n?挑\n?戦\n?回\n?数\n?が\n?通常よりも(\d+)回増加\[-\]$"=[475F7B]Số lần thử cho $1$2 đã tăng lên $3 lần.[-]

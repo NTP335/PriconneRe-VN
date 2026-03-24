@@ -1,0 +1,7 @@
+アドベンチャーで、同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。=Đặt có cho phép sử dụng nhân vật cùng tên trong cùng một party ở Adventure hay không
+アドベンチャー同名キャラ編成=Thêm Nhân vật Cùng Tên ở Adventure
+
+アドベンチャー完了通知=Thông báo Hoàn thành Adventure
+アドベンチャーが完了したときに通知します。=Thông báo khi Adventure được hoàn thành.
+アドベンチャー周回完了通知=Thông báo hoàn thành Adventure Lặp
+繰り返し設定をしたアドベンチャーが完了したときに通知します。=Thông báo khi adventure lặp được hoàn thành.

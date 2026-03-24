@@ -1,0 +1,83 @@
+山道を歩いていた{playername}は、魔物と戦う少女に協力する。その後、崖から落ちた{playername}は先程の少女タマキに救われる。タマキは{playername}の傷をそっと舐めて立ち去る。={playername} đang đi dọc theo con đường núi khi cô ấy quyết định giúp đỡ một cô gái đang chiến đấu với quái vật. Sau đó, {playername} rơi xuống vách đá nhưng được cô gái, Tamaki, cứu sống, người đã nhẹ nhàng liếm vết thương cho cô ấy trước khi rời đi.
+{playername}が山道を歩いていると、\n誰かが激しく戦っているような声が聞こえてきた。=Khi {playername} đi xuống con đường núi, cô ấy nghe thấy một giọng nói như thể ai đó đang chiến đấu dữ dội.
+にゃっ！　にゃっ、にゃっ！=Meow! Meow~nya!
+やった、倒したにゃ！\nあたしの実力、思い知ったかにゃ……=Nya, em đánh bại nó rồi! Cậu đã hiểu được khả năng của em chưa nya──
+……って、わあああああ！\nこの魔物、倒したと思ったら分裂するにゃあああ！=...Khoan đã, aaaaa! Những con quái vật này tách ra nhiều hơn khi em tưởng mình đã đánh bại chúng ~nya!
+ううう、やっかいだにゃ……\n逆方向から同時に攻撃をするだけで簡単に\n倒せると思うのににゃ……せめてあと一人いれば──=Ugh, chúng khó chịu quá~nya... Sẽ dễ dàng đánh bại chúng nếu tấn công từ hai phía đối lập cùng lúc~nya... Giá như có thêm một người nữa...
+にゃ……？　そこにいるのは、冒険者さんかにゃ？=Mèo...? Có phải là một mạo hiểm giả ở đằng đó không?
+にゃにゃにゃー！　グッドタイミングにゃ！\nちょっと、手伝ってほしいのにゃ！=Mèo~nya~nya!\nĐúng lúc quá! Này, cậu có thể giúp em một tay~nya không?
+わかった。=Được thôi.
+にゃにゃ！\nそれじゃあ、「いっせーの、にゃあ」で、\n逆側から攻撃してほしいのにゃ！=Mèo~nya! Vậy, cậu tấn công từ phía đối lược khi em đếm đến ba nhé~nya!
+いっせーの、にゃあ！=Một, hai, Nyaow!
+バッチリにゃあ！\nもう一匹も……いっせーの、にゃにゃあ！=Hoàn hảo~nya!\nThêm lần nữa... Một, hai, Nyaow~nya!
+にゃにゃっ！　大勝利にゃあ！\nキミの手伝いのおかげにゃ！=Mèo~nya! Chiến thắng tuyệt vời~nya!\nCảm ơn sự giúp đỡ của cậu!
+何かお礼をしたいところだけど、\nあいにくと、今は大したものを持ってないのにゃ。=Giá mà em có thể cảm ơn cậu bằng cách nào đó, nhưng không may, em hiện tại không có gì đáng giá để tặng.
+でも、このお礼は、いつか必ずするにゃ！\n期待しててほしいにゃ！=Tuy nhiên, em hứa sẽ đền đáp cậu một ngày nào đó! Hãy chờ đợi nhé~nya!
+それじゃあ、あたしはこれで失礼するにゃ。\n本当に、ありがとにゃ！=Vậy thì, em đi đây. Cảm ơn cậu rất nhiều~nya!
+
+
+猫耳の少女と別れた後、足場が不安定な\n山道を歩いていた{playername}。=Sau khi chia tay cô gái tai mèo, {playername} đang đi dọc theo con đường núi không vững chắc.
+
+わっ……！=Ối chà...!
+にゃっ？　今、誰かが崖に落ちたような気がしたにゃ？=Mèo? Có ai vừa rơi xuống vách đá à?
+あっ、あそこにいるのは、\nさっき助けてくれた人じゃないかにゃ！=Em cảm thấy đó là người đã giúp em trước đó!
+大変にゃーーーーっ！\n今すぐ助けにいくのにゃ！=Đây là trường hợp khẩn cấp~nya! Em phải đi giúp ngay lập tức~nya!
+にゃんくるりん！=Nyankururin!
+驚いたかにゃ？\nあたしは猫の獣人で身のこなしが軽いから、飛び降りたり、\n忍び込んだり、そういうのは得意なのにゃ。=Bất ngờ chứ? Em là người thú mèo, nên rất nhanh nhẹn. Nhảy từ vách đá và lén lút là sở trường của em~nya.
+って、そんな話は後にゃ！\n傷だらけになってるにゃ！=Nhưng, hãy để câu chuyện đó sau! Cậu đầy vết thương!
+にゃー……怪我、大丈夫かにゃ？\nもしよかったら……=Mèo... Cậu ổn chứ? Nếu được...
+さっき助けてくれたお礼として、\nあたしが特別に390ルピで回復薬を売ってあげるにゃ！=Để đáp ơn vì đã cứu em trước đó, em sẽ bán cho cậu một chai thuốc hồi phục với giá đặc biệt là 390 rupee!
+お礼なのに売るのか……=Bán như một món quà cảm ơn...
+なに、猫に顔引っかかれたみたいな顔してるにゃ。\nこれでも、もとは倍以上する薬を、\n特別に値引きしてあげてるのにゃ。=Sao vậy? Cậu đang làm vẻ mặt như thể bị mèo cào. Dù vậy, em vẫn đang giảm giá đặc biệt cho một chai thuốc thường có giá gấp đôi~nya.
+うーん、しょうがないにゃあ……\nそうは言っても、さっきは助かったしにゃ……=Hmm, em nghĩ không còn cách nào khác~nya... Nhưng dù sao, cậu đã cứu em trước đó, nên...
+うん、決めたにゃ。\n今日はお試しってことであげるにゃ。=Được rồi, em đã quyết~nya. Coi như là mẫu thử, và hôm nay em sẽ tặng cậu.
+ありがとうって……これはあたしのお礼だから、\nキミがお礼をいう必要はないにゃ。=Cảm ơn... Đây là cách em tỏ lòng biết ơn, nên cậu không cần cảm ơn em~nya.
+……って、そういえば、\nお礼をするって言っておきながら、\nさっきは名前を聞くのを忘れてたのにゃ。=Ồ, nhân tiện, em quên chưa hỏi tên cậu khi nói về lòng biết ơn lúc nãy.
+ふうん……キミは{playername}って言うんにゃ。=Hmm... Tên cậu là {playername}, đúng không?
+あたしはタマキにゃ！\nたい焼き屋でバイトしてたり、なにかとあちこちを\n駆け回ってるから、きっとまた会うこともあると思うにゃ。=Em là Tamaki! Em làm thêm ở một cửa hàng bán bánh taiyaki và chạy đi chạy lại khắp nơi, nên em nghĩ chúng ta có thể gặp lại nhau.
+これからもご贔屓よろしくにゃ！=Hãy tiếp tục ủng hộ em~nya!
+じゃああたしはこれで……って、にゃにゃ？\nまだほっぺたに傷が残ってるにゃ。=Vậy thì, em sẽ... Khoan~nya? Vẫn còn một vết xước trên má cậu.
+でも、回復薬はもう持ってにゃいし……\nこうなったら──=Nhưng em không còn thuốc hồi phục nào nữa... Trong trường hợp đó...
+──ぺろっ。=──Liếm.
+わっ、な、何を……=Ối, c-cậu đang làm gì vậy...
+何って、まだ傷があったから、\n舐めて消毒しただけにゃ。=Gì? Vẫn còn vết thương, nên em chỉ liếm và khử trùng chúng thôi~nya.
+にゃはは、ずいぶんと驚いてるみたいにゃ。=Nyahaha, cậu có vẻ khá bất ngờ~nya.
+まあ、これはサービスってことで！\nまったにゃー♪=Thôi, coi như là dịch vụ đi! Mèo, gặp lại sau♪
+戸惑う{playername}を残し、\nタマキは風のように去っていった……=Để lại một {playername} bối rối, Tamaki biến mất như làn gió...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

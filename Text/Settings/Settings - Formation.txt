@@ -1,0 +1,7 @@
+編成設定=Cài đặt thành lập đội
+同じパーティ内に姿の違う、同名キャラを編成可能です。\n設定で同名キャラの編成を制限することもできます。=Hãy tưởng tượng bạn có thể mang 5 Kyaru vào trận chiến.
+既に仲間になっているキャラが、別の姿で\n仲間になりました！=Một số nhân vật có phiên bản khác nhau\nĐặt cài đặt để bạn có thể mang tất cả cùng lúc.
+
+同名キャラ編成=Nhân vật cùng tên
+同じ名前のキャラを同一パーティ内に編成できるようにするかの設定です。=Đặt việc có thể sử dụng các nhân vật cùng tên trong cùng một đội hay không.
+編成可能=Có thể\ngộp lại

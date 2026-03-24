@@ -1,0 +1,32 @@
+##Profile##
+【物理】後衛で、相棒と共に山を駆ける新米レンジャー。スキルで自分の攻撃力とクリティカル時のダメージを上げＴＰを回復し、ダメージと防御力ダウンで敵を追い込む。=[Vật lý] Một Ranger mới toanh chạy xuyên qua núi với bạn bè ở hậu phương. Cô ấy sử dụng kỹ năng để tăng P.ATK và Sát thương P.CRIT của bản thân, cũng như hồi TP. Cô ấy cũng dùng kỹ năng để gây Sát thương Vật lý và giảm P.DEF của kẻ địch, đẩy chúng vào góc.
+
+魔物襲撃事件を追え=Truy tìm Vụ Tấn Công Quái Vật
+救えなかった命、救えた命=Những Mạng Sống Không Thể Cứu, Những Mạng Sống Có Thể Cứu
+明日への希望と小さな約束=Hy Vọng Cho Ngày Mai và Những Lời Hứa Nhỏ
+シオリの戦い方=Cách Chiến Đấu Của Shiori
+
+##UB##
+アローアンドクロウ=Mũi Tên và Bầm Vuốt
+
+##S1##
+レンジャーアロー=Ranger Arrow
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに自分のＴＰを中回復させる。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và giảm nhẹ P.DEF của chúng. Ngoài ra, hồi một lượng vừa phải TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＴＰを150回復$"=►Gây $1 Sát thương Vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch xuống $2 trong 12 giây.\n►Hồi 150 TP cho bản thân.
+
+##S2##
+フォレストブレッシング=Forest Blessing
+自分の物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップさせ、ＴＰを中回復する。=Tăng rất lớn P.ATK của bản thân và tăng nhẹ Sát thương P.CRIT của bản thân. Ngoài ra, hồi một lượng vừa phải TP cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを8％アップ自分のＴＰを150回復$"=►Tăng P.ATK của bản thân lên $1 trong 180 giây.\n►Tăng Sát thương P.CRIT của bản thân lên 8% trong 180 giây.\n►Hồi 150 TP cho bản thân.
+
+##EX##
+コンビネーションハント=Combination Hunt
+コンビネーションハント+=Combination Hunt+
+
+##S1##
+レンジャーアロー+=Ranger Arrow+
+自分の物理攻撃力を大アップし、目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに自分のＴＰを中回復させる。=Tăng rất lớn P.ATK của bản thân, gây sát thương vật lý lớn lên kẻ địch phía trước, và giảm nhẹ P.DEF của chúng. Ngoài ra, hồi một lượng vừa phải TP cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＴＰを150回復$"=►Tăng P.ATK của bản thân lên $1 trong 12 giây.\n►Gây $2 Sát thương Vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch xuống $3 trong 12 giây.\n►Hồi 150 TP cho bản thân.
+
+##UE##
+ニャットちゃん=Nyatt-Chan

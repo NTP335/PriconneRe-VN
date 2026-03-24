@@ -1,0 +1,17 @@
+Mahiru's Birthday
+
+えっほ、うんしょ……！\nあんちゃん、大丈夫だか？=Ếch-hô, ùn-shô...! Anh trai à, anh vẫn ổn chứ hả?
+ゆっくりでいいから滑らねぇよう気を付けるべ。\n芸人がスベるのは厳禁だど～♪=Cứ từ từ thôi, cẩn thận kẻo trượt chân đó nha. Diễn viên hài mà "trượt" (diễn nhạt) là cấm kỵ tuyệt đối đó nhen~♪
+それにしても今日は付き合ってくれてあんがとなぁ。\n山登りなんてこっちでできるとは思わなかったべ。\n故郷でなら、いくらでもできたんだけどよぉ。=Dù sao thì, cảm ơn anh hôm nay đã đi cùng em nha. Em không ngờ là ở đây cũng có thể leo núi được đấy. Chứ ở quê em thì muốn leo bao nhiêu mà chẳng được.
+ん～、また一つ年を取ったからなぁ。\n芸人になるって夢を絶対叶えるって、願掛けみてぇなもんかな。\n山のテッペンで、芸人のテッペン目指すぞって叫ぶんだべさ。=Ừm~, vì em lại già thêm một tuổi rồi mà. Coi như đây là một kiểu nghi thức cầu nguyện để nhất định hiện thực hóa giấc mơ trở thành diễn viên hài vậy. Em sẽ đứng trên đỉnh núi này và hét thật to là: "Mình sẽ nhắm tới vị trí số một (đỉnh cao) của giới diễn viên hài!" đó.
+あんちゃんに付き合ってもらったのは、\n……それを、見届けてほしかったからだべ。=Lý do em nhờ anh đi cùng... là vì em muốn anh chứng kiến khoảnh khắc đó đấy.
+へへっ。\nもちろんだべ。=Hề hề. Tất nhiên rồi ạ.
+あ～いい景色、故郷を思い出すなぁ。\n無事テッペンまで登ってこれてよかったべ。\n……一人だったら、こんな達成感はなかっただろうなぁ。=A~ cảnh đẹp quá, làm em nhớ quê ghê. May mà chúng mình đã leo được đến đỉnh núi an toàn nhỉ. ...Nếu chỉ có một mình, chắc em sẽ không thấy cảm giác thỏa mãn thế này đâu.
+それもこれも、あんちゃんがいてくれたからだべ。\n諦めずに芸人目指せるのも、心強い相方がそばにいてくれるからだ。=Tất cả đều là nhờ có anh ở bên đấy. Em có thể không bỏ cuộc mà tiếp tục hướng tới mục tiêu diễn viên hài, cũng là vì có một người cộng sự đáng tin cậy luôn ở cạnh bên.
+へへ、あんがとなぁ。\nあれ？　プレゼントまで用意してくれてたべか！？\n……荷物になるのに、ここまで背負ってきてくれてただか……=Hề hề, cảm ơn anh nha. Ơ kìa? Anh còn chuẩn bị cả quà cho em nữa sao!? ...Dù nó làm hành lý nặng thêm, vậy mà anh vẫn cõng nó lên tận đây cho em à...
+あんちゃん、オラなんまらうれしいだよ。\n絶対に芸人になってみせるからな！\nその……ずっとオラのそばで、見ててくんろ……♪=Anh trai à, em vui lắm luôn ý. Nhất định em sẽ cho anh thấy em trở thành diễn viên hài! Vậy nên là... anh hãy cứ ở bên cạnh và dõi theo em mãi nhé...♪
+
+Player Prompts
+どうして誕生日に山登りを……？=Sao vào ngày sinh nhật mà chúng mình lại đi leo núi thế này...?
+絶対に叶えよう。=Nhất định hãy hiện thực hóa nó nhé.
+誕生日おめでとう、まひるさん。=Chúc mừng sinh nhật chị Mahiru.

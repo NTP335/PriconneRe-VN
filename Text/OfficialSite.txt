@@ -1,0 +1,42 @@
+公式サイト=Trang chủ
+ミニゲームへ=Đến Minigame
+
+sr:"^「(.+)」で挑戦してみてね！$"=Thử $1
+
+アカウント連携設定のお願い=Yêu cầu liên kết tài khoản
+アカウント連携します。よろしいですか？=Tài khoản của bạn sẽ được liên kết. Có chứ?
+アカウント連携することで、端末を紛失した場合や、\n新しい端末に変更した際に、\nプリンセスコネクト！Re:Diveのゲームデータを\n復旧してプレイすることができます。\n=Bằng cách liên kết tài khoản, bạn có thể khôi phục dữ liệu Princess Connect! Re:Dive nếu thiết bị bị mất hoặc thay thế.\n
+ゲームデータを連携する方法を選択してください。=Chọn cách liên kết dữ liệu.
+外部サービス認証を使う=Sử dụng xác thực dịch vụ bên ngoài
+連携方法選択=Lựa chọn phương pháp đồng bộ
+[3C404E]Google Playアカウント\nで連携する[-]  [-]=[3C404E] Liên kết với tài khoản Google Play [--]
+[3C404E]Game Centerで\n連携する[-] [-]=[3C404E] Liên kết với Game Center [--]
+[3C404E]Facebookで\n連携する[-] [-]=Liên kết với Facebook
+[3C404E]Facebookアカウント\nで連携する[-]=[3C404E] Liên kết với tài khoản Facebook [-]
+[FF7C4E,D62146]Cygames IDに連携できる\nゲームデータは1つのみです。[-]=[FFF7C4E, D62146)Cygames Chỉ có một dữ liệu game có thể liên kết với ID của bạn. [-]
+Cygames ID連携を行うと\nCygames ID連携を行った端末同士で\nプリンセスコネクト！Re:Diveのゲームデータを\n共有することが出来ます。=Khi liên kết với Cygames ID, bạn có thể chia sẻ dữ liệu game của Re:Dive với các thiết bị đã liên kết với nhau.
+Cygames IDで引き継ぎます。よろしいですか？=Tôi sẽ tiếp quản bằng Cygames ID của mình. Được chứ?
+Cygames IDで引き継ぐ=Tôi sẽ tiếp quản game bằng ID của mình
+Cygames iDと連携済みです。=Tôi đã đồng bộ với Cygames ID rồi.
+前回選択=Lựa chọn cuối cùng
+利用規約=Điều khoản dịch vụ
+[FF7C4E,D62146]選択したSNSアカウントがCygames ID未登録の場合、\nサインインすることでCygames IDが作成されます。[-]=[FFF7C4E, D62146) Nếu tài khoản mạng xã hội được chọn chưa được đăng ký làm Cygames ID, Cygames ID sẽ được tạo bằng cách đăng nhập. [-]
+Cygames IDサインイン=Cygames ID, đăng nhập
+Cygames IDと連携しよう=liên kết với các Cygames ID
+Cygames IDとの連携について=Liên kết với Cygames ID
+Cygames IDへ=Đến Cygames ID
+
+同意する=Tôi đồng ý
+Cygames IDの利用規約およびプライバシーポリシーに\n同意の上、サインインしてください。=Vui lòng đăng nhập sau khi đồng ý với điều khoản Cygames ID và chính sách quyền riêng tư.
+利用規約およびプライバシーポリシーへの同意が必要です。=Bạn phải đồng ý với điều khoản dịch vụ và chính sách quyền riêng tư.
+ブラウザからサインインを完了してください。\nサインインを確認でき次第、次に進みます。=Vui lòng đăng nhập thông qua trình duyệt. Sau khi xác nhận chữ ký, hãy tiếp tục.
+サインイン中=Đang đăng nhập
+
+
+
+Cygames ID\n退会について=Cygames ID\nVề việc xóa tài khoản
+iCloudバックアップ=Sao lưu iCloud
+違反行為に対する\n措置について=Về các biện pháp xử lý\nđối với hành vi vi phạm
+Cygames IDポータルサイトを開きます。\nよろしいですか？=Mở trang cổng thông tin Cygames ID.\nBạn có đồng ý không?
+Cygames IDの退会について=Về việc xóa tài khoản Cygames ID
+ブラウザにてCygames IDのサインインが必要です。\n\nサインイン済みの場合、退会ページが開きます。\n\n未サインインの場合、サインインページが開きます。\nサインイン後、マイページ下部のメニューから\n［アカウント情報］を選択し、［退会について］を選択\nすることで退会ページに移動します。=Bạn cần đăng nhập vào Cygames ID trên trình duyệt.\n\nNếu đã đăng nhập, trang xóa tài khoản sẽ mở ra.\n\nNếu chưa đăng nhập, trang đăng nhập sẽ hiển thị.\nSau khi đăng nhập, hãy chọn [Thông tin tài khoản] từ menu dưới cùng của Trang cá nhân (My Page), sau đó chọn [Về việc xóa tài khoản] để di chuyển đến trang xóa tài khoản.

@@ -1,0 +1,34 @@
+##Profile##
+【魔法】後衛から極大魔法で敵を滅する願いの魔法士。ＴＰを回復しつつ攻撃力を累積アップする補助スキルで自身の力を高め、強力な範囲攻撃を放ち敵を一掃する。=[Ma thuật] Một pháp sư ước mơ hủy diệt kẻ địch bằng ma thuật tối đa từ hàng sau. Tích lũy sức mạnh tấn công với kỹ năng hỗ trợ khôi phục TP và tăng cường sức mạnh tấn công, đồng thời phóng thích các đòn tấn công diện rộng mạnh mẽ để quét sạch kẻ địch.
+
+慣れない騎士のあやしかた=Con Đường Giải Tỏa Của Một Kỵ Sĩ Xa Lạ
+こっそり特訓したくて=Tôi Muốn Tập Luyện Thầm Lặng
+新たな力、これからの強さ=Sức Mạnh Mới, Sức Mạnh Tương Lai
+スウィートテイストデート=Ngọt Lịm Hẹn Hò
+
+##UB##
+ディバインレイン=Mưa Thiêng Liêng
+敵全体に魔法大ダメージを与える。=Gây sát thương ma thuật lớn lên toàn bộ kẻ địch.
+
+##S1##
+トゥインクルブースト=Tăng Cường Lấp Lánh
+自分のＴＰを中回復し、さらに自分の魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージを小アップさせる。=Khôi phục TP của bản thân một chút, và cũng tăng nhẹ tấn công ma thuật, tỷ lệ chí mạng ma thuật và sát thương chí mạng ma thuật của bản thân.
+自分のＴＰを中回復し、さらに自分の魔法攻撃力を中アップ、魔法クリティカルと魔法攻撃クリティカル時のダメージを小アップさせる。=Khôi phục TP của bản thân một chút, tăng vừa phải tấn công ma thuật của bản thân, và cũng tăng nhẹ tỷ lệ chí mạng ma thuật và sát thương chí mạng ma thuật.
+
+##S2##
+レイディアントショット=Phát Bắn Rực Rỡ
+前から２番目の敵を中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに魔法攻撃を行うすべての味方キャラの魔法攻撃力を小アップさせる。=Gây sát thương ma thuật vừa phải lên kẻ địch trong phạm vi xung quanh kẻ địch gần thứ hai, và cũng tăng nhẹ tấn công ma thuật cho toàn bộ đồng minh thuộc hệ ma thuật.
+r:"^範囲内の敵に(\d+)の魔法ダメージ対象の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma thuật lên kẻ địch trong phạm vi 400.\n►Tăng tấn công ma thuật của toàn bộ đồng minh thuộc hệ ma thuật đi $2 trong 180s.
+
+##EX##
+ディアレストメモリー=Kỷ Niệm Thân Thương Nhất
+ディアレストメモリー+=Kỷ Niệm Thân Thương Nhất+
+
+##S1+##
+トゥインクルブースト+=Tăng Cường Lấp Lánh+
+自分のＴＰを中回復し、さらに自分の魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージを小アップさせる。このスキルの魔法攻撃力アップと魔法攻撃クリティカル時のダメージアップの上昇量は、このスキルを使用するたび、最大５回まで増加する。=Cứu. Giúp.
+自分のＴＰを中回復し、さらに自分の魔法攻撃力を中アップ、魔法クリティカルと魔法攻撃クリティカル時のダメージを小アップさせる。このスキルの魔法攻撃力アップと魔法攻撃クリティカル時のダメージアップの上昇量は、このスキルを使用するたび、最大５回まで増加する。=Khôi phục TP của bản thân một chút, và cũng tăng nhẹ tấn công ma thuật, tỷ lệ chí mạng ma thuật và sát thương chí mạng ma thuật của bản thân. Lượng tăng tấn công ma thuật và sát thương chí mạng ma thuật sẽ tăng theo số lần sử dụng kỹ năng này, tối đa lên đến 5 lần.
+r:"^自分のＴＰを(\d+)回復自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを25アップ自分の魔法攻撃クリティカル時のダメージを5％アップ$"=►Khôi phục TP của bản thân đi $1.\n►Tăng tấn công ma thuật của bản thân đi $2 (+0.25× \n$2×Số Lần Kỹ Năng) trong 180s.\n►Tăng tỷ lệ chí mạng ma thuật của bản thân đi 25 trong 180s.\n►Tăng sát thương chí mạng ma thuật của bản thân đi 5% (+1%×Số Lần Kỹ Năng) trong 180s.
+
+##UE##
+ウィッシュプリンセスローブ=Áo Choàng Phép Thuật Ước Nguyện

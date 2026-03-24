@@ -1,0 +1,114 @@
+システム=Hệ thống
+
+表示する=Hiển thị
+表示しない=Không hiển thị
+
+通知=Thông báo
+
+ボイスデータダウンロード=Tải dữ liệu giọng nói
+ボイスデータのダウンロード設定です。\n設定をOFFにすると、ダウンロードしていないボイスは再生されなくなります。=Cài đặt tải dữ liệu giọng nói.\nKhi TẮT, các giọng nói chưa được tải sẽ không được phát.
+
+ムービー画質=Chất lượng phim
+各ムービーの画質を設定します。=Đặt chất lượng đồ họa cho các video.
+高画質版=Cao cấp
+標準版=Tiêu chuẩn
+
+他プレイヤーのキャラ表示切替=Phản ánh ngoại hình người chơi khác dựa trên giá trị sao
+他プレイヤーのキャラ表示切替を反映するか選択できます。\n※「反映しない」を選択すると、他プレイヤーの設定が無効になります。=Khi chọn "Không phản ánh", bạn sẽ không thấy biểu tượng nhân vật của người chơi khác dựa trên giá trị sao.
+反映する=Phản ánh
+反映しない=Không phản ánh
+
+購入金額通知=Thông báo tổng mua hàng
+毎月、合計で￥100,000を超える購入をしようとした場合に、アラートを表示するか設定します。=Đặt có hiển thị cảnh báo hay không nếu tổng mua hàng hàng tháng sắp vượt quá $1,000
+
+クエストクリア後のフレンド申請ダイアログ表示=Hiển thị hộp thoại lời mời kết bạn
+フレンドでないプレイヤーからサポートキャラをレンタルした場合、\nフレンド申請ダイアログを表示するか設定します。=Đặt có hiển thị hộp thoại lời mời kết bạn hay không khi bạn chọn nhân vật hỗ trợ\n từ một người chơi không phải bạn bè.
+
+サポート設定の獲得マナ通知=Thông báo về Mana nhận được từ Nhân vật Hỗ trợ
+サポート設定で獲得しているマナが5,000,000以上の場合に、通知を表示するか設定します。=Đặt có hiển thị thông báo hay không nếu nhận được hơn 5,000,000 Mana từ Hỗ trợ.
+
+未読ストーリーの通知=Thông báo cốt truyện chưa đọc
+未読のストーリーがある場合、通知を表示するか設定します。=Đặt có hiển thị thông báo hay không nếu có cốt truyện chưa đọc.
+
+ガチャの「ダウンロード中」表示=Hiển thị "Đang tải..." khi Gacha
+「表示する」を選択すると、未解放キャラを仲間にする度に「ダウンロード中」表示をします。\n※ノーマルガチャには適用されません。=Chọn "Hiển thị" sẽ cho thấy thanh tải khi có nhân vật mới được tuyển.
+
+マイパーティ編成不可の通知=Hạn chế Đội
+マイパーティで編成できないキャラがいた場合、通知を表示するか設定します。=Bạn có thể chọn hiển thị thông báo nếu đội bao gồm nhân vật không thể sử dụng.
+
+ランクアップ時の確認ダイアログ表示=Xác nhận Thăng hạng
+消費する装備やマナがない場合、ランクアップ実行の確認ダイアログを表示するか設定します。=Đặt có hiển thị hộp thoại xác nhận cho thăng hạng hay không
+
+まとめてランクアップ時の確認ダイアログ表示=Xác nhận Thăng hạng trên 1 bậc
+キャラクターのランクアップをまとめて行うとき、ランクアップ実行の確認ダイアログを表示するか設定します。=Đặt có hiển thị hộp thoại xác nhận hay không khi thăng nhiều bậc
+
+アイテム交換セット時ダイアログ表示=Trao đổi Nhân vật Thêm
+エクストラキャラのアイテムをセットする場合、交換確認ダイアログを表示するか設定します。=Đặt có hiển thị hộp thoại xác nhận hay không khi trao đổi vật phẩm lấy nhân vật thêm.
+
+家具Lvアップ可能な効果つき家具の通知=Thông báo Nâng cấp Hiệu quả Nội thất
+Lvアップ可能な効果つき家具がある場合、通知を表示するか設定します。=Đặt có nhận thông báo hay không khi có món nội thất có thể nâng cấp
+
+新しく追加されたミニゲームの通知=Thông báo Mini Game Mới thêm
+みんなのゲームテーブルに新しくミニゲームが追加された場合、通知を表示するか設定します。=Đặt có hiển thị thông báo hay không khi có mini-game mới được thêm.
+
+みんなのゲームテーブルのプレイ動画保存設定=Cài đặt Video cho Mini Game
+ダウンロードしたプレイ動画を保存するか設定します。\n「保存しない」を選択すると、プレイ動画はアプリ起動の度に削除されます。=Đặt có lưu các video đã tải hay không;\nnếu chọn "Không lưu", video sẽ bị xóa mỗi khi bạn thoát game.
+
+イベント終了予告=Cảnh báo Kết thúc Sự kiện
+イベントクエストが終了する前に、イベント終了の注意喚起をダイアログ表示するか設定します。=Đặt có hiển thị lời nhắc về kết thúc sự kiện trước khi sự kiện kết thúc hay không.
+3日前から表示=3 ngày trước
+最終日のみ表示=Chỉ ngày cuối
+
+サイドストーリーボタンの表示設定=Cài đặt Cốt truyện Phụ
+クエストマップなどにサイドストーリーのボタンを表示するか設定します。=Đặt có hiển thị nút cốt truyện phụ trên bản đồ nhiệm vụ hay không.
+
+ショップ装備アイテム表示順=Thứ tự hiển thị Cửa hàng
+ショップで販売されている装備アイテムを、所持数の昇順か、レア度の降順のどちらで表示するか設定します。=Vật phẩm Trang bị bán trong cửa hàng được hiển thị\ntheo thứ tự tăng dần theo số lượng đã sở hữu hoặc giảm dần theo độ hiếm.
+所持数の昇順=Tăng dần\nSố lượng sở hữu
+レア度の降順=Giảm dần\nĐộ hiếm
+
+みんなのカレンダー演出設定=Cài đặt Hoạt ảnh Lịch của Mọi Người
+毎日初回のギルドハウス遷移時、みんなのカレンダーの演出を再生するか設定します。\n※「再生しない」を選択した場合も、ギルドハウス内のカレンダーから演出を確認できます。=Tắt Hoạt ảnh Lịch trong Nhà Guild.
+
+サポートキャラ★変更後の確認ダイアログ=Xác nhận Thay đổi Cấp sao Nhân vật Hỗ trợ
+クランバトル サポートキャラ★変更後の確認ダイアログ=Xác nhận Thay đổi Cấp sao Nhân vật Hỗ trợ CB
+クランバトルおよびみんなの稽古場でサポートキャラの★変更を行った後、\n確認ダイアログを表示するか設定します。=Đặt có hiển thị hộp thoại xác nhận hay không\nsau khi thay đổi cấp sao cho nhân vật hỗ trợ CB hoặc Phòng thử nghiệm của Mọi Người.
+クランバトルでサポートキャラの★変更を行った後、確認ダイアログを表示するか設定します。=Đặt có hiển thị hộp thoại xác nhận hay không\nsau khi thay đổi cấp sao cho nhân vật hỗ trợ CB.
+
+アイテム所持上限時のダイアログ表示=Thông báo xác nhận khi đạt giới hạn vật phẩm
+所持上限を超えた獲得アイテムおよびマナが、\nプレゼントボックスに送られたことの確認ダイアログを表示するか設定します。=Thiết lập hiển thị hộp thoại xác nhận\nkhi vật phẩm vượt giới hạn được gửi đến hộp quà
+
+クランバトルモンスター討伐演出設定の確認ダイアログ=Thông báo xác nhận khi đánh bại quái vật trong Clan Battle
+クランバトルを開始する前に、モンスター討伐演出設定を確認するダイアログを開きます。=Thông báo cho phép xác nhận thiết lập đánh bại quái vật trước khi bắt đầu Clan Battle.
+
+クランバトルのモンスター討伐演出設定=Thiết lập hoạt ảnh đánh bại quái vật trong Clan Battle
+クランバトルのモンスター討伐演出を再生するか設定します。=Thiết lập có phát hoạt ảnh đánh bại quái vật trong Clan Battle hay không.
+再生する=Phát
+再生しない=Không\nPhát
+
+限定ショップ遷移設定=Thiết lập chuyển đến Cửa hàng Bonus
+限定ショップ出現中、ショップボタンを選択した際に開くタブを設定します。=Thiết lập tab mở khi truy cập cửa hàng trong khi Cửa hàng Bonus vẫn đang diễn ra.
+通常ショップ=Cửa hàng thường
+
+絆ランク演出再生確認=Hoạt ảnh tăng độ gắn bó
+絆ランク演出を再生するとき、確認ダイアログを表示するか設定します。=Thiết lập có hiển thị thông báo xác nhận khi phát hoạt ảnh tăng độ gắn bó hay không.
+
+絆ランク演出の再生設定=Thiết lập phát lại hoạt ảnh tăng độ gắn bó
+絆ランク演出を再生するか設定します。=Thiết lập có phát hoạt ảnh tăng độ gắn bó hay không.
+全て再生=Phát tất cả
+全てスキップ=Bỏ qua tất cả
+
+期間限定ストーリープレゼント未取得の通知=Thông báo quà tặng giới hạn chưa nhận
+期間限定ストーリーの公開期間中、ストーリー閲覧で獲得できるプレゼントを受け取っていない場合、\n通知を表示するか設定します。=Thiết lập có muốn được thông báo khi chưa nhận\nquà tặng vì xem cốt truyện giới hạn trong thời gian phát hành cốt truyện hay không.
+
+まとめてスキップ完了後の確認ダイアログ表示=Thông báo xác nhận sau khi hoàn thành bỏ qua
+まとめてスキップ完了後に未スキップクエストがある場合、確認ダイアログを表示するか設定します。=Thiết lập có hiển thị thông báo xác nhận khi còn\nnhiệm vụ chưa bỏ qua sau khi hoàn thành một loạt bỏ qua hay không.
+
+
+キャラ強化画面からの装備作成において原鉱を消費する際に確認ダイアログを表示するか設定します。=Thiết lập có hiển thị hộp thoại xác nhận khi tiêu hao\nquặng để kết hợp trang bị từ màn hình tăng cường hay không.
+
+ランクアップ装備作成で原鉱を消費する際の確認ダイアログ=Hộp thoại xác nhận tiêu hao quặng
+ムービー中にBGMが使用されている場面では「BGM」「ムービー」両方を調節することでミュートができます。=Trong cảnh phim có sử dụng BGM, bạn có thể tắt âm thanh bằng cách điều chỉnh cả "BGM" và "Phim".
+
+
+キャラ強化=Tăng cường nhân vật

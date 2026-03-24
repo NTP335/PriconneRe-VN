@@ -1,0 +1,28 @@
+##Profile##
+【物理】前衛で猛攻から味方を守護する闇のお姉ちゃん。バトル開始時の行動不能無効スキルで周囲の味方を守り、範囲を束縛するスキルで敵を牽制し、戦況を一変する。=[Vật lý] Một Onee-chan Yami bảo vệ đồng đội khỏi những đòn tấn công khốc liệt ở tuyến đầu. Với kỹ năng phản chế khống chế ngay từ đầu trận, cô bảo vệ đồng minh xung quanh và có thể đảo ngược tình thế trận với kỹ năng trói kẻ thù trong phạm vi.
+
+##UB##
+ダークネスコンビ姉ーション=Hội Chị Em Bóng Tối
+前方範囲内の敵すべてに物理大ダメージを与え、味方全体の物理攻撃力を大アップさせ、さらに自分のＨＰを中回復させる。このスキルで与えたダメージに応じて物理攻撃力アップの効果量が最大２倍までアップする。=Gây sát thương vật lý (P.DMG) lớn lên kẻ thù trong phạm vi và tăng mạnh P.ATK cho tất cả đồng minh, đồng thời phục hồi một chút HP cho bản thân. Lượng tăng P.ATK sẽ tăng theo sát thương vật lý (P.DMG) mà kỹ năng này gây ra, tối đa 2 lần.
+r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý (P.DMG) lên kẻ thù trong phạm vi 600.\n►Tăng P.ATK cho tất cả đồng minh lên $2 trong 18s.\n►Phục hồi HP của bản thân $3.
+
+##S1##
+闇のお姉ちゃんが守るよ♪=Onee-chan Yami Sẽ Bảo Vệ♪
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせ、物理無効バリアを展開する。バトル開始後、初弾のこのスキルは範囲内の味方が敵から受ける行動不能を３回まで無効にする。=Tăng mạnh P.ATK cho đồng minh trong phạm vi và triển khai Khiên chống lại sát thương vật lý (P.DMG). Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên sẽ cấp khả năng miễn nhiễm với hiệu ứng khống chế (immobility immunity) lên đồng minh trong phạm vi, tối đa 3 lần.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する初使用時、範囲内の味方の受ける行動不能を３回まで無効化する$"=Thời gian niệm: 0.94s\n►Tăng P.ATK cho đồng minh trong phạm vi 300 lên $1 trong 12s.\n►Triển khai Khiên lên đồng minh trong phạm vi 300, chống lại $2 sát thương vật lý (P.DMG) trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Phá hủy tối đa 3 lần hiệu ứng khiến đồng minh trong phạm vi 300 bất động.
+
+##S2##
+ノワールホールド=Nắm Noir
+前方範囲内の敵すべてに物理中ダメージを与え、束縛する。=Gây sát thương vật lý (P.DMG) vừa phải lên kẻ thù trong phạm vi và trói chúng.
+
+##EX##
+闇のお姉ちゃんパワー=Sức Mạnh Onee-chan Yami
+闇のお姉ちゃんパワー+=Sức Mạnh Onee-chan Yami+
+
+##S1+##
+闇のお姉ちゃんが守るよ♪+=Onee-chan Yami Sẽ Bảo Vệ♪+
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、物理無効バリアを展開する。バトル開始後、初弾のこのスキルは範囲内の味方が敵から受ける行動不能を３回まで無効にする。=Tăng mạnh P.ATK và P.CRIT Rate cho đồng minh trong phạm vi, và triển khai Khiên chống lại sát thương vật lý (P.DMG). Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên sẽ cấp khả năng miễn nhiễm với hiệu ứng khống chế (immobility immunity) lên đồng minh trong phạm vi, tối đa 3 lần.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する初使用時、範囲内の味方の受ける行動不能を３回まで無効化する範囲内の味方の物理クリティカルを100アップ$"=Thời gian niệm: 0.94s\n►Tăng P.ATK cho đồng minh trong phạm vi 300 lên $1 trong 12s.\n►Triển khai Khiên lên đồng minh trong phạm vi 300, chống lại $2 sát thương vật lý (P.DMG) trong 12s.\n►Tăng P.CRIT Rate cho đồng minh trong phạm vi 300 lên 100 trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Phá hủy tối đa 3 lần hiệu ứng khiến đồng minh trong phạm vi 300 bất động.
+
+##UE##
+キング弟くん=Anh Trai Vua

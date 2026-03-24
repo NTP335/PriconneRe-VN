@@ -1,0 +1,17 @@
+Jun Shirogane's Birthday
+
+お疲れさま、少年。\n今日は飛び入りで怪人役をやってもらって悪かったね。=Làm tốt lắm, Boy. Xin lỗi vì đã kéo cậu vào vai phản diện ngắn ngủi như vậy.
+台詞はまあ置いておくとして、\n君はやられ役になった時のリアクションが非常にいい。\nこちらも気持ちよくヒーローをやることができるよ。=Bỏ qua việc giao tiếp, phản ứng của cậu khi bị hạ rất hoàn hảo. Thật sự đã để tôi đóng vai anh hùng trọn vẹn.
+無理な頼みを聞いてもらった礼だ。\nどうかな、これから一緒に打ち上げといかないか？\nもちろんご馳走させてもらうよ。=Như lời cảm ơn vì đã theo yêu cầu ích kỷ của tôi... sao? Chúng ta cùng ăn một bữa nhé? Tất nhiên là tôi mời.
+ん？　ああ、もしかして知っていたのか。\nそう、今日は私の誕生日だ。\n……まあ、誕生日パーティーなんてやる柄でもないし。=Hm? À... Có thể cậu đã biết rồi sao? Vâng, hôm nay đúng là sinh nhật tôi. ...Dù tôi không phải kiểu người thích tiệc sinh nhật.
+む……そうかい？\n君がやりたいというなら、断る理由なんてないんだけど。\nパーティーか……ふふ、ワクワクする響きだ。=Hmm... vậy sao? Nếu đó là điều cậu muốn, tôi không có lý do để từ chối. Một bữa tiệc, hử... Hehe, nghe thú vị đấy.
+……え？　ケーキとプレゼントを買ってくる？\n待つんだ少年、そこまでしてもらうのは──ああ、行ってしまった。=...Hả? Cậu muốn mua bánh và quà? Chờ một chút, Boy, làm vậy cho tôi là... À, thế là cậu đi rồi.
+まったく、楽しい子だな。=Thật sự, thằng trẻ sống động thật.
+ああ、ありがとう。\nケーキに……蝋燭まで用意してくれたのか。\nふふ。バースデーケーキの火を吹き消すなんて久しぶり……あ。=À, cảm ơn. Bánh... cậu còn chuẩn bị cả nến nữa. Hehe. Đã lâu rồi tôi không thổi nến trên bánh sinh nhật... À.
+……まぁ、いいか。\nこのパーティーの参加者は私と少年だけだ。=...Vậy cũng được. Người tham dự bữa tiệc này chỉ có tôi và cậu, Boy.
+──フーッ。\nん……少年、あまり顔を見つめないでくれ。\n……照れてしまうだろう？=Phew. Ừm... Boy, đừng nhìn mặt tôi quá nhiều. ...Cậu sẽ khiến tôi đỏ mặt, thấy chứ?
+
+Player Prompts
+いいの？　だって今日は……=Cậu chắc chứ? Bởi vì hôm nay...
+じゃあ誕生日パーティーがやりたい！=Dù vậy, em vẫn muốn tổ chức tiệc sinh nhật cho cậu!
+誕生日おめでとう、純さん。=Chúc mừng sinh nhật, Jun-san

@@ -1,0 +1,31 @@
+##Profile##
+【物理】後衛で味方の火力の底上げを担う魔法狩人。ユニオンバーストで味方全体の物理攻撃力を大きく高めスキルは範囲内の物理攻撃力を高め、輝矢の一撃を放つ。=[Vật lý] Một Nữ Thợ Săn Ma Thuật hỗ trợ sức mạnh tấn công của đồng minh từ hàng sau. Sau khi tăng cường sức mạnh tấn công vật lý cho tất cả đồng minh với Union Burst và cho những người ở gần với kỹ năng, cô ấy thả những mũi tên lấp lánh của chính mình.
+
+##UB##
+ピュアリーシャワー=Mưa Thuần Túy
+味方全体の物理攻撃力を特大アップさせる。=Tăng mạnh Tấn công Vật lý của đồng minh.
+
+##S1##
+ピュアリーエイミング=Ngắm Bắn Thuần Túy
+自分を中心とした範囲内の味方の物理攻撃力と物理クリティカルを中アップさせる。=Tăng vừa phải P.ATK và Tỷ lệ P.CRIT cho tất cả đồng minh gần đó.
+
+##S2##
+ピュアリースナイプ=Purely Snipe
+ピュアリースナイプ+=Purely Snipe+
+自分を中心とした範囲内の味方の物理攻撃力を大アップさせ、さらに目の前の敵１キャラに物理特大ダメージを与える。=Tăng lớn P.ATK cho tất cả đồng minh trong phạm vi 300. Gây sát thương vật lý lớn lên kẻ địch ngay phía trước.
+
+自分を中心とした範囲内の味方の物理攻撃力を特大アップさせ、自分に物理/魔法無効バリアを展開し、目の前の敵１キャラに物理特大ダメージを与えて物理防御力を大ダウンさせる。攻撃時、自分にバリアが展開されている場合、自分の物理攻撃力を特大アップし、このスキルのダメージは前方の敵すべてが対象になり、物理防御力を一定値無視し、スタンさせる。=Tăng cực lớn P.ATK cho đồng minh trong phạm vi xung quanh bản thân, tạo khiên chống cả vật lý và ma thuật lên bản thân, và gây sát thương vật lý cực lớn lên kẻ địch phía trước đồng thời giảm mạnh P.DEF của chúng. Khi tấn công, nếu khiên đang hoạt động trên bản thân, tăng cực lớn P.ATK của bản thân; sát thương kỹ năng này sẽ nhắm vào tất cả kẻ địch phía trước, bỏ qua một lượng cố định P.DEF và làm choáng chúng.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物魔無効バリアを展開する自分の物理攻撃力を(\d+)アップ対象の敵に(\d+)の物理ダメージ\(バリア展開中、物理防御力を50無視する\)対象の敵の物理防御力を(\d+)ダウン対象の敵を一定時間行動不能にする$"=►Tăng P.ATK của đồng minh trong phạm vi lên $1.\n►Tạo khiên trên bản thân hấp thụ $2 Sát thương Vật lý/Ma thuật trong 12 giây.\n►Tăng P.ATK của bản thân lên $3 trong 12 giây.\n►Gây $4 Sát thương Vật lý lên kẻ địch mục tiêu (bỏ qua 50 P.DEF khi khiên đang hoạt động).\n►Giảm P.DEF của kẻ địch mục tiêu xuống $5 trong 12 giây.\n►Gây choáng lên kẻ địch mục tiêu trong 3 giây.
+
+##EX##
+ピュアリーブレイブ=Purely Courage
+ピュアリーブレイブ+=Purely Courage+
+
+##S1+##
+ピュアリーエイミング+=Purely Aiming+
+自分を中心とした範囲内の味方の物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに物理攻撃クリティカル時のダメージを小アップさせる。=Tăng cực lớn P.ATK và tăng vừa phải Tỷ lệ P.CRIT cho tất cả đồng minh gần đó. Đồng thời, tăng nhẹ Sát thương P.CRIT của đồng minh.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを(\d+)％アップ$"=►Tăng P.ATK của đồng minh lên $1 trong 18 giây.\n►Tăng Tỷ lệ P.CRIT của đồng minh lên $2 trong 18 giây.\n►Tăng Sát thương P.CRIT của đồng minh lên $3% trong 18 giây.
+
+##UE##
+マジカルピュアリーボウ=Magical Purely Bow
+マジカルピュアリーリボン=Magical Purely Ribbon

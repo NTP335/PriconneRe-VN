@@ -1,0 +1,60 @@
+
+r:"^条件(\d+)$"=Tình trạng $1
+r:"^強化上限 (\d+)$"=Giới hạn tăng cường $1
+r:"^コネクト (\d+)$"=Kết nối $1
+強化状況=Tăng cường trạng thái
+r:"^ボーナス(\d+)$"=Thưởng $1
+総コネクトRANK=Tổng Connect RANK
+r:"^属性ボーナスアップ(\[-\] \[FFBB00,CE4F00\])?([0-9＋+.%％]*)$"=Thưởng nguyên tố$1$2[-]
+r:"^パーティダメージブースト(\[-\] \[FFBB00,CE4F00\])?([LvVl0-9.%％]*)$"=Tăng sát thương cho toàn đội$1$2[-]
+r:"^キャラLv上限突破(\[-\] \[FFBB00,CE4F00\])?([0-9＋+.%％]*)$"=Vượt quá giới hạn Lv nhân vật$1$2[-]
+
+
+解放済みのコネクトRANKボーナスはありません。=Hiện chưa có phần thưởng Connect RANK nào được mở khóa.
+以下のアイテムを消費してコネクトRANKアップします。\nよろしいですか？=Các vật phẩm sau đây sẽ được tiêu thụ để tăng Connect RANK.\nBạn có đồng ý không?
+コネクトRANK選択=Chọn Connect Rank
+選択したコネクトRANKまでまとめて強化できます。=Có thể cường hóa hàng loạt Connect Rank đã chọn.
+アイテムの入手場所を確認できます。=Bạn có thể kiểm tra vị trí của vật phẩm.
+
+r:"^コネクトRANK (\d+)$"=Connect RANK $1
+コネクトRANKボーナス詳細=Chi tiết về phần thưởng Connect RANK
+コネクトRANK強化に必要なアイテムを確認できます。=Các vật phẩm cần thiết để tăng cấp Connect Rank.
+r:"^コネクトRANK強化上限を(\d+)から(\d+)に解放$"=Mở khóa giới hạn nâng cấp Connect Rank từ $1 đến $2
+
+被ダメカット=Giảm sát thương
+
+マスターオブラビリンスの効果により、以下のアイテムを入手しました。=Do ảnh hưởng từ hiệu ứng của Master of Labyrinth (Bậc thầy Mê cung), tôi đã nhận được các vật phẩm sau:
+UE-SP
+表示する強化内容がありません。=Không có nội dung tăng cường nào để hiển thị.
+
+コネクトRANK達成=Đạt Connect RANK
+達成済み=Hoàn thành
+専用装備１SP詳細=Chi tiết UE 1 SP 
+専用装備１SPの情報を確認できます。=Bạn có thể kiểm tra thông tin về UE-1SP.
+キャラを★5以上にする=Nhân vật ★5 trở lên
+r:"^コネクトRANKを(\d+)以上にする$"=Connect RANK từ $1 trở lên
+r:"^専用装備１をLvMAX（Lv(\d+)）にする$"=UE-1 Lv MAX (Lv $1)
+装備後に確認できます。=Bạn có thể xem sau khi trang bị xong.
+
+追加ステータス=Chỉ số bổ sung
+
+アイテムを消費してコネクトRANK上限を解放します。\nよろしいですか？=Vật phẩm sẽ bị tiêu hao để mở khóa giới hạn Connect RANK.\nBạn có đồng ý không?
+コネクトRANK上限解放=Mở khóa giới hạn Connect RANK
+r:"^上限(\d+)$"=Giới hạn $1
+[3C404E]専用装備１SP条件[-] =[3C404E]Điều kiện UE-1 SP[-] 
+
+専用装備１SP条件=Điều kiện UE-1 SP
+専用１SP強化可能=Có thể cường hóa UE-1 SP
+アイテムを消費して専用装備１SPを解放します。=Tiêu hao vật phẩm để mở khóa UE 1 SP.
+専用１SP強化済=Đã cường hóa UE-1 SP
+
+おまかせ変換設定を行ってください。=Vui lòng thực hiện cài đặt chuyển đổi tự động.
+一度に選択可能な個数の上限に達しています。=Đã đạt giới hạn tối đa số lượng vật phẩm có thể chọn cùng lúc.
+コネクトRANK応援 特別=Hỗ trợ Connect RANK Đặc Biệt
+
+
+
+「キャラ専用装備１SP」が解放されました。\n強化を進めるためには、厳しい条件をクリアする必要があるようです。\n焦らずゆっくり、着実に強化を進めてまいりましょう、主さま。=“UE-1SP của nhân vật” đã được mở khóa.\nCó vẻ như cần đáp ứng một số điều kiện nhất định để tiếp tục tăng cường sức mạnh.\nXin hãy từ từ và tăng cường sức mạnh một cách ổn định, thưa chủ nhân.
+
+主さま、新たな強化「コネクトRANK」が登場しました。アイテムを消費して、キャラをさらに強化することができるようになりますよ。アイテムは様々な場所で獲得できますから、頑張って集めましょう。=Thưa chủ nhân, hệ thống cường hóa mới “Connect RANK” đã xuất hiện. Bằng cách tiêu thụ các vật phẩm, ngài sẽ có thể tăng cường sức mạnh cho nhân vật hơn nữa. Các vật phẩm này có thể thu thập được ở nhiều nơi khác nhau, nên chúng ta hãy cố gắng thu thập thật nhiều nhé.
+コネクトRANKの強化にはRANKアップと上限解放がございます。RANKアップと上限解放を繰り返してコネクトRANKを上げるとステータスや専用のボーナスが獲得できるようです。=Việc cường hóa Connect RANK bao gồm Tăng RANK và mở khóa giới hạn. Bằng cách lặp lại việc Tăng RANK và mở khóa giới hạn để nâng cao Connect RANK, ngài có thể nhận được các chỉ số cộng thêm cũng như những phần thưởng bonus đặc biệt.

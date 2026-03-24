@@ -1,0 +1,43 @@
+##Profile##
+【物理】中衛で、優艶に炎と踊り舞う情熱のサレンママ。物理攻撃から味方を守り、【炎舞の刻印】の数に応じて効果の上がる物攻アップとＴＰ回復で皆を奮い立たせる。=[Vật Lý] Mẹ Saren nhảy điệu múa lửa đầy nhiệt huyết ở vùng trung tâm. Bảo vệ đồng minh khỏi tấn công vật lý và tăng tấn công vật lý, đồng thời hồi TP theo số Dấu Ấn Vũ Điệu Lửa tích lũy được.
+
+##UB##
+シアリングストーム=Bão Cháy Dữ Dội
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、目の前の敵１キャラに物理大ダメージを与え、自分に【炎舞の刻印】を１つ付与する。【炎舞の刻印】は最大３まで追加される。【炎舞の刻印】の数に応じて、物理攻撃力の上昇量とダメージが増加する。=Tăng mạnh Tấn Công Vật Lý cho đồng minh trong phạm vi, gây sát thương vật lý lớn cho kẻ địch phía trước và tích lũy 1 [Dấu Ấn Vũ Điệu Lửa], tối đa 3. Hiệu quả tăng Tấn Công Vật Lý và sát thương vật lý tăng theo số [Dấu Ấn Vũ Điệu Lửa].
+r:"^自分に炎舞の刻印を付与する範囲内の味方の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=►Tích lũy 1 [Dấu Ấn Vũ Điệu Lửa].\n►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $1 (+0.33×$1×[Dấu Ấn Vũ Điệu Lửa]) trong 18s.\n►Gây $2 (+1.2×$2×[Dấu Ấn Vũ Điệu Lửa]) sát thương vật lý cho kẻ địch.
+
+##S1##
+フレイムオービット=Quỹ Đạo Lửa
+目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の味方すべてのＴＰを小回復させる。【炎舞の刻印】の数に応じて、ダメージとＴＰの回復量が増加する。=Gây sát thương vật lý lớn cho kẻ địch phía trước và hồi nhẹ TP cho đồng minh trong phạm vi. Sát thương vật lý và lượng TP hồi tăng theo số [Dấu Ấn Vũ Điệu Lửa].
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方のＴＰを60回復$"=►Gây $1 (+0.8×$1×[Dấu Ấn Vũ Điệu Lửa]) sát thương vật lý cho kẻ địch.\n►Hồi TP cho đồng minh trong phạm vi 300 lên 60 (+20×[Dấu Ấn Vũ Điệu Lửa]).
+
+##S2##
+パッショネイト=Đam Mê
+自分を中心とした範囲内の味方すべての物理攻撃力と物理防御力を大アップさせ、物理無効バリアを展開する。=Tăng mạnh Tấn Công Vật Lý và Phòng Thủ Vật Lý cho đồng minh trong phạm vi, tạo khiên bảo vệ đồng minh trong phạm vi, chống lại sát thương vật lý.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $1 trong 12s.\n►Tăng Phòng Thủ Vật Lý cho đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Tạo khiên cho đồng minh trong phạm vi 300, chống lại $3 sát thương vật lý trong 12s.
+
+##EX##
+デザートベール=Lá Chắn Sa Mạc
+デザートベール+=Lá Chắn Sa Mạc+
+
+##S1+##
+フレイムオービット+=Quỹ Đạo Lửa+
+自分を中心とした範囲内の味方すべての物理攻撃力を中アップさせ、目の前の敵１キャラに物理大ダメージを与える。さらに自分を中心とした範囲内の味方すべてのＴＰを小回復させる。このスキルの効果量は【炎舞の刻印】の数に応じて上昇する。=Tăng vừa phải Tấn Công Vật Lý cho đồng minh trong phạm vi, gây sát thương vật lý lớn cho kẻ địch phía trước và hồi nhẹ TP cho đồng minh trong phạm vi. Hiệu quả kỹ năng tăng theo số [Dấu Ấn Vũ Điệu Lửa].
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方のＴＰを60回復範囲内の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 (+0.9×$1×[Dấu Ấn Vũ Điệu Lửa]) sát thương vật lý cho kẻ địch.\n►Hồi TP cho đồng minh trong phạm vi 300 lên 60 (+20×[Dấu Ấn Vũ Điệu Lửa]).\n►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $2 (+0.33×$2×[Dấu Ấn Vũ Điệu Lửa]) trong 12s.
+
+##UE##
+熱き砂漠のサラサリアン=Sa Mạc Nóng Bỏng Salasaria
+
+##Comments##
+この格好、地元の子どもたちが\nきれいだって褒めてくれたわ♪\nあんたの感想も聞かせて？\n…ふふ、ありがと♪　うれしいわ=Trẻ em địa phương khen em mặc đẹp♪ Cậu nghĩ sao? He he, cảm ơn nhé♪ Em vui lắm.
+その土地の匂いってあるわよね\nサラサリアだとスパイスの香りに\nお菓子と果物の甘い匂いも…\nあ～、おなか空いてきちゃった…=Có mùi của vùng đất đó, phải không? Mùi gia vị, bánh kẹo và trái cây... À ừ, em đói rồi...
+砂漠を渡る長旅なんて\n正直、一人だと心細かったのよ\nあんたが居てくれてよかったわ=Thật sự, em thấy cô đơn khi đi qua sa mạc một mình. May quá cậu có ở đây.
+大通りだけあって人が多いわね…\n迷子にならないようにしないと\nたとえば…う、腕を組む、とか？\n…ほら、照れてないで早くする！=Đường phố chính đông người quá... Cậu phải cẩn thận không bị lạc... Ví dụ như... k-kẹp tay nhau...? Nào, đừng đỏ mặt nữa, nhanh lên!
+いつもあんたが居てくれるから\nどこにいたって頑張れるの\n改まって言うと、変な感じね？\nでも…今言っておきたかったのよ=Cậu luôn ở bên cạnh em, nên em có thể cố gắng hết sức ở bất cứ đâu. Nói thế có lẽ hơi kỳ, phải không? Nhưng... Em muốn nói điều này bây giờ.
+旦那さま、あたしと一曲\n踊っていただけるかしら？\n…なんてね、ふふっ♪\nさぁ、一緒に踊りましょ！=Chủ Nhân, nhảy với em một bài nhé? ...Đùa thôi, he he♪ Nào, cùng nhảy nào!
+熱砂の国、灼熱の太陽…\n元気と勢いを存分に乗せた\n情熱的なステップで踊るの！\nそうそう、上手いじゃない♪=Vùng đất cát nóng, mặt trời thiêu đốt... Nhảy với những bước chân đầy nhiệt huyết và đầy năng lượng! Đúng vậy! Như thế này! Cậu cũng khá giỏi mà?
+音楽に乗せて体を動かすのって\n最高の気分ね！\nまだまだ体力は余裕かしら？\nなら、あたしについてきてよね♪=Cảm giác tuyệt nhất là khi phiêu theo âm nhạc! Cậu còn đủ sức chứ? Vậy thì đi cùng em! ♪
+だめね、あたしったら\nどうにも浮かれちゃってるみたい\nあんたと二人っきりだと思うと…\nどうしても…熱くなっちゃうのよ=Không được rồi. Em quá hào hứng. Khi nghĩ về việc chỉ có hai chúng ta... Em không thể kìm nén được cảm xúc.
+あんたがよそ見できないくらい\n華麗な舞を見せてあげる♪\nあんたを想う気持ちなら\n誰にだって負ける気はないもの！=Em sẽ cho cậu xem điệu múa lộng lẫy đến mức không thể rời mắt ♪ Em sẽ không thua ai về tình cảm dành cho cậu!
+誕生日おめでとう\nあんたのためにごちそうを作って\n待ってたのよ。ほら早く♪\n熱いうちが美味しいんだから！=Chúc Mừng Sinh Nhật! Em đã chuẩn bị một bữa tiệc và chờ cậu. Nào, nhanh lên! Ăn khi còn nóng mới ngon!
+いつもは子どもたちと一緒だけど\n今日はあたしに最初に祝わせて\n誕生日おめでとう。その…ずっと\nそばに居てくれて、ありがとうね=Thông thường em ở với các con, nhưng hôm nay để em là người đầu tiên chúc mừng sinh nhật cậu. Ưm... Cảm ơn cậu vì luôn ở bên cạnh em.

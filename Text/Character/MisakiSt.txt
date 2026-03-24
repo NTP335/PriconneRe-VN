@@ -1,0 +1,28 @@
+##Profile##
+【魔法】後衛で後ろの味方を強化する魔法少女の看板娘。後衛の味方をバリアとＴＰ継続回復で支援し、自分の魔法攻撃力に応じ強化される攻撃力アップスキルで鼓舞する。=[Ma Thuật] Một phù thủy ma thuật tăng cường cho đồng minh ở hậu phương. Cô hỗ trợ hậu phương bằng rào cản và hồi TP, đồng thời khích lệ họ với kỹ năng tăng tấn công mạnh mẽ theo sức mạnh ma thuật của chính mình.
+
+##UB##
+ディライトフェスタ=Lễ Hội Vui Vẻ
+自分を中心とした範囲内の味方すべての魔法攻撃力を中アップし、魔法クリティカルを特大アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。=Tăng sức mạnh ma thuật của đồng minh trong tầm một lượng trung bình và tăng cực lớn tỷ lệ chí mạng ma thuật của họ. Lượng tăng sức mạnh ma thuật tối đa lên gấp 10 lần dựa trên sức mạnh ma thuật của bản thân.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法クリティカルを180アップ$"=►Tăng sức mạnh ma thuật của đồng minh trong tầm 100 lên $1(+0.25×M.ATK) trong 18s.\n►Tăng tỷ lệ chí mạng ma thuật của đồng minh trong tầm 100 lên 180 trong 18s.
+
+##S1##
+ブースターアイ=Mắt Tăng Cường
+自分を中心とした範囲内の味方すべての魔法攻撃力を小アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。=Tăng sức mạnh ma thuật của đồng minh trong tầm một lượng nhỏ. Lượng tăng sức mạnh ma thuật tối đa lên gấp 10 lần dựa trên sức mạnh ma thuật của bản thân.
+
+##S2##
+カオスドレスアップ=Trang Phục Hỗn Loạn
+自分を中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与し、魔法無効バリアを展開する。=Cấp cho tất cả đồng minh trong phạm vi khả năng hồi TP liên tục và tạo lớp khiên bảo vệ đồng minh trong phạm vi, chống lại Sát thương Ma thuật.
+r:"^毎秒ＴＰを10回復する(\d+)ダメージ分の魔法無効バリアを展開する$"=Thời gian thi triển: 0.94s ►Hồi 10 TP/giây cho đồng minh trong phạm vi 100 trong 12.5s. ►Tạo lớp khiên bảo vệ đồng minh trong phạm vi 100, chống lại $1 Sát thương Ma thuật trong 12s.
+
+##EX##
+看板娘のプライド=Poster Girl's Pride
+看板娘のプライド+=Poster Girl's Pride+
+
+##S1+##
+ブースターアイ+=Booster Eye+
+自分を中心とした範囲内の味方すべての魔法攻撃力を小アップさせる。自分の魔法攻撃力が高い程、魔法攻撃力の上昇量が最大10倍までアップする。さらに、自分を中心とした範囲内の味方すべての魔法攻撃クリティカル時のダメージを小アップさせる。=Tăng nhỏ M.ATK cho đồng minh trong phạm vi. Mức tăng M.ATK lên tới x10 dựa trên sức mạnh M.ATK của bản thân. Ngoài ra, tăng nhỏ M.CRIT DMG cho đồng minh trong phạm vi.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法攻撃クリティカル時のダメージを6%アップ$"=Thời gian thi triển: 0.94s ►Tăng $1(+0.125×M.ATK) M.ATK cho đồng minh trong phạm vi 100 trong 12s. ►Tăng 6% M.CRIT DMG cho đồng minh trong phạm vi 100 trong 12s.
+
+##UE##
+魔眼販売所アイ・ワゴン=Mystic Eye's Shop Wagon

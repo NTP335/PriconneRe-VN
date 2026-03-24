@@ -1,0 +1,68 @@
+##Profile##
+記憶喪失のドラゴン娘=Cô gái rồng mất trí nhớ
+読書、ストレッチ=Đọc Sách, Vươn Tay
+
+【物理】中衛で氷雪を操り敵を凍滅する、氷竜の少女。ユニオンバーストで獲得する【氷竜の印】を消費して、スキルの効果を増幅し、清廉な剣技で敵を切り伏せる。=[Vật Lý] Cô gái rồng băng, điều khiển băng và đóng băng kẻ địch. Cô tiêu thụ [Dấu Rồng Băng] nhận được từ UB, khuếch đại kỹ năng, và chém đứt kẻ địch với sự ngây thơ của mình.
+
+シェフィの一人旅=Chuyến Đi Một Mình Của Sheffy
+割れた氷=Băng Vỡ
+シェフィの好きなもの=Điều Yêu Thích Của Sheffy
+エンジョイタイム=Thưởng Thức Thời Gian
+シェフィのギルド活動=Hoạt Động Đội Của Sheffy
+薄氷=Băng Mỏng
+シェフィの決意=Quyết Tâm Của Sheffy
+戸惑う竜少女=Cô Gái Rồng Lú
+シェフィの記憶探し=Tìm kiếm ký ức của Sheffy
+
+##UB##
+舞斬・月下氷竜=Điệu Nhảy: Rồng Băng Trăng
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を５つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大10まで追加される。=Gây sát thương vật lý nhỏ lên một kẻ địch phía trước, và nhận 5 cấp [Dấu Rồng Băng]. Sau mỗi lần UB nhận thêm 1 [Dấu Rồng Băng], tối đa 10.
+
+##S1##
+雪沓=Giày Băng
+目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルのダメージは、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Gây sát thương vật lý nhỏ lên một kẻ địch phía trước và giảm nhẹ P.DEF của chúng. Sát thương của kỹ năng này tăng theo số cấp [Dấu Rồng Băng]. Tiêu thụ 1 [Dấu Rồng Băng].
+
+##S2##
+凍る湖=Hồ Băng
+自分の周囲に、物理攻撃力を小アップさせるフィールドを展開する。物理攻撃力の上昇量は、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Triển khai một vùng tròn xung quanh bản thân tăng nhẹ P.ATK. Mức tăng P.ATK tăng theo số cấp [Dấu Rồng Băng]. Tiêu thụ 1 [Dấu Rồng Băng].
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する$"=►Triển khai vùng bán kính 400 tăng $1 P.ATK cho đồng minh trong 12s.
+
+r:"^氷竜の印を１つ消費する物理攻撃力を(\d+)アップさせるフィールドを展開する$"=Thời gian triển khai: 0.465 giây\n►Tiêu tốn 1 [Ấn Băng Long].\n►Triển khai một vùng không gian tăng $1 Tấn công Vật lý.
+
+##SP1##
+氷竜の印=Dấu Rồng Băng
+【氷竜の印】を４つ得る。=Nhận 4 ngăn [Dấu Rồng Băng].
+
+##EX##
+アクセルロンド=Accel Rondo
+アクセルロンド+=Accel Rondo+
+
+##UB+##
+フロストファング=Răng Băng
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を７つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大20まで追加される。【凍る湖】のフィールド展開中、自分に継続ＴＰ回復状態を付与する。このスキルのＴＰの回復量は【氷竜の印】の数に応じて増加する。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước và nhận 7 ngăn [Dấu Rồng Băng]. Sau mỗi lần UB nhận thêm 1 [Dấu Rồng Băng], tối đa 20. Khi triển khai [Hồ Băng] (trường), tự khôi phục TP liên tục. Lượng TP khôi phục tăng theo số ngăn [Dấu Rồng Băng].
+###OLD r:"^敵単体に(\d+)の物理ダメージフィールド展開中、毎秒ＴＰを10回復する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai trường khôi phục 10 TP/giây cho bản thân trong 10.5 giây.
+###OLD r:"^敵単体に(\d+)の物理ダメージ毎秒ＴＰを10回復する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai trường khôi phục 10 TP/giây cho bản thân trong 10.5 giây.
+
+
+目の前の敵１キャラに物理特大ダメージを与え、自分に【氷竜の印】を7つ追加する。【氷竜の印】の数が10以上の場合、さらに目の前の敵１キャラに追加の物理特大ダメージを与える。このバトル中にユニオンバーストを使用する度に、追加する印の数が1つ増える。【氷竜の印】は最大20まで追加される。さらに、自分のＴＰを固定量で小回復する。【凍る湖】のフィールド展開中、このスキルのＴＰの回復量はスキル発動時の【氷竜の印】の数に応じて増加する。=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt và nhận thêm 7 tầng 【Ấn Băng Long】. Nếu số lượng 【Ấn Băng Long】 từ 10 trở lên, gây thêm một lần sát thương vật lý cực đại lên kẻ địch đó. Mỗi khi sử dụng Union Burst trong trận chiến này, số lượng Ấn nhận thêm sẽ tăng lên 1. 【Ấn Băng Long】 có thể cộng dồn tối đa 20 tầng. Ngoài ra, hồi phục nhẹ một lượng TP cố định cho bản thân. Trong thời gian vùng không gian 【Hồ Băng Giá】 đang triển khai, lượng TP hồi phục của kỹ năng này sẽ tăng lên dựa trên số lượng 【Ấn Băng Long】 tại thời điểm thi triển.
+r:"^敵単体に(\d+)の物理ダメージ自分に氷竜の印を７つ追加する自分の氷竜の印が10以上の時、敵単体に(\d+)の物理ダメージ自分のＴＰを固定量で100回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Nhận thêm 7 [Ấn Băng Long] cho bản thân.\n\nNếu số lượng [Ấn Băng Long] từ 10 trở lên:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Hồi phục 100 TP cho bản thân (lượng cố định).
+
+
+##S1+##
+雪沓+=Giày Tuyết+
+目の前の敵１キャラに物理小ダメージを与え、物理防御力を中ダウンさせ、さらに自分の物理攻撃力を小アップさせる。このスキルのダメージと物理攻撃力の上昇量は、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm P.DEF của chúng và tăng P.ATK của bản thân trong 12 giây. Sát thương kỹ năng này và mức tăng P.ATK tỷ lệ với số ngăn [Dấu Rồng Băng]. Tiêu thụ 1 [Dấu Rồng Băng].
+###OLD r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch đi $2.\n►Tăng P.ATK của bản thân lên $3.
+## Same with SEriko
+
+r:"^氷竜の印を１つ消費する敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=Thời gian triển khai: 0.465 giây\n►Tiêu tốn 1 [Ấn Băng Long].\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm $2 Phòng thủ Vật lý của một kẻ địch.\n►Tăng $3 Tấn công Vật lý cho bản thân.
+
+##UE##
+氷竜剣=Kiếm Rồng Băng
+
+
+
+##S1++##
+雪沓++=Giày Tuyết++
+目の前の敵1キャラに物理小ダメージを与え、魔法攻撃力を大ダウン、物理防御力を中ダウンさせる。さらに、自分の物理攻撃力を小アップし、ＴＰを小回復する。このスキルのダメージと物理攻撃力の上昇量は、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。スキル発動時、【氷竜の印】の数が10以上の場合、さらに【氷竜の印】を１つ消費して目の前の敵１キャラに追加の物理特大ダメージを与える。=Gây sát thương vật lý nhỏ lên 1 kẻ địch trước mặt, giảm mạnh Tấn công Ma pháp và giảm vừa Phòng thủ Vật lý của chúng. Ngoài ra, tăng nhẹ Tấn công Vật lý cho bản thân và hồi phục nhẹ TP. Sát thương của kỹ năng này và lượng Tấn công Vật lý tăng thêm sẽ tăng lên dựa trên số lượng 【Ấn Băng Long】. Tiêu tốn 1 [Ấn Băng Long]. Tại thời điểm thi triển kỹ năng, nếu số lượng 【Ấn Băng Long】 từ 10 trở lên, tiêu tốn thêm 1 [Ấn Băng Long] để gây thêm sát thương vật lý cực đại lên 1 kẻ địch trước mặt.
+
+r:"^氷竜の印を１つ消費する敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分のＴＰを100回復氷竜の印が10以上の場合、以下の効果が発動敵単体に(\d+)の物理ダメージ氷竜の印を１つ消費する$"=Thời gian triển khai: 0.465 giây\n►Tiêu tốn 1 [Ấn Băng Long].\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm $2 Tấn công Ma pháp của một kẻ địch.\n►Giảm $3 Phòng thủ Vật lý của một kẻ địch.\n►Tăng $4 Tấn công Vật lý cho bản thân.\n►Hồi phục 100 TP cho bản thân.\n\nNếu [Ấn Băng Long] từ 10 trở lên:\n►Gây thêm $5 sát thương vật lý lên một kẻ địch.\n►Tiêu tốn thêm 1 [Ấn Băng Long].

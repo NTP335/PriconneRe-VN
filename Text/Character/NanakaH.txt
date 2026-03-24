@@ -1,0 +1,28 @@
+##Profile##
+【魔法】後衛で、オタ活に精を出すハロウィン魔法少女。ＨＰ回復量ダウンで敵の戦略を崩し、ダメージフィールドと対象の数で火傷の威力を増す熱狂の炎が敵を包み込む。=[Phép] Một fan cuồng Mahou Shoujo Halloween ở hậu phương. Lượng HP hồi lại phá vỡ chiến thuật của kẻ địch, và vùng sát thương cùng số mục tiêu làm tăng sức mạnh của hiệu ứng cháy, bao trùm kẻ địch trong ngọn lửa điên cuồng.
+
+##UB##
+ナナカ・マニアックフレイム=Nanaka Maniac Flame
+残りＨＰが最も高い敵を中心とした範囲内の敵すべてに魔法大ダメージを与え、火傷状態にする。火傷のダメージは範囲内の敵の数に応じて増加する。=Gây sát thương phép lớn lên kẻ địch trong phạm vi xung quanh kẻ địch có HP còn lại cao nhất và khiến họ bị cháy. Sát thương cháy tăng theo số kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ(\d+)ダメージを与える火傷状態にする$"=►Gây $1 sát thương phép lên kẻ địch trong phạm vi 300.\n►Khiến kẻ địch trong phạm vi 300 bị cháy, gây $2/giây trong 7 giây.
+
+##S1##
+ジャックオーサークル=Jack-o'-Circle
+残りＨＰが最も高い敵を中心として、魔法ダメージフィールドを展開する。=Triển khai một vùng sát thương phép xung quanh kẻ địch có HP còn lại cao nhất.
+
+##S2##
+ナナカちゃんトリック=Nanaka-chan Trick
+残りＨＰが最も高い敵を中心とした範囲内の敵すべてのＨＰ回復量を特大ダウンさせ、魔法防御力を小ダウンさせる。=Giảm mạnh tốc độ hồi HP của kẻ địch trong phạm vi xung quanh kẻ địch có HP còn lại cao nhất và nhẹ nhàng giảm phòng thủ phép của chúng.
+r:"^範囲内の敵のＨＰ回復量を80％ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Giảm tốc độ hồi HP của kẻ địch trong phạm vi 300 xung quanh kẻ địch có HP còn lại cao nhất còn 20% trong 12 giây.\n►Giảm phòng thủ phép của kẻ địch trong phạm vi 300 xung quanh kẻ địch có HP còn lại cao nhất bằng $1 trong 12 giây.
+
+##EX##
+コスプレマジック=Cosplay Magic
+コスプレマジック+=Cosplay Magic+
+
+##S1+##
+ジャックオーサークル+=Jack-o'-Circle+
+残りＨＰが最も高い敵を中心として、魔法ダメージフィールドを展開する。さらに、残りＨＰが最も高い敵を中心とした範囲内の敵すべてのＴＰ上昇を中ダウンさせる。=Triển khai một vùng sát thương phép xung quanh kẻ địch có HP còn lại cao nhất. Ngoài ra, giảm trung bình Tăng TP của chúng.
+r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開する範囲内の敵のＴＰ上昇を(\d+)ダウン$"=►Triển khai một vùng bán kính 410 xung quanh kẻ địch có HP còn lại cao nhất gây $1/giây sát thương phép trong 12 giây.\n►Giảm Tăng TP của kẻ địch trong phạm vi 300 bằng $2 trong 12 giây.
+
+##UE##
+ナナカちゃんウィッチコス=Nanaka-chan Witch Cosplay

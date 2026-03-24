@@ -1,0 +1,38 @@
+##Profile##
+【魔法】中衛で仲間との絆を力に変え戦うツンデレ猫娘。敵を妨害するスキルと、ＵＢで敵全体を恐慌状態にし既に恐慌状態の敵のＴＰをダウンさせ、全戦場を掌握する。=[Phép thuật] Một cô gái mèo tính cách tsundere biến sự gắn bó với bạn bè thành sức mạnh và chiến đấu ở tuyến giữa. Cô ấy có kỹ năng gây nhiễu loạn kẻ địch, và UB của cô ấy đưa tất cả kẻ địch vào chế độ Sợ Hãi, giảm TP của kẻ địch đã bị ảnh hưởng bởi Sợ Hãi, và chiếm toàn bộ chiến trường.
+
+キャルの忙しい一日=Ngày bận rộn của Kyaru
+目覚めるためのおまじない=Phép thuật đánh thức
+眠ったままの{playername}を見守るキャルのもとに続々と見舞い客が訪れる。キャルは彼を目覚めさせるためユキと共にアイドルとしてその場でライブを披露する。だが彼が目覚める気配はないのだった。=Khách đến một sau dưới sự giám sát của Kyaru, người đang canh chừng ONII-CHAN đang ngủ. Kyaru biểu diễn trực tiếp tại chỗ như một thần tượng với Yuki để đánh thức anh ấy. Nhưng không có dấu hiệu đánh thức.
+{playername}を起こす手立てを得るため、クレジッタを頼りに王宮を訪ねるキャル。姿を見せないペコリーヌに疑問を感じた折、ネネカが現れる。事情を聞いたキャルは改めて二人を救う決意を固める。=Kyaru thăm cung điện hoàng gia với một crester để tìm cách khiến ONII-CHAN. Khi cô ấy hỏi Pecorine, người không cho cô ấy thấy, cô ấy xuất hiện. Kyaru nghe tình hình quyết định cứu họ lần nữa.
+これまでも、これからも=Cho đến tận bây giờ,
+コッコロたちとソルの塔を登るキャル。コッコロとシェフィは\nいまだに眠ったままのペコリーヌたちを案じて弱気になってい\nた。キャルはそんな二人を自身の言葉で勇気づけ、絆の力を信\nじて前に進むのだった。=Kyaru leo tháp Sol với Kokkoro. Kokkoro và Shefi vẫn còn ngủ và bi quan. Kyaru khích lệ họ bằng lời nói của chính mình, tin tưởng vào sức mạnh của sự gắn bó và tiến về phía trước.
+想いと未来を共に=Cả suy nghĩ và tương lai
+遊ぶ約束をしていた希留耶と{playername}。彼の提案で今日はアストルムで遊ぶことに。希留耶は先にログインして眠りに落ちた彼に、これまでの二人の思い出と共に、心からの感謝を告げるのだった。=Kiriya và ONII-CHAN đã hẹn chơi cùng nhau. Anh ấy quyết định chơi ở Atrum hôm nay với đề xuất của mình. Kibuya yêu quý anh ấy và chìm vào giấc ngủ, và nói chân thành với anh ấy về kỷ niệm của hai người.
+
+##UB##
+オーバーロードバースト=Quá Tải Bùng Nổ
+敵全体に魔法中ダメージを与え、さらに恐慌状態にする。このスキルによるダメージでは敵のＴＰは回復しない。発動時既に恐慌状態の敵がいた場合、その敵のＴＰを小ダウンさせる。=Gây sát thương phép thuật trung bình lên tất cả kẻ địch và khiến họ rơi vào trạng thái Sợ Hãi. Sát thương từ kỹ năng này không phục hồi TP của kẻ địch. Nếu kẻ địch đã ở trạng thái Sợ Hãi, giảm nhẹ TP của kẻ địch.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体を恐慌状態にする敵が恐慌状態の時、対象のＴＰを(\d+)失わせる$"=►Gây $1 sát thương phép thuật lên tất cả kẻ địch.\n►Gây Sợ Hãi lên tất cả kẻ địch trong 8s.\n►Nếu kẻ địch ở trạng thái Sợ Hãi, giảm TP của kẻ địch trong phạm vi lên $2.
+
+##S1##
+ダークボルテックス=Vòng Xoáy Bóng Tối
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらにＴＰを小ダウンさせる。=Gây sát thương phép thuật trung bình lên kẻ địch trong phạm vi, và cũng giảm nhẹ TP của chúng.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵のＴＰを(\d+)失わせる$"=Thời gian niệm: 0.74s\n►Gây $1 sát thương phép thuật lên kẻ địch trong phạm vi 300.\n►Giảm TP của kẻ địch trong phạm vi lên $2.
+
+##S2##
+デッドエンドカース=Nguyền Chết Tận Cùng
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法小ダメージを与え、さらに麻痺状態にする。=Gây sát thương phép thuật nhỏ lên kẻ địch trong phạm vi, và cũng khiến họ rơi vào trạng thái Choáng.
+
+##EX##
+ダークアブソリュート=Bóng Tối Tuyệt Đối
+ダークアブソリュート+=Bóng Tối Tuyệt Đối+
+
+##S1+##
+ダークボルテックス+=Vòng Xoáy Bóng Tối+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵のＴＰを180失わせる敵が恐慌状態の時、対象のＴＰを180失わせる$"=Thời gian niệm: 0.74s\n►Gây $1 sát thương phép thuật lên kẻ địch trong phạm vi 300.\n►Giảm TP của kẻ địch trong phạm vi lên 180.\n►Nếu kẻ địch ở trạng thái Sợ Hãi, giảm TP của kẻ địch trong phạm vi lên 180.
+
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、ＴＰを中ダウンさせる。このスキルの対象が恐慌状態だった場合、さらにＴＰを中ダウンさせる。=Gây lượng lớn sát thương phép thuật lên tất cả kẻ địch trong phạm vi, tập trung vào kẻ địch đầu tiên phía trước, và giảm TP một lượng trung bình. Nếu mục tiêu của kỹ năng này ở trạng thái Sợ Hãi, giảm thêm TP một lượng trung bình.
+
+##UE##
+超越叛逆のグリモアロッド=Grimoire Rod Phản Loạn Siêu Việt

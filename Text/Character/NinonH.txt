@@ -1,0 +1,35 @@
+##Profile##
+【物理】中衛で物理攻撃タイプの味方を強化するシノビ。味方の物理攻撃力アップや行動速度アップのスキル効果で味方全体の攻撃力を底上げし、勝利の笛を吹きならす。=[Vật lý] Một ninja mạnh mẽ cho đồng minh kiểu P ở hàng giữa. Với hiệu ứng kỹ năng tăng P.ATK và tốc độ hành động của đồng minh, cô thổi còi chiến thắng.
+
+霊界で燃ゆる忠誠心=Lòng trung thành bùng cháy trong thế giới tinh thần
+おいでませブレイコウの宴=Lên nào, bữa tiệc của Brykow!
+ハロウィンに吹く天狗旋風=Cơn lốc Tengu trong Halloween
+祓え！　悪霊パフォーマー=Trừ tà! Diễn viên linh hồn ác
+
+##UB##
+妖忍法・ヒャッキ有頂天の宴=Ayakashi Ninpo: Bữa tiệc cuồng nhiệt của Hyakki
+物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップさせ、物理クリティカルを大アップさせる。=Tăng mạnh P.ATK cho tất cả đồng minh kiểu P, và tăng rất mạnh tỷ lệ P.CRIT của họ.
+r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK cho tất cả đồng minh kiểu P lên $1 trong 18s.\n►Tăng tỷ lệ P.CRIT cho tất cả đồng minh kiểu P lên $2 trong 18s.
+
+##S1##
+妖忍法・マボロシ影絵の術=Ayakashi Ninpo: Thuật phân thân ảo ảnh
+物理攻撃を行うすべての味方キャラの物理攻撃力と行動速度を大アップさせる。=Tăng rất mạnh P.ATK và tốc độ hành động cho tất cả đồng minh kiểu P.
+r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の行動速度アップ$"=Thời gian niệm: 0.465s\n►Tăng P.ATK cho tất cả đồng minh kiểu P lên $1 trong 12s.\n►Tăng tốc độ hành động cho tất cả đồng minh kiểu P lên 155% trong 12s.
+
+##S2##
+妖忍法・カボチャ突撃の術=Ayakashi Ninpo: Thuật xung kích bí ngô
+物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせ、さらに前方範囲内の敵すべてに物理小ダメージを与える。=Tăng vừa phải P.ATK cho tất cả đồng minh kiểu P, và gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi.
+r:"^対象の味方の物理攻撃力を(\d+)アップ\n範囲内の敵に(\d+)の物理ダメージ$"=Thời gian niệm: 0.465s\n►Tăng P.ATK cho tất cả đồng minh kiểu P lên $1 trong 12s.\n►Gây $2 P.DMG cho kẻ địch trong phạm vi 865.
+
+##EX##
+妖忍法・夢心地カボチャ音頭=Ayakashi Ninpo: Điệu nhảy bí ngô mộng mơ
+妖忍法・夢心地カボチャ音頭+=Ayakashi Ninpo: Điệu nhảy bí ngô mộng mơ+
+
+##S1+##
+妖忍法・マボロシ影絵の術+=Ayakashi Ninpo: Thuật phân thân ảo ảnh+
+物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、行動速度を大アップさせ、物理クリティカルを中アップさせる。=Tăng rất mạnh P.ATK, tốc độ hành động và tỷ lệ P.CRIT cho tất cả đồng minh kiểu P.
+r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の行動速度アップ\n対象の味方の物理クリティカルを(\d+)アップ$"=Thời gian niệm: 0.465s\n►Tăng P.ATK cho tất cả đồng minh kiểu P lên $1 trong 12s.\n►Tăng tốc độ hành động cho tất cả đồng minh kiểu P lên 155% trong 12s.\n►Tăng tỷ lệ P.CRIT cho tất cả đồng minh kiểu P lên $2 trong 12s.
+
+
+##UE##
+南瓜頭響太郎=Kyotaro đầu bí ngô

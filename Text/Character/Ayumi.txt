@@ -1,0 +1,59 @@
+##Profile##
+【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Vật lý] Một cô gái trong sáng, tấn công kẻ thù một cách điên cuồng từ tuyến giữa. Ngoài việc choáng kẻ địch với kỹ năng, cô ấy còn có thể gây mù và hỗn loạn với Union Burst để khiến đòn tấn công của chúng không trúng mục tiêu.
+
+観察=Observation
+
+どこまでも一途に慕う、純情乙女=Một cô gái vô tội, khao khát bạn với toàn bộ trái tim.
+
+超個性派ヒロイン、誕生？=Sự ra đời của một Nữ chính Siêu Độc nhất?
+
+名前も知らないあの人=Anh hùng vô danh của tôi
+恥ずかしパニックガール=Hoảng loại vĩnh cửu
+幸せな迷い道=Đồ thất lạc và tìm thấy
+名前を呼ばれて=Từ đôi môi ấy
+アドバイスは気合と勇気=Lời khuyên quyết đoán
+出会った頃とは違う距離=Bỗng thấy gần hơn trước
+振り絞る勇気の一歩=Một bước tiến mạnh mẽ
+憧れの始まり=Nơi mọi thứ bắt đầu
+
+##UB##
+勇気を出して突撃です～！=Mình có thể làm được nếu cố gắng!
+前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇・混乱状態にする。=Gây sát thương vật lý vừa phải lên tất cả kẻ địch trong phạm vi và gây mù và hỗn loạn.
+前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇=Gây sát thương vật lý vừa phải lên tất cả kẻ địch trong phạm vi và gây mù.
+混乱状態にする。=và hỗn loạn.
+けんぞくにしてあげる！=Tôi sẽ đánh cậu một trận!
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる$"=►Gây $1 sát thương vật lý lên tất cả kẻ địch trong phạm vi 1200.\n►Gây mù lên kẻ địch trong phạm vi trong 6s (-70% tỷ lệ chính xác).\n►Gây hỗn loạn lên kẻ địch trong phạm vi trong 4s.
+
+##S1##
+つ、突き刺します！=T-Tôi sẽ đâm cậu!
+自分を中心とした範囲内の敵すべてに物理小ダメージを与え、さらに物理攻撃力を小ダウンさせる。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch và giảm tấn công vật lý của chúng một lượng nhỏ.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho toàn bộ kẻ địch.\n►Giảm $1 tấn công vật lý (P.ATK) của toàn bộ kẻ địch trong 12 giây.
+
+##S2##
+目を閉じて行けるかな…？=Mình cứ nhắm mắt được không...?
+
+##EX##
+湧き出す勇気=Bùng Nổ Lòng Dũng Cảm
+湧き出す勇気+=Bùng Nổ Lòng Dũng Cảm+
+バトル開始時に自分の物理防御力を大アップさせる。=Tăng phòng thủ vật lý (P.DEF) của bản thân một cách lớn ngay khi bắt đầu trận đấu.
+バトル開始時に自分の物理防御力を中アップさせる。=Tăng phòng thủ vật lý (P.DEF) của bản thân một cách vừa phải ngay khi bắt đầu trận đấu.
+r:"^自分の物理防御力を(\d+)アップ$"=►Tăng P.DEF của bản thân lên $1.
+
+##UB+##
+はわわわ、大変です～！？=Hà hà! Đây không phải là thảm họa sao~!?
+前方範囲内の敵すべてに物理大ダメージを与え、暗闇・混乱状態にし、さらにＴＰ上昇を大ダウンさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Gây sát thương vật lý (P.DMG) khổng lồ cho toàn bộ kẻ địch trong phạm vi, gây tình trạng mù và bối rối, và giảm mạnh Kháng TP. Mỗi lần sử dụng kỹ năng này, sát thương sẽ tăng lên tối đa 3 lần.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる範囲内の敵のＴＰ上昇を(\d+)ダウン$"=►Gây $1 sát thương vật lý (P.DMG) cho toàn bộ kẻ địch trong phạm vi 1200.\n►Gây tình trạng Mù (Blind) cho kẻ địch trong phạm vi trong 12 giây (-70% tỷ lệ chính xác).\n►Gây tình trạng Bối Rối (Confusion) cho kẻ địch trong phạm vi trong 8 giây.\n►Giảm Kháng TP của kẻ địch trong phạm vi đi $2 trong 12 giây.
+
+##S1+##
+つ、突き刺します！+=T-Tao sẽ đâm mày!+
+自分を中心とした範囲内の敵すべてに物理中ダメージを与え、さらに物理攻撃力を中ダウンさせる。=Gây sát thương vật lý (P.DMG) vừa phải cho toàn bộ kẻ địch và giảm một lượng vừa phải P.ATK của chúng.
+
+##UE##
+ストーキングマント=Áo Choàng Rình Rập
+
+
+
+##uncategorized (shadow)##
+Ayumi
+混乱状態にし、さらにＴＰ上昇を大ダウンさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Gây trạng thái hỗn loạn, đồng thời làm giảm mạnh tốc độ tăng TP. Mỗi khi sử dụng kỹ năng này, sát thương sẽ tăng thêm, tối đa lên đến 3 lần.
+前方範囲内の敵すべてに物理大ダメージを与え、暗闇=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi phía trước và gây trạng thái mù lòa.

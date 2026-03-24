@@ -1,0 +1,28 @@
+##Profile##
+【物理】中衛で愛と希望の力を胸に指揮を執る魔法提督。ユニオンバーストで敵単体の物理防御力を下げ、範囲内の味方の物理攻撃力アップスキルで、一気に戦況を決める。=[Vật Lý] Một Đô Đốc Ma Thuật, ra lệnh với sức mạnh của tình yêu và hy vọng trong tim từ tuyến giữa. Sau khi giảm Phòng Thủ Vật Lý của một kẻ địch bằng Union Burst và tăng Tấn Công Vật Lý cho đồng minh gần đó bằng kỹ năng, cô quyết định cục diện trận đấu chỉ trong một lần.
+
+##UB##
+スカイラブリーハリケーン=Cơn Bão Xinh Đẹp Trời Xanh
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の行動速度を大アップさせる。このスキルのダメージと行動速度の上昇量は、ユニオンバーストを使用するたび増加する。（最大４回）=Gây sát thương vật lý cực lớn lên kẻ địch phía trước và tăng mạnh Tốc Độ Hành Động của bản thân. Sát thương và tăng Tốc Độ Hành Động của kỹ năng này tích lũy với mỗi lần dùng Union Burst. (Tối đa 4 lần)
+r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng Tốc Độ Hành Động của bản thân lên 150% trong 12 giây.
+
+##S1##
+ラブリーオーダー=Mệnh Lệnh Dễ Thương
+自分を中心とした範囲内の味方の物理攻撃力を中アップさせる。自分の物理攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng trung bình Tấn Công Vật Lý cho đồng minh trong phạm vi xung quanh mình. Lượng tăng Tấn Công Vật Lý tỷ lệ với Tấn Công Vật Lý của bản thân.
+
+##S2##
+ラブリーインパルス=Xung Động Dễ Thương
+目の前の敵１キャラに物理中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復させる。このスキルで与えたダメージ量に応じてＨＰの回復量がアップする。=Gây sát thương vật lý trung bình lên kẻ địch phía trước, và đồng thời hồi nhẹ HP cho đồng minh có HP thấp nhất. Lượng HP hồi tăng tỷ lệ với lượng sát thương gây ra bằng kỹ năng này.
+r:"^敵単体に(\d+)の物理ダメージ味方単体のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Hồi $2 HP cho một đồng minh.
+
+##EX##
+マジカルブレイブ=Dũng Sĩ Ma Thuật
+マジカルブレイブ+=Dũng Sĩ Ma Thuật+
+
+##S1+##
+ラブリーオーダー+=Mệnh Lệnh Dễ Thương+
+自分を中心とした範囲内の味方の物理攻撃力を中アップさせ、物理クリティカルを大アップさせる。自分の物理攻撃力と自分を中心とした範囲内の味方の人数に応じて、物理攻撃力の上昇量がアップする。=Tăng trung bình Tấn Công Vật Lý cho đồng minh trong phạm vi 150 xung quanh mình, và tăng mạnh Tỷ Lệ Chí Mạng Vật Lý của họ. Lượng tăng Tấn Công Vật Lý tỷ lệ với Tấn Công Vật Lý của bản thân và số lượng đồng minh trong phạm vi xung quanh mình.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=►Tăng Tấn Công Vật Lý của đồng minh trong phạm vi lên $1.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của đồng minh trong phạm vi lên $2.
+
+##UE##
+マジカルラブリーソード=Kiếm Dễ Thương Ma Thuật

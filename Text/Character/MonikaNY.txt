@@ -1,0 +1,26 @@
+##Profile##
+【物理】前衛で、元日も元気にはしゃぎまわる軍人少女。与ダメージに応じて追加効果が強化されるＵＢと、発動ごとに成長する自己強化スキルで秩序を乱す者の目を回す。=[Vật Lý] Một cô gái quân sự chạy quanh tuyến đầu ngay cả trong ngày Tết. Cô có UB có hiệu ứng bổ sung khi gây sát thương cao, và kỹ năng tăng sức mạnh bản thân mỗi lần kích hoạt. Với chúng, cô đánh choáng tất cả kẻ địch muốn phá rối trật tự.
+
+##UB##
+絢爛廻天麗舞！=Vũ Điện Thiên Hà Vòng Quay Lộng Lẫy!
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm Phòng Thủ Vật Lý của kẻ địch trong phạm vi xuống $2.\n►Tăng Tấn Công Vật Lý của bản thân lên $3.
+
+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに、自分の物理攻撃力を大アップする。このスキルで与えたダメージ量に応じて、防御力ダウンと攻撃力アップの効果量が最大５倍までアップする。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong phạm vi tập trung vào kẻ địch gần nhất và giảm nhẹ Phòng Thủ Vật Lý của chúng. Ngoài ra, tăng mạnh Tấn Công Vật Lý của bản thân. Lượng giảm Phòng Thủ Vật Lý và tăng Tấn Công Vật Lý tăng lên tối đa 5 lần dựa trên sát thương gây ra bằng kỹ năng này.
+
+##S1##
+飛空蛮衝！=Xung Phong Liều Lĩnh Vươn Lên Trời!
+飛空蛮衝！+=Xung Phong Liều Lĩnh Vươn Lên Trời!+
+
+##S2##
+世界巡礼玉！=Viên Ngọc Hành Hương Thế Giới!
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを3％アップ自分のＴＰを75回復$"=►Tăng Tấn Công Vật Lý của bản thân lên $1.\n►Tăng Sát Thương Chí Mạng Vật Lý của bản thân lên 3%.\n►Khôi phục TP cho bản thân 75.
+
+
+自分の物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復する。このスキルを使用するたび、最大４回まで効果量がアップする。=Tăng mạnh Tấn Công Vật Lý của bản thân, tăng nhẹ Sát Thương Chí Mạng Vật Lý của bản thân, và khôi phục một lượng TP nhỏ. Mỗi lần kỹ năng này được dùng, lượng hiệu ứng tăng lên tối đa bốn lần.
+
+
+
+##EX##
+迎春の戯れ=Trò chơi Năm Mới
+迎春の戯れ+=Trò chơi Năm Mới+

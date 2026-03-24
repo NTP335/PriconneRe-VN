@@ -1,0 +1,152 @@
+
+ナレーション=Lời dẫn
+ミロク=Miroc
+テンタパス=Tentapus
+ファントムバロン=Phantom Baron
+黒の王=Black king
+アリス=Alice
+下忍たち=Ninja
+ハンゾウ=Hanzo
+ネズミたち=Rats
+チュウザ=Chewzu
+チュウジ=Chuji
+助っ人？=Một người giúp đỡ?
+なかよしＸ=Friendship X
+なかよしX=Friendship X
+アルマ＆オラム=Alma & Oram
+マリア＆女性教員=Maria & Female Teacher
+女性教員=Giáo viên nữ
+マリア=Maria
+みんな僕たちを助けにきてくれたんだ。=Mọi người đều đến giúp chúng ta.
+入れ替わってる～！？=Nó đã bị thay thế! ?
+アカリの姿をしたヨリ=Yori trong hình dạng Akari
+ヨリの姿をしたアカリ=Akari trong hình dạng Yori
+ドクロ親父？=Cha Dokuro?
+イリヤ？=Illya?
+シノブ？=Shinobu?
+ミヤコ？=Miyako?
+弓矢=Bow and arrow
+サレンちゃん！　アキノさん！=Saren! Akino!
+ローズメン=Rosemen
+サレン？=Saren?
+アキノ？=Akino?
+おばあさん？=Bà?
+余計ぐちゃぐちゃになっちゃったね。=Nó còn lộn xộn hơn.
+妖精？=Tiên?
+ヨリ？=Yori?
+アカリ？=Akari?
+おばあさん=Bà
+妖精=Fairy
+アメきち=Candy
+ハレきち=Halle
+ダイチ=Daichi
+アサヒ=Asahi
+部員２=Thành viên thứ 2
+部員１=Thành viên thứ 1
+部員３=Thành viên thứ 3
+山神様=Mountain God
+ハナ=Hana
+
+妖しい桃色吐息ですぅ！=Đó là một tiếng thở hồng bí ẩn!
+メインクエストのクリア済みボスバトル時会話を再生するか設定できます。=Có thể thiết lập cuộc hội thoại khi trận boss chính quest đã được chiến thắng.
+クリア済みクエストでのボスバトル時会話の再生=Phát cuộc hội thoại trong các trận boss ở quest đã chiến thắng.
+バーストダウンとバーストエンドが発生するバトルを開始した際の演出表示をするかどうかの設定です。=Đây là cài đặt về việc có hiển thị cảnh sản xuất khi trận đấu kết thúc và burst end bắt đầu.
+バーストダウン・バーストエンド演出=Burst Down Burst End Direction
+
+このボスはすでに完全討伐しています。=Boss này đã hoàn toàn bị đánh bại.
+なかよしX＆名もなき芸術=Friendship X & Nameless Art
+バーストエンド発生！=Burst end xảy ra!
+ボスを完全討伐したため、バーストエンドが発生しました。=Burst end đã xảy ra vì\nboss đã hoàn toàn bị đánh bại.
+TP250アップ=TP tăng 250
+バトル開始時、味方のＴＰが250アップ=Ở đầu trận đấu, TP của đồng đội tăng 250.
+[FF7C4E,D62146]このクエストではスタミナは消費されません[-]=[FF7C4E,D62146]Không tiêu hao thể lực trong nhiệm vụ này[-]
+
+リタイアするとバトルの進捗が\nバトル開始時点までリセットされます。\n\nまた、このバトルはクリアするまで\n何度でも挑戦可能です。=Nếu bạn bỏ cuộc, tiến độ trận đấu sẽ được đặt lại về trước khi trận đấu bắt đầu.\n\nNgoài ra, bạn có thể thử thách trận đấu này nhiều lần tùy thích.
+
+終炎のエリュシオン クリア！=Chiến thắng Ngọn Lửa Cuối Cùng của Elysion!
+討伐報酬獲得=Nhận thưởng phụ
+
+魔物たち=Quái vật
+ミロクとの最終決戦の時がやってまいりました。\nお相手は全ての力を解放してかかって来られるご様子です。\nこちらも準備をしっかりして、気を引き締めてまいりましょう。=Trận chiến cuối cùng với Miroku đã đến. Đối thủ dường như có thể giải phóng toàn bộ sức mạnh. Hãy sẵn sàng và tập trung ở đây.
+最終決戦には何度でも挑戦が可能でございます。\n失敗しても編成を考え直せるので、焦らずに最終決戦にのぞみましょう。=Bạn có thể thử thách trận chiến cuối cùng nhiều lần tùy thích. Ngay cả khi thất bại, bạn vẫn có thể xem xét lại đội hình, vì vậy hãy nhìn vào trận chiến cuối cùng một cách bình tĩnh.
+討伐報酬=Thưởng chinh phục
+ミロクとのバトルについて=Về trận chiến với Miroku
+ミロクには何度でも挑戦可能です。\nサポートをレンタルして編成することもできます。=Bạn có thể thử thách Miroku nhiều lần tùy thích. Bạn cũng có thể mượn và tổ chức đội hỗ trợ.
+
+残り挑戦回数：=Lượt thử:
+r:"^回数回復まであと([0-9:]+)$"=Đến khi Hồi phục $1
+r:"^残りHP([0-9,]+)$"=HP: Còn lại $1
+最新状況を読み込む=Làm mới Trạng thái
+最新バーストダウン=Giảm Burut gần nhất
+発生!=!!!
+現在発生中のバーストダウンはありません=Hiện không có Burut bị giảm
+完全討伐！=Hoàn toàn\nBị đánh bại!
+sr:"^(.+)の最新状況$"=Tình hình gần nhất của $1
+
+sr:"^「(.+)ダウン(\d+)秒」$"=$1 bị giảm: $2 giây
+sr:"^「(.+)アップ(\d+)秒」$"=$1 tăng: $2 giây
+sr:"^(.+)ダウン(\d+)秒$"=$1 bị giảm: $2 giây
+sr:"^(.+)アップ(\d+)秒$"=$1 tăng: $2 giây
+r:"^「スタン(\d+)秒」$"=Choáng $1 giây
+r:"^スタン(\d+)秒$"=Choáng $1 giây
+物理攻撃=P.ATK
+物理防御=P.DEF
+魔法攻撃=M.ATK
+魔法防御=M.DEF
+
+完全討伐報酬について=Về Phần thưởng Bị đánh bại Hoàn toàn
+ボスを完全討伐すると、\n参加者全員が以下の報酬を獲得できます。=Bằng cách đánh bại hoàn toàn boss, tất cả người tham gia có thể nhận được các phần thưởng sau.
+
+
+ボスが完全討伐されたため、\n以下の報酬を獲得しました。=Boss đã bị đánh bại hoàn toàn,\nđã nhận được các vật phẩm sau.
+完全討伐報酬獲得=Nhận Phần thưởng Chinh phục Hoàn toàn
+
+撃退報酬=Phần thưởng đuổi
+難易度変更=Độ khó
+
+発生中のバーストはありません。=Hiện không có Burut xảy ra
+発生中のバーストダウン=Giảm Burut
+難易度=Độ khó
+発生中のバーストエンド=Kết thúc Burut
+敵=địch
+味方=đồng minh
+アドバンス=Lợi thế
+
+発動中のバーストはありません。=Không có Burut nào đang được kích hoạt.
+毎秒回復=Hồi phục mỗi giây
+毎秒ＨＰ回復90秒=Hồi phục HP 90 giây mỗi giây
+永続=Vĩnh cửu
+
+容赦なく=Không ngừng nghỉ
+毎秒ＴＰ=TP mỗi giây
+毎秒アップ=Tăng mỗi giây
+
+sr:"^バトル開始から(\d+)秒間、(.+)の(.+)が(.+)$"=Trong $1 giây kể từ đầu trận, $2 của $3 là $4.
+sr:"^(.+)のバースト効果確認$"=Hiệu ứng Burst của $1
+残り有効時間=Thời lượng
+バーストエンド=Kết thúc Burst
+バーストダウン=Giảm Burst
+同時発生上限数=Giới hạn chồng
+発生中バースト数=Số lần Burst
+
+レンタル回数報酬はありません。=Không có phần thưởng cho mượn. (LOL)
+イベントで使用されるサポートキャラを設定できます。=Bạn có thể thiết lập nhân vật hỗ trợ được sử dụng trong sự kiện.
+特別サポート設定=Cài đặt Hỗ trợ Đặc biệt
+
+リタイアしても、挑戦回数は消費されません。\n　※バトルの途中経過は保存されません。\n\nリタイアしますか？=Ngay cả khi bạn bỏ cuộc, lượt thử sẽ bị sử dụng.\n※Tiến độ của trận chiến sẽ không được lưu.\n\nBạn có muốn bỏ cuộc không?
+
+イベント参加時点では、\n6回挑戦できる状態でスタートします。=Vào thời điểm sự kiện bắt đầu, bạn sẽ được cấp sáu lượt thử.
+挑戦回数はイベント開始から\n1時間ごとに1回分付与されます。=Số lượt thử được cấp thêm một mỗi giờ kể từ khi sự kiện bắt đầu.
+挑戦回数の回復時間について=Về Lượt thử Phục hồi
+
+表示できるミッションがありません。=Không có nhiệm vụ nào có thể hiển thị.
+以下の報酬を受け取りました=Đã nhận được các phần thưởng sau
+
+絶望を吸収して、強くなってる！=Hấp thụ tuyệt vọng và trở nên mạnh mẽ hơn!
+
+終炎の巨神がランドソルに向かって侵攻しております。\n皆様と力を合わせて全てのボスを完全討伐し、\n全フェーズの攻略を目指しましょう。=Kẻ khổng lồ của ngọn lửa cuối cùng đang xâm lược Landosol. Hãy cùng nhau đánh bại tất cả các boss và nhắm đến việc chinh phục tất cả các giai đoạn.
+皆様で協力して『Total HP』を0にすると完全討伐となります。\nこの戦いに参加した皆様全員が報酬を獲得できるようです。\n受け取りは期間中のみのようなので、注意してくださいませ。=Nếu bạn hợp tác với mọi người và giảm "TỔNG HP" xuống 0, nó sẽ bị đánh bại hoàn toàn. Có vẻ như mọi người tham gia trận chiến này đều có thể nhận được phần thưởng. Lưu ý rằng việc nhận thưởng chỉ trong thời gian nhất định.
+特定のお仲間は、バトルでより力を発揮しやすいようです。\nもし育成ができていないお仲間がいる場合は、今回はマナを使わずに\nサポートキャラを編成できますので試してみましょう。=Một đồng hành cụ thể dường như dễ thể hiện hơn trong trận chiến. Nếu bạn có một người bạn chưa thể rèn luyện, lần này bạn có thể tổ chức nhân vật hỗ trợ mà không cần dùng mana.
+皆様で力を合わせて『Total HP』を減らすと、バーストダウンが発生\nするようです。一定時間、バトルが有利になる効果が発動するように\nなります。時間経過で特別なバーストダウンも発生するようです。=Nếu bạn cùng nhau giảm "TỔNG HP", có vẻ như giảm Burst sẽ xảy ra. Hiệu ứng của trận chiến sẽ được kích hoạt trong một khoảng thời gian. Có vẻ như giảm Burst đặc biệt xảy ra theo thời gian.
+ボスを完全討伐する度に、バーストエンドが発生するようです。\n残りのボスとのバトルが有利になる効果が発動いたしますので、\n苦戦していたボスにももう一度挑戦してみると良いかもしれません。=Có vẻ như kết thúc Burst xảy ra mỗi khi boss bị đánh bại hoàn toàn. Hiệu ứng của trận chiến với boss còn lại sẽ được kích hoạt, vì vậy có thể là ý tưởng tốt để thử lại boss đang gặp khó khăn.
+全てのフェーズを攻略すると、いよいよ最終決戦です。\n各ボスは次のフェーズが始まると戦えなくなるので、完全討伐まで\nたくさん撃退して報酬をたくさん獲得いたしましょう。=Nếu bạn chinh phục tất cả các giai đoạn, cuối cùng sẽ là trận chiến cuối cùng. Mỗi boss sẽ không thể chiến đấu khi giai đoạn tiếp theo bắt đầu, vì vậy hãy chiến đấu nhiều cho đến khi đánh bại hoàn toàn và nhận được nhiều phần thưởng.

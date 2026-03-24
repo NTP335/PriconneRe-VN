@@ -1,0 +1,17 @@
+Rei Shijo's BDay
+
+ごめんね、遅くなって。\nキミと約束をしていた時間から、だいぶ遅くなってしまった。\n家の誕生日パーティーがなかなか終わらなくてさ。=Xin lỗi vì đến muộn. Em đã để cậu đợi lâu hơn nhiều so với thời gian chúng ta đã hẹn. Bữa tiệc sinh nhật ở nhà em cứ kéo dài mãi.
+ああでも、もう問題ない。\n……とは、いかないかもね。\n何しろ、無断で抜け出してきたからさ。=À, nhưng mà... giờ thì chắc không có vấn đề gì rồi. ...Có lẽ không. Rốt cuộc em đã lén ra ngoài mà không xin phép.
+自分でもそう思うよ。\nでも、仕方ないでしょ。\n楽しみだったんだから──キミとの誕生日パーティー=Em biết điều đó. Nhưng em còn lựa chọn nào khác? Em thực sự rất mong chờ... bữa tiệc sinh nhật với cậu.
+それよりも申し訳ないね。\nお家を使わせてもらうことになってしまって。\n……なるべくプライベートな空間がよかったんだ。=Hơn cả điều đó, em xin lỗi vì chúng ta đã dùng nhà cậu. ...Em muốn nó ở nơi càng riêng tư càng tốt.
+っ！\nあ、ああ……うん、お邪魔するね。\n初めてでもないし……全然、問題ない。=Hả!? A-A... Vâng, xin lỗi vì đã xâm phạm. Em cũng không phải lần đầu đến đó, nên... chắc không sao đâu.
+ふふっ、ありがとう。\nケーキに、プレゼントも……うれしいよ。\n贈ってくれた人の表情が近くで見えるのって、すごく貴重なんだ。=Hehe, cảm ơn cậu. Chiếc bánh, món quà nữa... đều khiến em rất vui. Được nhìn biểu cảm của người đã tặng chúng cho em từ cự ly gần thật là một niềm vui.
+こうしてキミと二人で迎える誕生日は、\nとてもかけがえのないものだって……心から思うよ。=Trải nghiệm sinh nhật như thế này, chỉ có hai chúng ta... Em thực sự tin rằng đó là một điều không thể thay thế.
+……このまま。\n今日という一日が終わるまで、ここにいられればいいのにね。\nふっ、それは無理かな。さっきから携帯がうるさいし。=...Giá như chúng ta có thể ở như thế này đến cuối ngày. Heh, nhưng em biết điều đó sẽ không khả thi. Điện thoại của em đã kêu được một lúc rồi.
+……！　ふふっ、ふふふっ……随分思い切ったね。\nでも……腹が決まったよ。今日はキミとの誕生日を、楽しみつくそう。\n一つ年を重ねたんだ。いつまでも鳥籠でジッとはしていられないよね。=...À! Heheh... heheheheh... Cậu khá táo bạo đấy. Nhưng... em đã quyết định rồi. Hôm nay, em sẽ tận hưởng sinh nhật với cậu hết mình. Em đã lớn thêm một tuổi mà. Em không thể mãi sống trong lồng chim được.
+
+Player Prompts
+……随分思い切ったね。=...Cậu khá táo bạo đấy
+僕の部屋にどうぞ。=Vậy thì, mời lên phòng em nhé.
+誕生日おめでとう、怜。=Chúc mừng sinh nhật, Rei
+一緒に切っちゃおうか？=...Chúng ta treo nó lên cùng nhau nhé?

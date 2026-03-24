@@ -1,0 +1,33 @@
+##Profile##
+【物理】中衛で万魔の頂点に君臨するジオ・ゲヘナの媛。環境効果【妨魔塵】で魔法攻撃を阻害し、行動速度アップ等の支援や苛烈な攻撃で無謀な不届き者を平伏させる。=[Vật lý] Công chúa Gio Gehenna cai trị vô số quái vật và đứng ở đỉnh của chuỗi thức ăn. Khi kích hoạt lần đầu [Magic Disturbance Dust], cô triển khai bụi chống phép để phá rối đòn tấn công phép, tăng cường tốc độ tấn công, và sử dụng các đòn nặng nề dữ dội để buộc bất kỳ kẻ ngốc nào dám thách thức phải quỳ trước quyền năng của cô.
+大久保瑠美=Rumi Okubo
+おままごと、人間観察=Chơi nhà, quan sát con người
+万魔の頂点、煉獄の媛君=Đỉnh cao của tất cả quỷ, Công Chúa Purgatory
+
+##UB##
+滅裂万化・輪廻転掌=Biến Thể Hủy Diệt: Lòng Bàn Tay Tái Sinh
+最も物理防御力の低い敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。【妨魔塵】中、このスキルの効果がアップする。=Gây sát thương vật lý cực lớn lên kẻ địch có phòng thủ vật lý thấp nhất, giảm nhẹ phòng thủ vật lý của chúng và tăng nhẹ sát thương phản công vật lý mà chúng phải nhận. Nếu [Bụi Kỳ Dị] đang hoạt động, gấp đôi mọi hiệu ứng.
+r:"^敵単体に(\d+)の物理ダメージ妨魔塵中、敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン妨魔塵中、敵単体の物理防御力を(\d+)ダウン敵単体のクリティカルを受けた際のダメージを4％アップ妨魔塵中、敵単体のクリティカルを受けた際のダメージを8％アップ$"=Nếu [Bụi Kỳ Dị] chưa hoạt động:\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $3 trong 18s.\n►Tăng sát thương phản công vật lý mà kẻ địch nhận lên 4% trong 18s.\n\nNếu [Bụi Kỳ Dị] đang hoạt động:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch đi $4 trong 18s.\n►Tăng sát thương phản công vật lý mà kẻ địch nhận lên 8% trong 18s.
+
+##S1##
+万化・硬拳=Biến Thể: Quyền Cứng Cáp
+最も物理防御力の低い敵１キャラに物理中ダメージを与え、味方全体の物理攻撃力を大アップ、物理クリティカルを中アップ、物理攻撃クリティカル時のダメージを小アップさせる。【妨魔塵】中、このスキルの効果がアップする。=Gây sát thương vật lý vừa phải, tăng mạnh tấn công vật lý, tỷ lệ phản công vật lý và sát thương phản công vật lý cho tất cả đồng minh. Nếu [Bụi Kỳ Dị] đang hoạt động, gấp đôi mọi hiệu ứng.
+r:"^敵単体に(\d+)の物理ダメージ妨魔塵中、敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ妨魔塵中、味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを75アップ妨魔塵中、味方全体の物理クリティカルを150アップ味方全体の物理クリダメを3％アップ妨魔塵中、味方全体の物理クリダメを6％アップ$"=Nếu [Bụi Kỳ Dị] chưa hoạt động:\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng tấn công vật lý của tất cả đồng minh lên $3 trong 12s.\n►Tăng tỷ lệ phản công vật lý của tất cả đồng minh lên 75 trong 12s.\n►Tăng sát thương phản công vật lý của tất cả đồng minh lên 3% trong 12s.\n\nNếu [Bụi Kỳ Dị] đang hoạt động:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Tăng tấn công vật lý của tất cả đồng minh lên $4 trong 12s.\n►Tăng tỷ lệ phản công vật lý của tất cả đồng minh lên 150 trong 12s.\n►Tăng sát thương phản công vật lý của tất cả đồng minh lên 6% trong 12s.
+
+##S2##
+万化・蛇盾=Biến Thể: Khiên Rắn
+味方全体の行動速度を大アップ、ＨＰを中回復する。バトル開始後、初弾のこのスキルは自分に【鉄気ノ護リ】を20追加し、付与されている間、味方全員が敵から受けるダメージを10％軽減する。味方が敵からダメージを受ける度、【鉄気ノ護リ】を１つ消費し、その敵の最大ＨＰに応じて最大99999の割合ダメージを与え、味方全体の物理攻撃力を中アップする。【妨魔塵】中、行動速度の上昇量がアップする。=Tăng mạnh tốc độ hành động của tất cả đồng minh, hồi phục một lượng máu vừa phải cho họ. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên nhận được 20 [Lớp Giáp Ý Chí Sắt Đá], giảm sát thương vật lý/phép mà tất cả đồng minh nhận. Khi một đồng minh nhận sát thương, 1 [Lớp Giáp Ý Chí Sắt Đá] sẽ tiêu hao, gây sát thương dựa trên % máu lên kẻ địch (tối đa 99999), và tăng vừa phải tấn công vật lý cho tất cả đồng minh. Nếu [Bụi Kỳ Dị] đang hoạt động, hiệu ứng tăng tốc độ được tăng cường.
+r:"^味方全体の行動速度アップ初使用時、自分に鉄気ノ護リを20追加する敵単体に最大99999の割合ダメージを与える味方全体の物理攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Tăng tốc độ hành động của tất cả đồng minh lên 150% trong 12s.\n►Đối với lần dùng kỹ năng đầu tiên, nhận được 20 lớp [Lớp Giáp Ý Chí Sắt Đá].\n►Hồi máu cho tất cả đồng minh $2.\n►Nếu [Bụi Kỳ Dị] đang hoạt động, tăng tốc độ hành động của tất cả đồng minh lên 200% trong 12s.
+
+##SP1##
+欺魔・鉄霞=Bụi Ma Thuật: Sương Sắt
+このスキルのスキルレベルは「滅裂万化・輪廻転掌」と連動しています=Cấp độ kỹ năng này liên kết với "Biến Thể Hủy Diệt: Lòng Bàn Tay Tái Sinh"
+環境効果【妨魔塵】を発動する。このスキルの効果は敵、味方すべてに適用される。魔法攻撃で与えるダメージが小ダウンする。=Kích hoạt hiệu ứng môi trường [Bụi Kỳ Dị]. Hiệu ứng kỹ năng này áp dụng cho tất cả kẻ địch và đồng minh. Giảm nhẹ sát thương phép mà mọi người nhận.
+環境を妨魔塵にする敵味方が与える魔法ダメージを5％ダウン=►Giảm sát thương phép mà mọi người nhận lên 5% trong 180s.
+
+##EX##
+万化・尖鋭=Biến Thể: Sắc Bén
+万化・尖鋭+=Biến Thể: Sắc Bén+
+
+妨魔塵=Bụi Kỳ Dị
+魔法攻撃のダメージが小ダウンする。=Sát thương từ đòn tấn công phép giảm nhẹ.

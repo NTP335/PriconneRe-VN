@@ -1,0 +1,242 @@
+新春日替わり湯=Onsen Hàng Ngày Năm Mới
+新春日替湯録=Kỷ Lục Tắm Hàng Ngày Năm Mới
+
+sr:"^(\d+日)目の日替わり湯$"="Ngày $1 của Onsen Hàng Ngày"
+日替わり湯解放=Mở Khóa Onsen Hàng Ngày
+穢れし湯ノ神・陽卵=Thần Onsen Bị Đô Mi / Yotamago
+
+ホマレさま、ミツキさま、ミサトさまが湯番として、毎日さまざまな\n日替わり湯を用意されるようでございます。浴客として訪れた皆さまへの\n個性豊かなおもてなしの一幕を楽しみましょう。=Homare, Mitsuki và Misato dường như có nhiều loại onsen hàng ngày. Hãy tận hưởng sự hiếu khách độc nhất dành cho những người đã ghé thăm như một bữa tắm.
+
+日替わり湯は全部で９日間分用意され、毎日０時に新たな日替わり湯が\nお披露目されるようですよ。どのような湯になるのかは当日まで分かり\nませんので、ぜひ楽しみにお待ちくださいまし。=Onsen hàng ngày được chuẩn bị trong tổng cộng 9 ngày, và dường như một onsen hàng ngày mới sẽ được công bố vào nửa đêm mỗi ngày. Tôi không biết loại onsen nào sẽ có cho đến ngày đó, vì vậy hãy chờ đón nhé.
+
+旅館で実験するほどヤボじゃないわ。でも……実験されたいのなら、喜んで♪=Tôi không tệ đến mức thử nghiệm tại một nhà trọ. Nhưng...\nNếu bạn tự nguyện, tôi sẽ rất vui ♪
+どの温泉も自信作よ。たっぷり確かめたもの……自分の体でね。もうふやけちゃうかと思ったわ=Mỗi Onsen đều là kiệt tác.\nTôi đã xác nhận rất nhiều... bằng chính cơ thể mình. Tôi nghĩ mình sắp chết đuối rồi.
+湯治も立派な医療法のひとつよ。Dr.ミツキの診察室、湯けむり編……といったところね=Liệu pháp Onsen cũng là một trong những phương pháp y tế tuyệt vời.\nPhòng khám của Bác sĩ Mitsuki, phiên bản Yukemuri...
+はぁい、お風呂の時間ですよ～♪　しっかり浸かって、体の芯まで温まりましょうね～=Được rồi, đến giờ tắm r~♪\nHãy ngâm mình và sưởi ấm từ tận trong~
+私も温泉のように、みんなを優しく包んであげられる素敵な先生になりたいわ～=Tôi muốn trở thành một giáo viên tuyệt vời\ncó thể nhẹ nhàng bao bọc mọi người như một Onsen.
+お風呂上がりの牛乳は、急いで飲んだらいけませんよ～？　腰に手を当てて味わって飲みましょうね=Bạn không nên uống sữa vội vàng sau khi tắm, phải không?\nHãy đặt tay lên hông và thưởng thức thức uống.
+よ～し、今日もいっぱいおもてなししちゃうぞ～☆　美人若女将にお任せあれ♪=Được rồi, hôm nay tôi sẽ chiều chuộng bạn rất nhiều~☆\nĐể đó cho một bà chủ trẻ xinh đẹp ♪
+私も一緒に入っちゃおうかな～。温泉回を描くときの資料も欲しいし？　体当たり取材～☆=Tôi có thể tham gia cùng không? Bạn có muốn tài liệu\nđể vẽ cảnh onsen không?  Phỏng vấn cơ thể~☆
+
+
+イベント公開期間中、日替わりで解放されます。=Trong thời gian sự kiện phát hành,\nnó sẽ được phát hành hàng ngày.
+
+
+::::::::::::::DAY 1
+
+あ、あづいです～っ！！\nここのお湯の温度はおかしいですよ……\nどうなってるですか、ボス！？=Ôi, nóng quá!!\nNhiệt độ của onsen ở đây lạ...\nCòn bạn thì sao, Boss!?
+今はボスじゃなくて\n若女将って呼んでほしいな～？=Bạn có thể không gọi tôi là Boss được không?\nTôi muốn bạn gọi tôi là bà chủ trẻ.
+けっ。\nな～にが若女将ですか……\n根性のねじ曲がったババ女将のくせに。=Ketsu. Bà chủ trẻ là cái gì...\nDù bản chất của bà chủ già là như vậy.
+イノリちゃん……\n今なんか言った？=Inori-chan...\nCó phải cậu nói gì không?
+いいい、いや何も言ってないですよ～？\nそんなことより温泉です！\nこの熱さはただごとじゃないです……\n絶対ヤバいものが入ってるですよ！=Ừm, không, tôi không nói gì cả.\nQuan trọng hơn, đây là một onsen!\nCái nóng này không phải vô cớ...\nChắc chắn có thứ gì đó nguy hiểm ở trong đó!
+人聞きが悪いな～\n危険なものなんて入ってないよ～\n……むしろイノリちゃんだって\nよく知ってるものだし？=Tôi không giỏi nghe người khác nói.\nỞ đây không có gì nguy hiểm cả~\n……Hay là, Inori-chan\nĐó là thứ cậu biết rõ?
+
+言われてみれば……クンクン。\nこのお湯の匂い\nどっかで嗅いだような気がするです。=Nhìn lại thì... hít hà.\nMùi của onsen này\nTôi nghĩ mình đã ngửi thấy ở đâu rồi.
+そうでしょ～？\n正解は～……\nドラゴンもどきちゃんからもらった\n食べると火が吹ける木の実でした～☆=Đúng r~?\nĐáp án đúng là...\nNhận từ Dragon Modoki\nĐó là một quả hạt có thể phun lửa khi ăn~☆
+ああっ！？\nあの火の実ですか！\nだったらこの熱さも納得ですよ！\nあいつ、元気だったですか？=Ồ!?\nQuả lửa đó!\nVậy cái nóng này cũng có lý!\nAnh ta thế nào?
+うん☆\n私のこと覚えててくれたみたいでね？\nすぐに実を分けてくれたんだ～♪\nこころよ～く、ね？=Ừ☆\nCó vẻ như cậu nhớ ra anh ta rồi?\nAnh ấy chia sẻ quả\nngay với tôi~♪\nAnh ấy tốt bụng quá, phải không?
+
+それにしても……\nふぅ。\n実の量を多くしすぎたかな～？\nちょっと火照ってきちゃった～=Dù sao thì...\nPhew.\nTôi có thêm quá nhiều quả không?\nTôi thấy hơi nóng~
+
+（こ、これは……チャンスですよ！\nあたしよりも先にボスがのぼせたら\nその時点でボスはあたしよりへっぽこ！\nつまりあたしの勝ち！　ザ・下克上！）=(Này, đây là... một cơ hội!\nNếu boss nóng hơn tôi,\nlúc đó\nboss sẽ yếu hơn tôi!\nNói cách khác,\ntôi thắng! Gekokujo!)
+
+くっくっく……\nこの勝負、もらったですよー！\nあーっはっはっはっは！=Kukkuku……\nTôi có chiến thắng này!\nAhahahahahahahaha!
+うーん♪\nようやくあったまってきた～\nね、イノリちゃん？=Hmm ♪\nCuối cùng cũng ấm áp r~\nNày, Inori-chan?
+ぴ……\nぴぃいいい……\nゆでドラゴン族になっちまうです～っ！=Pi……\nPiiiiiiie......\nTôi sắp trở thành rồng luộc rồi!
+
+エルピス島のドラゴンもどきから分けて\nもらった火の実をふんだんにつかった\n情熱的な温泉。ひとたび浸かれば汗が\n滝のように噴き出してくる。その熱さは\n己の限界を極めようとする漢・漢女たちの\n勝負心をがっちりと掴んで離さない。=Một onsen đầy nhiệt huyết sử dụng rất nhiều\nquả hạt lửa được cho bởi sinh vật\ngiống rồng trên Đảo Elpis. Một khi đã ngâm,\nmồ hôi phun ra như thác nước. Nhiệt huyết\nsiết chặt tinh thần chiến đấu của\nHan và phụ nữ Han đang cố gắng đạt đến\ngiới hạn của họ và không buông tha.
+冷え性改善、代謝促進、保温効果\n※長時間の入浴にはご注意ください=Cải thiện sự nhạy cảm với lạnh, tăng chuyển hóa.\n※Hãy cẩn thận khi tắm\nquá lâu.
+エルピス島原産　火の実、オオトウガラシ=Xuất xứ từ Đảo Elpis:\nQuả hạt lửa, ớt chuông
+
+我慢くらべはほどほどに　火の実の湯=Đọa sức bền: Onsen Lửa
+
+::::::::::::::DAY 2
+にぎにぎ=Nig nigi
+やっばー！　おフロ、ひっろ～い☆\n温泉きちゃった感まじパない！\nそれにミサトっちにも会えるとか\nちょーウケるし！　アガる～♪=Ôi trời~! Ofuro rộng quá☆\nNó không giống như onsen thông thường!\nVà còn gặp được Misatochi nữa!\nCười chết~♪
+久しぶりね～、スズナちゃん♪\n今日の温泉はね\nお花のアロマ風呂にしてみたの。\n香りはいいし、お肌にもいいのよ～=Đã lâu r~, Suzuna-chan♪\nOnsen hôm nay\ntôi thử bồn tắm hoa.\nNgửi thơm và tốt cho da
+
+
+やばば、温泉天才じゃん！\nビヨーにもいいとかビビる！\nここ教えてくれた\nちゃんイオに感謝じゃん♪=Chết tiệt, cậu là thiên tài onsen!\nTôi sợ nó tốt cho Billy!\nNhờ Chan-Io\ncho tôi biết nơi này ♪
+よーし！\nじゃあいーっぱい入ってー\nお肌ツヤッツヤにしてー\nヒデサイびっくりさせちゃおーっと☆=Được rồi!\nVào đi đầy đủ\nLàm da cậu sáng bóng\nĐể bất ngờ Hidesai☆
+あ、そーだ！\nびっくりっていったらさー？\nここももっとすごそー感\n出しちゃってもいんじゃない？=Ồ yeah!\nNếu cậu bất ngờ thì sao?\nChẳng phải cảm thấy\ncòn tuyệt hơn ở đây sao?
+すごそー感？=Tuyệt vời đến vậy sao?
+そそ！\nみんな一発でやばば！\nってわかるようにすんの！=Ừ đúng rồi! Mọi người đều tệ với một phát! Cậu muốn biết không!
+フンイキ変わるとバズるかもだし！\nめっちゃかわいいおフロだったら\nお客さんもジャンジャンだよ！=Nếu cậu thay đổi tâm trạng,\nđiều đó có thể lan truyền!\n Nếu đó là một bồn tắm cực kỳ dễ thương,\nkhách hàng sẽ là Jean Jean!
+かわいいお風呂……\n気になるわね～♪\nどんな感じになるのかしら？=Bồn tắm dễ thương...\nTớ tò mò~♪\nTớ tự hỏi nó sẽ trông như thế nào?
+
+んっとねー\nやっぱお花はもっと浮かせるっしょ！\nもちろんいろんなやつね！\nカラフルだったらビビビッとくるし♪=Hmm\nRốt cuộc, hoa sẽ nổi nhiều hơn!\nĐủ loại, tất nhiên!\nNếu màu sắc thì sẽ khiến cậu phát điên♪
+
+まるで温泉のお花畑ね～♪\n色とりどりのお花に囲まれて\nお風呂に入れるなんて……うふふ♪\n想像するだけで気持ちが華やぐわ～=Giống như một cánh đồng hoa\ntrong Onsen~♪\nTắm trong khi được bao quanh\nbởi những bông hoa rực rỡ...\nHehe♪ Chỉ nghĩ đến thôi\ncũng khiến mình cảm thấy lộng lẫy~
+
+そうね、それだったら……\nお花の香りの相性もこだわりたいわね。\nあとは花言葉の意味も。=Vậy nếu vậy...\nTớ muốn chú trọng\nvề sự phù hợp của mùi hoa.\nVà cả ý nghĩa ngôn ngữ của hoa nữa.
+へ？\nハナコトバ？=Hee?\nNgôn ngữ hoa?
+お花にはね、その一つ一つに\n意味があるの。\n誰かに贈るときには\n相手へのメッセージにもなるのよ～=Mỗi loài hoa đều có ý nghĩa riêng.\nKhi tặng nó cho ai đó,\nnó cũng sẽ là một thông điệp\ngửi đến người đó~
+
+ちなみに今日のお花の意味は……\n『愛するあなたのために』\nうふふ、素敵でしょう♪=Nhân tiện,\ný nghĩa của bông hoa hôm nay là...\n"Dành cho người mà tôi yêu"\nHehe, thật tuyệt vời phải không♪
+あ、愛する……！\nちょ、それまじ……？\nそんなの、ストレートで……\nなんか…………ズルじゃん。=À, lời tỏ tình...!\nNày, có thật không...?\nThật trực tiếp...\nmột cách nào đó...\nthật ngầu.
+
+えっと……\nバズり計画、ナシで。\n……あー、あつぅ。=Ừm...\nKhông có kế hoạch gì để viral đâu.\n ...... À, nóng.
+うふふ♪\nのぼせないように気をつけてね。=Hehe ♪\nCẩn thận đừng để mất nó.
+
+香り高い花とその花のアロマエッセンスを\n使用した目にも鮮やかな温泉。時間を\n忘れるほどのリラクゼーション効果は\n忙しい都会人のニーズにピッタリ。高い\n美容効果もあいまって、若い女性たちの\n間で大注目のスポットになりつつある。=Một Onsen với hoa thơm và\ntinh chất hương hoa.\nHiệu ứng thư giãn khiến bạn\nquên cả thời gian rất phù hợp với nhu cầu\ncủa những người đô thị bận rộn. Kết hợp với hiệu ứng\nlàm đẹp cao, nó đang trở thành điểm nóng\ngiữa các bạn trẻ nữ.
+美肌効果、リラックス効果、保香効果\n※甘酸っぱい気持ちになることがあります=Hiệu ứng da đẹp, hiệu ứng thư giãn,\nhiệu ứng hương thơm ※Có thể cảm thấy chua ngọt.
+エルフの森産　かぐわし花のエッセンス=Tinh chất hoa Kagwashi Rừng Tiên
+
+心華やぐリラクゼーション　アロマの湯=Thư giãn và linh hồn rạng rỡ: Onsen Hương thơm
+::::::::::::DAY 3
+たまには命のやり取りじゃなくて、命の洗濯をしないとね～。お背中……流しましょうか？=Đôi khi tôi phải rửa sạch cuộc đời mình thay vì trao đổi mạng sống.\nLưng cậu... cậu muốn tôi rửa giúp không?
+
+わわっ……\nすごい、シュワシュワしてる……！\n本当にメロンソーダのお風呂に\n入っているみたい……♪=Ồ...\nỒ, tớ đang sủi...!\nThật sự cảm giác như cậu\nđang tắm trong nước dưa hấu có ga...♪
+そうだったんですか……=Thế à……
+んだかあやしい人かと思ったけど\n本当はいい人なのかな……）=(Tớ tưởng hắn hơi đáng ngờ,\nnhưng không biết hắn có thực sự là người tốt không...)
+ふふふ、素敵でしょう？\n子どもたちが喜んでくれるような\n温泉にしたいと思って作ったの。=Hehe, thật tuyệt phải không?\nTớ làm vì tớ muốn\ntạo ra một Onsen mà\nTrẻ em sẽ vui vẻ khi tắm.
+たしかに子どもは喜びますね。\n……わ、私も思わず\n童心に帰ってしまいましたから。=Trẻ em chắc chắn sẽ thích.\n……Ồ, tớ vô tình\ntrở nên ngây thơ.
+童心……？\nああ、なるほど。\nそれはよかったわ♪=Ngây thơ...? \n À, tớ hiểu rồi. \n Thật tuyệt vời♪
+……何か引っかかることでも？=……Có điều gì\ncó hấp dẫn cậu không?
+いいえ、何も♪=Không, không có gì ♪
+ところで……\n童心に帰ると大きなお風呂で\n泳ぎたくなったりするわよね？\nキョウカちゃんはどう？=Nhân tiện...\nKhi trở về tuổi thơ,\ncậu muốn bơi trong bồn tắm lớn,\nphải không?\nKyouka thế nào?
+泳ぐなんて……！\nしませんよ、そんなことっ！\nはしたないですし……=Bơi...!\nTớ sẽ không làm đâu!\nThật xấu hổ...
+はしたないなんて……\n今は私たち二人きりなのよ。\nメロンソーダの中で泳いだら\nきっと楽しいと思うけど……？=Thật xấu hổ...\nchúng ta đang một mình rồi.\nTớ nghĩ sẽ vui nếu\nbơi trong nước dưa hấu có ga...?
+そ、それは……\n楽しそうですけど……\n私も少し泳げるようになりましたし……\nでも、マナー的に……う～ん……=Vậy thì...\nnghe có vẻ vui,\nnhưng...\ntớ cũng đã học bơi một chút...\nnhưng về mặt phép lịch sự...\nừm...
+……ふふふ。\nじゃあ、私は泳いじゃおっかな～？=……Hehe.\nVậy thì, tớ nên bơi chứ?
+ええっ！？\nそんな、ズルいですっ。\nだったら……わ、私もっ！=Eee!?\n Đó là gian lận.\nVậy thì... Tớ, tớ cũng muốn!
+
+優しい微炭酸と甘いメロンの香りに満ちた\n遊び心をくすぐる温泉。子どもたちが喜ぶ\nような温泉を、というミツキの想いが形に\nなったもの。いつもは大人びている優等生\nさんも、この湯舟に浸かればつい年相応に\nはしゃいでしまうのだとか。=Một Onsen vui nhộn đầy\ncarbonate nhẹ và hương dưa hấu ngọt.\ný muốn của Mitsuki tạo ra một Onsen\nsẽ làm trẻ em vui sướng đã thành hình.\nNgười ta nói rằng ngay cả học sinh giỏi\nthường thông minh cũng sẽ hào hứng\ntuổi tác nếu ngâm mình trong bồn tắm này.
+血行促進、ピーリング効果\n童心に帰る効果=Hiệu ứng tẩy tế bào chết để tăng cường tuần hoàn\nmáu Hiệu ứng trở về tuổi thơ
+仲居特製の炭酸泉、メロンエッセンス=Tinh chất dưa hấu suối nước nóng có ga đặc biệt của Nakai
+童心くすぐる微炭酸　メロンソーダの湯=Làm trẻ lại Onsen FUNta vị dưa hấu
+
+::::::::::::::Day4
+（あの子……\nなんだかずっと静かね～\n電撃が強すぎちゃったかな？）=(Cô gái đó...\nchẳng hiểu sao cô ấy trầm lặng~\nCó phải cú sốc điện quá mạnh?)
+お客さま～？\nお湯加減と電撃加減はいかがですか～=Khách hàng~? Còn Onsen\nvà cú sốc điện thì sao?
+……い=……Tớ
+い？=Tớ?
+イイですぅ～～！！=Thật tốt! !
+
+この甘くビリっとくる感じが\nもうたまりません～♪\nあひんっ！　くうん！　はうぅうっ！=Tớ không thể đủ\nvới cảm giác ngọt ngào\nvà giòn tan này~♪\nAhin! Kuun! "Uuuuu!"
+ああ、しっかり味わってくれてたんだ～\nなんだか温泉を楽しんでるのとは\n違うような感じがするけど……\n喜んでくれてるなら、いっか☆=Ồ, nó ngon quá~\n Cảm giác khác\nvới việc thưởng thức Onsen... \nnhưng nếu cậu vui vẻ,
+若女将！\nもっと……もっとクウカに刺激を！\n激しくシビれさせてください～！！=Chủ nhà trẻ!\nThêm nữa...\ncho Kuuka nhiều kích thích hơn!\nLàm cho tớ tê liệt đi!!
+かしこまりました～♪\nえ～い☆=Hiểu rồi♪\nEit☆
+あっ。\nちょ～っとサービスしすぎちゃった……\nかな？=À.\nTớ đã phục vụ quá nhiều...\ncó lẽ
+……ぐふ。\nぐふふふふ……\n温泉に……目覚めちゃいますぅ……\nじゅるり。=...... Gufu.\nGufufufufufu ...\nTớ thức dậy trong Onsen\n...glub
+よかった～なんともないみたい。\nそれにしても……\n今の威力で喜んじゃうなんてね～\n……ウワサ以上だよ、クウカちゃん♪=Tớ mừng là dường như không có gì.\nDù vậy...\nTớ không thể tin được cậu lại vui vẻ\nvới sức mạnh cậu có bây giờ~...\nĐó còn hơn một tin đồn,\nKuuka-chan♪
+
+当旅館自慢の源泉に若女将の電撃を加えた\n刺激的な温泉。体中のがんこなコリに効果\nてき面と大好評。今日もデスクワーカー\nから老人たちまで、コリをほぐしに足を\n運んでいる。ちょっぴり痛みを感じるのも\nクセになる理由の一つなのだとか。=Một Onsen kích thích với cú sốc điện\ncủa chủ nhà trẻ được thêm vào\nnguồn nước tự hào của nhà trọ chúng tôi.\nNó rất phổ biến vì có tác dụng cho\ncứng cứ dai dẳng khắp cơ thể.\nNgay cả hôm nay, mọi người từ nhân viên văn phòng\nd đến người cao tuổi đều đến đây để giảm\ncứng cứ. Đó là một trong những lý do\nkhiến nó gây nghiện khi cảm thấy đau đớn một chút.
+
+腰痛・肩こりの解消、血行促進\nビリビリエクスタシートリップ（？）=Giảm đau lưng và vai cứng,\ntăng cường tuần hoàn máu\nHành trình Ecstasy Bilibili(?)
+若女将の魔法（電撃）=Phép thuật của chủ nhà trẻ (tia chớp)
+ときめき電撃かけながし☆　ビリビリの湯=Sốc Rung Động ☆ Suối Nước Nóng Tê Tê
+
+::::::::::::::Day5
+
+ふう……\nさすがはエルフの森の薬草ね。\n体の疲れが一気になくなっていくわ。=Phew...\nNhư mong đợi từ thảo dược rừng Elf.\nMệt mỏi trong cơ thể tôi biến mất ngay lập tức.
+喜んでもらえてよかったわ～♪\n実はね、その薬草には\n癒しの魔法もかけてあるの。=Mình vui vì cậu đã vui~♪\nThực ra, loại thảo dược đó\ncòn được khảm một phép trị liệu nữa.
+なるほど……\nそれでこの疲労回復効果なのね。\n優れた効能を更に強化……\nうんうん、効率的だわ！=Ra vậy... \nVì thế nên mới có hiệu quả phục hồi mệt mỏi này. \nLàm tăng hiệu quả ưu việt của nó...\nỪ, hiệu quả thật!
+おかげでバリバリ働けそうよ！\nもうすぐにでも！\nさっそくお風呂からあがって\n臨時のバイトを探さないと！=Nhờ cậu,\ntôi có thể cố gắng được! Sắp rồi!\nTôi phải ra khỏi bồn tắm ngay\nvà tìm một công việc bán thời gian!
+もう十分、疲れはとれたわ。\nあんまり長湯しちゃうと\nかえって時間がもったいないもの。\n時は金なりよ！=Đủ rồi, mệt đã hết. \nNếu ở lâu trong bồn tắm\nthì lãng phí thời gian. \nThời gian là tiền bạc!
+時は金なり……\nそうね\nそういう考え方もあるわね～=Thời gian là tiền bạc... \nCó cách suy nghĩ như vậy~
+でも……\nたまには時間をぜいたくに使うのも\nいいんじゃないかしら？=Nhưng...\nĐôi khi rủi ro phung phí thời gian\nmột chút cũng thấy thích, phải không?
+え？=Hả?
+疲れがたまるのは体だけじゃないわ。\nあんまり気を張りすぎたら\n心だって疲れちゃうもの。=Đâu chỉ có cơ thể mới mệt mỏi. \nNếu cố gắng quá sức,\ntâm trí cũng sẽ mệt.
+そういう目に見えないところを癒すのも\n大切なことだって……\n私は思うの♪=Mình nghĩ việc chữa lành những thứ\nkhông nhìn thấy được...\nquan trọng lắm...♪
+た、たしかに……\nそういう考え方もあるわね。\nはるばるオーエドまで足を運んだんだし\nこの機会を生かした方がいいのかも……=Ừ, đúng thật... \nCó cách nhìn nhận như vậy. \nTôi đã đi xa đến Oedo\nthì nên tận hưởng cơ hội này...
+……分かったわ。\nしっかりたっぷり時間を使って\n徹底的にリラックスしてみせる！\nこれも必要経費ってやつよ！=……Tôi hiểu rồi. \nCậu cứ thoải mái thư giãn\nđủ thời gian đi! \nĐây cũng là một khoản chi cần thiết!
+うふふ、それがいいわ～\n温泉はの～んびりするところだもの。\nどうぞ、ごゆるりと♪=Ufufu, vậy là tốt~\nOnsen là nơi thư giãn. \nCứ thư thái nào♪
+
+あらゆる疲労を回復すると名高い温泉。\nエルフの森自慢の薬草類を調合し、その\n効果を高めた薬湯は、疲れ切った人々の\nいこいの場。世の働き者たちは、この湯\nに浸かっては働き、また浸かっては働く\nのを繰り返して精を出すのだとか。=Một onsen nổi tiếng giảm mệt mỏi.\nBồn tắm dược phẩm tăng cường hiệu quả\ncủa thảo dược - niềm tự hào của Rừng Elf -\nlà nơi nghỉ ngơi cho những người kiệt sức. Người ta nói rằng những người chăm chỉ trên đời này làm việc vất vả, ngâm mình trong\nonsen này, rồi làm việc tiếp, ngâm tiếp,\nlàm việc tiếp.
+超・肉体疲労回復、超・神経疲労回復\n超・精神疲労回復=Phục Hồi Siêu Cực Học Thân Thể,\nPhục Hồi Siêu Cực Học Thần Kinh\nPhục Hồi Siêu Cực Học Tinh Thần
+エルフの森産　ヒールリーフの根っこ=Lá Chữa Trị Rừng Elf
+明日への活力をあなたに　疲労回復の湯=Sức Sống Cho Thứ Hai: Onsen Sức Sống
+
+:::::::Day 6
+あああああ～～っ！\n燃えるっ！\nわたくしの脂肪が燃えていますわ～っ！=Ôiii~~! \nNóng quá! \nMỡ của tôi đang cháy!
+ブラ=Áo Ngực
+ブラック労働のストレスからの食欲！\n食欲からのぜい肉！\nこの私腹を肥やすのは却下ですわ！\nすっきりごっそり清算しますわよ～！！=Cơn thèm ăn từ căng thẳng của lao động đen! \nThịt từ cơn thèm ăn! \nTôi sẽ từ chối để túi tiền còn nguyên đâu! \nTôi sẽ ăn sạch hết! !
+入浴時間には気をつけてね？\n脂肪燃焼効果が高いから……\n入りすぎると大変なことになるわよ。=Cẩn thận khi tắm nhé? \nVì nó có tác dụng đốt mỡ rất cao...\nNếu thêm quá nhiều, cậu sẽ gặp rắc rối lớn.
+ええ、ええ！　もちろんですわ！\nそれにしても……短時間で\nこれほどの温泉が用意できるとは。\nさすがは『隻眼の悪魔』ですわね？=Ừ ừ! Tất nhiên rồi! \nDù vậy...Tôi không ngờ cậu chuẩn bị onsen như vậy\ntrong thời gian ngắn như vậy. \nNhư mong đợi từ Quỷ Một Mắt, phải không?
+お褒めの言葉どうも。\nといっても……\n私はあなたの依頼に応えただけだけど。=Cảm ơn lời khen của cậu. \nNhưng...\ntôi chỉ đang đáp ứng yêu cầu của cậu thôi.
+あらあらご謙遜ですこと。\nもっとつけ入る隙を見せてくれたら\nわたくしも楽ですのに。=Ôi trời, hãy khiêm tốn chút. \nTôi sẽ dễ chịu hơn nếu cậu cho tôi thấy cơ hội\ntận dụng nó nhiều hơn.
+私が楽にしてあげるのは患者だけよ。\n商売の取引相手は範囲外。=Người duy nhất tôi có thể làm dễ chịu là bệnh nhân. \nĐối tác kinh doanh nằm ngoài phạm vi.
+あらあらあら手厳しいですわね\nおそろしいですわね。\n冷や汗をかいてしまいますわ～\nそれはもうダクダクと……んん？=Ôi trời, thật tàn nhẫn\nmà cũng đáng sợ. \nTôi sắp ra mồ hôi lạnh rồi~\nĐiều đó rồi... ừm?
+この汗の量……\nおかしくありませんこと？\nいくら発汗作用が優れているからと\nいっても、これは……=Lượng mồ hôi này...\nCó phải là kỳ lạ không? \nDù đổ mồ hôi tốt đến đâu,\nđây là...
+それに……\n気のせいかしら？\nなんだか肌がヒリついてきたような……=Và...\nCó phải tôi tưởng tượng không? \nTôi cảm thấy da mình đang bị kích ứng...
+……ねえ、クレジッタ。\nあなた、秘書さんに出張だってウソを\nついてここに来たのよね？=……Này, Creditta. \nCô đã nói dối thư ký rằng mình đi công tác,\nđến đây rồi, đúng không?
+ギギギギクッ？\nどうしてそれを！？=Gigi Gigiku?\nSao lại làm thế! ?
+秘書さんからの依頼でね？\n……虚偽の申請をしたお仕置きを\nしてほしいって言われちゃったの。\nだから……=Theo yêu cầu của thư ký của cô? \n...Tôi được yêu cầu trừng phạt\nvì đã làm đơn xin nghỉ giả. \nVậy nên...
+この温泉……\nちょっと刺激的にしておいたわ。\nトウガラシをた～っぷり入れて、ね。=Onsen này...\ntôi đã làm nó hơi kích động một chút. \nCho vào nhiều ớt cay.
+んなっ……！？\nなんてモノを入れてますの～っ！！=Wa...! ? \nCô bỏ loại thứ gì vào đấy!? !
+ああ、心配しないで。\nちゃんと脂肪燃焼効果はあるから。\nちなみに私もよく入ってるし。\n健康に害はないわよ。=Ồ đừng lo. \nVì nó có tác dụng đốt mỡ. \nNhân tiện, tôi cũng thường xuyên vào. \nNó sẽ không gây hại cho sức khỏe.
+だからって……ああっ！！\n目っ！　刺激が目に！　来ましたわ！\nくうう……ですが報酬を払った以上\n最大限利用しませんと～ッ！！！=Chính vì thế... Ô! ! \nMắt! "Kích thích mắt!" "Tôi ở đây!" \nKuuu... Nhưng vì cô đã trả tiền rồi,\nphải tận hưởng nó thôi! ! !
+途中で投げ出さないなんて\nさすがは商売人ね……\nこの覚悟の決まった損得勘定、\n伊達じゃないわ……！=Không bỏ cuộc giữa chừng\nNhư mong đợi từ một thương nhân...\nTài khoản lợi nhuận quyết tâm này\nkhông tốt...!
+荒業デトックス！　ヒリヒリの湯=Giải Độc Cơn Giận! Onsen Tê Tê
+仲居特製のカンポー、希少なトウガラシ=Mì Cay Kung Po Đặc Biệt Của Nakai, Ớt Hiếm
+脂肪燃焼効果、高デトックス効果\n※長時間の入浴には十分にご注意ください=Tác dụng đốt mỡ, tác dụng giải độc cao\n*Khi tắm lâu\nxin hãy cẩn thận.
+あまりの辛さで一般市場では流通できない\nとまで言われるトウガラシをぜいたくに\n使用した高デトックス効果のある温泉。\n湯気も刺激的なため、希望者には目を守る\nゴーグルも貸し出している（お気軽に\nフロントまでお申しつけください）=Một onsen có tác dụng giải độc cao\nsử dụng nhiều ớt cay,\nđược cho là cay đến mức không thể\nphân phối trên thị trường. \nHơi nước cũng kích thích, nên nếu\nmuốn, có thể thuê kính bảo hộ mắt\n(đừng ngại hỏi bên quầy lễ tân).
+
+::::Day 7
+はぁ～いい湯加減……♪\n体がほぐれるぅ……\nたまには温泉もいいわね～=Haa~ Onsen thật tuyệt...♪\nNó làm cơ thể tôi thư giãn...\nĐôi khi, onsen thật tuyệt~
+あり=Được
+ありがと～☆\nそう言ってもらえると\n私も若女将として鼻が高いよ～♪=Cảm ơn cậu~☆\nNếu cậu nói thế,\ntôi tự hào làm một bà chủ trẻ~♪
+よっ、オーエド一の若女将！\n……って、【ドラゴンズネスト】ぉ！？\nなんであんたがここに！？=Này, bà chủ trẻ của Oedo! \n... Gì vậy, [Tổ Ẩn Rồng]! ? \nSao cô ở đây! ?
+わぁ～♪\nキャルちゃんノリツッコミだ～\nウワサ通りの切れ味鋭い名ツッコミ☆=Ồ ~ ♪ \nTsukkomi sôi nổi của Kyaru-chan ~\nTsukkomi sắc bén như lời đồn☆
+誰が言ってたのよ、そんなこと！？\nまったく……\nどうせならもっとマシなウワサが\n流れてほしいもんだわ。=Ai nói thế! ? \nThật sự...\nTôi thích có tin đồn tốt hơn\nlan truyền.
+人の口に戸は立てられないもんね～\n……そういうキャルちゃんだって\nここのウワサを聞いてきたんでしょ？=Không thể bịt miệng người khác~\nNgay cả Kyaru-chan như vậy\ncũng nghe tin đồn về nơi này, đúng không?
+まぁね。\n魔力が回復する温泉があるって聞いて\nあと……あたしは別に気にしてないけど\nついでに肌もプルプルになるらしいし？=À, đúng thôi. \nTôi nghe nói có một onsen phục hồi ma lực\nVà...tôi không đặc biệt quan tâm lắm,\ntôi nghe nói nó còn làm da mịn màng nữa?
+たしかにじんわりと\n魔力は回復してきてるし……\nこのヌルヌルしたお湯の感じが\n肌にも効きそうな気がするわ。=Đúng là\ntôi đang dần phục hồi ma lực...\nTôi cảm thấy onsen nhớt nháp này\nsẽ có tác dụng với da mình.
+そっか～♪\nじゃあ今日の温泉は大成功だね☆\n捕まえてきてもらったかいがあったよ～=Ra vậy~♪\nVậy nên suối nước nóng hôm nay đã thành công rực rỡ☆\nCó bắt được cậu thật đáng giá~
+なかなかやるじゃない！\n……ん？　ちょっと待って。\n捕まえてきてもらった……？=Làm thật khó! \n... Mmm? Khoan đã. \nCậu đã bắt được em...?
+あれ？　温泉の名前、見なかったの～？\nこの今日の温泉は……\n特製のポーションとゼラチナを混ぜた\n当旅館自慢のゼラチナの湯で～す☆=Cái đó? "Cậu chưa thấy tên suối nước nóng~?" \nSuối nước nóng hôm nay...\nLà hỗn hợp của các loại thuốc đặc biệt và gelatin\nmà đây là tự hào của nhà trọ chúng tôi.
+ゼ……ゼラチナ風呂ぉ～～！？\nそういえば、どこかでそんな\n不穏な言葉を見たような気が……=Ze……Bồn tắm Gelatina~~! ? \nNghĩ lại, em cảm thấy như đã thấy những từ ngữ kỳ quặc này ở đâu đó...
+どうりでなんだか懐かしい感じの\nする温泉だと思ったわ……じゃなくて！\nなんてものを作ってんのよ！？=Không trách mà em nghĩ đây là suối nước nóng có cảm giác hoài niệm... không! \n Cậu đang làm cái gì vậy! ?
+でも効能はよかったでしょ～？\nちなみに入浴時間に比例して\n魔力の回復量も増大しちゃう\n素敵仕様となっておりま～す☆=Nhưng nó có tác dụng tốt, phải không? \nÀ, phải nói thêm là lượng ma lực phục hồi sẽ tăng lên tỷ lệ với thời gian tắm.\nĐây là một thông số kỳ diệu ☆
+いや、そういう問題じゃ……\nへっ！？　ほんとに回復量が\n増してきたような……！\nくぅううう……き、効くぅ～っ♪=Không, đó là vấn đề...\nHề! ? "Có vẻ như lượng phục hồi đã thực sự tăng lên...!" ♪
+魔力を回復するポーションとゼラチナを\nかけ合わせた異色の温泉。ゼラチナたちは\n若女将がスカウトしてきたアルバイトとの\nこと。その不思議な湯ざわりと確かな魔力\n回復効果は、新しもの好きの魔法使いや\n魔族たちの間で話題になっているとか。=
+A unique Onsen that combines a\npotion that restores magical power\nwith gelatin. Gelatina and others are\npart-time workers scouted by the\nyoung landlady. Its mysterious hot\nspring texture and reliable magical\npower recovery effect have become a\nhot topic among wizards and demons\nwho like new things.
+
+魔力回復、美肌効果、保湿効果\n※お湯に甘噛みされることがあります=Phục hồi ma lực, làm đẹp da,\nvà hiệu ứng dưỡng ẩm\n※Bạn có thể bị suối nước nóng "cắn"
+若女将特製のポーション、元気なゼラチナ=Potion đặc biệt do chủ nhà trẻ trung, vui vẻ chế tạo, gelatumin
+高粘度の新感覚温泉　ゼラチナの湯=Độ nhớt cao: Suối nước nóng Gelatina
+
+::::: Day 8
+ふあぁ……\nあったかいのにスースーしますぅ……\nなんだか不思議な感じ……♪=Fuaa...\nẤm áp mà lại thư giãn...\nCảm giác kỳ lạ……♪
+うふふ、エルフの森で採れた薬草を\n使った薬草風呂よ～\n喉の調子がとってもよくなるの。\nためしにちょっと声を出してみて～？=Ufufu, đây là bồn tắm dược liệu sử dụng thảo mộc từ rừng elf.\nThử nói to hơn một chút~?
+は、はいっ。\n……ふぅ。\nあーあーあー♪=D-Dạ.\n.....fu\nA-a-a-A ♪
+わぁっ……！\n本当です……\nいつもより声がずっと出しやすい……！=Ồ......! \nĐúng thật...\nGiọng nói dễ lên cao hơn mọi khi...!
+素敵なお声ね～♪\nびっくりしちゃった～=Giọng nói tuyệt vời quá~♪\nEm ngạc nhiên~
+あ、ありがとうございます……♪\nえっと、私……\nお芝居が好きなんです。\nだから……声を出す練習はしていて……=À, cảm ơn...♪\nEm... em thích diễn xuất.\nVì vậy... em đang luyện tập nói to...
+あらあら、役者さんだったのね～\nどんなお芝居をするのかしら……？\n気になるわ～♪=Ồ, cậu là diễn viên~\nEm tò mò cậu sẽ diễn vở kịch gì...? \nEm rất tò mò~♪
+じゃ、じゃあ……\nちょっとお芝居してみてもいいですか？\nこの温泉のお礼に……♪=Vậy thì... \nChúng ta chơi một chút được không? \nNhư lời cảm ơn cho suối nước nóng này...♪
+うれしいわ～♪\nお言葉に甘えさせてもらってもいい？=Em rất vui♪\nEm có thể tin lời cậu không?
+もちろんですっ。\nでは……=Tất nhiên.\nVậy thì ...
+……ねえ、ハッキリして！\n私とあの女、どっちを選ぶの！？=......Này, nói rõ đi! \nEm hay con đàn bà kia, cậu sẽ chọn ai!? ?
+あ、あらっ？=Ồ, ồ?
+都会を離れた温泉街で\n密会する日々はもうたくさんよ！\nそんなに私との仲を隠したいの！？=Em đã chán những cuộc hẹn bí mật ở thị trấn suối nước nóng xa thành phố rồi! \nCậu muốn che giấu mối quan hệ với em đến thế sao! ?
+あらあら、まぁまぁ……\nいきなり修羅場展開だわ～\nでも、さすがは役者さんね。\n続きがとっても気になるわ～♪=Ôi trời, thôi... \nĐột nhiên lại thành cảnh tàn sát~\nNhưng, đúng như mong đợi của một diễn viên, phải không? \nEm rất tò mò về phần tiếp theo~♪
+
+清涼効果のある薬草類を調合した薬湯。\n湯気を吸うことでのどや鼻が保湿され、\n声の通りが格段によくなると好評。\n湯上がり後のスッキリ感も相まって\nリピーターが多い。歌手やアイドルたちも\nお忍びでこっそり訪れているとか。=Một bồn tắm dược liệu chứa thảo mộc có tác dụng làm mát.\nHít hơi nước giúp dưỡng ẩm họng và mũi, và nổi tiếng với khả năng làm giọng nói trong trẻo hơn.\nKết hợp với cảm giác sảng khoái sau khi tắm, có nhiều người quay lại.\nCa sĩ và idol cũng bí mật đến thăm.
+
+清涼効果、のど・鼻の保湿効果\n※鼻歌が旅館内に届く可能性があります=Hiệu ứng sảng khoái, hiệu ứng dưỡng ẩm cho họng và mũi\n※Hát hum có thể vang đến nhà trọ
+エルフの森産　スースー草のシードオイル=Dầu hạt cỏ Susu từ Rừng Elf
+心と体に爽やかな癒しを♪　スースーの湯=Làm tươi mới tâm trí và cơ thể♪: Suối nước nóng Susu
+
+:::Day 9
+ああ……\nなんてことだ……！\nボクの……ボクの肌が……！=Ồ...\nÔi trời...! \nDa... da em...!
+全人類が想像しうる\n美しさの限界を超えてしまう……！=Nó vượt qua giới hạn của vẻ đẹp mà toàn nhân loại có thể tưởng tượng...!
+……へぇ。\nそれは大変ねぇ。=...... Hừ. \nVậy là lớn lao đây.
+って反応薄いよ、先生！？\nこれはもはや歴史を変える\n大事件なのに！=Phản ứng yếu quá, cô! ? \nĐây là một sự kiện lớn sẽ thay đổi lịch sử!
+この肌へのなじみかた……\nただごとじゃないよ。\nこんな温泉を作ってくれた先生は\nもはや共犯といっても過言ではないね！=Làm sao da này lại phù hợp...\nĐây không phải chuyện nhỏ.\nKhông ngoa mà nói người tạo ra suối nước nóng này là đồng phạm!
+そう、ボクの共犯……\n美の共犯者だよ！=Đúng vậy, đồng phạm của em... \nđồng phạm của vẻ đẹp!
+……相変わらずねぇ、ユキ。\nまあ、気にいってもらえてよかったわ。=......Như thường lệ, Yuki. \nThôi, em mừng là cậu thích.
+ということで\n今日という今日こそ\nボクの主治医になって♪=Vì vậy hôm nay là ngày cậu sẽ trở thành bác sĩ riêng của em♪
+え～？\n先生も相変わらずつれないなぁ。\nま、だからって諦めないけどね？=Hả? \nEm vẫn chưa thân thiết với cô giáo. \nThôi, đó là lý do em không bỏ cuộc, phải không?
+すべてはボクの美しさのため……\nその道をはばむことはできないのさ。\nたとえ何者であってもね。=Tất cả vì vẻ đẹp của em...\nEm không thể cản đường cậu. \nBất kể cậu là ai.
+ふふふ……\nユキのそういう自信たっぷりな\nところ、嫌いじゃないわよ。=Fufufu...\nEm không ghét sự tự tin của Yuki.
+じゃあ主治医になって♪=Vậy trở thành bác sĩ điều trị
+いーや♪=Không♪
+けち～！=Keo kiệt!
+
+
+ああバラ色の人生　美肌の湯=Cuộc sống hồng hào, suối nước nóng làm đẹp da
+仲居特製の超美肌薬、大輪のバラ=Thuốc làm đẹp da siêu cấp do Nakai chế tạo, những bông hồng lớn
+美肌効果、保湿効果、保温効果\nバラの香りによるリラックス効果=Hiệu ứng làm đẹp da, hiệu ứng dưỡng ẩm, hiệu ứng giữ nhiệt\nHiệu ứng thư giãn với hương hoa hồng
+とにもかくにも肌を美しくする効果を追求した珠玉の温泉。お湯を軽く浴びただけで違いが分かるとウワサになり、このお湯を利用した化粧水の発売も模索されているとか。ちなみにバラはあくまで香りづけのものであり、美肌効果はないとのこと。=Một viên ngọc của suối nước nóng theo đuổi hiệu ứng làm đẹp da.\nNgười ta đồn rằng bạn có thể thấy sự khác biệt chỉ sau khi tắm nhẹ,\nvà việc phát hành sữa dưỡng sử dụng suối nước nóng này cũng đang được nghiên cứu.\nÀ, những bông hồng chỉ để tạo mùi và không có hiệu ứng làm đẹp da.

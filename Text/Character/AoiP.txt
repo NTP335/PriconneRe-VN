@@ -1,0 +1,22 @@
+【物理】中衛で巨大ロボを駆り戦うぼっちのパイロット。敵の弱体化や、味方へバリアを展開するスキルを持ち、鋼鉄の乙女から放つ光線はいかに堅固な守りも打ち破る。=[Lực Lượng] Một phi công cô độc điều khiển robot khổng lồ từ đường giữa. Cô yếu kẻ thù và bảo vệ đồng đội bằng một rào cản. Tia sáng mà cô bắn từ Steel Maiden có thể xuyên thấu bất kỳ kẻ thù nào, dù chúng cứng rắn đến đâu.
+
+##UB##
+ギガンティックキャノン発射！=Gigantic Cannon, bắn!
+
+自分の物理攻撃力を特大アップし、\n目の前の敵１キャラに物理特大ダ\nメージを与える。さらに目の前の敵\n１キャラを中心に、物理ダメージ\nフィールドと、物理攻撃力を大ダウ\nン、物理防御力を特大ダウンさせる\nフィールドを展開する。=Tăng mạnh lực tấn công vật lý của bản thân, gây sát thương vật lý lớn lên kẻ thù phía trước nhất. Đồng thời triển khai một vùng hiệu ứng xung quanh kẻ thù đó, gây sát thương vật lý theo thời gian, giảm mạnh lực tấn công vật lý của chúng và giảm rất mạnh phòng thủ vật lý của chúng.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージフィールド内の敵の物理攻撃力(\d+)ダウンフィールド内の敵の物理防御力(\d+)ダウン毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=►Tăng lực tấn công vật lý của bản thân lên $1.\n►Gây $2 sát thương vật lý lên kẻ thù phía trước nhất.\n►Giảm lực tấn công vật lý của kẻ thù trong vùng hiệu ứng đi $3.\n►Giảm phòng thủ vật lý của kẻ thù trong vùng hiệu ứng đi $4.\n►Vùng hiệu ứng gây $5 sát thương vật lý/giây.
+
+##S1##
+クロースぼっちコンバット=Close Bocchi Combat
+
+目の前の敵１キャラに物理大ダメー\nジを与える。さらにそのキャラを中\n心とした範囲内の敵すべてに物理中\nダメージを与え、物理攻撃力を中ダ\nウン、物理防御力を小ダウンさせ\nる。【フィールド展開中】このスキ\nルのダメージがアップし、目の前の\n敵１キャラを中心とした範囲内の敵\nすべてのクリティカルを受けた際の\nダメージを小アップさせる。=Gây sát thương vật lý lớn lên kẻ thù phía trước nhất. Đồng thời gây sát thương vật lý trung bình lên kẻ thù trong vùng xung quanh mục tiêu, giảm trung bình lực tấn công vật lý của chúng và giảm nhẹ phòng thủ vật lý của chúng. [Trong khi vùng hiệu ứng đang hoạt động] Sát thương tăng lên, và kẻ thù trong phạm vi nhận thêm sát thương phá thủy nhẹ.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウンフィールド展開中、範囲内の敵の被クリダメを(\d+％)アップ$"=►Gây $1 sát thương vật lý lên kẻ thù phía trước nhất.\n►Gây $2 sát thương vật lý lên kẻ thù trong phạm vi.\n►Giảm lực tấn công vật lý của kẻ thù trong phạm vi đi $3.\n►Giảm phòng thủ vật lý của kẻ thù trong phạm vi đi $4.\n►Tăng sát thương phá thủy mà kẻ thù trong phạm vi nhận lên $5 khi vùng hiệu ứng đang hoạt động.
+
+##S2##
+ピンポイントぼっちバリア=Pinpoint Bocchi Barrier
+
+自分に物理無効バリアを展開し、さ\nらに自分の物理攻撃力を特大アッ\nプ、ＴＰ上昇を小アップし、ＴＰを\n中回復する。【フィールド展開中】\n味方全体に物理/魔法吸収バリアを\n展開し、さらに味方全体の物理攻撃\n力を特大アップ、ＴＰを小回復させ\nる。=Triển khai một rào cản phủ nhận sát thương vật lý cho bản thân, tăng mạnh lực tấn công vật lý của bản thân, tăng nhẹ TP Tăng, và hồi trung bình TP. [Trong khi vùng hiệu ứng đang hoạt động] Triển khai rào cản hấp thụ vật lý/phép cho tất cả đồng đội, tăng mạnh lực tấn công vật lý của họ, và hồi nhẹ TP của họ.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ自分のＴＰを(\d+)回復フィールド展開中、以下の効果が発動する(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Triển khai rào cản phủ nhận vật lý trên bản thân, phủ nhận $1 sát thương vật lý.\n►Tăng lực tấn công vật lý của bản thân lên $2.\n►Tăng TP Tăng của bản thân lên $3.\n►Hồi TP của bản thân lên $4.\n►[Nếu vùng hiệu ứng đang hoạt động]:\n　►Triển khai rào cản hấp thụ vật lý/phép cho tất cả đồng đội, hấp thụ $5 sát thương.\n　►Tăng lực tấn công vật lý của tất cả đồng đội lên $6.\n　►Hồi TP của tất cả đồng đội lên $7.
+
+##EX##
+ぼっちの出撃+=Lệnh xuất trận của Bocchi +

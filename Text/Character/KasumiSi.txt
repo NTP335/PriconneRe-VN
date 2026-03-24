@@ -1,0 +1,41 @@
+##Profile##
+【魔法】後衛で、聖なる光に包まれ微笑み祈るシスター。攻防デバフを操り【真実の導き】が集まると最大３キャラへの攻撃が最も魔防の低い敵を追及し、真理を照らす。=[Phép] Một vị nữ tu em gái được bao bọc trong ánh sáng thánh, mỉm cười cầu nguyện. Cô điều khiển các debuff tấn công/phòng thủ, và khi [Sự Dẫn Đường Chân Thành] tích lũy, các đòn tấn công nhắm tối đa 3 kẻ địch sẽ truy đuổi kẻ thù có M.DEF thấp nhất, chiếu sáng sự thật.
+
+##UB##
+ルクス・イン・テネブリス=Lux in Tenebris
+敵全体の魔法防御力とＴＰを中ダウンさせ、目の前の最大２キャラまでの敵に魔法大ダメージを与える。【真実の導き】が40の場合、このスキルのダメージは最も魔法防御力の低い敵１キャラに計２回与えるようになり、追加で最も魔法防御力の低い敵１キャラに魔法特大ダメージを与える。=Hạ M.DEF và TP của tất cả kẻ địch một chút, và gây sát thương phép lớn cho tối đa 2 kẻ địch phía trước. Nếu [Sự Dẫn Đường Chân Thành] đạt 40, sát thương kỹ năng này sẽ được gây tổng cộng 2 lần cho kẻ địch có M.DEF thấp nhất, và ngoài ra gây sát thương phép khổng lồ cho kẻ địch có M.DEF thấp nhất.
+
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のＴＰを(\d+)失わせる１番目に近い敵単体に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ真実の導きが40の場合、最も魔法防御力の低い敵に(\d+)の魔法ダメージ$"=►Hạ M.DEF của tất cả kẻ địch đi $1.\n►Làm cạn TP của tất cả kẻ địch đi $2.\n►Gây $3 sát thương phép cho kẻ địch gần nhất.\n►Nếu [Sự Dẫn Đường Chân Thành] là 40: Gây $4 sát thương phép cho kẻ địch có M.DEF thấp nhất.\n►Gây $5 sát thương phép cho kẻ địch thứ hai gần nhất.\n►Nếu [Sự Dẫn Đường Chân Thành] là 40: Gây $6 sát thương phép cho kẻ địch có M.DEF thấp nhất.\n►Nếu [Sự Dẫn Đường Chân Thành] là 40: Gây $7 sát thương phép cho kẻ địch có M.DEF thấp nhất.
+
+
+##S1##
+ミラーオブトゥルース=Gương Sự Thật
+敵全体の魔法防御力を小ダウン、魔法攻撃力を大ダウンさせ、目の前の最大３キャラまでの敵に魔法中ダメージを与える。発動時既に【真実の導き】が40の場合、行動パターンが変化する。=Hạ nhẹ M.DEF của tất cả kẻ địch, hạ rất lớn M.ATK của chúng, và gây sát thương phép vừa phải cho tối đa 3 kẻ địch phía trước. Nếu [Sự Dẫn Đường Chân Thành] đã là 40 khi kích hoạt, mẫu hành động sẽ thay đổi.
+
+r:"^カスミ（シスター）の攻撃が当たるたびに真実の導きを１つ獲得真実の導きを６つ獲得味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Mỗi lần Kasumi (Nữ Tu) đánh trúng, nhận 1 [Sự Dẫn Đường Chân Thành].\n►Nhận 6 [Sự Dẫn Đường Chân Thành].\n►Tăng M.DEF của tất cả đồng đội lên $1.\n►Phục hồi HP của tất cả đồng đội lên $2.\n►Triển khai Rào Cản Phản Phép hấp thụ $3 sát thương.
+
+
+##S2##
+セイントヴェール=Màn Sương Thánh
+バトル開始後、初弾のこのスキルは、敵に攻撃が当たるたびに【真実の導き】が１つ追加される状態にする。【真実の導き】は最大40まで追加される。自分に【真実の導き】を６つ追加し、味方全体の魔法防御力を中アップ、ＨＰを小回復して魔法無効バリアを展開する。発動時既に【真実の導き】が40の場合、行動パターンが変化する。=Sau khi trận đấu bắt đầu, lần đầu tiên dùng kỹ năng này sẽ kích hoạt trạng thái thêm +1 [Sự Dẫn Đường Chân Thành] mỗi khi một đòn tấn công đánh trúng kẻ địch. [Sự Dẫn Đường Chân Thành] có thể tích lũy tối đa 40. Thêm 6 [Sự Dẫn Đường Chân Thành] cho bản thân, tăng vừa phải M.DEF cho tất cả đồng đội, phục hồi nhẹ HP của họ và triển khai rào cản phản phép. Nếu [Sự Dẫn Đường Chân Thành] đã là 40 khi kích hoạt, mẫu hành động sẽ thay đổi.
+
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン１番目に近い敵単体に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ３番目に近い敵単体に(\d+)の魔法ダメージ$"=►Hạ M.DEF của tất cả kẻ địch đi $1.\n►Hạ M.ATK của tất cả kẻ địch đi $2.\n►Gây $3 sát thương phép cho kẻ địch gần nhất.\n►Gây $4 sát thương phép cho kẻ địch thứ hai gần nhất.\n►Gây $5 sát thương phép cho kẻ địch thứ ba gần nhất.
+
+
+##EX##
+オクルス・デイ=Matthæus
+オクルス・デイ+=Matthæus+
+
+
+##S1##
+パターン変化後=Sau Khi Thay Đổi Mẫu
+敵全体の魔法防御力を小ダウン、魔法攻撃力を大ダウンさせ、最も魔法防御力の低い敵１キャラに魔法中ダメージを３回与える。=Hạ nhẹ M.DEF của tất cả kẻ địch, hạ rất lớn M.ATK của chúng, và gây sát thương phép vừa phải 3 lần cho kẻ địch có M.DEF thấp nhất.
+
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン最も魔法防御力の低い敵に(\d+)の魔法ダメージ最も魔法防御力の低い敵に(\d+)の魔法ダメージ最も魔法防御力の低い敵に(\d+)の魔法ダメージ$"=►Hạ M.DEF của tất cả kẻ địch đi $1.\n►Hạ M.ATK của tất cả kẻ địch đi $2.\n►Gây $3 sát thương phép cho kẻ địch có M.DEF thấp nhất.\n►Gây $4 sát thương phép cho kẻ địch có M.DEF thấp nhất.\n►Gây $5 sát thương phép cho kẻ địch có M.DEF thấp nhất.
+
+
+##S2##
+自分の魔法攻撃力を大アップ、魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップする。さらに味方全体の魔法防御力を中アップ、ＨＰを小回復して魔法無効バリアを展開する。=Tăng rất lớn sát thương phép của bản thân, tăng vừa phải Tỷ lệ Chí Mạng Phép của bản thân, và tăng nhẹ sát thương Chí Mạng Phép của bản thân. Ngoài ra, tăng vừa phải M.DEF của tất cả đồng đội, phục hồi nhẹ HP của họ và triển khai rào cản phản phép.
+
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法クリダメを(\d+)％アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng sát thương phép của bản thân lên $1.\n►Tăng Tỷ lệ Chí Mạng Phép của bản thân lên $2.\n►Tăng sát thương Chí Mạng Phép của bản thân lên $3％.\n►Tăng M.DEF của tất cả đồng đội lên $4.\n►Phục hồi HP của tất cả đồng đội lên $5.\n►Triển khai Rào Cản Phản Phép hấp thụ $6 sát thương.
+

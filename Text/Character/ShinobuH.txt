@@ -1,0 +1,38 @@
+##Profile##
+【物理】中衛で、弱った敵を刈り取る幻夜の霊能少女。弱った敵単体に大ダメージを与えるユニオンバーストは対象を撃破時さらに敵全体に追加ダメージを与える。=[Vật Lý] Một nhà tâm linh loại bỏ kẻ địch yếu từ hàng giữa. Union Burst của cô gây sát thương nặng cho kẻ địch bị thương nặng nhất, và còn gây thêm sát thương cho toàn bộ kẻ địch còn lại nếu thành công giết mục tiêu.
+
+##UB##
+ハロウィンテラー=Sự Kinh Sợ Halloween
+最もＨＰの割合が低い敵１キャラに物理特大ダメージを与え、さらにこのスキルで敵を倒した場合、敵全体に物理中ダメージを与える。=Gây sát thương vật lý lớn cho kẻ địch có tỷ lệ HP thấp nhất. Gây thêm sát thương vật lý trung bình cho toàn bộ kẻ địch nếu kẻ địch bị đánh bại bởi kỹ năng này.
+r:"^敵単体に(\d+)の物理ダメージ敵全体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Gây $2 sát thương vật lý cho toàn bộ kẻ địch.
+
+##S1##
+レイスウェポン=Vũ Khí Wraith
+自分の物理攻撃力を大アップさせる。=Tăng lớn P.ATK của bản thân.
+## r:"^自分の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK của bản thân bằng $1.
+## Same as Akino EX
+
+##S2##
+ホロウサイズ=Liềm Hư Không
+自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý trung bình cho toàn bộ kẻ địch trong phạm vi.
+## r:"^範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.
+## Same as Aoi UB
+
+##EX##
+冥界の夜想歌=Khúc Nocturne Thế Giới Ngầm
+冥界の夜想歌+=Khúc Nocturne Thế Giới Ngầm+
+
+##S1+##
+レイスウェポン+=Vũ Khí Wraith+
+自分の物理攻撃力を特大アップさせ、さらに物理クリティカルを大アップさせる。=Tăng cực lớn P.ATK của bản thân và tăng lớn tỷ lệ P.CRIT của bản thân.
+## r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK của bản thân bằng $1 trong 12 giây.\n►Tăng tỷ lệ P.CRIT của bản thân bằng $2.
+## Same as Rino S1
+
+##S2+##
+ホロウサイズ+=Liềm Hư Không+
+自分の物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップし、自分を中心とした範囲内の敵すべてに物理大ダメージを与える。さらに自分のＴＰを特大回復する。範囲内の敵の数に応じて物理攻撃力と物理攻撃クリティカル時のダメージの上昇量とダメージがアップする。=Tăng cực lớn P.ATK của bản thân, tăng nhẹ P.CRIT DMG, và gây sát thương vật lý cực lớn cho toàn bộ kẻ địch trong vùng xung quanh bản thân. Ngoài ra, bạn nhận được hồi TP cực lớn. Lượng tăng P.ATK và P.CRIT DMG, cũng như sát thương, sẽ được tăng thêm dựa trên số lượng kẻ địch trong vùng.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ範囲内の敵に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.35 giây\n►Tăng P.ATK của bản thân bằng $1 trong 12 giây.\n►Tăng P.CRIT DMG của bản thân 10% trong 12 giây.\n►Gây $2 sát thương vật lý cho kẻ địch trong phạm vi 800.\n►Hồi TP của bản thân bằng $3.
+
+##UE##
+霊鎌パンプキンサイズ=Liềm Linh Hồn Bí Ngô
+ハロウィンドクロ親父=Skull Father Halloween

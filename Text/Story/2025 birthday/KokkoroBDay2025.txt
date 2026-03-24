@@ -1,0 +1,18 @@
+Kokoro Natsume's Birthday
+
+{playername}さま……\nふふ、待ち合わせというのは胸が弾むものでございますね。=Người thân yêu {playername}... Hehehe. Chờ đợi để gặp một người thực sự có thể làm tim đập nhanh.
+それが自身の誕生日ともなれば、\n待つ時間すらも素敵な贈り物のようでございます……♪=Hơn nữa, khi nói đến ngày sinh nhật của bản thân, ngay cả thời gian chờ đợi cũng cảm thấy như một món quà tuyệt vời...♪
+いいえ、あなたさまはわたくしが主と認めたお方。\n先に来られたりすると、わたくしの方が困ってしまいます。=Không, người thân yêu {playername}... người mới là người em đã công nhận là Chủ Nhân của em. Nếu người đến trước em, điều đó sẽ là một sự nhục nhã lớn đối với em.
+それに……遠くからやってくるあなたさまが、\nわたくしを見つけて頬を緩める一瞬。\nそれが、見たかったのです。=Hơn nữa... khoảnh khắc người từ xa đến tìm em, với nụ cười dịu dàng hiện lên trên khuôn mặt người khi đó... Đó là điều em muốn thấy.
+ありがとうございます、あなたさま……♪\nこうしてプレゼントまでご用意いただいて、\nわたくし、幸せでございます……！=Cảm ơn rất nhiều, người thân yêu {playername}...♪ Có một món quà được chuẩn bị riêng cho em... Em chỉ đơn giản là quá vui mừng!
+……その。\n祝っていただき、贈り物までいただいて。\n更にこのようなことを求めてしまうのは、恐れ多いのですが……=...Ưm. Không chỉ là chúc mừng sinh nhật cho em, người còn tặng em một món quà. Em biết có thể hơi táo bạo khi em xin thêm một điều nữa, tuy nhiên...
+あなたさまの今日一日のお時間を、わたくしにくださいませんか？=Người thân yêu {playername}... Người có thể dành cho em một chút thời gian hôm nay được không?
+あなたさまはお忙しい身。\n過ぎた贅沢を言っているのは分かっているのですが……=Em biết người là một người bận rộn. Em biết việc này hơi ích kỷ khi xin thêm...
+本当でございますか……！？\nよいのでしょうか、わたくし、こんなにも幸せで……=Đó có thực sự là sự thật...?! Thực sự được phép để em... tận hưởng hạnh phúc như vậy sao?
+ではあなたさま。\n今日のわたくしは、少しわがままかもしれませんが……\nどうか、お許しくださいね……♪=Vậy thì, người thân yêu {playername}. Em có thể hơi ích kỷ một chút hôm nay, nhưng... xin hãy chiều em♪
+
+Player Prompts
+待たせてごめんね。=Xin lỗi vì để cậu chờ
+誕生日おめでとう、こころちゃん。=Chúc mừng sinh nhật, Kokoro-chan
+なんでも言ってごらん。=Cứ hỏi bất cứ điều gì cậu muốn
+初めから一緒にいるつもりだったよ。=Em đã định tham gia cùng cậu trước khi cậu hỏi

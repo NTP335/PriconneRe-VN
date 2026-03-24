@@ -1,0 +1,16 @@
+Iroha Isurugi's Birthday
+
+ねーねーおじちゃん、クイズしよっ！\nそれでは問題！　じゃじゃんっ！！=Này, này, chú! Đến giờ quiz rồi! Vậy thì, câu hỏi đây... Ta-dah!!
+今日は何の日でしょーか！？\nシンキングタイムスタート！　チッチッチッチッチ……=Hôm nay là ngày gì!? Thời gian suy nghĩ... Bắt đầu! Tick tock, tick tock...
+……っ！\nピ、ピンポンピンポ～ン！　大正解～！\nそれではご褒美にカンチョーを……っていらない？=...! Đ-Ding-ding-ding! Đúng!! Và phần thưởng -- một cái headbutt... à, cậu không muốn?
+……なんだよ、おじちゃん。\nいろはの誕生日知っててくれたの？\nえへへ……うれしいなぁ♪=Hả, chú... cậu đã biết hôm nay là sinh nhật Iroha rồi sao? Ehehe... điều đó khiến em rất vui♪
+え、ホント！？\n……おお～っ、クワガタだっ！\n小さいっ！　メスだっ！=Hả? Thật sao?! ...Ồ, một con bọ ngựa! Nhỏ thế! Là con cái!
+ちっちっちー！　クワガタは角じゃなくて顎だよっ！\nでもおじちゃんが捕まえてくれたんだ、うれしいっ！\nオスクワガタじゃなくても、いろはとってもうれしいよ～♪=Tsk tsk tsk! Bọ ngựa không có sừng, chúng có hàm thôi! Nhưng đó là con bọ ngựa cậu bắt được chú, nên em vui! Dù không phải bọ ngựa đực, Iroha vẫn rất vui~♪
+そうだ、うちにオスのアルケスツヤクワガタいるから見にきなよ！\nそれに……むふふ。\nうちには苑ちゃんもいるよ～♪=Đúng rồi, ở nhà em có con bọ ngựa Alkes đực, nên đến xem nhé! Và... Mufufu. Sono-chan cũng ở đó~♪
+苑ちゃんの焼いてくれたケーキ一緒に食べよ！\nお腹いっぱいになったら、すぐに眠たくなっちゃいそうだな～！\nいろはが寝た後は、若いお二人で……むふふ。妬けますな～♪=Cùng ăn bánh Sono-chan nướng nhé! Khi no rồi, chắc em sẽ buồn ngủ~! Và sau khi Iroha ngủ, hai người yêu nhau có thể... Mufufufu. Em sẽ ghen tị lắm~♪
+よーし、じゃあいろはのおうちまで競争ね！\nいくよっ！　よーいドンっ！！=Được rồi, chúng ta đua đến nhà Iroha! Sẵn sàng... bắt đầu... điii!!
+
+Player Prompts
+いろはちゃん、お誕生日おめでとう！=Chúc mừng sinh nhật, Iroha!
+実はプレゼントも用意してるんだ。=Thực ra, em cũng có món quà cho cậu
+角がかっこいいクワガタ捕れなかった……=Em không bắt được con bọ ngựa có sừng ngầu...

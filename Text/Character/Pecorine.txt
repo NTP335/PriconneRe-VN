@@ -1,0 +1,96 @@
+##Profile##
+いつも元気な腹ペコ少女=Một cô gái luôn vui vẻ và đói
+ユースティアナ・フォン・アストライア=Eustiana von Astraea
+食べ歩き、料理=Ăn, nấu ăn
+
+【物理】前衛にて、全力で仲間を護る、腹ペコ剣士。高いＨＰに加えて、自分自身でもＨＰ回復できるためギリギリまで味方の壁役を引き受ける。=[Vật lý] Một chiến binh luôn đói bụng bảo vệ bạn bè từ tuyến đầu. Cô có lượng HP cao và kỹ năng tự hồi phục, cho phép cô che chở đồng đội đến phút cuối.
+
+グルメな山籠もり=Núi ẩm thực
+王女様の騎士=Kỵ sĩ Công chúa
+旅の準備はデートのように=Chuẩn bị cho một chuyến đi giống như một buổi hẹn hò
+
+あなたが教えてくれた幸せ=Hạnh phúc mà cậu đã cho em
+今日の味、忘れません♪=Một hương vị khó quên
+ギルド設立レッツゴー！=Hoan hô Bộ máy quan liêu!
+旅立ちの焼肉=Một cuộc họp đầy thịt
+私ノコト、ワカリマスカ？=Cậu, mình, hiểu chứ?
+幸せを釣る針と糸=Câu được hạnh phúc
+おいしい持ち込み大歓迎！=Hiện đang chấp nhận nguyên liệu!
+再会はごはんの匂い=Một cuộc tái ngộ đầy ngon lành
+
+##UB##
+プリンセスストライク=Đòn công chúa
+目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力と魔法防御力を大アップさせる。=Gây ra lượng sát thương vật lý (P.DMG) lớn cho kẻ địch đứng trước mặt. Tăng vừa phải phòng thủ vật lý (P.DEF) và phòng thủ ma thuật (M.DEF) của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Gây $1 sát thương vật lý (P.DMG) cho kẻ địch.\n►Tăng phòng thủ vật lý (P.DEF) của bản thân lên $2 trong 18 giây.\n►Tăng phòng thủ ma thuật (M.DEF) của bản thân lên $3 trong 18 giây.
+
+##S1##
+ランチタイム=Giờ ăn trưa
+自分の魔法防御力を中アップさせ、さらにＨＰを中回復する。=Tăng nhỏ phòng thủ ma thuật (M.DEF) của bản thân và hồi một chút HP của bản thân.
+r:"^自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=Thời gian niệm: 0,21 giây\n►Tăng phòng thủ ma thuật (M.DEF) của bản thân lên $1 trong 12 giây.\n►Hồi $2 HP của bản thân.
+
+##S2##
+フォールスラッシュ=Chém rơi
+
+##EX##
+プリンセスフォース=Sức mạnh Công chúa
+プリンセスフォース+=Sức mạnh Công chúa+
+バトル開始時に自分の最大ＨＰを大アップさせる。=Tăng lớn lượng HP tối đa của bản thân ở đầu trận.
+バトル開始時に自分の最大ＨＰを中アップさせる。=Tăng nhẹ HP tối đa của bản thân ở đầu trận.
+r:"^自分の最大ＨＰを(\d+)アップさせる$"=►Tăng HP tối đa của bản thân lên $1.
+r:"^自分の最大ＨＰを(\d+)アップ$"=►Tăng HP tối đa của bản thân lên $1.
+
+##UB+##
+プリンセスヴァリアント=Princess Valiant
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力と魔法防御力を特大アップさせ、物理攻撃力を中アップさせる。物理攻撃力アップの効果値は、残りＨＰが高い程増加する。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Tăng lớn phòng thủ vật lý và phòng thủ ma thuật của bản thân. Tăng vừa phải tấn công vật lý của bản thân (Lượng tăng tấn công vật lý phụ thuộc vào lượng HP hiện tại của Pecorine.)
+##OLD r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18 giây.\n►Tăng phòng thủ ma thuật của bản thân lên $3 trong 18 giây.\n►Tăng tấn công vật lý của bản thân lên $4 trong 18 giây.
+
+目の前の敵１キャラのバリアを解除し、物理特大ダメージを与え、物理防御力を小ダウンさせ、そのキャラの最大ＨＰに応じて最大200万の物理割合ダメージを与える。さらに、自分の物理・魔法防御力を特大アップ、物理攻撃力を大アップし、ＨＰを小回復する。自分の残りＨＰに応じて物理攻撃力の上昇量が最大２倍までアップする。=Hủy bỏ rào chắn của 1 kẻ địch trước mặt, gây sát thương vật lý cực đại, giảm nhẹ phòng thủ vật lý, đồng thời gây sát thương vật lý theo tỉ lệ dựa trên HP tối đa của mục tiêu đó (tối đa 2,000,000). Ngoài ra, tăng cực đại phòng thủ vật lý và ma pháp của bản thân, tăng lớn tấn công vật lý và hồi phục nhẹ HP. Lượng tấn công vật lý tăng thêm sẽ được nhân lên tối đa gấp 2 lần tùy thuộc vào lượng HP còn lại của bản thân.
+r:"^敵単体のバリアを解除する敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体に最大200万の物理割合ダメージを与える自分の物理攻撃力を(\d+)アップ自分の物理・魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Hủy bỏ rào chắn của một mục tiêu.\n►Gây $1 sát thương vật lý lên một mục tiêu.\n►Giảm $2 phòng thủ vật lý của một mục tiêu.\n►Gây sát thương vật lý theo tỉ lệ lên một mục tiêu (tối đa 2,000,000).\n►Tăng $3 tấn công vật lý của bản thân.\n►Tăng $4 phòng thủ vật lý và ma pháp của bản thân.\n►Hồi phục $5 HP cho bản thân.
+
+##S1+##
+ランチタイム+=Lunchtime+
+自分の魔法防御力を中アップさせ、さらにＨＰを大回復し、自分に物理/魔法吸収バリアを展開する。=Tăng nhẹ phòng thủ ma thuật của bản thân. Triển khai một lá chắn xung quanh bản thân hấp thụ sát thương vật lý và ma thuật.
+r:"^自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Thời gian niệm: 0.21 giây\n►Tăng phòng thủ ma thuật của bản thân lên $1 trong 12 giây.\n►Hồi HP của bản thân lên $2.\n►Triển khai Lá chắn hấp thụ $3 sát thương vật lý và ma thuật trong 8 giây.
+
+##S2+##
+フォールスラッシュ+=Falling Slash+
+自分の物理攻撃力を特大アップし、目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに自分に継続ＨＰ回復状態を付与する。=Tăng lớn tấn công vật lý của bản thân, gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ phòng thủ vật lý của chúng. Ngoài ra, trao cho bản thân trạng thái hồi HP liên tục.
+##OLD r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 1.21 giây\n►Tăng tấn công vật lý của bản thân lên $1 trong 12 giây.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch lên $3 trong 12 giây.\n►Hồi HP $4/giây trong 12 giây.
+
+
+自分の物理攻撃力を大アップし、目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせ、そのキャラの最大ＨＰに応じて最大200万の物理割合ダメージを与える。さらに、自分に継続ＨＰ回復状態を付与する。=Tăng lớn tấn công vật lý của bản thân, gây sát thương vật lý lớn lên 1 kẻ địch trước mặt, giảm nhẹ phòng thủ vật lý của chúng, đồng thời gây sát thương vật lý theo tỉ lệ dựa trên HP tối đa của mục tiêu đó (tối đa 2,000,000). Ngoài ra, ban cho bản thân trạng thái hồi phục HP liên tục.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体に最大200万の物理割合ダメージを与える毎秒ＨＰを(\d+)回復する$"=►Tăng $1 tấn công vật lý của bản thân.\n►Gây $2 sát thương vật lý lên một mục tiêu.\n►Giảm $3 phòng thủ vật lý của một mục tiêu.\n►Gây sát thương vật lý theo tỉ lệ lên một mục tiêu (tối đa 2,000,000).\n►Hồi phục $4 HP mỗi giây.
+
+##UE##
+プリンセスソード=Princess Sword
+プリンセスティアラ=Princess Tiara
+
+
+
+##S1++##
+ランチタイム++=Lunchtime++
+自分の物理攻撃力を大アップ、物理・魔法防御力を中アップ、ＨＰを大回復し、物理/魔法吸収バリアを展開する。さらに、ＴＰを大回復する。=Tăng mạnh tấn công vật lý, tăng vừa phòng thủ vật lý và ma pháp của bản thân, hồi phục mạnh HP, đồng thời triển khai rào chắn hấp thụ sát thương vật lý/ma pháp. Ngoài ra, hồi phục mạnh TP cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理・魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復(\d+)ダメージ分の物理魔法吸収バリアを展開する自分のＴＰを500回復$"=►Tăng $1 tấn công vật lý của bản thân.\n►Tăng $2 phòng thủ vật lý và ma pháp của bản thân.\n►Hồi phục $3 HP cho bản thân.\n►Triển khai rào chắn hấp thụ sát thương vật lý và ma pháp trị giá $4 sát thương.\n►Hồi phục 500 TP cho bản thân.
+
+
+
+##Comments##
+
+おいっす～☆　わたしの名前は…\nお腹ペコペコのペコリーヌです！=Heiya~!☆ Tên tui là...\nPecorine - cô nàng luôn đói bụng!
+あなたと再会できるなんて、\nこれはもう運命ですよね、運命！\nこれからもよろしくお願いします、ごはん王子☆=Được gặp lại cậu, đây là định mệnh, phải không? Định mệnh!\nTớ rất mong được hợp tác với cậu từ giờ,\nFood Prince☆
+わたし、すぐお腹がすいちゃうんですよ\nだから、狩りとか釣りとかで、食材を採取するのは\n大得意になりました！　えへん☆=Tui đói khá nhanh,\nnên đã trở nên rất giỏi\nviệc săn bắn và câu cá! Ehem☆
+ランドソルには慣れましたか？\nわからないことがあったら、何でもきいてくださいね\nわたし、この街にくわしいので！=Cậu đã quen với Landosol chưa?\nNếu có điều gì không hiểu,\ncứ hỏi tui nhé!\nTui rất quen thành phố này!
+あなたにも、この街を好きになってもらえたら、\nわたし、とってもうれしいです！=Tui sẽ rất vui nếu cậu\ncũng có thể yêu thành phố này!
+あなたがこの街を好きになるように、\nいろんな楽しい所に連れて行きますよ！\n覚悟してくださいね～☆=Tui sẽ dẫn cậu đi khắp\nnhững nơi vui vẻ để cậu thích thành phố này!\nHãy chuẩn bị tinh thần nhé☆
+甘いもの、辛いもの、すっぱいもの、しょっぱいもの\nお肉もお魚もお野菜も、み～んな大好きですよ～\nあなたは好き嫌いってありますか？=Đồ ngọt, đồ cay, đồ chua,\nđồ mặn, thịt, cá, rau củ—\ntui thích tất cả. Cậu kén ăn không?
+ギルドができたら、きっと楽しいですよ～♪\nわたしと、コッコロちゃんと、キャルちゃんと…\nあなたのギルドですよ☆=Chắc chắn sẽ vui khi guild\nđược thành lập♪ Tui, Kokkoro-chan, Kyaru-chan...\nvà cậu cùng trong một guild☆
+出来ましたよ、わたしたちのギルド！\nみんなでいろんな楽しいことをしましょう\nえへへ～ワクワクしちゃいます☆=Guild của chúng ta đã xong!\nHãy cùng nhau làm nhiều điều vui vẻ!\nEhehe tui rất háo hức☆
+でもその時は、また会いにいきますよ！\n何度だって出会って、何度だって仲良くなります！\nわたしたちはずっと、美食殿の仲間です☆=Nhưng khi thời điểm đó đến, tui sẽ đến gặp cậu lần nữa!\nChúng ta sẽ gặp nhau mãi mãi, và sẽ là bạn bè bao nhiêu lần cũng được!\nChúng ta sẽ mãi là bạn của người sành ăn☆
+それと入れ替えに、これまでのわたしたちとの記憶を\n忘れてしまうんでしょうか？\nそれは、寂しいですね…=Và để đổi lại, cậu sẽ quên\nnhững kỷ niệm chúng ta đã chia sẻ cho đến giờ?\nĐiều đó sẽ buồn...
+記憶喪失なんて、つらいですよね…\n早く治るといいですね！\nでも…もし、あなたの記憶が戻ったら…=Amnesia chắc chắn đau đớn...\nTui hy vọng nó sẽ hồi phục sớm!\nNhưng... nếu ký ức của cậu trở lại...
+おお～♪　大食いチャレンジをしているお店を発見！\nえ？　一緒にやってくれるんですか！？\nさすがごはん王子ですね♪=Ôi~♪ Tui tìm thấy một cửa hàng đang tổ chức thử thách\năn nhiều! Hả? Cậu sẽ cùng tui\ntham gia?! Đúng là hoàng tử chứ♪
+今日はどこでごはんにしましょうか？\n一緒にごはんを食べる相手がいるって\nとっても幸せですね！　えへへ～♪=Hôm nay chúng ta nên ăn ở đâu?\nTui rất vui vì có người\ncùng ăn! Ehehe~♪
+あなたと一緒に、色んな所にいきましたよね！\nあなたと見た景色も、一緒に食べたごはんの味も\n全部わたしの宝物です！=Tui đã đi đến nhiều nơi với cậu!\nCảnh vật cậu nhìn thấy và hương vị của\nnhững món ăn chúng ta cùng thưởng thức đều là kho báu của tui!
+だからこれからも、ずっと一緒にいましょうね！\nって、なんだか告白みたいになっちゃいました！？\nえへへ…やばいですね☆=Vậy từ giờ hãy mãi mãi bên nhau!\nKhoan, đây như một lời tỏ tình!\nEhehe... Tệ rồi☆
+だからこれからは、わたしも同じくらい…\nいいえ、もっともっと、あなたにもらったぬくもりを\n返せたらなって思うんです=Chính vì vậy, từ giờ,\ntui muốn đền đáp lại một lượng tương tự...\nkhông, thậm chí nhiều hơn sự ấm áp cậu đã trao cho tui
+本当にあなたは、涙が出そうになっちゃうくらいに\n優しい人ですね。わたし、これまで…\nあなたのその優しさに、たくさん救われてきました=Cậu thực sự là một người tốt bụng\nđến mức tui cảm thấy như sắp khóc.\nTui đã được sự tốt bụng của cậu cứu rỗi cho đến giờ.

@@ -1,0 +1,29 @@
+##Profile##
+【魔法】後衛でぬいぐるみ達と大冒険に挑むマホ隊員。味方に付与する【ふわふわウール】は被ダメージ時に消費されＴＰを回復し、一気呵成の反撃で活路を切り拓く。=[Ma thuật] Một Maho's Squad thử thách cuộc phiêu lưu lớn với gấu bông ở RG. [Lông mềm mại] được cấp cho đồng minh sẽ bị tiêu hao khi nhận sát thương, hồi TP, và mở đường với một đòn phản công một lần.
+
+##UB##
+メルヘンエクスプロール=Người khám phá Truyện cổ tích
+前方範囲内の敵すべてに魔法大ダメージを与え、味方全体の魔法攻撃力を大アップする。=Gây sát thương ma thuật lớn cho kẻ địch trong phạm vi và tăng M.ATK rất lớn cho toàn bộ đồng minh.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 1000.\n►Tăng M.ATK cho toàn bộ đồng minh bằng $2 trong 18s.
+
+##S1##
+マホマホユニコーンスタンプ=Con dấu Kỳ diệu Maho-Maho
+味方全体の魔法攻撃力と魔法クリティカルを大アップさせ、前方範囲内の敵すべてに魔法中ダメージを与える。=Tăng M.ATK và Tỷ lệ Chí mạng M. rất lớn cho toàn bộ đồng minh, và gây sát thương ma thuật trung bình cho kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ$"=Thời gian niệm: 0.72s\n►Gây $1 sát thương ma thuật cho kẻ địch trong phạm vi 1000.\n►Tăng M.ATK cho toàn bộ đồng minh bằng $2 trong 12s.\n►Tăng Tỷ lệ Chí mạng M. cho toàn bộ đồng minh bằng 100 trong 12s.
+
+##S2##
+マホマホフェルトエール=Lễ cổ vũ Felt Maho-Maho
+味方全体に【ふわふわウール】を１つ付与し、ＨＰを中回復する。さらに自分のＴＰを中回復する。【ふわふわウール】はダメージを受けるたびに消費され、ＴＰを小回復する。【ふわふわウール】は最大２まで追加される。=Cấp 1 [Lông mềm mại] cho toàn bộ đồng minh và hồi HP một cách trung bình. Ngoài ra, hồi TP của bản thân một cách trung bình. [Lông mềm mại] bị tiêu hao mỗi khi đồng minh nhận sát thương, và hồi TP một chút cho họ. Có thể tích lũy [Lông mềm mại] lên tối đa 2.
+r:"^ダメージを受けた時、ＴＰを100回復して消失する【ふわふわウール】を味方全体に１つ付与する味方全体のＨＰを(\d+)回復自分のＴＰを250回復$"=Thời gian niệm: 1.00s\n►Cấp 1 [Lông mềm mại] cho toàn bộ đồng minh, hồi 100 TP khi nhận sát thương.\n►Hồi HP cho toàn bộ đồng minh bằng $1.\n►Hồi TP của bản thân bằng 250.
+
+##EX##
+メルヘンハートビート=Nhịp Tim Kể Chuyện
+メルヘンハートビート+=Nhịp Tim Kể Chuyện+
+
+##S1+##
+マホマホユニコーンスタンプ+=Con Dấu Kỳ Diệu Unicorn+
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに、前方範囲内の敵すべてに魔法大ダメージを与える。=Tăng mạnh Lực Ma Thuật (M.ATK) cho toàn đồng đội, tăng lớn Tỷ Lệ Chí Mạng Ma Thuật (M.CRIT Rate) và tăng nhỏ Sát Thương Chí Mạng Ma Thuật (M.CRIT DMG). Ngoài ra, gây sát thương ma thuật lớn (M.DMG) cho kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを120アップ味方全体の魔法攻撃クリティカル時のダメージを5％アップ$"=►Gây $1 sát thương ma thuật (M.DMG) cho kẻ địch trong phạm vi 1000.\n►Tăng Lực Ma Thuật (M.ATK) của toàn đồng đội lên $2 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật (M.CRIT Rate) của toàn đồng đội lên 120 trong 12s.\n►Tăng Sát Thương Chí Mạng Ma Thuật (M.CRIT DMG) của toàn đồng đội lên 5% trong 12s.
+
+##UE##
+マホマホトラベラースーツ=Trang Phục Lữ Khách Kỳ Diệu

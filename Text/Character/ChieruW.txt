@@ -1,0 +1,33 @@
+##Profile##
+【物理】前衛で、ちぇるっとちぇるるな水着のちえるん。ステータスアップで溜まる【ちぇる】を、自身の火力や支援能力に還元して、真冬の真夏をちぇらるれれぽぱぴ？=[Vật Lý] Một Chierun trong bộ đồ tắm kiểu cheru. Cô chuyển hóa [Chieru] tích lũy từ hiệu ứng tăng chỉ số thành sức mạnh cho sát thương của bản thân và kỹ năng hỗ trợ đội, tất cả trong khi cherarurerepopapi? Giữa mùa hè, giữa mùa đông?
+
+
+##UB##
+ちぇるちぇる☆すぷらっしゅ=Chieru-Chieru☆Splash
+味方全体の物理攻撃力を特大アップ、物理無効バリアと魔法無効バリアを展開し、目の前の敵１キャラに物理特大ダメージを２回与える。このダメージは【ちぇる】の数に応じて最大30個分まで増加する。【ちぇる】が30以上の時、味方全体の物理攻撃力を特大アップ、物理クリダメを小アップさせる。=Tăng cực lớn lực công kích vật lý cho toàn đồng đội và tạo khiên chống sát thương vật lý/phép lên họ, đồng thời gây 2 lần sát thương vật lý cực lớn lên kẻ địch phía trước. Sát thương vật lý này tăng theo số tầng [Chieru], tối đa 30. Nếu có từ 30 tầng [Chieru] trở lên, tăng cực lớn lực công kích vật lý cho toàn đồng đội và tăng sát thương chí mạng vật lý của họ.
+r:"^味方全体の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する敵単体に(\d+)の物理ダメージを２回与えるちぇるが30以上の時、味方全体の物理攻撃力を(\d+)アップ、物理クリダメを８％アップ$"=►Tăng lực công kích vật lý cho toàn đồng đội lên $1 trong 18s.\n►Tạo khiên chống $2 sát thương vật lý/phép lên toàn đồng đội trong 18s.\n►Gây $4x2 sát thương vật lý lên kẻ địch.\n\nNếu [Chieru] ≥ 30:\n►Tăng lực công kích vật lý cho toàn đồng đội lên $1 trong 18s.\n►Tăng sát thương chí mạng vật lý cho toàn đồng đội lên 8% trong 18s.
+
+##S1##
+ちぇるすぺ☆うぃんどみる=Chieru~supe☆Windmill
+目の前の敵１キャラに物理大ダメージを与え、味方全体の物理攻撃力を大アップさせる。このダメージは【ちぇる】の数に応じて最大30個分まで増加する。【ちぇる】が30以上の時、追加で味方全体の物理攻撃力と物理クリティカルを大アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước và tăng cực lớn lực công kích vật lý cho toàn đồng đội. Sát thương vật lý này tăng theo số tầng [Chieru], tối đa 30. Nếu có từ 30 tầng [Chieru] trở lên, tăng cực lớn lực công kích vật lý và tỷ lệ chí mạng vật lý cho toàn đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージちぇるが30以上の時、味方全体の物理攻撃力を(\d+)アップちぇるが30以上の時、味方全体の物理クリティカルを100アップ$"=►Tăng lực công kích vật lý cho toàn đồng đội lên $1 trong 12s.\n►Gây $2 sát thương vật lý lên kẻ địch.\n\nNếu [Chieru] ≥ 30:\n►Tăng lực công kích vật lý cho toàn đồng đội lên $3 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý cho toàn đồng đội lên 100 trong 12s.
+
+##S2##
+ちぇるりぞ☆えくそだす=Chieru~rizo☆Exodus
+味方全体の物理攻撃力を大アップ、ＴＰ上昇を小アップさせる。【ちぇる】が30以上の時、味方全体のＴＰを中回復させる。【ちぇる】が60の時、【ちぇる】を30消費して、ＴＰの回復量が大幅にアップする。=Tăng cực lớn lực công kích vật lý và tăng nhỏ TP Boost cho toàn đồng đội. Nếu có từ 30 tầng [Chieru] trở lên, hồi trung bình TP cho toàn đồng đội. Nếu có từ 60 tầng [Chieru] trở lên, tiêu thụ 30 tầng [Chieru] và hồi lớn TP cho toàn đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰ上昇を5アップちぇるが30以上の時、味方全体のＴＰを150回復ちぇるが60の時、味方全体のＴＰを520回復ちぇるが60の時、ちぇるを30消費する$"=►Tăng lực công kích vật lý cho toàn đồng đội lên $1 trong 18s.\n►Tăng TP Boost cho toàn đồng đội lên 5 trong 18s.\n►Nếu [Chieru] ≥ 30 & [Chieru] < 60, hồi 150 TP cho toàn đồng đội.\n►Nếu [Chieru] ≥ 60, hồi 520 TP cho toàn đồng đội.\n►Nếu [Chieru] ≥ 60, tiêu thụ 30 [Chieru].
+
+##SP1##
+自分がステータスアップ効果を受ける度に、【ちぇる】が１つ追加される状態にする。【ちぇる】は最大60まで追加される。味方全体の物理攻撃力を大アップ、ＴＰ上昇を小アップさせる。=Khi WChieru nhận một chỉ số tăng, cô sẽ thêm 1 tầng [Chieru], tối đa 60. Tăng cực lớn lực công kích vật lý và tăng nhỏ TP Boost cho toàn đồng đội.
+r:"^ステータスアップ効果を受けるたびに自分にちぇるを付与する状態になる味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰ上昇を5アップ$"=►Nhận 1 [Chieru] mỗi khi nhận chỉ số tăng.\n►Tăng lực công kích vật lý cho toàn đồng đội lên $1 trong 18s.\n►Tăng TP Boost cho toàn đồng đội lên 5 trong 18s.
+
+##EX##
+春夏秋冬☆ちぇるんな子=Spring, Summer, Autumn, Winter☆Chierun~nako
+春夏秋冬☆ちぇるんな子+=Spring, Summer, Autumn, Winter☆Chierun~nako+
+
+
+##UE2##
+ちぇるるんるん☆ふろーと=Cherurunrun☆Float
+ちぇるすぺ☆うぃんどみる+=Cheruspe☆Windmill+
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせ、味方全体の物理攻撃力を特大アップさせる。このダメージは【ちぇる】の数に応じて最大30個分まで増加する。【ちぇる】が30以上の時、追加で味方全体の物理攻撃力と物理クリティカルを大アップする。=Gây sát thương vật lý lớn lên 1 kẻ địch phía trước, giảm nhỏ phòng thủ vật lý, và tăng cực lớn lực công kích vật lý cho toàn đồng đội. Sát thương này tăng theo số lượng [Chieru], tối đa tương đương 30. Nếu [Chieru] từ 30 trở lên, thêm tăng cực lớn lực công kích vật lý và tỷ lệ chí mạng vật lý cho toàn đồng đội.
+r:"^味方全体の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンちぇるが30以上の時、味方全体の物理攻撃力を(\d+)アップちぇるが30以上の時、味方全体の物理クリティカルを100アップ$"=►Tăng lực công kích vật lý cho toàn đồng đội lên $1.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Giảm phòng thủ vật lý của một kẻ địch lên $3.\n\nNếu [Chieru] từ 30 trở lên:\n►Tăng lực công kích vật lý cho toàn đồng đội lên $4.\n►Tăng tỷ lệ chí mạng vật lý cho toàn đồng đội lên 100.

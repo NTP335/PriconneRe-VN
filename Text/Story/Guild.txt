@@ -1,0 +1,110 @@
+---Guild Story---
+ギルドストーリー=Câu Chuyện Guild
+ギルドメンバー=Thành viên guild
+ギルド紹介=Thông tin guild
+ギルドメンバー確認=Danh Sách Thành Viên Guild
+
+------------Gourmet Guild------------
+特別な飲食店に入店するため、ペコリーヌが結成した\nギルド。主な目的は食べ歩き。=Guild do Pecorine tạo ra để mọi người có thể đi ăn cùng nhau. Mục tiêu chính của họ là tìm kiếm những trải nghiệm ẩm thực mới.
+
+ようこそ美食殿へ！=Chào mừng đến với Guild Ẩm Thực!
+蓼食う虫もいけますよ♪=Mỗi người một gu♪
+幸せの食卓をともに=Một Bàn Đầy Hạnh Phúc
+
+------------Twinkle wish-------------
+きらめく願いが生まれた日=Sự Ra Đời Của Một Ước Nguyện Rực Rỡ
+小さな親切大きなお世話？=Lòng Trắc Ẩn Và Khó Khăn
+火山に咲く花を君に=Tình Yêu Đang Nở Rộ
+
+ヒヨリがギルドマスターとなり、人助けを中心に活動\nしているギルド。本当の目的は、同じ夢を見てきた３\n人がともに願う「ソルの塔の頂上への到達」。=Một guild do Hiyori lãnh đạo, nỗ lực giúp đỡ bất kỳ ai cần. Được thôi thúc bởi một giấc mơ chung, động cơ thực sự của họ là chinh phục đỉnh tháp Thần Mặt Trời.
+
+------------Labyrinth-------------
+デートは謎を解いてから=Bí Ẩn Trước, Hẹn Hò Sau
+運命の輪は迷宮で廻る=Bánh xe Số phận Đang Xoay
+屋台では別の顔=Một Người Phụ Nữ Đa Mặt
+
+謎の人物・ラビリスタが結成した、世界の謎を探究す\nるギルド。クレープ屋を経営し、表向きは平凡なギル\nドを装う。いわば秘密結社。=Được thành lập bởi Labyrista bí ẩn, guild này tìm cách khám phá bí mật đằng sau thế giới. Họ vận hành một cửa hàng bánh crepe để che giấu hoạt động thực sự.
+
+------------Carmina-------------
+歌って踊って戦うアイドル=Hát! Nhảy! Chiến Đấu!
+目指せファーストライブ=Đến Lúc Tập Luyện Rồi!
+カルミナ、オンステージ！=Carmina Trên Sân Khấu!
+ソロアイドルだったノゾミが結成した、歌って踊って\n（日々の悲しい気持ちと）戦うアイドルギルド。ライ\nブなどの興行が主な活動内容。=Một guild do cựu idol đơn ca Nozomi lãnh đạo. Họ hát, nhảy và chiến đấu, biểu diễn trực tiếp và các hoạt động giải trí khác là hoạt động chính của guild.
+------------Little Lyrical-------------
+
+リリカルキッズの出会い=Một Cuộc Gặp Gỡ Đầy Thơ
+みんなのおにいちゃん=Onii-chan Của Chúng Tôi
+ピクニックハプニング=Hoảng Loạn Dã Ngoại
+
+仲良し３人組による、実は非公認のギルド。ギルド\nごっこをしながらただ遊ぶことが目的。=Một guild không chính thức được hình thành bởi 3 cô gái nhỏ. Mục tiêu chính của họ là vui vẻ trong khi cảm thấy như một guild thực sự.
+
+------------Forestier-------------
+
+見習いのアオイです=Học Nghề Aoi
+森のガイドの練習です=Hội Thảo Hướng Dẫn Rừng
+いつも頼れる先輩です=Một Người Cố Vấn Đáng Tin Cậy
+エルフ族の森を管理、守護する歴史の長いギルド。エ\nルフの森でしか採れない薬草などの管理や、森のガイ\nドをしている。=Được thành lập từ lâu để canh giữ và bảo vệ khu rừng thần tiên, họ đóng vai trò hướng dẫn rừng cho du khách và quản lý các loại thảo dương chỉ có ở đó.
+
+------------Diabolos-------------
+復活、伝説の吸血鬼！=Một Ma Cà Rồng Tái Sinh!
+開催！　世界征服会議=Kế Hoạch Chinh Phục!
+結成！　悪魔偽王国軍=Diabolos Đã Hình Thành!
+イリヤが魔族の少女たちと結成したギルド。その名は\nかつてイリヤが率い、神々を相手に闘争を繰り広げ\nた、魔族の最強軍と同じである。=Một guild được thành lập bởi Illya và một số quỷ tộc. Tên của nó bắt nguồn từ đội quân do Illya lãnh đạo để khai chiến với các vị thần trong thời cổ đại.
+------------Nightmare-------------
+秩序と混沌の騎士団=Những Người Bảo Vệ Trật Tự Và Hỗn Loạn
+金の卵は任務の中に=Trứng Vàng Của May Mắn
+王宮騎士団狂騒曲=Rhapsody Của Ác Mộng
+ランドソルの国軍であり、活動目的は「王宮」や王族\nの護衛、および勅命を受けての任務達成。街の治安を\n守る警察組織としての側面も強い。=Quân đội quốc gia của Landosol, được giao nhiệm vụ bảo vệ ngai vàng và những người ngồi trên đó. Họ cũng đóng vai trò lực lượng cảnh sát chính của thành phố.
+------------Sarendia-------------
+笑顔の待つ場所=Không Nơi Nào Như Nhà
+それぞれの役割=Những Vai Trò Chúng Ta Đóng
+いつか伝えたい言葉=Tôi Sẽ Nói Với Cậu Một Ngày Nào Đó
+孤児院であるが、手広く商売なども行っている。王宮\nの警護という毎日に価値を見いだせずにいたサレン\nが、人の役に立つことをしたいと思い結成した。=Một trại mồ côi cũng tham gia vào đủ loại kinh doanh. Được thành lập bởi Saren sau khi quyết định rằng cô ấy thích giúp đỡ mọi người trực tiếp hơn.
+------------Caon-------------
+勝手気ままな自警団の日常=Một Ngày Của Caon
+獣人たちの胸騒ぎ=Một Báo Động Thú Vật
+『北風と太陽』作戦=Chiến Dịch Bắc Phong Và Mặt Trời
+魔物たちの脅威から、同じ【動物苑】の仲間を守る武\n闘派ギルド。「シャドウ」などの、異変の調査や解決\nもする。【王宮騎士団】とは犬猿の仲。=Một guild võ thuật chủ yếu bảo vệ bạn bè trong Menagerie. Họ cũng điều tra và giải quyết các sự cố liên quan đến Shadows.
+------------Elizabeth Park-------------
+
+自然な笑顔に囲まれて=Được Bao Quan Bởi Nụ Cười
+温かな背中に揺られて=Trên Một Chiếc Lưng Ấm Áp
+小さな命との出会い=Cứu Một Mạng Nhỏ
+
+山の上の牧場ギルド。活動内容はいわゆる牧場で、牛\nや馬などを飼育している。獣人たちが休暇を過ごすピ\nクニック場や病人の静養地でもある。=Một guild nằm trên ngọn núi gần đó. Về cơ bản là một trại chăn nuôi truyền thống, nhưng cũng là địa điểm dã ngoại phổ biến cho thú nhân và nơi phục hồi cho người bệnh.
+
+------------Mercurius Foundation-------------
+メルクリウス財団始動！=Mercurius xuất hiện!
+牧場からの依頼=Yêu cầu từ vùng quê
+ギャンブルバトル=Đồng đội cờ bạc
+莫大な資金を元手に、さまざまな事業への融資や買収\nを行っているギルド。悪どい稼ぎ方をしている商売人\nたちをこらしめるのが、裏の活動目的。=Một guild tài trợ và mua lại các doanh nghiệp khác nhau. Họ còn làm việc hậu trường để chống lại những kẻ kiếm tiền qua các kế hoạch bất hợp pháp.
+
+------------Twilight Caravan-------------
+黄昏をさがして=Tìm kiếm Hoàng hôn
+壺に潜む魔神=Ác quỷ trong bình
+宝の地図は誰のもの？=Bản đồ của ai?
+とある目的の元に結成された、危険な依頼も請け負う\n何でも屋ギルド。ほとんどのメンバーが二つ名を持\nつ、ランドソルで最も危険なギルドとのうわさも。=Được thành lập với một mục tiêu nhất định, những lời đồn và biệt danh dành cho từng thành viên đã khiến nó được gọi là guild nguy hiểm nhất ở Landosol.
+
+------------Lucient Academy-------------
+廃校の危機=Sự kết thúc đã gần
+転校生パニック！=Xáo trộn học sinh mới!
+個人レッスンは誰が？=Ai sẽ làm gia sư?
+ランドソルに存在する学舎の一つ。ギルド管理協会が\n運営する公立の教育機関。共学で、通学している生徒\nの年齢、種族、学力もさまざま。=Một trường công ở Landosol được vận hành dưới sự quản lý của Hiệp hội Guild. Độ tuổi, trình độ học vấn và backgrounds của học sinh rất đa dạng.
+------------Weissflügel-------------
+初めてのコンビネーション=Combo đầu tiên của chúng ta
+泣いて貴公を斬る！=Xin lỗi đồng đội, cậu phải chết!
+結成！　白翼のギルド=Cánh Trắng cất cánh
+モニカをギルドマスターとして結成されたギルド。い\nつも間の抜けた行動で、ピンチを呼び込んではメン\nバー自らが華麗に解決している。=Được thành lập với Monika ở trung tâm, những trò đùa ngớ ngẩn của thành viên tương phản mạnh mẽ với khả năng giải quyết các tình huống nguy hiểm một cách dễ dàng.
+
+------------Dragon's Nest-------------
+歓迎、竜の巣へようこそ！=Chào mừng đến với Tổ ổ Rồng!
+荒波を越えて竜の島へ=Ở đây có rồng?
+試されるボスの器=Đến chủ boss
+
+希少な種族、ドラゴン族の発見と保護を目的に結成。\n各地の探索などを行なっているが、裏ではギャングと\nつながっているという黒い噂も絶えないギルド。=Một guild được thành lập để tìm kiếm và bảo vệ các thành viên của chủng tộc rồng hiếm. Hoạt động chính thức của họ bao gồm khám phá, nhưng những lời đồn đen về mối liên hệ bí mật với hoạt động của băng đảng thì tràn lan.
+------------Friendship-------------
+
+つかめ、奨学金！=Giành lấy, học bổng!
+ひらけ、新ギルド！=Khai trương, guild mới!
+あげろ、集団制作！=Cho tôi, sản xuất nhóm!
+奨学金審査に通過することを目的として、その達成条\n件である「親和性の高い共同体」をアピールするため\nノリで結成された、新感覚の部活風ギルド。=Một guild theo phong cách câu lạc bộ mới, được thành lập một cách thân mật với mục tiêu vượt qua quy trình sàng lọc học bổng và thúc đẩy "cộng đồng tương thích" - một điều kiện để đạt được mục tiêu này.

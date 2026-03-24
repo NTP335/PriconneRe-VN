@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛で、華装に身を包み流麗な剣舞を舞う狼娘。周囲の味方の数に応じて、スキルの威力と物理攻撃力アップのスキル効果が上がり、鼓舞激励の一斬を振るう。=[Thể Chất] Một cô gái sói mặc trang phục sang trọng thực hiện một điệu nhảy kiếm duyên dáng ở tuyến đầu. Tùy theo số lượng đồng đội xung quanh, sức mạnh kỹ năng và lực tấn công thể chất của cô sẽ tăng lên, và cô vung một nhát chém đầy khích lệ.
+
+##UB##
+ウルフェンロンド=Rondo Của Sói
+自分を中心とした範囲内の味方の物理攻撃力と行動速度を中アップさせ、目の前の敵１キャラに物理特大ダメージを与える。範囲内の味方の人数に応じて、攻撃力の上昇量がアップする。=Tăng vừa phải Lực Thể Chất (P.ATK) và Tốc Độ Hành Động của đồng đội trong phạm vi, và gây sát thương thể chất khổng lồ (P.DMG) cho kẻ địch phía trước. Mức tăng Lực Thể Chất (P.ATK) sẽ cao hơn tùy theo số lượng đồng đội trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の行動速度アップ$"=►Gây $1 sát thương thể chất (P.DMG) cho một kẻ địch.\n►Tăng Lực Thể Chất (P.ATK) của đồng đội trong phạm vi 180 lên $2 trong 18s.\n►Tăng Tốc Độ Hành Động của đồng đội trong phạm vi 180 lên 125% trong 12s.
+
+##S1##
+シュバルリックオーダー=Đoàn Kỵ Sĩ
+自分を中心とした範囲内の味方の物理攻撃力を小アップさせる。範囲内の味方の人数に応じて、攻撃力の上昇量がアップする。=Tăng nhỏ Lực Thể Chất (P.ATK) của đồng đội trong phạm vi. Mức tăng Lực Thể Chất (P.ATK) sẽ cao hơn tùy theo số lượng đồng đội trong phạm vi.
+
+##S2##
+クルーエルダンス=Điệu Nhảy Tàn Bạo
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。自分を中心とした範囲内の味方の人数に応じて、与えるダメージがアップする。=Gây sát thương vật lý trung bình lên kẻ địch phía trước và giảm nhẹ phòng thủ vật lý của chúng. Tăng sát thương vật lý theo số lượng đồng minh trong phạm vi.
+
+##EX##
+麗狼の剣舞=Beautiful Wolf's Sword Dance
+麗狼の剣舞+=Beautiful Wolf's Sword Dance+
+
+##S1+##
+シュバルリックオーダー+=Chivalric Order+
+自分を中心とした範囲内の味方の物理攻撃力を中アップさせ、さらに自分の物理攻撃力を中アップさせる。範囲内の味方の人数に応じて、物理攻撃力の上昇量がアップする。=Tăng sát thương vật lý cho đồng minh trong phạm vi một cách vừa phải, và cũng tăng sát thương vật lý của bản thân. Tăng sát thương vật lý theo số lượng đồng minh trong phạm vi.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Tăng sát thương vật lý cho đồng minh trong phạm vi 180 lên $1 trong 12s.\n►Tăng sát thương vật lý của bản thân lên $2 trong 12s.
+
+##UE##
+ウルフェンロンドドレス=Wolven Rondo Dress

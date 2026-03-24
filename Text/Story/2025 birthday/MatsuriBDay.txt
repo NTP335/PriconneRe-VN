@@ -1,0 +1,19 @@
+Matsuri Orihara Birthday
+
+こっち……いや、こっちもかっこいいッス……！\nでもでもっ、うぅ～どうしたらいいッスか！？=Cái này... Không, nhưng cái này cũng QUÁ CHẤT...! Nhưng, nhưng... Ưu, phải làm sao đây?!
+あっ、アニキ！\nちょうどいいところにきてくれたッスね！\nちょっと相談に乗ってほしいッス！=Á! Anh trai! Anh đến đúng lúc quá! Anh xem, em muốn xin vài lời khuyên!
+このトラタイガーグッズ、どっちがいいッスかね！？\n実物大トラタイガークローか、豪華版ＤＸ変身ベルトか！=Trong hàng Tora Tiger này, anh thấy món nào tốt nhất, bạn!? Bộ vuốt Tora Tiger cỡ đời thật hay thắt lưng biến hình DX đẳng cấp?
+なるほど……アニキはそっちッスか。\nじゃあそっちに……うみゅみゅ……！=Ra vậy... vậy là anh chọn cái đó, hả anh trai. Được rồi, vậy em sẽ lấy cái đó... Uyumyu...!
+……今日は自分の誕生日なんスけど、お父さんとお母さんが\n好きなものを一つだけ買ってくれるって言ったんスよ。\nだから今こうして、その一つに悩んでいるところなんッス！=...Hôm nay là sinh nhật em, và bố mẹ nói sẽ mua cho em một món em thích. Vì vậy bây giờ... em đang vật lộn để quyết định món đó là gì!
+でもいい加減、決断しないとダメッスね。\n正義の味方は迷ったり、悩んだりしないッス！\nよし、じゃあアニキの選んでくれた方にするッス！=Nhưng cũng đến lúc em quyết định rồi, bạn. Một anh hùng thật sự không do dự hay lo lắng! Được rồi, vậy em sẽ lấy món anh chọn, anh trai!
+選ぶのを手伝ってくれてありがとうッス、アニキ！\n選ばなかった方は……また来年の誕生日に……=Cảm ơn anh đã giúp em chọn, anh trai! Về món em không chọn... thì, chắc lần sinh nhật tiếp theo...
+えっ！？　それは……さっき諦めた……\nプレゼントって、ダメッス、悪いッスよ……！=Hả?! Cái đó... là món Tora Tiger em từ bỏ... một món quà bất ngờ... em không thể, quá nhiều quá...!
+アニキ……！\n分かったッス！　変わりばんこでトラタイガーに変身ッス！\nえへへ……その前に。=Anh trai...! Hiểu rồi! Chúng ta sẽ luân phiên biến thành Tiger Tiger! Hehehe... Nhưng trước đó...
+アニキ、誕生日をお祝いしてくれてありがとッス。\nやっぱり自分、アニキのこと──=Anh trai... cảm ơn anh đã chúc mừng sinh nhật em. Dù sao thì, em~...
+──だぁい好きッス♪=...siêu siêu YÊU anh, bạn♪
+
+Player Prompts
+実物大トラタイガークロー=Bộ vuốt Tora Tiger cỡ đời thật
+豪華版ＤＸ変身ベルト。=Thắt lưng biến hình DX đẳng cấp
+誕生日おめでとう、これは僕から。=Sinh nhật vui vẻ. Đây là từ tôi
+じゃあこれで僕と一緒に遊ぼう。=Vậy thì dùng cái này để chơi cùng nhau

@@ -1,0 +1,38 @@
+##Profile##
+【魔法】後衛で味方の火力を高める、黒猫仮装の優等生。自分の魔法攻撃力に応じて効果が強化されるものと、効果が累積するもの等、多彩なスキルで攻撃力を高める。=[Ma thuật] Một học sinh ưu tú nhỏ bé trong trang phục mèo đen, sẵn sàng tăng cường hỏa lực cho đồng minh từ hậu phương. Với các kỹ năng tăng cường được cường hóa dựa trên sức mạnh ma thuật của bản thân hoặc chồng chất theo thời gian, cô có thể tăng sát thương của đội theo nhiều cách.
+
+お菓子と仮装とお姉さん=Costumes and Cupcakes
+飲みすぎにご注意=The Perils of Drinking
+迷子のパレードナイト=Perplexing of Parade
+味見はお口いっぱいに=A Mouth Full of Cupcake
+
+##UB##
+ハロウィンブルームダンス=Halloween Bloom Dance
+目の前の敵１キャラの魔法防御力を中ダウンさせ、さらに味方全体の魔法攻撃力を特大アップさせる。=Giảm M.DEF của kẻ địch ngay phía trước một lượng vừa phải. Tăng cực lớn M.ATK cho tất cả đồng minh.
+r:"^敵単体の魔法防御力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ$"=►Giảm M.DEF của kẻ địch lên $1 trong 18.9s.\n►Tăng M.ATK cho đồng minh lên $2 trong 18.9s.
+
+##S1##
+マジカルトリック=Magical Trick
+最も魔法攻撃力が高い味方１キャラの魔法攻撃力を中アップさせる。このキャラの魔法攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng lớn M.ATK cho đồng minh có M.ATK cao nhất. Lượng tăng này còn tăng thêm dựa trên M.ATK của mục tiêu.
+r:"^味方単体の魔法攻撃力を(\d+)アップ$"=►Tăng M.ATK cho một đồng minh lên $1 trong 12s.
+
+##S2##
+マジカルトリート=Magical Treat
+味方全体の魔法攻撃力を中アップさせる。=Tăng vừa phải M.ATK cho đồng minh.
+
+##EX##
+ハロウィンブレイブ=Halloween Bravery
+ハロウィンブレイブ+=Dũng cảm Halloween+
+
+##S1+##
+マジカルトリック+=Ma thuật đặc biệt+
+最も魔法攻撃力が高い味方１キャラの魔法攻撃力を大アップさせる。このキャラの魔法攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng lớn M.ATK cho đồng minh có M.ATK cao nhất. Lượng tăng phụ thuộc vào M.ATK của mục tiêu.
+
+##S2+##
+マジカルトリート+=Đãi ngộ phép thuật+
+味方全体の魔法攻撃力を大アップ、魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに味方全体の行動速度を大アップさせる。=Tăng rất lớn M.ATK cho toàn bộ đồng minh, tăng trung bình Tỷ lệ chí mạng phép thuật và tăng nhẹ Sát thương chí mạng phép thuật. Đồng thời tăng rất lớn tốc độ hành động của toàn bộ đồng minh.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを60アップ味方全体の魔法攻撃クリティカル時のダメージを4％アップ味方全体の行動速度アップ$"=►Tăng M.ATK cho toàn bộ đồng minh thêm $1 trong 180s.\n►Tăng Tỷ lệ chí mạng phép thuật cho toàn bộ đồng minh thêm 60 trong 180s.\n►Tăng Sát thương chí mạng phép thuật cho toàn bộ đồng minh thêm 4% trong 180s.\n►Tăng tốc độ hành động của toàn bộ đồng minh lên 150% trong 18s.
+
+##UE##
+ハロウィン猫さんブルーム=Chổi mèo Halloween
+ハロウィン黒猫ずきん=Nón mèo đen Halloween

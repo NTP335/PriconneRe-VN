@@ -1,0 +1,36 @@
+##Profile##
+霧原 かすみ=Kirihara Kasumi
+読書、推理=Reading and Deducing
+頭脳明晰な美少女名探偵=Một thám tử tài ba, xinh đẹp
+【魔法】後衛で、相手の行動妨害に特化した名探偵。束縛や混乱を付与するスキルで相手の行動を妨害し、魔法防御力ダウンのフィールドを展開して王手をかける。=[Magic] Một thám tử tuyệt vời chuyên về cản trở hành động của kẻ địch từ hậu phương. Kỹ năng của cô gây ra Bind và Confusion để ngăn các đòn tấn công của kẻ địch thành công, đồng thời cô triển khai một trường giảm M.DEF của chúng, khiến chúng hoàn toàn bất lực.
+
+##UB##
+クリミナルプリズン=Criminal Prison
+前から３番目の敵を中心に、範囲内の敵の魔法防御力を特大ダウン、ＴＰ上昇を小ダウンさせるフィールドを展開し、さらに行動速度を小ダウンさせる。=Giảm mạnh M.DEF của tất cả kẻ địch trong vùng bán kính xung quanh kẻ địch thứ ba từ phía trước, tạo một trường làm giảm TP Boost một lượng trung bình và giảm tốc độ hành động của chúng một chút.
+r:"^フィールド内の敵の魔法防御力(\d+)ダウンフィールド内の敵のＴＰ上昇(\d+)ダウン範囲内の敵の行動速度を一定時間低下させる$"=►Tạo một Trường (Bán kính 300) Xung quanh kẻ địch thứ ba gần nhất trong 16s.\n►Giảm M.DEF của kẻ địch trong trường đi $1.\n►Giảm TP Boost của kẻ địch trong trường đi $2.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi xuống 90% trong 16s.
+
+##S1##
+ルートオブバインド=Binding Route
+前方範囲内の敵全てに魔法小ダメージを与え、さらに束縛する。=Gây sát thương ma thuật nhỏ lên tất cả kẻ địch trong phạm vi và gây Bind.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương ma thuật lên kẻ địch trong phạm vi.\n►Làm kẻ địch trong phạm vi không thể di chuyển trong một khoảng thời gian.
+
+##S2##
+ミスリードバレット=Misdirection Bullet
+目の前の敵１キャラに魔法小ダメージを与え、さらに混乱させる。=Gây sát thương ma thuật nhỏ lên kẻ địch đứng trước mặt và gây Confusion.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を混乱させる$"=►Gây $1 sát thương ma thuật lên một kẻ địch.\n►Làm một kẻ địch bị choáng trong 7.5s.
+
+##EX##
+ディテクティブマインド=Detective Mind
+ディテクティブマインド+=Detective Mind+
+
+##UB+##
+トゥルーエンドケース=True End Case
+前から３番目の敵を中心に、範囲内の敵の魔法防御力を特大ダウン、ＴＰ上昇を小ダウンさせるフィールドを展開し、さらに行動速度を中ダウンさせる。さらに【カウントダウン】を付与し、５カウント後に敵全体に魔法小ダメージを与える。このスキルによるダメージでは敵のＴＰは回復しない。=Triển khai một trường lên kẻ địch thứ ba từ phía trước, giảm mạnh M.DEF của kẻ địch trong khu vực, giảm nhẹ TP Boost và giảm vừa phải tốc độ hành động của chúng. Ngoài ra còn áp dụng Đếm ngược, và sau 5 lần đếm, gây sát thương ma thuật nhỏ lên tất cả kẻ địch. Sát thương của kỹ năng này không phục hồi TP của kẻ địch.
+r:"^フィールド内の敵の魔法防御力(\d+)ダウンフィールド内の敵のＴＰ上昇10ダウン範囲内の敵の行動速度を一定時間低下させる敵全体に(\d+)の魔法ダメージ$"=►Giảm M.DEF của kẻ địch trong phạm vi 410 đi $1 trong 18s.\n►Giảm TP Boost của kẻ địch trong phạm vi 410 đi 10 trong 18s.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi 300 xuống 70% trong 18s.\n►Gây $2 sát thương ma thuật lên tất cả kẻ địch.
+
+##S1+##
+ルートオブバインド+=Binding Route+
+前方範囲内の敵全てに魔法小ダメージを与え、さらに束縛する。範囲内の敵の数に応じて、束縛時間が増加する。=Gây sát thương ma thuật nhỏ lên tất cả kẻ địch trong phạm vi và gây Bind. Thời gian trói buộc tăng theo số lượng kẻ địch trong phạm vi. Không thể hành động trong một khoảng thời gian.
+
+##UE##
+ディテクティブルーペ=Detective Magnifier

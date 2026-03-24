@@ -1,0 +1,22 @@
+シールド・レリック=Di Vật Khiên
+ブレイク・レリック=Di Vật Phá
+ボム・レリック=Di Vật Bom
+
+ヒール・レリック=Di Vật Hồi
+シャドウと共に聖域を守護する、記憶の番人。真なる力を欲するものに、相応の試練を与える。=Vệ sĩ ký ức bảo vệ nơi thánh cùng với bóng tối. Người ta thử thách phù hợp với những ai tìm kiếm sức mạnh thực sự.\n\n\n\n\n\n\n\n\n
+自身以外の味方全体にＨＰとＴＰ継続回復状態を付与し、物理防御力と魔法防御力をアップさせる。=Tặng hiệu ứng hồi HP và TP cho tất cả đồng minh ngoại trừ bản thân, đồng thời tăng P.DEF và M.DEF của họ.
+
+魔法範囲攻撃シャドウと共に聖域を守護する、記憶の番人。真なる力を欲するものに、相応の試練を与える。=Vệ sĩ Ký ức bảo vệ nơi thánh cùng với Bóng Tối của Đòn Tấn Công Ma Thuật Phạm Vi. Áp đặt những thử thách xứng đáng với những ai tìm kiếm sức mạnh thực sự.
+
+
+カーズ・レリック=Di Vật Xe
+敵全体に毒状態を付与し、ＨＰ吸収とＨＰ回復　量をダウンさせる。=Gây hiệu ứng độc cho tất cả kẻ thù, giảm lượng hút HP và hồi phục HP.
+
+アタック・レリック=Di Vật Tấn Công
+
+敵の挑発を無視して、最も遠い敵１キャラに１００万の魔法固定ダメージを与える。このスキルを使用するたび、次のスキルを使用するまでの時間が短くなる。=Bỏ qua khiêu khích của kẻ thù và gây 1.000.000 sát thương phép cố định lên kẻ địch xa nhất. Mỗi lần kỹ năng này được sử dụng, thời gian đến lần dùng kỹ năng tiếp theo sẽ giảm.
+
+敵の挑発を無視して、最も遠い敵１キャラに５万の魔法固定ダメージを与える。このスキルを使用するたび、次のスキルを使用するまでの時間が短くなる。=Bỏ qua khiêu khích của kẻ thù và gây 50.000 sát thương phép cố định lên kẻ địch xa nhất. Mỗi lần kỹ năng này được sử dụng, thời gian đến lần dùng kỹ năng tiếp theo sẽ giảm.
+
+味方全体に物理魔法ダメージカット効果を付与する。さらに、自身以外のダメージを受けている味方に無敵状態を付与し、物理攻撃力と魔法攻撃力をアップさせる。=Tặng hiệu ứng giảm sát thương vật lý và phép thuật cho tất cả đồng minh. Ngoài ra, tặng vô địch cho đồng minh (trừ bản thân) đang bị nhận sát thương, đồng thời tăng sức tấn công vật lý và phép thuật của họ.
+

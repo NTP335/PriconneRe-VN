@@ -1,0 +1,25 @@
+##Profile##
+【魔法】後衛で儀装束を纏い歌を紡ぎ伝えていく唱喚士。自分と最も近くの味方へ強力なバフとＴＰ回復を行うことで攻撃を支援し、共に心を通わせ美しき旋律を奏でる。=[Ma pháp] Một triệu hồi sư tuyến sau khoác áo lễ, dệt và truyền lại những bài hát. Cô ủng hộ cuộc tấn công bằng cách cung cấp buff mạnh mẽ và hồi phục TP cho bản thân và đồng đội gần nhất, cộng hưởng trái tim để chơi những giai điệu tuyệt đẹp.
+
+##UB##
+エメラルドシンフォニー=Giao hưởng Ngọc lục bảo
+味方全体の魔法攻撃力を特大アップさせ、物理無効バリアを展開する。さらに、自分と最も近くの味方１キャラの魔法攻撃力を特大アップさせ、ＴＰを中回復させる。=Tăng mạnh M.ATK cho tất cả đồng đội và triển khai một rào cản vô hiệu hóa vật lý. Ngoài ra, tăng mạnh M.ATK của bản thân và đồng đội gần nhất và hồi phục trung bình TP của họ.
+r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する自分と対象の味方の魔法攻撃力を(\d+)アップ自分と対象の味方のＴＰを120回復$"=►Tăng M.ATK tất cả đồng đội bằng $1.\n►Triển khai Rào cản Vô hiệu hóa Vật lý hấp thụ $2 sát thương.\n►Tăng M.ATK của bản thân và đồng đội mục tiêu bằng $3.\n►Hồi phục TP của bản thân và đồng đội mục tiêu 120.
+
+##S1##
+サンクトゥスコーラス=Khúc đồng ca Thánh
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせる。さらに、自分と最も近くの味方１キャラの魔法攻撃力と魔法クリティカルを特大アップ、魔法クリダメを小アップさせ、敵全体に魔法大ダメージを与え、味方全体のＨＰを小回復させる。=Tăng mạnh M.ATK cho tất cả đồng đội và tăng lớn M.CRIT RATE của họ. Ngoài ra, tăng mạnh M.ATK và M.CRIT RATE của bản thân và đồng đội gần nhất, tăng nhỏ M.CRIT DMG, gây sát thương phép lớn cho tất cả kẻ địch, và hồi phục nhỏ HP cho tất cả đồng đội.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを80アップ味方全体のＨＰを(\d+)回復自分と対象の味方の魔法攻撃力を(\d+)アップ、魔法クリティカルを160アップ、魔法クリダメを12％アップ敵全体に(\d+)の魔法ダメージ$"=►Tăng M.ATK tất cả đồng đội bằng $1.\n►Tăng M.CRIT RATE tất cả đồng đội 80.\n►Hồi phục HP tất cả đồng đội bằng $2.\n►Tăng M.ATK của bản thân và đồng đội mục tiêu bằng $3.\n►Tăng M.CRIT RATE của bản thân và đồng đội mục tiêu 160.\n►Tăng M.CRIT DMG của bản thân và đồng đội mục tiêu 12%.\n►Gây $4 sát thương phép cho tất cả kẻ địch.
+
+##S2##
+シルフェンカンタービレ=Sylphen Cantabile
+味方全体の物理防御力を大アップさせる。さらに、自分と最も近くの味方１キャラの魔法攻撃力と魔法クリティカルを特大アップ、魔法クリダメを小アップ、ＴＰ上昇を小アップさせる。=Tăng lớn P.DEF cho tất cả đồng đội. Ngoài ra, tăng mạnh M.ATK và M.CRIT RATE của bản thân và đồng đội gần nhất, tăng nhỏ M.CRIT DMG, và tăng nhỏ TP Boost.
+r:"^味方全体の物理防御力を(\d+)アップ自分と対象の味方の魔法攻撃力を(\d+)アップ自分と対象の味方の魔法クリティカルを160アップ自分と対象の味方の魔法クリダメを12％アップ自分と対象の味方のＴＰ上昇を8アップ$"=►Tăng P.DEF tất cả đồng đội bằng $1.\n►Tăng M.ATK của bản thân và đồng đội mục tiêu bằng $2.\n►Tăng M.CRIT RATE của bản thân và đồng đội mục tiêu 160.\n►Tăng M.CRIT DMG của bản thân và đồng đội mục tiêu 12%.\n►Tăng TP Boost của bản thân và đồng đội mục tiêu 8.
+
+##EX##
+フェアリーズディーヴァ=Diva của Tiên
+フェアリーズディーヴァ+=Diva của Tiên+
+
+
+
+サンクトゥスコーラス+=Sanctus Chorus+

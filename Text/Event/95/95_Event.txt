@@ -1,0 +1,157 @@
+r:"^◆([0-9/ :]+)を迎える。$"=◆Có bán với giá $1
+
+Summary
+ペコリーヌの体調を危惧したクレジッタは、謎の生物ハニハニちゃんの提案でランドソル万博を開催。他世界の王女らも招かれ活気づくが、ペコリーヌは王家の装備の反動と罪悪感から、未だ食欲を失っていた。=Lo lắng cho sức khỏe của Pecorine, Creditta đã tổ chức Triển lãm Thế giới Landsol theo đề xuất của sinh vật bí ẩn HaniHani-chan. Các công chúa từ thế giới khác cũng được mời đến giúp bầu không khí trở nên náo nhiệt, nhưng Pecorine vẫn bị mất cảm giác ngon miệng do phản phệ từ trang bị hoàng gia và cảm giác tội lỗi.
+ランドソル万博が開幕し、各国のプリンセスが料理の腕を競うため、ランドソルへ招聘される。{playername}たちが案内役を務め各パビリオンを回るなか、その様子を遠くから見つめる影があった。=Triển lãm Thế giới Landsol khai mạc, công chúa các nước được mời đến Landsol để so tài nấu nướng. Trong khi {playername} và mọi người dẫn đường tham quan các khu trưng bày, có một bóng người lặng lẽ quan sát họ từ xa.
+ペコリーヌの食欲不振を救うための強行策として企画されたビストロプリンセス。各国の王女らも友人のために自国の矜持を懸けて参加を承諾。決戦の日、超満員のスタジアムは熱狂の渦に包まれていた。=Bistro Princess được lên kế hoạch như một biện pháp mạnh để chữa chứng chán ăn của Pecorine. Vì người bạn của mình, công chúa các nước đã chấp nhận tham gia với lòng tự tôn của quốc gia. Vào ngày quyết chiến, sân vận động chật kín người bị cuốn trong vòng xoáy nhiệt huyết.
+料理対決が始まるも、会場の料理には罠が仕掛けられていた。口にした観客や審査員らは異常な高揚感と共に理性を失っていく。混乱を招いた黒幕は、ハニハニちゃんが仕える六凶の一角、獄蜂メリッサだった。=Cuộc chiến ẩm thực bắt đầu, nhưng những món ăn tại hội trường đã bị gài bẫy. Khán giả và giám khảo khi nếm thử đều mất đi lý trí cùng với sự hưng phấn bất thường. Kẻ chủ mưu gây ra hỗn loạn chính là một trong Lục Hung mà HaniHani-chan phụng sự, Ngục Ong Melissa.
+観客が倒れたのは、料理に混入されたメリッサの毒が原因だった。彼女の目的は世界の壁を壊し唯一の女王として君臨すること。卑劣な策でヴァイオレットが餌食となり、会場はかつてない絶望に包まれる。=Khán giả ngã xuống là do chất độc của Melissa trộn vào món ăn. Mục tiêu của ả là phá bỏ ranh giới giữa các thế giới để trị vì như nữ hoàng duy nhất. Bằng thủ đoạn hèn hạ, Violet đã trở thành nạn nhân, khiến hội trường chìm trong tuyệt vọng chưa từng thấy.
+ヴァイオレットは民の想いが籠もった料理を口にし、国の誇りと共に真の力を覚醒。新たな力で敵を圧倒するが、窮地のメリッサはペコリーヌを人質に。{playername}たちは再起を誓い一時撤退する。=Violet nếm món ăn chứa đựng tâm tình của người dân và thức tỉnh sức mạnh thực sự cùng lòng tự hào dân tộc. Cô dùng sức mạnh mới áp đảo kẻ thù, nhưng Melissa trong lúc đường cùng đã bắt Pecorine làm con tin. {playername} và mọi người thề sẽ trở lại và tạm thời rút lui.
+ランドソルがメリッサの恐怖に沈む中、撤退した{playername}たちはヴァイオレットの覚醒が伝説の食材によるものと突き止める。一行は解毒と再起の鍵を握る各世界の食材を求め、再び行動を開始した。=Giữa lúc Landsol chìm trong nỗi khiếp sợ mang tên Melissa, nhóm {playername} vừa rút lui đã xác định được sự thức tỉnh của Violet là nhờ nguyên liệu huyền thoại. Cả nhóm lại lên đường tìm kiếm nguyên liệu từ các thế giới khác, thứ nắm giữ chìa khóa để giải độc và phản công.
+伝説の食材を使った料理に毒を打ち消す力があると確信した{playername}たち。メリッサの宣戦布告を受け、囚われた仲間とペコリーヌを救出するため、一行は決戦の地ランドソルへ向け進軍を開始した。=Tin chắc rằng món ăn từ nguyên liệu huyền thoại có sức mạnh hóa giải chất độc, nhóm {playername} đã đáp lại lời tuyên chiến của Melissa. Để cứu lấy Pecorine và những người bạn bị giam giữ, cả nhóm bắt đầu tiến quân về vùng đất quyết chiến — Landsol.
+守護騎士たちの処刑寸前、伝説の食材で毒を克服したライラエルたちが救援に現れる。仲間を救出し、湧き上がる民たち。囚われたペコリーヌを救うため、{playername}と三人の王女の反撃が、今始まる。=Ngay trước thời khắc hành hình các hiệp sĩ hộ vệ, Lyrael và mọi người — những người đã vượt qua chất độc nhờ nguyên liệu huyền thoại — đã xuất hiện ứng cứu. Người dân hò reo khi các đồng đội được giải cứu. Để cứu lấy Pecorine đang bị bắt giữ, cuộc phản công của {playername} và ba vị công chúa chính thức bắt đầu.
+──っ。=── Hự.
+魔物の群れに抗う民の矜持に触れ、ライラエルとネフィ＝ネラもまた真の覚醒を果たす。覚醒した３人は共闘し敵を一掃するが、暴走したメリッサは空へ逃走を図る。そこへ、なんと脱出したペコリーヌが現れた。=Chạm tới lòng tự tôn của nhân dân khi họ chống lại bầy ma thú, Lyrael và Nefi-Nera cũng đạt được sự thức tỉnh thực sự. Ba người đã thức tỉnh cùng sát cánh quét sạch kẻ thù, nhưng Melissa đang điên loạn định bỏ trốn lên không trung. Đúng lúc đó, Pecorine — người đã trốn thoát thành công — bất ngờ xuất hiện.
+煉獄の穢土にてひと際輝く民草の心此れを守護りまするがわっちの責務如何な困難待ち受けようと不退転の矜持に揺らぎはありんせん=Giữa vùng đất uế thổ của luyện ngục, trái tim của muôn dân vẫn tỏa sáng hơn cả, bảo vệ điều đó chính là trách nhiệm của ta. Dù khó khăn nào chờ đợi phía trước, lòng tự tôn bất thối chuyển này cũng sẽ chẳng hề lung lay.
+
+多様な味わいが織りなすハーモニーそれこそが我が国の矜持ですもしもそれを乱すようであればわたしも優しくはありませんよ？=Sự hài hòa được dệt nên từ những phong vị đa dạng, đó chính là lòng tự tôn của đất nước tôi. Nếu có kẻ định phá vỡ điều đó, tôi cũng sẽ không nương tay đâu.
+
+女王蜂と飢えた剣=Ong Chúa và Thanh kiếm Đói khát
+コッコロの手引きで脱出したペコリーヌは、{playername}と共にメリッサと対峙する。だが、王家の装備を奪ったメリッサは自らの力を暴食の剣に注ぎ込み暴走を開始。おぞましい瘴気が城内を包み込む。=Dưới sự dẫn dắt của Kokkoro, Pecorine thoát ra và cùng {playername} đối đầu với Melissa. Tuy nhiên, Melissa sau khi cướp được trang bị hoàng gia đã dồn sức mạnh vào thanh kiếm bạo thực và bắt đầu nổi điên. Luồng chướng khí gớm ghiếc bao trùm khắp lâu đài.
+
+愛と絆を召し上がれ=Xin mời thưởng thức Tình yêu và Sự gắn kết
+メリッサは暴食で民の力を奪おうとするが、ペコリーヌと{playername}は自らの身を捧げ暴走を阻止する。【美食殿】や民らも自ら力を貸し、王女への信頼と絆を剣に流し込むことで、暴食を満腹にした。=Melissa định dùng bạo thực để cướp đi sức mạnh của người dân, nhưng Pecorine và {playername} đã xả thân để ngăn chặn sự điên loạn đó. Các thành viên [Guild Ẩm Thực] và nhân dân cũng chung sức, đổ dồn niềm tin cùng sự gắn kết dành cho công chúa vào thanh kiếm, khiến cơn đói bạo thực được lấp đầy.
+
+最後の晩餐=Bữa tối cuối cùng
+暴食を失い窮地のペコリーヌだったが、{playername}が握った伝説の食材「プリ米」のおにぎりを食べ真の覚醒を果たす。民との絆を力に変えた王女の一撃が、孤独な強さを求めたメリッサを打ち破った。=Mất đi sức mạnh bạo thực và rơi vào thế bí, nhưng nhờ ăn nắm cơm làm từ nguyên liệu huyền thoại "Gạo Puri" do {playername} thực hiện, Pecorine đã đạt được sự thức tỉnh thực sự. Biến sự gắn kết với nhân dân thành sức mạnh, nhát kiếm của công chúa đã đánh bại Melissa — kẻ chỉ mưu cầu sức mạnh trong cô độc.
+
+至高の食卓、再び=Bàn tiệc tối thượng tái hiện
+ペコリーヌが握ったおにぎりが民に振る舞われ、解毒は見事成功。それから数日後。食欲と体調の完全復活を遂げたペコリーヌは、絆と矜持を胸に、{playername}ら仲間と共に新たな旅路へと出発した。=Những nắm cơm do chính tay Pecorine làm được chia cho người dân, giúp việc giải độc thành công rực rỡ. Vài ngày sau, khi sức khỏe và sự thèm ăn đã hoàn toàn hồi phục, Pecorine mang theo sự gắn kết và lòng tự tôn trong tim, cùng {playername} và các đồng đội bắt đầu một hành trình mới.
+
+おにぎりの魔法=Phép màu của cơm nắm
+非情に徹する為、メリッサは自ら毒を飲んでいたと話すハニハニちゃん。目覚めたメリッサは否定するが、{playername}からのおにぎりを食べたことで毒が解除。本来の優しいメリッサに戻ったのだった。=HaniHani-chan tiết lộ rằng để trở nên tàn nhẫn, Melissa đã tự uống độc dược. Melissa khi tỉnh lại đã phủ nhận điều đó, nhưng sau khi ăn nắm cơm từ {playername}, độc tố đã được hóa giải. Cô đã trở lại là một Melissa dịu dàng như thuở ban đầu.
+
+
+
+
+
+
+サラサリアのミソランファ★=Miso Rampha vùng Sarasaria★
+フム……器をはるかに超えたる力……\n汝が身に余る強さを需るなど、\n月を欲しがる赤子よりも手に負えぬ。=Hừm... thứ sức mạnh vượt xa khỏi vật chứa... Khao khát một sự cường đại quá mức so với bản thân mình, thật còn khó chiều hơn cả đứa trẻ đòi hái mặt trăng.
+
+異界の姫君と煮炊きにて競い合う…感奮興起、いとをかし華やかなる祭典と相成るよう、一肌脱がせていただきとう存じまする=Được cùng các công chúa dị giới so tài bếp núc... lòng ta trào dâng phấn khích, thật là thú vị. Để lễ hội này thêm phần rực rỡ và long trọng, ta xin được góp hết sức mình.
+『ビストロプリンセス』のために料理の特訓を重ねてまいりましたこの料理で騎士様の…い、いえ皆様の心とお腹を満たしますわ！=Vì cuộc thi "Bistro Princess", tôi đã không ngừng khổ luyện nấu nướng. Bằng món ăn này, tôi sẽ lấp đầy trái tim và dạ dày của hiệp sĩ... à không, của tất cả mọi người!
+漂う異国の料理の香り…それだけで世界中を旅した気分に浸れますねふふ、ほらクローチェあまりはしゃぎすぎないように…♪=Hương thơm của những món ăn ngoại quốc thoang thoảng trong không khí... chỉ bấy nhiêu thôi cũng đủ khiến ta cảm thấy như đang được du ngoạn khắp thế giới vậy. Hì hì, nào Croce, đừng có phấn khích quá mức như vậy chứ...♪
+はああ……！=Hàaaa......!
+ヴァイオレット姫──その姿は一体……！？=Công chúa Violet── dáng vẻ đó rốt cuộc là sao thế này......!?
+万象を包みし海原の如く、慈心の悟りに目覚めたかと拝察せり。まるで神仏の天降りを目にしたかの如き心持ちに候。=Ta đoán rằng nàng đã thức tỉnh sự giác ngộ của lòng từ bi, bao la như đại dương ôm trọn vạn vật. Cảm giác như ta đang được tận mắt chứng kiến thần phật giáng trần vậy.
+心の奥底から湧き上がるこの気持ちは、慈しみ。なにがあっても国と民とを、守り通してみせる──それが。=Cảm xúc đang dâng trào từ tận đáy lòng này chính là lòng nhân từ. Dù có chuyện gì xảy ra đi chăng nữa, tôi cũng sẽ bảo vệ đất nước và nhân dân đến cùng── đó chính là.
+それこそが、わたくしの矜持です！=Đó chính là niềm tự tôn của tôi!
+強制解放する=Giải phóng cưỡng chế
+イサナミへと至る海老=Tôm dẫn lối đến Isanami
+やりました……なんとか退け──=Làm được rồi... chúng ta đã đẩy lui được──
+っ！？も……元にっ……=...!? Đang... trở lại bình thường...
+……申し訳ございません。まだ体が、イサナミの力に順応できていないようで……=...Tôi thành thật xin lỗi. Có vẻ như cơ thể tôi vẫn chưa kịp thích nghi với sức mạnh của Isanami...
+──ヴァイオレット姫。その御姿、己が意思にて自在に変化が叶いまするや？=── Công chúa Violet. Dáng vẻ đó của nàng, liệu có thể tự ý thay đổi theo ý muốn không?
+え、ええと。色々と端折りますが恐らく…………海老を食べると覚醒します。今のところ。=Ơ, ờm. Bỏ qua các chi tiết rườm rà thì có lẽ là............ tôi sẽ thức tỉnh khi ăn tôm. Hiện tại là như vậy ạ.
+「「海老を食べると……？」」=「「Ăn tôm thì sẽ......?」」
+ああっ、視線が痛い……！本当なのです……っ。ほら、このように……いただきます。=A, ánh mắt của mọi người làm tôi ngại quá...! Nhưng đó là sự thật mà... Đây này, như thế này nhé... tôi xin phép dùng bữa.
+──フゥム。古来より、海老は長寿の徴の縁起物でありんすが。冥府の海原より産する其れは、正に一味違うと云ふ次第ですか喃……=── Hừm. Từ xưa đến nay, tôm vốn là vật phẩm may mắn tượng trưng cho sự trường thọ. Nhưng loại tôm sinh ra từ đại dương của cõi âm này, quả nhiên là mang một đẳng cấp hoàn toàn khác nhỉ...
+すさまじいですね……海老パワー=Thật là kinh khủng... sức mạnh từ tôm.
+先ずは下級の魔物どもを囮に差し向け、己は高みの見物とな。獄蜂──女王気取りも甚だしき也。=Đầu tiên là tung ra đám ma thú cấp thấp làm mồi nhử, còn bản thân thì đứng từ trên cao quan sát sao. Ngục Ong── đúng là kẻ thích làm màu vẻ ta đây là nữ hoàng.
+……これほどの魔物を一度に使役するとは。六凶の力……いえ、もしそれ以外だとしても。本当に、脅威ですね……=...Có thể cùng lúc điều khiển ngần ấy ma thú. Sức mạnh của Lục Hung... không, kể cả nếu là thứ gì khác đi nữa. Đây thực sự là một mối hiểm họa...
+あったり前ハニっ！メリッサたまは超すごいハニ！=Chuyện đương nhiên mà hani! Ngài Melissa cực kỳ đỉnh luôn hani!
+さあ、ドレイの皆たま行くハニよ！=Nào, hỡi các nô lệ drey-tama, lên đi hani!
+あなたたちもハチミツの力で無理やりに……すぐに隷属のくびきより解放して差し上げますから、どうかご辛抱ください。=Cả các bạn cũng bị sức mạnh của mật ong ép buộc sao... tôi sẽ sớm giải phóng các bạn khỏi xiềng xích nô lệ này, nên xin hãy chịu đựng thêm một chút nữa thôi.
+手のひら一杯の、慈しみをもって。=Với lòng từ bi đong đầy trong lòng bàn tay.
+……ぐっ、力が入りません……=...Gừ, tôi không còn chút sức lực nào cả...
+──フム。敵は此方の戦力を削ぐ算段に見えまする。此の儘ではわっちらは逼迫し、首が締まるやも知れませぬ。=── Hừm. Có vẻ như kẻ địch đang tính toán làm tiêu hao chiến lực của chúng ta. Cứ đà này chúng ta sẽ rơi vào thế bí, thậm chí là bị dồn vào đường cùng mất.
+えへへ、このままじゃ負けちゃうハニよ～♪=Ehehe, cứ thế này là các ngươi sẽ thua thôi hani~♪
+……ハニ。はに。歯に。……歯には、歯を。=...Hani. Hani. Răng. ...Gậy ông đập lưng ông (Răng đền răng).
+相手が弱体化を図るなら、我らも弱体化させてしまえばよい。=Nếu đối phương tìm cách làm ta suy yếu, thì ta chỉ cần làm chúng suy yếu theo là được.
+ギクぅぅっ！！そ、そそ……そんなんじゃ、勝てないと思うけどぉ～……っ！！=Giật mình!! Th-thế... thế thì làm sao mà thắng nổi cơ chứ hani~...!!
+──コロコロコロ。征矢はズバリど真ん中。まさしく図星でありんす喃。=── Koro koro koro. Mũi tên đã bắn trúng đích rồi. Quả nhiên là ta đã nói trúng tim đen rồi nhỉ.
+小賢しき策謀の数々、悉く看破いたし候。此処より先は虚仮も無用、正面より刃を交えるのみ──=Mấy trò mưu hèn kế bẩn của ngươi đều đã bị ta nhìn thấu hết rồi. Từ giờ trở đi không cần mấy thứ giả dối đó nữa, hãy cứ trực diện mà giao đấu thôi──
+純然たる真っ向勝負、『がちばとる』と参りましょうぞ。=Một trận quyết đấu sòng phẳng, hãy bắt đầu một "cuộc chiến thực thụ" (Gachibattle) nào.
+相手は伝説の魔物、竜の眷属。一筋縄ではいきません──といっても。=Đối thủ là ma thú truyền thuyết, thuộc dòng dõi của rồng. Sẽ không dễ đối phó đâu── dẫu nói là vậy.
+我らが相手でなければ。であるが。=Nếu đối thủ của chúng không phải là chúng ta.
+「いくぞ！」「参ろうぞ！」「参ります！」=「Lên nào!」「Tiến lên thôi!」「Tôi lên đây!」
+
+
+
+ランドソル万博=Triển lãm Thế giới Landsol
+チョコ味噌=Miso Chocolate
+
+健康サプリを試すこと=Dùng thử thực phẩm chức năng bảo vệ sức khỏe
+
+物語の続きが、解放されましたわ。\nペコリーヌ姫のために皆様が準備していたのに、\nこのようなことになってしまうなんて……=Chương tiếp theo của câu chuyện đã được mở khóa rồi. Dù cho mọi người đã chuẩn bị tất thảy mọi thứ vì Công chúa Pecorine, vậy mà sự việc lại thành ra thế này...
+このまま終わるわけには参りません。\n騎士様……どうかわたくしたちに、力をお貸しください。\nペコリーヌ姫のためにも。=Chúng ta không thể để mọi chuyện kết thúc như thế này được. Ngài Hiệp sĩ... làm ơn, hãy cho chúng tôi mượn sức mạnh của ngài. Vì cả Công chúa Pecorine nữa.
+
+
+
+あんたこーゆーとこ律儀に見るタイプ？\nどーせ最後に勝つのはあたしだからいーけどさ。\nってワケで、メリッサちゃんのスキルを大公開☆=Ngươi là kiểu người sẽ đọc kỹ mấy thứ này à?\nDù sao thì cuối cùng người thắng vẫn là ta nên cũng chẳng sao.\nThế nên—ta sẽ công khai toàn bộ kỹ năng của Melissa-chan này☆
+メリッサさん。\nこの新しい力で、あなたを倒します！=Melissa.\nVới sức mạnh mới này, tôi sẽ đánh bại cô!
+……はー、うざ。\n女神サマ気取りかよ。\nてか、あんたまで覚醒するなんてね……=…Hầy, phiền phức thật đấy.\nĐịnh ra vẻ nữ thần đấy à?\nMà, ngay cả hạng như ngươi cũng thức tỉnh được cơ à...
+ま、正直ぃ？　分かってたけどね、あたしくらいになると。\nなんだかんだ、あんたも覚醒すんだろなーって。\nそれが“テンプレ”ってやつじゃん？=Mà, nói thật nhé? Tầm cỡ như ta thì cũng đoán trước được rồi.\nKiểu gì thì kiểu, ngươi cũng sẽ thức tỉnh thôi mà.\nĐó gọi là "môtíp cũ rích" phải không?
+でもさ、あたしにそんなクソ“テンプレ”は通用しない。\n覚醒を果たした末、結局無残にあんたが負ける……！\nそれがこの物語の結末だからさ♪=Nhưng mà, cái "môtíp" rác rưởi đó không có tác dụng với ta đâu.\nNgươi thức tỉnh cho cố vào, rồi cuối cùng cũng sẽ thua thảm hại thôi...!\nĐó mới là cái kết của câu chuyện này♪
+いいえ、悪いですけど負ける気がしません。\nだって──=Không, xin lỗi nhé nhưng tôi không cảm thấy mình sẽ thua đâu.\nBởi vì──
+ぐるるるる～=Gừ gừ gừ gừ~
+こんなにお腹がすいてますから！=Bụng tôi đang đói cồn cào đến mức này rồi đây!
+いや、意味分からんすぎだから！\n覚悟しなよ……ハチミツまみれにしてあげるわ！！=Này, chẳng hiểu ngươi đang nói cái quái gì luôn đấy!\nChuẩn bị tinh thần đi... ta sẽ cho ngươi ngập trong mật ong!!
+望むところです！　そのハチミツ、\n全部おいしく飲み干しちゃいますよっ☆=Đúng ý tôi rồi! Chỗ mật ong đó,\ntôi sẽ uống sạch sành sanh một cách ngon lành cho xem☆
+ペコリーヌのお腹=Dạ dày của Pecorine
+最後の一閃=Nhát chém cuối cùng
+ぐっ……ちょっと強すぎんだけど……！\nズルだズルだー！　メリッサちゃんがかわいそーだー！=Hự... ngươi mạnh quá mức rồi đấy nhé...!\nĂn gian! Ăn gian quá đi! Melissa-chan đáng thương quá đi mất!
+ズルなんかじゃありません。\nそして……メリッサさん、この国に手を出したのはあなたです。\nだから──=Không phải ăn gian đâu.\nVà... Melissa, người đã ra tay với đất nước này chính là cô.\nVì thế──
+この剣に想いを乗せて。\nあなたの野望を砕きます。=Gửi gắm mọi tâm tình vào thanh kiếm này.\nTôi sẽ đập tan tham vọng của cô.
+……ふん、甘さ、無くなってんじゃん。\nほんと、うざ。=...Hừ, vị ngọt mất tiêu luôn rồi nhỉ.\nThật là phiền phức.
+はいはい、あたしの負けよ。\nユース──\nじゃ、ねえか。=Rồi rồi, ta thua rồi.\nEust──\nÀ không, không phải.
+……ペコリーヌ。=...Pecorine.
+……さようなら、メリッサさん。\nまたいつか会えたなら、その時は信じてますね。\nあなたと一緒に食卓を囲める未来を。=...Tạm biệt, Melissa.\nNếu sau này có duyên gặp lại, tôi vẫn luôn tin tưởng.\nVề một tương lai mà chúng ta có thể cùng ngồi quây quần bên bàn ăn.
+獄蜂の小娘奴、性懲りもなく魔物を傀儡とするか。\n然れど今のわっちらは心機一転、英姿颯爽。\n小虫風情など、足止めにもなりんせん。=Con nhóc Ngục Ong kia, vẫn chứng nào tật nấy, định dùng ma thú làm con rối sao.\nNhưng chúng ta của hiện tại đã thay đổi hoàn toàn, hiên ngang lẫm liệt.\nHạng sâu bọ như ngươi thì chẳng thể cản bước chúng ta được đâu.
+ですが、畏れを忘れてはなりませんわ。\n敵は毒や火を使ってくるようです。\nしかも後ろには獄蜂が控えていますから……力を使いすぎるわけには。=Tuy nhiên, chúng ta không được phép mất cảnh giác.\nKẻ địch có vẻ sử dụng cả độc và lửa.\nHơn nữa phía sau còn có Ngục Ong đang chờ sẵn... nên chúng ta không thể tiêu tốn quá nhiều sức lực.
+ええ、ですが心配はいりません。\nわたしたちはもう、３人だけではないのですから。=Vâng, nhưng không cần lo lắng đâu.\nVì giờ đây, chúng ta không còn chỉ có 3 người nữa.
+はい、ここからはわたしも戦います！\n……もぐもぐもぐっ。=Vâng, từ đây em cũng sẽ chiến đấu!\n...Nhai nhai nhai.
+……この新しい力、解放します！=...Em sẽ giải phóng sức mạnh mới này!
+お腹も心もいっぱいの今のわたしは、\nどんな相手でも負けませんよー！\nはああーっ！=Khi cái bụng và trái tim đều đã được lấp đầy, em của hiện tại\nsẽ không thua bất kỳ đối thủ nào đâu!\nHàaa!
+ぐぬぬ～……好き放題やってくれたハニね……\nでもでも、このままじゃいかんハニっ！\nメリッサたまはあたしが守るんだから～っ！=Gừ gừ~... các ngươi dám làm càn thế hả hani...\nNhưng mà, cứ thế này thì không xong rồi hani!\nTa nhất định phải bảo vệ ngài Melissa cho bằng được~!
+ハニハニちゃんカチコチ肉壁モードっ！\nウフフ、ここは通さんハニよ～っ！=Chế độ Tường thịt cứng ngắc của HaniHani-chan!\nUfufu, còn lâu mới qua được đây nhé hani~!
+ハニハニちゃんごめんなさいっ！\nちょっとどいてもらいますよーっ！\nはああーっ！！=HaniHani-chan cho mình xin lỗi nhé!\nMình phải nhờ bạn tránh ra một chút đây!\nHàaa!!
+……ええっ！？　ピンピンしてますよ！\n本当にすっごく固いです……！=...Cái gì!? Cô ấy vẫn còn khỏe re kìa!\nĐúng là cực kỳ cứng luôn...!
+──フム。『カチコチ肉壁』、強ち法螺ではあらぬ模様。\nさすれば此度講ずる活計はただ一つ。\n……見て見ぬ振りと致しんしょう。=── Hừm. "Tường thịt cứng ngắc" xem ra không phải là nói khoác rồi.\nNếu đã vậy thì chỉ còn một kế sách duy nhất để thực hiện.\n...Chúng ta cứ giả vờ như không thấy đi.
+なるほど。あれは無視し、\n範囲を薙ぎ払えばハニハニの後ろにも牙は届く。\nという訳ですね。=Ra vậy. Cứ phớt lờ nó,\nvà nếu chúng ta quét sạch cả một vùng thì đòn tấn công sẽ chạm tới được kẻ phía sau HaniHani.\nÝ của cô là vậy đúng không.
+ギクゥっっ！！=Giật mình!!
+ユースティアナ……こいつ、\nこんなに痛めつけても倒れない……！\nこんなにボロボロで、フラフラなのに、それなのに……っ！！=Eustiana... cô ta,\ndù có bị đánh tơi tả đến mức này cũng không chịu gục ngã...!\nDù cả người đầy vết thương, đứng không vững, vậy mà vẫn có thể...!!
+倒れる姿が……想像できない……！=Ta... không tài nào tưởng tượng nổi cảnh cô ta ngã xuống...!
+えへへ……\nわたし一人だったらとっくに倒れてましたよ。=Hề hề...\nNếu chỉ có một mình thì em đã gục ngã từ lâu rồi.
+……わたし思い違いをしていました。\n王家の装備を使わなくても、\nわたしはみなさんから力をもらってたんですね。=...Em đã lầm rồi.\nDù không sử dụng trang bị hoàng gia,\nem vẫn luôn nhận được sức mạnh từ mọi người.
+“つながる想い”──\nその力を。=“Tâm tình kết nối”──\nChính là sức mạnh đó.
+……さあ、メリッサさん。\n決着をつけましょう。=...Nào, Melissa.\nHãy kết thúc mọi chuyện tại đây thôi.
+……望むところよ。\n最後に勝つのは、あたしだから……！=...Đúng ý ta rồi.\nVì người thắng cuối cùng sẽ là ta...!
+「「はああああー！！」」=「「Hàaaaaaaaa!!」」
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+完全復活（しすぎです）！=Hồi phục hoàn toàn (quá mức rồi đấy)!
+いやー、やっぱり打ち上げは楽しいですね～♪よーし今まで食べられなかった分、もりもり取り返しちゃいますよ～♪=Chà, đúng là tiệc mừng công lúc nào cũng vui hết sảy nhỉ~♪ Được rồi, tôi sẽ ăn thật nhiều để bù lại những lúc không được ăn cho xem~♪
+おっ、こちらがジオ・ゲヘナの伝説の料理！希少魔物の骨付き肉ですね！それではさっそく、いただきますっ……んん～～っ！=Ôi, đây chính là món ăn huyền thoại của Geo-Gehena! Thịt quái vật hiếm còn nguyên xương này! Vậy thì tôi xin phép thưởng thức đây... Ừm~~ ngon quá!
+す、すごいっ！　かぶりついた瞬間、ジュワッと溢れる肉汁とスパイスの香りがお口いっぱいに広がって、うま味が何層にも重なって押し寄せて来てますよ～♪=Th-thật tuyệt vời! Ngay khoảnh khắc cắn vào, nước thịt trào ra hòa quyện cùng hương vị gia vị lan tỏa khắp khoang miệng, vị ngon cứ thế dâng trào từng lớp từng lớp một luôn~♪
+すみませーん、これあと10人前追加でー☆=Xin lỗi cho tôi gọi thêm 10 suất này nữa nhé~☆
+お次はジオ・ニヴルヘルの海老のお造りですね！もぐっ……えええっ！？　なんですかこのプリプリの弾力は～！？まるで歯がトランポリンで飛び跳ねてるみたいです！=Tiếp theo là món tôm sống của Geo-Niflhel! Ngoạm... Ể?! Cái độ đàn hồi sần sật này là sao thế này~?! Cảm giác như răng tôi đang nhảy nhót trên tấm bạt lò xo ấy!
+それに舌の上でほどけるようなこの優しい味わい！まるで海をまるごと頬張ったような……ふわあ、最高です。こちらも10人前追加でー☆=Hơn nữa hương vị dịu dàng này còn tan chảy ngay trên đầu lưỡi nữa! Cứ như thể đang ôm trọn cả đại dương trong miệng vậy... Oà, tuyệt quá đi. Cho tôi thêm 10 suất này nữa luôn nhé~☆
+そしてこちらがジオ・テオゴニアのフルーツタルト☆ではいただきま～す……サクッ！=Và đây là bánh tart trái cây của Geo-Theogonia☆ Vậy tôi ăn đây... *Rộp*!
+ひゃああ～……！　一口食べた瞬間、世界が柔らかく溶けました♪まるで幸せそのものをかじったみたいで、一生手が止まりません～！すみませんこれもあと10人前お願いしま～す☆=Hyaaa~...! Ngay khoảnh khắc nếm thử một miếng, cả thế giới như tan chảy dịu dàng luôn♪ Cứ như là đang nếm trải chính sự hạnh phúc vậy, tay tôi không thể ngừng lại được rồi~! Xin lỗi cho tôi thêm 10 suất bánh này nữa nhé~☆
+あれ、みなさん手が止まってますね。ほらほら、早く食べないとなくなっちゃいますよ～？あ、骨付き肉のおかわりもありがとうございます！=Ơ kìa, sao mọi người lại ngừng tay hết rồi. Nào nào, không ăn nhanh là hết sạch đấy nhé~? A, cảm ơn vì đã lấy thêm thịt cho tôi nhé!
+「「「……完全復活しすぎでは……」」」=“““...Chẳng phải là hồi phục quá mức rồi sao...?”””
+えへへ。このおいしさ、やばいですね☆=Hì hì. Độ ngon này đúng là "hết sảy" luôn đó☆

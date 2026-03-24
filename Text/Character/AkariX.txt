@@ -1,0 +1,33 @@
+##Profile##
+【魔法】中衛で、聖夜の街に幸せを運ぶ双子の妹サンタ。自分の魔法攻撃力に応じて効果が上がる味方全体への攻撃力強化に加え、単体特大魔法攻撃で勝利の旋律を奏でる。=[Phép] Một Santa song sinh mang lại hạnh phúc cho thành phố vào ngày Giáng Sinh. Tăng M.ATK của đồng minh dựa trên M.ATK của cô ấy từ hàng giữa, cô ấy chơi một bản giao hưởng chiến thắng với phép đơn mục tiêu cực mạnh.
+
+アカリとジャズしましょ♪=Let's Play Sax With Akari♪
+アカリワンナイトスタンド=One Night Stand With Akari
+憧れのブラスゴールド=The Brass Gold of Dreams
+わがままサンタガール=Selfish Santa Girl
+
+##UB##
+スペシャルスイートギフト=Special Sweet Gift
+目の前の敵１キャラに魔法特大ダメージを与え、味方全体の魔法攻撃力を大アップさせる。魔法攻撃力の上昇量は自身の魔法攻撃力に応じて最大５倍までアップする。=Gây sát thương phép thuật khủng khiếp lên kẻ địch phía trước. Ngoài ra, tăng M.ATK của tất cả đồng minh tỷ lệ với tổng M.ATK của họ, tối đa 4 lần.
+r:"^敵単体に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương phép thuật lên kẻ địch.\n►Tăng M.ATK của tất cả đồng minh lên $2.
+
+##S1##
+ジンジャーブレッドフレンズ=Gingerbread Friends
+目の前の敵１キャラに魔法大ダメージを与え、味方全体の魔法攻撃力を中アップさせる。魔法攻撃力の上昇量は自身の魔法攻撃力に応じて最大５倍までアップする。=Gây sát thương phép thuật lớn lên kẻ địch phía trước. Ngoài ra, tăng M.ATK của tất cả đồng minh tỷ lệ với tổng M.ATK của họ, tối đa 4 lần.
+
+##S2##
+エンジェルオーナメント=Angel Ornament
+味方全体の魔法攻撃力と魔法クリティカルを特大アップさせ、自分のＴＰ上昇を小アップさせる。=Tăng mạnh M.ATK và Tỷ lệ CHÍ MẶC của tất cả đồng minh, và tăng nhẹ Hiệu quả Tăng TP của bản thân.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=Thời gian niệm chú: 0.45s.\n►Tăng M.ATK của tất cả đồng minh lên $1 trong 180s.\n►Tăng Tỷ lệ CHÍ MẶC của tất cả đồng minh lên $2 trong 180s.\n►Tăng Hiệu quả Tăng TP của bản thân lên $3 trong 180s.
+
+##EX##
+エンジェルスウィング=Angel's Wing
+エンジェルスウィング+=Angel's Wing+
+
+##S1+##
+ジンジャーブレッドフレンズ+=Gingerbread Friends+
+目の前の敵１キャラに魔法大ダメージを与え、味方全体の魔法攻撃力を中アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。魔法攻撃力と魔法攻撃クリティカル時のダメージの上昇量は自身の魔法攻撃力に応じて最大５倍までアップする。=Gây sát thương phép thuật khủng khiếp lên kẻ địch phía trước, tăng vừa phải M.ATK của tất cả đồng minh, và tăng nhẹ Sát thương CHÍ MẶC của họ. Mức tăng M.ATK và Sát thương CHÍ MẶC tăng theo M.ATK của bản thân, tối đa 5 lần.
+r:"^敵単体に(\d+)の魔法ダメージ味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法攻撃クリティカル時のダメージを1％アップ$"=►Gây $1 sát thương phép thuật lên kẻ địch.\n►Tăng M.ATK của tất cả đồng minh lên $2 (+0.06512×M.ATK) trong 12s.\n►Tăng Sát thương CHÍ MẶC của tất cả đồng minh lên 1% (+0.000025×M.ATK) trong 12s.
+
+##UE##
+とっておきのサクソフォーン=Special Saxophone

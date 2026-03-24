@@ -1,0 +1,29 @@
+##Profile##
+【物理】前衛で、同志と力を合わせ共に戦う夜廻り剣士。自分と物理攻撃力が最も高い味方１キャラの攻撃力を大幅に上昇させ、目にもとまらぬ剣技で不届き者を成敗する。=[Vật Lý] Một kiếm sĩ tuyến đầu chiến đấu cùng đồng đội. Cô ấy tăng cường P.ATK rất lớn cho bản thân và một đồng minh có P.ATK cao nhất, và đánh bại những kẻ xấu phản bội với những kỹ năng kiếm thuật chói lóa của mình.
+
+##UB##
+ミクマ流・夜廻連斬=Mikuma Style: Yomawari Rensan
+目の前の敵１キャラに物理大ダメージを与え、自分と自分以外の最も物理攻撃力が高い味方１キャラの物理攻撃力を大アップさせる。このスキルの物理攻撃力の上昇量は自分の物理攻撃力に応じて最大７倍までアップする。=Gây P.DMG lớn cho kẻ địch phía trước, tăng P.ATK của bản thân rất lớn, và tăng P.ATK rất lớn cho một đồng minh khác có P.ATK cao nhất. Kỹ năng này tăng P.ATK lên tới 7 lần tùy theo P.ATK của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分以外の最も物理攻撃力が高い味方単体の物理攻撃力を(\d+)アップ$"=►Gây $1 P.DMG cho kẻ địch.\n►Tăng P.ATK của bản thân $2 trong 18s.\n►Tăng P.ATK của một đồng minh khác có P.ATK cao nhất $3 trong 18s.
+
+##S1##
+ミクマ流剣術・捕狗=Mikuma Style: Dog-Catching
+自分の物理攻撃力を大アップさせ、目の前の敵１キャラに物理大ダメージを与える。さらに自分のＴＰを小回復させる。=Tăng P.ATK của bản thân rất lớn, và gây P.DMG lớn cho kẻ địch phía trước. Ngoài ra còn hồi phục một lượng TP nhỏ cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＴＰを100回復$"=Thời gian niệm: 0.465s.\n►Tăng P.ATK của bản thân $1 trong 12s.\n►Gây $2 P.DMG cho kẻ địch.\n►Hồi phục TP của bản thân 100.
+
+##S2##
+ミクマ流・流転=Mikuma Style: Flowing
+自分と自分以外の最も物理攻撃力が高い味方１キャラの物理攻撃力と物理クリティカルを特大アップさせる。=Tăng P.ATK và Tỷ lệ Chí Mạng P của bản thân rất lớn, và tăng P.ATK và Tỷ lệ Chí Mạng P rất lớn cho một đồng minh khác có P.ATK cao nhất.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを250アップ自分以外の最も物理攻撃力が高い味方単体の物理攻撃力を(\d+)アップ自分以外の最も物理攻撃力が高い味方単体の物理クリティカルを250アップ$"=Thời gian niệm: 0s.\n►Tăng P.ATK của bản thân $1 trong 180s.\n►Tăng Tỷ lệ Chí Mạng P của bản thân 250 trong 180s.\n►Tăng P.ATK của một đồng minh khác có P.ATK cao nhất $2 trong 180s.\n►Tăng Tỷ lệ Chí Mạng P của một đồng minh khác có P.ATK cao nhất 250 trong 180s.
+
+##EX##
+千変万化・警邏の型=Thousand Forms: Patrol
+千変万化・警邏の型+=Thousand Forms: Patrol+
+
+##S1+##
+ミクマ流剣術・捕狗+=Mikuma Style: Dog-Catching+
+自分の物理攻撃力を大アップさせ、目の前の敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。さらに自分のＴＰを中回復させる。=Tăng P.ATK của bản thân rất lớn, gây P.DMG rất lớn cho kẻ địch phía trước, và tăng một chút Sát thương Chí Mạng P mà kẻ địch phải nhận. Ngoài ra còn hồi phục một lượng TP vừa phải cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを5％アップ自分のＴＰを200回復$"=Thời gian niệm: 0.465s.\n►Tăng P.ATK của bản thân $1 trong 12s.\n►Gây $2 P.DMG cho kẻ địch.\n►Tăng Sát thương Chí Mạng P mà kẻ địch phải nhận 5% trong 12s.\n►Hồi phục TP của bản thân 200.
+
+##UE##
+ハロウィンポリスコス=Halloween Police Costume

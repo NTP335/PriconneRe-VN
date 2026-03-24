@@ -1,0 +1,18 @@
+初期BGM=Nhạc nền ban đầu
+このストーリーシーンをマイページに設定完了すると\nダウンロードしたデータはそのまま保存されます。=Khi cảnh phim này được đặt tại Nhà,\ndữ liệu tải xuống sẽ được lưu nguyên.
+マイページに設定しなかった場合や\n設定後にマイページからはずした場合は\n次にアプリを起動した際にデータが削除されます。=Nếu bạn không đặt tại Nhà, hoặc nếu bạn\ngỡ bỏ nó khỏi Trang Cá nhân sau khi đặt,\ndữ liệu sẽ bị xóa khi bạn khởi động lại ứng dụng.
+
+このムービーをマイページに設定完了すると\nダウンロードしたデータはそのまま保存されます。=Một khi bộ phim này đã được thiết lập trên Trang Cá nhân,\ndữ liệu tải xuống sẽ được lưu nguyên.
+
+[FFBB00,CE4F00]設定中[-]=[FFBB00, CE4F00]Đặt[-]
+[5f6fa1]アニメ内\n音声[-]=[5f6fa1]Âm thanh\nAnime[-]
+フレーム=Khung
+イラスト・ムービー=Phim minh họa
+エンディングを見ると確認できます。=Bạn có thể xem nó bằng cách xem phần kết.
+sr:"^ストーリーイベント「(.+)」の\nミッション「(.+)を1体倒そう（HARD限定）」を達成すると確認できます。$"="Bạn có thể chọn sau khi hoàn thành câu chuyện sự kiện của \n"$1"\nvà đánh bại $2 (Cấp Khó trở lên) ít nhất một lần."
+
+ストーリーイベント「コネクト・ウィズ・ブルー　少女が空に至るまで」の\nミニコンテンツ「ランドソル一期一会」の「人気者は遅れてやってくる」を閲覧すると確認できます。=Bạn có xem nội dung nhỏ\n"Người Nổi Tiếng Đến Muộn"\ntừ sự kiện câu chuyện\n"Kết Nối Với Màu Xanh~ Đến khi chạm trời"\ntrong "Landosol Bucket List."
+
+
+
+既に設定されています。=Nó đã được đặt rồi.

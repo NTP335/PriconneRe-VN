@@ -1,0 +1,41 @@
+##Profile##
+【魔法】後衛で、回復と攻撃をこなすドジっ娘メイド。周りの味方のＨＰを回復しつつ物理攻撃力を高めるスキルは、中衛・後衛の攻撃役と抜群の相性。=[Ma thuật] Một hầu gái vụng về, hồi phục và tấn công từ hậu phương. Kỹ năng hồi phục đồng minh xung quanh và tăng tấn công thể chất của họ phối hợp tốt với sự tấn công của trung và hậu phương.
+スズメ=Suzume
+お嬢さまのためにがんばるドジっ娘メイド=Một hầu gái vụng về luôn cố gắng hết sức cho chủ nhân
+
+##UB##
+ウィンドストリーム=Cơn Lốc Xoáy
+前方範囲内の敵すべてに魔法中ダメージを与え、さらに物理防御力を小～中ダウンさせる。=Gây ra sát thương Ma thuật (M.DMG) vừa phải cho tất cả kẻ địch trong tầm và giảm nhẹ đến vừa phải Phòng thủ Thể chất (P.DEF) của họ.
+r:"^範囲内の敵に(\d+)の魔法ダメージ成功時、物理防御力を(\d+)ダウン失敗時、物理防御力を(\d+)ダウン$"=►Gây $1 sát thương Ma thuật (M.DMG) cho kẻ địch trong tầm\n►Nếu thành công, giảm $2 Phòng thủ Thể chất (P.DEF) của kẻ địch trong tầm.\n►Nếu thất bại, giảm $3 Phòng thủ Thể chất (P.DEF) của kẻ địch.
+
+##S1##
+ウィンドブラスト=Gió Cuộn
+前方範囲内の敵すべてに魔法小ダメージを与える。=Gây sát thương Ma thuật (M.DMG) nhỏ cho tất cả kẻ địch trong tầm.
+
+##S2##
+メイドエール=Sự An ủi của Hầu Gái
+自分の周囲の味方すべてのＨＰを小回復させ、さらに物理攻撃力を小アップさせる。=Hồi HP và tăng nhẹ Tấn công Thể chất (P.ATK) cho tất cả đồng minh gần đó.
+r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ$"=►Hồi HP của đồng minh trong tầm bằng $1.\n►Tăng Tấn công Thể chất (P.ATK) của đồng minh trong tầm bằng $2.
+
+##EX##
+メイドスピリット=Sự Tận Tâm của Hầu Gái
+メイドスピリット+=Sự Tận Tâm của Hầu Gái+
+
+##UB+##
+スウィープサイクロン=Cơn Lốc Quét Sạch
+前方範囲内の敵すべてに魔法大ダメージを与え、さらに物理防御力と魔法防御力を大ダウンさせる。=Sát thương Ma thuật (M.DMG) lớn cho tất cả kẻ địch trong phạm vi phía trước, và cũng giảm Phòng thủ Thể chất (P.DEF) và Phòng thủ Ma thuật (M.DEF).
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương Ma thuật (M.DMG) cho kẻ địch trong tầm.\n►Giảm $2 Phòng thủ Thể chất (P.DEF) của kẻ địch trong tầm.\n►Giảm $3 Phòng thủ Ma thuật (M.DEF) của kẻ địch trong tầm.
+
+##S1+##
+ウィンドブラスト+=Gió Cuộn+
+前方範囲内の敵すべてに魔法中ダメージを与える。さらに物理防御力と魔法防御力を小ダウンさせる。=Gây sát thương Ma thuật (M.DMG) vừa phải cho tất cả kẻ địch trong tầm và giảm nhẹ Phòng thủ Thể chất (P.DEF) cùng Phòng thủ Ma thuật (M.DEF) của họ.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương Ma thuật (M.DMG) cho kẻ địch trong tầm.\n►Giảm $2 Phòng thủ Thể chất (P.DEF) của kẻ địch trong tầm.\n►Giảm $3 Phòng thủ Ma thuật (M.DEF) của kẻ địch trong tầm.
+
+##S2+##
+メイドエール+=Sự An ủi của Hầu Gái+
+自分の周囲の味方すべてのＨＰを小回復させ、物理攻撃力と物理クリティカルを特大アップさせる。さらに自分に【ティーポット】を付与し、魔法攻撃力を特大アップさせ、ＴＰを大回復する。【ティーポット】が付与されている間、スウィープサイクロンとウィンドブラスト+で与えるダメージと物理防御力、魔法防御力ダウンの効果量が上昇する。=Hồi nhẹ HP của đồng minh trong tầm và tăng mạnh Tấn công Thể chất (P.ATK) cùng Tỷ lệ Chí mạng Thể chất (P.CRIT Rate). Đồng thời nhận [Ấm Trà] (Teapot), tăng mạnh Tấn công Ma thuật (M.ATK) của bản thân và hồi nhiều TP. Khi có [Ấm Trà], tăng sát thương Ma thuật (M.DMG) gây ra và giảm Phòng thủ Thể chất/Phòng thủ Ma thuật (P/M.DEF) cho UB và S1.
+r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを200アップ自分にティーポットを付与する自分の魔法攻撃力を(\d+)アップ自分のＴＰを300回復$"=►Hồi HP của đồng minh trong phạm vi 500 bằng $1.\n►Tăng Tấn công Thể chất (P.ATK) của đồng minh trong phạm vi 500 bằng $2 trong 18s.\n►Tăng Tỷ lệ Chí mạng Thể chất (P.CRIT Rate) của đồng minh trong phạm vi 500 bằng 200 trong 18s.\n►Nhận [Ấm Trà] (Teapot).\n►Tăng Tấn công Ma thuật (M.ATK) của bản thân bằng $3 trong 18s.\n►Hồi TP của bản thân bằng 300.
+
+##UE##
+ロイヤルメイドドレス=Trang phục Hầu Gái Hoàng gia
+ロイヤルメイドドロップ=Đồ Rơi Hầu Gái Hoàng gia

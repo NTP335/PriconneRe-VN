@@ -1,0 +1,32 @@
+##Profile##
+【物理】前衛で、戦場を跳ね回るラビット姿の誓約女君。物理攻撃を全て回避するスキルと攻撃力の強化で敵陣に単身特攻をかけ、ＵＢの範囲攻撃で敵を内から薙ぎ倒す。=[Vật Lý] Regina Geas trong trang phục thỏ, nhảy tung tăng ở tuyến đầu. Cô có thể dùng kỹ năng để tránh mọi đòn tấn công vật lý trong khi tự làm mình mạnh hơn, để tung ra một đòn kết liễu khủng khiếp lên kẻ thù và quét sạch đám còn lại với UB diện rộng của mình.
+
+狂乱の街角インタビュー=Phỏng Vấn Phố Cổ Điên Cuồng
+ほっぷすてっぷ大乱闘☆=Ẩu Đả Bước Nhảy☆
+ありのままの獣=Quái Thú Vô Tận
+誓約女君にお仕置きを=Hình Phạt Dành Cho Regina Geas
+
+##UB##
+ブルートゥスアヴァロン=Avalon Brutus
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与える。この攻撃は必ず命中し、１ヒットは必ずクリティカルする。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Đòn tấn công này luôn đánh trúng, và một đòn trong đó luôn là đòn chí mạng.
+
+##S1##
+ラピッドラビット=Thỏ Nhanh
+目の前の敵１キャラに物理中ダメージを与え大きく吹き飛ばす。さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。この攻撃は必ずクリティカルする。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước, đẩy chúng đi. Gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Đòn tấn công này luôn chí mạng.
+
+##S2##
+エレベーション=Đi Lên
+自分を一定時間全ての物理攻撃を回避する状態にする。さらに物理攻撃力を大アップさせる。=Dodge toàn bộ tấn công thuộc hệ Vật lý trong một khoảng thời gian cố định. Đồng thời tăng mạnh Tấn công Vật lý (P.ATK) của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ一定時間全ての物理攻撃を回避する$"=Thời gian niệm: 0.46s\n►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Dodge toàn bộ tấn công thuộc hệ Vật lý trong 6s.
+
+##EX##
+グリーディカオス=Tham Lam Hỗn Loạn
+グリーディカオス+=Tham Lam Hỗn Loạn+
+
+##S1+##
+ラピッドラビット+=Thỏ Siêu Tốc+
+目の前の敵１キャラに物理大ダメージを与え大きく吹き飛ばす。さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。この攻撃は必ず命中し、クリティカルする。さらに自分のＴＰを小回復する。=Gây sát thương vật lý (P.DMG) khổng lồ lên kẻ địch phía trước, đẩy lùi chúng. Ngoài ra, còn gây sát thương vật lý khổng lồ lên kẻ địch trong phạm vi. Đòn tấn công này luôn trúng và luôn là chí mạng. Đồng thời, hồi một ít TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ自分のＴＰを60回復$"=Thời gian niệm: 0.525s\n►Gây $1 P.DMG lên một kẻ địch.\n►Đẩy lùi một kẻ địch 300 đơn vị.\n►Gây $2 P.DMG lên kẻ địch trong phạm vi 450.\n►Hồi TP cho bản thân 60.
+
+##UE##
+ワイルドバニーアーマー=Giáp Thỏ Hoang Dã

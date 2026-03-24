@@ -1,0 +1,115 @@
+r:"^([0-9/／]+)人$"=$1
+30／30人
+---Menu---
+ウィークリー=Hàng Tuần
+EXクエスト=Nhiệm Vụ EX
+クリアした階=Tầng Đã Vượt Qua
+ルナの塔=Tháp Luna
+r:"^(\d+)階$"=F$1
+解放数=Đã Mở Khóa
+クエスト達成数=Nhiệm Vụ
+IDコピー=Sao Chép ID
+自己紹介=Giới Thiệu
+所属クラン=Bang Hội
+sr:"^(\d{4})年(\d+月)合計スコア$"=Tổng điểm $2, $1
+sr:"^(\d{4})年(\d+月)$"=$2, $1
+プレイヤー名を変更しました。=Tên người chơi đã được thay đổi.
+
+全キャラ戦力=Tổng Sức Mạnh
+プロフ作成=Hồ Sơ
+進行状況=Tiến Độ
+作成日=Bắt đầu từ
+キャラ変更=Thay Đổi
+ランキング=Xếp Hạng
+
+お気に入り設定=Đặt Yêu Thích
+お気に入りキャラ=Nhân Vật Yêu Thích
+差を表示する=Hiển Thị
+sr:"^(\d+月)(\d{1,2})日$"=$1 $2
+---Profile Card---
+保存=Lưu
+称号変更=Thay đổi danh hiệu
+キャラ表示切替=Thay Đổi Nhân Vật
+カードデザイン=Thiết Kế Thẻ
+デザイン変更=Thay Đổi
+フレームデザイン=Thiết Kế Khung
+コメント=Bình Luận
+表示選択=Lựa chọn hiển thị
+基本デザイン=Mẫu
+元に戻す=Hoàn Tác
+Twitter投稿=Đăng lên Twitter
+画像保存=Lưu
+プロフ編集=Chỉnh Sửa
+クランプロフ=Hồ Sơ Bang Hội
+到達階=Hiện Tại
+マイプロフカード=Thẻ Hồ Sơ Của Tôi
+ルナの塔階数=Tầng Tháp Luna
+プリンセスアリーナ\n順位=Xếp Hạng Đấu Trường Công Chúa
+バトルアリーナ順位=Xếp Hạng Đấu Trường Chiến Đấu
+クランバトル\n合計スコア=Tổng Điểm Chiến Trận Bang Hội
+ステータス表示=Hiển Thị
+※全角75文字以内(1行25文字)=※Tối đa 75 ký tự (25 ký tự/dòng)
+※全角150文字以内(1行30文字)=※Tối đa 150 ký tự (30 ký tự/dòng)
+※1文字以上60文字以内=※Từ 1 đến 60 ký tự
+アプリアイコン=Biểu tượng ứng dụng
+現在の設定=Hiện Tại
+スマートフォンのホーム画面に表示するアプリアイコンを変更\nすることができます。\n※変更が反映されない場合は、端末の再起動をお試しください。=Bạn có thể thay đổi biểu tượng ứng dụng hiển thị trên màn hình chính điện thoại.\n※Nếu thay đổi không có hiệu lực, hãy thử khởi động lại thiết bị.
+コメントを入力してください。=Vui lòng nhập bình luận.
+コメント編集=Chỉnh Sửa Bình Luận
+[3C404E]編集した内容を保存しました。[-]=[3C404E]Nội dung đã chỉnh sửa đã được lưu.[-]
+[3C404E]編集した内容を破棄し、前回保存したときの状態に戻りますがよろしいですか？[-]=[3C404E]Hủy nội dung đã chỉnh sửa và trở về trạng thái khi được lưu lần cuối.\nBạn có chắc không?[-]
+前回保存したときの状態に戻りました。=Đã trở về trạng thái khi được lưu lần cuối.
+r:"^※全角(\d+)文字以内$"=※Tối đa $1 ký tự
+[3C404E]編集した内容を保存していません。\nこのまま画面遷移してよろしいですか？[-]=[3C404E]Bạn chưa lưu các chỉnh sửa.\nBạn có chắc muốn thay đổi màn hình như hiện tại không?[-]
+[3C404E]画像の保存に失敗しました。\n保存領域が確保されているかご確認ください。[-]=[3C404E]Lưu hình ảnh thất bại.\nHãy kiểm tra không gian lưu trữ đủ.[-]
+画像保存完了=Lưu Trữ Hình Ảnh Hoàn Tất
+[3C404E]画像を保存しました。[-]=[3C404E]Hình ảnh đã được lưu.[-]
+プレイヤーIDをコピーしました。=Đã sao chép ID người chơi.
+友達を招待=Mời bạn bè
+所属なし=Không có
+クランに所属していません。=Bạn không thuộc về Clan nào.
+
+---Clan Profile Card---
+クランランキング=Xếp hạng Clan
+マイプロフ=Hồ sơ của tôi
+募集要項=Tiểu sử
+メンバー数=Thành viên
+未参加=Không có
+クランプロフカード=Thẻ hồ sơ Clan
+平均プレイヤーLv=Cấp người chơi trung bình
+個人=Cá nhân
+過去の戦績=Kết quả trước đây
+個人合計スコア=Tổng điểm cá nhân
+クラン合計スコア=Tổng điểm Clan
+全クランランキング=Xếp hạng tổng
+クラン内ランキング=Xếp hạng trong Clan
+クランバトル戦績=Kết quả Clan Battle
+キャラ一覧=Nhân vật
+選択中のキャラ=Nhân vật đã chọn
+
+生放送のお知らせ=Tin tức phát sóng trực tiếp
+配信ページへ=Đến trang phát sóng
+クランメンバー募集中！一緒にプリコネ楽しもう！=Chúng tôi đang tìm thành viên Clan!
+
+---Title---
+
+---Name& Self Introduce---
+※1文字以上10文字以内=※Từ 1 đến 10 ký tự
+プレイヤー名を入力してください。=Vui lòng nhập Tên Người chơi.
+[FF7C4E,D62146]個人情報や、公序良俗に反する内容は\n入力しないでください。[-]=[FF7C4E,D62146]Vui lòng không bao gồm bất kỳ thông tin cá nhân và nội dung khiếm nhã.\n[-]
+プレイヤー名編集=Chỉnh sửa Tên Người chơi
+
+自己紹介を入力してください。=Vui lòng nhập Giới thiệu bản thân..
+自己紹介編集=Chỉnh sửa Giới thiệu bản thân.
+自己紹介文を変更しました。=Giới thiệu bản thân đã được thay đổi.
+---Not sure---
+到着階=Tầng đã đến
+
+---NPC---
+オリジナルのプロフカード画像を作成して、画像付きでTwitterに投稿することができます。\n素敵なお仲間と出会えるといいですね。=Bạn có thể tạo hình ảnh thẻ hồ sơ của riêng mình và đăng lên Twitter cùng với hình ảnh.\nHy vọng chúng ta có thể gặp được những người bạn tốt.
+所属しているクランの情報を元にクランプロフカードを作成できます。\n画像付きでTwitterに投稿して、クランメンバーの募集にお役立てくださいませ。=Bạn có thể tạo thẻ hồ sơ Clan dựa trên thông tin của Clan mà bạn thuộc về. Vui lòng đăng lên Twitter cùng với hình ảnh để giúp tuyển thành viên Clan.
+
+進撃の怠け=Tiến lên chậm
+Xに投稿=Đăng lên X
+オリジナルのプロフカード画像を作成して、画像付きでXに投稿することができます。素敵なお仲間と出会えるといいですね。=Bạn có thể tạo hình ảnh thẻ hồ sơ của riêng mình và đăng lên X (Twitter) cùng với hình ảnh.\nHy vọng chúng ta có thể gặp được những người bạn tốt.
+所属しているクランの情報を元にクランプロフカードを作成できます。画像付きでXに投稿して、クランメンバーの募集にお役立てくださいませ。=Bạn có thể tạo thẻ hồ sơ Clan dựa trên thông tin của Clan mà bạn thuộc về. Vui lòng đăng lên X (Twitter) cùng với hình ảnh để giúp tuyển thành viên Clan.

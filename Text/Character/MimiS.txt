@@ -1,0 +1,29 @@
+##Profile##
+【物理】中衛で巨大バルーンと跳ね回る夏色うさぎっこ。ＵＢやスキルで全てのマルチターゲットに追加ダメージを与え、自己強化と防御力ダウンで強敵のブレイクを狙う。=[Vật Lý] Một thỏ hè bật tung với quả bóng khổng lồ ở tuyến giữa. Gây sát thương lên tất cả mục tiêu đa mục tiêu với UB và kỹ năng, và nhắm vào việc hạ gục kẻ thù mạnh với buff bản thân và giảm phòng thủ.
+
+##UB##
+うさぎさんサマーインパクト=Đập Cực Lực Của Thỏ Hè
+自分の物理攻撃力を特大アップし、敵全体に物理小ダメージを与える。さらに、マルチターゲットのターゲットすべてに物理大ダメージを与え、物理防御力を中ダウンさせる。=Tăng cường cực lớn Tấn Công Vật Lý của bản thân và gây sát thương Vật Lý nhỏ lên tất cả kẻ thù. Ngoài ra, gây sát thương Vật Lý lớn lên tất cả mục tiêu của kẻ thù đa mục tiêu và giảm Phòng Thủ Vật Lý của chúng một lượng vừa.
+r:"^自分の物理攻撃力を(\d+)アップ敵全体に(\d+)の物理ダメージ対象の敵のターゲットに(\d+)の物理ダメージ対象の敵のターゲットの物理防御力を(\d+)ダウン$"=►Tăng Tấn Công Vật Lý của bản thân lên $1 trong 18s.\n►Gây $2 sát thương Vật Lý lên tất cả kẻ thù.\n►Gây $3 sát thương Vật Lý lên tất cả mục tiêu của kẻ thù đa mục tiêu.\n►Giảm Phòng Thủ Vật Lý của tất cả mục tiêu của kẻ thù đa mục tiêu đi $4 trong 18s.
+
+##S1##
+ぴょんぴょんサマー=Nhảy Nhót Mùa Hè
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを中回復する。目の前の敵がマルチターゲットの場合、ターゲットすべてに物理中ダメージを与える。=Gây sát thương Vật Lý vừa lên kẻ thù phía trước và phục hồi TP của bản thân một lượng vừa. Nếu kẻ thù phía trước là đa mục tiêu, gây sát thương Vật Lý vừa lên tất cả mục tiêu của nó.
+r:"^敵単体に(\d+)の物理ダメージ対象の敵のターゲットに(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=Thời gian niệm: 0.59s\n►Phục hồi TP của bản thân thêm $3.\n►Gây $1 sát thương Vật Lý lên một kẻ thù.\n\nNếu kẻ thù là đa mục tiêu:\n►Gây $2 sát thương Vật Lý lên tất cả mục tiêu của nó.
+
+##S2##
+うさぎさんサマーアタック=Đập Thỏ Hè
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、物理防御力を小ダウンさせる。目の前の敵がマルチターゲットの場合、自分の物理攻撃力と物理クリティカルを中アップする。=Gây sát thương Vật Lý lên kẻ thù trong phạm vi và giảm nhẹ Phòng Thủ Vật Lý của chúng. Nếu kẻ thù phía trước là đa mục tiêu, tăng cường vừa Tấn Công Vật Lý và Tỷ Lệ Chí Mạng Vật Lý của bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン対象がマルチターゲットの場合、自分の物理攻撃力を(\d+)アップ対象がマルチターゲットの場合、自分の物理クリティカルを(\d+)アップ$"=Thời gian niệm: 0.59s\n►Gây $1 sát thương Vật Lý lên kẻ thù trong phạm vi.\n►Giảm Phòng Thủ Vật Lý của kẻ thù trong phạm vi đi $2 trong 18s.\nNếu kẻ thù là đa mục tiêu:\n►Tăng Tấn Công Vật Lý của bản thân lên $3 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của bản thân lên $4 trong 18s.
+
+##EX##
+夏の海もうさぎさんパワー=Sức Mạnh Thỏ Biển Mùa Hè
+夏の海もうさぎさんパワー+=Sức Mạnh Thỏ Biển Mùa Hè+
+
+##S1+##
+ぴょんぴょんサマー+=Nhảy Nhót Mùa Hè+
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを大回復する。目の前の敵がマルチターゲットの場合、ターゲットすべてに物理中ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương Vật Lý vừa lên kẻ thù phía trước và phục hồi TP của bản thân một lượng vừa. Nếu kẻ thù phía trước là đa mục tiêu, gây sát thương Vật Lý vừa lên tất cả mục tiêu của nó, giảm cực lớn Tấn Công Vật Lý và Tấn Công Ma Thuật của chúng, và tăng nhẹ Sát Thương Chí Mạng Vật Lý mà chúng phải nhận.
+r:"^敵単体に(\d+)の物理ダメージ対象の敵のターゲットに(\d+)の物理ダメージ対象の敵のターゲットがクリティカルを受けた際のダメージを13％アップ自分のＴＰを(\d+)回復対象の敵がマルチターゲットの場合、物理攻撃力を(\d+)ダウン対象の敵がマルチターゲットの場合、魔法攻撃力を(\d+)ダウン$"=Thời gian niệm: 0.59s\n►Phục hồi TP của bản thân thêm $3.\n►Gây $1 sát thương Vật Lý lên một kẻ thù.\nNếu kẻ thù là đa mục tiêu:\n►Gây $2 sát thương Vật Lý lên tất cả mục tiêu của nó.\n►Tăng Sát Thương Chí Mạng Vật Lý mà chúng phải nhận lên 13% trong 12s.\n►Giảm Tấn Công Vật Lý/Ma Thuật của chúng đi $4 trong 12s.
+
+##UE##
+うさぎさんスイムウェア=Đồ Bơi Thỏ

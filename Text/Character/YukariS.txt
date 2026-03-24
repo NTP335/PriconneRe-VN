@@ -1,0 +1,43 @@
+##Profile##
+【物理】前衛で、夏の麦しゅわを嗜むビーチの元聖騎士。敵単体にダメージを与えながら、周囲の味方への魔法無効バリア付与と魔防アップで守りを固めて勝利の波に乗る。=[Vật lý] Một cựu paladin uống nước lúa mạch có ga trên tuyến trước mùa hè. Cô gây sát thương mục tiêu đơn lẻ, và bảo vệ đồng minh gần đó với rào chống phép và tăng phòng thủ ma thuật cho họ. Với những kỹ năng này, cô cưỡi làn sóng chiến thắng!
+
+##UB##
+サント・ミ・チェラーダ=Saint Michelada
+自分の物理攻撃力を大アップし、目の前の敵１キャラに物理特大ダメージを与える。さらに自分のＨＰを中回復し、自分を中心とした範囲内の味方すべてに魔法無効バリアを展開する。=Tăng mạnh Tấn Công Vật Lý của bản thân và gây sát thương Vật Lý lớn lên kẻ địch phía trước. Ngoài ra, hồi một lượng HP vừa phải và tạo Khiên cho đồng minh trong phạm vi, khiên này có thể chống lại Sát Thương Ma Thuật.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng Tấn Công Vật Lý của bản thân lên $1 trong 18s.\n►Gây $1 sát thương Vật Lý lên kẻ địch.\n►Hồi HP của bản thân lên $3.\n►Tạo Khiên cho đồng minh trong phạm vi 350, chống lại $4 Sát Thương Ma Thuật trong 18s.
+
+##S1##
+サマーディライト=Niềm Vui Mùa Hè
+自分を中心とした範囲内の味方すべての魔法防御力を中アップし、自分のＴＰを小回復する。=Tăng nhẹ Kháng Ma Thuật của đồng minh trong phạm vi và hồi một chút TP cho bản thân.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを100回復$"=►Tăng Kháng Ma Thuật của đồng minh trong phạm vi 350 lên $1 trong 12s.\n►Hồi TP của bản thân lên 100.
+
+##S2##
+シャンディガフ=Ly Gaff Mùa Hè
+目の前の敵１キャラに物理大ダメージを与え、自分を中心とした範囲内の味方すべての物理攻撃力を大アップさせる。=Gây sát thương Vật Lý lớn lên kẻ địch phía trước và tăng mạnh Tấn Công Vật Lý của đồng minh trong phạm vi.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương Vật Lý lên kẻ địch.\n►Tăng Tấn Công Vật Lý của đồng minh trong phạm vi 350 lên $2 trong 12s.
+
+##EX##
+サマー・パナシェ=Phong Cách Mùa Hè
+サマー・パナシェ+=Phong Cách Mùa Hè+
+
+##S1+##
+サマーディライト+=Niềm Vui Mùa Hè+
+自分を中心とした範囲内の味方すべての物理攻撃力を大アップ、魔法防御力を中アップさせ、目の前の敵１キャラの魔法攻撃力を特大ダウンさせる。さらに自分のＴＰを中回復する。=Tăng mạnh Tấn Công Vật Lý của đồng minh trong phạm vi và tăng vừa phải Kháng Ma Thuật của họ. Giảm mạnh Sát Thương Ma Thuật của kẻ địch và hồi một lượng TP vừa phải cho bản thân.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ敵単体の魔法攻撃力を(\d+)ダウン自分のＴＰを200回復$"=►Tăng Tấn Công Vật Lý của đồng minh trong phạm vi 350 lên $1 trong 12s.\n►Tăng Kháng Ma Thuật của đồng minh trong phạm vi 350 lên $2 trong 12s.\n►Giảm Sát Thương Ma Thuật của kẻ địch lên $3 trong 12s.\n►Hồi TP của bản thân lên 200.
+
+##UE##
+夏の聖騎士ジョッキ=Thánh Đồ Kỵ Sĩ Mùa Hè
+
+##Comments##
+ふう、暑いわね…\n熱中症には気を付けないと\n喉がかわいたらすぐに言ってね？\n麦しゅわ以外も用意してるわよ♪=*Thở dài* Nóng quá... Nếu khát, cậu phải nói ngay, đừng để bị say nắng, được chứ? Em có đủ thứ uống tốt hơn là chỉ có bia lúa mạch♪
+夏の海辺の仕事なら水着が効率的\nってみんなが言ってたけど\nもしかして…うちのギルドだけの\n常識だったんじゃ…=Mọi người nói đồ bơi hiệu quả hơn khi làm việc trên bãi biển vào mùa hè, nhưng có lẽ... có lẽ đó chỉ là hiểu biết chung trong guild của mình thôi...
+聖騎士っぽい水着、って\n注文したんだけど…\nどの辺がそれっぽいのかしら？\n…もしかして、色？=Em đặt một bộ đồ bơi theo phong cách Thánh Đồ Kỵ Sĩ... Em tự hỏi phần nào trông giống vậy? Có phải là màu sắc không?
+キミに見られるなら、\nもう少しおとなしいデザインの\n水着がよかったかも…\nう、ううん…なんでもないわ=Nếu cậu định nhìn thấy nó, em có lẽ thích một thiết kế kín đáo hơn một chút... K-Không... Không có gì đâu.
+この水着、どう…かな？\n少しは夏っぽい格好してたほうが\nキミも涼しく感じるかな、なんて\n思ったんだけど…=Cậu thấy bộ đồ bơi này thế nào? Em nghĩ mặc thứ gì đó mùa hè hơn sẽ mát hơn, nhưng...
+せっかくの海なんだもの\nタマキさんとミフユさんに\n負けないくらい\n楽しんじゃいましょ♪=Vì đang ở bãi biển, chúng ta cùng vui vẻ đến mức không thua Tamaki-san và Mifuyu-san♪
+暑いときはすっきりした\nセゾン系もいいけど…\n私はボディがしっかりしてる\nアベイ系が好きだわ♪=Trời nóng thì đồ uống Saizon giải nhiệt tốt, nhưng... Em cũng thích đồ uống Abbay có kết cấu đặc sánh♪
+普段忙しければ忙しいほど\n遊べるときにしっかりと遊んで\n日常とメリハリをつけるの\n社会人からのアドバイスよ♪=Càng bận rộn, càng nên chơi thỏa thích khi có thể để giữ cân bằng cuộc sống hàng ngày. Đó là lời khuyên từ một người đi làm đã có tuổi♪
+青い海！　白い泡！\nそして、キミ…！\n必要なものが全部あるんだもの\nふふっ、ここはまるで天国ね=Biển xanh! Bọt biển trắng! Và cậu...! Em có tất cả những gì cần thiết! Hehehe, giống như thiên đường vậy.
+せっかくのバカンスが\nキミと二人きりじゃないのは\nちょっと残念だけど…\nそれはまた今度、ね♪=Hơi tiếc là kỳ nghỉ của em không chỉ là một mình với cậu, nhưng... Em sẽ giữ lại chuyện đó cho lần sau♪
+お誕生日おめでとう♪\n急いで来ちゃったから\nこんな格好でごめんね？\n少しでも早くお祝いしたかったの=Chúc Mừng Sinh Nhật♪ Em vội vàng tới, xin lỗi nếu mặc thế này, được chứ? Em muốn chúc mừng càng sớm càng tốt.
+ハッピーバースデー、キーミッ♪\nさあ、めでたい日なんだから\n盛大にお祝いしなくちゃ\nはい、カンパーイ♪=Chúc Mừng Sinh Nhật, người yêu dầu♪ Nào, hôm nay là một ngày hạnh phúc, chúng ta phải ăn mừng hết sức mình! Lên nào! Cạn ly!

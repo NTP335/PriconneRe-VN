@@ -1,0 +1,112 @@
+ナレーター=Người dẫn chuyện
+ゴンザレス=Gonzalez
+集まった猫たち=The Gathered Cats
+タマキは「伝説の猫」を探すために探検隊を結成！　{playername}や猫たちとともに高山へ向かった……と言うのはタマキの建前で、二人が出会った場所で、改まったお礼の言葉を言うのが目的だった。=Tamaki thành lập một đội thám hiểm để tìm kiếm 'con mèo huyền thoại'! Cô ấy tiến về núi cùng {playername} và những con mèo... Đó chỉ là cái cớ của Tamaki, và mục đích thực sự là để cảm ơn họ đúng mức tại nơi họ đã gặp gỡ.
+伝説の猫、発見なるか！？=Họ có tìm thấy con mèo huyền thoại không!?
+まだ見ぬ秘境に未確認猫、\n「ビッグキャット」の目撃情報を聞いたタマキ探検隊は、\n一路ジャングルの奥地へと飛んだ！=Vùng hoang dã chưa từng được khám phá, những con mèo chưa xác định, và các trận thị gặp "Bigcats"... Đội thám hiểm của Tamaki bay vào sâu trong rừng!
+待ち受ける岩！　崖！　そして猫よけビン！\n果たして、一行は無事に帰ってこられるのか！=Đá! Vách đá! Và chai thuốc trừ mèo! Họ có thể trở về an toàn không!
+んー、{playername}、なんなのにゃ？\n今のナレーションに無限にツッコミたいみたいな顔してるにゃ。=Nn~, {playername}, sao vậy~nya? Trông cậu muốn phản bác lời dẫn chuyện đó mãi không thôi~nya.
+そもそも来てるのはジャングルじゃない。=Trước tiên, đây không phải là rừng nhiệt đới.
+いつの間に探検隊なんて結成されたの？=Đội thám hiểm được thành lập khi nào vậy?
+むむっ、{playername}は、細かいことを気にするにゃあ。\nこういうのは、楽しんだ人が勝ちなのにゃ。=Mumu, {playername}, cậu chánh lắm~nya. Loại chuyện này, người thích thì thắng~nya.
+
+凝り固まった考えは、いけないにゃ。=Cậu không nên suy nghĩ quá sâu về nó~nya.
+それより「ビッグキャット」は身長２メートル、\n体重500キロ、二足歩行で歩くと言われているにゃ。\n何があるかわからないからしっかりついてくるにゃ！=Hơn nữa, "Bigcat" được cho là cao 2 mét, nặng 500 kilôgam, và đi bằng hai chân~nya. Không biết chuyện gì có thể xảy ra, nên hãy theo sát em~nya!
+みんな、何か不審なものを見つけたら、\nすぐに教える──=Mọi người, nếu phát hiện thứ gì đáng ngờ, hãy báo ngay cho em──
+ってあれは……！=Khoan, cái gì vậy...!
+大変にゃ、目の前に大岩が転がってくるにゃ！=Ối không~nya, một tảng đá lớn đang lăn về phía tụi mình~nya!
+きゃー！\n{playername}、危ないにゃー！　ひしっ！=Kyaa! {playername}, cẩn thận~nya! Hish!
+ふう……危ないところだったにゃ。=Phew... suýt nữa~nya.
+今の岩……発泡スチロールじゃ……=Tảng đá đó... Là xốp...
+な、なんのことかにゃ？\nあたし、知らないにゃ。=C-cậu đang nói gì vậy~nya? Em không biết gì hết~nya.
+べ、別に猫に指示して転がさせたりなんてしてないにゃ。\nきっとやらせなんかじゃないにゃ。=E-em không bảo mèo lăn nó hay gì đâu~nya. Chắc chắn không phải bẫy~nya.
+さ、さあ！\n早く奥に進むのにゃ！=C-coi nào! Hãy đi sâu hơn vào rừng~nya!
+かくして生命の危険と戦いながら、\nタマキ探検隊はジャングルの奥地へと進んだ。=Và thế là, chiến đấu vì mạng sống, đội thám hiểm của Tamaki tiến sâu vào lòng rừng.
+だから、そのナレーションは何……=Lại đây, lời dẫn này là sao vậy...
+探検隊に、ナレーションはつきものにゃ！\nそんなことより、先に進むのにゃ！=Lời dẫn là cần thiết cho một đội thám hiểm~nya! Quên đi mà tiến lên~nya!
+にゃーーーーっ！\nこの足跡を見るにゃーー！=Nya----! Nhìn những dấu chân này~nya----!
+この足跡、軽く見ても１メートル以上はあるにゃ！=Những dấu chân này dễ sàng hơn 1 mét~nya!
+通常の猫ではありえない足跡……\nこれこそ、ビッグキャットが存在する確実な証拠にゃ！=Dấu chân mà một con mèo thường không thể có... đây là bằng chứng chắc chắn rằng Bigcat tồn tại~nya!
+向こうで猫の群れが、足跡を作ってる。=Đằng kia, một nhóm mèo đang in dấu chân.
+あ、こら、何をしてるにゃ！\n今日までにちゃんと仕事を終わらせておくように言ったにゃ！\nそれじゃバイト代のまたたびはあげないにゃ！=Này, các người đang làm gì~nya! Tao đã bảo phải xong việc hôm nay~nya! Không xong thì tao không trả lương mè cốt~nya!
+にゃ、にゃー！=Nya,~nyaa!
+あ、こら逃げるにゃ！=Này, đừng chạy trốn~nya!
+にゃ……にゃっ！？=Nya...~nyaa!?
+にゃーーーっ！　ゴンザレス！=Nya----! Gonzalez!
+探検隊切り込み隊長のゴンザレスが、\n猫よけビンを恐れるあまり、\n崖に半分だけ足を踏み外してしまったにゃ！=Gonzalez, thủ lĩnh đội thám hiểm, sợ chai lọ đuổi mèo đến mức bước lên vách đá mà chỉ có nửa bàn chân!
+にゃっ！　ゴンザレス！　このかつおぶしに捕まるにゃ！=Nya! Gonzalez! Giữ lấy miếng cá khô này!
+にゃ……=Nya...
+真剣に上がる気がなさそうって……何を言ってるにゃ！\nこのゴンザレスの必死な目を見るにゃ！=Cậu có vẻ không có ý định trèo lên... Cậu nói cái gì vậy! Nhìn đôi mắt tuyệt vọng của tôi đi!
+ぼく、もう限界……バイバイ、タマキちゃん……にゃって！？\nゴンザレス、諦めたらダメにゃ！="Em đã đến giới hạn rồi... \nTạm biệt, Tamaki..."\nNya!? Gonzalez, đừng bỏ cuộc!
+ああーーーっ！\nゴンザレスーーーーーーーー！！=Aaaaah!\nGonzalez!!
+かくして、ゴンザレスは崖の下へと消えていった……\nタマキ探検隊は涙をこらえて、さらに先へと進む！=Và thế là, Gonzalez biến mất vào vực thẳm... Đội thám hiểm {playername} nín khóc và tiếp tục tiến lên!
+崖、30センチぐらいしかなかった……=Vách đá đó chỉ cao khoảng 30 centimet...
+ゴンザレス……！\nお前の犠牲は無駄にはしないにゃーー！=Gonzalez...!\nChúng ta sẽ không phí sự hy sinh của cậu!
+すぐそこで死んだふりしてる……=Hắn đang giả chết ngay đó...
+ゴンザレス……お前のためにも、\n必ずビッグキャットは見つけてみせるにゃ！=Gonzalez... Vì cậu, chúng ta sẽ tìm ra Bigcat!
+そして、タマキ探検隊の眼前に、ついに\n待望の未確認猫生物が現れた！！=Và rồi, ngay trước mặt đội thám hiểm Tamaki, sinh vật mèo chưa xác định mong ngóng từ lâu đã xuất hiện!!
+あーーーーっ！　前方注目にゃ！\nいたにゃ！　ビッグキャットにゃ！=Aaaa! Chú ý phía trước! Nó ở đó! Bigcat!
+にゃおー=Nyaoo
+猫が集まって布を被っただけだ……=Chỉ là một lũ mèo mặc áo vải...
+…………ふぅ。=........Phew.
+はい、バイト終了にゃ。=Được rồi, hôm nay thôi.
+探検隊のみんなも、整列して{playername}に\n挨拶するにゃ。=Mọi người trong đội thám hiểm, xếp hàng và tạm biệt {playername}.
+にゃーん。ということで、\nドッキリだったにゃ。\nびっくりしたかにゃ？=Nyaan. Đó chỉ là một trò đùa. Cậu có bị dọa không?
+にゃはは、やっぱりびっくりはさせられなかったかにゃ。\n残念にゃ。=Nyahahaha, hình như tôi không dọa được cậu sau hết. Tiếc thật.
+にゃ？\nなんでこんなことをしたかって？=Nya? Tại sao tôi lại làm vậy?
+……{playername}を、ここに連れてくるためにゃ。=...Để đưa cậu đến đây, {playername}.
+……ここ、あたしたちが初めて出会った場所なのにゃ。\n覚えてるかにゃ？=...Đây là nơi chúng ta lần đầu gặp nhau. Cậu nhớ chứ?
+なんだかんだで、ここから色々始まったんだなあって思ったら、\nどうしても{playername}をここに連れてきたくなったのにゃ。=Tôi nghĩ về nơi mọi chuyện bắt đầu, và chỉ muốn đưa cậu đến đây, {playername}~nya.
+……その、普段あんまり素直になることはないから……=...Tôi không giỏi việc thẳng thắn lắm...
+{playername}……いつもありがとうにゃ。={playername}... Cảm ơn như mọi khi.
+にゃはは、改まっていうのは、やっぱり恥ずかしいにゃ。\n今日のところはもう戻って──=Nyahahaha, ngại quá khi nói trang trọng.\nHôm nay thôi, chúng ta về──
+……あっ！　あそこにビッグキャットが見えたにゃ！\n今から、追いかけにいくにゃ！=...A! Tôi thấy Bigcat ở đằng kia! Tôi đi đuổi theo nó!
+実在したのかって、当然にゃ！\nこんな大切なことを伝えるのに、嘘なんてつかないにゃ！=Tất nhiên là nó tồn tại!\nTôi sẽ không nói dối về một chuyện quan trọng như vậy!
+さあ{playername}！\nビッグキャットを捕まえに行くにゃ！=Đi thôi {playername}!\nBắt Bigcat nào!
+気まぐれなタマキに、\n今日も{playername}は振り回されるのだった。={playername} lại bị Tamaki lôi cuốn theo những ý nghĩ bất chợt hôm nay.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+そもそも{playername}は、\n探検隊に勧誘するために声をかけたのにゃ！=Trước hết, {playername} được mời tham gia cuộc thám hiểm.
