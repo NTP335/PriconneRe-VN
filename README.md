@@ -17,7 +17,7 @@
 
 2. **Áp dụng file Việt Hoá:**
    - Tải file `Text` từ project này về máy.
-   - Truy cập vào thư mục cài đặt game theo đường dẫn: `BepInEx/Translation/en/`
+   - Truy cập vào thư mục cài đặt game và tìm đến đường dẫn: `BepInEx/Translation/en/`
    - Tìm thư mục có tên là `Text`.
    - Chép đè (hoặc thay thế) file `Text` bạn vừa tải vào đường dẫn trên là xong.
 
