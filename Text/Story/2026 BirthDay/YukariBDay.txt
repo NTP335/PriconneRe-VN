@@ -1,0 +1,20 @@
+Yukari Ayase BDay
+
+うひゅ～！\nはっぴ～ば～ふでぇ～わらひ～！=Ư hự ~! Chúc mừn sênh nhật tuiii ~!
+なぁ～にぃ～？\nにゃんかわるいわけぇ～？\nおね～さんのたんじょーびらぞ～？=Gì cơ ~? Có gì saiii đâu nè ~? Hôm nay nà sênh nhật của bà chị này đó nha ~?
+うっ……叱りゃれた……\nべ、別にいいじゃん～！　今日はわらひの、\n麦しゅわ解禁ウン周年アニバなんらよ～～！？=Ư... bị mắng rùi... K-Kệ tui chứ ~! Hôm nay nà kỷ niệm "n" năm ngày tui được chính thức uống bia mà lị ~~~!?
+それにゃのに、叱らなくひゃって……\nうう……なんらか情けなくなってきちゃうじゃん……\n私ってダメな大人なんらって……え、らにこれ？=Thế mà, cậu lại cứ mắng tui... Ưư... Tự nhiên thấy mình thảm hại quá đi... Đúng là một người lớn vô dụng mà... Ơ, cái gì đây?
+これはリボン付きの、\n…………ウコン。\n……え、それにもう一つ……？=Cái này có thắt nơ này... là... nước nghệ. ...Ơ, còn một cái nữa sao...?
+……これ、わらひのために……？\nもひかしてこれ……キミの手作りらの？\nら、らから早くウコンを飲んでって……なんれ……=Cái này... dành cho tui sao...? Chẳng lẽ cái này... là do tự tay cậu làm à? R-Rõ rồi, thảo nào cậu cứ bắt tui uống nước nghệ nhanh lên... là để...
+……っ！\nちょ、ちょっと待っててね。\nんぐ、んぐ、んぐっ……！=...! Đ-Đợi tui một chút nhé. Ực, ực, ực...!
+ふうっ……意識ハッキリしてきたわ。\nあ……あの、ありがとう。\nまさかウコンをプレゼントされるとは思わなかったけど……=Phù... đầu óc tỉnh táo lại rồi. C-Cảm ơn cậu nhé. Tui không ngờ là lại được tặng nước nghệ vào ngày sinh nhật đâu đấy...
+でもこれで、今日のことちゃんと覚えてられる。\n{playername}くんが真剣にお祝いしようとしてくれてるのに、\n明日になったら覚えてない、なんて勿体ないもの。=Nhưng nhờ vậy mà tui có thể ghi nhớ kỹ chuyện ngày hôm nay. {playername}-kun đã nghiêm túc chúc mừng tớ như vậy, nếu để đến mai lại quên sạch thì thật là lãng phí quá.
+……はい。\nちゃんとお祝いされる準備、できました。=...Vâng. Tui đã sẵn sàng để được chúc mừng một cách tử tế rồi đây.
+ありがと……だい好きらよ♪　……って！？\nま、まだ酔いが醒めてないみたい……\nあはは……一緒に夜風、当たりに行きましょ。=Cảm ơn cậu... Tui thích cậu nhìu nhắm ♪ ...Ơ kìa!? H-Hình như tui vẫn chưa tỉnh rượu hẳn thì phải... A ha ha... Chúng mình cùng ra ngoài hóng gió đêm chút đi.
+
+Player Prompts
+いきなりトップギア……！=Vừa vào đã lên "số gắt" luôn rồi...!
+誕生日だからって飲みすぎです。=Dù là sinh nhật nhưng cô cũng uống quá chén rồi đấy.
+ケーキ、用意してきたんです。=Em có chuẩn bị bánh kem này.
+誕生日の思い出を忘れてほしくないから。=Vì em không muốn chị quên đi những kỷ niệm của ngày hôm nay.
+ハッピーバースデー、ゆかりさん。=Chúc mừng sinh nhật, chị Yukari.

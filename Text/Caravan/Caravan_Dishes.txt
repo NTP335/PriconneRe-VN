@@ -184,6 +184,10 @@ r:"^(\d)/(\d)食事済$"=$1/$2 Bữa Ăn
 【料理】移動時にトレジャーマスをスキップできる=[Nấu Ăn] Bỏ qua Ô Kho Báu khi di chuyển
 【料理】「マイルマス」を「トレジャーマス」に変化させる=[Nấu Ăn] Biến các Ô Mile thành Ô Kho Báu
 
+【料理】移動時に「ショップマス」「ミニゲームマス」「イベントマス」をスキップできる=[Nấu ăn] Cho phép bỏ qua "Ô Cửa hàng", "Ô Mini-game" và "Ô Sự kiện" khi di chuyển.
+
+
+
 ---Sub-effects---
 r:"^([0-9,]+)マイルを獲得する。?$"=Nhận được $1 Mile.
 r:"^RANK(\d+)のマイルショップを開く。$"=Mở Cửa Hàng Mile Cấp $1.

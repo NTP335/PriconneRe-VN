@@ -1,0 +1,19 @@
+Lima BDay
+
+リッマリマ～♪\n（今日はいい天気ね～♪\nなんだか草原を走り回りたくなっちゃう♪）=Lima-limaaaa~♪ (Hôm nay trời đẹp quá đi~♪ Tự nhiên tớ muốn chạy nhảy khắp đồng cỏ luôn ♪)
+リマ、リーマ……\n（こんな日をあの人と一緒に過ごせたら、いいのにな……）=Lima, liiiima... (Giá mà mình có thể trải qua một ngày như thế này bên cạnh người ấy thì tốt biết mấy...)
+リ～マ……\n（でも無理よね。そんなに都合のいいことなんて、起こらない。\n恋愛映画みたいに素敵な出来事なんて、そう簡単には……）=Li~ma... (Nhưng mà không thể nào. Chuyện tốt đẹp như vậy đâu có dễ dàng xảy ra. Những sự kiện tuyệt vời như trong phim tình cảm đâu có đến dễ dàng như vậy chứ--...)
+リマッ！？\n（えっ、本当に来てくれた……っ！？\nもしかして、私の想いが届いたのかしら……！）=LIMA!? (Ơ, cậu ấy thực sự đến kìa...!? Chẳng lẽ, tâm ý của mình đã chạm đến cậu ấy rồi sao...!)
+リマリマ～！\n（{playername}くん、こんにちは。今日はどうしたの？\nもしかして私に会いにきてくれたのかしら、な～んて……）=Limalima! (Chào cậu, {playername}-kun. Hôm nay có chuyện gì vậy? Chẳng lẽ cậu đến đây để gặp tớ sao, tớ đùa thôi nha~♪)
+リッ……リマ……！？\n（えっ……！　本当に……！？）=Li... LIMA?! (Ơ...! Thật sao...!?)
+リマ、リマ……！\n（私の、誕生日……！？　そのために、私に会いに来てくれたの！？\nそんなの──）=Lima, lima...! (Sinh nhật của tớ...!? Cậu lặn lội đến đây gặp tớ chỉ vì việc đó thôi sao!? Chuyện này thật là──)
+リ～マ～……♪\n（恋愛映画みたい……♪）=Liiiimaaaaa...♪ (Giống hệt như trong phim tình cảm vậy ♪)
+リッマリッマ！　リマリ～マ♪\n（わぁっ、これってバースデーケーキね……！\n動物でも食べられる特別仕様なんて……♪）=Limari! Limali~ma♪ (Oa, đây là bánh kem sinh nhật sao...! Lại còn là loại đặc biệt dành riêng cho động vật nữa chứ...♪)
+リマ～……リマリマ～♪\n（ウフフ。リンゴがたくさん……\nキラキラしてて、宝石みたい♪）=Lima~... Limalima~♪ (Ư hừ hừ. Nhiều táo quá đi... Trông lấp lánh cứ như là đá quý vậy ♪)
+リマ～♪\n（ありがとう、{playername}くん！\n会いに来てくれた上にこんなに素敵なお祝い……最高の贈り物よ……♪）=Lima~♪ (Cảm ơn cậu nhé, {playername}-kun! Cậu không chỉ đến gặp tớ mà còn chúc mừng tuyệt vời thế này nữa... Đây quả là món quà tuyệt vời nhất luôn...♪)
+
+Player Prompts
+リマちゃん！=Lima-chan!
+会いたかったよ、リマちゃん。=Tớ rất muốn gặp cậu đấy, Lima-chan.
+誕生日おめでとう、リマちゃん。=Chúc mừng sinh nhật nhé, Lima-chan.
+リマちゃんが食べられるケーキもあるよ。=Tớ có mang theo cả bánh kem mà Lima-chan cũng ăn được nè.

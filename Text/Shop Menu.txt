@@ -169,3 +169,7 @@ r:"^本日の出現数　([0-9/]+)回$"=Xuất hiện hôm nay: $1
 獲得したアイテムは直接付与されます。=Vật phẩm nhận được sẽ được thêm trực tiếp.
 交換しました。=Đã đổi.
 ピース交換完了=Hoàn thành đổi mảnh
+
+
+
+こちらのタブは現在使用できません。「メニュー」の「ジュエルショップ」から購入してください。=Tab này hiện không thể sử dụng. Vui lòng mua tại "Cửa hàng Jewel" trong phần "Menu".

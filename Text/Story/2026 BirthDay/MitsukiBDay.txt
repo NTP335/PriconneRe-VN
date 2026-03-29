@@ -1,0 +1,16 @@
+Mitsuki BDay
+
+君、こっちよ。\n時間通りね。=Cậu này, ở đây cơ mà. Đến đúng giờ lắm.
+ふふ。\n急に会いたいだなんて、今日が何の日か知っているのかしら。=Hì hì. Bỗng nhiên lại bảo muốn gặp, không biết cậu có biết hôm nay là ngày gì không nhỉ?
+あら。知っていたってことは、\nこれはバースデーデートのお誘いだった、ってことでいいのかしら。\nふふ、君もなかなかやるじゃない。=Ồ. Nếu đã biết thì ta có thể coi đây là một lời mời hẹn hò mừng sinh nhật được không nhỉ? Hì hì, cậu cũng khá lắm đấy chứ.
+大人になると誕生日なんて、ちょっとお高い総菜を買って、\nカロリー度外視のケーキなんてつまんじゃう日になりがちだけど。=Khi đã trở thành người lớn, sinh nhật thường có xu hướng trở thành một ngày mà ta chỉ mua vài món đồ ăn sẵn hơi đắt tiền một chút, rồi nhấm nháp chiếc bánh kem bất chấp lượng calo thôi.
+いざこうして誰かと過ごすとなると……ふふ。\nなんだか、深部体温が上がってしまうわね。=Nhưng khi thực sự trải qua cùng một ai đó như thế này... hì hì. Có vẻ như nhiệt độ cơ thể của ta đang tăng dần lên rồi đây.
+とはいえ。この子はまだ若いから、\nバースデーデートというよりはお誕生日会って感じかしら？　=Dù vậy, vì cậu nhóc này vẫn còn trẻ nên thay vì gọi là hẹn hò sinh nhật... có lẽ cảm giác giống một buổi tiệc sinh nhật hơn chăng?
+えっ？\nこのお店って、君にしてみればちょっとした高級店だけど……\n大丈夫？=Hả? Nhà hàng này đối với cậu thì có hơi cao cấp quá không... Cậu ổn chứ?
+……ふふ、緊張が伝わってくるわね。\n私に合わせるため、背伸びをしてくれたのかしら。=...Hì hì, ta cảm nhận được sự căng thẳng của cậu đấy. Chẳng lẽ cậu đã cố gắng quá sức để ra dáng người lớn cho hợp với ta sao?
+立派な男の子じゃない。\nううん、子ども扱いは失礼ってものだわ。=Đúng là một chàng trai đáng nể mà. Không... nếu vẫn coi cậu là trẻ con thì thật là thất lễ quá.
+格好いいところを見せてくれてありがとう。\nその気持ちだけでじゅうぶんうれしいわ。\nだけど、お会計は私に払わせてちょうだい。=Cảm ơn cậu vì đã cho ta thấy khía cạnh phong độ của mình. Chỉ riêng tấm lòng đó thôi cũng đủ khiến ta vui lắm rồi. Nhưng mà, hãy cứ để ta thanh toán hóa đơn nhé.
+ご馳走になるのは、あなたがもう少し成長してから、ね♪=Việc để cậu chiêu đãi... hãy đợi đến khi cậu trưởng thành hơn một chút nữa nhé ♪
+
+Player Prompts
+ディナーを予約してます。=Tớ đã đặt bàn cho bữa tối rồi.

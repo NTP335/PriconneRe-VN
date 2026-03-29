@@ -2435,3 +2435,14 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 自身HP50％以上：自身に物理防御力ダウン=[Khi HP bản thân từ 50% trở lên]: Giảm phòng thủ vật lý của bản thân.
 自身HP50％以上：自身に物理無効バリア=[Khi HP bản thân từ 50% trở lên]: Tạo lá chắn vô hiệu hóa vật lý cho bản thân.
 完全な力を取り戻した太古の人工生命体。無限の動力から編み出された防壁は、いかなる攻撃も無に帰す。=Một sinh thể nhân tạo cổ đại đã khôi phục hoàn toàn sức mạnh. Lớp phòng thủ được dệt nên từ nguồn động lực vô tận sẽ hóa giải mọi cuộc tấn công thành hư vô.
+
+
+対象が２体以上：魔法割合追加ダメージ=Nếu đối tượng từ 2 trở lên: Gây thêm sát thương ma pháp theo phần trăm.
+前から敵１体に物理／魔法与ダメダウン（必中）=Giảm sát thương Vật lý/Ma pháp gây ra của 1 kẻ địch phía trước (Chắc chắn trúng).
+前から１番目の敵を中心に物理／魔法与ダメダウンフィールド=Triển khai vùng không gian giảm sát thương Vật lý/Ma pháp gây ra lấy kẻ địch đầu tiên làm trung tâm.
+残りＨＰ割合が最も低い敵１体に束縛（挑発／召喚体無視）=Gây trạng thái Trói buộc lên 1 kẻ địch có tỉ lệ HP thấp nhất (Bỏ qua Khiêu khích và vật triệu hồi).
+敵全体に物理／魔法クリダメダウン（必中）=Giảm sát thương Chí mạng Vật lý/Ma pháp của toàn bộ kẻ địch (Chắc chắn trúng).
+対象が行動不能状態：ＴＰダウン=Nếu đối tượng trong trạng thái không thể hành động: Giảm TP.
+対象が行動不能状態：魔法追加ダメージ=Nếu đối tượng trong trạng thái không thể hành động: Gây thêm sát thương ma pháp.
+ＴＰ増加不可無視=Bỏ qua hiệu ứng không thể tăng TP.
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理攻撃力と魔法攻撃力を特大ダウン、物理防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージと攻撃力・防御力ダウンの効果量は【魔眼】の数に応じて上昇する。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi lấy kẻ địch gần nhất làm trung tâm, đồng thời giảm cực đại Tấn công Vật lý và Tấn công Ma pháp, giảm nhẹ Phòng thủ Vật lý và tăng nhẹ sát thương nhận vào khi bị chí mạng. Lượng sát thương và hiệu quả giảm Tấn công/Phòng thủ của kỹ năng này sẽ tăng lên dựa trên số lượng 【Ma Nhãn】.

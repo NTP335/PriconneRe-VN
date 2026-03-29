@@ -1,0 +1,19 @@
+Djeeta's BDay
+
+今日は誘ってくれてありがとう！\nあなたと一緒にお出かけできるの、楽しみにしてたんだ♪=Cảm ơn cậu vì hôm nay đã mời tớ nhé! Tớ đã rất mong chờ chuyến đi chơi cùng cậu đấy ♪
+えへへ、こうしてお祝いしてもらえると、やっぱりうれしいな！\n今は一人暮らしだし、さびしいお誕生日にならなくてよかったよ～=Hì hì, được chúc mừng như thế này quả thực tớ thấy vui lắm! Giờ tớ đang sống một mình, nên thật may là đã không phải trải qua một ngày sinh nhật cô đơn ~
+でも二人きりなのは、ちょっと予想外だったかも……？\nクラスのみんなは、二人で仲良くね～とか言ってたし。\nもう、そんなに気を遣わなくたっていいのになぁ……=Nhưng mà việc chỉ có hai đứa mình thì hơi ngoài dự tính của tớ một chút...? Các bạn trong lớp cứ bảo là "Hai người đi chơi vui vẻ với nhau nhé" này nọ. Trời ạ... họ đâu cần phải khách sáo và tâm lý đến thế cơ chứ...
+あっ、なんでもないよっ、こっちの話！\nそれで、今日はどこへ行く予定なの？=Á, không có gì đâu, tớ tự nói một mình thôi! Thế, hôm nay chúng mình dự định sẽ đi đâu vậy?
+冒険って、一緒にゲームを遊ぶってこと？\n……そうじゃなくて、こっちの世界で？=Phiêu lưu sao? Ý cậu là chúng mình cùng chơi game với nhau à? ...Không phải sao, ý cậu là ở thế giới "bên này" á?
+なるほど、そっか……\nお出かけっていうより、ちょっとした旅みたいな気分？\nいいね、それ！　すっごく面白そうっ♪=Ra là vậy, tớ hiểu rồi... Thay vì là một chuyến đi chơi đơn thuần, nó giống như một hành trình du ngoạn nhỏ nhỉ? Hay đấy! Nghe có vẻ thú vị cực kỳ luôn ♪
+こっちに来てから、みんなでいろんなところにお出かけしたけど……\n知らない場所もまだたくさんあるもんね。\n新しい冒険、考えるだけでワクワクしちゃうっ！=Kể từ khi đến đây, tớ đã cùng mọi người đi chơi ở rất nhiều nơi rồi... nhưng vẫn còn nhiều chỗ tớ chưa biết lắm. Chỉ cần nghĩ về một cuộc phiêu lưu mới thôi là tớ đã thấy háo hức rồi!
+よ～し、決まりだねっ。\nプレゼントはとびっきりの冒険旅行！　うん、素敵だね！\n目的地は、そうだなぁ……=Được rồi, quyết định vậy nhé. Món quà chính là một chuyến hành trình phiêu lưu thật đặc biệt! Ừm, tuyệt vời lắm! Điểm đến sẽ là, để xem nào...
+うんっ！　それ、すごくいいねっ！\n私の大好きな景色……一番の誕生日プレゼントだよ！=Ừm! Chỗ đó được đấy! Đó là một trong những khung cảnh mà tớ yêu thích nhất... quả là món quà sinh nhật tuyệt vời nhất luôn!
+ありがとう！　それじゃあ出発だよっ！\n一生の思い出になるような青空、二人で一緒に探しに行こうっ！=Cảm ơn cậu! Vậy thì xuất phát thôi nào! Hãy cùng nhau đi tìm một bầu trời xanh ngắt sẽ trở thành kỷ niệm đẹp suốt đời của hai đứa mình nhé!
+
+Player Prompts
+一緒にお祝いできて、僕もうれしいよ。=Được cùng cậu chúc mừng, tớ cũng thấy vui lắm.
+ジータ、誕生日おめでとう！=Chúc mừng sinh nhật, Djeeta!
+冒険に出かけよう！=Chúng ta hãy cùng đi phiêu lưu nào!
+いつもと違う景色を探しに行くのはどう？=Hay là chúng mình đi tìm một khung cảnh khác với mọi khi nhé?
+青空がきれいなところ、なんてどう？=Một nơi có bầu trời xanh thật đẹp thì sao nhỉ?

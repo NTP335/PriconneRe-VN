@@ -1,0 +1,7 @@
+先日のお礼がしたいと、ネフィ＝ネラに「大魔物市」なる催しに誘われたCornelia。以前とは少し変わった民の様子を眺めながら、ネフィ＝ネラは自身の心境にも変化があることを語る。=Muốn gửi lời cảm ơn vì chuyện hôm trước, Nephy Nella đã mời Cornelia đến một sự kiện gọi là "Chợ Đại Ma Vật". Trong khi quan sát dáng vẻ của người dân có chút khác xưa, Nephy Nella cũng tâm sự về sự thay đổi trong chính tâm cảnh của mình.
+
+プリンセスの公務を手伝うため、ネフィ＝ネラと共に{playername}はジオ・ゲヘナの各地を回る。そんな中で現れた謎の魔物を倒しつつ、ネフィ＝ネラはこの先起こるであろうことの警告をするのだった。=Để hỗ trợ công vụ của Công chúa, {playername} cùng Nephy Nella đi tuần du khắp các vùng của Geo Gehenna. Trong lúc tiêu diệt những ma vật bí ẩn xuất hiện trên đường đi, Nephy Nella đã đưa ra lời cảnh báo về những sự việc có thể sẽ xảy ra trong tương lai.
+
+{playername}と料理をすることになったネフィ＝ネラ。共に料理をする行為に隠された意味を冗談交じりに語りながら、ネフィ＝ネラは{playername}と過ごすひと時を楽しむ。=Nephy Nella đã có dịp cùng nấu nướng với {playername}. Vừa kể về ý nghĩa ẩn giấu đằng sau việc cùng nhau nấu ăn bằng những lời đùa giỡn, Nephy Nella vừa tận hưởng khoảng thời gian hạnh phúc khi được ở bên cạnh {playername}.
+
+禰羅の願いを聞き入れ、夢の中で一緒に料理の続きをする{playername}。それだけでは満足できなかった禰羅はもっと付き合ってほしいと告げ、二人は文字通り悠久の時を共に過ごすことになる。=Chấp nhận nguyện ước của Nella, {playername} đã cùng ngài tiếp tục việc nấu nướng trong giấc mộng. Cảm thấy bấy nhiêu vẫn chưa đủ thỏa lòng, Nella mong muốn cậu ở bên mình lâu hơn nữa, và thế là hai người đã cùng nhau trải qua một khoảng thời gian vĩnh hằng theo đúng nghĩa đen.

@@ -1,3 +1,5 @@
+明日5:00以降のログインでミッションが進行します。=Nhiệm vụ sẽ tiếp tục tiến triển khi bạn đăng nhập sau 5:00 ngày mai.
+獲得できるミッション報酬がありません。=Không có phần thưởng nhiệm vụ nào để nhận.
 
 シーズンパス=Thẻ Mùa Giải
 Lv購入=Mua Lv
@@ -69,3 +71,10 @@ r:"^深淵討伐戦で(\d+)0億Pt獲得しよう$"=Hãy đạt $1 tỷ điểm t
 トレジャークエストは除く=Ngoại trừ các Nhiệm vụ kho báu (Treasure Quests)
 r:"^次元断層で(\d+)回勝利しよう$"="Hãy giành chiến thắng $1 lần tại Vết nứt chiều không gian (Dimensional Fault)."
 r:"^エルピス討魔戦線でボスバトルを(\d+)回クリアしよう$"=Hãy vượt qua Boss Battle trong Mặt trận Diệt ma Elpis $1 lần.
+r:"^クランバトルに合計(\d+)回挑戦しよう$"=Hãy tham gia Clan Battle tổng cộng $1 lần.
+
+ルナの塔頂上をクリアしよう=Hãy chinh phục đỉnh Tháp Luna.
+
+r:"^覇瞳皇帝の領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng $1 thuộc Lãnh địa của Kaiser Insight.
+r:"^ゼーンの領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng $1 thuộc Lãnh địa của Zane.
+r:"^アラクネの領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng $1 thuộc Lãnh địa của Arachne.

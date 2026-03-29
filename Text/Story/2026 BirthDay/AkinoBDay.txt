@@ -1,0 +1,19 @@
+Akino Toudou BDay
+
+おーほっほっほ！\nお待たせいたしましたわね、あなたさま。\nヘリの着陸場所を探していたら、遅れてしまいましたわ。=Ô hô hô hô! Đã để ngài phải đợi lâu rồi, thưa ngài. Ta đã bị trễ một chút vì mải tìm chỗ hạ cánh cho trực thăng đấy ạ.
+ええ、もちろんですわ。\nなにしろあなたさまからのお誘いですもの。\n藤堂家の力をフルに活用し空も駆けようというものです。=Ồ, dĩ nhiên rồi. Suy cho cùng đây là lời mời từ ngài mà. Ta đã vận dụng toàn bộ quyền lực của gia tộc Toudou để băng qua bầu trời đến đây đó.
+……ところで、その。\n今日お呼びいただいた用件というのは……=...Nhân tiện thì, ừm. Việc ngài gọi ta đến hôm nay là vì...
+……やっぱりですわね！=...Quả nhiên là vậy mà!
+ふふっ、信じておりましたわ、あなたさまがお祝いしてくださると。\n例年なら関係企業の生誕祭が企画されるところでしたけれど……\nなにがなんでも今日のスケジュールを空けておいて正解でしたわね。=Hì hì, ta đã tin rằng ngài sẽ chúc mừng ta mà. Mọi năm thì các công ty đối tác sẽ tổ chức đại tiệc sinh nhật cho ta, nhưng... quả là quyết định đúng đắn khi ta đã để trống lịch trình hôm nay bằng mọi giá.
+ええ、ご心配なく。どちらにも不義理は働いておりませんわ。\nそれに、ビジネスや家の繋がりよりも、あなたさまにお祝いして\nいただけることの方が私にとっては大事なのです。=Vâng, đừng lo lắng. Ta không hề thất lễ với bên nào đâu. Hơn nữa, so với những mối quan hệ kinh doanh hay gia tộc, việc được ngài chúc mừng đối với ta quan trọng hơn nhiều.
+だってあなたさまの真心はどんな商談でも手に入りませんもの。\n……あら？　どうかしたんですの？=Bởi lẽ lòng chân thành của ngài là thứ mà không cuộc thương thảo nào có thể mua được. ...Ô kìa? Có chuyện gì sao ạ?
+まぁ！　もしかしてその手に持っているのはプレゼントですか？\nとってもうれしいですわ！　お金を払いたいくらいですわ！\n100……いえ、500でいかがかしら！？=Trời ạ! Chẳng lẽ thứ ngài đang cầm trên tay là quà tặng sao? Ta hạnh phúc quá đi mất! Ta thậm chí còn muốn trả tiền cho nó nữa! 100... không, 500 triệu có được không nhỉ?!
+なんということでしょう……！？\nありがとうございます！　この藤堂秋乃、あなたさまからの贈り物を\n飾るために博物館を建てる所存ですわ！=Thật là ngoài sức tưởng tượng...! Cảm ơn ngài rất nhiều! Akino Toudou này nhất định sẽ xây hẳn một viện bảo tàng chỉ để trưng bày những món quà từ ngài!
+……ところで、あなたさま？\nそろそろあなたさま自身を、私にプレゼントしてくださるつもりは……\n……ない。そうですか……残念ですわね。=...Nhân tiện thì, thưa ngài? Liệu ngài có định sớm tự tặng "chính mình" cho ta không... ...Không sao. Vậy à... Tiếc thật đấy nhỉ.
+ふふ。でも、構いませんわ。\nこうして毎年、あなたさまからプレゼントをいただいているうちに……\nいつか、あなたさま自身を贈っていただける日がくるでしょうから♪=Hì hì. Nhưng không sao cả. Cứ mỗi năm nhận được quà từ ngài như thế này... ta tin rằng rồi sẽ có ngày ngài tự trao bản thân mình cho ta thôi♪
+
+Player Prompts
+やっぱりヘリで来たんだね……=Quả nhiên là cô đến bằng trực thăng nhỉ...
+誕生日おめでとう、秋乃さん。=Chúc mừng sinh nhật, cô Akino.
+他の予定は大丈夫だった？=Lịch trình khác của cô vẫn ổn chứ?
+タダでいいです。=Cứ nhận miễn phí đi ạ.

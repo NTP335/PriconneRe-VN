@@ -265,3 +265,7 @@ sr:"^プリぐるみ（([べ-・ー]{2,11})）$"=Pri-gurumi ($1)
 「チーズお守り大作戦！」追加公演ポスター=Poster Biểu Diễn Bổ Sung "Cheese Omamori Daisakusen!"
 オーエド湯煙シェード=Mái Che Hơi Nước Oedo
 そしてまた、春の訪れ=Và một lần nữa, mùa xuân đã đến
+
+フィオのまどろみソルフラワー=Đóa hoa mặt trời ngủ say của Fio
+巨大な蕾が植えられた、フィオのフラワーベッド。どこか見覚えのあるピンクの花弁は寝心地抜群のご様子。ガイド妖精と一緒に、ここではない世界の夢を見られるかも？=Chiếc giường hoa của Fio, nơi được trồng một nụ hoa khổng lồ. Những cánh hoa màu hồng trông có vẻ quen thuộc này dường như là một nơi cực kỳ êm ái để ngả lưng. Khi ở cùng với nàng tiên dẫn đường, biết đâu bạn có thể mơ về một thế giới không thuộc về nơi này?
+六凶・魔蜘の残糸を断ち切りし勇者により取り戻されたイヤリング。慈悲なき蹂躙の果てに生きる流徒は己が業を背負い、贖いの道を歩む。=Đôi khuyên tai được thu hồi bởi người anh hùng đã chém đứt những tơ vương của Ma Nhện thuộc Lục Hung. Kẻ lưu lạc sống sót sau cuộc giày xéo tàn bạo đang tự gánh vác nghiệp chướng của bản thân và bước đi trên con đường chuộc tội.

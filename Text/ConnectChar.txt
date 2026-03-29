@@ -1,7 +1,6 @@
 
 r:"^条件(\d+)$"=Tình trạng $1
 r:"^強化上限 (\d+)$"=Giới hạn tăng cường $1
-r:"^コネクト (\d+)$"=Kết nối $1
 強化状況=Tăng cường trạng thái
 r:"^ボーナス(\d+)$"=Thưởng $1
 総コネクトRANK=Tổng Connect RANK
@@ -16,7 +15,10 @@ r:"^キャラLv上限突破(\[-\] \[FFBB00,CE4F00\])?([0-9＋+.%％]*)$"=Vượt
 選択したコネクトRANKまでまとめて強化できます。=Có thể cường hóa hàng loạt Connect Rank đã chọn.
 アイテムの入手場所を確認できます。=Bạn có thể kiểm tra vị trí của vật phẩm.
 
+
+r:"^コネクト (\d+)$"=Connect $1
 r:"^コネクトRANK (\d+)$"=Connect RANK $1
+r:"^(\[[a-f,0-9]+\])?コネクト(RANK )? ?(\d+)(?:\[-\])?$"=$1Connect $2$3[-]
 コネクトRANKボーナス詳細=Chi tiết về phần thưởng Connect RANK
 コネクトRANK強化に必要なアイテムを確認できます。=Các vật phẩm cần thiết để tăng cấp Connect Rank.
 r:"^コネクトRANK強化上限を(\d+)から(\d+)に解放$"=Mở khóa giới hạn nâng cấp Connect Rank từ $1 đến $2
@@ -40,7 +42,7 @@ r:"^専用装備１をLvMAX（Lv(\d+)）にする$"=UE-1 Lv MAX (Lv $1)
 
 アイテムを消費してコネクトRANK上限を解放します。\nよろしいですか？=Vật phẩm sẽ bị tiêu hao để mở khóa giới hạn Connect RANK.\nBạn có đồng ý không?
 コネクトRANK上限解放=Mở khóa giới hạn Connect RANK
-r:"^上限(\d+)$"=Giới hạn $1
+r:"^(\[[a-f,0-9]+\])?上限(\d+)(?:\[-\])?$"=$1Giới hạn $2[-]
 [3C404E]専用装備１SP条件[-] =[3C404E]Điều kiện UE-1 SP[-] 
 
 専用装備１SP条件=Điều kiện UE-1 SP

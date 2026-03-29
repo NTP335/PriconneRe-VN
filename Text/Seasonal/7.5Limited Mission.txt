@@ -21,14 +21,22 @@ r:"^キャラのスキルLvを合計で(\d+)回上げよう$"=Nâng cấp kỹ n
 マナクエストを1回クリアしよう=Hoàn thành nhiệm vụ mana một lần
 聖跡調査クエストを1回クリアしよう=Hoàn thành Khảo Sát Đền Thánh một lần
 神殿調査クエストを1回クリアしよう=Hoàn thành Hành Trình Đền một lần
-r:"^メインストーリー第(\d+)部(前編|後編|中編|)ステップ(\d+)のミッションをすべて達成しよう$"=Hãy hoàn thành tất cả nhiệm vụ của Cốt truyện chính Phần $1 ($2), Bước $3
+sr:"^メインストーリー第(\d+)部(前編|後編|中編|)ステップ(\d+)のミッションをすべて達成しよう$"=Hãy hoàn thành tất cả nhiệm vụ của Cốt truyện chính Phần $1 ($2), Bước $3
+
+深域クエストでいずれかの属性の1-10をクリアしよう=Hãy vượt qua tầng 1-10 của bất kỳ thuộc tính nào trong Nhiệm vụ Thâm Vực (Deep Region).
+
 
 メインストーリー第3部前編ステップ1のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Cốt truyện chính Phần 3 Tiền chương Bước 1
 
 r:"^メインストーリー第(\d+)部のミッション報酬を全て受け取ると解放。$"=Mở khóa sau khi nhận toàn bộ phần thưởng nhiệm vụ từ Phần $1 của cốt truyện chính
 
-"^(.+)を限界突破しよう$"=Giới Hạn $1
+sr:"^(.+)を限界突破しよう$"=Giới Hạn $1
 r:"^メインストーリー第(\d+)部第(\d+)章をすべて閲覧しよう$"=Xem toàn bộ Phần $1, Chương $2 của cốt truyện chính
+
+
+r:"^深域クエストでいずれかの属性の(.+?)をクリアしよう$"=Hãy vượt qua tầng $1 của bất kỳ thuộc tính nào trong Nhiệm vụ Thâm Vực.
+煉獄のリベリオンをクリアしよう=Hãy chinh phục Luyện Ngục Rebellion.
+
 
 メインストーリー第2部第2章をすべて閲覧しよう
 王都終末決戦をクリアしよう=Vượt qua Trận Chiến Cuối Cùng của Landosol
