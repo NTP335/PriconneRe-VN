@@ -1,15 +1,15 @@
-sr:"^1月(\d+日)のストーリー(\d)?$"=Tháng $1 Truyện $2
-sr:"^2月(\d+日)のストーリー(\d)?$"=Tháng $2 Truyện $2
-sr:"^3月(\d+日)のストーリー(\d)?$"=Tháng $3 Truyện $2
-sr:"^4月(\d+日)のストーリー(\d)?$"=Tháng $4 Truyện $2
-sr:"^5月(\d+日)のストーリー(\d)?$"=Tháng $5 Truyện $2
-sr:"^6月(\d+日)のストーリー(\d)?$"=Tháng $6 Truyện $2
-sr:"^7月(\d+日)のストーリー(\d)?$"=Tháng $7 Truyện $2
-sr:"^8月(\d+日)のストーリー(\d)?$"=Tháng 8 Cốt truyện $1 $2
-sr:"^9月(\d+日)のストーリー(\d)?$"=Tháng 9 Cốt truyện $1 $2
-sr:"^10月(\d+日)のストーリー(\d)?$"=Tháng 10 Cốt truyện $1 $2
-sr:"^11月(\d+日)のストーリー(\d)?$"=Tháng 11 Cốt truyện $1 $2
-sr:"^12月(\d+日)のストーリー(\d)?$"=Tháng 12 Cốt truyện $1 $2
+sr:"^1月(\d+日)のストーリー(\d)?$"=$1 Tháng 1 Cốt truyện $2
+sr:"^2月(\d+日)のストーリー(\d)?$"=$1 Tháng 2 Cốt truyện $2
+sr:"^3月(\d+日)のストーリー(\d)?$"=$1 Tháng 3 Cốt truyện $2
+sr:"^4月(\d+日)のストーリー(\d)?$"=$1 Tháng 4 Cốt truyện $2
+sr:"^5月(\d+日)のストーリー(\d)?$"=$1 Tháng 5 Cốt truyện $2
+sr:"^6月(\d+日)のストーリー(\d)?$"=$1 Tháng 6 Cốt truyện $2
+sr:"^7月(\d+日)のストーリー(\d)?$"=$1 Tháng 7 Cốt truyện $2
+sr:"^8月(\d+日)のストーリー(\d)?$"=$1 Tháng 8 Cốt truyện $2
+sr:"^9月(\d+日)のストーリー(\d)?$"=$1 Tháng 9 Cốt truyện $2
+sr:"^10月(\d+日)のストーリー(\d)?$"=$1 Tháng 10 Cốt truyện $2
+sr:"^11月(\d+日)のストーリー(\d)?$"=$1 Tháng 11 Cốt truyện $2
+sr:"^12月(\d+日)のストーリー(\d)?$"=$1 Tháng 12 Cốt truyện $2
 
 
 新たなバースデーストーリーが解放されました。\nマイページまたはバースデーストーリーから閲覧できます。=Một câu chuyện sinh nhật mới đã được mở khóa.\nBạn có thể xem từ Trang chủ hoặc Câu chuyện sinh nhật.

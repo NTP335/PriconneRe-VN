@@ -1,0 +1,65 @@
+Now then, Karyl.=Nào, Karyl.
+I've decided I'd like to have\na little talk with our friend {playername}.\nSo pick yourself up and fetch us some tea, why don't you?=Ta đã quyết định sẽ có một cuộc trò chuyện nhỏ với người bạn {playername} của chúng ta. Thế nên hãy đứng dậy và đi lấy trà cho bọn ta đi chứ nhỉ?
+Yes, Your Majesty...\nI'll do anything you say...\nSo please... Don't do that to me again...=Vâng, thưa Nữ hoàng... Thần sẽ làm bất cứ điều gì ngài sai bảo... Nên xin ngài... Đừng đối xử với thần như thế nữa...
+Lovely. What a good girl.=Ngoan lắm. Đúng là một cô bé hiểu chuyện.
+Oh, what's that look for, {playername}?\nDo you have something to say to me?=Ô kìa, ánh mắt đó là sao thế, {playername}? Ngươi có điều gì muốn nói với ta à?
+Can't you see I was just disciplining my pet?\nYou can't fault me for that, can you?=Ngươi không thấy là ta chỉ đang dạy dỗ thú cưng của mình thôi sao? Ngươi không thể trách ta vì chuyện đó được, đúng không?
+Ehh...?\nHey... {playername}!\nGet your hands off me— Owwww!=Hả...? Này... {playername}! Bỏ tay ra khỏi người tôi— Á đau!
+Oh my, are you treating her wounds?\nYou really are such a kind fellow.\nSo kind, it makes me sick.=Ôi trời, ngươi đang trị thương cho nó đấy à? Ngươi đúng là một gã tử tế quá mức. Tử tế đến phát lợm giọng.
+Well, feel free to continue as we talk.\nYou see, {playername},\nI have a few questions I'd like to ask you.=Chà, cứ tự nhiên tiếp tục đi trong khi chúng ta nói chuyện. Ngươi thấy đấy {playername}, ta có vài câu hỏi muốn dành cho ngươi.
+While we're having our little chat,\nI'll refrain from doing anything to harm Karyl.=Trong lúc chúng ta trò chuyện, ta sẽ kiềm chế không làm gì tổn hại đến Karyl đâu.
+So if you care about her, you'd do well not to bore me.\nAnd Karyl, try not to bother us with any tiresome squealing.=Nên nếu ngươi quan tâm đến nó, thì tốt nhất đừng làm ta thấy chán. Còn Karyl, cố đừng có làm phiền bọn ta bằng mấy tiếng rên rỉ mệt mỏi đó nữa.
+So, tell me, {playername}...\nHave you ever felt like this world is somehow... artificial?=Vậy, nói ta nghe xem {playername}... Ngươi có bao giờ cảm thấy thế giới này bằng cách nào đó... thật giả tạo không?
+
+Even though we're in peacetime, there are so many shops\nselling weapons, and barely any selling ordinary supplies.\nThere are no fields for growing crops, or even any proper plumbing.=Mặc dù đang là thời bình, nhưng lại có quá nhiều cửa hàng bán vũ khí, và hầu như chẳng có nơi nào bán nhu yếu phẩm thông thường. Chẳng có cánh đồng nào để trồng trọt, thậm chí còn không có cả hệ thống ống nước tử tế.
+Of course, I've done what I can\nto make up for those obvious omissions.=Dĩ nhiên, ta đã làm những gì có thể để bù đắp cho những thiếu sót lộ liễu đó.
+But be it history, geography, even our system of government...\nWherever you look, there are pieces of the puzzle missing.\nWhy do you think that is?=Nhưng dù là lịch sử, địa lý, hay cả hệ thống chính quyền... Bất cứ nơi nào ngươi nhìn vào, cũng đều thấy những mảnh ghép bị thất lạc. Ngươi nghĩ tại sao lại như vậy?
+Were our forebears so foolish?\nHow did such a society... or should I say, such a "setting"...\nsurvive for so long as nothing more than a childish imitation?=Tổ tiên chúng ta ngu ngốc đến thế sao? Làm thế nào mà một xã hội như vậy... hay ta nên nói là một "bối cảnh" như vậy... lại có thể tồn tại lâu đến thế khi chẳng khác gì một sự mô phỏng trẻ con?
+Come on, haven't you ever thought it strange?\nThis world is so inconvenient for living an ordinary life.\nIt's lacking in far too many ways.=Nào, ngươi chưa bao giờ thấy lạ sao? Thế giới này quá bất tiện cho một cuộc sống bình thường. Nó thiếu hụt quá nhiều thứ.
+There's so much detailed data when it comes to monsters,\nyet ordinary animals and plants are less clearly defined.\nI could go on listing these anomalies all day.=Có rất nhiều dữ liệu chi tiết khi nói về quái vật, nhưng các loài động thực vật thông thường lại chẳng được định nghĩa rõ ràng. Ta có thể liệt kê những điểm bất thường này cả ngày không hết.
+And when the inevitable economic struggles and criminal\nactivities arise, everyone blames the ruling powers.\nIt's quite a bother for someone in my position.=Và khi những khó khăn kinh tế và hoạt động tội phạm tất yếu nảy sinh, mọi người lại đổ lỗi cho chính quyền. Điều đó khá là phiền phức cho một người ở vị trí của ta.
+It's not the royals who messed up, it's this world's creator!\nBlame whatever divine being devised this half-baked world!=Không phải hoàng gia làm hỏng đâu, mà là kẻ sáng tạo ra thế giới này đấy! Hãy đi mà đổ lỗi cho bất cứ vị thần nào đã bày ra cái thế giới nửa vời này đi!
+Well? Wouldn't you agree?\nOr do you think I'm just spouting meaningless delusions?=Sao hả? Ngươi không đồng ý à? Hay ngươi nghĩ ta chỉ đang phun ra những lời ảo tưởng vô nghĩa?
+Hee hee...\nBut of course, you've lost your memories, haven't you?=Hì hì... Nhưng dĩ nhiên rồi, ngươi đã mất ký ức rồi mà, đúng không?
+Perhaps that makes it easier for you\nto just accept this as "the way things are."=Có lẽ điều đó khiến ngươi dễ dàng chấp nhận mọi thứ "vốn dĩ là như vậy" hơn.
+After all, most people in this world don't suspect a thing.\nThey've all been reassembled and reconfigured not to.=Sau tất cả, hầu hết mọi người trên thế giới này chẳng nghi ngờ gì cả. Họ đều đã được tái lắp ráp và cấu trúc lại để không nhận ra điều đó.
+I expect there's only a tiny minority of people out there\nwho suspect anything is amiss. Myself included.=Ta đoán chỉ có một bộ phận cực nhỏ những kẻ ngoài kia nghi ngờ có gì đó không ổn. Bao gồm cả ta nữa.
+And what does that get me? Treated like a raving lunatic!\nIt's such a bore, it really might drive me crazy.\nPerhaps you're the lucky one, not having to remember a thing.=Và ta nhận được gì? Bị đối xử như một con mụ điên khùng! Thật là nhàm chán, nó thực sự có thể khiến ta phát điên mất. Có lẽ ngươi mới là kẻ may mắn khi không phải nhớ bất cứ điều gì.
+By the way...\nHow much do you remember, really?=Nhân tiện... Ngươi thực sự nhớ được bao nhiêu?
+Which of your memories have been eliminated, and how?\nAnd in what position does that leave you in this world?=Ký ức nào của ngươi đã bị xóa bỏ, và xóa như thế nào? Và điều đó đặt ngươi vào vị trí nào trong thế giới này?
+This is what I've been hoping to find out, you know.\nThat's why I instructed Karyl to get close to you and investigate.\nWell, not that she uncovered anything useful.=Đây chính là điều ta hằng mong muốn tìm hiểu bấy lâu. Đó là lý do ta chỉ thị cho Karyl tiếp cận và điều tra ngươi. Chà, cũng không phải là nó đã tìm ra được gì hữu ích.
+I didn't want to stimulate you too much, you understand,\nin case it caused all your memories to come flooding back.\nI don't need you getting in my way again.=Ta đã không muốn kích thích ngươi quá mức, ngươi hiểu mà, phòng trường hợp nó khiến toàn bộ ký ức của ngươi ùa về. Ta không cần ngươi cản đường ta một lần nữa.
+So I thought it might be best\nto speak with you directly and find out where you stand.=Vì vậy ta nghĩ tốt nhất là nên nói chuyện trực tiếp với ngươi để xem ngươi đang ở tình trạng nào.
+
+Have we met somewhere before?=Chúng ta đã từng gặp nhau ở đâu đó trước đây phải không?
+
+Ahahah! If you're saying that as an act, it's impressive...\nAnd if it's supposed to be a joke, it's frankly hilarious.\nBut if you really don't remember, then so be it.=A ha ha! Nếu ngươi đang diễn kịch thì ấn tượng đấy... Còn nếu đó là một trò đùa thì thực sự là nực cười. Nhưng nếu ngươi thực sự không nhớ, thì thôi vậy.
+I'd rather not linger on those awful memories myself, either.=Bản thân ta cũng chẳng muốn lưu luyến gì những ký ức kinh khủng đó.
+So if you've forgotten all the history we share,\nI really couldn't ask for a better outcome.=Nên nếu ngươi đã quên sạch lịch sử giữa chúng ta, ta thực sự không thể mong đợi một kết quả nào tốt hơn thế.
+Say, do you know anything about "Legend of Astrum"?\nDo you recognize the name "Minerva"?\nDo you think "Princess Knight" is just another guild name?=Này, ngươi có biết gì về "Legend of Astrum" không? Ngươi có nhận ra cái tên "Minerva" không? Ngươi có nghĩ "Princess Knight" chỉ là tên của một bang hội nào đó không?
+Can you name all of the "Seven Crowns"?\nOr in fact, have you met anyone claiming that title?=Ngươi có thể nêu tên tất cả các thành viên trong "Seven Crowns" không? Hay thực tế là, ngươi đã gặp ai tự xưng danh hiệu đó chưa?
+How about that irritating little fairy... Ehm...\n"Fio", was that her name?\nDo you remember her at all?=Còn con tiên nhỏ phiền phức đó thì sao... Ừm... "Fio", có phải tên nó là thế không? Ngươi có nhớ gì về nó không?
+
+Oh my, drawing a complete blank, are we?\nHow adorable. You don't understand a thing I'm saying.=Ôi trời, đầu óc trống rỗng hoàn toàn rồi sao? Đáng yêu thật đấy. Ngươi chẳng hiểu ta đang nói gì cả.
+Some of those names sound familiar...=Vài cái tên nghe có vẻ quen thuộc...
+Hmmm... I see.\nSo the best you can muster is a vague recollection?=Hừm... Ta hiểu rồi. Vậy là những gì tốt nhất ngươi có thể làm là một ký ức mơ hồ thôi sao?
+Heh... Heheheh...\nSo it's true... You really have forgotten everything.=Hừ... Hì hì hì... Vậy ra là thật... Ngươi thực sự đã quên hết mọi thứ.
+
+I forgot to mention before, but this audience chamber\nis enchanted with a lie detection charm.\nSo I can always tell whether you're telling the truth or not.=Ta quên chưa đề cập, nhưng căn phòng yết kiến này đã được yểm bùa phát hiện nói dối. Nên ta luôn có thể biết ngươi có đang nói thật hay không.
+As a result,\nI can now feel completely confident\nthat you know no more right now than a newborn infant.=Kết quả là, giờ đây ta có thể hoàn toàn tin tin rằng hiện tại ngươi chẳng biết gì nhiều hơn một đứa trẻ sơ sinh.
+Ahhh, what a relief.\nIt looks like this time, you won't pose any threat to me.=Aaa, thật nhẹ nhõm. Có vẻ như lần này, ngươi sẽ không gây ra bất kỳ mối đe dọa nào cho ta cả.
+Though of course...\nEven without your memories, you are still yourself.=Dù dĩ nhiên là... Ngay cả khi không có ký ức, ngươi vẫn là chính ngươi.
+The boy who, despite being completely and utterly ordinary,\nmanaged to sway the fate of the world, like a real hero.=Cái cậu thiếu niên, dù hoàn toàn bình thường đến mức không thể bình thường hơn, lại có thể xoay chuyển vận mệnh của cả thế giới như một vị anh hùng thực thụ.
+I've suffered far too much, in far too many timelines,\nbecause I treated you as beneath my attention.\nI've learned my lesson not to become overconfident.=Ta đã phải chịu đựng quá nhiều, trong quá nhiều dòng thời gian, chỉ vì ta đã coi thường ngươi. Ta đã rút ra bài học cho mình là không được quá tự mãn.
+Even if you did have help from Akira and Minerva,\nultimately it was you...=Ngay cả khi ngươi có sự giúp đỡ từ Akira và Minerva, thì cuối cùng vẫn là ngươi...
+A worthless, ordinary boy, who stood in my way\nand prevented me from achieving my goals.=Một thằng nhóc tầm thường vô giá trị, kẻ đã cản đường ta và ngăn cản ta đạt được mục tiêu của mình.
+So in this timeline...\nNow that the world, though tragically incomplete,\nhas been assembled in such a very convenient arrangement...=Vậy nên ở dòng thời gian này... Giờ đây khi thế giới, dù thiếu sót một cách bi thảm, đã được lắp ráp trong một sự sắp đặt vô cùng tiện lợi...
+I won't hold anything back.\nI'll do everything in my power\nto make my dream a perfect reality.=Ta sẽ không nương tay nữa. Ta sẽ làm mọi thứ trong quyền năng của mình để biến giấc mơ của ta thành hiện thực hoàn hảo.
+As for Minerva...\nFor whatever reason,\nthat brat doesn't approve of my grand vision.=Còn về Minerva... Vì bất cứ lý do gì, con nhóc đó không chấp thuận tầm nhìn vĩ đại của ta.
+Would you believe she actually tried to grant\nall those girls' petty wishes for love or friendship or whatever?=Ngươi có tin được không, nó thực sự đã cố gắng thực hiện tất cả những điều ước nhỏ mọn của lũ con gái về tình yêu hay tình bạn hay gì gì đó?
+Well, I have no need for such a worthless, simple-minded god.\nI'll take her place and shine down upon this world like the sun.\nI'm so close, so very close, to finally achieving my dream!=Chà, ta chẳng cần một vị thần vô dụng và thiển cận như thế. Ta sẽ chiếm lấy vị trí của nó và tỏa sáng xuống thế giới này như mặt trời. Ta đã ở rất gần, rất gần với việc cuối cùng cũng đạt được giấc mơ của mình rồi!
+Don't you think that's wonderful, {playername}?\nAhah! Ahahahah!=Ngươi không thấy điều đó thật tuyệt vời sao, {playername}? A ha! A ha ha ha ha!
+...You really don't understand any of this, do you?\nYou must think I'm a proper raving lunatic,\nprattling about delusions of grandeur.=...Ngươi thực sự chẳng hiểu gì về những chuyện này cả, đúng không? Chắc ngươi đang nghĩ ta đúng là một mụ điên thực sự, đang lảm nhảm về những ảo tưởng vĩ cuồng.
+If that's the best interpretation you can muster,\nall I can say is, "You poor, poor thing."=Nếu đó là cách giải thích tốt nhất mà ngươi có thể đưa ra, thì ta chỉ có thể nói rằng, "Ngươi thật là tội nghiệp, tội nghiệp quá đi."
+
+It looks like this is game over for you, I'm afraid.=Ta e rằng, trò chơi đã kết thúc với ngươi rồi.

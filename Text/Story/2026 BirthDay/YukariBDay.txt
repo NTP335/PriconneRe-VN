@@ -8,7 +8,7 @@ Yukari Ayase BDay
 ……これ、わらひのために……？\nもひかしてこれ……キミの手作りらの？\nら、らから早くウコンを飲んでって……なんれ……=Cái này... dành cho tui sao...? Chẳng lẽ cái này... là do tự tay cậu làm à? R-Rõ rồi, thảo nào cậu cứ bắt tui uống nước nghệ nhanh lên... là để...
 ……っ！\nちょ、ちょっと待っててね。\nんぐ、んぐ、んぐっ……！=...! Đ-Đợi tui một chút nhé. Ực, ực, ực...!
 ふうっ……意識ハッキリしてきたわ。\nあ……あの、ありがとう。\nまさかウコンをプレゼントされるとは思わなかったけど……=Phù... đầu óc tỉnh táo lại rồi. C-Cảm ơn cậu nhé. Tui không ngờ là lại được tặng nước nghệ vào ngày sinh nhật đâu đấy...
-でもこれで、今日のことちゃんと覚えてられる。\n{playername}くんが真剣にお祝いしようとしてくれてるのに、\n明日になったら覚えてない、なんて勿体ないもの。=Nhưng nhờ vậy mà tui có thể ghi nhớ kỹ chuyện ngày hôm nay. {playername}-kun đã nghiêm túc chúc mừng tớ như vậy, nếu để đến mai lại quên sạch thì thật là lãng phí quá.
+でもこれで、今日のことちゃんと覚えてられる。\n{playername}くんが真剣にお祝いしようとしてくれてるのに、\n明日になったら覚えてない、なんて勿体ないもの。=Nhưng nhờ vậy mà tui có thể ghi nhớ kỹ chuyện ngày hôm nay. {playername}-kun đã nghiêm túc chúc mừng tui như vậy, nếu để đến mai lại quên sạch thì thật là lãng phí quá.
 ……はい。\nちゃんとお祝いされる準備、できました。=...Vâng. Tui đã sẵn sàng để được chúc mừng một cách tử tế rồi đây.
 ありがと……だい好きらよ♪　……って！？\nま、まだ酔いが醒めてないみたい……\nあはは……一緒に夜風、当たりに行きましょ。=Cảm ơn cậu... Tui thích cậu nhìu nhắm ♪ ...Ơ kìa!? H-Hình như tui vẫn chưa tỉnh rượu hẳn thì phải... A ha ha... Chúng mình cùng ra ngoài hóng gió đêm chút đi.
 
