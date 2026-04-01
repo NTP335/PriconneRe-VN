@@ -1628,7 +1628,7 @@
 自身に行動速度アップ=Tăng Tốc Độ Hành Động của bản thân.
 自身に継続ダメージ=Áp dụng hiệu ứng sát thương liên tục (continuous damage) lên bản thân.
 
-ジオ・ニヴルヘルを縄張りとし、闇に潜み獲物を待ち伏せる。彷徨う者たちを夢幻に誘う。=Sinh vật tuyên bố vùng lãnh thổ Gio Niflheim, rình rập trong bóng tối để phục kích con mồi. Nó dụ dẫn kẻ lữ hành vào ảo ảnh như trong giấc mơ.
+ジオ・ニヴルヘルを縄張りとし、闇に潜み獲物を待ち伏せる。彷徨う者たちを夢幻に誘う。=Sinh vật tuyên bố vùng lãnh thổ Gio Nivlhel, rình rập trong bóng tối để phục kích con mồi. Nó dụ dẫn kẻ lữ hành vào ảo ảnh như trong giấc mơ.
 
 バトル開始時、味方全体の物理防御力と魔法防御力を小アップ。（ダウン不可）=Khi trận đấu bắt đầu, tăng một chút Phòng Thủ Thể Chất (P.DEF) và Phòng Thủ Ma Thuật (M.DEF) cho toàn bộ đồng minh. (Không thể bị giảm)
 ユニオンバーストは、物理もしくは魔法攻撃力が最も高い敵１キャラのステータスアップ効果を解除後、魔法特大ダメージを与え、ＴＰを特大ダウン。ダメージを無効化してもＴＰダウン。=Union Burst: Loại bỏ các hiệu ứng tăng chỉ số (stat buffs) từ kẻ địch có Tấn Công Thể Chất (P.ATK) hoặc Tấn Công Ma Thuật (M.ATK) cao nhất, sau đó gây Sát Thương Ma Thuật (M.DMG) khổng lồ và giảm mạnh TP của chúng. Ngay cả khi sát thương bị phản, hiệu ứng giảm TP vẫn có hiệu lực.
@@ -2446,3 +2446,20 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 対象が行動不能状態：魔法追加ダメージ=Nếu đối tượng trong trạng thái không thể hành động: Gây thêm sát thương ma pháp.
 ＴＰ増加不可無視=Bỏ qua hiệu ứng không thể tăng TP.
 目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理攻撃力と魔法攻撃力を特大ダウン、物理防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージと攻撃力・防御力ダウンの効果量は【魔眼】の数に応じて上昇する。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi lấy kẻ địch gần nhất làm trung tâm, đồng thời giảm cực đại Tấn công Vật lý và Tấn công Ma pháp, giảm nhẹ Phòng thủ Vật lý và tăng nhẹ sát thương nhận vào khi bị chí mạng. Lượng sát thương và hiệu quả giảm Tấn công/Phòng thủ của kỹ năng này sẽ tăng lên dựa trên số lượng 【Ma Nhãn】.
+
+
+
+前から敵３体に呪い（ＴＰ回復不可=Gây trạng thái Lời nguyền lên 3 kẻ địch phía trước (ngăn hồi phục TP).
+前から敵３体に恐慌=Gây trạng thái Khủng hoảng lên 3 kẻ địch phía trước.
+前から２／３番目の敵にスタン=Gây trạng thái Choáng lên kẻ địch thứ 2 và thứ 3 tính từ phía trước.
+前から２／３番目の敵に魔法ダメージ=Gây sát thương phép lên kẻ địch thứ 2 và thứ 3 tính từ phía trước.
+対象が恐慌状態：混乱=Nếu mục tiêu đang trong trạng thái Khủng hoảng: gây trạng thái Hỗn loạn.
+旧支配者の眷属を自称する、高笑いとマ$1ウンティングが十八番の傲慢令嬢。冥界で眠りに$1ついていた女神を依り代として信者拡大を謀る。=Một tiểu thư kiêu ngạo tự xưng là thuộc hạ của Cổ Thần, nổi tiếng với điệu cười lớn và thái độ bề trên. Cô ta âm mưu mở rộng tín đồ bằng cách sử dụng một nữ thần đang ngủ say ở minh giới làm vật chủ.
+敵全体に継続ダメージアップ=Tăng sát thương duy trì (DoT) lên toàn bộ kẻ địch.
+前から敵２体に物理攻撃力ダウン=Giảm lực tấn công vật lý của 2 kẻ địch phía trước.
+後ろから２番目中心範囲攻撃、毒=Tấn công phạm vi tập trung vào kẻ địch thứ 2 tính từ phía sau, đồng thời gây trạng thái Trúng độc.
+
+
+幻夢郷の狂信者=Cuồng tín đồ của Ảo Mộng Hương
+旧支配者の眷属を自称する、高笑いとマウンティングが十八番の傲慢令嬢。冥界で眠りについていた女神を依り代として信者拡大を謀る。=Một tiểu thư kiêu ngạo tự xưng là thuộc hạ của Cổ Thần, với đặc trưng là điệu cười lớn và luôn muốn lấn lướt người khác. Cô ta âm mưu mở rộng tín đồ bằng cách sử dụng một nữ thần đang ngủ say ở minh giới làm vật chủ.
+前から２番目攻撃、物防ダウン（ダメージ無効化時も付与）=Tấn công kẻ địch thứ 2 tính từ phía trước, giảm phòng thủ vật lý (áp dụng ngay cả khi sát thương bị vô hiệu hóa).

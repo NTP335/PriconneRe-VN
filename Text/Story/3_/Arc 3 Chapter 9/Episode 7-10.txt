@@ -1,12 +1,12 @@
 Part 3 Chapter 9 Second Half
 
 Chapter Titles
-晴れ渡るジオ・ゲヘナ=Một Geo Gehenna Tươi Sáng
+晴れ渡るジオ・ゲヘナ=Một Gio Gehenna Tươi Sáng
 アラクネの果て=Sự Kết Thúc Của Tiểu thư Arachne
 煉獄から冥界へ=Từ Phòng Xử Ác Đến Địa Ngục
 
 Chapter 4
-──レディ・アラクネ。\nジオ・ゲヘナの掌握と破壊を目論む六凶・魔蜘は、\n{playername}たちに幾重もの罠を仕掛け、絡め取ろうとする。=...Tiểu thư Arachne. Một trong Sáu Ác Nhân, Bàn Tay Phép Thuật, người âm mưu chiếm đoạt và phá hủy Geo Gehenna. Cô ấy đã thiết lập nhiều lớp bẫy cho {playername} và bạn bè của cậu ấy, cố gắng quấn lấy họ.
+──レディ・アラクネ。\nジオ・ゲヘナの掌握と破壊を目論む六凶・魔蜘は、\n{playername}たちに幾重もの罠を仕掛け、絡め取ろうとする。=...Tiểu thư Arachne. Một trong Sáu Ác Nhân, Bàn Tay Phép Thuật, người âm mưu chiếm đoạt và phá hủy Gio Gehenna. Cô ấy đã thiết lập nhiều lớp bẫy cho {playername} và bạn bè của cậu ấy, cố gắng quấn lấy họ.
 民を護ることに専念していたネフィ＝ネラを不意打ちで排除すると、\nペコリーヌたちに傀儡の糸を仕掛け同士討ちさせるアラクネ。\nさらには──=Sau khi đột ngột loại bỏ Nephy Nella, người tận tụy bảo vệ người dân của mình, Arachne đã giăng dây con rối lên Pecorine và những người khác, khiến họ đánh nhau với nhau. Hơn nữa...
 氷像に閉じ込められていたシェフィの魂が、\n粉々に砕かれた。=Lin hồn của Sheffy, bị mắc kẹt trong bức tượng băng, đã vỡ vụn thành từng mảnh.
 ──誰もがそう思った時、\n{playername}は模索路晶からコッコロを通じて渡されていた\n『蘇生プログラム』を使用する。そして──=...Ngay khi mọi người nghĩ rằng mọi thứ đã kết thúc, {playername} đã sử dụng "Chương Trình Sinh Hồi" đã được Akira Mosakuji trao cho cậu ấy thông qua Kokkoro. Và rồi...
@@ -100,7 +100,7 @@ Chapter 4
 「ぴゃあぁっ！？」\n「ぴよぉぉっ！？」=""PYAAAAAHH?!"" ""PIYOHHHHHH?!""
 ──媛。\nご無事ですか。=...Công chúa. Vậy cô vẫn ổn.
 無事などでありんせん。\n華氏一万余にも耐える我が身が、物の見事に全身大火傷の有様。\n今ようやっと、蘇生が叶った次第也。=Tôi không dám nói như vậy. Cơ thể tôi, vốn có thể chịu được nhiệt độ trên 10.000 độ Fahrenheit, đã bị bỏng rộng khắp. Tôi vừa mới tự hồi sinh xong.
-良かった～～！\nネフィ＝ネラさんが死んじゃってたら、\nジオ・ゲヘナも大変なことになっちゃってましたからね。=May quá! Nếu cô thực sự chết, Nephy Nella, Geo Gehenna sẽ gặp rắc rối to.
+良かった～～！\nネフィ＝ネラさんが死んじゃってたら、\nジオ・ゲヘナも大変なことになっちゃってましたからね。=May quá! Nếu cô thực sự chết, Nephy Nella, Gio Gehenna sẽ gặp rắc rối to.
 ペコリーヌ姫、騎士殿や皆様も。\n斯様な不始末を晒して仕舞い、誠に相済みませぬ。\nそれと──=Công chúa Pecorine, Đức Hiệp Sĩ, và tất cả mọi người. Tôi thực sự xin lỗi vì đã khiến các vị trải qua những hành vi sai trái của tôi. Và còn...
 モネや？\nわっちが弑されたと思い、心配したかえ？=Mone? Cô thực sự tin rằng tôi bị giết? Cô đã lo lắng phải không?
 ──……してません。\nいえ、少し……しましたけど──=......Tôi không. Không. Có lẽ tôi có...... chỉ một chút thôi.
@@ -116,7 +116,7 @@ Chapter 4
 ──媛。\nひとまず、【バンディ・シスターズ】の処刑の許可を──=...Công chúa. Tạm thời, tôi xin phép được thi hành án tử hình với hai chị em Bandy...
 ……ったくー=...Hừ, trời ạ.
 ……首を刎ねて贖いとするは、煉獄の世の定め……\nなれど。\n騎士殿に請われたとあらば、フム……=...Chém đầu để chuộc tội là một phần của luật lệ trong thế giới Purgatory này... Tuy nhiên, vì Đức Hiệp Sĩ phản đối, hmm...
-此れなる賊らの、ジオ・ゲヘナでの素行に於いては。\n騎士殿を護った事と、\nわっちとシェフィ殿の帰還をもって、恩赦と致しんしょう。=Về hành vi của những kẻ cướp này trong Geo Gehenna, tôi sẽ xá tội cho họ vì đã bảo vệ Hiệp Sĩ và cho phép tôi và Ngài Sheffy trở về an toàn.
+此れなる賊らの、ジオ・ゲヘナでの素行に於いては。\n騎士殿を護った事と、\nわっちとシェフィ殿の帰還をもって、恩赦と致しんしょう。=Về hành vi của những kẻ cướp này trong Gio Gehenna, tôi sẽ xá tội cho họ vì đã bảo vệ Hiệp Sĩ và cho phép tôi và Ngài Sheffy trở về an toàn.
 ほ、ほんとぉ？\nホントのホントにボクたちのコト、ゆるしてくれるの……？=S-Sao? Các vị thực sự sẽ tha thứ cho chúng tôi...?
 ……為れど。\nわっちの与り知るは此処迄に候。\n汝らが他の界にて犯せし悪行は、ペコリーヌ姫らに裁きを委ねる也。=...Tuy nhiên, đây là tất cả những gì tôi quan tâm. Tôi sẽ giao việc phán xét những hành vi ác các vị đã gây ra ở các thế giới khác cho Công chúa Pecorine và người của cô ấy.
 で、ですよね……=Đ-Điều đó hợp lý...
@@ -173,11 +173,11 @@ Cutscene
 
 Chapter 5
 暗い、暗い……=Bóng tối, chỉ có bóng tối...
-ジオ・ゲヘナの各地から、数々の宝を奪い。\nこれ程の眩い輝きを集めても……\n我が心の闇は、一向に晴れる兆しもない。=Tôi đã đánh cắp nhiều kho báu từ khắp Geo Gehenna. Dù đã thu thập biết bao nhiêu điều rực rỡ... bóng tối trong trái tim tôi vẫn chẳng có dấu hiệu tan đi.
+ジオ・ゲヘナの各地から、数々の宝を奪い。\nこれ程の眩い輝きを集めても……\n我が心の闇は、一向に晴れる兆しもない。=Tôi đã đánh cắp nhiều kho báu từ khắp Gio Gehenna. Dù đã thu thập biết bao nhiêu điều rực rỡ... bóng tối trong trái tim tôi vẫn chẳng có dấu hiệu tan đi.
 ああ。\n何故。\n何故だ──……=Ừ. Tại sao? Tại sao tôi...
-なにゆえに、我はこのような世界に閉じ込められている。\n炎と魔物の、荒々しく頑健なる大地。\nジオ・ゲヘナに。=Vì lý do gì tôi lại bị mắc kẹt trong một thế giới như thế này? Một vùng đất hoang vu, không khoan nhượng với lửa và quái vật. Cái "Geo Gehenna" này.
-……そして。\nなにゆえに、我はこのような疑念と懊悩を抱く。\n我はジオ・ゲヘナに生まれ、棲まうというに……=...Còn nữa. Tại sao tôi lại có những nghi ngờ và đau khổ như vậy? Tôi sinh ra ở Geo Gehenna và sống ở đó từ...
-否、否、否否否否。\n我の生まれはジオ・ゲヘナなどではない。\n我の棲まうべきは、このような穴倉などではない。=Không, không, KHÔNG, KHÔNG, KHÔNG!!! Tôi không sinh ra ở Geo Gehenna. Tôi không bao giờ nên sống trong một nơi bỏ đi như thế.
+なにゆえに、我はこのような世界に閉じ込められている。\n炎と魔物の、荒々しく頑健なる大地。\nジオ・ゲヘナに。=Vì lý do gì tôi lại bị mắc kẹt trong một thế giới như thế này? Một vùng đất hoang vu, không khoan nhượng với lửa và quái vật. Cái "Gio Gehenna" này.
+……そして。\nなにゆえに、我はこのような疑念と懊悩を抱く。\n我はジオ・ゲヘナに生まれ、棲まうというに……=...Còn nữa. Tại sao tôi lại có những nghi ngờ và đau khổ như vậy? Tôi sinh ra ở Gio Gehenna và sống ở đó từ...
+否、否、否否否否。\n我の生まれはジオ・ゲヘナなどではない。\n我の棲まうべきは、このような穴倉などではない。=Không, không, KHÔNG, KHÔNG, KHÔNG!!! Tôi không sinh ra ở Gio Gehenna. Tôi không bao giờ nên sống trong một nơi bỏ đi như thế.
 魔法ではなく、学問が究められた世界。\n数限りない電気の輝きが、夜闇の暗がりを薄めた世界。\nそうだ──……=Một thế giới nơi tri thức học thuật, chứ không phải phép thuật, đã được hoàn thiện. Một thế giới nơi ánh sáng của vô số ngọn đèn do điện tạo ra pha loãng bóng tối của đêm. Đúng vậy...
 あるはずだ。\nあらねばならぬ。\nこの世界の外の、何処かに……我が生まれ育った、『本当の世界』が。=Có một. Chắc chắn phải có một. Ở đâu đó bên ngoài thế giới này... "thế giới thực" nơi tôi được sinh ra và nuôi dưỡng.
 偶然に開く、空間の穴などではまるで足らぬ。\n我が巨躯を安全に通すには、途方もなく巨きな穴を開けねばならぬ。\nこの世界が歪み、砕け散っても省みぬほどの。=Một lỗ hổng không gian mở ra ngẫu nhiên là không đủ. Để cơ thể khổng lồ của tôi có thể đi qua an toàn, tôi phải mở một lỗ hổng cực kỳ lớn. Tôi sẽ không quan tâm nếu thế giới này bị biến dạng và vỡ vụn trong quá trình đó.
@@ -205,22 +205,22 @@ Chapter 5
 貴ッ、様……！\n我が蔵から呉れてやった宝物の数々では、足りぬと申すか……！=C-Cậu khốn...! Những kho báu tôi đã cho cậu từ kho của ta chưa đủ cho cậu...?!
 ええ、まあ。\nアレには、品性に欠けた雇用主から命令を受ける\n精神的な苦痛への手当が含まれていませんでしたから。=Ừ, đúng vậy. Nó không bao gồm bồi thường cho nỗi đau tinh thần khi bị một người thuê thiếu tôn trọng ra lệnh.
 グッ……\nグゥゥゥッ……！！=Ực...... GWAAAAAHHHHHH......!!
-ああ。\n大負けに負けて、ジオ・ニヴルヘルへの出張費は\n査定に入れないでおきますよ。=Ừ. Tôi cũng sẽ chịu một khoản lỗ lớn ở đây và không bao gồm chi phí chuyến đi của tôi đến Geo Niflhell trong đánh giá tổng thể.
+ああ。\n大負けに負けて、ジオ・ニヴルヘルへの出張費は\n査定に入れないでおきますよ。=Ừ. Tôi cũng sẽ chịu một khoản lỗ lớn ở đây và không bao gồm chi phí chuyến đi của tôi đến Gio Niflhel trong đánh giá tổng thể.
 あの世界では……ドラゴン族の少女の魂だけでなく。\n得られるものが、とても多かったので。=Ở thế giới đó... không chỉ có linh hồn cô gái rồng đâu. Có còn nhiều thứ khác có thể đạt được.
 ッ……\n……=Kh............
 ……そう。\n私の叶えたい『願い』のための。\n世界を革命するための──=...Đúng rồi. Vì "ước nguyện" tôi muốn thực hiện. Vì cách mạng hóa thế giới.
 オルペウス計画のための。=Vì "Dự án Orpheus".
 ──ああ。もう、聞こえていませんか。\nでは……さようなら、レディ。\n永遠に。=...Aaa. Có vẻ cô không thể nghe thấy tôi nữa. Vậy thì... ...Tạm biệt, Tiểu thư. Mãi mãi.
-一方──\nジオ・ゲヘナの鬼岩城塞では、\n勝利を記念する盛大な宴が行われていた。=Trong khi đó, tại Demon's Foot Fortress của Geo Gehenna, một bữa tiệc lớn được tổ chức để kỷ niệm chiến thắng gần đây.
+一方──\nジオ・ゲヘナの鬼岩城塞では、\n勝利を記念する盛大な宴が行われていた。=Trong khi đó, tại Demon's Foot Fortress của Gio Gehenna, một bữa tiệc lớn được tổ chức để kỷ niệm chiến thắng gần đây.
 かんぱーーーいっ！=CỐC CỐC!
 わ～っ！\nはちみつドリンクっていうの、おいし～っ♪=Ồ! Đồ uống làm từ mật ong NGON QUÁ TRỜI! ♪
 ナーナさん、私にも一口っ……\nそちらを飲んだら、とっても神力が回復しそうな気がするので……！=Nana-san, để tôi uống một ngụm nữa... Nếu tôi uống, tôi cảm thấy thần lực của mình sẽ được phục hồi rất nhiều...!
 ……ふぅ。\nこの甘さ……辛さとは正反対の、慣れ親しんだ味。\n染みわたります。本当に……=...Phew. Vị ngọt này... trái ngược với vị cay, một vị quen thuộc. Nó thấm vào trái tim tôi. Thật sự...
-えへへっ♪　姫さまの無事を伝えるために、ジオ・テオゴニアまで\nひとっ飛びして。ついでにいろいろ食べ物を持ってきましたからっ！\nささっ、シェフィさんもどうぞっ♪=Ehehe♪ Tôi bay hẳn đến Geo Teogonia để thông báo cho mọi người rằng Nàng công chúa an toàn. Và nhân tiện, tôi cũng mang về tất cả đồ ăn mà tôi có thể tìm thấy! Nào, Sheffy, cậu cũng có thể ăn một chút♪
+えへへっ♪　姫さまの無事を伝えるために、ジオ・テオゴニアまで\nひとっ飛びして。ついでにいろいろ食べ物を持ってきましたからっ！\nささっ、シェフィさんもどうぞっ♪=Ehehe♪ Tôi bay hẳn đến Gio Teogonia để thông báo cho mọi người rằng Nàng công chúa an toàn. Và nhân tiện, tôi cũng mang về tất cả đồ ăn mà tôi có thể tìm thấy! Nào, Sheffy, cậu cũng có thể ăn một chút♪
 どうもありがとう。\nえっと……クローチェさん、だったかしら？=Cảm ơn rất nhiều. Ưm... Croce, phải không?
 はいっ♪\nライラエルさまのシュヴァリエの、機械人族のクローチェですっ♪=Vâng♪ Tôi là Kỵ sĩ của Nữ sĩ Lyrael, một Automaton, Croce♪
 えっ？\n機械人族……？\nあなたの世界には、そんな種族がいるのね……=Hả? "Automaton" cậu nói...? Không ngờ ở thế giới của cậu lại tồn tại chủng tộc như vậy...
-あはっ、実はジオ・テオゴニアでも珍しいんですよー♪\n腕とか取れちゃいますしっ！\nほらっ！=Aha! Thực ra, tôi cũng là một sự tồn tại hiếm ngay cả ở Geo Teogonia♪ Tôi cũng có thể tháo tay ra! Nhìn kìa!
+あはっ、実はジオ・テオゴニアでも珍しいんですよー♪\n腕とか取れちゃいますしっ！\nほらっ！=Aha! Thực ra, tôi cũng là một sự tồn tại hiếm ngay cả ở Gio Teogonia♪ Tôi cũng có thể tháo tay ra! Nhìn kìa!
 わぁあっ！？\nどういう身体してるのそれっ……！？=CÁI GÌ THẾ!? Đó là loại cơ thể nào...!?
 ヴァイオレット姫。\n負けていられませんよ。\n私たちも外しますか。腕。=Công chúa Violet, chúng ta không thể để thua cô ta. Chúng ta cũng nên tháo chúng ra chứ? Cánh tay của chúng ta.
 は、外しません……！\nグレイスったら……\nそのことはまだ、騎士様とだけの秘密ですからね……？=T-Tôi không thể làm vậy...! Grace, cô... Đó vẫn là bí mật giữa chúng tôi và Hiệp sĩ, phải không...?
@@ -299,9 +299,9 @@ Chapter 5
 えっ、ホマレさん……！？=Hả? Homare-san...?!
 やだ、冗談冗談♪\nてへっ☆=Ôi không, đó chỉ là một trò đùa, một trò đùa! Tôi đang đùa thôi♪ Teehee☆
 ……もう。\nあ、そういえば……=...Thôi đi. À, nhắc mới nhớ...
-向こうにいるジオ・テオゴニアのメイドの子たち、\nドラゴン族みたいだけど。\nホマレさん、声を掛けないの？=Hai người hầu gái từ Geo Teogonia kia, trông giống người rồng. Homare-san, cô không định nói chuyện với họ sao?
+向こうにいるジオ・テオゴニアのメイドの子たち、\nドラゴン族みたいだけど。\nホマレさん、声を掛けないの？=Hai người hầu gái từ Gio Teogonia kia, trông giống người rồng. Homare-san, cô không định nói chuyện với họ sao?
 もうっ！\nヴルムってば、食べ過ぎよ？\nペコリーヌさんほどじゃないけど……=Thôi đi! Mày ăn quá nhiều rồi, Wyrm! Không nhiều bằng Pecorine, nhưng vẫn...
-や。\nだって多分、この宴会終わったらジオ・テオゴニアに戻りじゃん？=Không, ý tôi là. Sau buổi tiệc này, chúng ta sẽ về Geo Teogonia thôi đúng không?
+や。\nだって多分、この宴会終わったらジオ・テオゴニアに戻りじゃん？=Không, ý tôi là. Sau buổi tiệc này, chúng ta sẽ về Gio Teogonia thôi đúng không?
 そしたら当分、こっちの料理食べられなくなるし。\nちょっと食い溜めしとこっかなーって。=Nếu về, tôi sẽ không thể ăn những món như thế này được một thời gian. Nên tôi nghĩ, lợi thế còn ăn thêm vài món hiếm khi còn có cơ hội.
 とかいって。\n「ここだと給仕のお仕事しないでいいから楽～」\nとか思ってるんじゃないでしょうね？=Trong khi thực tế mày đang nghĩ: 'Ở đây không phải làm phục vụ, dễ chịu quá~', đúng không?
 ……もうっ。\n口元もこんなに汚して……\nほら、拭いてあげるからこっち向いて。=...Thôi đi. Miệng mày bẩn thật... Đây, tôi lau giúp, nhìn thẳng tôi một chút đi.
@@ -324,7 +324,7 @@ Chapter 5
 そうです──これ。\n渡しておきます。=Điều này nhắc mình... Đây, cầm lấy.
 これは……薬？=Đây là... thuốc à?
 ゲヘナオケラソウとか、マンドラニンジンとかを使った、\n消化を助ける薬──です。=Đây là thuốc hỗ trợ tiêu hóa, làm từ những thứ như "Gelatine Gehenna" và "Cá Carp Mandragora".
-他の世界から来たひとたちを観察していて──\n最近、わかったんですが。\nジオ・ゲヘナの食事は、慣れない人には刺激が強い──みたいで。=Mình đã quan sát người từ thế giới khác... và gần đây nhận ra rằng đồ ăn ở Geo Gehenna khá kích thích... với những người chưa quen.
+他の世界から来たひとたちを観察していて──\n最近、わかったんですが。\nジオ・ゲヘナの食事は、慣れない人には刺激が強い──みたいで。=Mình đã quan sát người từ thế giới khác... và gần đây nhận ra rằng đồ ăn ở Gio Gehenna khá kích thích... với những người chưa quen.
 だから──念のため、薬を。\n蘇ってすぐ戦って、体調も万全とは言い難いでしょうし──\n一応。=Vì vậy... Để phòng trường hợp, mình đã chuẩn bị một ít thuốc cho cậu. Cậu vừa chiến đấu ngay sau khi được hồi sinh như vậy, nên khó nói là sức khỏe của cậu đã hoàn toàn ổn chưa... chỉ để an toàn.
 ……ありがとう。\nあなたって、すごく親切なのね。\nアネモネさん。=...Cảm ơn. Cậu thật tốt bụng, Anemone.
 ──そんな、ことは──=...Không phải...
@@ -383,7 +383,7 @@ Chapter 6
 ……コッコロさん。\nまだ諦めてなかったのね、迷子紐……=...Kokkoro-san. Em vẫn chưa bỏ cuộc ý tưởng đó, phải không? Sợi dây trẻ lạc...
 プレシアちゃん、どうしたんですか？\n……あ。=Sao thế, Precia? ...Ồ.
 ──あれだけ用意した食事が、もう全部なくなってる──？=...Tất cả đồ ăn chúng ta đã chuẩn bị đã biến mất rồi...?
-あははっ♪\nジオ・テオゴニアからどっさり持ってきたお菓子も、\nなくなっちゃいましたね～っ！=Ahaha♪ Tất cả đồ ngọt em mang từ Geo Teogonia qua cũng hết sạch rồi!
+あははっ♪\nジオ・テオゴニアからどっさり持ってきたお菓子も、\nなくなっちゃいましたね～っ！=Ahaha♪ Tất cả đồ ngọt em mang từ Gio Teogonia qua cũng hết sạch rồi!
 はぁ～～っ！！？\nあたくしまだ全ッ然召し上がってないんですけれどっ！？=HÚT?! Nhưng em vẫn chưa ăn no mà?!
 どこに行っちゃったんでしょうね。\n最初はあんなにあったのに……=Không biết chúng đi đâu hết. Lúc nãy còn có đống đồ ăn ở đây cơ mà...
 ふしぎ。=Một bí ẩn.
@@ -403,9 +403,9 @@ Chapter 6
 それにいざとなったら、\n背中に貼った呪紋石板がボカン！　ですから～\nふふっ♪=Và nếu các cô làm điều gì xấu, bảng đá nguyền rủa dính trên lưng sẽ nổ! Nên~ Hehe♪
 んぴいぃぃっ！？\nあれって爆弾魔法だったのぉ！？\nやだやだやだ、取って取って取って～っ！=NPIIIIIIIII?! Thế là cô đã ném phép thuật bom lên chúng tôi?! KHÔNG, KHÔNG, KHÔNG! LÀM ƠN LẤY NÓ RA KHỎI NGƯỜI TÔI ĐIEEEEEE!
 オタオタすんじゃないよ、フブキ。\nこうなったら腹ァ括りな。=Đừng hoảng loạn bừa bãi thế, Fubuki. Đến nước này rồi, hãy tỉnh táo lại.
-……どうする？\nジオ・テオゴニアの姫さんよ。\nアタシの砲撃を、アンタの城にブチこんでやったコトもあったねェ。=...Cô muốn làm gì, Công chúa Geo Teogonia? Tôi là người đã pháo kích lâu đài của cô trước đó, nhớ chứ.
+……どうする？\nジオ・テオゴニアの姫さんよ。\nアタシの砲撃を、アンタの城にブチこんでやったコトもあったねェ。=...Cô muốn làm gì, Công chúa Gio Teogonia? Tôi là người đã pháo kích lâu đài của cô trước đó, nhớ chứ.
 ……そうですね。\n今回の一件も含め、処分を考えなくてはならないでしょう。=...Đúng vậy. Chúng ta sẽ phải xem xét các biện pháp kỷ luật, bao gồm cả vụ việc lần này.
-……フン。\nああ、それに……アタシがさっき\nぶった斬ってやった、ジオ・ニヴルヘルの姫さんもいるじゃないか。=...Hmph. Ồ, và còn có Công chúa Geo Niflhell, người tôi đã chém thành mảnh cách đây không lâu.
+……フン。\nああ、それに……アタシがさっき\nぶった斬ってやった、ジオ・ニヴルヘルの姫さんもいるじゃないか。=...Hmph. Ồ, và còn có Công chúa Gio Niflhel, người tôi đã chém thành mảnh cách đây không lâu.
 バラバラにしてやったってのに、なんで生きてンのかは知らないが……\nアンタが一言言えば、アタシの首を刎ねて\nやり返すコトだってできるンだよ。=Tôi không biết tại sao hay thế nào cô vẫn sống được khi tôi chém cô thành mảnh, nhưng... Chỉ cần nói một từ, tôi chắc chắn cô có thể lấy lại mạng tôi và chém tôi tại chỗ này.
 ……確かに、貴方がたとは遺恨がありますが……=...Chắc chắn rồi, chúng tôi có rất nhiều lý do để oán hận các cô gái...
 姫。\nどうしますか。=Công chúa, chúng ta nên làm gì?
@@ -418,13 +418,13 @@ Chapter 6
 はい。\nノーダメです。\nノーダメ。=Đúng. Không nhận damage. Tuyệt đối không.
 ヴァイオレット姫、それでは……=Công chúa Violet, vậy thì...
 ……はい。\n【バンディ・シスターズ】の方々の処置は、皆さまに委ねます。=...Đúng. Tôi sẽ giao việc trừng phạt hai chị em "Bandy Sisters" cho mọi người.
-もしこの場に、他のジオ・ニヴルヘルの代表者がいたのなら\nこの結論は下せなかったかもしれませんが。\nわたくし個人としては……命を奪うような贖いなど、決して望みません。=Nếu có đại diện nào khác của Geo Niflhell ở đây, tôi có thể đã không đi đến kết luận này. Về cá nhân... tôi không bao giờ mong muốn bất kỳ ai phải chịu một hình phạt lấy đi mạng sống của họ.
+もしこの場に、他のジオ・ニヴルヘルの代表者がいたのなら\nこの結論は下せなかったかもしれませんが。\nわたくし個人としては……命を奪うような贖いなど、決して望みません。=Nếu có đại diện nào khác của Gio Niflhel ở đây, tôi có thể đã không đi đến kết luận này. Về cá nhân... tôi không bao giờ mong muốn bất kỳ ai phải chịu một hình phạt lấy đi mạng sống của họ.
 何故ならば……本来\n命とは、一度失われてしまえば\nそれきりなのですから。=Rốt cuộc... Bình thường, mạng sống là thứ một khi mất đi sẽ không bao giờ quay trở lại.
 ヴァイオレット様……=Công nương Violet...
-……ずいぶん、お優しい判断ですけど。\nそれでいいんですか？\nジオ・ニヴルヘルのシュヴァリエ氏。=...Đó là một quyết định rất tử tế. Cô cũng đồng ý với lời nói của cô ấy chứ? Cô Chevalier của Geo Niflhell.
-……まあ。\n姫が決めたことなら、従うまでですよ。\nジオ・テオゴニアのメイド氏。=...Ừ, nếu đó là quyết định của công chúa thì tôi cứ theo vậy. Cô hầu gái của Geo Teogonia.
+……ずいぶん、お優しい判断ですけど。\nそれでいいんですか？\nジオ・ニヴルヘルのシュヴァリエ氏。=...Đó là một quyết định rất tử tế. Cô cũng đồng ý với lời nói của cô ấy chứ? Cô Chevalier của Gio Niflhel.
+……まあ。\n姫が決めたことなら、従うまでですよ。\nジオ・テオゴニアのメイド氏。=...Ừ, nếu đó là quyết định của công chúa thì tôi cứ theo vậy. Cô hầu gái của Gio Teogonia.
 ……シェフィ氏のような奇跡は、\nそうそう起きるものではありませんしね。=...Những phép màu như chuyện của Sheffy chỉ xảy ra một lần duy nhất.
-……では。\nジオ・テオゴニア側も、ペコリーヌ姫に裁定を委ねようと思います。=...Với điều đó, tôi nghĩ phía Geo Teogonia cũng sẽ giao phán quyết cho Công chúa Pecorine.
+……では。\nジオ・テオゴニア側も、ペコリーヌ姫に裁定を委ねようと思います。=...Với điều đó, tôi nghĩ phía Gio Teogonia cũng sẽ giao phán quyết cho Công chúa Pecorine.
 元来、【バンディ・シスターズ】はアストルムの方から\nやってきたようですし。\n捕縛したのも、騎士たちですしね。=Hai chị em Bandy Sisters dường như vốn đến từ Astrum. Hơn nữa, chính Hiệp sĩ và bạn bè của ngài ấy đã bắt giữ chúng.
 ……わかりました。\n無罪放免、とは流石にいきませんが……\n命についての考えは、わたしもヴァイオレットさんと同じ気持ちです。=...Hiểu rồi. Tôi không nói tôi sẽ buông tha hay xóa bỏ tội lỗi cho cô, nhưng... tôi chia sẻ triết lý về sự sống giống như Violet.
 ペコリーヌ姫……\n感謝いたしますわ。=Công chúa Pecorine... Tôi biết ơn những lời của cô.
@@ -437,45 +437,45 @@ Chapter 6
 あ。\nさっきも言ったように、無罪放免じゃないですよ？\n当分は、檻の中で過ごしてもらうことにはなるかと思います。=À. Như tôi đã nói trước đó, cô không được xóa tội, nhớ chứ? Tôi nghĩ cô sẽ phải ở tù một thời gian đã.
 え～～っ！？\nそんなぁ～～～っ！=CÁI GÌ?! ĐÓ LÀ KHÔNG THỂ!
 えーっと？\nキャルさん、冒険に出るって言ってましたけどっ。\nこれからのこと、決まってるんですかっ？=Để xem... Kyaru, cậu nói mọi người sắp đi phiêu lưu mới. Các cậu đã quyết định nơi phiêu lưu đó sẽ là ở đâu chưa?
-あっ、またジオ・テオゴニアに来たりしますかっ？\nシェフィさんにも、わたしたちの世界を案内したいですっ♪=À, cô có quay lại thăm Geo Teogonia nữa không? Tôi cũng muốn dẫn cô đi xem thế giới của chúng tôi nữa, Sheffy♪
+あっ、またジオ・テオゴニアに来たりしますかっ？\nシェフィさんにも、わたしたちの世界を案内したいですっ♪=À, cô có quay lại thăm Gio Teogonia nữa không? Tôi cũng muốn dẫn cô đi xem thế giới của chúng tôi nữa, Sheffy♪
 ありがとう、クローチェさん。\n……でも……=Cảm ơn, Croce. ...Nhưng...
-ジオ・テオゴニアにも\nまだ行ってないところはたくさんあるし。\nそうしたいのは山々だけど……=Ở Geo Teogonia cũng còn nhiều nơi mà bốn đứa chúng tôi chưa đi... Về cá nhân, tôi rất muốn, tuy nhiên...
+ジオ・テオゴニアにも\nまだ行ってないところはたくさんあるし。\nそうしたいのは山々だけど……=Ở Gio Teogonia cũng còn nhiều nơi mà bốn đứa chúng tôi chưa đi... Về cá nhân, tôi rất muốn, tuy nhiên...
 わたくしたちには、\n目指さなくてはならない場所があります。=Kể từ khi bắt đầu chuyến đi này, đã có một nơi, một mục tiêu, chúng tôi đang nhắm đến.
 それで……ですね。\nヴァイオレットさんに、折り入ってお願いしたいことがあって……=Và nói về chuyện đó... cô thấy đấy, có điều tôi muốn nhờ cô, Violet...
 ……はい。\n騎士様から、少しだけお話をお伺いしておりますわ。=...Được. Chủ nhân Hiệp sĩ đã kể cho tôi một chút về nhiệm vụ của các cậu.
-わたくしたちの世界……\nジオ・ニヴルヘルの御案内。\n謹んで、お引き受けしたいと思います。=Thế giới của chúng tôi... Một người dẫn đường đến Geo Niflhell. Tôi sẽ vô cùng vinh dự được đón nhận yêu cầu đó.
+わたくしたちの世界……\nジオ・ニヴルヘルの御案内。\n謹んで、お引き受けしたいと思います。=Thế giới của chúng tôi... Một người dẫn đường đến Gio Niflhel. Tôi sẽ vô cùng vinh dự được đón nhận yêu cầu đó.
 まぁ……よろしいのですか？\nヴァイオレット様。=Ồ... Công nương Violet, cô thực sự chắc chứ?
 ありがと。\nございます。=Cảm ơn. Rất nhiều.
 ていうか{playername}、あんたいつの間に……=Không, thực ra thì, {playername}... Hai người quen nhau từ khi nào vậy...
 はい……流石は主さまです。\n女性の御友人が、また増えているとは……\n「主さまのお知り合いカウンター」が、鳴り響いてしまいます……=Đúng... Tôi đoán đây là điều phải có từ Chủ nhân. Nghĩ rằng cậu ấy còn kết thêm bạn nữa trong khi chúng tôi không để ý... "Bộ đếm người quen của Chủ nhân" lại kêu lên một lần nữa...
-……でも、みなさん。\nまた必ず、ジオ・テオゴニアにも来てくださいね？=...Nhưng, mọi người, ngay cả khi vậy... Hãy đảm bảo quay lại Geo Teogonia một lần nữa, được chứ?
+……でも、みなさん。\nまた必ず、ジオ・テオゴニアにも来てくださいね？=...Nhưng, mọi người, ngay cả khi vậy... Hãy đảm bảo quay lại Gio Teogonia một lần nữa, được chứ?
 もちろんです♪\nクルルちゃんやヴォルガーノさんたちにも、\nまた会いたいですし……=Tất nhiên chúng tôi sẽ quay lại♪ Kururu, Volgano, và những người khác... Chúng tôi chắc chắn cũng muốn gặp họ lần nữa!
 おかし。\nまた、たべたい。\nですし。=Món bánh của cô. Tôi rất thích. Ăn lại nữa.
 よろしくお願いします。\n姉貴が寂しんガールなんで。=Cứ đến bất cứ khi nào cô muốn. Tôi nói với cô đấy, em gái tôi là một cô gái cô đơn.
 ヴルム！？\n寂しんガールって何よもうっ……！=Rồng?! Ông muốn nói "cô gái cô đơn" là sao, trời ơi...?!
 ……でも。\n約束、ですよ？=...Nói vậy thì, đây là một lời hứa rồi nhé?
 気持ちは、とてもよくわかりますが……リンド。\n騎士を困らせてはいけませんよ。=Tôi hiểu cảm xúc của cô, Lind, nhưng cô không được làm phiền Hiệp sĩ như vậy.
-わたしたちは、この宴が終われば国へ帰らなくてはなりません。\nだから、今の貴重な時間を楽しみ……そして\nジオ・ゲヘナの方々との親睦も、深めさせていただきましょう。=Chúng ta phải quay về đất nước sau bữa tiệc này. Vì vậy, hãy tận hưởng khoảng thời gian quý giá còn lại... và củng cố tình bạn với người dân Geo Gehenna và các vị khách khác.
-宣なるかな。魔蜘の討伐に尽力し、\n我が臣民を御守り下さったジオ・テオゴニアの皆々様……\n笑顔にせずにお帰り頂くは、媛の名が廃るというものであり申す。=Tôi sẽ đưa ra tuyên bố. Đối với tất cả người dân Geo Teogonia có mặt ở đây, những người đã làm việc chăm chỉ để đánh bại Nhện Ma Thuật và bảo vệ các thần dân trung thành của tôi... Nếu các vị rời đi mà không có nụ cười trên mặt, đó sẽ là một sự nhục nhã cho tên Công chúa này, tôi nói vậy.
+わたしたちは、この宴が終われば国へ帰らなくてはなりません。\nだから、今の貴重な時間を楽しみ……そして\nジオ・ゲヘナの方々との親睦も、深めさせていただきましょう。=Chúng ta phải quay về đất nước sau bữa tiệc này. Vì vậy, hãy tận hưởng khoảng thời gian quý giá còn lại... và củng cố tình bạn với người dân Gio Gehenna và các vị khách khác.
+宣なるかな。魔蜘の討伐に尽力し、\n我が臣民を御守り下さったジオ・テオゴニアの皆々様……\n笑顔にせずにお帰り頂くは、媛の名が廃るというものであり申す。=Tôi sẽ đưa ra tuyên bố. Đối với tất cả người dân Gio Teogonia có mặt ở đây, những người đã làm việc chăm chỉ để đánh bại Nhện Ma Thuật và bảo vệ các thần dân trung thành của tôi... Nếu các vị rời đi mà không có nụ cười trên mặt, đó sẽ là một sự nhục nhã cho tên Công chúa này, tôi nói vậy.
 ヲ～ッホッホッホ！　おだらしありませんわねぇネフィ＝ネラ！\nアナタのそのプリンセスの座、この高貴かつ気品に溢れまくり～な\nあたくし様が代わって差し上げても構いませんでしてよっ！？=Ô HÔ HÔ HÔ! Cô lóng ngóng quá, Nephy Nella! Ngai vàng công chúa của cô cao quý và tràn đầy sang trọng vậy, nên với một hai nhục nhạc trong tên, tôi không nên lấy chỗ của cô ngay bây giờ sao?!
 ……はて。騒ぎ続きで、失念しておったわ。\n我が宝を盗み、九頭竜権現の封を解いた痴れ者にも──\n罰を与えねばなるまいな。=...Vậy thì. Tôi đã quên mất vì mọi rối rắm xảy ra giữa chừng. Kẻ ngốc đã trộm kho báu của tôi và mở khóa Thủy Long Bảy Đầu vẫn đang chờ hình phạt.
 ──ひっ！！？\nああああたくしをどうするおつもりなのですの！？\nこここここっちはケガ人でしてよケガ人っ！=EEEEEKKKK!!? C-C-Cô định làm gì với tôi chính xác!? T-T-Tôi bị thương, t-T-Tôi bị thương đấy!
 祝いの席ならば、血生臭い仕儀は申さぬ。\n此処は一つ──芸のひとつも披露して貰わねばなるまいて。=Vì chúng ta đang vui vẻ ăn mừng ở đây, tôi sẽ không yêu cầu hay đòi hỏi bất cứ điều gì đẫm máu từ cô. Thay vào đó, tôi sẽ yêu cầu cô cho tôi xem một hai mánh khóe.
-そうさ喃──\n其方の、ジオ・テオゴニアの近侍殿や。=Đúng vậy. Cô ở kia, Chevalier đến từ Geo Teogonia.
+そうさ喃──\n其方の、ジオ・テオゴニアの近侍殿や。=Đúng vậy. Cô ở kia, Chevalier đến từ Gio Teogonia.
 わたしですかっ？=Tôi ư?!
 お前さまは確か、『はぐ』を好んでおられましたな。\nカノンもまた、袖すり合うを好む者なれば。\n是非思い切り、『はぐ』をして頂けませんかの。=Theo tớ nhớ thì cậu thích " ôm " đúng không? Kanon ở đây cũng là người thích chạm vai với người khác. Làm ơn, làm ơn hãy tặng cô ấy một " cái ôm " bằng tất cả trái tim mình đi.
 わぁ～っ、いいんですかっ？\nそれじゃあクローチェ、いきますっ♪=Ồ, cậu chắc chứ? Vậy thì Croce tới đây! ♪
 ヲ～ッホッホ何かと思えばその程度ですの！？\n馬ボーンに当てられて、随分お甘くなったものですわねネフィ＝ネラ……\nあっ──ちょっ何この娘っ力強すぎぃいいいっだだだああああっ！？=Ô HÔ HÔ! Tôi đang thắc mắc sẽ là gì, nhưng đây là tất cả sao?! Cô đã trở nên khá ngây thơ sau khi bị mê hoặc bởi thằng con trai nô lệ xuất thân thấp hèn, phải không Nephy Nella...? À... chờ đã, sao cô gái này lại MẠNH QUÁ THẾ, AAAAAAAAHHHHHHHHHHHH!?
 ん。\nかれー\nおいし。=Ừm. Cà ri. Ngon.
-わぁ～、本当です！\nご家庭の味とジオ・ゲヘナのスパイスが噛み合って、\n思わず走りたくなるくらいおいしいですよ～っ！=Ồ, cậu nói đúng! Sự kết hợp giữa hương vị nấu tại nhà và gia vị Geo Gehenna ngon đến mức khiến tớ muốn chạy nhanh hơn! ( Ghi chú: Đùa về chế độ Caravan )
+わぁ～、本当です！\nご家庭の味とジオ・ゲヘナのスパイスが噛み合って、\n思わず走りたくなるくらいおいしいですよ～っ！=Ồ, cậu nói đúng! Sự kết hợp giữa hương vị nấu tại nhà và gia vị Gio Gehenna ngon đến mức khiến tớ muốn chạy nhanh hơn! ( Ghi chú: Đùa về chế độ Caravan )
 き、気に入ってもらえて、良かったです……えへへ。=T-Tớ mừng là cậu thích... Hehehe.
 そんなにも、美味なのですか？\nわたしも、一匙くらいなら……=Ngon đến thế ư? Vậy tớ cũng muốn thử, nếu chỉ một muỗng thôi...
 止めときましょうね、ライラエルさま。\n他の世界のプリンセスの前で、のたうち回りたくなければ。=Để tớ ngăn cậu lại đây, Công Chúa Lyrael. Nếu cậu không muốn quằn quại trước mặt các công chúa từ thế giới khác, thì đấy.
 えへへっ♪\nはぐ～～～～っ！！=Hehehe♪ ÔMMMMMMM~!!
 んﾞのﾞほおﾞおﾞぉﾞぉﾞっ！\nぢょっどおﾞ誰か助けなさいよﾞおﾞおﾞおﾞおﾞおﾞっ！？\n出ちゃうﾞっ、さっき食べたの出ちゃうﾞうﾞぅﾞっ────あっ。=KHÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔÔ! C-C-Có người... cứu tớ với! Nó sắp ra rồi! Cái tớ vừa ăn, nó sắp BẮT ĐẦU RA RỒI!! ...À!
 シェフィの帰還と、勝利を祝う宴。\n各世界のプリンセスとその仲間たちは同じ時間を共有し、\n笑い合い、新たな絆を結ぶのだった。=Một bữa tiệc để ăn mừng sự trở về của Sheffy và chiến thắng vào ngày hôm đó. Các công chúa từ mỗi thế giới và đồng đội của họ chia sẻ thời gian, cười đùa cùng nhau, và tạo ra những mối quan hệ mới.
-──そして。\n宴が終わり、\nライラエルたちがジオ・テオゴニアに戻って、しばらくの後……=...Và rồi. Cỗi tiệc kết thúc, Lyrael và những người khác trở về Geo Teogonia, và một thời gian sau...
-{playername}たちが、\nジオ・ニヴルヘルへと旅立つ日がやってきた。=Ngày đã đến khi {playername} và những người khác lên đường đến Geo Niflhell.
+──そして。\n宴が終わり、\nライラエルたちがジオ・テオゴニアに戻って、しばらくの後……=...Và rồi. Cỗi tiệc kết thúc, Lyrael và những người khác trở về Gio Teogonia, và một thời gian sau...
+{playername}たちが、\nジオ・ニヴルヘルへと旅立つ日がやってきた。=Ngày đã đến khi {playername} và những người khác lên đường đến Gio Niflhel.
 ──申し訳ありません、皆さま。\nわたくしの体調が回復するのに、時間がかかってしまって……=...Tôi chân thành xin lỗi tất cả mọi người. Tôi đã mất một thời gian để phục hồi sức lực...
 水が合わない、というのもありますね。\n私たちに憑いている霊獣たちも、あまり調子が出ないようですし。=Có thể đơn giản là môi trường xung quanh thiếu nước không có lợi cho chúng ta. Con vật tinh linh chúng ta mang theo dường như cũng không khỏe lắm.
 どうか気になさらないでください、ヴァイオレット様。グレイス様。\nこの期間を使って、わたくしたちも修行に励むことが出来ましたので。=Xin đừng lo lắng về chuyện đó, Lady Violet. Lady Grace. Chúng tôi đã tận dụng khoảng thời gian quý giá này để rèn luyện thêm và mở rộng mối quan hệ.
@@ -488,9 +488,9 @@ Chapter 6
 きゃっ！？\nま、待ってペコリーヌさん！　そんなに強くハグされたら、\nこのあいだのカノンさんみたくなっちゃうから……！=Eek?! C-Chờ đã, Pecorine! Nếu cậu ôm tớ chặt như vậy, tớ sẽ thành ra y hệt Kanon mấy hôm trước...!
 それ、お忘れになってくださいませんこと！？\nしかもあの後、ネフィの命で様々な芸をやらされて……=Cậu có thể quên chuyện đó đi được không?! Và sau đó, tôi đã bị ép phải biểu diễn đủ trò ở dưới sự chỉ đạo của Nephy.
 えへへっ♪\nカノンちゃんといっしょに玉乗りするの、\nと～っても面白かったよ！=Hehehe♪ Làm trò cân bóng với Kanon-chan vui QUÁ LUÔN!
-うっさいですわねおたんこウサギさん！\nアナタなんかあのバカぢからロボさんたちと御一緒に、\nジオ・テオゴニアに移住なさったらよろしいんじゃありませんこと！？=IM ĐI, con thỏ lêu lổng! Đáng lẽ cậu nên chuyển sang sống ở Geo Teogonia cùng với con robot lêu lổng đó cơ mà!
+うっさいですわねおたんこウサギさん！\nアナタなんかあのバカぢからロボさんたちと御一緒に、\nジオ・テオゴニアに移住なさったらよろしいんじゃありませんこと！？=IM ĐI, con thỏ lêu lổng! Đáng lẽ cậu nên chuyển sang sống ở Gio Teogonia cùng với con robot lêu lổng đó cơ mà!
 んﾞ～～～、ナーナ、それもちょっと考えたんだけどぉ～……=Nnngh, Nana thực sự đã suy nghĩ về chuyện đó một lúc rồi...
-でもでも。\nナーナのお友だちがいるのは、ジオ・ゲヘナだから！\nいじゅう？　とかは、しなくていいかな～って♪=Nhưng, nhưng... Nơi có bạn bè của Nana là ở đây trong Geo Gehenna! Tớ sẽ không nói là "nhiều" nhưng tất cả đều quý giá với Nana♪
+でもでも。\nナーナのお友だちがいるのは、ジオ・ゲヘナだから！\nいじゅう？　とかは、しなくていいかな～って♪=Nhưng, nhưng... Nơi có bạn bè của Nana là ở đây trong Gio Gehenna! Tớ sẽ không nói là "nhiều" nhưng tất cả đều quý giá với Nana♪
 あっ、でもでもでも！\n騎士ちゃんたちが呼んでくれたら、\nナーナいつでもついてっちゃうからねー♪=À, nhưng mà, NHƯNG! Nếu Hiệp Sĩ gọi, Nana sẽ theo anh ấy đến bất cứ đâu~♪
 騎士さんたちについていきたいという気持ちは、私も同様ですが。\n奪われた権能はアラクネを倒しても、見つかりませんでした。\nどうやら、散り散りになってしまったみたいで……=Tớ cũng cảm thấy như vậy, muốn được theo Hiệp Sĩ và những cuộc phiêu lưu của anh ấy. Ngay cả sau khi đánh bại Arachne, tớ cũng không tìm thấy bất kỳ sức mạnh bị đánh cắp nào của mình. Có vẻ như nó thực sự đã bị rải rác khắp nơi...
 ヲ～ッホッホ！\n結局お役立たずですわねホウオウさんったら！=Ô HÔ HÔ! Vậy cuối cùng, cô vẫn sẽ vô dụng thôi, cô Ho-ou!
@@ -509,21 +509,21 @@ Chapter 6
 ──別に。\n手配はミーアさんですし。=...Không phải. Mia mới là người làm mọi thứ cần thiết.
 はあ～、大変でしたよ～\n食料庫がカラッポになるかと思いました～=*thở dài*, công việc khó khăn thật... Tôi tưởng kho thực phẩm sẽ bị cạn sạch hoàn toàn...
 おべんと。\nかんしゃ。=Về phần cơm trưa. Cảm ơn.
-……アネモネさん。\nジオ・ゲヘナでは、戦ってばっかりでしたけど……=...Anemone. Ở đây trong Geo Gehenna, chúng tôi đã liên tục chiến đấu...
+……アネモネさん。\nジオ・ゲヘナでは、戦ってばっかりでしたけど……=...Anemone. Ở đây trong Gio Gehenna, chúng tôi đã liên tục chiến đấu...
 でも、次に来るときは\nもっとお友だちらしいこと、一緒にしましょうね。\nお料理とか、お花の手入れとか……！=Nhưng... lần sau chúng ta đến thăm, hãy cùng làm những việc giống như bạn bè. Như nấu ăn hay chăm sóc hoa...!
 お友だち──っていうのは。\nやっぱり、よくわかりませんけど──=" Bạn bè " hả... Rốt cuộc tôi vẫn chưa nắm bắt được ý nghĩa của nó...
 ──花の世話なら。\n手伝ってくれても、いいです。=Nhưng nếu muốn chăm sóc hoa thì cậu cứ tự nhiên giúp mình nhé.
 でれた。=Phong cách "Dere" của cô ấy.
 ──デレて、ません。=...Tớ không "Dere" đâu.
 ……騎士殿や。\n大望を果さんとする最中、誠に相済みませぬが……=...Knight Đại nhân. Thực sự xin lỗi vì đã làm phiền ngài ngay lúc này, khi ngài đang hướng tới tham vọng lớn lao của mình...
-これより向かうジオ・ニヴルヘルにて、\n妹子とカリザ坊を見掛ける事あらば……身柄を抑えてくだしゃんせ。\n事の次いでで構いませぬ故に。=Vì ngài đang hướng tới Geo Niflhell, nếu vô tình gặp em gái tôi là Nea và cô bé Kariza trên đường chinh phục mục tiêu... xin ngài hãy đưa các bé vào sự chăm sóc của mình. Tôi không quan tâm tại sao hay bằng cách nào.
+これより向かうジオ・ニヴルヘルにて、\n妹子とカリザ坊を見掛ける事あらば……身柄を抑えてくだしゃんせ。\n事の次いでで構いませぬ故に。=Vì ngài đang hướng tới Gio Niflhel, nếu vô tình gặp em gái tôi là Nea và cô bé Kariza trên đường chinh phục mục tiêu... xin ngài hãy đưa các bé vào sự chăm sóc của mình. Tôi không quan tâm tại sao hay bằng cách nào.
 誠に重畳に思い侍り。\n全く、我が妹子ながら……呆れた放蕩振りであり申す。\n然は然りながら──=Tôi thực sự biết ơn sự giúp đỡ chân thành của ngài. Thật sự, dù là em gái tôi... tôi vẫn kinh ngạc trước cách cư xử sa đọa của cô bé. Dù vậy...
-此れより向かう地にも、一筋縄で行かぬ危難が待ち受けていると\n拝察致しまするが。必ずや動く死人などではなく、御無事のお姿の侭\nこのジオ・ゲヘナへ顔を出して下さいますよう、御願い申し上げまする。=Tôi tin rằng ở khu vực mọi người sắp đến, sẽ có những hiểm nguy khó khăn đang chờ đón. Tôi hy vọng mọi người sẽ không trở về như một xác sống đến Geo Gehenna này, mà sẽ trở về như một chàng trai trẻ khỏe mạnh.
+此れより向かう地にも、一筋縄で行かぬ危難が待ち受けていると\n拝察致しまするが。必ずや動く死人などではなく、御無事のお姿の侭\nこのジオ・ゲヘナへ顔を出して下さいますよう、御願い申し上げまする。=Tôi tin rằng ở khu vực mọi người sắp đến, sẽ có những hiểm nguy khó khăn đang chờ đón. Tôi hy vọng mọi người sẽ không trở về như một xác sống đến Gio Gehenna này, mà sẽ trở về như một chàng trai trẻ khỏe mạnh.
 ──騎士殿はわっちを恩知らずの恥知らずになど、\nしないでくださいますな？=...Xin hãy, Knight Đại nhân, đừng khiến tôi phải lo lắng và khóc như em gái thân yêu của tôi vậy, được chứ?
 えまねびやらず。\nそうさ喃──=Một sự bắt chước bất khả thi đối với tôi. Đúng vậy, người thân yêu của tôi...
 わっちは人でなしでありまするが。\n蓋しや……『親心』、とやらに似た心持ちなのやも知れませぬなぁ。=Tôi không phải con người, nhưng có thể nói là sâu thẳm trong trái tim tôi, tôi cũng hiểu cảm giác của bất kỳ ai trong khoảnh khắc như vậy. Giống như nỗi lo của một người cha mẹ vậy.
-こうして{playername}たちは、ジオ・ゲヘナの面々と別れ──\nプリンセス・ヴァイオレット、その守護騎士グレイスと共に、\nジオ・ニヴルヘルへと向かうのだった。=Vì vậy, {playername} và bạn bè của cậu ấy chia tay người dân của Geo Gehenna, cùng với Công chúa Violet và Chevalier Grace của nàng, họ hướng tới Geo Niflhell.
-──ジオ・ゲヘナかぁ。\n最初来たときは恐竜に追い回されるわ、バカほど暑いわで\nとんでもない所に来ちゃったと思ったわね～=...Geo Gehenna, hả? Khi mình lần đầu tới đây, bị khủng long đuổi, nóng như thiêu, và tưởng mình đã tới một nơi hoàn toàn khác so với dự kiến~
+こうして{playername}たちは、ジオ・ゲヘナの面々と別れ──\nプリンセス・ヴァイオレット、その守護騎士グレイスと共に、\nジオ・ニヴルヘルへと向かうのだった。=Vì vậy, {playername} và bạn bè của cậu ấy chia tay người dân của Gio Gehenna, cùng với Công chúa Violet và Chevalier Grace của nàng, họ hướng tới Gio Niflhel.
+──ジオ・ゲヘナかぁ。\n最初来たときは恐竜に追い回されるわ、バカほど暑いわで\nとんでもない所に来ちゃったと思ったわね～=...Gio Gehenna, hả? Khi mình lần đầu tới đây, bị khủng long đuổi, nóng như thiêu, và tưởng mình đã tới một nơi hoàn toàn khác so với dự kiến~
 魔物はとっても強くて、大変なことも多かったですけど……\n振り返ってみれば、楽しかったですね。\n温泉も気持ちよかったですし。=Quái vật rất mạnh, và đúng là có rất nhiều khó khăn, nhưng... Nhìn lại, vui mà, phải không? Suối nước nóng cũng thư giãn thật.
 はい、ごはんもとってもおいしかったです☆\nそれに何より──=Ừ, đồ ăn cũng ngon nữa☆ Và quan trọng nhất là...
 シェフィさまがこうして、戻ってきてくださいました。=Ngay chính Sheffy nương nương, đã trở về với chúng ta ngay tại đây.
@@ -534,7 +534,7 @@ Chapter 6
 わたくしたちも、できるだけのお手伝いをさせていただきますわ。\nね、グレイス。=Về phần chúng tôi, chúng tôi sẽ làm mọi thứ có thể để giúp đỡ. Đúng không, Grace?
 ヨーソロー\n大船に乗った気持ちでいてください。\n……今は。=Đã rõ. Xin cứ tự nhiên lên tàu Tàu Nguyệt của chúng tôi. ...Trước mắt thôi.
 頼りにさせていただきます。\nヴァイオレット様。グレイス様。=Chúng tôi sẽ trông cậy vào hai người, Violet. Grace.
-ジオ・テオゴニアやジオ・ゲヘナに初めて着いたときは\n結構ドタバタしちゃいましたけど……\n今回は、スムーズな冒険のはじまりになりそうですね♪=Khi chúng ta lần đầu tới Geo Teogonia và Geo Gehenna, khá là hỗn loạn... nhưng lần này, có vẻ như chuyến phiêu lưu sẽ bắt đầu suôn sẻ♪!
+ジオ・テオゴニアやジオ・ゲヘナに初めて着いたときは\n結構ドタバタしちゃいましたけど……\n今回は、スムーズな冒険のはじまりになりそうですね♪=Khi chúng ta lần đầu tới Gio Teogonia và Gio Gehenna, khá là hỗn loạn... nhưng lần này, có vẻ như chuyến phiêu lưu sẽ bắt đầu suôn sẻ♪!
 
 Player Prompts
 約束するよ。=Tôi hứa
@@ -585,7 +585,7 @@ Interlude
 あー……うんまぁ。\n死ぬかもね。\nあんた一人きりみたいだし今……=À... ừ, cũng được. Cậu có thể sẽ chết. Có vẻ như cậu thực sự cô độc ở đằng kia...
 ……てか。\nあたしのほうも、そろそろ……=...Thực ra thì, đến lúc mình nên...
 ──あー\nこっちのハナシ。=...À, quay lại chủ đề chính.
-……そんじゃ。\nいつも通り。\n次の──『ジオ・ニヴルヘル』だっけ？=...Vậy. Như mọi khi. Lần tới là Geo Niflhell, đúng chứ?
+……そんじゃ。\nいつも通り。\n次の──『ジオ・ニヴルヘル』だっけ？=...Vậy. Như mọi khi. Lần tới là Gio Niflhel, đúng chứ?
 暗くてヒンヤリで、\nゾンビやら骨っぽいのやらいっぱいで、\nまた大変なトコみたいだけど──=Nơi đó tối tăm và mát mẻ, đầy rẫy xác sống và thứ gì đó giống xương, có vẻ sẽ là một nơi khá đáng sợ, nhưng...
 ……最後の裏世界でも。\nせーぜーがんばんなさいよー\nヒーロー=...Đó cũng là Underworld cuối cùng. Chúc may mắn, "Anh Hùng".
 コッコロと『長老』捜しが行き詰まる中。初音からの連絡を受けて\n栞の見舞いに来た{playername}、ペコリーヌ、希留耶は\n深月の案内で、大学病院の隣の研究棟にて昏睡する仲間の姿を見る。=Trong khi cuộc tìm kiếm Kokkoro và Elder bế tắc, {playername}, Pecorine và Kiruya đến thăm Shiori sau khi nhận được cuộc gọi từ Hatsune. Dưới sự dẫn dắt của Mitsuki, họ tìm thấy bạn mình Shifuna đang hôn mê trong tòa nhà nghiên cứu bên cạnh bệnh viện đại học.
@@ -735,7 +735,7 @@ Substory
 みんな……\nうん……そうね、わかったわ。私も頑張ってみる。\n胸を張って兄さんに会いに行くために！=Mọi người... Được rồi... Tớ hiểu rồi. Tớ cũng sẽ cố gắng hết sức. Để sau này tớ có thể đi gặp anh trai với đầu ngẩng cao!
 こうして、【美食殿】の面々に【アルターメイデン】も加わり、\nシェフィの赤ちゃん化対策が始まった……=Vì vậy, các thành viên của Gourmet Guild đã được Alter Maidens gia nhập, và các biện pháp ngăn Sheffy biến thành em bé bắt đầu...
 これは何かしら、風船？=Cái gì vậy, một quả bóng bay?
-ジオ・ゲヘナの植物ですよ。\n衝撃を与えると膨らんで、ある程度大きくなると……=Đó là một loài cây Geo Gehenna. Khi chịu tác động, nó phình lên, và một khi đủ lớn...
+ジオ・ゲヘナの植物ですよ。\n衝撃を与えると膨らんで、ある程度大きくなると……=Đó là một loài cây Gio Gehenna. Khi chịu tác động, nó phình lên, và một khi đủ lớn...
 パアァァァン！！=Paaaaan!!
 まさに轟音ですね。\n狩猟でも使われるそうで、確かに身構えていても圧倒されます。\nではシェフィ様……=Nó phát ra một tiếng gầm vang trời. Nghe nói nó cũng được dùng để săn bắn, và thật sự rất áp đảo ngay cả khi bạn đã chuẩn bị. Vậy thì, Lady Sheffy...
 びえぇぇぇっ！！\nこぁぃぃぃ！！！=BWEEEEEEHHHHHHHH!! DỄ SỢ QUÁ!!!
@@ -792,13 +792,13 @@ D型検体0005b……いえ、阿賀斗紫布菜。\nこうして話すことに
 強く生きてください、シェフィさん……\nまた赤ちゃん化しちゃったら、\nわたしたちも精いっぱい支えますから。=Hãy sống mạnh mẽ lên, Sheffy... Nếu cậu biến thành em bé lần nữa, chúng tôi sẽ cố gắng hết sức để hỗ trợ cậu.
 おせわ。\nまかせて。=Chăm sóc em bé. Để tôi lo.
 もう、赤ちゃんやだああぁぁっ！！\nふええええええんっっっ！！！=EM KHÔNG MUỐN LÀ EM BÉ NỮA!!! EEEEEEEEEHNNNNN!!!
-現実を突きつけられてしまったシェフィ。\nこの世の理不尽に直面した赤子のような叫びが、\nジオ・ゲヘナの空に響き渡るのだった……=Sheffy đã buộc phải đối mặt với sự thật. Trước sự bất công của thế giới này, tiếng khóc của cô ấy, giống như một em bé, vang vọng khắp bầu trời Geo Gehenna...
+現実を突きつけられてしまったシェフィ。\nこの世の理不尽に直面した赤子のような叫びが、\nジオ・ゲヘナの空に響き渡るのだった……=Sheffy đã buộc phải đối mặt với sự thật. Trước sự bất công của thế giới này, tiếng khóc của cô ấy, giống như một em bé, vang vọng khắp bầu trời Gio Gehenna...
 
 Player Prompts
 エリスさんなら知ってるかも。=Eris có thể biết.
 
 Substory
-ジオ・ゲヘナ、密林の一角にて。\nリリは鍛錬のため、{playername}と共に魔物と戦っていた。=Trong một góc của khu rừng rậm ở Geo Gehenna, Lily đang chiến đấu với quái vật cùng {playername} để rèn luyện.
+ジオ・ゲヘナ、密林の一角にて。\nリリは鍛錬のため、{playername}と共に魔物と戦っていた。=Trong một góc của khu rừng rậm ở Gio Gehenna, Lily đang chiến đấu với quái vật cùng {playername} để rèn luyện.
 そこですっ……ていっ！！=Được rồi... TEI!!
 ふぅ……お褒めにあずかり光栄です。\nですがやはり、黒い天使の力を振るう時に比べれば、\n力不足と言わざるを得ません。=Phew... Tôi vinh dự khi nhận được lời khen của cậu. Tuy nhiên, so với khi tôi sử dụng sức mạnh của Black Angel, tôi phải thừa nhận sức mạnh của mình vẫn còn thiếu.
 己に課した使命をやり遂げるため、\nそして兄様の手助けに報いるためにも、\nさらなる鍛錬を重ねなければ……=Để hoàn thành nhiệm vụ tôi đã đặt ra cho bản thân, và để đền đáp sự giúp đỡ của Nii-sama, tôi phải tiếp tục rèn luyện chăm chỉ hơn nữa...
@@ -847,7 +847,7 @@ Substory
 待ってください！\n一番大事な過程が省かれていませんか！？=Khoan đã! Bước quan trọng nhất đã bị bỏ qua rồi sao?!
 私たちの中でも、私やネフィ＝ネラさんのような強い力の持ち主なら\nより魔物に近い姿に変身することもできますが……\nまさか、ユキさんも？=Trong chúng ta - những nữ quái vật - những người có sức mạnh mạnh như ta và Nephy Nella có thể biến hình thành dạng gần với quái vật... Nhưng liệu Yuki-san có cũng vậy không?
 お、お待ちください。\nユキ様はわたくしたちと同じ人間のはずです。\n尋常でなく高い美意識を持っているだけで……=K-Khoan đã. Tiểu thư Yuki là cùng loại người với chúng ta. Cô ấy chỉ có gu thẩm mỹ bất thường cao...
-もしや、ユキ様の美意識があまりに強すぎる故に、\nジオ・ゲヘナの方々と同じ性質を持った……\nということなのでしょうか……=Có thể gu thẩm mỹ của Tiểu thư Yuki mạnh đến mức cô ấy phát triển cùng đặc điểm với người dân của Geo Gehenna...?
+もしや、ユキ様の美意識があまりに強すぎる故に、\nジオ・ゲヘナの方々と同じ性質を持った……\nということなのでしょうか……=Có thể gu thẩm mỹ của Tiểu thư Yuki mạnh đến mức cô ấy phát triển cùng đặc điểm với người dân của Gio Gehenna...?
 そ、そうですね。\n重要なのは、ユキ様が変貌した理由などではありません。=Đ-Đúng đó. Điều quan trọng bây giờ không phải là tại sao Tiểu thư Yuki đã biến hình.
 ユキ様！　元の世界に帰りましょう。\nきっとギルドの方々も心配していらっしゃいます。=Tiểu thư Yuki! Hãy để chúng tôi đưa ngài trở về thế giới của chúng tôi. Tôi chắc rằng guild của ngài cũng đang lo lắng cho ngài.
 元の世界？　うーん……\n悪いけど、あまり興味が持てなくなっちゃったかな。\n何せこの世界のほうが、ずっと居心地がいいしさ。=Thế giới cũ của ta? Hừm... Xin lỗi, nhưng ta nghĩ ta không còn quan tâm nữa. Dù sao thì thế giới này thoải mái hơn nhiều.

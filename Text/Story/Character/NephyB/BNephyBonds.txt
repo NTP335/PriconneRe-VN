@@ -10,10 +10,10 @@ Chapter 1
 先日の『ランドソル万博』の一件を受け、\nネフィ＝ネラから改めてお礼がしたいと\n鬼岩城砦へ招待された{playername}だったが……=Sau sự việc tại "Triển lãm Landosol" vừa qua, {playername} đã được Nephy Nella mời đến Pháo đài Quỷ Nham với nhã ý muốn gửi lời cảm ơn một lần nữa, thế nhưng……
 ──らっしゃい、らっしゃい！\nいい魔物肉、仕入れてるよー！\n致死毒をうまく毒抜きすれば、頬っぺたも落ちるほどのジューシーさだ！=──Mời vào, mời vào! Có thịt ma vật tươi ngon mới nhập về đây! Nếu biết cách tẩy sạch kịch độc thì thịt sẽ mọng nước đến mức ăn vào là tan chảy cả đầu lưỡi luôn đấy!
 なんと今なら、バジリスクの目玉が３割引き！\nまだ魔力が残ってるから目を合わせると石化しちゃうけど、\n気を付けて食べれば口の中でとろけるうまみが広がること間違いなし！=Đặc biệt hôm nay, mắt Tử xà Basilisk đang giảm giá 30%! Tuy vẫn còn sót lại ma lực nên nếu lỡ nhìn vào mắt nó là bị hóa đá ngay, nhưng nếu cẩn thận khi ăn thì đảm bảo vị ngon ngọt sẽ tan tỏa khắp khoang miệng!
-斯様な奇怪極まる興行は、此のジオ・ゲヘナならではの趣向。\n他の世界では、とても御目に掛かれぬ珍事でありんしょう。=Một buổi triển lãm kỳ quái tột độ thế này chính là phong cách riêng chỉ có tại Geo Gehenna. Ở những thế giới khác, đây chắc chắn là một sự kiện hiếm thấy mà khó lòng có dịp chiêm ngưỡng.
+斯様な奇怪極まる興行は、此のジオ・ゲヘナならではの趣向。\n他の世界では、とても御目に掛かれぬ珍事でありんしょう。=Một buổi triển lãm kỳ quái tột độ thế này chính là phong cách riêng chỉ có tại Gio Gehenna. Ở những thế giới khác, đây chắc chắn là một sự kiện hiếm thấy mà khó lòng có dịp chiêm ngưỡng.
 名を、『大魔物市』と申しんす。\n幾年に一度しか開かれぬ催事故、稀有なる魔物の肉なども\n此処ぞとばかり売り出されることもありますれば。=Nó được gọi là "Đại chợ Ma vật". Vì đây là sự kiện chỉ tổ chức vài năm một lần, nên những loại thịt ma vật hiếm có cũng được bày bán rầm rộ nhân dịp này.
 はい～。媛さまが急に騎士殿さんを危険な『大魔物市』に招待したいとか\n言い出した時は、驚きました～\nまぁでも、媛さまがいるなら大丈夫ですけど～=Vâng ạ~ Khi Công chúa đột nhiên bảo muốn mời Hiệp sĩ-san đến "Đại chợ Ma vật" nguy hiểm này, em đã giật cả mình~ Mà thôi, có Công chúa ở đây thì chắc là ổn thôi ạ~
-先の一件にて、騎士殿には並々ならぬ御厚情を賜り候。\nジオ・ゲヘナの流儀にて、せめてもの報恩を果たしたく思う\n次第にあり申す。=Trong sự việc vừa qua, ta đã nhận được sự giúp đỡ nồng hậu từ Hiệp sĩ. Theo lễ tiết của Geo Gehenna, ta rất mong được đáp lại ân tình đó dù chỉ là một chút.
+先の一件にて、騎士殿には並々ならぬ御厚情を賜り候。\nジオ・ゲヘナの流儀にて、せめてもの報恩を果たしたく思う\n次第にあり申す。=Trong sự việc vừa qua, ta đã nhận được sự giúp đỡ nồng hậu từ Hiệp sĩ. Theo lễ tiết của Gio Gehenna, ta rất mong được đáp lại ân tình đó dù chỉ là một chút.
 魔物食に於いては多くの知見をお持ちと拝察致しまするが、\n此の『大魔物市』に並ぶ魔物ならば、お前さまの舌を唸らせる逸品も\n見つかることでありんしょう。=Ta đoán rằng ngươi hẳn có nhiều hiểu biết về ẩm thực ma vật, nhưng với những ma vật được bày bán tại "Đại chợ Ma vật" này, chắc chắn ngươi sẽ tìm thấy những cực phẩm khiến vị giác phải trầm trồ.
 御心に適いし品あらば、なんなりとお申し付けくだしゃんせ。\nわっち手づから調理し、騎士殿に振る舞いたく思い侍り。\n僅かばかりの心積もり、御笑納いただければ幸甚に存じまする。=Nếu có món nào vừa ý, xin ngươi cứ tự nhiên cho ta biết. Chính tay ta sẽ chế biến và chiêu đãi Hiệp sĩ. Đây chỉ là một chút tấm lòng mọn, nếu ngươi vui vẻ nhận cho thì ta lấy làm vinh hạnh lắm.
 |でも～、気を付けてくださいね？\n活きが良すぎる魔物もたくさん並べられてますので～\n私も何回か丸呑みにされそうになったことがあったり～=Nhưng mà~ anh phải cẩn thận đấy nhé? Có rất nhiều ma vật vẫn còn quá sung sức đang được bày bán ở đây~ Bản thân em cũng đã mấy lần suýt bị nuốt chửng luôn rồi đấy~
@@ -40,15 +40,15 @@ Chapter 1
 せっかくネフィ＝ネラさまが、\nお客人に手料理を振る舞おうというのに……\n食材を潰してしまっては、元も子もありません！=Ngài Nephy Nella đã cất công định tự tay nấu nướng chiêu đãi khách quý…… nếu để nguyên liệu bị nát thì còn ý nghĩa gì nữa đâu ạ!
 ネフィ＝ネラさまのお力に頼らずとも、\n我々だけでなんとかしてみます！\n差し出がましいようですが……ここはお任せを！=Dù không dựa vào sức mạnh của ngài, chúng tôi cũng sẽ tự mình xoay sở! Tuy có hơi mạo muội…… nhưng xin hãy cứ giao việc này cho chúng tôi!
 そ、そうだ！\nいつまでもネフィ＝ネラさまに守ってもらってばかりじゃ\nいられねぇ！=Ph-Phải đó! Chúng tôi không thể cứ mãi dựa dẫm vào sự bảo vệ của ngài Nephy Nella được!
-俺たちはジオ・ゲヘナの勇猛な民だ！\nネフィ＝ネラさまが無事に客人をおもてなしできるよう、\n全力を尽くして戦え！=Chúng ta là những thần dân dũng mãnh của Geo Gehenna! Để ngài Nephy Nella có thể yên tâm tiếp đãi khách quý, tất cả hãy dốc toàn lực chiến đấu đi!
+俺たちはジオ・ゲヘナの勇猛な民だ！\nネフィ＝ネラさまが無事に客人をおもてなしできるよう、\n全力を尽くして戦え！=Chúng ta là những thần dân dũng mãnh của Gio Gehenna! Để ngài Nephy Nella có thể yên tâm tiếp đãi khách quý, tất cả hãy dốc toàn lực chiến đấu đi!
 あ、あれぇ～……！？\nなんだか、安全に高みの見物とはいかなそうな空気～……！=Ơ, ơ kìa……!? Sao không khí có vẻ như không cho phép chúng ta đứng ngoài xem kịch một cách an toàn thế này~……!
 わ、分かりました！　分かりましたよ～！\n絶対役に立たないとは思いますけど、私も一皮くらいは脱ぎます～！\nうおおおぉぉ～～！=R-Rõ rồi! Em hiểu rồi mà~! Dù biết chắc là chẳng giúp ích được gì nhưng em cũng sẽ cố hết sức mình~! Ư ô ô ô ô~~!
 ……果て扨て。\n思はぬ仕儀になって参りました喃。\n如何なる仕儀と相成るやら。=……Chà chà. Mọi chuyện bắt đầu đi theo hướng không ngờ tới rồi nhỉ. Để xem kết cục sẽ ra sao đây.
 案ずるには及びますまい。\n此処でわっちが手出しするとあっては、無粋極まると申すもの。\n見守るに如くはなし、でありんしょう。=Không cần phải lo lắng đâu. Nếu ta ra tay lúc này thì thật là thiếu tế nhị. Cách tốt nhất lúc này chính là đứng quan sát thôi.
-かてて加えて、先の『ランドソル万博』の件を受け、\n此のジオ・ゲヘナにも変転が生じつつありまする。\n其れは民草の移ろいにして……我が心の移ろいにもありますれば。=Hơn nữa, sau sự việc tại "Triển lãm Landosol" vừa qua, Geo Gehenna này cũng đang dần có những sự chuyển biến. Đó là sự thay đổi của bách tính…… và cũng là sự thay đổi trong chính trái tim ta.
+かてて加えて、先の『ランドソル万博』の件を受け、\n此のジオ・ゲヘナにも変転が生じつつありまする。\n其れは民草の移ろいにして……我が心の移ろいにもありますれば。=Hơn nữa, sau sự việc tại "Triển lãm Landosol" vừa qua, Gio Gehenna này cũng đang dần có những sự chuyển biến. Đó là sự thay đổi của bách tính…… và cũng là sự thay đổi trong chính trái tim ta.
 騎士殿や。\n彼奴らの奮闘を見守る間、どうか御耳を拝借したく。\nわっちの与太話に、些とばかり御付き合いくれませぬかの？=Hiệp sĩ này. Trong lúc quan sát bọn họ nỗ lực chiến đấu, ta có thể mượn tai ngươi một lát không? Ngươi có phiền nếu nghe ta kể vài câu chuyện phiếm chút chứ?
 ──時間は戻り。\n『ランドソル万博』で起きた騒動の最中の話。=──Thời gian quay trở lại. Đây là câu chuyện diễn ra giữa lúc biến cố tại "Triển lãm Landosol" đang bùng nổ.
-至高の料理を作るための伝説の食材を探しに、\nネフィ＝ネラは単独、ジオ・ゲヘナの奥地にある\n噴火口に赴いていた──=Để tìm kiếm nguyên liệu huyền thoại nhằm tạo ra món ăn tuyệt đỉnh, Nephy Nella đã một mình lặn lội đến miệng núi lửa nằm sâu trong vùng hẻo lánh của Geo Gehenna──
+至高の料理を作るための伝説の食材を探しに、\nネフィ＝ネラは単独、ジオ・ゲヘナの奥地にある\n噴火口に赴いていた──=Để tìm kiếm nguyên liệu huyền thoại nhằm tạo ra món ăn tuyệt đỉnh, Nephy Nella đã một mình lặn lội đến miệng núi lửa nằm sâu trong vùng hẻo lánh của Gio Gehenna──
 ……ほぉう。\n此れなるが伝承に聞く『噴火横綱猪神』。\n雄大極まる体躯、獣の神なる二つ名も大法螺に非ず。=……Ồ. Đây chính là "Thần Lợn Rừng Yokozuna Phun Trào" trong truyền thuyết sao. Thân hình to lớn hùng vĩ thế này, danh xưng Thần Thú đúng là không ngoa chút nào.
 ……成程、此れ又厄介極まれり。\n剛力に加え、羚羊が如き健脚。\n衰えたる今の我が身には、些か難き相手やもしれぬ。=……Ra vậy, con này đúng là cực kỳ phiền phức đây. Ngoài sức mạnh kinh hồn còn có đôi chân nhanh nhẹn như linh dương. Với cơ thể đang suy yếu hiện tại của ta, có lẽ đây là một đối thủ khá khó nhằn.
 正に怪力乱神、真っ向から相対するは愚直也。\n策を弄するが定石なれど……今は悠長にはして居れぬ。=Đúng là một thực thể sức mạnh thần thánh quái dị, đối đầu trực diện thật là ngu ngốc. Dùng mưu kế vốn là phép tắc cơ bản…… nhưng lúc này ta không có thời gian để thong thả như vậy.
@@ -133,7 +133,7 @@ Chapter 2
 静かな一言と同時に、ネフィ＝ネラがゆっくりと舞い始める……=Ngay sau lời tuyên bố tĩnh lặng đó, Nephy Nella bắt đầu chậm rãi nhảy múa……
 ……しーっ。\nお静かにですよ、騎士殿さん～=……Suỵt. Xin hãy giữ yên lặng nhé, Hiệp sĩ-san~
 お察しの通り、媛さまが行われているのはルーンの修復です。\nほら、以前にカノンさんが起こした荒御霊の騒動……\nアースハイドラ復活事件とかあったじゃないですか？=Đúng như anh đoán, Công chúa đang tiến hành tu sửa các cổ tự Rune. Anh nhớ vụ náo loạn linh hồn phẫn nộ do Kanon-san gây ra lần trước chứ…… vụ hồi sinh Earth Hydra ấy?
-ジオ・ゲヘナの各地には、ああいった天災級の危ない魔物が、\nたくさん封じられているんですよね～\nその封印の要となっているのが、媛さまが刻んだルーンなんです。=Ở khắp nơi trên Geo Gehenna, có rất nhiều ma vật nguy hiểm cấp thảm họa như thế đang bị phong ấn đấy ạ~ Và mấu chốt của những phong ấn đó chính là các ký tự Rune do Công chúa khắc nên.
+ジオ・ゲヘナの各地には、ああいった天災級の危ない魔物が、\nたくさん封じられているんですよね～\nその封印の要となっているのが、媛さまが刻んだルーンなんです。=Ở khắp nơi trên Gio Gehenna, có rất nhiều ma vật nguy hiểm cấp thảm họa như thế đang bị phong ấn đấy ạ~ Và mấu chốt của những phong ấn đó chính là các ký tự Rune do Công chúa khắc nên.
 だけどたま～に、その封印に綻びができて\n危ない諸々が復活の危機！　みたいになっちゃうので～\n公務として、媛さまが定期的にああやって再封印を施すんです～=Nhưng thỉnh thoảng những phong ấn đó lại xuất hiện vết nứt, khiến những thứ nguy hiểm đó đứng trước nguy cơ hồi sinh! Vì vậy, việc định kỳ thực hiện tái phong ấn như thế kia chính là công vụ của Công chúa ạ~
 まあ～、かな～り高度なルーンを扱われているので、\n媛さまも珍しく、お疲れになられてしまうんですけど……\n再封印前に別の形でお力を取り戻せたみたいでよかったです～=Cơ mà~ vì phải xử lý những Rune cực kỳ cao cấp nên hiếm khi thấy Công chúa cũng bị mệt như vậy…… Thật may là trước khi tái phong ấn ngài ấy đã lấy lại được sức mạnh dưới một hình thái khác~
 ご心配されるのももっともなんですけど～\nこればかりは媛さまにしか扱えないものなんですよねぇ……=Anh lo lắng cho ngài ấy cũng là điều dễ hiểu thôi, nhưng việc này thì chỉ có mỗi Công chúa mới xử lý được……
@@ -159,7 +159,7 @@ Chapter 2
 え……？\n残っている公務なんてありましたっけ～？=Hả……? Vẫn còn công vụ nào chưa làm sao ạ~?
 否、公務には非ず。\n然れど、同等に肝要な仕儀にありんす。=Không, không phải công vụ. Nhưng đó là một chuyện quan trọng tương đương.
 騎士殿や。\n先刻『御覧に入れておきたき仕儀』があると申しますれば……\n手前勝手ではありまするが、平に御容赦を。=Hiệp sĩ này. Lúc nãy ta có nói là có "một chuyện muốn cho ngươi chứng kiến"…… Tuy là ý muốn ích kỷ của ta, nhưng mong ngươi hãy thứ lỗi.
-嘗てお前さまと共に足を向けし遺跡とは別物にて候。\nジオ・ゲヘナには、斯様なる遺址が数多在りますれば。=Nơi này khác với di tích mà ta và ngươi từng đặt chân đến trước kia. Ở vùng đất Geo Gehenna này có vô số những phế tích như thế.
+嘗てお前さまと共に足を向けし遺跡とは別物にて候。\nジオ・ゲヘナには、斯様なる遺址が数多在りますれば。=Nơi này khác với di tích mà ta và ngươi từng đặt chân đến trước kia. Ở vùng đất Gio Gehenna này có vô số những phế tích như thế.
 え～と、媛さま？　どうしてこんな場所に～？\n被害や問題が起こってるみたいな報告は、\n特になかったはずですけど～……=Ưm~ Công chúa ơi? Sao ngài lại đến nơi này ạ~? Theo em biết thì không có báo cáo nào về thiệt hại hay rắc rối gì ở đây cả mà~……
 ひっ……！？\nこ、この亀裂は……！=Hự……!? V-Vết nứt này là……!
 キヒ、ヒヒ……=Kihi... hihi...
@@ -182,7 +182,7 @@ Chapter 2
 不甲斐なき有様を御目かけ申しました。\n我が身の至らなきを露呈せしとは、恥じ入るばかり。=Ta đã để ngươi thấy một dáng vẻ thật đáng xấu hổ. Để lộ sự yếu kém của bản thân thế này, ta thật thấy hổ thẹn quá đỗi.
 其れ即ち……\nわっちの掌には余る程に事の成りゆく証左にありますれば。=Nói cách khác…… đây chính là bằng chứng cho thấy mọi chuyện đã bắt đầu vượt quá tầm kiểm soát của ta rồi.
 ……エラー、エ、ラー\nケンゲンのキョ、カを……\nフセイ、な、ボイスデータ、が……=……Lỗi, l-lỗi……\nYêu cầu qu-quyền truy cập……\nDữ liệu giọ-giọng nói, không, h-hợp lệ……
-平生よりジオ・ゲヘナに於いては、あれら化生の究明を\n重ねて参りまして候。\n識り得た解は決して多くはあらねど……=Từ trước đến nay tại Geo Gehenna, ta vẫn luôn miệt mài nghiên cứu về những thực thể kỳ quái đó. Dẫu những câu trả lời có được chẳng bao nhiêu……
+平生よりジオ・ゲヘナに於いては、あれら化生の究明を\n重ねて参りまして候。\n識り得た解は決して多くはあらねど……=Từ trước đến nay tại Gio Gehenna, ta vẫn luôn miệt mài nghiên cứu về những thực thể kỳ quái đó. Dẫu những câu trả lời có được chẳng bao nhiêu……
 あれらは、此の地に刻まれし呪紋と同質の術式……\n『ぷろぐらむこーど』にて成り立ちたるものにありんす。\n而して其れ自体が、『外』なる理法を故由としておりまする。=Chúng được cấu thành từ "Mã chương trình (Program Code)" – một loại thuật thức cùng bản chất với những ấn chú được khắc lên vùng đất này. Và bản thân những mã đó lại bắt nguồn từ các quy luật của "Thế giới bên ngoài".
 日毎に進行せし呪紋の綻びこそは、\n紛れもなく『外』なるものらの介入を所以としているに外ならず。\n既に阻み止めることの適わぬ域に達して候。=Những vết nứt trên ấn chú ngày càng nghiêm trọng chắc chắn không gì khác chính là do sự can thiệp của những kẻ từ "Thế giới bên ngoài". Mọi thứ đã đạt đến mức không thể ngăn cản được nữa rồi.
 ……アクセ、ス……カクニ……\n……サイ、セイ……しま…………=……Truy cập…… xác nhận……\n……Tái…… khởi động…………
@@ -225,11 +225,11 @@ Chapter 3
 ──遺跡での騒動の翌日。\n{playername}はネフィ＝ネラの案内を受けて、\n鬼岩城塞の広場へと足を運んでいた。=──Ngày hôm sau sau vụ náo loạn tại di tích.\n{playername} dưới sự dẫn dắt của Nephy Nella đã đặt chân đến quảng trường của Pháo đài Quỷ Nham.
 気を付けて運び込めー！\nそいつの鱗のトゲ、刺さったら中々抜けないぞ！=Vận chuyển cẩn thận vào!\nGai trên vảy con đó mà đâm trúng là khó rút ra lắm đấy!
 コラ、押すな！\nこの肉は生だと鋼鉄並みの強度があるんだから、\n落として足にでもぶつけたら大変なことになるんだぞ！=Này, đừng có đẩy!\nThịt này khi còn tươi cứng như thép vậy, lỡ làm rơi trúng chân là họa lớn đấy!
-たくさん運ばれて、賑わってきましたね～\nジオ・ゲヘナでもお目にかかれない凶悪な魔物を由来とした\n食材のオンパレードですよ～=Nhiều đồ được chuyển đến quá, náo nhiệt thật đấy nhỉ~\nToàn là một dàn nguyên liệu từ những ma vật hung tợn mà ngay cả ở Geo Gehenna cũng hiếm khi thấy được~
+たくさん運ばれて、賑わってきましたね～\nジオ・ゲヘナでもお目にかかれない凶悪な魔物を由来とした\n食材のオンパレードですよ～=Nhiều đồ được chuyển đến quá, náo nhiệt thật đấy nhỉ~\nToàn là một dàn nguyên liệu từ những ma vật hung tợn mà ngay cả ở Gio Gehenna cũng hiếm khi thấy được~
 物見遊山のつもりかえ？\nそぉれ、腕力を鍛える好機であろう？=Ngươi định chỉ đứng xem thôi sao?\nNào, chẳng phải đây là cơ hội tốt để rèn luyện sức mạnh cơ bắp đó sao?
 うっ！\nあれ運び込むの手伝ってこいってことですか～っ！？\n……なるべく危険じゃない食材、残ってないかな……=Hự!\nNgài bảo em đi giúp khuân mấy thứ đó ạ~!?\n……Không biết còn nguyên liệu nào ít nguy hiểm một chút không nhỉ……
 騎士殿や、どうぞごゆるりとお寛ぎを。\n場の支度が調い次第、煮炊きに取り掛かりまする故。=Hiệp sĩ này, xin cứ thong thả nghỉ ngơi.\nChờ chuẩn bị xong xuôi, ta sẽ bắt tay vào nấu nướng ngay.
-然様。\n彼の魔物共は、騎士殿への饗応の為に取り揃えし逸品……\nジオ・ゲヘナが誇る至高 của ẩm thực là không sai chút nào.=Đúng vậy.\nLũ ma vật kia là những món thượng hạng được thu thập để chiêu đãi Hiệp sĩ……\nCoi đó là tinh hoa ẩm thực mà Geo Gehenna tự hào cũng không hề quá lời.
+然様。\n彼の魔物共は、騎士殿への饗応の為に取り揃えし逸品……\nジオ・ゲヘナが誇る至高 của ẩm thực là không sai chút nào.=Đúng vậy.\nLũ ma vật kia là những món thượng hạng được thu thập để chiêu đãi Hiệp sĩ……\nCoi đó là tinh hoa ẩm thực mà Gio Gehenna tự hào cũng không hề quá lời.
 腕縒りかけて拵えまする故に。\nわっちの手に為る心尽くしの持て成し、\n御期待頂けますと是幸い──=Ta sẽ dốc hết tâm sức để chế biến.\nNếu ngươi mong đợi vào sự tiếp đãi chân thành từ đôi bàn tay này, ta sẽ rất lấy làm vinh hạnh──
 っ……\n今、なんと？=Hử……\nNgài vừa nói gì cơ?
 き、騎士殿さん～っ？=H-Hiệp sĩ-san~!?
@@ -241,8 +241,8 @@ Chapter 3
 うひっ……\nわ、分かりました、余計なことは言いませんってば～……=Hì……\nV-Vâng em biết rồi, em sẽ không nói gì thừa thãi đâu ạ~……
 ……どうやら俺たちも覚悟を決めるしかないようだな。=……Có vẻ như bọn ta cũng chỉ còn cách hạ quyết tâm thôi.
 ネフィ＝ネラさまがお認めになった相手だ。\n異論はねぇよ。=Đã là người mà ngài Nephy Nella công nhận.\nTa không có ý kiến gì hết.
-ですが～！　これら食材の調理は危険かつ困難！\nまるで過酷なジオ・ゲヘナの大地を象徴するが如くです～！\n未だかつて挑もうとした者は一人もいません！=Thế nhưng~!\nViệc chế biến những nguyên liệu này vô cùng nguy hiểm và gian nan!\nCứ như thể chúng là biểu tượng cho vùng đất Geo Gehenna khắc nghiệt này vậy~!\nChưa từng có một ai dám thử thách việc này cả!
-それでも媛さまと騎士殿さんが成し遂げようというなら、\n私たちもジオ・ゲヘナの民として、微力ながらお支えします～！\n……いいですよね、みなさん！？=Dù vậy, nếu Công chúa và Hiệp sĩ-san đã muốn thực hiện, thì chúng tôi với tư cách dân chúng Geo Gehenna sẽ dốc chút sức mọn này để hỗ trợ~!\n……Đúng không mọi người!?
+ですが～！　これら食材の調理は危険かつ困難！\nまるで過酷なジオ・ゲヘナの大地を象徴するが如くです～！\n未だかつて挑もうとした者は一人もいません！=Thế nhưng~!\nViệc chế biến những nguyên liệu này vô cùng nguy hiểm và gian nan!\nCứ như thể chúng là biểu tượng cho vùng đất Gio Gehenna khắc nghiệt này vậy~!\nChưa từng có một ai dám thử thách việc này cả!
+それでも媛さまと騎士殿さんが成し遂げようというなら、\n私たちもジオ・ゲヘナの民として、微力ながらお支えします～！\n……いいですよね、みなさん！？=Dù vậy, nếu Công chúa và Hiệp sĩ-san đã muốn thực hiện, thì chúng tôi với tư cách dân chúng Gio Gehenna sẽ dốc chút sức mọn này để hỗ trợ~!\n……Đúng không mọi người!?
 うおおおおおおおおっ！！！！=UOOOOOOOOOOO!!!!
 ──フフ。\n皆者、我が心知り也。重畳也。=──Hì hì.\nMọi người đều hiểu lòng ta. Tốt lắm.
 わっちも騎士殿の御覚悟に恥じぬよう励みまする故、\n何卒宜しく、共々に煮炊きに取り掛かりましょうぞ。=Ta cũng sẽ cố gắng để không làm hổ danh quyết tâm của Hiệp sĩ, vậy nên mong ngươi giúp đỡ, chúng ta hãy cùng nhau bắt đầu nấu nướng thôi.
@@ -274,7 +274,7 @@ Chapter 3
 扨て、冷めぬうちに頂きましょうぞ。\n騎士殿、此方にお越しくだしゃんせ。=Nào, hãy cùng thưởng thức khi còn nóng.\nHiệp sĩ, mời ngươi lại gần đây.
 つ、ついに！\nこの時がきたんですね～……！=C-Cuối cùng thì!\nThời khắc này cũng đã đến rồi nhỉ~……!
 ああ！　俺たちの頑張りも報われるってもんだ！\nこれからよろしくな──婿殿！！=Phải rồi! Công sức của bọn ta cuối cùng cũng được đền đáp!\nTừ giờ nhờ vào cậu cả đấy── Chàng rể!!
-此度の本膳には、ジオ・ゲヘナの豪族、権門の間にて\n往古より伝えられし特別なる作法がありまして喃。=Trong bữa tiệc chính này, có một nghi thức đặc biệt được lưu truyền từ xưa trong giới hào tộc và quyền môn ở Geo Gehenna.
+此度の本膳には、ジオ・ゲヘナの豪族、権門の間にて\n往古より伝えられし特別なる作法がありまして喃。=Trong bữa tiệc chính này, có một nghi thức đặc biệt được lưu truyền từ xưa trong giới hào tộc và quyền môn ở Gio Gehenna.
 其は独力では叶わぬ調理法──至難極める扱い難き食材の拵えを、\n相支え合い、共に乗り切り、永遠の盟約の証と致す。\n此れ即ち……『婚礼の儀』に御座いまする。=Đó là một phương pháp nấu ăn không thể thực hiện đơn độc── việc chế biến những nguyên liệu cực kỳ khó nhằn này, nếu hai người cùng tương trợ và vượt qua, nó sẽ trở thành minh chứng cho lời thề nguyền vĩnh cửu.\nNói cách khác…… đây chính là "Nghi lễ Thành hôn".
 あ～……\nそのキョトンとしたお顔、やっぱり知らなかったんですね～=A~……\nNhìn cái mặt ngơ ngác kia là biết anh chẳng hay biết gì rồi nhỉ~
 ですが、もう後戻りはできませんよ～！\nこの婚礼の儀は、作った料理をお互いに食べさせ合うことで\n完遂する……覚悟を決めてください、騎士殿さん～！=Thế nhưng, không thể quay đầu lại được nữa đâu~!\nNghi lễ này sẽ hoàn tất khi cả hai bên đút cho nhau ăn món ăn mình đã làm……\nAnh hãy hạ quyết tâm đi thôi, Hiệp sĩ-san~!
@@ -290,7 +290,7 @@ Chapter 3
 やれ、汝らと云うものは。\n此れより客人との饗宴だというに、些かなりは襟を正しなんし。=Thật là, cái lũ các ngươi.\nSắp tới lúc tiệc tùng với khách quý rồi, hãy chấn chỉnh lại tác phong một chút đi.
 ……なれど、騎士殿。\n先の話、其の全てが戯言ではありんせん。=……Tuy nhiên, Hiệp sĩ này.\nNhững lời lúc nãy không hoàn toàn là nói đùa đâu.
 若し騎士殿が御望みとあらば──仮令諸国と軋轢を生もうとも\n連れ合いとして御台所と成り、終生添い遂げるも吝かでなし。\n御心の定まりし時は、何時なりと御声掛けくだしゃんせ……♪=Nếu như Hiệp sĩ mong muốn── dẫu có phải gây ra xung đột với các quốc gia khác, ta cũng sẵn lòng trở thành người bạn đời và chung sống bên ngươi suốt cả cuộc đời.\nBất cứ khi nào tâm ý ngươi đã quyết, hãy cứ ngỏ lời với ta nhé……♪
-てんやわんやはありつつも、{playername}は\nネフィ＝ネラたちと作ったジオ・ゲヘナの料理を堪能し、\n楽しい夜は更けていくのだった。=Dù có đôi chút náo loạn, {playername} vẫn tận hưởng những món ăn vùng Geo Gehenna do chính tay mình và nhóm Nephy Nella cùng thực hiện,\nvà đêm vui vẻ cứ thế trôi đi.
+てんやわんやはありつつも、{playername}は\nネフィ＝ネラたちと作ったジオ・ゲヘナの料理を堪能し、\n楽しい夜は更けていくのだった。=Dù có đôi chút náo loạn, {playername} vẫn tận hưởng những món ăn vùng Gio Gehenna do chính tay mình và nhóm Nephy Nella cùng thực hiện,\nvà đêm vui vẻ cứ thế trôi đi.
 
 Player Prompts
 すごい魔物ばかりですね。=Toàn là những ma vật đáng kinh ngạc nhỉ.

@@ -10,10 +10,10 @@ Chapter Names
 最大級の愛情表現…！=Biểu hiện tình yêu vĩ đại nhất...!
 
 Chapter 1
-クリスマスシーズンを迎えたランドソル。\n王宮では、二カ国の友好親善パーティーが開かれ、\nジオ・テオゴニアの姫ライラエルによるスピーチが行われていた。=Mùa Giáng Sinh đã bắt đầu ở Landosol. Một bữa tiệc để ăn mừng tình bạn giữa Geo Teogonia và Landosol đang được tổ chức tại Cung Điện Hoàng Gia, nơi Công Chúa Hoàng Gia của Teogonia, Lyrael, đang phát biểu.
+クリスマスシーズンを迎えたランドソル。\n王宮では、二カ国の友好親善パーティーが開かれ、\nジオ・テオゴニアの姫ライラエルによるスピーチが行われていた。=Mùa Giáng Sinh đã bắt đầu ở Landosol. Một bữa tiệc để ăn mừng tình bạn giữa Gio Teogonia và Landosol đang được tổ chức tại Cung Điện Hoàng Gia, nơi Công Chúa Hoàng Gia của Teogonia, Lyrael, đang phát biểu.
 ──このクリスマス視察が、\nランドソル、ジオ・テオゴニアの永続的な友好関係を築く\n一歩になることを心から願って──=...Và vì vậy, tôi thành thật hy vọng chuyến thăm Giáng Sinh của tôi sẽ trở thành một bước đáng kể trong việc xây dựng một tình bạn lâu dài giữa Landosol và Geo Teogonia của tôi.
 ぐぅぅ～……！=Guuuu......!
-こ、こほん──\nぺコリーヌ姫、こちらをどうぞ。\nジオ・テオゴニアのチョコバーです。=K-Kẹ... Công Chúa Pecorine, xin hãy nhận lấy cái này. Đây là thanh sô-cô-la Geo Teogonia.
+こ、こほん──\nぺコリーヌ姫、こちらをどうぞ。\nジオ・テオゴニアのチョコバーです。=K-Kẹ... Công Chúa Pecorine, xin hãy nhận lấy cái này. Đây là thanh sô-cô-la Gio Teogonia.
 すみません……\n朝からずっと公務続きだったので……はむっ。=Xin lỗi... Từ sáng nay em chỉ bị ngập trong các nhiệm vụ hoàng gia... Hamph.
 ──こ、このように友愛の精神で、互いに手を取り合った先に、\n両国の自由な交通と交流があると信じております。=...T-Trong tinh thần huynh đệ giữa hai quốc gia, tôi tin rằng cả việc đi lại tự do và tương tác giữa chúng ta đều có thể xảy ra.
 これにて、友好親善パーティーはお開きといたします。\nライラエル姫、クリスマスは愛に溢れる季節でございます。\nぜひ、今回のご滞在をご堪能くださいませ。=Và với điều đó, bữa tiệc thiện chí hữu nghị này kết thúc. Công Chúa Lyrael, hãy biết rằng Giáng Sinh của chúng tôi là mùa tràn ngập tình yêu. Xin hãy tận hưởng thời gian ở đây.
@@ -129,7 +129,7 @@ Chapter 1
 わたしたちで、\nクリスマスを守るお手伝いをできないでしょうか？=Chúng ta... ba đứa... có thể giúp các cậu bảo vệ Giáng sinh này không?
 いいの……？\nむしろ、あたしがみんなを巻き込んだようなものなのに……=Cô chắc chứ...? So với việc cô ở trên con tàu này, đúng hơn là tôi mới là người đã kéo cô lên...
 私を助けてくれた恩返しがしたいの。\nそれに、クリスマスが壊れちゃうのは悲しいわ。=Tôi có bổn phận đạo đức để đền đáp việc cô đã cứu tôi. Hơn nữa, tôi sẽ buồn nếu Giáng sinh bị phá hỏng.
-はい。\n由緒正しいクリスマスを体験できなければ、\nジオ・テオゴニアの姫として、今回の視察を全うできませんので。=Đúng vậy. Nếu tôi không thể trải nghiệm một Giáng sinh truyền thống, tôi sẽ không thể hoàn thành cuộc thanh tra này với tư cách Công Chúa của Geo Teogonia.
+はい。\n由緒正しいクリスマスを体験できなければ、\nジオ・テオゴニアの姫として、今回の視察を全うできませんので。=Đúng vậy. Nếu tôi không thể trải nghiệm một Giáng sinh truyền thống, tôi sẽ không thể hoàn thành cuộc thanh tra này với tư cách Công Chúa của Gio Teogonia.
 それに──わたしはこれでも、天使ですから。\n愛を壊され、困っている方々がいるというのに\n見て見ぬふりなどできません。=Hơn nữa... tôi cũng là một thiên thần. Tôi không thể làm ngơ trước những người đã có tình yêu của họ bị phá hủy và đang gặp khó khăn.
 さっきまで、賑やかだったのに。=Đúng thật, chỉ một chút trước còn rất nhộn nhịp...
 えっ！？\nライラエルさん天使でお姫さまだったの？\nその格好、大丈夫かしら……=HẢ?! Lyrael-san, cô không chỉ là một thiên thần... MÀ CÔ CÒNG LÀ MỘT CÔNG CHÚA? Tôi tự hỏi bộ trang phục như vậy có ổn không đối với cô...
@@ -178,7 +178,7 @@ Boss?
 お断りします。\n帰ります。=Tôi từ chối. Tôi về nhà.
 えぇ、ライラエルさん！？\nもしかして愛を破壊されちゃったの！？=Ồ, cô Lyrael?! Tình yêu của cô bị phá hủy rồi sao?!
 待ってください、イッちゃダメです！\n私たち、クリスマスの悪魔ですよね？=Khoan đừng đi! Chúng ta là quỷ Giáng sinh, phải không?
-違います、離してください。\nわたしはジオ・テオゴニアに帰って、\nリンドたちに作らせたケーキを食べて寝るのです。千年ほど。=Không, xin để tôi đi. Tôi sẽ trở về Geo Teogonia, ăn chiếc bánh Lind và những người khác làm, rồi đi ngủ. Có lẽ một nghìn năm.
+違います、離してください。\nわたしはジオ・テオゴニアに帰って、\nリンドたちに作らせたケーキを食べて寝るのです。千年ほど。=Không, xin để tôi đi. Tôi sẽ trở về Gio Teogonia, ăn chiếc bánh Lind và những người khác làm, rồi đi ngủ. Có lẽ một nghìn năm.
 ダメですっ！\n一緒にベロリーちゃんを止めますよっ！=Không! Chúng ta sẽ cùng ngăn chặn Beryl!
 ケーキで祝勝会？=Một bữa tiệc chiến thắng bằng bánh?
 ベロリーちゃんも無事止められましたし。\nクリスマスはもう大丈夫そうですね♪=Chúng ta cũng đã ngăn chặn được Bellory. Có vẻ Giáng sinh năm nay kết thúc rồi♪
@@ -477,7 +477,7 @@ Chapter 4
 待って！\nあたしたちは、むしろその犯人を捜しているの！=Khoan! Nếu có gì, thì chúng tôi mới là người đang tìm thủ phạm!
 じゃあ、お前も逮捕だ！=Vậy... các cậu càng bị bắt!
 何が「じゃあ」なのよっ！？=Ý cậu là gì, "vậy"...!?
-これは不当逮捕です。\nジオ・テオゴニアの姫として抗議します。=Đây là sự bắt giữ bất công. Với tư cách Công chúa của Geo Teogonia, tôi phải phản đối.
+これは不当逮捕です。\nジオ・テオゴニアの姫として抗議します。=Đây là sự bắt giữ bất công. Với tư cách Công chúa của Gio Teogonia, tôi phải phản đối.
 そんな服着たお姫さまがいるわけないだろ！\nよーし、嘘なんとか罪も追加っと……=Không thể nào một Công chúa lại mặc quần áo như thế đi khắp thành phố! Được rồi, tôi sẽ thêm vài lời nói dối vào bản án của các cậu...
 なっ……！？\nそれでは、ジュンと話させてください！\n彼女とは、面識もありますから……！=Gì...?! Vậy thì, tôi yêu cầu cậu để tôi nói chuyện với chính Jun! Tôi biết cô ấy cá nhân...!
 んん？　俺を脅しているのか？\n団長の名前を出した以上、脅迫罪も追加だな。\n残念だが、団長は季節性の風邪で欠勤だ。=Hm? Có phải tôi vừa nghe thấy một lời đe dọa? Vì các cậu dùng tên của Tư lệnh như vậy, tôi nghĩ chúng tôi cũng sẽ thêm tội tống tiền vào danh sách. Không may, Tư lệnh đang vắng mặt vì cảm cúm mùa.
@@ -731,7 +731,7 @@ Chapter 6
 は、はい！\n君も行くわよ！=D-Dạ! {playername}, đi với em!
 無駄なことを……=Cậu chỉ đang lãng phí thời gian...
 振り切れたようですね……\n二人とも無事ですか？=Có vẻ chúng ta đã thành công trong việc lắc bỏ cô ấy... Hai cậu ổn chứ?
-はい……でも、ここはどこなんでしょう？\nランドソルでも、ジオ・テオゴニアでもなさそうですし……=Vâng... Nhưng chúng ta đang ở đâu? Nơi này không giống Landosol hay Geo Teogonia...
+はい……でも、ここはどこなんでしょう？\nランドソルでも、ジオ・テオゴニアでもなさそうですし……=Vâng... Nhưng chúng ta đang ở đâu? Nơi này không giống Landosol hay Gio Teogonia...
 何か手がかりがあればいいのですが……\nとにかく、今は出口を探しましょう。=Thật tốt nếu chúng ta có thể tìm thấy manh mối nào đó để biết... Dù sao, trước tiên hãy tìm đường ra ngoài.
 ここもダメですね……\n元の夢へ戻る道はないようです……=Nơi này cũng không ổn... Có vẻ không có cách nào quay lại giấc mơ ban đầu của chúng ta...
 先生がついているから、大丈夫よ♪\n一度、一緒に深呼吸しましょう。=Sensei ở đây với hai cậu, đừng lo♪ Hãy hít thở sâu cùng nhau.

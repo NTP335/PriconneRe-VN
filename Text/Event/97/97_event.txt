@@ -1,0 +1,64 @@
+NPC
+あの、助けてください！私がへんたいふしんしゃさんになっちゃったみたいなんです…！どういう意味かは私もわかりません=Ơ kìa, xin hãy cứu tôi với! Hình như tôi đã trở thành một "kẻ biến thái khả nghi" mất rồi...! Đến tôi cũng chẳng hiểu điều đó nghĩa là gì nữa...
+ましゃか、グレイス姉しゃまたちがへんたいふしんしゃさんだなんて…騎士しゃん。あたちたちも協力ちて二人の破滅エンドを回避ちましょう=Không thể nào, chuyện chị Grace và những người khác bị gọi là kẻ biến thái khả nghi... Hiệp sĩ à. Chúng ta hãy cùng hợp sức để giúp họ tránh khỏi "Kết thúc hủy diệt" (Bad Ending) nhé!
+私がへんたいふしんしゃさんって…ただ生きているだけなのに、ひどい…まぁ死んでるんですけど…とか言ってる暇もない感じですか？=Bảo tôi là kẻ biến thái khả nghi sao... Tôi chỉ đang sống bình thường thôi mà, thật quá đáng... À mà thực ra tôi chết rồi... Nhưng mà có vẻ giờ không phải lúc để than vãn chuyện đó nhỉ?
+
+
+Title and summary
+悪役令嬢とバニー使い魔=Nàng ác nữ và Linh thú thỏ
+噂のへんたいふしんしゃさんとなってしまったグレイスとキョウカ。令嬢とバニーの主従の姿となった二人は、驚く{playername}たちに、呪いの鎖で繋がれ、守護騎士を解任された経緯を語るのだった。=Grace và Kyouka bỗng chốc trở thành những "kẻ biến thái khả nghi" theo lời đồn đại. Trong hình hài cặp chủ tớ "Tiểu thư và Thỏ", cả hai đã kể cho nhóm {playername} đang kinh ngạc nghe về việc họ bị trói buộc bởi xiềng xích lời nguyền và bị cách chức kỵ sĩ hộ vệ như thế nào.
+鎖の長さは絶望までの距離=Chiều dài sợi xích là khoảng cách đến tuyệt vọng
+ルルィと頭をぶつけた衝撃で奇妙な夢を見るキョウカ。その中で知った狂気の鎖が招く最悪な結末『へんたいふしんしゃさん破滅エンド』を回避すべく、{playername}たちと鎖の解呪に乗り出すことになる。=Sau cú va chạm đầu với Lulu, Kyouka đã thấy một giấc mơ kỳ lạ. Để tránh khỏi kết cục tồi tệ nhất do sợi xích điên loạn dẫn lối — "Kết thúc hủy diệt của kẻ biến thái" — cô đã cùng nhóm {playername} bắt đầu hành trình giải lời nguyền cho sợi xích.
+キョウカママを攻略せよ=Chinh phục mẹ của Kyouka
+ジオ・ニヴルヘルに向かう許可を得るため、キョウカの家に来た{playername}たち。ミミやミソギも一緒につかの間和やかな時間を過ごす。そして正気度で長さが変わる鎖の特性を解明し、解呪に一歩前進した。=Để xin phép tiến vào Gio Nivlhel, nhóm {playername} đã ghé thăm nhà Kyouka. Họ đã có những giây phút yên bình ngắn ngủi cùng với Mimi và Misogi. Tại đây, họ đã giải mã được đặc tính thay đổi chiều dài dựa trên chỉ số lý trí của sợi xích, tiến thêm một bước trong việc giải lời nguyền.
+出血大サービスパーティー=Bữa tiệc phục vụ máu lửa
+ジオ・ニヴルヘルで解呪の手がかりを探すため、オルロック伯爵とパーティーを開催する{playername}たち。へんふし扱いの空気を一変させ、住民と絆を深めた一同は、ついに元凶に繋がる情報を得る。=Nhằm tìm kiếm manh mối giải lời nguyền tại Gio Nivlhel, nhóm {playername} đã cùng Bá tước Orlock tổ chức một bữa tiệc. Sau khi làm thay đổi hoàn toàn bầu không khí kỳ thị "kẻ biến thái" và thắt chặt tình cảm với cư dân, cả nhóm cuối cùng đã có được thông tin dẫn đến kẻ thủ ác.
+『深い庭』へ=Tiến vào "Khu vườn sâu thẳm"
+胞子の森で、呪いの元凶である『嘆きの聖母たちの眷属』と対峙する{playername}たち。グレイスとキョウカは令嬢バトルで敵の情報を引き出すが、へんふし値が限界を迎え、鎖の光に飲み込まれてしまう。=Tại Rừng Bào Tử, nhóm {playername} đối mặt với "Thuộc hạ của các Thánh mẫu than khóc", nguồn cơn của lời nguyền. Grace và Kyouka đã dùng trận chiến phong cách tiểu thư để khai thác thông tin kẻ địch, nhưng chỉ số "biến thái" đã chạm mức giới hạn khiến họ bị ánh sáng của sợi xích nuốt chửng.
+グレイスのためらい=Sự do dự của Grace
+鎖の中に囚われたグレイスたち。思い出した記憶とスミレとの関係に独り悩む彼女だが、キョウカの励ましで仲間に頼る勇気を得る。脱出の鍵である巫女舞を皆で踊り、覚醒したルルィの未知なる力で脱出する。=Nhóm Grace bị giam cầm bên trong sợi xích. Cô một mình trăn trở về ký ức vừa tìm lại và mối quan hệ với Sumire, nhưng nhờ sự khích lệ của Kyouka, cô đã có thêm dũng khí để tin tưởng đồng đội. Mọi người cùng nhảy điệu múa Vu nữ — chìa khóa để thoát thân — và trốn thoát nhờ sức mạnh thần bí vừa thức tỉnh của Lulu.
+へんふしで溢れる街=Thành phố tràn ngập những kẻ biến thái
+ゾンビの大群を率いる嘆きの聖母たちの眷属によって、街は阿鼻叫喚のへんふし騒動に。事態を収束するため、{playername}たちは連携の力で眷属を撃破する。そしてグレイスたちは解呪に成功するのだった。=Dưới sự dẫn dắt của Thuộc hạ các Thánh mẫu than khóc cùng binh đoàn thây ma, thành phố rơi vào cảnh hỗn loạn kinh hoàng vì những kẻ biến thái. Để dẹp loạn, nhóm {playername} đã cùng nhau tiêu diệt kẻ địch bằng sức mạnh hiệp lực. Cuối cùng, nhóm Grace đã giải lời nguyền thành công.
+へんふし破滅エンド回避！=Tránh được Kết thúc hủy diệt của kẻ biến thái!
+なんとか破滅エンドを回避して安心したのもつかの間、へんふしとして逮捕されてしまった{playername}たち。絆を深めた仲間の助けで釈放された彼らは、恐れることなく社会復帰のために歩みだすのだった。=Vừa mới thở phào vì tránh được kết thúc bi thảm thì nhóm {playername} lại bị bắt giữ vì bị coi là những kẻ biến thái. Nhờ sự giúp đỡ của những người bạn đã cùng thắt chặt tình cảm, họ được trả tự do và bắt đầu bước tiếp trên con đường tái hòa nhập xã hội mà không còn sợ hãi điều gì.
+
+
+
+
+
+
+
+あの令嬢、ものすごい力です……\nでもだからって、負けるわけにはいきません……！=Ả cô tiểu thư đó có sức mạnh thật khủng khiếp...\nNhưng dù vậy, chúng ta cũng không được phép thua cuộc đâu...!
+はいでしゅ。\n破滅エンドを回避するためにも、あたちもがんばりましゅよ！=Vâng ạ.\nĐể tránh khỏi kết thúc hủy diệt, em cũng sẽ cố gắng hết sức!
+はい。\n今こそ、チームへんふしの絆を見せてやりましょう。=Đúng vậy.\nGiờ chính là lúc để cho chúng thấy sức mạnh liên kết của "Biệt đội Biến thái"!
+そんなチーム組んでませんよ！\nへんな絆じゃなくて、仲間の絆でがんばりましょう。=Chúng ta không hề lập cái đội đó nhé!\nĐừng có dùng cái liên kết kỳ quặc ấy, hãy cùng cố gắng bằng tình bạn giữa các đồng đội nào.
+破滅エンド回避記念=Kỷ niệm tránh được Kết thúc hủy diệt
+やりまちた……！\nこれで、呪いの鎖も解けるはずでしゅよ……！=Làm được rồi...!\nNhư vậy là sợi xích lời nguyền chắc chắn sẽ được hóa giải thôi ạ...!
+これで破滅エンドは回避だぴょん。\nやったぴょん！=Thế là đã tránh được kết cục hủy diệt rồi pyon.\nTuyệt quá pyon!
+グレイスさん……！？\nウサギになってますよ！？=Chị Grace...!?\nChị biến thành thỏ rồi kìa!?
+ふふ。冗談ですよ冗談。\n鎖から解放されたので、最後の見納めです。\n……せっかくなので、キョウカお嬢様もやってみては？=Hì hì. Đùa thôi mà, đùa thôi.\nVì đã thoát khỏi sợi xích nên đây là lần cuối tôi diện hình hài này đấy.\n...Tiện đây thì, tiểu thư Kyouka cũng thử một chút xem sao?
+えっ……そ、それじゃあ……\nおーっほっほ！　破滅エンド回避成功ですわ～♪=Hả... V-vậy thì...\nÔ hô hô hô! Đã tránh được kết thúc hủy diệt thành công rồi nhé~♪
+うぅっ……は、恥ずかしい～……=Ưư... X-xấu hổ quá đi mất~...
+えっ！？\nゾンビの他に、魔物まで現れましたよ……！？=Cái gì!?\nNgoài lũ thây ma ra, đến cả ma vật cũng xuất hiện nữa sao...!?
+よだれを垂らして、へんふ値も低そうな魔物です。\nきっと、あの令嬢に狂気の力で操られているのでしょう。=Lũ ma vật đó đang chảy nước dãi, trông chỉ số biến thái có vẻ khá thấp.\nChắc chắn chúng đang bị cô tiểu thư kia thao túng bằng sức mạnh điên loạn rồi.
+うじゅ……でちたら、倒すしかなさそうでしゅね。\nあたちもがんばりましゅ……！=Ư ư... Nếu vậy thì chắc là chỉ còn cách đánh bại chúng thôi.\nEm cũng sẽ cố gắng hết sức ạ...!
+……そういえば、ルルィちゃんもよく\nよだれをたらしているのを見かけるけど。\nそれは、へんふ値とは関係ないんだよね……？　=...Nhắc mới nhớ, tôi cũng thường thấy bé Lulu hay chảy nước dãi.\nChuyện đó không liên quan gì đến chỉ số biến thái... đúng không nhỉ?
+こ、今度はシャドウまで……！？\nしかも、私たちにそっくりですよ。=L-lần này đến cả Phản chiếu (Shadow) cũng xuất hiện sao...!?\nĐã vậy trông chúng còn y hệt chúng ta nữa.
+キョウカお嬢様、それだけではありません。\n鎖で繋がれていない分、あっちの方がまともに見えます。\n……ぐっ、精神的ダメージが……=Tiểu thư Kyouka, không chỉ có thế đâu.\nVì chúng không bị xích lại nên trông bên đó còn có vẻ bình thường hơn cả chúng ta nữa.\n...Hự, sát thương tinh thần lớn quá...
+グレイス姉しゃま！？\nしっかりしてくだしゃい。=Chị Grace!?\nChị phải tỉnh táo lại đi ạ!
+グレイスさん、ふざけている場合じゃないですよ！\nシャドウがきます……！=Chị Grace, đây không phải lúc để đùa đâu!\nĐám Shadow đang tới kìa...!
+ようやく追い詰めました。\nあとは、あの悪役令嬢を倒すだけです。=Cuối cùng cũng dồn chúng vào đường cùng rồi.\nGiờ chỉ còn việc đánh bại ả tiểu thư ác độc kia nữa thôi.
+破滅エンド回避まで、あと少しでしゅね。\n油断ちないよう、あたちも触手を締め直ちましゅよ。=Chỉ còn một chút nữa là tránh được kết thúc hủy diệt rồi.\nĐể không lơ là, em cũng sẽ siết chặt lại các xúc tu của mình!
+触手をしめなおす……？\nと、とにかく、今こそ連携の力ですね。=Siết chặt xúc tu sao...?\nD-Dù sao thì, giờ chính là lúc để thể hiện sức mạnh hiệp lực.
+では最後に息を合わせて、掛け声でいきましょう。\nいきますよ、せーのっ。=Vậy cuối cùng chúng ta hãy cùng hô khẩu hiệu thật nhịp nhàng nhé.\nChuẩn bị nào, một hai ba.
+「えっ、どう合わせるんですか！？　何も聞いてませんよ！」\n「極楽へ、逝かせてあげるわ。」\n「タコ殴りにしてやりましゅ！」="Hả, phối hợp thế nào cơ!? Tôi đã nghe nói gì đâu!"\n"Ta sẽ tiễn ngươi về miền cực lạc."\n"Em sẽ đánh cho hắn ra bã luôn!"
+前もって決めておかないと無理ですよ！\nバラバラでしたけど、今のでいいんですか！？=Không quyết định trước thì làm sao mà làm được!\nMỗi người một kiểu thế kia mà cũng tính là xong sao!?
+やあ。\nボクがもっともっと美しくなるための薬を注文していたんだけど、\n商品は用意してくれたかい？=Chào nhé.\nTôi đã đặt loại thuốc giúp bản thân ngày càng trở nên xinh đẹp hơn, không biết món hàng đó đã chuẩn bị xong chưa nhỉ?
+いらっしゃいませー……ああ、ユキさん。\nできてますよ。\nちょっと待ってくださいね、えーっと、あったあったこちらです。=Xin chào quý khách... À, ra là Yuki.\nXong rồi đây.\nĐợi tôi một chút nhé, ừm, đây rồi đây rồi, của cậu đây.
+ああ、注文してからというもの今日を待ちわびていたよ！\n究極の美しさを持つボクがさらに美しくなる薬……\n早速いただくよ！=A, kể từ khi đặt hàng tôi đã mong chờ ngày hôm nay lắm đấy!\nLoại thuốc giúp một người sở hữu vẻ đẹp tuyệt mỹ như tôi trở nên rạng ngời hơn nữa...\nTôi sẽ uống ngay đây!
+ふふ……どうだい？　美がほとばしってるかい？\nああ、美しさを目の当たりにすると、声が出なくなってしまうからね。\nそれじゃあ鏡で見てみることにしよう。どれどれ……=Hì hì... Sao hả? Vẻ đẹp của tôi đang tỏa sáng rực rỡ đúng không?\nChà, khi chứng kiến vẻ đẹp đích thực, người ta thường chẳng thốt nên lời mà.\nVậy thì để tôi soi gương xem sao nào. Để xem nào...
+おお……美しい。美麗だ、壮麗だ、艶やかだ……\nどれだけ言葉を尽くしても追い付かないとはこのことだね！\nボクの美は頂点を超えていくんだろうね……なんて罪深いんだろう。=Ôi... Đẹp quá. Kiều diễm, tráng lệ, lộng lẫy...\nĐúng là chẳng có từ ngữ nào có thể diễn tả trọn vẹn được!\nVẻ đẹp của tôi sắp vượt qua cả đỉnh cao rồi... Thật là tội lỗi quá đi mà.
+ふ……ふふ、ありがとう大満足だ。\nそれじゃあこのボクの美しさを、\n街のみんなにもおすそ分けしてくるよ。じゃあね。=Hì... hì hì, cảm ơn nhé, tôi mãn nguyện lắm.\nVậy thì giờ tôi sẽ đi chia sẻ vẻ đẹp này cho mọi người trong thành phố đây. Chào nhé.
+ソノさん！　ユキさんまだ来てないよね！？\nユキさんに渡すお薬、中身間違ってたの！\n先に渡してたのはただのお水で……=Chị Sono! Yuki vẫn chưa đến đúng không!?\nCái thuốc đưa cho Yuki bị nhầm rồi! Cái lọ lúc nãy đưa cho cậu ấy chỉ là nước lã thôi...
+ユキさんなら、今さっきめちゃくちゃ満足して帰ってったとこ。\n……え、ただの水？\nとんでもないプラシーボ効果じゃん。=Nếu là Yuki thì cậu ấy vừa mới ra về với vẻ mặt cực kỳ mãn nguyện xong.\n...Hả, chỉ là nước lã thôi sao?\nĐúng là hiệu ứng giả dược (placebo) kinh khủng thật đấy.
+……メンタル最強かよ。\nあの子はきっと幸せに生きるな。=...Tinh thần thép hay gì vậy.\nCái cậu đó chắc chắn sẽ sống một đời hạnh phúc cho xem.

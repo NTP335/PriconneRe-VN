@@ -169,7 +169,7 @@ Player Prompts
 あの人もシェフィちゃんが助けたんだよ。=Cậu đã cứu cậu ấy rồi, Sheffy
 
 Chapter 3
-【美食殿】のギルドハウスに帰還して数日後。\nシェフィと{playername}は再び\nジオ・ゲヘナへ戻り、特訓に励んでいた。=Vài ngày sau khi trở về nhà guild Gourmet Guild, Sheffy và {playername} lại trở về Geo Gehenna để tiếp tục huấn luyện.
+【美食殿】のギルドハウスに帰還して数日後。\nシェフィと{playername}は再び\nジオ・ゲヘナへ戻り、特訓に励んでいた。=Vài ngày sau khi trở về nhà guild Gourmet Guild, Sheffy và {playername} lại trở về Gio Gehenna để tiếp tục huấn luyện.
 いくわよ？\nはぁっ……！=Tôi bắt đầu nhé? HAAH...!
 きっと運送ギルドで手伝いをしたおかげね。\nほら、あのときトゥンヌスをたくさん冷凍したでしょ？\n魔法をたくさん使ったのが、感覚を取り戻すいい訓練になったんだわ。=Tôi chắc chắn tất cả nhờ vào sự giúp đỡ tôi đã mang về nhà với Delivery Guild. Cậu biết không, nhớ cách tôi đã đóng băng nhiều Tunnus trước đây không? Sử dụng nhiều phép thuật là bài tập tốt để tôi lấy lại cảm giác.
 けど……正直なところ、まだ自信がないの。\nプリンセスフォームのほうは、使いこなせているとは\n言えないし……=Nhưng... thành thật mà nói, tôi vẫn chưa tự tin lắm vào bản thân. Tôi cũng chưa thể nói là đã thực sự làm chủ được Princess Form...
@@ -209,7 +209,7 @@ Chapter 3
 そうさ！\nさあ、かかっておいで！\n来なけりゃこっちから行くよ！=Được rồi! Nào, xông tới đây! Nếu không, tôi sẽ tới tìm các cô!
 えっ……\n……ええっ！？=Hả........HẢ!?
 いたた……\nすっかり筋肉痛になっちゃった。\n熱くなりすぎはダメね。=Ôi... Giờ em đau cơ quá rồi. Có vẻ như em đã quá hăng hái.
-でもおかげで、ちょっとは打たれ強くなれたのかしら。\nジオ・ゲヘナの人たちも「いい線いってる」って褒めてくれたもの。=Nhưng nhờ vậy, có lẽ em đã trở nên kiên cường hơn một chút. Ngay cả những người ở Geo Gehenna cũng khen em, nói, "Cô làm khá tốt."
+でもおかげで、ちょっとは打たれ強くなれたのかしら。\nジオ・ゲヘナの人たちも「いい線いってる」って褒めてくれたもの。=Nhưng nhờ vậy, có lẽ em đã trở nên kiên cường hơn một chút. Ngay cả những người ở Gio Gehenna cũng khen em, nói, "Cô làm khá tốt."
 そうするわ。\nランドソルから本を持ってきておいてよかった。\n戦いにも知識は必要だし、体を休ませる間に読めるもの。=Chắc chắn rồi. Em rất vui vì đã mang theo vài quyển sách từ Landosol. Kiến thức cần thiết cho trận chiến, và em có thể đọc chúng khi nghỉ.
 この本はとある剣客が書いた指南書で、\nこっちはルーセント学院推薦の魔法書。それから……\n……ちょっと借り過ぎた気もするけど、片っ端から読みましょう。=Quyển này là sách hướng dẫn do một kiếm sĩ viết, còn quyển kia là sách phép thuật được Giới học viện Lucent giới thiệu. Hơn nữa chúng ta có... ...Em cảm thấy như mình có thể mượn hơi nhiều, em nên đọc từng quyển một.
 プレシアちゃん、そっちの本はどう？\n参考になりそうなものを持ってきたつもりだけれど……=Precia, cô nghĩ về quyển sách đó thế nào? Em tưởng mình đã mang theo thứ gì đó có thể hữu ích, nhưng...
@@ -235,7 +235,7 @@ Chapter 3
 ……頼りにされたいのは、本当の気持ち。\nいつまた特訓できるかわからないもの、\n今のうちにもっともっと強くなっておかないと。=...Muốn được tin cậy, đó là cảm xúc thật của mình. Mình không biết khi nào sẽ có thể tập luyện lại, nên cần phải mạnh lên khi còn có thể.
 あんまり長く彼に付き合ってもらうのも申し訳ないし。\n私たちだけで、何かいいアイデアが思いつけばいいけど……=Mình không muốn phụ thuộc vào anh ấy mãi như bây giờ. Mình hy vọng chúng ta có thể tự nghĩ ra một vài ý tưởng tốt...
 つよさのひけつ。\nきいた。\nよ。=Bí quyết sức mạnh mới. Mình nghe. Về nó.
-それって、もしかして、ジオ・ゲヘナの人たちが\n強い理由、ってこと？\n教えてもらってきたの？=Ý cậu là cậu tìm thấy bí mật từ người dân Geo Gehenna về cách trở nên mạnh hơn? Cậu đã học chưa?
+それって、もしかして、ジオ・ゲヘナの人たちが\n強い理由、ってこと？\n教えてもらってきたの？=Ý cậu là cậu tìm thấy bí mật từ người dân Gio Gehenna về cách trở nên mạnh hơn? Cậu đã học chưa?
 れんしゅうすぽっと。\nいこ。\n……ないしょ。=Chưa. Chỗ tập luyện. Đi thôi. ...Giữ bí mật.
 ここが練習スポット、なのね。\n魔物の気配がたくさんするわ……みんなここで戦って訓練するのね。\n……ここなら確かに強くなれそうだわ。=Vậy đây là chỗ tập luyện, hả? Mình cảm nhận thấy nhiều quái vật ở đây... Mọi người đều chiến đấu và tập luyện ở đây. ...Mình chắc chắn chúng ta sẽ mạnh lên được ở đây.
 ええ。\n{playername}に言ったら「危ない」って\n止められそうな場所だけど……=Ừ. Nếu mình nói với {playername}, chắc chắn anh ấy sẽ bảo quá nguy hiểm và ngăn chúng ta lại, nên...
@@ -380,7 +380,7 @@ Chapter 4
 でも、みんなに迷惑をかけられないわ！\n戦った後で疲れてるのに\n赤ちゃんの面倒までみたくはないでしょう？=Nhưng...! Tôi không thể tiếp tục gây rắc rối cho mọi người. Tất cả các cậu sẽ mệt mỏi sau khi chiến đấu, và chăm sóc một đứa trẻ nghịch ngợm là điều cuối cùng các cậu muốn, phải không?
 それは……確かにそうね。=Đúng... thật đấy.
 ひとりで努力するのも大事だけど、\nみんなで手を取り合えば、もっと大きな力が出せるのよね。\n……私も今日、実感したわ。=Cố gắng một mình là quan trọng, nhưng nếu chúng ta cùng nắm tay, chúng ta có thể đạt được kết quả còn lớn hơn nữa. ...Mình lại nhận ra điều đó hôm nay.
-ええ、そうね。\nそして、一緒に行きましょう──\nジオ・ニヴルヘルへ。=Vâng... cậu nói đúng. Và rồi chúng ta sẽ cùng đi... đến Geo Niflhell!
+ええ、そうね。\nそして、一緒に行きましょう──\nジオ・ニヴルヘルへ。=Vâng... cậu nói đúng. Và rồi chúng ta sẽ cùng đi... đến Gio Nivlhel!
 自らが成したこと、そして自分自身と向き合い、\n改めて多くの気づきを得たシェフィ。\n彼女は決意を胸に、新たな地へと向かうのだった。=Sau khi đối mặt với những gì mình đã làm và với chính mình, Sheffy có được nhiều nhận thức mới. Với quyết tâm trong lòng, cô ấy lên đường cho một thế giới mới cùng những người bạn.
 
 New Titlecard

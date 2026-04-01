@@ -495,9 +495,9 @@ TYPE-P・シャドウP=Shadow P Loại P
 妖魔人の男性２=Đàn ông Quỷ núi 2
 妖魔人の男性３=Đàn ông Quỷ núi 3
 妖魔人の男性たち=Đàn ông Quỷ núi
-ジオ・テオゴニアの民たち=Người dân của Geo Theogonia
-ジオ・ゲヘナの民たち=Người dân của Geo Gehenna
-ジオ・ニヴルヘルの民たち=Người dân của Geo Niflhel
+ジオ・テオゴニアの民たち=Người dân của Gio Teogonia
+ジオ・ゲヘナの民たち=Người dân của Gio Gehenna
+ジオ・ニヴルヘルの民たち=Người dân của Gio Nivlhel
 
 王室の広報担当者=Người phát ngôn hoàng gia
 おかみさん=Bà nội trợ

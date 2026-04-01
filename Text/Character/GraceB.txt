@@ -1,0 +1,23 @@
+##Profile##
+【物理】中衛で、妖しく跳ねるバニーの幽霊守護騎士。物理攻撃力を代償に物理クリダメを極大アップし、【ブラックうさ耳】で油断した敵の虚を突き、御首を頂戴する。=【Vật lý】Vị trí trung phong, một kỵ sĩ hộ vệ u hồn trong lốt thỏ nhảy múa đầy ma mị. Cô hy sinh lực tấn công vật lý để tăng cực đại sát thương chí mạng vật lý, tận dụng [Tai Thỏ Đen] để đánh vào sơ hở của những kẻ địch lơ là và lấy đầu chúng.
+
+##UB##
+アメイジング・グレイシャス=Amazing Gracious
+目の前の敵１キャラに物理特大ダメージを２回与え、自分に【ブラックうさ耳】を付与する。【ブラックうさ耳】が付与されている間、自分の攻撃は必ずクリティカルする。=Gây sát thương vật lý cực đại 2 lần lên 1 kẻ địch trước mặt, đồng thời ban cho bản thân trạng thái [Tai Thỏ Đen]. Trong khi có [Tai Thỏ Đen], mọi đòn tấn công của bản thân chắc chắn sẽ chí mạng.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分にブラックうさ耳を付与する$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Ban trạng thái [Tai Thỏ Đen] cho bản thân trong 18 giây.
+
+
+##S1##
+死霊の棒踊り=Undead Stick Dance
+目の前の敵１キャラに物理大ダメージを２回与え、自分のＴＰを中回復する。=Gây sát thương vật lý lớn 2 lần lên 1 kẻ địch trước mặt, đồng thời hồi phục vừa điểm TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分のＴＰを150回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Hồi 150 điểm TP cho bản thân.
+
+
+##S2##
+剣磨・研ぎ田楽=Sword Polish: Togi Dengaku
+自分の物理攻撃力を中ダウンさせるが、物理攻撃クリティカル時のダメージを極大アップする。さらに、敵全体を凍結させ、自分のＴＰを特大回復し、自分以外の味方全体のＴＰを小回復する。バトル開始後、初弾のこのスキルは自分を敵にクリティカルでダメージを与えるたびにそのキャラの最大ＨＰに応じて最大50万の物理割合ダメージを与える状態にする。=Làm giảm vừa lực tấn công vật lý của bản thân nhưng tăng cực đại sát thương khi chí mạng vật lý. Ngoài ra, đóng băng toàn bộ kẻ địch, hồi phục cực đại điểm TP cho bản thân và hồi phục nhẹ điểm TP cho toàn bộ đồng đội (ngoại trừ bản thân). Lần đầu sử dụng kỹ năng này sau khi bắt đầu trận đấu, bản thân sẽ nhận trạng thái gây thêm sát thương vật lý theo tỉ lệ dựa trên HP tối đa của mục tiêu (tối đa 500.000) mỗi khi gây sát thương chí mạng.
+r:"^自分の物理攻撃力を現在値の40％ダウン自分の物理クリダメを100％アップ敵全体を一定時間行動不能にする自分のＴＰを1000回復自分以外の味方全体のＴＰを100回復初使用時、クリティカルでダメージを与えるたびに敵単体に最大50万の物理割合ダメージを与える状態になる$"=►Giảm 40% lực tấn công vật lý hiện tại của bản thân trong 18 giây.\n►Tăng 100% sát thương chí mạng vật lý của bản thân trong 18 giây.\n►Gây trạng thái Đóng Băng khiến toàn bộ kẻ địch không thể hành động trong 1,5 giây.\n►Hồi 1000 điểm TP cho bản thân.\n►Hồi 100 điểm TP cho toàn bộ đồng đội (ngoại trừ bản thân).\n►Khi sử dụng lần đầu, nhận trạng thái gây thêm sát thương vật lý cố định tương đương 5% HP tối đa (tối đa 500.000) lên một kẻ địch mỗi khi gây đòn chí mạng.
+
+##EX##
+インレ・ラーの跳影=Inre Ra’s Leaping Shadow
+インレ・ラーの跳影+=Inre Ra’s Leaping Shadow+

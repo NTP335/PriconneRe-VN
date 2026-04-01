@@ -526,3 +526,5 @@ r:"^ガチャチケットを消費してガチャを (\d+) 回引きます。$"=
 [3C404E]10キャラ目は[FFBB00,CE4F00]ピックアップキャラの出現率3倍！=[3C404E]Nhân vật thứ 10 có [FFBB00,CE4F00]cơ hội nhân vật nổi bật xuất hiện gấp 3 lần!
 スペシャルガチャ=Gacha Đặc Biệt
 
+マスターピース×１獲得可能！=Có thể nhận được 1 Masterpiece!
+有償ジュエル限定！[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！=Chỉ dành cho Jewel trả phí! [3C404E] Nhân vật thứ 10 chắc chắn là [FFBB00,CE4F00]nhân vật ★3!

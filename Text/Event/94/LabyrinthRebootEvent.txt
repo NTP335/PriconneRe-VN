@@ -559,7 +559,7 @@ Chapter 5
 ああ、この領域に入るのはみんな初めてか。\nあれが世界の自動生成プログラム。\nこの黎明界を管理する、巨大な『柱』──="À, đây là lần đầu các cậu bước vào một không gian như thế này. Đó là 'Chương trình Tự Động Tạo Thế Giới' cho thế giới này. Cái 'trụ' khổng lồ quản lý Vùng Đất Bình Minh này..."
 『柱』？="Một 'Trụ'?"
 世界を維持し、支える中枢──\nそれぞれの世界の核と言ってもいい。="Đó là hệ thống trung tâm duy trì và hỗ trợ thế giới -- thậm chí có thể nói đó là lõi của mỗi thế giới."
-ジオ・テオゴニア、ジオ・ゲヘナ、ジオ・ニヴルヘル──\n各裏世界にある『柱』と同じく、\nこの黎明界全体を管理するシステムだ。="Geo Teogonia, Geo Gehenna, Geo Niflhell... giống như 'Trụ' trong mỗi Underworld, đây là hệ thống quản lý toàn bộ Vùng Đất Bình Minh."
+ジオ・テオゴニア、ジオ・ゲヘナ、ジオ・ニヴルヘル──\n各裏世界にある『柱』と同じく、\nこの黎明界全体を管理するシステムだ。="Gio Teogonia, Gio Gehenna, Gio Nivlhel... giống như 'Trụ' trong mỗi Underworld, đây là hệ thống quản lý toàn bộ Vùng Đất Bình Minh."
 今はどうも正常に動作していないらしい。\nパッと見じゃ分からないが、不正な干渉を受けてる。="Ngay bây giờ, nó dường như không hoạt động bình thường. Không rõ ràng ở cái nhìn đầu tiên, nhưng nó đã chịu sự can thiệp trái phép."
 そのせいで黎明界の外にも異変が広がってるんですか？="Có phải vì vậy mà những hiện tượng kỳ lạ đang lan ra bên ngoài Vùng Đất Bình Minh?"
 ああ、『柱』のプログラムが暴走中だ。\nアタシでも簡単には近寄れない場所だし、\nこの柱だって無防備ってわけじゃない。="Ừ, chương trình 'Trụ' đã mất kiểm soát. Ngay cả mình cũng không thể tiếp cận nó dễ dàng, và 'Trụ' này cũng không phải là không có phòng thủ."

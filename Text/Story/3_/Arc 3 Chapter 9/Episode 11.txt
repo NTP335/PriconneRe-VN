@@ -178,7 +178,7 @@ Preview
 みんな助けてくれてありがとう=Mọi người... cảm ơn nhiều vì đã cứu tôi!
 次の世界は私も一緒に冒険を……=Tôi sẽ tham gia cuộc phiêu lưu của mọi người ở thế giới tiếp theo...
 って、いきなり離れ離れになっちゃったんだけど！？=Khoan đã... CHÚNG TA ĐÃ BỊ TÁCH RA RỒI!?
-第三部十章　闇謀のジオ・ニヴルヘル=Chương 10: Âm mưu xấu xa của Geo Niflhell
+第三部十章　闇謀のジオ・ニヴルヘル=Chương 10: Âm mưu xấu xa của Gio Nivlhel
 あなたたち、もしかして……！？=Người đó, không thể nào...!?
 
 Substory
@@ -187,7 +187,7 @@ Substory
 あっ、ヨリヨリ～\nこっちこっちー=À, Yori-yori! Ở đây, ở đây!
 えっ！！？\nあのリンさんが、待ち合わせの時間の前に来てるなんて──=Hở...?! Tôi không thể tin được là Rin-san lại đến trước giờ hẹn...!
 や、来てませんけどね。=Không, thực tế là cô ấy không ở đây.
-あれっ！！？\nあなたって確か、ジオ・テオゴニアのお城にいたメイドさん……？=Hở?! Cô... là một trong những người hầu từ lâu đài Geo Teogonia?
+あれっ！！？\nあなたって確か、ジオ・テオゴニアのお城にいたメイドさん……？=Hở?! Cô... là một trong những người hầu từ lâu đài Gio Teogonia?
 はい。メイドのヴルムです。\n今日はリンさんの代理で来ました。\n身代わりの術、だそうです。=Vâng. Tôi là người hầu, Wyrm. Hôm nay tôi đến đây thay mặt Rin. Cô ấy gọi đây là "kỹ thuật thay thế".
 身代わりの術っ！！？\nえっと……リンさん、急な用事でもあった？="Kỹ thuật thay thế"...?! Ơ... Rin-san, có chuyện gì khẩn cấp xảy ra với cô ấy sao?
 実はこの間、別の世界で大きな戦いがありまして。\n……リンさん、いまは動けないんです。=Thực ra thì, gần đây đã có một trận chiến lớn liên quan đến thế giới khác. ...Rin-san... không thể di chuyển được nữa.
@@ -299,13 +299,13 @@ New Titlecards
 アナウンス音声=Giọng nói thông báo
 
 Substory
-レディ・アラクネに勝った祝いの宴が終わり、\nライラエル一行はジオ・ゲヘナを去った。\nその次の日──=Sau lễ mừng chiến thắng trước Lady Arachne, Lyrael và đồng đội rời khỏi Geo Gehenna. Ngày hôm sau...
-え～っ！\nクルルちゃん、ジオ・テオゴニアっていうところにいるのっ！？=Eeeeeeeehhh?! Kururu-chan, vậy cô ở nơi gọi là Geo Teogonia này sao?!
+レディ・アラクネに勝った祝いの宴が終わり、\nライラエル一行はジオ・ゲヘナを去った。\nその次の日──=Sau lễ mừng chiến thắng trước Lady Arachne, Lyrael và đồng đội rời khỏi Gio Gehenna. Ngày hôm sau...
+え～っ！\nクルルちゃん、ジオ・テオゴニアっていうところにいるのっ！？=Eeeeeeeehhh?! Kururu-chan, vậy cô ở nơi gọi là Gio Teogonia này sao?!
 どうしたのですか、ナーナさん。\n大声を上げて。=Sao vậy, Nana-san? Tại sao cô lại hét lên?
 あのね、コッコロちゃんがシェフィちゃんにお話ししてて、\nでもクルルちゃんもみんなの知り合いらしくて……=Cô thấy rồi đó, Kokkoro-chan đang nói chuyện với Sheffy-chan, nhưng dường như Kururu-chan cũng biết tất cả bọn họ...
 ん、ん～……？=Ừm, ừm...?
 いまナーナさまを交えて、わたくしたちが裏世界で見聞きしたことを\nシェフィさまにお話ししていたのです。=Bây giờ, cùng với Lady Nana, chúng tôi đang kể cho Lady Sheffy về những gì chúng tôi đã thấy và nghe thấy trong hai Underworld.
-ジオ・テオゴニアっていう世界のことを聞いてたら、\n話の中でナーナさんの知り合いが出てきたみたいなの。=Khi tôi nghe về một thế giới gọi là Geo Teogonia, một người quen của Nana-san dường như đã xuất hiện trong câu chuyện.
+ジオ・テオゴニアっていう世界のことを聞いてたら、\n話の中でナーナさんの知り合いが出てきたみたいなの。=Khi tôi nghe về một thế giới gọi là Gio Teogonia, một người quen của Nana-san dường như đã xuất hiện trong câu chuyện.
 んーん、知り合いどころじゃなくって。\nクルルちゃんはナーナのいとこなんだ～！=Không không, chúng tôi không chỉ là người quen. Kururu-chan là con họ của Nana!
 なるほど、ご親戚でいらっしゃいましたか。\n一角兎と宝石兎という違いはあれど、\n言われてみればお二人からは近しいものを感じますね。=Ra vậy. Vậy là có quan hệ họ hàng. Dù có sự khác biệt lớn giữa một Al-miraj và một Carbuncle, nhưng giờ nhắc lại, tôi có thể cảm nhận được sự quen thuộc giữa hai người.
 えへへ、そうなんだ～\nクルルちゃん、元気にしてるかな？\n久しぶりに会ってお話ししたいな～=Ehehe, vậy à~ Không biết Kururu-chan có khỏe không? Đã lâu rồi tôi không gặp cô ấy, nên tôi rất muốn được nói chuyện với cô ấy lần nữa...
@@ -316,18 +316,18 @@ Substory
 確かにナーナさまだけでは不安ですね。\nそれに、ゲートを使ってもパークの近くに出られるわけではありません。\nならばわたくしが、ナーナさまに同行を……=Việc cô Nana đi một mình thật sự khiến người ta lo lắng. Hơn nữa, ngay cả khi cô ấy dùng Cổng dịch chuyển, cô ấy cũng không thể đến gần công viên được. Trong trường hợp đó, tôi sẽ đi cùng cô Nana...
 でもコッコロさん、アラクネと戦ったケガが\nまだ治りきってないでしょ。\nもうしばらくは休んでないと。=Nhưng... K伤害-san, những vết thương của cô ấy từ trận chiến với Lady Arachne chưa lành hẳn. Cô ấy cần nghỉ ngơi thêm một chút nữa.
 しかし、ナーナさまの望みを無下にするのも……=Tuy nhiên, từ chối điều ước của cô Nana cũng là...
-それなら、付き添いは私に任せて。\nジオ・テオゴニアっていう場所を見てみたかったし、\n戦いの勘を取り戻すのにちょうどいいかもしれないわ。=Vậy thì để tôi đi cùng cô ấy. Tôi cũng muốn xem nơi gọi là Geo Teogonia này, và đây có thể là cách tốt để lấy lại cảm giác chiến đấu của mình.
+それなら、付き添いは私に任せて。\nジオ・テオゴニアっていう場所を見てみたかったし、\n戦いの勘を取り戻すのにちょうどいいかもしれないわ。=Vậy thì để tôi đi cùng cô ấy. Tôi cũng muốn xem nơi gọi là Gio Teogonia này, và đây có thể là cách tốt để lấy lại cảm giác chiến đấu của mình.
 ならば私も同行しましょう！\nこの聖鳥の加護があれば、魔物如き近づくこともできませんからね。\n……たぶん。=Vậy thì tôi cũng sẽ đi cùng! Dưới sự bảo vệ của Thần Chim này, những quái vật tầm thường sẽ không bao giờ đến gần được. ...Có lẽ vậy.
 わぁっ、やった～♪\nみんながいるなら大丈夫だねっ！=Ồ, coi như xong rồi~♪ Sẽ ổn thôi khi mọi người đều ở đây!
-それでは、ここはお二人にお任せし、その間わたくしは\n主さまがジオ・ニヴルヘルへ向かう準備をしたいと思います。\nナーナさまがクルルさまと会えるよう、見守ってあげてくださいまし。=Vậy thì, tôi sẽ giao vấn đề này cho hai người, và trong lúc đó, tôi muốn chuẩn bị cùng Chủ nhân để có thể đến Geo Niflhell. Mọi người ơi, hãy trông chừng cô Nana để cô ấy có thể gặp được Lady Kururu.
-えぇ、任せてください。\nナーナさんを引率するついでに、ジオ・テオゴニアという世界にも\n私の燦々たる威光を知らしめてあげましょう！=Được, giao cho tôi. Trong khi tôi ở đây dẫn dắt và giúp đỡ Nana, tôi cũng sẽ cho thế giới Geo Teogonia thấy sức mạnh của tôi!
+それでは、ここはお二人にお任せし、その間わたくしは\n主さまがジオ・ニヴルヘルへ向かう準備をしたいと思います。\nナーナさまがクルルさまと会えるよう、見守ってあげてくださいまし。=Vậy thì, tôi sẽ giao vấn đề này cho hai người, và trong lúc đó, tôi muốn chuẩn bị cùng Chủ nhân để có thể đến Gio Nivlhel. Mọi người ơi, hãy trông chừng cô Nana để cô ấy có thể gặp được Lady Kururu.
+えぇ、任せてください。\nナーナさんを引率するついでに、ジオ・テオゴニアという世界にも\n私の燦々たる威光を知らしめてあげましょう！=Được, giao cho tôi. Trong khi tôi ở đây dẫn dắt và giúp đỡ Nana, tôi cũng sẽ cho thế giới Gio Teogonia thấy sức mạnh của tôi!
 ほーちゃん、シェフィちゃん、ありがと～！\nクルルちゃん、すぐに会いに行くから待っててね～♪=Ho-chan, Sheffy, cảm ơn! Kururu-chan, chị sẽ đến sớm thôi, nên chờ em nhaaaaaa♪!
-こうしてナーナは、シェフィとホウオウと共に、\nジオ・テオゴニアを目指して旅立つこととなった……=Vậy là Nana, cùng với Sheffy và Hoou, đã lên đường hành trình đến Geo Teogonia...
+こうしてナーナは、シェフィとホウオウと共に、\nジオ・テオゴニアを目指して旅立つこととなった……=Vậy là Nana, cùng với Sheffy và Hoou, đã lên đường hành trình đến Gio Teogonia...
 ゲートを抜けたら、まずはお城を目指してくださいませ。\n主さまのお名前を出せば、みなさま親切にしてくださるはずです。\nそれでは、お気をつけて行ってらっしゃいまし。=Khi đã qua Cổng, hãy đi về phía lâu đài trước. Nếu nhắc đến tên Chủ nhân, mọi người chắc chắn sẽ đối xử tốt với các bạn. Vậy thì, cẩn thận và có một chuyến đi vui vẻ.
 はいっ、いってきま～す！！=Được rồi, chúng ta lên đường!!
 ここがゲート……なんだか不思議な場所。\n前のほうに向かって、背中を押されてるみたい。\nみんなもここを通って裏世界にやってきたのね。=Vậy đây là Cổng... Tại sao lại có cảm giác kỳ lạ ở chỗ này. Có cảm giác như ai đó đang đẩy mình đi. Mọi người đã qua đây để đến Underworlds, phải không.
 あっ、向こうにだれかいるみたい！\nクルルちゃんかな？=Ồ, có vẻ như có người ở kia! Có lẽ là Kururu-chan chăng?
-もしやジオ・テオゴニアからの迎えですか？\n貴賓として扱っていただけるなら喜んで……=Có lẽ là người đến đón chúng ta vào Geo Teogonia? Tôi sẽ rất vui nếu được đối xử như một vị khách quý...
+もしやジオ・テオゴニアからの迎えですか？\n貴賓として扱っていただけるなら喜んで……=Có lẽ là người đến đón chúng ta vào Gio Teogonia? Tôi sẽ rất vui nếu được đối xử như một vị khách quý...
 ひゃあっ！！　こんなところにも魔物が！？\n聞いてないですよぉ～っ！=HỮUYYYY!! Quái vật ở một nơi chuyển tiếp như thế này nữa?! Tôi chưa nghe gì về chuyện này cả!
 ゲートに紛れこんじゃったみたいね……\nでも、任せて！\nこういう時のために、私がいるんだから！=Có vẻ như đó là những kẻ không may rơi vào Cổng... Nhưng cứ giao cho tôi! Tôi có mặt vì những lúc như thế này!
 おぉ、素晴らしいですシェフィさん！\nあなたには、今後も私の護衛役として務める権利を──=Ô, thái độ tuyệt vời đấy, Sheffy-san! Tôi sẽ ban cho cô quyền được phục vụ làm vệ sĩ của tôi trong tương lai!
@@ -337,7 +337,7 @@ Substory
 なんとかゲートを抜けたようですね。\nでもここは……森、でいいのでしょうか？=Có vẻ như chúng ta đã vượt qua được cổng. Nhưng... đây có phải là rừng không?
 まずはお城に行けばいいんだよね？\nでも、お城ってどこにあるの？　なんにもないよ？=Trước tiên... chúng ta nên đến lâu đài, phải không? Nhưng lâu đài ở đâu? Xung quanh chẳng có gì giống thế cả...
 もしかして、魔物と戦った影響で転送先がずれちゃったのかしら。\nお城どころか、人が住んでる様子もないみたいだし。=Rất có thể điểm dịch chuyển đã bị lệch do trận chiến với những con quái vật đó. Trông không có ai sống ở đây, huống chi là lâu đài.
-でも、ジオ・テオゴニアのどこかではあるはずですよ。\n周りの景色も、コッコロさんの説明通りです。=Nhưng chúng ta vẫn phải ở đâu đó trong Geo Teogonia. Cảnh quan xung quanh giống hệt như K伤害-san đã mô tả.
+でも、ジオ・テオゴニアのどこかではあるはずですよ。\n周りの景色も、コッコロさんの説明通りです。=Nhưng chúng ta vẫn phải ở đâu đó trong Gio Teogonia. Cảnh quan xung quanh giống hệt như K伤害-san đã mô tả.
 すんすん……ほんとだ～、甘い匂いがする～っ♪\nこのキノコみたいなの、ちょっと食べてみちゃおっかなぁ……=*hít hít*... Đúng rồi~ Em có thể ngửi thấy mùi đồ ngọt khắp nơi~♪ Có lẽ em nên thử ăn thứ nấm trông như thế này...
 ナーナさん、そこらへんのものを齧っちゃダメよ！？\nいまのところ魔物の気配はないけれど、\nどんな危険があるかわからないし……=Nana, đừng cắn bất cứ thứ gì xung quanh đây! Bây giờ chưa thấy quái vật, nhưng chúng ta không biết mối nguy nào đang rình rập quanh góc phố...
 とりあえず、森の出口を探してみましょうか。\n私の本来の力が戻れば、城へも一息で飛んでいるのですが……\n心苦しい限りです。=Trước mắt, hãy tìm lối ra khỏi khu rừng này. Nếu em có thể lấy lại sức mạnh ban đầu, em sẽ có thể bay đến lâu đài trong chớp mắt... Thật đau lòng.

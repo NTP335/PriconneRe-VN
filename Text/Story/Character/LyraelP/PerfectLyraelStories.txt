@@ -7,16 +7,16 @@ Chapter Names
 続々・天使のおままごと=Chuyện trò chơi đồ hàng của Thiên thần
 
 獄蜂に対抗するため、伝説の食材を一人で探すライラエル。食材が見つからず途方に暮れていると、国民たちが手伝いを申し出てくれた。そして、みんなの力を合わせることで、伝説の食材を発見するのだった。=Để đối đầu với Ngục Ong, Lyrael đã một mình đi tìm kiếm loại nguyên liệu huyền thoại. Trong lúc đang mất phương hướng vì mãi không tìm thấy, người dân đã đề nghị được giúp đỡ cô. Và rồi, bằng cách hợp lực cùng mọi người, cô đã tìm ra được nguyên liệu huyền thoại đó.
-ジオ・テオゴニアを深く知るため、スイーツ献上式を開催するライラエル。参加者と共に自身もお菓子を作るが、あえなく失敗。だが決して諦めることなくお菓子と向き合い、見事なお菓子を完成させるのだった。=Để hiểu sâu hơn về Geo-Theogonia, Lyrael đã tổ chức một buổi lễ dâng kẹo ngọt. Cô cũng tự mình tham gia làm bánh cùng những người khác nhưng đã thất bại thảm hại. Dẫu vậy, cô quyết không bỏ cuộc mà tiếp tục nỗ lực, để rồi cuối cùng đã hoàn thành một món bánh tuyệt mỹ.
+ジオ・テオゴニアを深く知るため、スイーツ献上式を開催するライラエル。参加者と共に自身もお菓子を作るが、あえなく失敗。だが決して諦めることなくお菓子と向き合い、見事なお菓子を完成させるのだった。=Để hiểu sâu hơn về Gio Teogonia, Lyrael đã tổ chức một buổi lễ dâng kẹo ngọt. Cô cũng tự mình tham gia làm bánh cùng những người khác nhưng đã thất bại thảm hại. Dẫu vậy, cô quyết không bỏ cuộc mà tiếp tục nỗ lực, để rồi cuối cùng đã hoàn thành một món bánh tuyệt mỹ.
 寝たきりのヴルムのためにお菓子を作りたいと考えたライラエルは、{playername}と共に材料を採取・調理をする。そしてヴルムは、ライラエルの想いと手作りプリンを受け取ると、涙を流したのだった。=Muốn làm bánh cho Vurm đang phải nằm liệt giường, Lyrael đã cùng {playername} đi thu thập nguyên liệu và nấu nướng. Khi nhận được tấm lòng cùng món bánh pudding tự tay Lyrael làm, Vurm đã rơi những giọt nước mắt xúc động.
 えるは、{playername}との夫婦ごっこを引き続き楽しんでいき、食後のデザート作りをしていく。頬にクリームがついてしまうと、愛しの旦那様に舐めとってもらい、えるは幸せそうに微笑むのだった。=El tiếp tục tận hưởng trò chơi đóng vai vợ chồng với {playername} và cùng nhau làm món tráng miệng sau bữa ăn. Khi bị dính kem lên má, cô đã được "anh chồng" yêu quý liếm đi, khiến El mỉm cười một cách đầy hạnh phúc.
 
 
 
 Chapter 1
-『六凶』メリッサにより、大混乱に陥ったランドソル万博。\n対処のためにジオ・テオゴニアへ一時帰還したライラエルは、\n伝説の食材を求め城から一人飛び出していた。=Đại hội triển lãm Landosol rơi vào hỗn loạn cực độ bởi Melissa – một trong "Lục Hung", kẻ được mệnh danh là "Ngục Ong". Để giải quyết cuộc khủng hoảng, Lyrael đã tạm thời trở về Geo-Theogonia, rồi một mình rời khỏi lâu đài để lên đường tìm kiếm loại nguyên liệu huyền thoại.
+『六凶』メリッサにより、大混乱に陥ったランドソル万博。\n対処のためにジオ・テオゴニアへ一時帰還したライラエルは、\n伝説の食材を求め城から一人飛び出していた。=Đại hội triển lãm Landosol rơi vào hỗn loạn cực độ bởi Melissa – một trong "Lục Hung", kẻ được mệnh danh là "Ngục Ong". Để giải quyết cuộc khủng hoảng, Lyrael đã tạm thời trở về Gio Teogonia, rồi một mình rời khỏi lâu đài để lên đường tìm kiếm loại nguyên liệu huyền thoại.
 皆、クローチェも──待っていてください。\n必ず、助けてみせます……！=Mọi người, cả Croce nữa── xin hãy đợi ta. Ta nhất định sẽ cứu được tất cả...!
-獄蜂と戦うため、人質となってしまっている者たちを救うためにも、\nジオ・テオゴニアの伝説 của 伝説の食材を手に入れなくては……！=Để chiến đấu với Ngục Ong, cũng như để giải cứu những người đang bị bắt làm con tin... mình buộc phải có được nguyên liệu huyền thoại của Geo-Theogonia...!
+獄蜂と戦うため、人質となってしまっている者たちを救うためにも、\nジオ・テオゴニアの伝説 của 伝説の食材を手に入れなくては……！=Để chiến đấu với Ngục Ong, cũng như để giải cứu những người đang bị bắt làm con tin... mình buộc phải có được nguyên liệu huyền thoại của Gio Teogonia...!
 ……これまで、わたしだけで食材探しをしたことはありません。\nいつも誰かが、わたしのそばにいてくれた。\nですが……=...Từ trước đến nay, mình chưa từng đi tìm kiếm nguyên liệu một mình. Luôn có ai đó ở bên cạnh mình. Thế nhưng...
 ヴルムはまだ目を覚まさず、リンドはその看病……\nとても、付き合わせるわけにはいきません。=Vurm vẫn chưa tỉnh lại, còn Lind thì đang chăm sóc cô ấy... Mình không thể nào bắt họ đi cùng được.
 ……ヴルム……=...Vurm...
@@ -92,10 +92,10 @@ Chapter 2
 皆、よくぞ集まってくれました。\nこれより『スイーツ献上式』を執り行います。\n……いざ！=Mọi người, cảm ơn vì đã tề tựu đông đủ. Sau đây ta xin tuyên bố cử hành "Lễ dâng kẹo ngọt". ──Bắt đầu thôi!
 「ライラエルさまー！」\n「みんな、おいしいお菓子を作ってくれよー！」\n「ライラエルさま、今日も素敵ですー！」=「Công chúa Lyrael ơi!」\n「Mọi người hãy làm ra những món bánh thật ngon nhé!」\n「Công chúa Lyrael, hôm nay người cũng thật tuyệt vời!」
 スイーツ献上式が行われる、少し前のこと。\nライラエルは、{playername}とお茶を飲みながら\n今回の事件の振り返りをしていた。=Một thời gian ngắn trước khi Lễ dâng kẹo ngọt diễn ra, Lyrael đã cùng {playername} uống trà và nhìn lại những sự kiện vừa qua.
-──伝説の食材を、わたしはただの噂に過ぎないと思っていました。\n反省すること、しきりです……\nわたしはもっとジオ・テオゴニアを知らなくてはいけません。=──Về nguyên liệu huyền thoại, ta đã từng nghĩ đó chỉ là một lời đồn thổi không hơn không kém. Ta thực sự phải kiểm điểm lại bản thân mình... Ta cần phải hiểu rõ hơn nữa về Geo-Theogonia.
-ジオ・テオゴニアといえば、甘いお菓子のあふれる世界。\nわたし自身もお菓子が好きですし、作ることもあります。\nちょうど、今日のように──=Nhắc đến Geo-Theogonia là nhắc đến một thế giới tràn ngập bánh kẹo ngọt ngào. Bản thân ta cũng rất thích đồ ngọt và đôi khi cũng tự tay làm chúng. Giống như hôm nay vậy──
+──伝説の食材を、わたしはただの噂に過ぎないと思っていました。\n反省すること、しきりです……\nわたしはもっとジオ・テオゴニアを知らなくてはいけません。=──Về nguyên liệu huyền thoại, ta đã từng nghĩ đó chỉ là một lời đồn thổi không hơn không kém. Ta thực sự phải kiểm điểm lại bản thân mình... Ta cần phải hiểu rõ hơn nữa về Gio Teogonia.
+ジオ・テオゴニアといえば、甘いお菓子のあふれる世界。\nわたし自身もお菓子が好きですし、作ることもあります。\nちょうど、今日のように──=Nhắc đến Gio Teogonia là nhắc đến một thế giới tràn ngập bánh kẹo ngọt ngào. Bản thân ta cũng rất thích đồ ngọt và đôi khi cũng tự tay làm chúng. Giống như hôm nay vậy──
 ふふ。\nありがとうございます、騎士。\n……ですが……=Phì cười. Cảm ơn anh nhé, Hiệp sĩ. ...Thế nhưng...
-ジオ・テオゴニアのプリンセスとしては、\nもっとお菓子と、お菓子作りに向き合う必要があるのかも……\nと、そう思うのです。=Với tư cách là Công chúa của Geo-Theogonia, ta nghĩ mình cần phải đối diện một cách nghiêm túc hơn với bánh kẹo, cũng như việc làm ra chúng... Ta cảm thấy như vậy đấy.
+ジオ・テオゴニアのプリンセスとしては、\nもっとお菓子と、お菓子作りに向き合う必要があるのかも……\nと、そう思うのです。=Với tư cách là Công chúa của Gio Teogonia, ta nghĩ mình cần phải đối diện một cách nghiêm túc hơn với bánh kẹo, cũng như việc làm ra chúng... Ta cảm thấy như vậy đấy.
 とはいえ、具体的にどうすればいいのかと\nまだ答えが見つからなくて──=Dẫu vậy, ta vẫn chưa tìm thấy câu trả lời cụ thể là nên làm thế nào──
 そういうことなら、ワシに名案がありますぞい。\nこんなこともあろうかと、アチアチにあっためていた名案が！=Nếu đã vậy thì lão có một diệu kế đây. Một diệu kế mà lão đã ấp ủ bấy lâu để chờ đợi những lúc như thế này!
 ポポじい、いつの間に……\nいえ、それよりもその名案というのを聞かせてください。=Ông Popo, ông xuất hiện từ lúc nào vậy... Không, quan trọng hơn là hãy cho cháu nghe diệu kế đó đi.
@@ -103,7 +103,7 @@ Chapter 2
 腕に覚えのある者たちを集め、お菓子を作ってもらい、\n作ったお菓子はライラエルさまに献上する。\n Oshirisuto 本人でもあるライラエルさまも参加するのですじゃ。=Tập hợp những người tự tin vào tay nghề của mình để làm bánh, sau đó dâng những món quà ấy lên Công chúa Lyrael. Và chính người, với tư cách là người được dâng tặng, cũng sẽ tham gia vào quá trình làm bánh luôn!
 わたしも、作る側で参加を？=Ta cũng tham gia với tư cách là người làm bánh sao?
 真剣にお菓子を作る者たちに囲まれながら、\nライラエルさまもお菓子を作る。\nそうすれば、よりお菓子に向き合うことができるはず。=Vừa được vây quanh bởi những người thợ làm bánh đầy tâm huyết, Công chúa Lyrael cũng sẽ tự tay làm bánh. Có như vậy, người mới có thể thấu cảm sâu sắc hơn về nghệ thuật đồ ngọt.
-つまり……ジオ・テオゴニアのプリンセスも参加する、\n『スイーツ献上式』の開催ですじゃ……！=Nói cách khác... đó chính là tổ chức "Lễ dâng kẹo ngọt" với sự góp mặt của chính Công chúa Geo-Theogonia...!
+つまり……ジオ・テオゴニアのプリンセスも参加する、\n『スイーツ献上式』の開催ですじゃ……！=Nói cách khác... đó chính là tổ chức "Lễ dâng kẹo ngọt" với sự góp mặt của chính Công chúa Gio Teogonia...!
 そうして開催されたスイーツ献上式。\n参加者が各々お菓子を作っていき、多くの国民から注目されながら\nライラエルもアップルパイを作り始めていた。=Và thế là Lễ dâng kẹo ngọt đã được tổ chức. Giữa sự chú ý của đông đảo người dân, các thí sinh bắt đầu trổ tài, và Lyrael cũng bắt tay vào làm món bánh táo.
 まずは材料を正確にはかっていきましょう。\n最初の工程をおろそかにしては、\nおいしいお菓子を作ることなどできませんからね。=Trước tiên, ta phải đong đếm nguyên liệu thật chính xác. Nếu lơ là ngay từ công đoạn đầu tiên thì không bao giờ có thể tạo ra được món bánh ngon.
 お菓子作りはとても繊細なもの。\n材料をわずかでも入れすぎたり、あるいは少ないだけで、\n想定している味や風味にはなりません。=Làm bánh là một công việc cực kỳ tinh tế. Chỉ cần thừa hay thiếu một chút nguyên liệu thôi là hương vị sẽ không còn đúng như ý muốn nữa.
@@ -112,14 +112,14 @@ Chapter 2
 すべてを計算し、把握しなければ、\nちょっとした綻びで完成度が落ちてしまうのです。=Nếu không tính toán và nắm bắt được tất cả, chỉ cần một sơ suất nhỏ cũng sẽ làm giảm độ hoàn hảo của món ăn.
 一つ一つは小さなこと。\nですが、この小さなことをおろそかにしてはいけません。=Từng chút một đều là những chi tiết nhỏ nhặt. Nhưng tuyệt đối không được xem nhẹ chúng.
 そして、すべてが上手く絡み合えば、\nこれ以上ないほどの『調和』が生まれ、\nおいしいお菓子を作ることができるのです。=Và khi mọi thứ hòa quyện nhịp nhàng, một "sự hài hòa" tuyệt mỹ sẽ ra đời, giúp ta tạo nên món bánh ngon nhất.
-……皆、順調に作れているようですね。\n真剣な表情に、おいしそうなお菓子の数々……\nこれは、ジオ・テオゴニアだからこそ見られる光景かもしれません。=...Mọi người đều đang làm rất thuận lợi nhỉ. Những gương mặt nghiêm túc cùng vô số món bánh trông thật ngon lành... Đây có lẽ là cảnh tượng chỉ có thể thấy được tại Geo-Theogonia.
+……皆、順調に作れているようですね。\n真剣な表情に、おいしそうなお菓子の数々……\nこれは、ジオ・テオゴニアだからこそ見られる光景かもしれません。=...Mọi người đều đang làm rất thuận lợi nhỉ. Những gương mặt nghiêm túc cùng vô số món bánh trông thật ngon lành... Đây có lẽ là cảnh tượng chỉ có thể thấy được tại Gio Teogonia.
 ふぅ……いけませんね。\n注目されることは慣れているはずなのに、プリンセスに相応しい姿を\n見せようと思うあまり……いつもより緊張してしまいます。=Phù... không được rồi. Lẽ ra mình phải quen với việc bị chú ý rồi chứ, nhưng vì quá mải mê giữ hình ảnh xứng đáng với một Công chúa... mà mình lại thấy căng thẳng hơn thường lệ.
 大丈夫……大丈夫……\n材料のはかり間違えはなかったし、クリームの混ぜ方も問題はない……\nあとはアップルパイが焼き上がるのを待つだけで──=Ổn mà... sẽ ổn thôi... Nguyên liệu đã đong chuẩn, khuấy kem cũng không có vấn đề gì... Giờ chỉ cần đợi bánh táo nướng xong nữa là──
 ……？\nこの、匂いは──\nまさかっ……！？=...? Mùi hương này là── Không lẽ nào...?!
 ……あぁ。なんということに……=...Ôi không. Sao chuyện này lại xảy ra cơ chứ...
 ん～……ライラエルさまの様子がおかしいのう……=Hửm... trông biểu cảm của Công chúa Lyrael có gì đó lạ lắm...
 パイが焦げてしまっている……もしかして……あぁ、やっぱり。\n焼く温度を、間違えてしまうなんて……なんという初歩的なミスを。\n焦げてしまったパイを、式に出すわけにはいきませんし……=Bánh bị cháy rồi... chẳng lẽ... À, đúng như mình nghĩ. Mình đã nhầm nhiệt độ nướng... Một sai lầm cơ bản đến thế mà cũng mắc phải. Không thể nào dâng một chiếc bánh cháy lên buổi lễ được...
-完璧なものを作りたかった。なのに、失敗してしまいました。\nわたしは、ジオ・テオゴニアのプリンセスだというのに、\n大事なお菓子作りを失敗してしまうなんて……=Mình đã muốn làm ra một thứ thật hoàn hảo. Vậy mà mình lại thất bại. Dù là Công chúa của Geo-Theogonia, vậy mà mình lại hỏng cả việc làm bánh quan trọng này...
+完璧なものを作りたかった。なのに、失敗してしまいました。\nわたしは、ジオ・テオゴニアのプリンセスだというのに、\n大事なお菓子作りを失敗してしまうなんて……=Mình đã muốn làm ra một thứ thật hoàn hảo. Vậy mà mình lại thất bại. Dù là Công chúa của Gio Teogonia, vậy mà mình lại hỏng cả việc làm bánh quan trọng này...
 ……自分が、情けない……=...Bản thân mình thật thảm hại làm sao...
 ライラエルさま。\n作り直すのでしたら、お手伝いします。=Công chúa Lyrael. Nếu người muốn làm lại, chúng em xin được giúp một tay ạ.
 その申し出には感謝します。\n……ですが、手伝いは不要です。=Ta rất trân trọng lời đề nghị đó. ...Thế nhưng, ta không cần giúp đỡ đâu.
@@ -131,7 +131,7 @@ Chapter 2
 切り替えて──もう一度作り始めましょう。\n大丈夫。先ほどは緊張をして確認不足がありましたが、\n次はきっと成功してみせます。=Phải xốc lại tinh thần thôi── Bắt đầu làm lại từ đầu nào. Không sao cả. Vừa nãy vì căng thẳng nên mình mới thiếu sót trong khâu kiểm tra, lần này nhất định mình sẽ làm được.
 手伝ってもらえば、次は必ず成功するでしょう。\nわたし一人で完璧を求める必要がないことは、理解しています。=Nếu nhận sự giúp đỡ, lần tới chắc chắn sẽ thành công. Ta hiểu rằng bản thân không nhất thiết phải tự mình theo đuổi sự hoàn hảo một mình.
 それでも、今のわたしは……一人で作り上げたいのです。=Thế nhưng, vào lúc này... ta muốn tự mình hoàn thành nó.
-力を借りることを恥じているわけではありません。\nただ、力を借りるばかりでは、ジオ・テオゴニアのプリンセスとは\n名乗れないと思ったのです。=Không phải ta thấy xấu hổ khi nhận sự giúp đỡ. Chỉ là, nếu cứ mãi dựa dẫm vào người khác, ta thấy mình không xứng đáng với danh hiệu Công chúa Geo-Theogonia.
+力を借りることを恥じているわけではありません。\nただ、力を借りるばかりでは、ジオ・テオゴニアのプリンセスとは\n名乗れないと思ったのです。=Không phải ta thấy xấu hổ khi nhận sự giúp đỡ. Chỉ là, nếu cứ mãi dựa dẫm vào người khác, ta thấy mình không xứng đáng với danh hiệu Công chúa Gio Teogonia.
 だから今は、わたし一人の力でお菓子と向き合って、\nお菓子作りをしていきたい。=Vì vậy lúc này, ta muốn dùng chính sức mình để đối diện với đồ ngọt, và tự tay làm ra món bánh của riêng mình.
 わたしのわがままに付き合わせてしまいますが……\nどうか、わたしを見守っていてください。\n皆……それに──=Dẫu ta có hơi ích kỷ khi bắt mọi người phải chiều theo ý mình... nhưng xin hãy dõi theo ta. Tất cả mọi người... và cả anh nữa──
 ええ、騎士……！=Vâng, Hiệp sĩ...!
@@ -141,7 +141,7 @@ Chapter 2
 さすが、ライラエルさまじゃ！=Quả không hổ danh là Công chúa Lyrael!
 お菓子作りに参加した皆、ご苦労さまでした。\nどれもおいしそうなものばかりで、\n自慢の一品だということがよく伝わってきます。=Cảm ơn tất cả mọi người đã tham gia buổi làm bánh hôm nay. Món nào trông cũng thật ngon lành, ta cảm nhận được niềm tự hào của các bạn gửi gắm trong từng tác phẩm.
 そして、お菓子を作っているわたしたちを見守ってくれた皆にも、\n感謝しています。=Và ta cũng xin gửi lời cảm ơn đến tất cả những ai đã đứng đây dõi theo chúng ta trong suốt quá trình làm bánh.
-お菓子は、ジオ・テオゴニアにとって誇るべき文化です。\nそして文化というものは、多くの人と、長い年月があって生まれるもの。=Đồ ngọt chính là nét văn hóa đáng tự hào của Geo-Theogonia. Và văn hóa chính là thứ được tạo nên bởi rất nhiều con người qua bao năm tháng dài lâu.
+お菓子は、ジオ・テオゴニアにとって誇るべき文化です。\nそして文化というものは、多くの人と、長い年月があって生まれるもの。=Đồ ngọt chính là nét văn hóa đáng tự hào của Gio Teogonia. Và văn hóa chính là thứ được tạo nên bởi rất nhiều con người qua bao năm tháng dài lâu.
 皆と、このお菓子を愛する文化と、そしてこの国を、\nわたしは誇りに思います。=Ta vô cùng hãnh diện về các bạn, về nét văn hóa yêu đồ ngọt này, và về cả đất nước chúng ta.
 ライラエルさまー！！！=CÔNG CHÚA LYRAEL VẠN TUẾ!!!
 それと、献上してもらったお菓子ですが、これは皆で分け合いましょう。\nおいしいお菓子を皆で分け合うと、よりおいしく感じられますからね。=Ngoài ra, về những món bánh đã được dâng tặng, hãy cùng nhau chia sẻ tất cả nhé. Đồ ăn ngon mà được thưởng thức cùng mọi người thì hương vị sẽ càng tuyệt vời hơn đấy.
@@ -149,7 +149,7 @@ Chapter 2
 「確かに、なにかやりたいね。」\n「食べる以外で、俺たちにできること……」\n「あ、それならさ……」=「Đúng thật, chúng ta nên làm gì đó đi.」\n「Ngoài việc ăn ra, chúng ta còn có thể làm gì nữa nhỉ...」\n「À, nếu vậy thì...」
 忙しいでしょうに、騎士も式に参加してくれたこと、感謝しています。\nそれに、あたたかな応援も。\nしっかり聞こえていましたよ。=Dù bận rộn nhưng anh vẫn dành thời gian tham dự buổi lễ, ta rất cảm kích. Cả những lời cổ vũ nồng nhiệt của anh nữa, ta đều nghe rõ cả rồi.
 ふふっ、ありがとうございます。\nただ……途中で失敗したときがあったでしょう？\n実は、ここだけの話……あのとき。心が折れてしまいそうだったんです。=Phì cười, cảm ơn anh. Chỉ là... lúc nãy ta có thất bại một lần anh thấy rồi chứ? Thật ra, nói riêng với anh thôi... lúc đó, ta đã suýt chút nữa thì nản lòng đấy.
-ですが、ジオ・テオゴニアのプリンセスとして\n最後までやり遂げたいという想いがあったから、\nなんとかくじけないで済みました。=Thế nhưng, vì tâm nguyện muốn hoàn thành đến cùng với tư cách là Công chúa của Geo-Theogonia, ta đã cố gắng không để mình gục ngã.
+ですが、ジオ・テオゴニアのプリンセスとして\n最後までやり遂げたいという想いがあったから、\nなんとかくじけないで済みました。=Thế nhưng, vì tâm nguyện muốn hoàn thành đến cùng với tư cách là Công chúa của Gio Teogonia, ta đã cố gắng không để mình gục ngã.
 それに何より、国民の皆と──あなたの声のおかげで、\n最後まで集中力を切らせることなく、作ることができたのです。=Và trên hết, nhờ có tiếng nói của người dân── cũng như của anh, ta đã có thể giữ vững sự tập trung cho đến tận giây phút cuối cùng.
 そうです、騎士。アップルパイはいかがですか？\n皆にも分けましたが、まだ二人分残っていますし……\n一緒に食べてもらえるとうれしいです。=Phải rồi, Hiệp sĩ. Anh có muốn dùng thử bánh táo không? Ta đã chia cho mọi người rồi nhưng vẫn còn lại hai phần... Ta sẽ rất vui nếu anh cùng thưởng thức với ta.
 では……騎士にはこちらのアップルパイを。\nわたしは、焦がしてしまったほうのパイをもらいますね。=Vậy thì... phần bánh táo hoàn hảo này là dành cho anh. Còn ta sẽ ăn phần bánh bị cháy lúc nãy nhé.
@@ -165,7 +165,7 @@ Chapter 2
 それで、ライラエルさまへ日頃の感謝を形にしたくて、\n分けていただいたお菓子も使って家を作ったのです！\nちゃんと魔法のコーティングも済ませてありますよ！=Và thế là, để bày tỏ lòng biết ơn hằng ngày tới Công chúa Lyrael, chúng em đã dùng chính số bánh kẹo đó để xây nên ngôi nhà này! Chúng em cũng đã hoàn tất cả lớp phủ ma thuật bảo vệ rồi ạ!
 ええと……皆の気持ち là うれしいですが。\nわたしは城に住んでいますから、こちらに家を作られても……=À thì... ta rất trân trọng tấm lòng của mọi người. Nhưng ta vốn đã sống trong lâu đài rồi, nên dù mọi người có xây nhà ở đây thì...
 いやいや、この家はライラエルさまのためでもありますが、\n小僧の家でもあるのですじゃ。=Không đâu, ngôi nhà này tuy dành cho Công chúa Lyrael, nhưng cũng là nhà của cậu nhóc này nữa đấy.
-小僧は最近、ジオ・テオゴニアに来ることが多いじゃろう？\nならば、専用の家があってもいいと思ってのう。\nジオ・テオゴニアに来たときは、この家で寝泊まりすればよい。=Dạo gần đây cậu nhóc hay ghé thăm Geo-Theogonia mà, đúng không? Lão nghĩ đã đến lúc cậu nên có một căn nhà riêng cho mình rồi. Mỗi khi tới đây, cậu cứ việc sinh hoạt tại ngôi nhà này nhé.
+小僧は最近、ジオ・テオゴニアに来ることが多いじゃろう？\nならば、専用の家があってもいいと思ってのう。\nジオ・テオゴニアに来たときは、この家で寝泊まりすればよい。=Dạo gần đây cậu nhóc hay ghé thăm Gio Teogonia mà, đúng không? Lão nghĩ đã đến lúc cậu nên có một căn nhà riêng cho mình rồi. Mỗi khi tới đây, cậu cứ việc sinh hoạt tại ngôi nhà này nhé.
 お城に比べれば小さいですが、騎士さまと一緒にライラエルさまも\n泊まれるようにしていますので、ご安心を！=Tuy nhỏ hơn lâu đài nhưng chúng em đã thiết kế để Công chúa Lyrael có thể ở lại cùng Hiệp sĩ, nên người cứ yên tâm nhé!
 なっ……なんですか、そのご安心を、というのは……！=Cái... "yên tâm" đó nghĩa là sao hả...!
 ライラエルさまと騎士さまは仲良しですから、\n一緒に住めたら喜んでくれるだろうな、と思ったんです！=Vì chúng em thấy Công chúa Lyrael và Hiệp sĩ rất thân thiết, nên nghĩ rằng nếu được sống cùng nhau chắc hẳn người sẽ vui lắm!
@@ -217,23 +217,23 @@ Chapter 3
 ──というわけで、ヴルムにお菓子を作りたいと思っているのですが……\n受け取ってもらえるかもわかりませんし、お菓子を作りたいという想いも\nわたしの独りよがりな行為な気がしていて……=...Chuyện là như vậy, ta rất muốn làm bánh cho Vurm... Nhưng ta không biết liệu em ấy có nhận hay không, và ta cũng cảm thấy tâm nguyện muốn làm bánh này có chút gì đó thật ích kỷ...
 ええ……ええ、そうですね。\nここでなにもしないでいるほうが独りよがりかもしれません。\nそれならまずは、行動しましょう。=Vâng... vâng, đúng như anh nói. Có lẽ việc cứ đứng yên đây không làm gì mới thực sự là ích kỷ. Nếu vậy thì trước tiên, hãy cứ hành động thôi.
 ありがとうございます、騎士……頼らせていただきますね。\nヴルムのため、力を貸してください。=Cảm ơn anh nhiều nhé, Hiệp sĩ... ta sẽ dựa vào anh vậy. Vì Vurm, xin hãy giúp ta một tay.
-今から特別なはちみつを採りにいくのですが、\nそのはちみつは、ジオ・テオゴニアで採れる中でも極上のおいしさで、\nヴルムも好きなのです。=Bây giờ chúng ta sẽ đi hái một loại mật ong đặc biệt. Đó là loại mật ong ngon nhất có thể tìm thấy ở Geo-Theogonia, và Vurm cũng rất thích nó.
+今から特別なはちみつを採りにいくのですが、\nそのはちみつは、ジオ・テオゴニアで採れる中でも極上のおいしさで、\nヴルムも好きなのです。=Bây giờ chúng ta sẽ đi hái một loại mật ong đặc biệt. Đó là loại mật ong ngon nhất có thể tìm thấy ở Gio Teogonia, và Vurm cũng rất thích nó.
 城に置いておくと、皆、すぐに使いたがるので、\nあえて城には置いていないほどのおいしさなのですよ。\n……わたしも、ついつい使いすぎてしまって……=Nó ngon tới mức nếu để trong lâu đài thì ai cũng sẽ muốn dùng ngay lập tức, nên ta thường cố tình không dự trữ sẵn đâu. Hì hì... chính ta cũng đôi lúc lỡ tay dùng hơi nhiều quá...
 ……こほん。\nそれでですね、そのはちみつを使ってお菓子を作ろうと思うのです。=...Khụ khụ. Tóm lại là, ta định dùng loại mật ong đó để làm bánh.
 さて……そろそろ、そのはちみつが採れるところまで──\n待ってください、騎士。=Nào... sắp đến chỗ hái mật rồi── Khoan đã, Hiệp sĩ!
-あれは……魔蜂……\n獄蜂の支配下にあった魔物たちですね。\nまだジオ・テオゴニアに残っていたとは……不覚です。=Đó là... Ma Ong... lũ ma vật từng dưới quyền kiểm soát của Ngục Ong. Thật sơ suất khi để chúng vẫn còn lởn vởn ở Geo-Theogonia thế này.
+あれは……魔蜂……\n獄蜂の支配下にあった魔物たちですね。\nまだジオ・テオゴニアに残っていたとは……不覚です。=Đó là... Ma Ong... lũ ma vật từng dưới quyền kiểm soát của Ngục Ong. Thật sơ suất khi để chúng vẫn còn lởn vởn ở Gio Teogonia thế này.
 えぇ。\nかなり数が多いですし、少し様子を──\n危ない……！=Vâng. Số lượng khá đông đấy, hãy quan sát một chút── Nguy hiểm...!
 いつの間にか、背後にまで回り込まれていたみたいですね……\nわたしたちが見つけるよりも早く、\nわたしたちは見つかっていたのでしょう。=Có vẻ như chúng đã vòng ra sau lưng chúng ta từ lúc nào không hay... Có lẽ chúng đã phát hiện ra chúng ta trước khi chúng ta kịp nhìn thấy chúng.
 今はもう獄蜂の支配下にはないはずですが、\n先ほどの攻撃性を見る限り、凶暴さは同じ。\nUnd sau cùng, khá đông. =Giờ đây chúng không còn bị Ngục Ong điều khiển nữa, nhưng nhìn vào sự hung hãn vừa rồi, tính tàn bạo vẫn không hề thay đổi. Và trên hết, số lượng còn rất nhiều.
 今のままでは、多勢に無勢……\nそれならば、より強い力で対抗するまでです。\n騎士、ここはわたしに任せてください。=Cứ đà này thì chúng ta sẽ bị áp đảo quân số... Vậy thì chỉ còn cách đáp trả bằng một sức mạnh áp đảo hơn thôi. Hiệp sĩ, hãy để chỗ này cho ta.
 『至高の虹色タルト』──いただきます。=「Bánh Tart Cầu Vồng Chí Cao」── Ta xin được khai hỏa!
-獄蜂に操られていない魔蜂に恨みはありません。\nですが、いきなり襲ってくるような魔物がジオ・テオゴニアにいては、\nいつか国民に被害が及ぶかもしれない。=Ta không có thù hằn gì với lũ Ma Ong không còn bị điều khiển. Nhưng nếu để những ma vật tấn công người vô cớ lẩn khuất trong Geo-Theogonia, sớm muộn gì thần dân cũng sẽ gặp nguy hiểm.
+獄蜂に操られていない魔蜂に恨みはありません。\nですが、いきなり襲ってくるような魔物がジオ・テオゴニアにいては、\nいつか国民に被害が及ぶかもしれない。=Ta không có thù hằn gì với lũ Ma Ong không còn bị điều khiển. Nhưng nếu để những ma vật tấn công người vô cớ lẩn khuất trong Gio Teogonia, sớm muộn gì thần dân cũng sẽ gặp nguy hiểm.
 そのようなこと、到底承服できません。=Điều đó, ta tuyệt đối không thể chấp nhận.
 そして、わたしたちが求めているはちみつを採らせないように\nするというのならば、残されているのは排除の道のみ。=Và nếu các ngươi đã nhất quyết ngăn cản chúng ta hái mật ong, thì con đường duy nhất còn lại là tiêu diệt tất cả.
 ……わたしは、ヴルムの手をまた握りたいのです。\nヴルムは人を傷つけはしましたが、わたしはそれを許したい。=...Ta muốn được nắm lấy đôi tay của Vurm một lần nữa. Dù Vurm từng làm tổn thương người khác, nhưng ta muốn tha thứ cho em ấy.
 そして元気になってもらって、またわたしのそばにいてもらいたい。\nそれが、望ましい調和の形──\nこの国の矜持であり、わたしの願いでもあるのです。=Ta muốn em ấy khỏe lại, và lại được ở bên cạnh ta. Đó mới là hình thái "Hài hòa" lý tưởng── là niềm kiêu hãnh của đất nước này, và cũng là tâm nguyện của ta.
 身分の違いがあろうとも、種族の違いがあろうとも……\nこの世界が真実の世界でなかったとしても。=Bất kể sự khác biệt về địa vị, bất kể sự khác biệt về chủng tộc... Và ngay cả khi thế giới này không phải là thế giới thực đi chăng nữa.
-それでもわたしは、このジオ・テオゴニアと、\nジオ・テオゴニアの国民を愛しているのです！=Ta vẫn luôn yêu Geo-Theogonia này, và yêu cả những thần dân của Geo-Theogonia!
+それでもわたしは、このジオ・テオゴニアと、\nジオ・テオゴニアの国民を愛しているのです！=Ta vẫn luôn yêu Gio Teogonia này, và yêu cả những thần dân của Gio Teogonia!
 これ以上、わたしたちの邪魔をすることは許しません。\n……さようなら、獄蜂に操られていた魔物たち。\n安らかに眠ってください。=Ta không cho phép các ngươi cản đường chúng ta thêm nữa. ...Vĩnh biệt, những ma vật từng bị Ngục Ong thao túng. Hãy yên nghỉ nhé.
 さぁ、無事に戻ってくることができましたし。\n作り始めるとしましょう。=Nào, chúng ta đã trở về an toàn rồi. Bắt tay vào làm thôi.
 牛乳、たまご、カラメル、そしてはちみつ……準備は万端。\nオーブンの予熱をお願いしますね、騎士。=Sữa, trứng, caramel, và mật ong... mọi thứ đã sẵn sàng. Nhờ anh làm nóng lò nướng trước nhé, Hiệp sĩ.
@@ -295,7 +295,7 @@ Player Prompts
 ライラエルさんの手を握る。=*Nắm lấy đôi tay của Lyrael.*
 
 Chapter 4
-{playername}は、ヴルムの様子や\n蜂の魔物が残っていないかを確認するため、\nジオ・テオゴニアに来ていた。={playername} đã đến Geo-Theogonia để kiểm tra tình hình của Vurm và xem liệu còn con Ma Ong nào sót lại hay không.
+{playername}は、ヴルムの様子や\n蜂の魔物が残っていないかを確認するため、\nジオ・テオゴニアに来ていた。={playername} đã đến Gio Teogonia để kiểm tra tình hình của Vurm và xem liệu còn con Ma Ong nào sót lại hay không.
 様子を見に来てくれたこと、感謝します。\n言葉にはしませんが、ヴルム cũng きっと喜んでいますよ。=Cảm ơn anh đã ghé thăm. Dù không nói ra lời, nhưng ta chắc chắn rằng Vurm cũng đang rất vui đấy.
 そういえば……騎士。\nあなたにはまだ、\n『至高の虹色タルト』を食べてもらっていませんでしたよね？=Nhắc mới nhớ... Hiệp sĩ. Ta vẫn chưa để anh thưởng thức món "Bánh Tart Cầu Vồng Chí Cao" nhỉ?
 では、ちょうどよかったです。\n材料は揃っていますから、今から調理しますね。\nぜひ食べていってください。=Vậy thì đúng lúc lắm. Nguyên liệu đã có đủ cả rồi, ta sẽ bắt tay vào làm ngay đây. Anh nhất định phải ở lại thưởng thức nhé.
@@ -361,7 +361,7 @@ Chapter 4
 はい。\nそれでいいと思いますよ。\n悪い夢ではなかったでしょう？=Vâng. Ta nghĩ như vậy cũng tốt mà. Đó không phải là một giấc mơ tồi tệ phải không?
 ふふっ……♪\n──あら？　眠っている間にタルトが冷めましたね。\n切り分けますから、座って待っていてください。=Hì hì...♪ ──Ơ kìa? Trong lúc chúng ta ngủ, bánh tart đã nguội mất rồi. Ta sẽ cắt bánh, anh hãy ngồi xuống chờ nhé.
 えっ……！？\n食べさせたいというのは……=Cái gì...!? Ý anh "muốn bón cho ăn" nghĩa là...
-き、騎士……わたし、ジオ・テオゴニアのプリンセスです。\nプリンセスとあろう者が、異性に食べ物を食べさせてもらうなど、\nそんなことは、なんというか……は、恥ずかしいではないですか……=H-Hiệp sĩ... ta là Công chúa của Geo-Theogonia đấy. Một người ở vị trí Công chúa mà lại để người khác giới bón cho ăn thì, chuyện đó, nói sao nhỉ... chẳng phải rất, rất xấu hổ sao...
+き、騎士……わたし、ジオ・テオゴニアのプリンセスです。\nプリンセスとあろう者が、異性に食べ物を食べさせてもらうなど、\nそんなことは、なんというか……は、恥ずかしいではないですか……=H-Hiệp sĩ... ta là Công chúa của Gio Teogonia đấy. Một người ở vị trí Công chúa mà lại để người khác giới bón cho ăn thì, chuyện đó, nói sao nhỉ... chẳng phải rất, rất xấu hổ sao...
 で、ですが……=Th-Thế nhưng...
 …………\n……わ、わかりました。\nそこまで言うのなら、た、食べさせてください……=............ T-Ta hiểu rồi. Nếu anh đã cương quyết đến vậy thì, h-hãy bón cho ta đi...
 あ、あ～ん……=A... há miệng nào...

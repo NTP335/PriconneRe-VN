@@ -15,7 +15,7 @@ Chapter 1
 うぅ……くすん、くすん……=Ugh... *hụt, hụt*...
 最近ここらに流れ着いたらしい。\n……ちぃとばかり、面差しが引っかかってな……\nこうして様子を見にきてる。=Có vẻ như cô ấy đã trôi về đây gần đây. ...Khuôn mặt của cô ấy khiến tao hơi bận tâm... Cho nên tao không thể không đến xem một chút.
 お花……お花はどこ……？\n幸せになれる、お花がほしいの……=Hoa... Hoa ở đâu...? Tao muốn loại hoa có thể khiến tao hạnh phúc...
-……花か。\n幽霊になっちまう前に、探してたんだろうな。\nだが、ここはジオ・ニヴルヘルだ。花は大抵枯れてる。=...Hoa, hử? Chắc đã tìm chúng trước khi cô ta trở thành ma. Tuy nhiên, đây là Geo Niflhell. Tất cả các bông hoa đã tàn lụi rồi.
+……花か。\n幽霊になっちまう前に、探してたんだろうな。\nだが、ここはジオ・ニヴルヘルだ。花は大抵枯れてる。=...Hoa, hử? Chắc đã tìm chúng trước khi cô ta trở thành ma. Tuy nhiên, đây là Gio Nivlhel. Tất cả các bông hoa đã tàn lụi rồi.
 ンな手間かける必要もねぇよ。\nごく稀にだが、生きた花も流れ着く。\nそれが一輪だけ、今ちょうど鬼族の手元にあってな。=Không cần phải bận tâm nhiều như vậy. Cứ một thời gian, một bông hoa sống sẽ trôi qua. Ngay bây giờ, một oni tình cờ đang có một bông.
 明日の祭りの勝負で勝ちゃあ、\nその生きた花を貰い受けることができる。\n俺に似合う物でもねぇし、こいつにくれてやるつもりだ。=Nếu thắng trong trận đấu lễ hội ngày mai, ta sẽ nhận được bông hoa đó làm giải thưởng. Không phải thứ ta thích, nên ta sẽ tặng cho thằng nhóc kia.
 ガキの石積みを崩す鬼ばっかじゃねェよ。\n渡る世間になんとやらってな。=Không phải ongia nào cũng đủ tàn nhẫn để dập tắt giấc mơ của đứa trẻ. Ngay cả trong Thế giới Ngầm này, những người tốt vẫn tồn tại.
@@ -52,8 +52,8 @@ Chapter 1
 あんがとよ。\n今夜にでも、あの幽霊のチビにくれてやるとすっか──=Cảm ơn. Tối nay ta sẽ tặng bông hoa này cho con ma nhỏ đó~
 サツキ様、失礼しやす！\n我らの宝物庫に何者かが侵入して盗みを働いた痕跡が……！=Xin lỗi, phu nhân Satsuki! Có kẻ đột nhập vào kho báu của chúng ta. Có dấu hiệu của vụ trộm...!
 あぁ……？\n詳しく聞かせな。=Hả...? Giải thích chi tiết đi.
-祭りで手薄になったところに侵入されたようです。\n盗まれた物は『反魂の霊玉』……\nおそらくはジオ・ニヴルヘルの外から来た者の犯行かと……=Có vẻ như kẻ nào đó đột nhập khi lễ hội khiến bảo vệ mỏng. Vật bị trộm là "Hồn châu Phục sinh"... Có lẽ là việc của người từ bên ngoài Geo Niflhell...
-霊玉……死者を無理矢理ゾンビにするアレか。\nジオ・ニヴルヘルの連中が、鬼にケンカ売ってまで\n欲しがるようなモンでもねぇな。=Hồn châu... Thứ khiến người chết trở thành zombie cưỡng chế, hử. Không phải thứ đồ chơi mà người của Geo Niflhell sẽ liều lĩnh gây gổ với chúng ta.
+祭りで手薄になったところに侵入されたようです。\n盗まれた物は『反魂の霊玉』……\nおそらくはジオ・ニヴルヘルの外から来た者の犯行かと……=Có vẻ như kẻ nào đó đột nhập khi lễ hội khiến bảo vệ mỏng. Vật bị trộm là "Hồn châu Phục sinh"... Có lẽ là việc của người từ bên ngoài Gio Nivlhel...
+霊玉……死者を無理矢理ゾンビにするアレか。\nジオ・ニヴルヘルの連中が、鬼にケンカ売ってまで\n欲しがるようなモンでもねぇな。=Hồn châu... Thứ khiến người chết trở thành zombie cưỡng chế, hử. Không phải thứ đồ chơi mà người của Gio Nivlhel sẽ liều lĩnh gây gổ với chúng ta.
 加えて、あくまで噂ですが……ここ最近、\n異世界の客が村の周辺を探るように歩き回っていたそうで。\n不思議な道具で幽霊を捕まえているのを見た者もいるとか。=Hơn nữa, đó chỉ là tin đồn... nhưng dạo này có những kẻ lữ khách từ thế giới khác lảng vảng quanh làng. Một số người nói họ thấy một trong số họ bắt ma bằng một thiết bị lạ.
 ……チ。\n祭りにかまけて、後手に回ったか。\n不覚だぜ……=...Tch. Ta quá tập trung vào lễ hội mà không để ý. Sơ suất thật...
 何……？\nその観光客に今さっきぶつかった？\nしかも去り際に例の幽霊っぽい声まで聞いただと？=Gì...? Ngươi vừa gặp một trong những kẻ du lịch đó? Và còn nghe thấy giọng của con ma nhỏ khi hắn đang bỏ chạy?
@@ -89,11 +89,11 @@ New Titlecards
 
 Chapter 2
 幽霊を捕まえた上に鬼族の宝物庫から\n『反魂の霊玉』を盗み出していった犯人の足取りを追って、\n{playername}とサツキはランドソルまで来ていた。=Đuổi theo tên trộm đã bắt cóc ma cô gái và lấy "Tinh Cầu Hồi Sinh" từ kho Oni, {playername} và Satsuki đã truy lùng hắn tận Landosol.
-なんてデケェ街だ。\n造りこそジオ・ニヴルヘルにも、似たもんはあるが……=Thành phố to thật. Kiến trúc có chút giống Geo Niflhell, nhưng quy mô hoàn toàn khác...
+なんてデケェ街だ。\n造りこそジオ・ニヴルヘルにも、似たもんはあるが……=Thành phố to thật. Kiến trúc có chút giống Gio Nivlhel, nhưng quy mô hoàn toàn khác...
 こっちの街並みは眩しいな。\n壁にヒビ割れもねェし、瓦が落ちてもねェ。\n人が住まなきゃ家は朽ちるってのァ本当だな。=Cảnh quan thành phố ở đây rực rỡ. Tường nhà không một vết nứt, ngói cũng không hề rơi. Có vẻ như đúng là nhà nào có người ở sẽ không bao giờ hỏng.
 ……へぇ。\nやるじゃあねェか、腹ペコ姫さんも。=...Ừ. Cô "Công Chúa Đói" này cũng không tệ chút nào.
 そこらをぶらつきてェところだが……今は観光よりも追跡だ。\nまさかコソ泥が異世界まで逃げるたァな。\nさっさととっ捕まえねえと、ウチのお姫と腹ペコ姫に面目が立たねェ。=Tớ muốn đi tham quan lắm, nhưng... Giờ này thì phải bắt lấy tên trộm chứ. Không thể tin một kẻ móc túi lại trốn sang thế giới khác. Nếu không nhanh tay, cả "Công Chúa" của tớ và "Công Chúa Đói" của cậu sẽ coi chúng ta là đồ ngốc.
-話がこじれてランドソルとジオ・ニヴルヘルの問題にでもなったら、\n俺の首一つじゃ済まねぇかんな。=Nếu chuyện này thành một cuộc cãi vã giữa Landosol và Geo Niflhell, một cái đầu sẽ không đủ để giải quyết đâu.
+話がこじれてランドソルとジオ・ニヴルヘルの問題にでもなったら、\n俺の首一つじゃ済まねぇかんな。=Nếu chuyện này thành một cuộc cãi vã giữa Landosol và Gio Nivlhel, một cái đầu sẽ không đủ để giải quyết đâu.
 あァ。\nアチコチ顔の利く騎士公のおかげで\n動きやすくて助かるぜ。=Ừ. Nhờ những mối quan hệ của cậu, cậu Knight nhỏ, di chuyển ở đây khá dễ dàng. Tớ biết ơn cậu.
 問題は犯人の野郎がどこに行ったかだな。\nどうにかランドソルまで足取りは追えたが……\nこうも人が多いと人捜しもままならねェ。=Vấn đề là làm sao tìm được thằng khốn đó đã trốn. Chúng ta có dấu vết đến Landosol, nhưng với đám đông này, tìm một người như tìm kim trong bát cát.
 また幽霊の噂話でも集めるか？\n道中聞いた話だけでも、すすり泣く女だとか花の話だとか、\n捕まった幽霊もただおとなしくしてるってわけでもなさそうだ。=Chúng ta có nên thử tìm tin đồn về ma quỷ không? Từ những câu chuyện tớ nghe dọc đường, có lời đồn về một con ma khóc nói về hoa, có vẻ nó không chỉ im lặng và hiền lành.
@@ -152,7 +152,7 @@ Chapter 2
 ……ったく。\nこっちの世界の太陽ってやつぁ眩しすぎるな……=...Thôi đi. Mặt trời thế giới này sáng quá...
 ……ま、悪かねェのは確かだな。=...Ừ, cũng không tệ.
 ……よぅ、騎士公。\n済まねぇついでに──もうちっと付き合ってくれねェか？=...Này, thằng Hiệp Sĩ nhãi. Xin lỗi vì bất ngờ thế, cậu có thể đi cùng tôi thêm chút nữa không?
-ジオ・ニヴルヘルで、お前さんに会わせてぇヤツがいるんだ。=Trong Geo Niflhell... có người tôi muốn cậu gặp.
+ジオ・ニヴルヘルで、お前さんに会わせてぇヤツがいるんだ。=Trong Gio Nivlhel... có người tôi muốn cậu gặp.
 唐突に提案するサツキ。\n昇ったばかりの太陽は、\n{playername}とサツキを眩く照らし続ける……=Đề nghị đột ngột của Satsuki lơ lửng trong không khí, khi mặt trời mới ló dậy tắm cả hai {playername} và cô trong ánh sáng chói lòa...
 
 Player Prompts
@@ -173,8 +173,8 @@ New Titlecards
 女の子のゾンビ=Xác Sống Cô Gái Trẻ
 
 Chapter 3
-──「会わせてぇヤツがいる」。\nサツキからの提案を受けて、{playername}は\n再びジオ・ニヴルヘルにある鬼族の村へと戻ってきた。=..."Có người tôi muốn cậu gặp". Sau khi chấp nhận lời mời của Satsuki, {playername} quay trở lại làng oni trong Geo Niflhell một lần nữa.
-──……暗ぇな。\nジオ・ニヴルヘルの空は。=...Tối đen như thường lệ. Trời của Geo Niflhell vẫn vậy.
+──「会わせてぇヤツがいる」。\nサツキからの提案を受けて、{playername}は\n再びジオ・ニヴルヘルにある鬼族の村へと戻ってきた。=..."Có người tôi muốn cậu gặp". Sau khi chấp nhận lời mời của Satsuki, {playername} quay trở lại làng oni trong Gio Nivlhel một lần nữa.
+──……暗ぇな。\nジオ・ニヴルヘルの空は。=...Tối đen như thường lệ. Trời của Gio Nivlhel vẫn vậy.
 おかしなもんだ。\n生まれ故郷だってのにな。=Thật kỳ lạ. Sinh ra ở đây, mà vẫn cảm thấy xa lạ.
 俺のは急ぎの用ってワケでもねェ。\nひとまず休むか、騎士公。=Việc này không gấp. Chúng ta nghỉ ngơi đã, thằng Hiệp Sĩ nhãi.
 ……どってことねェよ。\nリザ公の矢なんざ、かすり傷みてぇなモンだしな。=...Không có gì lớn lao. Mũi tên của Nữ Tước Lisa chỉ là vết thương ngoài da.
@@ -311,10 +311,10 @@ New Titlecards
 逃げ遅れた男ゾンビ=Zombie Nam không thể trốn thoát
 
 Chapter 4
-ジオ・ニヴルヘル、夜叉峠。\nサツキの妹の、墓参りが終わったあと……=Địa danh Geo Niflhell, Đèo Yasha. Sau khi viếng mộ em gái của Satsuki...
+ジオ・ニヴルヘル、夜叉峠。\nサツキの妹の、墓参りが終わったあと……=Địa danh Gio Nivlhel, Đèo Yasha. Sau khi viếng mộ em gái của Satsuki...
 ──さァて、騎士公。\n帰る前に、ウチでメシでも食ってきな。\n干物や漬物ばっかじゃ、口に合わねェかもしれねェが。=...Vậy thì đấy. Hiệp Sĩ Nhóc. Trước khi về, có muốn ăn một bữa ở nhà tôi không? Chủ yếu là cá khô và dưa muối, có lẽ không hợp khẩu vị cậu đâu.
 ……？\nかもな。=...Hm? Có lẽ vậy.
-言われるまで、あんま考えたことなかったが。\nそも、ジオ・ニヴルヘルにゃ\nメシなんざ食わねぇ連中がわんさかいるしな。=Chưa từng nghĩ về chuyện đó cho đến khi cậu nói. Hơn nữa, ở Geo Niflhell cũng có nhiều người không ăn uống gì cả.
+言われるまで、あんま考えたことなかったが。\nそも、ジオ・ニヴルヘルにゃ\nメシなんざ食わねぇ連中がわんさかいるしな。=Chưa từng nghĩ về chuyện đó cho đến khi cậu nói. Hơn nữa, ở Gio Nivlhel cũng có nhiều người không ăn uống gì cả.
 まぁ、そうだな。\n……ンだ騎士公手前、まさか俺の背丈が伸びてねェのが\n飯が足りねェせいだって言いてぇのか？=Ừ, đại khái là vậy. ...Này, Hiệp Sĩ Nhóc, đồ khốn... cậu đang ám chỉ rằng lý do tôi không cao lớn hơn là vì chế độ ăn uống tồi tệ của tôi à?
 ……フン。\nそりゃ、一理ねェこともねェかもしれねェが。\n今さらユキノみてぇにゃ、いかねェだろうよ──=...Hmph. Có lẽ cũng có chút đúng. Nhưng giờ mới muốn thay đổi thì hơi muộn rồi, đúng không~...
 けど、言われてみりゃ……\nこれまで無意識に、あまり食わねぇようにしてたか。\n……俺ぁ、なんで──=Tuy nhiên, vì hắn nhắc đến... Có lẽ mình đã vô thức cố gắng ăn ít từ trước đến giờ. ...Tại sao mình lại--...
@@ -383,7 +383,7 @@ Chapter 4
 お姉ちゃんのほうは、大好きな妹ちゃんの姿を、この世に残すことが\n生きる理由になって。でも、成長とともにそれがズレてきちゃって。\n自分の姿を、現状で『止める』ことにした──=Đối với chị gái, việc bảo tồn hình ảnh của em gái yêu quý trong thế giới này trở thành lý do để sống. Nhưng khi cô lớn lên, hình ảnh đó bắt đầu trôi xa. Vì vậy, cô quyết định "đông cứng" chính mình ở tuổi hiện tại.
 さっきの夢は、サツキがコールドスリープ受けに行く途中の再現ね。\n例によって、サツキとあんたは『現実』で出会ってないから\nそこはifストーリーってやつだけど。=Giấc mơ cậu vừa có là một tái hiện lại Satsuki trên đường đi thực hiện "ngủ đông". Như thường lệ, cậu và cô ấy chưa bao giờ gặp nhau trong "thực tế", nên... coi đó như một câu chuyện giả định nhỏ.
 ……前話したっけ？\nコールドスリープ──=Tôi... chưa kể cho cậu nghe trước đây sao? Ngủ đông~
-サツキもだけど、グレイスとか。\nジオ・ニヴルヘルの人らは、冷たい眠りの中にいる人間の魂を\nLoAにダイブさせたのが多いっぽいわね。……例外もいるけど。=Satsuki, Grace... hầu hết mọi người từ Geo Niflhell dường như là những linh hồn con người lao vào LoA trong khi họ đang ngủ lạnh. ...Mặc dù có một số ngoại lệ.
+サツキもだけど、グレイスとか。\nジオ・ニヴルヘルの人らは、冷たい眠りの中にいる人間の魂を\nLoAにダイブさせたのが多いっぽいわね。……例外もいるけど。=Satsuki, Grace... hầu hết mọi người từ Gio Nivlhel dường như là những linh hồn con người lao vào LoA trong khi họ đang ngủ lạnh. ...Mặc dù có một số ngoại lệ.
 あ。\nちなみに。\nもう、お察しかもだけど──=À, nhân tiện. Cậu có lẽ đã đoán ra rồi, nhưng...
 あんたもよく知ってる、ゲームの中のサツキの姿は\n双子の妹ちゃんの死んだ頃のカッコになってる……みたい。\n本人気付いてないけどね。=Satsuki trong trò chơi trông giống hệt chị song sinh của cô ấy khi mất... ít nhất là cứ nghĩ vậy. Chính Satsuki cũng không nhận ra điều đó.
 認識の修正かかってても、\nアバターにフィードバックされる\n妹ちゃんへの感情が強かったってことか……=Ngay cả khi nhận thức đã được điều chỉnh, tình cảm của cô ấy dành cho chị vẫn mạnh đến mức thấm vào hình dạng nhân vật của mình...
@@ -394,9 +394,9 @@ Chapter 4
 …………はー\nだる。=...Haaaa. Phiền phức.
 ティアぱーんち。=Tiaaaaa.... ĐẤM!!!
 きゃははっ♪\nたまにはダイレクトアタックも悪くないわ～♪\nウィークポイント見え見えだし♪=Kyahaha♪ Đôi khi tấn công trực tiếp cũng không tệ~♪ Điểm yếu của cậu quá dễ thấy♪
-んじゃ、冥界逝きになるまで凹ってア・ゲ・ル♪\n顔面20点ぱーんち……=Vậy thì, mình sẽ tiếp tục đánh cho đến khi cậu lao thẳng xuống Geo Niflhell. T-R-U-C-T-I-E-P♪ Cú đánh vào mặt được hai mươi điểm...!
-……ん……？\n冥界逝きって言や──=...Hm...? Nhắc đến "lao thẳng xuống Geo Niflhell"...
-さっきもこいつにゆったとーり、\nジオ・ニヴルヘルに逝ったプレイヤーは\nコールドスリープした人たちの魂……、……だとしても──=Như mình đã nói trước đó, những người chơi linh hồn đến Geo Niflhell là những người vẫn đang trong trạng thái ngủ lạnh... nhưng ngay cả vậy...
+んじゃ、冥界逝きになるまで凹ってア・ゲ・ル♪\n顔面20点ぱーんち……=Vậy thì, mình sẽ tiếp tục đánh cho đến khi cậu lao thẳng xuống Gio Nivlhel. T-R-U-C-T-I-E-P♪ Cú đánh vào mặt được hai mươi điểm...!
+……ん……？\n冥界逝きって言や──=...Hm...? Nhắc đến "lao thẳng xuống Gio Nivlhel"...
+さっきもこいつにゆったとーり、\nジオ・ニヴルヘルに逝ったプレイヤーは\nコールドスリープした人たちの魂……、……だとしても──=Như mình đã nói trước đó, những người chơi linh hồn đến Gio Nivlhel là những người vẫn đang trong trạng thái ngủ lạnh... nhưng ngay cả vậy...
 フツーLoAにログインするには、mimiが要るわよね。\nでも、サツキたちはそうじゃなかった？\nじゃ、誰がどうしてどうやって──=Thông thường, cậu cần một "mimi" để đăng nhập vào LoA. Nhưng Satsuki và những người khác không dùng, đúng chứ? Vậy ai... tại sao, và như thế nào--...
 ちょっ──！？！\nどこさわってんのヘンタイっ！！！！=CÁI GÌ...?! CẬU ĐANG TỎNG CHỖ NÀO, KẺ BIẾN THÁI?!
 問答無用ッ！\n地獄に落ちろへんたいふしんしゃ～～～～～～──っ！！！！=MÌNH KHÔNG CHẤP NHẬN BẤT KỲ LỜI BỘT NÀO! TRỞ LẠI NGAY THẾ GIỚI NGỤC CẢNH BẠN KẺ NGHĈ BỊ TỔNG NGHĈA!!!

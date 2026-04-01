@@ -16,12 +16,12 @@
 矢の傷痕が心配だって？騎士公に心配されるほどヤワな鍛え方してねェよ試してみっか？=Lo lắng về vết sẹo tên ư? Tớ không huấn luyện mềm yếu đến mức cậu phải lo, Tiểu-Kishi. Muốn thử không?
 背負い込んでるモンが重いヤツはやっぱり強ぇよけど騎士公、潰れちまいそうなら俺に半分寄越しな=Những người mang gánh nặng cuối cùng cũng mạnh mẽ. Nhưng Tiểu-Kishi, nếu cậu sắp gục ngã, hãy chia một nửa cho tớ.
 よお、騎士公。ちっとツラ貸せ村で一席宴があるんだお前さん、誕生日だろ？俺たちが祝ってやるよ=Này, Tiểu-Kishi. Cho tớ mượn mặt cậu một chút. Trong làng có bữa tiệc. Là sinh nhật cậu, phải không? Chúng tôi sẽ ăn mừng cho cậu.
-おう、来たな騎士公ここがジオ・ニヴルヘルは夜叉峠の鬼の村だ案内してやっから付いてきな=Ồ, cậu đến rồi, Tiểu-Kishi. Đây là Làng Oni Yasha Pass của Gio Niflheim. Tớ sẽ dẫn đường, cứ theo tớ.
+おう、来たな騎士公ここがジオ・ニヴルヘルは夜叉峠の鬼の村だ案内してやっから付いてきな=Ồ, cậu đến rồi, Tiểu-Kishi. Đây là Làng Oni Yasha Pass của Gio Nivlhel. Tớ sẽ dẫn đường, cứ theo tớ.
 鬼族の若い衆はちっとばかし荒っぽいかもしれねェが、気のいいヤツらでな良くしてやってくれ=Những oni trẻ có thể hơi thô lỗ, nhưng chúng là những người tốt. Hãy đối xử tử tế với chúng.
 内輪揉めは拳固一発落としゃ済むが、外の脅威はそうはいかねェ何が来ようと、俺が通しゃしねェがな=Mâu thuẫn nội bộ kết thúc bằng một cú đấm, nhưng mối đe dọa từ bên ngoài không phải vậy. Dù chuyện gì đến, tớ sẽ không để chúng qua.
 長旅で疲れたろちっと腰を落ち着けながら騎士公の土産話を聞かせてくれよ=Chuyến đi dài chắc đã mệt cậu rồi. Ngồi xuống một chút và kể cho tớ nghe câu chuyện du lịch của cậu đi, Tiểu-Kishi.
 面が気になるって？気に入っちゃいるが、魔法の道具とかじゃねェよほら、お前さんも被ってみっか=Tò mò về chiếc mặt nạ ư? Tớ thích nó, nhưng nó không phải phép thuật hay gì đâu. Đây, thử đeo lên xem.
-ジオ・ニヴルヘル_夜叉峠_鬼族の村=Gio Niflheim_Yasha Pass_Oni Clan Village
+ジオ・ニヴルヘル_夜叉峠_鬼族の村=Gio Nivlhel_Yasha Pass_Oni Clan Village
 鬼の祭りと幽霊の少女=Lễ Hội Oni và Cô Gái Ma
 面影宿シ=Nhà Trọ Omokage
 鬼とダチ公=Oni và Bạn Bè
