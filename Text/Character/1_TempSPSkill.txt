@@ -20,16 +20,12 @@ Mimi
 目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与える。目の前の敵がマルチターゲットの場合、さらに、物理・魔法攻撃力を大ダウンさせ、自分のＴＰを特大回復する。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi lấy mục tiêu trước mặt làm trung tâm. Nếu kẻ địch trước mặt là mục tiêu đa điểm (Multi-target), giảm mạnh thêm Tấn công Vật lý và Tấn công Ma pháp của chúng, đồng thời hồi phục cực đại TP cho bản thân.
 r:"^範囲内の敵に(\d+)の物理ダメージ目の前の敵がマルチターゲットの場合、以下の効果が発動する範囲内の敵の物理・魔法攻撃力を(\d+)ダウン自分のＴＰを1000回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n\nNếu kẻ địch trước mặt là mục tiêu đa điểm:\n►Giảm $2 Tấn công Vật lý và Ma pháp của kẻ địch trong phạm vi.\n►Hồi phục 1000 TP cho bản thân.
 
-
-
 Suzuna
 おこぷんダーツ++=Phi Tiêu Nổi Giận++
 目の前の敵１キャラに物理中ダメージを３回与える。このスキルは必ずクリティカルし、クリティカル時のダメージが３倍になる。初弾のこのスキルは、自分を敵にクリティカルでダメージを与えるたびにそのキャラの最大ＨＰに応じて最大50万の割合ダメージを与える状態にする。=Gây sát thương vật lý vừa 3 lần lên 1 kẻ địch trước mặt. Kỹ năng này chắc chắn sẽ bạo kích và sát thương bạo kích được nhân 3 lần. Trong lần đầu thi triển kỹ năng này sau khi bắt đầu trận đấu, bản thân sẽ nhận trạng thái: mỗi khi gây sát thương bạo kích lên kẻ địch, sẽ gây thêm sát thương tỷ lệ theo HP tối đa của mục tiêu đó, tối đa là 500,000.
 
 目の前の敵１キャラに物理中ダメージを１回、物理小ダメージを２回与える。このスキルの１ヒットのダメージは必ずクリティカルし、クリティカル時のダメージが３倍になる。=Gây sát thương vật lý vừa 1 lần và sát thương vật lý nhỏ 2 lần lên 1 kẻ địch trước mặt. Mỗi lần đánh (hit) của kỹ năng này chắc chắn sẽ bạo kích và sát thương bạo kích được nhân 3 lần.
 r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージクリティカルでダメージを与えるたびに敵単体に最大50万の物理割合ダメージを与える状態になる$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Rơi vào trạng thái gây sát thương vật lý theo tỷ lệ (tối đa 500,000) mỗi khi gây sát thương bạo kích.
-
-
 
 Kasumi
 ルートオブバインド++=Đường Dây Trói Buộc++
@@ -39,17 +35,12 @@ Kasumi
 r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする自分に証拠を１つ付与する$"=►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi.\n►Khiến kẻ địch trong phạm vi không thể hành động trong một khoảng thời gian.\n►Nhận 1 [Bằng Chứng] cho bản thân.
 r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする自分に証拠を１つ付与する証拠が５つの場合、以下の効果が発動する範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の被クリダメを8％アップ範囲内の敵の攻撃力アップ効果を解除する$"=►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi.\n►Khiến kẻ địch trong phạm vi không thể hành động trong một khoảng thời gian.\n►Nhận 1 [Bằng Chứng] cho bản thân.\n\nNếu [Bằng Chứng] đạt 5 tầng:\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi.\n►Tăng 8% sát thương bạo kích phải nhận cho kẻ địch trong phạm vi.\n►Xóa bỏ hiệu ứng tăng Tấn công của kẻ địch trong phạm vi.
 
-
-
-
 Miyako
 う～ら～め～し～や～なの++=Ura~me~shi~ya~nano++
 【変身】幽霊に変身し、しばらくの間無敵状態になる。また、自分の回避を特大アップさせ、さらに物理防御力を大アップさせる。目の前の敵１キャラが呪い状態でない場合、呪い状態にし、呪い状態であり呪詛状態でない場合、呪詛状態にする。=【Biến thân】 Biến thành linh hồn và trở nên vô địch trong một khoảng thời gian ngắn. Ngoài ra, tăng cực đại Né tránh và tăng mạnh Phòng thủ Vật lý cho bản thân. Nếu kẻ địch trước mặt không bị Nguyền Rủa, gây trạng thái Nguyền Rủa (Curse). Nếu đã bị Nguyền Rủa nhưng chưa bị Ám Nguyền, gây trạng thái Ám Nguyền (Hex).
 【変身】幽霊に変身し、しばらくの間無敵状態になる。また、自分の回避を特大アップさせ、さらに物理防御力を大アップさせる。=【Biến thân】 Biến thành linh hồn và trở nên vô địch trong một khoảng thời gian ngắn. Ngoài ra, tăng cực đại Né tránh và tăng mạnh Phòng thủ Vật lý cho bản thân.
 
 r:"^一定時間無敵状態になる自分の回避を(\d+)アップ自分の物理防御力を(\d+)アップ敵が呪い状態でない場合、(\d+)ダメージを与える呪い状態にする敵が呪い状態であり呪詛状態でない場合、毎秒ダメージが初期値(\d+)の150％ずつアップするダメージを与える呪詛状態にする$"=►Trở nên vô địch trong một khoảng thời gian.\n►Tăng $1 Né tránh cho bản thân.\n►Tăng $2 Phòng thủ Vật lý cho bản thân.\n\nNếu kẻ địch chưa bị Nguyền Rủa:\n►Gây trạng thái Nguyền Rủa, gây $3 sát thương.\n\nNếu kẻ địch đã bị Nguyền Rủa nhưng chưa bị Ám Nguyền:\n►Gây trạng thái Ám Nguyền, gây sát thương tăng thêm mỗi giây bằng 150% giá trị khởi điểm $4.
-
-
 
 Akari
 シャドウボルト++=Tia Chớp Bóng Tối++
