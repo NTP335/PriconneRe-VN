@@ -7,6 +7,8 @@
 獲物を求め水辺を猛毒で満たす、サンショウウオの魔物。漏れるほどに溜め込んだ猛毒は、近づくだけで意識を奪う危険物。=Quái vật thằn lằn lửa lấp đầy vùng nước bằng chất độc chết người để săn mồi. Chất độc chết người tích tụ đến mức rò rỉ là một chất nguy hiểm, khiến mất ý thức chỉ bằng cách tiếp cận.\n
 ＨＰ吸収ダウン回復量ダウン=Giảm Hút HP & Hồi Phục
 
+バトル開始時に自分の最大ＨＰ、物理・魔法防御力を中アップさせる。=Khi bắt đầu trận đấu, tăng vừa lượng HP tối đa, phòng thủ vật lý và phòng thủ ma pháp của bản thân.
+
 
 敵全体に物理中ダメージを与え、自分の行動速度を上げる。=Gây sát thương vật lý vừa phải cho tất cả kẻ thù và tăng tốc độ hành động của bản thân.\n
 

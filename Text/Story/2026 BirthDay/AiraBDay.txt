@@ -1,0 +1,15 @@
+Aira Hanamori
+
+あれ？　ここ……あっちの世界じゃない？\nあたしの『仕込み』じゃないのに……\n誰が見せてるんだろ、この夢？=Ơ kìa? Chỗ này... chẳng phải là "thế giới bên kia" sao? Mình đâu có "dàn dựng" gì đâu... vậy thì ai đang cho mình thấy giấc mơ này nhỉ?
+むむ……そこに見えるは{playername}くん！\nあはは、久しぶり！\nこんな所で会うなんて奇遇だね。何してるの？=Hửm... đằng kia là {playername}-kun! A ha ha, lâu rồi không gặp! Gặp nhau ở nơi thế này đúng là kỳ ngộ nhỉ. Em đang làm gì thế?
+……え、誕生日？\nあたしの……？\nははーん、なるほど……そういう『設定』かぁ～…=...Hả, sinh nhật? Của chị á...? Ha hán, ra vậy... lại là "thiết lập" kiểu đó sao~...
+いや！　いやいやいやいや！\nそんなことない！　今日で合ってるよ～！=Không! Không không không không! Không có chuyện đó đâu! Đúng là ngày hôm nay rồi mà~!
+でも、そっか……あははっ。\nあたしに『誕生日』があるなんて、思ってもみなかった。\nす～っっっごく、うれしいよ！=Nhưng mà, ra vậy... a ha ha. Chị chưa từng nghĩ rằng mình lại có một "ngày sinh nhật" đấy. Chị thấy... cực cực cực kỳ vui luôn!
+だって、この誕生日はあたしがここに存在する証で。\nそれをほかならぬキミに祝ってもらえる、\n最高にハッピーな一日ってことだもん♪=Bởi vì, sinh nhật này chính là minh chứng cho việc chị đang tồn tại ở nơi đây. Và việc được chính em chúc mừng, điều đó khiến hôm nay trở thành một ngày hạnh phúc nhất luôn♪
+よしっ！　それじゃあ、最初はどこ行く？\nへとへとになるまで遊び倒しちゃおうっ！=Được rồi! Vậy thì, đầu tiên mình đi đâu đây? Hãy chơi cho tới khi mệt lử mới thôi nhé!
+もしキミが遊び疲れて寝ちゃったら、あたしがおんぶしてあげる♪\nいつかのお礼にさ？　なーんて、あははっ！=Nếu em chơi mệt quá mà lăn ra ngủ, chị sẽ cõng em♪ Coi như là để đáp lễ chuyện hồi trước nhé? Đùa thôi, a ha ha!
+……ね。お姉さんの誕生日。\n夢みたいな一日にしてね♪=...Nè. Sinh nhật của chị... Hãy biến nó thành một ngày đẹp như mơ nhé♪
+
+愛來さんの誕生日をお祝いしに。=Em đến để chúc mừng sinh nhật chị Aira.
+あれ？　間違ってました？=Ơ? Em nhầm ngày rồi ạ?
+改めて、誕生日おめでとう！　愛來さん。=Một lần nữa, chúc mừng sinh nhật chị, Aira-san!

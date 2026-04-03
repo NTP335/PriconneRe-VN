@@ -5,21 +5,21 @@ NPC
 
 
 Title and summary
-悪役令嬢とバニー使い魔=Nàng ác nữ và Linh thú thỏ
+悪役令嬢とバニー使い魔=Ác Nữ Công Chúa và Linh Thú Thỏ Ngọc
 噂のへんたいふしんしゃさんとなってしまったグレイスとキョウカ。令嬢とバニーの主従の姿となった二人は、驚く{playername}たちに、呪いの鎖で繋がれ、守護騎士を解任された経緯を語るのだった。=Grace và Kyouka bỗng chốc trở thành những "kẻ biến thái khả nghi" theo lời đồn đại. Trong hình hài cặp chủ tớ "Tiểu thư và Thỏ", cả hai đã kể cho nhóm {playername} đang kinh ngạc nghe về việc họ bị trói buộc bởi xiềng xích lời nguyền và bị cách chức kỵ sĩ hộ vệ như thế nào.
 鎖の長さは絶望までの距離=Chiều dài sợi xích là khoảng cách đến tuyệt vọng
 ルルィと頭をぶつけた衝撃で奇妙な夢を見るキョウカ。その中で知った狂気の鎖が招く最悪な結末『へんたいふしんしゃさん破滅エンド』を回避すべく、{playername}たちと鎖の解呪に乗り出すことになる。=Sau cú va chạm đầu với Lulu, Kyouka đã thấy một giấc mơ kỳ lạ. Để tránh khỏi kết cục tồi tệ nhất do sợi xích điên loạn dẫn lối — "Kết thúc hủy diệt của kẻ biến thái" — cô đã cùng nhóm {playername} bắt đầu hành trình giải lời nguyền cho sợi xích.
 キョウカママを攻略せよ=Chinh phục mẹ của Kyouka
 ジオ・ニヴルヘルに向かう許可を得るため、キョウカの家に来た{playername}たち。ミミやミソギも一緒につかの間和やかな時間を過ごす。そして正気度で長さが変わる鎖の特性を解明し、解呪に一歩前進した。=Để xin phép tiến vào Gio Nivlhel, nhóm {playername} đã ghé thăm nhà Kyouka. Họ đã có những giây phút yên bình ngắn ngủi cùng với Mimi và Misogi. Tại đây, họ đã giải mã được đặc tính thay đổi chiều dài dựa trên chỉ số lý trí của sợi xích, tiến thêm một bước trong việc giải lời nguyền.
-出血大サービスパーティー=Bữa tiệc phục vụ máu lửa
+出血大サービスパーティー=Bữa tiệc phục vụ hết mình tại Landosol
 ジオ・ニヴルヘルで解呪の手がかりを探すため、オルロック伯爵とパーティーを開催する{playername}たち。へんふし扱いの空気を一変させ、住民と絆を深めた一同は、ついに元凶に繋がる情報を得る。=Nhằm tìm kiếm manh mối giải lời nguyền tại Gio Nivlhel, nhóm {playername} đã cùng Bá tước Orlock tổ chức một bữa tiệc. Sau khi làm thay đổi hoàn toàn bầu không khí kỳ thị "kẻ biến thái" và thắt chặt tình cảm với cư dân, cả nhóm cuối cùng đã có được thông tin dẫn đến kẻ thủ ác.
-『深い庭』へ=Tiến vào "Khu vườn sâu thẳm"
-胞子の森で、呪いの元凶である『嘆きの聖母たちの眷属』と対峙する{playername}たち。グレイスとキョウカは令嬢バトルで敵の情報を引き出すが、へんふし値が限界を迎え、鎖の光に飲み込まれてしまう。=Tại Rừng Bào Tử, nhóm {playername} đối mặt với "Thuộc hạ của các Thánh mẫu than khóc", nguồn cơn của lời nguyền. Grace và Kyouka đã dùng trận chiến phong cách tiểu thư để khai thác thông tin kẻ địch, nhưng chỉ số "biến thái" đã chạm mức giới hạn khiến họ bị ánh sáng của sợi xích nuốt chửng.
+『深い庭』へ=Tiến vào Khu vườn sâu thẳm
+胞子の森で、呪いの元凶である『嘆きの聖母たちの眷属』と対峙する{playername}たち。グレイスとキョウカは令嬢バトルで敵の情報を引き出すが、へんふ値が限界を迎え、鎖の光に飲み込まれてしまう。=Tại Rừng Bào Tử, nhóm {playername} đối mặt với "Thuộc hạ của các Thánh mẫu than khóc", nguồn cơn của lời nguyền. Grace và Kyouka đã dùng trận chiến phong cách tiểu thư để khai thác thông tin kẻ địch, nhưng chỉ số "biến thái" đã chạm mức giới hạn khiến họ bị ánh sáng của sợi xích nuốt chửng.
 グレイスのためらい=Sự do dự của Grace
 鎖の中に囚われたグレイスたち。思い出した記憶とスミレとの関係に独り悩む彼女だが、キョウカの励ましで仲間に頼る勇気を得る。脱出の鍵である巫女舞を皆で踊り、覚醒したルルィの未知なる力で脱出する。=Nhóm Grace bị giam cầm bên trong sợi xích. Cô một mình trăn trở về ký ức vừa tìm lại và mối quan hệ với Sumire, nhưng nhờ sự khích lệ của Kyouka, cô đã có thêm dũng khí để tin tưởng đồng đội. Mọi người cùng nhảy điệu múa Vu nữ — chìa khóa để thoát thân — và trốn thoát nhờ sức mạnh thần bí vừa thức tỉnh của Lulu.
 へんふしで溢れる街=Thành phố tràn ngập những kẻ biến thái
 ゾンビの大群を率いる嘆きの聖母たちの眷属によって、街は阿鼻叫喚のへんふし騒動に。事態を収束するため、{playername}たちは連携の力で眷属を撃破する。そしてグレイスたちは解呪に成功するのだった。=Dưới sự dẫn dắt của Thuộc hạ các Thánh mẫu than khóc cùng binh đoàn thây ma, thành phố rơi vào cảnh hỗn loạn kinh hoàng vì những kẻ biến thái. Để dẹp loạn, nhóm {playername} đã cùng nhau tiêu diệt kẻ địch bằng sức mạnh hiệp lực. Cuối cùng, nhóm Grace đã giải lời nguyền thành công.
-へんふし破滅エンド回避！=Tránh được Kết thúc hủy diệt của kẻ biến thái!
+へんふし破滅エンド回避！=Né tránh kết thúc diệt vong từ kẻ biến thái!
 なんとか破滅エンドを回避して安心したのもつかの間、へんふしとして逮捕されてしまった{playername}たち。絆を深めた仲間の助けで釈放された彼らは、恐れることなく社会復帰のために歩みだすのだった。=Vừa mới thở phào vì tránh được kết thúc bi thảm thì nhóm {playername} lại bị bắt giữ vì bị coi là những kẻ biến thái. Nhờ sự giúp đỡ của những người bạn đã cùng thắt chặt tình cảm, họ được trả tự do và bắt đầu bước tiếp trên con đường tái hòa nhập xã hội mà không còn sợ hãi điều gì.
 
 
