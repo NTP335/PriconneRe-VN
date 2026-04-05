@@ -7,26 +7,45 @@
 やさしさに触れるとき=Một Chút Lòng Tốt
 優しさに触れるとき=Một Chút Lòng Tốt
 
-##UB##
+
+##OLD UB##
 ニューイヤーバースト=Bùng Nổ Năm Mới
 目の前の敵１キャラに魔法特大ダメージを与え、さらに魔法攻撃力を中アップさせる。このスキルで与えたダメージ量に応じて、攻撃力の上昇量がアップする。=Gây sát thương phép thuật lớn lên kẻ địch đứng trước mặt và tăng nhẹ M.ATK của bản thân. Mức tăng M.ATK sẽ tăng dựa trên sát thương gây ra bởi kỹ năng này.
 
-##S1##
+##OLD S1##
 シャドウバレット=Đạn Bóng Tối
 目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép thuật trung bình lên kẻ địch đứng trước mặt.
 
-##S2##
+##OLD S2##
 ウィッシングフィールド=Trường Vọng Nguyện
 味方全体の魔法攻撃力を中アップさせ、さらに物理無効バリアを展開する。自分の魔法攻撃力が高い程、バリアの無効ダメージ量がアップする。=Tăng M.ATK trung bình cho đồng minh và tạo một rào cản phớt lờ sát thương vật lý xung quanh họ. Sát thương bị rào cản phớt lờ sẽ tăng dựa trên M.ATK của bản thân.
-r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Tăng M.ATK của đồng minh lên $1 trong 12s.\n►Triển khai Rào Cản lên tất cả đồng minh phớt lờ $2 (+0.08×M.ATK) sát thương vật lý trong 12s.
+r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=Thời gian thi triển: 0.74s.\n►Tăng M.ATK của đồng minh lên $1 trong 12s.\n►Triển khai Rào Cản lên tất cả đồng minh phớt lờ $2 (+0.08×M.ATK) sát thương vật lý trong 12s.
 
 ##EX##
 デザイアベール=Màn Che Khao Khát
 デザイアベール+=Màn Che Khao Khát+
 
-##S1+##
+##OLD S1+##
 シャドウバレット+=Đạn Bóng Tối+
 目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与える。=Gây sát thương phép thuật lớn lên tất cả kẻ địch trong phạm vi của kẻ địch đứng trước mặt.
 
 ##UE##
 賀正猫耳の羽子板=Gasho Cat's Ear Racket
+一筆入魂の猫抱負=Nhất Bút Nhập Hồn - Miêu Nguyện
+
+
+##UB##
+目の前の敵１キャラに魔法特大ダメージを与え、自分の魔法攻撃力を中アップさせる。このスキルで与えたダメージ量に応じて、魔法攻撃力の上昇量がアップする。【謹賀の羽子】が99の場合、１度だけ自分のダメージブーストを短時間特大アップし、以降【謹賀の羽子】が11以上付与されている場合、【謹賀の羽子】を11消費し、自分のＴＰを特大回復するようになる。=Gây sát thương ma thuật đặc biệt lớn cho 1 kẻ địch trước mặt, đồng thời tăng vừa tấn công ma thuật của bản thân. Lượng tấn công ma thuật tăng thêm dựa trên lượng sát thương gây ra từ kỹ năng này. Nếu [Cầu Lông Chúc Mừng] đạt 99, tăng đặc biệt lớn Tăng cường Sát thương (Damage Boost) của bản thân trong thời gian ngắn một lần duy nhất. Sau đó, nếu có từ 11 [Cầu Lông Chúc Mừng] trở lên, tiêu hao 11 cộng dồn để hồi phục đặc biệt lớn TP của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ謹賀の羽子が99の場合、１度だけ自分にダメージブースト100％を付与（上限5000000）謹賀の羽子を11消費する謹賀の羽子を11消費した場合、自分のＴＰを1000回復$"=►Gây $1 sát thương ma thuật cho 1 kẻ địch.\n►Tăng $2 tấn công ma thuật cho bản thân trong 18 giây.\n\nNếu [Cầu Lông Chúc Mừng] là 99:\n►Nhận 100% Tăng cường Sát thương một lần (Tối đa: 5.000.000).\n\n►Tiêu hao 11 [Cầu Lông Chúc Mừng].\n\nNếu tiêu hao 11 [Cầu Lông Chúc Mừng]:\n►Hồi 1000 TP cho bản thân.
+
+##S1##
+目の前の敵１キャラに魔法特大ダメージを与える。このスキルのダメージは、【謹賀の羽子】の数に応じて増加する。=Gây sát thương ma thuật đặc biệt lớn cho 1 kẻ địch trước mặt. Sát thương của kỹ năng này tăng dựa trên số lượng cộng dồn [Cầu Lông Chúc Mừng].
+
+##S2##
+味方全体の魔法攻撃力を中アップさせ、物理無効バリアを展開する。【謹賀の羽子】の数に応じて、バリアの無効ダメージ量がアップする。さらに、自分に【謹賀の羽子】（上限99）を５つ付与する。=Tăng vừa tấn công ma thuật cho toàn bộ đồng minh và triển khai một lớp khiên vô hiệu hóa sát thương vật lý. Lượng sát thương vô hiệu hóa của khiên tăng dựa trên số lượng cộng dồn [Cầu Lông Chúc Mừng]. Ngoài ra, nhận thêm 5 cộng dồn [Cầu Lông Chúc Mừng] cho bản thân (Tối đa 99)
+r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する自分に謹賀の羽子を５つ付与する$"=Thời gian thi triển: 0.74s.\n►Tăng $1 tấn công ma thuật cho toàn bộ đồng minh trong 12 giây.\n►Triển khai khiên vô hiệu hóa $2 sát thương vật lý cho toàn bộ đồng minh trong 12 giây.\n►Nhận 5 [Cầu Lông Chúc Mừng] cho bản thân.
+
+##S2+##
+ウィッシングフィールド+=Cánh Đồng Ước Nguyện+
+味方全体の魔法攻撃力を特大アップさせ、物理無効バリアを展開する。【謹賀の羽子】の数に応じて、バリアの無効ダメージ量がアップする。さらに、自分のＴＰを全て消費し、消費した量に応じて【謹賀の羽子】（上限99）を最大で13付与する。その後、【謹賀の羽子】が99の場合、自分のＴＰを特大回復する。=Tăng đặc biệt lớn tấn công ma thuật cho toàn bộ đồng minh và triển khai một lớp khiên vô hiệu hóa sát thương vật lý. Lượng sát thương vô hiệu hóa của khiên tăng dựa trên số lượng cộng dồn [Cầu Lông Chúc Mừng]. Ngoài ra, tiêu hao toàn bộ TP của bản thân để nhận tối đa 13 cộng dồn [Cầu Lông Chúc Mừng] (Tối đa 99) dựa trên lượng TP đã tiêu hao. Sau đó, nếu [Cầu Lông Chúc Mừng] đạt 99, hồi phục đặc biệt lớn TP của bản thân.
+r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する自分のＴＰを全て消費する自分に謹賀の羽子を付与する謹賀の羽子が99の場合、自分のＴＰを1000回復$"=Thời gian thi triển: 0.74s.\n►Tăng $1 tấn công ma thuật cho toàn bộ đồng minh trong 12 giây.\n►Triển khai khiên vô hiệu hóa $2 sát thương vật lý cho toàn bộ đồng minh trong 12 giây.\n►Tiêu hao toàn bộ TP của bản thân.\n►Nhận [Cầu Lông Chúc Mừng] cho bản thân.\n\nNếu [Cầu Lông Chúc Mừng] là 99:\n►Hồi 1000 TP cho bản thân.

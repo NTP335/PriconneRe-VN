@@ -3,7 +3,7 @@
 ボム・レリック=Di Vật Bom
 
 ヒール・レリック=Di Vật Hồi
-シャドウと共に聖域を守護する、記憶の番人。真なる力を欲するものに、相応の試練を与える。=Vệ sĩ ký ức bảo vệ nơi thánh cùng với bóng tối. Người ta thử thách phù hợp với những ai tìm kiếm sức mạnh thực sự.\n\n\n\n\n\n\n\n\n
+シャドウと共に聖域を守護する、記憶の番人。真なる力を欲するものに、相応の試練を与える。=Vệ sĩ ký ức bảo vệ nơi thánh cùng với bóng tối. Người ta thử thách phù hợp với những ai tìm kiếm sức mạnh thực sự.
 自身以外の味方全体にＨＰとＴＰ継続回復状態を付与し、物理防御力と魔法防御力をアップさせる。=Tặng hiệu ứng hồi HP và TP cho tất cả đồng minh ngoại trừ bản thân, đồng thời tăng P.DEF và M.DEF của họ.
 
 魔法範囲攻撃シャドウと共に聖域を守護する、記憶の番人。真なる力を欲するものに、相応の試練を与える。=Vệ sĩ Ký ức bảo vệ nơi thánh cùng với Bóng Tối của Đòn Tấn Công Ma Thuật Phạm Vi. Áp đặt những thử thách xứng đáng với những ai tìm kiếm sức mạnh thực sự.

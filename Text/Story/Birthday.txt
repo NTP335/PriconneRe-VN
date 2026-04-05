@@ -19,3 +19,10 @@ sr:"^12月(\d+日)のストーリー(\d)?$"=$1 Tháng 12 Cốt truyện $2
 アイテム獲得=Nhận vật phẩm
 現在、未読のバースデーストーリーはありません。=Hiện tại không có câu chuyện sinh nhật chưa đọc.
 バースデーストーリー=Câu chuyện sinh nhật
+
+おねえさんになれたかな？=Chị đã ra dáng một người chị chưa nhỉ?
+毒じゃないから、いっか──=Không phải độc dược nên chắc là ổn thôi──
+リアルサイド・バースデー=Sinh nhật đời thực
+思い出\nプレイバックムービー=Ký ức\nPhim quay lại kỷ niệm
+バースデープリンセスに一問一答=Hỏi đáp cùng Công chúa sinh nhật
+愛情定食一人前=Một suất cơm định suất tình yêu

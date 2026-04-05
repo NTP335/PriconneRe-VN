@@ -1735,7 +1735,7 @@ HP吸収ダウン回復量ダウン=Hấp thụ HP Giảm Hồi phục Giảm
 【回帰の薔薇】=【Hồng Hoa Hồi Quy】
 対象のＨＰが０になった時：【回帰の薔薇】を消費してＨＰ回復=Khi HP mục tiêu về 0: Tiêu hao 【Hồng Hoa Hồi Quy】 để hồi HP.
 マルチターゲット=Đa mục tiêu
-全スキルダメージＴＰ回復不可=Không hồi TP từ bất kỳ sát thương kỹ năng nào.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+全スキルダメージＴＰ回復不可=Không hồi TP từ bất kỳ sát thương kỹ năng nào.
 前から敵３体に凍結=Gây Đóng băng cho 3 kẻ địch phía trước.
 前から敵３体に魔法防御力ダウン=Giảm Phòng thủ Ma thuật của 3 kẻ địch phía trước.
 
