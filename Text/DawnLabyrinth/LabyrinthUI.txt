@@ -18,11 +18,11 @@
 
 挑戦を終了してラビリンスTOPに戻りますか？\n\n※「撤退する」を選択すると、報酬が獲得できない\n代わりにラビリンスパスポートが返却されます。=Bạn có muốn kết thúc thử thách và quay về Mê Cung TOP?\n\n※Nếu chọn "Rút Lui", bạn sẽ không nhận được phần thưởng nào.\nThay vào đó, Hộ Chiếu Mê Cung của bạn sẽ được hoàn trả.
 
-有効効果=Hiệu Ứng
-ボスへの\n有効効果=Hiệu Ứng\nlên Boss
+有効効果=Hiệu quả khả thi
+ボスへの\n有効効果=Hiệu quả\nkhả thi với Boss
 バリア=Rào Cản
 対象のキャラがいません。=Không có nhân vật mục tiêu.
-効果所有キャラ=Nhân Vật Sở Hữu Hiệu Ứng
+効果所有キャラ=Nhân vật sở hữu hiệu quả tương ứng
 タグ詳細=Chi Tiết Thẻ
 
 Menu Shizuru&Rino

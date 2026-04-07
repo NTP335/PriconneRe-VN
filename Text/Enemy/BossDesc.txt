@@ -1532,6 +1532,7 @@
 前から敵１体に魔法ダメージ=Gây sát thương phép lên một kẻ thù phía trước.\n
 前から敵１体に麻痺=Làm tê liệt một kẻ thù phía trước.\n
 自身に物理／魔法防御力アップ=Tăng Phòng thủ vật lý và Phòng thủ phép của bản thân.\n
+
 後ろから敵３体に物理ダメージ=Gây P.DMG lên 3 kẻ địch phía sau cùng.
 後ろから敵３体にスタン=Làm choáng 3 kẻ địch phía sau cùng.
 後ろから敵２体に物理ダメージ=Gây P.DMG lên 2 kẻ địch phía sau cùng.
@@ -1594,6 +1595,7 @@
 前方範囲に誘惑=Áp dụng hiệu ứng mê hoặc (charm) lên kẻ địch ở phía trước trong phạm vi.
 敵全体に物理／魔法攻撃力アップ=Tăng Tấn Công Thể Chất (P.ATK) và Tấn Công Ma Thuật (M.ATK) cho toàn bộ kẻ địch.
 対象がバリア状態でない：誘惑=Nếu mục tiêu không ở trạng thái khiên: áp dụng hiệu ứng mê hoặc (charm).
+
 後ろから１番目の敵を中心に魔法ダメージフィールド=Triển khai một vùng Sát Thương Ma Thuật (M.DMG) có tâm là kẻ địch xa nhất.
 後ろから１番目の敵に魔法ダメージ=Gây Sát Thương Ma Thuật (M.DMG) cho kẻ địch xa nhất.
 後ろから１番目の敵と周囲に行動速度ダウン（必中）=Giảm Tốc Độ Hành Động của kẻ địch xa nhất và các kẻ địch trong phạm vi (không thể trượt).
@@ -1678,8 +1680,10 @@
 前から敵５体に魔法ダメージ=Gây sát thương phép lên 5 kẻ địch phía trước
 前から敵５体に魔法防御力ダウン=Giảm M.DEF của 5 kẻ địch phía trước
 前から敵５体に物理／魔法クリティカルダメージダウン（必中）=Giảm Sát Thương Phản Đòn Vật Lý/Phép của 5 kẻ địch phía trước (không thể tránh)
+
 自身への継続ダメージ量アップ=Bản thân: Tăng Sát Thương Liên Tục
 前から敵３体に凍結（召喚体無視=Gây Đóng Băng lên 3 kẻ địch phía trước (bỏ qua triệu hồi)
+
 召喚体無視=Bỏ qua Triệu Hồi
 前から敵３体に魔法防御力ダウン（召喚体無視必中）=Giảm M.DEF của 3 kẻ địch phía trước (bỏ qua triệu hồi/không thể tránh)
 
@@ -1687,6 +1691,8 @@
 残り時間が30秒になった時：覚醒状態に移行=Khi còn 30 giây: chuyển sang Trạng Thái Tỉnh Thức.
 自身の行動パターン変更=Thay đổi mẫu hành động của bản thân.
 【覚醒状態：スキル３】=[Trạng Thái Tỉnh Thức: Kỹ Năng 3]
+
+
 前から敵２体に火傷（ＴＰ回復不可=Gây thiêu đốt lên hai kẻ địch phía trước (không thể hồi TP).
 前から敵２体に魔法ダメージ=Gây sát thương phép lên hai kẻ địch phía trước.
 敵全体に火傷（ＴＰ回復不可=Gây thiêu đốt lên toàn bộ kẻ địch (không thể hồi TP).
@@ -1844,6 +1850,7 @@ HP吸収ダウン回復量ダウン=Hấp thụ HP Giảm Hồi phục Giảm
 このスキルの対象に麻痺=Gây tê liệt lên mục tiêu kỹ năng này
 このスキルの対象に継続ＴＰダウン=Giảm TP liên tục lên mục tiêu kỹ năng này
 自身のＴＰ回復=Hồi TP cho bản thân
+敵全体に魔法割合ダメージ（飛行効果無視=Gây sát thương ma thuật theo phần trăm cho toàn bộ kẻ địch (bỏ qua hiệu ứng bay)
 後ろから敵２体に魔法ダメージ=Sát thương phép thuật lên 2 kẻ địch phía sau
 後ろから敵２体に物理／魔法攻撃力ダウン（必中）=Giảm sức mạnh tấn công vật lý/phép thuật lên 2 kẻ địch phía sau (luôn đánh trúng)
 前から敵３体に魔法防御力ダウン（召喚体無視=Giảm phòng thủ phép thuật của 3 kẻ địch đầu tiên (bỏ qua đơn vị được triệu hồi)
@@ -1869,12 +1876,14 @@ HP吸収ダウン回復量ダウン=Hấp thụ HP Giảm Hồi phục Giảm
 前方範囲の敵４体に物理／魔法攻撃力ダウン（必中）=Giảm sức mạnh tấn công vật lý/phép của 4 kẻ địch ở phía trước (đảm bảo trúng)
 前から１番目の敵と周囲に毒=Đầu độc kẻ địch phía trước nhất và vùng xung quanh
 人竜一体となって戦うゴブリン騎手。敏速に空を駆け巡り、地上の敵に襲いかかる=Một kỵ sĩ goblin chiến đấu cùng rồng của mình. Vượt nhanh qua bầu trời và tấn công kẻ địch ở mặt đất.
+
 後ろから敵３体にスタン（召喚体無視=Làm choáng 3 kẻ địch từ phía sau (bỏ qua đơn vị triệu hồi)
 後ろから敵２体に物理防御力ダウン（召喚体無視=Giảm phòng thủ vật lý của 2 kẻ địch từ phía sau (bỏ qua đơn vị triệu hồi)
 後ろから敵１体に物理ダメージ（挑発無視=Gây sát thương vật lý lên 1 kẻ địch từ phía sau (bỏ qua hiệu ứng khiêu khích)
 前から敵３体をノックバック（召喚体無視=Đẩy lùi 3 kẻ địch từ phía trước (bỏ qua đơn vị triệu hồi)
 敵全体に魔法ダメージ（飛行効果無視=Gây sát thương phép lên toàn bộ kẻ địch (bỏ qua hiệu ứng bay)
 敵全体に麻痺（飛行効果無視=Làm tê liệt toàn bộ kẻ địch (bỏ qua hiệu ứng bay)
+
 前から敵２体をノックバック=Đẩy lùi 2 kẻ địch từ phía trước
 前から敵２体に魔法追加ダメージ=Sát thương phép bổ sung lên 2 kẻ địch đầu tiên
 前から敵２体に魔法防御力ダウン=Giảm phòng thủ phép của 2 kẻ địch đầu tiên
@@ -1902,10 +1911,12 @@ HP吸収ダウン回復量ダウン=Hấp thụ HP Giảm Hồi phục Giảm
 対象のＨＰ80％未満：スタン=Mục tiêu có HP dưới 80%: Làm choáng
 敵全体を打ち上げる=Phóng toàn bộ kẻ địch lên trời
 対象が火傷：ダメージアップ=Mục tiêu bị cháy: Sát thương tăng
+
 前から敵３体に火傷=Đốt cháy 3 kẻ địch đầu tiên
 前から１番目の敵と周囲の敵３体までに物理ダメージ=Sát thương vật lý lên kẻ địch đầu tiên và tối đa 3 kẻ địch xung quanh
 前から１番目の敵と周囲の敵３体までに物理防御力ダウン（必中）=Giảm phòng thủ vật lý của kẻ địch đầu tiên và tối đa 3 kẻ địch xung quanh (Đảm bảo trúng)
 自身の物理防御力アップ=Tăng phòng thủ vật lý của bản thân
+
 前から敵３体をノックバック=Đẩy lùi 3 kẻ địch phía trước
 前から敵３体に行動速度ダウン=Giảm tốc độ hành động của 3 kẻ địch phía trước
 バトル開始時、すべてのキャラの物理と魔法クリティカルを大ダウンさせる。=Khi bắt đầu trận đấu, giảm mạnh chí mạng vật lý và phép của toàn bộ nhân vật.
@@ -2051,6 +2062,7 @@ HP吸収ダウン回復量ダウン=Hấp thụ HP Giảm Hồi phục Giảm
 堅牢な鉱石の表皮を持つ岩トカゲ。=Một thằn lằn đá với lớp da khoáng vật cứng như đá.
 このスキルで与えたダメージに応じて：敵全体に魔法ダメージ=Gây sát thương phép thuật lên tất cả kẻ địch dựa trên sát thương gây ra bởi kỹ năng này
 敵全体に石化=Hóa đá tất cả kẻ địch
+
 前から敵１体に魔法防御力ダウン=Giảm M.DEF của kẻ địch phía trước cùng
 自身のＨＰ回復=Hồi phục HP của bản thân
 このスキルで与えたダメージが大きいほど：ＨＰ回復量アップ=Sát thương càng lớn do kỹ năng này gây ra, lượng HP hồi phục càng cao
@@ -2281,12 +2293,14 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 後ろから敵３体にＴＰ上昇ダウン=Giảm tăng TP của 3 kẻ địch phía sau nhất.
 後ろから敵３体にＴＰダウン=Giảm TP của 3 kẻ địch phía sau nhất.
 後ろから敵３体に魔法ダメージ=Gây sát thương ma thuật lên 3 kẻ địch phía sau nhất.
-敵全体にスタン（飛行効果無視=Gây hiệu ứng Choáng lên tất cả kẻ địch (bỏ qua hiệu ứng bay).
+敵全体にスタン（飛行効果無視=Gây choáng cho toàn bộ kẻ địch (bỏ qua hiệu ứng bay).
 後ろから１番目の敵と周囲に魔法ダメージ=Gây sát thương ma thuật lên kẻ địch phía sau nhất và các kẻ địch xung quanh.
 後ろから１番目の敵と周囲に魔法防御力ダウン、ＴＰダウン、呪い（必中）=Giảm phòng thủ ma thuật, giảm TP, và gây hiệu ứng Nguyền (đảm bảo đánh trúng) lên kẻ địch phía sau nhất và các kẻ địch xung quanh.
 後ろから２番目の敵を中心に魔法ダメージフィールド=Triển khai một vùng hiệu ứng sát thương ma thuật tập trung vào kẻ địch thứ hai từ phía sau.
 後ろから２番目の敵に魔法ダメージ=Gây sát thương ma thuật lên kẻ địch thứ hai từ phía sau.
 後ろから２番目の敵と周囲に行動速度ダウン（必中）=Giảm tốc độ hành động của kẻ địch thứ hai từ phía sau và các kẻ địch xung quanh (đảm bảo đánh trúng).
+
+
 敵全体に物理／魔法防御力ダウン=Giảm phòng thủ vật lý và phòng thủ ma thuật của tất cả kẻ địch.
 【バトルフィールド効果】=[Battlefield Effect]
 敵全体に物理／魔法防御力アップ解除=Xóa các buff phòng thủ vật lý và phòng thủ ma thuật khỏi tất cả kẻ địch.
@@ -2405,6 +2419,8 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 数多の探検家を飲み込んだ幻島の巨鯨。欲望、幻想に憑りつかれた愚者を無慈悲に葬る。=Cá voi khổng lồ của đảo ảo ảnh đã nuốt chửng vô số nhà thám hiểm. Nó chôn vùi không nương tay những kẻ ngu ngốc bị ám ảnh bởi dục vọng và ảo tưởng.
 前から敵４体に魔法ダメージ=Gây sát thương ma pháp lên 4 kẻ địch phía trước.
 前から敵４体を大きく打ち上げる=Hất văng mạnh 4 kẻ địch phía trước lên không trung.
+
+
 【ＨＰ30％未満時発動】=[Kích hoạt khi HP dưới 30%]
 孤塔の頂に座する、暴虐なる混成魔獣。千変万化の猛攻は、挑む者数多を屠ってきた。=Ma thú hỗn chủng hung bạo ngự trị trên đỉnh tháp độc lập. Những đợt tấn công dồn dập biến ảo khôn lường của nó đã sát hại biết bao kẻ dám đến thách thức.
 前方範囲に火傷=Gây bỏng trong phạm vi phía trước.
@@ -2449,10 +2465,69 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 ＴＰ増加不可無視=Bỏ qua hiệu ứng không thể tăng TP.
 目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理攻撃力と魔法攻撃力を特大ダウン、物理防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせる。このスキルのダメージと攻撃力・防御力ダウンの効果量は【魔眼】の数に応じて上昇する。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi lấy kẻ địch gần nhất làm trung tâm, đồng thời giảm cực đại Tấn công Vật lý và Tấn công Ma pháp, giảm nhẹ Phòng thủ Vật lý và tăng nhẹ sát thương nhận vào khi bị chí mạng. Lượng sát thương và hiệu quả giảm Tấn công/Phòng thủ của kỹ năng này sẽ tăng lên dựa trên số lượng 【Ma Nhãn】.
 
+前から敵５体に呪い=Gây nguyền rủa cho 5 kẻ địch phía trước.
+前から敵４体に呪い=Gây nguyền rủa cho 4 kẻ địch phía trước.
+前から敵３体に呪い=Gây nguyền rủa cho 3 kẻ địch phía trước.
+前から敵２体に呪い=Gây nguyền rủa cho 2 kẻ địch phía trước.
+前から敵１体に呪い=Gây nguyền rủa cho 1 kẻ địch phía trước.
+
+前から敵５体に呪い（ＴＰ回復不可=Gây nguyền rủa cho 5 kẻ địch phía trước (không thể hồi phục TP).
+前から敵４体に呪い（ＴＰ回復不可=Gây nguyền rủa cho 4 kẻ địch phía trước (không thể hồi phục TP).
+前から敵３体に呪い（ＴＰ回復不可=Gây nguyền rủa cho 3 kẻ địch phía trước (không thể hồi phục TP).
+前から敵２体に呪い（ＴＰ回復不可=Gây nguyền rủa cho 2 kẻ địch phía trước (không thể hồi phục TP).
+前から敵１体に呪い（ＴＰ回復不可=Gây nguyền rủa cho 1 kẻ địch phía trước (không thể hồi phục TP).
+
+前から敵５体に恐慌=Gây hoảng loạn cho 5 kẻ địch phía trước.
+前から敵４体に恐慌=Gây hoảng loạn cho 4 kẻ địch phía trước.
+前から敵３体に恐慌=Gây hoảng loạn cho 3 kẻ địch phía trước.
+前から敵２体に恐慌=Gây hoảng loạn cho 2 kẻ địch phía trước.
+前から敵１体に恐慌=Gây hoảng loạn cho 1 kẻ địch phía trước.
+
+前から敵５体に恐慌（召喚体無視=Gây hoảng loạn cho 5 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵４体に恐慌（召喚体無視=Gây hoảng loạn cho 4 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵３体に恐慌（召喚体無視=Gây hoảng loạn cho 3 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵２体に恐慌（召喚体無視=Gây hoảng loạn cho 2 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵１体に恐慌（召喚体無視=Gây hoảng loạn cho 1 kẻ địch phía trước (bỏ qua vật triệu hồi).
+
+前から敵１体にスタン（召喚体無視=Gây choáng cho 1 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵２体にスタン（召喚体無視=Gây choáng cho 2 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵３体にスタン（召喚体無視=Gây choáng cho 3 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵４体にスタン（召喚体無視=Gây choáng cho 4 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵５体にスタン（召喚体無視=Gây choáng cho 5 kẻ địch phía trước (bỏ qua vật triệu hồi).
+
+前から敵１体にスタン=Gây choáng cho 1 kẻ địch phía trước.
+前から敵２体にスタン=Gây choáng cho 2 kẻ địch phía trước.
+前から敵３体にスタン=Gây choáng cho 3 kẻ địch phía trước.
+前から敵４体にスタン=Gây choáng cho 4 kẻ địch phía trước.
+前から敵５体にスタン=Gây choáng cho 5 kẻ địch phía trước.
+
+後ろから敵１体にスタン（召喚体無視=Gây choáng cho 1 kẻ địch phía sau (bỏ qua vật triệu hồi).
+後ろから敵２体にスタン（召喚体無視=Gây choáng cho 2 kẻ địch phía sau (bỏ qua vật triệu hồi).
+後ろから敵３体にスタン（召喚体無視=Gây choáng cho 3 kẻ địch phía sau (bỏ qua vật triệu hồi).
+後ろから敵４体にスタン（召喚体無視=Gây choáng cho 4 kẻ địch phía sau (bỏ qua vật triệu hồi).
+後ろから敵５体にスタン（召喚体無視=Gây choáng cho 5 kẻ địch phía sau (bỏ qua vật triệu hồi).
+
+後ろから敵５体にスタン=Gây choáng cho 5 kẻ địch phía sau.
+後ろから敵４体にスタン=Gây choáng cho 4 kẻ địch phía sau.
+後ろから敵３体にスタン=Gây choáng cho 3 kẻ địch phía sau.
+後ろから敵２体にスタン=Gây choáng cho 2 kẻ địch phía sau.
+後ろから敵１体にスタン=Gây choáng cho 1 kẻ địch phía sau.
 
 
-前から敵３体に呪い（ＴＰ回復不可=Gây trạng thái Lời nguyền lên 3 kẻ địch phía trước (ngăn hồi phục TP).
-前から敵３体に恐慌=Gây trạng thái Khủng hoảng lên 3 kẻ địch phía trước.
+前から敵５体をノックバック=Đánh lui 5 kẻ địch phía trước.
+前から敵４体をノックバック=Đánh lui 4 kẻ địch phía trước.
+前から敵３体をノックバック=Đánh lui 3 kẻ địch phía trước.
+前から敵２体をノックバック=Đánh lui 2 kẻ địch phía trước.
+前から敵１体をノックバック=Đánh lui 1 kẻ địch phía trước.
+
+前から敵５体をノックバック（召喚体無視=Đánh lui 5 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵４体をノックバック（召喚体無視=Đánh lui 4 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵３体をノックバック（召喚体無視=Đánh lui 3 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵２体をノックバック（召喚体無視=Đánh lui 2 kẻ địch phía trước (bỏ qua vật triệu hồi).
+前から敵１体をノックバック（召喚体無視=Đánh lui 1 kẻ địch phía trước (bỏ qua vật triệu hồi).
+
+
+
 前から２／３番目の敵にスタン=Gây trạng thái Choáng lên kẻ địch thứ 2 và thứ 3 tính từ phía trước.
 前から２／３番目の敵に魔法ダメージ=Gây sát thương phép lên kẻ địch thứ 2 và thứ 3 tính từ phía trước.
 対象が恐慌状態：混乱=Nếu mục tiêu đang trong trạng thái Khủng hoảng: gây trạng thái Hỗn loạn.
@@ -2465,3 +2540,111 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 幻夢郷の狂信者=Cuồng tín đồ của Ảo Mộng Hương
 旧支配者の眷属を自称する、高笑いとマウンティングが十八番の傲慢令嬢。冥界で眠りについていた女神を依り代として信者拡大を謀る。=Một tiểu thư kiêu ngạo tự xưng là thuộc hạ của Cổ Thần, với đặc trưng là điệu cười lớn và luôn muốn lấn lướt người khác. Cô ta âm mưu mở rộng tín đồ bằng cách sử dụng một nữ thần đang ngủ say ở minh giới làm vật chủ.
 前から２番目攻撃、物防ダウン（ダメージ無効化時も付与）=Tấn công kẻ địch thứ 2 tính từ phía trước, giảm phòng thủ vật lý (áp dụng ngay cả khi sát thương bị vô hiệu hóa).
+
+
+砂地にのさばる獰猛な大怪鳥。紫電を纏い嵐を巻き起こすさまは、天災と恐れられる。=Đại quái điểu hung tợn thống trị vùng đất cát. Hình ảnh nó bao phủ trong tia chớp tím và cuốn theo những cơn bão khiến nó bị khiếp sợ như một thiên tai.
+前から敵５体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 5 kẻ địch phía trước (chắc chắn trúng).
+前から敵４体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 4 kẻ địch phía trước (chắc chắn trúng).
+前から敵３体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 3 kẻ địch phía trước (chắc chắn trúng).
+前から敵２体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 2 kẻ địch phía trước (chắc chắn trúng).
+前から敵１体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 1 kẻ địch phía trước (chắc chắn trúng).
+
+前から敵１体に物理ダメージ=Gây sát thương vật lý cho 1 kẻ địch phía trước.
+前から敵２体に物理ダメージ=Gây sát thương vật lý cho 2 kẻ địch phía trước.
+前から敵３体に物理ダメージ=Gây sát thương vật lý cho 3 kẻ địch phía trước.
+前から敵４体に物理ダメージ=Gây sát thương vật lý cho 4 kẻ địch phía trước.
+前から敵５体に物理ダメージ=Gây sát thương vật lý cho 5 kẻ địch phía trước.
+
+前から敵１体に魔法ダメージ=Gây sát thương ma thuật cho 1 kẻ địch phía trước.
+前から敵２体に魔法ダメージ=Gây sát thương ma thuật cho 2 kẻ địch phía trước.
+前から敵３体に魔法ダメージ=Gây sát thương ma thuật cho 3 kẻ địch phía trước.
+前から敵４体に魔法ダメージ=Gây sát thương ma thuật cho 4 kẻ địch phía trước.
+前から敵５体に魔法ダメージ=Gây sát thương ma thuật cho 5 kẻ địch phía trước.
+
+前から敵１体に魔法防御力ダウン=Giảm phòng thủ ma thuật của 1 kẻ địch phía trước.
+前から敵２体に魔法防御力ダウン=Giảm phòng thủ ma thuật của 2 kẻ địch phía trước.
+前から敵３体に魔法防御力ダウン=Giảm phòng thủ ma thuật của 3 kẻ địch phía trước.
+前から敵４体に魔法防御力ダウン=Giảm phòng thủ ma thuật của 4 kẻ địch phía trước.
+前から敵５体に魔法防御力ダウン=Giảm phòng thủ ma thuật của 5 kẻ địch phía trước.
+
+前から敵１体に魔法防御力ダウン（召喚体無視必中）=Giảm phòng thủ ma thuật của 1 kẻ địch phía trước (bỏ qua vật triệu hồi/chắc chắn trúng).
+前から敵２体に魔法防御力ダウン（召喚体無視必中）=Giảm phòng thủ ma thuật của 2 kẻ địch phía trước (bỏ qua vật triệu hồi/chắc chắn trúng).
+前から敵３体に魔法防御力ダウン（召喚体無視必中）=Giảm phòng thủ ma thuật của 3 kẻ địch phía trước (bỏ qua vật triệu hồi/chắc chắn trúng).
+前から敵４体に魔法防御力ダウン（召喚体無視必中）=Giảm phòng thủ ma thuật của 4 kẻ địch phía trước (bỏ qua vật triệu hồi/chắc chắn trúng).
+前から敵５体に魔法防御力ダウン（召喚体無視必中）=Giảm phòng thủ ma thuật của 5 kẻ địch phía trước (bỏ qua vật triệu hồi/chắc chắn trúng).
+
+前から敵３体に魔法防御力ダウン（召喚体無視=Giảm phòng thủ ma thuật của 3 kẻ địch phía trước (bỏ qua vật triệu hồi).
+
+
+
+後ろから敵１体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 1 kẻ địch phía sau (chắc chắn trúng).
+後ろから敵２体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 2 kẻ địch phía sau (chắc chắn trúng).
+後ろから敵３体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 3 kẻ địch phía sau (chắc chắn trúng).
+後ろから敵４体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 4 kẻ địch phía sau (chắc chắn trúng).
+後ろから敵５体に物理／魔法攻撃力ダウン（必中）=Giảm tấn công vật lý và tấn công ma thuật của 5 kẻ địch phía sau (chắc chắn trúng).
+
+
+後ろから敵１体に魔法ダメージ=Gây sát thương ma thuật cho 1 kẻ địch phía sau.
+後ろから敵２体に魔法ダメージ=Gây sát thương ma thuật cho 2 kẻ địch phía sau.
+後ろから敵３体に魔法ダメージ=Gây sát thương ma thuật cho 3 kẻ địch phía sau.
+後ろから敵４体に魔法ダメージ=Gây sát thương ma thuật cho 4 kẻ địch phía sau.
+後ろから敵５体に魔法ダメージ=Gây sát thương ma thuật cho 5 kẻ địch phía sau.
+
+後ろから２番目の敵と周囲に行動速度ダウン（必中）=Giảm tốc độ hành động của kẻ địch thứ 2 tính từ phía sau và các mục tiêu xung quanh (chắc chắn trúng).
+
+
+
+
+
+前から敵５体に魔法防御力ダウン=Giảm phòng thủ ma thuật của 5 kẻ địch phía trước.
+前から敵５体に物理／魔法クリティカルダメージダウン（必中）=Giảm sát thương bạo kích vật lý/ma thuật của 5 kẻ địch phía trước (chắc chắn trúng).
+
+
+前から敵２体に魔法追加ダメージ=Gây thêm sát thương ma thuật cho 2 kẻ địch phía trước.
+前から敵２体に魔法防御力ダウン=Giảm phòng thủ ma thuật của 2 kẻ địch phía trước.
+ランダムな敵３体にステータスアップ解除=Xóa tăng chỉ số của 3 kẻ địch ngẫu nhiên.
+前から敵３体に凍結（召喚体無視=Gây đóng băng cho 3 kẻ địch phía trước (bỏ qua vật triệu hồi).
+
+前から敵１体に物理／魔法攻撃ダメージダウン（必中）=Giảm sát thương tấn công vật lý/ma thuật của 1 kẻ địch phía trước (chắc chắn trúng).
+
+後ろから敵２体に物理防御力ダウン（召喚体無視=Giảm phòng thủ vật lý của 2 kẻ địch phía sau (bỏ qua vật triệu hồi).
+後ろから敵１体に物理ダメージ（挑発無視=Gây sát thương vật lý cho 1 kẻ địch phía sau (bỏ qua khiêu khích).
+
+前から敵３体に行動速度ダウン=Giảm tốc độ hành động của 3 kẻ địch phía trước.
+
+前から敵３体に火傷=Gây bỏng cho 3 kẻ địch phía trước.
+前から１番目の敵と周囲の敵３体までに物理ダメージ=Gây sát thương vật lý cho kẻ địch thứ nhất và tối đa 3 kẻ địch xung quanh.
+前から１番目の敵と周囲の敵３体までに物理防御力ダウン（必中）=Giảm phòng thủ vật lý của kẻ địch thứ nhất và tối đa 3 kẻ địch xung quanh (chắc chắn trúng).
+
+
+後ろから敵３体に物理ダメージ=Gây sát thương vật lý cho 3 kẻ địch phía sau.
+後ろから敵２体に物理ダメージ=Gây sát thương vật lý cho 2 kẻ địch phía sau.
+後ろから敵２体に物理防御力ダウン=Giảm phòng thủ vật lý của 2 kẻ địch phía sau.
+後ろから敵１体に物理ダメージ=Gây sát thương vật lý cho 1 kẻ địch phía sau.
+
+後ろから敵３体に物理ダメージ=Gây sát thương vật lý cho 3 kẻ địch phía sau.
+後ろから敵２体に物理ダメージ=Gây sát thương vật lý cho 2 kẻ địch phía sau.
+後ろから敵２体に物理防御力ダウン=Giảm phòng thủ vật lý của 2 kẻ địch phía sau.
+後ろから敵１体に物理ダメージ=Gây sát thương vật lý cho 1 kẻ địch phía sau.
+
+
+前から敵２体に火傷（ＴＰ回復不可=Gây bỏng cho 2 kẻ địch phía trước (không thể hồi TP).
+前から敵４体を大きく打ち上げる=Hất tung 4 kẻ địch phía trước lên không trung.
+
+前から敵３体に凍結=Gây đóng băng cho 3 kẻ địch phía trước.
+
+
+
+前から敵３体に魔法防御力ダウン=Giảm phòng thủ ma thuật của 3 kẻ địch phía trước.
+ランダムな敵１体に束縛=Trói buộc 1 kẻ địch ngẫu nhiên.
+後ろから敵３体にＴＰ上昇ダウン=Giảm TP Boost của 3 kẻ địch phía sau.
+後ろから敵３体にＴＰダウン=Giảm TP của 3 kẻ địch phía sau.
+
+
+後ろから１番目の敵と周囲に魔法ダメージ=Gây sát thương ma thuật cho kẻ địch phía sau cùng và các mục tiêu xung quanh.
+後ろから１番目の敵と周囲に魔法防御力ダウン、ＴＰダウン、呪い（必中）=Giảm phòng thủ ma thuật, giảm TP và gây nguyền rủa cho kẻ địch phía sau cùng và các mục tiêu xung quanh (chắc chắn trúng).
+後ろから２番目の敵を中心に魔法ダメージフィールド=Triển khai một vùng gây sát thương ma thuật tập trung vào kẻ địch thứ 2 tính từ phía sau.
+後ろから２番目の敵に魔法ダメージ=Gây sát thương ma thuật cho kẻ địch thứ 2 tính từ phía sau.
+後ろから１番目の敵を中心に魔法ダメージフィールド=Triển khai một vùng gây sát thương ma thuật tập trung vào kẻ địch phía sau cùng.
+後ろから１番目の敵に魔法ダメージ=Gây sát thương ma thuật cho kẻ địch phía sau cùng.
+後ろから１番目の敵と周囲に行動速度ダウン（必中）=Giảm tốc độ hành động của kẻ địch phía sau cùng và các mục tiêu xung quanh (chắc chắn trúng).

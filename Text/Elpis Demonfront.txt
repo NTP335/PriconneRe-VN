@@ -17,7 +17,7 @@
 
 現在の装備=Trang bị hiện tại
 
-モンスターへの有効効果=Hiệu ứng hữu hiệu lên Quái vật
+モンスターへの有効効果=Hiệu quả khả thi với Quái vật
 未クリアの難易度はスキップできません。=Không thể bỏ qua độ khó chưa hoàn thành.
 遺物を所持していません。=Bạn không sở hữu Di vật nào.
 発動遺物効果=Hiệu ứng Di vật đang kích hoạt
