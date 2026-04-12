@@ -492,3 +492,17 @@ sr:"^(.+?)のストーリーを全て閲覧する$"=Xem toàn bộ cốt truyệ
 星の女神の継承者=Người Kế Thừa Nữ Thần Vì Sao
 巻き込まれ常連の桃尻次女=Thứ Nữ Mông Đào Thường Xuyên Bị Cuốn Vào Rắc Rối
 儚きオシリスト=Người Yêu Mông Mong Manh
+
+私はここですよ〜〜！=Em ở đây nè~~!
+パラソルアクト=Parasol Act (Vũ điệu chiếc ô)
+ヴィラネススマイル=Villainess Smile (Nụ cười phản diện)
+レディズガーランド=Lady’s Garland (Vòng hoa tiểu thư)
+
+ルナティック・ラビリンス=Lunatic Labyrinth (Mê cung điên loạn)
+悪党たちの大珍道中=Hành trình gian nan của lũ ác ôn
+ロンリーガールズ交流会=Buổi giao lưu của những cô nàng cô đơn
+笑いとたい焼きのから騒ぎ=Náo loạn tiếng cười và bánh cá nướng
+軍人たちの合同任務=Nhiệm vụ hiệp đồng của các quân nhân
+ドジ退散！　脱大凶大作戦=Xua tan hậu đậu! Đại chiến dịch thoát khỏi vận rủi
+煉獄のリベリオン=Rebellion of Purgatory (Cuộc nổi dậy của luyện ngục)
+お城に採用いたしましょう♪=Ta sẽ nhận ngươi vào lâu đài làm việc nhé ♪

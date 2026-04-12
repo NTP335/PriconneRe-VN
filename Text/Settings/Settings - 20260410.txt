@@ -1,0 +1,11 @@
+キャラ加入演出を再生するか設定します。=Thiết lập có phát hoạt ảnh khi nhận nhân vật mới hay không.
+ガチャ結果の獲得ボーナスダイアログ表示=Hiển thị thông báo nhận thưởng bổ sung từ Gacha
+ガチャでボーナスを獲得したときに、獲得ダイアログを自動で表示するか設定します。=Thiết lập có tự động hiển thị bảng thông báo khi nhận được phần thưởng bonus từ Gacha hay không.
+ストーリーイベントのミニコンテンツのデータ保存設定=Thiết lập lưu trữ dữ liệu nội dung phụ của sự kiện cốt truyện
+一部ミニコンテンツは、イベント開催期間外に閲覧する際、追加データのダウンロードが必要となります。\nダウンロードしたミニコンテンツの追加データを端末に保存するか設定します。\n※「保存しない」を選択すると、データがアプリ起動の度に削除され、\n端末のデータ容量を削減できる代わりに、毎回ダウンロードし直す必要があります。=Một số nội dung phụ yêu cầu tải thêm dữ liệu khi xem ngoài thời gian diễn ra sự kiện.\nThiết lập có lưu dữ liệu bổ sung của các nội dung phụ đã tải về vào thiết bị hay không.\n※Nếu chọn "Không lưu", dữ liệu sẽ bị xóa mỗi khi khởi động ứng dụng,\ngiúp giảm dung lượng bộ nhớ thiết bị nhưng bù lại bạn sẽ phải tải lại mỗi lần xem.
+UB演出=UB Animation
+各キャラがユニオンバーストを発動する際に演出を再生するか設定できます。\nこの設定は次回バトルから反映されます。=Bạn có thể thiết lập có phát hoạt ảnh khi mỗi nhân vật kích hoạt Union Burst hay không.\nThiết lập này sẽ có hiệu lực từ trận chiến tiếp theo.
+各キャラがクランバトルでユニオンバーストを発動する際に演出を再生するか設定できます。\nこの設定は次回バトルから反映されます。=Bạn có thể thiết lập có phát hoạt ảnh khi các nhân vật kích hoạt Union Burst trong Clan Battle hay không.\nThiết lập này sẽ có hiệu lực từ trận chiến tiếp theo.
+クランバトル UB演出設定の確認ダイアログ=Bảng xác nhận thiết lập UB Animation trong Clan Battle
+クランバトルを開始する前に、クランバトルのUB演出設定を確認するダイアログを開きます。=Mở bảng xác nhận thiết lập UB Animation của Clan Battle trước khi bắt đầu trận đấu.
+「他キャラが装備中のEX装備を選択する」にチェックを入れた際に以下のEX装備を対象から除外します\n3パーティバトル中の、他キャラが装備しているもの\nアリーナの防衛に設定しているキャラが装備しているもの\nサポートに設定しているキャラが装備しているもの=Khi tích chọn "Chọn trang bị EX đang được trang bị bởi nhân vật khác", các trang bị EX sau đây sẽ bị loại khỏi đối tượng lựa chọn:\nTrang bị đang được nhân vật khác sử dụng trong chế độ đấu 3 đội (3-party battle)\nTrang bị của các nhân vật đang được thiết lập phòng thủ trong Arena\nTrang bị của các nhân vật đang được thiết lập làm Support

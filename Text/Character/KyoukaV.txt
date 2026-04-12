@@ -1,0 +1,21 @@
+##Profile##
+【魔法】後衛で、破滅の運命にあらがうお嬢様？優等生。【呪いの鎖】の溢れる魔力で魔防デバフやＴＰ、速度支援を行うが、限界を迎えると永久的狂気に陥ってしまう。=[Ma thuật] Một tiểu thư(?) kiêm học sinh ưu tú ở hàng sau, người đang chống lại vận mệnh hủy diệt. Với ma lực tràn trề từ 【Xiềng Xích Nguyền Rủa】, cô hỗ trợ giảm thủ ma thuật, hồi TP và tăng tốc độ, nhưng khi đạt đến giới hạn, cô sẽ rơi vào trạng thái điên loạn vĩnh viễn.
+
+##UB##
+レディズガーランド=Lady’s Garland
+目の前の敵１キャラに魔法特大ダメージを２回与え、物理・魔法攻撃力を大ダウン、魔法防御力を中ダウン、クリティカルを受けた際のダメージを小アップさせる。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương ma thuật cực đại 2 lần cho 1 kẻ địch trước mặt, giảm mạnh tấn công vật lý/ma thuật, giảm vừa phòng thủ ma thuật và tăng nhẹ sát thương nhận vào khi bị chí mạng. Nếu kỹ năng này chí mạng, sát thương sẽ là gấp 3 thay vì gấp 2.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の物理・魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体の被クリダメを6％アップ$"=►Gây $1 sát thương ma thuật cho 1 kẻ địch.\n►Gây $2 sát thương ma thuật cho 1 kẻ địch.\n►Giảm $3 tấn công vật lý và ma thuật của 1 kẻ địch trong 18 giây.\n►Giảm $4 phòng thủ ma thuật của 1 kẻ địch trong 18 giây.\n►Tăng 6％ sát thương chí mạng phải nhận của 1 kẻ địch trong 18 giây.
+
+##S1##
+ヴィラネススマイル=Villainous Smile
+目の前の敵１キャラに魔法大ダメージを２回与え、魔法防御力を小ダウンさせる。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。自分のＨＰが最大でない場合、自分のＨＰを大回復するが、【呪いの鎖】を１つ消費する。自分に【呪いの鎖】が付与されていない場合、自分を長時間混乱状態にし、このスキルによるダメージではＴＰは回復しなくなる。=Gây sát thương ma thuật lớn 2 lần cho 1 kẻ địch trước mặt và giảm nhẹ phòng thủ ma thuật. Nếu kỹ năng này chí mạng, sát thương sẽ là gấp 3 thay vì gấp 2. Nếu HP bản thân không đầy, hồi mạnh HP cho bản thân nhưng tiêu hao 1 【Xiềng Xích Nguyền Rủa】. Nếu bản thân không có 【Xiềng Xích Nguyền Rủa】, sẽ khiến bản thân bị hỗn loạn trong thời gian dài và sát thương từ kỹ năng này không còn hồi TP.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分のＨＰが最大でない場合、呪いの鎖を１つ消費する自分のＨＰが最大でない場合、自分のＨＰを40％回復呪いの鎖がない場合、自分を混乱させる$"=Thời gian triển khai: 1.05 giây\n►Gây $1 sát thương ma thuật cho 1 kẻ địch.\n►Gây $2 sát thương ma thuật cho 1 kẻ địch.\n►Giảm $3 phòng thủ ma thuật của 1 kẻ địch trong 12 giây.\n\nNếu HP bản thân không đầy:\n►Tiêu hao 1 【Xiềng Xích Nguyền Rủa】.\n►Hồi 40％ HP cho bản thân.\n\nNếu không có 【Xiềng Xích Nguyền Rủa】:\n►Gây hỗn loạn cho bản thân trong 180 giây.
+
+##S2##
+パラソルアクト=Parasol Act
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップ、行動速度を大アップ、ＴＰを小回復させる。バトル開始後、初弾のこのスキルは自分に【呪いの鎖】を３つ付与し、ＨＰ回復量を中ダウンする。=Tăng cực đại tấn công ma thuật, tăng mạnh chí mạng ma thuật, tăng nhẹ sát thương chí mạng ma thuật, tăng mạnh tốc độ hành động và hồi nhẹ TP cho toàn bộ đồng minh. Ở lần sử dụng đầu tiên sau khi trận đấu bắt đầu, kỹ năng này sẽ ban cho bản thân 3 cộng dồn 【Xiềng Xích Nguyền Rủa】 và giảm vừa lượng hồi phục HP nhận vào.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを150アップ味方全体の魔法クリダメを6％アップ味方全体の行動速度60％アップ味方全体のＴＰを100回復初使用時、以下の効果が発動する自分に呪いの鎖を３つ付与する自分のＨＰ回復量を40％ダウン$"=Thời gian triển khai: 1.05 giây\n►Tăng $1 tấn công ma thuật cho đồng minh trong 12 giây.\n►Tăng 150 chí mạng ma thuật cho đồng minh trong 12 giây.\n►Tăng 6％ sát thương chí mạng ma thuật cho đồng minh trong 12 giây.\n►Tăng 60％ tốc độ hành động cho đồng minh trong 12 giây.\n►Hồi 100 TP cho toàn bộ đồng minh.\n\nKhi sử dụng lần đầu:\n►Ban cho bản thân 3 【Xiềng Xích Nguyền Rủa】.\n►Giảm 40％ lượng hồi phục HP nhận vào của bản thân.
+
+##EX##
+エンパワーチェイン=Empower Chain
+エンパワーチェイン+=Empower Chain+

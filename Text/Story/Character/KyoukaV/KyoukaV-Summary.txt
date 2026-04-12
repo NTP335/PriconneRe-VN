@@ -1,0 +1,11 @@
+嘘から出た鎖=Xiềng xích sinh ra từ lời nói dối
+{playername}は執事としてキョウカの宿題を手伝ったり、お茶会を盛り上げたりする。だがグレイスの冗談を真に受けてキョウカの手の甲にキスをすると、再び魔力の鎖が発現し、二人は繋がれてしまう。={playername} trong vai trò quản gia đã giúp đỡ Kyouka làm bài tập về nhà và khuấy động buổi tiệc trà. Thế nhưng, do tin vào lời đùa của Grace mà cậu đã hôn lên mu bàn tay của Kyouka, khiến xiềng xích ma lực một lần nữa xuất hiện và trói buộc hai người lại với nhau.
+
+鼓動、鎖を伝って=Nhịp đập truyền qua xiềng xích
+キョウカと{playername}はお嬢様と執事を装い、鎖を消す手がかりを探す。道中、{playername}に対する感情に揺れるキョウカ。その後、魔力の鎖の源がキョウカの願望だと判明する。=Kyouka và {playername} cải trang thành tiểu thư và quản gia để tìm kiếm manh mối xóa bỏ xiềng xích. Trên đường đi, tình cảm của Kyouka dành cho {playername} bắt đầu dao động. Sau đó, nguồn gốc của xiềng xích ma lực được tiết lộ chính là từ nguyện vọng của Kyouka.
+
+心の穴を埋めるのは=Thứ lấp đầy khoảng trống trong tim
+キョウカは貴族の女の子に{playername}への想いを指摘され、困惑する。だが少しだけ自分の気持ちと向き合い、{playername}にいつも優しく気にかけてくれることを感謝した。=Kyouka cảm thấy bối rối khi bị một cô bé quý tộc chỉ ra tình cảm của mình dành cho {playername}. Tuy nhiên, cô đã bắt đầu đối diện với cảm xúc của bản thân một chút và bày tỏ lòng biết ơn vì {playername} đã luôn dịu dàng quan tâm đến cô.
+
+私の、私だけのへんふし=Kẻ biến thái khả nghi của riêng mình tôi
+夢の中で、鏡華は学校で催される劇の練習に励む。{playername}は執事役を熱演して助ける。夢から覚め、キョウカは{playername}に素直な想いを伝える。鎖は消えたが、もう寂しくはなかった。=Trong giấc mơ, Kyouka nỗ lực luyện tập cho một vở kịch ở trường. {playername} đã giúp đỡ cô bằng cách nhập vai quản gia một cách nhiệt huyết. Khi tỉnh giấc, Kyouka đã truyền đạt những cảm xúc chân thành của mình tới {playername}. Dù xiềng xích đã biến mất nhưng cô không còn cảm thấy cô đơn nữa.
