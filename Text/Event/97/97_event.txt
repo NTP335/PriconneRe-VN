@@ -3,7 +3,6 @@ NPC
 ましゃか、グレイス姉しゃまたちがへんたいふしんしゃさんだなんて…騎士しゃん。あたちたちも協力ちて二人の破滅エンドを回避ちましょう=Không thể nào, chuyện chị Grace và những người khác bị gọi là kẻ biến thái khả nghi... Hiệp sĩ à. Chúng ta hãy cùng hợp sức để giúp họ tránh khỏi "Kết thúc hủy diệt" (Bad Ending) nhé!
 私がへんたいふしんしゃさんって…ただ生きているだけなのに、ひどい…まぁ死んでるんですけど…とか言ってる暇もない感じですか？=Bảo tôi là kẻ biến thái khả nghi sao... Tôi chỉ đang sống bình thường thôi mà, thật quá đáng... À mà thực ra tôi chết rồi... Nhưng mà có vẻ giờ không phải lúc để than vãn chuyện đó nhỉ?
 
-
 Title and summary
 悪役令嬢とバニー使い魔=Ác Nữ Công Chúa và Linh Thú Thỏ Ngọc
 噂のへんたいふしんしゃさんとなってしまったグレイスとキョウカ。令嬢とバニーの主従の姿となった二人は、驚く{playername}たちに、呪いの鎖で繋がれ、守護騎士を解任された経緯を語るのだった。=Grace và Kyouka bỗng chốc trở thành những "kẻ biến thái khả nghi" theo lời đồn đại. Trong hình hài cặp chủ tớ "Tiểu thư và Thỏ", cả hai đã kể cho nhóm {playername} đang kinh ngạc nghe về việc họ bị trói buộc bởi xiềng xích lời nguyền và bị cách chức kỵ sĩ hộ vệ như thế nào.
@@ -21,10 +20,6 @@ Title and summary
 ゾンビの大群を率いる嘆きの聖母たちの眷属によって、街は阿鼻叫喚のへんふし騒動に。事態を収束するため、{playername}たちは連携の力で眷属を撃破する。そしてグレイスたちは解呪に成功するのだった。=Dưới sự dẫn dắt của Thuộc hạ các Thánh mẫu than khóc cùng binh đoàn thây ma, thành phố rơi vào cảnh hỗn loạn kinh hoàng vì những kẻ biến thái. Để dẹp loạn, nhóm {playername} đã cùng nhau tiêu diệt kẻ địch bằng sức mạnh hiệp lực. Cuối cùng, nhóm Grace đã giải lời nguyền thành công.
 へんふし破滅エンド回避！=Né tránh kết thúc diệt vong từ kẻ biến thái!
 なんとか破滅エンドを回避して安心したのもつかの間、へんふしとして逮捕されてしまった{playername}たち。絆を深めた仲間の助けで釈放された彼らは、恐れることなく社会復帰のために歩みだすのだった。=Vừa mới thở phào vì tránh được kết thúc bi thảm thì nhóm {playername} lại bị bắt giữ vì bị coi là những kẻ biến thái. Nhờ sự giúp đỡ của những người bạn đã cùng thắt chặt tình cảm, họ được trả tự do và bắt đầu bước tiếp trên con đường tái hòa nhập xã hội mà không còn sợ hãi điều gì.
-
-
-
-
 
 
 
@@ -62,3 +57,32 @@ Title and summary
 ソノさん！　ユキさんまだ来てないよね！？\nユキさんに渡すお薬、中身間違ってたの！\n先に渡してたのはただのお水で……=Chị Sono! Yuki vẫn chưa đến đúng không!?\nCái thuốc đưa cho Yuki bị nhầm rồi! Cái lọ lúc nãy đưa cho cậu ấy chỉ là nước lã thôi...
 ユキさんなら、今さっきめちゃくちゃ満足して帰ってったとこ。\n……え、ただの水？\nとんでもないプラシーボ効果じゃん。=Nếu là Yuki thì cậu ấy vừa mới ra về với vẻ mặt cực kỳ mãn nguyện xong.\n...Hả, chỉ là nước lã thôi sao?\nĐúng là hiệu ứng giả dược (placebo) kinh khủng thật đấy.
 ……メンタル最強かよ。\nあの子はきっと幸せに生きるな。=...Tinh thần thép hay gì vậy.\nCái cậu đó chắc chắn sẽ sống một đời hạnh phúc cho xem.
+
+
+
+
+
+Last login
+……教授、バトルバランスを弄るの好きでしたよね。強さの基準がぶっ飛んでるから大体再調整になるけどさ。\nおっと、思い出話はこのくらいにして、さっさと対処しないとね。=...Giáo sư rất thích điều chỉnh cân bằng trận đấu nhỉ. Do tiêu chuẩn sức mạnh của họ quá bá đạo nên lúc nào cũng phải điều chỉnh lại sau đó cả.\nThôi, chuyện cũ kể thế là đủ rồi, phải nhanh chóng giải quyết thôi.
+ちぃっ、雑魚がワラワラと……！\nこれでは本命と愉しく戦えんな。\n晶、ネネカ、湧いて出た小物は任せるぞ。=Chậc, lũ tép riu cứ bu lại đông như kiến...!\nThế này thì không thể tận hưởng trận chiến với mục tiêu chính được.\nAkira, Neneka, giao lũ tiểu nhân vừa mới ngoi lên cho hai người đấy.
+うわー、タスクの押しつけよくないよ？　やるけどさー\n……あの小物、ちょっと離れた場所に位置するタイプか。\n範囲攻撃で片づけるのがセオリーかな。\nネネカ、適材適所でいくよ。=Oa, đùn đẩy công việc là không tốt đâu nhé? Nhưng mà tôi vẫn sẽ làm thôi.\n...Lũ tiểu nhân đó thuộc loại đứng ở vị trí hơi xa một chút nhỉ.\nTheo lý thuyết thì dùng tấn công diện rộng là hợp lý nhất.\nNeneka, cứ đúng người đúng việc mà làm thôi.
+やれやれですね。\n任せろと言ったり引いてみたり。\n……征くぞ。=Thật là hết nói nổi.\nVừa mới bảo cứ giao cho mình xong lại đùn đẩy.\n...Đi thôi.
+君だけの隣のスーパーモデル=Siêu mẫu bên cạnh chỉ của riêng anh
+はうっ！？=Hả!?
+破滅エンド回避後の生活=Cuộc sống sau khi tránh được Kết thúc Hủy diệt
+うん。これなら、お母さんに頼まれたおつかいも大丈夫そう。\nもう誰も、私たちを見てコソコソ指をさしていませんよ。\n……『へんたいふしんしゃさん破滅エンド』を回避できてよかった……=Ừm. Thế này thì việc đi mua đồ giúp mẹ chắc là ổn rồi.\nGiờ không còn ai nhìn chúng ta rồi lén lút chỉ trỏ nữa.\n...May mà đã tránh được "Kết thúc Hủy diệt của kẻ biến thái khả nghi"...
+鎖の共同生活、大変でしたね。\nでもキョウカお嬢様とコンビを組めて、私は楽しかったですよ。=Cuộc sống chung bị xích lại thật là vất vả nhỉ.\nNhưng được lập đội với tiểu thư Kyouka, tôi đã thấy rất vui đấy.
+お二人とも、息ピッタリでちたもんね。\nあたちもお供できて、楽ちかったでしゅ。=Cả hai người đã phối hợp rất ăn ý mà.\nEm cũng được đi cùng nên thấy vui lắm ạ.
+ふふ……たしかに、今となってはいい思い出なのかも？\n最後は、みんなで力を合わせて乗り越えられたんだし。=Hì hì... đúng là đến bây giờ thì có lẽ đó lại là một kỷ niệm đẹp nhỉ?\nVì cuối cùng mọi người đã cùng chung sức để vượt qua mà.
+今の言葉に感動しました。もう未練はありません。\nみなさん、今までありがとうございました……=Tôi rất cảm động trước những lời vừa rồi. Tôi không còn hối tiếc gì nữa.\nCảm ơn mọi người vì tất cả những gì đã qua...
+えっ、グレイスさん！？\nどうして、消えかかっているんですか……！？=Ơ, chị Grace!?\nTại sao chị lại đang dần tan biến thế kia...!?
+しょ、しょっか……グレイス姉しゃまは幽霊でしゅから。\n今までのことに満足ちて、昇天しゅるのかも……=H-hóa ra là vậy... chị Grace là linh hồn mà.\nCó lẽ chị đã mãn nguyện với mọi chuyện nên sắp thăng thiên rồi...
+そっ、そんな！？\nグレイスさん、いかないで……！=K-không thể nào!?\nChị Grace, đừng đi mà...!
+──というのは嘘なんですけどね。\nビックリしました？=──Đùa thôi mà.\nMọi người bất ngờ lắm đúng không?
+──というと思いました。\nずっと隣にいたんですから、もうおふざけはお見通しですよ。=Em biết ngay là chị sẽ nói thế mà.\nVì đã luôn ở bên cạnh chị suốt nên em nhìn thấu mấy trò đùa của chị rồi.
+あら。こっちが一本取られてしまいましたね。\n流石はキョウカお嬢様です。=Ôi chao. Lần này tôi thua rồi nhỉ.\nQuả không hổ danh là tiểu thư Kyouka.
+どうしてグレイスさんが誇らしげなんですか。\nもう……ふふ。=Tại sao chị Grace lại tỏ vẻ tự hào thế chứ.\nThật là... hì hì.
+お二人とも、すっかりいいコンビでしゅ。\n……あっ、今年の春はふしんしゃさんが湧くだけじゃなくて、\nきっと出会いの季節でもあったんでしゅね。=Hai người đúng là một cặp bài trùng hoàn hảo.\n...À, mùa xuân năm nay không chỉ có kẻ khả nghi xuất hiện,\nmà chắc chắn còn là mùa của những cuộc hội ngộ nữa nhỉ.
+ルルィ、上手いこと言いますね。\nキョウカお嬢様、座布団もってきて。=Rurui, nói hay lắm.\nTiểu thư Kyouka, mang cho em ấy một tấm đệm ngồi đi nào.
+もってこないですよ。最終日もこの調子なんですか？\nもうふざけてないで、おつかいにいきますよ。=Em không mang đâu. Đến ngày cuối cùng rồi mà vẫn thế này sao?\nĐừng có đùa giỡn nữa, đi mua đồ thôi.
+いつもありがとうございます！\n報酬交換ですか？\nでは、イベント報酬券とお引き換えいたしますね=Cảm ơn bạn như mọi khi!\nBạn muốn đổi phần thưởng sao?\nVậy thì tôi sẽ đổi bằng Phiếu thưởng sự kiện nhé.

@@ -2,7 +2,7 @@
 sr:"^([べ-・ー＆ ]{2,11})(（.+）)? 第(\d+)話を閲覧$"=$1$2 Phần $3
 メインストーリー=Câu chuyện chính
 r:"^第(\d+)部 第(\d+)章 第(\d+)話を閲覧$"=Xem Câu chuyện chính: Phần $1 Chương $2 Tập $3
-r:"^第(\d+)部 第(\d+)章 幕間を閲覧$"=Xem Câu chuyện chính: Phần $1 Chương $2 Phần kết
+r:"^第(\d+)部 第(\d+)章 幕間(.+)?を閲覧$"=Xem Câu chuyện chính: Phần $1 Chương $2 Phần kết
 sr:"^([べ-・ー＆ ]{2,11})(（.+）)?の絆ランクが(\d+)以上$"=Mối quan hệ rank $3 trở lên với $1$2
 
 

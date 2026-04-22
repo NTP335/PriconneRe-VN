@@ -21,6 +21,8 @@ r:"^(\d+)Lv購入$"=Mua $1 Lv
 有償ジュエルを使用してプレミアムパスを購入しますか？=Bạn có muốn sử dụng Jewel trả phí để mua Thẻ Premium không?
 プレミアムパス購入=Mua Thẻ Premium
 
+r:"^パスLvが(\d+)を超えているため購入できません。$"=Không thể mua vì Cấp Pass đã vượt quá $1.
+
 
 繰り返し報酬について=Về phần thưởng lặp lại
 期間中一定ポイントを獲得する度に報酬が獲得できます=Mỗi khi tích lũy đủ một lượng điểm nhất định trong thời gian diễn ra sự kiện, bạn sẽ nhận được phần thưởng.
@@ -78,3 +80,4 @@ r:"^クランバトルに合計(\d+)回挑戦しよう$"=Hãy tham gia Clan Batt
 r:"^覇瞳皇帝の領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng $1 thuộc Lãnh địa của Kaiser Insight.
 r:"^ゼーンの領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng $1 thuộc Lãnh địa của Zane.
 r:"^アラクネの領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng $1 thuộc Lãnh địa của Arachne.
+r:"^バトルスタジアムで★を合計(\d+)個獲得しよう$"=Hãy thu thập tổng cộng $1 ★ trong Battle Stadium

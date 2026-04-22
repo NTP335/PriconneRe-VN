@@ -1,0 +1,25 @@
+姿を消した{playername}を探すリリたちとペコリーヌたち。『現実』へログアウトさせられた可能性に気づき、対応を話し合う中で、地震に見舞われる。同時に、エルピス島でも異常事態が発生していた。=Nhóm Lili và nhóm Pecorine đang ráo riết tìm kiếm {playername} đã biến mất. Trong lúc thảo luận về khả năng anh đã bị đăng xuất về "Thực tại" và bàn bạc cách đối phó, một trận động đất bất ngờ ập đến. Cùng lúc đó, một tình trạng bất thường cũng đang xảy ra tại đảo Elpis.
+
+エルピス島から浮上した巨岩では、幻境竜后の前にフレイヤとリーザ、アルシャトが集う。彼女らは、本来の目的を果たすべくLoAの攻略を画策し、行動を起こす。そんな中、アルシャトは一人妖艶に微笑んだ。=Trên một tảng đá khổng lồ nổi lên từ đảo Elpis, Freyja, Liza và Alshat hội ngộ trước mặt Huyễn Cảnh Long Hậu. Để thực hiện mục đích ban đầu, họ lên kế hoạch công phá LoA và bắt đầu hành động. Giữa lúc đó, Alshat khẽ nở một nụ cười đầy ma mị.
+
+エルピス島の異変で混乱する中、アルシャトはヴルム、そしてクリアを連れ去ってしまう。同じ頃、ジオ・ニヴルヘルに帰還する途中のヴァイオレットたちの前にリーザが現れ、ヴァイオレットの命を狙うが──=Giữa sự hỗn loạn do biến cố tại đảo Elpis, Alshat đã bắt đi Vurm và Clear. Cùng lúc đó, trên đường trở về Geo Nivlhel, Liza bất ngờ xuất hiện trước mặt nhóm Violet và nhắm vào tính mạng của cô, thế nhưng──
+
+アルシャトに連れ去られたクリアは、過去の出来事から引きずっていた罪悪感を暴き出されてしまう。一方、エルピス島に出来た穴から黒灰色のドラゴンの群れが湧き、{playername}は空中で捕食されてしまう。=Clear, người bị Alshat bắt đi, đã bị khơi lại nỗi tội lỗi đeo bám từ những sự kiện trong quá khứ. Trong khi đó, từ một cái hố xuất hiện trên đảo Elpis, đàn rồng xám đen tràn ra và {playername} đã bị chúng nuốt chửng ngay trên không trung.
+
+{playername}が気付くと、見知らぬ空間のベッドの上でアルシャトと共に寝転がっていた。アルシャトは彼女の『恋人たち』が世界を陥落させると宣言し、{playername}にも魔手を伸ばすが――=Khi {playername} tỉnh lại, anh thấy mình đang nằm trên giường cùng với Alshat trong một không gian lạ lẫm. Alshat tuyên bố rằng "những người tình" của cô ta sẽ khiến thế giới này sụp đổ, đồng thời vươn bàn tay ma quái về phía {playername}, nhưng──
+
+心の闇を引きずり出されたヴルムは、ジオ・テオゴニアの心臓部である砂糖細工の中心柱を狙う。ライラエルにさえも抗うほどの力を見せたヴルムだが、割って入ったリンドと感情をぶつけ合わせることになり……=Vurm, người bị khơi dậy bóng tối trong tim, đã nhắm vào cột trụ trung tâm bằng đường - trái tim của Geo Theogonia. Dù thể hiện sức mạnh to lớn đến mức có thể chống lại cả Lyrael, nhưng Vurm đã bị Lind ngăn cản, dẫn đến một cuộc đối đầu mãnh liệt giữa những cảm xúc của cả hai......
+
+アルシャトに捕まった{playername}を助けたネフィ＝ネラだったが、プリンセスナイトの権能で動きを封じられてしまう。{playername}と力を合わせ打破するが、世界規模の窮地は続いていた。=Nephi-Nera đã cứu {playername} khỏi tay Alshat, nhưng cô lại bị quyền năng của Hiệp sĩ Công chúa phong tỏa hành động. Dù cả hai đã hợp lực để vượt qua, nhưng cơn khủng hoảng mang tầm vóc thế giới vẫn tiếp diễn.
+
+肉体を囚われたままで動けない{playername}だったが、ティアからの精神干渉で現状を教えてもらう。そんな中、巨鯨城に攻撃を仕掛けようとするリーザの前にグレイスが立ちはだかっていた。=Dù cơ thể vẫn bị giam cầm không thể cử động, {playername} đã được Tia thông tin về tình hình hiện tại thông qua can thiệp tinh thần. Giữa lúc đó, Grace đã đứng ra ngăn chặn Liza khi cô ta định tấn công vào Pháo đài Cá voi khổng lồ.
+
+『懲役』前の物語。クリアとリリは友だちになってはじめてゲーム世界にダイブする。そこで同じ初心者のプレシアと出会い、３人でギルドを結成する。さらにジョブを決める話になるが……=Một câu chuyện diễn ra trước thời kỳ "Thụ án". Clear và Lili lần đầu tiên thực hiện Dive vào thế giới trò chơi sau khi trở thành bạn của nhau. Tại đó, họ gặp Presia, cũng là một người mới, và cả ba đã cùng nhau thành lập một bang hội. Sau đó, họ bắt đầu thảo luận về việc chọn nghề nghiệp, nhưng......
+
+アルシャトに唆され、ジオ・ゲヘナを襲うクリア。アネモネを手に掛け、さらにリリとも戦うことになってしまう。互いに感情をぶつけ合いながら衝突し、力を使いすぎて消滅しそうになるふたりだったが……=Bị Alshat xúi giục, Clear đã tấn công Geo Gehenna. Cô ra tay với Anemone và thậm chí phải chiến đấu với cả Lili. Cả hai xung đột và trút bỏ mọi cảm xúc vào nhau, đến mức vì sử dụng quá nhiều sức mạnh mà cả hai suýt chút nữa đã tan biến, thế nhưng......
+
+茉莉は「認識の修正」の後遺症に苦しんでいた。美冬に誘われたリダイブに踏み切れない茉莉を、雪は美しくないと指摘する。祈梨にも背中を押され、ヒーローの心を取り戻した茉莉たちは再びLoAへ向かう。=Matsuri đang phải chịu đựng di chứng từ việc "Sửa đổi nhận thức". Trước một Matsuri không dám thực hiện Redive dù được Mifuyu mời gọi, Yuki đã chỉ trích rằng cô ấy không hề xinh đẹp. Được cả Inori khích lệ, nhóm Matsuri đã tìm lại được trái tim của một người hùng và một lần nữa hướng tới LoA.
+
+互いがゾンビに見える幻覚の罠に翻弄されるアンとグレア、ヴァンピィとメドゥーサは２対２の戦いを始めてしまう。ルゥの活躍で幻覚が解けると、戦いの中で培った絆で敵を撃破し、さらなる友情を深めていく。=Bị rơi vào bẫy ảo giác khiến đôi bên nhìn nhau như những thây ma, Anne và Grea cùng với Vampy và Medusa đã lao vào một trận chiến 2 chọi 2. Nhờ sự nỗ lực của Lou mà ảo giác được hóa giải, họ đã dùng sợi dây liên kết hình thành trong trận chiến để tiêu diệt kẻ thù và thắt chặt thêm tình bạn.
+
+フブキに連れ去られた{playername}を取り戻すため、ジオ・ゲヘナの砦でヤマトと勝負することになったアイラ。激闘の末、最後の飲み比べ対決で意気投合した二人は奇妙な友情を芽生えさせるのだった。=Để cứu {playername} bị Fubuki bắt đi, Aira đã quyết đấu với Yamato tại pháo đài của Geo Gehenna. Sau trận chiến khốc liệt, cả hai đã tìm thấy sự đồng điệu trong cuộc thi tửu lượng cuối cùng, từ đó nảy mầm một tình bạn kỳ lạ.

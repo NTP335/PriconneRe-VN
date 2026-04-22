@@ -131,3 +131,7 @@ r:"^([0-9.]+)年メモリーピース交換チケット$"=$1 Vé đổi mảnh k
 r:"^([0-9.]+)周年セレクトガチャ$"=Gacha tự chọn kỷ niệm $1th năm
 
 ウマ娘「The Game Awards 2025」受賞記念★3確定ガチャチケット=Vé Gacha chắc chắn ★3 kỷ niệm Uma Musume nhận giải "The Game Awards 2025"
+
+
+r:"^イベントクエスト（(.+)）クリアで獲得したアイテムです。$"=Vật phẩm nhận được khi hoàn thành Nhiệm vụ Sự kiện ($1).
+所持上限を超えて獲得した復刻イベントログインボーナスの報酬です。=Phần thưởng từ Bonus đăng nhập sự kiện tái bản nhận được vượt quá giới hạn sở hữu.

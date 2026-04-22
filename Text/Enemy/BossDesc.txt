@@ -2675,3 +2675,7 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 自身の物理攻撃力と魔法攻撃力をバトル終了まで小アップさせ、物理防御力と魔法防御力をバトル終了まで中アップさせる。=Tăng nhẹ tấn công vật lý và ma thuật của bản thân cho đến khi kết thúc trận đấu, đồng thời tăng vừa phòng thủ vật lý và ma thuật cho đến khi kết thúc trận đấu.
 アルファ・レガリアスから受けるすべての状態異常とステータスダウン効果は、ダメージを無効化しても付与される。=Mọi trạng thái bất thường và hiệu ứng giảm chỉ số nhận từ Alpha Regalias đều sẽ bị áp đặt ngay cả khi sát thương bị vô hiệu hóa.
 アルファ・レガリアスから受けるすべてのダメージで発生する、パーティキャラのＴＰ回復量を特大ダウンさせる。=Giảm cực đại lượng hồi TP của các nhân vật trong đội phát sinh từ mọi sát thương nhận từ Alpha Regalias.
+
+
+バトル中、「継続ＴＰ回復」効果が発動する。=Trong trận đấu, kích hoạt hiệu ứng "Hồi phục TP liên tục".
+バトル開始時、すべてのモンスターに継続ＴＰ小回復状態を付与する。=Khi bắt đầu trận đấu, ban cho toàn bộ quái vật trạng thái hồi phục nhẹ TP liên tục.
