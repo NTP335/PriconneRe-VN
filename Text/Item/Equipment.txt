@@ -769,3 +769,11 @@ sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 của $1."
 人魚姫の霊涙Ｒ=Linh lệ Nhân ngư R
 赫怒竜のペンダントＲ=Dây chuyền Hách nộ Long R
 聖獣の祈念Ｒ=Lời cầu nguyện của Thánh thú R
+
+
+鬼焔の闘衣Ｒ=Quỷ Diễm Đấu Y R
+レイジクイーンドレスＲ=Rage Queen Dress ＲＲ
+エクゾマギアローブＲ=Exomagia Robe Ｒ
+煌金の王鎧Ｒ=Hoàng Kim Vương Giáp R
+ブラッドルビーヒールＲ=Bloodruby Heels Ｒ
+ロイヤルガードハットＲ=Royal Guard Hat Ｒ

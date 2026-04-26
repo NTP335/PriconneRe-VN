@@ -2679,3 +2679,23 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 
 バトル中、「継続ＴＰ回復」効果が発動する。=Trong trận đấu, kích hoạt hiệu ứng "Hồi phục TP liên tục".
 バトル開始時、すべてのモンスターに継続ＴＰ小回復状態を付与する。=Khi bắt đầu trận đấu, ban cho toàn bộ quái vật trạng thái hồi phục nhẹ TP liên tục.
+
+召喚体無視・必中=Bỏ qua vật triệu hồi・Chắc chắn trúng.
+敵全体に物理／魔法クリダメダウン（飛行効果無視・必中）=Giảm Sát thương Chí mạng Vật lý/Ma pháp của toàn bộ kẻ địch (Bỏ qua hiệu ứng bay・Chắc chắn trúng).
+前方範囲に移動速度ダウン（飛行効果無視・必中）=Giảm tốc độ di chuyển trong phạm vi phía trước (Bỏ qua hiệu ứng bay・Chắc chắn trúng).
+飛行効果無視・必中=Bỏ qua hiệu ứng bay・Chắc chắn trúng.
+敵の数が少ないほど：ダウン量上昇=Số lượng kẻ địch càng ít: Lượng giảm càng tăng.
+
+レイスコレクター=Wraith Collector.
+武具に取り憑き、手足のように操る魔物。堅牢な装甲と巨大な魔剣で冒険者を苦しめる。=Quái vật ám vào vũ khí và áo giáp, điều khiển chúng như chân tay. Nó hành hạ các mạo hiểm giả bằng lớp giáp kiên cố và thanh ma kiếm khổng lồ.
+自身が継続ダメージ状態ではない：攻撃力アップ量上昇=Bản thân không trong trạng thái chịu sát thương duy trì: Lượng tăng Tấn công càng tăng.
+最もＨＰ割合が低い敵のＨＰ割合が低いほど：束縛時間アップ=Tỉ lệ HP của kẻ địch có tỉ lệ HP thấp nhất càng thấp: Thời gian trói buộc càng tăng.
+物理か魔法攻撃力が最も高い敵１体に物理／魔法与ダメージダウン、呪詛（必中）=Giảm Sát thương Vật lý/Ma pháp gây ra và gây Nguyền rủa (Chắc chắn trúng) lên 1 kẻ địch có Tấn công Vật lý hoặc Ma pháp cao nhất.
+敵全体に呪い=Gây Lời nguyền lên toàn bộ kẻ địch.
+棄てられたモノの怨念より生まれた悪霊。怨む者の心臓を狙い定め、呪いの釘を打ち込む。=Ác linh sinh ra từ oán niệm của những vật bị vứt bỏ. Nó nhắm thẳng vào trái tim của kẻ bị oán hận và đóng vào đó những chiếc đinh nguyền rủa.
+自身に被クリダメアップ=Tăng Sát thương Chí mạng phải nhận cho bản thân.
+自身にブレイク無効=Kháng Break cho bản thân.
+敵全体に物理／魔法クリティカルダウン=Giảm Chí mạng Vật lý/Ma pháp của toàn bộ kẻ địch.
+対象のＨＰ割合が低いほど：アップ量上昇=Tỉ lệ HP của mục tiêu càng thấp: Lượng tăng càng tăng.
+
+召喚体、分身を除いた最も遠い敵２キャラに物理小ダメージを与え、物理防御力を大ダウンさせる。このスキルの効果はダメージを無効化しても付与される。=Gây sát thương vật lý nhỏ lên 2 kẻ địch xa nhất (ngoại trừ vật triệu hồi và phân thân) và giảm mạnh Phòng thủ Vật lý của chúng. Hiệu ứng của kỹ năng này vẫn được áp dụng ngay cả khi sát thương bị vô hiệu hóa.

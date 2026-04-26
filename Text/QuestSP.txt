@@ -111,7 +111,7 @@ auto限定=Chỉ tự động
 
 ミスト・イン・リビングデッド=Sương Mù Trong Người Sống Chết
 《EX》危険な魔物・懶獣=《EX》 Quái Vật Nguy Hiểm: Raiju
-
+《EX》危険な魔物・鬼騎兵=《EX》 Ma vật nguy hiểm: Quỷ Kỵ Binh
 《EX》危険な魔物・雷鳥ふたたび=《EX》 Quái Vật Nguy Hiểm Thunderbird Lại Nữa
 凸凹楽団三重奏=Bộ Ba Dãy Bất Thường
 

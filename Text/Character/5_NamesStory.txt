@@ -531,6 +531,9 @@ TYPE-P・シャドウP=Shadow P Loại P
 コボルトの男性=Kobold đàn ông
 ドレイドラゴン=Dragon Slave
 
+リマ？=Lima?
+イロハ？=Iroha?
+
 ライラエル・イオ=Lyrael & Io
 チカ・ノゾミ・ツムギ=Chika & Nozomi & Tsumugi
 アヤネ・ミミ・ミソギ=Ayane & Mimi & Misogi
