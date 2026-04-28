@@ -4,12 +4,14 @@
 ##UB##
 フレンドリーコンボショット=Friendly Combo Shot
 前方の最も遠い敵を中心に、範囲内の敵すべてを行動する度にダメージを与える毒状態にし、行動速度を小ダウンさせ、さらに物理防御力を特大ダウンさせるフィールドを展開する。=Triển khai một vùng hiệu ứng xung quanh kẻ thù xa nhất, gây Độc lên kẻ thù trong phạm vi và gây sát thương mỗi khi chúng thực hiện hành động, giảm nhẹ tốc độ hành động của chúng và giảm mạnh phòng thủ vật lý của chúng.
-r:"^行動する度に(\d+)ダメージを与える毒状態にするフィールドを展開する敵の行動速度を低下させるフィールドを展開するフィールド内の敵の物理防御力(\d+)ダウン$"=►Triển khai vùng hiệu ứng bán kính 250 xung quanh kẻ thù xa nhất,:\n►Gây Độc lên kẻ thù trong phạm vi, gây $1 sát thương mỗi hành động của kẻ thù trong 18 giây.\n►Giảm tốc độ hành động của kẻ thù trong phạm vi còn 80% trong 18 giây.\n►Giảm phòng thủ vật lý của kẻ thù trong phạm vi đi $2 trong 18 giây.
+r:"^行動する度に(\d+)ダメージを与える毒状態にするフィールドを展開する敵の行動速度を20％ダウンさせるフィールドを展開するフィールド内の敵の物理防御力(\d+)ダウン$"=►Triển khai một vùng không gian khiến kẻ địch chịu trạng thái Độc, gây $1 sát thương mỗi khi chúng hành động.\n►Triển khai một vùng không gian làm giảm 20％ tốc độ hành động của kẻ địch trong đó.\n►Giảm $2 Phòng thủ Vật lý của kẻ địch bên trong vùng không gian.
+
+
 
 ##S1##
 ポイゾナスバレット=Poisonous Bullet
 目の前の敵１キャラを中心とした範囲内の敵すべてに物理小ダメージを与え、毒状態にし、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý nhỏ lên kẻ thù trong phạm vi, gây Độc lên chúng, và cũng giảm phòng thủ vật lý của chúng một chút.
-r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên kẻ thù trong phạm vi 300.\n►Gây Độc lên kẻ thù trong phạm vi 300, gây $2/giây trong 24 giây.\n►Giảm phòng thủ vật lý của kẻ thù trong phạm vi 300 đi $3 trong 12 giây.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする範囲内の敵の物理防御力を(\d+)ダウン$"=Thời gian triển khai: 0.465s\n►Gây $1 sát thương vật lý lên kẻ thù trong phạm vi 300.\n►Gây Độc lên kẻ thù trong phạm vi 300, gây $2/giây trong 24 giây.\n►Giảm phòng thủ vật lý của kẻ thù trong phạm vi 300 đi $3 trong 12 giây.
 
 ##S2##
 スタンバレット=Stun Bullet
@@ -22,7 +24,13 @@ r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒
 ##S1+##
 ポイゾナスバレット+=Poisonous Bullet+
 目の前の敵１キャラを中心とした範囲内の敵すべてに物理小ダメージを与え、毒状態にし、さらに物理防御力を小ダウンさせる。さらに対象が毒状態の場合、物理中ダメージを与える。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi, khiến họ bị ngộ độc và giảm phòng thủ vật lý của họ một chút. Ngoài ra, nếu kẻ địch đã bị ngộ độc, gây sát thương vật lý trung bình.
-r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする範囲内の敵の物理防御力を(\d+)ダウン敵が毒状態の時、範囲内の敵に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 300.\n►Khiến kẻ địch trong phạm vi 300 bị ngộ độc, gây $2/s trong 24s.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi 300 đi $3 trong 12s.\n►Nếu kẻ địch trong phạm vi đã bị ngộ độc, gây $4 sát thương vật lý cho kẻ địch trong phạm vi 300.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする範囲内の敵の物理防御力を(\d+)ダウン敵が毒状態の時、範囲内の敵に(\d+)の物理ダメージ$"=Thời gian triển khai: 0.465s\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 300.\n►Khiến kẻ địch trong phạm vi 300 bị ngộ độc, gây $2/s trong 24s.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi 300 đi $3 trong 12s.\n►Nếu kẻ địch trong phạm vi đã bị ngộ độc, gây $4 sát thương vật lý cho kẻ địch trong phạm vi 300.
 
 ##UE##
 トイスリングショット=Toy Slingshot
+だいじょぶマイフレンドくんV４=Đừng-lo-lắng-bạn-tôi-ơi V4
+
+
+スタンバレット+=Stand Bullet+
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせ、さらに麻痺状態にする。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi lấy 1 kẻ địch trước mắt làm trung tâm, giảm nhẹ Phòng thủ Vật lý, tăng nhẹ sát thương phải nhận khi chịu đòn chí mạng, và gây thêm trạng thái tê liệt.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを8％アップ範囲内の敵を一定時間行動不能にする$"=Thời gian triển khai: 0.465 giây\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 300.\n►Giảm $2 Phòng thủ Vật lý của kẻ địch trong phạm vi 300 trong 12 giây.\n►Tăng 8％ sát thương chí mạng phải nhận của kẻ địch trong phạm vi 300 trong 12 giây.\n►Khiến kẻ địch trong phạm vi 300 không thể hành động trong thời gian nhất định.

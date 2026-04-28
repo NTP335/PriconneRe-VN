@@ -27,13 +27,6 @@ Suzuna
 目の前の敵１キャラに物理中ダメージを１回、物理小ダメージを２回与える。このスキルの１ヒットのダメージは必ずクリティカルし、クリティカル時のダメージが３倍になる。=Gây sát thương vật lý vừa 1 lần và sát thương vật lý nhỏ 2 lần lên 1 kẻ địch trước mặt. Mỗi lần đánh (hit) của kỹ năng này chắc chắn sẽ bạo kích và sát thương bạo kích được nhân 3 lần.
 r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージクリティカルでダメージを与えるたびに敵単体に最大50万の物理割合ダメージを与える状態になる$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Rơi vào trạng thái gây sát thương vật lý theo tỷ lệ (tối đa 500,000) mỗi khi gây sát thương bạo kích.
 
-Kasumi
-ルートオブバインド++=Đường Dây Trói Buộc++
-前方範囲内の敵すべてに魔法中ダメージを与え、束縛し、自分に【証拠】を１つ付与する。【証拠】は最大５つまで付与される。その後、【証拠】が５つの場合、前方範囲内の敵すべてに魔法中ダメージを与え、クリティカルを受けた際のダメージを小アップさせ、物理・魔法攻撃力アップ効果を解除する。範囲内の敵の数に応じて、束縛時間、ダメージ、【証拠】の付与数が増加する。このスキルは必ずクリティカルする。=Gây sát thương ma pháp vừa lên toàn bộ kẻ địch trong phạm vi phía trước, trói buộc chúng và nhận 1 tầng 【Bằng Chứng】. 【Bằng Chứng】 có thể cộng dồn tối đa 5 tầng. Sau đó, nếu đã có đủ 5 tầng 【Bằng Chứng】, gây thêm sát thương ma pháp vừa lên toàn bộ kẻ địch phía trước, tăng nhẹ sát thương bạo kích mà chúng phải gánh chịu, đồng thời xóa bỏ các hiệu ứng tăng Tấn công Vật lý và Tấn công Ma pháp của chúng. Dựa vào số lượng kẻ địch trong phạm vi, thời gian trói buộc, sát thương và số lượng tầng 【Bằng Chứng】 nhận được sẽ tăng lên. Kỹ năng này chắc chắn sẽ bạo kích.
-
-前方範囲内の敵全てに魔法小ダメージを与え、さらに束縛し、自分に【証拠】を１つ付与する。【証拠】は最大５つまで付与される。範囲内の敵の数に応じて、束縛時間が増加する。=Gây sát thương ma pháp nhỏ lên toàn bộ kẻ địch trong phạm vi phía trước, trói buộc chúng và nhận 1 tầng 【Bằng Chứng】. 【Bằng Chứng】 có thể cộng dồn tối đa 5 tầng. Dựa vào số lượng kẻ địch trong phạm vi, thời gian trói buộc sẽ tăng lên.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする自分に証拠を１つ付与する$"=►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi.\n►Khiến kẻ địch trong phạm vi không thể hành động trong một khoảng thời gian.\n►Nhận 1 [Bằng Chứng] cho bản thân.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする自分に証拠を１つ付与する証拠が５つの場合、以下の効果が発動する範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の被クリダメを8％アップ範囲内の敵の攻撃力アップ効果を解除する$"=►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi.\n►Khiến kẻ địch trong phạm vi không thể hành động trong một khoảng thời gian.\n►Nhận 1 [Bằng Chứng] cho bản thân.\n\nNếu [Bằng Chứng] đạt 5 tầng:\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi.\n►Tăng 8% sát thương bạo kích phải nhận cho kẻ địch trong phạm vi.\n►Xóa bỏ hiệu ứng tăng Tấn công của kẻ địch trong phạm vi.
 
 Miyako
 う～ら～め～し～や～なの++=Ura~me~shi~ya~nano++

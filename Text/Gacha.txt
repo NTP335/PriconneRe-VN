@@ -1,5 +1,6 @@
 枚数選択=Chọn
-
+使用できない文言が含まれています。=Chứa từ ngữ không thể sử dụng.
+購入が完了しました。=Đã hoàn tất mua hàng.
 カムバック スペシャルフェス=Trả về SpecialFes
 ムバック スペシャルフェス=-Ching: Trả về SpecialFes
 ガチャ結果=Kết Quả Gacha

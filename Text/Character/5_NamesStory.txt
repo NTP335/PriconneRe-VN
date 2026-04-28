@@ -1,4 +1,4 @@
-In Real World Name
+fIn Real World Name
 ユースティアナ・フォン・アストライア=Eustiana von Astraea
 アストライア=Astraea
 ユースティアナ=Eustiana
@@ -557,6 +557,7 @@ TYPE-P・シャドウP=Shadow P Loại P
 リリ・クリア・ワカナ=Riri & Quria & Wakana
 クリア・リリ・プレシア=Quria và Riri và Precia
 
+ミホ・マホ・エリカ=Miho & Maho & Erica
 
 ユキノ・サツキ=Yukino và Satsuki
 カスミ・イノリ=Kasumi và Inori
