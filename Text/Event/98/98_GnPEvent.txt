@@ -1,0 +1,97 @@
+戦車、作ります！=Cùng chế tạo xe tăng nào!
+
+専用=Chuyên dụng
+ステップ1のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Bước 1
+加入します！=Gia nhập!
+育成ミッションは、特定の条件を達成することで報酬が獲得できる\n期間限定のミッションでございます。ステップごとに設定された\nミッションを全て達成すると、次のステップに進めますよ。=Nhiệm vụ đào tạo là các nhiệm vụ có hạn thời gian, nơi bạn có thể nhận phần thưởng bằng cách hoàn thành các điều kiện cụ thể.\nSau khi hoàn thành tất cả nhiệm vụ được thiết lập cho mỗi bước, bạn sẽ có thể tiến sang bước tiếp theo.
+イベントに1日ログインしよう=Hãy đăng nhập vào sự kiện trong 1 ngày
+アストルム、始めます！=Astrum, bắt đầu thôi!
+ミホ（ガルパン）のユニオンバースト=Union Burst của Miho (GuP)
+
+専用10回ガチャチケットを消費してガチャを10回引きます。=Tiêu hao Vé Gacha 10 lượt chuyên dụng để thực hiện 10 lượt quay.
+マホ（ガルパン）ピックアップガチャ=Gacha Pick-up Maho (GuP)
+無料でガチャを10回引きます。=Thực hiện 10 lượt quay Gacha miễn phí.
+
+
+育成ミッション=Nhiệm vụ đào tạo
+イベント報酬券を500枚消費しよう=Hãy tiêu hao 500 Phiếu thưởng sự kiện
+探索を4回クリアしよう=Hãy vượt ải Thám hiểm 4 lần
+イベントに2日ログインしよう=Hãy đăng nhập vào sự kiện trong 2 ngày
+イベントクエストを30回クリアしよう=Hãy vượt ải Sự kiện 30 lần
+イベント報酬券を1500枚消費しよう=Hãy tiêu hao 1500 Phiếu thưởng sự kiện
+ミホ（ガルパン）のキャラクターストーリー第1話を閲覧しよう=Hãy xem Truyện nhân vật Miho (GuP) chương 1
+キャラのLvを合計で100回上げよう=Hãy tăng cấp nhân vật tổng cộng 100 lần
+キャラのRANKを合計で10回上げよう=Hãy tăng RANK nhân vật tổng cộng 10 lần
+探索を8回クリアしよう=Hãy vượt ải Thám hiểm 8 lần
+ダンジョンに2回挑戦しよう=Hãy khiêu chiến Dungeon 2 lần
+バトルアリーナで5回戦おう=Hãy chiến đấu 5 lần tại Battle Arena
+ステップ2のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Bước 2
+プリンセスアリーナで5回戦おう=Hãy chiến đấu 5 lần tại Princess Arena
+イベントクエストを100回クリアしよう=Hãy vượt ải Sự kiện 100 lần
+イベントに5日ログインしよう=Hãy đăng nhập vào sự kiện trong 5 ngày
+ミホ（ガルパン）のキャラクターストーリー第2話を閲覧しよう=Hãy xem Truyện nhân vật Miho (GuP) chương 2
+マホ（ガルパン）を編成してイベントボス(SCENARIO)を撃破しよう=Hãy đưa Maho (GuP) vào đội hình và đánh bại Boss sự kiện (SCENARIO)
+イベント報酬券を2000枚消費しよう=Hãy tiêu hao 2000 Phiếu thưởng sự kiện
+キャラのRANKを合計で20回上げよう=Hãy tăng RANK nhân vật tổng cộng 20 lần
+キャラのLvを合計で200回上げよう=Hãy tăng cấp nhân vật tổng cộng 200 lần
+探索を20回クリアしよう=Hãy vượt ải Thám hiểm 20 lần
+ダンジョンに5回挑戦しよう=Hãy khiêu chiến Dungeon 5 lần
+バトルアリーナで15回戦おう=Hãy chiến đấu 15 lần tại Battle Arena
+ステップ3のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Bước 3
+プリンセスアリーナで15回戦おう=Hãy chiến đấu 15 lần tại Princess Arena
+イベントクエストを150回クリアしよう=Hãy vượt ải Sự kiện 150 lần
+イベントに10日ログインしよう=Hãy đăng nhập vào sự kiện trong 10 ngày
+ミホ（ガルパン）を編成してイベントボス(SCENARIO)を撃破しよう=Hãy đưa Miho (GuP) vào đội hình và đánh bại Boss sự kiện (SCENARIO)
+キャラのLvを合計で300回上げよう=Hãy tăng cấp nhân vật tổng cộng 300 lần
+キャラ의 RANKを合計で30回上げよう=Hãy tăng RANK nhân vật tổng cộng 30 lần
+ミホ（ガルパン）のキャラクターストーリー第4話を閲覧しよう=Hãy xem Truyện nhân vật Miho (GuP) chương 4
+EX装備を10回上限解放しよう=Hãy giải phóng giới hạn Trang bị EX 10 lần
+ミホ（ガルパン）に通常枠のEX装備を3つ装備させよう=Hãy trang bị 3 Trang bị EX ô thường cho Miho (GuP)
+ダンジョンに10回挑戦しよう=Hãy khiêu chiến Dungeon 10 lần
+探索を40回クリアしよう=Hãy vượt ải Thám hiểm 40 lần
+プリンセスアリーナで30回戦おう=Hãy chiến đấu 30 lần tại Princess Arena
+バトルアリーナで30回戦おう=Hãy chiến đấu 30 lần tại Battle Arena
+ステップ4のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Bước 4
+ミホ（ガルパン）のユニオンバースト=Union Burst của Miho (GuP)
+
+ボスバトル（SPECIAL）を解放すると確認できます。=Có thể xác nhận sau khi giải phóng Trận đấu Boss (SPECIAL).
+ボスバトル（SCENARIO）を解放すると確認できます。=Có thể xác nhận sau khi giải phóng Trận đấu Boss (SCENARIO).
+
+
+
+大洗女子学園の、西住みほです。この世界にやってきたばっかりで、分からないことも多いけど……こんなに素敵な世界で冒険できるなんて、夢みたい……♪みなさんと一緒に戦えるように、一生懸命がんばりますね！そのためにもまずは、魔法を上手に使えるようにならなくちゃ。それから戦車にも乗りたい……けど.まずは、そのっ。よろしく、お願いします……！=Mình là Miho Nishizumi đến từ Học viện nữ sinh Oarai. Vì mới đặt chân đến thế giới này nên vẫn còn nhiều điều mình chưa rõ... nhưng được phiêu lưu trong một thế giới tuyệt vời thế này, cứ như là mơ vậy... ♪ Mình sẽ cố gắng hết sức để có thể chiến đấu cùng mọi người! Trước hết, mình phải học cách sử dụng ma pháp thật giỏi đã. Và cả... mình cũng muốn được lái xe tăng nữa... nhưng mà trước tiên, ừm thì. Rất mong nhận được sự giúp đỡ của mọi người...!
+育成ミッションは、特定の条件を達成することで報酬が獲得できる期間限定のミッションでございます。ステップごとに設定されたミッションを全て達成すると、次のステップに進めますよ。=Nhiệm vụ đào tạo là các nhiệm vụ có hạn thời gian, nơi bạn có thể nhận phần thưởng bằng cách hoàn thành các điều kiện cụ thể. Sau khi hoàn thành tất cả nhiệm vụ của mỗi bước, bạn sẽ có thể tiến sang bước tiếp theo.
+イベントに1日ログインしよう=Hãy đăng nhập vào sự kiện trong 1 ngày
+アストルム、始めます！=Astrum, bắt đầu thôi!
+想定外の事象が発生したな…だがいかなる苦境も切り抜けてみせるいつもの自分とは違う姿になってもわたしはわたし、西住流だ=Một sự việc ngoài dự tính đã xảy ra... nhưng dù trong hoàn cảnh khó khăn nào, ta cũng sẽ vượt qua. Cho dù có mang hình dáng khác với thường ngày, ta vẫn là ta, là phái Nishizumi.
+何でこんなことになっているのか全然わからないけど、迷ってる暇はないわ。黒森峰の次期隊長として、前進あるのみ！　これも戦車道よ！=Ta hoàn toàn không hiểu tại sao chuyện lại thành ra thế này, nhưng không có thời gian để do dự đâu. Với tư cách là đội trưởng kế nhiệm của Kuromorimine, chỉ có một con đường là tiến về phía trước! Đây cũng chính là Thiết Giáp Đạo!
+違う世界に来ちゃうし、驚きの連続だけど…わたしも精いっぱい頑張ります！アストルムのみんなと一緒に！=Lạc đến một thế giới khác, hết bất ngờ này đến bất ngờ khác... nhưng mình cũng sẽ cố gắng hết sức mình! Cùng với tất cả mọi người ở Astrum!
+
+
+
+
+
+
+わたしと、もっと長く、ずっとそばにいて…とか…\n今からしてあげるって…えっ？　い、いいの…？\nえへへ…おみくじに書いてた通りになっちゃった…♪\n=Hãy ở bên cạnh em lâu hơn nữa, mãi mãi... kiểu như vậy... \nAnh bảo sẽ thực hiện cho em ngay bây giờ ư... Ơ? Th-thật sao anh...?\nE hế hế... đúng y như những gì viết trong quẻ xăm rồi... ♪
+もう幸せ？　でも、それだとわたし、何をしたら…\n逆にして欲しいこと？　う～ん、わたしから騎士クンに\nしてもらいたいこと…ホントはいっぱいあるけど…\n=Anh đã thấy hạnh phúc rồi sao? Nhưng nếu vậy thì em nên làm gì đây...\nNgược lại, điều mà em muốn anh làm cho em ư? Ừm, điều em muốn anh hiệp sĩ làm cho em... thực ra thì có nhiều lắm, nhưng mà...
+今年も騎士クンと一緒にお正月を過ごせて、嬉しかった\nわたしはそれだけでも、すごく幸せだから…\nわたしも、騎士クンのこと同じくらい幸せにしたいな\n=Năm nay lại được cùng anh hiệp sĩ đón Tết, em vui lắm.\nChỉ bấy nhiêu thôi đã khiến em thấy vô cùng hạnh phúc rồi...\nEm cũng muốn làm cho anh hiệp sĩ được hạnh phúc giống như vậy.
+ひゃっ！　少し冷えてきたね…温かくしてくれるの？\n後ろを向いてって、こう？　…えっ！？　騎士クン！？\n抱き締められたら、身動きが… farm…ありがとう…！\n=Á! Trời bắt đầu lạnh rồi nhỉ... Anh sẽ sưởi ấm cho em sao?\nBảo em quay lưng lại thế này ư? ...Ơ!? Anh hiệp sĩ!?\nĐược anh ôm thế này em chẳng cử động được luôn... nhưng mà... cảm ơn anh nhé...!
+騎士クンのおみくじもいい結果だったし、\n今年は去年以上のいい年にしたいよね。わたしも…\nこ、今年こそ騎士クンと…む、むす…難しいよぉ～！\n=Quẻ xăm của anh hiệp sĩ cũng có kết quả tốt, nên chúng ta hãy cùng biến năm nay thành một năm tuyệt vời hơn cả năm ngoái nhé. Em cũng... \nN-năm nay nhất định sẽ cùng anh hiệp sĩ... k-kế... kết... khó nói quá đi à~!
+お正月はゆっくりできた？　わたしは…忙しかったな\n何もしないでいるとつい食べすぎちゃって、太…\nか、体が大きくなるから、よく動くようにしてるの！\n=Tết vừa rồi anh có được thảnh thơi không? Em thì... khá là bận đấy.\nHễ không làm gì là em lại lỡ ăn quá nhiều, rồi b-béo... à không, người sẽ to ra nên em đang cố gắng vận động thật nhiều đây!
+…それにね？　わたしのお願いは\nもう半分以上、叶ってる気がするの\nこうして今、騎士クンのそばにいられるから\n=...Với lại anh biết không?\nEm cảm thấy điều ước của mình đã thành hiện thực được hơn một nửa rồi.\nBởi vì giờ đây em đang được ở bên cạnh anh hiệp sĩ như thế này.
+だって…言い伝えがあるから\nお願いの内容を誰かに言ったら\n叶わなくなるって。だから…\n=Tại vì... có lời truyền miệng rằng\nnếu nói ra nội dung điều ước cho ai đó biết\nthì nó sẽ không linh nghiệm nữa. Thế nên...
+神殿のお参りでどんなお願いをしたか…？\nそんなの言えないよ…！　あっ！\n違うの！　これだけは秘密にしておきたくて！\n=Em đã ước gì khi đi lễ đền ư...?\nChuyện đó em không nói được đâu...! Á!\nKhông phải đâu! Chỉ là riêng điều này em muốn giữ bí mật thôi!
+お餅もお年玉も、喜んでもらえてよかった\nみんな騎士クンのことが、大好きなんだね\n…あ、あのね！　わ、わ、わ…！　ぷしゅ～…\n=Thật tốt khi mọi người đều vui vẻ với bánh dày và tiền lì xì.\nMọi người ai cũng yêu quý anh hiệp sĩ hết nhỉ.\n...À, anh này! E-e-em...! phììì... (tiếng xì khói vì xấu hổ)
+初日の出がどうしてキレイに見えたのか…\n騎士クンはどうしてだと思う？　わたしは…\nみんなで見たからだと思うな！　うん！\n=Tại sao bình minh đầu năm lại trông đẹp đến vậy nhỉ...\nAnh hiệp sĩ nghĩ là vì sao? Em thì...\nEm nghĩ là vì chúng ta đã cùng nhau ngắm nhìn đấy! Ừm!
+騎士クン。よかったらまた一緒に、お餅作らない？\n今度はみんなも呼んで、たくさん作りたいな…\n美味しいものは、やっぱりみんなで食べたいよね！\n=Anh hiệp sĩ ơi. Nếu được thì chúng mình lại cùng nhau làm bánh dày tiếp nhé?\nLần tới em muốn gọi cả mọi người đến để làm thật nhiều... \nĐồ ăn ngon thì quả nhiên phải ăn cùng mọi người mới tuyệt nhất anh nhỉ!
+これからの一年、もしも騎士クンに何かあったら、\n今度はわたしが助けるから。どんなことが起きても\nだから…もっと、一緒にいさせて欲しいの…！\n=Trong một năm tới, nếu có chuyện gì xảy ra với anh hiệp sĩ,\nthì lần này em sẽ là người bảo vệ anh. Bất kể chuyện gì xảy ra đi nữa.\nThế nên... em muốn được ở bên anh nhiều hơn nữa...!
+…あのね。あの時すぐにわたしを助けようと\nしてくれて、ありがとう。騎士クンならきっと\nなんとかしてくれるって、信じてた\n=...Anh này. Cảm ơn anh vì lúc đó đã ngay lập tức\nđịnh cứu giúp em nhé. Em đã luôn tin rằng nếu là anh hiệp sĩ\nthì nhất định anh sẽ có cách giải quyết mà.
+あううぅ～…ごめんなさい…\nわたし、また騎士クンに迷惑かけちゃった…\n誤解が解けて、本当によかったよ…\n=Ây da... em xin lỗi...\nEm lại làm phiền anh hiệp sĩ nữa rồi...\nHiểu lầm được hóa giải, thật là may quá đi...
+さっきはごめんね！　もう熱くない？　平気？\nよかった…そうだ。実は今から行かなきゃいけない\nところがあって…ついてきてくれる？\n=Xin lỗi anh chuyện lúc nãy nhé! Anh hết nóng chưa? Có sao không?\nMay quá... Đúng rồi. Thực ra bây giờ em có nơi này cần phải đi...\nAnh đi cùng em nhé?
+初日の出、とってもキレイだったね…\n一緒に見られて、すごくうれしかった！\n…そう！　みんなで見たのが、うれしかったの！\n=Bình minh đầu năm đẹp thật anh nhỉ...\nĐược cùng anh ngắm nhìn, em vui lắm!\n...Đúng vậy! Em thấy vui vì mọi người đã cùng nhau ngắm đấy!
+
+育む二人とつなぐ味=Hương vị kết nối đôi ta
+あなたの成長がくれた魔法=Phép màu từ sự trưởng thành của anh
+買い物帰りの道で……=Trên đường về sau khi đi mua sắm...
+願いで結ばれた契り=Lời thề gắn kết bởi những điều ước
+ドキドキのお参り=Chuyến đi lễ đền đầy hồi hộp

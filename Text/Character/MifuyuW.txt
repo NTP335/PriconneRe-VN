@@ -4,15 +4,15 @@
 ##UB##
 インテグラルスパナ=Cần Điện Chính Tích Hợp
 目の前の敵１キャラに物理特大ダメージを与え、さらに自分の物理クリティカルを大アップさせる。=Gây sát thương vật lý lớn cho kẻ địch trước mặt, và cũng tăng lớn Tỷ Lệ Chí Mạng của bản thân trong 180s.
-r:"^敵単体に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng Tỷ Lệ Chí Mạng của bản thân bằng $2.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng Tỷ Lệ Chí Mạng của bản thân bằng $2 trong 180s.
 
 ##S1##
 ヘビーツール=Dụng Cụ Nặng
 
 ##S2##
 モディフィケーション=Sửa Đổi
-自分の物理攻撃力を中アップさせ、さらに物理防御力と魔法防御力を小アップさせる。=Tăng Tấn Công Vật Lý của bản thân một lượng vừa phải, và cũng tăng Phòng Thủ Vật Lý và Ma Thuật của bản thân một lượng nhỏ.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Tăng Tấn Công Vật Lý của bản thân $1 trong 180s.\n►Tăng Phòng Thủ Vật Lý của bản thân $2 trong 180s.\n►Tăng Phòng Thủ Ma Thuật của bản thân $3 trong 180s.
+自分の物理攻撃力を中アップさせ、さらに物理・魔法防御力を小アップさせる。=Tăng vừa Tấn công Vật lý của bản thân, đồng thời tăng nhẹ Phòng thủ Vật lý và Phòng thủ Ma pháp.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理・魔法防御力を(\d+)アップ$"=Thời gian triển khai: 0.59 giây\n►Tăng $1 Tấn công Vật lý của bản thân trong 180 giây.\n►Tăng $2 Phòng thủ Vật lý và Ma pháp của bản thân trong 180 giây.
 
 ##EX##
 超速ラインワーク=Đường Nét Siêu Tốc
@@ -24,3 +24,13 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理防御力を(\d+)ア
 
 ##UE##
 機鋼槍ヴァンガードスパナ=Giáp Thép Tiền Phong Spanner
+
+##UE2##
+
+超効率ツールベルト=Thắt lưng công cụ siêu hiệu quả
+
+
+##S2+
+モディフィケーション+=Modification+
+自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージと物理攻撃のダメージを小アップ、物理・魔法防御力を中アップする。５回目のこのスキルは、さらにバトル終了時まで自分に【効率全開スパナ】を付与し、行動パターンが変化する。【効率全開スパナ】が付与されている間、ヘビーツール+のダメージの対象が目の前の敵１キャラを中心とした範囲内の敵になり、スタンさせる効果が追加され、発動時既に行動不能状態の敵に対してはダメージが上昇する。=Tăng cực đại Tấn công Vật lý, tăng nhẹ sát thương chí mạng vật lý và sát thương vật lý gây ra, đồng thời tăng vừa Phòng thủ Vật lý và Phòng thủ Ma pháp của bản thân. Ở lần sử dụng thứ 5, kỹ năng này sẽ ban cấp trạng thái 【Cờ lê toàn công suất】 cho bản thân cho đến khi kết thúc trận đấu và thay đổi chu kỳ hành động. Trong khi đang có 【Cờ lê toàn công suất】, mục tiêu gây sát thương của kỹ năng Heavy Tool+ sẽ trở thành toàn bộ kẻ địch trong phạm vi xung quanh 1 kẻ địch trước mắt, bổ sung thêm hiệu ứng choáng, và sát thương sẽ tăng lên đối với những kẻ địch vốn đã trong trạng thái bất động khi kỹ năng kích hoạt.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリダメを6％アップ自分が与える物理ダメージを6％アップ自分の物理・魔法防御力を(\d+)アップ５回目の使用時、自分に効率全開スパナを付与する$"=Thời gian triển khai: 0.59 giây\n►Tăng $1 Tấn công Vật lý của bản thân trong 180 giây.\n►Tăng 6％ Sát thương Chí mạng Vật lý của bản thân trong 180 giây.\n►Tăng 6％ sát thương vật lý gây ra của bản thân trong 180 giây.\n►Tăng $2 Phòng thủ Vật lý và Ma pháp của bản thân trong 180 giây.\n►Ở lần sử dụng thứ 5, ban cấp [Cờ lê toàn công suất] cho bản thân.

@@ -1,5 +1,5 @@
 ##Profile##
-【物理】中衛で着脱可能な鉄腕を放つ機械人族のロボ娘。ＵＢ発動で【フルチャージ】状態になり、【バッテリー】が切れるまで強化スキルを連発し、一帯を超速圧砕する。=[Vật Lý] Một cô gái automaton bắn các cánh tay thép có thể tháo rời vào kẻ thù từ hàng giữa. Union Burst của cô ấy kích hoạt chế độ "Sạc Đầy" cho phép cô ấy liên tục dùng các kỹ năng mạnh mẽ cho đến khi [Battery] của cô cạn kiệt, quét sạch chiến trường với tốc độ cực hạn.
+【物理】中衛で着脱可能な鉄腕を放つ機械人族のロボ娘。ＵＢ発動で【フルチャージ】状態になり、【バッテリー】が切れるまで強化スキルを連発し、一帯を超速圧砕する。=【Vật lý】Một cô bé người máy thuộc tộc cơ khí ở vị trí hàng trung, sở hữu khả năng phóng ra đôi thiết quyền có thể tháo rời. Khi kích hoạt UB, cô sẽ tiến vào trạng thái 【Sạc đầy】, liên tục tung ra các kỹ năng cường hóa cho đến khi hết 【Pin】, giúp nghiền nát toàn bộ khu vực với tốc độ cực nhanh.
 
 ローチェ=Croce
 昼寝、誰かの役に立つこと=Ngủ trưa, giúp đỡ ai đó
@@ -14,34 +14,53 @@
 
 ##UB##
 ギガンティックアームパンチ=Cú Đấm Tay Khổng Lồ
-前方範囲内の敵すべてに物理大ダメージを与え、【フルチャージ】状態になり【バッテリー】を７つ充填し、１ヒットを必ずクリティカルさせる。【バッテリー】を充填している場合、このスキルがクリティカルした場合ダメージが２倍から３倍に変わる。充填されていない場合、自分の物理攻撃力を特大アップさせ行動速度を特大アップさせる。(この効果は重複する)【バッテリー】は最大７まで充填される。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi, vào chế độ [Sạc Đầy], và tích lũy 7 [Battery], tối đa là 7. Nếu [Battery] đã sạc đầy, sát thương phản công vật lý sẽ được nhân ba. Ngược lại, tăng rất lớn tấn công vật lý của bản thân và tăng một chút tốc độ hành động của bản thân (có thể chồng lấn). Đòn tấn công này luôn là phản công chí mạng.
-r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 800.\n\nNếu đã sạc 7 [Battery]:\n►Tăng tấn công vật lý của bản thân lên $2 trong 180s.\n►Tăng tốc độ hành động của bản thân lên 300% trong 180s.
+前方範囲内の敵すべてに物理大ダメージを与え、【フルチャージ】状態になり【バッテリー】を７つ充填し、１ヒットを必ずクリティカルさせる。【バッテリー】を充填している場合、このスキルがクリティカルした場合ダメージが２倍から３倍に変わる。充填されていない場合、自分の物理攻撃力を特大アップさせ行動速度を特大アップさせる。(この効果は重複する)【バッテリー】は最大７まで充填される。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi phía trước, tiến vào trạng thái 【Sạc đầy】 và nạp 7 tích lũy 【Pin】, đồng thời đảm bảo 1 lần đánh sẽ luôn chí mạng. Nếu có tích lũy 【Pin】, sát thương chí mạng của kỹ năng này sẽ tăng từ gấp 2 lên gấp 3 lần. Nếu không có tích lũy 【Pin】, tăng cực đại Tấn công Vật lý và tăng cực đại tốc độ hành động của bản thân (hiệu ứng này có thể cộng dồn). 【Pin】 có thể tích lũy tối đa 7 lần.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の行動速度300％加算$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 800.\n►Tăng $2 Tấn công Vật lý của bản thân trong 180 giây.\n►Tăng 300％ tốc độ hành động của bản thân trong 180 giây.
 
 ##S1##
 ジャンピングロケットパンチ=Rocket Punch Nhảy
-最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý lớn cho một kẻ địch ở phía sau cùng và tăng một chút sát thương phản công vật lý mà nó phải nhận.
-r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを8％アップ$"=►Gây $1 sát thương vật lý cho một kẻ địch ở phía sau cùng.\n►Tăng sát thương phản công vật lý mà một kẻ địch phải nhận lên 8% trong 12s.
-
+最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý lớn lên 1 kẻ địch xa nhất và tăng nhẹ sát thương phải nhận khi chịu đòn chí mạng của kẻ đó.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の被クリダメを8％アップ$"=Thời gian triển khai: 1.18 giây\n►Gây $1 sát thương vật lý lên 1 kẻ địch.\n►Tăng 8％ sát thương chí mạng phải nhận của 1 kẻ địch trong 12 giây.
 ##S2##
 イグニッション！=Đốt Cháy!
 
 ##SP1##
 オーバーヒート=Quá Tải
-ユニオンバーストを使用してから一定回数行動後に発動し、前方範囲内の敵すべてに物理大ダメージを与え、自分のＴＰを-1000し、【フルチャージ】状態を解除する。さらに、【システムダウン】状態になり、自分のステータスアップ効果をすべて解除し、行動速度を特大ダウンさせる。(他の行動速度変化スキルと重複する)【バッテリー】をすべて消費する。=Kích hoạt sau một số hành động nhất định sau khi UB được dùng. Gây sát thương vật lý lớn cho kẻ địch trong phạm vi, giảm 1000 TP của bản thân và rời khỏi chế độ [Sạc Đầy]. Ngoài ra, vào chế độ [Hệ Thống Sập], giải trừ mọi buff của bản thân và giảm rất lớn tốc độ hành động của bản thân (có thể chồng lấn). Tiêu thụ tất cả [Battery].
-r:"^範囲内の敵に(\d+)の物理ダメージ自分のＴＰを1000失わせる自分のステータスアップ効果を解除する自分の行動速度ダウンバッテリーを７つ消費する$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 800.\n►Giảm 1000 TP của bản thân.\n►Giải trừ mọi buff từ bản thân.\n►Giảm tốc độ hành động của bản thân lên 300% trong 180s.\n►Tiêu thụ 7 [Battery].
-【フルチャージ】中=Sạc Đầy
-このスキルのスキルレベルは「ギガンティックアームパンチ」と連動しています=Cấp độ kỹ năng này liên kết với "Cú Đấm Tay Khổng Lồ"
+ユニオンバーストを使用してから一定回数行動後に発動し、前方範囲内の敵すべてに物理大ダメージを与え、自分のＴＰを-1000し、【フルチャージ】状態を解除する。さらに、【システムダウン】状態になり、自分のステータスアップ効果をすべて解除し、行動速度を特大ダウンさせる。(他の行動速度変化スキルと重複する)【バッテリー】をすべて消費する。=Kích hoạt sau một số lượt hành động nhất định kể từ khi sử dụng Union Burst, gây sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi phía trước, làm giảm 1000 TP của bản thân và hủy bỏ trạng thái 【Sạc đầy】. Ngoài ra, bản thân sẽ rơi vào trạng thái 【Hệ thống đình trệ】, hủy bỏ toàn bộ hiệu ứng tăng chỉ số và giảm cực đại tốc độ hành động (hiệu ứng này cộng dồn với các kỹ năng thay đổi tốc độ hành động khác). Tiêu hao toàn bộ 【Pin】.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分のＴＰを1000失わせる自分のステータスアップ効果を解除する自分の行動速度300％減算バッテリーを７つ消費する$"=Thời gian triển khai: 3.0 giây\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 800.\n►Làm giảm 1000 TP của bản thân.\n►Hủy bỏ toàn bộ hiệu ứng tăng chỉ số của bản thân.\n►Giảm 300％ tốc độ hành động của bản thân trong 180 giây.\n►Gây câm lặng lên bản thân trong 3 giây.\n►Tiêu hao 7 [Pin].
+
+
+【フルチャージ】中=Trong trạng thái 【Sạc đầy】
+このスキルのスキルレベルは「ギガンティックアームパンチ」と連動しています=Cấp độ của kỹ năng này liên kết với "Cú Đấm Tay Khổng Lồ".
 
 ##SP2##
 ブーステッドロケットパンチ=Rocket Punch Tăng Cường
-最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。【バッテリー】を１つ消費する。=Gây sát thương vật lý lớn cho một kẻ địch ở phía sau cùng và tăng một chút sát thương phản công vật lý mà nó phải nhận. Đòn tấn công này luôn là phản công chí mạng, và sát thương phản công vật lý được nhân ba. Tiêu thụ 1 [Battery].
-r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを8％アップバッテリーを１つ消費する$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Tăng sát thương phản công vật lý mà một kẻ địch phải nhận lên 8% trong 12s.\n►Tiêu thụ 1 [Battery].
+【バッテリー】を１つ消費する。最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。=Tiêu hao 1 【Pin】. Gây sát thương vật lý lớn lên 1 kẻ địch xa nhất và tăng nhẹ sát thương phải nhận khi chịu đòn chí mạng của kẻ đó. Kỹ năng này đảm bảo 1 lần đánh sẽ luôn chí mạng, và sát thương khi chí mạng sẽ tăng từ gấp 2 lên gấp 3 lần.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の被クリダメを8％アップバッテリーを１つ消費する$"=Thời gian triển khai: 1.18 giây\n►Gây $1 sát thương vật lý lên 1 kẻ địch.\n►Tăng 8％ sát thương chí mạng phải nhận của 1 kẻ địch trong 12 giây.\n►Tiêu hao 1 [Pin].
 
 ##SP3##
 サマーソルトソニック=Somersault Sonic
-自分の物理攻撃力と物理クリティカルを中アップさせ、前方範囲内の敵すべてに物理大ダメージを与える。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。【バッテリー】を１つ消費する。=Tăng vừa phải tấn công vật lý và tỷ lệ phản công vật lý của bản thân, và gây sát thương vật lý lớn cho kẻ địch trong phạm vi. Đòn tấn công này luôn là phản công chí mạng, và sát thương phản công vật lý được nhân ba. Tiêu thụ 1 [Battery].
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを50アップ範囲内の敵に(\d+)の物理ダメージバッテリーを１つ消費する$"=►Tăng tấn công vật lý của bản thân lên $1 trong 12s.\n►Tăng tỷ lệ phản công vật lý của bản thân lên 50 trong 12s.\n►Gây $2 sát thương vật lý cho kẻ địch trong phạm vi 800.\n►Tiêu thụ 1 [Battery].
+【バッテリー】を１つ消費する。自分の物理攻撃力と物理クリティカルを中アップさせ、前方範囲内の敵すべてに物理大ダメージを与える。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。=Tiêu hao 1 【Pin】. Tăng vừa Tấn công Vật lý và Tỉ lệ Chí mạng Vật lý của bản thân, đồng thời gây sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi phía trước. Kỹ năng này đảm bảo 1 lần đánh sẽ luôn chí mạng, và sát thương khi chí mạng sẽ tăng từ gấp 2 lên gấp 3 lần.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを50アップ範囲内の敵に(\d+)の物理ダメージバッテリーを１つ消費する$"=Thời gian triển khai: 1.18 giây\n►Tăng $1 Tấn công Vật lý của bản thân trong 12 giây.\n►Tăng 50 Tỉ lệ Chí mạng Vật lý của bản thân trong 12 giây.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 800.\n►Tiêu hao 1 [Pin].
 
 ##EX##
-フルブースト=Tăng Cường Toàn Diện
+フルブースト=Full Boost
 フルブースト+=Full Boost+
+
+##UE##
+スーパーギガンティックアーム=Cánh tay siêu khổng lồ
+
+ブーステッドロケットパンチ+=Boosted Rocket Punch+
+【バッテリー】を１つ消費する。自分の物理攻撃力を中アップする。さらに、最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。このスキルのスキルレベルは「ギガンティックアームパンチ」と連動しています=Tiêu hao 1 【Pin】. Tăng vừa Tấn công Vật lý của bản thân. Ngoài ra, gây sát thương vật lý lớn lên 1 kẻ địch xa nhất và tăng nhẹ sát thương phải nhận khi chịu đòn chí mạng của kẻ đó. Kỹ năng này đảm bảo 1 lần đánh sẽ luôn chí mạng, và sát thương khi chí mạng sẽ tăng từ gấp 2 lên gấp 3 lần. Cấp độ của kỹ năng này liên kết với "Cú Đấm Tay Khổng Lồ".
+
+
+##S1+##
+ジャンピングロケットパンチ+=Jumping Rocket Punch+
+最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。バトル開始後、初弾のこのスキルは、さらに敵の物理防御力を小ダウンさせ、自分の物理攻撃力と物理クリティカルを特大アップし、【スーパーギガンティックアーム】を付与してＴＰを特大回復する。【スーパーギガンティックアーム】が付与されている間、【フルチャージ】状態中にスキル（オーバーヒートを除く）がクリティカルした場合のダメージは【バッテリー】の数に応じて最大４倍まで上昇する。【スーパーギガンティックアーム】は【システムダウン】状態になると失われる。=Gây sát thương vật lý lớn lên 1 kẻ địch xa nhất và tăng nhẹ sát thương phải nhận khi chịu đòn chí mạng của kẻ đó. Sau khi trận đấu bắt đầu, lần đầu tiên sử dụng kỹ năng này sẽ làm giảm thêm một ít Phòng thủ Vật lý của kẻ địch, tăng cực đại Tấn công Vật lý và Tỉ lệ Chí mạng Vật lý của bản thân, đồng thời ban cấp trạng thái 【Cánh tay siêu khổng lồ】 và hồi cực đại TP. Trong khi trạng thái 【Cánh tay siêu khổng lồ】 đang kích hoạt, sát thương chí mạng từ các kỹ năng (ngoại trừ Quá nhiệt) trong trạng thái 【Sạc đầy】 sẽ tăng lên dựa trên số lượng 【Pin】, tối đa gấp 4 lần. 【Cánh tay siêu khổng lồ】 sẽ mất đi khi rơi vào trạng thái 【Hệ thống đình trệ】.
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体の被クリダメを8％アップ初使用時、以下の効果が発動する敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを300アップ自分にスーパーギガンティックアームを付与する自分のＴＰを1000回復$"=Thời gian triển khai: 1.18 giây\n►Gây $1 sát thương vật lý lên 1 kẻ địch.\n►Tăng 8％ sát thương chí mạng phải nhận của 1 kẻ địch trong 12 giây.\nLần đầu sử dụng, các hiệu ứng sau sẽ kích hoạt:\n►Giảm $2 Phòng thủ Vật lý của 1 kẻ địch trong 12 giây.\n►Tăng $3 Tấn công Vật lý của bản thân trong 12 giây.\n►Tăng 300 Tỉ lệ Chí mạng Vật lý của bản thân trong 12 giây.\n►Ban cấp [Cánh tay siêu khổng lồ] cho bản thân.\n►Hồi 1000 TP cho bản thân.
+
+
+##SP2+##
+【バッテリー】を１つ消費する。自分の物理攻撃力を中アップする。さらに、最も後ろの敵１キャラに物理大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。このスキルは１ヒットは必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく３倍になる。=Tiêu hao 1 【Pin】. Tăng vừa Tấn công Vật lý của bản thân. Ngoài ra, gây sát thương vật lý lớn lên 1 kẻ địch xa nhất và tăng nhẹ sát thương phải nhận khi chịu đòn chí mạng của kẻ đó. Kỹ năng này đảm bảo 1 lần đánh sẽ luôn chí mạng, và sát thương khi chí mạng sẽ tăng từ gấp 2 lên gấp 3 lần.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の被クリダメを8％アップバッテリーを１つ消費する$"=Thời gian triển khai: 1.18 giây\n►Tăng $1 Tấn công Vật lý của bản thân.\n►Gây $2 sát thương vật lý lên 1 kẻ địch.\n►Tăng 8％ sát thương chí mạng phải nhận của 1 kẻ địch trong 12 giây.\n►Tiêu hao 1 [Pin].

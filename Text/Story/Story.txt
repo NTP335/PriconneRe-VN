@@ -85,7 +85,7 @@ r:"^メインストーリーが\n(\d+)つ解放されました。$"=Câu chuyệ
 
 ---Bond Stuff---
 絆ランク=Kết nối
-r:"^第(\d+)話$"=Tập $1
+r:"^第(\d+)話(R)?$"=Tập $1$2
 キャラストーリー=Cốt truyện nhân vật
 ステータスアップボーナス=Phần thưởng tăng chỉ số
 絆ランクアップ=Tăng hạng kết nối

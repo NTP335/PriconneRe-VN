@@ -1,0 +1,8 @@
+
+新しいボディでハグができるようになったクローチェ。湧き出す力は成長の証かもしれないというライラエルの言葉に、己の成長を確かめるため、{playername}と再びランドソルへ向かうのだった。=Với cơ thể mới, Croce giờ đây đã có thể thực hiện những cái ôm. Trước lời khích lệ của Lyrael rằng sức mạnh đang trào dâng có thể là minh chứng cho sự trưởng thành, cô đã cùng {playername} lên đường tới Landosol một lần nữa để xác nhận sự tiến bộ của bản thân.
+
+クローチェは己の成長を確かめようと食事に挑戦するが、食べたものは真空パックされてしまう。人間と同じように食事できないクローチェは、{playername}とその悲しみを分かち合うのだった。=Croce cố gắng thử ăn uống để kiểm tra sự trưởng thành của mình, nhưng những gì cô ăn vào đều bị đóng gói chân không. Không thể ăn uống như một con người bình thường, cô đã cùng chia sẻ nỗi buồn đó với {playername}.
+
+苦手とする狭所での戦闘に苦しむクローチェは成長したから全部一人でこなせるという思考を捨て、人と協力する戦い方が自分に合っていると気づく。迷いの晴れたクローチェは無事、魔物を倒すのだった。=Gặp khó khăn khi phải chiến đấu trong không gian chật hẹp vốn là điểm yếu của mình, Croce đã rũ bỏ suy nghĩ rằng vì mình đã trưởng thành nên phải tự mình gánh vác tất cả, và nhận ra cách chiến đấu hợp tác với mọi người mới thực sự phù hợp với bản thân. Khi nỗi lòng đã được giải tỏa, cô đã thuận lợi tiêu diệt được ma vật.
+
+千恵は{playername}にご主人様になって欲しくてお世話しようとするが、カップ麺をこぼして逆にお世話されてしまう。メンテナンスしてもらった千恵は、マスターとの繋がりを感じ喜ぶのだった。=Chie muốn {playername} trở thành chủ nhân của mình nên đã cố gắng chăm sóc cho đối phương, nhưng cô lại làm đổ mì ly và kết cục là được chăm sóc ngược lại. Sau khi được bảo trì, Chie cảm thấy vô cùng hạnh phúc khi cảm nhận được sợi dây liên kết với Master.

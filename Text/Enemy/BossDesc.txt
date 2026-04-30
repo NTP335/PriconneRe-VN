@@ -2699,3 +2699,8 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 対象のＨＰ割合が低いほど：アップ量上昇=Tỉ lệ HP của mục tiêu càng thấp: Lượng tăng càng tăng.
 
 召喚体、分身を除いた最も遠い敵２キャラに物理小ダメージを与え、物理防御力を大ダウンさせる。このスキルの効果はダメージを無効化しても付与される。=Gây sát thương vật lý nhỏ lên 2 kẻ địch xa nhất (ngoại trừ vật triệu hồi và phân thân) và giảm mạnh Phòng thủ Vật lý của chúng. Hiệu ứng của kỹ năng này vẫn được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+
+クーゲルゴーレム=Kugel Golem.
+『二つの世界』の因子を宿すゴーレムの変異体。黒鉄の車輌を内包し、アストルムの理から外れた予測もつかぬ動きで戦場を駆け回る。=Một biến thể Golem mang trong mình nhân tố của "Hai thế giới". Bên trong chứa đựng một cỗ xe sắt đen, nó càn quét chiến trường với những chuyển động bất định, nằm ngoài quy luật của thế giới Astrum.
+ランダムな敵２体に物理ダメージ=Gây sát thương vật lý lên 2 kẻ địch ngẫu nhiên.
+前から１番目中心範囲攻撃=Tấn công phạm vi tập trung vào mục tiêu đầu tiên hàng trước.

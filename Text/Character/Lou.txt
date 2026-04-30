@@ -6,13 +6,13 @@
 ##UB##
 オメメチャンアタック！=Mr. Gawker Attack!
 目の前の敵１キャラを中心とした範囲内の敵すべてに、オメメちゃんがいない場合魔法小ダメージを与える。オメメチャンがいる場合、オメメちゃんの数に応じて、ダメージが増加する魔法中ダメージを与える。=Gây ra M.DMG vừa phải cho tất cả kẻ địch trong phạm vi. Sát thương tăng lên cho mỗi Mr. Gawker đang hoạt động.
-r:"^範囲内の敵に(\d+)の魔法ダメージを5回与える$"=►Gây $1 M.DMG lên kẻ địch trong phạm vi 5 lần.
+r:"^範囲内の敵に(\d+)の魔法ダメージを５回与える$"=►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi 200, lặp lại 5 lần.
 
 ##S1##
 ビギナーズラック=Beginner's Luck
 オメメチャン出番ですぅ！=Come on Out, Mr. Gawker!
 オメメちゃんを１体呼び出す。オメメちゃんはルゥがダメージを受けるたびに１体逃げてしまうが、そのとき敵にダメージを与える。=Triệu hồi một Mr. Gawker. Mỗi lần Lou nhận sát thương, một Mr. Gawker chạy trốn, gây sát thương lên kẻ địch.
-r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメちゃんを最大5体呼び出す$"=►Triệu hồi một Mr. Gawker gây $1 sát thương lên kẻ địch tấn công Lou, sau đó biến mất. (Tối đa 5)
+r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメちゃんを最大5体呼び出す$"=Thời gian triển khai: 1.7325 giây\n►Triệu hồi tối đa 5 Omeme-chan, chúng sẽ gây $1 sát thương lên kẻ địch tấn công Lou rồi biến mất.
 
 ##S2##
 目の前の敵１キャラに魔法大ダメージを与える。=Gây ra M.DMG lớn lên kẻ địch ngay phía trước.
@@ -24,7 +24,6 @@ r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメ�
 ##S1+##
 オメメチャン出番ですぅ！+=Come on Out, Mr. Gawker!+
 オメメちゃんを２体呼び出し、自分の魔法攻撃力を中アップさせる。オメメちゃんはルゥがダメージを受けるたびに１体逃げてしまうが、そのとき敵にダメージを与える。=Triệu hồi 2 Mr. Gawkers và tăng M.ATK cho bản thân. Mỗi lần Lou nhận sát thương, một Mr. Gawker chạy trốn, gây sát thương lên kẻ địch.
-r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメちゃんを最大5体呼び出す自分の魔法攻撃力を(\d+)アップ$"=►Triệu hồi một Mr. Gawker gây $1 sát thương lên kẻ địch tấn công Lou, sau đó biến mất. (Tối đa 5)\n►Tăng M.ATK của bản thân lên $2.
-
+r:"^攻撃してきた敵に(\d+)ダメージを与えて消失するオメメちゃんを最大５体呼び出す自分の魔法攻撃力を(\d+)アップ$"=Thời gian triển khai: 1.7325 giây\n►Triệu hồi tối đa 5 [Omeme-chan], chúng sẽ gây $1 sát thương lên kẻ địch tấn công và sau đó biến mất.\n►Tăng $2 Tấn công Ma pháp của bản thân.
 ##UE##
 オメメちゃん！=Ông Gawker!

@@ -1,0 +1,23 @@
+##Profile##
+【魔法】中衛で臨機応変に作戦を指揮する戦車道の乙女。召喚したボコが敵の攻撃を引き付けている間に、周囲の味方の攻撃、回復支援によって、全員での勝利を目指す。=【Ma pháp】Thiếu nữ Tankery ở vị trí hàng trung, người chỉ huy chiến thuật một cách linh hoạt. Trong khi Boko được triệu hồi thu hút sự tấn công của kẻ địch, cô hỗ trợ tấn công và hồi phục cho đồng đội xung quanh, hướng tới chiến thắng cho tất cả mọi người.
+
+##UB##
+ボコ召喚作戦です！=Chiến dịch triệu hồi Boko!
+【召喚】ボコられグマのボコが味方にいる場合、ボコのＨＰを中回復し、そうでない場合ボコを１体召喚する。自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、ＨＰを中回復させる。さらに目の前の敵１キャラの物理防御力を小ダウンさせる。このスキルのＨＰ回復量は、このキャラの物理と魔法攻撃力に応じて増加する。=【Triệu hồi】Nếu gấu Boko đang có mặt trong phe ta, hồi vừa HP cho Boko; nếu không, triệu hồi 1 Boko. Tăng cực đại Tấn công Vật lý và tăng đại Tỉ lệ Chí mạng Vật lý, đồng thời hồi vừa HP cho toàn bộ đồng đội trong phạm vi xung quanh bản thân. Ngoài ra, giảm nhẹ Phòng thủ Vật lý của 1 kẻ địch trước mắt. Lượng hồi phục HP của kỹ năng này tăng dựa theo Tấn công Vật lý và Ma pháp của bản thân.
+
+r:"^ボコのＨＰを(\d+)回復ボコを召喚する範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを100アップ範囲内の味方のＨＰを(\d+)回復敵単体の物理防御力を(\d+)ダウン$"=►Hồi $1 HP cho [Boko].\n►Triệu hồi [Boko] tại vị trí 420 phía trước bản thân.\n►Tăng $2 Tấn công Vật lý cho đồng đội trong phạm vi 300 trong 18 giây.\n►Tăng 100 Tỉ lệ Chí mạng Vật lý cho đồng đội trong phạm vi 300 trong 18 giây.\n►Hồi $3 HP cho đồng đội trong phạm vi 300.\n►Giảm $4 Phòng thủ Vật lý của 1 kẻ địch trong 18 giây.
+
+##S1##
+パンツァー・フォー！=Panzer Vor!
+自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、ＨＰとＴＰを小回復させる。さらに、自分が短時間すべての物理攻撃を回避する。このスキルのＨＰ回復量は、このキャラの物理と魔法攻撃力に応じて増加する。=Tăng cực đại Tấn công Vật lý và tăng đại Tỉ lệ Chí mạng Vật lý, đồng thời hồi nhẹ HP và TP cho toàn bộ đồng đội trong phạm vi xung quanh bản thân. Ngoài ra, bản thân sẽ né tránh toàn bộ đòn tấn công vật lý trong thời gian ngắn. Lượng hồi phục HP của kỹ năng này tăng dựa theo Tấn công Vật lý và Ma pháp của bản thân.
+
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを100アップ範囲内の味方のＨＰを(\d+)回復範囲内の味方のＴＰを90回復一定時間すべての物理攻撃を回避する$"=Thời gian triển khai: 1.05 giây\n►Tăng $1 Tấn công Vật lý cho đồng đội trong phạm vi 300 trong 12 giây.\n►Tăng 100 Tỉ lệ Chí mạng Vật lý cho đồng đội trong phạm vi 300 trong 12 giây.\n►Hồi $2 HP cho đồng đội trong phạm vi 300.\n►Hồi 90 TP cho đồng đội trong phạm vi 300.\n►Né tránh toàn bộ đòn tấn công vật lý trong 3 giây.
+
+##S2##
+ボコ、がんばれ！=Boko, cố lên!
+【召喚】自分を中心とした範囲内の味方すべての物理・魔法防御力を小アップさせ、ＨＰを小回復させる。ボコられグマのボコが味方にいる場合、ボコのＨＰを中回復し、そうでない場合ボコを１体召喚する。このスキルのＨＰ回復量は、このキャラの物理と魔法攻撃力に応じて増加する。=【Triệu hồi】Tăng nhẹ Phòng thủ Vật lý và Ma pháp, đồng thời hồi nhẹ HP cho toàn bộ đồng đội trong phạm vi xung quanh bản thân. Nếu gấu Boko đang có mặt trong phe ta, hồi vừa HP cho Boko; nếu không, triệu hồi 1 Boko. Lượng hồi phục HP của kỹ năng này tăng dựa theo Tấn công Vật lý và Ma pháp của bản thân.
+r:"^範囲内の味方の物理・魔法防御力を(\d+)アップ範囲内の味方のＨＰを(\d+)回復ボコのＨＰを(\d+)回復ボコを召喚する$"=Thời gian triển khai: 1.05 giây\n►Tăng $1 Phòng thủ Vật lý và Ma pháp cho đồng đội trong phạm vi 300 trong 12 giây.\n►Hồi $2 HP cho đồng đội trong phạm vi 300.\n►Hồi $3 HP cho [Boko].\n►Triệu hồi [Boko] tại vị trí 420 phía trước bản thân.
+
+##EX##
+みんなで勝つ西住流=Phái Nishizumi: Cùng nhau chiến thắng
+みんなで勝つ西住流+=Phái Nishizumi: Cùng nhau chiến thắng+

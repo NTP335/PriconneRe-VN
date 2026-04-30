@@ -1,0 +1,25 @@
+##Profile##
+【物理】後衛から必中の一射で敵を貫く西住流の継承者。【榴弾】を装填した状態のＵＢは、防御力を無視する火傷フィールドを発生させ、圧倒的な戦力差で敵を蹂躙する。=【Vật lý】Người kế thừa phái Nishizumi, chuyên xuyên thủng kẻ địch từ hàng sau bằng những phát bắn bách phát bách trúng. Khi sử dụng UB trong trạng thái đã nạp 【Đạn nổ mạnh】, cô sẽ tạo ra một trường hỏa thiêu lờ đi phòng thủ, tiêu diệt kẻ địch bằng sức mạnh áp đảo.
+
+##UB##
+ブリッツクリーク=Blitzkrieg
+最も物理防御力の低い敵１キャラに物理特大ダメージを与え、そのキャラを中心とした範囲内の敵すべてに最大ＨＰに応じて最大200万の物理割合ダメージを与える。この攻撃は必ず命中する。自分に【榴弾】が付与されている場合、【榴弾】を消費し、最も物理防御力の低い敵１キャラを中心とした範囲内の敵すべてを火傷状態にするフィールドを展開する。=Gây sát thương vật lý cực đại lên 1 kẻ địch có Phòng thủ Vật lý thấp nhất, đồng thời gây sát thương vật lý theo phần trăm máu dựa trên HP tối đa (tối đa 2,000,000) lên toàn bộ kẻ địch trong phạm vi xung quanh mục tiêu đó. Đòn tấn công này chắc chắn trúng. Nếu bản thân đang có 【Đạn nổ mạnh】, tiêu hao nó để triển khai một trường hỏa thiêu gây trạng thái Bỏng lên toàn bộ kẻ địch trong phạm vi xung quanh kẻ có Phòng thủ Vật lý thấp nhất.
+
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に最大200万の物理割合ダメージを与える榴弾が付与されている場合、以下の効果が発動する榴弾を消費する敵を(\d+)ダメージを与える火傷状態にするフィールドを展開する$"=►Gây $1 sát thương vật lý lên 1 kẻ địch.\n►Gây sát thương vật lý cố định bằng 15% HP tối đa (tối đa 2,000,000) lên kẻ địch trong phạm vi 300.\nNếu có [Đạn nổ mạnh]:\n►Tiêu hao [Đạn nổ mạnh].\n►Triển khai trường hỏa thiêu trong phạm vi 510 gây trạng thái Bỏng, gây $2 sát thương mỗi giây trong 15.5 giây.
+
+
+##S1##
+シュプレンググラナーテ=Sprenggranate
+前方範囲内の敵すべてに物理中ダメージを２回与え、物理防御力を小ダウンさせる。さらに対象が火傷状態の場合、このスキルのダメージがアップし、そのキャラの最大ＨＰに応じて最大100万の物理割合ダメージを与える。=Gây 2 lần sát thương vật lý vừa lên toàn bộ kẻ địch trong phạm vi phía trước và giảm nhẹ Phòng thủ Vật lý của chúng. Ngoài ra, nếu mục tiêu đang bị Bỏng, sát thương của kỹ năng này sẽ tăng lên và gây thêm sát thương vật lý theo phần trăm dựa trên HP tối đa của đối phương (tối đa 1,000,000).
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン敵が火傷状態の場合、範囲内の敵に最大100万の物理割合ダメージを与える$"=Thời gian triển khai: 1.05 giây\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 1200.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 1200.\n►Giảm $3 Phòng thủ Vật lý của kẻ địch trong phạm vi 1200 trong 12 giây.\nNếu kẻ địch bị Bỏng:\n►Gây sát thương vật lý cố định bằng 10% HP tối đa (tối đa 1,000,000) lên kẻ địch trong phạm vi 1200.
+
+##S2##
+アイゼンヘルツ=Eisenherz
+自分の物理攻撃力を特大アップし、【榴弾】を付与し、一定時間すべての物理攻撃を回避する。さらに、自分のＴＰを特大回復する。=Tăng cực đại Tấn công Vật lý của bản thân, ban cấp 【Đạn nổ mạnh】 và né tránh toàn bộ đòn tấn công vật lý trong một khoảng thời gian nhất định. Ngoài ra, hồi cực đại TP cho bản thân.
+
+r:"^自分の物理攻撃力を(\d+)アップ自分に榴弾を付与する一定時間すべての物理攻撃を回避する自分のＴＰを1000回復$"=Thời gian triển khai: 1.05 giây\n►Tăng $1 Tấn công Vật lý của bản thân trong 180 giây.\n►Ban cấp [Đạn nổ mạnh] cho bản thân.\n►Né tránh toàn bộ đòn tấn công vật lý trong 6 giây.\n►Hồi 1000 TP cho bản thân.
+
+##EX##
+ゲーゲンシュラーク=Gegenschlag
+ゲーゲンシュラーク+=Gegenschlag+

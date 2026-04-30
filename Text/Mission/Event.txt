@@ -45,7 +45,7 @@ r:"^(\[[0-9A-F]{6}\])?イベント前編クエスト([ A-Za-z\-0-9]+)をクリ�
 r:"^(\[[0-9A-F]{6}\])?イベント後編クエスト([ A-Za-z\-0-9]+)をクリアしよう(\[-\])?$"=$1Hoàn thành Nhiệm vụ Sự kiện Phần 2$2$3
 
 イベントストーリー オープニングを閲覧しよう=Xem mở đầu câu chuyện sự kiện
-r:"^イベントストーリー 第(\d+)話を閲覧しよう$"=Event Story: viewing Episode $1
+r:"^イベントストーリー 第(\d+)話(R)?を閲覧しよう$"=Event Story: viewing Episode $1$2
 r:"^第(\d)話を閲覧で解放$"=Mở khóa bằng cách xem Tập $1
 
 イベントクエストを1回クリアしよう=Hoàn thành Nhiệm vụ Sự kiện 1 lần

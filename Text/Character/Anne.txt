@@ -22,8 +22,7 @@ r:"^敵単体に(\d+)の魔法ダメージ対象の味方の魔法攻撃力を(\
 ##S2##
 プリンセスコーリング=Princess Calling
 自分を中心とした範囲内の味方すべてに英霊の加護を付与し、さらに魔法攻撃力を中アップさせ、行動速度を小アップさせる。=Ban Lời Chúc của Tinh Thần cho tất cả đồng minh gần đó. Tăng mạnh M.ATK của họ và tăng nhỏ tốc độ hành động.
-r:"^範囲内の味方に英霊の加護を付与範囲内の味方の行動速度アップ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Ban Lời Chúc của Tinh Thần cho đồng minh trong phạm vi trong 12s.\n►Tăng tốc độ hành động của đồng minh lên 110% trong phạm vi 200.\n►Tăng M.ATK của đồng minh trong phạm vi lên $1 trong 12s.
-
+r:"^範囲内の味方に英霊の加護を付与範囲内の味方の行動速度10％アップ範囲内の味方の魔法攻撃力を(\d+)アップ$"=Thời gian triển khai: 1.065 giây\n►Ban [Bảo hộ của Anh linh] cho đồng đội trong phạm vi.\n►Tăng 10％ tốc độ hành động của đồng đội trong phạm vi trong 12 giây.\n►Tăng $1 Tấn công Ma pháp của đồng đội trong phạm vi trong 12 giây.
 ##EX##
 レイディアントコーリング=Radiant Calling
 レイディアントコーリング+=Radiant Calling+
@@ -31,7 +30,7 @@ r:"^範囲内の味方に英霊の加護を付与範囲内の味方の行動速�
 ##S1+##
 コリジョンスペル+=Collision Spell+
 目の前の敵１キャラに魔法大ダメージを与え、自分が英霊の加護を受けている場合味方全体のＴＰを小回復し、自分が英霊の加護を受けていない場合自分の行動速度を中アップさせる。=Gây sát thương phép lớn lên kẻ địch ngay phía trước. Nếu Anne có Lời Chúc của Tinh Thần, hồi phục một lượng nhỏ TP cho tất cả đồng minh. Nếu Anne không có Lời Chúc của Tinh Thần, tăng nhỏ tốc độ hành động của bản thân.
-r:"^敵単体に(\d+)の魔法ダメージ味方全体のＴＰを(\d+)回復自分の行動速度アップ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Hồi phục $2 TP cho tất cả đồng minh khác nếu Anne đang được hưởng Lời Chúc của Tinh Thần.\n►Tăng tốc độ hành động của bản thân lên 125% nếu Anne không được hưởng Lời Chúc của Tinh Thần trong 12s.
+r:"^敵単体に(\d+)の魔法ダメージ味方全体のＴＰを100回復自分の行動速度25％アップ$"=Thời gian triển khai: 0.925 giây\n►Gây $1 sát thương ma pháp lên 1 kẻ địch.\n►Hồi 100 TP cho toàn bộ đồng đội.\n►Tăng 25％ tốc độ hành động của bản thân trong 12 giây.
 
 ##UE##
 アンの魔導書=Anne's Grimoire
