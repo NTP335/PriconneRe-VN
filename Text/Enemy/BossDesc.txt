@@ -2704,3 +2704,14 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 『二つの世界』の因子を宿すゴーレムの変異体。黒鉄の車輌を内包し、アストルムの理から外れた予測もつかぬ動きで戦場を駆け回る。=Một biến thể Golem mang trong mình nhân tố của "Hai thế giới". Bên trong chứa đựng một cỗ xe sắt đen, nó càn quét chiến trường với những chuyển động bất định, nằm ngoài quy luật của thế giới Astrum.
 ランダムな敵２体に物理ダメージ=Gây sát thương vật lý lên 2 kẻ địch ngẫu nhiên.
 前から１番目中心範囲攻撃=Tấn công phạm vi tập trung vào mục tiêu đầu tiên hàng trước.
+
+ボッコボコにしてやるぜ！=Tớ sẽ tẩn cho cậu một trận tơi bời hoa lá luôn!
+それがボコだから！=Đó mới chính là Boco!
+バトル中敵魔法攻撃力中ダウン=Giảm vừa Tấn công Phép thuật của kẻ địch trong trận chiến.
+攻撃の命中率が高い=Tỷ lệ đánh trúng của đòn tấn công cao.
+与えた物理ダメージが高いほど：魔法ダメージアップ=Sát thương Vật lý gây ra càng cao: Sát thương Phép thuật tăng càng nhiều.
+
+バトル開始後90秒間敵全体の魔法攻撃力を５％ダウンさせる。=Giảm 5% Tấn công Phép thuật của toàn bộ kẻ địch trong 90 giây sau khi trận chiến bắt đầu.
+メロディックブリーズ+=Melodic Breeze+.
+
+プリンセスアリーナは設定にかかわらず「標準」で再生されます。=Đấu trường Công chúa (Princess Arena) sẽ được phát ở chế độ "Tiêu chuẩn" bất kể cài đặt nào.

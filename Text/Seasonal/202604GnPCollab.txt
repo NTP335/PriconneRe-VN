@@ -1,3 +1,3 @@
 マホ（ガルパン）ピックアップガチャ専用10回ガチャチケット=Vé Gacha 10 lượt chuyên dụng - Gacha Pick-up Maho (GuP)
 以下の報酬がプレゼントボックスに送られました。=Phần thưởng dưới đây đã được gửi vào Hộp quà.
-r:"6「ガルパンコラボ記念 ログインキャンペーン その(\d+)」(\d+)日目で獲得したアイテムです。=Vật phẩm nhận được vào ngày thứ $2 của "Chiến dịch đăng nhập kỷ niệm hợp tác GuP phần $1".
+r:"「ガルパンコラボ記念 ログインキャンペーン その(\d+)」(\d+)日目で獲得したアイテムです。=Vật phẩm nhận được vào ngày thứ $2 của "Chiến dịch đăng nhập kỷ niệm hợp tác GuP phần $1".

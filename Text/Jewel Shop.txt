@@ -254,6 +254,14 @@ sr:"^(.{2,20})未受け取り分の(.{2,6})$"=$1: Chưa nhận $2
 交換ページへ移動しますか？=Bạn có muốn chuyển đến trang đổi không?
 
 
+Golden week pack
+Cygames WebStore限定 GW 火属性強化スペシャルパック=Gói đặc biệt tăng cường thuộc tính Hỏa dịp GW - Độc quyền Cygames WebStore
+EX★5アクセサリー交換チケット=Vé đổi phụ kiện EX ★5
+マホ（ガルパン）ピックアップガチャ専用10回ガチャチケット=Vé 10 lượt quay dành riêng cho Gacha Pickup Maho (Girls und Panzer)
+コラボ記念パック=Gói kỷ niệm hợp tác
+究極錬成パック=Gói luyện kim cực hạn
+GW スペシャルジュエル7500個パック=Gói 7500 Jewel đặc biệt dịp GW
+GW コネクトRANK強化パック=Gói tăng cường Connect RANK dịp GW
 
 新春記念=Kỷ niệm năm mới
 2026 新春記念=Kỷ niệm năm mới 2026
