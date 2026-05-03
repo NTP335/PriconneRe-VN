@@ -23,7 +23,7 @@ Opening
 ここ……どこ？\nわたしの服……パジャマじゃなくなってる──=Đây là... đâu? Quần áo của mình... không còn là đồ ngủ nữa──
 わたし、ベッドで寝てたはず……だよね？\nなんで、外に──=Mình nhớ rõ là đã đi ngủ trên giường rồi mà... đúng không? Sao giờ lại ở... bên ngoài──
 え？　えぇ？\nそうだ、誰かに連絡…………あれ？　携帯どこ？\nって、この本、なに？　なんかすごい本だけど……！=Hả? Cái gì cơ? Phải rồi, mình cần liên lạc cho ai đó... Ơ? Điện thoại đâu rồi? Mà quyển sách này là gì thế? Trông nó có vẻ lợi hại lắm luôn...!
-落ち着いて、ちゃんと思い出さなきゃ。昨日は……\n大洗で、みんなで買い物したりお茶したり、ゲームの話をしたり……\n寝る前も, たしか、そのことをずっと考えてて……=Bình tĩnh nào, phải nhớ lại cho kỹ. Hôm qua... Ở Oarai, mình đã cùng mọi người đi mua sắm, uống trà, rồi bàn về trò chơi... Hình như trước khi ngủ, mình vẫn cứ suy nghĩ mãi về chuyện đó...
+落ち着いて、ちゃんと思い出さなきゃ。昨日は……\n大洗で、みんなで買い物したりお茶したり、ゲームの話をしたり……\n寝る前も、たしか、そのことをずっと考えてて……=Bình tĩnh nào, phải nhớ lại cho kỹ. Hôm qua... Ở Oarai, mình đã cùng mọi người đi mua sắm, uống trà, rồi bàn về trò chơi... Hình như trước khi ngủ, mình vẫn cứ suy nghĩ mãi về chuyện đó...
 そっか！　わかった、これは夢だ！\nゲームの話をしてたから、そのせいでこんな夢になったんだ。=Ra là vậy! Hiểu rồi, đây là mơ! Vì mình đã bàn về trò chơi nên mới mơ thấy thế này đây!
 ふふっ♪\n緑の平原がどこまでも続いてる……\n戦車で走ったら、気持ちよさそう……♪=Hì hì♪ Đồng cỏ xanh mướt trải dài vô tận... Nếu được lái xe tăng chạy trên này thì chắc là thích lắm đây...♪
 風も気持ちよくって……♪\nちょっぴりあったかくて、\n生臭くて…………=Gió thổi cũng thật dễ chịu...♪ Hơi ấm áp một chút, và có mùi tanh...
@@ -85,7 +85,7 @@ Opening
 ええぇ……いいのかなあ……\nどうしよう……\n初めて会った人、ばっかりなのに……=Hể... liệu có ổn không nhỉ... Phải làm sao đây... Toàn là những người mình mới gặp lần đầu...
 えっと……ミホさん！=Ưm... Miho-san!
 はいっ！？=Vâng ạ!?
-大丈夫ですよ！\nわたしたちに、どーんと頼っちゃってください！\nいまは何も分からなくて、心細いかもしれません。でも──=Không sao đâu mà! Cứ việc tin tưởng và dựa dẫm vào chúng tôi nhé! Có lẽ hiện tại bạn đang thấy lo lắng vì chưa hiểu chuyện gì đang xảy ra. Thế nhưng──
+大丈夫ですよ！\nわたしたちに、どーんと頼っちゃってください！\nいまは何も分からなくて、心細いかもしれません。でも──=Không sao đâu mà! Cứ việc tin tưởng và dựa dẫm vào chúng tôi nhé! Có lẽ hiện tại em đang thấy lo lắng vì chưa hiểu chuyện gì đang xảy ra. Thế nhưng──
 まずは、おいしいものを食べましょう。\nみんなで食べて、みんなでおなかいっぱいになって。\nそしたら──えへへ。=Trước hết, hãy cùng nhau ăn thật ngon đã. Mọi người cùng ăn, mọi người cùng no bụng. Khi đó── hi hi.
 きっと、楽しくなってきちゃいますよ！\nようこそ！　わたしたちの世界、『アストルム』へ！！=Chắc chắn mọi chuyện sẽ trở nên vui vẻ thôi! Chào mừng hai người đã đến với thế giới của chúng tôi, 'Astrum'!!
 
@@ -110,7 +110,7 @@ Chapter 1
 ま、あたしたちは、ちょっと例外──なんだけどね。=Mà, tụi này thì hơi ngoại lệ một chút── nhỉ.
 あなたたちのいう『レジェンドオブアストルム』──\nそのフルダイブ型？　……のゲームのことをわたしたちは知らないんだ。\n本当に──ただ目が覚めたら、わたしたちはこの世界にいた。=Cái 'Legend of Astrum' mà hai người nói── loại game Full-dive gì đó ấy? ...Tụi này không biết gì về nó cả. Thật sự là── khi tỉnh dậy thì tụi này đã ở thế giới này rồi.
 『mimi』……えっと、VRデバイスのことも知らないんだものね……\n自分からダイブしたわけじゃない、とすると\nここに来る前の行動がきっかけになってたりするのかしら。=Cả 'mimi'... à, thiết bị VR nữa, hai người cũng không biết nhỉ... Nếu không phải tự mình thực hiện Dive, thì liệu có phải hành động trước khi đến đây đã trở thành nguyên nhân không nhỉ.
-……直前の行動か。\n明日の演習に備え、戦地の地形、布陣、車種の確認をしていた。\nわたしにとってみれば、いつも通りだったな. みほはどうだ？=...Hành động ngay trước đó sao? Để chuẩn bị cho buổi diễn tập ngày mai, tôi đã kiểm tra địa hình chiến trường, đội hình và các loại xe. Đối với tôi thì mọi thứ vẫn diễn ra như bình thường. Còn Miho thì sao?
+……直前の行動か。\n明日の演習に備え、戦地の地形、布陣、車種の確認をしていた。\nわたしにとってみれば、いつも通りだったな。みほはどうだ？=...Hành động ngay trước đó sao? Để chuẩn bị cho buổi diễn tập ngày mai, tôi đã kiểm tra địa hình chiến trường, đội hình và các loại xe. Đối với tôi thì mọi thứ vẫn diễn ra như bình thường. Còn Miho thì sao?
 わたしは、学校のみんなとお茶をしに出かけて……\nいろんなおしゃべりをして……\nそれからやっぱり、帰ってからは明日の演習に備えたり……=Em thì đi uống trà cùng các bạn ở trường... rồi tán gẫu đủ thứ chuyện... Sau đó thì đúng là khi về nhà, em cũng chuẩn bị cho buổi diễn tập ngày mai...
 あっ、演習っていうのは、戦車の演習です。=À, diễn tập ở đây là diễn tập xe tăng ạ.
 ……『戦車』？=... 'Xe tăng'?
@@ -154,7 +154,7 @@ Chapter 1
 その……急には信じられそうにないけど……\nでも……=Chuyện đó... thật khó để có thể tin ngay được... nhưng mà...
 これまでも数々の離れ業をお見せくださっているホマレさまだけに、\n説得力がございます。\nおそらく本当に、ホマレさまのおっしゃる通りなのかと。=Vì là Homare-san, người đã từng cho chúng em thấy vô số khả năng phi thường, nên lời nói của chị rất có sức thuyết phục. Có lẽ sự thật đúng như những gì chị đã nói.
 なんか感心してるけど、要するにホマレが実験をミスって\n別の世界のやつらがこの世界に飛んできたって話でしょ？\nちっとは反省しなさいよ！！=Mấy người trầm trồ cái nỗi gì, tóm lại là bà Homare làm hỏng thí nghiệm nên khiến người ở thế giới khác bị văng đến đây chứ gì? Biết hối lỗi một chút đi chứ!!
-えーん、キャルちゃん手厳しい～☆\n……でもそうだよね、マホちゃんもミホちゃんもごめんね？\nいきなりこんな世界に来て、びっくりしたでしょ。=Oa~ Kyaru-chan gay gắt quá đi~☆ ...Nhưng mà đúng rồi nhỉ, Maho-chan và Miho-chan cho tôi xin lỗi nhé? Đột nhiên bị đưa đến thế giới này chắc hai đứa hoảng hốt lắm.
+えーん、キャルちゃん手厳しい～☆\n……でもそうだよね、マホちゃんとミホちゃんもごめんね？\nいきなりこんな世界に来て、びっくりしたでしょ。=Oa~ Kyaru-chan gay gắt quá đi~☆ ...Nhưng mà đúng rồi nhỉ, Maho-chan và Miho-chan cho tôi xin lỗi nhé? Đột nhiên bị đưa đến thế giới này chắc hai đứa hoảng hốt lắm.
 あ、いえっ。確かにびっくりしましたけど、\nみなさんみたいな親切な人たちに助けてもらえて安心しました。\n……無事に元の世界に帰れるかは、ちょっと心配ですけど……=A, không đâu ạ. Đúng là chúng em có giật mình thật, nhưng được những người tốt bụng như mọi người giúp đỡ nên chúng em đã yên tâm hơn nhiều rồi. ...Dù có hơi lo không biết có thể về lại thế giới cũ an toàn không...
 ああ。だがどんな困難な道であろうとも、突破してみせよう。\nこれもまた戦車道を高めるための、試練なのかもしれないな。=Phải. Nhưng dù con đường phía trước có gian nan đến đâu, tôi cũng sẽ vượt qua cho bằng được. Có lẽ đây cũng là một thử thách để rèn luyện Chiến Xa Đạo thêm tinh nhuệ hơn.
 わお♪　お二人とも立派ですね、カッコいいです☆\nそれで、え～っと……\nミホさんとマホさんが元の世界に帰るには、どうすればいいんでしょう？=Oa♪ Cả hai người đều thật bản lĩnh và ngầu quá đi☆ Vậy thì, ưm... Phải làm thế nào để Miho-san và Maho-san có thể trở về thế giới cũ đây ạ?
@@ -182,7 +182,7 @@ Chapter 1
 私も、きっと{playername}くんなら\nそう言い出すだろうなって、予感はしてたんだけどね。=Tôi cũng đã có linh tính là nếu là {playername}-kun thì chắc chắn sẽ đề nghị như thế rồi.
 あのね、この世界に来れたのは想定外だったけど、\nその逆は難しくないみたいだよ～\n話しながらちょっと調べてたんだ。=Nè, việc hai đứa đến được thế giới này tuy là ngoài dự tính, nhưng việc làm ngược lại thì có vẻ không khó lắm đâu~ Tôi vừa nói chuyện vừa tranh thủ tìm hiểu một chút rồi.
 所有者の私と一緒にこの『タイムラーベ』に入って、\n向こうに転送されちゃえばおしまい☆\nそれで二人ともちゃんと、元の世界に戻れるよ。=Chỉ cần cùng tôi── chủ sở hữu của nó── bước vào 'TimeLab' này, rồi được dịch chuyển sang phía bên kia là xong☆ Như vậy cả hai sẽ có thể trở về thế giới ban đầu một cách an toàn.
-いまこうして話しながら、調べてくれてたんですね。\nすごい……っ。=Bà đã tìm hiểu ngay cả trong lúc chúng ta đang nói chuyện thế này sao. Giỏi thật đấy...
+いまこうして話しながら、調べてくれてたんですね。\nすごい……っ。=Cô đã tìm hiểu ngay cả trong lúc chúng ta đang nói chuyện thế này sao. Giỏi thật đấy...
 あのあのっ！\nそれなら、わたしたちも一緒に送りに行ってもいいですか！？=Cho em hỏi với! Nếu vậy thì tụi em có thể cùng đi tiễn hai bạn ấy được không ạ!?
 わたくしもペコリーヌさまに賛成でございます。\n転送された先で、何かトラブルが無いとも限りませんし。=Tôi cũng đồng ý với ngài Pecorine. Bởi không thể loại trừ khả năng sẽ có rắc rối xảy ra sau khi dịch chuyển.
 わぁ……っ！　みなさん、ありがとうございます！=Oa......! Cảm ơn mọi người nhiều lắm ạ!
@@ -200,11 +200,11 @@ Chapter 1
 Player Prompts
 演習って、なんの？=Diễn tập ư, là về cái gì vậy?
 別の、現実世界……？=Một... thế giới thực khác sao...?
-僕も教えてほしい。=Anh cũng muốn được biết nữa.
+僕も教えてほしい。=Tớ cũng muốn được biết nữa.
 ちょっと危ないけど、頼りになる人。=Một người hơi nguy hiểm một chút, nhưng rất đáng tin cậy.
 頼りになるけど、ちょっと危ない人。=Một người đáng tin cậy, nhưng cũng có chút nguy hiểm.
 ラビリスタさん。この二人のこと……=Labyrista-san. Về hai người này...
-元の世界に返してあげたいです。=Anh muốn đưa họ trở về thế giới ban đầu.
+元の世界に返してあげたいです。=Em muốn đưa họ trở về thế giới ban đầu.
 僕も行くよ！！=Anh cũng sẽ đi cùng nữa!!
 
 New Titlecards
@@ -217,8 +217,8 @@ Chapter 1R
 到着～☆\nこのあたりがちょうどいい座標かな～=Đến nơi rồi nè~☆ Tọa độ tầm này là chuẩn rồi nhỉ~
 ここから、ミホちゃんは大洗、マホちゃんは熊本方面だよね？\nできれば直接転送してあげたかったんだけど……\nごめんね、東京の方がゲートを繋ぎやすくって。=Từ đây, Miho-chan sẽ về Oarai, còn Maho-chan về hướng Kumamoto đúng không? Chị cũng muốn truyền tống trực tiếp hai đứa về đó luôn nhưng mà... Xin lỗi nhé, ở Tokyo thì dễ kết nối "Cổng" hơn.
 いや、こちらで十分だ。\nここからは公共の交通機関でも帰れるからな。=Không, thế này là đủ lắm rồi. Từ đây chúng tôi có thể về bằng phương tiện công cộng được.
-へ～、東京の街の雰囲気は、\nあたしたちのとほとんど変わんないのね。\n……って、どうしたのよミホ？　こっちをじろじろ見て。=Hê~, không khí phố xá ở Tokyo cũng chẳng khác mấy so với thế giới của tụi mình nhỉ. ...Ơ kìa, có chuyện gì vậy Miho? Sao em cứ nhìn tụi chị chằm chằm thế?
-あっ、ううん. さっきまでツノとかしっぽの生えた姿を見てたから、\nなんだか不思議で……\n本当にみんな、ゲームの世界と行き来してるんだなって。=A, không có gì ạ. Tại lúc nãy em vẫn còn thấy mọi người có sừng với đuôi, nên giờ thấy thế này cứ thấy lạ lạ sao ấy... Em thực sự cảm nhận được là mọi người đang đi đi về về giữa thế giới game và thực tại.
+へ～、東京の街の雰囲気は、\nあたしたちのとほとんど変わんないのね。\n……って、どうしたのよミホ？　こっちをじろじろ見て。=Hê~, không khí phố xá ở Tokyo cũng chẳng khác mấy so với thế giới của tụi mình nhỉ. ...Ơ kìa, có chuyện gì vậy Miho? Sao cô cứ nhìn tụi này chằm chằm thế?
+あっ、ううん。さっきまでツノとかしっぽの生えた姿を見てたから、\nなんだか不思議で……\n本当にみんな、ゲームの世界と行き来してるんだなって。=A, không có gì ạ. Tại lúc nãy mình vẫn còn thấy mọi người có sừng với đuôi, nên giờ thấy thế này cứ thấy lạ lạ sao ấy... Mình thực sự cảm nhận được là mọi người đang đi đi về về giữa thế giới game và thực tại.
 わたくしは、お二人のお姿にもたいへん興味を惹かれます。\nそのお姿が、戦車に乗るときの服装、ということなのでしょうか？=Về phần mình, em lại thấy rất ấn tượng với trang phục của hai chị. Đây chính là bộ đồ hai chị mặc khi điều khiển xe tăng đúng không ạ?
 ああ、これは『パンツァージャケット』と呼ばれる制服だ。\n戦車道に勤しむ者は、みなそれぞれの学校のパンツァージャケットを\n着用するんだ。=À, đây là bộ đồng phục được gọi là "Panzer Jacket". Những ai theo đuổi Chiến Xa Đạo đều mặc bộ Panzer Jacket của ngôi trường mà mình đang theo học.
 演習っていうのも、学校のみんなと一緒にやるものなのかしら？\n……だとしたら、二人がいなくなって、\nみんな心配してるわよね？=Việc diễn tập đó cũng là làm cùng với mọi người ở trường phải không? ...Nếu vậy thì khi hai cậu biến mất, chắc hẳn mọi người đang lo lắng lắm nhỉ?
@@ -228,7 +228,7 @@ Chapter 1R
 元気なお姿で、みなさまを安心させてあげてくださいませ。=Hãy trở về thật rạng rỡ để mọi người được yên tâm nhé.
 はいっ！\nえっと、大洗ゆき……大洗ゆきって……あるのかな……\nまずは水戸方面…………あいたっ！=Vâng ạ! Để xem nào, chuyến đi Oarai... không biết có chuyến nào đi Oarai không nhỉ... Trước tiên là hướng Mito... Ái da!
 ちょ、ちょっと……！\n大丈夫なの……なんだか、一人にするのが心配な子ね……=K-Khoan đã...! Liệu có ổn không đây... Cái cô bé này cứ làm người ta thấy lo lắng khi để đi một mình sao ấy...
-『そうですね！\nそれにミホさんの住んでいる街、わたしも見てみたいですし♪』="Đúng là vậy nhỉ! Với lại em cũng muốn ngắm nhìn thị trấn nơi Miho-san đang sống nữa ạ♪"
+『そうですね！\nそれにミホさんの住んでいる街、わたしも見てみたいですし♪』="Đúng là vậy nhỉ! Với lại mình cũng muốn ngắm nhìn thị trấn nơi Miho-san đang sống nữa ạ♪"
 ……すまない。\nわたしからもみほをよろしく頼む。=...Xin lỗi nhé. Chị cũng nhờ mọi người để mắt tới Miho giúp chị với.
 ああっ、ミホさん！　そっちじゃないわ！　改札はあっちで──\n……ねえ、待って……！=Aaa, Miho-san! Không phải lối đó đâu! Cổng soát vé ở hướng kia cơ── ...Này, chờ đã...!
 こっちは無事、空港の近くまで着いたね～♪\n私たちの世界とはちょっと交通網が違かったから、\nここからもう少し歩く必要があるけど。=Phía này thì chúng ta đã đến gần sân bay an toàn rồi nè~♪ Vì mạng lưới giao thông hơi khác với thế giới của tụi chị nên từ đây sẽ phải đi bộ thêm một đoạn nữa.
@@ -314,7 +314,7 @@ Chapter 2
 「エリカが消えた」。突然の連絡に驚く一同。\nみほやまほと同じように、『アストルム』に迷い込んだ可能性が高い──\nそう考えた一同は、再びアストルムへと向かうことにする。="Erika đã biến mất". Tin nhắn đột ngột khiến tất cả bàng hoàng. Có khả năng cao là cũng giống như Miho và Maho, cô ấy đã lạc vào "Astrum"── Nghĩ vậy, cả nhóm quyết định một lần nữa hướng về phía Astrum.
 ホマレさんと連絡をとってみるわ。状況が変わったこと……\nそしてもう一度、ミホさんとマホさんも一緒に、\nアストルムに戻りたいって伝えるわね。=Em sẽ thử liên lạc với chị Homare. Để báo rằng tình hình đã thay đổi... và cả Miho-san lẫn Maho-san đều muốn cùng quay trở lại Astrum một lần nữa.
 でも……\nみなさんには、迷惑をかけっぱなしなのに、\nまたいろいろ手伝ってもらっちゃうなんて……=Nhưng mà... em cứ làm phiền mọi người suốt thôi, giờ lại còn nhờ vả mọi người giúp đỡ đủ thứ nữa...
-『ミホさんのお友達なら、わたしたちにとってもお友達です。』="Nếu là bạn của Miho-san thì cũng là bạn của tụi em luôn!"
+『ミホさんのお友達なら、わたしたちにとってもお友達です。』="Nếu là bạn của Miho-san thì cũng là bạn của tụi chị luôn!"
 『手伝い、だなんて言わないでください。\nこれは、わたしたちみんなの問題なんですから。\n一緒にがんばりましょう☆』="Đừng nói là giúp đỡ mà. Đây là vấn đề chung của tất cả chúng ta mà. Cùng nhau cố gắng nhé☆"
 ペコリーヌさん……！\nありがとうございます！　ありがとうございます！\nありが……あいたっ。=Pecorine-san...! Em cảm ơn chị rất nhiều! Em cảm ơn ạ! Cảm ơn... Ái da!
 ああっ！\nミホさま。お辞儀のし過ぎはいけません。\nたんこぶになってしまいます。=Aaa! Miho-sama. Chị không nên cúi đầu chào quá mức như vậy đâu. Sẽ bị sưng đầu mất đó ạ.
@@ -333,7 +333,7 @@ Chapter 2
 ま……魔物が出たぞぉーっ！=Q... Quái vật xuất hiện rồi!
 おや……\nこのあたりではあまり見かけない、獰猛な群れのようです。=Ô kìa... Có vẻ là một đàn quái thú hung dữ hiếm khi thấy xuất hiện ở khu vực này.
 どうやら局所的に、強力な魔物の出現が増えてるみたいだね。\nホマレのやらかしとの因果関係は今のところ調査中だけど、\n十中八九クロなんじゃないかな～=Có vẻ như tại một vài địa điểm, sự xuất hiện của quái vật mạnh đang gia tăng. Mối quan hệ nhân quả với đống rắc rối của Homare vẫn đang được điều tra, nhưng mười phần thì hết chín là do bà ấy rồi~
-里の連中の、手に負えるかどうか……\nここはわたくしたちが加勢を──=Không biết dân làng có tự mình xoay sở được không... Chi bằng chúng ta hãy vào hỗ trợ──
+里のみなさまの、手に負えるかどうか……\nここはわたくしたちが加勢を──=Không biết dân làng có tự mình xoay sở được không... Chi bằng chúng ta hãy vào hỗ trợ──
 ……！\nちょっと待ってください！=...! Xin mọi người chờ một chút!
 隊長よ！　隊長が来てくれたわ！=Đội trưởng kìa! Đội trưởng tới rồi!
 あなたたちは下がっていなさい。=Mọi người hãy lùi lại đi.
@@ -403,7 +403,7 @@ Chapter 2
 ともかく、里を守るのが最優先だ。ホマレ……はゲートのほうに\n行ってるか……。みんな！　あの魔物──\n『クーゲルゴーレム』とでも呼ぼうか。アレをなんとかできるかい？=Dù sao thì bảo vệ ngôi làng là ưu tiên hàng đầu. Homare... chắc là đang ở chỗ cánh cổng rồi nhỉ... Mọi người! Con quái vật đó ── tạm gọi là "Kugel Golem" đi. Liệu mọi người có thể giải quyết nó được không?
 はいっ！　任せてくださいっ！\n──プリンセスストライク！！=Vâng! Cứ giao cho em! ── Princess Strike!!
 あ、あれっ……？\nこのクーゲルゴーレム、おかしな動きをしますねっ……！=Ơ, kìa...? Con Kugel Golem này có cách di chuyển lạ lùng quá ạ...!
-当たれっ！\n……くそっ、こんな動き、見たことないってのっ. =Trúng đi! ...Khốn khiếp, mình chưa từng thấy kiểu di chuyển nào như thế này cả.
+当たれっ！\n……くそっ、こんな動き、見たことないってのっ。=Trúng đi! ...Khốn khiếp, mình chưa từng thấy kiểu di chuyển nào như thế này cả.
 ……！\nこちらに来ます！　みなさま、伏せてください！=...! Nó đang lao về phía này! Mọi người mau nằm xuống!
 ……逃げ……られた……？\n地面の下に……潜っていく……=Để nó... chạy thoát rồi sao...? Nó đang lặn xuống... dưới mặt đất kìa...
 追いかけましょう！\n今晩のご馳走にしてあげますっ！=Đuổi theo thôi nào! Em sẽ biến nó thành bữa thịnh soạn tối nay luôn!
@@ -416,7 +416,7 @@ Chapter 2
 じゃあ……\nその時こそおいしくいただいちゃいましょう！=Vậy thì... lúc đó hãy cùng nhau đánh chén nó thật ngon lành nhé!
 あんなゴツゴツしたの、どうやって食べる気なのよ！！=Cái thứ gồ ghề cục mịch đó thì cô tính ăn kiểu gì hả!!
 なに言ってんのよ！\nそもそも戦車を食べるとかなんとか言うのが論外でしょ！？=Mấy người nói cái gì vậy! Vốn dĩ chuyện đòi ăn xe tăng là đã quá vô lý rồi mà!?
-ははは、キャルちゃんえりかちゃんはどこか波長が近いね。\nと、まあ……\n最後の最後にお騒がせしちゃったけど、そういうわけだから……=Ha ha ha, Kyaru-chan và Erika-chan có vẻ khá hợp cạ nhau đấy nhỉ. Mà, tóm lại là... tuy đến phút cuối lại xảy ra chuyện ầm ĩ này, nhưng tình hình là vậy đó...
+ははは、キャルちゃんとエリカちゃんはどこか波長が近いね。\nと、まあ……\n最後の最後にお騒がせしちゃったけど、そういうわけだから……=Ha ha ha, Kyaru-chan và Erika-chan có vẻ khá hợp cạ nhau đấy nhỉ. Mà, tóm lại là... tuy đến phút cuối lại xảy ra chuyện ầm ĩ này, nhưng tình hình là vậy đó...
 ええ。ミホさま、マホさま、エリカさま。ご安心を。\nあとはわたくしたちが引き受けます。=Vâng. Miho-sama, Maho-sama, Erika-sama, xin các chị cứ yên tâm. Phần còn lại hãy để tụi em lo ạ.
 元の世界ではみなさまがいないことで、心配されている方が\nたくさんいらっしゃるはず。\n危険な魔物にこれ以上遭遇する前に、お帰りいただくのが安全かと。=Ở thế giới thực, chắc hẳn đang có rất nhiều người lo lắng vì sự vắng mặt của các chị. Em nghĩ sẽ an toàn hơn nếu các chị trở về trước khi lại chạm trán với lũ quái vật nguy hiểm này.
 そうね。\n……あとは大丈夫よ！　私たちに任せて！=Phải đó. ...Phần còn lại không sao đâu! Cứ giao cho tụi này!
@@ -445,17 +445,17 @@ Chapter 2
 武器の扱い方。魔法の発し方。わずかながら長けております。\nお三方の勇気あるお申し出にお応えし、\nぜひ、お役に立てたらと存じます。=Về cách sử dụng vũ khí hay cách vận hành ma pháp, em cũng có chút hiểu biết ạ. Để đáp lại lời đề nghị dũng cảm của ba chị, em rất mong có thể giúp ích được phần nào.
 そうくると思ってたよ。ありがたい、じゃ、お願いしちゃおっかな～\nこの子たち【美食殿】はね、こう見えて歴戦の冒険者なんだよ。\nって、実際に見てたから、よく分かってるか♪=Chị biết ngay là các em sẽ nói vậy mà. Cảm ơn nhé, vậy thì chị nhờ các em luôn nha~ Mấy đứa nhỏ này thuộc bang hội "Bishokuden", nhìn vậy thôi chứ đều là những nhà mạo hiểm dày dặn kinh nghiệm đấy. Mà thôi, các em cũng tận mắt thấy rồi nên chắc là rõ quá rồi nhỉ♪
 はいっ！\nよろしくお願いしま……っとと……=Vâng ạ! Nhờ mọi người giúp đỡ... úi úi...
-大丈夫かいっ？\nとりあえず３人ともこっちへ。\nさっきの戦いで、怪我がないか見てあげるから。=Em không sao chứ? Tạm thời cả ba người qua đây đi. Để anh xem nãy giờ chiến đấu có ai bị thương ở đâu không.
+大丈夫かいっ？\nとりあえず３人ともこっちへ。\nさっきの戦いで、怪我がないか見てあげるから。=Em không sao chứ? Tạm thời cả ba người qua đây đi. Để chị xem nãy giờ chiến đấu có ai bị thương ở đâu không.
 はーあ、忙しくなるわね。にしてもペコリーヌ。\nあんたもよく、ミホの申し出を受け入れたわね。\n帰らせなくてよかったの？=Haizz, chuẩn bị bận rộn rồi đây. Mà này Pecorine, tôi cũng ngạc nhiên là bà lại chấp nhận lời đề nghị của Miho đấy. Không để cô ấy về có thật sự ổn không?
-もしかしたらそのほうが正しかったのかも、ですけどね。\nでもあのとき、ミホさんが、{playername}くんと\nよく似た目をしてたのに気がついたんです。=Có lẽ làm vậy thì đúng đắn hơn, nhưng mà... lúc đó, em nhận thấy ánh mắt của Miho-san trông rất giống với {playername}-kun.
-ミホさんたちを送っていってあげたいって、\n話してた時と同じような……=Cũng giống như cái hồi anh ấy nói rằng muốn đưa nhóm Miho-san về nhà vậy...
+もしかしたらそのほうが正しかったのかも、ですけどね。\nでもあのとき、ミホさんが、{playername}くんと\nよく似た目をしてたのに気がついたんです。=Có lẽ làm vậy thì đúng đắn hơn, nhưng mà... lúc đó, tớ nhận thấy ánh mắt của Miho-san trông rất giống với {playername}-kun.
+ミホさんたちを送っていってあげたいって、\n話してた時と同じような……=Cũng giống như cái hồi cậu ấy nói rằng muốn đưa nhóm Miho-san về nhà vậy...
 わたくしも、同じように感じました。\nふむ……うまく言葉には表せませんが……=Em cũng cảm thấy y như vậy ạ. Hừm... tuy không biết diễn tả bằng lời như thế nào cho đúng nữa...
 そうね。こういうときに\n自然に体が動いてしまう人、なのかもしれないわね。=Phải rồi. Có lẽ họ đều là kiểu người mà vào những lúc thế này, cơ thể sẽ tự động hành động theo bản năng đấy.
 つまりお人よしってことね。\nどっちもこっちも相当なもんだわ。=Nói tóm lại là một lũ bao đồng chứ gì. Cả hai bên đều đúng là hết thuốc chữa mà.
-くしゅんっ。\n……？=*Khịt khịt*.\n...Hm?
+くしゅんっ。\n……？=*Hắt xì*.\n...Hm?
 
 Player Prompts
-僕もそれがいいと思う。=Anh cũng nghĩ đó là cách tốt nhất.
+僕もそれがいいと思う。=Tớ cũng nghĩ đó là cách tốt nhất.
 それじゃあ、みんなで行こう！=Vậy thì, mọi người cùng đi thôi!
 ……『認識の修正』……=... "Sửa đổi nhận thức"...
 ……え？　なに？=...Hả? Cái gì vậy?
@@ -531,7 +531,7 @@ Chapter 3
 わたくしにも主さまが──守りたい方がいますので、\n感じるところがあったのかもしれません。=Vì bản thân em cũng có Chủ nhân── một người mà em muốn bảo vệ, nên có lẽ vì thế mà em cảm nhận được điều đó chăng.
 ああ、そうなんだろうな。\n君が{playername}を守りたいという気持ちは、\n言わずとも伝わるほどだ。=À, chắc là vậy rồi. Ý chí muốn bảo vệ {playername} của em rõ ràng đến mức không cần nói cũng cảm nhận được.
 朝も、昼も、夜も……いついかなるときも、寄り添っていたいお方。\nしかし、ときおり思うのです。それが、主さまにとって、\n負担となってしまってはいないか、と。=Sáng, trưa, tối... bất kể lúc nào, em cũng muốn ở bên cạnh người ấy. Thế nhưng, đôi khi em lại tự hỏi. Liệu điều đó có trở thành gánh nặng cho Chủ nhân hay không.
-わたくしとマホさまとで、『守り方』には違いがあるようにも思います。\nマホさまは、蝶よ花よ……と間近でお世話を焼くのではない、\n少し離れたところから、優しく眼差しを向けていらっしゃいます。=Em cảm thấy "cách bảo vệ" của em và Maho-sama có chút khác biệt. Maho-sama không chăm sóc nâng niu quá mức ở ngay sát bên, mà thay vào đó là dõi theo một cách dịu dàng từ một khoảng cách vừa phải.
+わたくしとマホさまとで、『守り方』には違いがあるようにも思います。\nマホさまは、蝶よ花よ……と間近でお世話を焼くのではなく、\n少し離れたところから、優しく眼差しを向けていらっしゃいます。=Em cảm thấy "cách bảo vệ" của em và Maho-sama có chút khác biệt. Maho-sama không chăm sóc nâng niu quá mức ở ngay sát bên, mà thay vào đó là dõi theo một cách dịu dàng từ một khoảng cách vừa phải.
 わたくしはまだまだ未熟者ゆえ、\nそのような心の境地には、なかなか達せないのでございます。\nどうしても……おそばにいたいと……=Vì em vẫn còn non nớt nên chưa thể đạt tới cảnh giới tâm hồn như vậy được. Lúc nào em cũng... chỉ muốn ở bên cạnh người thôi...
 ……いいんじゃないか？\n離れることができないのなら、離れなければいい。=...Như vậy chẳng phải cũng tốt sao? Nếu không thể rời xa, thì cứ ở bên cạnh thôi.
 寄り添っているからこそ、できることもある。\n重荷かどうかは、相手が決めることだろう。=Chính vì ở bên cạnh nên mới có những việc chỉ có em mới làm được. Còn chuyện có phải gánh nặng hay không, hãy để đối phương quyết định.
@@ -624,7 +624,7 @@ Chapter 3
 ええ！　必ず！\nふふっ、ミホさんって不思議な人だわ。\nもちろん、良い意味でね♪=Ừ! Chắc chắn rồi! Hì hì, Miho-san đúng là một người kỳ lạ. Tất nhiên là theo nghĩa tốt nhé♪
 そうかな……♪　いつか、みんなにもご馳走したいな。\nみんなでこたつに入って食べる、冬のあんこう鍋も！\n赤味噌とかつおだしで、スープを作って。白菜とえのきを入れて……♪=Thế sao...♪ Một lúc nào đó, mình cũng muốn mời mọi người ăn một bữa thật ngon. Cả món lẩu cá Monkfish mùa đông ăn trong khi ngồi lò sưởi Kotatsu nữa! Nấu nước dùng bằng miso đỏ và nước dùng cá ngừ bào, rồi cho thêm cải thảo và nấm kim châm vào...♪
 ありがとう。\nそれ、絶対おいしいわね♪=Cảm ơn bạn. Món đó chắc chắn là ngon lắm đây♪
-さあ、そろそろ戻りましょう。\nデザートも用意してあるの。\nそれに、マホさんやエリカさんが捜してるかもしれないから. =Nào, chúng ta quay lại thôi. Mình còn chuẩn bị cả món tráng miệng nữa. Với lại có khi Maho-san và Erika-san đang đi tìm tụi mình đấy.
+さあ、そろそろ戻りましょう。\nデザートも用意してあるの。\nそれに、マホさんやエリカさんが捜してるかもしれないから。=Nào, chúng ta quay lại thôi. Mình còn chuẩn bị cả món tráng miệng nữa. Với lại có khi Maho-san và Erika-san đang đi tìm tụi mình đấy.
 こうして、みんなの夜は更けていった……=Cứ thế, màn đêm dần buông xuống trên tất cả mọi người...
 
 Player Prompts
@@ -643,7 +643,7 @@ Chapter 4
 あの野郎っ……！\nゆっくり寝てりゃいいのに！　せっかちは嫌われるってのよ！=Cái tên kia...! Đáng lẽ nên ngủ nướng thêm đi chứ! Đã bảo là cái thói hấp tấp sẽ bị ghét rồi mà!
 よりによってこのランドソルに現れるとは。\n地中を移動し、おそらくより多くの民が\n密集しているところを狙ったのでしょうか。=Không ngờ nó lại xuất hiện ngay tại Landosol này. Nó đã di chuyển dưới lòng đất, có lẽ là nhắm vào nơi có đông dân cư sinh sống.
 もしかしたら……ミホさんたちがいる場所……\n自分と似た因子を探して\nこっちに来たのかも……=Có lẽ nào... nó đã tìm đến nơi nhóm Miho-san đang ở... để tìm kiếm những nhân tố tương đồng với bản thân mình chăng...
-理由がどうであれ！　この街を壊させるわけにはいきません！\nミホちゃんたちは遠くへ逃げてください！\n訓練はまだ途中 instincts し、いまあの魔物と戦うのは危険です！=Dù lý do là gì đi nữa! Chúng ta không thể để nó phá hủy thành phố này! Nhóm Miho-chan hãy mau chạy đi! Việc huấn luyện vẫn còn dang dở, bây giờ mà đối đầu với con quái vật đó là rất nguy hiểm!
+理由がどうであれ！　この街を壊させるわけにはいきません！\nミホちゃんたちは遠くへ逃げてください！\n訓練はまだ途中ですし、いまあの魔物と戦うのは危険です！=Dù lý do là gì đi nữa! Chúng ta không thể để nó phá hủy thành phố này! Nhóm Miho-chan hãy mau chạy đi! Việc huấn luyện vẫn còn dang dở, bây giờ mà đối đầu với con quái vật đó là rất nguy hiểm!
 やばっ、こっち向いたわ……！\n撃ってくる──\nえっ？=Nguy rồi, nó nhìn về phía này kìa...! Nó sắp bắn rồi── Hả?
 あいにく西住流に逃げるという道はない。\nこうなったら──\nいまここで決着をつけるしかないな。=Đáng tiếc là trong trường phái Nishizumi không có khái niệm chạy trốn. Đã đến nước này thì── chỉ còn cách kết thúc nó ngay tại đây thôi.
 マホさん……！\n……ものすごい一撃……！=Maho-san...! ...Một đòn tấn công thật khủng khiếp...!
@@ -658,8 +658,8 @@ Chapter 4
 はい！　わたしたち、戦います！\n特訓は途中になっちゃったけど、でも、きっとやれる……！\nわたしたちはそのために、ここにいるんです！=Vâng! Chúng em sẽ chiến đấu! Tuy đợt đặc huấn vẫn chưa hoàn thành nhưng chắc chắn là chúng em làm được...! Đó chính là lý do chúng em có mặt ở đây!
 それに、昨日はみんなで美味しいご飯を食べましたから。=Hơn nữa, tối qua mọi người đã cùng nhau ăn một bữa cơm rất ngon mà.
 わたしも戦えるわ。あのゴーレムの始末はわたしがつけなきゃ。=Tôi cũng có thể chiến đấu. Tôi phải tự tay giải quyết con Golem đó.
-みなさん……！\nじゃあ、頼りにしちゃいます！\nいきましょう！　{playername}くんも！=Mọi người...! Vậy thì em trông cậy cả vào mọi người nhé! Đi thôi nào! Cả {playername}-kun nữa!
-ミホちゃんもマホちゃんも、思った以上に仕上がっているね。\n身を守るぶんには問題ないだろう。あとはエリカちゃん……\nこの期間で、彼女の心の問題は解決したのかかどうか……=Cả Miho-chan và Maho-chan đều tiến bộ hơn tôi tưởng đấy. Việc tự bảo vệ mình chắc không thành vấn đề. Còn lại là Erika-chan... không biết trong thời gian ngắn ngủi này, cô bé đã giải quyết được nút thắt trong lòng mình chưa nữa...
+みなさん……！\nじゃあ、頼りにしちゃいます！\nいきましょう！　{playername}くんも！=Mọi người...! Vậy thì tớ trông cậy cả vào mọi người nhé! Đi thôi nào! Cả {playername}-kun nữa!
+ミホちゃんもマホちゃんも、思った以上に仕上がっているね。\n身を守るぶんには問題ないだろう。あとはエリカちゃん……\nこの期間で、彼女の心の問題は解決したのかどうか……=Cả Miho-chan và Maho-chan đều tiến bộ hơn tôi tưởng đấy. Việc tự bảo vệ mình chắc không thành vấn đề. Còn lại là Erika-chan... không biết trong thời gian ngắn ngủi này, cô bé đã giải quyết được nút thắt trong lòng mình chưa nữa...
 あいかわらず、厄介な動きね……！\n慣れてきたと思ったら、また変えてくる……！\n詠唱の隙もありゃしないったら！=Vẫn là những chuyển động phiền phức như mọi khi...! Vừa mới kịp làm quen thì nó lại thay đổi rồi...! Chẳng có lấy một kẽ hở nào để niệm phép cả!
 ……！\nシェフィちゃん！　０時の方向、来ます！=...! Sheffy-chan! Hướng 12 giờ, nó tới kìa!
 きゃあっ！\n……あ、ありがとう。\nあんな動きで向かってくるなんて……=Á! ...C-Cảm ơn bạn. Không ngờ nó lại lao tới với quỹ đạo như vậy...
@@ -668,8 +668,8 @@ Chapter 4
 おっとと！　ふんっ、だからってそう簡単に\nあっちのペースにも乗らないってーの！\n時間かけて、ペースを握り返すまで……つきあってもらうわよっ！=Ối chà! Hừ, đừng tưởng là có thể dễ dàng cuốn tôi theo nhịp độ của ngươi nhé! Tôi sẽ dành thời gian để giành lại thế chủ động... ngươi cứ đợi mà xem!
 はいっ！　じっくりことこと作戦です！=Vâng! Chiến thuật "chậm mà chắc" ạ!
 ……って、あ、あれっ？\nいつのまにか、わたしたち……一か所に固められちゃってませんか～！？=...Ơ, mà kìa? Từ bao giờ mà chúng ta... lại bị dồn hết vào một chỗ thế này rồi~!?
-きゃあああかっ！！=Á á á á á á!!
-ウオオォォン──……=Uô ô ô ô ô n──......
+きゃああああっ！！=Á á á á á á!!
+ウオオォォン──……=Woooooooo...
 ……くっ……\nいけません。いま、もう一撃受けてしまうと……\n…………！？　この光は……！=...Ư... không ổn rồi. Nếu giờ mà trúng thêm một đòn nữa thì... .........!? Ánh sáng này là...!
 ミホちゃん……！？\nわたしたちを守ってくれたんですか……！？=Miho-chan...!? Cậu đã một mình bảo vệ tất cả mọi người sao...!?
 あんたいつの間に、そんな上等な防御魔法を……！\nふふん、やるじゃない！=Cô học được loại ma pháp phòng ngự xịn xò này từ khi nào thế...! Hì hì, khá đấy chứ!
@@ -705,8 +705,8 @@ Chapter 4
 グッ……グアアアアァァ……！！！=Gự... Gự a a a a a a a...!!!
 やったーー！\nやりましたよ～！\nキャルちゃん！=Thắng rồi! Chúng ta làm được rồi~! Kyaru-chan!
 ぐ、ぐええ……\n抱きつくなっての……！=Hự, ặc ặc... Đã bảo là đừng có ôm chặt thế mà...!
-すごかったよ、エリカさん！=Cậu tuyệt lắm, Erika-san!
-まあね。\n次はあなたと勝負よ。=Tất nhiên. Lần tới sẽ là trận đấu giữa tôi và cậu.
+すごかったよ、エリカさん！=Chị tuyệt lắm, Erika-san!
+まあね。\n次はあなたと勝負よ。=Tất nhiên. Lần tới sẽ là trận đấu giữa tôi và em.
 それは……\n元の世界に帰ってからにしよう。\nあははは……=Chuyện đó... cứ để dành khi nào chúng ta về lại thế giới cũ đã nhé. A ha ha ha...
 エリカ。=Erika.
 隊長！\n……すみません、指示も無く勝手な行動をとりました……\n処分は受けます。意にそぐわなければ、次期隊長の席も──=Đội trưởng! ...Em xin lỗi vì đã tự ý hành động khi chưa có chỉ thị... Em sẽ chấp nhận mọi hình phạt. Nếu chị thấy không còn phù hợp, cả vị trí Đội trưởng kế nhiệm em cũng──
@@ -821,7 +821,7 @@ Chapter 5
 さっきの戦いで、わたしはわたしにできることをやったわ。\nほんの一歩かもしれないけど、踏み出すことはした。\nだからいま、あなたはあなたにできることをやるべきでしょう。=Trong trận chiến vừa rồi, chị đã làm những gì mình có thể. Dù chỉ là một bước nhỏ, nhưng chị đã quyết định tiến tới. Vậy nên bây giờ, em cũng nên làm những gì em có thể làm đi.
 かつて、隊長とわたしを打ち破った、\nあなたの戦車道、ってやつを。=Thứ Sensha-do của riêng em, thứ từng đánh bại cả Đội trưởng và chị ấy.
 ミホちゃん！　わたしはあなたについていきますよ。\nばんばん命令しちゃってください☆=Miho-chan! Chị sẽ đi theo em. Cứ việc ra lệnh thoải mái đi nhé☆
-そうね。ミホさんの戦闘中の指示は、とても適確だったわ。\n危ないところを助けてもらったもの。=Đúng vậy. Những chỉ dẫn của Miho-san trong trận chiến rất chính xác. Tôi cũng đã được cậu cứu giúp lúc nguy cấp mà.
+そうね。ミホさんの戦闘中の指示は、とても的確だったわ。\n危ないところを助けてもらったもの。=Đúng vậy. Những chỉ dẫn của Miho-san trong trận chiến rất chính xác. Tôi cũng đã được cậu cứu giúp lúc nguy cấp mà.
 思い出してみれば……そうよね！\nよろしく頼むわよ、ミホ隊長さん♪=Nhớ lại thì... đúng là vậy thật! Trông cậy cả vào em đấy, Đội trưởng Miho-san♪
 あっ……\nえっと……わかりました。\nその……よろしくお願いしますっ！=Á... Ơ... em hiểu rồi ạ. Vậy... mong mọi người giúp đỡ em nhé!
 うん……うん……なるほど。\nああ、そうだね。\nそれなら大体……あの城の高さまでならいけるかな。=Ừm... ừm... ra là vậy. À, đúng thế nhỉ. Nếu vậy thì... có lẽ sẽ lên được đến tầm độ cao của tòa lâu đài kia đấy.
@@ -857,8 +857,8 @@ Chapter 5
 ぜんぜん気にしないでください！\nわたしのほうからお願いしちゃいます。\nお城はもちろん大切ですけど……=Chị đừng bận tâm chuyện đó chút nào cả! Chính em là người muốn nhờ mọi người mà. Lâu đài đương nhiên là quan trọng, nhưng...
 この街で暮らすみんなの命のほうが大事です！=Tính mạng của tất cả người dân trong thành phố này mới là quan trọng nhất!
 大丈夫です、\n働いてるみなさんは避難済みだし、\n壊れちゃったとしても、ちゃんと直しますから☆=Không sao đâu ạ, những người làm việc ở đó đều đã sơ tán hết rồi, dù có bị hỏng hóc gì thì chúng ta vẫn sẽ sửa lại được thôi☆
-そうだ！\nわたし、この前シェフィちゃんがやってたみたいに、\n戦車の外につかまって乗るのはどうでしょう？=Đúng rồi! Em định sẽ bám ở bên ngoài xe tăng giống như Sheffy-chan đã làm hôm trước, mọi người thấy sao?
-わたし、これでもプリンセスなので、\nわたしの姿が見えてたら、みなさん安心してくれると思います☆=Dù sao em cũng là Công chúa, nên nếu mọi người nhìn thấy em, họ sẽ cảm thấy an tâm hơn☆
+そうだ！\nわたし、この前シェフィちゃんがやってたみたいに、\n戦車の外につかまって乗るのはどうでしょう？=Đúng rồi! Tớ định sẽ bám ở bên ngoài xe tăng giống như Sheffy-chan đã làm hôm trước, mọi người thấy sao?
+わたし、これでもプリンセスなので、\nわたしの姿が見えてたら、みなさん安心してくれると思います☆=Dù sao tớ cũng là Công chúa, nên nếu mọi người nhìn thấy tớ, họ sẽ cảm thấy an tâm hơn☆
 ほう。\n初めての戦車でタンクデサントとは、大胆だな。=Ồ. Lần đầu đi xe tăng mà đã muốn thực hiện "Tank Desant" (bộ binh cưỡi xe tăng) sao, bạo dạn đấy.
 ……？　……たらふく……デザート？=...? ...Ăn no nê... tráng miệng sao? (Chơi chữ: Desant đọc gần giống Dessert)
 歩兵が戦車に跨乗し、共闘する戦術があるんだ。\nあなたのそれは、本来の意味とはかなり異なるが……\n確かにここでは効果的かもしれない。=Có một chiến thuật là bộ binh sẽ cưỡi lên xe tăng để cùng tác chiến. Dù cách hiểu của em hơi khác với ý nghĩa nguyên bản một chút... nhưng đúng là ở đây nó có thể mang lại hiệu quả đấy.
@@ -873,8 +873,8 @@ Chapter 5
 そう。だから、いまも──\nわたしにはやっぱり、とっても大切な思い出なんだ……！　=Đúng vậy. Bởi vì cho đến tận bây giờ── đối với em, đây vẫn là một kỷ niệm cực kỳ quan trọng...!
 ……\n……いえ！\nこれで大丈夫です！=... \n... Dạ không! \nThế này là được rồi ạ!
 ちょっとなにこれ、いきなり人の服を勝手に……\nま、まあ……わ、わるくない……んじゃない……？=Này, cái gì thế này, tự dưng lại thay đồ người ta... Th... thôi thì... c... cũng không tệ... nhỉ...?
-わお、かわいい服装ですね☆\n抱きついちゃってもいいですか？　キャルちゃんから順番に！=Oa, bộ đồ này dễ thương quá đi☆ Em ôm mọi người một cái được không? Bắt đầu từ Kyaru-chan nhé!
-ふふ, はしゃぎすぎでございますよ♪\nそれにしても、みなさま、それぞれ違って、それぞれに麗しく。=Hi hi, em phấn khích quá rồi đấy♪ Nhưng mà, mọi người ai trông cũng khác biệt và thật xinh đẹp.
+わお、かわいい服装ですね☆\n抱きついちゃってもいいですか？　キャルちゃんから順番に！=Oa, bộ đồ này dễ thương quá đi☆ Tớ ôm mọi người một cái được không? Bắt đầu từ Kyaru-chan nhé!
+ふふ、はしゃぎすぎでございますよ♪\nそれにしても、みなさま、それぞれ違って、それぞれに麗しく。=Hi hi, chị phấn khích quá rồi đấy♪ Nhưng mà, mọi người ai trông cũng khác biệt và thật xinh đẹp.
 なるほど、これが、戦いに臨んで制服を身にまとうということ。\n体の内から闘志がみなぎるようでございます。\nたしかに、雰囲気は大事、でごさいますね。=Ra vậy, đây chính là cảm giác khoác lên mình bộ đồng phục trước khi bước vào trận chiến. Em cảm thấy ý chí chiến đấu đang dâng trào từ tận bên trong. Đúng là không khí rất quan trọng.
 この服装も全部、ミホさんのメモリにあったもの……？=Tất cả trang phục này đều có trong ký ức của Miho-san sao...?
 はい。\nわたしの、最強のライバルたち──最高のお友達の制服です。=Vâng.\nĐó là đồng phục của những đối thủ mạnh nhất── và cũng là những người bạn tuyệt vời nhất của em.
@@ -909,7 +909,7 @@ Cutscene
 ええ、ぶっ壊すわよ！=Được, tống khứ nó đi luôn nào!
 撃て！=BẮN!
 この一発が──=Phát đạn này sẽ──
-それ☆=Đây nè☆
+それ☆=Nhận lấy☆
 すごーい、ほんとに飛んじゃった☆=Tuyệt thật đấy, nó bay lên thật luôn kìa☆
 これで一件落着……なのは良いんだけど……=Vậy là mọi chuyện đã được giải quyết ổn thỏa... thì cũng tốt thôi, nhưng mà...
 あの人、わざと私も巻き込んでる……よね？=Cái người đó, cố tình kéo cả tôi vào đống trang phục này đúng không...?
@@ -917,7 +917,7 @@ Cutscene
 Chapter 6
 別の世界からやってきた、戦車道の未来の担い手、ミホ、マホ、エリカ。\nアストルムの歴戦の冒険者、ペコリーヌ、コッコロ、キャル、シェフィ、\nそして{playername}。=Những người gánh vác tương lai của Sensha-do đến từ thế giới khác: Miho, Maho và Erika. Những nhà mạo hiểm dày dặn kinh nghiệm của Astrum: Pecorine, Kokkoro, Kyaru, Sheffy và {playername}.
 二つの力を一つに合わせた戦いにより、\nイレギュラー・オブジェクト、クーゲルゴーレムは討伐されたのだった。=Nhờ trận chiến kết hợp sức mạnh của cả hai thế giới, vật thể bất thường Kugel Golem đã bị tiêu diệt.
-見てたわ！\n戦車が空を飛んだところ♪=Chị đã thấy rồi nhé! Cái lúc xe tăng bay vút lên trời ấy♪
+見てたわ！\n戦車が空を飛んだところ♪=Tớ đã thấy rồi nhé! Cái lúc xe tăng bay vút lên trời ấy♪
 ふふん♪\nこのあたしたち全員が力を合わせりゃ、ま、こんなもんよね♪=Hừm♪ Khi tất cả chúng ta cùng hợp lực thì, chà, chuyện nhỏ như con thỏ thôi mà♪
 いや～～～ははは、本当にやってのけるとはね！=Chà~~~ ha ha ha, không ngờ mọi người thực sự làm được đấy!
 【美食殿】のみんなは、いつものことながら\nあの３人も負けず劣らず……=Các thành viên [Gourmet Guild] thì vẫn như mọi khi, nhưng ba người kia cũng chẳng hề kém cạnh...
@@ -925,15 +925,15 @@ Chapter 6
 時空の分岐エネルギー……？\n運命が大きく分かれたときに生じるという未観測のエネルギーみたいな\nSFモノでよくみるアレかい？　またずいぶん現実離れした話を……=Năng lượng phân nhánh không-thời gian...? Thứ năng lượng chưa được quan sát sinh ra khi vận mệnh rẽ hướng, kiểu như mấy thứ hay thấy trong phim viễn tưởng hả? Lại một câu chuyện nghe xa rời thực tế quá rồi đấy...
 あはは、冗談だよ～……半分はね☆\nでも、考え方としては近いかな。\nあの３人がこの世界に来た理由。=A ha ha, đùa thôi mà~... một nửa là đùa thôi☆ Nhưng cách nghĩ đó cũng gần đúng đấy. Lý do ba người họ đến thế giới này.
 時間の流れをシミュレーションするっていうのは、\nタイムラインの枝分かれを作っていくってことで……=Việc mô phỏng dòng chảy thời gian đồng nghĩa với việc tạo ra các nhánh của dòng thời gian...
-いわゆる運命の分岐が起きるときの影響度を推測、数値化して、\nそのなるべく大きめのやつを、目印にしてたわけなんだけどね。\n小さいやつまで含めると、きりがないわけだし。=Chị đã dự đoán và định lượng mức độ ảnh hưởng khi cái gọi là sự phân nhánh vận mệnh xảy ra, rồi chọn ra những điểm lớn nhất để làm cột mốc. Chứ nếu tính cả mấy cái nhỏ nhặt thì có mà đến Tết cũng chẳng hết.
+いわゆる運命の分岐が起きるときの影響度を推測、数値化して、\nそのなるべく大きめのやつを、目印にしてたわけなんだけどね。\n小さいやつまで含めると、きりがないわけだし。=Tôi đã dự đoán và định lượng mức độ ảnh hưởng khi cái gọi là sự phân nhánh vận mệnh xảy ra, rồi chọn ra những điểm lớn nhất để làm cột mốc. Chứ nếu tính cả mấy cái nhỏ nhặt thì có mà đến Tết cũng chẳng hết.
 ミホちゃんが、黒森峰女学園を離れ、大洗女子学園に転入した。\nあの３人を取り巻くその分岐が、その後、多くの影響をもたらした。\nつまり彼女らは、タイムラーベがマークした大きな目印の一つだったと。=Miho-chan rời khỏi Học viện Nữ sinh Kuromorimine và chuyển đến Học viện Nữ sinh Oarai. Sự phân nhánh xoay quanh ba người họ đã tạo ra rất nhiều tầm ảnh hưởng sau đó. Nói cách khác, họ chính là một trong những cột mốc lớn mà TimeLab đã đánh dấu.
-で、その『目印』ごと、引っ張られてきちゃったってわけ☆\nん～\nそのへんの処理 là, 見直しておかなきゃだね～♪=Và thế là cả "cột mốc" đó bị kéo tuột sang đây luôn☆ Ừm~ Chắc chị phải xem lại quy trình xử lý chỗ đó thôi~♪
+で、その『目印』ごと、引っ張られてきちゃったってわけ☆\nん～\nそのへんの処理は、見直しておかなきゃだね～♪=Và thế là cả "cột mốc" đó bị kéo tuột sang đây luôn☆ Ừm~ Chắc tôi phải xem lại quy trình xử lý chỗ đó thôi~♪
 だから見直しもなにも、そういうおイタはもうダメだってば！=Chẳng có xem lại gì hết, đã bảo là không được nghịch ngợm như thế nữa mà!
 而して、この騒動で生み出された『クーゲルゴーレム』は討伐された。\nこれによって、\n『グレーターゴーレム』としてのオブジェクトは消滅──=Và thế là, "Kugel Golem" sinh ra từ sự hỗn loạn này đã bị tiêu diệt. Nhờ đó, vật thể dưới dạng "Greater Golem" đã tan biến──
 残ったのは、大破した『クーゲルパンツァー』が一台……\n……え～っと……これもあっちに持って帰るかな？=Chỉ còn lại một chiếc "Kugelpanzer" đã nát bét... Ừm... cái này cũng mang về bên kia luôn chứ?
 はい。大切な車輛ですから。\n……とはいえ……=Vâng. Vì nó là một phương tiện quan trọng. ...Tuy nhiên...
 ううぅ……\n学校に帰ったら、始末書を書かなきゃ……！\n無断外出に戦車の持ち出し……はぁぁどうしよう……=Ư ư... Về trường chắc chắn mình phải viết bản kiểm điểm rồi...! Nào là tự ý ra ngoài, rồi còn tự tiện mang xe tăng đi nữa... Haiz, biết làm sao đây...
-あ。そうか。キミはこのクーゲルパンツァーごとやってきたのか。\nあ～……なるほど、ってことは……\n……うん、エリカちゃん. 消沈中に言うのもなんだけど、一つ朗報だよ♪=À. Ra vậy. Em bị kéo sang đây cùng với chiếc Kugelpanzer này à. À~... hiểu rồi, vậy thì... Ừm, Erika-chan. Dù nói trong lúc em đang suy sụp thì hơi kỳ nhưng có một tin vui đây♪
+あ。そうか。キミはこのクーゲルパンツァーごとやってきたのか。\nあ～……なるほど、ってことは……\n……うん、エリカちゃん。消沈中に言うのもなんだけど、一つ朗報だよ♪=À. Ra vậy. Em bị kéo sang đây cùng với chiếc Kugelpanzer này à. À~... hiểu rồi, vậy thì... Ừm, Erika-chan. Dù nói trong lúc em đang suy sụp thì hơi kỳ nhưng có một tin vui đây♪
 朗報……？　それはどういう……=Tin vui...? Ý chị là sao ạ...
 エリカちゃんだけが唯一、元の世界を忘れてしまっていたこと。\nきっとキミの性格だから、ずいぶん気に病んでいたと思うけど、\n大丈夫。安心するといい。=Chỉ có mình Erika-chan là quên sạch bách về thế giới cũ. Với tính cách của em, chắc là em đã dằn vặt lắm, nhưng không sao đâu. Cứ yên tâm đi.
 キミだけは戦車ごと飛ばされたから、データの転送量が大きすぎて、\nメモリーが一部破損してしまっていた。そして戦車の方も同じく破損して\nこちらはデータ補修のために魔物と結合した。……ってところだろう。=Vì chỉ có mình em là bị dịch chuyển cùng với cả chiếc xe tăng, lượng dữ liệu quá lớn đã khiến một phần bộ nhớ bị hư tổn. Chiếc xe tăng cũng bị hỏng tương tự, và để bù đắp dữ liệu bị khuyết thiếu, nó đã kết hợp với lũ quái vật. Có lẽ là vậy đấy.
@@ -941,38 +941,38 @@ Chapter 6
 『帰る』、かあ……\nこれで本当に……そうね……本当に……\nあら、ペコリーヌさんとミホさんは？= "Trở về" sao... Vậy là thực sự... đúng vậy nhỉ... thực sự là... Ơ, Pecorine-san và Miho-san đâu rồi?
 終わりましたね……=Mọi chuyện đã kết thúc rồi nhỉ...
 うん、終わったね……=Ừm, kết thúc thật rồi...
-……あのっ！\n今度、大洗に行くときは、ミホちゃんのお友達も紹介してください。\nそして、また寮のお部屋に招待してください！=...Này nhé! Lần tới khi em ghé thăm Oarai, chị hãy giới thiệu em với bạn bè của chị nhé. Và hãy lại mời em đến chơi phòng ký túc xá nữa!
-うん！\nきっとみんな、ペコさんとなら、すぐ仲良くなると思う！=Ừm! Chị tin là nếu là em, mọi người chắc chắn sẽ thân thiết với nhau ngay thôi, Peco-san!
-それから、また戦車にも乗りたいです！\n今度は、わたしも運転したり、大砲を撃ったりもしてみたいですね☆=Với cả, em cũng muốn được leo lên xe tăng một lần nữa! Lần tới, em cũng muốn thử tự tay lái xe hay nã pháo xem sao☆
-もちろん！\nわたしもまた、アストルムに来たら──=Tất nhiên rồi! Còn chị, nếu chị có dịp quay lại Astrum──
-もっと、いろんな道を走ってみたい。\nもっともっと、たくさんの景色を見てみたい。\n今度は、戦いのためじゃなくって……大きな旅をしてみたいんだ。=Chị muốn được chạy trên nhiều con đường hơn nữa. Muốn được ngắm nhìn thật nhiều, thật nhiều cảnh đẹp khác. Lần tới, không phải vì chiến đấu... mà chị muốn thực hiện một chuyến hành trình thật lớn.
-一つ何かに出会うたびに、新しい気持ちが一つ、\nわたしのなかで生まれるの。\nだから、もっともっとこの世界のことを知りたいな。=Cứ mỗi khi bắt gặp một điều gì đó mới mẻ, trong chị lại nảy nở một cảm xúc mới. Thế nên, chị muốn tìm hiểu về thế giới này nhiều hơn nữa.
-この世界のこと、わたし、大好きだよ。\nまだ知らない明日のことを考えるだけで、\n胸がドキドキして、ワクワクして……なんていうか、とっても──=Chị yêu thế giới này lắm. Chỉ cần nghĩ về ngày mai mà mình chưa hề biết tới, lồng ngực chị lại đập rộn ràng và háo hức... nói sao nhỉ, thực sự rất──
+……あのっ！\n今度、大洗に行くときは、ミホちゃんのお友達も紹介してください。\nそして、また寮のお部屋に招待してください！=...Này nhé! Lần tới khi chị ghé thăm Oarai, em hãy giới thiệu chị với bạn bè của em nhé. Và hãy lại mời chị đến chơi phòng ký túc xá nữa!
+うん！\nきっとみんな、ペコさんとなら、すぐ仲良くなると思う！=Ừm! Em tin là nếu là chị, mọi người chắc chắn sẽ thân thiết với nhau ngay thôi, Peco-san!
+それから、また戦車にも乗りたいです！\n今度は、わたしも運転したり、大砲を撃ったりもしてみたいですね☆=Với cả, chị cũng muốn được leo lên xe tăng một lần nữa! Lần tới, chị cũng muốn thử tự tay lái xe hay nã pháo xem sao☆
+もちろん！\nわたしもまた、アストルムに来たら──=Tất nhiên rồi! Còn em, nếu em có dịp quay lại Astrum──
+もっと、いろんな道を走ってみたい。\nもっともっと、たくさんの景色を見てみたい。\n今度は、戦いのためじゃなくって……大きな旅をしてみたいんだ。=Em muốn được chạy trên nhiều con đường hơn nữa. Muốn được ngắm nhìn thật nhiều, thật nhiều cảnh đẹp khác. Lần tới, không phải vì chiến đấu... mà em muốn thực hiện một chuyến hành trình thật lớn.
+一つ何かに出会うたびに、新しい気持ちが一つ、\nわたしのなかで生まれるの。\nだから、もっともっとこの世界のことを知りたいな。=Cứ mỗi khi bắt gặp một điều gì đó mới mẻ, trong em lại nảy nở một cảm xúc mới. Thế nên, em muốn tìm hiểu về thế giới này nhiều hơn nữa.
+この世界のこと、わたし、大好きだよ。\nまだ知らない明日のことを考えるだけで、\n胸がドキドキして、ワクワクして……なんていうか、とっても──=Em yêu thế giới này lắm. Chỉ cần nghĩ về ngày mai mà mình chưa hề biết tới, lồng ngực em lại đập rộn ràng và háo hức... nói sao nhỉ, thực sự rất──
 とっても──\nやばいです！=Thực sự rất──\nTuyệt cú mèo luôn!
-えへへ……☆　それは、とってもよかったです！\nきっと、まだまだたくさんの景色が、\nミホさんに出会いたがってるって思いますよ。=Hi hi...☆ Vậy thì tốt quá rồi! Em tin là vẫn còn rất nhiều cảnh đẹp đang mong chờ được gặp chị đấy, Miho-san.
+えへへ……☆　それは、とってもよかったです！\nきっと、まだまだたくさんの景色が、\nミホさんに出会いたがってるって思いますよ。=Hi hi...☆ Vậy thì tốt quá rồi! Chị tin là vẫn còn rất nhiều cảnh đẹp đang mong chờ được gặp em đấy, Miho-san.
 ……約束、していいかな。=...Chúng ta hứa với nhau nhé?
 はい！　約束しましょう！=Vâng! Hứa luôn ạ!
 ゆーびきーりげーんまーん♪=Móc ngoéo tay, ai nói dối làm con sâu~♪
 ……あ～、コホン。いちゃついてるとこ悪いんだけどさ。\nホマレのほう、もうすぐ準備ができそうだって。\nその……むこうの世界に、送っていく準備……=...À~, hèm. Xin lỗi vì đã phá bĩnh bầu không khí sến súa này nhé. Bên phía Homare có vẻ sắp chuẩn bị xong rồi. Việc... đưa mọi người trở về thế giới bên kia ấy...
 キャルちゃん！\nそうだキャルちゃん、ぎゅ～ってしましょう！\nぎゅ～っ☆=Kyaru-chan! Đúng rồi, Kyaru-chan, mình ôm nhau một cái nào! Ôm chặt nè☆
 ちょ、なに、急に！\nこのアホリーヌ！=Này, cái gì, đột ngột thế! Đồ ngốc Peco này!
-ミホちゃん、こっちです！　混じってください！\nほらっ！=Miho-chan, qua đây đi! Chị cũng tham gia luôn đi! Nào!
+ミホちゃん、こっちです！　混じってください！\nほらっ！=Miho-chan, qua đây đi! Em cũng tham gia luôn đi! Nào!
 ……うんっ。\nぎゅ～っ。=...Ừm.\nÔm nào.
-あ、シェフィちゃんも！　それにエリカさんも！\nみんなでぎゅうぎゅうです☆\nこっちに来ないなら、引っ張っちゃいますよ！=A, cả Sheffy-chan nữa! Cả Erika-san nữa! Mọi người cùng ôm nhau thật chặt nào☆ Nếu mọi người không chịu qua đây là em kéo qua luôn đó!
+あ、シェフィちゃんも！　それにエリカさんも！\nみんなでぎゅうぎゅうです☆\nこっちに来ないなら、引っ張っちゃいますよ！=A, cả Sheffy-chan nữa! Cả Erika-san nữa! Mọi người cùng ôm nhau thật chặt nào☆ Nếu mọi người không chịu qua đây là mình kéo qua luôn đó!
 ちょ、なんでわたしが、元副隊長と……！\nむぎゅ。=Này, tại sao tôi lại phải... với cựu Phó đội trưởng chứ...! Bẹp
 あきらめなさい……\nこいつの馬鹿力に捕まったら、逃げられないわ……=Bỏ cuộc đi... Một khi đã bị cái sức mạnh trâu bò của cô nàng này tóm được thì không thoát ra nổi đâu...
-えへへ……\nありがとう、ペコさん……=Hi hi... Cảm ơn em nhé, Peco-san...
+えへへ……\nありがとう、ペコさん……=Hi hi... Cảm ơn chị nhé, Peco-san...
 マホさま。\nわたくしたちも、ぎゅ～っ、でございます。=Maho-sama. Chúng ta cũng hãy cùng "ôm chặt" một cái thôi ạ.
 ああ。\nぎゅ～っ。……これでいいのだろうか。\nコッコロ、元気でいてくれ。=À. Ôm chặt. ...Thế này là được rồi chứ nhỉ. Kokkoro, hãy giữ gìn sức khỏe nhé.
 はい。\nマホさまも、どうぞおすこやかに。=Vâng. Chúc Maho-sama cũng luôn bình an.
-ホマレ、アタシたちもやろっか？\nほら、アタシの胸に飛び込んできなよ！=Homare, hay tụi mình cũng làm vậy đi? Nào, cứ việc lao vào lòng chị đây này!
-あちゃ～～～、さっきのことだいぶ怒ってるね！？\nごめんごめん、つい出来心だったんだよ～～=Chết dở~~~, có vẻ em đang giận vụ lúc nãy lắm hả!? Xin lỗi mà, chị chỉ lỡ tay chút thôi mà~~
+ホマレ、アタシたちもやろっか？\nほら、アタシの胸に飛び込んできなよ！=Homare, hay tụi mình cũng làm vậy đi? Nào, cứ việc lao vào lòng tôi đây này!
+あちゃ～～～、さっきのことだいぶ怒ってるね！？\nごめんごめん、つい出来心だったんだよ～～=Chết dở~~~, có vẻ cô đang giận vụ lúc nãy lắm hả!? Xin lỗi mà, tôi chỉ lỡ tay chút thôi mà~~
 ……ラビリスタさん。\n改めて、あなたにはお礼を申しあげたい。=...Labyrista-san. Một lần nữa, tôi muốn gửi lời cảm ơn đến cô.
 異世界に迷い込むという、大変なアクシデントだったにもかかわらず、\nよい思い出としてこれを終えることができたのは、\nあなたのおかげだ。=Dù đây là một sự cố hy hữu khi bị lạc sang thế giới khác, nhưng chúng tôi vẫn có thể kết thúc nó với những kỷ niệm đẹp, tất cả là nhờ có cô.
 いやいや。本当に、迷惑をかけてすまなかったね。\nよい思い出にできたのは、なによりキミたち自身の頑張りと、\nそうだね、心の在り方さ。=Không đâu. Thực sự, tôi phải xin lỗi vì đã gây rắc rối cho các bạn. Để có được những kỷ niệm đẹp này, hơn hết thảy chính là nhờ nỗ lực của các bạn, và cả thái độ sống tích cực nữa.
 わたしのいる黒森峰で、ささやかれていたことがある。\nわたし、みほ、エリカ。３人がもし同じ一輛の戦車に乗ったのなら、\nどんな戦いを見せることになるのだろうか──と。=Tại Kuromorimine nơi tôi ở, từng có một lời đồn đại. Rằng nếu tôi, Miho và Erika, ba người chúng tôi cùng leo lên một chiếc xe tăng, thì chúng tôi sẽ thể hiện một trận chiến như thế nào──.
 けれど、わたしたちは３人が３人とも、車長としての適性が高かった。\nだから、まずはその役割に専心しなければならなかった。\n結局、在学中、その光景を見せることはついになかったが──=Thế nhưng, cả ba chúng tôi đều có tố chất làm trưởng xe rất cao. Do đó, trước hết chúng tôi phải tập trung vào vai trò đó. Kết cục là suốt thời gian đi học, cảnh tượng đó đã không bao giờ xảy ra──
-今日、このゲームの世界で、\n彼女らのそんな願いが実現していたと知ったら……\nきっと、みんな驚だろう。=Nếu họ biết rằng hôm nay, trong thế giới trò chơi này, mong ước đó của họ đã thành hiện thực... chắc chắn ai nấy cũng sẽ đều kinh ngạc lắm.
+今日、このゲームの世界で、\n彼女らのそんな願いが実現していたと知ったら……\nきっと、みんな驚くだろう。=Nếu họ biết rằng hôm nay, trong thế giới trò chơi này, mong ước đó của họ đã thành hiện thực... chắc chắn ai nấy cũng sẽ đều kinh ngạc lắm.
 マホちゃん……\nもしかしてそれは、キミ自身の願いでもあったんじゃないかな？=Maho-chan... có lẽ đó cũng chính là mong ước của chính em đúng không?
 このレジェンドオブアストルムはね。\n『願いが叶うゲーム』って呼ばれているんだ。=Legend of Astrum này ấy mà. Nó được gọi là "trò chơi biến điều ước thành hiện thực" đấy.
 『願いが叶う』か……\nゲームというものには疎い人生だったが……\n夢があるものかもしれないな。="Biến điều ước thành hiện thực" sao... Tôi đã sống một cuộc đời khá xa lạ với trò chơi... nhưng có lẽ chúng cũng chứa đựng những giấc mơ nhỉ.
@@ -983,20 +983,20 @@ Chapter 6
 キミもミホちゃんもエリカちゃんも、記憶のフタが少しずつ閉じていく。\nいきなり全部閉じると、帰ったときに混乱するからね。\nそういう処置を施させてもらうよ。=Ký ức của em, Miho-chan và cả Erika-chan sẽ dần dần bị đóng kín lại. Nếu xóa sạch ngay lập tức thì khi trở về các em sẽ bị hoảng loạn mất. Nên chị sẽ thực hiện quy trình đó từ từ thôi.
 エリカちゃんは、ここに来て、\n何か小さなきっかけをつかんだかなって思ったから……\nそこは、もったいないことではあるけれども……=Chị đã nghĩ rằng Erika-chan khi đến đây có lẽ đã tìm thấy một động lực nhỏ nào đó cho mình... nên việc xóa đi thì cũng hơi đáng tiếc thật, nhưng mà...
 いえ。それで構わない。\nエリカは今日、『飛んで』みた。\nかつてみほがやったように、彼女もまた、彼女らしく。=Không sao đâu. Như vậy cũng tốt rồi. Hôm nay Erika đã thử "bay". Giống như Miho đã từng làm trước đây, em ấy cũng đã làm theo cách của riêng mình.
-戦車道の未来を、ほんの少しだが、垣am見せてくれた。\n今日の記憶がなかったとしても……エリカなら必ず、\nいつか本当にたどり着き、それをどこかで見せてくれるだろう。=Em ấy đã cho tôi thấy một thoáng tương lai của Sensha-do, dù chỉ là một chút thôi. Cho dù không còn ký ức của ngày hôm nay... thì với Erika, chắc chắn một ngày nào đó em ấy sẽ thực sự chạm tới và thể hiện điều đó cho mọi người thấy.
+戦車道の未来を、ほんの少しだが、垣間見せてくれた。\n今日の記憶がなかったとしても……エリカなら必ず、\nいつか本当にたどり着き、それをどこかで見せてくれるだろう。=Em ấy đã cho tôi thấy một thoáng tương lai của Sensha-do, dù chỉ là một chút thôi. Cho dù không còn ký ức của ngày hôm nay... thì với Erika, chắc chắn một ngày nào đó em ấy sẽ thực sự chạm tới và thể hiện điều đó cho mọi người thấy.
 そっか。\nうん。\nアタシもそう思う。=Ra vậy.\nỪm.\nChị cũng nghĩ thế.
 コッコロたちの記憶は……=Ký ức của nhóm Kokkoro thì sao ạ...
 こっちのメンバーの記憶をいじることは、構造上のリスクが大きくてね。\nだから、キミたちのことを忘れることはないよ。\nいつかどっかで、ふらっと再会できるって思いつづけるんじゃないかな。=Can thiệp vào ký ức của các thành viên ở thế giới này sẽ mang lại rủi ro rất lớn về mặt cấu trúc. Thế nên, mọi người sẽ không quên các em đâu. Chắc là họ sẽ mãi tin rằng một ngày nào đó, ở đâu đó, chúng ta sẽ tình cờ gặp lại nhau thôi.
 そしてそれは、けして叶わないことだとは思わない。\n記憶にフタをしようとしてる、\nアタシが言うのは白々しいかもしれないけど──=Và chị không nghĩ rằng điều đó là không thể thực hiện được. Dù nghe một người đang chuẩn bị khóa ký ức như chị nói thì hơi có vẻ đạo đức giả, nhưng mà──
 未来なんて、誰にも分らないんだからさっ。\nこんな素敵なアクシデントだって起きる、この世界だもの☆=Tương lai mà, chẳng ai có thể biết trước được điều gì đâu. Bởi thế giới này là nơi mà ngay cả những sự cố tuyệt vời như thế này vẫn có thể xảy ra cơ mà☆
 きっとまた、つながることができるよ。=Chắc chắn chúng ta sẽ lại có thể kết nối với nhau thôi.
-みなさん！\nちょっといいでしょうか！=Mọi người ơi!\nCho em xin một ít phút được không ạ!
+みなさん！\nちょっといいでしょうか！=Mọi người ơi!\nCho mình xin một ít phút được không ạ!
 ……？　なんだ……？=……？ Chuyện gì thế……？
-みなさんが元の世界に帰ってからのご活躍を祈って、\nわたしたち【美食殿】からとっておきの餞別があるんです！=Để cầu chúc cho mọi người gặt hái được nhiều thành công sau khi trở về thế giới cũ, [Gourmet Guild] chúng em có một món quà chia tay đặc biệt dành tặng mọi người đây!
+みなさんが元の世界に帰ってからのご活躍を祈って、\nわたしたち【美食殿】からとっておきの餞別があるんです！=Để cầu chúc cho mọi người gặt hái được nhiều thành công sau khi trở về thế giới cũ, [Gourmet Guild] chúng mình có một món quà chia tay đặc biệt dành tặng mọi người đây!
 一同、整列！\n一列横隊！=Tất cả, tập hợp! Dàn thành hàng ngang!
 みなさまがアストルムでの戦闘訓練にお励みのあいだ、\nじつはわたくしたちも、とある秘密の特訓に励んでいたのでございます。\n大洗の街に赴いた際に教えていただいた、この踊りの……！=Trong lúc mọi người đang mải mê huấn luyện chiến đấu tại Astrum, thực ra chúng em cũng đã nỗ lực thực hiện một cuộc đặc huấn bí mật. Đó là về điệu nhảy mà chúng em đã được dạy khi ghé thăm thị trấn Oarai...!
 ね、ねえ……\nいまさらだけど……\nほ、ほんとにやるの……あれ……=Nè, cậu ơi...\nĐến nước này rồi nhưng mà...\nTh-thật sự phải nhảy cái đó hả...
-ここまで来たら……見せるしかないわ！\n私たちの本気……！=Đã đến nước này rồi thì... chỉ còn cách phô diễn nó ra thôi! Sự quyết tâm của chúng ta...!
+ここまできたら……見せるしかないわ！\n私たちの本気……！=Đã đến nước này rồi thì... chỉ còn cách phô diễn nó ra thôi! Sự quyết tâm của chúng ta...!
 アアアン、アン♪\nアアアン、アン♪=A-a-an, an♪\nA-a-an, an♪
 アアアン、アアアン、\nアン、アン、アン♪=A-a-an, a-a-an,\nAn, an, an♪
 これって……！\n大洗の、『あんこう踊り』！=Cái này là...! "Vũ điệu cá lồng đèn" của Oarai!
@@ -1006,7 +1006,7 @@ Chapter 6
 味噌でしょうゆでアッツアツ♪=Tương miso với nước tương, nóng bừng bừng luôn♪
 ぷっ……\nあははは、あははは……=Phụt... \nA ha ha ha, a ha ha ha...
 ぷっ……くっ……\nなにそれ……\nあははははは！=Phụt... ặc... \nCái gì thế kia... \nA ha ha ha ha!
-……よしっ……\nわたしもやります……！=...Được rồi... \nChị cũng sẽ tham gia luôn...!
+……よしっ……\nわたしもやります……！=...Được rồi... \nEm cũng sẽ tham gia luôn...!
 みほ……？\nみほがやるなら、わたしもやらないわけにはいかないな。=Miho...? Nếu em đã làm thì chị cũng không thể đứng ngoài cuộc được rồi.
 え？　隊長？\nやるんですか！？\nわたしは……そのっ……！=Hả? Đội trưởng? \nChị cũng nhảy sao ạ!? \nCòn em thì... cái đó...!
 ははっ、そうきたか☆\nじゃ、衣装も全員、おそろいにしないとね☆=Ha ha, ra là vậy sao☆ Vậy thì phải cho tất cả mọi người mặc đồ đồng bộ mới được☆
@@ -1021,7 +1021,7 @@ Chapter 6
 こらー！　食欲を刺激されてんじゃないわよー！\nうう……二度とやるもんか……\nみ、みんながそろったときだけなんだから！=Này! Đừng có để bị kích thích vị giác như thế chứ! Ư ư... mình sẽ không bao giờ làm lại lần thứ hai đâu... Ch-chỉ vì có đầy đủ mọi người ở đây thôi đấy nhé!
 誘って焦らしてぴっかぴか♪=Mời gọi rồi lại trêu đùa, lấp la lấp lánh♪
 ふふっ……\nあははっ……あはははっ……=Hi hi... \nA ha ha... a ha ha ha...
-お姉さんも混ざりたくなっちゃったな～♪　みんなそろって、青春だね♪\n……じゃ、よろしくホマレ。=Chị cũng muốn nhảy cùng quá đi~♪ Mọi người cùng chung vui thế này đúng là tuổi trẻ nhỉ♪ ...Vậy nhé, nhờ cả vào em đấy Homare.
+お姉さんも混ざりたくなっちゃったな～♪　みんなそろって、青春だね♪\n……じゃ、よろしくホマレ。=Chị cũng muốn nhảy cùng quá đi~♪ Mọi người cùng chung vui thế này đúng là tuổi trẻ nhỉ♪ ...Vậy nhé, nhờ cả vào cậu đấy Homare.
 ……おっけー=...Okê.
 こうして、ひょんなことからアストルムの世界に迷い込んだ、\n戦車道をたしなむ乙女たち──ミホ、マホ、エリカは、\n元の世界へと戻っていった。=Cứ như thế, những thiếu nữ theo đuổi Sensha-do lỡ lạc vào thế giới Astrum vì một sự cố hy hữu──Miho, Maho và Erika, đã trở về với thế giới cũ của mình.
 ３人の姿がかき消えたあとも、\n少女たちの笑い声は、いつまでもあたりに響きつづけていた──=Ngay cả khi hình bóng của cả ba đã tan biến, tiếng cười của những thiếu nữ vẫn còn vang vọng mãi trong không gian──
@@ -1047,35 +1047,35 @@ Finale
 ……夢の中でも、戦車道をしていた気がします。\nそれも、とびきり変わった戦術の……\n……でも、ふふ。きっと嫌な夢ではありませんでした。=...Hình như ngay cả trong mơ em cũng đang tập Sensha-do. \nMà còn là với những chiến thuật cực kỳ kỳ lạ nữa... \n...Nhưng mà, hi hi. Chắc chắn đó không phải là một cơn ác mộng đâu ạ.
 ……そうか。それはよかった。\nよし、それじゃあ行こうか。=...Vậy à. Thế thì tốt rồi. \nĐược rồi, đi thôi nào.
 ミホ、マホ、エリカが、\nタイムラーベの力で元いた世界へと転送されていった直後……=Ngay sau khi Miho, Maho và Erika được đưa trở về thế giới cũ bằng năng lượng của TimeLab...
-ふ～、これにて本当に一件落着っと☆\n……なんだい、ホマレ？\nそんな『The・含みのある笑顔』で見つめてきてさ？=Phù~, vậy là mọi chuyện thực sự đã được giải quyết ổn thỏa rồi nhé☆ \n...Gì vậy, Homare? \nSao lại nhìn chị với cái "nụ cười đầy ẩn ý" đó hả?
-うん。\nやっぱりそうするんだ～って思って☆=Vâng. \nEm chỉ đang nghĩ: "Quả nhiên là chị sẽ làm thế mà" thôi☆
-まあね。\nほら、アタシってさ。慎重派、だから？=Thì thế. \nThấy chưa, chị là kiểu người thận trọng mà?
-あれからアタシも単独でこっそり、足を運ばせてもらっただろう？\n彼女たちの町、大洗。\n戦車道が、由緒正しき武芸としてごく自然に存在している世界。=Sau đó chị cũng đã lén lút tự mình đi kiểm chứng rồi đấy thôi? \nCái thị trấn Oarai của mấy đứa nhỏ đó. \nMột thế giới mà Sensha-do tồn tại như một môn võ đạo truyền thống một cách cực kỳ tự nhiên.
+ふ～、これにて本当に一件落着っと☆\n……なんだい、ホマレ？\nそんな『The・含みのある笑顔』で見つめてきてさ？=Phù~, vậy là mọi chuyện thực sự đã được giải quyết ổn thỏa rồi nhé☆ \n...Gì vậy, Homare? \nSao lại nhìn tôi với cái "nụ cười đầy ẩn ý" đó hả?
+うん。\nやっぱりそうするんだ～って思って☆=Vâng. \nTôi chỉ đang nghĩ: "Quả nhiên là cô sẽ làm thế mà" thôi☆
+まあね。\nほら、アタシってさ。慎重派、だから？=Thì thế. \nThấy chưa, tôi là kiểu người thận trọng mà?
+あれからアタシも単独でこっそり、足を運ばせてもらっただろう？\n彼女たちの町、大洗。\n戦車道が、由緒正しき武芸としてごく自然に存在している世界。=Sau đó tôi cũng đã lén lút tự mình đi kiểm chứng rồi đấy thôi? \nCái thị trấn Oarai của mấy đứa nhỏ đó. \nMột thế giới mà Sensha-do tồn tại như một môn võ đạo truyền thống một cách cực kỳ tự nhiên.
 まるで漫画やアニメのような世界、ね。=Đúng là một thế giới hệt như trong manga hay anime vậy nhỉ.
-きっとそういう世界観のフィクションを、タイムラーベが学習して、\nいちデータとしてマージした……\n最初はアタシも、ただそう思ってたんだけどね。=Chắc là TimeLab đã học hỏi từ một tác phẩm hư cấu có thế giới quan như thế rồi gộp nó vào như một phần dữ liệu thôi... \nLúc đầu chị cũng chỉ nghĩ đơn giản như thế.
+きっとそういう世界観のフィクションを、タイムラーベが学習して、\nいちデータとしてマージした……\n最初はアタシも、ただそう思ってたんだけどね。=Chắc là TimeLab đã học hỏi từ một tác phẩm hư cấu có thế giới quan như thế rồi gộp nó vào như một phần dữ liệu thôi... \nLúc đầu tôi cũng chỉ nghĩ đơn giản như thế.
 だから、アクシデントが起きたとしても、\n世界もキャラも、まるごと『消去』すればいい。\nデータだもん、簡単だよね～？=Thế nên dù có xảy ra sự cố, \nthì chỉ cần "xóa" sạch cả thế giới lẫn nhân vật đó đi là xong. \nLà dữ liệu cả mà, dễ ợt phải không~?
 ところがだ。\nこと漫画やアニメに造詣が深い、かの人気作家のホマレさんでも、\nそんな個性的な作品はお目にかかったことがない。=Thế nhưng. \nNgay cả một người am hiểu sâu sắc về manga và anime như tác giả nổi tiếng Homare-san đây cũng chưa từng thấy một tác phẩm nào độc đáo đến thế.
 そういう模索路さん、あなたもね？=Cả cô nữa đúng không, Mosakuji-san?
-これはあくまで感覚的な話だけど……\nアタシは一人であの街を歩いてみて。=Đây chỉ là cảm nhận cá nhân thôi nhưng mà... \nKhi chị một mình tản bộ trên những con phố đó.
-フィクションとは思えないくらい、\n活き活きして血の通った、世界だと感じた。\nうん、アタシたちの『あっち側』と同じくらいにね。=Chị cảm thấy thế giới đó sống động và chân thực đến mức không thể nghĩ đó là hư cấu được. \nỪm, chân thực chẳng kém gì cái "thực tại" bên kia của chúng ta đâu.
-なによりアタシたちが出会った、\nミホちゃん、マホちゃん、エリカちゃん. =Và trên hết là những người mà chúng ta đã gặp gỡ. \nMiho-chan, Maho-chan và Erika-chan.
-彼女たちが本当に単なるデータだったとしたら、\nアタシはいま……こんな気持ちになってるかな。=Nếu họ thực sự chỉ là những khối dữ liệu đơn thuần, \nliệu lúc này... chị có cảm thấy như thế này không.
-アタシがこんなこと言うのも変だけど、\nアストルムに来てくれて、感謝しちゃってるんだ。=Dù chị nói ra điều này nghe hơi kỳ, \nnhưng chị thực sự thấy biết ơn vì họ đã đến với Astrum.
-彼女たちはたしかに『ほんもの』だった。\nアタシの基準に照らせばね。=Dưới góc nhìn của chị, \nhọ chắc chắn là những con người "bằng xương bằng thịt".
-さしずめ、アタシの世界を、価値観を、\nほんのちょっと変えてくれる、異邦人ってところかな。=Có lẽ họ chính là những người khách phương xa, \nđã khiến thế giới và những quan niệm của chị thay đổi đi đôi chút.
+これはあくまで感覚的な話だけど……\nアタシは一人であの街を歩いてみて。=Đây chỉ là cảm nhận cá nhân thôi nhưng mà... \nKhi tôi một mình tản bộ trên những con phố đó.
+フィクションとは思えないくらい、\n活き活きして血の通った、世界だと感じた。\nうん、アタシたちの『あっち側』と同じくらいにね。=Tôi cảm thấy thế giới đó sống động và chân thực đến mức không thể nghĩ đó là hư cấu được. \nỪm, chân thực chẳng kém gì cái "thực tại" bên kia của chúng ta đâu.
+なによりアタシたちが出会った、\nミホちゃん、マホちゃん、エリカちゃん。=Và trên hết là những người mà chúng ta đã gặp gỡ. \nMiho-chan, Maho-chan và Erika-chan.
+彼女たちが本当に単なるデータだったとしたら、\nアタシはいま……こんな気持ちになってるかな。=Nếu họ thực sự chỉ là những khối dữ liệu đơn thuần, \nliệu lúc này... tôi có cảm thấy như thế này không.
+アタシがこんなこと言うのも変だけど、\nアストルムに来てくれて、感謝しちゃってるんだ。=Dù tôi nói ra điều này nghe hơi kỳ, \nnhưng tôi thực sự thấy biết ơn vì họ đã đến với Astrum.
+彼女たちはたしかに『ほんもの』だった。\nアタシの基準に照らせばね。=Dưới góc nhìn của tôi, \nhọ chắc chắn là những con người "bằng xương bằng thịt".
+さしずめ、アタシの世界を、価値観を、\nほんのちょっと変えてくれる、異邦人ってところかな。=Có lẽ họ chính là những người khách phương xa, \nđã khiến thế giới và những quan niệm của tôi thay đổi đi đôi chút.
 要するに、私たちの現実世界と、本当にどこかでつながっているかも\nしれない世界。分岐した世界線の一つ。\nそう考えちゃったんだ、夢見がちな模索路さんは。=Nói tóm lại, đó có thể là một thế giới thực sự đang kết nối với hiện thực của chúng ta ở đâu đó. Một trong những dòng thời gian phân nhánh. \nCô đã nghĩ như vậy đúng không, cô nàng Mosakuji hay mơ mộng?
-だから、慎重派って言ってほしいな～\nそんなアタシは、万が一を考え、あっちの世界への過干渉に\nならないよう、彼女らの記憶にフタをしておいたってわけ。=Thế nên hãy gọi chị là người thận trọng đi~ \nVì lo xa nên chị mới phải khóa ký ức của mấy đứa nhỏ lại, để tránh việc chúng ta can thiệp quá sâu vào thế giới bên kia đấy.
+だから、慎重派って言ってほしいな～\nそんなアタシは、万が一を考え、あっちの世界への過干渉に\nならないよう、彼女らの記憶にフタをしておいたってわけ。=Thế nên hãy gọi tôi là người thận trọng đi~ \nVì lo xa nên tôi mới phải khóa ký ức của mấy đứa nhỏ lại, để tránh việc chúng ta can thiệp quá sâu vào thế giới bên kia đấy.
 ……ま、夢見がちでもいいよ。\nけっこうじゃないか、そういう夢。=...Mà thôi, mơ mộng chút cũng chẳng sao. \nNhững giấc mơ như thế cũng tuyệt đấy chứ.
 アタシたちの世界の人間は、歴史の過程で、\nいわゆるアナログから離れ、\n生活のあらゆる要素をデジタル化するという進歩のかたちを選んだ。=Con người ở thế giới chúng ta, trong tiến trình lịch sử, \nđã chọn cách rời xa những thứ gọi là "analog" \nvà tiến tới việc kỹ thuật số hóa mọi khía cạnh của đời sống.
 でももしも、どこかで人類が異なった選択をしていたら、\nいまごろアタシたちは、電脳の箱庭の中じゃない──\n本当にリアルの世界で、毎日戦車を乗り回していたのかもしれないよ。=Nhưng biết đâu, nếu tại một thời điểm nào đó nhân loại đưa ra một lựa chọn khác, \nthì giờ này có lẽ chúng ta không phải đang ở trong khu vườn điện tử này── \nmà đang thực sự lái xe tăng chạy vòng vòng mỗi ngày ở thế giới thực rồi cũng nên.
 いや～～、可能性ってものは実に面白いね♪=Chà~~, những khả năng có thể xảy ra thực sự là thú vị quá đi♪
 お年頃の女の子たちは、アストルムじゃなく、戦車に夢中か～\nそんな世界じゃ、\n私や模索路さんみたいな人種はどうなっちゃうのかな？=Những cô gái đang tuổi xuân thì không mặn mà với Astrum mà lại đam mê xe tăng sao~ \nỞ một thế giới như thế, \nkhông biết những người như tôi hay cô Mosakuji đây sẽ ra sao nhỉ?
-アタシは、ま～、いわゆるゲーム開発者のはしくれだし？\nゲームには人生の大切なことがすべて詰まってる、って\nけっこう本気で考えちゃう人間だけど……=Chị thì, chà, dù sao cũng là một nhà phát triển game quèn mà? \nChị là kiểu người thực sự tin rằng game chứa đựng tất cả những điều quan trọng nhất của cuộc đời...
-でもきっと、変わらないんじゃないかな。\nゲームにダイブするのも。\n戦車に乗り込むのも。=Nhưng chị nghĩ chắc là cũng chẳng có gì khác biệt đâu. \nDù là "Dive" vào trò chơi, \nhay là leo lên một chiếc xe tăng.
+アタシは、ま～、いわゆるゲーム開発者のはしくれだし？\nゲームには人生の大切なことがすべて詰まってる、って\nけっこう本気で考えちゃう人間だけど……=Tôi thì, chà, dù sao cũng là một nhà phát triển game quèn mà? \nTôi là kiểu người thực sự tin rằng game chứa đựng tất cả những điều quan trọng nhất của cuộc đời...
+でもきっと、変わらないんじゃないかな。\nゲームにダイブするのも。\n戦車に乗り込むのも。=Nhưng tôi nghĩ chắc là cũng chẳng có gì khác biệt đâu. \nDù là "Dive" vào trò chơi, \nhay là leo lên một chiếc xe tăng.
 だからきっと、アタシたちは──人間は、何も変わらない。=Thế nên chắc chắn là chúng ta──con người, vẫn sẽ chẳng có gì thay đổi.
 そう、アタシたち人間は、どんな選択をしてどんな歴史を歩もうとも。\nいつだって心躍る『居場所』を求めているのさ♪=Đúng vậy, con người chúng ta dù có chọn lựa thế nào hay đi qua trang sử nào đi chăng nữa. \nThì vẫn luôn luôn đi tìm một "nơi thuộc về" khiến trái tim mình phải rung động thôi♪
 ん～～、なんか締め方ちょっとクサくないかな？=Ưm~~, chẳng lẽ cách kết thúc này hơi sến quá sao?
-ぶーー、なんだよ～\n元はといえばアンタが起こした騒動を収めるの手伝ってあげたのに～=Xìii, gì chứ~ \nChẳng phải từ đầu là em giúp chị dọn dẹp đống rắc rối mà chị gây ra sao~
+ぶーー、なんだよ～\n元はといえばアンタが起こした騒動を収めるの手伝ってあげたのに～=Xìii, gì chứ~ \nChẳng phải từ đầu là tôi giúp cô dọn dẹp đống rắc rối mà cô gây ra sao~
 あ、見て。\n私たちのグルメチェイサー号が迎えにきたわよ！=A, nhìn kìa. \nChiếc Gourmet Chaser của chúng ta đến đón rồi kìa!
 オニギリさま、あいかわらずお勇ましく……♪\nそして改めて、なんと美しい車体でございましょう。\nわたくしたち【美食殿】の誇る、搭乗機でございます……！=Onigiri-sama vẫn dũng mãnh như mọi khi...♪ \nVà một lần nữa nhìn lại, thân xe mới đẹp làm sao. \nĐây chính là phương tiện di chuyển đầy kiêu hãnh của [Gourmet Guild] chúng ta...!
 えへへ、じゃあわたし、『タンクデサント』やっちゃいます☆=Hi hi, vậy thì em sẽ thử làm một ván "Tank Desant" (ngồi trên thân xe tăng) đây☆
@@ -1084,7 +1084,7 @@ Finale
 まったくこいつら、へんなやつらよね。\nさんざん戦ってへとへとなくせに、また乗りたいらしいわ。=Thật là, mấy cái người này đúng là kỳ quặc. \nChiến đấu rã rời cả người rồi mà vẫn còn muốn leo lên xe nữa.
 しょうがないわね～\nあたしが車長をやってやろうじゃないの！=Thật là hết cách với mọi người luôn mà~ \nĐược rồi, để tôi làm trưởng xe cho nhé!
 あの、{playername}くん。\nミホちゃん、マホさん、エリカさんとは、\nいったんお別れしちゃいましたけど。=Nè, {playername}-kun. \nChúng ta đã phải tạm biệt Miho-chan, Maho-san và Erika-san rồi.
-でも、本当は、お別れじゃないって思うんです。=Thế nhưng, em nghĩ đó không thực sự là lời từ biệt đâu.
+でも、本当は、お別れじゃないって思うんです。=Thế nhưng, tớ nghĩ đó không thực sự là lời từ biệt đâu.
 わたしたちが、あっちの世界とこっちの世界で、\n戦車に乗っているかぎり。\n同じドキドキを、おそろいで感じているかぎり。=Chỉ cần ở thế giới bên kia và thế giới bên này, \nthì chúng ta vẫn đang cùng ngồi trên những chiếc xe tăng. \nVà chỉ cần chúng ta vẫn cùng cảm nhận được sự phấn khích như nhau.
 わたしたちは心と心でつながっている。\n{playername}くんも、そう思いませんか？=Thì trái tim của chúng ta vẫn luôn kết nối với nhau. \n{playername}-kun cũng nghĩ vậy có đúng không?
 はい！　じゃあ、乗り込みましょう！\n発進ですよ☆\n{playername}くんも、一緒に！　せーの！=Vâng! Vậy thì, xuất phát thôi nào! \nLên đường thôi☆ \n{playername}-kun cũng đi cùng luôn nhé! Nào, một hai ba!
@@ -1153,9 +1153,9 @@ Chibi Cutscene 1
 ……ほらっ。すいーっ♪=...Nào. Lướt thôi nào~♪
 できるかな……\nえっと……=Mình có làm được không ta... \nƯm...
 ──おっと！\n大丈夫ですか？\nわたしが手をつないでいますので、\nもう一回、一緒にチャレンジです！=──Ô kìa! \nChị không sao chứ? \nEm sẽ nắm tay chị, \nnên hãy thử cùng nhau lại một lần nữa nhé!
-ありがとう、ペコさん。\nえへへ……♪=Cảm ơn em nhé, Peco-san. \nHi hi...♪
+ありがとう、ペコさん。\nえへへ……♪=Cảm ơn chị nhé, Peco-san. \nHi hi...♪
 コッコロも、\nもし怖ければ、\nわたしの手につかまるといい。=Kokkoro nữa, \nnếu thấy sợ thì cứ nắm lấy tay tôi này.
-さすがマホさま、堂々とした滑り。\nわたくし一応、慣れてはおりますが、\nでは、お言葉に甘えて……=Đúng là Maho-sama, lướt đi thật uy phong. \nCon thì cũng đã quen rồi, \nnhưng nếu vậy, con xin phép được đón nhận lòng tốt của ngài...
+さすがマホさま、堂々とした滑り。\nわたくし一応、慣れてはおりますが、\nでは、お言葉に甘えて……=Đúng là Maho-sama, lướt đi thật uy phong. \nEm thì cũng đã quen rồi, \nnhưng nếu vậy, con xin phép được đón nhận lòng tốt của ngài...
 ふふ。すいーっ♪=Hi hi. Lướt nào~♪
 ふふっ、あの二人、\nやっぱり仲よさそうね♪=Hi hi, hai người đó \nquả nhiên trông rất thân thiết nhỉ♪
 
@@ -1163,7 +1163,7 @@ Chibi Cutscene 2
 ちょっとーっ！\nこれ、ぜんぜん違うじゃない！！=Này cái chị kia! \nCái này trông hoàn toàn khác mà!!
 違う……とは、ふむ、\nこのキュートな装甲のことで\nございますか？=Hoàn toàn khác... hừm, \nngài đang nói đến bộ giáp đáng yêu này \nđó sao ạ?
 あたしが乗った『ティーガーＩ』は、\nもっとこう、重厚感っていうか……\nでっかくて、どっしりしててさ……=Chiếc "Tiger I" mà tôi từng ngồi trông nó phải uy nghi hơn thế này chứ... \nKiểu như... to lớn, vững chãi...
-おにぎりみたいな形にしたら、\nおいしそうかな～って♪=Em chỉ nghĩ là... nếu làm nó có hình dạng giống như nắm cơm onigiri, \nthì trông sẽ ngon lành lắm đây~♪
+おにぎりみたいな形にしたら、\nおいしそうかな～って♪=Tớ chỉ nghĩ là... nếu làm nó có hình dạng giống như nắm cơm onigiri, \nthì trông sẽ ngon lành lắm đây~♪
 戦車においしさは求めてないんだけど！\n……ったく、案の定、\n犯人はアホリーヌね……！=Tôi không cần xe tăng phải trông NGON đâu nhé! \n...Thật là, quả nhiên \nhung thủ chính là đồ ngốc Peco này mà...!
 みほ、彼女はどうやら\n豆戦車を求めていたわけでは\nなかったらしいな。=Miho, có vẻ như cô ấy \nkhông hề muốn một chiếc xe tăng hạng siêu nhẹ đâu.
 ペコさんの相談に乗ってて、\nかわいいのが作りたいんだって\n勘違いしちゃってたかも……=Chắc là lúc thảo luận với Peco-san, \nem đã hiểu lầm là chị ấy muốn làm một thứ gì đó thật dễ thương mất rồi...
@@ -1185,7 +1185,7 @@ Chibi Cutscene 2
 どんなモチーフにするか、\n一人ずつ案を出し合って\n良いものを決めるのは\nいかがでしょうか。=Mỗi người hãy thử đưa ra ý tưởng về biểu tượng chủ đạo, \nrồi chúng ta cùng chọn ra cái tốt nhất nhé?
 いいわね、それ！\nそれじゃあ私は……=Được đấy! \nVậy thì tôi sẽ...
 フォークとナイフ、\nなんてどうかしら。\n【美食殿】らしいと思うの。=Dùng nĩa và dao thì sao nhỉ? \nTôi thấy nó rất hợp với phong cách [Gourmet Guild] đấy.
-わたしはワイルドボアの\n骨付き肉がいいです☆\nおいしいんですよ♪=Em thì muốn hình thịt lợn rừng nguyên xương cơ☆ \nNó ngon lắm luôn ấy♪
+わたしはワイルドボアの\n骨付き肉がいいです☆\nおいしいんですよ♪=Tớ thì muốn hình thịt lợn rừng nguyên xương cơ☆ \nNó ngon lắm luôn ấy♪
 自信満々に\n魔物料理を入れるなーっ！=Đừng có mà tự tin đưa món quái vật vào đây chứ!
 じゃあじゃあっ、\nキャルちゃんのほっぺはどうですか？\nとってもおいしそうですし♪=Vậy thì, vậy thì... \nhình cái má của Kyaru-chan thì sao ạ? \nTrông có vẻ ngon lành lắm luôn♪
 あたしを食材のほうに含めるな！\nふしゃー！=Đừng có coi tôi là nguyên liệu nấu ăn chứ! \nHứ!
@@ -1211,11 +1211,11 @@ Ending
 
 できました！　できちゃいましたねっ☆\nわたしたちの、わたしたちだけの戦車！=Hoàn thành rồi! Cuối cùng cũng đã làm xong rồi nhỉ☆ Chiếc xe tăng của chúng ta, của riêng chúng ta mà thôi!
 有言実行。\n本当に完成までたどり着くとは、\nいや、たいしたものだ。=Nói được làm được. Không ngờ mọi người thực sự có thể hoàn thành nó, chà, khá khen cho các bạn đấy.
-すごいけれど、進軍開始地点。\n乗りこなしてこその戦車道なんだから。=Tuyệt thật đấy, nhưng đừng chỉ mới hoàn thành mà đã vội mừng. Có thể coi đây chính là điểm xuất phát của cuộc tiến quân. Bởi vì Sensha-do chính là việc phải làm chủ được chiếc xe tăng của mình mà.
+すごいけれど、でも、完成させただけで喜んでいてはダメよ。\nいわば、ここが進軍開始地点。\n乗りこなしてこその戦車道なんだから。=Tuyệt thật đấy, nhưng đừng chỉ mới hoàn thành mà đã vội mừng. Có thể coi đây chính là điểm xuất phát của cuộc tiến quân. Bởi vì Sensha-do chính là việc phải làm chủ được chiếc xe tăng của mình mà.
 言われなくたってやってやるわよ！\nアストルムいちの名手とやらになってやるわっ♪\nあんたが教えてくれるんでしょ、エリカ？=Không cần cô phải nhắc tôi cũng sẽ làm! Tôi sẽ trở thành tay lái lụa nhất Astrum cho xem♪ Cô sẽ dạy cho tôi chứ, Erika?
 ま、アストルムでの特訓のお礼はしておかないとね。\nふふっ、黒森峰式の訓練は厳しいわよ？\nこの車種……なんて名称だったかしら。=Chà, tôi cũng phải đáp lễ cho buổi đặc huấn ở Astrum này chứ. Hi hi, huấn luyện theo kiểu Kuromorimine khắc nghiệt lắm đấy nhé? Mà mẫu xe này... tên gọi là gì nhỉ?
-えへへ☆　じつは考えておいたんです。\nおいしいごはんを求めて進軍開始──\n『グルメパンツァー』なんてどうでしょうか！=Hi hi☆ Thật ra em đã nghĩ sẵn rồi. Tiến quân để đi tìm những món ăn ngon── Cái tên "Gourmet Panzer" thì mọi người thấy sao ạ!
-わたしたち【美食殿】が開発したこの戦車で、\nこれからは、どんな道でも快進撃です！\nグルメパンツァー・フォー！！=Với chiếc xe tăng do [Gourmet Guild] chúng em phát triển này, từ giờ trở đi, chúng ta sẽ tiến quân thần tốc trên mọi nẻo đường! Gourmet Panzer Vor!!
+えへへ☆　じつは考えておいたんです。\nおいしいごはんを求めて進軍開始──\n『グルメパンツァー』なんてどうでしょうか！=Hi hi☆ Thật ra tớ đã nghĩ sẵn rồi. Tiến quân để đi tìm những món ăn ngon── Cái tên "Gourmet Panzer" thì mọi người thấy sao ạ!
+わたしたち【美食殿】が開発したこの戦車で、\nこれからは、どんな道でも快進撃です！\nグルメパンツァー・フォー！！=Với chiếc xe tăng do [Gourmet Guild] chúng mình phát triển này, từ giờ trở đi, chúng ta sẽ tiến quân thần tốc trên mọi nẻo đường! Gourmet Panzer Vor!!
 勝手な号令まで開発してんじゃないわよ！\nあんたにしては、いいネーミングだって\n思ったとこだったのに……=Đừng có tự tiện chế ra cả khẩu hiệu như thế chứ! Vậy mà tôi vừa mới định khen là cái tên đó cũng khá khẩm so với cô đấy...
 ぴぎゅ～っ！\nぴぎゅ、ぴぎゅ、\nぴぎゅぴぎゅうっ……！！=Pigyuuuu~! Pigyu, pigyu, Pigyupigyugyu...!!
 なっ……なんだ、この巨大な魔物は！？\nまるで丘のようだ……！\nすぐに迎撃態勢を！=Cái... cái gì thế này, con quái vật khổng lồ này là sao!? Trông nó cứ như một ngọn đồi vậy...! Mau chuẩn bị tư thế nghênh chiến!
@@ -1227,7 +1227,7 @@ Ending
 この『グルメパンツァー』にも、いつか活躍すべきときが訪れるはず。\nそれまでは、ギルドハウスに格納しておくといたしましょう。=Chiếc "Gourmet Panzer" này chắc chắn cũng sẽ có lúc cần đến tài năng của nó thôi. Cho đến lúc đó, chúng ta hãy cứ cất nó vào Guild House nhé.
 ああ。その車体に触れるたび、\nわたしたちとの冒険の日々を\n思い出してくれるとうれしい。=Ừm. Tôi sẽ rất vui nếu mỗi khi chạm vào thân xe đó, các bạn lại nhớ về những ngày tháng phiêu lưu cùng chúng tôi.
 そうだ、完成記念に写真を撮っておくのはどうかな。\nカメラ係はわたしに任せて！=Đúng rồi, hay là chúng ta chụp một tấm ảnh kỷ niệm ngày hoàn thành đi. Cứ để phần thợ ảnh cho mình nhé!
-わあ、\nありがとうございます、ミホちゃん！\nじゃあ、お願いしちゃいますね☆=Oa, cảm ơn Miho-chan nhiều nhé! Vậy thì nhờ chị cả đấy ạ☆
+わあ、\nありがとうございます、ミホちゃん！\nじゃあ、お願いしちゃいますね☆=Oa, cảm ơn Miho-chan nhiều nhé! Vậy thì nhờ em cả đấy ạ☆
 みんな、ポーズはいいかな？\nふふっ、じゃあ……\nはいっ──グルメパンツァー・フォー♪=Mọi người, tạo dáng xong chưa nào? Hi hi, vậy thì... Một, hai, ba──Gourmet Panzer Vor♪
 ミホがカメラに収めたその光景は、\n彼女の心にも、いつまでも焼きついたのだった──=Khung cảnh mà Miho thu lại trong ống kính đó, cũng sẽ mãi mãi khắc sâu trong trái tim cô ấy──
 
