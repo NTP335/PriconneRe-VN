@@ -1,3 +1,68 @@
 マホ（ガルパン）ピックアップガチャ専用10回ガチャチケット=Vé Gacha 10 lượt chuyên dụng - Gacha Pick-up Maho (GuP)
 以下の報酬がプレゼントボックスに送られました。=Phần thưởng dưới đây đã được gửi vào Hộp quà.
 r:"「ガルパンコラボ記念 ログインキャンペーン その(\d+)」(\d+)日目で獲得したアイテムです。=Vật phẩm nhận được vào ngày thứ $2 của "Chiến dịch đăng nhập kỷ niệm hợp tác GuP phần $1".
+seasoned
+キャンペーンコイ=Xu chiến dịch
+キャンペーンコイン獲得=Nhận Xu chiến dịch.
+r:"^(\[3C404E\])?スタミナを(?:\[-\])?(\[FFBB00,CE4F00\])?([0-9]+)(?:\[-\])?(?:\[3C404E\])?消費したため、\nキャンペーンコインを(?:\[-\])?(?:\[FFBB00,CE4F00\])?([0-9]+)枚(?:\[-\])?(?:\[3C404E\])?獲得しました。(\[-\])?$"=$1Đã tiêu thụ$2$3$5$1 Thể lực,\nnhận được $2$4$5$1 Xu chiến dịch.$5
+
+r:"^終了まであと ([0-9]+)日([0-9]+)時間$"=Còn lại $1d $2h
+r:"^終了まであと ([0-9]+)時間([0-9]+)分$"=Còn lại $1h $2m
+
+
+専用=Chuyên dụng
+ステップ1のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Bước 1
+加入します！=Gia nhập!
+育成ミッションは、特定の条件を達成することで報酬が獲得できる\n期間限定のミッションでございます。ステップごとに設定された\nミッションを全て達成すると、次のステップに進めますよ。=Nhiệm vụ đào tạo là các nhiệm vụ có hạn thời gian, nơi bạn có thể nhận phần thưởng bằng cách hoàn thành các điều kiện cụ thể.\nSau khi hoàn thành tất cả nhiệm vụ được thiết lập cho mỗi bước, bạn sẽ có thể tiến sang bước tiếp theo.
+イベントに1日ログインしよう=Hãy đăng nhập vào sự kiện trong 1 ngày
+アストルム、始めます！=Astrum, bắt đầu thôi!
+ミホ（ガルパン）のユニオンバースト=Union Burst của Miho (GuP)
+
+専用10回ガチャチケットを消費してガチャを10回引きます。=Tiêu hao Vé Gacha 10 lượt chuyên dụng để thực hiện 10 lượt quay.
+マホ（ガルパン）ピックアップガチャ=Gacha Pick-up Maho (GuP)
+無料でガチャを10回引きます。=Thực hiện 10 lượt quay Gacha miễn phí.
+
+
+育成ミッション=Nhiệm vụ đào tạo
+イベント報酬券を500枚消費しよう=Hãy tiêu hao 500 Phiếu thưởng sự kiện
+探索を4回クリアしよう=Hãy vượt ải Thám hiểm 4 lần
+イベントに2日ログインしよう=Hãy đăng nhập vào sự kiện trong 2 ngày
+イベントクエストを30回クリアしよう=Hãy vượt ải Sự kiện 30 lần
+イベント報酬券を1500枚消費しよう=Hãy tiêu hao 1500 Phiếu thưởng sự kiện
+ミホ（ガルパン）のキャラクターストーリー第1話を閲覧しよう=Hãy xem Truyện nhân vật Miho (GuP) chương 1
+キャラのLvを合計で100回上げよう=Hãy tăng cấp nhân vật tổng cộng 100 lần
+キャラのRANKを合計で10回上げよう=Hãy tăng RANK nhân vật tổng cộng 10 lần
+探索を8回クリアしよう=Hãy vượt ải Thám hiểm 8 lần
+ダンジョンに2回挑戦しよう=Hãy khiêu chiến Dungeon 2 lần
+バトルアリーナで5回戦おう=Hãy chiến đấu 5 lần tại Battle Arena
+ステップ2のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Bước 2
+プリンセスアリーナで5回戦おう=Hãy chiến đấu 5 lần tại Princess Arena
+イベントクエストを100回クリアしよう=Hãy vượt ải Sự kiện 100 lần
+イベントに5日ログインしよう=Hãy đăng nhập vào sự kiện trong 5 ngày
+ミホ（ガルパン）のキャラクターストーリー第2話を閲覧しよう=Hãy xem Truyện nhân vật Miho (GuP) chương 2
+マホ（ガルパン）を編成してイベントボス(SCENARIO)を撃破しよう=Hãy đưa Maho (GuP) vào đội hình và đánh bại Boss sự kiện (SCENARIO)
+イベント報酬券を2000枚消費しよう=Hãy tiêu hao 2000 Phiếu thưởng sự kiện
+キャラのRANKを合計で20回上げよう=Hãy tăng RANK nhân vật tổng cộng 20 lần
+キャラのLvを合計で200回上げよう=Hãy tăng cấp nhân vật tổng cộng 200 lần
+探索を20回クリアしよう=Hãy vượt ải Thám hiểm 20 lần
+ダンジョンに5回挑戦しよう=Hãy khiêu chiến Dungeon 5 lần
+バトルアリーナで15回戦おう=Hãy chiến đấu 15 lần tại Battle Arena
+ステップ3のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Bước 3
+プリンセスアリーナで15回戦おう=Hãy chiến đấu 15 lần tại Princess Arena
+イベントクエストを150回クリアしよう=Hãy vượt ải Sự kiện 150 lần
+イベントに10日ログインしよう=Hãy đăng nhập vào sự kiện trong 10 ngày
+ミホ（ガルパン）を編成してイベントボス(SCENARIO)を撃破しよう=Hãy đưa Miho (GuP) vào đội hình và đánh bại Boss sự kiện (SCENARIO)
+キャラのLvを合計で300回上げよう=Hãy tăng cấp nhân vật tổng cộng 300 lần
+キャラ의 RANKを合計で30回上げよう=Hãy tăng RANK nhân vật tổng cộng 30 lần
+ミホ（ガルパン）のキャラクターストーリー第4話を閲覧しよう=Hãy xem Truyện nhân vật Miho (GuP) chương 4
+EX装備を10回上限解放しよう=Hãy giải phóng giới hạn Trang bị EX 10 lần
+ミホ（ガルパン）に通常枠のEX装備を3つ装備させよう=Hãy trang bị 3 Trang bị EX ô thường cho Miho (GuP)
+ダンジョンに10回挑戦しよう=Hãy khiêu chiến Dungeon 10 lần
+探索を40回クリアしよう=Hãy vượt ải Thám hiểm 40 lần
+プリンセスアリーナで30回戦おう=Hãy chiến đấu 30 lần tại Princess Arena
+バトルアリーナで30回戦おう=Hãy chiến đấu 30 lần tại Battle Arena
+ステップ4のミッションをすべて達成しよう=Hãy hoàn thành tất cả nhiệm vụ của Bước 4
+ミホ（ガルパン）のユニオンバースト=Union Burst của Miho (GuP)
+
+ボスバトル（SPECIAL）を解放すると確認できます。=Có thể xác nhận sau khi giải phóng Trận đấu Boss (SPECIAL).
+ボスバトル（SCENARIO）を解放すると確認できます。=Có thể xác nhận sau khi giải phóng Trận đấu Boss (SCENARIO).
