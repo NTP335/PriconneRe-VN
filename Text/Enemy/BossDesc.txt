@@ -2715,3 +2715,17 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 メロディックブリーズ+=Melodic Breeze+.
 
 プリンセスアリーナは設定にかかわらず「標準」で再生されます。=Đấu trường Công chúa (Princess Arena) sẽ được phát ở chế độ "Tiêu chuẩn" bất kể cài đặt nào.
+
+
+前から敵３体にＴＰダウン=Giảm TP của 3 kẻ địch đứng trước.
+前から敵３体に物理固定ダメージ=Gây sát thương vật lý cố định cho 3 kẻ địch đứng trước.
+捕食者として君臨する、凶悪な怪鳥獣。\n狩りを続ける膂力と剛爪が、侵入者をつけ狙う。=Một loài chim quái thú hung ác, thống trị như một kẻ săn mồi.\nCơ bắp mạnh mẽ và cặp vuốt sắc nhọn không ngừng săn đuổi những kẻ xâm nhập.
+前から１番目の敵と周囲に麻痺=Gây tê liệt cho kẻ địch đứng thứ nhất và phạm vi xung quanh.
+石化状態の敵全体に魔法割合ダメージ=Gây sát thương phép theo tỉ lệ phần trăm máu cho toàn bộ kẻ địch đang ở trạng thái hóa đá.
+前方範囲に石化=Gây hóa đá trong phạm vi phía trước.
+石化状態でない敵全体に石化=Gây hóa đá cho toàn bộ kẻ địch không ở trạng thái hóa đá.
+石化状態でない敵全体に魔法ダメージ=Gây sát thương phép cho toàn bộ kẻ địch không ở trạng thái hóa đá.
+石化の呪剣を携えた怪鳥。尾蛇の毒牙で\n獲物を蝕み、呪剣の石化で冒険者の歩みを止める。=Một loài chim quái dị mang theo thanh kiếm nguyền rủa hóa đá. Đôi nanh độc của chiếc đuôi rắn gặm nhấm con mồi,\nvà thanh kiếm nguyền rủa sẽ khiến những nhà mạo hiểm phải dừng bước.
+薬品の力で際限なく強化される錬成生物。\n注入液は繊細で、高温や不純物に狂わされやすい。=Một sinh vật được tạo ra từ thuật giả kim, không ngừng được cường hóa bởi thuốc. \nChất lỏng tiêm vào cơ thể rất nhạy cảm và dễ bị mất kiểm soát bởi nhiệt độ cao hoặc tạp chất.
+自身が継続ダメージ状態：ＴＰ回復量ダウン=Nếu bản thân đang chịu sát thương liên tục: Giảm lượng hồi TP.
+バイオドーザー=Bio Dozer.

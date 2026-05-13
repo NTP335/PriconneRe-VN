@@ -18,26 +18,16 @@ r:"^イベントに([0-9]+)日ログインしよう$"=Hãy đăng nhập vào s�
 
 
 
-わたしと、もっと長く、ずっとそばにいて…とか…\n今からしてあげるって…えっ？　い、いいの…？\nえへへ…おみくじに書いてた通りになっちゃった…♪\n=Hãy ở bên cạnh em lâu hơn nữa, mãi mãi... kiểu như vậy... \nAnh bảo sẽ thực hiện cho em ngay bây giờ ư... Ơ? Th-thật sao anh...?\nE hế hế... đúng y như những gì viết trong quẻ xăm rồi... ♪
-もう幸せ？　でも、それだとわたし、何をしたら…\n逆にして欲しいこと？　う～ん、わたしから騎士クンに\nしてもらいたいこと…ホントはいっぱいあるけど…\n=Anh đã thấy hạnh phúc rồi sao? Nhưng nếu vậy thì em nên làm gì đây...\nNgược lại, điều mà em muốn anh làm cho em ư? Ừm, điều em muốn anh hiệp sĩ làm cho em... thực ra thì có nhiều lắm, nhưng mà...
-今年も騎士クンと一緒にお正月を過ごせて、嬉しかった\nわたしはそれだけでも、すごく幸せだから…\nわたしも、騎士クンのこと同じくらい幸せにしたいな\n=Năm nay lại được cùng anh hiệp sĩ đón Tết, em vui lắm.\nChỉ bấy nhiêu thôi đã khiến em thấy vô cùng hạnh phúc rồi...\nEm cũng muốn làm cho anh hiệp sĩ được hạnh phúc giống như vậy.
-ひゃっ！　少し冷えてきたね…温かくしてくれるの？\n後ろを向いてって、こう？　…えっ！？　騎士クン！？\n抱き締められたら、身動きが… farm…ありがとう…！\n=Á! Trời bắt đầu lạnh rồi nhỉ... Anh sẽ sưởi ấm cho em sao?\nBảo em quay lưng lại thế này ư? ...Ơ!? Anh hiệp sĩ!?\nĐược anh ôm thế này em chẳng cử động được luôn... nhưng mà... cảm ơn anh nhé...!
-騎士クンのおみくじもいい結果だったし、\n今年は去年以上のいい年にしたいよね。わたしも…\nこ、今年こそ騎士クンと…む、むす…難しいよぉ～！\n=Quẻ xăm của anh hiệp sĩ cũng có kết quả tốt, nên chúng ta hãy cùng biến năm nay thành một năm tuyệt vời hơn cả năm ngoái nhé. Em cũng... \nN-năm nay nhất định sẽ cùng anh hiệp sĩ... k-kế... kết... khó nói quá đi à~!
-お正月はゆっくりできた？　わたしは…忙しかったな\n何もしないでいるとつい食べすぎちゃって、太…\nか、体が大きくなるから、よく動くようにしてるの！\n=Tết vừa rồi anh có được thảnh thơi không? Em thì... khá là bận đấy.\nHễ không làm gì là em lại lỡ ăn quá nhiều, rồi b-béo... à không, người sẽ to ra nên em đang cố gắng vận động thật nhiều đây!
-…それにね？　わたしのお願いは\nもう半分以上、叶ってる気がするの\nこうして今、騎士クンのそばにいられるから\n=...Với lại anh biết không?\nEm cảm thấy điều ước của mình đã thành hiện thực được hơn một nửa rồi.\nBởi vì giờ đây em đang được ở bên cạnh anh hiệp sĩ như thế này.
-だって…言い伝えがあるから\nお願いの内容を誰かに言ったら\n叶わなくなるって。だから…\n=Tại vì... có lời truyền miệng rằng\nnếu nói ra nội dung điều ước cho ai đó biết\nthì nó sẽ không linh nghiệm nữa. Thế nên...
-神殿のお参りでどんなお願いをしたか…？\nそんなの言えないよ…！　あっ！\n違うの！　これだけは秘密にしておきたくて！\n=Em đã ước gì khi đi lễ đền ư...?\nChuyện đó em không nói được đâu...! Á!\nKhông phải đâu! Chỉ là riêng điều này em muốn giữ bí mật thôi!
-お餅もお年玉も、喜んでもらえてよかった\nみんな騎士クンのことが、大好きなんだね\n…あ、あのね！　わ、わ、わ…！　ぷしゅ～…\n=Thật tốt khi mọi người đều vui vẻ với bánh dày và tiền lì xì.\nMọi người ai cũng yêu quý anh hiệp sĩ hết nhỉ.\n...À, anh này! E-e-em...! phììì... (tiếng xì khói vì xấu hổ)
-初日の出がどうしてキレイに見えたのか…\n騎士クンはどうしてだと思う？　わたしは…\nみんなで見たからだと思うな！　うん！\n=Tại sao bình minh đầu năm lại trông đẹp đến vậy nhỉ...\nAnh hiệp sĩ nghĩ là vì sao? Em thì...\nEm nghĩ là vì chúng ta đã cùng nhau ngắm nhìn đấy! Ừm!
-騎士クン。よかったらまた一緒に、お餅作らない？\n今度はみんなも呼んで、たくさん作りたいな…\n美味しいものは、やっぱりみんなで食べたいよね！\n=Anh hiệp sĩ ơi. Nếu được thì chúng mình lại cùng nhau làm bánh dày tiếp nhé?\nLần tới em muốn gọi cả mọi người đến để làm thật nhiều... \nĐồ ăn ngon thì quả nhiên phải ăn cùng mọi người mới tuyệt nhất anh nhỉ!
-これからの一年、もしも騎士クンに何かあったら、\n今度はわたしが助けるから。どんなことが起きても\nだから…もっと、一緒にいさせて欲しいの…！\n=Trong một năm tới, nếu có chuyện gì xảy ra với anh hiệp sĩ,\nthì lần này em sẽ là người bảo vệ anh. Bất kể chuyện gì xảy ra đi nữa.\nThế nên... em muốn được ở bên anh nhiều hơn nữa...!
-…あのね。あの時すぐにわたしを助けようと\nしてくれて、ありがとう。騎士クンならきっと\nなんとかしてくれるって、信じてた\n=...Anh này. Cảm ơn anh vì lúc đó đã ngay lập tức\nđịnh cứu giúp em nhé. Em đã luôn tin rằng nếu là anh hiệp sĩ\nthì nhất định anh sẽ có cách giải quyết mà.
-あううぅ～…ごめんなさい…\nわたし、また騎士クンに迷惑かけちゃった…\n誤解が解けて、本当によかったよ…\n=Ây da... em xin lỗi...\nEm lại làm phiền anh hiệp sĩ nữa rồi...\nHiểu lầm được hóa giải, thật là may quá đi...
-さっきはごめんね！　もう熱くない？　平気？\nよかった…そうだ。実は今から行かなきゃいけない\nところがあって…ついてきてくれる？\n=Xin lỗi anh chuyện lúc nãy nhé! Anh hết nóng chưa? Có sao không?\nMay quá... Đúng rồi. Thực ra bây giờ em có nơi này cần phải đi...\nAnh đi cùng em nhé?
-初日の出、とってもキレイだったね…\n一緒に見られて、すごくうれしかった！\n…そう！　みんなで見たのが、うれしかったの！\n=Bình minh đầu năm đẹp thật anh nhỉ...\nĐược cùng anh ngắm nhìn, em vui lắm!\n...Đúng vậy! Em thấy vui vì mọi người đã cùng nhau ngắm đấy!
-
-育む二人とつなぐ味=Hương vị kết nối đôi ta
-あなたの成長がくれた魔法=Phép màu từ sự trưởng thành của anh
-買い物帰りの道で……=Trên đường về sau khi đi mua sắm...
-願いで結ばれた契り=Lời thề gắn kết bởi những điều ước
-ドキドキのお参り=Chuyến đi lễ đền đầy hồi hộp
+あははー！！\n待て待てー！！=Ahaha!!\nĐứng lại, đứng lại đó!!
+あ、あれ～！？\nなんでだ！？=Ơ, ơ kìa~!?\nTại sao lại thế này!?
+グラマーな姉ちゃんに\n追いかけられてるのに\n微塵もうれしくねえっ！=Đang bị một chị gái bốc lửa rượt đuổi\nmà mình chẳng thấy vui chút nào hết!
+シノブ、助けてーっ！！=Shinobu, cứu bố với!!
+……因果応報だよ、お父さん=...Là quả báo đấy, bố ạ.
+戦車に乗った興奮が忘れられない【美食殿】の面々。アストルムで自分たちのオリジナル戦車を作るため、ミホ、マホ、エリカにアドバイスをもらいつつ、『最高の部品』を集める冒険へと再び出発するのだった。=Những thành viên của [Gourmet Guild] không thể quên được sự phấn khích khi ngồi trên xe tăng. Để chế tạo một chiếc xe tăng nguyên bản của riêng mình tại Astrum, họ lại một lần nữa lên đường phiêu lưu để thu thập "linh kiện tuyệt hảo" với sự tư vấn từ Miho, Maho và Erika.
+ミホたちの協力のもと、ついにオリジナル戦車を完成させた【美食殿】の面々。その名も『グルメパンツァー』。ギルドハウスへの格納を決めるが、その前に、冒険の思い出として記念写真を撮るのだった。=Với sự giúp đỡ của nhóm Miho, các thành viên [Gourmet Guild] cuối cùng đã hoàn thành chiếc xe tăng nguyên bản. Tên của nó là "Gourmet Panzer". Dù đã quyết định cất vào Guild House, nhưng trước đó, họ đã chụp một tấm ảnh kỷ niệm để ghi nhớ chuyến phiêu lưu này.
+はい、ママですよ=Vâng, mẹ đây nè.
+ランドソルの本塁打姫=Công chúa Home Run của Landosol
+エリカ（ガルパン）ピックアップガチャ専用10回ガチャチケット=Vé Gacha 10 lần dành riêng cho Pickup Gacha Erika (Girls und Panzer)
+エリカ（ガルパン）ピックアップガチャ=Erika (Girls und Panzer) Pickup Gacha
+専用10回ガチャチケットを消費してガチャを 10 回引きます。=Sử dụng Vé Gacha 10 lần chuyên dụng để thực hiện 10 lần quay.
+は～い、ミサト先生ですよ～\nあなたのこと、お世話してあげるわね♪\n=Vâng~~, Misato-sensei đây~~ \nĐể cô chăm sóc cho em nhé♪\n��お参り=Đi lễ đền

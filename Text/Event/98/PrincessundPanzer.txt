@@ -1192,19 +1192,7 @@ Chibi Cutscene 2
 ふふっ……♪　楽しそうだなあ……\nわたしたちにも３人で冒険した\n記念のエンブレムとか、\nあったらいいのにね。=Hi hi...♪ Trông họ vui vẻ quá nhỉ... \nPhải chi ba chúng ta cũng có một biểu tượng \nkỷ niệm cho chuyến phiêu lưu này thì tốt biết mấy.
 どうだ、エリカ。=Em thấy sao, Erika?
 …………\n……\n……考えておきます。=…………\n…… \n……Để em suy nghĩ đã.
-マホ（ガルパン）を編成してイベントボス(SCENARIO)を撃破しよう=Hãy lập đội có Maho (GuP) và đánh bại Boss sự kiện (SCENARIO)
-キャラのLvを合計で200回上げよう=Hãy nâng tổng cộng 200 cấp cho các nhân vật
-キャラのRANKを合計で20回上げよう=Hãy nâng tổng cộng 20 hạng RANK cho các nhân vật
-探索を20回クリアしよう=Hãy hoàn thành 20 lần Thám hiểm
-ほしいのは勝利のみ\n…だが負けることで\n得られるものもある\n難しいものだな=Thứ ta muốn duy nhất là chiến thắng... nhưng đôi khi thất bại cũng mang lại cho ta những bài học quý giá. Thật là khó khăn mà.
-戦車は一人では動かせない。だから信頼できる仲間が\n必要です。この世界に、わたしが知ってる戦車はない\nけど、信頼できる仲間ができて、すごくうれしいな♪\n=Xe tăng không thể vận hành bởi một người. Vì thế chúng ta cần những người đồng đội đáng tin cậy. Dù ở thế giới này không có những chiếc xe tăng mà mình từng biết, nhưng mình rất vui vì đã có được những người bạn đồng hành tin cậy♪
-不利な状況でも戦術と腕次第で戦況を引っくり返すこと\nはできます。そのためには基礎をしっかり鍛えないと\nいけないから、もっと魔法の特訓をしなきゃ！\n=Dù ở trong tình thế bất lợi, chúng ta vẫn có thể xoay chuyển cục diện trận đấu nhờ vào chiến thuật và kỹ năng. Để làm được điều đó, cần phải rèn luyện nền tảng thật vững chắc, nên mình phải đặc huấn ma pháp nhiều hơn nữa!
-世界を少しずつ知ることで、わたしの魔法も少しずつ\n上達していくのが分かるんだ。だから、いつかみんなが\nピンチになったときは、わたしの魔法で助けるから！\n=Càng tìm hiểu về thế giới, mình có thể nhận thấy ma pháp của bản thân cũng đang dần tiến bộ hơn. Thế nên, nếu sau này mọi người có gặp khó khăn, mình nhất định sẽ dùng ma pháp để giúp đỡ!
-次はいつ会えるか分からないけど…\nまた絶対に会いましょう！\n約束、だよ！\n=Dù không biết bao giờ mới có thể gặp lại... nhưng nhất định chúng ta sẽ tái ngộ! Hứa nhé!
-だけど、この世界で出会ったみんなのことも、\nわたしにとっては大切な友達で、仲間です！\n=Nhưng với mình, tất cả những người mình đã gặp gỡ ở thế giới này cũng đều là những người bạn, những người đồng đội vô cùng quý giá!
-…わたしも、お姉ちゃんも、エリカさんも、いつかは\n元の世界に帰らなくちゃいけないけど\n=...Dù mình, chị gái và cả chị Erika, một lúc nào đó đều sẽ phải trở về thế giới cũ.
-戦車道と腹ペコな想い=Sensha-do và những tâm hồn đói bụng
-世界が変わっても\nわたしがやることは\n変わらない。西住流は\nわたしが守る=Dù thế giới có thay đổi, những gì ta làm vẫn sẽ không đổi thay. Ta sẽ bảo vệ phái Nishizumi.
+
 
 Ending
 グルメパンツァーです！=Đây là Gourmet Panzer!
