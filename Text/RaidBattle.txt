@@ -1,0 +1,43 @@
+レイドバトル=Raid Battle
+初回討伐完了までチャレンジ報酬は獲得できません。=Không thể nhận Phần thưởng Khiêu chiến cho đến khi hoàn thành lần tiêu diệt đầu tiên.
+初回討伐まで消費なし=Không tiêu hao cho đến khi tiêu diệt lần đầu
+大慾暴君・カジノ王=Bạo Quân Đại Dục - Casino King
+
+---Mission---
+倒そう=Tiêu diệt
+
+sr:"^(.+?)(（.+）)?を([0-9０-９]+)回倒そう$"=Hãy tiêu diệt $1$2 $3 lần
+
+sr:"^(.+?)に累計([0-9,.]+)ダメージ与えよう$"=Hãy gây tổng cộng $2 sát thương lên $1
+sr:"^(.+?)に１度のバトルで([0-9,.]+)ダメージ与えよう$"=Hãy gây $2 sát thương lên $1 trong một trận chiến
+
+
+sr:"^(.+?)(?:と|を)([0-9０-９]+)回(バトル|倒そう)(?:しよう)? \(全難易度共通\)$"=$3 $1 $2 lần (Áp dụng cho mọi độ khó)
+
+
+r:"^レイドバトルでボスを合計([0-9０-９]+)回倒そう$"=Hãy tiêu diệt trùm trong Raid Battle tổng cộng $1 lần
+
+全体ミッション=Nhiệm vụ chung
+全体=Tất cả
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを20%減らそう=Toàn bộ người chơi hãy cùng hợp lực để giảm 20% Total HP của Bạo Quân Đại Dục - Casino King
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを40%減らそう=Toàn bộ người chơi hãy cùng hợp lực để giảm 40% Total HP của Bạo Quân Đại Dục - Casino King
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを60%減らそう=Toàn bộ người chơi hãy cùng hợp lực để giảm 60% Total HP của Bạo Quân Đại Dục - Casino King
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを80%減らそう=Toàn bộ người chơi hãy cùng hợp lực để giảm 80% Total HP của Bạo Quân Đại Dục - Casino King
+全プレイヤーで協力して大慾暴君・カジノ王のTotal HPを100%減らそう=Toàn bộ người chơi hãy cùng hợp lực để giảm 100% Total HP của Bạo Quân Đại Dục - Casino King
+
+---Others---
+討伐報酬券を所持していません。=Bạn không sở hữu Vé Phần thưởng Tiêu diệt nào.
+
+
+自身にダメージ減衰=Áp dụng Giảm thiểu Sát thương lên bản thân
+
+このボスバトルではサポートキャラを最大５人まで\n編成できます。また、マナも消費されません。=Trong Trận chiến Trùm này, bạn có thể xếp tối đa 5 nhân vật Hỗ trợ vào đội hình.\nNgoài ra, Mana cũng sẽ không bị tiêu hao.
+HARD解放=Mở khóa HARD
+VERY HARD解放=Mở khóa VERY HARD
+
+全難易度共通=Áp dụng cho mọi độ khó
+---NPC---
+イベントボスには非常に高い「Total HP」が設定されております。\n「Total HP」は、皆さまがバトル中に与えたダメージの分だけ減らせる\nのだとか。豪華報酬を目指し、力を合わせて討伐いたしましょう。=Trùm sự kiện được thiết lập một lượng "Total HP" cực kỳ lớn.\nNghe nói "Total HP" sẽ giảm đi tương ứng với lượng sát thương mà mọi người gây ra trong trận chiến.\nHãy cùng chung sức tiêu diệt chúng để hướng tới những phần thưởng sang xịn mịn nhé.
+ボスバトルは、イベント期間中に配布される「討伐チケット」を消費して\n挑戦できます。また、難易度は「ボス詳細」から変更できますよ。\n討伐を達成した難易度はスキップも行えるので、活用してくださいまし。=Trận chiến Trùm có thể khiêu chiến bằng cách tiêu hao "Vé Tiêu diệt" được phát trong thời gian diễn ra sự kiện.\nNgoài ra, bạn có thể thay đổi độ khó từ mục "Thông tin Trùm" đấy ạ.\nNhững độ khó đã tiêu diệt thành công có thể dùng tính năng Bỏ qua, nên bạn hãy tận dụng nhé.
+
+報酬交換では「討伐報酬券」と様々なアイテムを交換できます。\n目玉となるリセット対象報酬を引くことで、より多くのアイテムが\n獲得できる次のラインナップへと進めるそうです。=Tại Đổi Phần thưởng, bạn có thể dùng "Vé Phần thưởng Tiêu diệt" để đổi lấy nhiều vật phẩm khác nhau.\nNghe nói bằng cách quay trúng phần thưởng mục tiêu dùng để đặt lại, bạn có thể tiến tới danh sách tiếp theo để nhận được nhiều vật phẩm hơn nữa đấy ạ.

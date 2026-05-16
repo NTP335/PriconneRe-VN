@@ -12,3 +12,9 @@
 バトルキャラ表示=Hiển thị Nhân vật Chibi
 ★6以降=★6+
 ★6のキャラは★変更を利用できません。=Không thể sử dụng với nhân vật ★6.
+
+
+「★1、★2、★6への変更」「本来★５ではないキャラからの変更」はできません。=Không thể thực hiện việc "Thay đổi sang ★1, ★2, ★6" hoặc "Thay đổi từ nhân vật vốn không phải ★5"
+★の数を選択したパーティに合わせる=Khớp số ★ với đội hình đã chọn
+選択したパーティと現状のキャラの★の数が異なります。=Số ★ của nhân vật hiện tại và đội hình đã chọn khác nhau.
+現状のキャラの★=Số ★ của nhân vật hiện tại

@@ -3,11 +3,13 @@
 の\n欠片=Mảnh
 の設計図=Bản vẽ
 の\n設計図=Bản vẽ
-sr:"^(.+)（欠片）$"=$1 (Mảnh)
-sr:"^(.+)の設計図$"=$1 Bản vẽ
+sr:"^(.+)(Ｒ)?（欠片）$"=$1$2 (Mảnh)
+sr:"^(.+)(Ｒ)?の設計図$"=$1$2 Bản vẽ
 
-sr:"^必要Lv(\d+)\n「(.+)」([の欠片設計図\n]+)。$"=Yêu cầu Cấp $1\nA$3 của $2.
-sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 của $1."
+sr:"^必要Lv(\d+)\n「(.+)(Ｒ)?」([の欠片設計図\n]+)。$"=Yêu cầu Cấp $1\nA$4 của $2$3.
+sr:"^「(.+)(Ｒ)?」([の設計図欠片\n]+)。$"="A$3 của $1$2."
+
+sr:"^(.+)Ｒ$"=$1Ｒ
 
 アイアンブレード=Lưỡi Kiếm Sắt
 キラーペンシル=Bút Sát Thủ
@@ -679,101 +681,3 @@ sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 của $1."
 紅飾ラディオドンタ=Trang Sức Đỏ Thẫm Radiodonta
 碧飾ケロニオイデア=Trang Sức Ngọc Bích Cheloniodea
 蒼飾フィロセラス=Trang Sức Xanh Dương Philoceras
-
-バイオレットアーマーＲ=Áo Giáp Tím R
-クルセイダープレートＲ=Giáp Thập Tự Quân R
-聖者のローブＲ=Áo Choàng Thánh R
-ガーディアンシールドＲ=Khiên Bảo Hộ R
-ネクロマンサーブーツＲ=Giày Necromancer R
-蒼天のローブＲ=Áo Choàng Bầu Trời Xanh R
-ミントチョココロネ=Cornet Bạc Hà Sô-cô-la
-
-ダークマターエッジＲ=Lưỡi Đao Vật Chất Tối Ｒ
-戦女王の烈斧Ｒ=Rìu Cháy của Nữ Vương Chiến Tranh Ｒ
-ブリザードクローＲ=Vuốt Bão Tuyết Ｒ
-ストームブリンガーＲ=Mang Bão Ｒ
-フェニックスロッドＲ=Gậy Phượng Hoàng Ｒ
-アルテミスボウＲ=Cung Artemis Ｒ
-アイスクレイモアＲ=Kiếm Băng Claymore Ｒ
-鷹神の煌剣Ｒ=Kiếm Rực Rỡ của Thần Chim Ưng Ｒ
-司法神の錫杖Ｒ=Quyền Trượng của Thần Công Lý Ｒ
-月のブレスレットＲ=Vòng Tay Mặt Trăng Ｒ
-猫神のペンダントＲ=Mặt Dây Chuyền Thần Mèo Ｒ
-竜の涙Ｒ=Nước Mắt Rồng Ｒ
-
-
-スカーレットメイルＲ=Áo Giáp Đỏ Thẫm Ｒ
-ドラゴニックアーマーＲ=Giáp Rồng Ｒ
-翠緑の霊衣Ｒ=Váy Xanh Lục Ｒ
-アクエリアスブーツＲ=Giày Bảo Bình Ｒ
-ドラゴンヘッドＲ=Đầu Rồng Ｒ
-ダークテラードレスＲ=Váy Kinh Tâm Tối Ｒ
-カオスブレードＲ=Lưỡi Đao Hỗn Mang Ｒ
-アクアスラッシャーＲ=Đao Chém Nước Ｒ
-ユニコーンナイフＲ=Dao Kỳ Lân Ｒ
-ガイアバルディッシュＲ=Bardiche Gaia Ｒ
-蒼雷拳Ｒ=Sấm Xanh Dương Ｒ
-精霊樹の弓Ｒ=Cung Rừng Tiên Ｒ
-ハイエンジェルロッドＲ=Gậy Thiên Thần Ｒ
-鳳凰刀Ｒ=Kiếm Phượng Hoàng Ｒ
-ハイデビルズワンドＲ=Đũa Arcdemon Ｒ
-
-大賢者の宝珠Ｒ=Quả Cầu Arcsage Ｒ
-焔帝の指輪Ｒ=Ngọn Lửa Chúa Tể Ｒ
-聖信徒のペンダントＲ=Mặt Dây Chuyền Đệ Tử Ｒ
-
-純潔の巫女装束Ｒ=Áo Nữ Tu Ｒ
-ファンタズムメイルＲ=Áo Giáp Ảo Ảnh Ｒ
-蒼輝の鎧Ｒ=Rực Rỡ Xanh Dương Ｒ
-忘哭の冠Ｒ=Vương Miện Đau Khổ Ｒ
-フェザーワルツＲ=Điệu Vũ Lông Vũ Ｒ
-インファナルグリーブＲ=Giáp Chân Địa Ngục Ｒ
-百華白桜刀Ｒ=Lưỡi Đóa Hoa Trắng Ｒ
-
-
-ゼノスフィアロッドＲ=Gậy Không Gian Ｒ
-ネクロディムアックスＲ=Rìu Thần Chết Ｒ
-ライトニングブレードＲ=Lưỡi Đao Tia Chớp Ｒ
-ムーンセスタスＲ=Caestus Mặt Trăng Ｒ
-フレイアムルロッドＲ=Gậy Pyramour Ｒ
-白銀の大翼弓Ｒ=Cánh Bạch Vô Cực Ｒ
-エメラルドダガーＲ=Lưỡi Lê Ngọc Lục Bảo Ｒ
-ゼロフロストランスＲ=Thương Sương Giá Ｒ
-
-ミレニアムイヤリングＲ=Hoan Tai Thiên Niên Kỷ Ｒ
-海神の耳飾りＲ=Hoan Tai Poseidon Ｒ
-精霊王の護石Ｒ=Bùa Hộ Mệnh Vua Linh Hồn Ｒ
-
-ラフィングスカル=Đầu Lâu Rafing
-ガイストチェイン=Xích Linh Hồn
-
-エンプレスローブＲ=Áo Choàng Hoàng Hậu Ｒ
-九天の鎧Ｒ=Y Phẩm Thiên Cổ Ｒ
-フェアリアルブーツＲ=Giày Tiên Ｒ
-メイデンクロースＲ=Vải Trinh Nữ Ｒ
-白祈の聖冠Ｒ=Áo Choàng Đức Hạnh Ｒ
-聖櫻の鎧Ｒ=Nghi Lễ Rơi Cánh Hoa Ｒ
-
-
-ジェネシスロッドＲ=Trượng Sáng Thế Ｒ
-ゲイルスティンガーＲ=Thương Cuồng Phong Ｒ
-神判の聖斧Ｒ=Thánh Rìu Phán Quyết Ｒ
-流禍の蒼刃Ｒ=Thương Lam Đoạn Họa Ｒ
-クリムゾンクローＲ=Vuốt Huyết Hồng Ｒ
-神花の聖杖Ｒ=Thánh Trượng Thần Hoa Ｒ
-アビスボウＲ=Cung Vực Thẳm Ｒ
-ラヴァエッジＲ=Song Đao Dung Nham Ｒ
-天開の聖剣Ｒ=Thánh Kiếm Khai Thiên Ｒ
-
-
-人魚姫の霊涙Ｒ=Linh lệ Nhân ngư R
-赫怒竜のペンダントＲ=Dây chuyền Hách nộ Long R
-聖獣の祈念Ｒ=Lời cầu nguyện của Thánh thú R
-
-
-鬼焔の闘衣Ｒ=Quỷ Diễm Đấu Y R
-レイジクイーンドレスＲ=Rage Queen Dress ＲＲ
-エクゾマギアローブＲ=Exomagia Robe Ｒ
-煌金の王鎧Ｒ=Hoàng Kim Vương Giáp R
-ブラッドルビーヒールＲ=Bloodruby Heels Ｒ
-ロイヤルガードハットＲ=Royal Guard Hat Ｒ
