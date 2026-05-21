@@ -1440,7 +1440,7 @@
 王子はん、えらい大変やったみたいやなぁ=Trông hiệp sĩ này đã trải qua nhiều chuyện.
 でも安心してな=Nhưng đừng lo lắng.
 
-ぺコリーヌたちは獣人族の国へ送られ、そこに里帰りしていた【自警団（カォン）】の手当てによって一命を取り留めた。情報を伝えたのち、突然苦しみだすアメス。その裏には謎の人物の影があった。=Peccóline và những người khác đã được đưa đến vùng đất người thú, nơi họ được Hiệp Sĩ Tuần Tra (Kaon) - người đã trở về làng - chữa trị để cứu mạng. Sau khi truyền đạt thông tin, Ameth bỗng nhiên lâm vào khổ sở. Phía sau cô là bóng dáng của một nhân vật bí ẩn.
+ぺコリーヌたちは獣人族の国へ送られ、そこに里帰りしていた【自警団（カォン）】の手当てによって一命を取り留めた。情報を伝えたのち、突然苦しみだすアメス。その裏には謎の人物の影があった。=Peccóline và những người khác đã được đưa đến vùng đất người thú, nơi họ được Caon - người đã trở về làng - chữa trị để cứu mạng. Sau khi truyền đạt thông tin, Ameth bỗng nhiên lâm vào khổ sở. Phía sau cô là bóng dáng của một nhân vật bí ẩn.
 って！\nそんな挨拶してる場合じゃないわよもうっ！！=Này! Lúc này đâu phải lúc để chào hỏi người ta như vậy!!
 いったい、なにがどうなってるの？\nしっちゃかめっちゃかのドタバタじゃない、\nあたしもわけがわかんないわよっ……！=Rốt cuộc chuyện gì đang xảy ra? Đây không phải là mớ hỗn độn điên rồ nào đâu, tôi cũng chẳng hiểu gì...!
 と、とりあえず、状況を整理してみるけど……=D-Dù sao thì, tôi sẽ tóm tắt tình hình, nhưng...
@@ -1457,7 +1457,7 @@
 【レイジ・レギオン】のアゾールドってオジサンが\n逃がしてくれなかったら……ほんとうに、全滅してたでしょうね。\n……あのひとも、色々事情があったみたいだけど……=Nếu không có lão già tên Azold từ [Legion Sự Giận Dữ] giúp cậu trốn thoát... Cậu thực sự đã bị tiêu diệt. ...Có vẻ như ông ta cũng có lý do của mình...
 ……そうそう。\nアゾールドは、あんたたちを獣人族の国に送ったみたい。=...Đúng vậy. Azold dường như đã gửi cậu đến vùng đất người thú.
 敵ながら、ナイスな判断だわ。\nあの国はランドソルに次ぐくらいの力があるし。=Đó là một quyết định tốt, ngay cả khi là kẻ thù. Đất nước đó chỉ đứng sau Landosol về sức mạnh.
-それに何より、【自警団（カォン）】のみんなが。\nあんたの頼もしい仲間たちがいる。=Và trên hết, tất cả mọi người trong Đội Tuần Tra. Những người bạn đáng tin cậy của cậu.
+それに何より、【自警団（カォン）】のみんなが。\nあんたの頼もしい仲間たちがいる。=Và trên hết, tất cả mọi người trong Caon. Những người bạn đáng tin cậy của cậu.
 覇瞳皇帝や、イヤな貴族たちがまとめて失脚して。\nランドソルでの獣人族の差別が少なくなったから、\n地元へ里帰りしていたらしいわね。マホちゃんたち。=Kaiser Insight và tất cả các quý tộc khác đã mất chức vụ cùng một lúc. Vì có ít sự phân biệt đối xử giữa người thú ở Landosol, họ đã quay về quê hương. Maho và những người khác.
 まあ、いきなりあんたたちが空間跳躍してきて、\n相当びっくりしてたけれどね。\n素早い手当てのおかげで、あんたたちは一命を取り留めたってわけ。=Ừ, họ khá bối rối khi cậu đột ngột xuất hiện. Nhờ được điều trị nhanh chóng, cậu đã sống sót.
 だから……\nまずは彼女たちのところでゆっくり、心と体の傷を癒して。\nそれから、反撃開始よ。=Chính vì vậy... Tôi sẽ bắt đầu bằng cách chữa lành những vết thương trên cơ thể và tâm trí của họ một cách từ từ. Vậy thì, hãy bắt đầu phản công.

@@ -131,6 +131,11 @@ r:"^\[3B3F4D\]本日の挑戦回数の上限に達しています。\nジュエ�
 
 クエストTOPへ=Đến trang đầu Nhiệm Vụ
 
+スタミナ受け取り確認=Xác nhận nhận thể lực
+【プレゼントボックス（期限あり）】=【Hộp quà (Có thời hạn)】
+以下のスタミナを受け取りますか？=Bạn có muốn nhận lượng thể lực dưới đây không?
+【ミッション】=【Nhiệm vụ】
+
 ---Main Quest Menu---
 未達成=Chưa hoàn thành
 未達成クエスト=Các Nhiệm Vụ chưa hoàn thành

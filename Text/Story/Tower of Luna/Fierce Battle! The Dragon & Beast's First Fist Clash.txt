@@ -25,8 +25,8 @@ Chapter 1
 ああ、カヤだ。\nランドソルの祭りで会った以来だよな、カオリ？=À, tôi là Kaya. Chúng ta chưa gặp nhau kể từ vụ việc ở Lễ hội Landosol, đúng không, Kaori?
 やっぱりあの時のドラゴン族の子だよね～？\n久しぶりさ～！　名前覚えててくれてうれしいよ～！=Tôi biết mà! Vậy cô thực sự là cô gái rồng từ lúc đó? Đã lâu rồi~sa! Tôi mừng là cô nhớ tên tôi!
 ああ、忘れてなんかないさ。=Ừ, tôi chưa quên.
-まさか【自警団（カォン）】が現れるなんてな……\n面白くなってきたぜ！=Ai ngờ một thành viên của Đội Cảnh sát Tự nguyện Caon lại xuất hiện... Điều này thú vị đây!
-あれからアンタたちのことはよく調べたんだ。\n表立って対立こそしてないがギャングと自警団、\nいつ抗争になってもおかしくないからな。=Kể từ lễ hội, tôi đã điều tra các cậu kỹ lưỡng. Các cậu dường như không công khai chống lại người của tôi, nhưng giữa các băng nhóm và cảnh sát tự nguyện, cuộc chiến có thể bắt đầu bất cứ lúc nào.
+まさか【自警団（カォン）】が現れるなんてな……\n面白くなってきたぜ！=Ai ngờ một thành viên của Caon lại xuất hiện... Điều này thú vị đây!
+あれからアンタたちのことはよく調べたんだ。\n表立って対立こそしてないがギャングと自警団、\nいつ抗争になってもおかしくないからな。=Kể từ lễ hội, tôi đã điều tra các cậu kỹ lưỡng. Các cậu dường như không công khai chống lại người của tôi, nhưng giữa các băng nhóm và Caon, cuộc chiến có thể bắt đầu bất cứ lúc nào.
 獣人族だけのギルド【自警団（カォン）】……\n厄介そうな面子の中でも剣と拳の武闘派二枚看板は見逃せねえ。=Caon... một bang hội hoàn toàn gồm người thú. Ngay cả trong đám đông thô lỗ đó, hai chiến binh hàng đầu của họ—con sóng cầm kiếm và con chó đánh đấm—thực sự nổi bật.
 特に同じ殴り合い専門のアンタのことは前々からマークしてたんだ。\n魔物のうろつくこの塔は絶好の機会だ。\nたっぷり見せてもらうぜ、アンタの強さをな！=Đặc biệt vì cô ấy cũng là một đấu sĩ như tôi, tôi đã chú ý theo dõi cô ấy. Tháp này đầy rẫy quái vật là cơ hội hoàn hảo... Hãy xem cô ấy mạnh đến đâu!
 で、どうする？　{playername}。\nカオリも来たいって言ってるし、仲間は多い方がいいだろう？=Vậy? Cậu nghĩ sao, {playername}? Kaori cũng muốn đi, và này—có thêm đồng minh chẳng bao giờ hại.
@@ -229,7 +229,7 @@ Chapter 6
 これでラストさ～！=Lần này sẽ là lần cuối~sa!
 はぁー、何度見てもすごい技だな。\nこいつを習得すれば、オレはもっと強くなれるんじゃないか？=Ối dà, dù đã thấy bao nhiêu lần, kỹ thuật của cậu vẫn đơn giản là tuyệt vời. Nếu mình cũng làm chủ được nó, mình sẽ mạnh đến đâu nhỉ?
 それなら【自警団（カォン）】に出向すればいいさ～\n一緒に仕事しながら教えてあげるよ～=Vậy thì... sao cậu không vào Caon với chúng tôi~sa? Mình sẽ dạy cậu khi chúng ta cùng nhau hoạt động!
-おいおい、ギャングが自警団に入れるかよ……\nいや、でも潜入という名目ならいけるのでは？=Này, này, một người từ băng nhóm không thể gia nhập lực lượng tự quản được... Không, nhưng nếu với mục đích xâm nhập thì có thể được chăng?
+おいおい、ギャングが自警団に入れるかよ……\nいや、でも潜入という名目ならいけるのでは？=Này, này, một người từ băng nhóm không thể gia nhập Caon được... Không, nhưng nếu với mục đích xâm nhập thì có thể được chăng?
 もう一人の武闘派のマコトにも興味あるし、\nちょっとボスに相談してみてもいいかもな。=Đấu sĩ kia, Makoto, cũng khiến tôi quan tâm... có lẽ tôi nên nói chuyện với Ông Chủ về việc này.
 カヤはかわいいから、マホもよろこぶよ～\nいっぱいフリフリのかわいい服、作ってくれるさ～=Kaya, cậu là một cô gái dễ thương, nên Maho chắc chắn sẽ vui mừng chấp nhận~ Cô ấy sẽ làm cho cậu nhiều bộ váy xòe dễ thương~sa!
 はぁ！？　オ、オレが、フリフリの……うわぁ、想像したくねぇ……\nい、今の話はなかったことにしてくれ。=Hả?! Đ-Đó không phải... Ối, váy xòe... C-Cứ coi như tôi chưa nói gì.

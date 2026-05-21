@@ -2715,7 +2715,8 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 メロディックブリーズ+=Melodic Breeze+.
 
 プリンセスアリーナは設定にかかわらず「標準」で再生されます。=Đấu trường Công chúa (Princess Arena) sẽ được phát ở chế độ "Tiêu chuẩn" bất kể cài đặt nào.
-
+最も近い敵２キャラに物理特大ダメージを与え、ＴＰを中ダウンさせる。さらに敵キャラのＨＰが80％未満の場合、ノックバックさせる。このスキルの効果はダメージを無効化しても付与される。=Gây sát thương vật lý cực đại cho 2 kẻ địch gần nhất và giảm tầm trung TP của chúng. Ngoài ra, nếu HP của kẻ địch dưới 80%, đánh lùi chúng. Hiệu ứng này vẫn được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+歪音の精霊は毒、猛毒、呪い、火傷、呪詛の効果および環境効果によるダメージを受けない。=Tinh linh méo tiếng không nhận sát thương từ các hiệu ứng Độc, Kịch độc, Nguyền rủa, Thiêu đốt, Lời nguyền độc và sát thương từ hiệu ứng môi trường.
 
 前から敵３体にＴＰダウン=Giảm TP của 3 kẻ địch đứng trước.
 前から敵３体に物理固定ダメージ=Gây sát thương vật lý cố định cho 3 kẻ địch đứng trước.

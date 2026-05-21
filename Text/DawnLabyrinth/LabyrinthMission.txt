@@ -9,25 +9,9 @@
 キャラを25人以上勧誘した状態でクリアしよう=Hoàn thành với ít nhất 25 nhân vật đã chiêu mộ.
 キャラを30人以上勧誘した状態でクリアしよう=Hoàn thành với ít nhất 30 nhân vật đã chiêu mộ.
 
+r:"^難易度(\d+)以上で(\d+)回クリアしよう$"=Hãy vượt ải $2 lần ở độ khó $1 trở lên.
+r:"^難易度(\d+)以上で(\d+)回クリアしよう（スキップを除く）$"=Hãy vượt ải $2 lần ở độ khó $1 trở lên (không tính Bỏ qua).
 
-難易度3以上で1回クリアしよう=Hoàn thành 1 lần ở độ khó 3 trở lên.
-難易度4以上で1回クリアしよう=Hoàn thành 1 lần ở độ khó 4 trở lên.
-難易度2以上で1回クリアしよう=Hoàn thành 1 lần ở độ khó 2 trở lên.
-難易度1以上で1回クリアしよう=Hoàn thành 1 lần ở độ khó 1 trở lên.
-難易度5で1回クリアしよう=Hoàn thành 1 lần ở độ khó 5.
-
-難易度2以上で3回クリアしよう=Hoàn thành 3 lần ở độ khó 2 trở lên
-難易度2以上で5回クリアしよう=Hoàn thành 5 lần ở độ khó 2 trở lên
-難易度2以上で10回クリアしよう=Hoàn thành 10 lần ở độ khó 2 trở lên
-難易度2以上で12回クリアしよう（スキップを除く）=Hoàn thành 12 lần ở độ khó 2 trở lên (không dùng skip)
-
-難易度2以上で14回クリアしよう（スキップを除く）=Hoàn thành 14 lần ở độ khó 2 trở lên (không dùng skip)
-
-難易度2以上で16回クリアしよう（スキップを除く）=Hoàn thành 16 lần ở độ khó 2 trở lên (không dùng skip)
-
-難易度2以上で18回クリアしよう（スキップを除く）=Hoàn thành 18 lần ở độ khó 2 trở lên (không dùng skip)
-
-難易度2以上で20回クリアしよう（スキップを除く）=Hoàn thành 20 lần ở độ khó 2 trở lên (không dùng skip)
 以上=hoặc cao hơn
 sr:"^【(.+)】難易度(\d+)(以上)?で(\d+)回クリアしよう$"=Với [$1], Hoàn thành $4 lần ở độ khó $2$3.
 

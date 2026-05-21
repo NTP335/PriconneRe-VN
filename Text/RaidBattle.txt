@@ -14,7 +14,7 @@ sr:"^(.+?)に１度のバトルで([0-9,.]+)ダメージ与えよう$"=Hãy gây
 
 sr:"^(.+?)(?:と|を)([0-9０-９]+)回(バトル|倒そう)(?:しよう)? \(全難易度共通\)$"=$3 $1 $2 lần (Áp dụng cho mọi độ khó)
 
-
+レイドバトルのデイリーミッション報酬を受け取ろう=Hãy nhận phần thưởng nhiệm vụ hằng ngày của Raid Battle
 r:"^レイドバトルでボスを合計([0-9０-９]+)回倒そう$"=Hãy tiêu diệt trùm trong Raid Battle tổng cộng $1 lần
 
 全体ミッション=Nhiệm vụ chung

@@ -49,18 +49,12 @@ tutorial laby
 迷宮遺物を獲得すると、各詳細を確認できます。=Nhận được Di Vật Mê Cung để xem chi tiết.
 ラビリンス内で拾った迷宮遺物は、専用の図鑑に登録されていくからね。\n未発見の遺物を入手した際はご褒美をあげちゃうよ！　あ、でも、図鑑を\n埋めるのに執心しすぎて攻略がお留守にならないよう注意、だけどね！=Bất kỳ Di Vật Mê Cung nào cậu nhặt trong Mê Cung sẽ được đăng ký trong hướng dẫn cá nhân của cậu. Cậu sẽ nhận được phần thưởng cho mỗi Di Vật chưa có được! Ồ, nhưng đừng tập trung quá vào chúng và cuối cùng bỏ qua nhiệm vụ của mình!
 
+バフ強化ステータス=Chỉ số cường hóa Buff
+デバフ強化ステータス=Chỉ số cường hóa Debuff
 
-難易度ボーナス ×1.0=Bonus Khó x1.0
-難易度ボーナス ×1.2=Bonus Khó x1.2
-難易度ボーナス ×1.4=Bonus Khó x1.4
-難易度ボーナス ×1.7=Bonus Khó x1.7
-難易度ボーナス ×2.0=Bonus Khó x2.0
+r:"^難易度ボーナス ×([0-9.]+)$"=Thưởng độ khó ×$1
 特殊効果なし=Không có hiệu ứng
-難易度1=Khó 1
-難易度2=Khó 2
-難易度3=Khó 3
-難易度4=Khó 4
-難易度5=Khó 5
+r:"^難易度(\d+)$"=Độ khó $1
 まだ解放されていない難易度です。=Độ khó này chưa được mở khóa.
 累計=Tổng cộng
 同行するギルドを選択してください。=Chọn một bang hội để cùng đi theo.
@@ -364,3 +358,10 @@ r:"^すべてのモンスターが一度の行動で受けるダメージの値�
 魔法クリティカルデバフ=Debuff Phép thuật Tích lũy
 
 sr:"^すべてのキャラの(.+)をダウンさせる。$"=Giảm $1 của tất cả đồng minh.
+
+
+
+挑戦開始時のコネクトサイン追加=Thêm Kết nối Ký hiệu khi bắt đầu khiêu chiến
+挑戦開始時、選択したギルドに応じた[-][FFBB00,CE4F00]コネクトサイン[-][3C404E]を追加獲得できる=[3C404E]Khi bắt đầu khiêu chiến, có thể nhận thêm [FFBB00,CE4F00]Kết nối Ký hiệu[-] tương ứng với Bang hội đã chọn[-]
+
+挑戦開始時、アルファルピを[-][FFBB00,CE4F00]2000[-][3C404E]多く所持して出発できる=[3C404E]Khi bắt đầu khiêu chiến, có thể xuất phát với lượng Alphalupi sở hữu nhiều hơn [FFBB00,CE4F00]2000[-] lượng[-]

@@ -1,6 +1,6 @@
 密林_テント=Lều trong Rừng
 琉球風の海岸=Bãi biển phong cách Ryukyu
-自警団 拠点=Căn cứ Lực lượng Tự vệ
+自警団 拠点=Căn cứ Caon
 エルフの森=Rừng Elf
 古城=Lâu đài Cũ
 サレンディア救護院 広間=Phòng Khám Salandia

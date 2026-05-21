@@ -221,7 +221,7 @@ sr:"^\[3C404E\]アルファルピ×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(
 断壁鎖刃フラグメント=Mảnh Lưỡi Liềm Cắt Đứt
 星明りの儀杖=Gậy Nghi Lễ Dưới Ánh Sao
 星涙の輝盾=Khiên Lấp Lánh Nước Mắt Sao
-暗剣ポワゾン=Kiếm Bóng Tối Poisson
+暗剣ポワゾン=Kiếm Bóng Tối Poison
 桜堅牢のコート=Áo Khoác Sakura Kiên Cố
 極醒のアミュレット=Bùa Hộ Mệnh Tối Thượng
 水蓮の盾=Khiên Suiren
@@ -355,3 +355,58 @@ sr:"^\[3C404E\]アルファルピ×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(
 迷宮の奥深くに眠る、宝飾をあしらったベール。蔽布の下から滲み出るオーラが、相手の敵意を解きほぐし、無力化させてしまう。=Một chiếc khăn voan đính ngọc đang ngủ yên trong vùng sâu thẳm của mê cung. Aura thấm ra từ dưới lớp vải khiến thù địch bất lực, khiến kẻ thù trở nên vô dụng.
 迷宮の奥深くに眠る、地神の力を宿した烈槍。大地の力を糧に放つ無比の一閃は、地に立つすべての敵に甚大なダメージを与える。=Một ngọn giáo dữ tợn được thấm nhuần sức mạnh của thần đất, đang ngủ yên trong vùng sâu thẳm của mê cung. Được thúc đẩy bởi sức mạnh của trái đất, đường chém bất khả chiến bại của nó gây ra thiệt hại khổng lồ lên mọi kẻ thù đứng trên mặt đất.
 迷宮の奥深くに眠る、地核のエネルギーを封じた籠手。振るう一撃は、世界を破壊するかの如く、通常攻撃を大きく強化する。=Găng tay khóa năng lượng lõi trái đất, đang ngủ say trong mê cung sâu. Mỗi lần vung, như thể có thể vỡ tan thế giới, làm tăng cường rất lớn cho đòn tấn công thường.
+
+
+
+relic
+黎明光鎧アルファレゾルテ=Dawnlight Armor Alpha Resolte
+黎明風鎧アルファレゾルテ=Dawnwind Armor Alpha Resolte
+黎明水鎧アルファレゾルテ=Dawnwater Armor Alpha Resolte
+黎明火鎧アルファレゾルテ=Dawnfire Armor Alpha Resolte
+黎明闇鎧アルファレゾルテ=Dawndark Armor Alpha Resolte
+【自警団】と共に迷宮を冒険するための遺物。護りの奥義が記されており、読み込めば攻撃から身を守る技術を得ることができる。=Di vật dùng để phiêu lưu trong mê cung cùng 【Tự Vệ Đoàn】. Bên trong có ghi chép bí truyền về phòng ngự, nếu lĩnh hội sẽ nhận được kỹ thuật bảo vệ bản thân trước các đòn tấn công.
+【自警団】と共に迷宮を冒険するための遺物。姫さま親衛隊の精鋭隊員たちで、仲間をより増やすために日夜勤しんでいる。=Di vật dùng để phiêu lưu trong mê cung cùng 【Tự Vệ Đoàn】. Họ là các thành viên tinh nhuệ của Đội Cận Vệ Công Chúa, đang ngày đêm làm việc chăm chỉ để chiêu mộ thêm nhiều đồng đội.
+
+【ルーセント学院】と共に迷宮を冒険するための遺物。誘惑した相手の生気を少しずつ削ぎ、気付かぬ間に甘い終焉を迎えさせる。=Di vật dùng để phiêu lưu trong mê cung cùng 【Học Viện Lucent】. Nó sẽ bào mòn dần sinh lực của kẻ bị mê hoặc, khiến chúng phải đón nhận một kết cục ngọt ngào mà bản thân không hề hay biết.
+【ルーセント学院】と共に迷宮を冒険するための遺物。悪魔的なほどに真紅の艶めきは、見た者の目を釘付けにし、二度と逃さない。=Di vật dùng để phiêu lưu trong mê cung cùng 【Học Viện Lucent】. Ánh đỏ quyến rũ đầy ma mị của nó sẽ hớp hồn bất cứ ai nhìn vào, khiến họ không thể nào rời mắt được nữa.
+
+【フォレスティエ】と共に迷宮を冒険するための遺物。森の息吹を内に秘め、所持しているだけで味方に調和の力を授ける。=Di vật dùng để phiêu lưu trong mê cung cùng 【Forestier】. Mang trong mình hơi thở của rừng xanh, chỉ cần sở hữu nó là sẽ ban tặng sức mạnh hòa hợp cho toàn bộ đồng đội.
+【フォレスティエ】と共に迷宮を冒険するための遺物。きらりと輝く流れ星が、多くのアイテムを手に入れる幸運を呼び寄せる。=Di vật dùng để phiêu lưu trong mê cung cùng 【Forestier】. Ngôi sao băng lấp lánh sẽ vẫy gọi vận may, giúp thu thập được thật nhiều vật phẩm.
+
+【リトルリリカル】と共に迷宮を冒険するための遺物。中に宿っている強い絆が、どこにいても３人をふたたび繋いでくれる。=Di vật dùng để phiêu lưu trong mê cung cùng 【Little Lyrical】. Sợi dây liên kết mạnh mẽ ẩn chứa bên trong sẽ kết nối ba người lại với nhau dù họ có ở bất cứ nơi đâu.
+【リトルリリカル】と共に迷宮を冒険するための遺物。履くと元気が溢れ出し、走り回ってより多くの仲間を勧誘できる。=Di vật dùng để phiêu lưu trong mê cung cùng 【Little Lyrical】. Khi mang vào sẽ khiến năng lượng tràn trề, giúp chạy nhảy khắp nơi để chiêu mộ thêm nhiều đồng đội.
+
+挑戦開始時にミソギ＆ミミ＆\nキョウカが加入=Misogi & Mimi &\nKyouka sẽ gia nhập khi bắt đầu khiêu chiến
+絆のリボン=Ruy băng Liên kết
+トリックランナー=Trick Runner
+コネクトサインマスの抽選回\n数+1（1回）=Số lần rút thưởng của ô Kết nối Ký hiệu +1 (1 lần)
+
+【会心】9以上：\n敵全体に物理/魔法被クリダメアップ（【会心】数×5％）\nダメージブースト（【会心】数×2％）\n=【Hội Tâm】từ 9 trở lên:\nTăng sát thương bạo kích vật lý/phép phải nhận của toàn bộ kẻ địch (Số 【Hội Tâm】 × 5%)\nTăng cường sát thương (Số 【Hội Tâm】 × 2%)
+【会心】4以上：\n物理/魔法クリダメアップ（【会心】数×10％）\n物理/魔法クリティカルアップ（【会心】数×400）\n=【Hội Tâm】từ 4 trở lên:\nTăng sát thương bạo kích vật lý/phép (Số 【Hội Tâm】 × 10%)\nTăng tỷ lệ bạo kích vật lý/phép (Số 【Hội Tâm】 × 400)
+【会心】15以上：\n攻撃時追加ダメージ（【会心】数×2％）\n=【Hội Tâm】từ 15 trở lên:\nGây thêm sát thương khi tấn công (Số 【Hội Tâm】 × 2%)
+
+バトル勝利後時の仲間キャラ\n加入数+1（3回）=Số lượng đồng đội gia nhập sau khi thắng trận +1 (3 lần)
+姫さま親衛隊勧誘係=Người Chiêu mộ Đội Cận Vệ Công Chúa
+バトル開始時に先頭キャラに\n物理/魔法防御力+50%=Khi bắt đầu trận đấu, tăng 50% phòng thủ vật lý/phép cho nhân vật đi đầu
+琉球犬甲唄=Lưu Cầu Khuyển Giáp Ca
+
+迷宮遺物マスの抽選回数+1\n（1回）=Số lần rút thưởng của ô Di vật Mê cung +1 (1 lần)
+フォーチュンミーティア=Fortune Meteor
+バトル開始時に調和状態=Vào trạng thái Hòa hợp khi bắt đầu trận đấu
+フォレストハーモニー=Forest Harmony
+
+【守備】9以上：\nＨＰ回復量ダウン耐性付与\n味方からバフを受けるか、敵から攻撃を受けるたびに【闘\n志】＋１（最大50）\n【闘志】の数に応じて与ダメアップ（【闘志】数×3％）\n=【Thủ Bị】từ 9 trở lên:\nCấp kháng hiệu ứng giảm lượng hồi phục HP\nMỗi khi nhận hiệu ứng tăng ích từ đồng đội hoặc bị kẻ địch tấn công sẽ nhận 【Đấu Chí】 +1 (Tối đa 50)\nTăng sát thương gây ra dựa trên số lượng 【Đấu Chí】 (Số 【Đấu Chí】 × 3%)
+【守備】15以上：\n残りＨＰ割合に応じたダメージブースト（最大60％）\nＨＰが0になった場合、戦闘不能になる前にＨＰを100％回復（1回）\n=【Thủ Bị】từ 15 trở lên:\nTăng cường sát thương dựa trên tỷ lệ HP còn lại (Tối đa 60%)\nKhi HP về 0, hồi phục 100% HP trước khi rơi vào trạng thái mất khả năng chiến đấu (1 lần)
+ベルベットルージュ=Velvet Rouge
+チャームファタール=Charm Fatale
+敵の誘惑時間+50％=Thời gian Mê hoặc kẻ địch +50%
+1秒ごとに誘惑状態の敵に最\n大ＨＰの5％の魔法割合ダ\nメージ（最大50万ダメー\nジ）=Mỗi giây gây sát thương phép theo tỷ lệ bằng 5% HP tối đa lên những kẻ địch bị Mê hoặc (Tối đa 500.000 sát thương)
+
+ＨＰ吸収=Hút HP
+
+討伐報酬券の交換で、リセット対象報酬を入手すると、即時ラインナップのリセットが行えます。\n\nリセット対象報酬を入手した後も、リセットせずに引き続き同じラインナップ内から交換することも可能です。\n\n6回目以降は報酬のラインナップを交換しきった場合に限り、リセットを行えます。=Tại Đổi Vé Phần thưởng Tiêu diệt, khi nhận được phần thưởng mục tiêu dùng để đặt lại, bạn có thể lập tức đặt lại danh sách vật phẩm.\n\nSau khi nhận được phần thưởng mục tiêu dùng để đặt lại, bạn vẫn có thể tiếp tục đổi các vật phẩm trong cùng danh sách đó mà không cần đặt lại.\n\nTừng lần đặt lại thứ 6 trở đi, bạn chỉ có thể thực hiện đặt lại sau khi đã đổi hết toàn bộ phần thưởng trong danh sách.
+スタミナを受け取る=Nhận thể lực
+上限「999」を超えて受け取ることはできません。=Không thể nhận vượt quá giới hạn "999".
+受け取る項目を選択してください。=Vui lòng chọn các mục muốn nhận.
+黎明水衣アルファレディアンス=Dawnwater Garb Alpha Radiance
+一呼吸いれて=Hít một hơi sâu
