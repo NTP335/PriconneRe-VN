@@ -1,0 +1,22 @@
+##Profile##
+【物理】中衛でうねる、珍味な触手の小姓見習いタコ娘。ＴＰ回復、継続ＨＰ回復、バリアで味方をもてなし、多様な弱体効果を与える自慢の墨で、敵を真っ黒に染める。=【Vật lý】Hậu cần học việc bộ tộc bạch tuộc ở vị trí trung phong với những xúc tu ngon lạ uốn lượn. Cô chiêu đãi đồng đội bằng khả năng hồi TP, hồi HP liên tục cùng lá chắn, đồng thời nhuộm đen kịt kẻ địch bằng loại mực tự hào gây ra nhiều hiệu ứng suy yếu đa dạng.
+
+##UB##
+しゅーぱーうねうねらっしゅ=Siêu Cấp Xúc Tu Quẩy Loạn
+目の前の敵１キャラに物理特大ダメージを与え、物理・魔法攻撃力と物理クリティカルを大ダウン、物理防御力を中ダウン、物理攻撃クリティカル時のダメージを小ダウン、クリティカルを受けた際のダメージを小アップさせる。さらに、味方全体のＨＰを小回復させ、物理無効バリアを展開するが物理攻撃力を小ダウンさせる。味方への物理攻撃力ダウン効果は他のスキルの効果で解除できない。=Gây sát thương vật lý cực đại cho 1 kẻ địch trước mặt, giảm mạnh tấn công vật lý, tấn công phép và bạo kích vật lý, giảm tầm trung phòng thủ vật lý, giảm nhẹ sát thương khi bạo kích vật lý, và tăng nhẹ sát thương phải nhận khi dính đòn bạo kích của chúng. Ngoài ra, hồi phục nhẹ HP cho toàn bộ đồng đội và triển khai lá chắn vô hiệu hóa sát thương vật lý, nhưng sẽ giảm nhẹ tấn công vật lý của họ. Hiệu ứng giảm tấn công vật lý lên đồng đội không thể bị giải trừ bởi hiệu ứng của các kỹ năng khác.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理クリティカルを100ダウン敵単体の物理・魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体の物理クリダメを8％ダウン敵単体の被クリダメを8％アップ味方全体のＨＰを(\d+)回復(\d+)ダメージ分の物理無効バリアを展開する味方全体の物理攻撃力を初期値の1％ダウン$"=►Gây $1 sát thương vật lý lên 1 kẻ địch.\n►Giảm 100 bạo kích vật lý của 1 kẻ địch trong 18 giây.\n►Giảm $2 tấn công vật lý và tấn công phép của 1 kẻ địch trong 18 giây.\n►Giảm $3 phòng thủ vật lý của 1 kẻ địch trong 18 giây.\n►Giảm 8% sát thương bạo kích vật lý của 1 kẻ địch trong 18 giây.\n►Tăng 8% sát thương bạo kích phải nhận của 1 kẻ địch trong 18 giây.\n►Hồi phục $4 HP cho toàn bộ đồng đội.\n►Triển khai lá chắn vô hiệu hóa sát thương vật lý cho toàn bộ đồng đội giúp chặn $5 sát thương vật lý trong 18 giây.\n►Giảm 1% tấn công vật lý theo giá trị khởi điểm của toàn bộ đồng đội trong 18 giây.
+
+##S1##
+おしょうじおしょうじ～=Dọn dẹp dọn dẹp nào~♪
+自分を中心とした範囲内の水属性の味方すべての物理攻撃力を特大アップさせ、継続ＨＰ回復状態を付与し、自分を除く対象の味方すべてのＴＰを小回復させる。さらに、自分のＴＰを小回復する。物理攻撃力ダウン状態の味方に対してはこのスキルの効果がもう一度発動する。=Tăng mạnh tấn công vật lý cho tất cả đồng đội hệ Nước trong phạm vi lấy bản thân làm tâm, cấp trạng thái hồi HP liên tục, và hồi phục nhẹ TP cho tất cả đồng đội mục tiêu ngoại trừ bản thân. Ngoài ra, hồi phục nhẹ TP cho chính mình. Đối với đồng đội đang trong trạng thái bị giảm tấn công vật lý, hiệu ứng của kỹ năng này sẽ được kích hoạt thêm một lần nữa.
+r:"^範囲内の水属性の味方の物理攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する範囲内の自分以外の水属性の味方のＴＰを50回復自分のＴＰを100回復$"=Thời gian triển khai: 1.05 giây\n►Tăng $1 tấn công vật lý cho đồng đội hệ Nước trong phạm vi 500 trong 12 giây.\n►Hồi phục $2 HP mỗi giây trong 12.5 giây.\n►Hồi 50 TP cho đồng đội hệ Nước trong phạm vi 500 (ngoại trừ bản thân).\n►Hồi 100 TP cho bản thân.
+
+
+##S2##
+まっくろくろでしゅ！=Đen thui lùi luôn nè!
+目の前の敵１キャラに物理中ダメージを与え、物理・魔法攻撃力を大ダウン、物理防御力を小ダウンさせ、暗闇状態にする。発動時既にこのスキルの対象が物理攻撃力ダウン状態だった場合、このスキルの効果がもう一度発動する。=Gây sát thương vật lý tầm trung cho 1 kẻ địch trước mặt, giảm mạnh tấn công vật lý và tấn công phép, giảm nhẹ phòng thủ vật lý, và gây trạng thái mù lòa. Nếu tại thời điểm kích hoạt, mục tiêu của kỹ năng này vốn đã ở trong trạng thái bị giảm tấn công vật lý thì hiệu ứng của kỹ năng này sẽ được kích hoạt thêm một lần nữa.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理・魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体を暗闇状態にする$"=Thời gian triển khai: 1.05 giây\n►Gây $1 sát thương vật lý lên 1 kẻ địch.\n►Giảm $2 tấn công vật lý và tấn công phép của 1 kẻ địch trong 12 giây.\n►Giảm $3 phòng thủ vật lý của 1 kẻ địch trong 12 giây.\n►Gây trạng thái mù lòa lên 1 kẻ địch trong 8 giây.
+
+##EX##
+ディープターコイじゅ=Ngọc Lam Sâu Thẳm
+ディープターコイじゅ+=Ngọc Lam Sâu Thẳm+
