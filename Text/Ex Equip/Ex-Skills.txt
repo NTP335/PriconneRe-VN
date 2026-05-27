@@ -104,6 +104,12 @@ r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプ�
 光属性防御力アップ=Tăng phòng thủ thuộc tính Ánh sáng
 闇属性防御力アップ=Tăng phòng thủ nguyên tố Bóng tối
 
+水属性クリティカル強化=Cường hóa bạo kích hệ Nước
+光属性クリティカル強化=Cường hóa bạo kích hệ Ánh sáng
+火属性クリティカル強化=Cường hóa bạo kích hệ Lửa
+風属性クリティカル強化=Cường hóa bạo kích hệ Gió
+闇属性クリティカル強化=Cường hóa bạo kích hệ Bóng tối
+
 装備者が火属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Nếu người mặc thuộc nguyên tố Lửa, tăng Phòng Thủ và Kháng Ma Thuật cho bản thân lên 20% trong 90 giây sau khi trận đấu bắt đầu.
 装備者が水属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Nếu người mặc thuộc nguyên tố Nước, tăng Phòng Thủ và Kháng Ma Thuật cho bản thân lên 20% trong 90 giây sau khi trận đấu bắt đầu.
 装備者が風属性の場合、バトル開始後90秒間自分の物理防御力と魔法防御力を20％アップさせる。=Nếu người mặc thuộc nguyên tố Gió, tăng Phòng Thủ và Kháng Ma Thuật cho bản thân lên 20% trong 90 giây sau khi trận đấu bắt đầu.

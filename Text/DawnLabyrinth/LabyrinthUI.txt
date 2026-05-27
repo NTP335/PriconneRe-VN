@@ -365,3 +365,11 @@ sr:"^すべてのキャラの(.+)をダウンさせる。$"=Giảm $1 của tấ
 挑戦開始時、選択したギルドに応じた[-][FFBB00,CE4F00]コネクトサイン[-][3C404E]を追加獲得できる=[3C404E]Khi bắt đầu khiêu chiến, có thể nhận thêm [FFBB00,CE4F00]Kết nối Ký hiệu[-] tương ứng với Bang hội đã chọn[-]
 
 挑戦開始時、アルファルピを[-][FFBB00,CE4F00]2000[-][3C404E]多く所持して出発できる=[3C404E]Khi bắt đầu khiêu chiến, có thể xuất phát với lượng Alphalupi sở hữu nhiều hơn [FFBB00,CE4F00]2000[-] lượng[-]
+
+
+黎明光衣アルファレディアンス=Dawnlight Garb Alpha Radiance
+アルファルピ獲得量ダウン=Giảm lượng Alphalupi nhận được
+バトル勝利時のアルファルピ獲得量がダウンする。=Giảm lượng Alphalupi nhận được khi giành chiến thắng trận đấu.
+すべてのモンスターが受ける継続ダメージの発生間\n隔と効果時間が延長される。=Kéo dài giãn cách kích hoạt và thời gian duy trì của sát thương duy trì mà toàn bộ quái vật phải nhận.
+継続ダメージ発生間隔/効果時間延長=Kéo dài giãn cách kích hoạt/Thời gian duy trì sát thương duy trì
+NPCキャラのEX装備は変更できません。=Không thể thay đổi trang bị EX của nhân vật NPC.

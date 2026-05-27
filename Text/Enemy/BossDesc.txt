@@ -2740,3 +2740,22 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 剣士たちの大乱舞=Đại loạn vũ của các kiếm sĩ.
 《EX》危険な魔物・魔狼=<EX> Ma thú nguy hiểm: Ma lang.
 召喚体、分身を除いた最も近い敵３キャラに魔\n　法大ダメージを与え、魔法防御力を中ダウンさ\n　せる。このスキルの効果はダメージを無効化し\n　ても付与される。=Gây sát thương phép lớn cho 3 kẻ địch gần nhất không tính vật triệu hồi và phân thân, đồng thời giảm tầm trung phòng thủ phép của chúng. Hiệu ứng này vẫn được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
+
+自身の物理攻撃力を特大アップし、ＴＰを特大回復する。自身のＨＰが低いほど、物理攻撃力の上昇量がアップする。=Tăng mạnh tấn công vật lý và hồi phục lượng lớn TP cho bản thân. HP của bản thân càng thấp, lượng tấn công vật lý tăng thêm càng nhiều.
+最も近い敵３キャラにキャラの残りＨＰに応じた物理割合ダメージを与える。自身の物理攻撃力に応じて与えるダメージの割合が増加する。=Gây sát thương vật lý theo tỷ lệ dựa trên HP còn lại của 3 kẻ địch gần nhất. Tỷ lệ sát thương gây ra tăng lên tùy thuộc vào tấn công vật lý của bản thân.
+ユニオンバーストは、敵全体にキャラの最大ＨＰに応じた物理割合ダメージを与える。自身の物理攻撃力に応じて与えるダメージの割合が増加する。=Union Burst: Gây sát thương vật lý theo tỷ lệ dựa trên HP tối đa của toàn bộ kẻ địch. Tỷ lệ sát thương gây ra tăng lên tùy thuộc vào tấn công vật lý của bản thân.
+聖なる学舎の秘されし暗部を預かる獄卒。教義絶対を掲げる『鋼の聖女』の正義を守るべくまつろわぬ咎人に容赦なき服従と更生を強いる。=Cai ngục được giao phó quản lý góc tối bí mật của học viện thánh thiện. Để bảo vệ chính nghĩa của "Thánh Nữ Thép", người đề cao giáo lý tuyệt đối, kẻ này không nương tay ép buộc những tội nhân bất tuân phải phục tùng và cải tà quy chính.
+
+前から敵２体にＨＰ吸収ダウン=Giảm hút HP của 2 kẻ địch tính từ phía trước.
+自身の魔法攻撃力が高いほど：カット量上昇=Tấn công phép của bản thân càng cao: Lượng giảm trừ càng tăng.
+後方範囲の敵２体にＴＰダウン（召喚体無視・必中）=Giảm TP của 2 kẻ địch trong phạm vi phía sau (Bỏ qua vật triệu hồi ・ Chắc chắn trúng).
+敵全体に物理／魔法与ダメージダウン=Giảm sát thương vật lý/phép gây ra của toàn bộ kẻ địch.
+後方範囲の敵２体に物理ダメージ=Gây sát thương vật lý lên 2 kẻ địch trong phạm vi phía sau.
+後方範囲の敵２体にスタン=Gây choáng lên 2 kẻ địch trong phạm vi phía sau.
+前から１番目の敵を中心に物理／魔法クリティカルダウンフィールド=Triển khai một vùng làm giảm bạo kích vật lý/phép lấy kẻ địch đầu tiên làm tâm.
+前から１番目の敵を中心に物理／魔法攻撃力ダウンフィールド=Triển khai một vùng làm giảm tấn công vật lý/phép lấy kẻ địch đầu tiên làm tâm.
+産地直送=Giao hàng trực tiếp từ nơi sản xuất
+難易度10で1回クリアしよう=Hãy vượt ải 1 lần ở độ khó 10.
+ふなつ=Funatsu.
+北の森の魔物=Ma thú rừng phương bắc
+清掃員に扮して虎視眈々と『グランドリームパーク』の乗っ取りを謀っていた元・カジノ王。これまでの働きぶりはどこへやら、屈辱を晴らすべくパレード間近の園内で反旗を翻す。=Cựu vương Casino, kẻ đã cải trang thành nhân viên vệ sinh để lăm le mưu đồ chiếm đoạt "Grand Dream Park". Chẳng màng đến công sức làm việc chăm chỉ từ trước đến nay, gã đã phất cờ nổi loạn ngay trong công viên vào thời điểm lễ diễu hành sắp sửa diễn ra nhằm rửa sạch nỗi nhục nhã này.

@@ -8,7 +8,7 @@ r:"^属性ボーナスアップ(\[-\] \[FFBB00,CE4F00\])?([0-9＋+.%％]*)$"=Th�
 r:"^パーティダメージブースト(\[-\] \[FFBB00,CE4F00\])?([LvVl0-9.%％]*)$"=Tăng sát thương cho toàn đội$1$2[-]
 r:"^キャラLv上限突破(\[-\] \[FFBB00,CE4F00\])?([0-9＋+.%％]*)$"=Vượt quá giới hạn Lv nhân vật$1$2[-]
 
-
+すでに強化できるコネクトRANKの最大値を設定しています。=Đã thiết lập giá trị cường hóa tối đa cho Connect RANK có thể đạt được.
 解放済みのコネクトRANKボーナスはありません。=Hiện chưa có phần thưởng Connect RANK nào được mở khóa.
 以下のアイテムを消費してコネクトRANKアップします。\nよろしいですか？=Các vật phẩm sau đây sẽ được tiêu thụ để tăng Connect RANK.\nBạn có đồng ý không?
 コネクトRANK選択=Chọn Connect Rank
