@@ -1,7 +1,8 @@
 Dawn Realm Labyrinth
 
-黎明界ラビリンス=Labyrinth Vùng Bình Minh
-
+黎明界ラビリンス=Mê Cung Bình Minh
+黎明界ラビリンスへ=Đến Mê Cung Bình Minh
+黎明界ラビリンスに戻りますか?=Bạn có muốn quay lại Mê Cung Bình Minh không?
 Intro Story
 Title
 いざ黎明の迷宮へ！=Đi Labyrinth Vùng Bình Minh Thôi!

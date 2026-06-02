@@ -9,7 +9,7 @@
 ##UB##
 シールドオブガーデン=Lá Chắn Khu Vườn
 前方のランダムな敵キャラに単体物理大ダメージを計３回与え、味方全体の物理・魔法攻撃力を中アップさせ、自分に光の盾を３つ付与する。光の盾は１回ダメージを受ける毎に代わりに１つ破壊され、同時に敵にダメージを与える。=Gây 3 lần sát thương vật lý lớn cho kẻ địch phía trước ngẫu nhiên, tăng vừa phải Tấn Công Vật Lý và Ma Thuật cho đồng minh, và tạo 3 khiên ánh sáng lên bản thân. Mỗi khiên bị phá hủy sẽ gây sát thương vật lý cho kẻ địch.
-r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ攻撃してきた敵に(\d+)ダメージを与えて消失する光の盾を最大5つまで付与する$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Gây $2 sát thương vật lý cho kẻ địch.\n►Gây $3 sát thương vật lý cho kẻ địch.\n►Tăng Tấn Công Vật Lý cho đồng minh lên $4 trong 18s.\n►Tăng Ma Thuật cho đồng minh lên $5 trong 18s.\n►Tạo 3 khiên lên bản thân, phản lại $6 sát thương vật lý khi bị tấn công.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ攻撃してきた敵に(\d+)ダメージを与えて消失する光の盾を最大(.)つまで付与する$"=►Gây $1 sát thương vật lý lên 1 kẻ địch.\n►Gây $2 sát thương vật lý lên 1 kẻ địch.\n►Gây $3 sát thương vật lý lên 1 kẻ địch.\n►Tăng $4 tấn công vật lý cho toàn bộ đồng đội trong 18 giây.\n►Tăng $5 tấn công phép cho toàn bộ đồng đội trong 18 giây.\n►Cấp tối đa $7 [Khiên Ánh Sáng], giúp phản lại $6 sát thương lên kẻ địch tấn công và biến mất sau khi kích hoạt.
 
 ##S1##
 アメイジングギフト=Món Quà Tuyệt Vời

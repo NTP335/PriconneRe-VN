@@ -1,2 +1,12 @@
 今回の達成数=Số lượng hoàn thành lần này
 チャレンジクエストでは、10体の強力なボスが待ち受けております。\n敵を討伐すると、報酬を手にすることができますよ。相手の弱点を突ける\n有利な属性でパーティを編成し、万全の態勢で挑みましょう。=Trong Nhiệm vụ Thử thách, có 10 con trùm hùng mạnh đang chờ đợi bạn. Bằng cách tiêu diệt kẻ thù, bạn có thể nhận được các phần thưởng hấp dẫn. Hãy lập đội hình với các thuộc tính có lợi để khai thác điểm yếu của đối thủ và sẵn sàng tư thế để đương đầu với thử thách.
+チャレンジクエスト=Challenge Quest
+模擬戦のため挑戦目標は達成できません。=Vì là trận đấu tập nên không thể hoàn thành mục tiêu thử thách.
+
+mission
+火属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Lửa
+水属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Nước
+地属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Đất
+風属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Gió
+光属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Ánh sáng
+闇属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Bóng tối

@@ -1,0 +1,26 @@
+##Profile##
+【魔法】中衛で、寄る辺無き魂を繋ぎ導く清廉の戦乙女。ダメージと共に敵の魔防を削ぎ、継続ダメージを与える聖浄の光が戦乙女の聖槍を降り注がせ、敵を清め祓う。=【Ma pháp】Nữ chiến thần thuần khiết ở vị trí trung phong, người kết nối và dẫn lối cho những linh hồn không nơi nương tựa. Cùng với việc gây sát thương và bào mòn phòng thủ phép của kẻ địch, ánh sáng thanh tẩy gây sát thương duy trì sẽ làm mưa giáo thiêng của nữ chiến thần trút xuống, thanh tẩy và xua tan kẻ thù.
+
+##UB##
+シャイン・エンゲージ -希鎌-=Shine Engage -Hy Liêm-
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせ、聖浄の光状態にする。発動時既に、目の前の敵１キャラが継続ダメージ状態だった場合、さらに追加で魔法大ダメージを与え、クリティカルを受けた際のダメージを小アップさせ、このスキルのダメージは必ずクリティカルする。=Gây sát thương phép cực đại cho 1 kẻ địch trước mặt, giảm nhẹ phòng thủ phép và gây trạng thái Ánh Sáng Thanh Tẩy. Nếu tại thời điểm kích hoạt, kẻ địch trước mặt vốn đã ở trong trạng thái bị sát thương duy trì thì sẽ gây thêm sát thương phép lớn, tăng nhẹ sát thương phải nhận khi dính đòn bạo kích, và sát thương của kỹ năng này chắc chắn sẽ bạo kích.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン(\d+)ダメージを与える聖浄の光状態にする目の前の敵が継続ダメージ状態の場合、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体の被クリダメを6％アップ$"=►Gây $1 sát thương phép lên 1 kẻ địch.\n►Giảm $2 phòng thủ phép của 1 kẻ địch.\n►Gây trạng thái Ánh Sáng Thanh Tẩy, gây $3 sát thương.\n\nNếu kẻ địch trước mặt đang trong trạng thái bị sát thương duy trì:\n►Gây $4 sát thương phép lên 1 kẻ địch.\n►Tăng 6% sát thương bạo kích phải nhận của 1 kẻ địch trong 18 giây.
+
+
+##S1##
+聖輪斬光=Thánh Luân Trảm Quang
+自分に【戦乙女の聖槍・祓】を１つ付与する。【戦乙女の聖槍・祓】は最大６つまで付与される。目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせる。目の前の敵１キャラが継続ダメージ状態だった場合、さらに追加で魔法大ダメージを与え、クリティカルを受けた際のダメージを小アップさせ、このスキルのダメージは必ずクリティカルする。=Cấp cho bản thân 1 tầng 【Thánh Giáo Nữ Chiến Thần - Phất】. 【Thánh Giáo Nữ Chiến Thần - Phất】 có thể tích lũy tối đa 6 tầng. Gây sát thương phép lớn cho 1 kẻ địch trước mặt và giảm nhẹ phòng thủ phép của chúng. Nếu kẻ địch trước mặt đang trong trạng thái bị sát thương duy trì thì sẽ gây thêm sát thương phép lớn, tăng nhẹ sát thương phải nhận khi dính đòn bạo kích, và sát thương của kỹ năng này chắc chắn sẽ bạo kích.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分に戦乙女の聖槍・祓を１つ付与する目の前の敵が継続ダメージ状態の場合、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体の被クリダメを6％アップ$"=Thời gian triển khai: 0.59 giây\n►Gây $1 sát thương phép lên 1 kẻ địch.\n►Giảm $2 phòng thủ phép của 1 kẻ địch trong 12 giây.\n►Cấp cho bản thân 1 tầng 【Thánh Giáo Nữ Chiến Thần - Phất】.\n\nNếu kẻ địch trước mặt đang trong trạng thái bị sát thương duy trì:\n►Gây $3 sát thương phép lên 1 kẻ địch.\n►Tăng 6% sát thương bạo kích phải nhận của 1 kẻ địch trong 12 giây.
+
+##S2##
+槍翼天恵=Thương Dực Thiên Huệ
+光属性の味方の数に応じて自分に【戦乙女の聖槍・祓】を付与する。自分の残りＨＰの25％を消費するが、味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせる。自分の残りＨＰが多いほど、魔法攻撃力と魔法クリティカルの上昇量が最大２倍までアップする。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Cấp cho bản thân các tầng 【Thánh Giáo Nữ Chiến Thần - Phất】 dựa theo số lượng đồng đội hệ Ánh Sáng. Tiêu hao 25% HP hiện tại của bản thân, nhưng tăng mạnh tấn công phép và tăng lớn bạo kích phép cho toàn bộ đồng đội. HP hiện tại của bản thân càng nhiều, lượng tăng thêm của tấn công phép và bạo kích phép càng lớn, tối đa lên đến gấp 2 lần. Sát thương gây ra cho bản thân từ kỹ năng này không làm hồi phục TP.
+r:"^自分の残りＨＰの25％を消費味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ自分に戦乙女の聖槍・祓を１つ付与する$"=Thời gian triển khai: 0.59 giây\n►Tiêu hao 25% HP hiện tại của bản thân.\n►Tăng $1 tấn công phép cho toàn bộ đồng đội trong 18 giây.\n►Tăng 100 bạo kích phép cho toàn bộ đồng đội trong 18 giây.\n►Cấp cho bản thân 1 tầng 【Thánh Giáo Nữ Chiến Thần - Phất】.
+
+##EX##
+ヴァルキュリアモード=Valkyria Mode
+ヴァルキュリアモード+=Valkyria Mode+
+
+清廉の戦乙女=Nữ Chiến Thần Thuần Khiết
+自分の【戦乙女の聖槍・祓】が２つ以上の場合、目の前の敵１キャラが継続ダメージ状態になるたび【戦乙女の聖槍・祓】を２つ消費し、その敵に魔法大ダメージを与え、魔法防御力を小ダウンさせる。このスキルのダメージは必ずクリティカルする。=Khi bản thân có từ 2 tầng 【Thánh Giáo Nữ Chiến Thần - Phất】 trở lên, mỗi khi 1 kẻ địch trước mặt rơi vào trạng thái bị sát thương duy trì, tiêu hao 2 tầng 【Thánh Giáo Nữ Chiến Thần - Phất】 để gây sát thương phép lớn lên kẻ địch đó và giảm nhẹ phòng thủ phép của chúng. Sát thương của kỹ năng này chắc chắn sẽ bạo kích.
+r:"^自分の戦乙女の聖槍・祓を２つ消費する敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=Thời gian triển khai: 0.59 giây\n►Tiêu hao 2 tầng 【Thánh Giáo Nữ Chiến Thần - Phất】 của bản thân.\n►Gây $1 sát thương phép lên 1 kẻ địch.\n►Giảm $2 phòng thủ phép của 1 kẻ địch trong 12 giây.

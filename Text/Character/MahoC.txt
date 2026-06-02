@@ -1,5 +1,5 @@
 ##Profile##
-【魔法】後衛から、優雅に味方を支援するマホ先生。物理攻撃をする味方の攻撃力アップや、最遠の味方のＴＰを回復するスキルで、しゃなりしゃなりと戦況を変える。=[Ma thuật] Maho-sensei hỗ trợ đồng minh từ hậu phương một cách duyên dáng. Với kỹ năng tăng tấn công vật lý cho đồng minh thuộc kiểu P và hồi TP cho đồng minh xa nhất, cô ấy thay đổi hoàn toàn cục diện trận chiến.
+【魔法】後衛から、優雅に味方を支援するマホ先生。物理攻撃をする味方の攻撃力アップや、ＴＰを回復するスキルで、しゃなりしゃなりと戦況を変える。=【Ma pháp】Cô giáo Maho hỗ trợ đồng đội một cách duyên dáng từ vị trí hậu phong. Bằng các kỹ năng tăng sức tấn công cho đồng đội gây sát thương vật lý và hồi phục TP, cô thướt tha xoay chuyển cục diện trận đấu.
 
 ##UB##
 メルヘンダンスステージ=Sân khấu Vũ đạo Truyện cổ tích

@@ -139,7 +139,22 @@ r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプ�
 バトル開始後90秒間自分の魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージを３％アップさせる。=Trong 90 giây sau khi bắt đầu trận đấu, tăng 3% tấn công ma thuật, tỷ lệ chí mạng ma thuật và sát thương chí mạng ma thuật của bản thân.
 
 
-
+バトル中敵魔法防御力中ダウン=Giảm tầm trung phòng thủ phép của kẻ địch trong trận đấu
+バトル開始後90秒間敵全体の魔法防御力を５％ダウンさせる。=Giảm 5% phòng thủ phép của toàn bộ kẻ địch trong 90 giây sau khi trận đấu bắt đầu.
+月盈則食=Nguyệt Doanh Tắc Thực (Trăng tròn rồi lại khuyết)
 
 ヴィズ・ラ・リュンヌ=Vis la Lune
 バトル開始後90秒間味方全体の魔法攻撃力を10％アップさせる。=Tăng 10% tấn công phép thuật cho toàn bộ đồng đội trong vòng 90 giây sau khi bắt đầu trận đấu.
+
+
+黎明風絹アルファチェリッシュ=Lụa Gió Bình Minh - Alpha Cherish
+黎明火絹アルファチェリッシュ=Lụa Lửa Bình Minh - Alpha Cherish
+黎明水絹アルファチェリッシュ=Lụa Nước Bình Minh - Alpha Cherish
+黎明光絹アルファチェリッシュ=Lụa Ánh Sáng Bình Minh - Alpha Cherish
+黎明闇絹アルファチェリッシュ=Lụa Bóng Tối Bình Minh - Alpha Cherish
+装備者が風属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Gió, tăng 10% bạo kích phép và sát thương khi bạo kích phép của bản thân trong 90 giây sau khi trận đấu bắt đầu.
+
+装備者が火属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Lửa, tăng 10% bạo kích phép và sát thương khi bạo kích phép của bản thân trong 90 giây sau khi trận đấu bắt đầu.
+装備者が水属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Nước, tăng 10% bạo kích phép và sát thương khi bạo kích phép của bản thân trong 90 giây sau khi trận đấu bắt đầu.
+装備者が光属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Ánh sáng, tăng 10% bạo kích phép và sát thương khi bạo kích phép của bản thân trong 90 giây sau khi trận đấu bắt đầu.
+装備者が闇属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Bóng tối, tăng 10% bạo kích phép và sát thương khi bạo kích phép của bản thân trong 90 giây sau khi trận đấu bắt đầu.

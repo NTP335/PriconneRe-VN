@@ -8,8 +8,9 @@
 
 ##UB##
 ニューイヤーズブライト=Ánh Sáng Năm Mới
-自分のＨＰを中回復し、味方全体に継続ＨＰ回復を付与し、さらに物理攻撃力を大アップさせる。=Hồi HP bản thân lên mức trung bình, tăng HP Regen cho toàn đồng đội và tăng lực tấn công vật lý (P.ATK) của đồng đội lên rất lớn.
-r:"^自分のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する味方全体の物理攻撃力を(\d+)アップ$"=►Hồi HP của bản thân lên $1.\n►Hồi HP của đồng đội $2/giây trong 10 giây.\n►Tăng P.ATK của đồng đội lên $3 trong 18 giây.
+味方全体の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップさせる。さらに自分のＨＰを大回復し、味方全体のＨＰを中回復させ、継続ＨＰ回復状態を付与、物理吸収バリアと魔法吸収バリアを展開する。また、敵全体の物理防御力を小ダウンさせる。=Tăng mạnh tấn công vật lý và tăng nhẹ sát thương khi bạo kích vật lý cho toàn bộ đồng đội. Ngoài ra, hồi phục lượng lớn HP cho bản thân, hồi phục tầm trung HP cho toàn bộ đồng đội, cấp trạng thái hồi HP liên tục, đồng thời triển khai lá chắn hấp thụ sát thương vật lý và lá chắn hấp thụ sát thương phép. Ngoài ra, giảm nhẹ phòng thủ vật lý của toàn bộ kẻ địch.
+
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリダメを6％アップ自分のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物理吸収バリアを展開する(\d+)ダメージ分の魔法吸収バリアを展開する敵全体の物理防御力を(\d+)ダウン$"=►Tăng $1 tấn công vật lý cho toàn bộ đồng đội trong 18 giây.\n►Tăng 6% sát thương bạo kích vật lý của toàn bộ đồng đội trong 18 giây.\n►Hồi phục $2 HP cho bản thân.\n►Hồi phục $3 HP cho toàn bộ đồng đội.\n►Hồi phục $4 HP mỗi giây trong 10.5 giây.\n►Triển khai lá chắn hấp thụ sát thương vật lý cho toàn bộ đồng đội giúp chặn $5 sát thương vật lý trong 18 giây.\n►Triển khai lá chắn hấp thụ sát thương phép cho toàn bộ đồng đội giúp chặn $6 sát thương phép trong 18 giây.\n►Giảm $7 phòng thủ vật lý của toàn bộ kẻ địch trong 18 giây.
 
 ##S1##
 スピリットウォール=Tường Linh Hồn
@@ -18,8 +19,9 @@ r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する敵全体�
 
 ##S2##
 ブレッシングスピリット=Lời Chúc Linh Thiêng
-最も物理攻撃力が高い味方の物理攻撃力を中アップ、物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを中アップさせる。=Tăng trung bình P.ATK, tăng lớn P.CRIT Rate, và tăng trung bình P.CRIT DMG cho đồng đội có P.ATK cao nhất.
-r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方単体の物理攻撃クリティカル時のダメージを30％アップ$"=►Tăng P.ATK của đồng đội có P.ATK cao nhất lên $1 trong 12 giây.\n►Tăng P.CRIT Rate của đồng đội có P.ATK cao nhất lên 100 trong 12 giây.\n►Tăng P.CRIT DMG của đồng đội có P.ATK cao nhất lên 30% trong 12 giây.
+最も物理攻撃力が高い味方１キャラの物理攻撃力を中アップ、物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを中アップさせる。=Tăng tầm trung tấn công vật lý, tăng mạnh bạo kích vật lý, và tăng tầm trung sát thương khi bạo kích vật lý cho 1 đồng đội có tấn công vật lý cao nhất.
+
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方単体の物理クリダメを30％アップ$"=Thời gian triển khai: 0.715 giây\n►Tăng $1 tấn công vật lý cho 1 đồng đội trong 12 giây.\n►Tăng 100 bạo kích vật lý cho 1 đồng đội trong 12 giây.\n►Tăng 30% sát thương bạo kích vật lý cho 1 đồng đội trong 12 giây.
 
 ##EX##
 祝福の新風=Gió May Mắn
@@ -27,9 +29,15 @@ r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリ�
 
 ##S1+##
 スピリットウォール+=Tường Linh Hồn+
-【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を小アップさせ、さらに敵全体を挑発する。=[Thách Đấu] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương vật lý/ma thuật (P/M DMG), tăng P.ATK cho toàn đồng đội, và thách đấu toàn bộ kẻ địch.
-【挑発】自身に物理/魔法吸収バリアを展開し、味方全体の物理攻撃力を大アップさせ、さらに敵全体を挑発する。=[Thách Đấu] Triển khai một rào cản xung quanh bản thân hấp thụ sát thương vật lý/ma thuật (P/M DMG), tăng P.ATK cho toàn đồng đội, và thách đấu toàn bộ kẻ địch.
-r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ敵全体を挑発する$"=►Triển khai Rào Cản lên bản thân hấp thụ $1 P/M.DMG trong 12 giây.\n►Tăng P.ATK của toàn đồng đội lên $2 trong 12 giây.\n►Kích động (Provoke) toàn bộ kẻ địch trong 17 giây.
+【挑発】味方全体に物理/魔法吸収バリアを展開し、物理攻撃力を特大アップ、物理・魔法防御力を中アップさせ、さらに敵全体を挑発する。=【Khiêu khích】Triển khai lá chắn hấp thụ sát thương vật lý/phép cho toàn bộ đồng đội, tăng mạnh tấn công vật lý, tăng tầm trung phòng thủ vật lý và phòng thủ phép, đồng thời khiêu khích toàn bộ kẻ địch.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する味方全体の物理攻撃力を(\d+)アップ味方全体の物理・魔法防御力を(\d+)アップ敵全体を挑発する$"=Thời gian triển khai: 0.375 giây\n►Triển khai lá chắn hấp thụ sát thương vật lý/phép cho toàn bộ đồng đội giúp chặn $1 sát thương trong 12 giây.\n►Tăng $2 tấn công vật lý cho toàn bộ đồng đội trong 12 giây.\n►Tăng $3 phòng thủ vật lý và phòng thủ phép cho toàn bộ đồng đội trong 12 giây.\n►Gây khiêu khích lên toàn bộ kẻ địch trong 20 giây.
 
 ##UE##
 新春祈幸の精霊杖=Gậy Cầu Nguyện Tinh Thần Năm Mới
+
+##UE2##
+衷心奉仕の舞装束=Vũ Phục Tận Tụy Hết Lòng
+ブレッシングスピリット+=Spiritual Blessing+
+最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを中アップさせる。さらに、バリアが展開されている味方全てのＴＰを小回復させる。=Tăng mạnh tấn công vật lý, tăng mạnh bạo kích vật lý, và tăng tầm trung sát thương khi bạo kích vật lý cho 1 đồng đội có tấn công vật lý cao nhất. Ngoài ra, hồi phục nhẹ TP cho tất cả đồng đội đang được bảo vệ bởi lá chắn.
+
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方単体の物理クリダメを30％アップバリアが展開されている味方のＴＰを100回復$"=Thời gian triển khai: 0.715 giây\n►Tăng $1 tấn công vật lý cho 1 đồng đội trong 12 giây.\n►Tăng 100 bạo kích vật lý cho 1 đồng đội trong 12 giây.\n►Tăng 30% sát thương bạo kích vật lý cho 1 đồng đội trong 12 giây.\n►Hồi 100 TP cho các đồng đội đang có lá chắn kích hoạt.

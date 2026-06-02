@@ -2759,3 +2759,11 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 ふなつ=Funatsu.
 北の森の魔物=Ma thú rừng phương bắc
 清掃員に扮して虎視眈々と『グランドリームパーク』の乗っ取りを謀っていた元・カジノ王。これまでの働きぶりはどこへやら、屈辱を晴らすべくパレード間近の園内で反旗を翻す。=Cựu vương Casino, kẻ đã cải trang thành nhân viên vệ sinh để lăm le mưu đồ chiếm đoạt "Grand Dream Park". Chẳng màng đến công sức làm việc chăm chỉ từ trước đến nay, gã đã phất cờ nổi loạn ngay trong công viên vào thời điểm lễ diễu hành sắp sửa diễn ra nhằm rửa sạch nỗi nhục nhã này.
+
+
+ウォーロック局長 ヤトガミ=Cục trưởng Warlock Yatogami
+対象が呪い状態：魔法追加ダメージ=Nếu mục tiêu bị trạng thái Lời nguyền: Gây thêm sát thương phép
+対象が呪い状態：行動速度ダウン=Nếu mục tiêu bị trạng thái Lời nguyền: Giảm tốc độ hành động
+対象が毒状態：物理／魔法防御力ダウン=Nếu mục tiêu bị trạng thái Trúng độc: Giảm phòng thủ vật lý/phép
+対象が毒状態：物理追加ダメージ=Nếu mục tiêu bị trạng thái Trúng độc: Gây thêm sát thương vật lý
+己が「正義」のため修羅の道を邁進する国際警察特殊機関の長。怨禍を纏う太刀を猛らせ、世に蔓延る不義不正の因子を撲滅せんとす。=Người đứng đầu cơ quan đặc nhiệm cảnh sát quốc tế, kẻ dấn thân vào con đường Tu La vì "chính nghĩa" của riêng mình. Vung cao thanh thái đao bao bọc trong oán họa, gã quyết tâm tiêu diệt tận gốc những mầm mống bất công và phi nghĩa đang lan tràn trên thế gian.
