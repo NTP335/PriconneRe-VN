@@ -20,6 +20,14 @@ r:"^自分の残りＨＰの25％を消費味方全体の魔法攻撃力を(\d+)
 ##EX##
 ヴァルキュリアモード=Valkyria Mode
 ヴァルキュリアモード+=Valkyria Mode+
+ヴァルキュリアモード（R）=Valkyrie Mode (R) 
+ヴァルキュリアモード（R）+=Valkyrie Mode (R)+
+ヴァルキュリアモード（P）=Valkyrie Mode (P) 
+ヴァルキュリアモード（P）+=Valkyrie Mode (P)+
+ヴァルキュリアモード（Q）=Valkyrie Mode (Q) 
+ヴァルキュリアモード（Q）+=Valkyrie Mode (Q)+
+ヴァルキュリアモード（C）=Valkyrie Mode (C) 
+ヴァルキュリアモード（C）+=Valkyrie Mode (C)+
 
 清廉の戦乙女=Nữ Chiến Thần Thuần Khiết
 自分の【戦乙女の聖槍・祓】が２つ以上の場合、目の前の敵１キャラが継続ダメージ状態になるたび【戦乙女の聖槍・祓】を２つ消費し、その敵に魔法大ダメージを与え、魔法防御力を小ダウンさせる。このスキルのダメージは必ずクリティカルする。=Khi bản thân có từ 2 tầng 【Thánh Giáo Nữ Chiến Thần - Phất】 trở lên, mỗi khi 1 kẻ địch trước mặt rơi vào trạng thái bị sát thương duy trì, tiêu hao 2 tầng 【Thánh Giáo Nữ Chiến Thần - Phất】 để gây sát thương phép lớn lên kẻ địch đó và giảm nhẹ phòng thủ phép của chúng. Sát thương của kỹ năng này chắc chắn sẽ bạo kích.

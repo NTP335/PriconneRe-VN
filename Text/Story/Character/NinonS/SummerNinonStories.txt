@@ -88,7 +88,6 @@ Player Prompts
 また教えて！　ニノン師匠。=Hãy dạy em thêm nữa, Ninon đại nhân
 
 Chapter 2
-泳げるようになりたい{playername}は、ニノンに忍法を習うことに。水蜘蛛を\n使って水面を散歩したり水遁の術に使う竹筒を共用することにニノンが赤\n面したりとハプニングも楽しみつつ、絆を深めた。={playername}, người muốn biết bơi, quyết định học nghệ thuật ninja từ Ninon. Ninon đỏ mặt khi nghĩ đến việc dùng Nhện Nước để đi trên mặt nước hay chia sẻ ống tre dùng trong kỹ thuật thoát nước, và mối quan hệ cũng trở nên sâu sắc hơn.
 {playername}は川で、\nニノンから忍法を教わっていた。={playername} đang được Ninon dạy ninjutsu bên bờ sông.
 今日は川！　そして森！\nやることは……ターザンジャンプデス！=Hôm nay là sông! Và rừng! Chúng ta đang làm gì đây... Là huấn luyện nhảy Tarzan!
 さすがショーグン……鋭いところを突きマスね……\n確かにターザンジャンプは忍法ではありまセン。\nですが修行にはうってつけ！=Đúng như mong đợi từ Shogun... Thông minh quá! Thật vậy, nhảy Tarzan không phải là ninjutsu. Nhưng nó hoàn hảo để huấn luyện!
@@ -251,7 +250,6 @@ Player Prompts
 かわいい忍者と　ずっと一緒に。=Cùng với ninja đáng yêu của tôi, luôn ở bên cạnh...
 
 Chapter 4
-{playername}に案内された村で見せられた夏忍法──噴水に大喜びするニノン。\n二人はそのまま水浴びを楽しみ、最高の夏の思い出を作る。ニノンはこれ\nからもチューシンとして仕えることを決心する。=Mùa hè Natsu Ninpou mà {playername} đã cho tôi xem trong làng. Ninon vui mừng khôn xiết ở đài phun nước. Hai người tiếp tục tận hưởng bồn tắm và tạo ra kỷ niệm mùa hông tuyệt vời nhất. Nion quyết định tiếp tục phục vụ Chushin.
 楽しく過ごした\nニノンと{playername}は帰路についていた。=Sau khi có một buổi vui vẻ, Ninon và {playername} đang trên đường về nhà.
 えへへ……♪\nショーグンと、最高の夏の思い出ができまシタ……♪=Ehehe...♪ Tôi đã có những kỷ niệm mùa hè tuyệt vời với Shogun...♪
 はい♪\nショーグンが、ワタシのために考えてくれた夏の忍法……\nマイゾーキンをもしのぐワタシの宝物デス！=Đó là♪ Mùa hè ninjutsu mà cậu nghĩ ra chỉ dành cho tôi, Shogun... Đó là một kho tàng còn quý hơn cả chiếc khăn xà phòng quý giá của tôi!

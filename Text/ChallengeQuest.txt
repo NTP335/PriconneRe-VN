@@ -10,3 +10,15 @@ mission
 風属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Gió
 光属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Ánh sáng
 闇属性キャラを5人編成して勝利=Giành chiến thắng với đội hình 5 nhân vật hệ Bóng tối
+
+r:"^魔法タイプキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật thuộc hệ Ma pháp trở lên
+r:"^物理タイプキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật thuộc hệ Vật lý trở lên
+r:"^アタッカーキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật vai trò Attacker trở lên
+r:"^ブレイカーキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật vai trò Breaker trở lên
+r:"^バッファーキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật vai trò Buffer trở lên
+r:"^デバッファーキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật vai trò Debuffer trở lên
+r:"^ブースターキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật vai trò Booster trở lên
+r:"^ヒーラーキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật vai trò Healer trở lên
+r:"^タンクキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật vai trò Tank trở lên
+r:"^ジャマーキャラを(\d+)人以上編成して勝利$"=Chiến thắng khi thiết lập đội hình có từ $1 nhân vật vai trò Jammer trở lên
+召喚=Triệu hồi
