@@ -43,6 +43,7 @@ sr:"^難易度(.+?)の(.+)を(.+)秒以上残してクリアしよう$"=Hãy ho�
 sr:"^難易度(.+?)の(.+)をパーティ(.)までにクリアしよう$"=Hãy hoàn thành $1 độ khó $2 với tối đa $3 đội hình.
 
 r:"^難易度(.+?)クリア$"=Hoàn thành độ khó $1
+sr:"^難易度(.+?)の(.+)をクリアしよう$"=Hoàn thành $2 với độ khó $1.
 
 r:"^期間限定ミッション([0-9:：/～\- ]+)$"=Nhiệm vụ có thời hạn $1
 
@@ -84,7 +85,7 @@ r:"^難易度ボーナス ×([0-9.]+)$"=Thưởng độ khó ×$1
 挑戦回数を消費して、以下の５戦分のバトルをまとめてスキップします。=Tiêu tốn số lượt khiêu chiến để bỏ qua nhanh 5 trận chiến sau đây cùng lúc.
 挑戦回数が不足しています。=Số lần thử không đủ.
 
-sr:"^(.)属性のキャラが(.)体以上編成されているとき、\n?キャラの属性ボーナスが強化される。(.)属性と(.)属\n?性以外の属性ボーナスを無効化する。$"=Khi có từ $2 nhân vật hệ $1 trở lên trong đội hình,\nthuộc tính thêm của nhân vật sẽ được tăng cường. Các thuộc tính thêm khác ngoài hệ $3 và hệ $4 sẽ bị vô hiệu hóa.
+sr:"^(.)属性のキャラが(.)体以上編成されているとき、\n?キャラの属性ボーナスが強化される。(.)属性と(.)属\n?性以外の属性ボーナスを無効化する。$"=Khi có từ $2 nhân vật thuộc hệ $1 trở lên trong đội hình, Phần thưởng Thuộc tính của nhân vật sẽ được tăng cường. Vô hiệu hóa các Phần thưởng Thuộc tính không phải hệ $3 và hệ $4.
 
 「エルピス討魔戦線」は、地下深くより湧きし魔物を討伐するイベントで\nございます。こちらのバトルでは、コネクトRANKボーナスが強化され\nるようですよ。また「遺物」の装備によっても強化を得られるのだとか。="Mặt trận Diệt ma Elpis" là sự kiện thảo phạt lũ ma vật trỗi dậy từ sâu dưới lòng đất. Trong những trận chiến này, phần thưởng RANK liên kết (Connect RANK) dường như sẽ được tăng cường. Ngoài ra, nghe nói bạn còn có thể nhận thêm sức mạnh bằng cách trang bị các "Di vật" nữa đấy.
 ボスの初回クリア時や、撃破時に得られるポイントを集めることで報酬が\n獲得できます。ポイントは撃破までのタイムが短いほど多く得られるよう\nです。コネクトRANK強化アイテムの入手を目指して頑張りましょう。=Bạn có thể nhận phần thưởng bằng cách thu thập điểm nhận được khi vượt ải trùm lần đầu hoặc khi tiêu diệt chúng. Có vẻ như thời gian tiêu diệt trùm càng ngắn thì số điểm nhận được sẽ càng nhiều. Hãy cố gắng hết sức để thu thập các vật phẩm cường hóa RANK liên kết nhé.

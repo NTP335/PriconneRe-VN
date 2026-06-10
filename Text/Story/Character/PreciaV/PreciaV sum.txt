@@ -1,0 +1,7 @@
+プレシアはアゾールドの魂を実体化するため、魔法の特訓に励む。ヴァルキュリアの力、{playername}の支え、そしてプレシアの強い想いにより、アゾールドが復活。涙の抱擁を交わす親子であった。=Để hiện thực hóa linh hồn của Azold, Presia đã nỗ lực hết mình trong khóa huấn luyện ma pháp khắc nghiệt. Nhờ sức mạnh của Valkyria, sự hỗ trợ từ {playername} và ý chí kiên định của chính Presia, Azold đã được hồi sinh. Hai cha con cùng trao nhau cái ôm trong những giọt nước mắt hạnh phúc.
+
+アゾールドは娘を孤独にしたことや、{playername}たちを傷つけたことを謝罪する。プレシアも{playername}もアゾールドを許した。過去の清算を終え、家族の再会を祝した食事会が始まる。=Azold gửi lời xin lỗi vì đã để con gái phải sống trong cô độc, cũng như vì đã làm tổn thương {playername} và mọi người. Cả Presia và {playername} đều đã tha thứ cho ông. Sau khi những ân oán trong quá khứ được hóa giải, một bữa tiệc ấm cúng bắt đầu để ăn mừng sự đoàn tụ của gia đình.
+
+{playername}の魂が疲弊し、消失の可能性があると判明。そこでプレシアがヴァルキュリアの翼を使ったマッサージで、魂を癒してくれる。天にも昇る気持ちの{playername}であった。=Linh hồn của {playername} được xác định đã trở nên suy kiệt và có nguy cơ tan biến. Chính vì vậy, Presia đã sử dụng đôi cánh Valkyria của mình để mát-xa, giúp chữa lành linh hồn cho anh. Trải nghiệm đó khiến {playername} cảm thấy như đang bay bổng tận chín tầng mây.
+
+夢の中で、プレシアは{playername}のおでこを食べようとする。しかしティアの独断で夢は中断されてしまう。さかさまの塔に乗りこみ、文句を言うプレシア。ティアは珍しく焦りながら、逃亡するのだった。=Trong mơ, Presia định cắn vào trán của {playername}. Thế nhưng, giấc mơ đã bị Tia tự ý cắt ngang. Presia đã xông thẳng vào Tòa tháp ngược để phàn nàn, trong khi Tia – lần đầu tiên tỏ vẻ lúng túng – đã phải vội vã tháo chạy.

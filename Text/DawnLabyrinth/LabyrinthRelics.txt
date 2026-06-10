@@ -51,7 +51,7 @@ r:"^通常攻撃強化アップ（アルファルピ所持数×0.01、最大100�
 行動不能無効１回=►Miễn nhiễm Choáng một lần
 
 ノブレスウィスタリア=Noblesse Wistaria
-初期アルファルピ+3000\nアルファルピ獲得量－30%=►αRupees Ban Đầu +3.000 ►Lượng Nhận αRupees -30%
+初期アルファルピ+3000\nアルファルピ獲得量－10%=►αRupees Ban Đầu +3.000 ►Lượng Nhận αRupees -10%
 
 リヴァイアサンコール=Leviathan Call
 物理/魔法クリダメアップ（アルファルピ所持数×0.01%、最大100%）=►Tăng Sát Thương Chí Mạng Vật Lý/Phép Thuật (Sở Hữu αRupees x0.01, Tối Đa 100)
