@@ -17,15 +17,13 @@
 * **Các bước thực hiện:**
   - Sau khi tải về, bạn khởi chạy phần mềm. Giao diện sẽ hiển thị như sau:
      
-     ![Giao diện Patch Installer](<img width="601" height="514" alt="image" src="https://github.com/user-attachments/assets/641e4f53-1500-4d12-830a-90ede80c4520" />
-)
+     <img width="601" height="514" alt="image" src="https://github.com/user-attachments/assets/641e4f53-1500-4d12-830a-90ede80c4520" />
      
   - Bấm chọn đường dẫn đến thư mục cài đặt game của bạn.
   - Bấm nút **Bắt đầu cài đặt**. Bạn có thể theo dõi tiến độ cài đặt thông qua thanh trạng thái.
   - Khi quá trình cài đặt kết thúc, hệ thống sẽ hiển thị thông báo và thanh trạng thái báo **"Hoàn thành"**:
      
-     ![Thông báo cài đặt hoàn thành](<img width="601" height="510" alt="image" src="https://github.com/user-attachments/assets/6de367e0-15cb-4476-8a31-026e03a21d46" />
-)
+     <img width="601" height="510" alt="image" src="https://github.com/user-attachments/assets/6de367e0-15cb-4476-8a31-026e03a21d46" />
 
 ---
 
@@ -34,8 +32,7 @@
 * **Các bước thực hiện:**
   - Khởi chạy bộ cài đặt sau khi tải về để mở giao diện chương trình:
      
-     ![Giao diện PriconneReALLTL-Installer](<img width="714" height="612" alt="image" src="https://github.com/user-attachments/assets/ade31e63-4e50-4d51-8add-222ca8d2e256" />
-)
+     <img width="714" height="612" alt="image" src="https://github.com/user-attachments/assets/ade31e63-4e50-4d51-8add-222ca8d2e256" />
      
   - Tại giao diện chính, bấm vào nút **Change** để lựa chọn phiên bản patch mong muốn phù hợp với game.
   - Bấm nút **Start!** để hệ thống tự động tiến hành cài đặt.
