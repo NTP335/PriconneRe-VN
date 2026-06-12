@@ -15,13 +15,13 @@
 #### 1. Sử dụng Patch Installer (Do mình phát triển)
 * **Tải về tại đây:** [installer.exe](https://github.com/NTP335/PriconneRe-VN/releases/tag/Princon_Patch_Installer)
 * **Các bước thực hiện:**
-  1. Sau khi tải về, bạn khởi chạy phần mềm. Giao diện sẽ hiển thị như sau:
+  - Sau khi tải về, bạn khởi chạy phần mềm. Giao diện sẽ hiển thị như sau:
      
      ![Giao diện Patch Installer](đường_dẫn_ảnh_tại_đây)
      
-  2. Bấm chọn đường dẫn đến thư mục cài đặt game của bạn.
-  3. Bấm nút **Bắt đầu cài đặt**. Bạn có thể theo dõi tiến độ cài đặt thông qua thanh trạng thái.
-  4. Khi quá trình cài đặt kết thúc, hệ thống sẽ hiển thị thông báo và thanh tiến độ báo **"Hoàn thành"**:
+  - Bấm chọn đường dẫn đến thư mục cài đặt game của bạn.
+  - Bấm nút **Bắt đầu cài đặt**. Bạn có thể theo dõi tiến độ cài đặt thông qua thanh trạng thái.
+  - Khi quá trình cài đặt kết thúc, hệ thống sẽ hiển thị thông báo và thanh tiến độ báo **"Hoàn thành"**:
      
      ![Thông báo cài đặt hoàn thành](đường_dẫn_ảnh_tại_đây)
 
@@ -30,12 +30,12 @@
 #### 2. Sử dụng PriconneReALLTL-Installer (Lựa chọn thay thế dành cho nhiều ngôn ngữ)
 * **Tải về tại đây:** [PriconneReALLTL-Installer](https://github.com/HetCreep/PriconneReALLTL-Installer/releases)
 * **Các bước thực hiện:**
-  1. Khởi chạy bộ cài đặt sau khi tải về để mở giao diện chương trình:
+  - Khởi chạy bộ cài đặt sau khi tải về để mở giao diện chương trình:
      
      ![Giao diện PriconneReALLTL-Installer](đường_dẫn_ảnh_tại_đây)
      
-  2. Tại giao diện chính, bấm vào nút **Change** để lựa chọn phiên bản patch mong muốn phù hợp với game.
-  3. Bấm nút **Start!** để hệ thống tự động tiến hành cài đặt.
+  - Tại giao diện chính, bấm vào nút **Change** để lựa chọn phiên bản patch mong muốn phù hợp với game.
+  - Bấm nút **Start!** để hệ thống tự động tiến hành cài đặt.
 
 ### Cách 2:
 
