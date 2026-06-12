@@ -8,18 +8,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout source code
         uses: actions/checkout@v4
 
+      - name: Stage files into installer layout
+        run: |
+          mkdir -p staging/BepInEx/Translation/vi
+          cp -r Text staging/BepInEx/Translation/vi/Text
+
       - name: Stamp version into Version.txt
         run: |
           TAG_NAME=${{ github.ref_name }}
-          sed -i "s/Pre-release/$TAG_NAME/g" Version.txt
+          sed -i "s/Pre-release/$TAG_NAME/g" staging/BepInEx/Translation/vi/Text/Version.txt
 
       - name: Archive translation files to zip
         run: |
-          zip -r PriconneRe-VN-${{ github.ref_name }}.zip Text/ Version.txt
+          cd staging
+          zip -r ../PriconneRe-VN-${{ github.ref_name }}.zip BepInEx
 
       - name: Upload asset to GitHub Releases
         uses: softprops/action-gh-release@v2
