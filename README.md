@@ -37,7 +37,7 @@
   - Tại giao diện chính, bấm vào nút **Change** để lựa chọn phiên bản patch mong muốn phù hợp với game.
   - Bấm nút **Start!** để hệ thống tự động tiến hành cài đặt.
 
-### Cách 2:
+### Cách 2: Cài đặt thủ công
 
 Để sử dụng bản Việt hoá này, bạn cần thực hiện theo các bước sau:
 
