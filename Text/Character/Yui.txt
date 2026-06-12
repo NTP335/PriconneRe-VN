@@ -39,8 +39,7 @@ r:"^味方全体の物理防御力を(\d+)アップ$"=►Tăng phòng thủ vậ
 ##UB+##
 フラワリングヒール=Hồi máu nở hoa
 味方全体のＨＰを中回復し、さらに物理防御力を大アップさせ、物理無効バリアを展開し、さらに行動速度を大アップさせる。=Hồi một lượng HP vừa phải cho tất cả đồng đội, tăng lớn phòng thủ vật lý, tạo một rào cản miễn nhiễm vật lý, và tăng lớn tốc độ hành động.
-r:"^味方全体のＨＰを(\d+)回復味方全体の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する味方全体の行動速度アップ$"=►Hồi HP đồng đội bằng $1.\n►Tăng phòng thủ vật lý đồng đội bằng $2 trong 18s.\n►Tạo Barrier trên tất cả đồng đội, chống lại $3 sát thương vật lý trong 18s.\n►Tăng tốc độ hành động lên 200% cho tất cả đồng đội trong 18s.
-
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する味方全体の行動速度100％アップ$"=►Hồi $1 HP cho toàn đội.\n►Tăng $2 phòng thủ vật lý cho toàn đội trong 18s.\n►Triển khai rào chắn vật lý hấp thụ $3 sát thương vật lý cho toàn đội trong 18s.\n►Tăng 100% tốc độ hành động cho toàn đội trong 18s.
 ##S1+##
 フラワーショット+=Vụ nổ nở hoa+
 目の前の敵１キャラに魔法中ダメージを与え、さらに物理攻撃力を中ダウンさせる。=Gây sát thương phép vừa phải cho kẻ địch đang ở phía trước và giảm sát thương vật lý của nó một lượng vừa phải.

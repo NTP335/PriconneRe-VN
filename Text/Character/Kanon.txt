@@ -8,24 +8,32 @@
 r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを200アップ自分の最大ＨＰの10％を消費お堪忍袋が１つ以上の場合、以下の効果が発動するお堪忍袋を１つ消費する自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm M.ATK của một kẻ địch đi $2 trong 18s.\n►Giảm P.DEF của một kẻ địch đi $3 trong 18s.\n►Tăng sức tấn công vật lý của bản thân thêm $4 trong 18s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân thêm 200 trong 18s.\n►Tiêu hao 10% HP tối đa.\n\nNếu [Patience Pouch] ≥1:\n►Tiêu hao 1 [Patience Pouch].\n►Tăng sức tấn công vật lý của bản thân thêm $5 trong 90s.
 
 ##S1##
-毒殺剣術・お滅多突き=Poisonous Swordsmanship: Deadly O-Thrust
+毒殺剣術・お滅多突き=Kiếm Thuật Độc Sát: Đâm Loạn Xạ
 目の前の敵１キャラに物理大ダメージを与え、魔法攻撃力を中ダウン、物理防御力を小ダウンさせる。さらに、自分に【お堪忍袋】が付与されていない場合、追加の物理大ダメージを与え、自分のＨＰを小回復する。=Gây sát thương vật lý lớn lên kẻ địch phía trước, giảm vừa phải M.ATK của chúng, và giảm nhẹ P.DEF. Đồng thời, nếu bản thân không có [Patience Pouch], gây thêm sát thương vật lý lớn và hồi nhẹ HP của bản thân.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウンお堪忍袋がない場合、敵単体に(\d+)の物理ダメージお堪忍袋がない場合、自分のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm M.ATK của một kẻ địch đi $2 trong 12s.\n►Giảm P.DEF của một kẻ địch đi $3 trong 12s.\n\nNếu [Patience Pouch] =0:\n►Gây $4 sát thương vật lý lên một kẻ địch.\n►Hồi HP của bản thân thêm $5.
 
+r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウンお堪忍袋がない場合、以下の効果が発動する敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=Thời gian thi triển: 0.34s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm $2 tấn công phép của một kẻ địch trong 12s.\n►Giảm $3 phòng thủ vật lý của một kẻ địch trong 12s.\n\nNếu không có [Túi Nhẫn Nhịn]:\n►Gây $4 sát thương vật lý lên một kẻ địch.\n►Hồi HP của bản thân bằng $5.
 
 ##S2##
-ぶっ飛ばしおスラッシュ=Knock-Away O-Slash
+ぶっ飛ばしおスラッシュ=Knock-Away Ohoho-Slash
 目の前の敵１キャラに物理大ダメージを与える。さらに、自分に【お堪忍袋】が付与されていない場合、目の前の敵１キャラに追加の物理大ダメージを与え、行動パターンが変化し、自分の物理攻撃力を特大アップ、ＨＰを小回復、ＴＰを特大回復する。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Đồng thời, nếu bản thân không có [Patience Pouch], gây thêm sát thương vật lý lớn lên kẻ địch phía trước, thay đổi mẫu hành vi của bản thân, tăng cực mạnh sức tấn công vật lý của bản thân, hồi nhẹ HP của bản thân, và hồi mạnh TP của bản thân.
 
-
-r:"^敵単体に(\d+)の物理ダメージお堪忍袋がない場合、敵単体に(\d+)の物理ダメージお堪忍袋がない場合、自分の物理攻撃力を(\d+)アップお堪忍袋がない場合、自分のＨＰを(\d+)回復お堪忍袋がない場合、自分のＴＰを1000回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu [Patience Pouch] =0:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Tăng sức tấn công vật lý của bản thân thêm $3 trong 90s.\n►Hồi HP của bản thân thêm $4.\n►Hồi TP của bản thân thêm 1000.
+r:"^敵単体に(\d+)の物理ダメージお堪忍袋がない場合、以下の効果が発動する敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＨＰを(\d+)回復自分のＴＰを1000回復$"=Thời gian thi triển: 0.59s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu không có [Túi Nhẫn Nhịn]:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Tăng $3 tấn công vật lý của bản thân trong 180s.\n►Hồi HP của bản thân bằng $4.\n►Hồi 1000 TP cho bản thân.
 
 ##SP##
 ヲ～ッホッホッ♪=O~hohoho♪
 自分に【お堪忍袋】を２つ付与する。【お堪忍袋】は敵から攻撃を受けると１つ減少し、自分の物理攻撃力を特大アップする。【お堪忍袋】は最大２つまで追加される。=Tự trao cho bản thân 2 [Túi Kiên Nhẫn]. Mỗi khi người mang bị kẻ địch tấn công, một Túi Kiên Nhẫn sẽ bị tiêu hao và tăng mạnh P.ATK của bản thân. Túi Kiên Nhẫn có thể chồng lên nhau tối đa 2 cái.
 
-r:"^自分にお堪忍袋を２つ付与する攻撃を受けた時にお堪忍袋が１つ以上の場合、以下の効果が発動するお堪忍袋を１つ消費する自分の物理攻撃力を(\d+)アップ$"=►Trao cho bản thân 2 [Túi Kiên Nhẫn].\nKhi bị tấn công, nếu có ít nhất 1 [Túi Kiên Nhẫn]:\n►Tiêu hao 1 [Túi Kiên Nhẫn].\n►Tăng P.ATK của bản thân lên $1.
+r:"^自分にお堪忍袋を２つ付与する攻撃を受けた時にお堪忍袋が１つ以上の場合、以下の効果が発動するお堪忍袋を１つ消費する自分の物理攻撃力を(\d+)アップ$"=Thời gian thi triển: 0.74s.\n►Tự cấp cho bản thân 2 [Túi Nhẫn Nhịn].\nKhi chịu tấn công, nếu có từ 1 [Túi Nhẫn Nhịn] trở lên:\n►Tiêu hao 1 [Túi Nhẫn Nhịn].\n►Tăng $1 tấn công vật lý cho bản thân.
 
 ##EX##
 マンティコア流生存術=Nghệ Thuật Sinh Tồn Phong Cách Manticore
 マンティコア流生存術+=Nghệ Thuật Sinh Tồn Phong Cách Manticore+
+
+
+
+##UE##
+屈辱の剣闘士おアーマー=Giáp Đấu Sĩ Nhục Nhã
+毒殺剣術・お滅多突き+=Kiếm Thuật Độc Sát: Đâm Loạn Xạ+
+目の前の敵１キャラに物理大ダメージを与え、魔法攻撃力を中ダウン、物理防御力を小ダウンさせる。さらに、自分に【お堪忍袋】が付与されていない場合、追加の物理特大ダメージを与え、自分のＨＰを小回復する。=Gây sát thương vật lý lớn lên một kẻ địch phía trước, giảm trung lượng tấn công phép và giảm nhẹ phòng thủ vật lý của mục tiêu. Ngoài ra, nếu bản thân không có trạng thái [Túi Nhẫn Nhịn], gây thêm sát thương vật lý cực lớn và hồi một lượng nhỏ HP cho bản thân.
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウンお堪忍袋がない場合、以下の効果が発動する敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=Thời gian thi triển: 0.34s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm $2 tấn công phép của một kẻ địch trong 12s.\n►Giảm $3 phòng thủ vật lý của một kẻ địch trong 12s.\n\nNếu không có [Túi Nhẫn Nhịn]:\n►Gây $4 sát thương vật lý lên một kẻ địch.\n►Hồi HP của bản thân bằng $5.

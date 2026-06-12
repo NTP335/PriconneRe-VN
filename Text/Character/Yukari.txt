@@ -60,6 +60,8 @@ r:"^(\d+)ダメージ分の魔法無効バリアを展開する味方全体の�
 最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに魔法防御力を中アップし、継続ＨＰ回復状態を付与する。=Hồi một lượng lớn HP cho thành viên trong party có HP thấp nhất, tăng vừa phải M.DEF của họ, và ban cho hiệu ứng Hồi HP Theo Thời Gian.
 ## OLD r:"^味方単体のＨＰを(\d+)回復味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Hồi HP của đồng đội $1.\n►Tăng M.DEF của đồng đội $2 trong 12s.\n►Hồi HP $3/giây trong 8.5s.
 
+r:"^味方単体のＨＰを(\d+)回復味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する乾杯！する$"=Thời gian thi triển: 1.4s.\n►Hồi $1 HP cho một đồng đội.\n►Tăng $2 phòng thủ phép cho một đồng đội trong 12s.\n►Hồi $3 HP mỗi giây cho một đồng đội trong 8.5s.\n►Cổ vũ!
+
 
 最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、魔法防御力を中アップし、継続ＨＰ回復状態を付与する。さらに、【乾杯！】する。【乾杯！】は最大２回まで行う。=Hồi phục lớn HP cho 1 đồng minh có tỷ lệ HP thấp nhất, tăng trung bình phòng thủ ma pháp và ban trạng thái hồi phục HP liên tục. Ngoài ra, thực hiện 【Cạn ly!】. 【Cạn ly!】 có thể thực hiện tối đa 2 lần.
 
@@ -74,8 +76,6 @@ r:"^(\d+)ダメージ分の魔法無効バリアを展開する味方全体の�
 Yukari
 アクアヴィット++=Nước Sự Sống++
 最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、魔法防御力を中アップし、継続ＨＰ回復状態を付与する。さらに、【乾杯！】する。【乾杯！】は最大５回まで行う。=Hồi phục lớn HP cho 1 đồng minh có tỷ lệ HP thấp nhất, tăng trung bình phòng thủ ma pháp và ban trạng thái hồi phục HP liên tục. Ngoài ra, thực hiện 【Cạn ly!】. 【Cạn ly!】 thực hiện tối đa 5 lần.
-
-r:"^味方単体のＨＰを(\d+)回復味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する乾杯！する$"=Thời gian thi triển: 1.4 giây.\n►Hồi phục $1 HP cho một đồng minh.\n►Tăng $2 phòng thủ ma pháp cho một đồng minh trong 12 giây.\n►Hồi phục $3 HP mỗi giây cho một đồng minh trong 8.5 giây.\n►Thực hiện 【Cạn ly!】.
 
 
 

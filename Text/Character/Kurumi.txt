@@ -25,15 +25,23 @@ r:"^自分の最大ＨＰを(\d+)アップさせる自分の魔法防御力を(\
 ##UB+##
 デビュースターアクション=Debut Star Action
 前方範囲内の敵すべてに物理大ダメージを与え、長時間スタンさせる。さらに、味方全体の物理防御力と魔法防御力を大アップし、自分を中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=Gây sát thương cho tất cả kẻ thù trong phạm vi phía trước và choáng trong thời gian dài. Ngoài ra, phòng thủ vật lý và phòng thủ ma thuật của đồng đội được tăng lớn, và trạng thái hồi máu liên tục được trao cho tất cả đồng đội trong phạm vi lấy bản thân làm trung tâm.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Gây $1 sát thương vật lý lên kẻ thù.\n►Khiến kẻ thù bất động.\n►Tăng phòng thủ vật lý của đồng đội lên $2.\n►Tăng phòng thủ ma thuật của đồng đội lên $3.\n►Hồi máu cho đồng đội $4/giây.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵を一定時間行動不能にする味方全体の物理・魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi trong 18s.\n►Gây choáng kẻ địch trong phạm vi trong 5.5s.\n►Tăng $3 phòng thủ vật lý và phòng thủ phép cho toàn đội trong 18s.\n►Hồi $4 HP mỗi giây trong 18.5s.
 
 ##S1+##
 ブレイブリーベル+=Bravery Bell+
 味方全体の物理防御力と魔法防御力を中アップさせ、さらにＴＰを小回復させる。=Tăng vừa phòng thủ vật lý và phòng thủ ma thuật của đồng đội, và hồi một lượng nhỏ TP cho họ.
-r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Tăng phòng thủ vật lý của đồng đội lên $1.\n►Tăng phòng thủ ma thuật của đồng đội lên $1.\n►Hồi TP của đồng đội lên $1.
+r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=Thời gian thi triển: 1.375s.\n►Tăng $1 phòng thủ vật lý cho toàn đội trong 12s.\n►Tăng $2 phòng thủ phép cho toàn đội trong 12s.\n►Hồi $3 TP cho toàn đội.
 
 ##UE##
 ピュアアクトベル=Pure Actress Bell
+
+
+
+
+##S1++##
+ブレイブリーベル++=Bravery Bell++
+味方全体の物理・魔法防御力を中アップさせ、ＴＰを小回復させる。目の前の敵が魔法防御力ダウン状態だった場合、味方全体の物理攻撃力を特大アップさせ、物理無効バリアと魔法無効バリアを展開し、さらにＴＰを小回復させる。=Tăng trung lượng phòng thủ vật lý và phép cho toàn đội, và hồi tiểu lượng TP. Nếu kẻ địch phía trước đang ở trạng thái giảm phòng thủ phép, tăng cực đại tấn công vật lý cho toàn đội, triển khai rào chắn vô hiệu hóa sát thương vật lý và rào chắn vô hiệu hóa sát thương phép, đồng thời hồi thêm tiểu lượng TP.
+r:"^味方全体の物理・魔法防御力を(\d+)アップ味方全体のＴＰを50回復目の前の敵が魔法防御力ダウン状態の場合、以下の効果が発動する味方全体の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する味方全体のＴＰを75回復$"=Thời gian thi triển: 1.375s.\n►Tăng $1 phòng thủ vật lý và phòng thủ phép cho toàn đội trong 12s.\n►Hồi 50 TP cho toàn đội.\n\nNếu kẻ địch phía trước đang ở trạng thái giảm phòng thủ phép:\n►Tăng $2 tấn công vật lý cho toàn đội trong 12s.\n►Triển khai rào chắn vô hiệu hóa $3 sát thương vật lý trong 12s.\n►Triển khai rào chắn vô hiệu hóa $4 sát thương phép trong 12s.\n►Hồi 75 TP cho toàn đội.
 
 
 

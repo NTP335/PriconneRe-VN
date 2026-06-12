@@ -17,7 +17,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間�
 ##S2##
 スパイラルヤーン=Spiral Yarn
 前方範囲内の敵すべてに物理小ダメージを与え、さらに移動速度と行動速度を小ダウンさせる。=Gây sát thương vật lý nhỏ lên tất cả kẻ địch trong phạm vi và giảm tốc độ di chuyển và hành động của chúng một chút.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の移動速度を一定時間低下させる範囲内の敵の行動速度を一定時間低下させる$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm tốc độ di chuyển của kẻ địch trong phạm vi trong một khoảng thời gian.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi trong một khoảng thời gian.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の移動速度を一定時間低下させる範囲内の敵の行動速度10％ダウン$"=Thời gian thi triển: 1.23s.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 700.\n►Giảm 150 tốc độ di chuyển của kẻ địch trong phạm vi 700 trong 12s.\n►Giảm 10% tốc độ hành động của kẻ địch trong phạm vi 700 trong 12s.
 
 ##EX##
 テーラーガッツ=Tailor's Grit

@@ -96,8 +96,8 @@ sr:"^\[3C404E\]\[FFBB00,CE4F00\]【(.+)】\[-\]と一緒に出発します。\n�
 【加速】15以上：9秒ごとにＴＰ1000回復=【Gia Tốc】15 trở lên:\n►Hồi phục 1000 TP mỗi 9 giây.
 【加速】15以上：９秒ごとにＴＰ1000回復=【Gia Tốc】15 trở lên:\n►Hồi phục 1000 TP mỗi 9 giây.
 
-
-
+【加速】4以上：重複可能の行動速度アップ（【加速】数×5％）=[Haste] 4+:\nTăng tốc độ hành động có thể cộng dồn ([Haste] stacks × 5%).
+【加速】9以上：\nユニオンバースト発動時に【烈風】＋１（最大20）\nＴＰ上昇アップ（【烈風】数×2）=[Haste] 9+:\nKhi kích hoạt Union Burst, nhận thêm +1 [Gale] (tối đa 20).\nTăng TP Boost ([Gale] stacks × 2).
 
 クリティカルや通常攻撃強化により、攻撃性能を強化する=Cường hóa khả năng tấn công thông qua chí mạng và cường hóa đòn đánh thường.
 【会心】4以上：物理/魔法クリダメ＋100％=【Hội Tâm】4 trở lên:\n►Sát thương chí mạng vật lý/ma thuật +100%.

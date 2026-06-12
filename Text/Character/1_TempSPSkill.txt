@@ -8,10 +8,6 @@ r:"^自分の残りＨＰを90％消費自分の魔法攻撃力を(\d+)アップ
 
 
 
-Kurumi
-ブレイブリーベル++=Chuông Dũng Cảm++
-味方全体の物理・魔法防御力を中アップさせ、ＴＰを小回復させる。目の前の敵が魔法防御力ダウン状態だった場合、味方全体の物理攻撃力を特大アップさせ、物理無効バリアと魔法無効バリアを展開し、さらにＴＰを小回復させる。=Tăng vừa Phòng thủ Vật lý và Ma pháp cho toàn bộ đồng đội, đồng thời hồi phục nhẹ TP. Nếu kẻ địch trước mặt đang trong trạng thái bị giảm Phòng thủ Ma pháp, tăng cực đại Tấn công Vật lý cho toàn bộ đồng đội, triển khai lớp khiên vô hiệu hóa sát thương Vật lý và Ma pháp, đồng thời hồi phục thêm một lượng nhẹ TP.
-r:"^味方全体の物理・魔法防御力を(\d+)アップ味方全体のＴＰを50回復目の前の敵が魔法防御力ダウン状態の場合、以下の効果が発動する味方全体の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する味方全体のＴＰを75回復$"=►Tăng $1 Phòng thủ Vật lý và Ma pháp cho toàn đội.\n►Hồi phục 50 TP cho toàn đội.\n\nNếu kẻ địch trước mặt bị giảm Phòng thủ Ma pháp:\n►Tăng $2 Tấn công Vật lý cho toàn đội.\n►Triển khai khiên vô hiệu sát thương Vật lý trị giá $3 sát thương.\n►Triển khai khiên vô hiệu sát thương Ma pháp trị giá $4 sát thương.\n►Hồi phục thêm 75 TP cho toàn đội.
 
 
 
@@ -42,13 +38,6 @@ r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御�
 
 
 
-Misogi
-インクシューター++=Ink Shooter++
-自分から２番目に近い敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、暗闇状態にし、物理攻撃力を大ダウン、ＴＰを小ダウンさせる。目の前の敵がマルチターゲットの場合、範囲内の敵すべてに追加の物理中ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý vừa lên toàn bộ kẻ địch trong phạm vi lấy mục tiêu gần thứ 2 làm trung tâm, gây trạng thái Mù, giảm mạnh Tấn công Vật lý và giảm nhẹ TP của chúng. Nếu kẻ địch trước mặt là mục tiêu đa điểm (Multi-target), gây thêm sát thương vật lý vừa lên toàn bộ kẻ địch trong phạm vi và giảm nhẹ Phòng thủ Vật lý của chúng.
-
-自分から２番目に近い敵１キャラに物理中ダメージを与え、暗闇状態にする。さらにそのキャラを中心とした範囲内の敵すべての物理攻撃力を大ダウンさせる。=Gây sát thương vật lý vừa lên kẻ địch gần thứ 2 và gây trạng thái Mù. Ngoài ra, giảm mạnh Tấn công Vật lý của toàn bộ kẻ địch trong phạm vi lấy mục tiêu đó làm trung tâm.
-
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵のＴＰを75失わせる目の前の敵がマルチターゲットの場合、以下の効果が発動する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây trạng thái Mù cho kẻ địch trong phạm vi.\n►Giảm $2 Tấn công Vật lý của kẻ địch trong phạm vi.\n►Khiến kẻ địch trong phạm vi mất 75 TP.\n\nNếu kẻ địch trước mặt là mục tiêu đa điểm:\n►Gây $3 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm $4 Phòng thủ Vật lý của kẻ địch trong phạm vi.
 
 Monika
 白翼提督の新春晴れ着=Trang Phục Ngày Tết của Đô Đốc Cánh Trắng

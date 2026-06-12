@@ -23,11 +23,12 @@ r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメー
 ##S1##
 トライアロー=Ba Phát Bắn
 目の前の最大３キャラまでの敵に物理小ダメージを与え、さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý nhỏ lên tối đa 3 kẻ địch ngay phía trước. Hồi một lượng nhỏ TP cho bản thân.
-r:"^最大３キャラに各(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 Sát thương Vật lý lên tối đa 3 nhân vật.\n►Hồi TP cho bản thân đi $2.
+r:"^最大３キャラに各(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=Thời gian thi triển: 0.76s.\n►Gây $1 sát thương vật lý lên tối đa 3 mục tiêu.\n►Hồi $2 TP cho bản thân.
 
 ##S2##
 ウィンドアロー=Mũi Tên Gió
 目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý trung bình lên một kẻ địch ngay phía trước đồng thời hồi một lượng nhỏ TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを300回復$"=Thời gian thi triển: 1.5s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Hồi 300 TP cho bản thân.
 
 ##EX##
 エンハンスエイム=Ngắm Bắn Nâng Cao

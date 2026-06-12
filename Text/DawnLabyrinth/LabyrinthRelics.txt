@@ -58,7 +58,6 @@ r:"^通常攻撃強化アップ（アルファルピ所持数×0.01、最大100�
 r:"^物理/魔法クリダメアップ（アルファルピ所持数×0.01%、最大100%）（現在(\d+)枚）$"=►Tăng Sát Thương Chí Mạng Vật Lý/Phép Thuật (Sở Hữu αRupees x0.01, Tối Đa 100)(Sở Hữu αRupees x0.01, Tối Đa 100)(Hiện tại $1)
 
 兵法二海一流=Hyōpo Nikai Ichiryu
-デバフ強化＋20=►Tăng Cường Debuff +20
 
 バインディングローズ=Binding Rose
 敵への継続ダメージアップ（加入キャラ数×10％、最大50万ダメージ）=►Sát Thương Liên Tục lên đối thủ tăng (Nhân vật tham gia x10%, tối đa 500.000 sát thương)

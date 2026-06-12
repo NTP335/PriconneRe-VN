@@ -7,13 +7,13 @@
 ##UB##
 ブラッディローズ=Bloody Rose
 前方範囲内の敵すべてに物理中ダメージを与える。このスキルでとどめを刺した敵の数に応じて、自分のＨＰを回復する。=Gây sát thương thể xác vừa phải cho tất cả kẻ địch trong phạm vi. Hồi phục HP của bản thân cho mỗi kẻ thù bị hạ gục bởi kỹ năng này.
-r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Gây $1 P.DMG cho kẻ địch trong phạm vi.\n►Hồi HP dựa trên số kẻ địch bị hạ gục ×20%.
+r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した数×20%のＨＰを回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 750.\n►Hồi HP dựa trên số lượng kẻ địch bị tiêu diệt ×20%.
 
 ##S1##
 カースブルーム=Curse Bloom
 
 前方範囲内の敵すべてを呪い状態にする。=Gây nguyền rủa cho tất cả kẻ địch trong phạm vi.
-r:"^(\d+)ダメージを与える呪い状態にする$"=Thời gian niệm: 1.41s\n►Gây nguyền rủa trong phạm vi 620, sát thương $1 P.DMG/giây.
+r:"^(\d+)ダメージを与える呪い状態にする$"=Thời gian thi triển: 1.41s.\n►Gây trạng thái Nguyền rủa trong phạm vi 620, gây $1 sát thương vật lý/giây trong 12s.
 
 ##S2##
 ローズフィールド=Field of Thorns
@@ -35,7 +35,7 @@ r:"^毎秒(\d+)の物理ダメージを与えるフィールドを展開する�
 
 
 前方の敵すべての物理防御力を大ダウン、クリティカルを受けた際のダメージを小アップさせ、物理大ダメージを与える。さらに、自分の物理攻撃力を大アップし、ＨＰを小回復する。範囲内の敵の数に応じて、ＨＰの回復倍率が最大３倍までアップする。=Giảm mạnh phòng thủ vật lý của tất cả kẻ địch phía trước, tăng nhẹ sát thương nhận vào khi bị bạo kích, đồng thời gây sát thương vật lý lớn. Ngoài ra, tăng mạnh tấn công vật lý của bản thân và hồi phục nhẹ HP. Dựa trên số lượng kẻ địch trong phạm vi, tỉ lệ hồi phục HP sẽ tăng lên tối đa gấp 3 lần.
-r:"^範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを3％アップ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Giảm $1 phòng thủ vật lý của kẻ địch trong phạm vi.\n►Tăng 3% sát thương bạo kích nhận vào của kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Tăng $3 tấn công vật lý của bản thân.\n►Hồi phục $4 HP cho bản thân.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを3％アップ範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Giảm $1 phòng thủ vật lý của kẻ địch trong phạm vi 750 trong 18s.\n►Tăng 3% sát thương bạo kích phải chịu của kẻ địch trong phạm vi 750 trong 18s.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 750.\n►Tăng $3 tấn công vật lý của bản thân trong 180s.\n►Hồi $4 HP cho bản thân.
 
 ##S1+##
 カースブルーム+=Curse Bloom+
@@ -53,4 +53,4 @@ Mitsuki
 カースブルーム++=Curse Bloom++
 前方の敵すべてを呪い状態と麻痺状態にし、物理・魔法攻撃力を大ダウン、物理防御力を小ダウン、行動速度を中ダウンさせる。さらに、自分のＴＰを中回復する。範囲内の敵の数に応じて、呪いのダメージとＴＰの回復量が最大３倍までアップする。=Khiến tất cả kẻ địch phía trước rơi vào trạng thái Nguyền rủa (Curse) và Tê liệt (Paralysis), giảm mạnh tấn công vật lý và ma pháp, giảm nhẹ phòng thủ vật lý và giảm vừa tốc độ hành động của chúng. Ngoài ra, hồi phục vừa TP cho bản thân. Dựa trên số lượng kẻ địch trong phạm vi, sát thương của Nguyền rủa và lượng TP hồi phục sẽ tăng lên tối đa gấp 3 lần.
 
-r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵を一定時間行動不能にする範囲内の敵の物理・魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の行動速度30％ダウン自分のＴＰを250回復$"=Thời gian thi triển: 1.41 giây.\n►Gây trạng thái Nguyền rủa trong phạm vi 620, gây $1 sát thương vật lý mỗi giây.\n►Khiến kẻ địch trong phạm vi không thể hành động (Tê liệt) trong một khoảng thời gian.\n►Giảm $2 tấn công vật lý và ma pháp của kẻ địch trong phạm vi.\n►Giảm $3 phòng thủ vật lý của kẻ địch trong phạm vi.\n►Giảm 30% tốc độ hành động của kẻ địch trong phạm vi.\n►Hồi phục 250 TP cho bản thân.
+r:"^(\d+)ダメージを与える呪い状態にする範囲内の敵を一定時間行動不能にする範囲内の敵の物理・魔法攻撃力を(\d+)ダウン範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の行動速度30％ダウン自分のＴＰを250回復$"=Thời gian thi triển: 1.41s.\n►Gây trạng thái Nguyền rủa trong phạm vi 620, gây $1 sát thương vật lý/giây trong 12s.\n►Gây trạng thái không thể hành động lên kẻ địch trong phạm vi trong một khoảng thời gian.\n►Giảm $2 tấn công vật lý và tấn công phép của kẻ địch trong phạm vi trong 12s.\n►Giảm $3 phòng thủ vật lý của kẻ địch trong phạm vi trong 12s.\n►Giảm 30% tốc độ hành động của kẻ địch trong phạm vi trong 12s.\n►Hồi 250 TP cho bản thân.

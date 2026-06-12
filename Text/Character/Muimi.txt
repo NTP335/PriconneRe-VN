@@ -55,13 +55,16 @@ r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理
 ##SP1++##
 天楼廻刃斬++=Spiresplitter Sweep++
 目の前の敵１キャラに物理特大ダメージを与える。発動時の自分の残りＴＰに応じてこのスキルのダメージがアップする。敵の数が１キャラの場合、自分のＴＰを大回復する。=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt. Sát thương của kỹ năng này tăng dựa trên lượng TP còn lại của bản thân tại thời điểm kích hoạt. Nếu chỉ có duy nhất 1 kẻ địch, hồi phục mạnh TP cho bản thân.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする敵の数が１キャラの場合、自分のＴＰを500回復$"=Thời gian thi triển: 0.25 giây.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây trạng thái mất khả năng hành động lên kẻ địch trong phạm vi trong một khoảng thời gian.\n\nNếu chỉ có 1 kẻ địch:\n►Hồi phục 500 TP cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする敵の数が１キャラの場合、自分のＴＰを500回復$"=Thời gian thi triển: 0.25s.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây trạng thái Choáng lên kẻ địch trong phạm vi 250 trong 1.5s.\n\nNếu chỉ có 1 kẻ địch:\n►Hồi 500 TP cho bản thân.
 
 ##S1++##
 ビビらせてやる！++=Feeling Scared Yet?!++
 前方範囲内の敵すべてに物理中ダメージを２回与え、スタンさせ、小さく吹き飛ばす。敵の数が１キャラの場合、自分のＴＰを大回復する。=Gây sát thương vật lý vừa 2 lần lên toàn bộ kẻ địch trong phạm vi phía trước, gây choáng và đánh bật lùi nhẹ. Nếu chỉ có duy nhất 1 kẻ địch, hồi phục mạnh TP cho bản thân.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする敵単体に(\d+)の物理ダメージ敵の数が１キャラの場合、自分のＴＰを500回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây trạng thái mất khả năng hành động lên kẻ địch trong phạm vi trong một khoảng thời gian.\n►Gây $3 sát thương vật lý lên một mục tiêu.\n\nNếu chỉ có 1 kẻ địch:\n►Hồi phục 500 TP cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする敵単体に(\d+)の物理ダメージ敵の数が１キャラの場合、自分のＴＰを500回復$"=Thời gian thi triển: 0.25s.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây trạng thái không thể hành động lên kẻ địch trong phạm vi trong một khoảng thời gian.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n\nNếu chỉ có 1 kẻ địch:\n►Hồi 500 TP cho bản thân.
 
 目の前の敵１キャラに物理特大ダメージを与える。このスキルのスキルレベルは「天楼覇断剣」と連動しています=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt. Cấp độ của kỹ năng này được liên kết với "Thiên Lâu Bá Đoạn Kiếm".
 
 前方範囲内の敵すべてに物理小ダメージを２回与え、さらにスタンさせて小さく吹き飛ばす。=Gây sát thương vật lý nhỏ 2 lần lên toàn bộ kẻ địch trong phạm vi phía trước, đồng thời gây choáng và đánh bật lùi nhẹ.
+
+
+r:"^敵単体に(\d+)の物理ダメージ敵の数が１キャラの場合、自分のＴＰを500回復$"=Thời gian thi triển: 0.25s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu chỉ có 1 kẻ địch:\n►Hồi 500 TP cho bản thân.

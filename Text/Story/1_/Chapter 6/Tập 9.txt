@@ -1,0 +1,79 @@
+Oh, howdy, {playername}!\nSo you made it outta there!\nWell, ain't that some good news!=Chào cậu, {playername}! Vậy là cậu đã thoát khỏi đó an toàn! Tin tốt lành đây mà!
+
+You seem to be doing well yourself!=Có vẻ như bản thân cậu cũng đang rất ổn nhỉ!
+
+Eheheh...\nWe were real lucky the place wasn't more beat-up all over.\nIt was basically just the buildings that needed fixin'.=Eheheh... Chúng mình thật sự rất may mắn khi nơi này không bị hư hại quá nặng nề. Về cơ bản thì chỉ cần sửa sang lại mấy tòa nhà là được.
+The biggest hurdle was gettin' the barn standing again,\nso I reckon we'll be back in business before the day's out.\nWell, we've still got our fair share of injuries...=Thử thách lớn nhất là dựng lại cái kho thóc, nên tớ đoán là trước khi ngày hôm nay kết thúc, chúng ta sẽ quay lại hoạt động bình thường thôi. Chà, dù chúng ta vẫn còn khá nhiều người bị thương...
+But none of that's too serious.\nAn' a real fine mender-upper came to help,\nso things're going smoothly there too!=Nhưng chẳng có ai bị thương quá nặng cả. Hơn nữa, lại có một chuyên gia chữa trị tài giỏi đến giúp đỡ, nên mọi việc ở đó cũng đang tiến triển rất thuận lợi!
+A "mender-upper"?\nOh, you mean a medical magic specialist,\nwhat's known as a "healer," right?=Một "chuyên gia chữa trị" sao? Ồ, ý cậu là chuyên gia ma pháp y thuật, hay còn gọi là "người hồi máu" (healer) phải không?
+Is that what they call 'em in the city?\nThis one was from the Mercurius Foundation. Name of Yukari.\nAnd lemme tell you, this lady coulda put ten doctors outta business!=Ở thành phố họ gọi là thế à? Người này đến từ Hiệp hội Mercurius. Tên là Yukari. Để tớ nói cho cậu nghe, cô ấy làm việc hiệu quả đến mức mười bác sĩ gộp lại cũng chẳng bằng đâu!
+
+Oh, I know her.=Ồ, tớ biết cô ấy.
+
+Hmm?\nShe a pal of yours, {playername}?\nYou should go say hi later, then!=Hmm? Cô ấy là bạn của cậu à, {playername}? Vậy lát nữa cậu nên qua chào hỏi cô ấy đi nhé!
+Right now's probably not the time...\nShe's still pretty busy tending to all the patients.=Có lẽ bây giờ không phải là lúc thích hợp... Cô ấy vẫn đang rất bận rộn chăm sóc cho các bệnh nhân.
+Ahaha!\nIt always amazes me\nhow many people you know, {playername}!=Ahaha! Tớ luôn kinh ngạc về việc cậu quen biết nhiều người đến thế đấy, {playername}!
+At any rate, it's good to hear that everyone's doing OK!\nI'm glad my efforts here didn't go to waste!=Dù sao đi nữa, thật tốt khi nghe tin mọi người đều ổn! Tớ rất vui vì những nỗ lực của mình ở đây không hề hoài công vô ích!
+Yup! Everyone's alive, and that's what counts.\nLives before profits, right?\nLong as you're alive, you can always get back on your feet!=Đúng vậy! Mọi người đều sống sót, đó mới là điều quan trọng nhất. Phải coi trọng mạng sống hơn lợi nhuận chứ, đúng không? Chừng nào còn sống, chúng ta luôn có thể làm lại từ đầu!
+This farm'll be full of beaming smiles again soon enough!=Nông trại này chẳng mấy chốc sẽ lại tràn ngập những nụ cười rạng rỡ thôi!
+Oh, heck.\nI've still got a whole buncha stuff to see to,\nbein' in charge of this farm and all...=Ôi chao. Tớ vẫn còn cả đống việc phải giải quyết, với tư cách là người quản lý nông trại này...
+So it's time I got back to work!=Đến lúc tớ phải quay lại làm việc rồi!
+Right, you do what you need to do!\n...Now then.\nThis Saren person should be somewhere around here...=Được rồi, cậu cứ làm những gì cậu cần làm đi! ...Giờ thì. Người tên Saren này chắc phải ở đâu đó quanh đây...
+But which one could she be?\nI've never met her, so I don't know what she looks like.=Nhưng cô ấy là ai cơ chứ? Tớ chưa từng gặp cô ấy nên chẳng biết trông cô ấy ra sao cả.
+
+She's an elegant beauty.=Cô ấy là một người đẹp thanh lịch.
+Wow, talk about piling on the compliments!\nCould it be you've got a little crush on her?=Wow, tâng bốc cô ấy ghê thế! Có phải là cậu đang "cảm nắng" cô ấy rồi không?
+She's got... long hair.=Cô ấy có... mái tóc dài.
+Hmmm...\nI might need a bit more info than that.\nI mean, that description covers a lot of people. Even me!=Hmm... Tớ cần thêm chút thông tin nữa. Ý tớ là, mô tả đó bao quát quá nhiều người. Ngay cả tớ cũng vậy mà!
+Indeed. Still, it is not an incorrect assessment.\nMiss Saren does have quite beautiful long and flowing locks.=Quả thật vậy. Tuy nhiên, đó cũng không phải là một đánh giá sai. Cô Saren quả có mái tóc dài và óng ả rất đẹp.
+
+Ehmmm...\nOh! I believe I see her now.\nHello there! Miss Saren?=Ehmmm... Ồ! Em tin là em thấy cô ấy rồi. Xin chào! Có phải là cô Saren không ạ?
+What's the meaning of this?!=Chuyện này có nghĩa là gì đây?!
+No need to get so heated.\nThis is only a proposition on my part.\nThe final decision will fall to the proprietor, Miss Mahiru.=Không cần phải nóng nảy như thế. Đây chỉ là một đề xuất từ phía tớ mà thôi. Quyết định cuối cùng sẽ thuộc về người chủ, cô Mahiru.
+Is it really your place to be voicing complaints?=Thực sự là cô có quyền đưa ra lời phàn nàn ở đây sao?
+Well, I suppose not, but it's the principle of the thing!\nWe're all just volunteers helping out,\nso let's not overstep the mark!=Chà, tớ nghĩ là không, nhưng đây là nguyên tắc! Chúng ta đều chỉ là tình nguyện viên đến giúp đỡ, vì vậy đừng nên vượt quá giới hạn!
+Cutting down the trees\nand building a magic-conducting pylon?\nDo you want to completely spoil the rural scenery?=Chặt cây rồi xây một cột dẫn ma pháp sao? Cô muốn phá hủy hoàn toàn phong cảnh nông thôn này à?
+Are you sure you're not just trying to create a market\nfor your own high-priced magical wares?=Cô có chắc là mình không chỉ đang cố tạo ra thị trường cho những món hàng ma pháp đắt đỏ của riêng cô không đấy?
+I've said this enough times, and it's all there in the report.\nThe flow of magical energy here is disrupted,\nand this is the only way to restore it to normal.=Tớ đã nói điều này đủ nhiều lần rồi, và tất cả đều có trong báo cáo. Dòng chảy năng lượng ma pháp ở đây đang bị gián đoạn, và đây là cách duy nhất để khôi phục nó về bình thường.
+The alternative is far more costly.\nDo you expect these people to struggle along\nwith inefficient magic forever?=Phương án thay thế tốn kém hơn nhiều. Cô muốn những người dân này phải chật vật mãi với nguồn ma pháp kém hiệu quả sao?
+Besides, natural scenery is all very well,\nbut this area has already been damaged all over\nby that unfortunate monster rampage.=Hơn nữa, cảnh quan thiên nhiên thì tốt thật đấy, nhưng khu vực này đã bị tàn phá khắp nơi bởi cuộc càn quét đáng tiếc của lũ quái vật rồi.
+That's why I'm saying\nwe shouldn't add insult to injury\nby causing even more damage!=Đó chính là lý do tớ nói chúng ta không nên "xát muối vào vết thương" bằng cách gây thêm thiệt hại nữa!
+Think about the future, not the past.\nEven the scenery won't recover\nwithout the magical currents back in working condition.=Hãy nghĩ đến tương lai, đừng nghĩ đến quá khứ. Ngay cả phong cảnh cũng sẽ không hồi phục nếu các dòng năng lượng ma pháp không được khôi phục hoạt động bình thường.
+If you leave this disturbance unattended,\nit'll wreak havoc with the whole ecosystem.\nThe situation will only get worse if we don't intervene.=Nếu cô cứ để sự gián đoạn này mặc kệ, nó sẽ tàn phá toàn bộ hệ sinh thái. Tình hình sẽ chỉ càng tồi tệ hơn nếu chúng ta không can thiệp.
+Nyow, nyow...\nFighting isn't going to solve anything.\nWhy don't you both cool your heads off a little?=Nào, nào... Cãi nhau chẳng giải quyết được gì cả. Sao hai người không tự hạ hỏa một chút đi?
+Whose side do you think you're on, Tamaki?=Cô nghĩ mình đang đứng về phe ai thế, Tamaki?
+Seriously, though.\nThe people here are stressed out\nafter the nightmare they've just been through.=Nhưng nói nghiêm túc nhé. Mọi người ở đây đang rất căng thẳng sau cơn ác mộng mà họ vừa trải qua.
+It's only going to stress them out even more\nif they see you shouting at each other all day.=Việc nhìn thấy hai người la hét vào mặt nhau suốt cả ngày chỉ khiến họ thêm căng thẳng mà thôi.
+...Perhaps you have a point.\nI'm sorry. I do seem to get a bit carried away\nwhen I get into a proper debate with Saren.=...Có lẽ cô nói đúng. Tớ xin lỗi. Có vẻ tớ hơi quá khích khi tranh luận nghiêm túc với Saren.
+Despite their similar upbringings,\nshe couldn't be more different from Akino!=Dù có xuất thân tương đồng, cô ấy khác hẳn so với Akino!
+That girl's in a category of her own...\nBut I agree, talking to you is always so educational!=Cô bé đó là một trường hợp đặc biệt... Nhưng tớ đồng ý, trò chuyện với cậu lúc nào cũng rất bổ ích!
+Well, I appreciate the compliment.\nI must say I find our discussions\nrather stimulating myself.=Chà, tớ cảm kích vì lời khen đó. Tớ phải nói rằng bản thân tớ cũng thấy các cuộc thảo luận của chúng ta khá thú vị.
+There aren't many people at my guild\nwho are willing to discuss these sorts of difficult topics.=Không có nhiều người ở hội của tớ sẵn sàng thảo luận về những chủ đề hóc búa thế này.
+But being difficult is what makes them fun! Right?=Nhưng chính những thứ hóc búa mới làm chúng trở nên thú vị chứ, đúng không?
+Right!\n...I mean, maybe I shouldn't be enjoying myself\nwhen people have been put in actual danger...=Đúng vậy!\n...Ý tớ là, có lẽ tớ không nên vui vẻ khi mọi người vừa gặp nguy hiểm thực sự...
+But if having these tricky little debates\ncan help us reach the best solution for everyone, it's a win-win!=Nhưng nếu những cuộc tranh luận nhỏ đầy hóc búa này có thể giúp chúng ta đạt được giải pháp tốt nhất cho tất cả mọi người, thì đó là đôi bên cùng có lợi!
+And with so many people showing up to help,\nthe repairs are progressing much more quickly than I expected.\nAt this rate, there might not be much left for us to do!=Và với rất nhiều người đến giúp đỡ, công việc sửa chữa đang tiến triển nhanh hơn tớ mong đợi nhiều. Với tốc độ này, có khi chẳng còn lại bao nhiêu việc cho chúng ta làm mất!
+Well, we're outsiders here,\nso we shouldn't poke our nyoses in too hard.=Chà, chúng ta là người ngoài, nên không nên xen vào chuyện của người khác quá sâu làm gì.
+A vigilante may steal from the rich to give to the poor,\nbut he shouldn't go telling the poor how to spend the spoils!=Một người hành hiệp trượng nghĩa có thể lấy của người giàu chia cho người nghèo, nhưng không nên đi dạy bảo người nghèo cách tiêu số tài sản đó như thế nào!
+I'm not sure I'm quite ready to understand\nyour unique view of morality, Tamaki...\n...Oh, what's this?=Tớ không chắc là mình đã sẵn sàng để hiểu quan điểm đạo đức độc đáo của cậu đâu, Tamaki... ...Ồ, cái gì thế này?
+{playername}!\nThank goodness.\nI was worried when I heard you'd gone missing.= {playername}! Cảm ơn trời đất. Tớ đã rất lo lắng khi nghe tin cậu bị mất tích.
+{playername}! Myahahah...\nI see you're surrounded by girls as usual!= {playername}! Myahahah... Tớ thấy cậu vẫn được các cô gái vây quanh như thường lệ nhỉ!
+
+Sorry for making everyone worry.=Xin lỗi vì đã làm mọi người phải lo lắng.
+
+And these people are... who, exactly?\nYet more friends of yours, my lord?=Và những người này là... chính xác là ai vậy? Lại thêm những người bạn khác của ngài sao, thưa ngài?
+Oh, I guess I haven't met you girls before!\nI'm Tamaki, from the Meow-curius Foundation!\nPleasure to meetcha!=Ồ, hình như tớ chưa gặp các cậu trước đây! Tớ là Tamaki, đến từ Hiệp hội Meow-curius! Rất vui được gặp các cậu!
+As a token of my friendship,\nhave a steaming hot taiyaki each!=Để làm quà kết bạn, mỗi người cầm lấy một chiếc bánh taiyaki nóng hổi đi nè!
+Where did you even pull those out from, Tamaki?!=Cậu lấy những thứ đó từ đâu ra vậy, Tamaki?!
+Ooh, yes please!\n...Actually, I think I recognize this flavor?=Ooh, vâng, làm ơn! ...Thực ra thì, hình như tớ nhận ra vị này?
+Oh? You know my wares?\nCome to think of it,\nhaven't I seen you at my stall about a hundred times?!=Ồ? Cậu biết hàng của tớ à? Nghĩ lại thì, hình như tớ đã thấy cậu ở quầy hàng của tớ khoảng một trăm lần rồi thì phải?
+Thanks for all your patronage!\nI love a regular customer!=Cảm ơn cậu đã ủng hộ! Tớ rất thích những khách hàng quen thuộc!
+A taiyaki stall...?\nIf I might ask, just what kind of guild is this Mercurius Foundation?=Một quầy bán taiyaki...? Nếu em có thể hỏi, thì Hiệp hội Mercurius này rốt cuộc là loại hội nhóm gì vậy?
+Uhhh... We do all sorts of things. Financial stuff mostly.\nReally, we just go where the money is!=Uhhh... Chúng tớ làm đủ loại việc. Chủ yếu là chuyện tài chính. Thực ra thì, chúng tớ cứ hướng đến nơi nào có tiền thôi!
+Today we got a request from Caon,\nso we're here to help out our fellow beastfolk!=Hôm nay chúng tớ nhận được yêu cầu từ hội Caon, nên chúng tớ ở đây để giúp đỡ những người bạn thú nhân của mình!
+Like most beastfolk, I'm registered with the Menyagerie,\nso I've got a duty to do my part!=Giống như hầu hết thú nhân, tớ cũng đăng ký với Menyagerie, nên tớ có nghĩa vụ phải góp một tay!
+You know us beastfolk,\nwe're all about that community spirit!=Cậu biết chúng tớ, những thú nhân, đều rất đề cao tinh thần cộng đồng mà!
+There's a few Caon members\bwho are working at Elizabeth Park right nyow...=Hiện giờ có vài thành viên hội Caon đang làm việc ở công viên Elizabeth...
+So they used their connections\nto bring in beastfolk from all over to pitch in.=Vì vậy họ đã sử dụng các mối quan hệ của mình để huy động thú nhân từ khắp mọi nơi đến chung sức.
+This farm is home to all sorts of people,\nhuman and beastfolk alike, living together in harmony...=Nông trại này là ngôi nhà của đủ loại người, cả con người lẫn thú nhân, sống hòa thuận bên nhau...
+You could call it a sort of paradise.\nSo we can't let one little disaster spoil such a precious place!=Cậu có thể gọi đây là một kiểu thiên đường. Vì vậy, chúng ta không thể để một thảm họa nhỏ phá hỏng một nơi quý giá như thế này được!
