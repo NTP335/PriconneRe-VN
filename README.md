@@ -44,7 +44,7 @@
 1. **Cài đặt Patch EN:**
    Trước tiên, bạn phải cài đặt thành công patch EN theo hướng dẫn tại: [ImaterialC/PriconneRe-TL](https://github.com/ImaterialC/PriconneRe-TL)
 
-2. **Áp dụng file Việt Hoá:**
+2. **Áp dụng file Việt Hoá:** [PrinconneRe-VN](https://github.com/NTP335/PriconneRe-VN/releases)
    - Tải file `Text` từ project này về máy.
    - Truy cập vào thư mục cài đặt game và tìm đến đường dẫn: `BepInEx/Translation/en/`
      <img width="738" height="434" alt="image" src="https://github.com/user-attachments/assets/fbbde644-8a0c-4212-9873-8a2ebce5af58" />
