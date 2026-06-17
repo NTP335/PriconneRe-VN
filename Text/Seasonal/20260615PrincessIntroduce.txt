@@ -1,0 +1,11 @@
+プリンセス紹介キャンペーン=Chiến dịch Giới thiệu Công chúa
+どなたかお一人を選び投稿を\n行ってくださいまし。\n報酬が獲得できるのは、\n初回投稿時のみでございますよ。=Xin hãy chọn một người và thực hiện bài đăng.\nPhần thưởng chỉ có thể nhận được\ntrong lần đăng đầu tiên thôi ạ.
+主さまにとっての「プリンセス」――大切に想われているお方を選んで、\n皆さまに紹介いたしましょう。投稿後には報酬が獲得できるようですよ。\nわたくし、主さまのいかなる選択も尊重する所存にございます。=Hãy chọn "Công chúa" của lòng Chủ nhân—người mà ngài trân quý nhất—\nđể giới thiệu với mọi người nhé. Sau khi đăng bài, ngài sẽ nhận được phần thưởng đấy ạ.\nTôi luôn tôn trọng mọi quyết định của Chủ nhân.
+紹介確認=Xác nhận giới thiệu
+紹介する=Giới thiệu
+キャンペーン参加報酬は二回以上\n受け取ることはできません。=Phần thưởng tham gia chiến dịch không thể\nnhận quá một lần.
+sr:"^([べ-ヺー＆＝]+)\[-\]\[3C404E\]をプリンセスとして紹介しますか？$"=Bạn có muốn giới thiệu $1[-] [3C404E] cho Công chúa của mình không?
+「紹介する」を選ぶと、外部サイトに移動します。=Nếu chọn "Giới thiệu", bạn sẽ được chuyển hướng đến một trang web bên ngoài.
+報酬を2回以上獲得することはできません。=Không thể nhận phần thưởng quá một lần.
+    
+メインストーリー第3部最終章開幕記念ショップ=Cửa hàng kỷ niệm khai mở chương cuối Cốt truyện chính Phần 3

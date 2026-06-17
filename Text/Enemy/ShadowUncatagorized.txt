@@ -1,0 +1,7 @@
+前方範囲内の敵に物理中ダメージを与える。敵を倒した場合、さらに自分のＴＰを特大回復する。=Gây sát thương vật lý trung bình lên các kẻ địch trong phạm vi phía trước. Nếu tiêu diệt được kẻ địch, hồi phục lượng lớn TP cho bản thân.
+目の前の敵１キャラに物理中ダメージを与え、小さく吹き飛ばす。=Gây sát thương vật lý trung bình lên 1 mục tiêu kẻ địch ở gần nhất và đẩy lùi một khoảng nhỏ.
+前方範囲内の敵に魔法中ダメージを与え、物理防御力を小～中ダウンさせる。=Gây sát thương phép trung bình lên các kẻ địch trong phạm vi phía trước và giảm phòng thủ vật lý (từ thấp đến trung bình) của chúng.
+前方範囲内の敵に魔法中ダメージを与え、物理・魔法防御力を小ダウンさせる。=Gây sát thương phép trung bình lên các kẻ địch trong phạm vi phía trước và giảm nhẹ phòng thủ vật lý/phép của chúng.
+自分を中心とした範囲内の味方のＨＰを小回復、物理攻撃力を小アップさせる。=Hồi phục nhẹ HP cho các đồng minh trong phạm vi quanh bản thân và tăng nhẹ tấn công vật lý cho họ.
+【召喚】自分の背後にいない味方のＨＰを中回復させ、最も前の味方のそばに精霊を唱喚する。=[Triệu hồi] Hồi phục HP trung bình cho những đồng minh không đứng phía sau bản thân, đồng thời triệu hồi một tinh linh bên cạnh đồng minh đứng ở vị trí tiên phong.
+最も前の味方を中心とした範囲内の味方の物理攻撃力を大アップ、物理クリティカルを中アップさせ、範囲内の味方を小回復させるフィールドを展開する。=Triển khai một vùng ảnh hưởng (field) lấy đồng minh tiên phong làm trung tâm, giúp tăng mạnh tấn công vật lý, tăng vừa phải tỷ lệ bạo kích vật lý và hồi phục nhẹ HP cho các đồng minh trong phạm vi đó.

@@ -79,6 +79,16 @@ The apron
 黎明火飾アルファトレランス=Tai Nghe Bình Minh Hỏa Long Alpha Tolerance
 
 
+黎明火衣アルファレディアンス=Trang phục Hỏa Rạng Đông Alpha Radiance
+黎明水衣アルファレディアンス=Trang phục Thủy Rạng Đông Alpha Radiance
+黎明風衣アルファレディアンス=Trang phục Phong Rạng Đông Alpha Radiance
+黎明光衣アルファレディアンス=Trang phục Quang Rạng Đông Alpha Radiance
+黎明闇衣アルファレディアンス=Trang phục Ám Rạng Đông Alpha Radiance
+黎明火玄アルファエレガンス=Huyền bí Hỏa Rạng Đông Alpha Elegance
+黎明水玄アルファエレガンス=Huyền bí Thủy Rạng Đông Alpha Elegance
+黎明風玄アルファエレガンス=Huyền bí Phong Rạng Đông Alpha Elegance
+黎明光玄アルファエレガンス=Huyền bí Quang Rạng Đông Alpha Elegance
+黎明闇玄アルファエレガンス=Huyền bí Ám Rạng Đông Alpha Elegance
 
 
 

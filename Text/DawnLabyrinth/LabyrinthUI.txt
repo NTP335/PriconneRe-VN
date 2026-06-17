@@ -2,6 +2,7 @@
 黎明界ラビリンスβ=Mê Cung Bình Minh β
 黎明界ラビリンスβに挑戦しよう=Thử thách Mê Cung Bình Minh β
 
+r:"^残り(\d+)セット購入可能！$"=Có thể mua thêm $1 bộ nữa!
 所持パスポート=Hộ Chiếu
 挑戦中=Đang Tiến Hành
 出発=Xuất Phát
@@ -115,6 +116,19 @@ sr:"^\[3C404E\]\[FFBB00,CE4F00\]【(.+)】\[-\]と一緒に出発します。\n�
 【弱体】9以上：敵への継続ダメージ＋2000％（最大30万ダメージ）=【Nhược Hóa】9 trở lên:\n►Sát thương duy trì gây lên kẻ địch +2000% (Tối đa 300,000 sát thương).
 【弱体】15以上：弱体効果数に応じて敵の被ダメアップ（対象の弱体効果数×50％、最大＋500％）さらに敵への継続ダメージ＋1000％（最大50万ダメージ）=【Nhược Hóa】15 trở lên:\n►Tăng sát thương kẻ địch nhận vào dựa trên số lượng hiệu ứng bất lợi (Số hiệu ứng × 50%, tối đa +500%).\n►Đồng thời sát thương duy trì lên kẻ địch +1000% (Tối đa 500,000 sát thương).
 【弱体】15以上：弱体効果数に応じて敵の被ダメアップ（対象の弱体効果数×20％、最大＋200％）=【Nhược Hóa】15 trở lên:\n►Tăng sát thương kẻ địch nhận vào dựa trên số lượng hiệu ứng bất lợi (Số hiệu ứng × 20%, tối đa +200%).
+【会心】4以上：物理/魔法クリダメアップ（【会心】数×5％）物理/魔法クリティカルアップ（【会心】数×200）=[Critical] 4 trở lên: Tăng sát thương bạo kích vật lý/phép (số [Critical] × 5%), tăng chỉ số bạo kích vật lý/phép (số [Critical] × 200)
+【会心】9以上：クリティカルするたびに敵に【看破】＋１（最大99）敵の物理/魔法被クリダメアップ（【看破】数×1％）=[Critical] 9 trở lên: Mỗi khi gây bạo kích, tích +1 [Nhìn thấu] lên kẻ địch (tối đa 99). Tăng sát thương bạo kích vật lý/phép kẻ địch phải chịu (số [Nhìn thấu] × 1%)
+【会心】15以上：敵の【看破】99：攻撃時追加ダメージ＋30％=[Critical] 15 trở lên: Khi kẻ địch có 99 [Nhìn thấu]: +30% sát thương cộng thêm khi tấn công
+
+【弱体】4以上：敵への継続ダメージアップ（【弱体】数×50％）=[Debuff] 4 trở lên: Tăng sát thương duy trì lên kẻ địch (số [Debuff] × 50%)
+【弱体】9以上：敵にデバフを付与するたびに敵に【衰弱】＋１（最大66）敵の物理/魔法被ダメアップ（【衰弱】数×2％）=[Debuff] 9 trở lên: Mỗi khi gây debuff lên kẻ địch, tích +1 [Suy yếu] (tối đa 66). Tăng sát thương vật lý/phép kẻ địch phải chịu (số [Suy yếu] × 2%)
+【弱体】15以上：敵の【衰弱】66：１秒ごとに最大ＨＰの5％の割合ダメージ（最大100万）=[Debuff] 15 trở lên: Khi kẻ địch có 66 [Suy yếu]: Gây sát thương theo tỷ lệ 5% HP tối đa mỗi giây (tối đa 1 triệu)
+
+【強化】4以上：ダメージブーストアップ（【強化】数×2％）=[Buff] 4 trở lên: Tăng sát thương cộng thêm (Damage Boost) (số [Buff] × 2%)
+【強化】9以上：味方からバフを受けるたびに【高揚】＋１（最大99）物理/魔法攻撃力アップ（【高揚】数×1％）=[Buff] 9 trở lên: Mỗi khi nhận buff từ đồng minh, tích +1 [Phấn chấn] (tối đa 99). Tăng tấn công vật lý/phép (số [Phấn chấn] × 1%)
+【強化】15以上：【高揚】99：１秒ごとに物理/魔法攻撃力ダウンと物理/魔法防御力ダウン効果解除物理/魔法攻撃力アップ（現在値＋10％）=[Buff] 15 trở lên: Khi có 99 [Phấn chấn]: Mỗi giây xóa hiệu ứng giảm tấn công/phòng thủ vật lý/phép và tăng tấn công vật lý/phép (giá trị hiện tại +10%)
+
+【加速】15以上：【烈風】20：【烈風】をすべて消費してＴＰ1000回復ダメージブースト＋10％=[Haste] 15 trở lên: [Cuồng phong] 20: Tiêu hao toàn bộ [Cuồng phong] để hồi 1000 TP và tăng 10% sát thương cộng thêm (Damage Boost)
 
 
 攻撃力や防御力アップのバフ効果を用いて、キャラを強化する=Cường hóa nhân vật bằng các hiệu ứng tăng tấn công và phòng thủ.
@@ -129,6 +143,11 @@ sr:"^\[3C404E\]\[FFBB00,CE4F00\]【(.+)】\[-\]と一緒に出発します。\n�
 【守備】9以上：15秒ごとに前から敵1体に物理と魔法固定ダメージ（味方全体の現在ＨＰ合計×400ダメージ）=【Thủ Bị】9 trở lên:\n►Mỗi 15 giây, gây sát thương vật lý và ma thuật cố định lên một kẻ địch từ phía trước (Sát thương bằng tổng HP hiện tại của toàn đội × 400).
 【守備】15以上：15秒ごとに物理/魔法与ダメアップフィールド展開（味方全体の現在ＨＰ合計×0.0001％、最大200％）=【Thủ Bị】15 trở lên:\n►Mỗi 15 giây, triển khai trường tăng sát thương vật lý/ma thuật gây ra (Tổng HP hiện tại của toàn đội × 0.0001%, tối đa 200%).
 【守備】15以上：15秒ごとに物理/魔法与ダメアップフィールド展開（味方全体の現在ＨＰ合計×0．0004％、最大200％）=【Thủ Bị】15 trở lên:\n►Mỗi 15 giây, triển khai trường tăng sát thương vật lý/ma thuật gây ra (Tổng HP hiện tại của toàn đội × 0.0004%, tối đa 200%).
+
+【守備】4以上：全ダメージカット（【守備】数×2％）=[Defense] 4 trở lên: Giảm tất cả sát thương phải chịu (số [Thủ] × 2%)
+【守備】9以上：敵から攻撃かデバフを受けるたびに【闘志】＋１（最大15）与ダメアップ（【闘志】数×5％）ＨＰ吸収アップ（【闘志】数×5）=[Defense] 9 trở lên: Mỗi khi nhận tấn công hoặc debuff từ kẻ địch, tích +1 [Ý chí chiến đấu] (tối đa 15). Tăng sát thương gây ra (số [Ý chí chiến đấu] × 5%) và tăng khả năng hút HP (số [Ý chí chiến đấu] × 5)
+【守備】15以上：【闘志】15：【闘志】をすべて消費して与ダメ＋50％ダメージブースト＋25％=[Defense] 15 trở lên: Khi có 15 [Ý chí chiến đấu]: Tiêu hao toàn bộ [Ý chí chiến đấu] để tăng 50% sát thương gây ra và 25% sát thương cộng thêm (Damage Boost)
+
 
 仲間=Đồng Đội
 インベントリ=Hành Trang
