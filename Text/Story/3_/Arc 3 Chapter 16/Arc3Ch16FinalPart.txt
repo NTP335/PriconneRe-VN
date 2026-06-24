@@ -238,7 +238,7 @@ Interlude XXVIII
 『捜すのは手伝いますよ、ノウェム。\n私も迷宮女王に、依頼がありますから。\nそれに──』=『Tôi sẽ giúp một tay trong việc tìm kiếm nhé, Novem.\nVì bản thân tôi cũng có việc cần thỉnh cầu Mê Cung Nữ Vương mà.\nHơn nữa──』
 『──ジオ・テオゴニア。ジオ・ゲヘナ。ジオ・ニヴルヘル。\n私の管轄の外だった、三界を治めるプリンセスたちよ。\n御助力いただいたこと、感謝します』=『──Geo Teogonia. Geo Gehenna. Geo Niflhell.\nCác vị công chúa trị vì ba thế giới vốn nằm ngoài tầm quản lý của tôi.\nXin chân thành cảm tạ sự trợ giúp của mọi người』
 戦い続けている騎士たちの負担を少しでも減らせるなら、\nいくらでも手を貸しましょう。\n……それに、相手はわたしたちにも因縁のある人物の長でしたから。=Nếu có thể giảm bớt phần nào gánh nặng cho những vị kỵ sĩ vẫn đang kiên trì chiến đấu ngoài kia,\ntôi sẵn sàng giúp đỡ hết mình.\n……Vả lại, đối phương lại là thủ lĩnh của kẻ có nợ nần ân oán với chúng tôi nữa chứ.
-然り──蜘蛛の虚けを、『憤怒』奴により傀儡とし。\n剰え、『色欲』の山羊にてクリア殿とモネの友情を引き裂かんとするなど\n言語道断の手合い也。刎頸に処してしかるべし。=Chính xác── kẻ dám biến con Nhện ngu xuẩn thành con rối thông qua tên nô dịch mang tội "Phẫn Nộ".\nĐã vậy còn định dùng con Dê mang tội "Sắc Dục" để chia rẽ tình bạn giữa Clear-dono và Mone,\nquả thực là hạng người tội đại ác cực, không thể dung thứ. Đáng tội chém đầu răn đe.
+然り──蜘蛛の虚けを、『憤怒』奴により傀儡とし。\n剰え、『色欲』の山羊にてクリア殿とモネの友情を引き裂かんとするなど\n言語道断の手合い也。刎頸に処してしかるべし。=Chính xác── kẻ dám biến con Nhện ngu xuẩn thành con rối thông qua tên nô dịch mang tội "Phẫn Nộ".\nĐã vậy còn định dùng con Dê mang tội "Sắc Dục" để chia rẽ tình bạn giữa Quria-dono và Mone,\nquả thực là hạng người tội đại ác cực, không thể dung thứ. Đáng tội chém đầu răn đe.
 ……リーザも。\nその幻境竜后という者の、プリンセスナイトになることを選んだ……\nわたくしが、もっとしっかりしていれば……=……Liza cũng vậy.\nCô ấy đã chọn trở thành Princess Knight của kẻ được gọi là Huyễn Cảnh Long Hậu đó……\nGiá như bản thân mình hành sự chín chắn, vững vàng hơn thì……
 ──みなさま。\nこの場の後始末を済ませましたら、共に温泉にて、汗を流しましょう。\nそして、ジオ・テオゴニアの誇るジェラートを振る舞わせてください。=──Mọi người ơi.\nSau khi thu dọn tàn cuộc ở đây xong xuôi, chúng ta cùng đi tắm suối nước nóng để rũ bỏ hết mồ hôi nhé.\nVà xin hãy để tôi thiết đãi món kem Gelato niềm tự hào của vùng Geo Teogonia này nha.
 『おっ！\nそれいいな、やっぱ働いた後には甘いモノだよな～！』=『Ồ!\nÝ kiến hay đó nha, đúng là sau khi lao động vất vả thì phải nạp chút đồ ngọt vào người mới chuẩn bài~!』
@@ -370,7 +370,7 @@ Interlude XXIX
 ……さて──=……Được rồi──
 模索路晶のプリンセスナイトや、その仲間たちも捨ておけんが。\nさきほど妖精もどきも言っていたとおり、\nまずは幻境竜后を捕殺できるだけの力をモノにしなくてはな。=Dù cũng không thể bỏ mặc tên Princess Knight của Mosakuji Akira cùng với bè lũ đồng bọn của hắn được.\nNhưng đúng như những gì sinh vật giả dạng yêu tinh vừa thốt ra khi nãy,\ntrước mắt ta cần phải thâu tóm bằng được nguồn sức mạnh đủ để có thể săn lùng và tiêu diệt Huyễn Cảnh Long Hậu cái đã.
 ──さぁ、アイテール・モジュールよ。\n貴様の内に蓄えられた力を、解き放つが良い。=──Nào, hỡi Module Aether.\nHãy giải phóng toàn bộ nguồn sức mạnh đang được tích tụ bên trong ngươi ra đi xem nào.
-……リア、さん……=……Chị Lea……
+……リア、さん……=……Chị Ria……
 なんでしょう。\n悪い予感……胸が、ざわつきます。\n暗雲低迷、傾揺解弛……=Có chuyện gì thế nhỉ.\nMột điềm báo chẳng lành…… lồng ngực em cứ cảm thấy bồn chồn bứt rứt không yên.\nMây đen giăng lối, lòng dạ rối bời, mọi thứ như đang lung lay đổ vỡ……
 ……上？=……Ở phía trên sao?
 ──！\n吹き抜けの向こうの空に、亀裂のようなものが……！？\nなんと奇怪千万な……！=──!\nỞ khoảng trời phía bên kia giếng trời tòa nhà, xuất hiện một thứ trông như vết nứt rạn……!?\nQuả thực là một hiện tượng kỳ quái đến cực điểm mà……!
@@ -378,14 +378,14 @@ Interlude XXIX
 これは……シャドウ！？\nなぜ、このような場所に……！=Cái này là…… Shadow sao!?\nTại sao tụi chúng lại xuất hiện ở một nơi như thế này cơ chứ……!
 ──ネフィ＝ネラ様たちの御不在を狙って？\n空のあの異変と、何か関係が？\n……しかも、このシャドウたち……、様子が──=──Chúng đang cố tình nhắm vào khoảng thời gian nhóm của Nephy Nella-sama vắng mặt sao?\nLiệu chuyện này có mối liên hệ gì với hiện tượng dị thường trên bầu trời kia không nhỉ?\n……Đã vậy, lũ Shadow này…… tình trạng của chúng trông có vẻ──
 『苦しい、苦しい、苦しい……』\n『たすけて、たすけて……』\n『みんな、どこ……』=『Đau đớn quá, đau đớn quá, đau đớn quá……』\n『Cứu tôi với, cứu tôi với……』\n『Mọi người đâu hết rồi, ở đâu vậy……』
-リリ……！=Lily……!
+リリ……！=Riri……!
 ぶぅー！=Bù~!
 プレシアさんっ……！？\nまだ、寝ていなくては……！=Precia-san……!?\nEm vẫn cần phải nằm nghỉ ngơi thêm nữa chứ……!
 だいじょぶ。\nでも──=Em không sao đâu.\nNhưng mà──
 『畜生、いてぇ……！　いてぇよぉ……！』\n『なんで、なんで獣人族だからって……』\n『俺が、こんなところで……』『許さないわ、覇瞳皇帝……！』=『Khốn kiếp, đau quá……! Đau thấu trời xanh luôn rồi……!』\n『Tại sao chứ, tại sao chỉ vì là tộc Thú Nhân mà lại phải……』\n『Tại sao tôi lại phải bỏ mạng ở một nơi như thế này……』 『Tao quyết không tha thứ cho mày đâu, Bá Đồng Hoàng Đế……!』
 ……このシャドウたちは、いったい……？=……Lũ Shadow này, rốt cuộc chúng là cái thứ gì thế này……?
 やな。\nよかん。=Điềm báo.\nChẳng lành.
-……ですが。\nリアさんには、指一本触れさせません……！=……Thế nhưng.\nTôi quyết không để cho bất kỳ kẻ nào được phép chạm dù chỉ một ngón tay vào chị Lea đâu……!
+……ですが。\nリアさんには、指一本触れさせません……！=……Thế nhưng.\nTôi quyết không để cho bất kỳ kẻ nào được phép chạm dù chỉ một ngón tay vào chị Ria đâu……!
 ……？\nつーしん。\nまほー？=……?\nMa pháp.\nLiên lạc sao?
 『──アゾールド上級捜査官の娘さんと……その仲間。\nお前たちに、伝えなくてはならないことがある』=『──Con gái của Điều tra viên cao cấp Azold…… cùng với những người đồng đội của cô ta.\nTa có một chuyện vô cùng quan trọng cần phải thông báo cho các người biết』
 この方は……！=Vị này chính là……!

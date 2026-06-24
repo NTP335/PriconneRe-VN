@@ -1,0 +1,25 @@
+##Profile##
+【魔法】前衛で、奇跡により魂の疵を癒す浄罪の戦乙女。味方を物理攻撃から堅牢に守り、継続ダメージを与える聖浄の光を敵に浴びせ、戦乙女の聖槍による天罰を下す。=[Ma thuật] Một Valkyrie tịnh tội đứng ở hàng tiền tuyến, chữa lành những vết thương tâm hồn bằng phép màu. Cô bảo vệ đồng minh vững chắc trước các đòn tấn công vật lý, tắm rửa kẻ địch trong Ánh sáng tịnh hóa thiêng liêng gây sát thương liên tục, và giáng xuống hình phạt từ thiên đàng bằng thánh thương của Valkyrie.
+
+##UB##
+シャイン・エンゲージ -愛棘-=Shine Engage -Thorn of Love-
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を中ダウンさせ、聖浄の光状態にする。味方全体の物理・魔法防御力を中アップ、ＨＰを中回復させる。発動時既に、目の前の敵１キャラが継続ダメージ状態だった場合、さらに受けるクリティカルダメージを小アップさせ、このスキルのダメージは必ずクリティカルする。=Gây sát thương phép thuật cực đại lên một kẻ địch ở ngay phía trước, giảm vừa phải chỉ số phòng thủ phép thuật của mục tiêu và gây trạng thái [Ánh sáng tịnh hóa thiêng liêng]. Tăng vừa phải chỉ số phòng thủ vật lý và phép thuật cho tất cả đồng minh, đồng thời hồi vừa phải HP cho họ. Nếu tại thời điểm thi triển, kẻ địch ở ngay phía trước đã ở trong trạng thái chịu sát thương liên tục, kỹ năng này sẽ tăng nhẹ sát thương chí mạng mà mục tiêu phải chịu và chắc chắn gây chí mạng.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン(\d+)ダメージを与える聖浄の光状態にする味方全体の物理・魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復目の前の敵が継続ダメージ状態の場合、敵単体の被クリダメを6％アップ$"=Thời gian niệm: 0.42s\n►Gây $1 sát thương phép thuật lên một kẻ địch đơn lẻ.\n►Giảm $2 chỉ số phòng thủ phép thuật của kẻ địch đơn lẻ trong 18s.\n►Gây trạng thái [Ánh sáng tịnh hóa thiêng liêng], gây $3 sát thương.\n►Tăng $4 chỉ số phòng thủ vật lý và phép thuật cho tất cả đồng minh trong 18s.\n►Hồi $5 HP cho tất cả đồng minh.\nNếu kẻ địch ở ngay phía trước đang chịu sát thương liên tục:\n►Tăng 6% sát thương chí mạng mà kẻ địch đơn lẻ phải chịu trong 18s.
+
+##S1##
+ハートピアース=Heart Pierce
+自分に【戦乙女の聖槍・愛】（上限６）を１個付与する。目の前の敵１キャラに魔法大ダメージを与え、物理攻撃力を大ダウン、魔法防御力を小ダウンさせる。目の前の敵１キャラが継続ダメージ状態だった場合、さらに自分のＨＰを中回復し、このスキルのダメージは必ずクリティカルする。=Tự cấp cho bản thân 1 điểm cộng dồn [Thánh thương của Valkyrie - Ái] (tối đa 6). Gây sát thương phép thuật lớn lên một kẻ địch ở ngay phía trước, giảm lớn chỉ số tấn công vật lý và giảm nhẹ chỉ số phòng thủ phép thuật của mục tiêu. Nếu kẻ địch ở ngay phía trước đang ở trạng thái chịu sát thương liên tục, kỹ năng này sẽ hồi vừa phải HP cho bản thân và chắc chắn gây chí mạng.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン自分に戦乙女の聖槍・愛を１個付与する目の前の敵が継続ダメージ状態の場合、自分のＨＰを(\d+)回復$"=Thời gian niệm: 0.59s\n►Gây $1 sát thương phép thuật lên một kẻ địch đơn lẻ.\n►Giảm $2 chỉ số tấn công vật lý của kẻ địch đơn lẻ trong 12s.\n►Giảm $3 chỉ số phòng thủ phép thuật của kẻ địch đơn lẻ trong 12s.\n►Tự cấp cho bản thân 1 điểm [Thánh thương của Valkyrie - Ái].\nNếu kẻ địch ở ngay phía trước đang chịu sát thương liên tục:\n►Hồi $4 HP cho bản thân.
+
+##S2##
+フェザープロテクト=Feather Protect
+光属性の味方の数に応じて、自分に【戦乙女の聖槍・愛】を付与する。味方全体に物理無効バリアを展開し、受ける物理ダメージを減少させる。=Tự cấp cho bản thân điểm cộng dồn [Thánh thương của Valkyrie - Ái] dựa trên số lượng đồng minh thuộc hệ Ánh sáng. Triển khai rào chắn vô hiệu hóa sát thương vật lý cho tất cả đồng minh và giảm sát thương vật lý mà họ phải chịu.
+r:"^(\d+)ダメージ分の物理無効バリアを展開する味方全体の受ける物理ダメージを4000減少自分に戦乙女の聖槍・愛を１個付与する$"=Thời gian niệm: 0.59s\n►Triển khai rào chắn cho tất cả đồng minh, vô hiệu hóa $1 sát thương vật lý trong 18s.\n►Giảm 4000 sát thương vật lý phải chịu cho tất cả đồng minh trong 18s.\n►Tự cấp cho bản thân 1 điểm [Thánh thương của Valkyrie - Ái].
+
+##EX##
+バトル開始時に自分の魔法攻撃力を中アップする。=Khi bắt đầu trận chiến, tăng vừa phải chỉ số tấn công phép thuật cho bản thân.
+
+##SP##
+浄罪の戦乙女=Valkyrie of Absolution
+【戦乙女の聖槍・愛】が２個以上の場合、目の前の敵１キャラが継続ダメージ状態になるたびに、その敵に魔法大ダメージを与え、魔法防御力を小ダウンさせ、【戦乙女の聖槍・愛】を２個消費する。このスキルのダメージは必ずクリティカルする。=Khi có từ 2 điểm [Thánh thương của Valkyrie - Ái] trở lên, mỗi khi kẻ địch ở ngay phía trước rơi vào trạng thái chịu sát thương liên tục, gây sát thương phép thuật lớn lên kẻ địch đó, giảm nhẹ chỉ số phòng thủ phép thuật và tiêu hao 2 điểm [Thánh thương của Valkyrie - Ái]. Kỹ năng này chắc chắn gây chí mạng.
+r:"^自分の戦乙女の聖槍・愛を２個消費する敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=Thời gian niệm: 0.59s\n►Tiêu hao 2 điểm [Thánh thương của Valkyrie - Ái].\n►Gây $1 sát thương phép thuật lên một kẻ địch đơn lẻ.\n►Giảm $2 chỉ số phòng thủ phép thuật của kẻ địch đơn lẻ trong 12s.

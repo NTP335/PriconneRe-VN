@@ -36,13 +36,13 @@ r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理防御�
 前から２番目の敵１キャラを暗闇状態にする。=Gây mù cho kẻ thù ở vị trí thứ 2.
 r:"^敵単体を暗闇状態にする$"=►Gây mù.
 r:"^敵単体を暗闇状態にする敵単体の物理・魔法攻撃力を(\d+)ダウン敵単体の物理・魔法クリティカルを150ダウン$"=Thời gian thi triển: 2.13 giây\n►Gây trạng thái Mù (Tấn công vật lý trượt 60%) lên một kẻ địch trong 8 giây.\n►Giảm $1 tấn công vật lý và ma thuật của một kẻ địch trong 18 giây.\n►Giảm 150 tỷ lệ chí mạng vật lý và ma thuật của một kẻ địch trong 18 giây.
-前から２番目の敵１キャラを暗闇状態にし、物理・魔法攻撃力、物理・魔法クリティカルを大ダウンさせる。=Khiến một kẻ địch ở vị trí thứ 2 từ phía trước rơi vào trạng thái mù loà (Darkness), đồng thời giảm lớn tấn công vật lý/ma pháp và tỉ lệ chí mạng vật lý/ma pháp của chúng.
+前から２番目の敵を暗闇状態にし、物理・魔法攻撃力と物理・魔法クリティカルを大ダウンさせる。=Gây trạng thái mù (Blind) cho kẻ địch thứ hai từ phía trước, đồng thời giảm lớn chỉ số tấn công vật lý, tấn công phép thuật, tỉ lệ bạo kích vật lý và tỉ lệ bạo kích phép thuật của chúng.
 
 
 ##EX##
 メルヘンチャージ=Fairy-tale Charge
 メルヘンチャージ+=Fairy-tale Charge+
-バトル開始時に自分の物理防御力を中アップさせ、さらに自分の魔法攻撃力を小アップさせる。=Tăng trung bình P.DEF của bản thân và tăng nhỏ M.ATK khi bắt đầu trận đấu.
+バトル開始時に自分の物理防御力を中アップ、魔法攻撃力を小アップする。=Khi bắt đầu trận chiến, tăng vừa phải chỉ số phòng thủ vật lý và tăng nhẹ chỉ số tấn công phép thuật cho bản thân.
 r:"^自分の物理防御力を(\d+)アップ自分の魔法攻撃力を(\d+)アップ$"=►Tăng P.DEF của bản thân $1.\n►Tăng M.ATK của bản thân $2.
 
 ##Legacy UB+##
@@ -52,8 +52,7 @@ r:"^自分の物理防御力を(\d+)アップ自分の魔法攻撃力を(\d+)ア
 
 ##UB+##
 メルヘンキングダム=Fairy-tale Kingdom
-味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを小アップ、物理防御力を大アップさせ、さらにＴＰを固定量で中回復し、継続ＴＰ回復状態を付与する。=Tăng khủng khiếp M.ATK cho tất cả đồng đội, tăng mạnh M.CRIT Rate và P.DEF của họ, và tăng nhỏ M.CRIT DMG. Ngoài ra còn hồi TP cố định một lượng trung bình cho tất cả đồng đội và tặng họ trạng thái hồi TP liên tục.
-###Old r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法攻撃クリティカル時のダメージを5％アップ味方全体の物理防御力を(\d+)アップ味方全体のＴＰを固定量で120回復毎秒ＴＰを10回復する$"=►Tăng M.ATK cho tất cả đồng đội lên $1 trong 18s.\n►Tăng M.CRIT Rate cho tất cả đồng đội 100 trong 18s.\n►Tăng M.CRIT DMG cho tất cả đồng đội 5% trong 18s.\n►Tăng P.DEF cho tất cả đồng đội lên $2 trong 18s.\n►Hồi TP cố định 120 cho tất cả đồng đội.\n►Hồi TP 10/giây trong 10s cho tất cả đồng đội.
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法クリティカルダメージを小アップ、物理防御力を大アップ、ＴＰを固定量で中回復させ、継続ＴＰ回復状態を付与する。=Tăng cực đại chỉ số tấn công phép thuật, tăng lớn tỉ lệ bạo kích phép thuật, tăng nhẹ sát thương bạo kích phép thuật, tăng lớn chỉ số phòng thủ vật lý cho tất cả đồng minh; hồi một lượng cố định TP cho họ và cấp trạng thái hồi TP liên tục.
 
 r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを5％アップ味方全体の物理防御力を(\d+)アップ味方全体のＴＰを固定量で120回復毎秒ＴＰを10回復する$"=►Tăng $1 tấn công ma thuật cho toàn thể đồng minh trong 18 giây.\n►Tăng 100 tỷ lệ chí mạng ma thuật cho toàn thể đồng minh trong 18 giây.\n►Tăng 5％ sát thương chí mạng ma thuật cho toàn thể đồng minh trong 18 giây.\n►Tăng $2 phòng thủ vật lý cho toàn thể đồng minh trong 18 giây.\n►Hồi phục 120 TP cho toàn thể đồng minh.\n►Hồi phục 10 TP mỗi giây cho toàn thể đồng minh trong 10 giây.
 
@@ -70,7 +69,8 @@ r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)ア
 
 ##S1++##
 マホマホヒール++=Maho-Maho Healing++
-最もＨＰの割合が低い味方１キャラのＨＰを大回復、物理防御力を中アップし、継続ＨＰ回復状態を付与する。さらに、物理・魔法攻撃力いずれかで、最も攻撃力が高い味方１キャラの物理・魔法攻撃力を特大アップ、物理・魔法攻撃クリティカル時のダメージを小アップ、行動速度を大アップ、ＴＰを特大回復させる。（このスキルの効果は他の行動速度変化スキルと重複する）=Hồi phục lớn HP cho một đồng minh có tỷ lệ HP thấp nhất, tăng vừa phòng thủ vật lý và ban trạng thái hồi phục HP liên tục. Thêm vào đó, đối với một đồng minh có tấn công vật lý hoặc ma thuật cao nhất, sẽ tăng cực đại tấn công vật lý và ma thuật, tăng nhẹ sát thương chí mạng vật lý và ma thuật, tăng lớn tốc độ hành động và hồi phục cực đại TP. (Hiệu quả tốc độ hành động của kỹ năng này có thể cộng dồn với các kỹ năng thay đổi tốc độ hành động khác).
+最もＨＰの割合が低い味方のＨＰを大回復、物理防御力を中アップさせ、継続ＨＰ回復状態を付与する。最も攻撃力が高い味方の物理・魔法攻撃力を特大アップ、物理・魔法クリティカルダメージを小アップ、加算行動速度を大アップ、ＴＰを特大回復させる。=Hồi phục một lượng lớn HP cho đồng minh có tỷ lệ HP thấp nhất, tăng vừa phải chỉ số phòng thủ vật lý và cấp trạng thái hồi HP liên tục cho đồng minh đó. Đồng thời, tăng cực đại chỉ số tấn công vật lý và phép thuật cho đồng minh có chỉ số tấn công cao nhất, tăng nhẹ sát thương bạo kích vật lý và phép thuật, tăng lớn tốc độ hành động cộng thêm và hồi một lượng cực lớn TP cho đồng minh đó.
+
 r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する味方単体の物理・魔法攻撃力を(\d+)アップ味方単体の物理・魔法クリダメを12％アップ味方単体の行動速度50%加算味方単体のＴＰを1000回復$"=Thời gian thi triển: 1.53s.\n►Hồi $1 HP cho một đồng đội.\n►Tăng $2 phòng thủ vật lý cho một đồng đội trong 12s.\n►Cấp trạng thái hồi $3 HP mỗi giây.\n►Tăng $4 tấn công vật lý và tấn công phép cho một đồng đội trong 12s.\n►Tăng 12% sát thương bạo kích vật lý và bạo kích phép cho một đồng đội trong 12s.\n►Tăng 50% tốc độ hành động cho một đồng đội trong 12s.\n►Hồi 1000 TP cho một đồng đội.
 
 ##Comments##

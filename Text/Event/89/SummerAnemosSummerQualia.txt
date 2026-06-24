@@ -15,7 +15,7 @@ Opening
 ここがマルジェン海岸……\n潮風が気持ちいいですね、お兄さん♪=Vậy đây là bờ biển Margen... Gió biển thật dễ chịu, anh♪
 海とかひっさしぶりだわ～♪\nペコリーヌは例によって公務だけど、\nあいつらの分までめいっぱい遊ぶわよ！=Đã lâu rồi mới đi biển♪ Pecorine vẫn bận công việc như mọi khi, nhưng hãy chơi hết mình vì cô ấy nhé!
 お、お待ちくださいキャル様。ついはしゃいでしまいましたが……\nこの度のわたくしたちのお務めは、ジオ・ゲヘナよりいらした\nネフィ＝ネラ様たちの御案内ですので……=X-Xin hãy đợi, Lady Kyaru. Tôi có thể đã hơi hào hứng một chút... nhưng nhiệm vụ lần này là dẫn đường cho Lady Nephi Nela và những người khác từ Gio Gehenna tới đây...
-あっ……\nそ、そうですよねリリちゃん。\nごめんなさい、ネフィ＝ネラさん。=À... Đ-Đúng đó, Lily-chan. Tôi xin lỗi, Nephi Nela-san.
+あっ……\nそ、そうですよねリリちゃん。\nごめんなさい、ネフィ＝ネラさん。=À... Đ-Đúng đó, Riri-chan. Tôi xin lỗi, Nephi Nela-san.
 ──コロコロコロ。\nどうぞお楽に、クリア殿。=...Korokorokoro. Xin hãy yên tâm, Lady Quria.
 『ばかんす』なる行楽の要訣は、気の置けぬ輩と\nゆるりと愉しむことと拝察致しんす。\nさすれば案内など硬い事を仰らず、心の儘にお過ごしくだしゃんせ。=Tôi tin rằng bản chất của cái gọi là "kỳ nghỉ" này nằm ở việc thư giãn cùng những người bạn khiến bạn cảm thấy thoải mái. Vì vậy, xin đừng cần dẫn đường cứng nhắc -- chỉ cần tận hưởng theo cách trái tim bạn mong muốn.
 徳量寛大、気宇壮大……\n感謝いたします、ネフィ＝ネラ様。=Sự hào phóng, sự rộng lượng... Tôi thực sự biết ơn, Lady Nephi Nela.
@@ -118,7 +118,7 @@ Player Prompts
 他に仲良くなれる案がないか考えよう。=Để tôi nghĩ kế hoạch đã...
 
 Player Prompts
-キャル・クリア・リリ=Kyaru Quria Lily
+キャル・クリア・リリ=Kyaru Quria Riri
 
 Chapter 1
 「3000年に一度しか咲かない花」が咲くという幻の場所、\nヒンターランドを目指して出発したクリアとアネモネ。\n二人は旅に必要なものを買うため、とある村に立ち寄っていた。=Quria và Anemone lên đường đến Hinterland, một nơi huyền thoại được cho là nơi sinh sống của loài hoa chỉ nở một lần mỗi 3000 năm. Trên đường đi, họ dừng chân ở một ngôi làng nhỏ để dự trữ đồ dùng.
@@ -429,7 +429,7 @@ New Titlecards
 ドM=Kẻ thích bị đau
 ビーチベースボール部員=Thành viên Câu lạc bộ Bóng chày Biển
 猫耳の店員=Nhân viên Cửa hàng tai mèo
-キャル・ニノン・リリ=Kyaru Ninon Lily
+キャル・ニノン・リリ=Kyaru Ninon Riri
 
 Chapter 4
 道中立ち寄った夏イベント会場を満喫したクリアとアネモネ。\n二人はヒンターランドへ向けて出発しようとしていたが──=Quria và Anemone đã tận hưởng sự kiện hè mà họ dừng chân trên đường đi. Họ sắp rời đi vùng Hinterland, nhưng...
@@ -466,7 +466,7 @@ Chapter 4
 そのぶん、ご自分の気持ちを押し隠している気もして。\nしかし今の未熟なわたくしでは、うまく窺うこともできず……\n時折、ほんの少しだけ歯痒く感じるのです。=Để làm điều đó, em cảm thấy cô ấy đang kìm nén cảm xúc của chính mình. Tuy nhiên, với sự non nớt như hiện tại, em chưa thể đoán ra chính xác cô ấy đang cảm thấy gì... Đôi khi, điều đó khiến em cảm thấy hơi bực bội.
 ……はい。\n今回のお話は、リアさんがわたくしたちに打ち明けてくださった\n数少ない、心からの要望──いえ。『わがまま』です。=...Vâng. Sự kiện này là một trường hợp như vậy, nơi Lea-san đã tin tưởng chúng em với một lời đề nghị chân thành -- không, là một "ước nguyện ích kỷ".
 そんなリアさんの願いを、友として──大切な仲間として\n少しでも叶えて差し上げたく、\n微力ながらお力になれればと思った次第です。=Với tư cách là một người bạn và một đồng đội đáng giá -- em muốn thỏa mãn ước nguyện của Lea-san, dù chỉ một chút. Và em hy vọng có thể giúp đỡ cô ấy, bằng mọi cách có thể.
-成程……リリ殿の気概、確と受け取り申した。\nクリア殿は誠良き仲間を持たれました喃。=Em hiểu rồi... Tiểu thư Lily, em đã cảm nhận được quyết tâm của người rất rõ ràng. Tiểu thư Quria thật may mắn khi có một người bạn như người.
+成程……リリ殿の気概、確と受け取り申した。\nクリア殿は誠良き仲間を持たれました喃。=Em hiểu rồi... Tiểu thư Riri, em đã cảm nhận được quyết tâm của người rất rõ ràng. Tiểu thư Quria thật may mắn khi có một người bạn như người.
 ま、そこまで聞いちゃ頑張るしかないわよね。\nこれでも冒険者としちゃ先輩だし？=Được rồi, nếu cậu nói đến mức đó thì tôi đành phải cố gắng hết sức nữa. Tôi là senpai trong việc phiêu lưu của cậu mà.
 ──ね、あんたたちもそう思わない？=...Đúng chứ? Các cậu không nghĩ vậy sao?
 聞く耳なし、か。\nまぁでも、やっと理解したみたいね。\nあんたたちの敵は他のやつらじゃなくて、あたしたちよ。=Không thèm nghe, hả? Thôi, ít nhất cậu cũng hiểu rồi. Kẻ thù của cậu không phải người khác, mà là chúng tôi.
@@ -484,7 +484,7 @@ Chapter 4
 でも、言葉にできないのは仕方ないんじゃないかしら。\n友達になりたいって気持ちは、理屈じゃないもの。=Nhưng đó là điều tự nhiên nếu con không thể diễn đạt bằng lời. Mong muốn kết bạn không phải thứ có thể giải thích chỉ bằng lý trí đơn thuần.
 でも、それだけじゃだめなんです。\nだってわたしは……いい子なんかじゃない。\n本当に、見た目通りの子じゃないんですから……=Dù vậy, như vậy vẫn không ổn. Bởi vì em... không phải một cô gái tốt. Em thực sự không như vẻ ngoài em tỏ ra...
 聖女でも、楽観的でもない。全部自分のためで……\nアネモネさんに信じてもらえるような人じゃないんです。\nそんな自分が……自分でも、信じられないんです。=Em không phải một vị thánh, hay một người lạc quan tràn đầy năng lượng. Mọi thứ em làm là vì bản thân... Em không phải kiểu người mà Anemone-san có thể tin tưởng. Và phiên bản của em đó... em thậm chí còn không thể tin vào cô ấy nữa là.
-だって、そのせいで……\n……リリちゃんたちも……=Em muốn nói là, bởi vì vậy... Lily-chan và Precia-chan...
+だって、そのせいで……\n……リリちゃんたちも……=Em muốn nói là, bởi vì vậy... Riri-chan và Precia-chan...
 待ってちょうだい。\n……だめよ、クリアちゃん。\nそんなに自分を責めちゃだめ。=Khoan đã... Không, Quria-chan. Đừng tự trách mình quá như vậy.
 クリアちゃんにどういう事情があるのか、\n私にはよくわからないけれど……\nあなたみたいな若い子が、そんなに思いつめちゃいけないわ。=Bà thực sự không biết hoàn cảnh của con là gì, Quria-chan... Nhưng một người trẻ như con không nên mang một gánh nặng như vậy.
 それにね、私が聞く限り\nあなたの「アネモネちゃんと仲良くなりたい」って気持ちは\n間違いなく本物だと思うの。=Hơn nữa, từ những gì bà nghe được, bà nghĩ mong muốn kết bạn với Anemone-chan của con chắc chắn là chân thành.
@@ -716,7 +716,7 @@ Finale
 「「あっ……」」\n「おや。」="À..." "Ôi chà?"
 お兄さんまで、どうしてここに……\n…………も、もしかして…………！=Onii-san, cả cậu nữa! Cậu đến đây làm gì...? ...K-Không lẽ...!
 まさに、怒髪天を衝くが如し。\n斯く様なりしモネは、生半には綻びませぬ。\nくわばらくわばら……=Thật sự, cơn giận của cô ấy có thể xuyên thấu trời đất. Khi Mone như thế này, cô ấy sẽ không nở một nụ cười nhỏ nhất. Trời ơi, cứu chúng tôi...
-そういう割には全然怖がってないじゃない……\nてか、リリは大丈夫？=Xét đến đó, cậu vẫn không có vẻ sợ lắm với tôi... Anyway, Lily, cậu ổn chứ?
+そういう割には全然怖がってないじゃない……\nてか、リリは大丈夫？=Xét đến đó, cậu vẫn không có vẻ sợ lắm với tôi... Anyway, Riri, cậu ổn chứ?
 えっ？\nあ、いえ、その……はい。=Hả? À, không, ý là... Vâng.
 大変申し上げにくいのですが……\nわたくしとしては正直、少しほっとしているんです。=Khó diễn tả bằng lời... Thành thật mà nói, em cảm thấy nhẹ nhõm một chút.
 もちろん、リアさんには申し訳ないことをしてしまいましたが……\nですが、ああやって怒るリアさんを見ることは\n滅多にありませんから。それで、つい……=Tất nhiên, em cảm thấy tệ vì đã làm vậy với Lea-san, tuy nhiên... em hiếm khi thấy cô ấy tức giận như thế. Vì vậy, em không thể không...
@@ -727,7 +727,7 @@ Finale
 あっ！\nちょっと、あたしも行くっての！　待ちなさいよ～っ！=À! Này, em cũng tới! Chờ em!
 ──コロコロコロ。\n青き春、眩しかりけり。=Kokorokorokoro. À, ánh sáng rực rỡ của tuổi trẻ.
 申し訳ないとか──思ってますか？=Cậu... có thấy tội cho họ không?
-……あはは。\nその……実は、ちょっとだけ。\nリリちゃんたちも、悪気はなかったと思いますし……=...A ha ha. Chà... Thực ra, chỉ một chút thôi. Em không nghĩ Lily-chan và những người khác có ý xấu...
+……あはは。\nその……実は、ちょっとだけ。\nリリちゃんたちも、悪気はなかったと思いますし……=...A ha ha. Chà... Thực ra, chỉ một chút thôi. Em không nghĩ Riri-chan và những người khác có ý xấu...
 本当に──お人よし、ですね。\nでも──=Cậu thực sự... là một người tốt, phải không? Tuy nhiên...
 悪気じゃなくて──悪いのは、媛たちのほうで。\nだから、いい子になる必要、ないです。=Bất kể ý định thế nào, những người sai... là công chúa và những người khác. Vì vậy... cậu không cần phải giả vờ là người tốt ở đây.
 そ、そうですか……？=V-Vậy sao...?
@@ -743,7 +743,7 @@ Finale
 ──？\nなんですか。=...? Gì vậy?
 もしよかったら……逃げちゃいません？=Nếu cậu thực sự không ngại... thì chúng ta trốn đi thôi?
 えっ？\nでも──=Hả? Nhưng...
-リリちゃんたちの気持ちはうれしいんですけど……\n今のわたしは『いい子』じゃありませんから。\nもうちょっとだけ、『怒ってる』ことにしようかなって。=Mình biết Lily-chan và mọi người quan tâm đến mình, nhưng... bây giờ mình không phải là "cô bé ngoan". Nên mình nghĩ mình sẽ tỏ ra "tức giận" hơn một chút.
+リリちゃんたちの気持ちはうれしいんですけど……\n今のわたしは『いい子』じゃありませんから。\nもうちょっとだけ、『怒ってる』ことにしようかなって。=Mình biết Riri-chan và mọi người quan tâm đến mình, nhưng... bây giờ mình không phải là "cô bé ngoan". Nên mình nghĩ mình sẽ tỏ ra "tức giận" hơn một chút.
 だめ、ですか……？=Vậy... không được ư...?
 ──無理、です。=...Không thể.
 媛は──鬼ごっこも強いので。\n追いつかれます。=Princess... cô ấy rất giỏi chơi đuổi bắt. Cô ấy sẽ bắt được chúng ta trong chốc lát.

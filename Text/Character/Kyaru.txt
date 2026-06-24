@@ -33,34 +33,30 @@ r:"^敵単体の物理防御力を(\d+)ダウン敵単体の魔法防御力を(\
 ##EX##
 ダークエクリプス=Nhật Thực Bóng Tối
 ダークエクリプス+=Nhật Thực Bóng Tối+
+バトル開始時に自分の魔法攻撃力を大アップする。=Khi bắt đầu trận chiến, tăng lớn chỉ số tấn công phép thuật cho bản thân.
 
 ##UB+##
 アビスバースト=Vụ Nổ Vực Sâu
-敵全体に魔法大ダメージを与え、さらに恐慌状態にする。=Gây sát thương ma thuật lớn và khiến tất cả kẻ địch bị Sợ Hãi.
-##OLF r:"^敵全体に(\d+)の魔法ダメージ敵全体を恐慌状態にする$"=►Gây $1 sát thương ma thuật cho tất cả kẻ địch.\n►Khiến tất cả kẻ địch bị Sợ Hãi trong 8s.
+敵全体に魔法大ダメージを与え、物理・魔法防御力を大ダウンさせ、恐慌状態にする。=Gây sát thương phép thuật lớn lên tất cả kẻ địch, giảm lớn chỉ số phòng thủ vật lý và phép thuật của chúng, đồng thời gây trạng thái hoảng loạn (Panic).
 
-敵全体に魔法大ダメージを与え、物理・魔法防御力を大ダウンさせ、さらに恐慌状態にする。=Gây sát thương ma pháp lớn lên toàn bộ kẻ địch, giảm mạnh phòng thủ vật lý và ma pháp, đồng thời gây trạng thái hoảng loạn (Fear).
 r:"^敵全体に(\d+)の魔法ダメージ敵全体の物理・魔法防御力を(\d+)ダウン敵全体を恐慌状態にする$"=►Gây $1 sát thương ma pháp lên toàn bộ kẻ địch.\n►Giảm $2 phòng thủ vật lý và ma pháp của toàn bộ kẻ địch trong 18 giây.\n►Gây trạng thái hoảng loạn lên toàn bộ kẻ địch trong 8 giây.
 
 ##S1+##
 サンダーボール+=Quả Cầu Tử Thần+
-目の前の敵１キャラに魔法中ダメージを与え、その敵から前方範囲内の敵すべてに魔法小ダメージを与えた上で、それらの魔法防御力を小ダウンさせる。=Gây sát thương ma thuật vừa phải cho kẻ địch đứng trước mặt và sát thương ma thuật nhỏ cho kẻ địch xung quanh. Giảm M.DEF của tất cả mục tiêu một chút.
-##OLD r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵すべてに(\d+)の魔法ダメージ範囲内の敵すべての魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật cho một kẻ địch.\n►Gây $2 sát thương ma thuật cho kẻ địch trong phạm vi 200.\n►Giảm M.DEF của kẻ địch trong phạm vi 200 đi $3 trong 12s.
+目の前の敵１キャラに魔法中ダメージを与える。その敵から前方範囲内の敵に魔法小ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương phép thuật trung bình lên một kẻ địch ở ngay phía trước. Sau đó, gây sát thương phép thuật nhỏ lên các kẻ địch trong phạm vi phía trước dựa trên vị trí của mục tiêu đó và giảm nhẹ chỉ số phòng thủ phép thuật của chúng.
 
 r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン$"=Thời gian thi triển: 1.27 giây.\n►Gây $1 sát thương ma pháp lên một mục tiêu.\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi 200.\n►Giảm $3 phòng thủ ma pháp của kẻ địch trong phạm vi trong 12 giây.
 
 ##S2+##
 アーマーダウン+=Giảm Giáp+
-目の前の敵１キャラを中心とした範囲内の敵すべてを麻痺させて、クリティカルを受けた際のダメージを中アップ、物理防御力と魔法防御力を特大ダウンさせる。=Khiến tất cả kẻ địch trong phạm vi 300 tính từ kẻ địch gần nhất bị Tê Liệt trong 3 giây. Áp dụng thêm một debuff khác lên những kẻ địch đó, tăng sát thương nhận từ đòn chí mạng và giảm P&M DEF.
-##OLD r:"^範囲内の敵すべてを一定時間行動不能にする範囲内の敵すべてのクリティカルを受けた際のダメージを20％アップ範囲内の敵すべての物理防御力を(\d+)ダウン範囲内の敵すべての魔法防御力を(\d+)ダウン$"=►Khiến kẻ địch trong phạm vi bị Tê Liệt trong 3s.\n►Tăng sát thương chí mạng mà kẻ địch trong phạm vi nhận phải thêm 20%.\n►Giảm M.DEF của kẻ địch trong phạm vi đi $1.\n►Giảm P.DEF của kẻ địch trong phạm vi đi $2.
+目の前の敵１キャラを中心とした範囲内の敵を麻痺させ、受けるクリティカルダメージを中アップ、物理・魔法防御力を特大ダウンさせる。=Gây tê liệt cho kẻ địch trong phạm vi xung quanh một kẻ địch ở ngay phía trước, tăng vừa phải sát thương chí mạng mà chúng phải chịu, và giảm cực đại chỉ số phòng thủ vật lý cũng như phòng thủ phép thuật của chúng.
 
 r:"^範囲内の敵を一定時間行動不能にする範囲内の敵の被クリダメを20％アップ範囲内の敵の物理・魔法防御力を(\d+)ダウン$"=Thời gian thi triển: 0.83 giây.\n►Gây tê liệt lên kẻ địch trong phạm vi 300 trong 3 giây.\n►Tăng 20% sát thương chí mạng phải chịu của kẻ địch trong phạm vi 300 trong 12 giây.\n►Giảm $1 phòng thủ vật lý và ma pháp của kẻ địch trong phạm vi trong 12 giây.
 
 
 ##S1++##
 サンダーボール++=Quả Cầu Tử Thần++
-目の前の敵１キャラに魔法大ダメージを与える。さらに、その敵を中心とした範囲内の敵すべてに魔法中ダメージを与え、物理・魔法防御力を小ダウンさせる。=Gây sát thương ma pháp lớn lên 1 kẻ địch trước mặt. Ngoài ra, gây sát thương ma pháp vừa lên toàn bộ kẻ địch trong phạm vi xung quanh mục tiêu đó, đồng thời giảm nhẹ phòng thủ vật lý và ma pháp của chúng.
-
+目の前の敵１キャラに魔法大ダメージを与える。その敵を中心とした範囲内の敵に魔法中ダメージを与え、物理・魔法防御力を小ダウンさせる。=Gây sát thương phép thuật lớn lên một kẻ địch ở ngay phía trước. Gây sát thương phép thuật trung bình lên các kẻ địch trong phạm vi xung quanh mục tiêu đó và giảm nhẹ chỉ số phòng thủ vật lý cũng như phòng thủ phép thuật của chúng.
 
 r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理・魔法防御力を(\d+)ダウン$"=Thời gian thi triển: 1.27 giây.\n►Gây $1 sát thương ma pháp lên một mục tiêu.\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi 200.\n►Giảm $3 phòng thủ vật lý và ma pháp của kẻ địch trong phạm vi.
 

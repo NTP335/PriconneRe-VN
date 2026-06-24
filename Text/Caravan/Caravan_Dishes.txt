@@ -349,7 +349,7 @@ sr:"^(.+)を([0-9,]+)個獲得…$"=Nhận được $2 x $1.
 アナライズっ！本日のオススメ商品は～…こちらですっ♪=Phân tích! Món được khuyên dùng hôm nay là... món này♪
 クルルをお求めですかっ？それならお礼に、こちらの jewels もどうぞですよ～♪=Cậu đang tìm Kururu? Vậy như một lời cảm ơn, xin hãy nhận những viên ngọc này nữa♪
 よぅ！　今日の俺さまは門番じゃなく、店番だぜメモピ～スフィア～てな！=Ê! Hôm nay tao không phải người gác cổng, tao là chủ cửa hàng—Memo-Pi~Sphere~!
-こ、この格好は…ヴルムが集客効果があると言って……本当でしょうか？=B-bộ đồ này là... Vurm nói sẽ thu hút khách... Có thật không vậy?
+こ、この格好は…ヴルムが集客効果があると言って……本当でしょうか？=B-bộ đồ này là... Wurm nói sẽ thu hút khách... Có thật không vậy?
 はっ！　ヒーローさんからお代なんて頂けないです！どうぞどうぞ…え、ダメ？=À! Tôi không thể nhận thanh toán từ một anh hùng! Xin mời cứ tự nhiên... Hả, không?
 
 

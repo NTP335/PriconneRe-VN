@@ -34,17 +34,15 @@ r:"^自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=Th�
 ##EX##
 プリンセスフォース=Sức mạnh Công chúa
 プリンセスフォース+=Sức mạnh Công chúa+
-バトル開始時に自分の最大ＨＰを大アップさせる。=Tăng lớn lượng HP tối đa của bản thân ở đầu trận.
-バトル開始時に自分の最大ＨＰを中アップさせる。=Tăng nhẹ HP tối đa của bản thân ở đầu trận.
+バトル開始時に自分の最大ＨＰを大アップする。=Khi bắt đầu trận chiến, tăng lớn chỉ số HP tối đa cho bản thân.
+
 r:"^自分の最大ＨＰを(\d+)アップさせる$"=►Tăng HP tối đa của bản thân lên $1.
 r:"^自分の最大ＨＰを(\d+)アップ$"=►Tăng HP tối đa của bản thân lên $1.
 
 ##UB+##
 プリンセスヴァリアント=Princess Valiant
-目の前の敵１キャラに物理特大ダメージを与え、物理防御力と魔法防御力を特大アップさせ、物理攻撃力を中アップさせる。物理攻撃力アップの効果値は、残りＨＰが高い程増加する。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Tăng lớn phòng thủ vật lý và phòng thủ ma thuật của bản thân. Tăng vừa phải tấn công vật lý của bản thân (Lượng tăng tấn công vật lý phụ thuộc vào lượng HP hiện tại của Pecorine.)
-##OLD r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18 giây.\n►Tăng phòng thủ ma thuật của bản thân lên $3 trong 18 giây.\n►Tăng tấn công vật lý của bản thân lên $4 trong 18 giây.
+目の前の敵１キャラのバリアを解除し、物理特大ダメージを与え、物理防御力を小ダウンさせ、その敵の最大ＨＰに応じて最大200万の物理割合ダメージを与える。自分の物理・魔法防御力を特大アップ、物理攻撃力を大アップ、ＨＰを小回復する。自分のＨＰが高いほど、物理攻撃力のアップ量が最大２倍まで増加する。=Hóa giải rào chắn của một kẻ địch ở ngay phía trước, gây sát thương vật lý cực đại, giảm nhẹ chỉ số phòng thủ vật lý của mục tiêu, đồng thời gây sát thương vật lý theo phần trăm dựa trên HP tối đa của kẻ địch đó, tối đa 2.000.000 sát thương. Tăng cực đại chỉ số phòng thủ vật lý và phép thuật của bản thân, tăng lớn chỉ số tấn công vật lý, và hồi nhẹ HP cho bản thân. Lượng tăng tấn công vật lý sẽ tăng lên đến tối đa 2 lần dựa trên lượng HP hiện tại của bản thân (HP càng cao, mức tăng càng lớn).
 
-目の前の敵１キャラのバリアを解除し、物理特大ダメージを与え、物理防御力を小ダウンさせ、そのキャラの最大ＨＰに応じて最大200万の物理割合ダメージを与える。さらに、自分の物理・魔法防御力を特大アップ、物理攻撃力を大アップし、ＨＰを小回復する。自分の残りＨＰに応じて物理攻撃力の上昇量が最大２倍までアップする。=Hủy bỏ rào chắn của 1 kẻ địch trước mặt, gây sát thương vật lý cực đại, giảm nhẹ phòng thủ vật lý, đồng thời gây sát thương vật lý theo tỉ lệ dựa trên HP tối đa của mục tiêu đó (tối đa 2,000,000). Ngoài ra, tăng cực đại phòng thủ vật lý và ma pháp của bản thân, tăng lớn tấn công vật lý và hồi phục nhẹ HP. Lượng tấn công vật lý tăng thêm sẽ được nhân lên tối đa gấp 2 lần tùy thuộc vào lượng HP còn lại của bản thân.
 r:"^敵単体のバリアを解除する敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体に最大200万の物理割合ダメージを与える自分の物理攻撃力を(\d+)アップ自分の物理・魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Hủy bỏ rào chắn của một mục tiêu.\n►Gây $1 sát thương vật lý lên một mục tiêu.\n►Giảm $2 phòng thủ vật lý của một mục tiêu.\n►Gây sát thương vật lý theo tỉ lệ lên một mục tiêu (tối đa 2,000,000).\n►Tăng $3 tấn công vật lý của bản thân.\n►Tăng $4 phòng thủ vật lý và ma pháp của bản thân.\n►Hồi phục $5 HP cho bản thân.
 
 ##S1+##
@@ -54,7 +52,7 @@ r:"^自分の魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復(\d+)�
 
 ##S2+##
 フォールスラッシュ+=Falling Slash+
-自分の物理攻撃力を特大アップし、目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに自分に継続ＨＰ回復状態を付与する。=Tăng lớn tấn công vật lý của bản thân, gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ phòng thủ vật lý của chúng. Ngoài ra, trao cho bản thân trạng thái hồi HP liên tục.
+自分の物理攻撃力を大アップし、目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせ、その敵の最大ＨＰに応じて最大200万の物理割合ダメージを与える。自分に継続ＨＰ回復状態を付与する。=Tăng lớn chỉ số tấn công vật lý của bản thân, gây sát thương vật lý lớn lên một kẻ địch ở ngay phía trước, giảm nhẹ chỉ số phòng thủ vật lý của mục tiêu, và gây sát thương vật lý theo phần trăm dựa trên HP tối đa của kẻ địch đó, tối đa 2.000.000 sát thương. Cấp trạng thái hồi HP liên tục cho bản thân.
 ##OLD r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 1.21 giây\n►Tăng tấn công vật lý của bản thân lên $1 trong 12 giây.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch lên $3 trong 12 giây.\n►Hồi HP $4/giây trong 12 giây.
 
 
@@ -69,7 +67,8 @@ r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメー
 
 ##S1++##
 ランチタイム++=Lunchtime++
-自分の物理攻撃力を大アップ、物理・魔法防御力を中アップ、ＨＰを大回復し、物理/魔法吸収バリアを展開する。さらに、ＴＰを大回復する。=Tăng mạnh tấn công vật lý, tăng vừa phòng thủ vật lý và ma pháp của bản thân, hồi phục mạnh HP, đồng thời triển khai rào chắn hấp thụ sát thương vật lý/ma pháp. Ngoài ra, hồi phục mạnh TP cho bản thân.
+自分の物理攻撃力を大アップ、物理・魔法防御力を中アップ、ＨＰを大回復し、物理/魔法吸収バリアを展開し、ＴＰを大回復する。=Tăng lớn chỉ số tấn công vật lý, tăng vừa phải chỉ số phòng thủ vật lý và phép thuật, hồi một lượng lớn HP cho bản thân, triển khai rào chắn hấp thụ sát thương vật lý/phép thuật, và hồi một lượng lớn TP.
+
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理・魔法防御力を(\d+)アップ自分のＨＰを(\d+)回復(\d+)ダメージ分の物理魔法吸収バリアを展開する自分のＴＰを500回復$"=►Tăng $1 tấn công vật lý của bản thân.\n►Tăng $2 phòng thủ vật lý và ma pháp của bản thân.\n►Hồi phục $3 HP cho bản thân.\n►Triển khai rào chắn hấp thụ sát thương vật lý và ma pháp trị giá $4 sát thương.\n►Hồi phục 500 TP cho bản thân.
 
 

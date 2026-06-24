@@ -11,10 +11,6 @@ r:"^自分の残りＨＰを90％消費自分の魔法攻撃力を(\d+)アップ
 
 
 
-Mimi
-ぴょんぴょんアタック++=Đòn Đánh Nhảy Nhót++
-目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与える。目の前の敵がマルチターゲットの場合、さらに、物理・魔法攻撃力を大ダウンさせ、自分のＴＰを特大回復する。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi lấy mục tiêu trước mặt làm trung tâm. Nếu kẻ địch trước mặt là mục tiêu đa điểm (Multi-target), giảm mạnh thêm Tấn công Vật lý và Tấn công Ma pháp của chúng, đồng thời hồi phục cực đại TP cho bản thân.
-r:"^範囲内の敵に(\d+)の物理ダメージ目の前の敵がマルチターゲットの場合、以下の効果が発動する範囲内の敵の物理・魔法攻撃力を(\d+)ダウン自分のＴＰを1000回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n\nNếu kẻ địch trước mặt là mục tiêu đa điểm:\n►Giảm $2 Tấn công Vật lý và Ma pháp của kẻ địch trong phạm vi.\n►Hồi phục 1000 TP cho bản thân.
 
 Suzuna
 おこぷんダーツ++=Phi Tiêu Nổi Giận++

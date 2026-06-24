@@ -158,3 +158,10 @@ r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプ�
 装備者が水属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Nước, tăng 10% bạo kích phép và sát thương khi bạo kích phép của bản thân trong 90 giây sau khi trận đấu bắt đầu.
 装備者が光属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Ánh sáng, tăng 10% bạo kích phép và sát thương khi bạo kích phép của bản thân trong 90 giây sau khi trận đấu bắt đầu.
 装備者が闇属性の場合、バトル開始後90秒間自分の魔法クリティカルと魔法攻撃クリティカル時のダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Bóng tối, tăng 10% bạo kích phép và sát thương khi bạo kích phép của bản thân trong 90 giây sau khi trận đấu bắt đầu.
+
+
+バトル中魔法防御力小アップ=Tăng nhẹ chỉ số phòng thủ phép thuật trong trận chiến.
+バトル開始後90秒間味方全体の魔法防御力を10％アップさせる。=Tăng 10% chỉ số phòng thủ phép thuật cho tất cả đồng minh trong 90 giây đầu tiên của trận chiến.
+
+
+

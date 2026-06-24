@@ -83,7 +83,7 @@ Chapter 4
 えっ？　えっと……お、王家の装備を奪おうとしたり。\nバンディシャーク号でお城を砲撃したり。\n魔物と戦っているところに乱入したり、温泉で勝負したりとか……=Hả? Ưm... Chúng em đã cố gắng đánh cắp các trang bị hoàng gia khác nhau. Chúng em đã bắn pháo vào các lâu đài bằng Bandyshark. Chúng em xông vào khi các cậu đang chiến đấu với quái vật, và chúng em có một cuộc thi đấu tại suối nước nóng ở đây...
 ……あらためて考えると、とんでもないというか。\n開いた口が塞がりませんね……=...Nhắc mới nhớ, tất cả những việc đó nghe thật kinh khủng. Em cũng không biết nói gì...
 うﾞっ！\nすみませんすみませんっ、……でも……=Ơi! Em xin lỗi, em thực sự rất xin lỗi... Tuy nhiên...
-……リリさんたちの言うとおり。\n今回の姉さんが、いつもと違うっていうのは……わたしも思ってて。\nいつも好き勝手する姉さんが、誰かの命令に従うだなんて……=...Đúng như Lily và Clear vừa nói. Em cũng nghĩ rằng lần này Chị lớn khác với thường ngày. Chị lớn luôn làm bất cứ điều gì mình muốn, nhưng đột nhiên cô ấy bắt đầu tuân theo mệnh lệnh của người khác...
+……リリさんたちの言うとおり。\n今回の姉さんが、いつもと違うっていうのは……わたしも思ってて。\nいつも好き勝手する姉さんが、誰かの命令に従うだなんて……=...Đúng như Riri và Quria vừa nói. Em cũng nghĩ rằng lần này Chị lớn khác với thường ngày. Chị lớn luôn làm bất cứ điều gì mình muốn, nhưng đột nhiên cô ấy bắt đầu tuân theo mệnh lệnh của người khác...
 ……もう、教えてくれてもいいよね？\n何があったの？　姉さん。=...Bây giờ cô có thể nói cho chúng tôi biết rồi, phải không? Chuyện gì đã xảy ra với cô, Chị lớn?
 弁明など聞くつもりはない。\n我を出し抜こうとしたならば──=Tôi không có ý định nghe những lời biện minh của cô. Nếu cô cố gắng lừa tôi...
 直ちにお前の妹たちを、我が爪で引き裂いてくれようぞ。\n熟れた柘榴の如くになア。\nクカカカッ──=Tôi sẽ xé các chị của cô ra bằng vuốt ngay bây giờ. Giống như những quả lựu chín mọng. Kukakaka~
@@ -265,7 +265,7 @@ Chapter 5
 お兄の。\nいもうと、どうし。\nなので。=Cô là chị của Onii. Chính vì thế. Cho nên...
 お兄……ひょっとして、{playername}のこと？\nわ、私は別に、妹っていうわけじゃ……="Onii"... cô đang nói về {playername} ư? T-Tôi không phải là em gái thật của anh ấy...
 あと。\nたんまつ、どうし。\nなので。=Nữa. Mọi người khác. Ra chào đi.
-……シェフィさま。\nあらためまして……【アルターメイデン】のギルドマスター\nリリと申します。=...Nữ sĩ Sheffy. Cho phép tôi giới thiệu lại một lần nữa... Tên tôi là Lily, guild master của Alter Maiden.
+……シェフィさま。\nあらためまして……【アルターメイデン】のギルドマスター\nリリと申します。=...Nữ sĩ Sheffy. Cho phép tôi giới thiệu lại một lần nữa... Tên tôi là Riri, guild master của Alter Maiden.
 同じく、クリアです。\nわたしたちは……えっと。\nこの姿を見てもらうのが早いと思うんですけど……=Tương tự, tên tôi là Quria. Còn về chúng tôi... Ừm... Tôi nghĩ sẽ nhanh hơn nếu cô thấy chúng tôi ở dạng khác...
 っ……！　そう、だったのね。\n私も黒い天使のシャドウと戦ったから、よく覚えてる。\n……あなたたちも私と同じ、エリスさんの元『端末』……=...! Ra vậy. Tôi cũng từng chiến đấu với "Black Angel Shadows", nên nhớ rõ lắm. ...Các cô là cựu "Terminal" của Eris, giống hệt tôi...
 ……あ。\nそれじゃあ、この獣人族の子は……=...Ồ. Vậy cô gái người thú này...
@@ -275,7 +275,7 @@ Chapter 5
 ええ、ありがとう……\n……？=Vâng, cảm ơn... Hm...?
 兄様？\nお兄さん？\nひょっとして、やっぱり……{playername}のこと？="Nii-sama"? "Onii-san"? Khi các cô nói thế, các cô đang đề cập đến... {playername}?
 あっ！\nわたくしたちはその、\n敬意と親愛で兄様とお呼びさせていただいているだけで……！=À! Chúng tôi... Ba đứa... chỉ gọi anh ấy là Nii-sama và những cách gì đó tương tự vì sự tôn kính và yêu mến...!
-ふふっ。シェフィさん、おいくつですか？\n──１４歳？　それじゃ、この四人だとリリちゃんが一番上ですね♪\nシェフィさんも、リリちゃんをお姉ちゃんって呼んでいいんですよ？=He he. Sheffy bao nhiêu tuổi rồi?...14 tuổi? Vậy thì trong bốn đứa, Lily-chan vẫn là lớn nhất, đúng không♪? Cô có thể gọi cô ấy là "Chị Lily" nếu muốn, biết đấy.
+ふふっ。シェフィさん、おいくつですか？\n──１４歳？　それじゃ、この四人だとリリちゃんが一番上ですね♪\nシェフィさんも、リリちゃんをお姉ちゃんって呼んでいいんですよ？=He he. Sheffy bao nhiêu tuổi rồi?...14 tuổi? Vậy thì trong bốn đứa, Riri-chan vẫn là lớn nhất, đúng không♪? Cô có thể gọi cô ấy là "Chị Riri" nếu muốn, biết đấy.
 「呼ばないわよっ！？」\n「良くありませんっ……！」="Tôi sẽ không gọi thế!" "Không được đâu..."
 あと。\nハッピー\nちゃん。=Nữa. Đây là Happy-chan.
 ぶっぶぶぅ♪=Bububuu♪
@@ -355,7 +355,7 @@ Player Prompts
 ミソラちゃんも会いたがってるよ。=Misora cũng muốn gặp cậu
 
 New Titlecards
-シェフィ・リリ=Sheffy Lily
+シェフィ・リリ=Sheffy Riri
 ミーア=Mia
 
 Chapter 6
@@ -798,14 +798,14 @@ Player Prompts
 エリスさんなら知ってるかも。=Eris có thể biết.
 
 Substory
-ジオ・ゲヘナ、密林の一角にて。\nリリは鍛錬のため、{playername}と共に魔物と戦っていた。=Trong một góc của khu rừng rậm ở Gio Gehenna, Lily đang chiến đấu với quái vật cùng {playername} để rèn luyện.
+ジオ・ゲヘナ、密林の一角にて。\nリリは鍛錬のため、{playername}と共に魔物と戦っていた。=Trong một góc của khu rừng rậm ở Gio Gehenna, Riri đang chiến đấu với quái vật cùng {playername} để rèn luyện.
 そこですっ……ていっ！！=Được rồi... TEI!!
 ふぅ……お褒めにあずかり光栄です。\nですがやはり、黒い天使の力を振るう時に比べれば、\n力不足と言わざるを得ません。=Phew... Tôi vinh dự khi nhận được lời khen của cậu. Tuy nhiên, so với khi tôi sử dụng sức mạnh của Black Angel, tôi phải thừa nhận sức mạnh của mình vẫn còn thiếu.
 己に課した使命をやり遂げるため、\nそして兄様の手助けに報いるためにも、\nさらなる鍛錬を重ねなければ……=Để hoàn thành nhiệm vụ tôi đã đặt ra cho bản thân, và để đền đáp sự giúp đỡ của Nii-sama, tôi phải tiếp tục rèn luyện chăm chỉ hơn nữa...
 あらあらあらぁ～？\n誰かと思えば、馬ボーンとそのお仲間じゃありませんの。=Ôi trời, ôi trời, ôi trời~? Tôi đang tự hỏi ai đây, hóa ra là cậu bé nô lệ và bạn cậu.
 カノン様？　なぜここに……\n療養中と聞き及んでおりましたが、\nお怪我はもう大丈夫なのでしょうか？=Tiểu thư Kanon? Tại sao cô lại ở đây...? Tôi nghe nói cô đang dưỡng bệnh. Vậy thì tôi có thể cho rằng cô đã ổn chứ?
 フンッ、見くびらないでくださいな！\n不意打ちとはいえ弱っちいおたんこウサギにどつかれた程度で、\nあたくしが深手を負うはずありませんでしょう？=Hmph, đừng coi thường tôi! Dù đó là đòn tập kích bất ngờ, làm sao tôi có thể bị thương nặng chỉ bởi một đòn rìu từ một con thỏ yếu ớt như vậy, phải không?
-ふぅ、ふぅ……\nカノンさん、もうちょっとゆっくり歩いてくださ～い……\nってあれ？　リリさんに騎士さんではありませんか。=Phew, phew... Kanon, làm ơn đi chậm lại một chút... Khoan, hả, kia chẳng phải Knight và Lily?
+ふぅ、ふぅ……\nカノンさん、もうちょっとゆっくり歩いてくださ～い……\nってあれ？　リリさんに騎士さんではありませんか。=Phew, phew... Kanon, làm ơn đi chậm lại một chút... Khoan, hả, kia chẳng phải Knight và Riri?
 ほーちゃん様も、ご健勝で何よりです。\n本日はお二人そろって、どうなさったのでしょう。=Tôi rất vui vì cô cũng khỏe, Lady Ho-chan. Tôi tự hỏi hai người đang làm gì ở đây.
 それはあたくし様の台詞ですわ。\n馬ボーンさんたちはこんなところで何をなさってらっしゃいますの？\nまさか、そちらも例の魔物を狙って……？=Đó thực ra mới là câu của tôi ở đây. Một cậu bé nô lệ và những người bạn vui vẻ của cậu đang làm gì trong khu rừng như vậy? Đừng nói với tôi là các cậu cũng đang săn lùng những quái vật đó...?
 例の魔物、とは？=Cái gì về quái vật...?
@@ -834,7 +834,7 @@ Substory
 おんぎゃーーーーっ！！！=ÔNG GÀAAAAAAAAA!!!
 カノンさーーーん！！！=KANON-SAAAAAAAN!!!
 な、なんという強さ……\nそれに何より……お美しすぎ、るッ……=S-Sức mạnh... Và trên hết... vẻ đẹp...
-カノンさんがあっさりと……私たちじゃもう勝ち目がないです！\nリリさんたち、あの魔物と知り合いなんですか！？\n見逃してもらえるようお願いしてください！=Kanon bị hạ gục dễ dàng... Chúng ta không còn cơ hội nữa! Lily và Hiệp sĩ, các ngươi có quen biết con quái vật đó không?! Hãy nhờ chúng buông tha chúng ta!
+カノンさんがあっさりと……私たちじゃもう勝ち目がないです！\nリリさんたち、あの魔物と知り合いなんですか！？\n見逃してもらえるようお願いしてください！=Kanon bị hạ gục dễ dàng... Chúng ta không còn cơ hội nữa! Riri và Hiệp sĩ, các ngươi có quen biết con quái vật đó không?! Hãy nhờ chúng buông tha chúng ta!
 ま、魔物ではない……はずです。\nすみません、まだ状況に思考が追いついておらず……=N-Nó không phải là quái vật thực sự... Ta tin thế. Xin lỗi, suy nghĩ của ta chưa kịp bắt kịp tình hình...
 おや？\nもしかして、ボクの美しさがどうやって磨かれたのか知りたいのかな？\nなら教えてあげようか……ボクが辿った美しすぎる足跡をね！=Ồ? Có lẽ các ngươi muốn biết sắc đẹp của ta được nuôi dưỡng như thế nào? Vậy ta sẽ nói cho các ngươi biết... những bước chân đẹp đẽ mà ta đã bước đi!
 ボクはシズルさんに連れられて、この世界に来たんだ。\nでもなんか暑くてむしむしべたべたするし、一刻も早く帰りたくてさ。=Shizuru đưa ta đến thế giới này, nhưng nó khá nóng và ẩm, và ta muốn về nhà càng sớm càng tốt.
@@ -857,7 +857,7 @@ Substory
 本当に？　断るなんてもったいないなぁ。\nキミはそんなに立派な羽を持っているのに。\nもっと美しくなる素質を感じるよ。=Thật sao? Từ chối thì quá lãng phí rồi. Ngươi có đôi cánh tuyệt vời như vậy. Ta cảm thấy ngươi có tiềm năng trở nên đẹp hơn nữa.
 え？　立派な羽？\nそ、そうですか、変な人ですけど見る目はあるみたいですねぇ……=Hehehe? Đôi cánh tuyệt vời? T-Ta hiểu rồi. Ngươi khá là người kỳ quặc, nhưng dường như có mắt tinh đời với những thứ tốt...
 ほーちゃん様、落ち着いてください！\n甘言に惑わされてはなりませんっ……！=Tiểu thư Hoo-chan, xin hãy bình tĩnh! Đừng để mấy lời ngọt ngào đơn thuần lừa dối dễ dàng như vậy...!
-リリさんだって、この強さが欲しくはないの？\nこの美しい羽ばたきひとつで、どんな相手もなぎ倒せるよ。\nキミの前に敵はいなくなるだろうね。=Lily, ngươi cũng không muốn sức mạnh này sao? Chỉ với một cái vỗ đôi cánh đẹp đẽ này, ngươi có thể hạ gục bất kỳ đối thủ nào. Sẽ không còn kẻ thù nào đứng trước mặt ngươi.
+リリさんだって、この強さが欲しくはないの？\nこの美しい羽ばたきひとつで、どんな相手もなぎ倒せるよ。\nキミの前に敵はいなくなるだろうね。=Riri, ngươi cũng không muốn sức mạnh này sao? Chỉ với một cái vỗ đôi cánh đẹp đẽ này, ngươi có thể hạ gục bất kỳ đối thủ nào. Sẽ không còn kẻ thù nào đứng trước mặt ngươi.
 そ、そこまで強くなれるのですか……？\nわたくしがあのような姿になれば……\n兄様のお役に立ち、末永くお供させていただくことも……=T-Ta có thể mạnh đến thế...? Nếu ta có thể trở thành như thế... ta có thể hữu ích cho Nii-sama, và ta có thể đồng hành cùng anh ấy mãi mãi...
 はっ！　も、申し訳ありません、兄様！\nわたくしは決して、安易に強くなろうなどという\n怠惰な考えは……=Hah! T-Tôi xin lỗi sâu sắc nhất, Nii-sama! Tôi sẽ không bao giờ, không bao giờ nghĩ đến việc trở nên mạnh mẽ một cách lười biếng theo cách rẻ mạt và dễ dàng như vậy...
 ちょっとちょっと、どうして邪魔をするんだい？\nキミだって、最高に強くて究極に美しいボクを見られて\n心が喜びに満ちているはずだろう。=Này, này, {playername}, tại sao ngươi lại cản đường ta? Ta chắc rằng trái tim ngươi cũng tràn ngập niềm vui khi thấy ta, người mạnh nhất và đẹp nhất.

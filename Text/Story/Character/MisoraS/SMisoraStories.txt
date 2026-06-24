@@ -1,4 +1,6 @@
----1---
+Summer Misora Stories
+
+Chapter 1
 ミソラはランファと『騎士さんシェア』して海デートする。泳ぎ疲れて{playername}がひざまくらで眠る間、ミソラは【レイジ・レギオン】を抜けたときのことをランファに謝り、和解する。=Misora và Ranpha cùng nhau đi chơi một buổi hẹn hò 'Kishi-san' ở bãi biển. Trong khi {playername} ngủ trên đùi cô ấy sau khi mệt vì bơi lội, Misora xin lỗi Ranpha vì đã rời khỏi [Reiji Legion] và hòa giải với anh ấy.
 
 いきますよーランファさん★\n水鉄砲で、どるるるる～んっ♪=Đi thôi, Ranpha-san! ★ Với súng nước, dorururuuun! ♪
@@ -113,7 +115,7 @@
 ほらほら二人とも、はーやーくー★\nラーメンはシェアしてあげませんからねー♪=Nào, hai người, tôi sẽ không chia sẻ món ★Ramen sớm đâu♪
 
 
-Player Choice menu Text:
+Player Prompts
 どうしたの、ランファさん？=Sao vậy, Ranpha?
 僕もうれしい。=Tôi cũng vui.
 わっ。=Ồ.
@@ -121,9 +123,8 @@ Player Choice menu Text:
 ちょっと、疲れたかも……？=Có lẽ mình hơi mệt rồi...?
 ……何かあった？=...Có chuyện gì vậy?
 
----2---
+Chapter 2
 食べすぎたランファを寝かせたミソラは、{playername}にさまざまな質問を投げかける。最後にミソラがキスをねだろうとするが、現れたリリに見咎められ、追いかけっこでうやむやになるのだった。=Misora, người đã khiến Ranpha ngủ thiếp đi sau khi ăn quá no, hỏi {playername} một loạt câu hỏi. Cuối cùng, Misora có vẻ muốn nài xin một nụ hôn, nhưng Riri xuất hiện đã mắng cô, và cuộc đuổi bắt trở nên mơ hồ.
-
 
 はいランファさん、焼きそばです★=Đây, Ranpha-san. Yakisobă nè! ★
 はいランファさん、焼きトウモロコシです★=Đây, Ranpha-san. Bắp nướng nè. ★
@@ -242,7 +243,7 @@ Player Choice menu Text:
 ……ぅ、ぅ～ん……\nもう、食べられないわ……ミソラちゃん……=Ừm... Em ăn không nổi nữa rồi... Misora...
 
 
-Player Choice menu Text:
+Player Prompts
 シェアしてがんばろう……！=Chúng ta cùng chia sẻ và cố gắng nhé...!
 遠慮しないで。=Đừng ngại.
 寝てる人をいじっちゃダメだよ。=Đừng làm phiền người đang ngủ.
@@ -258,7 +259,7 @@ Player Choice menu Text:
 なんで！？=Tại sao?!
 これ、ミソラちゃんの超能力……！？=Đây là năng lực psi của Misora...!?
 
----3---
+Chapter 3
 {playername}との会話の中で、ミソラは【アルターメイデン】やエリスについて話す。エリスに会いに行こうと提案されたミソラは、エリスと『騎士さんシェア』するのも面白そう、と考えるのだった。=Trong cuộc nói chuyện với {playername}, Misora đã kể về Altermaiden và Eris. Khi cô ấy đề nghị đi gặp Eris, cô ấy nghĩ sẽ vui nếu chia sẻ Kishi-san với Eris nữa.
 
 にい、さま……=Nii-sama...
@@ -334,7 +335,7 @@ Player Choice menu Text:
 エリスさまからも。\n他のコワいヒトたちからも、たくさんの女の子たちからも。\nぜんぶぜーんぶ逃げ切って──=Từ Nữ thần Eris. Từ những người đáng sợ khác. Từ biết bao cô gái. Tôi đã chạy trốn khỏi tất cả bọn họ ⁇
 わたしと一緒に。\n恋の逃避行★　ですよ♥=Cùng với tôi. Đó là cuộc trốn chạy khỏi tình yêu★
 
-Player Choice menu Text:
+Player Prompts
 最後は空間跳躍してたけど……=Cuối cùng, cô ấy đã nhảy qua không trung, nhưng...
 そもそも、ミソラちゃんは……=Trước tiên, Misora...
 どうして、リリちゃんたちを選んだの？=Tại sao cậu chọn Lili và những người khác?
@@ -349,7 +350,7 @@ Player Choice menu Text:
 無理です……=Tôi không thể...
 ガマンできなくなったら、どうなるの？=Điều gì sẽ xảy ra khi cậu không thể kiềm chế được nữa?
 
----4---
+Chapter 4
 {playername}と魅空は謎の組織からの逃避行を続けた末に、疲労困憊になりながらも海に辿り着く。海へと入っていった魅空に誘われるがままに、手を取り合って、二人は夜の海へと沈んでいく。={playername} và Misora tiếp tục cuộc trốn chạy khỏi tổ chức bí ẩn, cuối cùng đã đến biển dù kiệt sức. Hai người nắm tay nhau và chìm xuống biển trong đêm, như được mời gọi bởi bầu trời phù thủy đã chìm xuống biển.
 
 クソッ！\nどこ行きやがった、あいつら……！=Khốn nạn! Chúng chạy đi đâu rồi...?!
@@ -440,7 +441,7 @@ Player Choice menu Text:
 ……だから逃避行は、夢の中だけにして──\nこの夏が終わっても、騎士さんと一緒にイイコトしようと思います★\nたぶん♪=...Vậy nên mình nghĩ mình sẽ chỉ để cuộc trốn chạy trong giấc mơ và làm một việc đẹp với Kishi-san ngay cả sau khi mùa hè này kết thúc. ★ Chắc vậy♪
 てことで騎士さん、まずは栄養補給ですよー★\nはい、召し上がれ♥=Dù sao thì, Kishi-san, trước tiên hãy bổ sung dinh dưỡng đã! ★ Nè, ăn đi
 
-Player Choice menu Text:
+Player Prompts
 黒服の上司=Boss trong bộ vest đen
 はぁっ、はぁっ……=Haah, haah...
 ちょっと疲れたかも……！=Có lẽ mình hơi mệt...!
@@ -453,3 +454,6 @@ Player Choice menu Text:
 ミソラちゃんを追いかける。=Mình đuổi theo Misora.
 ……僕は、溺れてたの……？=...Mình đang chìm nghỉm...?
 じゃあ、なんで人工呼吸を……=Vậy tại sao cậu lại sử dụng hô hấp nhân tạo...?
+
+New Titlecard
+黒服の上司=Boss trong bộ vest đen

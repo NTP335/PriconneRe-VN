@@ -28,19 +28,18 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃�
 スピードアップ=Tăng Tốc
 味方全体の行動速度を小アップさせ、さらに物理攻撃力を小アップさせる。=Tăng nhẹ tốc độ hành động và tấn công vật lý của đồng đội.
 r:"^味方全体の行動速度アップ味方全体の物理攻撃力を(\d+)アップ$"=►Tăng tốc độ hành động của toàn đồng đội lên 120% trong 12s.\n►Tăng tấn công vật lý của đồng đội lên $1 trong 12s.
-
 ##EX##
 精霊の啓示=Giác Ngộ Tâm Linh
 精霊の啓示+=Giác Ngộ Tâm Linh+
+バトル開始時に自分の物理攻撃力を中アップ、魔法防御力を小アップする。=Khi bắt đầu trận chiến, tăng vừa phải chỉ số tấn công vật lý và tăng nhẹ chỉ số phòng thủ phép thuật cho bản thân.
 
 ##UB+##
 オーロラブルーミング=Aurora Blooming
-自分のＨＰを大回復させる。味方全体のＨＰを中回復し、物理攻撃力と魔法攻撃力を大アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng mạnh sức mạnh tấn công vật lý và ma thuật cho toàn đồng đội, tăng nhẹ TP Boost cho toàn đồng đội, hồi nhiều HP của bản thân và hồi vừa phải HP cho đồng đội.
-###Old r:"^自分のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ$"=►Hồi HP của bản thân $1.\n►Hồi HP cho toàn đồng đội $2.\n►Tăng tấn công vật lý của đồng đội lên $3 trong 18s.\n►Tăng tấn công ma thuật của đồng đội lên $4 trong 18s.\n►Tăng TP Boost của đồng đội lên $5 trong 18s.
+自分のＨＰを大回復する。味方全体のＨＰを中回復、物理・魔法攻撃力を大アップ、ＴＰ上昇を小アップさせる。発動時既に自分が物理・魔法攻撃力アップ状態だった場合、さらに追加で味方全体の物理・魔法攻撃力を極大アップさせる。=Hồi phục một lượng lớn HP cho bản thân. Hồi phục vừa phải HP cho tất cả đồng minh, tăng lớn chỉ số tấn công vật lý và phép thuật, đồng thời tăng nhẹ chỉ số tăng TP cho họ. Nếu bản thân đang trong trạng thái được tăng chỉ số tấn công vật lý hoặc phép thuật khi kích hoạt, sẽ hồi thêm cho tất cả đồng minh một lượng cực lớn chỉ số tấn công vật lý và phép thuật.
 
-自分のＨＰを大回復させる。味方全体のＨＰを中回復し、物理・魔法攻撃力を大アップさせ、さらにＴＰ上昇を小アップさせる。発動時既に自分が物理・魔法攻撃力アップ状態だった場合、味方全体の物理・魔法攻撃力を極大アップさせる。=Hồi phục lớn HP cho bản thân. Hồi phục vừa HP cho toàn thể đồng minh, tăng lớn tấn công vật lý và ma thuật, đồng thời tăng nhẹ mức hồi TP. Nếu tại thời điểm kích hoạt, bản thân đang trong trạng thái tăng tấn công vật lý và ma thuật, sẽ tăng cực đại tấn công vật lý và ma thuật cho toàn thể đồng minh.
 
 r:"^自分のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復味方全体の物理・魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を10アップ自分が物理・魔法攻撃力アップ状態の場合、味方全体の物理・魔法攻撃力を(\d+)アップ$"=►Hồi phục $1 HP cho bản thân.\n►Hồi phục $2 HP cho toàn thể đồng minh.\n►Tăng $3 tấn công vật lý và ma thuật cho đồng minh trong 18 giây.\n►Tăng 10 mức hồi TP cho đồng minh trong 18 giây.\n\nNếu tấn công vật lý và ma thuật của bản thân đang được tăng:\n►Tăng $4 tấn công vật lý và ma thuật cho đồng minh trong 18 giây.
+
 
 ##S1+##
 トライスラッシュ+=Tri-Slash+
@@ -49,7 +48,7 @@ r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アッ
 
 ##S2+##
 スピードアップ+=Tăng Tốc+
-味方全体の行動速度を大アップさせ、さらに物理攻撃力を特大アップ、物理クリティカルを大アップさせる。さらに最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップ、物理クリティカルを大アップさせ、味方全体のＴＰを小回復させる。=Tăng cực mạnh tốc độ hành động cho toàn đồng đội, tăng khủng khiếp tấn công vật lý của họ và tăng rất mạnh tỷ lệ chí mạng tấn công vật lý. Đồng thời tăng khủng khiếp tấn công vật lý và tăng rất mạnh tỷ lệ chí mạng cho đồng đội có tấn công vật lý cao nhất, và hồi nhẹ TP cho toàn đồng đội.
+味方全体の行動速度を大アップ、物理攻撃力を特大アップ、物理クリティカルを大アップさせる。最も物理攻撃力が高い味方の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、味方全体のＴＰを小回復させる。=Tăng lớn tốc độ hành động, tăng cực đại tấn công vật lý, và tăng lớn tỉ lệ bạo kích vật lý cho tất cả đồng minh. Tăng cực đại tấn công vật lý và tăng lớn tỉ lệ bạo kích vật lý cho đồng minh có chỉ số tấn công vật lý cao nhất, đồng thời hồi một lượng nhỏ TP cho tất cả đồng minh.
 ###old r:"^味方全体の行動速度アップ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方全体のＴＰを50回復$"=►Tăng tốc độ hành động của toàn đồng đội lên 160% trong 18s.\n►Tăng tấn công vật lý của toàn đồng đội lên $1 trong 18s.\n►Tăng tỷ lệ chí mạng tấn công vật lý của toàn đồng đội lên 100 trong 18s.\n►Tăng tấn công vật lý của đồng đội có tấn công vật lý cao nhất lên $2 trong 18s.\n►Tăng tỷ lệ chí mạng tấn công vật lý của đồng đội có tấn công vật lý cao nhất lên 100 trong 18s.\n►Hồi 50 TP cho toàn đồng đội.
 
 r:"^味方全体の行動速度60％アップ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ味方全体のＴＰを50回復$"=Thời gian thi triển: 1.4 giây\n►Tăng 60％ tốc độ hành động cho toàn thể đồng minh trong 18 giây.\n►Tăng $1 tấn công vật lý cho toàn thể đồng minh trong 18 giây.\n►Tăng 100 tỷ lệ chí mạng vật lý cho toàn thể đồng minh trong 18 giây.\n►Tăng $2 tấn công vật lý cho một đồng minh trong 18 giây.\n►Tăng 100 tỷ lệ chí mạng vật lý cho một đồng minh trong 18 giây.\n►Hồi phục 50 TP cho toàn thể đồng minh.
@@ -60,7 +59,8 @@ r:"^味方全体の行動速度60％アップ味方全体の物理攻撃力を(\
 
 ##S1++##
 トライスラッシュ++=Tri-Slash++
-目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を中アップさせ、ＴＰ上昇を小アップさせる。自分が物理・魔法攻撃力アップ状態だった場合、追加の物理大ダメージを与え、さらに、最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップ、物理クリティカルを大アップ、物理攻撃クリティカル時のダメージを小アップ、ＴＰ上昇を小アップ、ＴＰを中回復させる。=Gây sát thương vật lý lớn cho một kẻ địch trước mặt, đồng thời tăng vừa tấn công vật lý và tăng nhẹ mức hồi TP cho bản thân. Nếu bản thân đang trong trạng thái tăng tấn công vật lý và ma thuật, sẽ gây thêm sát thương vật lý lớn, đồng thời tăng cực đại tấn công vật lý, tăng lớn tỷ lệ chí mạng vật lý, tăng nhẹ sát thương chí mạng vật lý, tăng nhẹ mức hồi TP và hồi phục vừa TP cho một đồng minh có tấn công vật lý cao nhất.
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップする。自分が物理・魔法攻撃力アップ状態の場合、さらに追加で物理大ダメージを与え、最も物理攻撃力が高い味方の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理クリティカルダメージとＴＰ上昇を小アップ、ＴＰを中回復させる。=Gây sát thương vật lý lớn lên một kẻ địch ở ngay phía trước, tăng vừa phải chỉ số tấn công vật lý của bản thân và tăng nhẹ chỉ số tăng TP. Nếu bản thân đang trong trạng thái được tăng chỉ số tấn công vật lý hoặc phép thuật, sẽ gây thêm sát thương vật lý lớn, tăng cực đại chỉ số tấn công vật lý cho đồng minh có chỉ số tấn công vật lý cao nhất, tăng lớn tỉ lệ bạo kích vật lý, tăng nhẹ sát thương bạo kích vật lý và chỉ số tăng TP, đồng thời hồi vừa phải TP cho đồng minh đó.
+
 r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を15アップ自分が物理・魔法攻撃力アップ状態の場合、以下の効果が発動する敵単体に(\d+)の物理ダメージ対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを120アップ対象の味方の物理クリダメを12％アップ対象の味方のＴＰ上昇を5アップ対象の味方のＴＰを150回復$"=Thời gian thi triển: 0.66 giây\n►Gây $1 sát thương vật lý cho một kẻ địch.\n►Tăng $2 tấn công vật lý cho bản thân.\n►Tăng 15 mức hồi TP cho bản thân.\n\nNếu tấn công vật lý và ma thuật của bản thân đang được tăng:\n►Gây $3 sát thương vật lý cho một kẻ địch.\n►Tăng $4 tấn công vật lý cho đồng minh mục tiêu.\n►Tăng 120 tỷ lệ chí mạng vật lý cho đồng minh mục tiêu.\n►Tăng 12% sát thương chí mạng vật lý cho đồng minh mục tiêu.\n►Tăng 5 mức hồi TP cho đồng minh mục tiêu.\n►Hồi phục 150 TP cho đồng minh mục tiêu.
 
 

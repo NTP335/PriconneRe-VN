@@ -1,6 +1,7 @@
 明日5:00以降のログインでミッションが進行します。=Nhiệm vụ sẽ tiếp tục tiến triển khi bạn đăng nhập sau 5:00 ngày mai.
 獲得できるミッション報酬がありません。=Không có phần thưởng nhiệm vụ nào để nhận.
-
+SPダンジョン残り挑戦回数=Số lần còn lại có thể thách đấu Hầm ngục SP
+ダンジョン残り挑戦回数=Số lần còn lại có thể thách đấu Hầm ngục
 シーズンパス=Thẻ Mùa Giải
 Lv購入=Mua Lv
 r:"^シーズンパス([A-Z]*)$"=Thẻ Mùa Giải $1
@@ -64,6 +65,7 @@ r:"^経験値クエストかマナクエストを合計(\d+)回クリアしよ�
 r:"^深域クエストを(\d+)回クリアしよう$"=Hãy vượt ải Deep Quest $1 lần
 ジュノー=Juno
 
+r:"^スペシャルダンジョンのバトルを20回クリアしよう$"=Hoàn thành $1 trận chiến Hầm ngục Đặc biệt
 r:"^バトルアリーナかプリンセスアリーナで合計(\d+)回戦おう$"=Hãy tham gia Battle Arena hoặc Princess Arena tổng cộng $1 lần
 r:"^追憶の戦域 追憶戦・覇を(\d+)回クリアしよう$"=Hãy vượt ải "Reminiscence Battle - Conquest" trong Khu vực Truy ức tổng cộng $1 lần
 r:"^深淵討伐戦でボスに(\d+)回挑戦しよう$"=Hãy khiêu chiến Boss trong Abyss Subjugation Battle (Thâm Uyên Thảo Phạt Chiến) $1 lần.
