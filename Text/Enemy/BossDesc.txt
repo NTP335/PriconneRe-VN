@@ -2799,3 +2799,5 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 自身にＴＰダウン上限=Áp đặt giới hạn giảm TP lên bản thân.
 後ろから敵４体にＴＰダウン=Giảm TP của 4 kẻ địch ở phía sau cùng.
 後ろから敵４体にＴＰ上昇ダウン=Giảm chỉ số tăng TP của 4 kẻ địch ở phía sau cùng.
+
+恋の連敗街道をひた走る、自分本位な海の荒くれ者。脅威的な大口から見初めた相手への愛を囁き、恋路を邪魔する者は海の藻屑にする。=Một gã côn đồ biển cả ích kỷ, luôn chạy dài trên con đường thất bại trong tình yêu. Nó thì thầm những lời yêu thương với đối phương mà nó phải lòng bằng cái miệng khổng lồ đầy đe dọa, và biến bất cứ kẻ nào cản đường tình duyên của mình thành rác rưởi dưới đáy biển.
