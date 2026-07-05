@@ -1,25 +1,31 @@
 ##UB##
 アムニス・オケアノス=Amnis Oceanus
 
-敵全体の魔法防御力を特大ダウンさせ、魔法大ダメージを与える。最も魔法防御力の低い敵１キャラの【虚脱】の数が80の場合、味方全体の魔法攻撃力を極大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、最も魔法防御力の低い敵１キャラに追加の魔法特大ダメージを与える。=Giảm M.DEF của tất cả kẻ địch một lượng lớn và gây sát thương ma thuật nặng. Khi kẻ địch có M.DEF thấp nhất có 80 ngăn [Exhaust]: tăng mạnh M.ATK cho tất cả đồng đội, tăng nhẹ M.CRIT DMG, và gây thêm sát thương ma thuật lớn cho kẻ địch có M.DEF thấp nhất.
+敵全体の魔法防御力を特大ダウンさせ、魔法大ダメージを与える。最も魔法防御力が低い敵の【虚脱】が最大の場合、さらに味方全体の魔法攻撃力を極大アップ、魔法クリティカルダメージを小アップさせ、追加で最も魔法防御力が低い敵に魔法特大ダメージを与える。=Giảm cực đại phòng thủ phép thuật của tất cả kẻ địch và gây sát thương phép lớn. Nếu trạng thái [Suy nhược] của kẻ địch có phòng thủ phép thuật thấp nhất đang ở mức tối đa, tăng cực đại sức tấn công phép thuật của toàn bộ đồng minh, tăng nhẹ sát thương chí mạng phép thuật, và gây thêm sát thương phép cực lớn lên kẻ địch có phòng thủ phép thuật thấp nhất đó.
 
-r:"^敵全体の魔法防御力を(\d+)ダウン敵全体に(\d+)の魔法ダメージ対象の虚脱が80の時、味方全体の魔法攻撃力を(\d+)アップ対象の虚脱が80の時、味方全体の魔法クリダメを(\d+)％アップ対象の虚脱が80の時、敵単体に(\d+)の魔法ダメージ$"=►Giảm M.DEF của tất cả kẻ địch đi 3.\n►Gây 5527 sát thương ma thuật cho tất cả kẻ địch.\n\nNếu mục tiêu có 80 [Exhaust]:\n►Tăng M.ATK cho tất cả đồng đội 120.\n►Tăng M.CRIT DMG cho tất cả đồng đội 12%.\n►Gây 13818 sát thương ma thuật cho một kẻ địch.
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体に(\d+)の魔法ダメージ対象の虚脱が80の場合、以下の効果が発動する味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリダメを12％アップ敵単体に(\d+)の魔法ダメージ$"=►Giảm $1 phòng thủ phép thuật của tất cả kẻ địch trong 18 giây.\n►Gây $2 sát thương phép lên tất cả kẻ địch.\n\nNếu [Suy nhược] của mục tiêu đạt 80:\n►Tăng $3 sức tấn công phép thuật cho toàn bộ đồng minh trong 18 giây.\n►Tăng 12% sát thương chí mạng phép thuật cho toàn bộ đồng minh trong 18 giây.\n►Gây $4 sát thương phép lên một mục tiêu kẻ địch.
 
 ##S1##
 アダルトメランコリー=Adult Melancholy
-r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のＴＰ上昇を(\d+)ダウン敵全体のＴＰを(\d+)失わせる対象の虚脱が80の時、味方全体の魔法攻撃力を(\d+)アップ対象の虚脱が80の時、味方全体のＴＰ上昇を(\d+)アップ対象の虚脱が80の時、味方全体のＴＰを(\d+)回復$"=►Giảm M.DEF của tất cả kẻ địch đi 2.\n►Giảm Tăng TP của tất cả kẻ địch 10.\n►Giảm TP của tất cả kẻ địch 250.\n\nNếu mục tiêu có 80 [Exhaust]:\n►Tăng M.ATK cho tất cả đồng đội 60.\n►Tăng Tăng TP cho tất cả đồng đội 10.\n►Hồi phục TP cho tất cả đồng đội 150.
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のＴＰ上昇を10ダウン敵全体のＴＰを250失わせる対象の虚脱が80の場合、以下の効果が発動する味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰ上昇を10アップ味方全体のＴＰを150回復$"=►Giảm $1 phòng thủ phép thuật của tất cả kẻ địch trong 12 giây.\n►Giảm 10 TP Boost của tất cả kẻ địch trong 12 giây.\n►Giảm 250 TP của tất cả kẻ địch.\n\nNếu [Suy nhược] của mục tiêu đạt 80:\n►Tăng $2 sức tấn công phép thuật cho toàn bộ đồng minh trong 12 giây.\n►Tăng 10 TP Boost cho toàn bộ đồng minh trong 12 giây.\n►Hồi 150 TP cho toàn bộ đồng minh.
 
-敵全体の魔法防御力を中ダウン、ＴＰ上昇を小ダウン、ＴＰを大ダウンさせる。最も魔法防御力の低い敵１キャラの【虚脱】の数が80の場合、味方全体の魔法攻撃力を特大アップ、ＴＰ上昇を小アップ、ＴＰを中回復させる。=Giảm vừa phải M.DEF của tất cả kẻ địch, giảm nhẹ Tăng TP, và giảm mạnh TP. Khi kẻ địch có M.DEF thấp nhất có 80 ngăn [Exhaust]: tăng mạnh M.ATK cho tất cả đồng đội, tăng nhẹ Tăng TP, và hồi phục TP vừa phải.
+敵全体の魔法防御力を特大ダウンさせ、魔法大ダメージを与える。最も魔法防御力が低い敵の【虚脱】が最大の場合、さらに味方全体の魔法攻撃力を極大アップ、魔法クリティカルダメージを小アップさせ、追加で最も魔法防御力が低い敵に魔法特大ダメージを与える。=Giảm cực đại phòng thủ phép thuật của tất cả kẻ địch và gây sát thương phép lớn. Nếu trạng thái [Suy nhược] của kẻ địch có phòng thủ phép thuật thấp nhất đang ở mức tối đa, tăng cực đại sức tấn công phép thuật của toàn bộ đồng minh, tăng nhẹ sát thương chí mạng phép thuật, và gây thêm sát thương phép cực lớn lên kẻ địch có phòng thủ phép thuật thấp nhất đó.
 ##S2##
-アルケス印の秘薬=Bí dược Bí ẩn Dấu ấn Arkes
+アルケス印の秘薬=Tiên dược thương hiệu Alces
 
-r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン敵全体の魔法防御力を(\d+)ダウン初使用時、敵全体をステータスダウン効果を受けるたびに虚脱が付与される状態にする$"=►Giảm 20 điểm Tấn công Thể chất (P.ATK) của tất cả kẻ địch.\n►Giảm 20 điểm Tấn công Ma thuật (M.ATK) của tất cả kẻ địch.\n►Giảm 1 điểm Phòng thủ Ma thuật (M.DEF) của tất cả kẻ địch.\n►Khi dùng lần đầu, áp dụng trạng thái khiến kẻ địch nhận 1 ngăn [Kiệt sức] (Exhaust) mỗi khi bị giảm chỉ số.
+r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン敵全体の魔法防御力を(\d+)ダウン初使用時、敵全体をステータスダウン効果を受けるたびに虚脱が付与される状態にする$"=►Giảm $1 P.ATK của tất cả kẻ địch.\n►Giảm $2 M.ATK của tất cả kẻ địch.\n►Giảm $3 M.DEF của tất cả kẻ địch.\n►Khi sử dụng lần đầu, áp dụng trạng thái khiến kẻ địch nhận 1 điểm [Suy nhược] mỗi khi chịu hiệu ứng giảm chỉ số.
 
-敵全体の物理攻撃力と魔法攻撃力を中ダウン、魔法防御力を小ダウンさせる。バトル開始後、初弾のこのスキルは、敵全体をステータスダウンを受ける度に、【虚脱】が１つ追加される状態にする。【虚脱】は最大80まで追加される。=Giảm vừa phải Tấn công Thể chất (P.ATK) và Tấn công Ma thuật (M.ATK), và giảm nhẹ Phòng thủ Ma thuật (M.DEF) của tất cả kẻ địch. Khi dùng lần đầu trong trận, áp dụng trạng thái khiến kẻ địch nhận 1 ngăn [Kiệt sức] (tối đa 80) mỗi khi bị giảm chỉ số.
+敵全体の物理・魔法攻撃力を中ダウン、魔法防御力を小ダウンさせる。初回発動時、敵がステータスダウンを受けるたびに、その敵に【虚脱】（上限80）が１個付与される状態にする。=Giảm vừa sức tấn công vật lý và phép thuật của tất cả kẻ địch, giảm nhẹ phòng thủ phép thuật của chúng. Khi kích hoạt lần đầu, khiến kẻ địch nhận 1 điểm [Suy nhược] (tối đa 80) mỗi khi chúng phải chịu hiệu ứng giảm chỉ số.
 
 #EX##
-定時退勤の心得=Nguyên tắc Kết thúc Ca đúng Giờ
-定時退勤の心得+=Nguyên tắc Kết thúc Ca đúng Giờ+
+定時退勤の心得=Bí quyết tan làm đúng giờ
+定時退勤の心得+=Bí quyết tan làm đúng giờ+
 
 ##Profile##
-【魔法】後衛で、小柄で大人対応な錬金堂の省エネ店主。強力な弱体効果を与えながら、デバフ付与のたび増加する【虚脱】が80溜まると本気を出し定時厳守で戦い抜く。=[Ma thuật] Một chủ tiệm dược phẩm alchemy nhỏ bé nhưng chuyên nghiệp, luôn tiết kiệm năng lượng ở hậu phương. Trong khi áp dụng các debuff mạnh mẽ, cô ấy sẽ nghiêm túc khi [Kiệt sức] từ việc debuff đạt 80, chiến đấu theo đúng đồng hồ.
+【魔法】後衛で、小柄で大人対応な錬金堂の省エネ店主。強力な弱体効果を与えながら、デバフ付与のたび増加する【虚脱】が80溜まると本気を出し定時厳守で戦い抜く。=[Phép thuật] Nữ chủ tiệm giả kim nhỏ nhắn nhưng rất chuyên nghiệp, luôn tiết kiệm năng lượng ở hàng sau. Trong khi gây ra các hiệu ứng suy yếu mạnh mẽ, cô sẽ tung hết sức lực khi tích lũy đủ 80 điểm [Suy nhược] từ mỗi lần gây debuff, và chiến đấu theo đúng giờ giấc quy định.
+
+##S1+##
+テイジマデニアガールＺ=Teijimadenia Girl Z
+
+敵全体の魔法防御力を中ダウン、ＴＰ上昇を小ダウン、ＴＰを大ダウンさせる。最も魔法防御力が低い敵の【虚脱】が最大の場合、さらに味方全体の魔法攻撃力を特大アップ、ＴＰ上昇を小アップ、ＴＰを中回復させる。=Giảm vừa phòng thủ phép thuật của tất cả kẻ địch, giảm nhẹ TP Boost, và giảm mạnh TP. Nếu trạng thái [Suy nhược] của kẻ địch có phòng thủ phép thuật thấp nhất đang ở mức tối đa, tăng cực đại sức tấn công phép thuật của toàn bộ đồng minh, tăng nhẹ TP Boost, và hồi phục vừa TP.
+r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のＴＰ上昇を10ダウン敵全体のＴＰを250失わせる対象の虚脱が80の場合、以下の効果が発動する味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリダメを8％アップ味方全体のＴＰ上昇を10アップ味方全体のＴＰを150回復$"=►Giảm $1 phòng thủ phép thuật của tất cả kẻ địch trong 12 giây.\n►Giảm 10 TP Boost của tất cả kẻ địch trong 12 giây.\n►Giảm 250 TP của tất cả kẻ địch.\n\nNếu [Suy nhược] của mục tiêu đạt 80:\n►Tăng $2 sức tấn công phép thuật cho toàn bộ đồng minh trong 12 giây.\n►Tăng 8% sát thương chí mạng phép thuật cho toàn bộ đồng minh trong 12 giây.\n►Tăng 10 TP Boost cho toàn bộ đồng minh trong 12 giây.\n►Hồi 150 TP cho toàn bộ đồng minh.

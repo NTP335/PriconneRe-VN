@@ -1,0 +1,83 @@
+Name
+ランドソル広場=Quảng trường Landosol
+
+Story
+魔物の粘液で服を溶かされるヨリとそれを見て喜ぶアカリ。二人は件の占\nい師であるシノブと同じギルドに所属していると言う。そして{playername}達\nは彼女たちから詳しい話を聞くことになった。=Yori bị chất nhờn của quái vật làm tan chảy quần áo, trong khi Akari lại tỏ ra thích thú trước cảnh tượng đó. Cả hai cho biết mình là thành viên cùng chung bang hội với nhà tiên tri Shinobu mà nhóm đang tìm kiếm. Sau đó, {playername} và mọi người quyết định đi cùng họ để nghe kể chi tiết hơn về sự việc.
+
+おお……☆\n広場は、相変わらずの活気ですね！\n賑やかで嬉しくなっちゃいます！=Ồ...☆\nQuảng trường vẫn luôn náo nhiệt như mọi khi nhỉ!\nThật vui khi thấy không khí sôi động thế này!
+えへへ。\n昼時だから、あちこちのお店から良いにおいがする～♪=Ehehe.\nVì là giờ ăn trưa nên từ các cửa hàng quanh đây đều tỏa ra mùi thơm ngon ghê~♪
+あぁ、お腹が空いてきちゃいました♪\nねぇねぇ、まずは腹ごしらえといきません？=Aa, mình thấy đói bụng rồi♪\nNày này, chúng ta đi ăn lót dạ trước được không?
+救護院で昼食をとったばかりでしょう、ペコリーヌさま……\n前から思っていたのですけど、\n胃袋に穴が空いているのではないですか？=Chúng ta vừa ăn trưa ở Viện cứu trợ xong mà, Pecorine-sama...\nEm đã nghĩ từ lâu rồi, không biết dạ dày của chị có bị thủng không vậy ạ?
+いやぁ……\n何があるかわかんないし、栄養を摂取しておきたいなって。=Không mà...\nVì không biết chuyện gì sẽ xảy ra nên chị muốn nạp chút năng lượng thôi.
+何度か説明しましたけど。\nわたしの『王家の装備』は、\nカロリーの消費量が半端じゃないですから。=Chị đã giải thích mấy lần rồi mà.\n'Trang bị Hoàng gia' của chị tiêu tốn lượng calo khủng khiếp lắm.
+これを脱ぐと、戦闘力が激減しますしね。=Nếu cởi nó ra, sức chiến đấu của chị sẽ giảm mạnh đấy.
+元々はお姫さまなんですもんね、\nなのに最前線でガツガツ戦えるのは装備のお陰……と。=Dù vốn dĩ là công chúa,\nnhưng nhờ trang bị mà mới có thể chiến đấu hết mình ở tiền tuyến nhỉ...
+わたくしも鍛えております。\nよっぽどの事態でなければ、お任せくださいまし。=Em cũng đã rèn luyện bản thân rồi.\nTrừ khi là tình huống quá mức nghiêm trọng, nếu không xin hãy cứ giao cho em.
+ふふ。\nあんまり、ちっちゃい子には戦わせたくないんですけどね。=Fufu.\nChị thực sự không muốn bắt mấy đứa nhỏ phải chiến đấu quá nhiều đâu.
+おっ！\n屋台がありますよ～、買い食いしちゃって大丈夫ですか？=Oa!\nCó hàng ăn vỉa hè kìa~, chúng ta mua ăn chút được không ạ?
+お好きなように。=Tùy chị thôi ạ.
+……屋台飯、キャルさまがお好きでしたね。\nしばらく音沙汰がありませんが、あのかたは大丈夫でしょうか。=...Kyaru-sama rất thích đồ ăn vỉa hè nhỉ.\nĐã lâu không thấy tin tức gì, không biết cô ấy có ổn không nữa.
+主さまの話では……\nキャルさまは何やら、\nユースティアナなる人物と近しい間柄のようで。=Theo lời Chủ nhân kể thì...\nKyaru-sama hình như có mối quan hệ khá gần gũi với người tên Eustiana.
+安否が気遣われます。\nお命など、落としていなければ良いのですが。=Em rất lo cho sự an nguy của cô ấy.\nMong là cô ấy vẫn bình an vô sự.
+連絡もつかないんですよね……\nあの子ったら、かたくなに連絡先とか教えてくれませんし。=Cũng không liên lạc được luôn...\nCon bé đó cứ khăng khăng không chịu cho cách liên lạc gì cả.
+王宮勤めだっていうから、\nつてのあるサレンさんに頼んで調べてもらったんですけど。=Nghe bảo làm việc ở hoàng cung,\nnên chị đã nhờ Saren-san có quen biết dò hỏi giúp rồi.
+どうも出張中で不在、ってことになってるみたいですね。\nそれも嘘か本当かわからないですし、心配です。=Có vẻ như đang trong tình trạng đi công tác nên vắng mặt ạ.\nChẳng biết đó là thật hay giả, nên chị rất lo lắng.
+キャルちゃんも、おかしな因縁の渦のなかにいる感じ。\nまたみんなで、仲良く一緒に食卓を囲みたいんですけどね。=Cảm giác như Kyaru-chan cũng đang ở trong vòng xoáy của một mối nhân duyên kỳ lạ.\nMong là mọi người lại được cùng nhau vui vẻ ngồi quanh bàn ăn như trước.
+
+…おや？=...Hửm?
+ひゃあああ！？ こないでっ、近寄らないでよ！=Á á á á!? Đừng tới đây, đừng có lại gần mà!
+バカバカバカ～！=Đồ ngốc, đồ ngốc, đồ ngốc!
+パニクらないでお姉ちゃん！=Đừng hoảng loạn nữa chị hai!
+もぉ～、そんなに強い魔物じゃないでしょ？=Trời ơi~, đâu phải là con quái vật mạnh gì đâu?
+冷静に対処すれば、どうにでもなるから！=Chỉ cần bình tĩnh xử lý là xong hết mà!
+だ、だって！=Nh-nhưng mà!
+こいつの飛ばしてくる粘液に触ると服が溶けるんだもん！=Chất nhờn nó bắn ra làm tan chảy quần áo đấy!
+エ、エッチ～！=Biến thái quá đi~!
+わぁ、それは大変、その服けっこうなお値段してたのにねぇ=Oa, thế thì phiền phức thật, bộ đó đắt tiền lắm mà nhỉ.
+よーし、アカリが片付けちゃうねぇ=Được rồi, Akari sẽ dọn dẹp nó nhé.
+ちょちょいのちょーいの♪=Chỉ một loáng là xong thôi♪
+ちょーい♪=Đỡ này♪
+
+はぁ～、はぁ～……\nや、やったの？　魔物、やっつけた？=Ha~, ha~...\nĐ-đã xong chưa? Quái vật bị tiêu diệt rồi sao?
+うん。\nほんとに弱い魔物だったよぉ、\nどうして町のなかまで侵入してこれたのか不思議なぐらい。=Ừm.\nĐúng là một con quái vật yếu thật đấy,\nkhông hiểu sao nó có thể đột nhập vào tận trong thị trấn được nữa.
+ん～……近ごろ【王宮騎士団（NIGHTMARE）】が、\nちゃんと機能してないみたいだし。\n町の警備が、杜撰になってる感じね。=Ưm... dạo này 【Hiệp sĩ hoàng gia (NIGHTMARE)】 có vẻ,\nkhông hoạt động hiệu quả cho lắm.\nCảm giác như công tác bảo vệ thị trấn đang bị lơi lỏng nhỉ.
+今回は対処できたけど、\nもっと高位の魔物が侵入してきたら大惨事よ。=Lần này thì xử lý được, nhưng nếu quái vật cấp cao hơn đột nhập vào thì đúng là thảm họa đấy.
+まったくもう。\n近ごろどこもかしこもキナ臭くて、嫌になっちゃう。=Thật tình.\nDạo này chỗ nào cũng thấy mùi nguy hiểm, chán ghét thật.
+そうだねぇ。\n魔物が暴れると……地方によっては魔物の一種に見られる、\nアカリたち『魔族』の印象も悪くなるし。=Đúng vậy nhỉ.\nKhi quái vật quậy phá... ở một số địa phương, người ta coi đám "Ma tộc" như Akari và chị là một loại quái vật, làm ảnh hưởng đến ấn tượng xấu về tụi mình.
+まぁ今は、そんな時代でもないはずだけどぉ。=Mà thời đại này đâu còn như thế nữa nhỉ.
+うん。\nそれよりも、倒した魔物の後始末をしましょ。=Ừm.\nThay vì chuyện đó, chúng ta dọn dẹp xác con quái vật này đi nào.
+清掃を担当するギルドに連絡して……っと、\n料金はお役所に支払ってもらえばいいわよね？=Liên lạc với guild phụ trách vệ sinh... xong,\nphí thì cứ để công quyền chi trả là được đúng không?
+うふふ～\n服だけ溶かすステキな粘液、\nちょこっと回収しちゃおう♪=Ufufu~\nChất nhờn tuyệt vời chỉ làm tan mỗi quần áo này,\nmình thu thập một chút thôi♪
+そ、そんなものを何に使うつもり？\n跡形も残さずに、消し飛ばしちゃってよ～！？=Th, thứ đó định dùng làm gì chứ?\nXóa sổ nó không để lại dấu vết đi chứ~!
+……う～む？\n何の騒ぎだったのでしょう？=...Ưm? Không biết là có chuyện gì ồn ào vậy nhỉ?
+ふむ。\nどうも魔物が、町のなかまで侵入してきたみたいですね。=Hừm.\nCó vẻ như quái vật vừa đột nhập vào tận trong thị trấn ạ.
+弱っちい低位の魔物みたいですけど、\nそれをあの子たちが退治した～って感じでしょうか。=Chắc là con quái vật cấp thấp yếu ớt thôi,\nnhưng có vẻ như hai đứa nhỏ kia vừa tiêu diệt nó xong ạ.
+あのふたり、何だかそっくりさんですね。\n双子、とかでしょうか。=Hai người đó trông giống nhau thật đấy.\nCó khi nào là song sinh không nhỉ?
+
+ヨリちゃんとアカリちゃんだ。=Là Yori-chan và Akari-chan.
+はい？\n主さまはやはり、\n彼女らともお知りあい……なのですか？=Hả?\nChủ nhân, hóa ra người cũng quen biết cả họ... sao ạ?
+うん。双子だよ。=Ừm. Là chị em song sinh đấy.
+おや、何だか訳知り顔でございますね。\nよもや、あのお二方ともお知り合いなのですか……主さま？=Ồ, trông người có vẻ hiểu rõ mọi chuyện nhỉ.\nChẳng lẽ, cả hai người đó người cũng quen... sao Chủ nhân?
+
+いいかげんにしてくださいね、\n世界中の女の子と顔見知りなのですか？=Người làm ơn bớt chút đi,\nchẳng lẽ người quen biết mọi cô gái trên thế giới này sao?
+ん？\nあっ、{playername}お兄ちゃん♪=Hửm?\nÁ, {playername}-oniichan♪
+見ないでぇ！\n不幸な事故で、お姉ちゃんの服が溶けちゃったのぉ♪=Đừng nhìn mà!\nVì một tai nạn đáng tiếc nên quần áo chị hai bị tan chảy mất tiêu rồi♪
+えっ、{playername}？\nちょっ、何でいるのこういうときに限って！=Ể, {playername}?\nKhoan đã, sao anh lại ở đây đúng lúc thế này cơ chứ!
+私がピンチなときには、影もかたちもなかったくせにっ！\nそういうところがムカつく！=Những lúc em gặp nguy hiểm thì chẳng thấy bóng dáng đâu cả!\nCái kiểu đó đáng ghét thật đấy!
+賑やかですね～\n大丈夫ですか、お怪我などはないですか？=Ồn ào quá nhỉ~\nMọi người không sao chứ, có bị thương ở đâu không?
+うん。\nお姉ちゃんが軽めの露出プレイをしちゃったせいで、\n社会的地位には傷がついちゃったけどぉ？=Ừm.\nTại chị hai lỡ tay chơi trò hở hang một chút, nên địa vị xã hội bị tổn hại mất rồi nhỉ?
+あぁん、お姉ちゃん！\n可哀想……♪=Aaa, chị hai!\nTội nghiệp quá đi...♪
+ちょ、ちょっと服が溶けただけだもん！\n全裸で徘徊したみたいに言わないでよ～っ！？=Ch-chỉ là tan một chút quần áo thôi mà!\nĐừng có nói như kiểu chị khỏa thân đi lại ngoài đường vậy chứ~!
+う～……\nまったくもう、とんだ災難よ。=Ư... \nThật tình, đúng là một tai nạn không may mà.
+アカリ的には……\n今どきラブコメ漫画でも見かけないようなものが見られて、\nラッキーだったんだけど♪=Đối với Akari thì...\nĐược chứng kiến cảnh tượng mà ngay cả manga hài lãng mạn thời nay cũng không thấy, đúng là may mắn quá đi♪
+えへへ、\n待ってたよぉ、{playername}お兄ちゃん♪=Ehehe,\nEm đợi anh mãi đó, {playername}-oniichan♪
+シノブさんに用事があるんでしょ。\n取り次ぐよぉ、アカリたち同じギルドだから。=Anh có việc cần tìm Shinobu-san đúng không.\nĐể em dẫn đi cho, vì tụi em cùng chung guild mà.
+あぁ、わたしたちを待ってたんですね。\nたしかに{playername}くんが、\nまずは案内役と広場で落ちあう～って言ってましたっけ？=À, ra là chờ chúng ta.\nĐúng là {playername}-kun đã nói là trước tiên sẽ gặp người dẫn đường ở quảng trường nhỉ?
+あなたたちが、その案内役なんですね。\nシノブ……っていうかたが、\nわたしたちの探してる占い師さんですよね？=Hóa ra các cô bé là người dẫn đường sao.\nNgười tên Shinobu đó... chính là nhà tiên tri mà chúng ta đang tìm kiếm đúng không?
+うん。\nあのひとわりと気ままに、路地裏とかを徘徊してるからねぇ。=Ừm.\nNgười đó khá tự do, hay lảng vảng quanh mấy con hẻm nhỏ lắm.
+会おうと思っても会えない場合があるんだけど、\nアカリたちが案内すれば確実に面会が叶うから。=Đôi khi muốn gặp cũng không được,\nnhưng nếu có bọn em dẫn đường thì chắc chắn sẽ gặp được ạ.
+シノブさん、何を考えてるかわかんないところがあるけど。\nアカリたち同じギルドの仲間のことは、\nちゃんと大事に想ってくれてるみたいだし。=Shinobu-san tuy có những lúc không biết đang nghĩ gì,\nnhưng chị ấy có vẻ luôn trân trọng những người đồng đội cùng guild như tụi em.
+ふん。\n{playername}には、いつもお世話になってるしね。\n仲間への取り次ぎぐらいはするわよ、感謝してよね。=Hừm.\n{playername} cũng luôn giúp đỡ em mà.\nEm sẽ dẫn đường tới gặp đồng đội, hãy biết ơn đi nhé.
+こっちよ、ついてきて。\n自己紹介とかは、どっかで落ちついてから改めてしましょ。=Đường này, đi theo em.\nGiới thiệu bản thân hay gì đó thì để tới chỗ nào yên tĩnh rồi làm sau nhé.
+あん、ちょっと待ってぇ！\nまずはこのステキな粘液を、\nぜんぶ回収してどっかに保管したぁい♪=Chị ơi, chờ chút đã!\nTrước tiên em muốn thu thập hết chất nhờn tuyệt vời này để cất giữ đã♪
+そ、そのエッチな粘液は、\nさっさとドブにでも捨ててよ～っ！？=C-cái chất nhờn biến thái đó, mau ném vào cống ngay cho chị~!

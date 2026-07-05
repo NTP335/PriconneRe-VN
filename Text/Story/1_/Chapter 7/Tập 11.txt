@@ -1,0 +1,86 @@
+Name
+地下迷宮=Mê cung dưới lòng đất
+
+Story
+人工的につくられた魔物と戦う{playername}達。大量の魔物を突破するため、\nペコリーヌはミヤコのプリンを食べ、気合を充填。大技を放ち、見事魔物\nを撃退するのだった。={playername} cùng cả nhóm chiến đấu với lũ ma vật được tạo ra bằng phương thức nhân tạo. Để phá vỡ vòng vây của số lượng ma vật khổng lồ, Pecorine đã ăn phần pudding của Miyako để nạp lại năng lượng. Cô tung ra một chiêu thức mạnh mẽ, xuất sắc đánh bại lũ ma vật và mở đường tiến lên phía trước.
+
+むむ？\nみんな、ちょっと静かにしてほしいの……\nな～んか、変な気配がするような気がするの。=Hừm? \nMọi người, im lặng một chút nào... \nHình như em cảm thấy có luồng khí lạ.
+はい。\n何だか、嫌な感じがしますね。=Vâng.\nCảm giác chẳng lành chút nào ạ.
+足音もいたします。\n何者かが、こちらに近づいてくる……？=Có cả tiếng bước chân nữa.\nCó ai đó đang tiến về phía này...?
+魔力を感じる。\n接近してくるのは魔物じゃな、おそらくは。=Ta cảm nhận được ma lực.\nThứ đang tiến đến chắc chắn là ma vật rồi.
+ネネカは研究所を防衛するために、\n自分でつくった魔物などを各所に配置しておるからのう。=Vì để bảo vệ phòng thí nghiệm, Neneka đã tự tạo ra ma vật và bố trí chúng ở khắp nơi.
+わらわたちという侵入者に気づいて、\nそんな魔物をけしかけてきたのではなかろうか。=Chắc là nó phát hiện ra đám xâm nhập là chúng ta,\nnên mới xua đám ma vật đó ra đấy.
+たいてい問答無用で襲ってくるからのう、\nいちいち対処する必要がある。=Đám đó thường tấn công không nói một lời,\nnên chúng ta phải đối phó từng tên một thôi.
+前衛は任せて！=Tiền vệ cứ để bọn này lo!
+アカリにもお任せ～♪=Akari cũng lo được nhé~♪
+手慣れてますね……\n毎回、研究所を訪れるたびに襲われてるんですか？=Mọi người quen tay thật đấy...\nLần nào đến phòng thí nghiệm cũng bị tấn công à?
+……しかし今、\n「自分でつくった魔物」って言いましたよね？=...Nhưng mà vừa rồi,\ncô nói là "ma vật tự mình tạo ra" đúng không?
+魔物って、つくれるんでしょうか？\nう～ん、言葉のあやですかね？=Ma vật mà cũng tạo ra được sao?\nƯm... có khi đó chỉ là cách nói ví von nhỉ?
+主さま。\nわたくしの後ろにお下がりください。\nいつものように、お守りいたします。=Chủ nhân.\nXin hãy lùi lại phía sau em.\nEm sẽ bảo vệ người như mọi khi ạ.
+
+いえ、お礼など。\n主さまを守護するのが、わたくしの大事なお役目でございます。=Không, cảm ơn gì chứ.\nBảo vệ Chủ nhân là nhiệm vụ quan trọng của em mà.
+僕も戦う。=Anh cũng chiến đấu.
+ふふ。\nその気持ちは有り難く、誇らしいですが……\n適材適所でございます、ここはわたくしにお任せくださいまし。=Fufu.\nCảm kích và tự hào về tấm lòng đó, nhưng...\nPhải đúng người đúng việc chứ, ở đây cứ để em lo ạ.
+
+ペコリーヌさまも、\nその武装で戦うと消耗が激しいのでしょう……\nここは任せて、体力を温存してくださいまし。=Pecorine-sama cũng vậy,\nvới bộ vũ trang đó thì chiến đấu sẽ rất tiêu tốn thể lực...\nCứ để em lo, người hãy bảo toàn thể lực đi ạ.
+ん～、まぁ通路は狭いですし……\nこの人数だとお互いが邪魔になっちゃうので、\n引っこんでましょう。=Ưm, mà lối đi cũng chật hẹp...\nĐông người thế này đứng cản trở nhau lắm, \nthôi thì rút lui nhé.
+みんながピンチになったら、迷わず飛びだしますけどね。=Nếu mọi người gặp nguy hiểm, chị sẽ lao ra ngay không do dự đâu.
+そんなに、ほいほいピンチにはなりません……むむ？=Làm gì mà dễ dàng gặp nguy hiểm thế được... Hừm?
+あれは……魔物、でしょうか？\n見たことのない、奇怪な造形をしていますね？=Đó là... ma vật sao?\nHình thù kỳ dị chưa từng thấy nhỉ?
+はい。\nこの研究所の周囲でのみ目撃される、不可解な魔物です。=Vâng.\nĐây là loại ma vật khó hiểu, chỉ xuất hiện quanh khu vực phòng thí nghiệm này thôi.
+人工的につくられ、研究されている魔物……\n複数の魔物を合成したような見た目が、特徴です。=Là ma vật được tạo ra nhân tạo và dùng để nghiên cứu...\nĐặc trưng là ngoại hình trông giống như sự hợp thể của nhiều loài ma vật.
+あれっ？\nそんな魔物の話を、どこかで聞いたような？=Ơ?\nHình như em nghe ai đó kể về loại ma vật này ở đâu rồi thì phải?
+あっ、牧場でみんながそんな話をしてましたね。\n牧場の周りで目撃された奇妙な魔物は、\n研究所から逃亡して野生化したものだったのでしょうか？=À, mọi người ở nông trại từng nhắc đến chuyện đó.\nChẳng lẽ lũ ma vật kỳ lạ xuất hiện quanh nông trại,\nchính là những con trốn thoát khỏi phòng thí nghiệm và trở nên hoang dã sao?
+ふむ、ネネカさんは神経質なので……\n子飼いにしている魔物には、\n易々と逃亡などさせないと思いますけど。=Hừm, Neneka-san rất kỹ tính...\nNên tôi nghĩ cô ấy không đời nào để ma vật mình nuôi dễ dàng trốn thoát như thế đâu.
+何だかすこし、引っかかります。\nいつもより、出現する魔物の数がおおいですし。=Có chút gì đó lấn cấn.\nSố lượng ma vật xuất hiện nhiều hơn hẳn mọi khi.
+しかも何だか無秩序な動きをしていますね、\n互いに牙や爪を立てあったりしているような？\nまるで、共食いしてるみたいです。=Hơn nữa chúng đang hành động rất vô tổ chức,\ndường như đang dùng nanh vuốt tấn công lẫn nhau?\nCứ như là đang ăn thịt đồng loại vậy.
+うえぇ……\n嫌だなぁ、グロテスクな感じ。=Uee...\nGhê quá, trông kinh dị thật đấy.
+目を背けちゃ駄目だよぉ、お姉ちゃん？\nグロいものも、愛があればかわいく見えてくるから大丈夫♪=Đừng có ngoảnh mặt đi chứ, chị gái?\nDù là thứ kinh dị, nhưng nếu có tình yêu thì nhìn cũng đáng yêu thôi, yên tâm đi♪
+
+何の話よ？=Chuyện gì thế?
+うわっ、気づかれた！=Ối, bị phát hiện rồi!
+こんの！　近づくなぁっ……！=Đồ khốn! Đừng có lại gần đây...!
+わわっ？　=Oái?
+武器を振り回さないで～お姉ちゃん！　危ないから！=Đừng có vung vũ khí lung tung, chị gái! Nguy hiểm lắm!
+わらわたちは援護しよう、ミヤコ=Chúng ta sẽ yểm trợ cho, Miyako.
+はいなの！=Vâng ạ!
+魔物さんたち、何だかみんな苦しそうなの=Các ma vật, trông ai cũng có vẻ khổ sở quá.
+……後方からも魔物が出現！　私が対処します=...Ma vật xuất hiện cả từ phía sau! Để tôi xử lý.
+あなたは真ん中にいてください！=Cậu hãy đứng ở giữa đi!
+あはは=Ahaha.
+あなたは女の子たちに守られて、良いご身分ですね=Cậu được các cô gái bảo vệ, sướng thật đấy nhỉ.
+でもなぜかあなたが一緒にいると=Nhưng không hiểu sao khi có cậu ở cùng,
+胸の奥からパワーが湧いてくるっ♪=Năng lượng lại trào dâng từ tận sâu trong lồng ngực♪
+はい。それが主さまの、特性です=Vâng. Đó chính là đặc tính của Chủ nhân.
+味方を、パワーアップさせる……=Có thể tăng sức mạnh cho đồng đội...
+合成された魔物はかなり強いようですが、=Ma vật tổng hợp này có vẻ khá mạnh,
+主さまの補佐があれば難なく突破できるでしょう=Nhưng với sự hỗ trợ của Chủ nhân thì chúng ta sẽ vượt qua dễ dàng thôi.
+えぇい！　申し訳ありませんが、押し通ります！=Ư! Xin lỗi nhé, nhưng tôi phải đi qua đây!
+あんた道わかんないでしょ、=Em có biết đường đâu,
+私たちが先導するからついてきて！=Để bọn này dẫn đường, em theo sau đi!
+とおりゃあ！=Hyaaa!
+えぇい！=Hah!
+ふふん=Hừm.
+豪快に暴れるお姉ちゃんが取り逃がした魔物を=Ma vật mà bà chị đang quậy tưng bừng bỏ sót,
+私が始末しちゃう！=Thì để em dọn dẹp sạch sẽ!
+双子のコンビプレイを堪能してねぇ=Hãy thưởng thức màn phối hợp của cặp song sinh đi nhé.
+
+魔物を全滅させる必要はないんじゃからな、\n邪魔なやつだけ蹴散らして進むぞい。=Không cần phải tiêu diệt hết ma vật đâu,\ncứ đá bay mấy tên cản đường rồi tiến lên thôi.
+魔物は通路を埋め尽くしそうな数じゃ、\nいちいち対処してたら体力がもたんわい。=Số ma vật đông như lấp đầy lối đi thế kia,\nđối phó từng tên một là cạn kiệt thể lực đấy.
+う～……\nわらわは今は空っ穴じゃ、\nあまり手出しもできんのが歯がゆいのう。=Ư... \nTa hiện giờ đang kiệt quệ,\nkhông thể can thiệp nhiều, thật bực bội mà.
+えへへ。\n急がず焦らずなの～　もぐもぐ♪=Ehehe.\nKhông vội, không vội nè~ Nhồm nhoàm♪
+ミヤコ……\nおぬし、食べかけのプリンを持ってきたのかや？=Miyako...\nEm mang theo cả pudding ăn dở sao?
+緊張感がないですね……\n私たちは戦場でガツガツ戦うようなギルドではありませんし、\n長引けば危険です。=Chẳng có chút căng thẳng nào cả...\nGuild chúng ta không phải loại chuyên chiến đấu hung hãn trên chiến trường,\nnên kéo dài là nguy hiểm đấy.
+負傷しないよう気をつけつつ、さっさと進みましょう。=Vừa chú ý không để bị thương, vừa nhanh chóng tiến lên thôi.
+ごぉら、魔物ども！\nオレの娘に、気安く近づくんじゃねぇええ……！=Này lũ ma vật kia!\nĐừng có lại gần con gái tao một cách tùy tiện...!
+暴れないで、お父さん。=Đừng quậy nữa, cha ơi.
+混戦状態です。\nあまり派手な攻撃をすると、\n味方まで巻きこんでしまいますよ。=Đang hỗn chiến rồi.\nNếu dùng đòn tấn công quá phô trương,\ncoi chừng kéo cả đồng đội vào đấy.
+う～む。\nしかし次から次へと魔物が出現して、きりがありませんね。\nこのままでは、立ち往生でございます。=Ưm.\nNhưng ma vật cứ xuất hiện liên miên thế này, chẳng thấy hồi kết đâu cả.\nCứ thế này thì chúng ta bị kẹt cứng mất.
+ん～……\nミヤコちゃんでしたっけ、\nわたしにプリンを食べさせてください。=Ưm... \nMiyako-chan đúng không nhỉ,\ncho chị ăn pudding với.
+え？\n嫌なの、これはミヤコのプリンなの。=Hả?\nKhông chịu đâu, đây là pudding của Miyako mà.
+あはは。\nあとで死ぬほどつくってあげますから、お願いします。=Ahaha.\nLát nữa chị sẽ làm cho em ăn đến chết luôn, nên làm ơn đi mà.
+むう、約束なの。\nお化けとの約束を破ると後が怖いの、\n怨めしや～って枕元に立っちゃうの。=Hừ, hứa đấy nhé.\nPhá lời hứa với ma là đáng sợ lắm đấy,\n"Oán hận quá~" rồi đứng ở đầu giường đấy.
+仕方ないの、ちょっとだけなの。\nはい、あ～ん……♪=Không còn cách nào khác, một chút thôi đấy.\nNào, a~~n...♪
+あ～ん♪\nもぐもぐっ、よぉし気合が充填できました！=A~~n♪\nNhồm nhoàm, được rồi, năng lượng đã được nạp đầy!
+みんな、わたしの後ろに下がってください！\n大技を放って、強引に突破します！=Mọi người, lùi lại phía sau tôi đi!\nTôi sẽ tung đòn lớn để mở đường máu!
+いきますよ～っ！\nおおりゃあああ……☆=Đi đây nhé~! \nOryaaaaa...☆

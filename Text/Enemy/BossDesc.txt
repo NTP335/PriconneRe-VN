@@ -2801,3 +2801,15 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 後ろから敵４体にＴＰ上昇ダウン=Giảm chỉ số tăng TP của 4 kẻ địch ở phía sau cùng.
 
 恋の連敗街道をひた走る、自分本位な海の荒くれ者。脅威的な大口から見初めた相手への愛を囁き、恋路を邪魔する者は海の藻屑にする。=Một gã côn đồ biển cả ích kỷ, luôn chạy dài trên con đường thất bại trong tình yêu. Nó thì thầm những lời yêu thương với đối phương mà nó phải lòng bằng cái miệng khổng lồ đầy đe dọa, và biến bất cứ kẻ nào cản đường tình duyên của mình thành rác rưởi dưới đáy biển.
+
+
+前から３番目の敵を中心に物理攻撃力／魔法攻撃力／物理防御力ダウンフィールド=Triển khai một vùng giảm sức tấn công vật lý / tấn công phép thuật / phòng thủ vật lý, lấy kẻ địch thứ 3 từ phía trước làm trung tâm.
+前から３番目の敵と周囲にバリア解除=Giải trừ lá chắn của kẻ địch thứ 3 từ phía trước và các kẻ địch xung quanh.
+
+前から敵３体に魔法防御力ダウン（召喚体無視・必中）=Giảm phòng thủ phép thuật của 3 kẻ địch đứng đầu (bỏ qua vật triệu hồi, tấn công tất trúng).
+与えた総ダメージが高いほど：ＨＰダウン量上昇=Tổng sát thương gây ra càng cao: lượng HP bị giảm càng lớn.
+自身の魔法攻撃力が高いほど：カット量アップ=Sức tấn công phép thuật của bản thân càng cao: lượng cắt giảm sát thương càng tăng.
+バトル開始時、すべてのモンスターの魔法防御力をアップさせる。この効果は魔法防御力ダウンの影響を受けない。=Khi bắt đầu trận đấu, tăng phòng thủ phép thuật cho tất cả quái vật. Hiệu ứng này không bị ảnh hưởng bởi các hiệu ứng giảm phòng thủ phép thuật.
+バトル開始時、すべてのモンスターの物理防御力をアップさせる。この効果は物理防御力ダウンの影響を受けない。=Khi bắt đầu trận đấu, tăng phòng thủ vật lý cho tất cả quái vật. Hiệu ứng này không bị ảnh hưởng bởi các hiệu ứng giảm phòng thủ vật lý.
+バトル開始時、すべてのキャラのＴＰ上昇をダウンさせる。=Khi bắt đầu trận đấu, giảm chỉ số TP Boost của tất cả nhân vật.
+バトル開始時、すべてのキャラのＨＰ吸収をダウンさせる。=Khi bắt đầu trận đấu, giảm chỉ số Hút HP của tất cả nhân vật.

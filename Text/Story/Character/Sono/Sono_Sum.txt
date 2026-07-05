@@ -1,0 +1,7 @@
+一人で錬金堂を切り盛りすることになったソノを手伝う{playername}。子どもの姿ながらしっかりと店を切り盛りするソノは{playername}の働きぶりに特製のコーヒーを淹れて労うのだった。={playername} giúp đỡ Sono, người vốn phải tự mình chèo lái Tiệm giả kim Alces. Dù đang trong hình hài trẻ con, Sono vẫn quản lý cửa tiệm một cách vô cùng tháo vát, và để ghi nhận sự chăm chỉ của {playername}, cô đã tự tay pha một tách cà phê đặc biệt để mời anh.
+
+{playername}に保護者として付き添ってもらい、子どものフリをして『わんぱくこどもフェス』に出場したソノ。過酷な競技に翻弄されながらも、イロハの景品を獲得すべく、ソノは大人の意地を見せた。=Với {playername} đi cùng trong vai trò người giám hộ, Sono giả làm trẻ con để tham gia "Lễ hội trẻ thơ nghịch ngợm". Dù bị quay như chong chóng bởi những cuộc thi khắc nghiệt, nhưng vì muốn giành lấy phần thưởng cho Iroha, Sono đã thể hiện ý chí của một người trưởng thành.
+
+地元の友達の結婚式に参列することになったソノ。付き添ってくれた{playername}の優しい笑顔にかすかに心揺れる。しかしソノは、子どもの体では恋もできないと少し寂しさを覚えるのであった。=Sono phải tham dự lễ cưới của một người bạn ở quê nhà. Nụ cười dịu dàng của {playername} khi đi cùng khiến trái tim cô khẽ rung động. Tuy nhiên, Sono lại cảm thấy thoáng chút cô đơn khi nghĩ rằng trong cơ thể trẻ con này, cô không thể thực sự theo đuổi tình yêu.
+
+市役所職員の苑は、図書館のイベント準備で{playername}と出会う。描いた絵を褒められるもプロへの夢を諦めた苑だが、それでも描き続けていたことを指摘され、熱い気持ちを思い出すのであった。=Sono, một nhân viên tòa thị chính, gặp {playername} khi đang chuẩn bị sự kiện cho thư viện. Dù được khen ngợi về những bức tranh đã vẽ, Sono thổ lộ rằng cô đã từ bỏ giấc mơ trở thành họa sĩ chuyên nghiệp. Thế nhưng, khi được {playername} chỉ ra rằng cô vẫn chưa bao giờ ngừng vẽ, ngọn lửa đam mê ngày nào trong cô bắt đầu bùng cháy trở lại.

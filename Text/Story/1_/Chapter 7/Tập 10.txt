@@ -1,0 +1,83 @@
+{playername}に触れ、大人になったイリヤの力で、ネネカの研究所に繋がる地\n下遺跡へと転移する面々。ネネカを探すため行動を起こし始める。=Nhờ vào sức mạnh của Illya khi ở hình dạng người lớn sau khi tiếp xúc với {playername}, cả nhóm đã dịch chuyển thành công đến di tích ngầm dẫn tới phòng thí nghiệm của Neneka. Giờ đây, họ bắt đầu hành động để tìm kiếm tung tích của Neneka.
+
+それでは、転移魔方陣を起動させるぞい。=Vậy thì, ta sẽ khởi động ma pháp trận dịch chuyển đây.
+わくわく♪\n今回はどこに行くの？\n全国民の主食がプリンの、夢のプリン王国とかを希望するの！=Háo hức quá♪\nLần này chúng ta đi đâu vậy?\nMiyako hy vọng là đến vương quốc pudding trong mơ, nơi mà món chính của toàn dân là pudding!
+そんな国は地上に存在せんよ。\nじゃれつかないでおくれ、良い子じゃから……=Trên đời này làm gì có vương quốc nào như thế.\nĐừng có nhõng nhẽo nữa, ngoan đi nào...
+転移魔法は扱いが至難な高等魔法じゃ、\n使用には細心の注意を払わんといかん。=Ma pháp dịch chuyển là một loại ma pháp cấp cao rất khó sử dụng,\nnên cần phải hết sức cẩn thận khi thi triển.
+この城に設置しておったこれは、\n全盛時のわらわでも起動には難渋したのじゃぞ。=Cái ma pháp trận ta đặt trong lâu đài này,\nngay cả khi ta ở thời kỳ đỉnh cao cũng phải vất vả lắm mới khởi động được đấy.
+わずかでもバランスを崩せば、\n空間の隙間で永遠に迷子になってしまうんじゃ。=Chỉ cần mất cân bằng dù chỉ một chút thôi,\nlà sẽ bị lạc mãi mãi trong kẽ hở không gian đấy.
+じゃあ万全を期して、\nイリヤさんは大人になったほうがいいんじゃない？=Vậy để đảm bảo an toàn,\nIllya-san không phải nên trở lại hình dáng người lớn sao?
+うんうん。\nアダルトな行為だもんね。=Đúng đúng.\nVì đây là hành động của người lớn mà.
+ほら{playername}お兄ちゃん、\nイリヤさんに抱きついて！\nソフトタッチしてぇ……♪=Nào {playername}-oniichan,\nanh ôm Illya-san đi!\nChạm nhẹ nhàng thôi nhé...♪
+大人しくしていましょう、皆さん。\nイリヤさんの集中を、阻害してはいけません。=Mọi người giữ yên lặng đi nào.\nKhông được làm xao nhãng sự tập trung của Illya-san đâu.
+というか……\n皆さんも、同伴されるのですか？=Mà này...\nMọi người cũng đi cùng sao ạ?
+この人数ですと……\n魔方陣のなかで押しくら饅頭をすることになって、\nやや窮屈でございます。=Với số người này...\nChúng ta sẽ phải chen chúc trong ma pháp trận,\ncó chút chật chội đấy ạ.
+
+ちょっと息苦しいね。=Hơi khó thở nhỉ.
+はい。\nあと、どうしても密着することになるので……\n皆さんの体温で、蒸し焼きになりそうです。=Vâng ạ.\nNgoài ra, vì kiểu gì cũng phải đứng sát vào nhau...\nnên thân nhiệt của mọi người có khi làm chúng ta "chín nhừ" mất thôi.
+抱っこしようか？=Anh bế em nhé?
+えっ……　いえ、その必要はございません。\nぎりぎりですが、立つスペースがないほどではありませんから。=Ể... không, không cần đâu ạ.\nDù hơi chật tí nhưng vẫn còn đủ chỗ để đứng mà.
+
+ふふ。\n大人数で押しかけるのも、迷惑かもしれませんけどね。=Fufu.\nĐột ngột kéo đông người đến thế này có khi lại làm phiền họ ấy nhỉ.
+ネネカさんと面識があるのは、私たちだけのようですから\n取り次ぎますよ。\nもちろん、ご迷惑でなければ。=Vì hình như chỉ có chúng ta là quen biết Neneka-san thôi,\nnên tôi sẽ là người giới thiệu.\nTất nhiên, nếu không làm phiền người đó.
+彼女、かなり警戒心が強いので……\n{playername}さんたちだけで行っても会えないか、\n下手すれば侵入者とまちがわれて攻撃されますから。=Cô ấy cực kỳ cảnh giác...\nNên nếu {playername}-san tự đi thì chưa chắc đã gặp được,\nkhông khéo lại bị hiểu lầm là kẻ xâm nhập và bị tấn công đấy.
+
+偏屈じゃからのう、あれは=Cô ta lập dị lắm.
+わらわが言う事でもないが…？=Dù ta không có tư cách để nói điều đó...?
+ひゃ、ひゃん！？=Á, á á!?
+これお主、もっと優しく撫でるがよい！=Này nhóc, phải vuốt ve nhẹ nhàng hơn chứ!
+う～…=Hừm...
+と、とりあえず大人の姿になったぞい=T-tạm thời thì ta đã trở lại hình dáng người lớn rồi đây.
+
+{playername}とのスキンシップ以外に、\nこの姿に戻れる方法はないもんかのう。\n毎回、何だか無駄にドキドキしてしまうわい。=Ngoài tiếp xúc thân mật với {playername} ra,\nchẳng lẽ không còn cách nào khác để trở lại hình dáng này sao?\nLần nào cũng vậy, tim ta cứ đập thình thịch chẳng hiểu sao nữa.
+ずる～い。\nアカリもお兄ちゃんに抱きつかないと呼吸困難になる、\nとかの設定が欲しかったなぁ♪=Ăn gian quá.\nAkari cũng muốn có thiết lập kiểu "nếu không được ôm anh trai thì sẽ khó thở" cơ♪
+設定って。\nいちおう異性なんだから、あんたはもっと警戒しなさいよ。=Thiết lập cái gì chứ.\nDù sao cũng là khác giới, em phải cảnh giác hơn đi.
+お姉ちゃんは警戒しすぎ～\n{playername}さんって鈍感なんだから、\n好きならもっとガンガンいかないと気づいてもらえないよぉ？=Chị gái quá là cảnh giác đấy~\n{playername}-san thì vô tư lắm,\nnên nếu thích thì phải tấn công tới tấp thì anh ấy mới biết được chứ?
+すすす、好きとかじゃないし！\n……わわっ、魔方陣が光り始めたっ！？=K-k-không có chuyện thích hay không thích ở đây! \n...Á á, ma pháp trận bắt đầu phát sáng kìa!?
+うむ、準備万端じゃ。\n行き先はネネカの研究所で、まちがいないんじゃな？=Ừm, chuẩn bị xong xuôi cả rồi.\nĐích đến là phòng thí nghiệm của Neneka, không nhầm chứ?
+研究所そのものは、\n魔法への防衛策が張り巡らされておるから……=Bản thân phòng thí nghiệm đó,\nđã được bao phủ bởi các lớp ma pháp phòng thủ rồi nên...
+転移魔法では辿りつけんし、\nとりあえずその近辺までジャンプするぞい。=Ta không thể dùng ma pháp dịch chuyển đến thẳng đó được,\nnên tạm thời cứ nhảy đến khu vực lân cận thôi.
+よろしくお願いしま～す。\nいやぁ、何だかワクワクしちゃいますね。=Nhờ cô nhé.\nChà, tự nhiên thấy háo hức quá đi.
+気を引き締めましょう。\n相手は正体不明の、『七冠』とやらですし。=Mọi người tập trung cao độ nhé.\nĐối thủ là kẻ bí ẩn mang danh "Thất Quán" đấy.
+……主さま。\nわたくしの傍から、離れないでくださいね。=...Chủ nhân.\nXin đừng rời xa em nhé.
+
+うむ。では転移魔法を発動するぞいっ=Ừm. Vậy thì ta thi triển ma pháp dịch chuyển đây!
+ファネッタ・ツァンゲールア！=Fanetta Zangellah!
+いざ征かん、謎の不思議の渦巻く因果の胎内へ…☆=Nào, cùng tiến vào vòng xoáy của những bí ẩn và kỳ lạ trong lòng nhân quả...☆
+おわっとぉ！？=Ôi trời!?
+ひゃわわ？=Á á?
+て、転移できたのでしょうか？　なぜ空中に！？=C-chúng ta đã dịch chuyển xong chưa ạ? Sao lại ở trên không trung thế này!?
+あっ、着地には気を付けて！=A, chú ý lúc hạ cánh nhé!
+いきなり怪我したくないでしょ？=Không ai muốn vừa đến đã bị thương đúng không?
+シノブ！あの胸にたわわに実ったお肉に押し潰されたいっ！=Shinobu ơi! Ta muốn được đè bẹp bởi bộ ngực đầy đặn đó!
+俺はそのために生まれてきたんだ！=Đó là lý do ta được sinh ra trên đời!
+あの金髪の、おっぱいちゃんの真下へ滑りこんでくれ！=Hãy trượt xuống ngay bên dưới cô nàng tóc vàng có bộ ngực khủng đó đi!
+そればっかりですね、お父さん=Cha chỉ toàn nghĩ về mấy chuyện đó thôi.
+未練が解消されてしまうと成仏してしまう可能性が=Nếu những luyến tiếc bị xóa bỏ thì có khả năng sẽ siêu thoát mất.
+うわぁい！　事故を装ってお兄ちゃんにダ～イブ♪=Woaaa! Giả vờ tai nạn để lao vào anh trai thôi♪
+わひゃぁっ！？=Whoa!?
+ちょっ、あんた！　私の真上から落ちてこないでっ！=Này, anh kia! Đừng có rơi từ trên đầu tôi xuống như thế!
+何でこういう時無意味に私の方に来るのよ～！？=Sao lúc nào cũng vô duyên vô cớ lao vào mình thế hả!?
+わーっ！=Woaa!
+う…うう…=Ư... ư...
+うへぇ…=Uhee...
+あっは～♪=Ahaha~♪
+
+混沌としておるのう……=Hỗn loạn thật đấy...
+ミヤコ、大丈夫かや？\nおぬしは幽霊じゃからのう、魔力の影響を受けやすい。=Miyako, em có sao không?\nVì em là linh hồn nên rất dễ bị ảnh hưởng bởi ma lực.
+肉をもつ生き物とちがって、魔力などに対して無防備なんじゃ。\n転移魔法の影響で、霊体に不調などはないかや？=Khác với sinh vật có xác thịt, linh hồn rất khó phòng bị trước ma lực.\nẢnh hưởng của ma pháp dịch chuyển có làm linh hồn em thấy bất ổn không?
+大丈夫なの～\nミヤコは強い子なの。=Em ổn mà~\nMiyako là đứa trẻ mạnh mẽ đấy.
+えへへ。\nさっきプリンをたらふく食べたから、元気いっぱいなの♪=Ehehe.\nVì lúc nãy em đã ăn no pudding rồi, nên giờ đang tràn đầy năng lượng đây♪
+イリヤこそ、また子供みたいになってるの。\nその姿だとほとんど戦えないの、ミヤコが守ってあげるの♪=Illya mới là người lại trở thành bộ dạng trẻ con kìa.\nDáng vẻ đó thì gần như không chiến đấu được, Miyako sẽ bảo vệ cho chị♪
+うう。\n転移魔法を起動させる際に魔力を消耗したからのう、\nしおしおのぱぁ……って感じじゃわい。=Ư... \nVì tiêu tốn ma lực lúc kích hoạt ma pháp dịch chuyển,\nnên ta thấy kiệt quệ hết cả người đây...
+ふむ……\nとりあえず全員、空間転移に成功したようですね。=Hừm...\nTạm thời thì mọi người đều đã dịch chuyển không gian thành công rồi nhỉ.
+はい、どうにかこうにか。\nお疲れさまでした～、一安心ですね♪=Vâng, dù sao thì cũng xong rồi.\nMọi người vất vả rồi, tạm thời nhẹ nhõm rồi nhé♪
+えっと。\nここが例の、ネネカさんとやらの研究所なんですか？=À...\nĐây có phải là phòng thí nghiệm của Neneka-san mà mọi người nói không ạ?
+正確には、研究所に繋がる地下遺跡じゃ。\nここから定められた順路を通ることで、\nようやくネネカの研究所に辿りつける。=Chính xác thì đây là di tích ngầm dẫn đến phòng thí nghiệm.\nTừ đây, đi theo lộ trình được định sẵn,\nmới có thể đến được phòng thí nghiệm của Neneka.
+あやつの研究所そのものも、地下にある。\n地上は天然の要害たる山脈での、まぁ滅多に誰も通らんよ。\n魔物なんかが、うようよ徘徊しておるしのう。=Phòng thí nghiệm của ả cũng nằm dưới lòng đất.\nTrên mặt đất là dãy núi hiểm trở tự nhiên, chẳng có mấy ai qua lại đâu.\nLũ quái vật thì cứ lang thang nhan nhản ở đó đấy.
+警備は厳重、って感じですね。\nネネカさんとやらは、どうしてそんな人里離れた山奥の……\nさらに地下なんかに、隠れ潜んでいるんでしょう？=Cảm giác như an ninh rất nghiêm ngặt nhỉ.\nTại sao Neneka-san lại phải ẩn náu ở nơi thâm sơn cùng cốc...\nlại còn dưới lòng đất như thế chứ?
+もしかして、重大な禁忌をおかした犯罪者とかで……\nだからこそ公権力の手が及ばない、\n秘密の隠れ家で研究をしているとか？=Liệu có phải cô ấy là tội phạm vi phạm điều cấm kỵ nghiêm trọng nào đó...\nnên mới đang thực hiện nghiên cứu tại nơi ẩn náu bí mật ngoài tầm kiểm soát của chính quyền không nhỉ?
+かもしれません。\n子細は不明ですけど。=Có thể lắm.\nDù chi tiết cụ thể thì tôi không rõ.
+私たちも、お腹を探られると痛む身の上ですし。\nお互いの素性などについては聞かないのが、暗黙の了解でした。=Chúng tôi cũng là những người có những bí mật không muốn người khác đào bới.\nNên ngầm hiểu với nhau là không hỏi về thân thế của đối phương.
+ふぅむ、裏社会のコミュニティって感じ……\nそんな暗がりに潜む、怪しげなひとと接触できるのは僥倖ですね。=Hừm, cảm giác như một cộng đồng thế giới ngầm ấy nhỉ...\nThật may mắn khi có thể tiếp cận được người bí ẩn đang ẩn náu trong bóng tối như thế.
+普通に探しても、\nまず見つからなかったでしょう。=Bình thường nếu tìm thì,\nchắc chắn sẽ không bao giờ thấy được đâu nhỉ.
