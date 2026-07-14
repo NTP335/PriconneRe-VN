@@ -557,7 +557,7 @@
 い、いったい何を言ってやがる！=C-Cậu đang nói cái quái gì vậy!
 ツムギちゃんだいじょうぶー？=Tsumugi, cậu ổn chứ?
 オレサマたちも手伝うぜー！=Chúng tôi cũng sẽ giúp, cô Rei!
-あっ、ちょっと！　出てこないでくださいよ！\n雰囲気ぶち壊しじゃないですか！=Khoan đã! Đừng ra ngoài! Cậu đang phá bầu không khí!
+あっ、ちょっと！　出てこないでくださいよ！\n雰囲気ぶち壊しじゃないですか！　=Khoan đã! Đừng ra ngoài! Cậu đang phá bầu không khí!
 で、出たーーーー！！=Và, tôi đây!!!
 ……なんか逃げてくれましたね。\nそれならこの勢いを利用して追い払っちゃいましょう。=...Có vẻ như chúng đã chạy rồi.\nVậy thì, hãy tận dụng đà này để đuổi chúng đi.
 あーあ、お仲間さん逃げちゃいましたね。\nそれじゃあ、あなただけでも……=Ôi không, bạn đồng hành của cô đã trốn rồi, hả?\nVậy thì, chỉ mình cô...

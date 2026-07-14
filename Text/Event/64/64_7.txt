@@ -73,7 +73,7 @@
 『……離れるのが、寂しい？』="......Có buồn không khi chia tay?"
 『彼を、自分だけのものに……したい……？』="Tớ muốn cậu ấy... chỉ là của tớ...?"
 『──この教育日誌は第一級機密とする』="──Nhật ký giáo dục này được phân loại tuyệt mật."
-明かせる道理がないでしょう……？=Cậu không có lý do để tiết lộ nó, phải không...?
+明かせる道理がないでしょう……？　=Cậu không có lý do để tiết lộ nó, phải không...?
 あんなにも、\n貴方に心をかき乱されている少女が、大勢いるというのに。=Có rất nhiều cô gái bị cậu làm phiền.
 世界は……=Thế giới là...
 もう十分に混沌だというのに。=Đã đủ hỗn loạn rồi.

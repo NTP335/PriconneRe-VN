@@ -97,14 +97,14 @@
 それか、どこかに元に戻る道が！\n探さなくちゃ。ねえ、あんたも一緒に探してよ。\n急がないと！=Hoặc có lẽ có cách quay trở lại đâu đó!\nChúng ta phải tìm ra nó! Cậu cũng phải giúp mình tìm, nhanh lên!
 サレンちゃん、落ち着いて。=Saren-chan, xin hãy bình tĩnh.
 ……っ、ごめんなさい。\nこういう時こそ、落ち着かなきゃダメよね。\nだけど、みんなと合流する手がかりが全くないのよ……=...Xin lỗi, trong hoàn cảnh thế này mình cần phải bình tĩnh trước.\nNhưng mình không biết làm sao để gặp lại những người khác...
-どうしたらいいの？\n諦めるな、思考を放棄するな、あたし……！=Mình nên làm gì đây? Đừng bỏ cuộc, đừng bỏ cuộc cố gắng tìm cách...!
+どうしたらいいの？\n諦めるな、思考を放棄するな、あたし……！　=Mình nên làm gì đây? Đừng bỏ cuộc, đừng bỏ cuộc cố gắng tìm cách...!
 早くどうにかしないと、このままじゃ──=Nếu mình không làm gì sớm, cứ tiếp tục thế này──
 はぁ、はぁ……\n魔物が、次から次へと襲ってきて……\n洞窟の中で反響するから、歌で眠らせることもできない……！=Haa, haa... Quái vật tấn công liên tục...\nMình thậm chí không thể làm chúng ngủ bằng những bài hát vì nó vang vọng bên trong hang này...!
 さすがに……ちょっと、キツくなってきたわね……！=Thật sự... Khó khăn hơn mình tưởng...!
 ふぅっ……もう泣き言かい？\nなら、アタシに任せて……休んでなっ！=Phew... Cô định than phiền rồi à?\nVậy thì để tôi lo hết... và cô cứ nghỉ ngơi đi!
 誰か、助けて────=Có ai đó, giúp tôi────
 サレンおねえちゃんの心の声……\nそれが、願い事なら──=Đó là giọng của Saren-neechan... Nếu đó là ước nguyện của cô ấy, thì───
-誰か、この遺跡にいるみなさんを助けられる人を……！=Bất kỳ ai có thể giúp đỡ trong cổ tích này...!
+誰か、この遺跡にいるみなさんを助けられる人を……！　=Bất kỳ ai có thể giúp đỡ trong cổ tích này...!
 ……えいっ！！=...Hyahh!!
 ねえあんた、その角の先、気を付けて。誰かいるわ！=Cẩn thận! Có ai đó ở góc kia!
 剣を構えて警戒する。=Rút kiếm ra và phòng thủ đi.
@@ -175,4 +175,3 @@
 わぁ……おにいさんが大変なことに……=Oa... Anh trai gặp chuyện rồi.
 やれやれ、乙女心というものは複雑ですね。=Trái tim con gái thật phức tạp.
 照り付ける太陽の下、冷たい水を思いっきり浴びながら\nなぜ怒られているのかがわからず、\n戸惑う{playername}なのだった。=Dưới ánh mặt trời chói chang, {playername} bối rối không hiểu sao mọi người lại tức giận khi mình đang bị nước lạnh tạt.
-

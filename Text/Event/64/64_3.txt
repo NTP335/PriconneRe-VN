@@ -142,8 +142,8 @@
 あ、そうなんだ。=Ồ, vậy sao.
 でもっ……捨てた。\nだ、だからっ……ええと……その……！=Nhưng... tôi đã ném nó đi. N-nhưng... ừm... cái đó...!
 こんにちは～\nマコトちゃ～ん、いる？=Xin chào~ Makoto-chan~\n cậu có ở đó không?
-え、足止め！？　私が行くの！？=Ừm, cô ấy làm phiền!? Mình phải đi rồi!?
-話題はなんでもいいんです！　さぁ早く！=Chủ đề không quan trọng! Nhanh lên!
+え、足止め！？　私が行くの！？　=Ừm, cô ấy làm phiền!? Mình phải đi rồi!?
+話題はなんでもいいんです！　さぁ早く！　=Chủ đề không quan trọng! Nhanh lên!
 こ、こんにちは～\nお姉さん、突然だけど、ソ、ソフトドリンク占いやらない？\n──って！　あなたは……ユイさん？　【トゥインクルウィッシュ】の！=Ừm, chào~ cô gái, đột ngột thôi, nhưng cô có muốn thử xem bói bằng nước ngọt không?──Gì! Cô là... Yui-san? Từ Twinkle Wish!
 こ、こんにちは。\nソフトドリンク占い……？=Ừm, chào.\nXem bói bằng nước ngọt...?
 そ、そそそそうそう。なにか、悩んでること、ないかしら？\n好きなソフトドリンクを一つ挙げてもらえたら、\nそこそこややなんとなく、占えるとか占えないとか……まぁそんな感じ。=Đ-Đ-Đúng vậy. Có chuyện gì khiến cô bận tâm không? Nếu cô cho tôi một loại nước ngọt yêu thích, tôi sẽ có thể bói hoặc gì đó... À, đại loại vậy.
@@ -152,8 +152,8 @@
 あ～……なるほど……\n人に言えないことも……=À... tôi hiểu rồi... Ngay cả những điều cô không thể nói với người khác...
 はい。\nお互いに、なんでも話せる大親友なんです♪=Vâng. Chúng tôi là bạn thân có thể nói về mọi thứ♪
 ………………うん、そっか！=............Ừ, tôi hiểu rồi!
-ごめん引き留め大失敗！\nこれ以上は無理よ～！=Xin lỗi vì để cậu đợi! Thất bại lớn! Em không chịu được nữa~!
-これまで、ですか……！=Vậy là thế à...?
+ごめん引き留め大失敗！\nこれ以上は無理よ～！　=Xin lỗi vì để cậu đợi! Thất bại lớn! Em không chịu được nữa~!
+これまで、ですか……！　=Vậy là thế à...?
 きゃ、客も来たことだし、おまえはそろそろ帰れ。\n悪いな、わざわざ届けてもらって。=Này, có khách ở đây rồi, cậu nên về sớm đi. Xin lỗi vì để cậu chuyển món này.
 何か言いかけてなかった？=Cậu không muốn nói gì sao?
 …………いや、なにも。=.........Không, không có gì.
@@ -226,12 +226,12 @@
 ええ。これまでの流れからして……=Vâng. Dựa trên tình huống trước đó...
 これ、手紙なんだ……\nおまえに……宛てた。=Đây là một lá thư... dành cho cô...\ngửi đến cô.
 こんにちは～\nマコトちゃ～ん、いる？=Xin chào~ Makoto-chan~\n cậu có ở đó không?
-え、足止め！？　私が行くの！？=Ừm, cô ấy làm phiền!? Mình phải đi rồi!?
+え、足止め！？　私が行くの！？　=Ừm, cô ấy làm phiền!? Mình phải đi rồi!?
 こ、こんにちは～\nお姉さん、突然だけど、ソ、ソフトドリンク占いやらない？\n──って！　あなたは……ユイさん？　【トゥインクルウィッシュ】の！=Ừm, chào~ cô gái, đột ngột thôi, nhưng cô có muốn thử xem bói bằng nước ngọt không?──Gì! Cô là... Yui-san? Từ Twinkle Wish!
 こ、こんにちは。\nソフトドリンク占い……？=Ừm, chào.\nXem bói bằng nước ngọt...?
 そ、そそそそうそう。なにか、悩んでること、ないかしら？\n好きなソフトドリンクを一つ挙げてもらえたら、\nそこそこややなんとなく、占えるとか占えないとか……まぁそんな感じ。=Đ-Đ-Đúng vậy. Có chuyện gì khiến cô bận tâm không? Nếu cô cho tôi một loại nước ngọt yêu thích, tôi sẽ có thể bói hoặc gì đó... À, đại loại vậy.
 Yes.\nお互いに、なんでも話せる大親友なんです♪=Vâng. Chúng tôi là bạn thân, có thể nói về mọi chuyện♪
-ごめん引き留め大失敗！\nこれ以上は無理よ～！=Xin lỗi vì để cậu đợi! Thất bại lớn! Em không chịu được nữa~!
+ごめん引き留め大失敗！\nこれ以上は無理よ～！　=Xin lỗi vì để cậu đợi! Thất bại lớn! Em không chịu được nữa~!
 きゃ、客も来たことだし、おまえはそろそろ帰れ。\n悪いな、わざわざ届けてもらって。=Này, có khách ở đây rồi, cậu nên về sớm đi. Xin lỗi vì để cậu chuyển món này.
 …………いや、なにも。=.........Không, không có gì.
 This is……大量の麦しゅわの空き瓶！？\nみんな用心して！　この辺に恐ろしいウワバミが潜んでるわ！\n………………ごめんなさい私です……=Đây là... nhiều chai lúa mạch rỗng!? Mọi người cẩn thận! Có một con quái vật háu ăn đang ẩn nấp quanh đây!\n............Xin lỗi, là em...

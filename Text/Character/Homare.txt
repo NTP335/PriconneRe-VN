@@ -16,25 +16,32 @@
 
 ##UB##
 ドラゴンズドゥーム=Dragon's Doom
-最も魔法攻撃力が高い敵１キャラが龍眼状態だった場合に魔法特大ダメージを与え、魔法防御力を中ダウンさせる。さらに敵全体に魔法中ダメージを与える。=Gây sát thương ma thuật (M.DMG) lớn và giảm trung bình M.DEF của kẻ địch có M.ATK cao nhất đang bị ảnh hưởng bởi Dragon's Eyes, đồng thời gây sát thương ma thuật (M.DMG) trung bình lên tất cả kẻ địch.
-r:"^対象が龍眼状態だった場合(\d+)の魔法ダメージ龍眼状態の敵の魔法防御力を(\d+)ダウン敵全体に(\d+)の魔法ダメージ$"=►Gây $3 M.DMG lên tất cả kẻ địch.\n\nNếu kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes:\n►Gây $1 M.DMG lên kẻ địch.\n►Giảm M.DEF của kẻ địch $2 trong 18s.
+敵全体に魔法中ダメージを与える。最も魔法攻撃力が高い敵が龍眼状態の場合、その敵に魔法特大ダメージを与え、魔法防御力を中ダウンさせる。=Gây sát thương phép trung bình lên toàn bộ kẻ địch. Nếu kẻ địch có chỉ số tấn công phép cao nhất đang ở trạng thái Long Nhãn, gây sát thương phép cực đại lên kẻ địch đó và giảm vừa phòng thủ phép của chúng.
+r:"^龍眼状態の敵に(\d+)の魔法ダメージ龍眼状態の敵の魔法防御力を(\d+)ダウン敵全体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch đang ở trạng thái Long Nhãn.\n►Giảm $2 phòng thủ phép của kẻ địch đang ở trạng thái Long Nhãn trong 18s.\n►Gây $3 sát thương phép lên toàn bộ kẻ địch.
 
 ##S1##
 マインドクラック=Mind crack
-龍眼状態の敵すべての魔法防御力を中ダウンさせる。龍眼状態の敵がいない場合、最も魔法攻撃力が高い敵１キャラを龍眼状態にし、さらに魔法攻撃を受けた際のダメージを小アップさせる。=Giảm trung bình M.DEF của tất cả kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes.\nNếu không có kẻ địch nào bị ảnh hưởng bởi Dragon's Eyes, áp dụng Dragon's Eyes lên kẻ địch có M.ATK cao nhất.
-r:"^龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態中、その敵が受ける魔法ダメージを12％アップ$"=Thời gian niệm: 1.09s\n►Giảm M.DEF của kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes $1 trong 12s.\n►Nếu không có kẻ địch nào bị ảnh hưởng bởi Dragon's Eyes: áp dụng Dragon's Eyes lên kẻ địch có M.ATK cao nhất.\n\n►Dragon's Eyes: tăng sát thương ma thuật (M.DMG) nhận vào 12%.
+龍眼状態の敵の魔法防御力を中ダウンさせる。龍眼状態の敵がいない場合、最も魔法攻撃力が高い敵を龍眼状態にし、受ける魔法ダメージを小アップさせる。=Giảm vừa phòng thủ phép của kẻ địch đang ở trạng thái Long Nhãn. Nếu không có kẻ địch nào ở trạng thái Long Nhãn, khiến kẻ địch có chỉ số tấn công phép cao nhất rơi vào trạng thái Long Nhãn và tăng nhẹ sát thương phép mà kẻ địch đó phải chịu.
+r:"^龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態の敵がいない場合、最も魔法攻撃力が高い敵を龍眼状態にし、受ける魔法ダメージを12％アップ$"=►Giảm $1 phòng thủ phép của kẻ địch đang ở trạng thái Long Nhãn trong 12s.\n\nNếu không có kẻ địch nào ở trạng thái Long Nhãn:\n►Gây trạng thái [Long Nhãn] lên kẻ địch có chỉ số tấn công phép cao nhất và tăng 12％ sát thương phép phải chịu trong 180s.
 
 ##S2##
 エクスプロイトフレイム=Exploit Flame
-龍眼状態の敵すべてに魔法中ダメージを与え、魔法防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに自分のＴＰを小回復する。=Gây sát thương ma thuật (M.DMG) trung bình lên tất cả kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes, giảm nhẹ M.DEF và tăng nhẹ M.CRIT DMG. Ngoài ra, hồi một lượng nhỏ TP cho bản thân.
-r:"^龍眼状態の敵に(\d+)の魔法ダメージ龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態の敵がクリティカルを受けた際のダメージを10％アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.09s\n►Hồi TP cho bản thân $3.\n\nNếu kẻ địch đang bị ảnh hưởng bởi Dragon's Eyes:\n►Gây $1 M.DMG lên kẻ địch.\n►Giảm M.DEF của kẻ địch $2 trong 12s.\n►Tăng sát thương chí mạng ma thuật (M.CRIT DMG) mà kẻ địch nhận vào 10% trong 12s.
+龍眼状態の敵に魔法中ダメージを与え、魔法防御力を小ダウン、受けるクリティカルダメージを小アップさせる。自分のＴＰを小回復する。=Gây sát thương phép trung bình lên kẻ địch ở trạng thái Long Nhãn, giảm nhẹ phòng thủ phép và tăng nhẹ sát thương chí mạng phải chịu của chúng. Hồi phục một lượng nhỏ TP cho bản thân.
+r:"^龍眼状態の敵に(\d+)の魔法ダメージ龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態の敵の被クリダメを10％アップ自分のＴＰを180回復$"=►Gây $1 sát thương phép lên kẻ địch ở trạng thái Long Nhãn.\n►Giảm $2 phòng thủ phép của kẻ địch ở trạng thái Long Nhãn trong 12s.\n►Tăng 10％ sát thương chí mạng mà kẻ địch ở trạng thái Long Nhãn phải chịu trong 12s.\n►Hồi 180 TP cho bản thân.
 
 ##SP1##
-龍眼=Mắt Rồng
-このスキルのスキルレベルは「ドラゴンズ\nドゥーム」と連動しています=Cấp độ kỹ năng này liên kết với "Số Phận Rồng"
-最も魔法攻撃力が高い敵１キャラを龍眼状態にし、さらに魔法攻撃を受けた際のダメージを小アップさせる。=Gây hiệu ứng Mắt Rồng lên kẻ địch có M.ATK hiện tại cao nhất.
-龍眼状態中、その敵が受ける魔法ダメージを12％アップ=Thời gian niệm: 0.93s\n►Đánh dấu kẻ địch với trạng thái Mắt Rồng trong 180s.\n►Mắt Rồng: tăng sát thương phép nhận lên 12%.
+龍眼=Long Nhãn
+最も魔法攻撃力が高い敵を龍眼状態にし、受ける魔法ダメージを小アップさせる。=Khiến kẻ địch có chỉ số tấn công phép cao nhất rơi vào trạng thái Long Nhãn và tăng nhẹ sát thương phép mà kẻ địch đó phải chịu.
+最も魔法攻撃力が高い敵を龍眼状態にし、受ける魔法ダメージを12％アップ=►Gây trạng thái [Long Nhãn] lên kẻ địch có chỉ số tấn công phép cao nhất và tăng 12％ sát thương phép phải chịu trong 180s.
 
 ##EX##
 クロージングアイズ+=Nhắm Mắt+
 クロージングアイズ=Nhắm Mắt
+
+
+##S1+##
+ドラゴンズ・マリス=Dragon's Malice
+
+マインドクラック+=Mind Crack+
+龍眼状態の敵がいる場合、龍眼状態でない敵を龍眼状態にし、受ける魔法ダメージを小アップ、龍眼状態の敵の魔法防御力を中ダウンさせ、魔法中ダメージを与え、自分を【臥竜覚醒】状態にする。【臥竜覚醒】状態中のＵＢは敵全体に最大ＨＰの20％、最大200万の魔法割合ダメージを追加で与えるようになる。龍眼状態の敵の数に応じて、与えるダメージの割合は最大100％まで増加する。龍眼状態の敵がいない場合、最も魔法攻撃力が高い敵を龍眼状態にし、受ける魔法ダメージを小アップさせる。=Nếu có kẻ địch ở trạng thái Long Nhãn, khiến tất cả kẻ địch chưa ở trạng thái Long Nhãn rơi vào trạng thái Long Nhãn, tăng nhẹ sát thương phép phải chịu, giảm vừa phòng thủ phép của kẻ địch ở trạng thái Long Nhãn, gây sát thương phép trung bình, và đưa bản thân vào trạng thái [Ngọa Long Tỉnh Giấc]. Trong khi ở trạng thái [Ngọa Long Tỉnh Giấc], kỹ năng Union Burst sẽ gây thêm sát thương phép tỉ lệ phần trăm bằng 20% lượng HP tối đa của mỗi kẻ địch, tối đa 2.000.000 sát thương. Tỉ lệ sát thương này tăng dựa trên số lượng kẻ địch đang ở trạng thái Long Nhãn, tối đa lên tới 100%. Nếu không có kẻ địch nào ở trạng thái Long Nhãn, khiến kẻ địch có chỉ số tấn công phép cao nhất rơi vào trạng thái Long Nhãn và tăng nhẹ sát thương phép mà kẻ địch đó phải chịu.
+r:"^龍眼状態の敵がいる場合、以下の効果が発動する龍眼状態でない敵を龍眼状態にし、受ける魔法ダメージを12％アップ龍眼状態の敵の魔法防御力を(\d+)ダウン龍眼状態の敵に(\d+)の魔法ダメージ自分を臥竜覚醒状態にする龍眼状態の敵がいない場合、最も魔法攻撃力が高い敵を龍眼状態にし、受ける魔法ダメージを12％アップ$"=Nếu có kẻ địch ở trạng thái Long Nhãn:\n►Gây trạng thái [Long Nhãn] lên những kẻ địch chưa ở trạng thái Long Nhãn và tăng 12％ sát thương phép phải chịu trong 180s.\n►Giảm $1 phòng thủ phép của kẻ địch ở trạng thái Long Nhãn trong 12s.\n►Gây $2 sát thương phép lên kẻ địch ở trạng thái Long Nhãn.\n►Bản thân tiến vào trạng thái [Ngọa Long Tỉnh Giấc].\n\nNếu không có kẻ địch ở trạng thái Long Nhãn:\n►Gây trạng thái [Long Nhãn] lên kẻ địch có chỉ số tấn công phép cao nhất và tăng 12％ sát thương phép phải chịu trong 180s.

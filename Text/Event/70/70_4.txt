@@ -12,7 +12,7 @@
 ちょ、ちょっと待ってくれ！\n確実に実現できるのはあくまで『隕石破壊の手段』なんだ。\n一枠だけで足りるかは分からないよ。=K-Khoan đã! Điều chúng ta có thể chắc chắn chỉ là 'phương pháp' để phá hủy thiên thạch. Chúng ta thực sự không biết liệu một điều ước có đủ để phá hủy nó hay không.
 うむ。\n確かに具体的なイメージさえあれば、わしはあらゆる\n武器や魔法を実現してやることはできる。=Đúng là tôi có thể hiện thực hóa bất kỳ loại vũ khí nào cậu nghĩ ra bằng ma thuật của mình.
 だが、その結果までは保証できん。\n未来予測なぞわしには無理じゃ。\nそんなことできたら信仰だって途絶えておらんのじゃ。=Tuy nhiên, điều đó không đảm bảo sẽ phá hủy thiên thạch. Tôi không thể dự đoán tương lai sau tất cả. Nếu tôi có thể làm được điều đó, tôi đã không mất người theo rồi.
-それ故に、ピンク髪の娘の力には驚いておるのじゃが……\nどういう理屈で予知夢など実現しておるのじゃ？=Đó cũng là lý do tôi ngạc nhiên về sức mạnh của cô gái tóc hồng đó... Làm sao cô ấy có thể có giấc mơ tiên tri về tương lai...?
+それ故に、ピンク髪の娘の力には驚いておるのじゃが……\nどういう理屈で予知夢など実現しておるのじゃ？　=Đó cũng là lý do tôi ngạc nhiên về sức mạnh của cô gái tóc hồng đó... Làm sao cô ấy có thể có giấc mơ tiên tri về tương lai...?
 そう言われると説得力ありますね。\n……ってことは、こいつの力を隕石に試せるのって、\nたったの二回だけってことですか！？=Khi cậu nói thế, đúng là có lý...\n...Khoan, vậy là chúng ta chỉ còn 2 cơ hội để phá hủy thiên thạch!?
 チャンスが少なすぎない！？\nもしダメだったら、その時はどうするの！？=Chẳng phẽ tỷ lệ thành công ấy quá thấp sao!?\nNếu cả hai lần đều thất bại, chúng ta sẽ làm gì bây giờ!?
 どうにもならない。\nだからこそ、最善を尽くすしかないんだ。=Chúng ta chẳng thể làm gì được. Chính vì vậy, chúng ta phải tận dụng tối đa những điều ước này.
@@ -91,7 +91,7 @@ choice1
 さて、答え合わせだ。\n推理が正しければ……=Nào, hãy xem suy luận của mình có đúng không...
 あれ、カスミン？\nイノリちゃんが活躍する未来を見に来たはずなのに……=Ừ, là Kasumin à? Mình tưởng đây là tương lai nơi Inori-chan sẽ...
 来たか……！\nよし、イノリくんに迎撃の合図だ！=Cậu đến rồi...! Đó là tín hiệu cậu bắt đầu rồi, Inori-kun!
-イノリちゃんに合図……ということは！=Một tín hiệu cho Inori-chan... Điều đó có nghĩa là...!
+イノリちゃんに合図……ということは！　=Một tín hiệu cho Inori-chan... Điều đó có nghĩa là...!
 おっせーんですよ、まったく！\n森神の力で巨大化したイノリさまなら、\nあんな石ころ一発でバッキバキの粉みじんにしてやるですよ！=Muộn quá! Với sức mạnh của Morigami biến tôi thành khổng lồ, Inori-sama vĩ đại sẽ biến tảng đá đó thành bụi chỉ với một đòn!
 えぇ～！？　なんか、でっかくなってる！？\nこれが、イノリちゃんがなんとかしてくれる未来ってこと！？=Ehhh～!? Cô ấy to đến thế rồi sao!? Vậy đây là tương lai nơi\nInori-chan sẽ làm gì đó về sao chổi!?
 すぅーっ……ぼあああああああああああ～！=Suu... Baaaaa～!

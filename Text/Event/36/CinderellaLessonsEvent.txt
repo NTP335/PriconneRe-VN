@@ -63,7 +63,7 @@ Lima Event Opening
 って、きっとこれが普通の反応よね。\n私ってばこんな姿だから、ちょっと夢見が過ぎるのかしら。=Khoan, em nghĩ phản ứng này là đúng. Có lẽ chỉ là em đang mơ mộng vì bản thân mình.
 私は【牧場（エリザベスパーク）】が、みんなが大好き。\nこのお日様みたいに優しくて温かい場所にずっといたい。=Em... em yêu Công viên Elizabeth... và mọi người ở đây. Em muốn mãi mãi ở lại nơi ấm áp, dịu dàng này, giống như ánh nắng.
 でも、一度でいいからこの物語みたいに\n華やかな世界にも触れてみたい。\nそんな願いをずっと持ってるわ。=Nhưng... dù chỉ một lần, em cũng muốn trải nghiệm một thế giới rực rỡ như trong cuốn sách đó. Em luôn mơ về nó.
-日常を変えちゃうような劇的なことなんていらないの。\nでもほんのちょっとだけ、いつもと違う刺激がほしいわ！=Em không cần bất cứ điều gì kịch tính lật đổ cả cuộc đời em. Nhưng... chỉ một chút kích thích, một điều gì đó khác biệt, cũng tốt mà!
+日常を変えちゃうような劇的なことなんていらないの。\nでもほんのちょっとだけ、いつもと違う刺激がほしいわ！　=Em không cần bất cứ điều gì kịch tính lật đổ cả cuộc đời em. Nhưng... chỉ một chút kích thích, một điều gì đó khác biệt, cũng tốt mà!
 ……なんてね。\n十分幸せなのにこんなこと思ってたら罰が当たっちゃうわね。=...Đùa thôi. Em đã hạnh phúc rồi, ước muốn hơn thế này sẽ bị trừng phạt đấy.
 おー、そういえば舞踏会といえば、今日お客さんと立ち話してたら\nこんな話を聞いたど。=Ồ... Điều đó nhắc em, nói về buổi dạ hội, hôm nay em nghe được một vài chuyện nhỏ khi nói chuyện với khách hàng.
 え、何々？　教えてマヒルちゃん！=Hả? Chuyện gì, chuyện gì? Nói thêm đi Mahiru-chan!
@@ -74,7 +74,7 @@ Lima Event Opening
 わ、私もそういうのは……=E-Em cũng không thực sự thích mấy chuyện đó...
 舞踏会……そういうの本当にあるのね。\n私もいつかキレイなドレスを着て、ダンスしてみたいわぁ。=Một buổi dạ hội... vậy những sự kiện mộng mơ như thế thật sự tồn tại! Em thích được mặc một chiếc váy lộng lẫy và nhảy múa một ngày nào đó.
 なんてね。このモフモフボディに合うドレスなんてあるわけないし、\n私みたいのが貴族にお呼ばれするなんてありえないものね。=Đùa thôi. Làm sao một chiếc váy vừa với cơ thể mập mạp này được, và một người như em được một quý tộc mời? Không thể nào.
-夢は夢、ちゃんとわきまえてるわ。\nでも……夢見ることくらいは、許してもらえるわよね？=Giấc mơ là giấc mơ, em biết điều đó. Nhưng... em sẽ được tha thứ nếu mơ một chút, phải không?
+夢は夢、ちゃんとわきまえてるわ。\nでも……夢見ることくらいは、許してもらえるわよね？　=Giấc mơ là giấc mơ, em biết điều đó. Nhưng... em sẽ được tha thứ nếu mơ một chút, phải không?
 数日後、いつものようにリマは木材の切り出しをしていた。=Vài ngày sau, Lima đang chặt củi như thường lệ.
 よいしょー、よいしょ……\nはぁ……おなかが空いて力が出ないわ……=Hô, hô... *thở dài*... Em đói quá, không có chút sức lực nào...
 リンちゃんが「リマ太った？」とか失礼なこと言うから、\nつい朝ごはん少なめにしちゃったのがまずかったわね……=Rin-chan đi nói một câu thô lỗ như: "Lima, cậu tăng cân rồi à?" Nên em đã cắt bữa sáng... Một sai lầm...
@@ -112,8 +112,8 @@ Chapter 1
 街で突然舞踏会への招待を受けたリマ。\nそのあまりに予想外の申し出に慌てふためいていた。=Lima bỗng nhận được một thiệp mời đến bữa tiệc trong thành phố. Lời đề nghị bất ngờ khiến cô bối rối.
 あ、あの、本当に私なんかがぶ、舞踏会に……？\nい、いいんですか？　本気にしちゃいますよ？=C-Cậu, tôi thực sự được mời đến một... b-bữa tiệc...? C-Cậu chắc chứ? Tôi đang nghiêm túc đấy!
 もちろん。主はあなたのような女性を探しておられます。\nぜひとも参加していただきたいのです。=Tất nhiên. Chủ nhân tôi đang tìm kiếm một quý cô giống hệt cậu. Người sẽ rất vinh dự nếu cậu tham dự.
-うそうそ！　こんなことってあるの！？\nまるで物語のヒロインみたいだわ！=Không thể nào, không thể nào! Một chuyện như thế này thậm chí còn có thể xảy ra?! Tôi giống hệt nữ chính trong câu chuyện sách kia!
-あまりにできすぎてて夢じゃないかって思えてくるけど……\n夢でもいいじゃない！　こんな機会、もう二度と巡ってこないわよ！=Mọi thứ hoàn hảo quá, tôi cứ nghĩ mình đang mơ... nhưng ai quan tâm nó có phải giấc mơ?! Một cơ hội như thế này có thể không bao giờ đến lần nữa!
+うそうそ！　こんなことってあるの！？\nまるで物語のヒロインみたいだわ！　=Không thể nào, không thể nào! Một chuyện như thế này thậm chí còn có thể xảy ra?! Tôi giống hệt nữ chính trong câu chuyện sách kia!
+あまりにできすぎてて夢じゃないかって思えてくるけど……\n夢でもいいじゃない！　こんな機会、もう二度と巡ってこないわよ！　=Mọi thứ hoàn hảo quá, tôi cứ nghĩ mình đang mơ... nhưng ai quan tâm nó có phải giấc mơ?! Một cơ hội như thế này có thể không bao giờ đến lần nữa!
 あ、あの……私でよければ、ぜひ舞踏会に参加させてください！=C-Cậu... Nếu cậu chấp nhận tôi, xin hãy để tôi tham gia bữa tiệc đó!
 おお、そう言っていただけるとありがたい。主もおよろこびになります。\nそれではこちら、招待状になります。=Ồ... Tôi rất vui khi nghe cậu nói vậy, chủ nhân tôi sẽ rất hài lòng. Giờ thì, đây là thiệp mời của cậu.
 そうだ、一つお伝えすることが。舞踏会は社交の場です。\nぜひとも場にふさわしいお召し物でいらしてください。=Ồ, và để tôi thêm một điều cuối cùng: một bữa tiệc là một sự kiện xã hội. Xin hãy chắc chắn mặc trang phục phù hợp cho nó.
@@ -173,7 +173,7 @@ Chapter 1
 ん、ああ、そうか……はじめまして、この屋敷の主、ロイドだ。\n来てくれてありがとう、感謝するよ。=Ừm...? À, ra vậy... Rất vui được gặp. Tôi là Lloyd, chủ nhân của biệt thự này. Cảm ơn cô đã tới. Tôi rất trân trọng.
 い、いえ、こちらこそこんな素敵なお屋敷に呼んでもらって、\n本当にありがとうございます。=K-Không, tôi mới là người nên cảm ơn vì đã mời tôi vào biệt thự tuyệt vời này.
 何だろう、上品だし上から見るような嫌な感じは全然ないけど、\n何だかあまり楽しそうじゃないような……=Tại sao vậy...? Ông ấy tế nhị và không hề kiêu ngạo chút nào... nhưng tại sao trông lại không được vui vẻ cho lắm...
-この人が舞踏会の主催者なのに、どうしてかしら？=Người này đáng lẽ là chủ nhân của buổi dạ hội... vậy tại sao?
+この人が舞踏会の主催者なのに、どうしてかしら？　=Người này đáng lẽ là chủ nhân của buổi dạ hội... vậy tại sao?
 それじゃあ、私はこれで。\nマーサ、後のことはよろしく頼むよ。=Vậy thì, tôi đi đây. Martha, xin lo phần còn lại.
 万事お任せください。\nさてリマさん、我々はあなたをここに招待させていただきましたが、\n残念ながらすぐに舞踏会に参加することはできません。=Để mọi chuyện cho tôi. Vậy, Lima-san... Dù cô đã được mời tới đây một cách hào hiệp, nhưng e rằng cô chưa thể tham dự buổi dạ hội được ngay.
 え？　ど、どういうことなの？=Hả? C-Cái gì đang xảy ra vậy?
@@ -185,7 +185,7 @@ Chapter 1
 私、レッスン受けます！=Em... sẽ học những bài học đó!
 了解しました。それでは改めまして──\nようこそ、社交界の入り口へ。=Được rồi. Vậy, một lần nữa... Chào mừng cô tới thế giới thượng lưu này.
 ずっと憧れていた煌びやかな世界。\nそこに飛び込めるチャンスなんてこの先あるとは思えないもの。=Thế giới lộng lẫy mà em luôn khao khát. Em nghĩ mình sẽ không còn cơ hội nào khác để nhảy vào đó nữa.
-私のためにドレスまで用意してくれたネネカちゃんに報いるためにも、\nこのチャンス、絶対ものにしてみせるわ！=Để đền đáp Neneka-chan vì đã chuẩn bị cho mình một chiếc váy, mình nhất định sẽ tận dụng tối đa cơ hội này!
+私のためにドレスまで用意してくれたネネカちゃんに報いるためにも、\nこのチャンス、絶対ものにしてみせるわ！　=Để đền đáp Neneka-chan vì đã chuẩn bị cho mình một chiếc váy, mình nhất định sẽ tận dụng tối đa cơ hội này!
 憧れの世界を前に、リマは強く決意するのだった。=Đứng trước thế giới trong mơ, Lima đã thề nguyện.
 
 New Titlecards
@@ -282,7 +282,7 @@ Chapter 2
 こんなの無理に決まってるわ……って、ええ！=Tất nhiên là điều này bất khả thi rồi... Khoan, HẢ?!
 しゃなりしゃなりくるりんぱ～☆\nしゃなりしゃなりくるりんぱ～☆=*Trượt và lắc*, *trượt và lắc*... Kururinpa~☆ *Trượt và lắc*, *trượt và lắc*... Kururinpa~☆
 あ、あの田舎娘、あんなにやすやすと！\nど、どうして……！=C-Cô gái nông thôn đó... cô ấy làm trông dễ dàng thế! T-Tại sao...?!
-うーん、普段のお仕事とか戦闘で\n足腰とか体幹が鍛えられたせいかしら？=Hmm, tôi tự hỏi liệu có phải vì chân và cơ thể mình đã trở nên mạnh mẽ hơn từ công việc hàng ngày và chiến đấu?
+うーん、普段のお仕事とか戦闘で\n足腰とか体幹が鍛えられたせいかしら？　=Hmm, tôi tự hỏi liệu có phải vì chân và cơ thể mình đã trở nên mạnh mẽ hơn từ công việc hàng ngày và chiến đấu?
 いつもなら筋肉がついちゃってイヤだったけど、\nこんな形で活かされるなんてビックリだわ。=Thông thường, tôi sẽ ghét việc đã có thêm cơ bắp, nhưng tôi ngạc nhiên khi chúng được dùng tốt như thế này.
 しゃなりしゃなきゃっ！=*Trượt và lắc*, *Trượt và lắc*... KYAH!
 ご、ごめんなさい……私周り見えてなくて……=T-Tôi xin lỗi... Tôi không nhìn thấy đường đi...
@@ -291,11 +291,11 @@ Chapter 2
 今のいい感じだったわ！　その調子よ！=Tốt lắm! Cố lên!
 ……ねえ、よかったら私にも教えてくださらない？=...Này, nếu cô không phiền, cô có thể dạy tôi các bước không?
 ええ、もちろん。それじゃあ一緒にやりましょう。\nしゃなりしゃなり……=Vâng, tất nhiên. Vậy thì, chúng ta cùng làm nhé! *Trượt và lắc*, *trượt và lắc*...
-田舎者がちょっとできたからって調子に乗って！\nこうなったらつまずいたふりして邪魔してあげるわ。\nイモ臭く無様な姿を晒しなさい！=Mày chỉ là thằng quê mà đã phách lối thế! Tao sẽ giả v stumbling rồi đánh lạc hướng con kia. Thử xem mày xử lý sao nữa, thằng quê hôi khoai!
+田舎者がちょっとできたからって調子に乗って！\nこうなったらつまずいたふりして邪魔してあげるわ。\nイモ臭く無様な姿を晒しなさい！　=Mày chỉ là thằng quê mà đã phách lối thế! Tao sẽ giả v stumbling rồi đánh lạc hướng con kia. Thử xem mày xử lý sao nữa, thằng quê hôi khoai!
 しゃなりしゃあーれーつまずいてしまいましたわー=*Lướt và xoay*, *lướt và xoaaaa... Aaaah, xui xẻo, tớ vấp rồi!!!!
 くるりんぱ～☆=Kururinpaaaaa~☆
-かわした！？　　も、もう一度……！=Nó né rồi?! Đ-Để tao thử lại...!
-な、何でかわせるのよ！=Sao nó né được tao?!
+かわした！？　　も、もう一度……！　=Nó né rồi?! Đ-Để tao thử lại...!
+な、何でかわせるのよ！　=Sao nó né được tao?!
 ……ちょい待って王子はん、もう少し様子見ましょか。\n何やあったら飛び出せるよう準備よろしいなぁ。=...Khoan đã, hoàng tử yêu quý của em. Hãy đợi xem. Nếu có chuyện gì xảy ra, hãy sẵn sàng ra tay.
 はぁ、はぁ……何で、何でこんな田舎娘にこの私が……あ！=*thở dốc*... Tại sao... tại sao một người như tao lại thua một thằng quê như mày... AAH!
 くるりん、ぱ～！=Kururin... PAAAA~!
@@ -331,7 +331,7 @@ Chapter 3
 うん！　みんなと一緒なら、どんなレッスンでも乗り越えられるわ。=Ừ! Chỉ cần chúng ta ở bên nhau, tớ chắc chắn chúng ta có thể vượt qua mọi bài học.
 みなさま、おはようございます。\n所作のレッスン、合格おめでとうございます。=Mọi người, chào buổi sáng. Vì đã vượt qua bài học đầu tiên với điểm số xuất sắc, tôi xin chúc mừng các bạn.
 しかしレッスンはまだ始まったばかりです。\n気を抜かないようお願いします。\nそれでは、次のレッスンを発表します。=Tuy nhiên, các bài học của chúng ta mới chỉ bắt đầu. Xin hãy không lơ là. Vậy thì, tôi sẽ thông báo bài học tiếp theo.
-来た来た。あれだけ身のこなしをしっかりやったんだもの、\nいよいよダンスレッスンかしら？=Đây rồi! Sau tất cả những động tác uyển chuyển chúng ta học được, tôi tự hỏi liệu đã đến lúc cho bài học nhảy chưa?
+来た来た。あれだけ身のこなしをしっかりやったんだもの、\nいよいよダンスレッスンかしら？　=Đây rồi! Sau tất cả những động tác uyển chuyển chúng ta học được, tôi tự hỏi liệu đã đến lúc cho bài học nhảy chưa?
 次のレッスンは……護身術の訓練です！=Bài học tiếp theo là... huấn luyện tự vệ!
 ……ご、護身術？=...T-Tự vệ?
 ま、待ってよ！　舞踏会に参加するのに\nどうして護身術なんか習わなきゃいけないのよ！=K-Khoan đã! Tại sao tôi phải học tự vệ nếu tôi chỉ tham gia một buổi dạ hội?!
@@ -347,7 +347,7 @@ Chapter 3
 あっ！　あの人って……=Hah! Người đó là...
 たしかにあの子ならうってつけだけど、\nそれってこのレッスンが本気だってことじゃないかしら……=Cô ấy chắc chắn rất phù hợp với vai trò này, nhưng... nếu họ mời cô ấy vào, điều đó có nghĩa là họ thực sự nghiêm túc về toàn bộ chuyện này...
 戦闘、じゃなかった、護身術の訓練って聞いてたけど、\nいかにもなお嬢さんばっかじゃねぇか。\nちゃんとついて来れんのか……ん？=Tôi nghe nói đây là comba-... Không, ý tôi là, huấn luyện tự vệ. Nhưng tất cả tôi thấy là những quý cô nhỏ nhắn xinh xắn, các cô có thể theo kịp t-... Hm?
-あれ、マコトちゃん私のこと見てる？=Hả? Makoto-chan, cậu đang nhìn em ư?
+あれ、マコトちゃん私のこと見てる？　=Hả? Makoto-chan, cậu đang nhìn em ư?
 まあ、見込みのありそうなのもいないことはないか。=Thôi nào, có vẻ như một vài người cũng khá đấy chứ.
 大丈夫どすえ、マコトはん。みなさんうちのレッスンを乗り越えた\nお姫はんたちやさかい。なーんにも心配いらへんよ。=Đừng lo gì đâu, Makoto ơi. Tất cả các cậu đều là những công chúa mạnh mẽ đã vượt qua được bài học của tôi rồi. Giờ chẳng có gì phải bận tâm nữa.
 そうだな。あの姫さんワールドを乗り越えたんなら、\nたしかに見込みはあるな。=Cũng phải. Nếu các cậu vượt qua được cả thế giới ngẫu hứng của Công Chúa, thì chắc chắn sẽ có cơ hội.
@@ -398,7 +398,7 @@ Chapter 3
 もう！　ためらいなさすぎよ！=Trời ơi! Ít nhất cũng ngập ngừng một chút chứ!
 はは、面白いな君たちは。\nよければ君たちのこと、聞かせてくれないか？=Ha ha, các cậu thật thú vị. Nếu các cậu không phiền, có thể kể cho tôi nghe thêm về các cậu được không?
 私たちの？　ええと、私は牧じょ、じゃなくて\nランドソルから──=Về chúng tôi ư?... Ưm, tôi từ ran... ý là từ Landosol.
-あわわ……こんな夜更けに貴族様とお話しできるなんて、\nホントにすごい世界に来ちゃったわね！=Awawa... được trò chuyện với một quý tộc vào giờ khuya thế này... thật sự mình đã bước vào thế giới cổ tích rồi!
+あわわ……こんな夜更けに貴族様とお話しできるなんて、\nホントにすごい世界に来ちゃったわね！　=Awawa... được trò chuyện với một quý tộc vào giờ khuya thế này... thật sự mình đã bước vào thế giới cổ tích rồi!
 なるほど……いや、君たちは色んな経験をしているのだね。\n素敵なことだよ。=Ra vậy... Không, ta thấy các ngươi đã trải qua nhiều cuộc phiêu lưu. Điều đó thật tuyệt.
 そんな、ロイドさんこそ若くしてこんな立派なお屋敷に住まれて、\n舞踏会まで開かれるなんて素晴らしいですよ。=Không không, người ấn tượng mới là Lloyd-san. Sống trong biệt thự lớn như vậy ở tuổi này, lại còn tổ chức tiệc... thật kinh ngạc!
 ありがとう。でも、私にあるのは貴族の肩書くらいだ。\n私自身には何の力もない。だから今回だって……=Cảm ơn. Tuy nhiên, ta chỉ có danh hiệu quý tộc mà thôi. Ta không có sức mạnh của bản thân. Chính vì vậy, lần này...
@@ -417,7 +417,7 @@ Chapter 3
 さて、レッスンを始めて数日、大分お疲れのようだな。\nいや、それよりも気力がない方が問題か。=Vậy thì, đã vài ngày kể từ khi bắt đầu bài học, và các cô ấy rõ ràng đã kiệt sức. Không... hơn thế nữa, họ đã mất ý chí tiếp tục. Đó mới là vấn đề thực sự.
 そりゃあそうだよな。こいつは護身術レッスンという名の戦闘訓練だ。\nキラキラのお嬢様方には酷ってもんだよな。=Dù sao thì, đó là hiển nhiên mà? Đây là huấn luyện chiến đấu giấu sau cái tên 'bài học tự vệ'. Chắc chắn là khủng khiếp đối với những tiểu thư lấp lánh đó.
 おまけに訓練自体に納得いってないんじゃ、\n精神的にもたないのも無理ないな。=Hơn nữa, nếu họ thậm chí không tin tưởng mục đích của buổi huấn luyện, thì không có gì lạ nếu họ không thể chịu đựng được về tinh thần.
-といってもこればかりはあたしじゃどうしようもないしな。\nさて、どうしたもんか……ん？=Dù sao đi nữa, đây không phải thứ tôi có thể sửa chỉ bằng một mình... Vậy, tôi phải làm gì--Hả?
+といってもこればかりはあたしじゃどうしようもないしな。\nさて、どうしたもんか……ん？　=Dù sao đi nữa, đây không phải thứ tôi có thể sửa chỉ bằng một mình... Vậy, tôi phải làm gì--Hả?
 行くわよ{playername}くん！=Đi thôi, {playername}-kun!
 えいっ、やーっ、たああー！=EI! YAAAA! TAAAAH!
 どうしたのかしら、あの二人。\n妙に気合が入ってるみたいだけど……=Mình tự hỏi hai người đó làm sao vậy. Họ trông có vẻ hào hứng kỳ lạ...
@@ -449,10 +449,10 @@ Chapter 3
 わっ、わわ、くううっ！=Uwah... kaah... KUUHHHH!!!
 ひっ！　す、すごい攻撃……でもリマさんよく耐えてるわ。=Ái chà! C-Cái đòn đó tuyệt thật... Nhưng Lima-san vẫn đang chịu đấu rất tốt!
 耐えてるだけじゃ一本は取れないわよ。\nもう、リマさんしっかりなさいよ！=Chỉ đợi thôi thì không được điểm đâu! Thôi nào! Lima-san, cố lên!
-そ、そんなこと言われてもこんな猛攻、受けるのが精いっぱいよ！\nそれに一発でもいいのもらったら変身も解けちゃうし、どうしよう！=D-Dù cậu nói vậy, giờ tớ chỉ biết chịu đựng cơn tấn công dữ dội này thôi! Hơn nữa, nếu bị đánh trúng hay thậm chí chỉ bị sượt, biến hình của tớ sẽ bị hỏng! Tôi nên làm sao đây...?
+そ、そんなこと言われてもこんな猛攻、受けるのが精いっぱいよ！\nそれに一発でもいいのもらったら変身も解けちゃうし、どうしよう！　=D-Dù cậu nói vậy, giờ tớ chỉ biết chịu đựng cơn tấn công dữ dội này thôi! Hơn nữa, nếu bị đánh trúng hay thậm chí chỉ bị sượt, biến hình của tớ sẽ bị hỏng! Tôi nên làm sao đây...?
 っ！　く、くるりん、ぱ～！=...! K-Kururirin-PAAAA~!
 何、あたしの攻撃をいなしただと？　やるじゃねえか！\nならこっちもギアを上げてくぞ！　とりゃー！=Cái gì?! Cậu né được đòn của tôi? Không tệ! Vậy tôi cũng tăng cường đòn đánh! TORYAAAAAAAH!
-思い出すのよリマ、ここに来て身に付けた全てを！=Nhớ kỹ, Lima! Tất cả những gì cậu đã học trong các bài học đó!
+思い出すのよリマ、ここに来て身に付けた全てを！　=Nhớ kỹ, Lima! Tất cả những gì cậu đã học trong các bài học đó!
 しゃなりしゃなり、しゃなりしゃなり……=*Trượt nhẹ và lắc người*, *trượt nhẹ và lắc người*...
 所作のレッスンで習った足運びであの猛攻をかわしてる！=Cô ấy đang né được cơn tấn công dữ dội đó bằng những động tác chúng ta đã học trong bài học dạo bộ!
 うふふ、さすがリマはんどすな。=Uhuhu... đúng là Lima-han của chúng ta mà.
@@ -526,12 +526,12 @@ Chapter 4
 うわぁ、ま～た新しい女の子連れてるよ。しかも何かお嬢様だし。\n何？　あんた女の子が寄ってくる液でも分泌してるの？=Ối trời, lại có bạn gái mới nữa rồi. Lại còn là một cô gái giàu có nữa. Tại sao vậy? Cậu đang tiết ra một loại dịch vô hình nào đó thu hút con gái à?
 リンちゃん、樹木じゃないんですから……\nそれにしてもこんなキレイな人とお知り合いになるなんて、\n今回はどんなお仕事されてたんですか？=Rin-chan, cậu ta không phải loại cây đâu... Nhưng ngay cả vậy, lại quen biết một người đẹp như thế... Lần này cậu ta làm công việc bán thời gian gì vậy?
 あ、やっぱり私だって気付いてないわね。\nまあ、当然よね。同じ立場だったら私もこういう反応になるもの。=Ồ, như mong đợi, họ dường như chưa nhận ra... Cũng phải thôi. Nếu em ở hoàn cảnh đó, em cũng phản ứng y hệt.
-ちょ、ちょっと{playername}くん！\nいきなり正体ばらさないでよ！=N-Này, {playername}-kun! Đừng vô tư lộ thân phận thật của em ra như vậy!
+ちょ、ちょっと{playername}くん！\nいきなり正体ばらさないでよ！　=N-Này, {playername}-kun! Đừng vô tư lộ thân phận thật của em ra như vậy!
 おお！　あんたもリマっていうんだべか？\nこの牧場にもリマって子がいんだ。=Ồ! Vậy cậu cũng tên Lima à? Trang trại này cũng có một cô gái tên Lima.
 まあ今は出かけてるんだけどね。なんか夢を叶えるための\n摩訶不思議な大冒険！　とか言ってたかな？=À, cô ấy đi rồi. Em nghĩ cô ấy nói gì đó kiểu: "Em đi một chuyến phiêu lưu lớn để biến ước mơ thành sự thật!" hay gì đó.
 もう、ネネカちゃんってば話盛りすぎよ！\n……たしかに大冒険ではあったけど。=Thôi nào, Neneka-chan! Cậu nói quá nhiều!... Quả thật đó là một cuộc phiêu lưu lớn, đầy mơ mộng.
 ああ、急に旅に出るとか言い出すからびっくらこいたべ。\nリマリマ、元気にしてっかな？=Ừ, em sốc khi cô ấy bất ngờ tuyên bố đi phiêu lưu. Lima Lima, không biết cô ấy thế nào rồi?
-マヒルちゃんいるわ、目の前にいるわよ！=Mahiru-chan, em ở đây! Ngay trước mặt cậu mà!
+マヒルちゃんいるわ、目の前にいるわよ！　=Mahiru-chan, em ở đây! Ngay trước mặt cậu mà!
 あ、立ち話もなんですし、どうぞ中にお入りください。=À! Chúng ta không nên đứng đây nói chuyện nữa, mời vào trong nhà.
 そ、それじゃあおじゃまします……=Th-Thế thì, xin phép...
 うわ、何その歩き方！　超優雅じゃん。\n本物のお嬢様すげ～=Ối, cách đi của cậu là sao vậy?! Quá thanh lịch. Các quý cô thực sự thật tuyệt vời~
@@ -590,7 +590,7 @@ Chapter 5
 こんにちは！　ロイドさん、マーサさん。\n……あの、他の子たちはまだ来てないんですか？=Xin chào! Lloyd-san, Martha-san. ...Ơ, các cô gái khác chưa đến sao?
 残念ですが、最終選考に選ばれたのはリマさんお一人だけです。=Thật không may, chỉ có cô là được chọn cho vòng chọn cuối cùng, Lima-san.
 っ！？　そう、ですか……=...À!? Ra là vậy...
-みんなで舞踏会出たかったのに……\nこうなったらみんなの分まで頑張って、絶対に舞踏会に出るんだから！=Mình muốn đến buổi dạ hội cùng mọi người... Nếu mọi chuyện là như vậy, thì mình sẽ cố gắng hết sức vì họ và mang ước nguyện của họ đến buổi dạ hội!
+みんなで舞踏会出たかったのに……\nこうなったらみんなの分まで頑張って、絶対に舞踏会に出るんだから！　=Mình muốn đến buổi dạ hội cùng mọi người... Nếu mọi chuyện là như vậy, thì mình sẽ cố gắng hết sức vì họ và mang ước nguyện của họ đến buổi dạ hội!
 リマさん、あなたは多くのレッスンを通じて、\n淑女と呼ぶに相応しい美と輝きを手に入れてきました。=Lima-san, thông qua những bài học mà cô đã trải qua, cô đã có được vẻ đẹp và sự rạng rỡ xứng đáng được gọi là một quý cô.
 後は最終試験を残すのみ。\nそれが終われば晴れてあなたは舞踏会に──=Tất cả những gì còn phải đối mặt phía trước là bài kiểm tra cuối cùng. Khi kết thúc, cô sẽ có thể hướng đến buổi dạ hội--...
 ……もう、やめよう……=...Thôi bỏ đi rồi...
@@ -652,7 +652,7 @@ Chapter 5
 マーサ……分かった。でもどうか無事に帰ってきてほしい。=Martha... Hiểu rồi. Tuy nhiên, xin hãy đảm bảo trở về an toàn.
 よし、決まりだな。最後の大仕事、キッチリかたつけようぜ！=Được rồi, đã quyết. Hãy hoàn thành công việc lớn cuối cùng này thôi!
 はぁ、舞踏会まであと一歩かと思ったら、\nまさかこんなことになるなんて思いもしなかったわ。=*thở dài* Chính lúc tôi nghĩ chúng ta chỉ còn một bước nữa là đến buổi dạ hội, ai ngờ lại trở thành thế này.
-かなりハードな最終試験だけど、\nこれを乗り越えたらもっと素敵な女の子になれる気がするわ！=Đó là một bài kiểm tra cuối cùng khá khó... nhưng tôi cảm thấy nếu vượt qua được, tôi sẽ trở thành một thiếu nữ tốt hơn nữa!
+かなりハードな最終試験だけど、\nこれを乗り越えたらもっと素敵な女の子になれる気がするわ！　=Đó là một bài kiểm tra cuối cùng khá khó... nhưng tôi cảm thấy nếu vượt qua được, tôi sẽ trở thành một thiếu nữ tốt hơn nữa!
 
 Player Prompts
 僕も呼ばれたよ。=Tôi cũng đã được mời
@@ -664,7 +664,7 @@ Player Prompts
 New Titlecards
 リマ・マコト=Lima Makoto
 
-Chapter 5
+Chapter 6
 リマたちは辺境の地にあるという姫の居城へと向かっていた。=Lima và mọi người đang tiến về lâu đài của công chúa quái vật, nơi được cho là nằm ở vùng biên giới xa xôi.
 おいあれ、向こうに見えるのが姫の城じゃねえか？=Này, cái kia kìa... cậu nghĩ đó có phải là lâu đài của công chúa này không?
 ようやくね。整備されていない道に魔物まで襲ってきて、\n本当に大変だったわ。=Cuối cùng chúng ta cũng tới nơi. Con đường khó khăn, lại còn bị quái vật tấn công... Thật sự vất vả quá.
@@ -728,7 +728,7 @@ Chapter 5
 ああ、分かった……このお城に感じた感情、\nそれは孤独だったのね。=À, giờ tao hiểu rồi... Cảm xúc tao cảm nhận từ lâu đài này chính là sự cô độc.
 私も見た目は魔物みたいなものだもん。\n拒絶されてきたから、彼女の気持ちはよく分かるわ……=Tao cũng trông giống quái vật. Tao từng bị từ chối, nên hiểu cảm giác của cô ấy...
 でも、私は幸運にも牧場のみんなや彼がいてくれた。\nでも、もしみんなに会えなかったら、\n私も同じようになっていたかもしれない。=Tao may mắn. Tao có {playername}... và mọi người ở trang trại. Nếu chưa gặp họ, tao có thể đã kết thúc giống hệt cô ấy.
-もし孤独が彼女を歪めてしまったなら、\n私たちはきっと分かり合えるはずだわ！=Nếu sự cô độc đã làm lệch lạc trái tim cô ấy... thì chúng ta có thể hiểu nhau. Tao biết chúng ta có thể!
+もし孤独が彼女を歪めてしまったなら、\n私たちはきっと分かり合えるはずだわ！　=Nếu sự cô độc đã làm lệch lạc trái tim cô ấy... thì chúng ta có thể hiểu nhau. Tao biết chúng ta có thể!
 お願い、もう一度お話しさせて！　だって私も……=Làm ơn! Hãy để tao được nói chuyện với cô ấy lần nữa! Bởi vì tao... tao cũng giống cô ấy...
 戯言をぬかすな！　話を聞いてほしくば、まずは妾に勝ってからだ！=DỪNG LẠI NHỮNG ĐIỀN ĐIÊN RỒ! Nếu ngươi thực sự muốn tao lắng nghe, thì ngươi phải đánh bại tao trước!
 やった……やったな、おい！=Cô ấy làm được rồi... Cô ấy thực sự làm được rồi, kìa!
@@ -845,7 +845,7 @@ Finale
 なっ！　き、君は……！=GÌ-...! C-Cậu là...!
 ま、魔物の姫！　どうしてあなたがここに！=C-Công Chúa Quái Vật! Cô đang làm gì ở đây?!
 ああ！　ついに二人が運命の再会を果たす時が来たわよ！\nど、どうしよう、私まで緊張してきちゃったわ……=Ái chà! Thời khắc gặp gỡ định mệnh giữa hai người đã đến! P-Phải làm sao đây? Em cũng đang hồi hộp khi nhìn từ bên ngoài...
-ロイドさんも姫様も大丈夫、よね？　大丈夫であってお願い！=Lloyd và Công Chúa đều sẽ ổn... phải không? Làm ơn... xin mọi thứ đều ổn!
+ロイドさんも姫様も大丈夫、よね？　大丈夫であってお願い！　=Lloyd và Công Chúa đều sẽ ổn... phải không? Làm ơn... xin mọi thứ đều ổn!
 安心しな。ちゃんとあたしらで話つけといたからよ、\nこの姫様に手荒な真似をする気なんかねぇからさ。=Đừng lo. Chúng tôi đã nói chuyện rồi. Công Chúa này sẽ không làm gì thô bạo đâu.
 ただ、彼女からロイドはんにお話があるいうんですわ。\nちぃと聞いたってくれまへん？=Tuy nhiên, cô ấy nói có điều muốn nói với anh, Lloyd-san. Anh có thể lắng nghe yêu cầu lớn lao của cô ấy không?
 そ、それは、構わないけど……あの、私に話とは？=T-Tôi không phiền... Ơ, cô muốn nói chuyện với tôi về điều gì?
@@ -913,7 +913,7 @@ Finale
 みんなありがとう、本当にありがとう！\n私、今の自分がもっともっと好きになれそうだわ！=Mọi người... cảm ơn! Thực sự, cảm ơn tất cả mọi người! Tôi nghĩ tôi bắt đầu thích bản thân mình hơn rồi đấy!
 マヒルちゃん、リンちゃん、シオリちゃん。\n私、新しいお友達ができたわ。みんなみたいにありのままの私を\n受け入れて、美しいって言ってくれる大切なお友達よ。=Mahiru-chan, Rin-chan, Shiori-chan. Tôi đã có những người bạn mới. Họ là những người bạn quý giá chấp nhận tôi chính xác như tôi vốn có, giống như hai người vậy, và nói với tôi rằng tôi xinh đẹp.
 ちょっとだけキレイになった私。新しいお友達のこと。\nキラキラ輝いていたお屋敷での日々のこと。=Tôi đã trở nên xinh đẹp hơn một chút. Nhờ những người bạn mới. Và những ngày lấp lánh tôi đã trải qua trong biệt thự này.
-たくさんのおみやげがあるから、楽しみにしててね♪=Tôi có rất nhiều món đồ lưu niệm để kể với hai người, nên hy vọng hai người sẽ háo hức chờ đợi♪
+たくさんのおみやげがあるから、楽しみにしててね♪　=Tôi có rất nhiều món đồ lưu niệm để kể với hai người, nên hy vọng hai người sẽ háo hức chờ đợi♪
 どんなドレスや宝石よりも輝く笑顔を浮かべるリマだった。=Suy nghĩ về cuộc phiêu lưu gần đây và gia đình ở nhà... nụ cười của Lima rạng rỡ hơn bất kỳ chiếc váy hay viên ngọc nào.
 
 Player Prompts

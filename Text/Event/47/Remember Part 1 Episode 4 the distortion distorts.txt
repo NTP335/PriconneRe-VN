@@ -71,7 +71,7 @@
 誰も、いない……？\nさっきまで、みんな教室の中にいたはずなのに……=Mọi người... đều biến mất...?\nNhưng, mọi người vẫn còn ở đây cách đây một chút...
 い、たた……！\n何が何だか分かりませんが、この痛みは本物ですね……！=O-Oi...!\nTớ không biết chuyện gì đang xảy ra, nhưng cái đau đó là thật...!
 みんなどこに行っちゃったのか分かりませんが、\nこのまま魔物を放っておくわけにはいきません！=Bất kể mọi người đi đâu,\nchúng ta không thể để con quái vật này muốn gì thì làm!
-武器もないし、王家の装備もない、服装も薄手で心許ないですし、\nやばいですねの大盤振る舞いな状況ですけど……！=Không có vũ khí, không áo giáp hoàng gia, và tớ cũng không thể dựa vào bộ đồ mỏng manh này...\nTình huống này còn điên rồ hơn cả có thể tưởng tượng...!\n
+武器もないし、王家の装備もない、服装も薄手で心許ないですし、\nやばいですねの大盤振る舞いな状況ですけど……！　=Không có vũ khí, không áo giáp hoàng gia, và tớ cũng không thể dựa vào bộ đồ mỏng manh này...\nTình huống này còn điên rồ hơn cả có thể tưởng tượng...!\n
 だけど、魔物さん！\nあなたはここで、倒させていただきますっ！=Nhưng, quái vật-san! Tớ sẽ đánh bại cậu ở đây!
 武器は、ええっと……あ、これって掃除道具入れですね！？\nだったら……このモップで！=Vũ khí của tớ sẽ là, ừm...\nÀ, trong này có dụng cụ lau nhà, phải không!? Vậy thì...\nTớ sẽ dùng cái chổi này!
 全力全開！\nプリンセスストライク──ッ！=Toàn lực, tăng tốc tối đa!\nPrincess Strike──!
@@ -113,12 +113,12 @@
 ……ぐっ……！？=...Ực...!?
 あ……はは。\nへ、平気です！　気にしないでください☆\nちょっと力加減間違っちゃったみたいで……えへへ♪=À... Ha ha.\nT-tôi không sao! Đừng lo lắng! ☆\nTôi chỉ không kiểm soát được sức mạnh ở đó thôi... Ehehe!♪
 大丈夫、少し力を抜けば──てぇーいっ！=Không sao, nếu tôi dùng ít sức mạnh hơn một chút──Tei!
-力が大きすぎて……制御できない……！？\n無理やり全力全開させられ続けてるみたいな感じですね……！=Sức mạnh mạnh quá... Tôi không kiểm soát được...!?\nCảm giác như tôi liên tục buộc phải dùng toàn bộ sức mạnh, tăng tốc tối đa...!
+力が大きすぎて……制御できない……！？\n無理やり全力全開させられ続けてるみたいな感じですね……！　=Sức mạnh mạnh quá... Tôi không kiểm soát được...!?\nCảm giác như tôi liên tục buộc phải dùng toàn bộ sức mạnh, tăng tốc tối đa...!
 この姿のせいでしょうか……？\nでもこれは、あの人の……=Có phải vì hình dạng này...?\nNhưng, đây là của hắn...
 ペコさん、避けて！=Peco-san, tránh đi!
 あっ、わわっ！？=À, ủa ủa?!
 あぶないあぶない……考え事してる場合じゃありませんね。\n避けられてよか──ッ！？=Suýt thì...\nĐây không phải lúc để suy nghĩ. May quá tôi tránh được-
-あ、足が……痛い……？　まさか、今のとっさの回避で……？\n力の制御ができないといっても、ここまでなんて……！=À, c-chân tôi... đau...?\nCó phải vì tôi tránh đột ngột lúc nãy...?\nTôi biết tôi không kiểm soát được, nhưng điều đó điên rồ quá...!?
+あ、足が……痛い……？　まさか、今のとっさの回避で……？\n力の制御ができないといっても、ここまでなんて……！　=À, c-chân tôi... đau...?\nCó phải vì tôi tránh đột ngột lúc nãy...?\nTôi biết tôi không kiểm soát được, nhưng điều đó điên rồ quá...!?
 なんなんですか、この大きすぎる力は……=Đây là gì... sức mạnh áp đảo...?
 でも、戦うには十分すぎるくらいの力です。\n今は何も考えず、この魔物を倒しましょう……！=Nhưng, cái này hơn đủ để chiến đấu.\nTôi sẽ không suy nghĩ nữa, hãy đánh bại con quái vật trước đã...!
 いっきますよぉーー！=Đi thôi!!!

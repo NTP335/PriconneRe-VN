@@ -111,7 +111,7 @@
 今日はありがとうございました、キャルさん。=Cảm ơn cô rất nhiều vì hôm nay, Kyaru-san.
 おねえちゃん、ありがと～♪=Cô nương, cảm ơn!
 ねえちゃん、またやろうね～！=Chơi lại nhé, cô nương!
-絶対いやよ？=Không bao giờ chơi lại nữa.
+絶対いやよ？　=Không bao giờ chơi lại nữa.
 ん？　どうしたの？\n二人とも、もう帰っちゃったわよ。=Ơm...\nHm? Sao thế?\nMọi người đi hết rồi sao?
 {playername}さん……本当に大丈夫ですか？\n今日、来る前に街であの人の噂を聞いて……={playername}-san... Anh ấy thực sự ổn chứ?\nTrước khi tụi mình đến hôm nay, em nghe tin đồn trong thị trấn...
 あ……聞いてたのね……\nごめん、用があるなんて嘘ついたりして。=À... cô nghe rồi...\nXin lỗi vì đã nói dối là anh ấy bận.
@@ -120,7 +120,7 @@
 本当ですかっ？=Thật hả?
 ふふっ。\nこの街にはあいつがいないと困る人がいっぱいいるみたいだけど、\nこんなちっこいのにまで大人気なんてね。=Heheh.\nThật ra nhiều người trong thị trấn cũng bối rối vì thiếu anh ấy,\nnhưng tớ không nghĩ anh ấy lại nổi tiếng với một đứa trẻ nhỏ thế này.
 ええっ！？\nいえ、私はそういうのじゃありませんし……！\nあの人はへんたいふしんしゃさんだから、ちゃんと見てないと……=Eeeh!? Không, em không như vậy đâu...!\nTên đó là thằng khả nghi, nếu em không canh giữ...
-あいつ、この子に何したの……？=Hắn đã làm gì với đứa trẻ này...?
+あいつ、この子に何したの……？　=Hắn đã làm gì với đứa trẻ này...?
 そういえば……そろそろ、\nペコリーヌにも話しといたほうがいいわよね。\nしばらく会ってない気がするし。=Ừ, phải rồi... Đã đến lúc chúng ta nên nói chuyện này với Pecorine rồi.\nCũng lâu rồi không gặp.
 プリンセスとしての仕事があるとはいえ、教えなかったら\n「わたしだけノケモノですか～！？」\nなんて、大暴れしそうだわ。=Tớ biết cô ấy có việc công vụ làm công chúa, nhưng nếu không nói,\n"Và cô để tớ ngoài cuộc!?"\nchắc cô ấy sẽ phản ứng dữ lắm.
 ……は？\nペコリーヌ……陛下に会えない？　どうしてよ？=...Hả?\nPecorine... Bệ hạ không thể gặp ai ư? Tại sao?

@@ -112,7 +112,7 @@
 すみません、通してください……！\nはぁ、やっと合流できました。\n街はひどい有様です。一刻も早く止めないと……！=Xin lỗi, tôi cần đi qua...! Haah, cuối cùng chúng ta cũng gặp được nhau. Thành phố tệ quá, nếu không dừng thứ đó sớm thì...
 ……あまり時間もなさそうだね。=...Có vẻ chúng ta không còn nhiều thời gian nữa.
 ええ、無駄話をしている時間はありません。\nあれの討伐に向かうのでしょう？　私も同行します。=Ừ, chúng ta không có thời gian để nói chuyện phiếm. Ngươi định hạ gục thứ đó ư? Vậy ta sẽ đi cùng ngươi.
-手伝ってくれるの？You're going to be helping?
+手伝ってくれるの？=You're going to be helping?
 サラサリア周辺の史跡はまだ回り切っていませんからね。\nあれに暴れ回られては、貴重な文化遺産が破壊されかねませんから。=Ồ, ta chưa đi qua những di tích quanh đây.\nVà nếu thứ đó phá phách, những di tích quý giá đó có thể bị phá hủy.
 理解できましたか？　できたなら掴まってください。\n一気に跳びますよ──=Hiểu chứ? Nếu hiểu thì ôm chặt lấy ta.\nTa sẽ nhảy ngay lập tức.
 ようやく動かし方がわかってきたぜ。\nなかなかいい性能だ。\nこいつがあればだいたいのことは思い通りになりそうだな！=Cuối cùng ta cũng tìm ra cách điều khiển thứ này rồi, thật hiệu quả.\nChỉ cần có thứ này, mọi chuyện sẽ diễn ra như kế hoạch.

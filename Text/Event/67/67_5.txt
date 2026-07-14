@@ -34,7 +34,7 @@
 ええ、私たちは先に呼ばれてたから。\nサレンさんたちが来る前に、今の話を聞かされてたの。=Vâng, chúng tôi được gọi trước đó. Trước khi Saren-san và người khác đến, chúng tôi đang lắng nghe câu chuyện của anh ấy.
 {playername}さんとお二人が夫婦というのは、\n魔神さんの魔法が原因の勘違いだったんですね。=Rằng việc cậu và {playername} kết hôn là do phép thuật của thần đèn.
 私ったら、てっきり本当の新婚旅行だと……\nでも夫婦のフリだったんですね……ほっ。=Trong trường hợp của tôi, tôi thực sự nghĩ rằng họ đang đi tuần trăng mật...\nNhưng hóa ra họ chỉ giả vờ kết hôn... Uff.
-……あれ？　今、私ほっとしました？=...Hả? Tôi vừa mới cảm thấy nhẹ nhõm vì điều đó ư?
+……あれ？　今、私ほっとしました？　=...Hả? Tôi vừa mới cảm thấy nhẹ nhõm vì điều đó ư?
 その説明で合点がいきましたよ。\nあなたがたの様子が変だったのは、\nその魔神による認識阻害魔法が原因でしたか。=Tôi hiểu quan điểm của cậu với lời giải thích đó. Tôi nghĩ tình huống của cậu kỳ lạ, phép thuật của thần đèn có phải là nguồn gốc của phép thuật che giấu cảm nhận đó không?
 私はてっきり暑さで頭のネジが吹っ飛んでしまったのだと\n思っていましたが……=Tôi nghĩ mình có vài ốc vặn lỏng vì cái nóng...
 そ、そんなふうに思われてたの？=Cậu thực sự nghĩ về chúng tôi như vậy ư?
@@ -116,6 +116,5 @@ choices
 ……いったい何が起きたんだ……？\n俺たちは牢にいたはずだが……ここは、サラサリアの街中……="...Chuyện gì vậy...? Chúng ta đáng lẽ phải bên trong nhà tù... Nhưng đây là thành phố Salasaria..."
 それに随分と、騒がしいじゃねえか。\nいつもの平和ボケしたサラサリアとは空気が違う……\nまあいい。何が起こってるにせよ、好機だってことに変わりはねえ。=Và khá ồn ào, phải không? Khác với Salasaria yên bình thường thôi... Quên đi. Dù đang xảy ra chuyện gì, đó sẽ là cơ hội tốt cho chúng ta.
 さあ野郎ども、体は鈍っちゃいねぇよなぁ。\nお楽しみはこっからだ。気合入れろよォ！！=Lên nào đồ khốn! Đừng yếu đuối bây giờ, chúng ta sẽ vui vẻ từ đây trở đi!!
-
 
 

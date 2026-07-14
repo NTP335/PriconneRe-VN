@@ -135,7 +135,7 @@
 あれ……今何か聞こえませんでしたか？=Hả... Có nghe thấy gì đó không?
 なんだか声みたいに聞こえたけど……=Tôi nghe như là giọng nói...
 お、お止めなさいな！　気のせい、そう気のせいですわよ！\nさあ陛下、視察を続けましょう？\n愛の広場の飾り付けなど、まだまだ見ていただきたい場所がっ──=Ồ, xin hãy dừng lại! Đó chỉ là trí tưởng tượng của người, thực sự chỉ là trí tưởng tượng! Giờ thì, thưa Nữ hoàng, chúng ta có thể tiếp tục kiểm tra không? Vẫn còn nhiều nơi tôi muốn người xem, như trang trí ở Love Square──
-冗談じゃありませんわよ！\nイベントが始まる前からトラブルだなんて！\nここは知らぬ存ぜぬ見て見ぬフリでスルーさせていただきますわ……！=Đây không phải trò đùa! Sự cố trước khi sự kiện thậm chí còn chưa bắt đầu! Tôi sẽ giả vờ không thấy hay nghe thấy gì và bỏ qua...!
+冗談じゃありませんわよ！\nイベントが始まる前からトラブルだなんて！\nここは知らぬ存ぜぬ見て見ぬフリでスルーさせていただきますわ……！　=Đây không phải trò đùa! Sự cố trước khi sự kiện thậm chí còn chưa bắt đầu! Tôi sẽ giả vờ không thấy hay nghe thấy gì và bỏ qua...!
 ……ふぇ……ぁぅ……=.....Phi...À...Ư.....
 でも、この声……赤ちゃんの泣き声、みたいですね。\nお母さんに何かあったんでしょうか？=Nhưng giọng nói này... nghe như một em bé đang khóc. Tôi tự hỏi có chuyện gì xảy ra với mẹ của nó không?
 え、赤ちゃん……？\n…………ああもう！=Hả? Một em bé...? ...Không xong rồi!
@@ -145,7 +145,7 @@
 クレジッタさま、あちらの方からです！=Cô Creditta, nó đến từ phía kia!
 ええ、わかっていますわ。行きますわよ。\nトラブルは見つけ次第即解決。イベント視察に戻りますわ。\n……って。=Vâng, tôi hiểu. Đi thôi. Tôi sẽ giải quyết mọi sự cố ngay lập tức. Chúng ta quay lại kiểm tra sự kiện. ...Khoan đã.
 んあぁ！　んあぁ！　んあぁ……！=Nnaa! Nnaa! Nhaa...!
-……ああ、信じられませんわ。\nなんでなんで、なんでこんな所にこんなタイミングで\n赤ちゃんが放置されてるんですのよー！=...Ôi trời, tôi không thể tin được. Tại sao, tại sao, tại sao lại có em bé bị bỏ rơi ở một nơi như thế này, vào thời điểm như thế này! 
+……ああ、信じられませんわ。\nなんでなんで、なんでこんな所にこんなタイミングで\n赤ちゃんが放置されてるんですのよー！=...Ôi trời, tôi không thể tin được. Tại sao, tại sao, tại sao lại có em bé bị bỏ rơi ở một nơi như thế này, vào thời điểm như thế này!
 この街で間違いないのか、エージェントQ。=Cậu chắc chắn về thành phố này chứ, Agent Q?
 間違いないよエージェントV。ヤツはこの街にいる。=Không nghi ngờ gì, Agent V. Chúng ở trong thành phố này.
 ならば急ぐとしよう。人の手に渡ると厄介だからな。=Nếu vậy, hãy nhanh lên. Sẽ rất phiền phức nếu nó rơi vào tay con người.
@@ -163,7 +163,7 @@
 ということは、この子の親がまだ近くにいるかもしれませんね！=Điều đó có nghĩa, cha mẹ của đứa trẻ này có thể vẫn ở gần đây!
 親かどうかはわかりませんが、陛下のおっしゃる通りですわね。\nというわけで秘書１号、この子を\n【王宮騎士団（NIGHTMARE）】に預けてきなさい。=Tôi không thể xác nhận ai là cha mẹ, nhưng Nữ hoàng hoàn toàn đúng. Do đó, với tư cách là thư ký thứ nhất, tôi sẽ giao đứa trẻ này cho Nightmare.
 おや、クレジッタさまが捜すのではないのですか？=Ồ, cô không đi tìm họ sao, cô Creditta?
-わたくしは商人ですわよ？　人捜しなんて専門外もいいところ。\nそれに、【王宮騎士団（NIGHTMARE）】の詰所に\n迷子の届けが出ているかもしれませんわ。=Tôi là một thương nhân, cô không biết sao? Tìm kiếm người nằm ngoài chuyên môn của tôi. Hơn nữa, có thể có thông báo đồ thất lạc tại trụ sở Nightmare. 
+わたくしは商人ですわよ？　人捜しなんて専門外もいいところ。\nそれに、【王宮騎士団（NIGHTMARE）】の詰所に\n迷子の届けが出ているかもしれませんわ。=Tôi là một thương nhân, cô không biết sao? Tìm kiếm người nằm ngoài chuyên môn của tôi. Hơn nữa, có thể có thông báo đồ thất lạc tại trụ sở Nightmare.
 そういうわけで、貴方はこっちのお姉さんについて行きなさ──=Trong trường hợp đó, cô nên đi theo chị ấy, thưa Nữ hoàng──
 やっ！=Dạ!
 え、ちょっと貴方、手を離しなさい、ねえ！=Hả, này, buông tôi ra. Này!
@@ -357,8 +357,8 @@
 さすがクレジッタさん、頼りになりますね☆=Đúng như mong đợi, Creditta, cô đáng tin cậy quá☆
 このクレジッタ、陛下のためなら雪玉の用意くらい\nお安い御用です。もちろんいざとなれば\nこの身をていして陛下をお守りすることを誓いますわ！=Đây chỉ là một việc nhỏ nhặt đối với em, Bệ hạ. Em sẵn sàng chuẩn bị cả một quả tuyết cho người. Và tất nhiên, nếu cần, em thề sẽ bảo vệ Bệ hạ bằng mạng sống của mình!
 お気持ちはうれしいですが、玉が当たると失格になっちゃうので\nクレジッタさんも逃げてください！=Em biết ơn tấm lòng của cô, nhưng nếu cô bị bóng đánh trúng,\ncô sẽ bị loại. Vì vậy, Creditta, xin hãy chạy đi nữa!
-秘書１号の口車に乗せられてしまいましたが、\n結構いい感じじゃありませんか？=Em đã bị thuyết phục bởi lời nói ngọt ngào của Thư ký số 1,\nnhưng không phải rất tuyệt sao?
-遊びとはいえ陛下に頼られ、お役に立てている。\nこんなうれしいことはありませんわ！=Mặc dù chỉ là một trò chơi, em được Bệ hạ tin cậy và có thể giúp đỡ người. Không có gì vui hơn thế!
+秘書１号の口車に乗せられてしまいましたが、\n結構いい感じじゃありませんか？　=Em đã bị thuyết phục bởi lời nói ngọt ngào của Thư ký số 1,\nnhưng không phải rất tuyệt sao?
+遊びとはいえ陛下に頼られ、お役に立てている。\nこんなうれしいことはありませんわ！　=Mặc dù chỉ là một trò chơi, em được Bệ hạ tin cậy và có thể giúp đỡ người. Không có gì vui hơn thế!
 うき、うき！=Hoan hô, hoan hô!
 あら、貴方も雪玉作りたいんですの？\n仕方ありませんわね、ほら、これで作って陛下に献上なさい。=Ồ, cậu cũng muốn làm tuyết à?\nChắc em không còn lựa chọn nào khác. Đây, dùng cái này làm một quả và dâng lên Bệ hạ.
 ふふ、りっちゃんの手まで借りたのなら絶対に負けませんね☆\nさあ、一気に攻めたてちゃいましょう！=Hehe, nếu em mượn cả tay của Ric-chan, chắc chắn em sẽ thắng☆ Nào, cùng tấn công một lúc!
@@ -421,7 +421,7 @@
 ……どうやらすでに何かが起きたようだね、エージェントV。=...Có vẻ như một điều gì đó đã xảy ra rồi, Đặc vụ V.
 ああ、ヤツの仕業かもしれない。調査を続けるぞエージェントQ。=À, có thể là do hắn.\nChúng ta tiếp tục điều tra thôi, Đặc vụ Q.
 親捜し中にノゾミ、チカと出会うペコリーヌたち。すると今度はノゾミたちのクリスマスが再現され巻き込まれてしまう。どうにか切り抜けるも、クレジッタは一連の現象は赤ん坊の仕業だと確信する。=Trong lúc tìm kiếm cha mẹ, Pecorine và bạn bè Nozomi, Chika gặp nhau. Sau đó, lễ Giáng sinh của họ được tái hiện và họ bị cuốn vào đó. Họ somehow vượt qua được, nhưng Credtta tin rằng toàn bộ hiện tượng này là do một đứa trẻ gây ra.
-しかしここまで全然手がかりがないとは思いませんでしたわ……\nこの子、本当に何者なんですの？=Tuy nhiên, tôi chưa bao giờ nghĩ sẽ hoàn toàn không có manh mối cho đến thời điểm này...\nĐứa trẻ này thực sự là ai?
+しかしここまで全然手がかりがないとは思いませんでしたわ……\nこの子、本当に何者なんですの？　=Tuy nhiên, tôi chưa bao giờ nghĩ sẽ hoàn toàn không có manh mối cho đến thời điểm này...\nĐứa trẻ này thực sự là ai?
 わたくしたちは探偵ではありませんから仕方ありませんわ。\n地道に聞いていく他ないでしょう。=Chúng ta không phải thám tử, nên không còn lựa chọn nào khác.\nChúng ta chỉ có thể cố gắng hỏi thăm một cách kiên trì.
 これだけ聞き込みしても、手がかりなし。\nうーん、やっぱり簡単には見つかりませんね……=Ngay cả khi đã hỏi thăm nhiều đến vậy, vẫn không có manh mối. Hừm,\ncó vẻ sẽ không dễ dàng để tìm thấy.
 サレンと別れたペコリーヌと{playername}たちは、\n赤ん坊の親捜しを再開する。\nしかし、状況は芳しくなかった……=Pecorine và {playername}, đã chia tay với Saren,\ntiếp tục tìm kiếm cha mẹ của đứa trẻ.\nTuy nhiên, tình hình không mấy khả quan...
@@ -459,7 +459,7 @@
 あはは、やっぱり赤ちゃんってかわいいね。\nはい、タッチ。サービスで握手もしちゃおっと！\n大きくなったらライブ見に来てね！=Haha, em bé thật đáng yêu, phải không?\nVâng, cho tôi một cái vỗ tay. Hãy bắt tay như một dịch vụ!\nKhi lớn lên, hãy đến xem buổi biểu diễn trực tiếp của tôi!
 未来のファン獲得に向けてのアピール、さすがですね。\nそれでは私も、タッチ、そして握手です。=Tôi ấn tượng với nỗ lực của cậu thu hút người hâm mộ tương lai, như mong đợi. Vậy thì, tôi cũng sẽ chạm vào và bắt tay.
 あれ、こんな光景前にも見ましたわね。あれはたしか……\nそう、サレンさんにも同じことしていましたわよ。=Hừm, tôi đã thấy cảnh này rồi. Tôi chắc chắn...\nVâng, tôi đã làm điều tương tự với Saren.
-そしてその後すぐにあの騒動が起こっていたような。\n……偶然、ですわよね？=Và ngay sau đó,\ncó vẻ như sự ồn ào đó đã xảy ra.\n...Đó là trùng hợp, phải không?
+そしてその後すぐにあの騒動が起こっていたような。\n……偶然、ですわよね？　=Và ngay sau đó,\ncó vẻ như sự ồn ào đó đã xảy ra.\n...Đó là trùng hợp, phải không?
 おや、急に暗くなりましたね。\n雨が降ると困りますから、移動しませんか？=Ồ, trời bỗng tối sầm.\nSẽ rắc rối nếu trời mưa, chúng ta di chuyển chứ?
 あー……これは……\n……まさか、ね……あ！=À... Đây là...\n...Không thể nào... À!
 みんな気を付けて！\n雨雲じゃなくてプリンだよ！=Mọi người, cẩn thận!\nĐó không phải đám mây mưa, mà là pudding!
@@ -653,7 +653,7 @@
 声が震えているぞ、身なりの派手な女性。\n相手の力量もはかれないヤツが足止めなどするもんじゃない。=Giọng nàng run run, nàng là một người phụ nữ lòe loẹt.\nNgười không thể đo lường sức mạnh đối thủ đang tự giới hạn bản thân.
 見る目がないのは悲しいね。\nでも僕たちも仕事だからさ。立ち塞がるなら、容赦はしないよ。=Thật đáng buồn khi các người không có mắt nhìn xa.\nNhưng đó cũng là công việc của chúng tôi, các người biết mà. Nếu cản đường,\nchúng tôi sẽ không thương xót.
 いくぞ、身なりの派手な女性。後悔してももう遅いからな。=Đi thôi, cô gái lòe loẹt với vẻ ngoài sặc sỡ.\nĐã quá muộn để hối hận rồi, các người biết mà.
-くっ、男二人相手に無茶でしたかしら……\nでも、死んでもここは通しませんわ！=Khốn, đối mặt với hai người đàn ông là liều lĩnh của tôi...\nNhưng ngay cả khi tôi chết, tôi cũng sẽ không để họ qua!
+くっ、男二人相手に無茶でしたかしら……\nでも、死んでもここは通しませんわ！　=Khốn, đối mặt với hai người đàn ông là liều lĩnh của tôi...\nNhưng ngay cả khi tôi chết, tôi cũng sẽ không để họ qua!
 ……って、よっっっわ！\n女の細腕に秒でぶちのめされるとか冗談ですの？\nわたくし商人で戦闘は専門外ですわよ！　ホントに！=...Khoan, Ôi trời! Các người đùa đấy à?\nBị hạ gục trong vài giây bởi cánh tay mảnh khảnh của một phụ nữ?\nTôi là thương nhân, đánh đấm không phải sở trường! Thật sự!
 あんなできる雰囲気出しておいてこの弱さ、詐欺じゃありませんこと！\nていうかその武器みたいなのなんなんですのよ！=Các người toát ra vẻ rất giỏi, nhưng lại yếu thế này? Đây không phải bẫy, tôi thề! À, cái vũ khí trông như thứ các người đang cầm là sao?!
 ふっ、本当に見る目がないようだ……\n我々が弱いということも分からないなんてな。=Hmph, có vẻ các người thực sự không có mắt nhìn xa...\nCác người thậm chí không nhận ra rằng chúng tôi yếu.
@@ -789,7 +789,7 @@
 わ、と、これは……なかなか、大変、ですね、きゃあ！=Ồ, cái này... khó đánh thật nhỉ? Kyaaa!
 陛下！=Thưa Nữ hoàng!
 陛下はあの子を傷付けることができないから防戦一方、\nでも相手は構わず攻撃を続ける。このままではジリ貧ですわ……=Thưa Nữ hoàng đang ở thế phòng thủ vì không thể làm hại đứa trẻ đó,\nnhưng đối thủ tiếp tục tấn công không chút do dự.\nCứ thế này, chúng ta sẽ lâm vào tình thế nguy hiểm...
-早くスイッチを押さなくてはいけないのに、\n迂闊に動けないなんて……\n陛下が体を張って、隙を作ろうとしてくださっているこの状況で！=Tôi cần phải bấm công tắc nhanh, nhưng không thể di chuyển liều lĩnh... đặc biệt là trong tình huống này khi Thưa Nữ hoàng đang tự đặt mình vào nguy hiểm để tạo ra một cơ hội!
+早くスイッチを押さなくてはいけないのに、\n迂闊に動けないなんて……\n陛下が体を張って、隙を作ろうとしてくださっているこの状況で！　=Tôi cần phải bấm công tắc nhanh, nhưng không thể di chuyển liều lĩnh... đặc biệt là trong tình huống này khi Thưa Nữ hoàng đang tự đặt mình vào nguy hiểm để tạo ra một cơ hội!
 ツインショックパルサー=Song Kích Động Từ
 貴方たち……！=Các ngươi...!
 早く行け、身なりの派手な女性。=Nhanh lên mà đi, cô gái lòe loẹt kia.
@@ -805,9 +805,9 @@
 ああ、よしんば回収したところで既に起動してるから、\n再び街にやって来て暴れるだけだ。\nまあ、破壊するのには絶好のチャンスではあるがな。=À, ngay cả khi chúng ta có thể thu hồi nó, nó đã được kích hoạt rồi,\nsẽ chỉ quay lại thị trấn và gây rối trật tự nữa.\nThôi thì, đây là một cơ hội hoàn hảo cho sự hủy diệt, dù vậy.
 どうする？　今すぐ破壊するか、それともクリスマスまで先延ばしして\n街が破壊されるのを見届けるか……=Chúng ta nên làm gì? Nên phá hủy nó ngay lập tức hay trì hoãn đến dịp Giáng sinh và chứng kiến sự hủy diệt của thành phố...
 そう、ですよね……まだ何も解決してないのにわたしったら、\n本当におっちょこちょいな王女ですね☆=Đúng rồi... Dù chưa có vấn đề gì được giải quyết,\ntôi thực sự là một công chúa vô tư☆
-なぜ、なぜなんですの？\nわたくしは陛下に幸せなクリスマスを過ごしてほしかっただけなのに、\nなぜあんな哀しい顔をさせているんですの？=Tại sao, tại sao lại như vậy?\nTất cả những gì tôi muốn là cho Thưa Nữ hoàng có một Giáng sinh hạnh phúc,\nvậy tại sao cậu lại làm một khuôn mặt buồn bã như vậy?
+なぜ、なぜなんですの？\nわたくしは陛下に幸せなクリスマスを過ごしてほしかっただけなのに、\nなぜあんな哀しい顔をさせているんですの？　=Tại sao, tại sao lại như vậy?\nTất cả những gì tôi muốn là cho Thưa Nữ hoàng có một Giáng sinh hạnh phúc,\nvậy tại sao cậu lại làm một khuôn mặt buồn bã như vậy?
 やはり大きな力に願ってしまったことが\nそもそもの間違いだったのですね。\n過去の強欲な対象者のように待ち受けるのは破滅……=Có vẻ như ước muốn sức mạnh lớn lao mới là\nsai lầm cơ bản.\nChờ đợi, giống như những mục tiêu tham lam trong quá khứ, sẽ dẫn đến sự hủy diệt...
-いいえ、いいえ！\n陛下の幸せを望むことのどこが悪いんですの！=Không, không!\nƯớc muốn hạnh phúc cho Thưa Nữ hoàng thì có gì sai chứ!
+いいえ、いいえ！\n陛下の幸せを望むことのどこが悪いんですの！　=Không, không!\nƯớc muốn hạnh phúc cho Thưa Nữ hoàng thì có gì sai chứ!
 わたくしはたしかに欲深いですが、今回は違いますわ！\n探りなさいクレジッタ、誰も不幸にならない可能性を……あ。=Tôi chắc chắn là tham lam, nhưng lần này thì khác! Điều tra đi, Creditta, khả năng rằng không ai sẽ bất hạnh... À!
 ねえ、ポンジェント。この子が過去にしてきたことって、\nもしかして過剰な幸福を得たせいで不幸になってしまった対象者を\n救おうとして、結果的に破滅させてしまったのではなくて？=Này, Đặc vụ. Những việc đứa trẻ này đã làm trong quá khứ, liệu nó có thể đang cố gắng cứu những nạn nhân không may mắn, những người đã trở nên bất hạnh do hạnh phúc quá mức, nhưng cuối cùng lại dẫn đến sự hủy diệt của họ không?
 なるほど、あんたの言うことも一理あるかもしれん。=Tôi hiểu rồi, có thể có sự thật trong những gì cậu nói.

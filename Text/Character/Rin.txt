@@ -16,19 +16,21 @@ r:"^範囲内の味方の魔法防御力を(\d+)アップ$"=►Tăng M.DEF cho �
 
 ##S2##
 ドングリスローイング=Trận Mưa Quả Đực
+目の前の敵１キャラに物理小ダメージを与え、スタンさせる。=Gây sát thương vật lý nhỏ lên 1 kẻ địch ở phía trước và làm choáng chúng.
 
 ##EX##
 ドングリチャージ=Được Năng Lượng Từ Quả Đực
 ドングリチャージ+=Được Năng Lượng Từ Quả Đực+
+バトル開始時に自分の魔法防御力を大アップする。=Vào đầu trận chiến, tăng lớn phòng thủ phép của bản thân.
 
 ##UB+##
 あんパン・バケーション=Kỳ Nghỉ Bánh Mì Nhân
-味方全体のＨＰを小回復し、物理攻撃力と魔法防御力を特大アップ、物理クリティカルを大アップ、ＴＰ上昇を小アップさせる。さらに次の攻撃のダメージ量に応じて追加でＨＰを回復させる。=Hồi một chút HP cho đồng minh, tăng lớn P.ATK, M.DEF và Tỷ Lệ Chí Mạng, đồng thời tăng nhỏ TP Boost. Ngoài ra còn tặng hiệu ứng Hút Máu cho tất cả đồng minh tương ứng với lượng sát thương của đòn tấn công tiếp theo.
+味方全体のＨＰを小回復、物理攻撃力と魔法防御力を特大アップ、物理クリティカルを大アップ、ＴＰ上昇を小アップさせる。次の攻撃のダメージに応じて、追加でＨＰを回復させる。=Hồi phục nhẹ HP cho toàn bộ đồng minh, tăng cực lớn sát thương vật lý và phòng thủ phép, tăng lớn tỷ lệ chí mạng vật lý, đồng thời tăng nhẹ tốc độ nạp TP của họ. Ngoài ra, hồi phục thêm HP dựa trên lượng sát thương gây ra bởi đòn tấn công tiếp theo.
 r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体のＴＰ上昇を(\d+)アップ$"=►Hồi HP đồng minh lên $1.\n►Áp dụng hiệu ứng Hút Máu cho 1 đòn tấn công tiếp theo của tất cả đồng minh.\n►Tăng P.ATK đồng minh lên $2 trong 18s.\n►Tăng M.DEF đồng minh lên $3 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng đồng minh lên $4 trong 18s.\n►Tăng TP Boost đồng minh lên $5 trong 18s.
 
 ##S1+##
 果報は寝て待てモード+=Kiên Nhẫn Là Phẩm Hạnh+
-自分の周囲の味方すべての魔法防御力を大アップさせ、さらに物理攻撃力を大アップ、物理クリティカルを中アップさせる。=Tăng lớn M.DEF cho tất cả đồng minh gần đó, tăng trung bình P.ATK và tăng nhỏ Tỷ Lệ Chí Mạng.
+自分を中心とした範囲内の味方の魔法防御力と物理攻撃力を大アップ、物理クリティカルを中アップさせる。=Tăng lớn phòng thủ phép và sát thương vật lý của đồng minh trong phạm vi xung quanh bản thân, đồng thời tăng vừa tỷ lệ chí mạng vật lý của họ.
 r:"^範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=Thời gian thi pháp: 0.59s\n►Tăng M.DEF cho đồng minh trong phạm vi 250 lên $1 trong 12s.\n►Tăng P.ATK cho đồng minh trong phạm vi 250 lên $2 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng cho đồng minh trong phạm vi 250 lên $3 trong 12s.
 
 ##UE##

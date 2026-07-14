@@ -69,7 +69,7 @@
 コイツに関してはガードが硬くてな。\n超極秘の内偵情報だが……\nどうやら「秘めた権力欲」を持っているらしい。=Cô ấy cảnh giác cao. Dựa trên thông tin mật... cô ấy có "khát vọng quyền lực ẩn giấu".
 決して表には出さないムッツリだそうだが……\nしかしだとすれば、勝算はあるはずだ。=Cô ấy chưa bao giờ thể hiện nó trên bề mặt, nhưng là người thèm khát quyền lực được che giấu. Nếu vậy, có lẽ sẽ có cơ hội.
 ……でも。\nこれが権力という山から見る景色でしょうか。\n思ったよりも、侘しい気がしますが。=...Nhưng. Đây có phải là tầm nhìn từ ngọn núi quyền lực? Tôi cảm thấy thảm hại hơn tôi tưởng.
-…………そらきた！=...Đến rồi!
+…………そらきた！　=...Đến rồi!
 いやはや、さすがネネカさま……おっしゃる通り。\n今ご覧になっているのは、権力という麗しい山の\nまだほんのほんの、麓の景色にございます。=Ồ, đúng như mong đợi từ Neneka-sama... ngài nói đúng. Điều ngài đang thấy lúc này chỉ là một phần nhỏ xíu, nhỏ xíu của ngọn núi quyền lực tươi đẹp.
 さぁここから、更なる高みへ……参りますよ！\nこちらをご覧ください！！=Bây giờ, hãy cùng leo lên độ cao hơn... xin ngài nhìn sang đây!!
 ──これは？=──Đây là cái gì?
@@ -84,7 +84,7 @@
 ここに玉座の間を設けましょう。\n栄耀栄華の毎日をお送りくだされば、と。=Hãy thiết lập một phòng ngai vàng ở đây. Xin ngài tận hưởng những ngày vinh quang của mình.
 ……乗ります。=...Tôi nhận.
 じゃあ私も～♪=Vậy em cũng nhận~♪
-──よしっ！　作戦成功だ！=──Được rồi! Nhiệm vụ hoàn thành!
+──よしっ！　作戦成功だ！　=──Được rồi! Nhiệm vụ hoàn thành!
 ヨイッショー！\nヨイッショー！\nヨイショッショー！=Yoisho!\n Yoisho!\nYoishossho!
 隊長たち=Các Đội trưởng
 わ～玉座ごと担がれてる～！\nそしてこの座り心地～！\n達成感、自己肯定感、優越感、全部満たされる～～玉座ってすご～い！=Ồ~ chúng mình được nâng trên ngai vàng rồi~! Mà cái ghế này thoải mái quá~! Thành tựu, sự khẳng định bản thân, vị thế, mọi thứ đều thỏa mãn rồi~ ~ ngai vàng kinh khủng thật!
@@ -137,8 +137,8 @@
 元より暴露するつもりなどありません。\nなので約束するつもりもありませんが。=Từ đầu tôi đã chẳng định tiết lộ đâu. Cũng chẳng định hứa hẹn gì cả.
 ユカリさんもそう言ったはずです。\nそもそも、ただの保険だと言ったのは貴方がたではないですか。=Yukari-san cũng nói vậy. Rốt cuộc, là các người nói đó chỉ là bảo hiểm thôi.
 ……っ！！=...!!
-いざという時守ってくれるという約束が、保険なんだ……！\n約束がないんじゃ……振り出しじゃないか！=Vậy là lời hứa bảo vệ chúng tôi khi gặp chuyện chỉ là một sự bảo hiểm...! Không có lời hứa... chúng tôi lại phải bắt đầu từ đầu!
-コイツらには通じない。かくなる上は……！=Họ sẽ không nghe chúng ta. Trong trường hợp đó...!
+いざという時守ってくれるという約束が、保険なんだ……！\n約束がないんじゃ……振り出しじゃないか！　=Vậy là lời hứa bảo vệ chúng tôi khi gặp chuyện chỉ là một sự bảo hiểm...! Không có lời hứa... chúng tôi lại phải bắt đầu từ đầu!
+コイツらには通じない。かくなる上は……！　=Họ sẽ không nghe chúng ta. Trong trường hợp đó...!
 ……あ、そういえば。\n接待が思い通りに進まなかった時のために、\n我々を始末してしまうべく、貴方がたが仕込んでいたアサシン。=...Nhân tiện. Tên sát thủ cô thuê để loại bỏ chúng tôi nếu buổi giải trí không như kế hoạch.
 私が倍のお給料で引き抜いておきました。\n──アサシン、貴族どもを捕縛しなさい。=Tôi đã đưa ra mức lương gấp đôi để đánh lạc hướng họ. ---Sát thủ, bắt những kẻ quý tộc này.
 うわぁぁぁぁ！？=Ối trời ơi!?
@@ -181,7 +181,7 @@
 コイツに関してはガードが硬くてな。\n超極秘の内偵情報だが……\nどうやら「秘めた権力欲」を持っているらしい。=Cô ấy cảnh giác cao. Dựa trên thông tin mật... cô ấy có "khát vọng quyền lực ẩn giấu".
 決して表には出さないムッツリだそうだが……\nしかしだとすれば、勝算はあるはずだ。=Cô ấy chưa bao giờ thể hiện nó trên bề mặt, nhưng là người thèm khát quyền lực được che giấu. Nếu vậy, có lẽ sẽ có cơ hội.
 ……でも。\nこれが権力という山から見る景色でしょうか。\n思ったよりも、侘しい気がしますが。=...Nhưng. Đây có phải là tầm nhìn từ ngọn núi quyền lực? Tôi cảm thấy thảm hại hơn tôi tưởng.
-…………そらきた！=...Đến rồi!
+…………そらきた！　=...Đến rồi!
 ヨイッショー！\nヨイッショー！\nヨイショッショー！=Yoisho!\n Yoisho!\nYoishossho!
 ヨイッショー！\nヨイッショー！=Yoisho!\nYoisho!
 担いでくれている貴方がたは……\n【王宮騎士団（NIGHTMARE）】の隊長の方々ですね。\n貴族たちに雇われて、この役目を？=Những người đang khiêng chúng ta là... các đội trưởng của Nightmare, đúng không? Các người được thuê bởi các quý tộc để làm công việc này?

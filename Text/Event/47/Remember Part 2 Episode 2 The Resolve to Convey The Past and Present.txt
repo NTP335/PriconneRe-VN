@@ -43,7 +43,7 @@
 しっ、知らないわよ！？\nでもこれって……！=Biết gì chứ!\nDù sao, đây là...!
 彼の……強化の力！？\nどうして？　眠ってるのに……！？=Đó là... sức mạnh tăng cường của cậu ấy?!\nNhưng tại sao...? Cậu ấy đang ngủ!
 ちょっとこれ、普通じゃないわよ……！\nいつもより、力が……あふれて……止まらない……！=Này, cái này... không giống mọi khi!\nSức mạnh đang chảy mạnh hơn mọi khi và không dừng lại...!
-体の中が灼けるみたいに熱い……！\nなんなのよ、これは……っ！=Cơ thể tôi như đang bừng cháy...!\nĐây là gì vậy?!
+体の中が灼けるみたいに熱い……！\nなんなのよ、これは……っ！　=Cơ thể tôi như đang bừng cháy...!\nĐây là gì vậy?!
 主、さま……！=Chủ... nhân...!
 コッコロさん！\n無理に動こうとしちゃダメ……！\nこの力、体に負担が大きすぎる……！=Kokkoro-san! Cô không nên cố gắng di chuyển!\nSức mạnh này quá nặng nề cho cơ thể chúng ta...!
 でも、主さまの身に何かが……！=Nhưng... Chủ nhân đang gặp nguy hiểm...!
@@ -135,7 +135,7 @@
 どこまで落ちたわけ？\nここ、どこ……？=Mình đã rơi xa đến mức nào?\nMình... đang ở đâu?
 ……陛下……？=Người thiên triều...?
 陛下……！\nあたしの声が、聞こえますか……？=Người thiên triều...!\nNgười có nghe được tiếng tôi không...?
-反応がない……あの戦いから、まだ意識が戻ってないの……？=Người ấy không trả lời...\nLiệu ý thức người ấy chưa trở lại kể từ trận chiến đó...?
+反応がない……あの戦いから、まだ意識が戻ってないの……？　=Người ấy không trả lời...\nLiệu ý thức người ấy chưa trở lại kể từ trận chiến đó...?
 陛下……陛下！\n起きてくださいどうか……！=Người thiên triều... Người thiên triều!\nXin hãy tỉnh lại!
 ……陛下！=Người thiên triều!
 ──五月蠅いわよ。=Cậu ồn quá.
@@ -171,7 +171,7 @@
 ……その……=...Ưm...
 いつも私をキラキラと見つめていたあの甘ったれた目は、\nまだ変わりないみたいね？\nああ、笑えすぎて……虫唾が走る。=Có vẻ cậu vẫn còn ánh mắt ngưỡng mộ mỗi khi nhìn thấy tôi.\nÀ, nó khiến tôi cười đến mức...\n...ghê tởm.
 期待……してなかったわけじゃない。\nあたしは何も考えずに、ただ可能性にすがってきただけ。\n陛下に会えれば思いのままことが進むだなんて、あるはずがないのに。=Tôi không thể nói là không ngờ...\nTôi chỉ đến đây mà không suy nghĩ, bám vào một khả năng.\nMặc dù không có cách nào mọi chuyện sẽ theo ý tôi nếu tôi gặp Bệ hạ.
-それでもやらなくちゃと思ったから、ここに来た。\n……どうしたらいいの……？\n諦めるしかない？　あたしにはやっぱり、何もできない？=Nhưng tôi vẫn đến, vì tôi cảm thấy việc này cần phải làm.\nTôi phải làm sao...? Tôi phải từ bỏ ư?\nCuối cùng tôi không thể làm gì sao?
+それでもやらなくちゃと思ったから、ここに来た。\n……どうしたらいいの……？\n諦めるしかない？　あたしにはやっぱり、何もできない？　=Nhưng tôi vẫn đến, vì tôi cảm thấy việc này cần phải làm.\nTôi phải làm sao...? Tôi phải từ bỏ ư?\nCuối cùng tôi không thể làm gì sao?
 あたしはどうしてここに来ちゃったの？\nあたしは、ただ……救いたいだけ。\nあいつを──=Tại sao tôi lại đến đây?\nTôi chỉ muốn... cứu...\n...cứu cậu ấy.
 ──好きな人が、できたんです。=Tôi đã tìm thấy người tôi yêu.
 前のあたしには、陛下しかいませんでした。\n陛下に憧れて、陛下に尽くしたくて、\n陛下さえいれば、何もいらないと思ってました。=Từ trước đến giờ tôi chỉ có mình Bệ hạ.\nTôi ngưỡng mộ người, tôi muốn cống hiến cho người,\nvà tôi nghĩ tôi không cần gì khác miễn là có người.
@@ -199,7 +199,7 @@
 ふふ、ふふふ。\nああ、やっぱりあなたの悲鳴は格別ね。\n裏切られたときのその泣き顔も、たまらないわ。=À, tiếng kêu của cậu thật dễ chịu như mọi khi.\nTôi không thể đủ với khuôn mặt đẫm nước mắt cậu làm khi bị phản bội.
 へい、か……！=Này, hử...!
 あぁ……たったこれっぽちの魔力量じゃ、\nとても今の全てを見通すのは無理ね……残念。=Ồ...\nLượng mana nhỏ nhoi này sẽ không cho phép tôi nhìn thấu mọi thứ.\n...Thật đáng tiếc.
-でも、不自然なデータの綻び、歪みは視えた。\n……どうしてやろうかしら。どうしてほしい？　ねぇ、晶……？=Nhưng tôi thấy một điểm đau với sự biến dạng dữ liệu bất thường.\nTôi nên làm gì...? Người muốn tôi làm gì?\nNói đi... Akira.
+でも、不自然なデータの綻び、歪みは視えた。\n……どうしてやろうかしら。どうしてほしい？　ねぇ、晶……？　=Nhưng tôi thấy một điểm đau với sự biến dạng dữ liệu bất thường.\nTôi nên làm gì...? Người muốn tôi làm gì?\nNói đi... Akira.
 正直、このまま何も教えずにキャルの泣き顔を\n見ているのも、退屈しのぎにはなるかもしれないけど……=Thực tế, không nói gì với Kyaru và xem khuôn mặt khóc của cô ấy sẽ rất giải trí nhưng...
 ──彼を連れて、ソルの塔に行きなさい。=Đưa cậu ấy và tìm đường đến Tháp Sol.
 二度は言わないわよ。=Tôi sẽ không lặp lại.

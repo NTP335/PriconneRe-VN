@@ -128,7 +128,7 @@
 迷惑じゃなかったらいいなって思うんだけど。\nまた、頼ってもいいかな？=Hy vọng em không thấy phiền...\nNhưng lần này, em có thể dựa vào cậu được chứ?
 えへへ……本当にキミは、頼りになるなぁ。\n私が困ってるときは、いつも傍にいてくれて。=He he... Em rồi sẽ trở nên phụ thuộc vào cậu mất thôi.\nCậu luôn xuất hiện khi em gặp khó khăn mà.
 今だけは、思いっきり甘やかしてあげてください。\nお姉ちゃんが安心して眠れるように。=Dù chỉ là lúc này, xin hãy tiếp tục cưng chiều cô ấy.\nĐể Onee-chan có thể yên giấc.
-あったかい……\nもう少し、もたれちゃっても……いいかな……？=Ấm áp quá... Không sao đâu... Nếu em tựa vào nhiều hơn một chút... Đúng không?
+あったかい……\nもう少し、もたれちゃっても……いいかな……？　=Ấm áp quá... Không sao đâu... Nếu em tựa vào nhiều hơn một chút... Đúng không?
 ん……しょ……=Ừm...
 ……えっと、暑苦しくない？\nその、ぴったりくっついちゃってるけど。=...Ơ, như thế này có hơi nóng không nhỉ?\nHai đứa sát sàn sàn nhau rồi...
 もう少しだけ、強く抱きしめる。=Ôm cô ấy thật chặt đi.
@@ -138,12 +138,12 @@
 ここは……どこだろう……\n真っ暗で何も見えないよ……=Nơi này... Đây là đâu... \nTối đen như mực, em chẳng thấy gì cả...
 もう、予知夢を見ることすらできないのかな……\n彼やシオリンが励ましてくれたのに、\n私、最後の最後でダメだったな……=Cuối cùng, em cũng không thể nhìn thấy giấc mơ... Dù anh và Shiorin đã khích lệ em nhiều lắm, em vẫn làm họ thất vọng...
 ぼあああああああああああ～！=Báaaaa～!
-この声は、イノリちゃん……？\nそれにこれって、隕石を壊すときの叫び声だよね……？=Giọng này, là Inori-chan...? Vậy đây là tiếng hét của cô ấy khi phá hủy tinh thể thiên thạch...?
+この声は、イノリちゃん……？\nそれにこれって、隕石を壊すときの叫び声だよね……？　=Giọng này, là Inori-chan...? Vậy đây là tiếng hét của cô ấy khi phá hủy tinh thể thiên thạch...?
 あとは……ハツネさん！=Tiếp theo là... Hatsune-san!
 うん！　止まれ～！=Được! Dừng lại～!
-あれって、私！？\nそういえば、今まで見た予知夢って、\n未来で私がどうしてたのかって見れてなかったかも……！=Có phải là em!? À, phải rồi, em chưa từng thấy chính mình trong những giấc mơ trước đây...!
+あれって、私！？\nそういえば、今まで見た予知夢って、\n未来で私がどうしてたのかって見れてなかったかも……！　=Có phải là em!? À, phải rồi, em chưa từng thấy chính mình trong những giấc mơ trước đây...!
 うっ……ぐっ……！=Uuh... Guhh...!
-超能力で、破片を押し返そうとしてるんだ！\nもしかして、これって……\n超能力を強くしてほしいって願った未来！？=Em đang đẩy lui mảnh vỡ thiên thạch bằng năng lực đặc biệt của mình! Có thể đây... là tương lai mà em ước muốn năng lực đặc biệt mình mạnh hơn!?
+超能力で、破片を押し返そうとしてるんだ！\nもしかして、これって……\n超能力を強くしてほしいって願った未来！？　=Em đang đẩy lui mảnh vỡ thiên thạch bằng năng lực đặc biệt của mình! Có thể đây... là tương lai mà em ước muốn năng lực đặc biệt mình mạnh hơn!?
 もっと気合入れやがれです！　まだ破片が止まってねーですよ！=Cố lên! Mảnh vỡ chưa dừng lại hẳn!
 絶対の、絶対に……みんなで初詣に行くんだぁ～！=Em nhất định, chắc chắn...\nSẽ đảm bảo mọi người có được chuyến viếng chùa đầu năm～!
 こ、ここでおしまい……？\nちゃんと破片は止められたの！？\nみんなやランドソルは、どうなっちゃったの！=Kết thúc ở đó...? Chúng ta thực sự đã ngăn được mảnh vỡ thiên thạch rồi ư!? Mọi người và Landosol ra sao rồi!
@@ -162,5 +162,4 @@
 いつもならうれしいんだけどな～\n……今回だけは、シオリンと一緒にいて。\nハツネちゃんの、一生のお願いだから。=Thông thường em sẽ vui mừng lắm～... \nNhưng lần này, xin hãy ở lại với Shiorin.\nXin hứa với em đi.
 それじゃ、森神さまに相談してくるね！\n超能力のことも、流石に説明しないとダメだろうし！\n最後までがんばろ～☆=Vậy, em sẽ nói chuyện với Morigami-sama! Em không thể để năng lực đặc biệt của mình không rõ ràng với cô ấy! Cố lên đến tận cùng～☆
 お姉ちゃん……=Onee-chan...
-
 

@@ -11,4 +11,3 @@ r:"^ちいさな出会いの海岸([0-9\-\(\)\w （）]*)$"=Bãi biển Cuộc g
 みゅ～ちゃんすくすく日記その4=Nhật ký của Myu-chan Số 4
 絵日記解放=Mở khóa nhật ký hình ảnh
 スペシャルバトル解放チュートリアル=Hướng dẫn trận đặc biệt
-

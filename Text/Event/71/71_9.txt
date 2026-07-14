@@ -52,7 +52,7 @@
 レイさん！=Rei-san!
 わ、わたしたちから……\n……は……離れ……=K-Không được đến gần chúng tôi...
 騎士くん、たちが……\n来る、まで……=Cho đến khi Kishi-kun và mọi người... đến đây...
-『赤い霧の精霊』……！\n破壊するだけでは飽き足らず、体の自由まで奪うのか！=Sương Đỏ...!\nNgươi không chỉ thỏa mãn với việc hủy diệt chúng, mà còn định chiếm đoạt cả ý chí tự do của chúng nữa!?
+『赤い霧の精霊』……！\n破壊するだけでは飽き足らず、体の自由まで奪うのか！　=Sương Đỏ...!\nNgươi không chỉ thỏa mãn với việc hủy diệt chúng, mà còn định chiếm đoạt cả ý chí tự do của chúng nữa!?
 ……たぁーーーっ！！！=...Taaaaah!!!
 アアァアッ！！=Aaaaah!!
 くうっ！！\nこ、これくらい……へっちゃら──だよっ！！=Ugh!! T-Tôi ổn... chỉ chút này... là ổn!!
@@ -64,14 +64,14 @@
 ヒヨリ……私も！\nはあっ！！=Hiyori... Đến lượt tôi! Haah!!
 無茶を……する、な……！！\n精霊には、アストラルのちから、でなけれ……ば！=Đừng... làm... bất cứ điều gì... liều lĩnh...!! Nếu không... Linh hồn sẽ nhắm vào... nguồn gốc của Astral po... wer!
 あなたたちが苦しんでいるのを、ただ見ているなんてできない！\n……私たちが強敵だと思えば\n案外、精霊が自ら出張ってくるかもしれないぞ？=Tôi sẽ không đứng nhìn mọi người chịu đau khổ!\n...Nếu nó nghĩ chúng ta đủ nguy hiểm, Linh hồn có thể sẽ rời đi của riêng nó, cậu biết chứ?
-とは言ってみたものの……\n状況は最悪だ。\n頼む、来てくれ──！！=Nhưng mà... tình hình trông rất tệ.\nXin hãy đến sớm!
-騎士くん──！！=Kishi-kun!!
+とは言ってみたものの……\n状況は最悪だ。\n頼む、来てくれ──！！　=Nhưng mà... tình hình trông rất tệ.\nXin hãy đến sớm!
+騎士くん──！！　=Kishi-kun!!
 遅くなってごめん！=Xin lỗi, tôi đến muộn!
 大変なことになってるじゃない！\n二人とも大丈夫！？=Tình hình trông rất tệ! Hai người ổn chứ?!
 あたしたちは大丈夫！\nでも、アイラとシナツさんが……！=Chúng tôi sẽ ổn! Nhưng Aira và Shinatsu-san...!
 ……セキュリティプログラムの侵入を許したのね。\n破壊と支配。\nその狭間の有様といったところ？=...Vậy là chúng đã cho chương trình bảo mật xâm nhập vào người họ.\nHủy diệt và kiểm soát.\nCó phải đó là chuyện đang xảy ra giữa họ?
 エリス、あなたの言う通りだ。\nことは一刻を争う。=Eris, hoàn toàn đúng. Thời gian là yếu tố then chốt.
-わたしのせいだ……\nわたしがワガママを言わなかったら\nこんなことになる前に精霊を倒せたかもしれないのに……！=Tất cả đều lỗi của tôi... Nếu tôi không ích kỷ, có lẽ tôi đã có thể đánh bại Linh hồn trước khi chuyện này xảy ra...!
+わたしのせいだ……\nわたしがワガママを言わなかったら\nこんなことになる前に精霊を倒せたかもしれないのに……！　=Tất cả đều lỗi của tôi... Nếu tôi không ích kỷ, có lẽ tôi đã có thể đánh bại Linh hồn trước khi chuyện này xảy ra...!
 ……であれば。=...Trong trường hợp đó.
 ──まずはプログラムの注意をこちらに引き付ける。=...Trước tiên, chúng ta phải kéo sự chú ý của chương trình về phía mình.
 プログラムは自らが対象を排除するように設定されている。\nだからこそ、第三者が対象を排除することは許可しない。\n安全な状況を確保してから、情報の破壊をする。=Chương trình được thiết kế để tự mình loại bỏ mục tiêu.\nVì vậy nó sẽ không cho phép bên thứ ba can thiệp. Sau khi đảm bảo an toàn xung quanh, dữ liệu sẽ bị tiêu diệt.
@@ -96,7 +96,7 @@
 助かったよ、ユイ！=Cậu đã cứu tôi, Yui!
 大丈夫！\nレイちゃんは攻撃に集中し──\nヒヨリちゃん危ない！　光の精よ、炎から守って！=Đừng lo! Rei-chan, tập trung tấn công!\nHiyori-chan, cẩn thận!\nSpirit of Light, bảo vệ chúng ta khỏi ngọn lửa!
 ユイちゃん、ありがとう！\nこんなに離れてるのに、気づいてくれたんだね！=Cảm ơn, Yui-chan!\nTôi không nghĩ cậu có thể nhìn thấy tôi từ xa như vậy!
-これ以上、みんなの足は引っ張りたくない！\nわたしにできることを精一杯やらなくちゃ！=Tôi không muốn kéo cả nhóm xuống nữa!\nTôi phải làm những gì mình có thể!
+これ以上、みんなの足は引っ張りたくない！\nわたしにできることを精一杯やらなくちゃ！　=Tôi không muốn kéo cả nhóm xuống nữa!\nTôi phải làm những gì mình có thể!
 みんなやるじゃない！\nあんたも頑張りなさい！\n集中よ、集中！=Không tệ chút nào, các bạn!\nCác bạn cũng cố gắng hết sức nào! Tập trung đi, tập trung!
 おかしい？\n何が？=Kỳ lạ? Gì vậy?
 えっ──\nどうして！？=Hả? Tại sao!?

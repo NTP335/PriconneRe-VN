@@ -1,5 +1,5 @@
 ##Profile##
-【物理】後衛からクリティカル攻撃するカリスマモデル。ダメージ2倍のクリティカルダメージはスキルによる攻撃力アップでさらに破壊力を増す。=[Vật lý] Một người mẫu quyến rũ, gây sát thương phản ứng từ hậu phương. Các đòn phản ứng gấp đôi sát thương của cô ấy được tăng cường thêm bởi các kỹ năng tăng sức tấn công.
+【物理】後衛からクリティカル攻撃するカリスマモデル。必ずクリティカルするユニオンバーストのダメージはスキルによる攻撃力アップでさらに破壊力を増す。=[Vật lý] Người mẫu lôi cuốn chuyên gây sát thương chí mạng từ hàng sau. Sát thương Union Burst chắc chắn chí mạng của cô ấy sẽ càng tăng thêm sức phá hủy nhờ kỹ năng tăng sát thương vật lý.
 天真爛漫で人気者のカリスマモデル=Một người mẫu thời trang charisma, ngây thơ nhưng lại rất nổi tiếng.
 
 ファッション=Fashion

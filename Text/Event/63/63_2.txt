@@ -48,7 +48,7 @@
 ……どうかしましたか？=...Có chuyện gì sao?
 え、ええと……その、わらわは……=U-Uhm... Ừm, em...
 あれ？\nそういえば吸血鬼ってニンニクが弱点じゃなかったっけ？=Nhắc mới nhớ, ma cà rồng không phải yếu điểm là tỏi sao?
-おお、よう言うたぞユキ！\nわらわが直接苦手と口にするわけにはいかんからな、\nユキよ、その調子でやんわりと伝えるのじゃ……！=Ồ, hay quá Yuki! Em không thể trực tiếp nói là mình không hợp tỏi.\nCứ nói hộ em đi!
+おお、よう言うたぞユキ！\nわらわが直接苦手と口にするわけにはいかんからな、\nユキよ、その調子でやんわりと伝えるのじゃ……！　=Ồ, hay quá Yuki! Em không thể trực tiếp nói là mình không hợp tỏi.\nCứ nói hộ em đi!
 いえ、それは違いますな。\nただの吸血鬼であるならそうかもしれませんが、\n伝説の吸血鬼に弱点などございません。=Không, không phải vậy. Có lẽ đúng với ma cà rồng thường, nhưng ma cà rồng huyền thoại sẽ không có điểm yếu như vậy.
 えっ。=Hả?
 はい、魔族の間に伝わっている話によりますと、伝説の吸血鬼は\n『弱点であるはずのニンニクを好んで食べる、しかも生で』\nと伝わっております。=Theo truyền thuyết lưu truyền trong quỷ tộc, nói rằng "Đối với ma cà rồng huyền thoại, thậm chí tỏi còn là món ăn ưa thích, họ còn thích ăn sống nữa".
@@ -56,14 +56,14 @@
 もしやイリヤ様……ニンニクが……？=Chẳng lẽ... Illya-sama là...?
 えっ？\nあ、いや……そんなことはない、ぞ……？=Hả? À, không... Điều đó không đúng...
 eh? \nあ、いや……そんなことはない、ぞ……？=Hả? À, không... Điều đó không đúng...
-ぐぬぬ……わらわの頭の中のユキが囁いておる……！\nどこまでもはた迷惑なやつじゃ……！=Grrr... Tại sao mình lại nhớ lời hắn nói...!\nHắn cứ làm phiền ở mọi nơi...!
+ぐぬぬ……わらわの頭の中のユキが囁いておる……！\nどこまでもはた迷惑なやつじゃ……！　=Grrr... Tại sao mình lại nhớ lời hắn nói...!\nHắn cứ làm phiền ở mọi nơi...!
 えっ、なにイリヤ、どうしてボクをにらんでるの……？\nボク何も言ってないけど……=Hả? Sao vậy Illya? Tại sao cô lại nhìn chằm chằm tôi...?\nTôi chưa nói gì cả...
-ここで突っぱねるのも夜を統べる者としての威厳が……！\nええい、腹をくくるしかあるまい……！=Nếu từ chối lễ vật này, sẽ làm tổn hại phẩm giá của ta là chúa tể đêm!\nThôi, có lẽ ta không còn lựa chọn nào khác ngoài việc chấp nhận nó!
+ここで突っぱねるのも夜を統べる者としての威厳が……！\nええい、腹をくくるしかあるまい……！　=Nếu từ chối lễ vật này, sẽ làm tổn hại phẩm giá của ta là chúa tể đêm!\nThôi, có lẽ ta không còn lựa chọn nào khác ngoài việc chấp nhận nó!
 そっ、そうじゃな……とてもおいしそうなニンニクじゃ……！\nい、いただくと……しよう……=Đ-Đúng rồi... Trông ngon thật...!\nT-Tao... sẽ ăn một chút...
 イリヤの代わりに食べる。=Để tao ăn thay.
 おっ、お主……！=K-Kẻ thân tín của ta...!
 ああっ、なんということを……！=Aaa, cậu đang nói gì vậy...!
-{playername}よ……お主、わらわのために……！={playername}... Cậu đã làm điều đó vì tôi...?
+{playername}よ……お主、わらわのために……！　={playername}... Cậu đã làm điều đó vì tôi...?
 すごく美味しそうだったから。=Trông ngon lắm.
 ふっ、どうやら我が眷属も喜んでおるようじゃ。\n此度の献上品、実に良いものであったぞ。=Heh, dường như kẻ thân tín của ta cũng rất vui mừng. Lễ vật này đúng là chất lượng cao.
 お主たちを夜を統べる者の同胞として、認めようぞ……！=Ta, chúa tể đêm, đã công nhận ngươi xứng đáng trở thành huynh đệ của ta!

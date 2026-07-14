@@ -74,7 +74,7 @@
 じゃが──なぜか、嫌な予感がする。\n力を使おうとするたびに……=Nhưng vì lý do nào đó, mình có linh cảm xấu về chuyện này. Mỗi lần cố gắng sử dụng sức mạnh...
 ──チカラガ、ヨミガエル──=──Phục sinh, Sức Mạnh──
 ……っ！=...!
-あの声が、段々と近くから聞こえてくるような……\n体の奥底に、沈んでくるような感覚……！\nこれは本当にわらわの記憶なのか……？=Mình có thể nghe thấy giọng nói đó đến ngày càng gần hơn... Nó như đang chìm vào đáy sâu của cơ thể mình...! Đây thực sự là ký ức của mình...?
+あの声が、段々と近くから聞こえてくるような……\n体の奥底に、沈んでくるような感覚……！\nこれは本当にわらわの記憶なのか……？　=Mình có thể nghe thấy giọng nói đó đến ngày càng gần hơn... Nó như đang chìm vào đáy sâu của cơ thể mình...! Đây thực sự là ký ức của mình...?
 さぁ、イリヤ様！\n私が集めた魔力を、お受け取りください……！=Bây giờ, Tiểu thư Illya! Xin hãy tiếp nhận năng lượng ma thuật mà tôi đã tích tụ...!
 っ、やめるのじゃ！\nその力は……！=Dừng lại! Sức mạnh đó...!
 くっ……！=Ugh...!
@@ -94,11 +94,11 @@
 瞳っていうのは本来美しい輝きを放つものだけど、\nキミのそれは……危険な輝きを秘めてるよ。=Mắt vốn phải toát ra ánh sáng đẹp đẽ, \nnhưng của cô... lại có ánh sáng nguy hiểm.
 さすがのご理解。\n……魔物たちよ、ここへ。=Như mong đợi từ sự hiểu biết của cô.\n...Quỷ Dữ, đến đây.
 丁重に、イリヤ様をお連れしろ。\nそっちのニンゲンは、牢にでも入れておけ。=Đưa Illya-sama đi.\nBỏ con người kia vào tù.
-小癪な……わらわと{playername}を分断するとは。\n……人質のつもりか？=Thật khó chịu... Nghĩ rằng cô lại tách {playername} và tôi ra... Cô đang cố bắt tôi làm con tin à?
+小癪な……わらわと{playername}を分断するとは。\n……人質のつもりか？　=Thật khó chịu... Nghĩ rằng cô lại tách {playername} và tôi ra... Cô đang cố bắt tôi làm con tin à?
 ──参りましょう、イリヤ様。=──Đi thôi, Tiểu thư Illya.
 ちょっとどころじゃないよ！\nボクの両手に鎖をつけるなんて──全然わかってない！=Không chỉ một chút! Cô không hiểu đâu, trao xiềng xích vào tay tôi và mọi chuyện!
 内にも外にも、魔物どもが集まっておるようじゃ。\n眷属やユキは無事じゃろうか……=Có vẻ như quái vật đã tập trung cả bên trong và bên ngoài. Không biết Tinh Linh và Yuki có an toàn không...
-movie
+moviemovie
 さぁ伝説の吸血鬼、イリヤ・オーンスタイン様=Bây giờ, ma cà rồng huyền thoại, Tiểu thư Illya Ornstein
 私めをあなた様の眷属にしてくださいませ……！=Xin hãy để tôi trở thành Tinh Linh của người!
 眷属に、じゃと……？=Tinh Linh của tôi...?

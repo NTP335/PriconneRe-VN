@@ -23,7 +23,7 @@
 …………徹夜を視野に入れて話すな。寝なさい。=......Đừng nói như thể cô sẽ thức trắng đêm.\nĐi ngủ đi.
 は～い。\nんじゃみんな、おやすみ～♪=Được rồi~.\nChúc ngủ ngôn, mọi người~♪
 …………ん……=......Nnn....
-風の……音？=Tiếng gió...?
+風の……音？　=Tiếng gió...?
 寒い……\nいや、暖かい……？\nまるで抱きかかえられているような……=Lạnh quá...\nKhông, ấm áp...? Cảm giác như mình đang được ôm...
 ──なっ！？=-Gì cơ!?
 …………目が覚めたか。\n動くな。\n落ちたら怪我ではすまない。=...Cô tỉnh rồi.\nĐừng cử động.\nNếu rơi, cô sẽ không thể ra ngoài chỉ với vài vết thương nhẹ đâu.
@@ -35,9 +35,9 @@
 ……レイ、十分に目は覚めたな？\n剣を抜く心構えをしておけ。=...Rei, cậu đã ngủ đủ rồi, phải không?\nSẵn sàng rút kiếm đi.
 そして現在。\nレイとシナツは互いの剣を交えていた。=Và giờ, Rei và Shinatsu đang giao đấu với nhau.
 はぁぁっっ！！=Haaah!!
-くっ！\nいともたやすくいなしてくれる……！=Ugh!\nCô ấy chặn dễ dàng đến vậy...!
-私も修行は怠らなかった。\n訓練所で連日剣は振るっていた。\n自己鍛錬も模擬戦の経験も重ねたはずだ……！=Tôi không bao giờ sao nhãng việc luyện tập. Tôi luyện kiếm ở phòng tập mỗi ngày. Tôi chắc chắn mình đã trải qua nhiều bài tập và trận đấu giả...!
-それでも──この差か！=Và ngay cả vậy, vẫn có một khoảng cách lớn như vậy!
+くっ！\nいともたやすくいなしてくれる……！　=Ugh!\nCô ấy chặn dễ dàng đến vậy...!
+私も修行は怠らなかった。\n訓練所で連日剣は振るっていた。\n自己鍛錬も模擬戦の経験も重ねたはずだ……！　=Tôi không bao giờ sao nhãng việc luyện tập. Tôi luyện kiếm ở phòng tập mỗi ngày. Tôi chắc chắn mình đã trải qua nhiều bài tập và trận đấu giả...!
+それでも──この差か！　=Và ngay cả vậy, vẫn có một khoảng cách lớn như vậy!
 …………悪くはない太刀筋だ。=...Kiếm thuật của ngươi không tầm thường.
 一応聞いておく。\n……これが全身全霊か？=Nhưng để chắc chắn, ta sẽ hỏi:\n...Ngươi có dốc toàn lòng và tâm huyết không?
 っ！！\nいいだろう……望み通り打ち込んでやる！=...!\nĐược... Ta sẽ cho ngươi thứ cô muốn!

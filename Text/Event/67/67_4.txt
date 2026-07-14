@@ -86,8 +86,8 @@ choice
 {playername}！　それを入れさせないで！！={playername}! Đừng để chúng bỏ thuốc độc vào đó!!
 間に合え……っ！=Xin hãy kịp thôi...!
 はん、気づいたか。だが遅え。\nこれで仕舞いだ──=Ha, cô đã nhận ra? Nhưng cô đã quá muộn, đây là kết thúc──
-くっ、これ以上近づけないわ……！\n動けそうなのはあいつだけだけど……ここからじゃ遠すぎて、\n間に合わない……！=Ước, tôi không thể tiếp cận...! Chỉ có anh ta mới có thể bắt lấy nó... Nhưng anh ta quá xa khỏi đó, anh ta sẽ không kịp...!
-一秒でもいい……！\nお願い、時間よ止まって……！=Chỉ một giây thôi...! Xin hãy dừng thời gian chỉ một giây...!
+くっ、これ以上近づけないわ……！\n動けそうなのはあいつだけだけど……ここからじゃ遠すぎて、\n間に合わない……！　=Ước, tôi không thể tiếp cận...! Chỉ có anh ta mới có thể bắt lấy nó... Nhưng anh ta quá xa khỏi đó, anh ta sẽ không kịp...!
+一秒でもいい……！\nお願い、時間よ止まって……！　=Chỉ một giây thôi...! Xin hãy dừng thời gian chỉ một giây...!
 ──えいっ！！=──Hyahh!!
 なっ……毒薬が、宙に浮いてやがる！？=Cái gì── Thuốc độc đang lơ lửng trong không khí!?
 毒薬をキャッチする。=Bắt lấy thuốc độc.

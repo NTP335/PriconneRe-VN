@@ -30,6 +30,7 @@ r:"^敵単体に(\d+)の物理ダメージとどめを刺した時、自分の�
 
 ##S2##
 ポイズンブロウ=Poison Blow
+目の前の敵１キャラに物理中ダメージを与え、毒状態にする。=Gây sát thương vật lý trung bình lên 1 kẻ địch ở phía trước và gây trạng thái độc.
 
 ##EX##
 狂愛の力=The Power of Twisted Love
@@ -38,11 +39,12 @@ r:"^敵単体に(\d+)の物理ダメージとどめを刺した時、自分の�
 ##UB+##
 デッドリーエグゼキューション=Thi Hành Tử Tội
 目の前の敵１キャラに物理特大ダメージを２回与え、クリティカルを受けた際のダメージを小アップさせ、さらに自分の物理攻撃力を大アップさせる。このスキルで敵を倒せなかった場合、自分の物理攻撃クリティカル時のダメージを大アップさせる。=Gây sát thương vật lý lớn hai lần cho kẻ địch đầu tiên phía trước, hơi giảm sát thương phản crit của mục tiêu, và tăng lớn sức mạnh tấn công vật lý của bản thân. Nếu kỹ năng này không đánh bại kẻ địch, tăng lớn sát thương phản crit vật lý.
+
 r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを6％アップ自分の物理攻撃力を(\d+)アップとどめを刺せなかった時、自分の物理攻撃クリティカル時のダメージを40％アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm 6% kháng sát thương phản crit vật lý của kẻ địch trong 18s.\n►Tăng sức mạnh tấn công vật lý của bản thân lên $3 trong 180s.\n►Nếu mục tiêu không bị hạ gục, tăng sát thương phản crit vật lý của bản thân lên 40% trong 18s.
 
 ##S1+##
 オブセッション+=Sự Cuồng Nhiệt+
-自分の物理攻撃力を大アップさせ、さらに短時間物理攻撃力と物理クリティカルを特大アップさせる。=Tăng lớn sức mạnh tấn công vật lý của bản thân. Thêm vào đó, tăng cực lớn sức mạnh tấn công vật lý và tỷ lệ phản crit trong thời gian ngắn.
+自分の物理攻撃力を大アップし、物理攻撃力と物理クリティカルを短時間特大アップする。=Tăng lớn sát thương vật lý của bản thân, sau đó tăng cực lớn sát thương vật lý và tỉ lệ chí mạng vật lý của bản thân trong một khoảng thời gian ngắn.
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを400アップ$"=Thời gian niệm: 1.125s\n►Tăng sức mạnh tấn công vật lý của bản thân lên $1 trong 12s.\n►Tăng sức mạnh tấn công vật lý của bản thân lên $2 trong 7.5s.\n►Tăng tỷ lệ phản crit của bản thân lên 400 trong 7.5s.
 
 ##UE##

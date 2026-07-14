@@ -28,7 +28,7 @@ Player Input
 ジョブチェンジ、完了！\n思いっきりいくよ！\nてやああああ！！=Chuyển đổi nghề nghiệp, hoàn tất! Em sẽ dốc toàn lực đây! Teyaaaaah!!
 まあ、お見事ですわ！\n……私も負けてられませんわね！=Chà, thật tuyệt vời làm sao! ...Ta cũng không thể để thua được!
 飛空艇の警護を無事に完遂した翌日──\nジータと{playername}は、アキノの元を訪れていた。=Một ngày sau khi hoàn thành xuất sắc nhiệm vụ hộ tống phi thuyền── Djeeta và {playername} đã đến thăm Akino.
-この度は本当にありがとうございました。\nおかげさまで取引 cũng đã hoàn tất thuận lợi. =Lần này thực sự cảm ơn các bạn rất nhiều. Nhờ có các bạn mà chuyến giao dịch đã diễn ra vô cùng suôn sẻ.
+この度は本当にありがとうございました。\nおかげさまで取引も滞りなく完了いたしました。=Lần này thực sự cảm ơn các bạn rất nhiều. Nhờ có các bạn mà chuyến giao dịch đã diễn ra vô cùng suôn sẻ.
 お役に立ててよかったです！\n……あの、アキノさん。\nせっかくなので飛空艇について質問したいことがあるんですけど……=Em rất vui vì đã giúp ích được cho chị! ...Ờm, chị Akino này. Nhân cơ hội này, em có vài điều muốn hỏi chị về phi thuyền...
 大型の飛空艇を運用するときって、どんなものが必要になりますか？\nいつか自分の騎空艇を手に入れたときの参考にしたくて。=Khi vận hành một phi thuyền cỡ lớn thì cần chuẩn bị những gì ạ? Em muốn hỏi để tham khảo cho lúc em sở hữu một phi thuyền của riêng mình sau này.
 なるほど、分かりました。\nでは必要なものと経費についてをご説明しますわね。=Ra là vậy, ta hiểu rồi. Vậy để ta giải thích cho các bạn về những thứ cần thiết cũng như các khoản chi phí nhé.
@@ -42,7 +42,7 @@ Player Input
 アキノさん……！\nありがとうございます！\n私、これからも頑張ります！=Chị Akino...! Em cảm ơn chị nhiều lắm! Em nhất định sẽ cố gắng hơn nữa từ giờ trở đi!
 その意気ですわよ！\nでは、そんなあなたに……\n私から激励のプレゼントを差し上げますわ！=Phải có khí thế như vậy chứ! Vậy thì, để ủng hộ em... ta có một món quà khích lệ dành tặng đây!
 これは大空を描いた絵画ですの。\n空に想いを馳せるジータさんにピッタリじゃありませんこと？\nどうぞ受け取ってくださいな！=Đây là bức tranh vẽ lại bầu trời bao la. Chẳng phải nó cực kỳ phù hợp với một người luôn hướng về bầu trời như Djeeta-san sao? Hãy nhận lấy nó đi nào!
-わぁ、素敵な絵画……！\n微力ながら力添えができれば光栄です。 \n依頼料だけでも十分すぎるくらいなのに……=Oa, một bức tranh thật tuyệt vời...! Nhưng em nhận thế này có thực sự ổn không ạ? Chỉ riêng tiền thù lao thôi đã là quá đủ rồi...
+わぁ、素敵な絵画……！\nでも本当にいいんですか？\n依頼料だけでも十分すぎるくらいなのに……=Oa, một bức tranh thật tuyệt vời...! Nhưng em nhận thế này có thực sự ổn không ạ? Chỉ riêng tiền thù lao thôi đã là quá đủ rồi...
 遠慮なさらないでください。\n私からの気持ちですし、それに……\n優秀な取引相手とは友好的な関係でいたいですからね。ふふっ。=Đừng khách sáo. Đây là tấm lòng của ta, và hơn nữa... ta luôn muốn duy trì mối quan hệ hữu hảo với những đối tác tài năng như các bạn mà. Hì hì.
 アキノさん……\nあはは、分かりました！\nじゃあ遠慮なくいただいておきますね！=Chị Akino... A ha ha, em hiểu rồi! Vậy thì em xin phép không khách sáo mà nhận lấy ạ!
 アキノからの激励に、ジータは笑顔で応えるのだった。=Đáp lại lời khích lệ của Akino, Djeeta đã nở một nụ cười rạng rỡ.

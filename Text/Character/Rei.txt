@@ -33,19 +33,21 @@
 
 ##S2+##
 カウンタースラッシュ+=Chém Đón Đòn+
-目の前の敵１キャラに物理大ダメー\nジを２回与え、自分が敵から受ける\n行動不能を１回まで無効にする。さ\nらに、行動パターンが変化する。=Gây 2 lần sát thương vật lý lớn lên kẻ địch phía trước nhất, và vô hiệu hóa một hiệu ứng làm choáng. Đồng thời thay đổi chuỗi kỹ năng.
+目の前の敵１キャラに物理大ダメージを２回与え、自分が敵から受ける行動不能を１回まで無効にし、行動パターンが変化する。=Gây sát thương vật lý lớn 2 lần lên 1 kẻ địch ở phía trước, vô hiệu hóa 1 lần hiệu ứng bất động nhận từ kẻ địch, và thay đổi kiểu hành động.
+
 r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分の受ける行動不能を１回まで無効化する$"=►Gây $1 sát thương vật lý lên kẻ địch phía trước nhất.\n►Gây thêm $2 sát thương vật lý lên kẻ địch đó.\n►Vô hiệu hóa một lần hiệu ứng làm choáng trên bản thân.
 
 
 ##EX##
 ラピッドフェンサー=Phản Công Nhanh
 ラピッドフェンサー+=Phản Công Nhanh+
-バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の最大ＨＰを小アップさせる。=Tăng nhẹ tấn công vật lý của bản thân và tăng nhỏ giới hạn HP khi bắt đầu trận đấu.
+バトル開始時に自分の物理攻撃力を中アップ、最大ＨＰを小アップする。=Vào đầu trận chiến, tăng vừa sát thương vật lý của bản thân và tăng nhẹ HP tối đa của bản thân.
 r:"^自分の物理攻撃力を(\d+)アップ自分の最大ＨＰを(\d+)アップさせる$"=►Tăng tấn công vật lý của bản thân lên $1.\n►Tăng giới hạn HP của bản thân lên $2.
 
 ##UB+##
 スラッシュテンペスト=Chém Bão Tố
-目の前の敵１キャラに物理特大ダメージを与え、さらに風の刃を纏う。纏っている間、スキルの効果値が２倍になる。=Gây sát thương vật lý lớn lên kẻ địch ngay trước mặt, và áp dụng Lưỡi Gió. Khi mang Lưỡi Gió, giá trị hiệu quả của kỹ năng được nhân đôi.
+目の前の敵１キャラに物理特大ダメージを与え、自分が【風の刃】を纏う。纏っている間、スキルの効果値が２倍になる。=Gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước và bao bọc bản thân trong [Lưỡi dao gió]. Trong thời gian bao bọc, các giá trị hiệu ứng kỹ năng sẽ tăng gấp đôi.
+
 r:"^敵単体に(\d+)の物理ダメージ一定時間風の刃を纏う$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Áp dụng Lưỡi Gió (hiệu quả kỹ năng x2) trong 18s.
 
 ##S1+##

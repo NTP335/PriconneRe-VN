@@ -151,7 +151,7 @@ MV
 暴れホースをっ、抑え込まねぇことには……=Nếu tôi không giữ chân ống dẫn điên cuồng...
 ぐあぁ！=Guaah!
 完全にマンパワー不足だ……=Chúng ta hoàn toàn thiếu nhân lực...
-みなさん、不甲斐ないですわよ！=Mọi người, các người vô dụng!
+みなさん、不甲斐ないですわよ！　=Mọi người, các người vô dụng!
 こうなったら、私一人でも……！=Bây giờ đến mức này, tôi không thể làm một mình...!
 手伝いましょう=Để tôi giúp cậu
 ネネカさん！=Neneka-san!

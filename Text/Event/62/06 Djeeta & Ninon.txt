@@ -26,7 +26,7 @@ Player Input
 オオー！　ハイ、お供しマ……じゃないデス！\nうっかりしてまシタ……二人にお話がありマス！=Ôi! Vâng, thần xin được hộ tốn... à không phải DE-SU! Suýt nữa thì quên mất... Ninon có chuyện muốn nói với hai người đây DE-SU!
 今度、オーエド町でおまつりがありマス。\nワタシもその準備を手伝っているんデス。=Sắp tới ở thành phố Oedo sẽ tổ chức lễ hội. Ninon cũng đang phụ giúp chuẩn bị cho lễ hội đó đây DE-SU.
 それで今日は、宣伝のポスターに使う写真の撮影日だったデスが……\nなんとモデルさんがカゼを引いてしまったデス！=Thế nên hôm nay vốn là ngày chụp hình cho áp phích quảng cáo... nhưng không ngờ người mẫu lại bị cảm mất rồi DE-SU!
-大変！\nじゃあ、撮影 là không thể sao? =Nguy quá! Vậy là không thể chụp hình được sao chị?
+大変！\nじゃあ、撮影はできそうもないの？=Nguy quá! Vậy là không thể chụp hình được sao chị?
 ハイ……おまけにスケジュール上、延期もできまセン。\nこのピンチに助太刀してくれるサムライを探して\n走り回っていまシタ……=Vâng... hơn nữa theo lịch trình thì không thể hoãn lại được DE-SU. Ninon đã chạy đôn chạy đáo khắp nơi để tìm một Samurai có thể ra tay tương trợ trong tình thế ngàn cân treo sợi tóc này...
 そこで見つけたのが、我がショーグン！\nそしてジータさん、あなたデース！=Và thế là Ninon đã tìm thấy Shogun của ta! Cùng với Djeeta-san, chính là chị đó DE-SU!
 わ、私？=E-Em sao?
@@ -52,7 +52,7 @@ Player Input
 そして後日──\nジータの元へ、ポスターのサンプルが届けられた。=Và vài ngày sau── Một bản mẫu của tấm áp phích đã được gửi đến cho Djeeta.
 勢いで撮影しちゃったけど……\n改めてみると、ちょっと恥ずかしいな。あはは……=Lúc đó mình cứ thế lao vào chụp theo quán tính... giờ xem lại thấy hơi ngại thật đấy. A ha ha...
 でも撮影は楽しかったし、結果オーライだよね。うん！=Nhưng mà buổi chụp hình rất vui, kết quả vậy là ổn rồi nhỉ. Ừm!
-……ああっ、 nhưng quả nhiên vẫn thấy ngại quá à! =...Aaaa, nhưng mà vẫn thấy xấu hổ chết đi được ấy!
+……ああっ、でもやっぱり恥ずかしいよ～！=...Aaaa, nhưng mà vẫn thấy xấu hổ chết đi được ấy!
 全力で太鼓を叩く自分の姿を目の当たりにし、\n顔を赤くするジータなのだった。=Tận mắt nhìn thấy dáng vẻ đánh trống hết mình của bản thân, Djeeta không khỏi đỏ bừng mặt vì ngượng ngùng.
 
 ジータ・ニノン=Djeeta Ninon

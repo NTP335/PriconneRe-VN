@@ -14,23 +14,24 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする$"=�
 
 ##S2##
 ウォーターバルーン=Bóng Bóng Nước
-最も物理攻撃力が高い敵１キャラに物理小ダメージを与え、物理攻撃力を大ダウン、物理攻撃クリティカル時のダメージを中ダウンさせる。さらに、自分の物理攻撃力を大アップする。目の前の敵がマルチターゲットの場合、さらに、魔法攻撃力を大ダウン、魔法攻撃クリティカル時のダメージを中ダウンさせる。=Gây sát thương vật lý nhỏ lên 1 kẻ địch có tấn công vật lý cao nhất, giảm lớn tấn công vật lý và giảm trung lượng sát thương bạo kích vật lý của mục tiêu. Đồng thời, tăng lớn tấn công vật lý của bản thân. Nếu kẻ địch phía trước là mục tiêu đa điểm (multi-target), giảm thêm lớn tấn công phép và giảm trung lượng sát thương bạo kích phép của chúng.
+最も物理攻撃力が高い敵に物理小ダメージを与え、物理攻撃力を大ダウン、物理クリティカルダメージを中ダウンさせる。自分の物理攻撃力を大アップする。目の前の敵がマルチターゲットの場合、さらに魔法攻撃力を大ダウン、魔法クリティカルダメージを中ダウンさせる。=Gây sát thương vật lý nhỏ lên kẻ địch có chỉ số tấn công vật lý cao nhất, giảm lớn sát thương vật lý của chúng, giảm vừa sát thương chí mạng vật lý và tăng lớn sát thương vật lý của bản thân. Nếu kẻ địch ở ngay phía trước là mục tiêu đa điểm, giảm thêm lớn sát thương phép và giảm vừa sát thương chí mạng phép của chúng.
 r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の物理クリダメを25％ダウン自分の物理攻撃力を(\d+)アップ目の前の敵がマルチターゲットの場合、以下の効果が発動する敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法クリダメを25％ダウン$"=Thời gian thi triển: 1.18s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm $2 tấn công vật lý của một kẻ địch trong 180s.\n►Giảm 25% sát thương bạo kích vật lý của một kẻ địch trong 180s.\n►Tăng $3 tấn công vật lý cho bản thân trong 180s.\n\nNếu kẻ địch phía trước là mục tiêu đa điểm (multi-target):\n►Giảm $4 tấn công phép của một kẻ địch trong 180s.\n►Giảm 25% sát thương bạo kích phép của một kẻ địch trong 180s.
 ##EX##
 トラップエキスパート=Chuyên Gia Quậy Phá
 トラップエキスパート+=Chuyên Gia Quậy Phá+
-バトル開始時に自分の物理防御力を中アップさせ、さらに自分の物理攻撃力を小アップさせる。=Tăng vừa phải Kháng Vật Lý và tăng nhỏ Tấn Công Vật Lý của bản thân khi trận đấu bắt đầu.
+バトル開始時に自分の物理防御力を中アップ、物理攻撃力を小アップする。=Vào đầu trận chiến, tăng vừa phòng thủ vật lý của bản thân và tăng nhẹ sát thương vật lý của bản thân.
+
 r:"^自分の物理防御力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Tăng Kháng Vật Lý của bản thân lên $1.\n►Tăng Tấn Công Vật Lý của bản thân lên $2.
 
 ##UB+##
 トリックハート=Trái Tim Bẫy
-敵全体に物理大ダメージを与え、物理攻撃力と物理クリティカルを特大ダウン、物理攻撃クリティカル時のダメージを中ダウンさせる。目の前の敵がマルチターゲットの場合、敵全体に追加の物理大ダメージを与え、物理防御力を中ダウンさせる。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch, giảm cực đại tấn công vật lý và bạo kích vật lý, đồng thời giảm trung lượng sát thương bạo kích vật lý của chúng. Nếu kẻ địch phía trước là mục tiêu đa điểm (multi-target), gây thêm sát thương vật lý lớn lên toàn bộ kẻ địch và giảm trung lượng phòng thủ vật lý của chúng.
+敵全体に物理大ダメージを与え、物理攻撃力と物理クリティカルを特大ダウン、物理クリティカルダメージを中ダウンさせる。目の前の敵がマルチターゲットの場合、さらに追加で敵全体に物理大ダメージを与え、物理防御力を中ダウンさせる。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch, giảm cực lớn sát thương vật lý và tỷ lệ chí mạng vật lý của chúng, đồng thời giảm vừa sát thương chí mạng vật lý. Nếu kẻ địch ở ngay phía trước là mục tiêu đa điểm, gây thêm sát thương vật lý lớn lên toàn bộ kẻ địch và giảm vừa phòng thủ vật lý của chúng.
+
 r:"^敵全体に(\d+)の物理ダメージ敵全体の物理攻撃力を(\d+)ダウン敵全体の物理クリティカルを600ダウン敵全体の物理クリダメを25％ダウン目の前の敵がマルチターゲットの場合、以下の効果が発動する敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm $2 tấn công vật lý của toàn bộ kẻ địch trong 18s.\n►Giảm 600 bạo kích vật lý của toàn bộ kẻ địch trong 18s.\n►Giảm 25% sát thương bạo kích vật lý của toàn bộ kẻ địch trong 18s.\n\nNếu kẻ địch phía trước là mục tiêu đa điểm (multi-target):\n►Gây $3 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm $4 phòng thủ vật lý của toàn bộ kẻ địch trong 18s.
 
 ##S1+##
 インクシューター+=Phun Mực+
-
-自分から２番目に近い敵１キャラに物理中ダメージを与え、暗闇状態にする。さらにそのキャラを中心とした範囲内の敵すべての物理攻撃力を大ダウンさせる。=Gây sát thương vật lý trung bình lên 1 kẻ địch gần thứ hai và gây trạng thái mù. Đồng thời, giảm lớn tấn công vật lý của tất cả kẻ địch trong phạm vi xung quanh mục tiêu đó.
+２番目に近い敵に物理中ダメージを与え、暗闇状態にする。その敵を中心とした範囲内の敵の物理攻撃力を大ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch gần thứ hai và gây trạng thái mù. Ngoài ra, giảm lớn sát thương vật lý của những kẻ địch trong phạm vi xung quanh kẻ địch đó.
 r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする範囲内の敵の物理攻撃力を(\d+)ダウン$"=Thời gian thi triển: 1.55s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây trạng thái Mù trong 10s.\n►Giảm $2 tấn công vật lý của kẻ địch trong phạm vi 200 trong 12s.
 
 ##UE##
@@ -41,7 +42,6 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体を暗闇状態にする範�
 
 Misogi
 インクシューター++=Ink Spray++
-自分から２番目に近い敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、暗闇状態にし、物理攻撃力を大ダウン、ＴＰを小ダウンさせる。目の前の敵がマルチターゲットの場合、範囲内の敵すべてに追加の物理中ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi xung quanh 1 kẻ địch gần thứ hai, gây trạng thái Mù, giảm lớn tấn công vật lý và giảm tiểu lượng TP của chúng. Nếu kẻ địch phía trước là mục tiêu đa điểm (multi-target), gây thêm sát thương vật lý trung bình lên tất cả kẻ địch trong phạm vi và giảm nhẹ phòng thủ vật lý của chúng.
-
+２番目に近い敵を中心とした範囲内の敵に物理中ダメージを与え、暗闇状態にし、物理攻撃力を大ダウン、ＴＰを小ダウンさせる。目の前の敵がマルチターゲットの場合、さらに追加で範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình lên những kẻ địch trong phạm vi xung quanh kẻ địch gần thứ hai, gây trạng thái mù, giảm lớn sát thương vật lý và giảm một lượng nhỏ TP của chúng. Nếu kẻ địch ở ngay phía trước là mục tiêu đa điểm, gây thêm sát thương vật lý trung bình lên những kẻ địch trong phạm vi đó và giảm nhẹ phòng thủ vật lý của chúng.
 
 r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵のＴＰを75失わせる目の前の敵がマルチターゲットの場合、以下の効果が発動する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=Thời gian thi triển: 1.55s.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 200.\n►Gây trạng thái Mù lên kẻ địch trong phạm vi 200 trong 10s.\n►Giảm $2 tấn công vật lý của kẻ địch trong phạm vi 200 trong 12s.\n►Giảm 75 TP của kẻ địch trong phạm vi 200.\n\nNếu kẻ địch phía trước là mục tiêu đa điểm (multi-target):\n►Gây $3 sát thương vật lý lên kẻ địch trong phạm vi 200.\n►Giảm $4 phòng thủ vật lý của kẻ địch trong phạm vi 200 trong 12s.

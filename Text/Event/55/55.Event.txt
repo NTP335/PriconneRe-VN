@@ -61,4 +61,3 @@ r:"^ランフェス会場([0-9\-\(\)\w （）]*)$"=Lando Comi Fes $1
 配信者のイベントを見に行こう。=Đi xem sự kiện của người chia sẻ nào.
 フィギュアから見に行こう！=Đi xem từ bên ngoài figure nào.
 同人誌を見て回ろう。=Đi xem quanh các bức tranh dân gian.
-

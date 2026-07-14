@@ -17,7 +17,7 @@ Chapter 1
 デザイナー養成学校……\nまた、落ちちゃいましたしね……=Trường đào tạo nhà thiết kế... Em lại trượt rồi...
 一生懸命頑張ったのに……努力が足りなかったのかな……=Nghĩ mà cũng đã cố gắng nhiều... Có lẽ em chưa đủ nỗ lực...
 え……お兄ちゃん……？\nあ、ああ、こんなところで会うなんて奇遇ですね～！=Hả... Onii-chan...? A-A! Thật là trùng hợp khi gặp cậu ở chỗ như vậy!
-いけないいけない。\nお兄ちゃんの前では、妹は常に元気でないと……！=Ồ không, thế này thì không ổn. Trước mặt Onii-chan, một imouto đúng chuẩn phải luôn năng động và vui vẻ...!
+いけないいけない。\nお兄ちゃんの前では、妹は常に元気でないと……！　=Ồ không, thế này thì không ổn. Trước mặt Onii-chan, một imouto đúng chuẩn phải luôn năng động và vui vẻ...!
 あ、たしかリノちゃんだよね！\n久しぶり～！=Ồ, nếu em nhớ không lầm thì cậu là... Rino-chan! Lâu rồi không gặp!
 あなたは……ヒヨリさん！\nお久しぶりです～=Cậu là... Hiyori-san! Lâu rồi không gặp, đúng vậy~
 え、えと、は、初めまして！\n私の名前はアユミっていいましゅ！\nうう……また噛んじゃったぁ……=U-Umm... R-Vui được gặp cậu! Tên em là Ayumi-sh! Ugh... Em lại cắn lưỡi rồi...
@@ -62,7 +62,7 @@ Chapter 1
 ……ふむふむ、へぇ～？\n二人ともなんだか面白い気配を感じるね～♪\nもしかして、二人の知り合いに……=...Hừm, hừm, hả? Sao đó... hai cậu có khí chất khá thú vị đấy~♪ Có lẽ là vì hai cậu đều biết một người nào đó...
 あ、あの……わ、私はアユミっていいますぅ！\nよ、よろしくお願いします！\n……今度はちゃんと言えたぁ♪=Ư-Ừm... Và tớ là Ayumi! R-Rất vui được gặp các cậu! ...Lần này tớ nói đúng rồi♪
 え……っ！？=Hả...!?
-ドラゴン族でも気配に気付かないなんて……\nやっぱりアユミちゃんはすごいなぁ♪=Không ngờ ngay cả người rồng nổi tiếng cũng không phát hiện ra sự hiện diện của cô ấy... Tớ biết rồi, Ayumi-chan thật sự tuyệt vời♪
+ドラゴン族でも気配に気付かないなんて……\nやっぱりアユミちゃんはすごいなぁ♪　=Không ngờ ngay cả người rồng nổi tiếng cũng không phát hiện ra sự hiện diện của cô ấy... Tớ biết rồi, Ayumi-chan thật sự tuyệt vời♪
 よ、よろしくね～リノちゃん、\nヒヨリちゃんに……アユミ、ちゃん？=R-Rất vui được gặp các cậu... Rino-chan, Hiyori và... Ayumi...-chan?
 ……け、気配が無かったうえに、\n風景と完全に一体化してやがったですよ……\nあれは絶対只者じゃないです……！=...Th-Thật không có dấu hiệu gì trước đây, cô ấy đã có thể hoàn toàn hòa vào khung cảnh ngay cả với tôi... Cô ấy chắc chắn không phải người thường...!
 それで、お二人は何をしてたんですか？=Vậy, hai cậu đang làm gì ở đây?
@@ -605,11 +605,11 @@ Chapter 6
 どこ……どこですか！？\nここ、来ないでくださいぃぃ……！=Ở đâu... Ở đâu vậy?! X-Xin đừng đến đây...!
 ボス、なんとかならないですか！？\nこのままじゃ全滅するです！=Sếp, anh không thể làm gì sao?! Cứ thế này chúng ta sẽ bị xóa sổ hết!
 う～ん。あの瘴気をなんとかできれば\n勝算はあるんだけどね～=Hmm. Nếu chúng ta có thể làm gì đó về cái sương độc đó, chúng ta sẽ có cơ hội thắng lớn...
-私が……私がなんとかしないと！=Tớ... tớ phải làm gì đó!
+私が……私がなんとかしないと！　=Tớ... tớ phải làm gì đó!
 ……さっき、アリスちゃんは言ってくれました。\n私なら、真の救世主の力を絶対に手にすることができるって。=...Một chút trước, Alice-chan nói rằng cô ấy chắc chắn tớ sẽ có thể đạt được sức mạnh thật sự của người cứu thế!
-大切な友達が、信じてくれたんです……！\nお願いされたんです！　世界を守って……って！\nその気持ちに応えなくちゃ……！=Bạn thân quý giá của tôi đã tin tưởng tôi...! Cô ấy đã cầu xin tôi! Để bảo vệ thế giới mà cô ấy trân quý...! Tôi phải đáp lại những cảm xúc đó...!
+大切な友達が、信じてくれたんです……！\nお願いされたんです！　世界を守って……って！\nその気持ちに応えなくちゃ……！　=Bạn thân quý giá của tôi đã tin tưởng tôi...! Cô ấy đã cầu xin tôi! Để bảo vệ thế giới mà cô ấy trân quý...! Tôi phải đáp lại những cảm xúc đó...!
 アリスちゃん。私も……\nアリスちゃんが愛したこの世界のことが大好きです。=Alice-chan. Tớ cũng... yêu thế giới này mà cậu muốn bảo vệ.
-私はアリスちゃんとの冒険を\nこんなところで終わらせたくありません……！=Tớ... những cuộc phiêu lưu mà tớ đã có với Alice-chan trong thế giới này... tớ không muốn chúng kết thúc ở đây...!
+私はアリスちゃんとの冒険を\nこんなところで終わらせたくありません……！　=Tớ... những cuộc phiêu lưu mà tớ đã có với Alice-chan trong thế giới này... tớ không muốn chúng kết thúc ở đây...!
 あれ？　今、あったかい感じが……=Hả? Vừa nãy, tớ cảm thấy một thứ gì đó ấm áp từ bên trong mình...
 この感覚……確か、救世主の力を使ったときの……\nそれが、私の内側からあふれてくる……\n力が、みなぎって……=Cảm giác này... tớ chắc chắn, giống hệt khi tớ đang sử dụng sức mạnh của người cứu thế... nó tràn đầy từ bên trong tớ... lấp đầy tớ bằng sức mạnh...
 もしかして、これがアリスちゃんの言ってた、\n真の救世主の力──=Đây có phải... sức mạnh của người cứu thế thật sự mà Alice đã nói về không?
@@ -730,7 +730,7 @@ Chapter 7
 やっぱり、でたらめな強さなのです……=Như tớ nghĩ, sức mạnh đó của hắn thật vô lý...
 さすが『王』と呼ばれるだけのことはあるね～=Như mong đợi của một kẻ mang danh hiệu "Vua"~
 わ、私たち、勝てるでしょうか……？=C-Chúng ta thật sự... có thể thắng...?
-また大きくなった！\nこれは、もしかして……！=Nó lại lớn hơn nữa rồi! Đừng nói với tôi... có thể đây là...!?
+また大きくなった！\nこれは、もしかして……！　=Nó lại lớn hơn nữa rồi! Đừng nói với tôi... có thể đây là...!?
 みんな聞いて！！\nあいつは、みんなの不安や絶望を……\n心の闇を食べて強くなっているんだわ！=Mọi người, lắng nghe!! Hắn đang mạnh lên bằng cách nuốt chửng sự lo lắng và tuyệt vọng của mọi người... bóng tối trong trái tim các cậu!
 心の、闇……？\nえとえと、それってもしかして、攻撃が効かないって\n思ったら思っただけ強くなっちゃうってことですか……！？=Bóng tối... trong trái tim em...? Ưm, ý là nếu em tin rằng các đòn tấn công của em sẽ không hiệu quả, hắn sẽ mạnh lên chỉ bởi suy nghĩ về sự lo lắng của em rằng chúng sẽ không hiệu quả...?!
 そんなの絶対に勝てないですよ！？=Làm sao có thể thắng được thứ đó chứ!?
@@ -852,7 +852,7 @@ Epilogue
 ふふっ……\nせいぜい頑張りなさい……♪=Hehe... Vậy thì cố lên nhé...♪
 ……いえ、なんでもありません。=...Không, không có gì đâu.
 アリスちゃん……私、あなたに会えて本当によかったです……=Alice-chan... Em... Em thực sự rất vui vì đã gặp được cô...
-どこかで見ていてくださいね、私の冒険を……！=Dù cô đang ở nơi đâu... Hãy cố gắng dõi theo những cuộc phiêu lưu của em...!
+どこかで見ていてくださいね、私の冒険を……！　=Dù cô đang ở nơi đâu... Hãy cố gắng dõi theo những cuộc phiêu lưu của em...!
 そっと目を閉じるリノ。\nその姿には、以前とは違う確かな決意が宿っているのであった。=Rino nhẹ nhàng nhắm mắt lại. Trong cô giờ đây đã có một quyết tâm kiên định, khác hẳn trước đây.
 
 Player Prompts

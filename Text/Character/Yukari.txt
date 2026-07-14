@@ -30,41 +30,27 @@ r:"^(\d+)ダメージ分の魔法無効バリアを展開する$"=►Triển kha
 
 ##S2##
 ムーンライト=Ánh Trăng
-最もＴＰが低い味方１キャラのＴＰを中回復させる。=Hồi một lượng trung bình TP cho thành viên trong party có TP thấp nhất.
-## 260lvl
-最もＴＰが低い味方１キャラのＴＰを中回復し、物理攻撃力と魔法攻撃力を小アップさせる。=Hồi một lượng trung bình TP cho thành viên trong party có TP thấp nhất, và tăng nhẹ P.ATK, M.ATK.
-
-
-味方全体の物理・魔法攻撃力を特大アップし、最もＴＰが低い味方１キャラのＴＰを特大回復させる。さらに、【乾杯！】した回数と同じ人数、自分を中心とした範囲内の味方のＴＰを大回復させる。=Tăng cực đại tấn công vật lý và tấn công ma pháp cho toàn bộ đồng minh, đồng thời hồi phục cực đại TP cho 1 đồng minh có TP thấp nhất. Ngoài ra, hồi phục lớn TP cho các đồng minh trong phạm vi quanh bản thân với số lượng người tương ứng với số lần đã thực hiện 【Cạn ly!】.
+味方全体の物理・魔法攻撃力を特大アップさせ、最もＴＰが低い味方のＴＰを特大回復させる。【乾杯！】した回数と同じ人数、自分を中心とした範囲内の味方のＴＰを大回復させる。=Tăng cực lớn sát thương vật lý và sát thương phép của toàn bộ đồng minh, đồng thời hồi phục cực lớn TP cho đồng minh có lượng TP thấp nhất. Dựa theo số tầng cộng dồn [Cụng ly!], hồi phục lớn TP cho một số lượng đồng minh tương ứng trong phạm vi xung quanh bản thân.
 r:"^味方単体のＴＰを725回復味方全体の物理・魔法攻撃力を(\d+)アップ乾杯！した数と同じ人数まで、範囲内の味方のＴＰを250回復$"=Thời gian thi triển: 1.13 giây.\n►Hồi phục 725 TP cho một đồng minh.\n►Tăng $1 tấn công vật lý và tấn công ma pháp cho toàn bộ đồng minh.\n►Hồi phục 250 TP cho các đồng minh trong phạm vi, tối đa bằng số lần đã thực hiện 【Cạn ly!】.
 
 
 ##EX##
 プレリュードフィズ=Lòng Dũng Cảm Từ Rượu
 プレリュードフィズ+=Lòng Dũng Cảm Từ Rượu+
-バトル開始時に自分の魔法防御力を中アップさせ、さらに自分の物理攻撃力を小アップさせる。=Tăng vừa phải M.DEF và tăng nhẹ P.ATK của bản thân khi bắt đầu trận.
+バトル開始時に自分の魔法防御力を中アップ、物理攻撃力を小アップする。=Vào đầu trận chiến, tăng vừa phòng thủ phép của bản thân và tăng nhẹ sát thương vật lý của bản thân.
+
 r:"^自分の魔法防御力を(\d+)アップ自分の物理攻撃力を(\d+)アップ$"=►Tăng M.DEF của bản thân $1.\n►Tăng P.ATK của bản thân $2.
 
 ##UB+##
 セブンスヘブン=Thiên Đường Thứ Bảy
-味方全体に魔法無効バリアを展開し、魔法防御力を大アップさせ、さらにＨＰを小回復させる。=Phát triển rào cản kháng phép cho toàn đồng đội, tăng sức mạnh M.DEF, và hồi HP một chút.
-## OLD r:"^(\d+)ダメージ分の魔法無効バリアを展開する味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Triển khai Lá Chắn lên toàn đồng đội kháng $1 sát thương phép.\n►Tăng M.DEF của đồng đội $2 trong 18s.\n►Hồi HP của đồng đội $3.
-
-
-味方全体に魔法無効バリアを展開し、物理・魔法攻撃力と魔法防御力を大アップさせ、さらにＨＰを小回復させる。【乾杯！】した回数に応じてこのスキルの効果がアップする。=Triển khai rào chắn vô hiệu hóa sát thương ma pháp cho toàn bộ đồng minh, tăng mạnh tấn công vật lý, tấn công ma pháp và phòng thủ ma pháp, đồng thời hồi phục nhẹ HP. Hiệu quả của kỹ năng này sẽ tăng lên dựa theo số lần đã thực hiện 【Cạn ly!】.
+味方全体に魔法無効バリアを展開し、物理・魔法攻撃力と魔法防御力を大アップさせ、ＨＰを小回復させる。【乾杯！】した回数に応じて、効果量が増加する。=Triển khai rào chắn vô hiệu hóa phép thuật lên toàn bộ đồng minh, tăng lớn sát thương vật lý, sát thương phép và phòng thủ phép của họ, đồng thời hồi phục nhẹ HP. Lượng hiệu ứng sẽ tăng lên dựa theo số tầng cộng dồn [Cụng ly!].
 r:"^(\d+)ダメージ分の魔法無効バリアを展開する味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Triển khai rào chắn vô hiệu hóa $1 sát thương ma pháp cho toàn bộ đồng minh trong 18 giây.\n►Tăng $2 tấn công vật lý và tấn công ma pháp cho toàn bộ đồng minh trong 18 giây.\n►Tăng $3 phòng thủ ma pháp cho toàn bộ đồng minh trong 18 giây.\n►Hồi phục $4 HP cho toàn bộ đồng minh.
 
 ##S1+##
 アクアヴィット+=Nước Sự Sống+
-最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、さらに魔法防御力を中アップし、継続ＨＰ回復状態を付与する。=Hồi một lượng lớn HP cho thành viên trong party có %HP thấp nhất, tăng vừa phải M.DEF của họ, và ban cho hiệu ứng Hồi HP Theo Thời Gian.
-最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに魔法防御力を中アップし、継続ＨＰ回復状態を付与する。=Hồi một lượng lớn HP cho thành viên trong party có HP thấp nhất, tăng vừa phải M.DEF của họ, và ban cho hiệu ứng Hồi HP Theo Thời Gian.
-## OLD r:"^味方単体のＨＰを(\d+)回復味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Hồi HP của đồng đội $1.\n►Tăng M.DEF của đồng đội $2 trong 12s.\n►Hồi HP $3/giây trong 8.5s.
+最もＨＰの割合が低い味方のＨＰを大回復、魔法防御力を中アップさせ、継続ＨＰ回復状態を付与する。【乾杯！】する。【乾杯！】は最大２回まで行う。=Hồi phục lớn HP cho đồng minh có tỷ lệ HP thấp nhất, tăng vừa phòng thủ phép và ban trạng thái hồi phục HP liên tục cho họ. Tích lũy [Cụng ly!]. [Cụng ly!] có thể cộng dồn tối đa 2 lần.
 
 r:"^味方単体のＨＰを(\d+)回復味方単体の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復する乾杯！する$"=Thời gian thi triển: 1.4s.\n►Hồi $1 HP cho một đồng đội.\n►Tăng $2 phòng thủ phép cho một đồng đội trong 12s.\n►Hồi $3 HP mỗi giây cho một đồng đội trong 8.5s.\n►Cổ vũ!
-
-
-最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、魔法防御力を中アップし、継続ＨＰ回復状態を付与する。さらに、【乾杯！】する。【乾杯！】は最大２回まで行う。=Hồi phục lớn HP cho 1 đồng minh có tỷ lệ HP thấp nhất, tăng trung bình phòng thủ ma pháp và ban trạng thái hồi phục HP liên tục. Ngoài ra, thực hiện 【Cạn ly!】. 【Cạn ly!】 có thể thực hiện tối đa 2 lần.
-
 
 ##UE##
 エターナルジョッキ=Cốc Bia Vĩnh Cửu
@@ -75,9 +61,7 @@ r:"^味方単体のＨＰを(\d+)回復味方単体の魔法防御力を(\d+)ア
 ##S1++##
 Yukari
 アクアヴィット++=Nước Sự Sống++
-最もＨＰの割合が低い味方１キャラのＨＰを大回復させ、魔法防御力を中アップし、継続ＨＰ回復状態を付与する。さらに、【乾杯！】する。【乾杯！】は最大５回まで行う。=Hồi phục lớn HP cho 1 đồng minh có tỷ lệ HP thấp nhất, tăng trung bình phòng thủ ma pháp và ban trạng thái hồi phục HP liên tục. Ngoài ra, thực hiện 【Cạn ly!】. 【Cạn ly!】 thực hiện tối đa 5 lần.
-
-
+最もＨＰの割合が低い味方のＨＰを大回復、魔法防御力を中アップさせ、継続ＨＰ回復状態を付与する。【乾杯！】する。【乾杯！】は最大５回まで行う。=Hồi phục lớn HP cho đồng minh có tỷ lệ HP thấp nhất, tăng vừa phòng thủ phép và ban trạng thái hồi phục HP liên tục cho họ. Tích lũy [Cụng ly!]. [Cụng ly!] có thể cộng dồn tối đa 5 lần.
 
 
 
