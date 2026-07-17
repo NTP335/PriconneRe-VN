@@ -55,7 +55,7 @@
 
 ---
 
-## Đóng góp ý kiến và ủng hộ
+## Đóng góp ý kiến và Donate
 Nếu bạn thấy chỗ nào chưa ổn hoặc có ý tưởng về cách xưng hô, thuật ngữ trong game, hãy mở một **Issue** hoặc bình luận để mình chỉnh sửa nhé!
 
 **Ủng hộ giúp mình ly cafe với nha:**
