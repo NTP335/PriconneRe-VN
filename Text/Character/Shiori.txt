@@ -27,7 +27,7 @@ r:"^最大３キャラに各(\d+)の物理ダメージ自分のＴＰを(\d+)回
 
 ##S2##
 ウィンドアロー=Mũi Tên Gió
-目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý trung bình lên một kẻ địch ngay phía trước đồng thời hồi một lượng nhỏ TP cho bản thân.
+目の前の敵１キャラに物理中ダメージを与え、自分のＴＰを小回復する。=Gây sát thương vật lý trung bình cho 1 kẻ địch trước mặt và hồi phục nhẹ TP cho bản thân.
 r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを300回復$"=Thời gian thi triển: 1.5s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Hồi 300 TP cho bản thân.
 
 ##EX##
@@ -36,13 +36,13 @@ r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを300回復$"=Thời g
 
 ##UB+##
 エングロスアロー=Mũi Tên Mê Hoặc
-目の前の最大２キャラまでの敵に物理特大ダメージを与え、物理防御力を小ダウンさせる。さらに、自分の物理攻撃力を特大アップさせる。=Gây sát thương Vật lý khổng lồ lên kẻ địch phía trước, tối đa hai nhân vật, và giảm nhẹ Phòng thủ Vật lý của chúng. Ngoài ra, tăng mạnh Tấn công Vật lý của bản thân.
+目の前の最大２キャラまでの敵に物理特大ダメージを与え、物理防御力を小ダウンさせる。自分の物理攻撃力を特大アップする。=Gây sát thương vật lý cực đại cho tối đa 2 kẻ địch ở phía trước, giảm nhẹ Phòng thủ Vật lý của chúng và tăng cực đại Tấn công Vật lý của bản thân.
+
 r:"^１番目に近い敵単体に(\d+)の物理ダメージ１番目に近い敵単体の物理防御力を(\d+)ダウン２番目に近い敵単体に(\d+)の物理ダメージ２番目に近い敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=►Gây $1 Sát thương Vật lý lên kẻ địch gần nhất.\n►Giảm Phòng thủ Vật lý của kẻ địch gần nhất đi $2 trong 18s.\n►Gây $3 Sát thương Vật lý lên kẻ địch thứ hai gần nhất.\n►Giảm Phòng thủ Vật lý của kẻ địch thứ hai gần nhất đi $4 trong 18s.\n►Tăng Tấn công Vật lý của bản thân lên $5 trong 90s.
 
 ##S1+##
 トライアロー+=Ba Phát Bắn+
-目の前の最大３キャラまでの敵に物理小ダメージを与える。このダメージは、遠い敵ほどダメージが増加する。さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý nhỏ lên tất cả kẻ địch trong phạm vi. Sát thương được tăng lên dựa trên số lượng mục tiêu.
-目の前の最大３キャラまでの敵に物理中ダメージを与える。このダメージは、遠い敵ほどダメージが増加する。さらに自分のＴＰを小回復させる。=Gây sát thương Vật lý trung bình lên tất cả kẻ địch trong phạm vi. Sát thương được tăng lên dựa trên số lượng mục tiêu.
+目の前の最大３キャラまでの敵に物理中ダメージを与える。自分のＴＰを小回復する。=Gây sát thương vật lý trung bình cho tối đa 3 kẻ địch ở phía trước và hồi phục nhẹ TP cho bản thân.
 r:"^１番目に近い敵単体に(\d+)の物理ダメージ２番目に近い敵単体に(\d+)の物理ダメージ３番目に近い敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 Sát thương Vật lý lên mục tiêu gần nhất.\n►Gây $2 Sát thương Vật lý lên mục tiêu thứ hai gần nhất.\n►Gây $3 Sát thương Vật lý lên mục tiêu thứ ba gần nhất.\n►Hồi TP cho bản thân đi $4.
 
 ##UE##

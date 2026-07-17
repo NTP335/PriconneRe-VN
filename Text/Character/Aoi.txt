@@ -26,7 +26,7 @@ r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態
 
 ##S2##
 パラライズアロー=Mũi Tên Tê Liệt
-目の前の敵１キャラに物理小ダメージを与え、さらに麻痺状態にする。=Gây sát thương vật lý nhỏ lên kẻ địch ngay phía trước và gây Tê Liệt.
+目の前の敵１キャラに物理小ダメージを与え、麻痺状態にする。=Gây sát thương vật lý nhỏ cho 1 kẻ địch trước mặt và gây trạng thái tê liệt.
 r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Làm kẻ địch bất động.
 
 ##EX##
@@ -35,12 +35,12 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能�
 
 ##UB+##
 ヴェノムブルーミング=Độc Hoa Nở Rộ
-目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに毒状態にする。このスキルの対象が毒状態だった場合、代わりに物理特大ダメージを与え、さらに猛毒状態にする。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong phạm vi 1 nhân vật phía trước, gây Độc. Nếu mục tiêu đã bị Độc, sẽ gây thêm sát thương vật lý và gây Độc Tối.
+目の前の敵１キャラを中心とした範囲内の敵に物理中ダメージを与え、毒状態にする。発動時既に対象が毒状態だった場合、代わりに物理特大ダメージを与え、猛毒状態にする。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi xung quanh 1 kẻ địch trước mặt và gây trạng thái độc. Nếu mục tiêu vốn đã bị trúng độc khi kỹ năng này kích hoạt, gây sát thương vật lý cực đại thay thế và gây trạng thái kịch độc.
 r:"^敵が毒状態の時、範囲内の敵に(\d+)の物理ダメージ敵が毒状態の時、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない時、範囲内の敵に(\d+)の物理ダメージ敵が毒状態でない時、(\d+)ダメージを与える毒状態にする$"=Nếu mục tiêu chưa bị Độc hoặc Độc Tối:\n►Gây $3 sát thương vật lý lên tất cả kẻ địch trong phạm vi 400.\n►Gây Độc, sát thương $4/s trong 24s.\n\nNếu mục tiêu đã bị Độc hoặc Độc Tối:\n►Gây $1 sát thương vật lý lên tất cả kẻ địch trong phạm vi 400.\n►Gây Độc Tối, sát thương $2/s trong 12s.
 
 ##S1+##
 ポイズンアロー+=Mũi Tên Độc+
-目の前の敵１キャラに物理中ダメージを与え、さらに毒状態にする。このスキルの対象が毒状態だった場合、代わりに物理特大ダメージを与え、さらに猛毒状態にする。=Gây sát thương vật lý vừa phải lên 1 kẻ địch phía trước và gây Độc. Nếu mục tiêu đã bị Độc, sẽ gây thêm sát thương và gây Độc Tối.
+目の前の敵１キャラに物理中ダメージを与え、毒状態にする。発動時既に対象が毒状態だった場合、代わりに物理特大ダメージを与え、猛毒状態にする。=Gây sát thương vật lý trung bình cho 1 kẻ địch trước mặt và gây trạng thái độc. Nếu mục tiêu vốn đã bị trúng độc khi kỹ năng này kích hoạt, gây sát thương vật lý cực đại thay thế và gây trạng thái kịch độc.
 r:"^敵が毒状態の時、敵単体に(\d+)の物理ダメージ敵が毒状態でない時、敵単体に(\d+)の物理ダメージ敵が毒状態の時、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない時、(\d+)ダメージを与える毒状態にする$"=Thời gian niệm: 0.86s\nNếu mục tiêu chưa bị Độc hoặc Độc Tối:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây Độc, sát thương $4/s trong 24s.\n\nNếu mục tiêu đã bị Độc hoặc Độc Tối:\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây Độc Tối, sát thương $3/s trong 12s.
 
 ##UE##

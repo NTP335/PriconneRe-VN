@@ -19,13 +19,21 @@
 
 ##UB+##
 オーシャンサンクチュアリ=Ocean's Sanctuary
-最もＨＰの割合が低い味方１キャラのＨＰを特大回復させる。さらに味方全体のＨＰを中回復し、物理攻撃力を特大アップ、ＴＰ上昇を小アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。さらに敵全体の物理防御力を小ダウンさせる。=Hồi phục rất lớn HP của đồng minh có HP thấp nhất, và hồi phục trung bình HP của toàn bộ đồng minh. Tăng rất lớn P.ATK cho toàn bộ đồng minh, tăng trung bình P.CRIT DMG và tăng nhẹ TP Boost của họ. Đồng thời, giảm nhẹ P.DEF của toàn bộ kẻ địch. Tất cả hiệu ứng kéo dài 18 giây.
-最もＨＰが低い味方１キャラのＨＰを特大回復させる。さらに味方全体のＨＰを中回復し、物理攻撃力を特大アップ、ＴＰ上昇を小アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。さらに敵全体の物理防御力を小ダウンさせる。=Hồi phục rất lớn HP của đồng minh có HP thấp nhất, và hồi phục trung bình HP của toàn bộ đồng minh. Tăng rất lớn P.ATK cho toàn bộ đồng minh, tăng trung bình P.CRIT DMG và tăng nhẹ TP Boost của họ. Đồng thời, giảm nhẹ P.DEF của toàn bộ kẻ địch. Tất cả hiệu ứng kéo dài 18 giây.
+最もＨＰの割合が低い味方のＨＰを特大回復させる。味方全体のＨＰを中回復、物理攻撃力を特大アップ、ＴＰ上昇を小アップ、物理クリティカルダメージを中アップさせる。敵全体の物理防御力を小ダウンさせる。=Hồi phục cực đại HP cho đồng minh có tỷ lệ HP thấp nhất. Đồng thời, hồi phục vừa HP, tăng cực đại Tấn công Vật lý, tăng nhẹ Chỉ số tăng TP và tăng vừa Sát thương chí mạng Vật lý cho toàn bộ đồng minh, đồng thời giảm nhẹ Phòng thủ Vật lý của toàn bộ kẻ địch.
 r:"^味方単体のＨＰを(\d+)回復味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体のＴＰ上昇を10アップ味方全体の物理攻撃クリティカル時のダメージを20％アップ敵全体の物理防御力を(\d+)ダウン$"=►Hồi phục HP của đồng minh thêm $1.\n►Hồi phục HP của toàn bộ đồng minh thêm $2.\n►Tăng P.ATK của toàn bộ đồng minh thêm $3.\n►Tăng TP Boost của toàn bộ đồng minh thêm 10.\n►Tăng P.CRIT DMG của toàn bộ đồng minh thêm 20%.\n►Giảm P.DEF của toàn bộ kẻ địch thêm $4.
 
 ##S1+##
 ネレイドスピア+=Nereid Spear+
-目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を大ダウンさせる。=Gây ra sát thương Vật lý nhỏ cho kẻ địch phía trước và giảm rất lớn P.DEF của nó.
+目の前の敵１キャラに物理小ダメージを与え、物理防御力を大ダウンさせる。=Gây sát thương vật lý nhỏ cho 1 kẻ địch trước mặt và giảm mạnh Phòng thủ Vật lý của chúng.
 
 ##UE##
 涼槍アクアスカッシュ=Aqua Breezelance
+
+
+##UE2##
+オーシャン・ブルーミー=Ocean Bloomy
+ネーブルサポート+=Navel Support+
+
+味方全体の物理攻撃力を特大アップ、物理・魔法防御力を中アップ、物理クリティカルダメージを小アップ、ＨＰを中回復させ、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。初回発動時、行動パターンが変化する。=Tăng cực đại Tấn công Vật lý, tăng vừa Phòng thủ Vật lý và Phòng thủ Ma pháp, tăng nhẹ Sát thương chí mạng Vật lý, hồi phục vừa HP cho toàn bộ đồng minh, đồng thời hồi phục HP liên tục và triển khai lá chắn vô hiệu hóa sát thương vật lý/pháp thuật. Ở lần kích hoạt đầu tiên, thay đổi chu kỳ hành động.
+
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理・魔法防御力を(\d+)アップ味方全体の物理クリダメを6％アップ味方全体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Thời gian thi triển: 0,59 giây.\n►Tăng Tấn công Vật lý của toàn bộ đồng minh thêm $1 trong 12 giây.\n►Tăng Phòng thủ Vật lý và Phòng thủ Ma pháp của toàn bộ đồng minh thêm $2 trong 12 giây.\n►Tăng Sát thương chí mạng Vật lý của toàn bộ đồng minh thêm 6% trong 12 giây.\n►Hồi phục HP của toàn bộ đồng minh thêm $3.\n►Hồi phục $4 HP mỗi giây trong 8,5 giây.\n►Triển khai lá chắn vô hiệu hóa $5 sát thương Vật lý và Sát thương Pháp thuật cho toàn bộ đồng minh trong 12 giây.

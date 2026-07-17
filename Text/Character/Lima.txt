@@ -34,15 +34,16 @@ r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アッ
 ##EX##
 プロテクトファー=Downy Defense
 プロテクトファー+=Downy Defense+
+バトル開始時に自分の物理防御力を大アップする。=Tăng mạnh Phòng thủ Vật lý của bản thân khi bắt đầu trận đấu.
 
 ##UB+##
 メリーウールストライク=Whopping Woolly Wallop
-前方範囲内の敵すべてに物理大ダメージを与えて小さく吹き飛ばし、さらに自分の物理防御力を特大アップさせ、味方全体に物理無効バリアを展開する。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi và đẩy chúng đi, tăng mạnh P.DEF của bản thân, và triển khai một rào cản vật lý cho toàn bộ đồng đội.
+前方範囲内の敵に物理大ダメージを与え、小さく吹き飛ばす。自分の物理防御力を特大アップし、味方全体に物理無効バリアを展開する。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước và đẩy lùi chúng một khoảng ngắn. Tăng cực đại Phòng thủ Vật lý của bản thân và triển khai lá chắn vô hiệu hóa sát thương vật lý cho toàn bộ đồng minh.
 r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 400.\n►Đẩy lùi một kẻ địch 50 đơn vị.\n►Tăng P.DEF của bản thân lên $2 trong 18s.\n►Triển khai Màn Chắn cho toàn bộ đồng đội phản chọi $3 sát thương vật lý trong 18s.
 
 ##S1+##
 もふもふアサルト+=Fuzzy Fury+
-バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップさせる。さらに味方全体に物理無効バリアを展開する。=Xông thẳng vào kẻ địch đầu tiên ngay sau khi trận đánh bắt đầu và gây sát thương vật lý trung bình. Tăng mạnh P.DEF của bản thân. Triển khai một rào cản phản chọi sát thương vật lý xung quanh toàn bộ đồng đội.
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップする。味方全体に物理無効バリアを展開する。=Một thời gian ngắn sau khi bắt đầu trận đấu, lao về phía kẻ địch đi đầu, gây sát thương vật lý trung bình cho mục tiêu đó và tăng vừa Phòng thủ Vật lý của bản thân. Đồng thời triển khai lá chắn vô hiệu hóa sát thương vật lý cho toàn bộ đồng minh.
 r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Xuất hiện sau 1s khi đợt quái bắt đầu, ở phía trước kẻ địch gần nhất 100 đơn vị.\n►Miễn nhiễm sát thương với bản thân trong 1s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng P.DEF của bản thân lên $2 trong 16s.\n►Triển khai Màn Chắn cho toàn bộ đồng đội phản chọi $3 sát thương vật lý trong 16s.
 
 ##UE##

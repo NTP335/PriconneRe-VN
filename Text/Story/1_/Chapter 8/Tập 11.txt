@@ -1,0 +1,53 @@
+【ラビリンス】の拠点周辺は【王宮騎士団（NIGHTMARE）】や大量の魔\n物で囲まれていた。多勢に無勢のため、逃げる算段を練るムイミ。避難経\n路を使い、全員で拠点から脱出することに。=Khu vực xung quanh căn cứ của 【Labyrinth】 đã bị bao vây bởi 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 và một lượng lớn ma vật. Vì lực lượng hai bên quá chênh lệch nên Muimi đã vạch ra kế hoạch rút lui. Cả nhóm quyết định sử dụng lối thoát hiểm để cùng nhau sơ tán khỏi căn cứ.
+
+……ただいま戻りました。=……Tôi đã trở về rồi đây.
+ラジラジ！\nちょっと時間かかったな、何かあったのか？\n外の様子は、どうだった？=Rajraj!\nAnh đi hơi lâu đấy, đã có chuyện gì xảy ra sao?\nTình hình bên ngoài thế nào rồi?
+……はい。\n非常事態です、ノウェム。=……Vâng.\nTình trạng khẩn cấp rồi, Novem.
+この【ラビリンス】アジトの周囲に、\n無数の魔物が蠢いているのを確認しました。\nそれに、【王宮騎士団（NIGHTMARE）】と思しき武装した軍隊も。=Tôi xác nhận có vô số ma vật đang lúc nhúc bao vây xung quanh căn cứ của 【Labyrinth】.\nThêm vào đó, còn có cả một đội quân vũ trang dường như là 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 nữa.
+現在、我らはそういう外敵によってぐるりと包囲されている状態です。\n戦力差は歴然です、\n早めに避難しなければ我らは全滅させられてしまうでしょう。=Hiện tại chúng ta đang ở trong tình thế bị bao vây tứ phía bởi những kẻ địch ngoại bang đó.\nChênh lệch lực lượng là quá rõ ràng, \nnếu không nhanh chóng lánh nạn thì tất cả chúng ta sẽ bị tiêu diệt sạch mất.
+魔物に、軍隊……？　大変じゃないか！\nいつまでも隠れつづけられるとは思ってなかったけど、\n意外と早く見つかったな！=Cả ma vật lẫn quân đội sao……? Nguy to rồi đây!\nTôi vốn biết là không thể trốn tránh mãi được, \nnhưng không ngờ lại bị phát hiện nhanh đến thế này!
+【王宮騎士団（NIGHTMARE）】が出張ってきてるってことは、\n敵は王宮でまちがいなさそうだな。\nまったく毎度毎度、しつっこい連中だ。=Việc 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 ra quân thế này thì kẻ địch chắc chắn là phía hoàng cung rồi.\nThật tình, lần nào cũng vậy, lũ người này dai như đỉa đói.
+脱獄させたダイゴたちを追ってきたか、\n反政府的な動きをしてる【ラビリンス】を潰しにきたか？\n何にせよ、話しあいでどうにかなる段階はとっくに過ぎてる相手だ。=Không biết là chúng đuổi theo nhóm Daigo vừa vượt ngục, \nhay là đến để triệt hạ phe phản chính phủ 【Labyrinth】 đây?\nDù sao đi nữa, đối phương đã vượt xa cái giai đoạn có thể giải quyết bằng thương lượng từ lâu rồi.
+でも、想定してなかった事態じゃない。\n早めに荷物をまとめて、脱出するぞ。=Nhưng đây cũng không phải là tình huống nằm ngoài dự tính.\nMọi người mau chóng thu dọn hành lý rồi rút lui thôi.
+{playername}たちもついてきてくれ、\n話のつづきはまた今度な？=Nhóm {playername} cũng đi theo tụi này nhé, \ncòn câu chuyện lúc nãy thì để lúc khác tiếp tục vậy.
+
+うん。今のオマエは物わかりがよくて助かる。\n記憶喪失になる前は、わりと反抗的だったもんな。\nまぁ、あのころは敵対してたから仕方ないんだけど。=Ừm. Anh của bây giờ biết nghe lời thế này thì đỡ quá.\nChứ trước khi bị mất trí nhớ, anh có phần khá là bướng bỉnh và hay chống đối đấy.\nMà thôi, hồi đó đôi bên là kẻ địch của nhau nên cũng chịu thôi.
+もっと話していたかった。=Anh vẫn muốn nói chuyện nhiều hơn nữa.
+うん。それはアタシも同じだ。\n一方的にガ～ッてまくしたてるだけで、\n思考を整理する時間も与えられなくて申し訳ないよ。=Ừm. Tôi cũng vậy thôi.\nTôi cứ một mực thao thao bất tuyệt tuôn ra một tràng, \nlại chẳng cho anh thời gian để sắp xếp lại suy nghĩ nữa, thật là xin lỗi anh nhé.
+大事な話が終わるまで悠長に待っててくれるような、\n子供向けの娯楽に登場するような敵が相手だったら楽だったけど。=Phải chi kẻ địch của chúng ta là kiểu giống trong mấy chương trình giải trí của trẻ con, \nchịu thong thả đứng đợi bọn mình nói xong chuyện quan trọng rồi mới đánh thì đã nhàn biết mấy.
+
+あぁもう、平和な時間は長くはつづきませんね……\n戦闘になるかもしれないので、準備運動しときましょう。=Aizz thật tình, những khoảng thời gian bình yên chẳng bao giờ kéo dài được lâu nhỉ……\nCó thể sẽ phải nổ ra giao tranh đấy, tranh thủ khởi động tay chân chút nào.
+あのう、ラジラジさまの空間跳躍とやらで脱出できないのですか？\nそれなら話が簡単かと思われますけど、如何でしょう？=Dạ cho em hỏi, liệu chúng ta không thể dùng cái gọi là dịch chuyển không gian của ngài Rajraj để thoát ra ngoài sao ạ?\nNếu làm vậy thì mọi chuyện sẽ đơn giản hơn nhiều, ngài thấy thế nào?
+それが、問題発生です……\n申し訳ありません。=Chuyện đó, đã có sự cố xảy ra rồi……\nTôi rất xin lỗi.
+どうもこの地域一帯の空間に、\n魔術的な罠が仕掛けられていたようで……\nいま外の様子を見に行った際に、私は深刻な損傷を被ってしまいました。=Có vẻ như trong không gian của toàn bộ khu vực này \nđã bị giam hãm bởi một loại bẫy ma pháp……\nKhi tôi ra ngoài thám thính tình hình vừa rồi, bản thân đã phải chịu một tổn thương vô cùng nghiêm trọng.
+死ぬほどのものではありませんが、しばらく空間跳躍は不可能かと。=Tuy không đến mức nguy hiểm tới tính mạng, nhưng e là trong một thời gian ngắn tôi không thể thực hiện dịch chuyển không gian được nữa.
+ぐう、さすがに敵さんも対策を練ってきたか。\nほんとに便利なぶん、\nラジラジの空間跳躍を安易に使いすぎちゃったな。=Hự, quả nhiên phía kẻ địch cũng đã vạch sẵn kế hoạch đối phó rồi sao.\nChính vì nó quá đỗi tiện lợi nên bấy lâu nay \ntụi mình đã quá lạm dụng phép dịch chuyển không gian của Rajraj một cách dễ dãi rồi.
+でもまぁ、ラジラジは『七冠』……特別な存在だ。\n永遠に、どんな場所でもその権能を封じられるわけがない。=Nhưng mà thôi, Rajraj là một 『Seven Crowns』…… một tồn tại đặc biệt.\nKhông đời nào quyền năng của cậu ấy lại bị phong ấn mãi mãi ở mọi nơi được.
+とりあえずラジラジを回復させつつ、\n安全圏まで普通に敵を突破して脱出。=Trước mắt chúng ta vừa hỗ trợ hồi phục cho Rajraj, \nvừa đột phá vòng vây quân địch bằng đường bộ để tháo chạy đến vùng an toàn.
+空間跳躍が可能な場所まで逃げ切ったら、\n他の【ラビリンス】の隠れ家に避難……ってところが無難か。=Chờ tới khi chạy thoát đến nơi có thể dịch chuyển không gian được, \nrồi lánh nạn sang một căn cứ bí mật khác của 【Labyrinth】…… làm vậy có lẽ là phương án an toàn nhất rồi.
+おいおい、弱腰だな。\n逃げるのは性に合わねぇんだけど……=Này này, nhút nhát thế.\nChạy trốn không phải là phong cách của ta đâu đấy……
+敵の戦力によっちゃ、サクッと全滅させてもいいんじゃねぇのか？\nいつまでも追いかけ回されても鬱陶しいし、蹴散らしちまおうぜ。=Tùy vào binh lực của địch, sao bọn mình không tiễn chúng lên đường luôn cho gọn nhỉ?\nCứ bị bám đuôi theo đuôi mãi thế này phiền phức chết đi được, quét sạch tụi nó luôn đi.
+……難しいでしょうね。\n多勢に無勢ですし、建築物のごとき超大型の魔物もいました。=……Chuyện đó e là rất khó.\nĐịch đông ta yếu, lại còn có cả những con ma vật khổng lồ với kích thước như những tòa kiến trúc đồ sộ nữa.
+私への対抗策を練っていたことからも推測できますが。\n敵は確実に、\nこちらを殲滅しうる戦力を用意してきたと考えるべきでしょう。=Hơn nữa có thể suy đoán từ việc chúng đã chuẩn bị sẵn phương án khắc chế tôi. \nChúng ta buộc phải nhận định rằng kẻ địch chắc chắn đã điều động một lực lượng đủ mạnh để tận diệt phe ta.
+まともに戦うのは、愚策です。\nあまり賛成できません。=Việc trực diện đối đầu lúc này là một hạ sách.\nTôi không tán thành việc đó cho lắm.
+{playername}たち、お客さんもいるしな。\n無理して戦うべきじゃない、\n逃げるは恥だけどさっさと尻尾を巻いて撤退しよう。=Với lại bên mình còn có cả khách khứa là nhóm {playername} nữa.\nKhông nên gượng ép chiến đấu làm gì, \ntuy bỏ chạy thì hơi mất mặt chút nhưng cứ nhanh chóng cụp đuôi rút lui cho lành.
+……納得してくれると嬉しい、ダイゴ。=……Hi vọng cậu có thể hiểu cho tình hình, Daigo.
+ったく、しゃあねぇな……\nでも避難するならラビリスタってのも運びださなきゃ駄目じゃねぇか？\n俺、ちょっと行って回収してくる！=Chậc, thật là hết cách với các người mà……\nNhưng nếu muốn di tản thì chẳng phải cũng phải mang cả cái cô Labyrista đó theo cùng sao?\nĐể ta đi vào trong đưa cô ta ra ngoài cho!
+そうだな。\nラビリスタとやらはこちらの要、失ってはならない大事な主柱だろう。=Đúng vậy.\nNgười tên Labyrista đó chính là điểm mấu chốt của phe ta, là vị chủ trụ quan trọng tuyệt đối không thể để mất.
+……なぜかはわからないが、\n個人的にもあれが死んだり傷ついたりするのを見たくない。=……Dù bản thân chẳng hiểu vì lý do gì, \nnhưng cá nhân ta cũng không muốn nhìn thấy cô ấy phải bỏ mạng hay bị tổn thương.
+あはは。\nオマエら、改変される前の世界じゃ友達だったみたいだしな。\n何とな～く、その記憶が残ってるんだろ。=Ha ha.\nThì tại trước khi thế giới bị biến đổi, các người có vẻ từng là bạn bè của nhau mà.\nChắc là trong tiềm thức vẫn còn sót lại chút ít ký ức đó đấy.
+ふぅむ。\nやはり前世のことを言われているようで、あまりピンとこないな。=Hửm.\nNghe cứ như thể đang nói về chuyện của kiếp trước vậy, ta không thấy có cảm giác chân thực cho lắm.
+まぁいい。\n雑談していないで、脱出しよう。=Mà thôi bỏ đi.\nĐừng đứng đó tán gẫu nữa, mau chóng thoát ra ngoài thôi.
+……ラジラジとやら、自分で動けるか？\nあれなら特別サービスで、ワタシが抱っこして運んでやるが。=……Cái cậu Rajraj kia, tự đi đứng được chứ?\nNếu cần thì ta sẽ dành một sự ưu ái đặc biệt, bế cậu đi nhé.
+お構いなく。\n普通に動く程度なら、問題ありません。=Xin đừng bận tâm.\nNếu chỉ là di chuyển đi lại thông thường thì tôi không gặp vấn đề gì cả.
+むう。ネネカさまを攫った怨敵に背を向け、\n逃げなくてはならないのは歯がゆいが。\nまぁ、戦局を見誤って無駄に命を落とすよりは良いか。=Mớ đời. Phải quay lưng tháo chạy trước kẻ thù truyền kiếp đã bắt cóc ngài Neneka thật là cay đắng tột cùng.\nNhưng thôi, thà như vậy còn hơn là nhìn nhận sai lệch chiến cục để rồi phải hy sinh mạng sống một cách vô ích.
+ここは死に場所ではない。\nせめて、ネネカさまを救出するまで生き恥を晒さなくては。=Nơi này không phải là chỗ để mình bỏ mạng.\nÍt nhất, mình phải cắn răng chịu nhục mà sống sót cho đến khi giải cứu được ngài Neneka mới thôi.
+みんな～、脱出の準備はＯＫ？\nこっちに非常時の避難経路があるんだ、お姉ちゃんが案内するね♪=Mọi người ơi~, chuẩn bị thoát hiểm xong xuôi hết chưa?\nỞ phía này có lối thoát hiểm khẩn cấp đấy, để chị hai dẫn đường cho nhé♪
+こっちです、こっち！ 早く！\n禅問答は忙しいってやつです！=Bên này ạ, bên này! Nhanh lên nào!\nĐúng là cái kiểu "thiền vấn đáp bận rộn" mà!
+う～ん、『善は急げ』って言いたいのかなぁ？=Ừm~, hình như em ấy muốn nói là "việc thiện nên làm ngay" (việc gì cần làm thì phải nhanh chóng) đúng không nhỉ?
+よおし。\nじゃあ避難しましょう、{playername}くん。=Được rồi.\nVậy thì chúng ta mau di tản thôi nào, {playername}-kun.
+
+うん。急ごう。=Ừm. Phải nhanh lên thôi.
+
+はい。\nコッコロちゃんも、わたしの後ろにいてくださいね。\nこの身を盾にしてでも、絶対に守ってみせますよ。=Vâng ạ.\nBé Kokkoro cũng hãy đi ngay sau lưng chị nhé.\nDù có phải lấy thân mình làm lá chắn, chị cũng nhất định sẽ bảo vệ em bằng được.
+すべてを奪われたはずのわたしが、\n奇跡みたいに巡り逢えた大事なお友達ですから。=Bởi vì em chính là người bạn vô cùng quan trọng mà một kẻ tưởng chừng như đã mất đi tất cả mọi thứ như chị, lại có thể kỳ tích gặp gỡ được.

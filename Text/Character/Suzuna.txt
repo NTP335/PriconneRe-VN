@@ -35,19 +35,29 @@
 
 ##UB+##
 オートクチュール・ハート=Trái Tim Thời Trang Cao Cấp
-自分の物理攻撃クリティカル時のダメージを中アップさせる。さらに目の前の敵１キャラに物理特大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Tăng sát thương chí mạng vật lý (P.CRIT DMG) một chút. Gây sát thương vật lý cực lớn lên một kẻ địch đứng trước mặt. Sát thương của kỹ năng này luôn là chí mạng.
-r:"^自分の物理攻撃クリティカル時のダメージを25％アップ敵単体に(\d+)の物理ダメージ$"=►Tăng sát thương chí mạng vật lý (P.CRIT DMG) của bản thân lên 25% trong 18s.\n►Gây $1 sát thương vật lý lên kẻ địch.\nLuôn chí mạng.
+自分の物理クリティカルダメージを中アップし、目の前の敵１キャラに物理特大ダメージを与える。このスキルは必ずクリティカルし、クリティカルダメージは３倍になる。=Tăng vừa Sát thương chí mạng vật lý của bản thân và gây sát thương vật lý cực đại cho 1 kẻ địch trước mặt. Kỹ năng này chắc chắn sẽ chí mạng, và sát thương chí mạng sẽ gấp 3 lần.
+
+r:"^自分の物理クリダメを25％アップ敵単体に(\d+)の物理ダメージ$"=►Tăng 25% Sát thương chí mạng vật lý của bản thân trong 18 giây.\n►Gây $1 sát thương Vật lý cho một kẻ địch.
 
 ##S1+##
 おこぷんダーツ+=Tên Láo Nhỏ+
 目の前の敵１キャラに計３回ヒットし、クリティカル時のダメージが２倍ではなく３倍になる物理大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Tổng cộng đánh 3 lần vào 1 kẻ địch đứng trước mặt, gây sát thương vật lý lớn với hệ số chí mạng x3 thay vì x2. Sát thương của mỗi lần đánh luôn là chí mạng.
-r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây $3 sát thương vật lý lên kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ$"=Thời gian thi triển: 0.71s.\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây $3 sát thương vật lý lên kẻ địch.
 
 ##S2+##
 カリスマオーラ♪+=Vòng Ánh Sáng Sức Hút ♪+
-自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを中回復する。=Tăng sát thương vật lý (P.ATK) và sát thương chí mạng vật lý (P.CRIT DMG) của bản thân. Hồi TP của bản thân.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを15％アップ自分のＴＰを150回復$"=►Tăng sát thương vật lý (P.ATK) của bản thân lên $1.\n►Tăng sát thương chí mạng vật lý (P.CRIT DMG) của bản thân lên 15%.\n►Tăng TP của bản thân lên 150.
+
+自分の物理攻撃力を特大アップ、物理クリティカルダメージを小アップ、ＴＰを中回復する。=Tăng cực đại Tấn công Vật lý, tăng nhẹ Sát thương chí mạng vật lý và hồi phục vừa TP cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリダメを15％アップ自分のＴＰを150回復$"=Thời gian thi triển: 1,4 giây.\n►Tăng $1 Tấn công Vật lý của bản thân.\n►Tăng 15% Sát thương chí mạng vật lý của bản thân.\n►Hồi phục 150 TP cho bản thân.
 
 ##UE##
 クリティカルキス=Nụ Hôn Chí Mạng
 カリスマオートクチュール=Thời Trang Quyến Rũ Haute Couture
+
+
+##S1++##
+おこぷんダーツ++=Phi Tiêu Pudding Giận Dữ++
+
+目の前の敵１キャラに物理中ダメージを３回与える。このスキルは必ずクリティカルし、クリティカルダメージは３倍になる。初回発動時、自分が敵にクリティカルでダメージを与えるたびに、その敵の最大ＨＰに応じて最大50万の percentage P.DMGを与える状態になる。=Gây sát thương vật lý trung bình 3 lần cho 1 kẻ địch trước mặt. Kỹ năng này chắc chắn sẽ chí mạng, và sát thương chí mạng sẽ gấp 3 lần. Ở lần kích hoạt đầu tiên, mỗi khi bản thân gây sát thương chí mạng lên kẻ địch, sẽ nhận trạng thái gây thêm sát thương vật lý theo phần trăm HP tối đa của kẻ địch đó (tối đa 500.000 sát thương).
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージクリティカルでダメージを与えるたびに敵単体に最大50万の物理割合ダメージを与える状態になる$"=Thời gian thi triển: 0,71 giây.\n►Gây $1 sát thương Vật lý cho một kẻ địch.\n►Gây $2 sát thương Vật lý cho một kẻ địch.\n►Gây $3 sát thương Vật lý cho một kẻ địch.\n►Nhận trạng thái mỗi khi gây ra một đòn chí mạng, sẽ gây sát thương vật lý theo tỷ lệ (tối đa 500.000) cho một kẻ địch.

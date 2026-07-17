@@ -12,14 +12,6 @@ r:"^自分の残りＨＰを90％消費自分の魔法攻撃力を(\d+)アップ
 
 
 
-Suzuna
-おこぷんダーツ++=Phi Tiêu Nổi Giận++
-目の前の敵１キャラに物理中ダメージを３回与える。このスキルは必ずクリティカルし、クリティカル時のダメージが３倍になる。初弾のこのスキルは、自分を敵にクリティカルでダメージを与えるたびにそのキャラの最大ＨＰに応じて最大50万の割合ダメージを与える状態にする。=Gây sát thương vật lý vừa 3 lần lên 1 kẻ địch trước mặt. Kỹ năng này chắc chắn sẽ bạo kích và sát thương bạo kích được nhân 3 lần. Trong lần đầu thi triển kỹ năng này sau khi bắt đầu trận đấu, bản thân sẽ nhận trạng thái: mỗi khi gây sát thương bạo kích lên kẻ địch, sẽ gây thêm sát thương tỷ lệ theo HP tối đa của mục tiêu đó, tối đa là 500,000.
-
-目の前の敵１キャラに物理中ダメージを１回、物理小ダメージを２回与える。このスキルの１ヒットのダメージは必ずクリティカルし、クリティカル時のダメージが３倍になる。=Gây sát thương vật lý vừa 1 lần và sát thương vật lý nhỏ 2 lần lên 1 kẻ địch trước mặt. Mỗi lần đánh (hit) của kỹ năng này chắc chắn sẽ bạo kích và sát thương bạo kích được nhân 3 lần.
-r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージクリティカルでダメージを与えるたびに敵単体に最大50万の物理割合ダメージを与える状態になる$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Rơi vào trạng thái gây sát thương vật lý theo tỷ lệ (tối đa 500,000) mỗi khi gây sát thương bạo kích.
-
-
 Miyako
 う～ら～め～し～や～なの++=Ura~me~shi~ya~nano++
 【変身】幽霊に変身し、しばらくの間無敵状態になる。また、自分の回避を特大アップさせ、さらに物理防御力を大アップさせる。目の前の敵１キャラが呪い状態でない場合、呪い状態にし、呪い状態であり呪詛状態でない場合、呪詛状態にする。=【Biến thân】 Biến thành linh hồn và trở nên vô địch trong một khoảng thời gian ngắn. Ngoài ra, tăng cực đại Né tránh và tăng mạnh Phòng thủ Vật lý cho bản thân. Nếu kẻ địch trước mặt không bị Nguyền Rủa, gây trạng thái Nguyền Rủa (Curse). Nếu đã bị Nguyền Rủa nhưng chưa bị Ám Nguyền, gây trạng thái Ám Nguyền (Hex).

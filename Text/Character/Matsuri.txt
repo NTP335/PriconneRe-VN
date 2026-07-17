@@ -14,7 +14,7 @@
 
 ##S2##
 タイガースピン=Hổ Xoay
-自分の前後の範囲内の敵に物理小ダメージを与える。=Gây sát thương vật lý trung bình lên toàn bộ kẻ địch trong khu vực xung quanh bản thân.
+自分を中心とした範囲内の敵に物理小ダメージを与える。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi xung quanh bản thân.
 
 ##EX##
 ヒーローの心得=Nguyên Tắc Anh Hùng
@@ -22,12 +22,12 @@
 
 ##UB+##
 ナイトメアブレイブス=Nightmare Braves
-前から３番目の敵の目の前に飛び込み、その敵を中心とした範囲内の敵すべてに物理大ダメージを与える。さらに、自分に物理/魔法無効バリアを展開する。自分のＨＰが低いほどダメージとバリアの無効ダメージ量がアップする。=Nhảy ra trước kẻ địch thứ ba và gây sát thương vật lý khổng lồ lên toàn bộ kẻ địch trong phạm vi xung quanh kẻ địch đó. Ngoài ra, triển khai một tấm khiên phản vật lý/phép thuật lên bản thân. HP càng thấp, sát thương kỹ năng và sát thương phản của khiên càng cao.
+前から３番目の敵の目の前に飛び込み、その敵を中心とした範囲内の敵に物理大ダメージを与える。自分に物理/魔法無効バリアを展開する。自分のＨＰが低いほど、ダメージとバリアの無効ダメージ量が増加する。=Nhảy vào trước mặt kẻ địch thứ 3 tính từ phía trước, gây sát thương vật lý lớn cho kẻ địch trong phạm vi xung quanh mục tiêu đó. Triển khai lá chắn vô hiệu hóa sát thương vật lý/pháp thuật cho bản thân. HP của bản thân càng thấp, sát thương gây ra và lượng sát thương vô hiệu hóa của lá chắn càng tăng.
 r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 450.\n►Triển khai Khiên trên bản thân, phản $1 sát thương vật lý/phép thuật trong 18s.
 
 ##S1+##
 タイガーショック+=Hổ Sốc+
-自分の前後の範囲内の敵に物理小ダメージを与え、スタンさせる。さらに、自分の物理防御力と魔法防御力を特大アップさせる。=Gây sát thương vật lý nhỏ lên toàn bộ kẻ địch trong khu vực xung quanh bản thân và gây choáng. Tăng phòng thủ vật lý và phép thuật của bản thân rất lớn.
+自分を中心とした範囲内の敵に物理小ダメージを与え、スタンさせる。自分の物理・魔法防御力を特大アップする。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi xung quanh bản thân và gây choáng. Tăng cực đại Phòng thủ Vật lý và Phòng thủ Ma pháp của bản thân.
 r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=Thời gian niệm: 0.76s\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 200.\n►Gây choáng mục tiêu trong 2s.\n►Tăng phòng thủ vật lý của bản thân $2 trong 12s.\n►Tăng phòng thủ phép thuật của bản thân $3 trong 12s.
 
 ##UE##

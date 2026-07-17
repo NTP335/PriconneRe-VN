@@ -9,7 +9,8 @@
 
 ##S2##
 スパイラルウェーブ=Sóng xoáy Ốc
-目の前の敵１キャラに魔法小ダメージを与え、さらに魔法防御力を中ダウンさせる。=Gây sát thương phép nhỏ lên kẻ địch ngay phía trước và giảm M.DEF của chúng một chút.
+目の前の敵１キャラに魔法小ダメージを与え、魔法防御力を中ダウンさせる。=Gây sát thương ma pháp nhỏ cho 1 kẻ địch trước mặt và giảm vừa Phòng thủ Ma pháp của chúng.
+
 
 ##EX##
 ハイドロリンク=Liên kết Nước
@@ -17,11 +18,19 @@
 
 ##UB+##
 サマーフルフローター=Lướt trôi Hè tràn đầy
-目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。発動時既にこのスキルの対象が魔法防御力ダウン状態だった場合、さらに魔法大ダメージを与える。=Gây sát thương phép cực lớn lên kẻ địch ngay phía trước, và giảm M.DEF một chút. Nếu mục tiêu của kỹ năng này đã ở trạng thái giảm M.DEF khi kích hoạt, nó sẽ gây thêm sát thương phép.
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を小ダウンさせる。発動時既に対象が魔法防御力ダウン状態だった場合、さらに追加で魔法大ダメージを与える。=Gây sát thương ma pháp cực đại cho 1 kẻ địch trước mặt và giảm nhẹ Phòng thủ Ma pháp của chúng. Nếu tại thời điểm kích hoạt, mục tiêu đã ở trong trạng thái bị giảm Phòng thủ Ma pháp, sẽ gây thêm sát thương ma pháp lớn.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン対象が魔法防御力ダウン状態の時、敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Giảm M.DEF của kẻ địch đi $2.\n\nNếu M.DEF của kẻ địch đã bị giảm:\n►Gây $3 sát thương phép lên kẻ địch.
 
 ##S1+##
 ウォーターバレット+=Đạn Nước+
+目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương ma pháp lớn cho 1 kẻ địch trước mặt và giảm nhẹ Phòng thủ Ma pháp của chúng.
 
 ##UE##
 猫輪サマーフロート=Lướt trôi Mèo
+
+
+##UE2##
+サニーデイ・バースト=Sunny Day Burst
+
+自分の魔法攻撃力を大アップ、魔法クリティカルを特大アップ、魔法クリティカルダメージを小アップし、目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を中ダウンさせる。発動時既に対象の敵が魔法防御力ダウン状態だった場合、さらに追加で魔法大ダメージを与え、受けるクリティカルダメージを小アップさせる。=Tăng mạnh Tấn công Ma pháp, tăng cực đại Tỷ lệ Chí mạng Ma pháp, tăng nhẹ Sát thương chí mạng ma pháp của bản thân, gây sát thương ma pháp cực đại cho 1 kẻ địch trước mặt và giảm vừa Phòng thủ Ma pháp của chúng. Nếu tại thời điểm kích hoạt, kẻ địch mục tiêu đã ở trong trạng thái bị giảm Phòng thủ Ma pháp, sẽ gây thêm sát thương ma pháp lớn và tăng nhẹ sát thương chí mạng mà chúng phải nhận.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを200アップ自分の魔法クリダメを16％アップ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン対象が魔法防御力ダウン状態の場合、以下の効果が発動する敵単体に(\d+)の魔法ダメージ敵単体の被クリダメを4％アップ$"=Thời gian thi triển: 1,14 giây.\n►Tăng $1 Tấn công Ma pháp của bản thân trong 12 giây.\n►Tăng 200 Tỷ lệ Chí mạng Ma pháp của bản thân trong 12 giây.\n►Tăng 16% Sát thương chí mạng ma pháp của bản thân trong 12 giây.\n►Gây $2 sát thương Ma pháp cho một kẻ địch.\n►Giảm $3 Phòng thủ Ma pháp của một kẻ địch trong 12 giây.\n\nNếu mục tiêu đang bị giảm Phòng thủ Ma pháp:\n►Gây thêm $4 sát thương Ma pháp cho một kẻ địch.\n►Tăng 4% sát thương chí mạng mà một kẻ địch phải nhận trong 12 giây.

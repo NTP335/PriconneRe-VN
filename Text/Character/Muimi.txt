@@ -1,11 +1,11 @@
 ##Profile##
 さまよえる謎の少女=Một thiếu nữ lang thang với quá khứ bí ẩn
 
-【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。小技を駆使する通常の戦闘スタイルから一転、ユニオンバースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。=[Vật Lý] Một cô gái kiên quyết, trừng phạt kẻ thù từ tuyến đầu bằng thanh kiếm huyền thoại của mình. Khi trang bị Spiresbane Blade sau Union Burst, cô chuyển từ kỹ năng kỹ thuật sang đợt tấn công toàn diện.
+【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。小技を駆使する通常の戦闘スタイルから一転、ユニオンバースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。=[Vật Lý] Một cô gái kiên quyết, trừng phạt kẻ thù từ tuyến đầu bằng thanh kiếm huyền thoại của mình. Khi trang bị Thiên Lâu Bá Đoạn Kiếm sau Union Burst, cô chuyển từ kỹ năng kỹ thuật sang đợt tấn công toàn diện.
 
 ##UB##
-天楼覇断剣=Spiresbane Blade
-目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Gây sát thương vật lý cực lớn lên kẻ địch ngay phía trước. Trang bị Spiresbane Blade cho đến khi TP cạn kiệt.\nThay đổi hiệu ứng kỹ năng cho đến khi TP cạn (100 TP/giây) và chuyển vòng đánh thành Vòng Lặp (UB).\nKhôi phục hiệu ứng kỹ năng sau khi TP về 0.\n(UB không tiêu hao TP)
+天楼覇断剣=Thiên Lâu Bá Đoạn Kiếm
+目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Gây sát thương vật lý cực lớn lên kẻ địch ngay phía trước. Trang bị Thiên Lâu Bá Đoạn Kiếm cho đến khi TP cạn kiệt.\nThay đổi hiệu ứng kỹ năng cho đến khi TP cạn (100 TP/giây) và chuyển vòng đánh thành Vòng Lặp (UB).\nKhôi phục hiệu ứng kỹ năng sau khi TP về 0.\n(UB không tiêu hao TP)
 
 
 
@@ -21,7 +21,7 @@ r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=►Giảm phòng thủ 
 
 ##SP1##
 装備中=Khi trang bị
-このスキルのスキルレベルは「天楼覇断剣」と連動しています=Cấp độ kỹ năng này liên kết với "Spiresbane Blade"
+このスキルのスキルレベルは「天楼覇断剣」と連動しています=Cấp độ kỹ năng này liên kết với "Thiên Lâu Bá Đoạn Kiếm"
 天楼廻刃斬=Spiresplitter Sweep
 
 ##SP2##
@@ -33,7 +33,7 @@ r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=►Giảm phòng thủ 
 ポテンシャルフォース+=Potential Force+
 
 ##UB+##
-真破・天楼覇断剣=True Destruction: Spiresbane Blade
+真破・天楼覇断剣=True Destruction: Thiên Lâu Bá Đoạn Kiếm
 前方の敵に物理特大ダメージを与え、真破・天楼覇断剣を装備する。装備中はＴＰが減少し続け、ＴＰが無くなると装備が解除されるが、スキル発動時追加で物理大ダメージを与える。初回発動時、バトル終了まで自分の物理・魔法防御力を大アップし、敵から受ける行動不能を無効化し、受けるダメージを50％軽減する状態になる。自分より前に味方がいない場合、ダメージ軽減状態は解除される。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước và trang bị "Chân Phá - Thiên Lâu Bá Đoạn Kiếm". Trong thời gian trang bị, TP sẽ liên tục giảm và kiếm sẽ bị tháo bỏ khi TP về 0, nhưng các kỹ năng khi kích hoạt sẽ gây thêm sát thương vật lý lớn. Trong lần kích hoạt đầu tiên, tăng mạnh chỉ số phòng thủ vật lý và phòng thủ phép thuật của bản thân cho đến hết trận, vô hiệu hóa các hiệu ứng không thể hành động từ kẻ địch, và nhận trạng thái giảm 50% sát thương phải chịu. Trạng thái giảm sát thương sẽ bị giải trừ nếu không có đồng đội nào đứng phía trước bản thân.
 
 r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理・魔法防御力を(\d+)アップ自分が敵から受ける行動不能を無効化する自分をダメージ軽減状態にする$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Tăng $2 phòng thủ vật lý và ma pháp của bản thân trong 180 giây.\n►Vô hiệu hóa các hiệu ứng khống chế lên bản thân.\n►Đưa bản thân vào trạng thái Giảm sát thương.\n►Tiêu tốn 100 TP mỗi giây.

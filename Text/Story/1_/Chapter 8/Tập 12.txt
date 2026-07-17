@@ -1,0 +1,60 @@
+Name
+洞窟=Hang
+
+Story
+【王宮騎士団（NIGHTMARE）】の包囲網から脱出するべく、避難経路を\n移動する面々。ムイミの天楼覇断剣による攻撃で、魔物の包囲を突破する\nのだった。=Để tháo chạy khỏi vòng vây của 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】, cả nhóm cùng nhau di chuyển dọc theo lối thoát hiểm. Nhờ vào đòn công kích đầy uy lực từ thanh Thiên Lâu Bá Đoạn Kiếm của Muimi, họ đã thành công đột phá được vòng vây của lũ ma vật.
+
+ぶはぁっ！=Phù hàaa!
+けふんけふん！\nう～、この避難経路はろくすっぽ整備もしてなかったからなぁ！\nすっごい埃っぽかったね、お洋服が汚れちゃったよぉ？=Khụ khụ, khụ khụ!\nƯ~, cái lối thoát hiểm này từ trước tới nay chẳng được bảo trì quét dọn gì cả mà!\nBụi bặm kinh khủng khiếp luôn, làm bẩn hết cả quần áo đẹp rồi nè chịu nổi không chứ lị?
+しくしく。\nあんまり貯金ないから、クリーニング代も馬鹿にならないのに。=Hức hức.\nTiền tiết kiệm thì chẳng có bao nhiêu, tiền đem đồ đi giặt ủi cũng bộn chứ đâu có đùa được.
+嘆いてないで急ぎましょう、お姉ちゃん！\nこの洞窟を抜けるのは敵も予想外でしょうし、\nそのまま安全圏まで脱出できるはずです！=Đừng có đứng đó mà than vãn nữa, mau nhanh chân lên nào chị hai!\nViệc tụi mình đi xuyên qua cái hang động này chắc chắn nằm ngoài dự tính của kẻ địch rồi, \ncứ thế này là bọn mình có thể thuận lợi tháo chạy đến vùng an toàn đấy!
+……いや、どうもそう簡単にはいかないようだぞ。\n見ろ、厄介そうな魔物がうようよしている。=……Không đâu, xem ra mọi chuyện không hề dễ dàng như vậy rồi.\nNhìn kìa, một lũ ma vật trông có vẻ phiền phức đang nhung nhúc đầy rẫy ra đó.
+待ち伏せか、野生の魔物か判別しづらいが……\nどうも殺気立ってるし、素通りさせてはくれないだろう。=Chưa rõ tụi này là do địch bố trí mai phục hay chỉ là lũ ma vật hoang dã……\nNhưng rõ ràng là chúng đang tỏa ra sát khí đằng đằng, chắc chắn sẽ không dễ dàng để bọn mình đi qua đâu.
+まぁ、この程度の数の魔物で……\nこのクリスティーナ・モーガンの行く手を阻めると思っているなら、\nお笑いぐさだがな。=Mà nực cười thật đấy, nếu chúng nghĩ là chỉ với cái số lượng ma vật cỏn con cỡ này……\nmà đòi ngáng đường vị trí của Christina Morgan này thì đúng là trò hề thiên hạ.
+坊や、どっちがたくさん魔物を倒せるか競争しようか♪=Nhóc con ơi, tụi mình thi tài xem đứa nào hạ gục được nhiều ma vật hơn đi nhé♪
+そんな悠長なことを言ってる場合じゃなくねぇか。\n敵はすぐにでもアジトに突入してくる、\nそこがもぬけの殻だったら俺らを捜索するだろ。=Giờ này mà bà cô còn tâm trí đòi chơi mấy cái trò thong thả đó nữa hả.\nKẻ địch sẽ sớm đột nhập vào căn cứ thôi, \nmột khi phát hiện bên trong trống rỗng không một bóng người thì kiểu gì chúng chẳng tỏa đi lùng sục bọn mình chứ.
+敵は数がおおいっぽいし、人海戦術で探されたらすぐに見つかる。\n魔物といちいち戦って手こずってたら、\nすぐに追いつかれて挟み撃ちに遭っちまうぜ。=Bên phe địch có vẻ chiếm ưu thế áp đảo về số lượng, nếu chúng dùng chiến thuật biển người để truy quét thì bọn mình bị tóm gáy là cái chắc.\nĐã vậy mà còn đứng đây dây dưa tốn thời gian chiến đấu với từng con ma vật, \nthì chẳng mấy chốc sẽ bị chúng đuổi kịp rồi rơi vào thế gọng kìm lưỡng đầu thọ địch liền đấy.
+おぉ……意外と頭が回るんだな、坊や。\nちょっと見直したぞ。=Ồ…… Cậu nhóc này xem ra cũng biết động não suy nghĩ đấy chứ.\nTa bắt đầu có cái nhìn hơi khác về cậu rồi đấy.
+はっ、こちとら荒事で飯食ってる喧嘩屋なんだよ！\n九九の計算とかは苦手だけどなっ、戦闘に関しちゃ任せとけ！=Hứ, tôi đây là dân đấu đá chuyên kiếm cơm bằng nắm đấm đấy nhé!\nDù mấy khoản tính toán bảng cửu chương thì tôi hơi dốt thật, chứ riêng về chuyện chiến đấu thì cứ tin tưởng giao hết cho tôi đi!
+……九九、できないのか？\n大丈夫か？ 家庭教師してやろうか？=……Ủa, không biết thuộc bảng cửu chương thiệt luôn hả?\nCó ổn không đó? Hay là để ta làm gia sư dạy kèm cho cậu một khóa nhé?
+ものの喩えだよ！\n九九ぐらいできらぁっ、馬鹿にするんじゃねぇぞ！？=Đấy chỉ là một cách ví von thôi mà!\nMấy cái phép tính cửu chương cỏn con đó sao tôi lại không biết làm được chứ, đừng có mà coi thường người khác thế chứ hả!?
+あはは。\n仲良しで結構だけど、のんびりしてる場合じゃない……\nちょっと強引にでも、急いで魔物の群れを突破するぞ。=Ha ha.\nHai người thân thiết với nhau như vậy thì tốt đấy, nhưng giờ không phải là lúc thong dong đâu……\nChúng ta phải nhanh chóng đột phá vòng vây của lũ ma vật này, dẫu có phải dùng biện pháp mạnh bạo một chút đi chăng nữa.
+ここは、アタシに任せとけ。=Chỗ này, cứ để tôi lo liệu cho.
+わおっ？\nもしかしてノウェムちゃん、『あれ』を使うつもり？=Oa~?\nKhông lẽ Novem-chan định sử dụng 『cái đó』 sao?
+うわぁ、待ってました！\n格好良いところを見せてくださいね、ノウェムちゃん♪=Oa, tớ chờ khoảnh khắc này mãi rồi đấy!\nHãy cho mọi người chiêm ngưỡng một màn trình diễn thật ngầu lòi đi nào, Novem-chan♪
+……何の話でしょうね、{playername}くん？=……Họ đang nói về chuyện gì thế nhỉ, {playername}-kun?
+
+ですよね～……\nう～ん、何やら楽しげで良い雰囲気ではありますけど。=Đúng là vậy nhỉ~……\nƯ~m, dẫu bầu không khí trông có vẻ khá vui vẻ và tiến triển tốt đẹp.
+心当たりがある。=Tớ cảm thấy có chút ấn tượng về chuyện này.
+おっ、ほんとですか？\n{playername}くんは意外と博識ですね！=Ồ, thật thế sao ạ?\n{playername}-kun có vẻ là người học rộng tài cao ngoài dự đoán đấy nhỉ!
+……って、首を傾げてるじゃないですか。\n何で心当たりがあるとか言ったんですか？=……Ơ kìa, nhưng rõ ràng là cậu đang nghiêng đầu ngơ ngác kia mà.\nSao cậu lại bảo là bản thân có chút ấn tượng về nó chứ hả?
+……わたしたちが忘れちゃってるっていう、\n本当の『現実』の記憶がすこし戻ったのかもしれませんね。\n改変される前の、記憶が。=……Có lẽ là một phần ký ức về 『hiện thực』 đích thực mà chúng ta đã lỡ lãng quên đang dần được khôi phục lại chăng.\nNhững mảnh ký ức từ trước khi thế giới bị biến đổi ấy.
+
+よければわたしが『王家の装備』をフル出力にして、\n魔物を薙ぎ倒しますよ。\nお腹すいて、動けなくなっちゃうかもですけど。=Nếu được thì cứ để tớ bật hết công suất của 『Trang bị Hoàng gia』 rồi quét sạch lũ quái vật cho nhé. Cơ mà sau đó chắc tớ sẽ đói bụng tới mức không nhúc nhích nổi luôn quá à.
+大丈夫大丈夫。\nここは任せとけ、まだ危険な橋を渡る段階じゃないしな……=Không sao hết, không sao đâu.\nChỗ này cứ tin tưởng ở tôi đi, hiện tại vẫn chưa đến mức phải mạo hiểm dấn thân vào hiểm cảnh đâu……
+これから安全圏まで脱出しなくちゃいけないんだ、\n体力は温存しといたほうがいい。=Vì sau đây bọn mình còn phải dốc sức tháo chạy đến vùng an toàn nữa,\nnên tốt nhất là hãy cứ dưỡng sức và tiết kiệm thể lực đi.
+みんな、いったん下がってろ！\n派手なやつをぶちかますぞ！=Mọi người, tất cả hãy tạm thời lùi lại phía sau đi!\nTôi chuẩn bị tung ra một đòn hoành tráng đây!
+
+現出せよ！=Hãy hiện diện đi!
+道をあけな、魔物ども！=Mau tránh đường ra, lũ ma vật kia!
+大悪党の=Để cho đại ác tặc này
+お通りだ！=đi qua nào!
+
+天楼覇断剣だ。\n改変される前の世界での、アタシの主力武器。\nふふん、データ弄って無敵の強さにしたチート性能の一品だぞ♪=Là Thiên Lâu Bá Đoạn Kiếm đấy.\nVũ khí chủ lực của tôi ở thế giới trước khi bị biến đổi.\nHừm, đây là một tuyệt phẩm mang hiệu năng gian lận (cheat) vô địch thiên hạ nhờ vào việc can thiệp chỉnh sửa dữ liệu đấy nhé♪
+天楼覇断剣は世界の改変の際に、\nシステムと齟齬が生じたのか失われちゃったけど……=Thanh Thiên Lâu Bá Đoạn Kiếm này tuy đã bị thất lạc trong quá trình thế giới bị biến đổi, \ncó lẽ là do xảy ra lỗi xung đột với hệ thống……
+ラビリスタがその権能を発揮して、\nこうしてレプリカをつくってくれたんだ。=Nhưng Labyrista đã thi triển quyền năng của cô ấy, \nđể tạo ra một bản sao hoàn chỉnh như thế này cho tôi.
+普段は異空間に収納されてるけど、\nあたしが望めばいつでも呼びだせる。=Bình thường nó sẽ được cất giữ ở trong một không gian khác, \nnhưng chỉ cần tôi muốn là có thể triệu hồi nó ra bất cứ lúc nào.
+多少、本物よりは性能が劣化してるけどな！\nそこはアタシの技術と経験、あと根性で補う！=Mặc dù về mặt hiệu năng thì nó có phần bị giảm sút so với hàng thật một chút!\nNhưng điều đó sẽ được bù đắp bằng kỹ thuật, kinh nghiệm và cả sự quyết tâm kiên cường của tôi!
+前の世界ではまともに扱えなかったけど、\n今のアタシなら存分にこれを振るえるぞ！=Ở thế giới trước đây tôi không thể sử dụng nó một cách trơn tru được, \nnhưng với năng lực hiện tại, tôi hoàn toàn có thể vung vẩy thanh kiếm này theo ý muốn của mình!
+魔物ども！\n命が惜しければ道を空けろ！=Lũ ma vật kia!\nNếu còn biết quý trọng mạng sống thì mau khôn hồn mà tránh đường ra!
+って言っても……単なるデータでしかないオマエらは、\nプログラムから外れた行動はできないんだろうけどな！=Mà ta có nói thế thì…… lũ chỉ là đống dữ liệu thuần túy như các ngươi, \ncũng chẳng thể nào thực hiện những hành động nằm ngoài lập trình có sẵn được đâu nhỉ!
+データだから命もない！\nオマエらは生き物じゃない！\nだから容赦なく、ぶった斬れるぞ！=Vì chỉ là dữ liệu nên các ngươi làm gì có sinh mạng!\nCác ngươi đâu phải là những sinh vật sống thực thụ!\nChính vì thế, ta có thể nhẫn tâm thẳng tay chém rách xác các ngươi mà không cần phải nương tay!
+覚悟～！\n世界一の悪党の剣捌きを、存分に堪能してから蒸発しろ！=Hãy chuẩn bị tinh thần đi~!\nHãy tận hưởng cho đã đời kỹ năng kiếm pháp của tên ác tặc đệ nhất thiên hạ này rồi biến thành tro bụi đi nhé!
+どおりゃああああああ！=Doryaaaaaaa!!
+うひっ！？\nあわ、わっ？=Eek!?\nWhoa, whoa?
+ひぇえっ、衝撃波を浴びただけでブッ倒れそうです！\nやばいですね！=Úi trời ơi, chỉ mới hứng chịu làn sóng xung kích thôi mà em tưởng chừng như sắp ngã quỵ xuống luôn rồi!\nKinh khủng thật đấy chứ!
+おお。美しい……\n素晴らしい輝きだね！=Ồ. Đẹp quá……\nMột vầng hào quang tuyệt mỹ làm sao!
+ふふん、どんなもんだっ♪=Hừm, thấy năng lực của tôi thế nào hả♪
+道は拓けた！\n魔物の群れのなかに空白地帯ができたぞ、あそこを突っ切る！=Con đường đã được khai thông rồi!\nMột khoảng trống lớn đã được tạo ra ngay giữa bầy ma vật, tụi mình mau lao thẳng qua đó thôi!
+近づいてくる魔物はアタシがやっつけるから、\nみんなは前だけを見て全速力で走れ！=Những con ma vật nào dám bén mảng lại gần sẽ bị tôi tiêu diệt sạch, \nnên mọi người cứ nhìn thẳng về phía trước mà cắm đầu chạy hết tốc lực đi!
+さぁ行くぞ～、黙ってアタシについてこいっ♪=Nào, đi thôi nào~, cứ giữ im lặng rồi đi theo tôi nhé♪

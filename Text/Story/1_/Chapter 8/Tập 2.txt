@@ -1,0 +1,63 @@
+{playername}は【ラビリンス】の拠点で目を覚ます。すでにシノブたちとは別\nれていることをコッコロから説明される中、ムイミが現れ、食堂まで来て\nくれと言いにやってくる。={playername} tỉnh giấc tại căn cứ của hội 【Labyrinth】. Trong lúc nghe Kokkoro giải thích về việc cả nhóm đã tạm thời chia tay với nhóm của Shinobu, Muimi xuất hiện và bảo cậu hãy đi đến nhà ăn.
+
+わっ……\nおはようございます、主さま。=Oái……\nEm xin chào buổi sáng, thưa chủ nhân.
+如何しました、急に飛び起きて？\n何か、怖い夢でもご覧になったのでしょうか？=Đã có chuyện gì xảy ra sao ạ, tự dưng anh lại giật mình bật dậy như vậy? \nCó phải anh vừa mơ thấy một giấc mơ đáng sợ nào đó không?
+
+誰かに呼ばれた気がした。=Anh có cảm giác như vừa nghe thấy ai đó gọi mình.
+
+ふむ？\nわたくしには何も聞こえませんでしたが……\n寝惚けておられるのですか、主さま？=Hửm?\nBản thân em thì không nghe thấy tiếng động gì cả……\nCó phải chủ nhân vẫn còn đang ngái ngủ không ạ?
+ふふ。\n本当に、放っておけないかた……♪=Hì hì.\nAnh đúng thật là một người khiến cho người khác không thể rời mắt được mà……♪
+それよりも。\nえ～、おほん。=Mà gạt chuyện đó sang một bên đi ạ.\nE hèm, khụ khụ.
+【ラビリンス】のお二方、\n主さまが寝苦しそうにしておられるので……\n可能でしたら、ベッドから出ていただけると幸いでございます。=Hai vị thành viên của hội 【Labyrinth】 ơi,\nchủ nhân có vẻ đang cảm thấy hơi khó chịu và ngột ngạt khi ngủ đấy ạ……\nNên nếu được, em rất mong hai vị có thể bước ra khỏi giường giùm cho.
+無理かな～！\nだって久しぶりの{playername}くんなんだもん！=Chắc là không được đâu nè~\nBởi vì lâu lắm rồi tụi chị mới được gặp lại {playername}-kun mà!
+{playername}くん{playername}くん、\n会いたかったよぉ～！={playername}-kun ơi {playername}-kun,\nchị nhớ em muốn chết đi được luôn á~!
+{playername}くんの顔が見られなくて、\n触れあえなくて、お姉ちゃんの胸は張り裂けそうだったよ！=Vì không được nhìn thấy gương mặt đáng yêu của {playername}-kun, \ncũng chẳng thể ôm ấp vuốt ve em, làm lồng ngực của người làm chị gái này như muốn vỡ vụn ra từng mảnh luôn vậy đó!
+でも！ あらゆる困難を乗り越えて！\n今、{playername}くんとお姉ちゃんは結ばれたの！\nハッピーエンドだねぇ、えっへへへへへ……♪=Thế nhưng! Vượt qua bao nhiêu gian nan thử thách!\nGiờ đây, {playername}-kun và người chị gái này đã được về chung một nhà rồi!\nĐúng là một cái kết có hậu siêu viên mãn luôn nhỉ, hí hí hí hí hí……♪
+正気度の低いことを言ってないで、\nマジでいったん寝床から出てくださいね。\nまったくもう、油断もキスもなっしんぐですよ。=Chị bớt nói mấy lời thiếu tỉnh táo sến súa đó giùm em đi,\nvới lại mau mau bước ra khỏi giường của người ta cái coi.\nThật là tình, không thể lơ là một dây một chút nào với chị được mà.
+『油断も隙もない』ね、リノちゃん♪=Phải là "Không thể lơ là một giây một phút nào" chứ hả Rino-chan♪
+……実際。\nまだ{playername}お兄ちゃんの記憶は、\nほぼ戻ってないっぽいですから。=……Mà trên thực tế.\nKý ức của anh trai {playername} hiện tại,\ncó vẻ như vẫn chưa được khôi phục lại là bao đâu ạ.
+迂闊に接触したら何があるかわかんないですよ、\n頭がおシャカになるかもしれません。=Nếu chúng ta cứ tự tiện tiếp xúc bừa bãi thế này không biết sẽ xảy ra chuyện gì đâu, \ncó khi đầu óc anh ấy lại hỏng mát luôn không chừng đó.
+私だってお兄ちゃんとラブラブいちゃいちゃしたいのを、\n必死に我慢してるというのに……\n自重してください、お姉ちゃん。=Đến cả em đây dẫu thèm khát được ôm ấp nũng nịu bên anh trai muốn chết đi được, \nmà vẫn đang phải cắn răng cố chịu đựng đây này……\nChị cũng phải biết tự trọng đi chứ, bà chị hai của em.
+あぁんっ、無理やり{playername}くんから引き離さないで！\n意地悪～！=Áaaa, đừng có dùng vũ lực chia rẽ chị khỏi {playername}-kun mà!\nĐồ xấu xa đáng ghét~!
+お姉ちゃんと{playername}くんは一生いっしょにいるのっ、\n誰にも断ち切れない血の絆があるのぉおおっ！=Chị gái và {playername}-kun sẽ ở bên nhau trọn đời trọn kiếp,\ngiữa tụi chị có một sợi dây liên kết máu mủ ruột rà không một ai có thể chia cắt được đâuuuuu!
+私と同じで血は繋がってないでしょう、お姉ちゃんも……\nマスターも休眠状態で何があっても対処できないんですから、\nほんとに良い加減にしてくださいね。=Thì chị cũng giống như em thôi chứ có chung giọt máu nào đâu hả chị hai……\nHơn nữa Master hiện tại vẫn đang trong trạng thái ngủ đông nên lỡ có xảy ra chuyện gì cũng không ai xử lý được đâu, chị làm ơn biết điểm dừng giùm em đi nha.
+うう。\nだって、だって寂しかったの。=Huhu.\nNhưng mà, tại vì chị thấy cô đơn trống trải lắm chứ bộ.
+{playername}くんが他の女の子とラブコメをしてる間、\n私は地味な事務仕事とかに忙殺されててストレス山盛りだったのぉ。=Trong khi {playername}-kun bận rộn đóng phim tình cảm hài lãng mạn với các cô gái khác, \nthì chị lại phải đầu tắt mặt tối ngập đầu trong đống công việc bàn giấy tẻ nhạt, làm stress tích tụ cả núi đây này ưm ưm.
+それは私も同じですってば。\n一応、私たち【ラビリンス】は秘密結社ですもんね。=Cái đó thì em cũng y chang chị chứ khác gì đâu.\nDù sao thì bang hội 【Labyrinth】 tụi mình về cơ bản vẫn là một tổ chức bí mật mà lị.
+地味な裏方仕事っていうか、\n裏街道をこそこそ動くしかないのは仕方ないでしょう？=Thế nên việc phải làm mấy cái công việc hậu trường tẻ nhạt,\nhay cứ phải lén lút hoạt động trong bóng tối thế này cũng là chuyện bất khả kháng rồi đúng không?
+まぁ何にせよ、皆さんが無事で何よりでした。\nこのアジトはまぁ安全だと思いますから、\nゆっくりしてってくださいね。=Nhưng mà dù sao đi nữa, mọi người vẫn bình an vô sự thế này là tốt lắm rồi.\nCăn cứ này của tụi em tạm thời có thể coi là an toàn, nên mọi người cứ tự nhiên nghỉ ngơi thư thả nhé.
+ほらお姉ちゃん、\nそろそろ他の皆さんも起きてくると思いますから……\n一緒に、朝ご飯の支度をしましょう？=Nào chị hai,\nem nghĩ chắc mọi người cũng sắp sửa thức dậy hết rồi đó……\nTụi mình cùng đi chuẩn bị bữa sáng thôi chứ hả?
+うう、いいけどねっ！\nこれから嬉し恥ずかしの同居生活が始まるんだもんね！\nまだまだチャンスはあるっ、お姉ちゃんはポジティブに考えるよ！=Hừm, đi thì đi vậy!\nDù sao thì từ nay về sau cuộc sống chung một nhà đầy ngượng ngùng nhưng vui vẻ cũng sẽ bắt đầu rồi mà!\nCơ hội dành cho chị vẫn còn đầy ra đó, người làm chị này sẽ luôn suy nghĩ thật tích cực!
+覚悟してね、{playername}くん！\nすぐに思い知らせてあげるっ、お姉ちゃんの有り難みを！\n人生に必要不可欠な要素とは、お姉ちゃんであるということを……！=Hãy chuẩn bị tinh thần đi nhé, {playername}-kun!\nChị sẽ sớm cho em thấy được tầm quan trọng và giá trị của một người chị gái tuyệt vời thế nào!\nVà để em hiểu ra rằng yếu tố cốt lõi không thể thiếu trong cuộc sống này, chính là chị gái……!
+はいはい。\n馬鹿を言ってないで行きましょ。\n……それじゃあ、お騒がせしました～♪=Rồi rồi.\nBớt nói mấy lời ngớ ngẩn đó rồi đi thôi nào.\n……Vậy tụi em xin phép không làm phiền nữa nha~♪
+……ふむ。\nよくわかりませんが、ほんとに騒がしい方々ですよね。=……Hửm.\nEm cũng không rõ chuyện gì đang xảy ra nữa, nhưng họ quả thực là những người vô cùng ồn ào náo nhiệt nhỉ.
+
+悪いひとたちじゃないけどね。=Nhưng họ cũng không phải là người xấu đâu mà.
+
+はい。\n【ラビリンス】の皆さんは、第一印象が悪かったというか。\n以前いきなり襲ってきた、危ない集団だという認識でございましたが。=Vâng ạ.\nCơ mà các thành viên của hội 【Labyrinth】 quả thực đã để lại ấn tượng ban đầu không mấy tốt đẹp cho lắm.\nTrước đây em cứ ngỡ họ là một băng nhóm nguy hiểm tự dưng ở đâu lao vào tấn công tụi mình chứ.
+どうも、主さまとは仲良しなようですし……\nお兄ちゃんとか呼ばれたりして……\n見た感じ、善良なかたたちのようです。=Thế nhưng có vẻ như họ lại có mối quan hệ vô cùng thân thiết với chủ nhân……\nĐã vậy còn gọi anh là anh trai này nọ nữa……\nXem ra họ đều là những người lương thiện tốt bụng cả.
+もちろん、油断は禁物でございますが。\nまだまだ、正体不明ですしね。=Tất cả là dĩ nhiên, chúng ta vẫn không được phép chủ quan lơ là.\nBởi vì danh tính thực sự của họ vẫn còn là một ẩn số lớn.
+ふふ。\n如何しました、主さま？\n何だか、呆然としておられますね……？=Hì hì.\nCó chuyện gì sao ạ, thưa chủ nhân?\nTrông nét mặt anh có vẻ đang thẫn thờ ngơ ngác thế kia……?
+寝惚けて、現状が思いだせないのでしょうか？\nでは不肖、コッコロがご説明いたします♪=Có phải do vẫn còn ngái ngủ nên anh chưa nhớ ra tình hình hiện tại không?\nVậy thì xin cho phép Kokkoro em được mạn phép giải thích tường tận cho anh nghe nhé♪
+昨日、『七冠』のネネカなる人物と接触するため……\nわたくしたちは、その研究施設とやらを訪れたのでございます。=Ngày hôm qua, để tiếp cận nhân vật tên là Neneka thuộc nhóm 『Seven Crowns』……\nTụi mình đã cùng nhau tìm đến một nơi gọi là viện nghiên cứu của cô ấy.
+その結果、何やかんやとあって研究施設は爆発。=Để rồi sau đó xảy ra đủ thứ chuyện rắc rối, khiến cho viện nghiên cứu đó bị nổ tung mất tiêu.
+わたくしたちは、偶さか巡り逢えたムイミさまのお導きにより、\n一時的に【ラビリンス】の拠点に身を寄せたのでございます。\nここまでは、覚えておいででしょうか？=Nhờ có sự dẫn đường của cô Muimi mà tụi mình tình cờ chạm mặt khi đó,\nnên cả nhóm đã tạm thời đến lánh nạn tại căn cứ của hội 【Labyrinth】 này đây ạ.\nAnh đã nhớ ra tới đoạn này chưa ạ?
+【ラビリンス】は秘密結社、そのアジトも小規模なもののようで……\n大人数で押しかけると手狭になりますから、\nシノブさまたちとはいったんお別れしております。=Vì 【Labyrinth】 là một tổ chức bí mật nên căn cứ của họ có vẻ cũng khá nhỏ hẹp……\nNếu kéo cả một đoàn người đông đúc tới đây thì sẽ rất chật chội, nên tụi mình đã tạm thời tạm biệt nhóm của chị Shinobu rồi ạ.
+あのかたたちを、\nあまり我らの因縁に巻きこむのもどうかと思いますしね。=Hơn nữa em nghĩ việc kéo họ vào mớ rắc rối ân oán của tụi mình quá sâu cũng không phải là điều hay ho gì.
+どうもシノブさまたちは、\n大破した研究施設の残骸などを調べたかったようですし。=Có vẻ như bản thân nhóm của chị Shinobu cũng muốn nán lại để điều tra đống tàn tích đổ nát của viện nghiên cứu vừa bị phá hủy kia.
+今後も情報交換などをしつつ、\n仲良くしていこう～などと仰っていただけましたね。\n見た目は怪しげながらも、なかなか快い方々でございました。=Họ còn bảo là sau này đôi bên vẫn sẽ giữ liên lạc để trao đổi thông tin và cùng nhau giúp đỡ lẫn nhau nữa cơ.\nDù ngoại hình trông có hơi kỳ lạ một chút nhưng họ thực sự là những người vô cùng cởi mở và tốt bụng.
+
+ギルド名は悪者っぽいけどね。=Tên bang hội nghe có vẻ giống kẻ phản diện thật đấy.
+ふむ……えっと、【悪魔偽王国軍（ディアボロス）】？\nシノブさまたち、そんな恐ろしげな名前のギルドだったのですね。\nわたくし、寡聞にして存じあげませんでした。=Hửm…… để em nhớ xem, bang 【Diabolos】 đúng không ạ?\nThì ra nhóm của chị Shinobu lại thuộc một bang hội có cái tên nghe đáng sợ đến nhường ấy cơ à.\nBản thân em kiến thức nông cạn nên trước giờ chưa từng nghe danh qua.
+悪魔と名乗っているのが不思議なぐらい、\n和やかで優しい人々でございましたね。=Đúng là kỳ lạ thật khi họ lại tự xưng là ác quỷ,\ntrong khi ai nấy cũng đều vô cùng ôn hòa và dịu dàng đến thế.
+また一緒に遊びたいね。=Anh lại muốn được chơi đùa cùng họ nữa ghê.
+はい。\n昨日の出来事を、「遊び」と表現するのには首を傾げますが。\nあのかたたちと一緒にいると、こちらまで浮き浮きしてきます。=Vâng ạ.\nMặc dù việc gọi những chuyện xảy ra ngày hôm qua là "chơi đùa" thì nghe có hơi kỳ cục thật.\nNhưng quả thực cứ mỗi khi ở bên cạnh họ là lòng em lại thấy rộn ràng vui tươi hẳn lên.
+今後も友人として、同じ世界で暮らす同胞として……\n寄り添い、支えあっていけたら幸いでございます。=Em rất hy vọng sau này chúng ta vẫn có thể tiếp tục là những người bạn tốt, là những người đồng bào cùng chung sống trong một thế giới……\nđể luôn kề vai sát cánh và hỗ trợ lẫn nhau.
+
+お～い！\n{playername}、起きてるか？\nいろいろ話しときたいことがあるし、食堂まできてくれ！=Ôiiii!\n{playername} ơi, anh đã thức dậy chưa thế?\nTôi có vài chuyện muốn bàn bạc với anh đây, mau xuống nhà ăn đi nhé!
+って、あれ？\nオマエら一緒に寝てるのか？\n仲良しだな。=Ủa mà khoan, ủa?\nHai người ngủ chung một giường luôn đó hả?\nThân thiết ghê ta ơi.
+あぁ、いえ……\n主さまの寝起きが悪かったようなので、\n揺すって起こしておりました。=A, dạ không phải đâu ạ……\nTại vì em thấy chủ nhân có vẻ khó thức giấc nên mới ngồi lay người để gọi anh ấy dậy thôi ạ.
+さすがに余所さまのおうちでまで、\n風紀を乱すような振る舞いはいたしません。=Tụi em dĩ nhiên biết ý tứ nên tuyệt đối không bao giờ làm ra mấy hành động gây ảnh hưởng đến thuần phong mỹ tục ở nhà người khác đâu ạ.
+いいんじゃないか？ 一緒に寝るぐらい……\n疚しいことをしてなかったんなら、堂々としとけ。=Có sao đâu chứ? Chỉ là ngủ chung giường thôi mà……\nNếu không làm chuyện gì mờ ám khuất tất thì cứ tự tin hiên ngang lên xem nào.
+それよりも。\n話したいことがあるから、食堂にきてくれ。=Cơ mà gạt chuyện đó sang một bên đi.\nTôi có chuyện quan trọng muốn nói với anh đây, mau xuống nhà ăn nhé.
+ついでに朝飯ができるまで時間あるから、\n行きがけにラビリスタのやつとも面会させてやろう。\nまぁ、あいつずっと眠りっぱなしだから会話はできないと思うけど。=Tiện thể trong lúc chờ bữa sáng chuẩn bị xong vẫn còn chút thời gian,\ntrên đường đi tôi sẽ dẫn anh qua gặp mặt Labyrista luôn một thể.\nMặc dù cô ta vẫn đang chìm sâu trong giấc ngủ li bì nên chắc là không trò chuyện được gì đâu.

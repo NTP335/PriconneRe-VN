@@ -1,0 +1,9 @@
+一括\nLvアップ=Nâng cấp\nHàng loạt
+
+使用済み=Đã dùng
+カスタム錬成=Tinh luyện Tùy chỉnh
+グレードをSにするスロット=Ô thiết lập Phẩm cấp S
+決定することで即座に反映され、以前のグレードに戻すことはできません。=Sau khi xác nhận, thay đổi sẽ được áp dụng ngay lập tức và không thể khôi phục về phẩm cấp trước đó.
+究極錬成に必要なアイテムを受け取ろう=Hãy nhận các vật phẩm cần thiết cho Tinh luyện Vô cực.
+
+r:"^「サマーログインボーナス その(\d)」(\d+)日目で獲得したアイテムです。$"=Vật phẩm nhận được vào Ngày $2 của "Quà đăng nhập mùa hè Phần $1".

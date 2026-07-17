@@ -8,11 +8,11 @@ r:"^範囲内の敵に(\d+)の物理ダメージを２回与える敵単体に(\
 ##S1##
 晶閃=Crystal Flash
 最も物理防御力が低い敵に物理大ダメージを与え、自分のＴＰを中回復する。【氷竜超克】状態でない場合、さらにその敵に物理大ダメージを与える。【氷竜超克】状態の場合、さらに前方の敵に物理大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch có chỉ số phòng thủ vật lý thấp nhất và hồi vừa TP cho bản thân. Nếu không ở trong trạng thái [Băng Long Siêu Khắc], gây thêm sát thương vật lý lớn lên mục tiêu đó. Nếu đang ở trạng thái [Băng Long Siêu Khắc], gây thêm sát thương vật lý lớn lên kẻ địch trong phạm vi phía trước.
-r:"^敵単体に(\d+)の物理ダメージ氷竜超克状態でない場合、敵単体に(\d+)の物理ダメージ氷竜超克状態の場合、範囲内の敵に(\d+)の物理ダメージ自分のＴＰを150回復$"=►Gây $1 sát thương vật lý lên một mục tiêu kẻ địch.\n\nNếu không ở trạng thái [Băng Long Siêu Khắc]:\n►Gây $2 sát thương vật lý lên mục tiêu đó.\n\nNếu ở trạng thái [Băng Long Siêu Khắc]:\n►Gây $3 sát thương vật lý lên kẻ địch trong phạm vi.\n►Hồi 150 TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ氷竜超克状態でない場合、敵単体に(\d+)の物理ダメージ氷竜超克状態の場合、範囲内の敵に(\d+)の物理ダメージ自分のＴＰを150回復$"=Thời gian thi triển: 0.59s.\n►Gây $1 sát thương vật lý lên một mục tiêu kẻ địch.\n\nNếu không ở trạng thái [Băng Long Siêu Khắc]:\n►Gây $2 sát thương vật lý lên mục tiêu đó.\n\nNếu ở trạng thái [Băng Long Siêu Khắc]:\n►Gây $3 sát thương vật lý lên kẻ địch trong phạm vi.\n►Hồi 150 TP cho bản thân.
 ##S2##
 闇氷の竜気=Darkfrost Dragon Aura
 自分の物理攻撃力を大アップ、ＴＰを中回復する。発動するたびに、最大３回まで効果量が増加する。【氷竜超克】状態の場合の初回発動時、さらに加算行動速度を大アップし、物理追撃状態にする。追撃状態中、敵に通常攻撃またはスキルでダメージを与えた時、追加のダメージが発生する。=Tăng mạnh sức tấn công vật lý của bản thân và hồi vừa TP. Mỗi lần kích hoạt, lượng hiệu ứng sẽ tăng lên, tối đa 3 lần. Khi kích hoạt lần đầu trong trạng thái [Băng Long Siêu Khắc], tăng mạnh tốc độ hành động cộng thêm và tiến vào trạng thái truy kích vật lý. Trong trạng thái truy kích, khi gây sát thương lên kẻ địch bằng tấn công thường hoặc kỹ năng, sẽ gây thêm sát thương bổ sung.
-r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰを250回復氷竜超克状態の場合の初使用時、以下の効果が発動する自分の行動速度50％加算自分を10％の物理追撃ダメージが発生する状態にする$"=►Tăng $1 sức tấn công vật lý trong 18 giây.\n►Hồi 250 TP.\n\nKhi sử dụng lần đầu trong trạng thái [Băng Long Siêu Khắc]:\n►Tăng 50% tốc độ hành động trong 180 giây.\n►Khiến bản thân tiến vào trạng thái kích hoạt 10% Sát thương truy kích vật lý.
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰを250回復氷竜超克状態の場合の初使用時、以下の効果が発動する自分の行動速度50％加算自分を10％の物理追撃ダメージが発生する状態にする$"=Thời gian thi triển: 0.59s.\n►Tăng $1 sức tấn công vật lý trong 18 giây.\n►Hồi 250 TP.\n\nKhi sử dụng lần đầu trong trạng thái [Băng Long Siêu Khắc]:\n►Tăng 50% tốc độ hành động trong 180 giây.\n►Khiến bản thân tiến vào trạng thái kích hoạt 10% Sát thương truy kích vật lý.
 ##EX##
 クロスドシークエンス=Crossed Sequence
 バトル開始時に自分の物理攻撃力を中アップする。=Tăng vừa sức tấn công vật lý của bản thân khi bắt đầu trận chiến.

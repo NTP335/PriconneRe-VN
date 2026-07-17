@@ -1,0 +1,21 @@
+##Profile##
+【魔法】後衛で、リゾート建設に奔走する水着の女商人。初回発動時に強力な攻撃支援と一定時間魔攻・物防・魔防ダウンを無効化するスキルで、豪奢に味方を駆り立てる。=[Pháp thuật] Nữ thương nhân trong trang phục đồ bơi ở vị trí hàng sau, người đang bận rộn chạy vạy khắp nơi để xây dựng khu nghỉ dưỡng. Với kỹ năng kích hoạt lần đầu tiên giúp hỗ trợ tấn công mạnh mẽ đồng thời vô hiệu hóa các hiệu ứng giảm Tấn công Ma pháp, Phòng thủ Vật lý và Phòng thủ Ma pháp trong một khoảng thời gian nhất định, cô ấy sẽ thúc đẩy các đồng minh của mình một cách đầy xa hoa.
+
+##UB##
+ゴージャスセレブサマー=Gorgeous Celeb Summer
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルダメージを小アップさせ、敵全体に魔法大ダメージを与える。敵の数に応じて、効果量が最大３キャラ分まで増加する。=Tăng cực đại Tấn công Ma pháp và tăng nhẹ Sát thương chí mạng Ma pháp của toàn bộ đồng minh, đồng thời gây sát thương ma pháp lớn cho toàn bộ kẻ địch. Lượng hiệu quả sẽ gia tăng tùy theo số lượng kẻ địch, tối đa lên đến 3 mục tiêu.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリダメを8％アップ敵全体に(\d+)の魔法ダメージ$"=►Tăng Tấn công Ma pháp của toàn bộ đồng minh thêm $1 trong 18 giây.\n►Tăng Sát thương chí mạng Ma pháp của toàn bộ đồng minh thêm 8% trong 18 giây.\n►Gây $2 sát thương ma pháp cho toàn bộ kẻ địch.
+
+##S1##
+マニーシャワー=Money Shower
+味方全体の魔法攻撃力を特大アップ、物理・魔法防御力を小アップさせ、敵全体に魔法大ダメージを与える。初回発動時、さらに敵全体の魔法防御力を小ダウン、受けるクリティカルダメージを小アップさせる。敵の数に応じて、効果量が最大３キャラ分まで増加する。=Tăng cực đại Tấn công Ma pháp, tăng nhẹ Phòng thủ Vật lý và Phòng thủ Ma pháp của toàn bộ đồng minh, đồng thời gây sát thương ma pháp lớn cho toàn bộ kẻ địch. Ở lần kích hoạt đầu tiên, giảm nhẹ thêm Phòng thủ Ma pháp và tăng nhẹ sát thương chí mạng phải nhận của toàn bộ kẻ địch. Lượng hiệu quả sẽ gia tăng tùy theo số lượng kẻ địch, tối đa lên đến 3 mục tiêu.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の物理・魔法防御力を(\d+)アップ敵全体に(\d+)の魔法ダメージ初使用時、以下の効果が発動する敵全体の魔法防御力を(\d+)ダウン敵全体の被クリダメを5％アップ$"=Thời gian thi triển: 0,59 giây.\n►Tăng Tấn công Ma pháp của toàn bộ đồng minh thêm $1 trong 12 giây.\n►Tăng Phòng thủ Vật lý và Phòng thủ Ma pháp của toàn bộ đồng minh thêm $2 trong 12 giây.\n►Gây $3 sát thương ma pháp cho toàn bộ kẻ địch.\n\nỞ lần sử dụng đầu tiên:\n►Giảm Phòng thủ Ma pháp của toàn bộ kẻ địch thêm $4 trong 180 giây.\n►Tăng sát thương chí mạng phải nhận của toàn bộ kẻ địch thêm 5% trong 180 giây.
+
+##S2##
+エレガントドレッサー=Elegant Dresser
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法クリティカルダメージを小アップ、ＨＰを中回復、ＴＰを小回復させる。初回発動時、さらに追加で味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法クリティカルダメージを小アップさせ、自分を中心とした範囲内の味方の受ける魔法攻撃力ダウン、物理・魔法防御力ダウンを一定時間無効化する。敵の数に応じて、ステータスアップの効果量が最大３キャラ分まで増加する。=Tăng cực đại Tấn công Ma pháp, tăng mạnh Chí mạng Ma pháp, tăng nhẹ Sát thương chí mạng Ma pháp, hồi phục vừa HP và hồi phục nhẹ TP cho toàn bộ đồng minh. Ở lần kích hoạt đầu tiên, tăng thêm cực đại Tấn công Ma pháp, tăng mạnh Chí mạng Ma pháp, tăng nhẹ Sát thương chí mạng Ma pháp cho toàn bộ đồng minh, đồng thời vô hiệu hóa các hiệu ứng giảm Tấn công Ma pháp, giảm Phòng thủ Vật lý và Phòng thủ Ma pháp trong một khoảng thời gian nhất định cho các đồng minh trong phạm vi xung quanh bản thân. Lượng hiệu quả tăng chỉ số sẽ gia tăng tùy theo số lượng kẻ địch, tối đa lên đến 3 mục tiêu.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを80アップ味方全体の魔法クリダメを4％アップ味方全体のＨＰを(\d+)回復味方全体のＴＰを100回復初使用時、以下の効果が発動する味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを100アップ味方全体の魔法クリダメを4％アップ範囲内の味方の受ける魔法攻撃力、物理・魔法防御力ダウンを無効化する$"=Thời gian thi triển: 1,125 giây.\n►Tăng Tấn công Ma pháp của toàn bộ đồng minh thêm $1 trong 12 giây.\n►Tăng Chí mạng Ma pháp của toàn bộ đồng minh thêm 80 trong 12 giây.\n►Tăng Sát thương chí mạng Ma pháp của toàn bộ đồng minh thêm 4% trong 12 giây.\n►Hồi phục HP của toàn bộ đồng minh thêm $2.\n►Hồi phục TP cho toàn bộ đồng minh thêm 100.\n\nỞ lần sử dụng đầu tiên:\n►Tăng Tấn công Ma pháp của toàn bộ đồng minh thêm $3 trong 180 giây.\n►Tăng Chí mạng Ma pháp của toàn bộ đồng minh thêm 100 trong 180 giây.\n►Tăng Sát thương chí mạng Ma pháp của toàn bộ đồng minh thêm 4% trong 180 giây.\n►Vô hiệu hóa các hiệu ứng giảm Tấn công Ma pháp, giảm Phòng thủ Vật lý và Phòng thủ Ma pháp phải nhận cho các đồng minh trong phạm vi.
+
+##EX##
+PDCAブースト=PDCA Boost
+PDCAブースト+=PDCA Boost+

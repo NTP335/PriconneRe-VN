@@ -1,0 +1,33 @@
+アメスは物語と物語の間を繋ぐ「幕間」で、敵が本腰を入れてきたこと、\nペコリーヌは生きているということ、しばらく平和な暮らしはできないだ\nろうということを語った後、{playername}を励ます。=Trong phần "màn chuyển tiếp" kết nối giữa các câu chuyện, sau khi thuật lại việc kẻ địch đã bắt đầu dốc toàn lực hành động, công chúa Pecorine hiện vẫn còn sống, và có lẽ trong một thời gian tới sẽ khó mà có được một cuộc sống yên bình, Ameth đã lên tiếng động viên và khích lệ {playername}.
+
+どどど、どうしよう？\nいったい何が起きてるの！？=L-L-Làm sao bây giờ? Chuyện quái gì đang xảy ra thế này!?
+{playername}！\nあたしの声が聞こえる？\n聞こえるなら返事して！={playername}!\nCậu có nghe thấy giọng tôi nói không?\nNếu nghe thấy thì trả lời tôi đi chứ!
+ううう、どういうこと……？\n何で急に、{playername}のことが見えなくなったの？=Ư ư ư, chuyện này là sao chứ……?\nTại sao đột nhiên mình lại không nhìn thấy {playername} nữa vậy?
+もしかして、{playername}が死んじゃった……とか？\nいや、あいつが存在ごと消し飛ばされないかぎり繋がりは残るはず！=Chẳng lẽ nào, {playername} đã chết rồi…… sao?\nKhông, trừ khi sự tồn tại của tên ngốc đó bị xóa sổ hoàn toàn, nếu không thì mối liên kết giữa bọn mình vẫn phải còn duy trì chứ!
+何かに遮断されてる？\nあたしと{playername}の繋がりを一時的に断ち切る、\n魔法みたいなものを使われた？=Hay là bị thứ gì đó chặn lại rồi?\nChúng đã sử dụng một thứ gì đó giống như ma pháp để tạm thời cắt đứt mối liên kết giữa mình và {playername} sao?
+でも、そんなことって可能なの？\n今までは、こんなことはなかったのに！=Nhưng mà, điều như thế cũng có thể làm được sao?\nTừ trước đến nay chưa từng xảy ra chuyện như vậy bao giờ mà!
+いや、所詮はあたしも神さまじゃない……\nこの世界の法則からは、プログラムからは逃れられない。=Không, suy cho cùng thì mình cũng chẳng phải thần thánh gì……\nNên không thể nào trốn thoát khỏi các quy luật hay chương trình của thế giới này được.
+あたしの存在を認識した何者かが、\nあたしと{playername}が繋がれないように妨害してる……？\nそうとしか思えないわっ、あぁもう？=Có kẻ nào đó đã nhận biết được sự tồn tại của mình, \nrồi cố tình cản trở để mình không thể kết nối với {playername} được nữa sao……?\nChỉ có thể giải thích như vậy thôi, phiền phức quá đi à!
+
+……はう！？\nあぁっ、{playername}！\n無事だったのねっ、良かったぁ♪=……Hả!?\nÔi, {playername}!\nCậu vẫn bình an vô sự đúng không, may quá đi mất♪
+って、アメス『さま』って何よ。\n変にへりくだっちゃってさ……\nあたしとあんたの仲じゃないの、気軽に呼び捨てにしてよ。=Mà khoan đã, xưng hô Ameth-『sama』 là cái kiểu gì thế hả.\nTự dưng lại khách sáo hạ mình một cách kỳ cục vậy……\nMối quan hệ giữa tôi với cậu đâu phải xa lạ gì đâu, cứ gọi trống không tự nhiên như trước đi.
+それはともかく。\nねぇ、いったい何があったの？\nあんたが今、置かれてる状況について説明して！=Chuyện đó để sau đi.\nNày, rốt cuộc đã xảy ra chuyện gì thế?\nHãy giải thích cho tôi biết về tình cảnh hiện tại của cậu đi xem nào!
+ごめんね。\nなぜか一時的に、あんたのことが見えなくなってたのよ……\nだから、ぜんぜん状況がわからないの。=Xin lỗi cậu nhé.\nKhông hiểu sao vừa rồi tôi lại tạm thời mất dấu không nhìn thấy cậu nữa……\nChính vì thế nên tôi hoàn toàn mù tịt về tình hình bên đó luôn.
+
+ふむふむ、なるほど……=Hửm hửm, ra là vậy……
+ムイミちゃんにいろいろ教えてもらって、\nあんたはついに世界の謎に迫り始めたわけね。\nそれ自体は、すっごく喜ばしいわ。=Sau khi được Muimi-chan chỉ dạy cho nhiều điều, \ncuối cùng cậu cũng đã bắt đầu tiếp cận được với những bí ẩn của thế giới này rồi nhỉ.\nBản thân việc đó là một điều vô cùng đáng mừng đấy.
+でも説明も半ばのうちに、\n様子のおかしいキャルちゃんを中心にした魔物や軍隊に襲われて……\nあんたは、絶体絶命のピンチに陥ったわけね。=Thế nhưng khi lời giải thích còn dang dở, \ncậu lại bị tấn công bởi một binh đoàn và lũ ma vật xoay quanh Kyaru-chan đang có biểu hiện kỳ lạ……\nVà rồi cậu rơi vào một tình thế ngàn cân treo sợi tóc vô cùng hiểm nghèo đúng không.
+う～ん。\n空間跳躍を防ぐ罠を仕掛けたりとか、\n敵は今回……かなり本腰を入れて攻めてきたみたい。=Ư~m.\nChúng thậm chí còn bố trí cả bẫy để ngăn chặn việc dịch chuyển không gian, \ncoi bộ lần này phe địch…… đã thực sự nghiêm túc dốc toàn lực để tấn công rồi.
+たぶん、あんたに助言を与えてるあたしの存在も気取られて……\n一時的に、繋がりを断ち切られちゃったのね。=Chắc là sự tồn tại của tôi, người luôn đưa ra lời khuyên cho cậu, cũng đã bị chúng đánh hơi thấy……\nNên mối liên kết giữa hai ta mới bị cắt đứt tạm thời như vậy.
+完全に、してやられたわ。\n敵は本気であんたたちを潰しにきたみたい……=Bọn mình đã hoàn toàn bị chúng chơi một vố đau rồi.\nXem ra kẻ địch đang thực sự nghiêm túc muốn triệt hạ toàn bộ các cậu……
+どうにか生き残れただけでも万々歳だけど、\nこれから先はさらに過酷な戦いが繰り広げられそう。=Có thể giữ được mạng sống trốn thoát đến giờ này đã là điều vô cùng may mắn rồi, \nnhưng chặng đường phía trước chắc chắn sẽ là những trận chiến tàn khốc và cam go hơn nữa diễn ra.
+ふむ……\nどうもペコリーヌちゃんは、\n可哀想だけど敵に捕獲されちゃったようね。=Hửm……\nDù rất đáng thương nhưng có vẻ như \nPecorine-chan đã bị phe địch bắt giữ mất rồi.
+生け捕りが目的だったみたいだし、\nしばらくは命を奪われることもないだろうけど……\n楽観はできないわ。=Vì mục tiêu ban đầu của chúng là bắt sống, \nnên trước mắt cô ấy chắc vẫn chưa bị tước đi mạng sống đâu, thế nhưng……\nChúng ta cũng tuyệt đối không thể lạc quan quá mức được.
+あんたはどうやらムイミちゃんたちと一緒に、\n安全圏まで脱出できたようだけど……\n敵は今後も、あんたたちを付け狙うだろうし。=Cậu thì có vẻ như đã cùng với nhóm của Muimi-chan \ntháo chạy thành công đến được vùng an toàn rồi, thế nhưng……\nKẻ địch chắc chắn vẫn sẽ tiếp tục ráo riết săn lùng các cậu trong tương lai thôi.
+しばらくは、平和な暮らしは望めなさそうね。=Có vẻ như trong một khoảng thời gian tới, cậu sẽ khó mà mơ tới một cuộc sống yên bình được rồi.
+でも、どうか希望を捨てないで。\n敵も……ユースティアナこと千里真那も、神さまじゃないわ。\n魔力も何もかも、無尽蔵に使えるわけじゃない。=Nhưng mà, xin cậu đừng bao giờ từ bỏ hy vọng nhé.\nKẻ địch…… hay chính là Senri Mana dưới cái tên Eustiana kia, cũng chẳng phải là thần thánh gì đâu.\nMa lực hay bất cứ thứ gì của hắn cũng không phải là vô hạn để có thể sử dụng mãi được.
+まずは堪え忍び、反撃の機会を見計らいなさい。\n今はそれだけしか言えないわ……\nごめんね、{playername}。=Trước mắt cậu hãy cứ cắn răng chịu đựng, âm thầm chờ đợi thời cơ chín muồi để phản công.\nHiện tại tôi chỉ có thể khuyên cậu bấy nhiêu thôi……\nXin lỗi cậu nhé, {playername}.
+無力で。\nあんたを守れなくて……\nあたし、自分が情けないわ。=Vì sự bất lực của bản thân.\nVì đã không thể bảo vệ được cậu……\nTôi thấy bản thân mình thật đáng trách và tồi tệ quá.
+……ううん。泣き言を口にしてる場合じゃないわね、\nあたしもあたしにできることをする。\nあらゆる手を駆使して、あんたの助けになるわ。=……Không được. Giờ không phải là lúc để ngồi đây mà than thân trách phận, \ntôi cũng sẽ dốc hết sức làm những gì trong khả năng của mình.\nTôi sẽ vận dụng mọi biện pháp có thể để trở thành chỗ dựa cho cậu.
+だから。\nあんたもめげないで、がんばってね。=Chính vì thế.\nCậu cũng đừng có nản lòng nhé, cố gắng lên nha.
+どうか負けないで。\nあたしはいつでも、あんたの味方よ。=Xin cậu đừng đầu hàng số phận.\nTôi sẽ luôn luôn ở bên cạnh và ủng hộ cậu.
