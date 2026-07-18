@@ -43,6 +43,7 @@ r:"^１番目に近い敵単体に(\d+)の物理ダメージ１番目に近い�
 ##S1+##
 トライアロー+=Ba Phát Bắn+
 目の前の最大３キャラまでの敵に物理中ダメージを与える。自分のＴＰを小回復する。=Gây sát thương vật lý trung bình cho tối đa 3 kẻ địch ở phía trước và hồi phục nhẹ TP cho bản thân.
+目の前の最大３キャラまでの敵に物理小～中ダメージを与える。自分のＴＰを小回復する。=Gây sát thương vật lý từ nhỏ đến trung bình lên tối đa 3 kẻ địch ở gần nhất phía trước. Hồi phục một lượng nhỏ TP cho bản thân.
 r:"^１番目に近い敵単体に(\d+)の物理ダメージ２番目に近い敵単体に(\d+)の物理ダメージ３番目に近い敵単体に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 Sát thương Vật lý lên mục tiêu gần nhất.\n►Gây $2 Sát thương Vật lý lên mục tiêu thứ hai gần nhất.\n►Gây $3 Sát thương Vật lý lên mục tiêu thứ ba gần nhất.\n►Hồi TP cho bản thân đi $4.
 
 ##UE##

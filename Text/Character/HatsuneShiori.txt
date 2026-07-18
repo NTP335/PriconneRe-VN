@@ -23,8 +23,8 @@ r:"^範囲内の敵に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=
 r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方の物理攻撃クリティカル時のダメージを1％アップ$"=►Tăng P.ATK của đồng minh trong phạm vi 200 lên $1 (+0.04×P.ATK) trong 180s.\n►Tăng tỷ lệ P.CRIT của đồng minh trong phạm vi lên $2 (+0.0005×P.ATK) trong 180s.\n►Tăng sát thương P.CRIT của đồng minh trong phạm vi 200 lên 1% (+0.00005×P.ATK) trong 180s.
 
 ##EX##
-全開☆絆パワー=Zenkai☆Kizuna Power
-全開☆絆パワー+=Zenkai☆Kizuna Power+
+全開☆絆パワー=Zenkai★Kizuna Power
+全開☆絆パワー+=Zenkai★Kizuna Power+
 
 ##S1+##
 スターライトシュート+=Starlight Shoot+

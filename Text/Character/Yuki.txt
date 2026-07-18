@@ -15,16 +15,17 @@
 
 ##UB##
 ボクの美にひれ伏すがいい！=Cúi Đầu Trước Vẻ Đẹp Của Ta!
-敵全体に魔法小ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương phép nhỏ lên tất cả kẻ địch ở phía trước và giảm phòng thủ vật lý của chúng một chút.
+敵全体に魔法小ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương phép nhỏ lên tất cả kẻ địch và giảm nhẹ phòng thủ vật lý của chúng.
 r:"^敵全体に(\d+)の魔法ダメージ敵全体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương phép lên tất cả kẻ địch.\n►Giảm phòng thủ vật lý của tất cả kẻ địch đi $2 trong 18 giây.
 
 ##S1##
 ボクの目が眩む程の美しさ♪=Vẻ Đẹp Của Ta Chói Lóa ♪
-自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態にする。=Gây sát thương phép nhỏ lên kẻ địch thứ hai gần nhất và gây hiệu ứng mù.
+２番目に近い敵に魔法中ダメージを与え、暗闇状態にする。=Gây sát thương phép trung bình lên kẻ địch gần thứ hai và gây trạng thái mù (Blind).
 r:"^敵単体に(\d+)の魔法ダメージ敵単体を暗闇状態にする$"=Thời gian niệm: 1.93s\n►Gây $1 sát thương phép lên một kẻ địch.\n►Gây hiệu ứng mù (60% đánh trượt) trong 8 giây.
 
 ##S2##
 可愛いボクが応援するよ♪=Đồng Hành Đáng Yêu Nhất ♪
+最もＴＰが多い味方のＴＰを中回復させる。=Hồi phục một lượng TP vừa phải cho đồng minh có lượng TP cao nhất.
 最もＴＰが多い味方のＴＰを中回復、物理攻撃力を小アップさせる。=Hồi phục vừa TP cho đồng minh có lượng TP cao nhất và tăng nhẹ sát thương vật lý của họ.
 r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ$"=►Hồi phục $1 TP cho 1 đồng minh.\n►Tăng $2 sát thương vật lý cho 1 đồng minh trong 12 giây.
 

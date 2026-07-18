@@ -28,8 +28,7 @@
 
 ##S2##
 マジックブースト=Magic Surge
-自分の魔法攻撃力を短時間大アップさせる。=Tăng lớn M.ATK cho bản thân trong thời gian ngắn (9s).
-自分の魔法攻撃力と魔法クリティカルを短時間特大アップさせる。=Tăng cực đại tấn công ma pháp và chí mạng ma pháp của bản thân trong thời gian ngắn.
+自分の魔法攻撃力と魔法クリティカルを短時間特大アップする。=Tăng cực đại chỉ số tấn công phép thuật và tỉ lệ chí mạng phép thuật của bản thân trong một khoảng thời gian ngắn.
 
 ##EX##
 小さな勇気=Pinch of Bravery
@@ -37,9 +36,8 @@
 
 ##UB+##
 コスモブループラネット=Cosmo Blue Planet
-目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây ra lượng sát thương ma thuật lớn lên kẻ địch ngay phía trước. Khi đánh chí mạng, sát thương là x4 thay vì x2.
+目の前の敵がマルチターゲットでない場合、目の前の敵１キャラに魔法特大ダメージを２回与える。目の前の敵がマルチターゲットの場合、敵全体に魔法特大ダメージを２回与える。対象の敵の数に応じて、敵全体へのダメージが減少する。このスキルのクリティカルダメージは４倍になる。=Nếu kẻ địch ở phía trước không phải là mục tiêu đa thành phần (multi-target), gây sát thương phép thuật cực đại lên 1 mục tiêu đó 2 lần. Nếu kẻ địch ở phía trước là mục tiêu đa thành phần, gây sát thương phép thuật cực đại lên tất cả kẻ địch 2 lần. Sát thương gây ra lên tất cả kẻ địch sẽ giảm dần dựa trên số lượng mục tiêu. Sát thương chí mạng của kỹ năng này sẽ nhân 4 thay vì nhân 2.
 
-目の前の敵がマルチターゲットでない場合、目の前の敵１キャラに魔法特大ダメージを２回与える。目の前の敵がマルチターゲットの場合、敵全体に魔法特大ダメージを２回与える。敵全体へのダメージは対象になった敵の数に応じて減少する。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Nếu kẻ địch trước mặt không phải đa mục tiêu, gây 2 lần sát thương ma pháp cực đại cho 1 kẻ địch trước mặt. Nếu kẻ địch trước mặt là đa mục tiêu, gây 2 lần sát thương ma pháp cực đại cho toàn bộ kẻ địch. Sát thương lên toàn bộ kẻ địch giảm dần dựa trên số lượng mục tiêu trúng đòn. Nếu kỹ năng này gây chí mạng, sát thương sẽ là gấp 4 lần thay vì gấp 2.
 
 r:"^目の前の敵がマルチターゲットでない場合、敵単体に(\d+)の魔法ダメージ目の前の敵がマルチターゲットでない場合、敵単体に(\d+)の魔法ダメージ目の前の敵がマルチターゲットの場合、敵全体に(\d+)の魔法ダメージ目の前の敵がマルチターゲットの場合、敵全体に(\d+)の魔法ダメージ$"=►Nếu kẻ địch trước mặt không phải đa mục tiêu:\n►Gây $1 sát thương ma pháp cho một kẻ địch.\n►Gây $2 sát thương ma pháp cho một kẻ địch.\n\nNếu kẻ địch trước mặt là đa mục tiêu:\n►Gây $3 sát thương ma pháp cho toàn bộ kẻ địch.\n►Gây $4 sát thương ma pháp cho toàn bộ kẻ địch.
 
@@ -47,7 +45,7 @@ r:"^目の前の敵がマルチターゲットでない場合、敵単体に(\d+
 ##S1+##
 アイスランス+=Ice Lance+
 目の前の敵１キャラに魔法特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây ra lượng sát thương ma thuật cực lớn lên kẻ địch ngay phía trước. Khi đánh chí mạng, sát thương là x4 thay vì x2.
-
+目の前の敵１キャラに魔法大ダメージを与える。このスキルのクリティカルダメージは４倍になる。=Gây sát thương phép thuật lớn lên 1 kẻ địch ở phía trước. Sát thương chí mạng của kỹ năng này sẽ nhân 4 thay vì nhân 2.
 ##UE##
 コスモブルーロッド=Cosmo Blue Rod
 
@@ -57,5 +55,6 @@ r:"^目の前の敵がマルチターゲットでない場合、敵単体に(\d+
 ##S1++##
 Kyouka
 アイスランス++=Ice Lance++
-目の前の敵１キャラに魔法大ダメージを与え、凍結させる。目の前の敵がマルチターゲットの場合、前方の敵すべてに追加の魔法大ダメージを与え、自分のＴＰを大回復する。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây sát thương ma pháp lớn cho 1 kẻ địch trước mặt và làm đóng băng. Nếu kẻ địch trước mặt là đa mục tiêu, gây thêm sát thương ma pháp lớn cho toàn bộ kẻ địch phía trước và hồi phục lượng lớn TP cho bản thân. Nếu kỹ năng này gây chí mạng, sát thương sẽ là gấp 4 lần thay vì gấp 2.
+目の前の敵１キャラに魔法大ダメージを与え、凍結させる。目の前の敵がマルチターゲットの場合、さらに追加で前方の敵に魔法大ダメージを与え、自分のＴＰを大回復する。このスキルのクリティカルダメージは４倍になる。=Gây sát thương phép thuật lớn lên 1 kẻ địch ở phía trước và gây trạng thái đóng băng (Freeze). Nếu kẻ địch ở phía trước là mục tiêu đa thành phần (multi-target), gây thêm sát thương phép thuật lớn lên các kẻ địch trong phạm vi phía trước và hồi phục một lượng lớn TP cho bản thân. Sát thương chí mạng của kỹ năng này sẽ nhân 4 thay vì nhân 2.
+
 r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする目の前の敵がマルチターゲットの場合、範囲内の敵に(\d+)の魔法ダメージ目の前の敵がマルチターゲットの場合、自分のＴＰを500回復$"=Thời gian thi triển: 1.83s\n►Gây $1 sát thương ma pháp cho một kẻ địch.\n►Khiến một kẻ địch không thể hành động trong một khoảng thời gian.\n\nNếu kẻ địch trước mặt là đa mục tiêu:\n►Gây $2 sát thương ma pháp cho kẻ địch trong phạm vi.\n►Hồi phục 500 TP cho bản thân.

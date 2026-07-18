@@ -45,8 +45,7 @@
 追いかけよう……！\nおばあさまを止められるのは私たちだけだから！=Chúng ta đuổi theo...!\nChỉ có chúng ta mới có thể dừng bà nủa!
 おお～っ！？\nすごい、土から魔物がボコボコッて出てきたよ！=Ồ! Quái vật\nmọc lên khắp nơi!
 これもおばあさまの錬金術ね……\nこんな短時間でこれだけの魔物を。\nさすがおばあさま……天才だわ。=Luyện kim của bà nủa...\nTạo ra quá nhiều quái vật nhanh vậy.\nThật là thiên tài...
-だね……でもルイちゃん。\n私はマリステラさんよりもすごい天才知ってるよ。\nルイズマリーっていう最高の錬金術師をさ。=Đúng... Nhưng Lu-chan,\nbiết một thiên tài lớn hơn -\nLuyện kim gia tối ưu LUZMARIE!
-イロハもそー思う！\n……だよね？=Iroha cũng đồng ý!\n...Đúng không~?
+
 ふふふ！\nさあ、この天才についてきなさい♪=Hehehe!\nHãy theo sau thiên tài này♪
 たああーっ！！=NHẬN ĐÂY!!
 ……っ！？\nあれれ、効かないよ！？=...!?\nHả? Không có tác dụng!?
@@ -56,14 +55,44 @@
 いや、やめときなって。\n名前的にヤバそうじゃん……！=Không được!\nNghe có vẻ nguy hiểm...!
 その通りよ。\n強力になる分、自分自身も傷ついちゃうリスキーな秘薬……！=Chính xác!\nTăng sức mạnh nhưng gây tổn thương cho bản thân...!
 なるほど。つまりここからは耐久力勝負ってわけだ。\n……ってことは私の出番か、めんどいけど。=Trận chiến bền bỉ thì.\nĐến lượt ta... Ư.
-いや、ソノさんこの中で一番か弱いじゃん……！\n後ろに下がってなよ！=Cậu là người yếu ớt nhất!\nĐứng lùi lại!
-ま、たしかに紙装甲だけど、我慢強さなら負けないよ。\n……あんたたちみたいなじゃじゃ馬二人との生活。\n耐えられんの私くらいでしょ？=Đúng, em như giấy bọc,\nnhưng sức bền thì đỉnh cao.\nSống chung với hai người hoang dã\nkhiến em trở nên dai dẳng.
-……ソノさん。\nあははは、ルイちゃん言われてる～♪\nイロハちゃんもだから！=...Sono-san.\nAhaha! Lu-chan bị bắt nạt rồi~♪\nIroha nữa!
+いや、ソノさんこの中で一番か弱いじゃん……！\n後ろに下がってなよ！=Em là người yếu ớt nhất ở đây đấy...! Em lùi lại phía sau đi!\nTuy nhìn bên ngoài có vẻ mỏng manh dễ vỡ, nhưng sức bền của tôi thuộc hàng top đấy. Nhờ sống chung với hai người hoang dã như các cậu mà tôi đã trở nên cứng cáp hơn nhiều rồi.
 はあ……ふう……！\nホムちゃんしぶといな～……！=Haa... Phhew...!\nHom-chan dai dẳng quá~!
 ……ほんと、ここまで攻撃してんのにさ……\nもしかして無敵か……？　これって詰んでる……？=Sau tất cả các đòn tấn công của chúng ta...\nBất khả chiến bại? Chúng ta hết cách rồi...?
-いえ、攻撃は確実に効いてるわ。\n諦めなければ必ず勝てる。\n錬金術だってなんだって、私に負けや失敗はないもの。=Các đòn tấn công CÓ TÁC DỤNG!\nĐừng bao giờ bỏ cuộc!\nTa không thua trong luyện kim\nhay bất cứ thứ gì khác!
 ……ふふ、そうだね。\n成功するまで、なにがあっても絶対に諦めない。\nそこがルイちゃんの一番すごい所だよ。=Heh, đúng.\nKhông bao giờ bỏ cuộc cho đến thành công -\nđó là phẩm chất tốt nhất của Lu-chan!
 成功するまでやるから失敗はない！\nイロハもルイちゃんのそーいうとこ大好きっ！=Không thất bại nếu cứ thử tiếp!\nIroha THÍCH điều đó ở cậu~!
-……ふふ。ふふふ。\nふっふっふ！　分かってるじゃない二人とも！\nそれじゃあみんなで力を合わせて勝ちにいくわよ！\n私に続きな──=Hehe. Cậu hiểu rồi!\nHãy hợp nhất và chiến thắng!\nTHEO LÃI TÔI--
 「はあぁ……っ！」\n「とりゃーっ！！」="HAAAA!"\n"NHẬN ĐÂY!!"
-……あ、\nもう行ってた……？\n……そう。\nふぬぅぅ～っ！！\nこうなりゃやけくそよ～～～っ！！=...Chúng xông thẳng tới?\nĐược!\nGRRR!!\nTA SẼ ĐẾN CŨNG TỐI ĐA~~!!
+
+
+
+
+
+
+だね……でもルイちゃん。\n私はマリステラさんよりもすごい天才知ってるよ。=Phải rồi... Nhưng này Lou-chan. Tớ biết một thiên tài còn vĩ đại hơn cả Maristella đấy.
+
+ルイズマリーっていう最高の錬金術師をさ。=Đó là nhà giả kim vĩ đại nhất—Louise Marie.
+
+イロハもそー思う！=Iroha cũng nghĩ vậy!
+
+……だよね？=...Đúng không?
+
+ま、たしかに紙装甲だけど、我慢強さなら負けないよ。=Chà, tuy tớ có vẻ mỏng manh dễ vỡ thật, nhưng về khoản chịu đựng thì tớ không thua ai đâu nhé.
+
+……あんたたちみたいなじゃじゃ馬二人との生活。\n耐えられんの私くらいでしょ？=...Sống chung với hai đứa ngựa chứng như các cậu, chắc chỉ có mình tớ là chịu nổi thôi, nhỉ?
+
+……ソノさん。=...Sono-san.
+
+あははは、ルイちゃん言われてる～♪=Ahahaha, Lou-chan, bị nói trúng tim đen rồi kìa~♪
+
+イロハちゃんもだから！=Cả cậu nữa đấy, Iroha-chan!
+
+いえ、攻撃は確実に効いてるわ。\n諦めなければ必ず勝てる。=Không, các đòn tấn công của chúng ta chắc chắn đang có hiệu quả. Chỉ cần không bỏ cuộc, chúng ta chắc chắn sẽ thắng.
+
+錬金術だってなんだって、私に負けや失敗はないもの。=Dù là giả kim thuật hay bất cứ thứ gì khác, trong từ điển của tôi không bao giờ có từ "thất bại" hay "chịu thua".
+
+……ふふ。ふふふ。=...Hehe. Hehehe.
+
+ふっふっふ！　分かってるじゃない二人とも！\nそれじゃあみんなで力を合わせて勝ちにいくわよ！\n私に続きな──=Heh heh heh! Hai cậu hiểu chuyện lắm! Vậy thì, hãy hợp sức lại và cùng giành lấy chiến thắng nào! Theo tôi đi—
+
+……あ、\nもう行ってた……？\n……そう。=...Ơ.\nCác cậu chạy đi trước rồi à...?\n...Ra là vậy.
+
+ふぬぅぅ～っ！！\nこうなりゃやけくそよ～～～っ！！=Nnghhh!!\nThôi mặc kệ hết, liều một phen luôn đây~~~!!

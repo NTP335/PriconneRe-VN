@@ -3,18 +3,19 @@
 
 ##UB##
 サマーブライトフォース=Lực Tỏa Sáng Mùa Hè
-味方全体の物理攻撃力と魔法攻撃力と行動速度を大アップさせる。=Tăng lớn tấn công vật lý, tấn công phép và tốc độ hành động của tất cả đồng đội.
+味方全体の物理・魔法攻撃力と行動速度を大アップさせる。=Tăng mạnh tấn công vật lý, tấn công phép thuật và tốc độ hành động của toàn bộ đồng minh.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度50％アップ$"=►Tăng $1 tấn công vật lý cho toàn bộ đồng minh trong 12 giây.\n►Tăng $2 tấn công phép thuật cho toàn bộ đồng minh trong 12 giây.\n►Tăng 50% tốc độ hành động cho toàn bộ đồng minh trong 12 giây.
+
 
 ##S1##
 スプラッシュトワリング=Bão Hoàng Hôn
-味方全体のＴＰを大回復させ。=Hồi một lượng lớn TP cho tất cả đồng đội.
-味方全体のＴＰを大回復させる。=Hồi một lượng lớn TP cho tất cả đồng đội.
-味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を小アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng nhẹ tấn công vật lý, tấn công phép của họ.
+味方全体のＴＰを大回復、物理・魔法攻撃力を特大アップさせる。=Hồi phục một lượng lớn TP cho tất cả đồng minh, đồng thời tăng cực đại tấn công vật lý và tấn công phép thuật cho họ.
 r:"^味方全体のＴＰを(\d+)回復$"=►Hồi $1 TP cho tất cả đồng đội.
 
 ##S2##
 ブライトエール=Lời Cổ Vũ Nắng Vàng
-味方全体の物理攻撃力と魔法攻撃力と物理クリティカルと魔法クリティカルを小アップさせる。=Tăng nhẹ tấn công vật lý, tấn công phép, tỷ lệ chí mạng vật lý và tỷ lệ chí mạng phép của tất cả đồng đội.
+味方全体の物理・魔法攻撃力と物理・魔法クリティカルを小アップさせる。=Tăng nhẹ tấn công vật lý, tấn công phép thuật, tỉ lệ chí mạng vật lý và tỉ lệ chí mạng phép thuật cho toàn bộ đồng minh.
+
 r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを20アップ味方全体の魔法クリティカルを20アップ$"=►Tăng tấn công vật lý của tất cả đồng đội lên $1 trong 12s.\n►Tăng tấn công phép của tất cả đồng đội lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của tất cả đồng đội lên 20 trong 12s.\n►Tăng tỷ lệ chí mạng phép của tất cả đồng đội lên 20 trong 12s.
 
 ##EX##
@@ -23,13 +24,15 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃�
 
 ##S1+##
 スプラッシュトワリング+=Bão Hoàng Hôn+
+
+味方全体のＴＰを大回復、物理・魔法攻撃力を大アップさせる。=Hồi phục một lượng lớn TP cho toàn bộ đồng minh, đồng thời tăng mạnh tấn công vật lý và tấn công phép thuật cho họ.
 味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を大アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng lớn tấn công vật lý, tấn công phép của họ.
 味方全体のＴＰを大回復させ、さらに物理攻撃力と魔法攻撃力を特大アップさせる。=Hồi một lượng lớn TP cho tất cả đồng đội và tăng lớn tấn công vật lý, tấn công phép của họ.
 r:"^味方全体のＴＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=►Hồi $1 TP cho tất cả đồng đội.\n►Tăng tấn công vật lý của tất cả đồng đội lên $2 trong 20s.\n►Tăng tấn công phép của tất cả đồng đội lên $3 trong 20s.
 
 ##S2+##
 ブライトエール+=Lời Cổ Vũ Nắng Vàng+
-味方全体の物理攻撃力と魔法攻撃力を特大アップ、物理クリティカルと魔法クリティカルを大アップさせる。さらに味方全体の物理防御力と魔法防御力を中アップさせる。=Tăng lớn tấn công vật lý, tấn công phép, tỷ lệ chí mạng vật lý và tỷ lệ chí mạng phép của tất cả đồng đội. Đồng thời tăng trung bình phòng thủ vật lý và phòng thủ phép của tất cả đồng đội.
+味方全体の物理・魔法攻撃力を特大アップ、物理・魔法クリティカルを大アップ、物理・魔法防御力を中アップさせる。=Tăng cực đại tấn công vật lý và tấn công phép thuật cho toàn bộ đồng minh, tăng mạnh tỉ lệ chí mạng vật lý và tỉ lệ chí mạng phép thuật, đồng thời tăng vừa phải phòng thủ vật lý và phòng thủ phép thuật cho họ.
 r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の魔法クリティカルを100アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ$"=►Tăng tấn công vật lý của tất cả đồng đội lên $1 trong 12s.\n►Tăng tấn công phép của tất cả đồng đội lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của tất cả đồng đội lên 100 trong 12s.\n►Tăng tỷ lệ chí mạng phép của tất cả đồng đội lên 100 trong 12s.\n►Tăng phòng thủ vật lý của tất cả đồng đội lên $3 trong 12s.\n►Tăng phòng thủ phép của tất cả đồng đội lên $4 trong 12s.
 
 ##UE##

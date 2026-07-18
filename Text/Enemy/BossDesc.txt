@@ -2813,3 +2813,9 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 バトル開始時、すべてのモンスターの物理防御力をアップさせる。この効果は物理防御力ダウンの影響を受けない。=Khi bắt đầu trận đấu, tăng phòng thủ vật lý cho tất cả quái vật. Hiệu ứng này không bị ảnh hưởng bởi các hiệu ứng giảm phòng thủ vật lý.
 バトル開始時、すべてのキャラのＴＰ上昇をダウンさせる。=Khi bắt đầu trận đấu, giảm chỉ số TP Boost của tất cả nhân vật.
 バトル開始時、すべてのキャラのＨＰ吸収をダウンさせる。=Khi bắt đầu trận đấu, giảm chỉ số Hút HP của tất cả nhân vật.
+
+自身に物理魔法無効バリア=Triển khai lá chắn vô hiệu hóa sát thương vật lý và phép thuật cho bản thân.
+
+超天才錬金術師・マリステラが生み出したムキムキマッチョな錬成生物。ほの字の主を脅かす不届者を、おったまげーな腕力でねじ伏せる。=Một sinh vật giả kim vạm vỡ, cơ bắp cuồn cuộn được tạo ra bởi nhà giả kim thiên tài Maristella. Nó nghiền nát bất cứ kẻ nào dám đe dọa chủ nhân mà nó yêu mến bằng sức mạnh cơ bắp đáng kinh ngạc.
+
+割合ダメージ無効=Miễn nhiễm sát thương theo tỷ lệ phần trăm (Percentage Damage).

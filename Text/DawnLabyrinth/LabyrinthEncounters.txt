@@ -54,8 +54,8 @@ ruka fishing
 peco picnic
 絶好のピクニック日和だ！=Thời tiết đẹp để đi dã ngoại!
 50％で次のイベントへ=50% chuyển sang sự kiện tiếp theo.
-みんなで\n料理を作りましょう☆=Cùng nhau\nnấu ăn nào☆
-まだまだ\n食べ足りません☆=Tớ vẫn chưa\năn đủ☆
+みんなで\n料理を作りましょう☆=Cùng nhau\nnấu ăn nào★
+まだまだ\n食べ足りません☆=Tớ vẫn chưa\năn đủ★
 ランダムなロールの\nランダムサイン=Nhân vật Vai trò\nNgẫu nhiên
 それくらいで\nいいんじゃない？=Thức ăn nhiều vậy\ncó đủ chưa?
 料理ができた！でも、まだ材料はあるぞ！=Đồ ăn xong rồi, nhưng tớ vẫn còn nguyên liệu!

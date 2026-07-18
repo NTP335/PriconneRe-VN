@@ -6,6 +6,7 @@
 
 ##UB##
 スプラッシュダイブ=Lụt Sóng
+目の前の敵１キャラに物理特大ダメージを与え、スタンさせる。=Gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước và gây trạng thái choáng (Stun).
 
 ##S1##
 ファーストエイド=Sơ Cứu
@@ -25,6 +26,7 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能�
 
 ##S1+##
 ファーストエイド+=Sơ Cứu+
+自分のＨＰを大回復、物理・魔法防御力を大アップし、自分を中心とした範囲内の味方のＨＰを小回復させるフィールドを展開する。=Hồi phục một lượng lớn HP cho bản thân, tăng mạnh phòng thủ vật lý và phòng thủ phép thuật cho bản thân, đồng thời triển khai một vùng ảnh hưởng (field) tập trung vào bản thân giúp hồi phục một lượng nhỏ HP cho các đồng minh trong phạm vi.
 自分のＨＰを大回復し、さらに自分の物理防御力と魔法防御力を大アップし、自分の周りに範囲内の味方すべてを小回復するフィールドを展開する。=Hồi một lượng lớn máu cho bản thân. Tăng đáng kể phòng thủ vật lý và phép của bản thân. Tạo một vùng xung quanh bản thân hồi máu nhẹ cho đồng minh trong phạm vi.
 ## OLD r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Hồi máu của bản thân lên $1.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 12s.\n►Tăng phòng thủ phép của bản thân lên $3 trong 12s.\n►Tạo một vùng (Bán kính 150) hồi máu $4/giây trong 8.5s.
 

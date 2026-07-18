@@ -23,7 +23,7 @@ r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ$"=►K�
 
 ##S2##
 海内無双の型=Tư Thế Vô Song
-自分のＨＰを中回復し、さらに物理防御力を中アップさせる。=Hồi một lượng nhỏ HP của bản thân và tăng vừa phải P.DEF.
+自分のＨＰを中回復、物理防御力を中アップする。=Hồi phục một lượng HP vừa phải cho bản thân và tăng vừa phải phòng thủ vật lý cho bản thân.
 r:"^自分のＨＰを(\d+)回復自分の物理防御力を(\d+)アップ$"=►Hồi HP của bản thân lên $1.\n►Tăng P.DEF của bản thân lên $2.
 
 ##EX##
@@ -34,12 +34,13 @@ r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân
 
 ##UB+##
 極の太刀・止水龍吟の哮り=Đòn Tối Thượng: Rồng Nước Gầm
-目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。さらに自分に【絶海の型】を１つ付与する。【絶海の型】が付与されている間に１回ダメージを受けると【絶海の型】を１つ消費してダメージを無効化し、同時に敵に物理特大ダメージを与える。このスキルによるダメージは必ずクリティカルする。=Gây lượng sát thương vật lý (P.DMG) khủng khiếp cho kẻ địch phía trước và giảm P.DEF của chúng một lượng rất lớn. Đồng thời nhận trạng thái [Hình Thái Biển Xa]. Khi nhận sát thương với trạng thái [Hình Thái Biển Xa] đang hoạt động, tiêu hao trạng thái, phản chọi toàn bộ sát thương nhận vào một lần và gây lượng sát thương vật lý (P.DMG) khủng khiếp cho kẻ địch tấn công. Đòn tấn công này luôn là đòn chí mạng.
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。自分に【絶海の型】（上限１）を付与する。【絶海の型】付与中に１回ダメージを受けると【絶海の型】を消費してダメージを無効化し、同時に敵に物理特大ダメージを与える。このスキルによるダメージは必ずクリティカルする。=Gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước và giảm cực đại phòng thủ vật lý của chúng. Tự tạo trạng thái 【Distant Sea Form】 (giới hạn 1 lớp) cho bản thân. Khi đang trong trạng thái 【Distant Sea Form】, nếu chịu sát thương 1 lần, sẽ tiêu hao trạng thái này để vô hiệu hóa sát thương đó, đồng thời gây sát thương vật lý cực đại lên kẻ tấn công. Sát thương từ kỹ năng này luôn là chí mạng.
+
 r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン攻撃してきた敵に(\d+)の物理ダメージを与えて消失する絶海の型を最大１つまで付与する$"=►Gây $1 sát thương vật lý (P.DMG) cho kẻ địch.\n►Giảm P.DEF của kẻ địch đi $2 trong 24s.\n►Nhận trạng thái [Hình Thái Biển Xa], phản chọi toàn bộ sát thương nhận vào và gây $3 sát thương vật lý (P.DMG) cho kẻ địch tấn công một lần.
 
 ##S1+##
 一の太刀・雫薙ぎ+=Đòn Đầu Tiên: Sự Thầm Lặng+
-敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、さらに小さく吹き飛ばす。=Kích hoạt khiêu khích tất cả kẻ địch. Nếu bị tấn công trong lúc khiêu khích, gây lượng sát thương vật lý (P.DMG) lớn cho kẻ địch trong phạm vi, giảm sát thương vật lý (P.DMG) của chúng một chút và thổi bay chúng thành những mảnh nhỏ.
+【挑発】敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵に物理大ダメージを与え、物理防御力を小ダウンさせ、小さく吹き飛ばす。=【Khiêu khích】 Khiêu khích toàn bộ kẻ địch. Nếu bị tấn công trong thời gian thực hiện chuyển động sau khi khiêu khích, gây sát thương vật lý lớn lên các kẻ địch trong phạm vi phía trước, giảm nhẹ phòng thủ vật lý và đánh bay chúng một khoảng ngắn.
 r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Kích hoạt khiêu khích tất cả kẻ địch trong 17s.\n►Đánh trả nếu nhận sát thương trong 2s tiếp theo bằng $1 sát thương vật lý (P.DMG) trong phạm vi 200.\n►Đẩy lùi tất cả kẻ địch 200 đơn vị.\n►Giảm P.DEF của kẻ địch trong phạm vi 200 lên $2 trong 12s.
 
 ##UE##

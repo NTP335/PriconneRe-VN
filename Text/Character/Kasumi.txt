@@ -6,19 +6,19 @@
 
 ##UB##
 クリミナルプリズン=Criminal Prison
-前から３番目の敵を中心に、範囲内の敵の魔法防御力を特大ダウン、ＴＰ上昇を小ダウンさせるフィールドを展開し、さらに行動速度を小ダウンさせる。=Giảm mạnh M.DEF của tất cả kẻ địch trong vùng bán kính xung quanh kẻ địch thứ ba từ phía trước, tạo một trường làm giảm TP Boost một lượng trung bình và giảm tốc độ hành động của chúng một chút.
+前から３番目の敵を中心とした範囲内の敵の魔法防御力を特大ダウン、ＴＰ上昇を小ダウンさせるフィールドを展開し、行動速度を小ダウンさせる。=Triển khai một vùng ảnh hưởng (field) tập trung vào kẻ địch thứ 3 tính từ phía trước, làm giảm cực đại chỉ số phòng thủ phép thuật, giảm nhẹ chỉ số tăng TP và giảm nhẹ tốc độ hành động của các kẻ địch trong phạm vi đó.
 r:"^フィールド内の敵の魔法防御力(\d+)ダウンフィールド内の敵のＴＰ上昇(\d+)ダウン範囲内の敵の行動速度を一定時間低下させる$"=►Tạo một Trường (Bán kính 300) Xung quanh kẻ địch thứ ba gần nhất trong 16s.\n►Giảm M.DEF của kẻ địch trong trường đi $1.\n►Giảm TP Boost của kẻ địch trong trường đi $2.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi xuống 90% trong 16s.
 
 ##S1##
 ルートオブバインド=Binding Route
-前方範囲内の敵全てに魔法小ダメージを与え、さらに束縛する。=Gây sát thương ma thuật nhỏ lên tất cả kẻ địch trong phạm vi và gây Bind.
+前方範囲内の敵に魔法小ダメージを与え、束縛し、自分に【証拠】（上限５）を１個付与する。=Gây sát thương phép thuật nhỏ lên các kẻ địch trong phạm vi phía trước, gây trạng thái trói buộc (Bind), và cấp cho bản thân 1 【Chứng Cứ】 (giới hạn 5).
 r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương ma thuật lên kẻ địch trong phạm vi.\n►Làm kẻ địch trong phạm vi không thể di chuyển trong một khoảng thời gian.
 
 ##S2##
 ミスリードバレット=Misdirection Bullet
-目の前の敵１キャラに魔法中ダメージを与え、さらに混乱させる。【証拠】が５つの場合、このスキルは必ずクリティカルし、前方範囲内の敵すべてに魔法中ダメージを与える。範囲内の敵の数に応じて、追加ダメージが増加する。=Gây sát thương ma pháp vừa lên 1 kẻ địch trước mắt, đồng thời gây trạng thái hỗn loạn. Khi có 5 [Chứng cứ], kỹ năng này chắc chắn chí mạng và gây sát thương ma pháp vừa lên toàn bộ kẻ địch trong phạm vi phía trước. Sát thương bổ sung sẽ tăng tùy theo số lượng kẻ địch trong phạm vi.
+目の前の敵１キャラに魔法中ダメージを与え、混乱させる。【証拠】が最大の場合、このスキルは必ずクリティカルし、前方範囲内の敵に魔法中ダメージを与える。範囲内の敵の数に応じて、追加ダメージが増加する。=Gây sát thương phép thuật trung bình lên 1 kẻ địch ở ngay phía trước và gây trạng thái hỗn loạn (Confusion). Nếu 【Chứng Cứ】 đạt tối đa, kỹ năng này sẽ luôn gây sát thương chí mạng và gây thêm sát thương phép thuật trung bình lên các kẻ địch trong phạm vi phía trước. Sát thương bổ sung sẽ tăng lên dựa trên số lượng kẻ địch trong phạm vi.
 
-r:"^敵単体に(\d+)の魔法ダメージ敵単体を混乱させる証拠が５つの場合、範囲内の敵に(\d+)の魔法ダメージ$"=Thời gian triển khai: 1.4 giây\n►Gây $1 sát thương ma pháp lên 1 kẻ địch.\n►Gây hỗn loạn lên 1 kẻ địch trong 7.5 giây.\n\nTrường hợp có 5 [Chứng cứ]:\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi 1200.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を混乱させる証拠が５つの場合、範囲内の敵に(\d+)の魔法ダメージ$"=Thời gian triển khai: 1.4 giây.\n►Gây $1 sát thương ma pháp lên 1 kẻ địch.\n►Gây hỗn loạn lên 1 kẻ địch trong 7.5 giây.\n\nTrường hợp có 5 [Chứng cứ]:\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi 1200.
 
 ##EX##
 ディテクティブマインド=Detective Mind
@@ -26,12 +26,14 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体を混乱させる証拠が�
 
 ##UB+##
 トゥルーエンドケース=True End Case
-前から３番目の敵を中心に、範囲内の敵の魔法防御力を特大ダウン、ＴＰ上昇を小ダウンさせるフィールドを展開し、さらに行動速度を中ダウンさせる。さらに【カウントダウン】を付与し、５カウント後に敵全体に魔法小ダメージを与える。このスキルによるダメージでは敵のＴＰは回復しない。【証拠】が５つの場合、このスキルは必ずクリティカルする。=Triển khai một vùng không gian lấy kẻ địch thứ 3 từ phía trước làm trung tâm, giảm cực đại Phòng thủ Ma pháp và giảm nhẹ Chỉ số tăng TP của kẻ địch trong phạm vi, đồng thời giảm vừa tốc độ hành động. Ngoài ra còn gây trạng thái [Đếm ngược], gây sát thương ma pháp nhỏ lên toàn bộ kẻ địch sau 5 lần đếm. Sát thương từ kỹ năng này không làm hồi phục TP của kẻ địch. Trường hợp có 5 [Chứng cứ], kỹ năng này chắc chắn chí mạng.
+前から３番目の敵を中心とした範囲内の敵の魔法防御力を特大ダウン、ＴＰ上昇を小ダウンさせるフィールドを展開し、行動速度を中ダウンさせ、【カウントダウン】を付与し、５カウント後に敵全体に魔法小ダメージを与える。このスキルによるダメージでは敵のＴＰは回復しない。【証拠】が最大の場合、このスキルは必ずクリティカルする。=Triển khai một vùng ảnh hưởng (field) tập trung vào kẻ địch thứ 3 tính từ phía trước, làm giảm cực đại chỉ số phòng thủ phép thuật, giảm nhẹ chỉ số tăng TP, và giảm trung bình tốc độ hành động của các kẻ địch trong phạm vi đó. Đồng thời gây trạng thái 【Đếm ngược】, gây sát thương phép thuật nhỏ lên toàn bộ kẻ địch sau 5 lượt đếm. Sát thương từ kỹ năng này không hồi phục TP cho kẻ địch. Nếu 【Chứng Cứ】 đạt tối đa, kỹ năng này sẽ luôn gây sát thương chí mạng.
 
 r:"^フィールド内の敵の魔法防御力(\d+)ダウンフィールド内の敵のＴＰ上昇10ダウン範囲内の敵の行動速度30％ダウン敵全体に(\d+)の魔法ダメージ$"=►Triển khai một vùng không gian lấy kẻ địch thứ 3 từ phía trước làm trung tâm trong phạm vi 410.\n►Giảm $1 Phòng thủ Ma pháp của kẻ địch bên trong vùng không gian trong 18 giây.\n►Giảm 10 Chỉ số tăng TP của kẻ địch bên trong vùng không gian trong 18 giây.\n►Giảm 30％ tốc độ hành động của kẻ địch trong phạm vi trong 18 giây.\n►Gây $2 sát thương ma pháp lên toàn bộ kẻ địch.
 
 ##S1+##
 ルートオブバインド+=Binding Route+
+
+前方範囲内の敵に魔法小ダメージを与え、束縛し、自分に【証拠】（上限５）を１個付与する。範囲内の敵の数に応じて、束縛時間が増加する。=Gây sát thương phép thuật nhỏ lên các kẻ địch trong phạm vi phía trước, gây trạng thái trói buộc (Bind), và cấp cho bản thân 1 【Chứng Cứ】 (giới hạn 5). Thời gian trói buộc sẽ tăng lên dựa trên số lượng kẻ địch trong phạm vi.
 前方範囲内の敵全てに魔法小ダメージを与え、さらに束縛し、自分に【証拠】を１つ付与する。【証拠】は最大５つまで付与される。範囲内の敵の数に応じて、束縛時間が増加する。=Gây sát thương ma pháp nhỏ lên toàn bộ kẻ địch trong phạm vi phía trước, đồng thời trói buộc chúng và nhận 1 [Chứng cứ] cho bản thân. Có thể tích lũy tối đa 5 [Chứng cứ]. Thời gian trói buộc sẽ tăng tùy theo số lượng kẻ địch trong phạm vi.
 r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする自分に証拠を１つ付与する$"=Thời gian triển khai: 1.4 giây\n►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi 800.\n►Khiến kẻ địch trong phạm vi 800 không thể hành động trong thời gian nhất định.\n►Nhận 1 [Chứng cứ] cho bản thân.
 
@@ -39,6 +41,7 @@ r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間�
 ディテクティブルーペ=Detective Magnifier
 
 ルートオブバインド++=Binding Route++
-前方範囲内の敵すべてに魔法中ダメージを与え、束縛し、自分に【証拠】を１つ付与する。【証拠】は最大５つまで付与される。その後、【証拠】が５つの場合、前方範囲内の敵すべてに魔法中ダメージを与え、クリティカルを受けた際のダメージを小アップさせ、物理・魔法攻撃力アップ効果を解除する。範囲内の敵の数に応じて、束縛時間、ダメージ、【証拠】の付与数が増加する。このスキルは必ずクリティカルする。=Gây sát thương ma pháp vừa lên toàn bộ kẻ địch trong phạm vi phía trước, trói buộc chúng và nhận 1 [Chứng cứ] cho bản thân. Có thể tích lũy tối đa 5 [Chứng cứ]. Sau đó, khi có 5 [Chứng cứ], gây sát thương ma pháp vừa lên toàn bộ kẻ địch trong phạm vi phía trước, tăng nhẹ sát thương phải nhận khi chịu đòn chí mạng và giải trừ hiệu ứng tăng Tấn công Vật lý/Ma pháp. Thời gian trói buộc, sát thương và số lượng [Chứng cứ] nhận được sẽ tăng tùy theo số lượng kẻ địch trong phạm vi. Kỹ năng này chắc chắn chí mạng.
+前方範囲内の敵に魔法中ダメージを与え、束縛し、自分に【証拠】（上限５）を１個付与する。その後、【証拠】が最大の場合、前方範囲内の敵に魔法中ダメージを与え、受けるクリティカルダメージを小アップさせ、物理・魔法攻撃力アップ効果を解除する。範囲内の敵の数に応じて、束縛時間、ダメージ、【証拠】の付与数が増加する。このスキルは必ずクリティカルする。=Gây sát thương phép thuật trung bình lên các kẻ địch trong phạm vi phía trước, gây trạng thái trói buộc (Bind), và cấp cho bản thân 1 【Chứng Cứ】 (giới hạn 5). Sau đó, nếu 【Chứng Cứ】 đạt tối đa, gây thêm sát thương phép thuật trung bình lên các kẻ địch trong phạm vi phía trước, tăng nhẹ sát thương chí mạng mà mục tiêu phải nhận, và xóa bỏ hiệu ứng tăng tấn công vật lý/phép thuật của chúng. Thời gian trói buộc, sát thương, và số lượng 【Chứng Cứ】 nhận được sẽ tăng lên dựa trên số lượng kẻ địch trong phạm vi. Kỹ năng này luôn gây sát thương chí mạng.
 
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする自分に証拠を１つ付与する証拠が５つの場合、以下の効果が発動する範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の被クリダメを8％アップ範囲内の敵の攻撃力アップ効果を解除する$"=Thời gian triển khai: 1.4 giây\n►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi 800.\n►Khiến kẻ địch trong phạm vi 800 không thể hành động trong thời gian nhất định.\n►Nhận 1 [Chứng cứ] cho bản thân.\n\nTrường hợp có 5 [Chứng cứ], các hiệu ứng sau sẽ được kích hoạt:\n►Gây $2 sát thương ma pháp lên kẻ địch trong phạm vi 1200.\n►Tăng 8％ sát thương chí mạng phải nhận của kẻ địch trong phạm vi trong 12 giây.\n►Giải trừ hiệu ứng tăng Tấn công của kẻ địch trong phạm vi 1200.
+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする自分に証拠を１つ付与する証拠が５つの場合、以下の効果が発動する範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の被クリダメを8％アップ範囲内の敵の攻撃力アップ効果を解除する$"=Thời gian thi triển: 1.4s.\n►Gây $1 sát thương phép thuật lên các kẻ địch trong phạm vi 800.\n►Gây trạng thái trói buộc (bind) lên các kẻ địch trong phạm vi 800 trong 2.5 giây.\n►Cấp 1 【Chứng Cứ】 (Evidence) cho bản thân.\n\nNếu có 5 【Chứng Cứ】:\n►Gây $2 sát thương phép thuật lên các kẻ địch trong phạm vi 1200.\n►Tăng 8% sát thương chí mạng mà kẻ địch trong phạm vi phải nhận trong 12 giây.\n►Xóa bỏ các hiệu ứng tăng tấn công (ATK Up) của kẻ địch trong phạm vi 1200.

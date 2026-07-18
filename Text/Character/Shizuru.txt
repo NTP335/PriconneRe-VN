@@ -26,19 +26,22 @@ r:"^(\d+)ダメージ分の物理無効バリアを展開する$"=►Tạo khiê
 
 ##UB+##
 セイクリッドビヨンド=Sacred Beyond
-目の前の敵１キャラに物理特大ダメージを与える。自分を中心とした範囲内の味方すべての物理防御力を特大アップさせ、物理吸収バリアを展開し、さらに継続ＨＰ回復状態を付与する。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước, tăng cực lớn P.DEF của đồng minh trong phạm vi, và tạo khiên trên họ hấp thụ Sát thương Vật lý. Cấp khả năng hồi HP liên tục cho tất cả đồng minh.
+目の前の敵１キャラに物理特大ダメージを与える。自分を中心とした範囲内の味方の物理防御力を特大アップさせ、物理吸収バリアを展開し、継続ＨＰ回復状態を付与する。=Gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước. Tăng cực đại phòng thủ vật lý cho các đồng minh trong phạm vi quanh bản thân, triển khai lá chắn hấp thụ sát thương vật lý và cấp trạng thái hồi phục HP liên tục cho họ.
 r:"^敵単体に(\d+)の物理ダメージ範囲内の味方の物理防御力を(\d+)アップ(\d+)ダメージ分の物理吸収バリアを展開する毎秒ＨＰを(\d+)回復する$"=►Gây $1 Sát thương Vật lý lên kẻ địch.\n►Tăng P.DEF của đồng minh trong phạm vi 200 lên $2 trong 18 giây.\n►Tạo khiên trên tất cả đồng minh trong phạm vi 200 hấp thụ $3 Sát thương Vật lý trong 18 giây.\n►Hồi HP cho tất cả đồng minh $4/giây trong 8.5 giây
 
 ##S1+##
 セイントヒール+=Saintly Succor+
 最もＨＰが低い味方１キャラのＨＰを中回復させ、さらに物理防御力を中アップさせる。=Phục hồi một chút HP cho đồng đội có HP thấp nhất, và tăng phòng thủ vật lý (P.DEF) một cách vừa phải.
 最もＨＰの割合が低い味方１キャラのＨＰを中回復させ、さらに物理防御力を中アップさせる。=Phục hồi một chút HP cho đồng đội có HP thấp nhất, và tăng phòng thủ vật lý (P.DEF) một cách vừa phải.
+最もＨＰの割合が低い味方のＨＰを中回復、物理防御力を中アップさせる。=Hồi phục một lượng HP vừa phải cho đồng minh có tỷ lệ HP thấp nhất, đồng thời tăng vừa phải phòng thủ vật lý cho họ.
+
 r:"^味方単体のＨＰを(\d+)回復味方単体の物理防御力を(\d+)アップ$"=►Phục hồi HP cho đồng đội $1.\n►Tăng P.DEF cho đồng đội $2 trong 12s.
 ## Same with XMahiru S1
 
 ##S2+##
 プロテクション+=Bảo Vệ+
 自分を中心とした範囲内の味方すべてに物理無効バリアを展開し、物理攻撃力を特大アップ、物理クリティカルを大アップさせる。さらに、自分のＨＰを中回復、ＴＰを大回復させる。=Triển khai Khiên lên các đồng minh trong phạm vi, chống lại sát thương vật lý (P.DMG), và tăng mạnh tấn công vật lý (P.ATK) và tỷ lệ chí mạng (P.CRIT Rate) của đồng minh trong phạm vi. Đồng thời, phục hồi một chút HP và một lượng lớn TP cho bản thân.
+自分を中心とした範囲内の味方に物理無効バリアを展開し、物理攻撃力を特大アップ、物理クリティカルを大アップさせる。自分のＨＰを中回復、ＴＰを大回復する。=Triển khai lá chắn vô hiệu hóa sát thương vật lý cho các đồng minh trong phạm vi quanh bản thân, tăng cực đại tấn công vật lý và tăng mạnh tỉ lệ chí mạng vật lý cho họ. Hồi phục một lượng HP vừa phải và một lượng lớn TP cho bản thân.
 r:"^(\d+)ダメージ分の物理無効バリアを展開する範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを100アップ自分のＨＰを(\d+)回復自分のＴＰを350回復$"=►Triển khai Khiên lên đồng minh trong phạm vi 300, chống lại $1 sát thương vật lý (P.DMG) trong 12s.\n►Tăng P.ATK cho đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Tăng P.CRIT Rate cho đồng minh trong phạm vi 300 lên 100 trong 12s.\n►Phục hồi HP của bản thân $3.\n►Phục hồi TP của bản thân 350.
 
 ##UE##

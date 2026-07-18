@@ -130,7 +130,7 @@ r:"^(\[[0-9A-F]{6}\])?次元断層のEXTRA PHASEをクリアしよう(\[-\])?$"=
 
 途中でリタイアした場合、この内容はキャンセルされます。=Nếu bạn bỏ cuộc giữa chừng, nội dung này sẽ bị hủy.
 
-sr:"^([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?のシャドウに専用装備(１|２)が追加される。$"=Trang bị độc nhất $15 đã được thêm vào\nShadow của $1$2$3$4$5$6$7$8$9$10$11$12$13$14
+sr:"^([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?(、)?([べ-ヺー＆＝]+)?(（.+?）)?のシャドウに専用装備(１|２|1|2|)が追加される。$"=Trang bị độc nhất $15 đã được thêm vào\nShadow của $1$2$3$4$5$6$7$8$9$10$11$12$13$14
 
 sr:"^([べ-ヺー＆＝の]+)(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?）)?が追加される。$"=$1$2$3$4$5$6$7$8$9$10$11$12$13$14 đã được thêm vào.
 モンスター追加=Quái Vật Được Thêm Vào
@@ -144,7 +144,7 @@ sr:"^([べ-ヺー＆＝の]+)(（.+?）)?(、)?([べ-ヺー＆＝の]+)?(（.+?�
 PHASE5をクリアしたことで、EXTRA PHASEが解放されました。\nEXTRA PHASEでは、すべてのクエストの最大危険度まで挑戦でき\nるようでございます。すべて勝利して完全クリアを目指しましょう。=Hoàn thành PHASE5 đã mở khóa EXTRA PHASE. Trong EXTRA PHASE, dường như bạn có thể thử thách tất cả nhiệm vụ đến mức nguy hiểm tối đa. Hãy thắng tất cả và hướng đến hoàn thành hoàn toàn.
 
 バトル開始時、すべてのシャドウのＴＰを特大回復。=Ở đầu trận, tất cả Shadows phục hồi một lượng lớn TP.
-
+バトル開始時、すべてのシャドウのＴＰを回復。=Khi bắt đầu trận chiến, hồi phục TP cho tất cả các Shadow.
 
 リッチゴーレム=Golem Giàu Có
 【物理】次元の狭間に誕生した、生きた財宝。\n煌めく財貨を散しながら、冒険者に襲い掛かる。\n\n\n・ユニオンバーストは、敵全体に物理大ダメージ\n　を与え、物理攻撃力と魔法攻撃力を大ダウンさ\n　せる。その後、自身の物理防御力と魔法防御力\n　を特大ダウン。このスキルの状態異常はダメー\n　ジを無効化しても付与される。\n\n・敵全体に物理中ダメージを与え、スタンさせる。\n　その後、自身の物理防御力と魔法防御力を特大\n　ダウン。このスキルの状態異常はダメージを無\n　効化しても付与される。\n\n・前方３キャラに物理中ダメージを与え、ノック\n　バックさせる。その後、自身の物理防御力と魔\n　法防御力を特大ダウン。このスキルの状態異常\n　はダメージを無効化しても付与される。\n\n・目の前の１キャラに物理中ダメージを与える。\n　その後、自身の物理防御力と魔法防御力を特大\n　ダウン。=[Vật Lý] Một kho báu sống sinh ra trong khe hở chiều không. Nó tấn công các nhà phiêu lưu khi rải rác những của cải lấp lánh.\n\n►UB: Gây sát thương Vật Lý khổng lồ lên tất cả kẻ thù và giảm mạnh Tấn Công Vật Lý và Tấn Công Ma Thuật. Sau đó, giảm mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của bản thân. Các trạng thái bệnh do kỹ năng này gây ra kéo dài ngay cả khi sát thương bị vô hiệu hóa.\n\n►Gây sát thương Vật Lý vừa phải lên tất cả kẻ thù và gây choáng. Sau đó, giảm mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của bản thân. Các trạng thái bệnh do kỹ năng này gây ra kéo dài ngay cả khi sát thương bị vô hiệu hóa.\n\n►Gây sát thương Vật Lý vừa phải lên ba nhân vật phía trước và đẩy lùi chúng. Sau đó, giảm mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của bản thân. Các trạng thái bệnh do kỹ năng này gây ra kéo dài ngay cả khi sát thương bị vô hiệu hóa.\n\n►Gây sát thương Vật Lý vừa phải lên nhân vật kẻ thù phía trước. Sau đó, giảm mạnh Phòng Thủ Vật Lý và Phòng Thủ Ma Thuật của bản thân. Các trạng thái bệnh do kỹ năng này gây ra kéo dài ngay cả khi sát thương bị vô hiệu hóa.
