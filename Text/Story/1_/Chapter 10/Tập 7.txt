@@ -1,0 +1,55 @@
+Name
+ソルの塔庭園=Vườn Treo Tháp Sol
+
+Story
+ソルの塔を冒険中の【トゥインクルウィッシュ】。塔を進みながら{playerna\nme}がいてくれたら助かったのにと話すレイに、できればずっといつでも一緒\nにいたかった、とユイは口にする。=Đang thám hiểm Tháp Sol, nhóm 【Twinkle Wish】 tiếp tục tiến bước. Trong lúc Rei chia sẻ rằng giá như có {playername} ở đây thì sẽ đỡ vất vả hơn biết mấy, Yui liền bộc bạch rằng bản thân cô ấy ước gì có thể ở bên cậu ấy mãi mãi, bất cứ lúc nào cũng được.
+
+同時刻。『ソルの塔』上層にて……\n【トゥインクルウィッシュ】の面々が、賑やかに冒険をしていた。=Cùng lúc đó. Tại tầng trên của "Tháp Sol"... Các thành viên của nhóm 【Twinkle Wish】 đang có một cuộc phiêu lưu vô cùng náo nhiệt.
+あたしたちは【トゥインクルウィッシュ】！\nソルオーブと呼ばれる謎の秘宝を探し求めて、\n日夜、冒険を繰り広げているギルドだよ！=Bọn mình chính là 【Twinkle Wish】! Là một hội mạo hiểm giả ngày đêm dấn thân vào các cuộc phiêu lưu để truy tìm món bảo vật bí ẩn được gọi là Sol Orb!
+ここ数日は町で手に入れた怪しげな地図を辿って、\n『ソルの塔』っていう世界でいちばん不思議な場所を冒険中……！=Mấy ngày nay, tụi mình đang lần theo tấm bản đồ đáng ngờ kiếm được ở thị trấn để thám hiểm "Tháp Sol" – nơi kỳ diệu nhất trên thế giới này...!
+頼りの地図がデタラメだったと確信したときにはもう、\nすでに引き返せないほどの深みに嵌まりこんじゃってた！=Đến lúc nhận ra tấm bản đồ đáng tin cậy ấy hóa ra toàn là đồ giả mạo, thì bọn mình đã lún sâu đến mức không thể quay đầu lại được nữa rồi!
+どうなる【トゥインクルウィッシュ】！\nがんばれ【トゥインクルウィッシュ】！\nあたしたちの冒険はまだ始まったばかりだ……！=Rồi 【Twinkle Wish】 sẽ ra sao đây! Cố lên nào 【Twinkle Wish】! Cuộc phiêu lưu của bọn mình chỉ mới bắt đầu thôi...
+ヒヨリ。元気なのは良いことだけど、すこし声をひそめて。\nあくまでもダンジョンのなかだしね、\nいつ魔物が声を察知して襲ってくるかわからない。=Hiyori. Tràn đầy năng lượng thì tốt thật đấy, nhưng em hãy nhỏ tiếng lại một chút đi. Dù sao thì đây cũng là trong hầm ngục mà, không biết chừng ma vật có thể nghe thấy giọng rồi tấn công lúc nào không hay đâu.
+わっ、ごめんレイさん！=Á, em xin lỗi Rei-san!
+謝らなくていいよ、次から気をつけてくれたら。\n……しかし何で今さら、\n『これまでのあらすじ』みたいなことを語っていたの？=Không cần phải xin lỗi đâu, từ lần sau em chú ý là được... Mà sao tự nhiên bây giờ em lại đi tóm tắt lại "cốt truyện đến hiện tại" làm gì thế?
+いや、何かちょっと混乱しちゃって！\n気がついたら、こ～んな摩訶不思議な場所に立ってたんだもん！=Dạ không, tại em thấy hơi hoang mang chút xíu thôi! Tự dưng hoàn hồn lại thì thấy mình đang đứng ở một nơi kỳ lạ ơi là kỳ thế này cơ mà!
+何なんだろう、このオシャレな庭園みたいなとこ？=Đây rốt cuộc là chỗ nào thế nhỉ, trông cứ như một khu vườn quý phái ấy?
+さっきまでは、おどろおどろしい迷宮のなかにいたのに……\n綺麗だけど動物の気配が一切しなくて怖いよ～、死後の世界みたい。=Mới lúc nãy còn ở trong một mê cung rợn ngợp cơ mà... Dù đẹp thật đấy nhưng lại chẳng có lấy một bóng dáng động vật nào cả, đáng sợ quá đi~, cứ như thế giới bên kia vậy.
+あぁ……それで平静を取り戻すために、\nいったん状況を整理しようとしたんだね。=À... Ra là để lấy lại bình tĩnh nên em mới định sắp xếp lại tình hình hiện tại hả.
+ふふ。ヒヨリはわりと突拍子のないことをするように見えて、\n意外と行動は理にかなっているから面白い。=Fufu. Hiyori trông có vẻ hay làm mấy trò ngẫu hứng vô lý, nhưng hành động lại bất ngờ rất có lý lẽ nên thú vị thật đấy.
+おぉっ、それって褒めてるんだよね……？=Ồ, câu đó là đang khen em đúng không nhỉ...?
+もちろん褒めているよ。\n私もけっこうパニックになっていたんだけど、\nキミを見ていたら何だか落ちついてきた。=Đương nhiên là đang khen rồi. Chị lúc nãy cũng hoảng loạn phết đấy chứ, nhưng nhìn em xong tự nhiên thấy bình tĩnh hẳn lại.
+みんな～、お茶の用意ができたよ♪=Mọi người ơi~, trà nước đã chuẩn bị xong rồi nhé♪
+いやいやユイちゃん、この状況でお茶って！？=Ấy ấy Yui-chan, đang tình huống thế này mà còn đòi uống trà á!?
+……キミも混乱してるっぽいね、ユイ？=...Trông em có vẻ cũng đang hoang mang lắm đấy nhỉ, Yui?
+ううん。自分でもびっくりするくらい、何だか落ちついてる……\nみんなと一緒に冒険を重ねて、\n信じられないようなものをいっぱい見てきたから。=Không đâu. Đến em còn thấy bất ngờ với chính mình nữa là, chẳng hiểu sao bản thân lại thấy bình tĩnh thế... Bởi vì cùng mọi người trải qua bao cuộc phiêu lưu, và tận mắt chứng kiến quá nhiều điều không tưởng rồi.
+最近はもう、どんなことがあっても驚かなくなっちゃった……♪=Dạo gần đây, dù có chuyện gì xảy ra đi nữa thì em cũng chẳng còn thấy ngạc nhiên nổi nữa rồi...♪
+そっか～、強くなったんだねユイちゃん！\nあたし、感動だよ……☆=Ra là vậy~, Yui-chan mạnh mẽ lên nhiều rồi nhỉ! Tụi mình cảm động quá đi...☆
+麻痺してるだけな気もするけど。\nお茶もらうね、ありがとうユイ。=Chị có cảm giác em chỉ đang bị tê liệt cảm xúc thôi thì có. Chị xin chén trà nhé, cảm ơn em Yui.
+うん。このお茶にはリラックスの効能もあるから、\n飲んで落ちついて考えよう。\nいったい、これってどういう状況なのかなぁ？=Uhm. Loại trà này có công dụng thư giãn nữa đấy, nên cứ uống rồi bình tĩnh suy nghĩ nhé. Rốt cuộc thì đây là tình huống gì thế nhỉ?
+う～ん。ヒヨリがさっきこれまでの経緯を振り返ってたから、\nそれに乗っかって推測を進めようか。=Ừm~. Hiyori vừa mới nhìn lại chuỗi sự việc nãy giờ rồi, hay là dựa vào đó để tiếp tục suy đoán xem sao nhé.
+私たちが頼りにしていた、\nソルオーブの在処を示していたはずの地図はデタラメな代物だった。=Tấm bản đồ mà chúng ta vẫn hằng tin tưởng, thứ lẽ ra phải chỉ dẫn vị trí của Sol Orb, hóa ra lại là một món đồ giả mạo.
+これは誰かが悪戯でつくった地図で、\nそこに記された順路を辿ると罠に嵌まる……\nみたいな感じだったんじゃないかな？=Có khi nào đây là bản đồ do ai đó cố tình làm ra để chơi khăm, và hễ ai dò theo lộ trình ghi trên đó thì sẽ sập bẫy... kiểu vậy không nhỉ?
+あぁ……\nよくあるもんね、踏んだら他の場所に飛ばされるような罠って。\nとくにソルの塔の高い層とか、大昔の遺跡には。=À... Kiểu bẫy dẫm lên là bị dịch chuyển đến nơi khác thì hay gặp lắm nhỉ. Nhất là ở các tầng cao của Tháp Sol hay trong những di tích cổ xưa từ đời xửa đời xưa.
+ふむ。\nでも転送魔法は、法律で禁じられている高等魔法のはずだ。=Hừm. Nhưng mà phép thuật dịch chuyển đáng ra phải là loại ma pháp cấp cao bị pháp luật cấm sử dụng chứ.
+ううん。距離や移動する人数にもよるけど、\n実は魔法そのものはそんなに難解じゃないんだ。\nがんばって修行すれば、わたしでも使えるようになるかも。=Không đâu ạ. Dù còn tùy thuộc vào khoảng cách và số lượng người di chuyển, nhưng thực ra bản thân ma pháp đó không quá hóc búa đâu. Cố gắng luyện tập chăm chỉ thì có khi em cũng dùng được ấy chứ.
+今は法律が厳しくて誰も使わないけど、\n一昔前はみんな気軽に転送魔法を使ってたんじゃないかなぁ……\nすごく便利だし、使わない手はないもんね。=Bây giờ luật pháp nghiêm ngặt nên chẳng ai dùng cả, nhưng cách đây một thời gian thì chắc là ai ai cũng thoải mái dùng ma pháp dịch chuyển thôi nhỉ... Tiện lợi lắm mà, tội gì không dùng cơ chứ.
+ふむふむ。\nだからソルの塔や古い遺跡には、\nたくさん転送用の魔法陣とかがあるわけだね。=Ra là thế ra là thế. Thảo nào trong Tháp Sol hay các di tích cổ lại có nhiều ma pháp trận dùng để dịch chuyển đến vậy.
+うん。罠じゃなくても、\n普通に移動用のものとかがたくさん配置されてるんだ。\nわたしたち、それをうっかり踏んじゃったんじゃないかな？=Đúng vậy. Kể cả không phải là cạm bẫy, thì các ma pháp trận dùng cho việc đi lại bình thường cũng được bố trí rất nhiều. Biết đâu tụi mình đã vô tình dẫm phải một cái như thế rồi thì sao?
+そもそも。\nふたりは地図をデタラメだったって言ってるけど、\nわたしにはそう思えないというか……=Nói cho cùng thì... Hai người cứ bảo tấm bản đồ đó là đồ giả, nhưng riêng em lại không thấy thế cho lắm...
+だって誰も踏破したことがないはずのソルの塔の内部の通路とか、\nちゃんと地図には正確に記されてたよ？=Bởi vì mấy cái đường hầm bên trong Tháp Sol – nơi mà chắc chắn chưa có ai từng thám hiểm vượt qua được – đều được ghi chép lại cực kỳ chính xác trên bản đồ cơ mà?
+ふむ。地図は正しくて、誤ったのは私たちという考えか。\n悪戯や罠のために誰かが偽の地図をつくった、\nという他人の悪意を前提にした考えよりは好ましいね。=Hừm. Ý em là bản đồ đúng, còn chúng ta mới là người đi sai đường à? Dù sao thì suy nghĩ đó vẫn dễ chịu hơn là việc cứ mặc định đối phương có ác ý, rằng ai đó đã cố tình làm ra bản đồ giả để chơi khăm hay giăng bẫy.
+うんうん、ひとの善意を信じよう！\nそっちのほうが、あたしたちっぽい！=Đúng thế đúng thế, cứ tin vào thiện ý của con người đi! Kiểu đó mới đúng chất tụi mình chứ!
+そうだね。\n……ただそう考えたとしても、事態は何も好転しないわけだけど。=Chuẩn rồi... Chỉ có điều, dù nghĩ thế đi chăng nữa thì tình hình hiện tại cũng chẳng có gì khá khẩm hơn cả.
+どうしたものだろうね。見た感じこの空間は平和そのものだし、\n三人で手分けして脱出口を探そうか？\nそれらしきものを見つけたら、大声で他のふたりを呼ぶ。=Giờ phải làm sao đây ta. Trông có vẻ không gian này yên bình tuyệt đối luôn, hay là ba người tụi mình tách nhau ra đi tìm lối thoát nhé? Hễ ai tìm thấy thứ gì đáng nghi thì cứ hô to gọi hai người kia tới.
+いちおう警戒はしていたけど、魔物の気配も一切ないし……\nたぶん、大胆に動き回っても大丈夫だと思う。=Dù vẫn phải cẩn trọng đề phòng, nhưng hoàn toàn không có chút hơi hướm nào của ma vật cả... Chắc là cứ thoải mái đi lại xung quanh cũng không sao đâu.
+おぉっ、それでいこう！　決まりだね！=Ôi, vậy đi nhé! Quyết định thế đi!
+うん。ソルの塔の攻略に何日も時間をかけてしまったから、\n残りの食料も乏しい。\nさっさと脱出して、いったん出直したほうが良い気がするよ。=Ừm. Mất tới mấy ngày trời để chinh phục Tháp Sol rồi, nên lương thực mang theo cũng cạn kiệt dần. Chị nghĩ tụi mình nên nhanh chóng tìm đường thoát ra ngoài rồi tính tiếp thì hơn.
+そうだね。\n騎士クンはよく【美食殿】のひとたちと一緒に、\n魔物を料理して食べるみたいだけど……=Đúng vậy nhỉ. Hiệp sĩ-kun dạo này hay cùng mọi người trong 【Mỹ Thực Điện】 chế biến và ăn thịt ma vật lắm...
+ほんとに飢え死にしそうだったら、そうするべきだけど。\nとくにソルの塔に出てくる魔物って、かわいいのがおおいし。\n食べちゃうのは可哀想だよね……=Nhưng mà nếu đói lả đến mức sắp chết đến nơi thì mới phải làm vậy thôi. Huống hồ ma vật trong Tháp Sol đa phần toàn là đám dễ thương không hà, đem ăn thịt thì tội nghiệp lắm...
+ふむ。いま名前が出たけれど、\n{playername}は近ごろ付きあいが悪いね。=Hừm. Nãy vừa nhắc đến tên, mà dạo này {playername} có vẻ ít giao du với tụi mình quá nhỉ.
+忙しいんだろうか……\n彼の味方を強化する能力は、\nソルの塔の攻略に極めて有効なんだけど。=Không biết có bận bịu gì không nữa... Năng lực cường hóa đồng minh của cậu ấy cực kỳ hữu ích cho việc chinh phục Tháp Sol luôn cơ mà.
+一緒にいてくれたら、助かったのに。=Lẽ ra có cậu ấy ở cạnh thì tụi mình đã đỡ vất vả hơn biết mấy.
+うん……\n寂しいけど仕方ないよ、\n騎士クンにも騎士クンの生活があるんだろうし。=Đúng vậy... Dù có chút buồn tủi nhưng đành chịu thôi, Hiệp sĩ-kun chắc cũng có cuộc sống riêng của cậu ấy mà.
+できればずっと、いつでも一緒にいたかったけど。=Dù em vẫn luôn mong ước có thể ở bên cạnh cậu ấy mãi mãi, lúc nào cũng vậy.
+そう願ってるけど。\nなかなか、難しいよね。=Tụi mình cũng ước gì được thế lắm chứ. Nhưng mà... khó khăn lắm đấy.

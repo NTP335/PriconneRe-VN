@@ -1,0 +1,51 @@
+Name
+ランドソル 広場 =Quảng trường Landosol 
+
+Story
+【ラビリンス】の面々と別行動をとることになった{playername}とコッコロ。\n国家そのものと敵対する状況に、コッコロは手詰まりだと感じるが、{player\nname}の慰めにより前向きになる。=Sau khi quyết định tách ra hành động riêng với nhóm 【Labyrinth】, {playername} và Kokoro rơi vào tình cảnh khó khăn khi phải đối đầu với cả quốc gia. Kokoro cảm thấy bế tắc, nhưng nhờ sự an ủi của {playername}, cô đã lấy lại tinh thần và trở nên tích cực hơn.
+
+{playername}たちは、\n【ラビリンス】の面々との作戦会議の結果……\nいったん、彼女らとは別行動をとることになった。={playername} và mọi người, sau cuộc họp tác chiến với các thành viên của 【Labyrinth】... đã quyết định tạm thời tách ra hành động riêng biệt với họ.
+それぞれ異なる方向からのアプローチで、\n王宮に対抗するための手段を探そう……\nという話になったのである。=Mọi người đã đi đến thống nhất rằng hãy tìm cách đối phó với vương cung thông qua những hướng tiếp cận khác nhau.
+そのため……\n{playername}たちは他に行くあてもないので、\nとりあえずランドソルの町に戻ってきた。=Vì vậy... vì {playername} và mọi người cũng không còn nơi nào để đi, nên tạm thời đã quay trở lại thị trấn Landosol.
+ふむ。\n無事にランドソルに帰り着けたのは良いものの、\nこれから如何しましょう……主さま？=Hừm. Về đến Landosol an toàn thì tốt rồi, nhưng tiếp theo chúng ta nên làm gì đây... thưa Chủ nhân?
+
+コッコロちゃんはどうしたい？=Kokoro-chan muốn làm gì nào?
+
+はぁ。\nわたくし個人の考えを述べますと、\nまずは衣食住を確保すべきかと存じます。=Vâng. Nếu nói về suy nghĩ cá nhân của em, thì trước hết em nghĩ chúng ta cần phải đảm bảo nơi ăn chốn ở.
+わたくしたちが王宮と敵対している以上、\n指名手配などをされる可能性もございますし……=Vì chúng ta đang đối đầu với vương cung, nên khả năng bị truy nã cũng rất cao...
+これまで寝泊まりしていた、\n【サレンディア救護院】には帰れません。=Và chúng ta không thể quay lại 【Viện Cứu Trợ Sarendia】 nơi chúng ta vẫn thường tá túc trước đây được.
+平和に暮らしている【サレンディア救護院】の皆さまを、\nトラブルに巻きこむわけにはいきませんから。=Vì em không thể để những người ở 【Viện Cứu Trợ Sarendia】 đang sống yên bình bị kéo vào rắc rối được.
+ただサレンさまの性格上、\nわたくしたちを心配しているかと思いますので……\n後ほど、こっそりお手紙などを届ける必要はございますね。=Chỉ là với tính cách của tiểu thư Saren, em nghĩ chị ấy chắc đang lo lắng cho chúng ta... nên lát nữa chúng ta cần phải lén gửi thư cho chị ấy.
+『ちょっと事情があって、しばらく帰れない。\n王宮のものに何か聞かれるかもしれないが、気にしないで。\n心配しないでください』……みたいな感じのお手紙を。=Một lá thư kiểu như: "Vì có chút việc nên em sẽ không thể về trong một thời gian. Nếu có người của vương cung hỏi thăm gì, chị cũng đừng bận tâm nhé. Xin đừng lo lắng cho em".
+わたくしの使い鴉を用いれば、\nお手紙を届けるのはそう難しくありません。=Nếu dùng con quạ đưa tin của em, thì việc gửi thư cũng không quá khó khăn đâu ạ.
+ともあれ。\n【サレンディア救護院】に帰れない以上、\n寝泊まりする場所を確保する必要がございます。=Dù sao thì. Vì không thể quay lại 【Viện Cứu Trợ Sarendia】, chúng ta cần phải đảm bảo một nơi để ngủ nghỉ.
+さいあく野宿でも、わたくしは構わないのですが。\n主さまには可能なかぎり、\n健全で文化的な生活を送っていただきたいのです。=Trong trường hợp xấu nhất là ngủ ngoài trời thì em cũng không sao, nhưng em muốn Chủ nhân được sống một cuộc sống lành mạnh và văn minh hết mức có thể.
+だからこそ、せめて屋根のある場所で……\n柔らかなベッドで休むことができたらと。=Chính vì vậy, em mong rằng ít nhất chúng ta có thể nghỉ ngơi dưới một mái nhà... trên một chiếc giường êm ái.
+どこか、良い宿泊場所に心当たりはございますか……主さま？=Chủ nhân có biết nơi nào có thể tá túc tốt không ạ...?
+
+ホテルに泊まるのはどう？=Hay là chúng ta ở khách sạn?
+ふむ……\n我々が初めてこの町に訪れたころのように、\nホテル暮らしをするしかないのでしょうか。=Hừm... Chẳng lẽ chúng ta lại phải sống ở khách sạn giống như khi mới lần đầu ghé thăm thị trấn này sao?
+それが、いちばん無難でしょうね……\nただホテルの従業員などに顔を見られますし、記帳なども残ります。\n何より、ホテルはなかなかお値段がいたしますので。=Đó có lẽ là phương án an toàn nhất... Nhưng chúng ta sẽ bị nhân viên khách sạn nhìn thấy mặt, và còn phải để lại thông tin ghi chép nữa. Hơn hết, khách sạn cũng khá đắt đỏ.
+懐具合と相談でございますね。\n銀行にそれなりに貯金はございますが、\nあそこは王宮の息がかかった公的機関でございますから。=Chúng ta cần phải cân nhắc túi tiền của mình rồi. Dù trong ngân hàng vẫn còn một khoản tiết kiệm, nhưng đó là cơ quan công quyền chịu sự kiểm soát của vương cung.
+指名手配などをされていた場合、\nその場でお縄になる可能性がございます。=Nếu chúng ta bị truy nã, rất có thể chúng ta sẽ bị bắt ngay tại đó đấy ạ.
+ゆえに……できるだけ、\n手元のお金を節約しながら用いていくべきでしょうね。\n必要ならば仕方ありませんが、あまり無駄遣いはできません。=Vì vậy... chúng ta nên cố gắng tiết kiệm số tiền đang có trong tay. Nếu cần thiết thì không nói làm gì, nhưng chúng ta không thể lãng phí được.
+ギルドハウスに泊まるのはどう？=Hay là chúng ta ở Guild House?
+あぁ……たしかに【美食殿】のギルドハウスならば、\n自由に出入りができますし、寝床などもございます。\nしばし潜伏するには、打ってつけの場所かもしれません。=À... quả thực nếu là Guild House của 【Mỹ Thực Điện】 thì chúng ta có thể tự do ra vào và cũng có chỗ ngủ. Đó có lẽ là nơi lý tưởng để ẩn náu một thời gian.
+ただギルドハウスは、\n【ギルド管理協会】……公的機関の管理下にあります。=Nhưng Guild House lại nằm dưới sự quản lý của 【Hiệp hội Quản lý Guild】... một cơ quan công quyền.
+我々が王宮と敵対している以上、\nあまり公的機関の息がかかった場所を用いるべきではございません。\n敵の懐のなかに、むざむざ飛びこむ結果になりますから。=Vì chúng ta đang đối đầu với vương cung, chúng ta không nên sử dụng nơi chịu sự kiểm soát của cơ quan công quyền. Làm vậy chẳng khác nào tự mình chui đầu vào miệng cọp.
+【美食殿】の一員であるキャルさまも当然、\nギルドハウスの場所を知っておりますしね。=Hơn nữa, Kyaru-sama, một thành viên của 【Mỹ Thực Điện】, đương nhiên cũng biết vị trí của Guild House.
+不本意ながら、キャルさまが敵対している以上……\nあの建物で寝泊まりするのは危険でしょう。\nもっと安全で、誰にも知られていない潜伏先を探すべきかと。=Dù không muốn, nhưng vì Kyaru-sama đang đứng về phía đối địch... việc tá túc ở tòa nhà đó chắc chắn là nguy hiểm. Chúng ta nên tìm một nơi ẩn náu khác an toàn hơn và không ai biết đến thì hơn ạ.
+
+……ふむ。\nあれこれ考えてはみましたが、手詰まりな気がいたします。=...Hừm. Em đã suy nghĩ đủ điều, nhưng có vẻ như chúng ta đang rơi vào ngõ cụt rồi.
+王宮……国家そのものと敵対するというのは、\n想像以上に難儀な話でございますね。\n正直、にっちもさっちもいかない感じです。=Đối đầu với vương cung... hay nói đúng hơn là đối đầu với cả quốc gia, khó khăn hơn em tưởng tượng nhiều. Thú thật là em đang thấy không biết phải làm sao cả.
+わたくし、恥ずかしながら途方に暮れてしまいそうです。\n主さまをお導きすべきガイド役として不甲斐なく、\nまた情けないです。=Thật xấu hổ khi em lại cảm thấy bế tắc như thế này. Với tư cách là người dẫn đường cho Chủ nhân, em thấy mình thật kém cỏi và vô dụng quá.
+わう……\n慰めてくださるのですね、主さま。=Wow... Chủ nhân đang an ủi em sao ạ?
+ふふ。\nそうですね、しょんぼりしていても仕方ありません。=Fufu. Vâng, đúng là cứ buồn bã ủ rũ thế này cũng chẳng ích gì nhỉ.
+ペコリーヌさまが……我々の大事な仲間が、\n囚われの身となっているのです。\nどんな手を使ってでも、救出してさしあげなくては。=Pecorine-sama... đồng đội quan trọng của chúng ta đang bị giam cầm. Dù phải dùng bất cứ thủ đoạn nào, chúng ta cũng phải cứu chị ấy bằng được.
+様子がおかしかったキャルさまのことも、気がかりですしね。\nまずは寝泊まりできる拠点や食料を確保し、\n地道に調査などをしつつ、起死回生の方策を練りましょう。=Em cũng rất lo lắng cho Kyaru-sama, người đã có những biểu hiện lạ. Trước hết hãy đảm bảo một căn cứ để ngủ nghỉ và lương thực, rồi vừa âm thầm điều tra vừa vạch ra phương án xoay chuyển tình thế nhé.
+幸いなことに、我々は孤独ではございませんしね。\n【ラビリンス】の皆さまが、きっと協調して動いてくださいます。=May mắn là chúng ta không đơn độc. Những người ở 【Labyrinth】 chắc chắn sẽ phối hợp hành động cùng chúng ta.
+【ラビリンス】の皆さまは、\n潜伏先を細かく変えながら逃亡しているようですし……=Những người ở 【Labyrinth】 dường như đang trốn chạy trong khi liên tục thay đổi chỗ ẩn náu...
+わたくしたちのほうから連絡をとる方法がないのが、\n困りものですけど。=Thật khó khăn là chúng ta lại chẳng có cách nào để liên lạc với họ.
+ふふ。\n前途多難でございますが、諦めずにがんばってみましょう。=Fufu. Dù tương lai đầy rẫy khó khăn, nhưng hãy cố gắng đừng bỏ cuộc nhé.
+わたくしでは頼りないかもしれませんが……\nコッコロはいつでも全力で、主さまにお力添えをいたします。=Có lẽ em không phải là người đáng tin cậy lắm... nhưng Kokoro sẽ luôn hết mình hỗ trợ Chủ nhân.
+いいえ。\nいつでもお側におります、主さま。=Không đâu ạ. Em sẽ luôn ở bên cạnh Chủ nhân.

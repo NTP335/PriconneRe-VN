@@ -1,0 +1,55 @@
+Name
+ランドソル王城入口=Cổng Thành Landosol
+
+Story
+【王宮騎士団（NIGHTMARE）】の騎士からジュンとの面会を拒否された\nトモは、マツリと再会する。【リトルリリカル】の面々が話があると聞\nき、トモはマツリと共に合流することを決めるのだった。=Tomo, người bị kỵ sĩ của 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 từ chối cho gặp Jun, đã gặp lại Matsuri. Khi nghe tin các thành viên của 【Little Lyrical】 có chuyện muốn nói, Tomo quyết định cùng với Matsuri đi đến chỗ họ để gặp mặt.
+
+だからっ、ジュンさ……隊長に会わせろと言っている！=Đã bảo là... cho tôi gặp đội trưởng Jun đi!
+ねぇ、返事ぐらいしたらどうかな。\n門番という職務に忠実で感心するけれど。=Này, trả lời một tiếng có được không? Dù tôi rất khâm phục sự trung thành với công việc canh gác của anh đấy.
+ただ黙って突っ立って王宮の出入り口を守るだけなら、\n魔法装置にだってできる。=Nếu chỉ đứng đực ra đó để canh cửa hoàng cung thôi thì một thiết bị ma thuật cũng làm được.
+融通をきかせてほしいよ、人間ならね。\nほら、私も同じ【王宮騎士団（NIGHTMARE）】の仲間だ。\n君とは友達ではないけど、同僚だっていうことはわかるよね？=Tôi muốn anh linh động hơn một chút, nếu anh là con người. Này, tôi cũng là đồng đội cùng trong 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 đây. Dù chúng ta không phải bạn bè, nhưng anh cũng hiểu chúng ta là đồng nghiệp của nhau mà đúng không?
+せめて、隊長に言伝を頼みたい。\n同じギルドに草鞋を脱いだ間柄だ、\n無理やり押し通るような真似はしたくないのだけど？=Ít nhất thì hãy chuyển lời giúp tôi tới đội trưởng. Dù sao cũng là người cùng chung một mái nhà, tôi không muốn phải làm cái trò cưỡng ép xông vào đâu?
+……何度頼まれても、駄目なものは駄目だ。=...Dù cô có yêu cầu bao nhiêu lần đi nữa, không được là không được.
+あっ、ようやく喋ってくれた。嬉しいよ。\nちょっと石像に向かって必死に話しかけてる、\n愚か者の気分だったから。=A, cuối cùng anh cũng chịu nói rồi. Tôi vui lắm đấy. Vì từ nãy đến giờ tôi cứ có cảm giác như một kẻ ngốc đang cố gắng bắt chuyện với bức tượng đá vậy.
+貴様には、王宮へ踏みこむ権利はない。=Ngươi không có quyền bước chân vào hoàng cung.
+それは理解してるよ。\n今も昔も王宮は古くさい封建社会の仕組みを採り入れてるからね、\n貴族とそうじゃないものを明確に区分している。=Điều đó tôi hiểu mà. Xưa nay hoàng cung vẫn áp dụng cơ chế xã hội phong kiến cổ hủ, phân chia rạch ròi giữa quý tộc và những người không phải quý tộc.
+庶民である私には、王宮に立ち入る資格がない。\nだからこそこの王宮の出入り口まで、\nジュンさんを呼んできてほしいって頼んでる。=Là một thường dân, tôi không có tư cách bước vào hoàng cung. Chính vì vậy nên tôi mới nhờ anh gọi Jun-san ra cửa này đấy.
+……駄目だ。\n隊長殿は現在、会議の真っ最中である。=...Không được. Đội trưởng hiện đang trong cuộc họp.
+会議？ 何それ、聞いてないけど……\nいったい、何を話しあってるの？=Cuộc họp? Là cái gì thế, tôi chưa nghe nói... Rốt cuộc là đang thảo luận chuyện gì vậy?
+貴様には知る権利がない。=Ngươi không có quyền được biết.
+というか。\nこの門番のひとも、たぶん何も知らないっぽいよね。\n言動の端々から、戸惑いを感じる=Mà này.\nCó vẻ như anh lính gác này cũng chẳng biết gì cả.\nQua từng lời nói cử chỉ, mình cảm nhận được sự lúng túng của anh ta.
+ここで粘ってこのひとを詰問しても、\nたぶん何の情報も得られない=Cứ cố chấp đứng đây tra khảo anh ta thì,\nchắc cũng chẳng thu được thông tin gì đâu.
+かといって……\nこのひとをブチ倒して、王宮に突入するのもどうかと思うし=Nhưng mà...\nĐánh gục anh ta rồi xông vào hoàng cung thì mình thấy cũng không ổn lắm.
+不可能ではないけど。\n【王宮騎士団（NIGHTMARE）】はあくまでも味方だ、\n露骨に敵対するような言動は避けるべきだよね=Không phải là không làm được.\nNhưng 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 dẫu sao vẫn là đồng minh, nên tránh các hành động đối địch lộ liễu thì tốt hơn.
+う～ん。\nこれ以上は時間を浪費するだけだろうし、\n別の角度から探ってみようか=Ừm.\nCứ ở đây cũng chỉ phí thời gian thôi, thử tìm cách khác xem sao vậy.
+どうした。\n他に用事がないなら、さっさと去るがいい。=Sao thế.\nNếu không còn việc gì khác thì mau rời đi đi.
+はいはい。\nお仕事ご苦労さまです～、……うん？=Vâng vâng.\nAnh làm việc vất vả rồi nhé~, ...Hửm?
+トモね～ちゃん！=Tomo-nee-chan!
+おや、マツリちゃん。\nどうしたの、息せき切って……=Ồ, Matsuri-chan.\nSao thế, sao lại hụt hơi như vậy...
+すぐにパニックになっちゃうのは、君の悪い癖だよ。\n子供っぽくてかわいいけどね♪=Cái tật cứ tí là hoảng loạn của em đúng là thói xấu đấy.\nCơ mà trẻ con thế cũng đáng yêu♪
+うにゅにゅ！？頭を撫でないでほしいッス！=Unyu nyu!? Em không muốn bị xoa đầu đâu ạ!
+それよりも、ジュンさんに報告したいことがあるッス！=Chuyện đó để sau, em có việc muốn báo cáo cho Jun-san ạ!
+そうなの？\nでも残念だけど、ジュンさんにはいま会えないみたいだよ。\nこの意地悪な門番さんが、通せんぼしてるからね。=Vậy sao?\nNhưng tiếc quá, hình như bây giờ không gặp được Jun-san đâu.\nAnh lính gác xấu tính này đang chặn cửa không cho vào đây này.
+う～？\nでもでも、急ぎの用事ッス！=Hử~?\nNhưng mà, là việc gấp ạ!
+ふむ……\nじゃあ、まずは私に事情を説明してくれる？\n何の話かはわからないけど、ちからになれるかもしれない。=Hừm...\nVậy, trước hết em giải thích tình hình cho chị nghe được không?\nChị không biết là chuyện gì nhưng có lẽ chị sẽ giúp được đấy.
+う～みゅ？ じゃあ、トモね～ちゃんでもいいッス！\nトモね～ちゃんは正義の心をもつ立派なひとッス、\n自分は尊敬してるッス!=Ừm... Nếu thế thì Tomo-nee-chan cũng được ạ!\nTomo-nee-chan là người tử tế có trái tim chính nghĩa, em rất ngưỡng mộ chị đấy!
+にゅにゅ！？だから、頭を撫でないでほしいッス！\nトモね～ちゃんは口が達者なのに、\nなぜかたまに無言でスキンシップしてくるッスよね！？=Nyu nyu!? Em đã bảo là không muốn bị xoa đầu mà!\nTomo-nee-chan ăn nói sắc sảo thế mà, sao thỉnh thoảng lại cứ im lặng tự dưng động chạm cơ thể người khác thế nhỉ!?
+ふふ。失敬。=Phì. Xin lỗi nhé.
+まあ、こんなところで立ち話するのもどうかと思うし。\nちょうど良い時間だから、\nどっかのお店にでも入ってお昼ご飯がてら話を聞くよ。=Mà thôi, cứ đứng đây nói chuyện mãi cũng không tiện.\nĐang đúng lúc, hay là vào quán nào đó vừa ăn trưa vừa kể cho chị nghe đi.
+マツリちゃん、何か食べたいものはある？=Matsuri-chan, em muốn ăn gì không?
+えっ、じゃあお肉が良いッス！\nお肉を食べて強くなるッス☆=Dạ, thế thì em muốn ăn thịt ạ!\nĂn thịt để trở nên mạnh mẽ ạ☆
+お肉ね、了解。\nお昼から、あんまり脂っこいものを食べたくないんだけど……\nお勧めのお店があるから、一緒に行こうか。=Thịt à, được rồi.\nTrưa rồi chị không muốn ăn gì quá nhiều dầu mỡ đâu...\nNhưng có quán này chị gợi ý, mình cùng đi nhé.
+押忍！　あぁでも、他の子たちも呼んでいいッスか？\n実はジュンさんに相談があるのは自分じゃなくて、\nその子たちなんスよ！=Rõ! À mà, em gọi mấy bạn khác đi cùng được không ạ?\nThực ra người muốn xin tư vấn của Jun-san không phải em, mà là mấy bạn ấy ạ!
+自分は【王宮騎士団（NIGHTMARE）】への、\n取り次ぎを頼まれただけッス。=Em chỉ được nhờ làm cầu nối với 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 thôi ạ.
+その子たちは【リトルリリカル】っていうんスけど、\nトモね～ちゃんは知ってるッスか？\n自分、家が近所だし年齢が近いからたまに遊ぶんスけど。=Mấy bạn ấy là 【Little Lyrical】, Tomo-nee-chan biết không ạ?\nNhà em gần nhà mấy bạn ấy, với lại tuổi cũng sàn sàn nhau nên thỉnh thoảng em cũng hay chơi cùng.
+あぁ……\n近ごろ町でギルドごっこと称して騒ぎを起こしてる、あの子たちか。\nわりと危険なこともしてて、何度か注意したから知ってるよ。=À...\nĐám trẻ hay bày trò chơi đóng giả hội nhóm gây ồn ào trong thị trấn dạo gần đây ấy hả.\nChị có biết, vì mấy đứa nhỏ đó toàn làm mấy trò nguy hiểm nên chị cũng nhắc nhở vài lần rồi.
+あの子たちが、いったい何だっていうの？=Mấy đứa nhỏ đó thì có chuyện gì sao?
+ん～。\n自分もよくわかんないッスから、詳しいことは本人たちに聞くッス。=Ừm.\nEm cũng không rõ nữa, nên chi tiết thế nào thì cứ hỏi trực tiếp mấy bạn ấy đi ạ.
+お店に行きがてら、【リトルリリカル】の子たちと合流するッスよ。\nふんふふん、トモね～ちゃんの奢りでごはん♪=Trên đường đến quán, mình sẽ gặp mấy bạn 【Little Lyrical】 luôn ạ.\nHư hư hừ, được Tomo-nee-chan bao ăn trưa rồi♪
+うう。【リトルリリカル】って何人いるんだっけ、\n私も懐に余裕があるわけじゃないんだけど……\nまったくもう、思わぬ出費だよ。=Ư... 【Little Lyrical】 có mấy đứa nhỉ, chị cũng đâu có dư dả gì đâu...\nThật là, lại tốn khoản chi phí không mong muốn rồi.
+でもまぁ、この混沌とした状況を変えるためには必要な経費だよね。=Nhưng mà, đây cũng là khoản chi phí cần thiết để thay đổi cái tình thế hỗn loạn này thôi.
+
+はやく～！=Nhanh lên nào~!
+はやく行くッス～！=Đi nhanh lên thôi ạ~!
+トモね～ちゃんのおすすめのお肉のお店楽しみッス～！=Em mong chờ quán thịt mà Tomo-nee-chan giới thiệu quá đi ạ~!
+せ、急かさないでほしいなー…=Trời, đừng có hối chị thế chứ...

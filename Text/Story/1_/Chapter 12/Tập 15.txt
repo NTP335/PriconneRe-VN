@@ -1,0 +1,56 @@
+王宮が異変に見舞われる最中、{playername}たちが目を覚ます。黒い泥が流れ\n込み崩壊の危険性がある王宮から避難しようとした矢先、彼らの前に偽の\nユースティアナが現れ、自らを覇瞳皇帝と名乗る。=Giữa lúc vương cung chìm trong biến cố, {playername} và mọi người tỉnh giấc. Ngay khoảnh khắc họ định sơ tán khỏi vương cung đang tràn ngập bùn đen và có nguy cơ sụp đổ, kẻ giả mạo Eustiana xuất hiện trước mặt họ và tự xưng là Kaiser Insight.
+
+{playername}たちが不思議な夢から目を覚ますと、\n『王宮』では異変が生じていた。=Khi {playername} và mọi người tỉnh dậy sau giấc mơ kỳ lạ, một biến cố lớn đã xảy ra tại 『Vương cung』.
+何もかもが激しく震動し、\n壁に走った亀裂から黒い泥のようなものが流れこんできていたのだ。=Mọi thứ đều rung chuyển dữ dội, và từ những vết nứt lan dọc trên tường, thứ chất lỏng màu đen trông như bùn nhão đang tràn vào bên trong.
+{playername}く～ん！\n起きて起きて、寝坊助さん！\n大変だよ～っ、お姉ちゃんが魔法のキッスで起こしてあげるね☆={playername} ơi~! \nDậy đi dậy đi, sâu ngủ nướng này! \nTệ rồi nha~, để chị hai ban cho nụ hôn phép thuật đánh thức em dậy nhé☆
+あっ、お姉ちゃんずるい！　そういうのは妹の役目です！\nとか言ってる場合じゃないっ、ほんとに緊急事態ですよ……！=Á, chị hai gian lận! Chuyện đó phải là nhiệm vụ của em gái chứ! \nMà không phải lúc cãi nhau chuyện này đâu, tình hình đang cực kỳ khẩn cấp đấy ạ...!
+……ふぁっ？　あ、あれ？\nわたし、眠ってたんですか？=……Hả? Ơ, lạ nhỉ? \nMình đã chìm vào giấc ngủ từ lúc nào vậy?
+そうですよ！　お兄ちゃんがキャルってひとに近づくと同時に、\nなぜかペコリーヌさんやコッコロちゃんまで、\n真横にバターンって倒れたんです！=Đúng vậy đó ạ! \nNgay khoảnh khắc anh hai vừa tiến lại gần người tên là Kyaru, thì chẳng hiểu sao cả chị Pecorine lẫn chị Kokkoro cũng ngã lăn kềnh ra ngay bên cạnh luôn!
+そのまま、ちょっとの間だけ眠ってました！\n心配したんですよ、死んじゃったんじゃないかって！=Cứ thế, mọi người đã ngủ thiếp đi một lúc đấy ạ! \nEm đã lo lắng phát hoảng lên được, tưởng đâu mọi người chết quách đi rồi cơ chứ!
+えっとぉ……？　あっ、キャルちゃんは？\n無事に元通りになったんでしょうか？=Ừm……? \nÁ, thế còn Kyaru-chan thì sao? \nEm ấy đã trở lại bình thường an toàn rồi chứ nhỉ?
+まだ目覚めてない、みたいですね。\n意識がないから、魔法を連発はしないでしょうし……\n全身が崩壊して死ぬ、みたいな最悪の事態にはならないでしょうけど。=Xem chừng…… vẫn chưa tỉnh lại thì phải. \nVì không có ý thức nên chắc em ấy sẽ không xả liên hoàn phép thuật đâu nhỉ…… \nTuy sẽ không dẫn đến tình huống xấu nhất kiểu như toàn thân sụp đổ rồi chết, nhưng mà.
+心配です。\nわたしたち、キャルちゃんを助けることができたんでしょうか……？=Mình thấy lo quá. \nLiệu chúng ta, có cứu được Kyaru-chan không hả mọi người……?
+ん、んん。\nそれよりも、この衝撃は何でしょう？\n異様な黒いヘドロが、どんどん溢れかえっているようですし……？=Hừm, hừm. \nHơn thế nữa, chấn động dữ dội này là sao chứ? \nThứ bùn nhão đen sì kỳ quái đó có vẻ như đang trào ra ngập lụt ngày một nhiều hơn kìa……?
+あっ、コッコロちゃん！\n{playername}くんも……目を覚ましたんですね？=Á, Kokkoro-chan! \nCả {playername}-kun nữa…… Hai người cũng đã tỉnh lại rồi sao?
+はぁ、何となく皆さまの話も聞こえておりました。\nどうも、わたくしたちはアメスさまのお導きにより、\n一時的に眠って共通の夢を見ていたようですね。=Vâng, em cũng láng mang nghe được lời mọi người trò chuyện đấy ạ. \nXem ra, hình như nhờ sự dẫn dắt của Ameth-sama mà chúng ta đã tạm thời chìm vào giấc ngủ và cùng chia sẻ chung một giấc mơ thì phải.
+キャルさまの記憶を……\nそしてキャルさまの心と直に対話し、言葉を紡いでいる途中で、\nこの衝撃により目覚めてしまったのでしょうか？=Ký ức của Kyaru-sama…… \nVà trong lúc đang đối thoại trực tiếp với trái tim của Kyaru-sama để bộc bạch tâm tình, phải chăng chúng ta đã bị đánh thức bởi chấn động này?
+キャルちゃんを助けられたかどうかは、わかんない感じですね……\nできれば夢のなかに戻って、\nキャルちゃんが納得してくれるまで言葉を尽くしたかったですけど。=Cảm giác vẫn chưa rõ là có cứu được Kyaru-chan thành công hay không nữa…… \nNếu được thì chị vẫn muốn quay trở lại trong giấc mơ đó, để tiếp tục giãi bày hết tâm can cho đến khi nào Kyaru-chan chịu thấu hiểu mới thôi.
+
+ひゃあああっ=Kyaaaah!
+めちゃくちゃ揺れてますよっ！=Đang rung chuyển dữ dội lắm luôn rồi kìa!
+まさか王宮が崩れそうなんですかっ！？=Không lẽ vương cung sắp sập đến nơi rồi sao trời!?
+急いで避難しないとっ=Phải mau chóng sơ tán gấp thôi!
+その必要はないわよ=Không cần thiết phải làm thế đâu
+あんたたちはここで死ぬんだから=Bởi vì tất cả các người sẽ phải chôn vùi bỏ mạng tại nơi này
+見苦しくあがいても意味はないわ=Có giãy giụa thảm hại thế nào đi nữa cũng vô nghĩa mà thôi
+見てくださいっ！=Xin hãy nhìn kìa!
+何かあそこがっ！=Cái chỗ đó hình như là...!
+あれはダイゴくんたちが破壊している筈の洗脳魔法装置か？=Chẳng lẽ đó chính là thiết bị pháp thuật tẩy lẽ ra phải bị nhóm Daigo-kun phá hủy rồi chứ?
+キャルさまたちをおかしくしていた=Thứ thiết bị đáng nguyền rủa từng khiến cho Kyaru-sama và mọi người trở nên bất thường
+忌まわしい装置でございますね=Đúng là một thứ ma quái gởm ghiếc
+禍々しい感じがします=Cảm giác mang lại thật là tà ác và rợn người
+ラジラジさんとダイゴさんは……？=Còn 2 người Rajraj-san và Daigo-san đâu rồi...?
+あの二人に限って……=Riêng hai người đó thì chắc chắn không thể nào...
+おおッ！？=Ôi!?
+ブハッ！=Haa!
+ネネカさま……！=Neneka-sama...!
+ネネカさまっ……！=Neneka-sama...!
+ネネカさまっ！ご無事ですかっ！！=Neneka-sama! Ngài vẫn bình an vô sự chứ!!
+……う……マサ……キ……=...Ư... Masa... ki...
+この間抜けっ=Đồ ngốc này!
+近づいてはダメです！=Không được phép lại gần đây!
+わたしはいいですから早く逃げて──=Ta không sao đâu, mau chạy đi──
+
+ひっ、何ですか今の爆発は……！？=Híc, vụ nổ vừa rồi là cái gì vậy chứ……!?
+あれは……！\nやっぱり、さっきの声はあなただったんですね！=Đó là……! \nQuả nhiên, giọng nói ban nãy chính là của cô đúng không!
+わたしからすべてを奪った、諸悪の根源！\n偽物のユースティアナ！=Kẻ căn nguyên của mọi tội ác, kẻ đã cướp đoạt đi tất cả mọi thứ của ta! \nEustiana giả mạo!
+……その名前、もう使わないと思うから返してあげるわ。\nあなたとちがって、\n私にはお姫さまなんて肩書きは似つかわしくないしね。=……Cái tên đó, ta nghĩ mình sẽ chẳng dùng đến nữa nên trả lại cho ngươi đấy. \nKhông giống như ngươi, cái danh xưng công chúa cao sang ấy hoàn toàn không phù hợp với một kẻ như ta chút nào cả.
+私はこの世を統べる絶対者、千里真那。\nううん、『覇瞳皇帝』と名乗ろうかしら。=Ta chính là kẻ thống trị tuyệt đối của thế gian này, Senri Mana. \nÀ không, chi bằng ta cứ xưng hiệu là 『Kaiser Insight』 đi nhỉ.
+あなたたちには感心するわ、\nここまで抵抗するとは思わなかった……\nまた計算をやり直して、計画を修正しつつ再始動させないとね。=Ta thực sự nể phục sự cố chấp của các ngươi đấy, \nKhông ngờ các ngươi lại có thể kháng cự đến tận bước này…… \nXem ra ta phải tính toán lại từ đầu, vừa sửa đổi kế hoạch vừa tái khởi động lại từ đầu thôi.
+誰にも邪魔はさせない……\nゲームは終わりよ、お馬鹿さんたち。=Sẽ không cho phép bất cứ kẻ nào ngáng đường cản trở đâu…… \nTrò chơi kết thúc rồi đấy, lũ ngốc ạ.
+
+ランドソルに生きるみんなが力を合わせて戦ってる=Tất cả mọi người đang sinh sống tại Landosol đều đang đồng lòng hợp sức chiến đấu
+お願いノウェムちゃん！=Làm ơn đi Novem-chan!
+今は、わたしと一緒に……！=Lần này, hãy sát cánh cùng với tôi……!
+第１３章　決戦、ランドソル=Chương 13: Quyết chiến, Landosol
+覇瞳皇帝……どうしてあの人、わたしのことを……？=Kaiser Insight…… Tại sao người đó lại gọi mình là……?

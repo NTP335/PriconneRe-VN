@@ -1,0 +1,49 @@
+Name
+ランドソル　病院=Bệnh Viện Landosol
+プロデューサー=Producer
+
+Story
+【王宮騎士団（NIGHTMARE）】の救援により、魔物は退治された。{player\nname}がコッコロを心配しているとクリスティーナが現れ、【カルミナ】の\nプロデューサーをやっていると話す。=Sau khi quái vật bị tiêu diệt nhờ sự viện trợ của 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】, trong lúc {playername} đang lo lắng cho Kokoro thì Christina bất ngờ xuất hiện và tiết lộ rằng cô đang làm nhà sản xuất cho nhóm 【Carmina】.
+
+その後……=Sau đó……
+【王宮騎士団（NIGHTMARE）】の救援が駆けつけ、\n正体不明の魔物は無事に退治された。\nそして安全が確保されてから、【カルミナ】はライブを再開した。=Viện quân của 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 đã kịp thời đến nơi, và con quái vật không rõ danh tính đã bị tiêu diệt thành công. Sau khi đảm bảo an toàn, 【Carmina】 đã tiếp tục buổi biểu diễn.
+魔物の襲撃、というおおきなトラブルはあったものの……\nライブは大盛況で、\n【カルミナ】のツアーも予定どおり行われることになった。=Mặc dù xảy ra sự cố lớn là bị quái vật tấn công... nhưng buổi diễn đã thành công rực rỡ, và chuyến lưu diễn của 【Carmina】 vẫn được tiếp tục theo đúng kế hoạch.
+{playername}はそれを、\nコッコロが搬送された診療所で聞いていた。={playername} đã nghe tin đó tại trạm y tế nơi Kokoro được đưa đến.
+コッコロの怪我はチカにより治療されたが、\nなぜかコッコロは意識を取り戻さず、\nずっと昏睡状態がつづいている…… =Vết thương của Kokoro đã được Chika chữa trị, nhưng không hiểu sao Kokoro vẫn không tỉnh lại và cứ rơi vào trạng thái hôn mê kéo dài……
+あぁ、可哀想に……\nすみません、私の落ち度です。\n敵の攻撃を防ぎきれず、また満足に治療もできずに……=A, tội nghiệp quá…… Tớ xin lỗi, đây là sơ suất của mình. Tớ đã không thể ngăn chặn đòn tấn công của kẻ địch, lại còn không thể điều trị thỏa đáng cho cô bé nữa……
+いや、チカは最善を尽くしたと思う……\nあんまり自分を責めないで。=Không, tớ nghĩ Chika đã làm hết sức mình rồi…… Đừng tự trách bản thân quá nhiều.
+引っこんでれば良かったのに、\n魔物を退治しようなんて言い始めた私の責任だよ。=Lẽ ra tớ nên đứng ngoài, đó là lỗi của mình khi bắt đầu nói rằng hãy tiêu diệt con quái vật đó.
+誰も悪くありませんよ、たぶん……\n運が悪かったんです。=Không ai có lỗi cả, có lẽ là…… do vận xui thôi.
+何だったんでしょうね、あの魔物？\n本当に、忌々しいったらないです！=Con quái vật đó là thứ gì vậy nhỉ? Thật sự, không gì đáng ghét hơn thế!
+……ん？\n何ですか、騎士さん？\n何か言いたげですね？=……Hửm? Anh sao vậy, Hiệp sĩ? Anh có điều gì muốn nói đúng không?
+
+みんなに謝る。=Xin lỗi mọi người.
+どうして、{playername}さんが謝るんですか……\nあなたは何も悪いことをしていないでしょう、いつだって。=Tại sao {playername}-san lại phải xin lỗi chứ…… Anh đâu có làm gì sai, lúc nào cũng vậy mà.
+そうだよ、{playername}くん。\nというか、謝られても仕方ないしね……=Đúng vậy đó, {playername}-kun. Mà có xin lỗi cũng chẳng giải quyết được gì cả……
+起きたことはどうしようもないから、\n頭を切り換えて今後のことを考えなくちゃ。=Những chuyện đã xảy ra thì không thể thay đổi được, nên chúng ta phải thay đổi suy nghĩ và nghĩ cho tương lai thôi.
+世界中で、ファンが待ってる。\n俯いて、動きを止めることだけはしちゃいけない……\n私たちはアイドルだから。=Trên khắp thế giới, người hâm mộ đang chờ đợi. Chúng ta không được phép cúi đầu hay dừng bước…… Vì chúng ta là thần tượng.
+みんなにお礼を言う。=Cảm ơn mọi người.
+……ふふ。\nお礼を言われることは何もしてませんよ、私たちは。=……Fufu. Chúng tớ chẳng làm gì đáng để được cảm ơn cả.
+うんうん。\nライブを台無しにした魔物に腹を立てて、暴れただけ。=Đúng vậy, đúng vậy. Chúng tớ chỉ tức giận vì con quái vật phá hỏng buổi diễn nên mới ra tay thôi.
+こうして怪我人がでちゃったことを考えると、\nもっと冷静に、他の手段を選んだほうが良かった気もするけど……=Nghĩ lại việc có người bị thương như thế này, tớ lại thấy đáng lẽ nên bình tĩnh chọn cách khác thì tốt hơn……
+今さら言っても、後の祭りだよね……=Mà giờ nói ra thì cũng muộn màng rồi, "trâu chậm uống nước đục" mà nhỉ……
+
+とりあえず……\nコッコロちゃんだっけ、この子の治療費は【カルミナ】がだすよ。\n私たちの舞台を見てくれた、お客さんだもん。=Tạm thời thì…… Cô bé tên là Kokoro đúng không, chi phí điều trị của bé này 【Carmina】 sẽ chi trả. Vì bé là khách hàng đã đến xem sân khấu của chúng tớ mà.
+そんなの何のお詫びにも、心の慰めにもならないとは思うけどね。\nアイドルはいつだって、ファンに誠意を尽くさなくちゃ。=Tớ nghĩ điều đó chẳng thể coi là lời xin lỗi hay sự an ủi tinh thần gì cả. Nhưng thần tượng thì lúc nào cũng phải hết lòng với người hâm mộ.
+どうか、慰謝料でもないけど……治療費を受け取ってほしいな。\n高名なお医者さんを呼んだりとか、\n他にもいろいろ、手を尽くすから。=Làm ơn hãy nhận lấy, tuy không phải là tiền bồi thường thiệt hại…… nhưng hãy nhận lấy tiền điều trị đi. Chúng tớ sẽ gọi những bác sĩ danh tiếng và làm mọi cách có thể.
+あまり気を落とさないでね、{playername}くん。\n大丈夫、この子もきっとすぐに目覚めるよ。=Đừng quá buồn bã nhé, {playername}-kun. Không sao đâu, cô bé này chắc chắn sẽ sớm tỉnh lại thôi.
+オマエたち！\n何をこんなところで油を売っている！？=Chúng bay! Đang làm cái gì mà đứng buôn chuyện ở đây thế hả!?
+ひっ、プロデューサーさん！？=Hí, Producer!?
+『ひっ』とはご挨拶だなぁ、ワタシは魔物じゃないぞ？\nまぁいいけどなっ、怖がられるのには慣れてるから！\nあははは☆=Chào hỏi kiểu gì mà "hí" thế kia, ta không phải quái vật đâu nhé? Mà thôi cũng được, ta quen với việc bị sợ hãi rồi! Ahahaha☆
+……オマエたち、さっさと国営空港の『転送の間』へ向かえ。\n次のライブ開催地へ移動し、今日は宿でぐっすり休むといい。=……Chúng bay, mau mau đi đến "Phòng dịch chuyển" ở sân bay quốc gia đi. Di chuyển đến địa điểm tổ chức buổi diễn tiếp theo và hôm nay hãy nghỉ ngơi thật tốt tại nhà trọ đi.
+移動や宿泊の手続きなどは、\n現地に先行させたマネージャーに任せてある。=Thủ tục di chuyển và chỗ ở ta đã giao cho quản lý đi trước đến địa điểm đó lo liệu rồi.
+ほら、行った行った！\nこの怪我人のことはワタシに任せろ……顔見知りだしな、\n良いように処理する。=Nào, đi đi đi! Việc của người bị thương này cứ giao cho ta…… Dù sao cũng là chỗ quen biết, ta sẽ xử lý thỏa đáng.
+う、うん！\nじゃあお任せするね、プロデューサー？=Ư, ừm! Vậy nhờ cả vào chị nhé, Producer?
+失礼します……\nあの、{playername}さん、また連絡します。\nツアーが終わって帰ってきたら、お見舞いにきますから。=Thất lễ rồi…… À, {playername}-san, tớ sẽ liên lạc lại sau ạ. Khi nào kết thúc chuyến lưu diễn quay về, tớ sẽ đến thăm ạ.
+まぁそれまでに、\nコッコロさんとやらが目覚めていれば最善ですけどね……\nじゃあまた、どこかでお会いしましょう。=Chà, nếu đến lúc đó mà người tên Kokoro tỉnh lại thì tốt nhất rồi…… Vậy thì hẹn gặp lại anh ở đâu đó nhé.
+……ふむ。あの子らとも知りあいなのか、{playername}？\n今や飛ぶ鳥を落とす勢いの大人気アイドル集団だぞ、\n【カルミナ】は？=……Hừm. Ngươi cũng quen biết với lũ trẻ đó sao, {playername}? 【Carmina】 là nhóm thần tượng nổi tiếng đang cực kỳ thành công đấy nhé?
+ふふ。\n何だ、呆然として……=Fufu. Sao thế, đứng ngẩn người ra là sao……
+ワタシが美人すぎるからといって、\nそうまじまじと見つめるものじゃないよ。\n礼儀を知らんなぁ、最近の若者は？=Đừng có nhìn ta chằm chằm chỉ vì ta quá xinh đẹp như vậy. Thanh niên thời nay không biết lễ độ à?
+ふふ。\nまぁ、驚いてしまうのも仕方ないけどな。=Fufu. Chà, việc ngươi ngạc nhiên cũng là lẽ đương nhiên thôi.
+ワタシも自分で驚いているぐらいだよ……\nこの天下無双の豪傑たるクリスティーナが、\nアイドルのプロデューサーなんぞをやることになるとはな？=Đến ta còn tự thấy ngạc nhiên đây này…… Không ngờ Christina ta – một hào kiệt vô song trong thiên hạ – lại có ngày đi làm producer cho thần tượng đấy chứ?
+これだから、人生は愉しい！\nあっははは……☆=Chính vì thế nên cuộc đời mới thú vị chứ! Ahahaha……☆

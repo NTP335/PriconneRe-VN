@@ -1,0 +1,67 @@
+{playername}に手を貸したオクトーはノウェムのことを想う。一方、ジュンか\nら手に入れた鍵でペコリーヌを助け出し、{playername}たちは再会を果たし\nた。ペコリーヌの口から想いがあふれる。=Sau khi ra tay giúp đỡ {playername}, Octo hoài niệm về Novem. Trong khi đó, nhóm của {playername} đã dùng chiếc chìa khóa lấy được từ Jun để giải cứu Pecorine, đánh dấu cuộc hội ngộ đầy cảm xúc của cả nhóm. Những tâm tư tình cảm của Pecorine cũng theo đó mà vỡ òa tuôn trào.
+
+本当に地下監獄へ駆けつけなくて構わなかったのですか、\nオクトー副団長？=Thực sự không cần phải vội vã chạy đến hầm ngục cũng được sao, Phó đoàn trưởng Octo?
+うん。そっちはボクが適当に対処しとくから、\nみんなは『王宮』の奥へ向かって～\nそこは『陛下』がおわす神域だ、最優先で防衛しないとね。=Ừm. Phía bên đó cứ để tôi tự lo liệu cho, mọi người hãy cứ tiến sâu vào bên trong "Vương cung" đi~ Nơi đó chính là vùng đất linh thiêng ngự trị của "Bệ hạ", chúng ta phải đặt việc phòng thủ lên hàng đầu đấy nhé.
+由緒正しき『王宮』に賊が侵入した～\nってだけで前代未聞の不始末なのに。\n『陛下』に万が一のことがあったら、最悪だよ。=Chỉ riêng việc có kẻ gian đột nhập vào "Vương cung" danh giá lâu đời thôi đã là một sự tắc trách chưa từng có tiền lệ rồi. Nếu lỡ có chuyện bất trắc xảy ra với "Bệ hạ" nữa thì đúng là thảm họa tồi tệ nhất luôn đấy.
+ボクたち全員、\n責任とらされて首ちょん切られる程度で済めば御の字……\n下手すれば国が根本から引っ繰り返っちゃうよ、そんなの嫌でしょ？=Tất cả tụi mình mà bị bắt chịu trách nhiệm rồi chỉ dừng lại ở mức bị trảm thủ chém đầu thôi thì cũng coi như là may mắn lắm rồi... Xui xẻo hơn thì có khi cả đất nước này sẽ lật tung lên từ gốc rễ luôn ấy chứ, ai mà muốn thế cơ chứ?
+それに。どうせお国のために死ぬなら、\nもっと誇り高く戦って果てたいよね～……キミたちは？=Hơn nữa. Đằng nào cũng hy sinh vì đất nước, thì tôi vẫn muốn chiến đấu thật hiên ngang kiêu hãnh cho đến phút cuối cùng hơn~... Còn mấy người thì sao?
+はい！　そうですね、\nたしかに奥のほうにも賊が入りこんだという情報があります！\n優先すべきはそちらですね！=Vâng ạ! Đúng vậy thưa ngài, quả thực có thông tin cho rằng bọn chúng cũng đã lọt được vào khu vực bên trong rồi! Nơi cần ưu tiên bảo vệ chính là ở đó ạ!
+全員、急行！\n『陛下』の御身をお守りするのだ！=Tất cả, mau chóng xuất phát! Phải bảo vệ tôn nghiêm của "Bệ hạ" cho bằng được!
+あはは。\n前時代的～、扱いやすくて良いけどさ。=Ahaha. Đúng là kiểu cách cổ hủ thời xưa~, dễ dắt mũi thật đấy nhưng mà thôi kệ.
+あ～あ……\nこりゃバレたら本気で首ちょん切られちゃうよね、\nあきらかな背信行為だもの。=Haizz... Kiểu này mà bị lộ ra thì chắc chắn là bị trảm đầu thật chứ chẳng đùa đâu, rõ ràng là hành vi phản bội rành rành ra đấy còn gì.
+まぁ殺されるつもりはないし、\nあんまり馴染めない仕事だったから免職になってもべつに良いけど。=Mà mình cũng chẳng có ý định để bị giết đâu, với lại công việc này từ đầu mình đã thấy chẳng hợp mấy rồi nên có bị sa thải thì cũng chẳng sao cả.
+【王宮騎士団（NIGHTMARE）】……\n『正義の味方』なんか、ガラじゃないよね。=【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】... Đóng vai "phe chính nghĩa" thế này quả thực không hợp với phong cách của mình chút nào cả.
+『王宮』内部がごたついてる今のうちに、とんずらしちゃおっと。=Tận dụng lúc bên trong "Vương cung" đang hỗn loạn thế này, chuồn lẹ thôi nào.
+しばらくは身を隠しつつ、\nちょっと本腰を入れて気になることを調べようかな。=Tạm thời cứ ẩn thân nấp kỹ đã, rồi sau đó sẽ nghiêm túc điều tra lại mấy chuyện đang khiến mình bận tâm xem sao.
+洗脳魔法を防ぐために、\n自分の頭にいろいろ対抗魔法とかを仕掛けたら……\n何かどさどさ、不自然な記憶を見つけたし。=Để phòng ngừa ma pháp tẩy não, mình đã tự yểm lên đầu mình đủ loại ma pháp kháng cự... thì vô tình phát hiện ra vô số những ký tự ký ức bất thường rơi rớt lại.
+それを辿ってみよう。\nまんまと他人に騙されて、\n手のひらの上で踊らされるなんて御免だから。=Thử lần theo dấu vết đó xem sao. Mình không đời nào chấp nhận chuyện bị người khác lừa gạt dắt mũi chơi đùa trong lòng bàn tay đâu.
+人間には誰にだって、悪党にだって誇りはある。\nそれを傷つけ嘲笑い、弄ぶすべてのものがボクたちの敵だ。\nそうだよね、ノウェム。=Bất kỳ con người nào, kể cả lũ ác nhân đi chăng nữa thì cũng đều có lòng tự trọng của riêng mình. Tất cả những kẻ dám tổn thương, chế giễu và giễu cợt điều đó đều là kẻ thù của chúng ta. Có phải vậy không, Novem.
+ペコリーヌさま！\n牢の鍵は解錠いたしました、どうぞ出てきてくださいまし！=Pecorine-sama! Em đã mở được khóa phòng giam rồi đây, xin ngài hãy mau ra ngoài đi ạ!
+……ペコリーヌさま？　お早く！\nここは『王宮』、あくまで敵地でございます！=...Pecorine-sama? Xin ngài hãy nhanh chân lên ạ! Nơi này chính là "Vương cung", suy cho cùng thì đây vẫn là lãnh địa của kẻ địch đấy ạ!
+悠長にしていたら、\n新手の敵が現れてわたくしたちの道行きを塞ぐでしょう！=Nếu chúng ta cứ chần chừ thong thả thế này, kẻ địch mới sẽ xuất hiện và chặn đứng con đường rút lui của chúng ta mất!
+えへへ……そうですね。\nせっかく助けてくれたのに、帰り道で捕まっちゃったら台無しです。=Ehehe... Em nói phải nhỉ. Cất công cứu giúp vất vả thế này mà để bị tóm lại ngay trên đường về thì coi như hỏng bét hết.
+でも。\nごめんなさい、安心したら腰が抜けちゃいました。=Nhưng mà... Xin lỗi nhé, vừa thả lỏng an tâm cái là đôi chân chị bủn rủn đi mất chẳng còn chút sức lực nào luôn.
+んもう……\n仕方のないひとでございますね。=Trời ạ... Ngài đúng là hết thuốc chữa mà lại lị.
+けれど。\nご無事で何よりでございました、ペコリーヌさま。=Dẫu sao đi nữa... Ngài vẫn bình an vô sự là tốt lắm rồi, Pecorine-sama.
+はい。本当にありがとう、コッコロちゃん。\n{playername}くんも……\nわたし、今回ばかりは本当にもう駄目かと思いましたよ。=Ừm. Cảm ơn em thật nhiều nhé, Kokkoro-chan. Cả {playername}-kun nữa... Tớ đã thực sự nghĩ rằng phen này chắc là tiêu đời thật rồi đấy.
+えへへ。本当にやばすぎる状況だと、\n『やばいですね』とも言えないんですね。=Ehehe. Hóa ra trong tình huống tồi tệ quá mức chịu đựng, mình thậm chí còn chẳng thốt nổi câu "tệ thật đấy" nữa mà.
+
+ペコリーヌを抱きしめる。=Ôm chầm lấy Pecorine.
+
+ふゃあふ！？　ビックリした！\n急に抱きしめちゃ駄目ですよ～、{playername}くん。=Hyaa á!? Giật cả mình! Đột ngột ôm chầm lấy người ta thế này là không được đâu nha~, {playername}-kun.
+いつもと逆ですね。\n普段は、わたしが『抱きしめてもいいですか？』って聞くのに。=Hôm nay lại ngược đời ghê ta. Bình thường toàn là tớ chủ động hỏi "Tớ ôm cậu một cái được không ạ?" cơ mà.
+それでＯＫをもらえたら、\n嬉しくなって夢中で何度も抱きしめたのに。=Mỗi lần được đồng ý là tớ lại vui sướng tột cùng rồi cứ thế ôm ngấu nghiến mãi không thôi cơ mà.
+え、えへへ……\nそんなに毎回、確認をとらなくても。\n一回も、あなたたちは拒まなかったんですけど。=Ehehe... Đâu cần phải lúc nào cũng xin phép trước khách sáo thế đâu cơ chứ. Dù sao thì... tụi mình chưa từng từ chối lần nào cả mà.
+でもね、不安だったんです。\nわたし、わたしぜんぶ奪われたから……=Nhưng mà, tớ đã sợ lắm đấy. Vì tớ... tớ đã bị tước đoạt đi tất cả mọi thứ rồi mà...
+父上母上、何てことない平和な日常……\nそのぜんぶ、毟り取られちゃったんです。=Phụ vương mẫu hậu, cả khung cảnh thường ngày bình yên vô tư... Tất cả những thứ đó đều bị cướp sạch hết.
+だから怖かった……\nいつも毎回、確認をするたびに怯えてたんです。=Thế nên tớ mới sợ hãi... Mỗi lần hỏi xin phép là một lần con tim tớ thắt lại vì lo âu thấp thỏm.
+もしかしたら、って……\n拒絶されたらどうしようって。=Sợ rằng nhỡ đâu... Nhỡ đâu bị từ chối thì phải làm sao đây.
+あなたたちまで、わたしを忘れてしまったら……\n赤の他人みたいに拒絶したら、わたしは耐えられない。=Nếu ngay cả mọi người cũng quên bẵng đi sự tồn tại của tớ... Nếu quay lưng cự tuyệt tớ như những kẻ xa lạ ngoài kia, chắc chắn tớ sẽ chẳng thể nào chịu đựng nổi mất.
+だって。あなたたちが再び与えてくれたんです、\n大好きなひとたちと一緒に囲む食卓を。\nぜんぶ奪われたはずの、幸せな日常を。=Bởi vì chính các cậu là những người đã mang lại cho tớ một lần nữa. Bàn ăn ấm cúng quây quần bên những người thân yêu nhất. Mang lại những tháng ngày bình dị hạnh phúc tưởng chừng đã vĩnh viễn mất đi.
+{playername}くん、コッコロちゃん、キャルちゃん……\n【美食殿】のみんなが、ぜんぶ奪われて途方に暮れていたわたしに。={playername}, Kokkoro-chan, Kyaru-chan... Tất cả mọi người trong nhóm 【Mỹ Thực Điện】 đã đến bên tớ khi tớ rơi vào cảnh khốn cùng mất hết tất cả.
+ペコリーヌって、すてきな名前をつけて……\n何度もそう呼んで、美味しいものとか一緒に食べてくれましたよね。\nそれがわたし、ほんとに嬉しくて。=Trao cho tớ cái tên tuyệt đẹp là Pecorine... Gọi cái tên đó hết lần này đến lần khác, rồi cùng nhau thưởng thức những món ăn ngon tuyệt cú mèo. Điều đó đối với tớ thực sự hạnh phúc vô cùng.
+幸せで堪んなくて……\nだから、それすら奪われちゃうのが怖かった。=Hạnh phúc đến mức trào dâng nghẹn ngào... Thế nên tớ mới sợ hãi cảm giác ngay cả niềm hạnh phúc đó cũng sẽ bị cướp mất đi.
+そうなっても変じゃなかったのに。\nあなたたちは、こんなにボロボロになって……\n命懸けで、わたしを助けにきてくれたんですね。=Dù cho điều tồi tệ đó có xảy ra đi chăng nữa thì cũng chẳng có gì lạ. Thế nhưng mọi người lại bất chấp thương tích đầy mình thế này... liều chết đến đây để cứu tớ.
+ありがとうございます、ふたりとも！\n本当に本当に、あなたたちのことが大好き……☆=Cảm ơn hai người nhiều lắm! Tớ thực sự, thực sự rất yêu quý hai người...☆
+そう思ってもいいですか？\nあなたたちを大事な仲間だと思って、愛してもいいですか？\nそんなことが許されるんでしょうか、わたしにも？=Tớ được phép nghĩ như thế chứ? Được phép xem các cậu là những đồng đội trân quý nhất, và yêu thương các cậu được chứ? Liệu một kẻ như tớ có được phép làm điều đó không?
+はい。\n許すとか許されるとかではございません。\nそのように、確認する必要もありません。=Vâng ạ. Chẳng có chuyện cho phép hay không cho phép gì ở đây cả đâu ạ. Ngài hoàn toàn không cần phải xác nhận lại những điều hiển nhiên đó đâu.
+ひとを愛することを、幸せになることを、\nご遠慮なさる必要はございません。\nそうでしょう、主さま？=Việc yêu thương một ai đó, hay việc mưu cầu hạnh phúc cho riêng mình, ngài tuyệt đối không cần phải câu nệ hay kìm nén đâu ạ. Có phải vậy không hả Chủ nhân?
+ふふ。\nほら、主さまも何度も頷いて同意してくださっております。\n実際、わたくしのような子供にもわかる、当たり前のことでしょう。=Fufu. Kìa, Chủ nhân cũng đang liên tục gật đầu đồng tình kìa ngài thấy không. Trên thực tế, đó là một chân lý hiển nhiên mà ngay cả một đứa trẻ như em cũng hiểu rõ cơ mà ạ.
+
+ペコリーヌの涙を拭う。=Nhẹ nhàng lau đi giọt nước mắt trên má Pecorine.
+
+うひゃっ！？\nわわっ、急に何ですか……{playername}くん？=Uhya!? Wa, tự dưng làm gì thế hả... {playername}-kun?
+そんなに顔を近づけて……キスですか？\nキスしちゃうんですか？=Áp sát mặt lại gần thế này... định hôn tớ đấy à? Thật sự định hôn luôn sao?
+たしかに囚われのお姫さまを助けだした王子さまには当然、\nその権利がなくもないですけどっ？=Quả thực vị hoàng tử đã giải cứu nàng công chúa bị giam cầm thì đường đường chính chính hoàn toàn có quyền đó thật đấy nhưng mà?
+落ちついてくださいまし、ペコリーヌさま。\n主さまは、どうやら涙を拭いたいご様子です。=Xin ngài hãy bình tĩnh lại đi ạ, Pecorine-sama. Trông có vẻ như Chủ nhân chỉ đang muốn lau đi giọt nước mắt cho ngài thôi mà.
+わわっ？　あはは、恥ずかしっ！\nわたし泣いちゃってますね～、ちっちゃい子みたい……♪=Wawa? Ahaha, ngại chết đi được! Tớ lại khóc lè nhè mất rồi kìa~, trông cứ như một đứa trẻ con ấy nhỉ...♪
+そうですよね。\n{playername}くんですもんね、\n変な誤解をしたわたしが馬鹿でした。=Cũng đúng ha. Vì đó là {playername}-kun cơ mà, tớ thật là ngốc khi lại đi hiểu lầm tai hại thế không biết.
+ふふ。まぁ、どうしてもキスがしたいのでしたら……\nわたくし、ここは空気を読んで目を逸らしておきますので、\nその間に済ませてくださいまし。=Fufu. Mà, nếu ngài thực sự rất muốn hôn đến thế... thì em đây sẽ rất biết điều mà quay mặt đi chỗ khác, hai người cứ tranh thủ làm luôn trong lúc đó đi nhé.
+いやいやっ？　やっぱり記憶喪失の\n{playername}くんを相手にそういうことをするのは、\n何も知らない子を騙してるみたいで申し訳ない気がしますよ～？=Ơ kìa ơ kìa? Dù sao đi nữa, nếu làm ba cái chuyện đó với một {playername}-kun đang bị mất trí nhớ thì cứ có cảm giác như đang lừa gạt một đứa trẻ chẳng biết gì vậy, áy náy chết đi được ấy~?
+……記憶喪失になる前の{playername}くんには、\n大事な仲間がいたみたいですし。=...Có vẻ như trước khi mất trí nhớ, {playername}-kun từng có rất nhiều người đồng đội vô cùng quan trọng bên cạnh.
+その子たちのなかには、\n{playername}くんに恋してる子もいたでしょうし。=Và trong số những người đó, chắc chắn cũng có không ít cô nàng đã đem lòng thương mến {playername}-kun rồi ấy chứ.
+{playername}くん、かっこいいですからね。\nだからこそ、横取りみたいな真似はできません。=Bởi vì {playername}-kun ngầu thế cơ mà. Chính vì thế nên tớ không thể làm cái trò cướp giật ngang xương kiểu đó được đâu.
+でも。\nいつか記憶を取り戻して、それでもまだ仲良しでいてくれて……\nあなたにそのつもりがあったら、そのときにキスしてもいいですか？=Nhưng mà. Đợi đến khi cậu lấy lại được trí nhớ, và lúc đó tụi mình vẫn thân thiết gắn bó như thế này... nếu khi ấy cậu vẫn có ý định đó, thì cậu chủ động cho phép tớ hôn cậu được không?
+ううん。\n優しい、{playername}くん……=Không. {playername}-kun dịu dàng của tớ...
+弱っちいのに、ボロボロになって戦って、\n助けてくれた{playername}くん。\n王子さまみたいな、あなたに。=Một {playername}-kun dẫu yếu ớt nhưng vẫn bất chấp thương tích tơi tả để chiến đấu và giải cứu tớ. Một người tuyệt vời hệt như hoàng tử trong mộng ấy.
+あらためて、恋してもいいですか？=Bây giờ, tớ xin phép được đem lòng yêu cậu có được không?

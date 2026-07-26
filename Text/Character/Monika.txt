@@ -35,14 +35,13 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃�
 
 ##UB+##
 旋風雷閃撃鎖斬=Xích Điện Trận Cơn Bão
-前方範囲内の敵すべてに物理大ダメージを与え、スタンさせる。さらに、味方全体の物理攻撃力と魔法攻撃力を大アップさせ、行動速度を大アップさせる。=Gây sát thương vật lý cực lớn lên kẻ địch trong tầm và khiến chúng bị Choáng. Ngoài ra, tăng mạnh Tấn Công Vật Lý, Tấn Công Ma Thuật và Tốc Độ Hành Động cho toàn đội.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 820.\n►Khiến kẻ địch trong phạm vi 820 bị Choáng trong 2.5 giây.\n►Tăng Tấn Công Vật Lý của toàn đội lên $2 trong 30 giây.\n►Tăng Tấn Công Ma Thuật của toàn đội lên $3 trong 30 giây.\n►Tăng Tốc Độ Hành Động của toàn đội lên 200% trong 30 giây.
+前方範囲内の敵に物理大ダメージを与え、スタンさせる。味方全体の物理・魔法攻撃力と行動速度を大アップさせる。=Gây lượng lớn sát thương vật lý lên những kẻ địch trong phạm vi phía trước và làm choáng chúng. Tăng lớn tấn công vật lý, phép thuật và tốc độ hành động của toàn bộ đồng minh.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度100％アップ$"=►Gây $1 sát thương vật lý lên tất cả kẻ địch trong phạm vi 820.\n►Làm choáng tất cả kẻ địch trong phạm vi 820 trong 2.5s.\n►Tăng $2 P.ATK của toàn bộ đồng minh trong 30s.\n►Tăng $3 M.ATK của toàn bộ đồng minh trong 30s.\n►Tăng 100% tốc độ hành động của toàn bộ đồng minh trong 30s.
 
 ##S1+##
 フリューゲルエール+=Khúc Ca Cánh Trắng+
 味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに行動速度を大アップさせる。=Tăng cường lớn Tấn Công Vật Lý, Tấn Công Ma Thuật và Tốc Độ Hành Động cho toàn đội.
-r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên một kẻ địch đơn.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm Phòng Thủ Vật Lý của kẻ địch trong phạm vi xuống $3.
-
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度100％アップ$"=Thời gian triển khai: 1.06s.\n►Tăng $1 P.ATK của toàn bộ đồng minh trong 20s.\n►Tăng $2 M.ATK của toàn bộ đồng minh trong 20s.\n►Tăng 100% tốc độ hành động của toàn bộ đồng minh trong 20s.
 ##UE##
 フリューゲルコート=Áo Khoác Flügel
 

@@ -3,7 +3,7 @@
 
 ##UB##
 スピリットプレシャス=Tinh Thần Quý Giá
-味方全体のＨＰを中回復し、物理攻撃力を大アップさせる。さらに一番前の味方１キャラに継続ＨＰ回復状態を付与する。=Hồi phục HP toàn bộ đồng đội ở mức trung bình, và cực kỳ tăng P.ATK của họ. Ngoài ra, còn cấp hiệu ứng hồi phục HP liên tục cho đồng đội ở tuyến trước nhất.
+味方全体のＨＰを中回復、物理攻撃力を大アップさせる。最も前の味方に継続ＨＰ回復状態を付与する。=Hồi vừa HP cho toàn bộ đồng minh, tăng lớn tấn công vật lý của họ, đồng thời cấp trạng thái hồi HP liên tục cho đồng minh ở vị trí đầu tiên.
 r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ毎秒ＨＰを(\d+)回復する$"=►Hồi phục HP toàn bộ đồng đội thêm $1.\n►Tăng P.ATK của toàn bộ đồng đội thêm $2 trong 18s.\n►Hồi phục HP của một đồng đội thêm $3/giây trong 6s.
 
 ##S1##
@@ -12,11 +12,11 @@ r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)ア
 
 ##S2##
 ギフトスピリット=Tinh Thần Tặng Phẩm
-最も物理攻撃力が高い味方１キャラを中心とした範囲内の味方すべてのＴＰを小回復させる。=Hồi phục TP của đồng đội trong phạm vi ở mức nhỏ, tập trung vào đồng đội có P.ATK cao nhất.
-r:"^範囲内の味方のＴＰを(\d+)回復$"=►Hồi phục TP của đồng đội trong phạm vi thêm $1.
+最も物理攻撃力が高い味方を中心とした範囲内の味方のＴＰを小回復、物理攻撃力を小アップさせる。=Hồi một ít TP và tăng nhẹ tấn công vật lý cho các đồng minh trong phạm vi xung quanh đồng minh có P.ATK cao nhất.
+r:"^範囲内の味方のＴＰを(\d+)回復$"=Thời gian triển khai: 0.5s.\n►Hồi $1 TP cho đồng minh trong phạm vi 50.
 ## 260lvl
 最も物理攻撃力が高い味方１キャラを中心とした範囲内の味方すべてのＴＰを小回復させ、物理攻撃力を小アップさせる。=Hồi phục TP của đồng đội trong phạm vi ở mức nhỏ, tập trung vào đồng đội có P.ATK cao nhất, đồng thời tăng nhỏ P.ATK của họ.
-r:"^範囲内の味方のＴＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ$"=►Hồi phục TP của đồng đội trong phạm vi 50 thêm $1.\n►Tăng P.ATK của đồng đội trong phạm vi 50 thêm $2 trong 12s.
+r:"^範囲内の味方のＴＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ$"=Thời gian triển khai: 0.5s.\n►Hồi $1 TP cho đồng minh trong phạm vi 50.\n►Tăng $2 P.ATK cho đồng minh trong phạm vi 50 trong 12s.
 
 ##EX##
 スピリットグレイス=Ân Điển Tinh Thần
@@ -24,8 +24,16 @@ r:"^範囲内の味方のＴＰを(\d+)回復範囲内の味方の物理攻撃�
 
 ##S1+##
 スピリチュアルブレイブ+=Dũng Khí Tâm Linh+
-最も物理攻撃力が高い味方１キャラを中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、さらにＴＰ上昇を小アップさせる。=Cực kỳ tăng P.ATK trong phạm vi, tập trung vào đồng đội có P.ATK cao nhất, đồng thời cực kỳ tăng Tỷ lệ Chí Mạng Vật lý và tăng nhỏ Tăng TP của họ.
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方のＴＰ上昇を(\d+)アップ$"=►Tăng P.ATK của đồng đội trong phạm vi 50 thêm $1 trong 12s.\n►Tăng Tỷ lệ Chí Mạng Vật lý của đồng đội trong phạm vi 50 thêm $2 trong 12s.\n►Tăng Tăng TP của đồng đội trong phạm vi 50 thêm $3 trong 12s.
+最も物理攻撃力が高い味方を中心とした範囲内の味方の物理攻撃力を特大アップ、物理クリティカルを大アップ、ＴＰ上昇を小アップさせる。=Tăng cực lớn tấn công vật lý, tăng lớn tỉ lệ bạo kích vật lý và tăng nhẹ chỉ số hồi TP cho các đồng minh trong phạm vi xung quanh đồng minh có P.ATK cao nhất.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ範囲内の味方のＴＰ上昇を(\d+)アップ$"=Thời gian triển khai: 0.7s.\n►Tăng $1 P.ATK cho đồng minh trong phạm vi 50 trong 12s.\n►Tăng $2 tỉ lệ bạo kích vật lý cho đồng minh trong phạm vi 50 trong 12s.\n►Tăng $3 TP Boost cho đồng minh trong phạm vi 50 trong 12s.
 
 ##UE##
 大精霊の儀仗=Bảo Vệ Tinh Thần Vĩ Đại
+
+
+
+##UE2##
+木漏れ日の白装束=Áo Choàng Nắng Xuyên Lá
+ギフトスピリット+=Tinh Thần Tặng Phẩm+
+自分の魔法攻撃力を大アップする。最も物理攻撃力が高い味方を中心とした範囲内の味方の物理攻撃力を特大アップ、物理クリティカルダメージを小アップさせ、物理無効バリアと魔法無効バリアを展開し、ＴＰを中回復させる。範囲内の味方の数に応じて、物理攻撃力と物理クリティカルダメージのアップ量とバリアの damage nullification amount increase by up to 4× based on the number of allies within range.=Tăng lớn tấn công phép thuật của bản thân. Tăng cực lớn tấn công vật lý, tăng nhẹ sát thương bạo kích vật lý của các đồng minh trong phạm vi xung quanh đồng minh có P.ATK cao nhất, triển khai rào chắn vô hiệu hóa vật lý và phép thuật, đồng thời hồi vừa TP cho họ. Mức tăng tấn công vật lý, sát thương bạo kích vật lý và độ bền rào chắn sẽ tăng lên tối đa 4 lần dựa trên số lượng đồng minh trong phạm vi.
+r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリダメを6％アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する範囲内の味方のＴＰを160回復$"=Thời gian triển khai: 0.5s.\n►Tăng $1 M.ATK của bản thân trong 18s.\n►Tăng $2 P.ATK cho đồng minh trong phạm vi 50 trong 18s.\n►Tăng 6% sát thương bạo kích vật lý cho đồng minh trong phạm vi 50 trong 18s.\n►Triển khai rào chắn vật lý hấp thụ $3 sát thương vật lý cho đồng minh trong phạm vi 50 trong 18s.\n►Triển khai rào chắn phép thuật hấp thụ $4 sát thương phép thuật cho đồng minh trong phạm vi 50 trong 18s.\n►Hồi 160 TP cho đồng minh trong phạm vi 50.

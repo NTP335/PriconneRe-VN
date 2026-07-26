@@ -1,0 +1,68 @@
+Name
+病院=Bệnh Viện
+
+Story
+病室で目覚めたコッコロは、ベッドの傍らで眠る{playername}を見つける。\nコッコロは{playername}との再会を喜び、本当の現実で晶から教えられた情報\nを伝え始める。=Kokkoro tỉnh dậy trong phòng bệnh và nhìn thấy {playername} đang ngủ gục ngay cạnh giường. Cô vô cùng vui mừng khi được đoàn tụ với {playername}, rồi bắt đầu kể lại cho ngài nghe những thông tin mà cô đã được Akira truyền đạt ở hiện thực chân chính.
+
+魔物の攻撃により意識不明に陥ったコッコロが入院している病室に、\n{playername}は泊まりこんでいた。=Trong căn phòng bệnh nơi Kokkoro – người đã rơi vào trạng thái bất tỉnh do sự tấn công của ma vật – đang nằm điều trị, {playername} đã túc trực và ngủ lại ở đó.
+医者により彼女の怪我はすべて綺麗に治療されたが、\nなぜか意識のみが戻らないまま丸一日が経過している。=Các vết thương của cô bé đã được bác sĩ chữa trị hoàn toàn sạch sẽ, nhưng không hiểu vì sao đã tròn một ngày trôi qua mà ý thức vẫn chưa chịu hồi phục.
+永遠にコッコロは目覚めぬまま、\n時間のみが経過していくものかと思われたが……\n時計の針が深夜十二時を指したころ、彼女の両目がうっすらと開いた。=Cứ ngỡ rằng thời gian sẽ cứ thế trôi đi mà Kokkoro mãi mãi không bao giờ tỉnh lại... thế nhưng khi kim đồng hồ vừa chỉ mười hai giờ đêm, đôi mắt của cô bé đã hé mở.
+ん、んん……\nあ、ふあぁふ♪=Ưm, ưm... À, fuaa fu♪
+いけません。\n大欠伸をしてしまいました、はしたないですね。=Chết thật. Mình lại ngáp một cái thật to rồi, thật là kém duyên quá đi.
+どうやら……\nきちんと、『こっち』の世界に戻ってこれたようでございます。=Xem ra... Mình đã có thể quay trở về thế giới "này" một cách suôn sẻ rồi.
+今、何時ぐらいでしょう？\n窓の外は真っ暗でございますよね……？=Bây giờ là khoảng mấy giờ rồi nhỉ? Bên ngoài cửa sổ trời tối đen như mực phải không ạ...?
+……おや？　あ、主さま！\nなぜ、ベッドに突っ伏して眠っておられるのでしょう？=...Hả? A, Chủ nhân! Tại sao ngài lại gục đầu ngủ trên giường thế này?
+あぁ、何だかお懐かしい。\nまさに夢のようでございます、主さま。=Ôi, cảm sao mà hoài niệm đến thế. Cứ như thể đang trong mơ vậy, Chủ nhân.
+主さま、主さま……♪=Chủ nhân, Chủ nhân...♪
+
+……コッコロちゃん？=...Kokkoro-chan?
+
+はい。\nコッコロでございます、主さま。=Vâng. Là Kokkoro đây ạ, Chủ nhân.
+ふふ。\nずうっと、眠っているわたくしの手を握りしめておられたのですか？=Fufu. Ngài đã nắm chặt lấy bàn tay đang ngủ say của em suốt từ nãy đến giờ sao?
+こんなに強く……血の巡りが悪くなってしまったようで、\n痺れをおぼえるほどです。=Nắm chặt đến mức... máu huyết dường như không lưu thông kịp, tê rần cả lên luôn rồi đây này.
+ご心配をおかけしたようで、たいへん申し訳ありません。\nけれどご覧のとおり、わたくしは大丈夫でございます。=Khiến ngài phải lo lắng rồi, em thực sự xin lỗi nhé. Thế nhưng như ngài thấy đấy, em hoàn toàn không sao cả.
+記憶喪失の主さまにとって右も左もわからぬこの世界に、\n置き去りになどいたしません。\n幾久しく、あなたが望まれるかぎりお側におります。=Em sẽ không đời nào bỏ rơi ngài – một người đang mất trí nhớ và còn bỡ ngỡ với thế giới này – lại phía sau đâu. Em sẽ mãi mãi ở bên cạnh ngài chừng nào ngài còn mong ước.
+ですので、どうかご安心を……主さま。=Cho nên, xin ngài hãy yên tâm... Chủ nhân.
+
+コッコロを抱きしめる。=Ôm chầm lấy Kokkoro.
+
+はう…=Ha...
+このように抱きしめられては困ります、主さま。=Bị ôm chặt thế này em khó xử lắm đấy, Chủ nhân.
+息が苦しいです=Em khó thở quá.
+ごめんなさい…=Em xin lỗi...
+本当にご心配をおかけしました=Đã thực sự khiến ngài phải lo lắng rồi.
+？もしかして…=Eh? Chẳng lẽ là...
+泣かれたのではないでしょうか？=Ngài đã khóc phải không ạ?
+目元が腫れぼったいですよ、主さま=Vùng mắt sưng húp lên cả kìa, Chủ nhân.
+…ふふ、主さまは男の子なのですから、=...Fufu, ngài vốn là con trai mà,
+一生のうち泣いていいのは=nên trong suốt cuộc đời, số lần được phép khóc
+三回まででございますよ。=chỉ có ba lần thôi đấy ạ.
+そのうちの一回を、わたくしのために=Dùng mất một lần trong số đó
+使ってしまうのはもったいないです。=chỉ vì em thì thật là phí phạm quá.
+けれど…=Thế nhưng...
+たいへん光栄で、嬉しくて…=Em cảm thấy vô cùng vinh dự, vô cùng hạnh phúc...
+わたくしまで泣いてしまいそうです。=đến mức em suýt thì khóc theo luôn rồi đây.
+えへへ、お互い恥ずかしい限りでございますね=Ehehe, đúng là cả hai chúng ta đều ngượng ngùng hết chỗ nói nhỉ.
+あの…=Ưm...
+わたくしからも、抱きしめてもいいでしょうか？主さまを…=Em cũng có thể ôm lấy ngài được chứ? Ôm lấy Chủ nhân ấy ạ...
+その鼓動を、体温を、肌身に感じたいです=Em muốn cảm nhận nhịp đập, thân nhiệt và da thịt của ngài.
+
+その後、抱きあったままコッコロはぽつぽつと事情を説明した。\n彼女が『あっち』で……『本当の現実』で見聞きしてきたことを、\nつぶさに報告してくれたのである。=Sau đó, trong tư thế ôm chặt lấy nhau, Kokkoro từ từ kể lại mọi chuyện. Cô bé báo cáo chi tiết những gì bản thân đã tai nghe mắt thấy ở "kia"... ở "hiện thực chân chính".
+ふふ。\nご説明したとおり、わたくしは『こっち』と\n『あっち』を行き来できるようになったのですけど。=Fufu. Như em đã giải thích, em đã có thể qua lại giữa "đây" và "kia" rồi ạ.
+晶さま……ラビリスタさまに導かれるまま、\nわたくしはバスとやらで実家に戻ったのです。=Được Akira-sama... hay đúng hơn là Labyrista-sama dẫn đường, em đã bắt một chuyến xe buýt để quay về nhà.
+主さまはご存知でしょうか、\n動物園のそばにある研究施設なのですけど。=Không biết Chủ nhân có biết không, đó là một cơ sở nghiên cứu nằm cạnh vườn thú đấy ạ.
+
+【動物苑】？=【Vườn thú】 ư?
+あぁ、ギルド名ではございませんよ。\n獣人たちの互助組織、【動物苑】のことではなく……=À, không phải tên guild đâu ạ. Không phải là tổ chức hỗ trợ lẫn nhau của các thú nhân, 【Vườn thú】 đâu...
+動物園……？=Vườn thú...?
+あぁ、ご存知ありませんよね。\n『こっち』には、\nそういう娯楽施設のたぐいがあまり存在しないようですし。=À, chắc ngài không biết rồi. "Ở đây" có vẻ như không tồn tại nhiều loại hình cơ sở giải trí như thế.
+
+えぇっと。動物園とは、動物さんがたくさんいる場所です。\nその近くにある研究所を自宅として、\n『あっち』のわたくしは暮らしているのでございます。=Ờm. Vườn thú là nơi có rất nhiều các bé động vật ạ. Kokkoro ở "kia" đang sinh sống tại căn nhà là viện nghiên cứu nằm gần đó đấy ạ.
+父はだいぶ難しい立場になっており、不在でございましたが……\nとりあえずは、そこを当面の宿とすることになったのです。=Bố em đang vướng vào một lập trường khá rắc rối nên không có nhà... nhưng tạm thời nơi đó sẽ là chỗ dung thân của em trong thời gian tới.
+そして夜になったので、眠りについたのでございます。\nわたくしの『あっち』での身体はロボットという代物らしいのですが、\n生体ゆえに睡眠も必要なようですね。=Và rồi trời tối nên em đã chìm vào giấc ngủ. Cơ thể của em ở "kia" hình như là một thứ gọi là robot, nhưng vì là thể sinh học nên có lẽ vẫn cần phải ngủ thì phải.
+ふふ。これも晶さまに説明されましたけれど、わたくし、\n『あっち』で眠っている間は『こっち』で目覚められるようです。=Fufu. Chuyện này cũng được Akira-sama giải thích rồi, lúc em đang ngủ ở "kia" thì có vẻ như sẽ tỉnh dậy ở "đây".
+魂は、心はどちらかの世界にしか存在できない……\n起きて、活動ができるのはどちらか片方の世界だけでございますね。=Linh hồn và tâm trí chỉ có thể tồn tại ở một trong hai thế giới... Việc thức dậy và hoạt động chỉ có thể diễn ra ở một trong hai bên mà thôi.
+『あっち』では警備が厳重な自宅におり、\nそれなりの安全が確保できましたので……\nわたくし、当面は『こっち』を中心に活動したいと考えております。=Ở "kia" thì em đang ở trong căn nhà có an ninh vô cùng nghiêm ngặt, và cũng đã đảm bảo được sự an toàn nhất định... nên thời gian tới em dự định sẽ tập trung hoạt động chủ yếu ở "đây".
+ペコリーヌさまを救出するまでは、『こっち』を優先にいたします。\n実際、あのかたを助ける意義も増しましたので。=Cho đến khi giải cứu được Pecorine-sama, em sẽ ưu tiên thế giới "này". Thật ra, ý nghĩa của việc cứu giúp ngài ấy bây giờ lại càng lớn lao hơn nữa.
+ううん……『あっち』で目覚めている間、\n『こっち』のわたくしは眠っているようなものですから。=Ừm... Khoảng thời gian tỉnh giấc ở "kia", thì bản thân em "ở đây" cũng giống như đang ngủ say vậy.
+大事なかたが囚われているのに、\n呑気におねんねしているわけにはまいりません。=Người quan trọng đang bị giam cầm, thế nên em không thể nào thảnh thơi ngủ nướng được đâu ạ.

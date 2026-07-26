@@ -257,6 +257,8 @@ EXスキルスロット=Ô kỹ năng EX
 編成固定=Cố Định
 編成済=Đã Sắp Xếp
 UB予約を有効にする=Kích hoạt đặt trước UB
+UB発動時に演出を再生するか設定します。=Cài đặt có phát hoạt cảnh khi kích hoạt Union Burst hay không.
+
 [3C404E]リタイアすると報酬は獲得できませんが、\nクリアするまで何度でも再挑戦できます。[-]=[3C404E]Nếu bạn bỏ cuộc, bạn sẽ không nhận được phần thưởng nào,\nBạn có thể thử lại cho đến khi hoàn thành.[-]
 r:"^(\d+)文字以上(\d+)文字以下で入力してください。$"=Vui lòng nhập từ $1-$2 ký tự.
 強化上限に達しています。上限解放を行ってください。="Bạn đã đạt đến giới hạn nâng cấp.\nBạn có thể nâng cấp bằng cách chọn "Uncap"."

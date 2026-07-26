@@ -1,0 +1,42 @@
+Name
+ランドソル王宮廊下=Hành Lang Hoàng Cung Landosol
+
+Story
+王宮内部を進む{playername}とコッコロ。ペコリーヌが囚われている地下監獄\nへと向かう二人だったが、強力な気配に足を止める。道の先には【王宮騎\n士団（NIGHTMARE）】ジュンの姿があった。=Vừa tiến sâu vào bên trong vương cung, {playername} và Kokkoro đang trên đường hướng đến hầm ngục nơi Pecorine bị giam giữ thì bỗng phải khựng lại trước một luồng khí thế vô cùng mạnh mẽ. Ngay phía cuối con đường, bóng dáng của Jun thuộc 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 đang đứng chắn lối.
+
+同時刻。囚われたペコリーヌを救出するため、\n{playername}とコッコロは『王宮』内部を驀進していた。=Cùng lúc đó, để giải cứu Pecorine đang bị giam cầm, {playername} và Kokkoro đang lao đi như vũ bão bên trong "Vương cung".
+お下がりください、主さま！\nてぇええい！=Xin hãy lùi lại phía sau, Chủ nhân! Hiaaa!
+な、何だ貴様ら？\n侵入者……う、ぎゃあああ！？=C-Cái gì thế hả các ngươi? Kẻ đột nhập... ự, gyaaaaa!?
+ふうっ……\n【ラビリンス】の皆さまの囮作戦が功を奏して、\n『王宮』内部はだいぶ手薄になっておりますね。=Haa... Nhờ có kế hoạch nhử địch của mọi người bên nhóm 【Labyrinth】 phát huy tác dụng, nên bên trong "Vương cung" đã thưa thớt người phòng thủ đi đáng kể rồi nhỉ.
+それでも最低限の人員は配置されているようで、\n気は抜けませんが……\nこの程度でしたら、わたくしが対処可能です。=Dù vậy, có vẻ như vẫn bố trí một lượng nhân sự tối thiểu nên không thể lơ là được... nhưng chừng này thì em hoàn toàn có thể xử lý được ạ.
+ぐ、ぐう……\n何者だ、貴様らは？=Hừ, hừm... Rốt cuộc các ngươi là ai hả?
+『王宮』に！　国家に楯突く気か、愚かものどもめ！\n貴様らの末路はきっと、悲惨な……おぎゃっ！？=Dám chống lại "Vương cung"! Định phản lại quốc gia hả, lũ ngu ngốc này! Kết cục của các ngươi chắc chắn sẽ bi thảm... Gyaa!?
+お静かに。\n騒ぎに気づいて、警備のものたちが押し寄せてきたら困ります。=Xin hãy giữ trật tự ạ. Nếu để đám người canh gác phát hiện ra tiếng động rồi kéo đến thì sẽ rắc rối to đấy.
+これまでの道中で倒してきた他の警備の皆さまと同様に、\n猿ぐつわを噛ませて……\nとりあえず、ここに座らせておきましょう。=Cũng giống như những nhân viên an ninh khác mà chúng ta đã hạ gục trên đường đi nãy giờ, cứ nhét giẻ vào miệng... rồi tạm thời để họ ngồi ở đây đã nhé.
+警備をしている【王宮騎士団（NIGHTMARE）】の皆さまは、\nなぜか顔を覆い隠す兜をかぶっていますし。\n遠目からは、単に居眠りをしているだけに見えるはずでございます。=Các thành viên của 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 đang làm nhiệm vụ canh gác không hiểu sao lại đội những chiếc mũ giáp che kín cả khuôn mặt. Nhìn từ xa, chắc trông sẽ giống như đang gật gà gật gù ngủ gục mà thôi ạ.
+時間稼ぎにしかならないでしょうが……\n皆さま真面目に職務を全うしている方々ですし、\n命まで奪ってしまうのは心苦しいですよね。=Chắc cũng chỉ kéo dài được chút thời gian thôi nhưng... mọi người đều là những người nghiêm túc hoàn thành nhiệm vụ, tước đoạt cả tính mạng của họ thì thật là áy náy trong lòng nhỉ.
+
+ふふ。\n主さまに肯定していただけると、安心いたします。=Fufu. Được Chủ nhân đồng tình thế này, em cảm thấy yên tâm hẳn.
+主さまのお心に寄り添えるならば、\nわたくしは迷いなく突き進めます。=Chỉ cần có thể đồng hành và sẻ chia tâm tư với Chủ nhân, em có thể tiến bước mà chẳng mảy may do dự.
+それよりも、急ごう。=Hơn thế nữa, chúng ta mau nhanh chân lên thôi.
+はい。\n仰るとおりでございます、今は一分一秒を争う火急の事態……\n速やかに、ペコリーヌさまを救出しなくてはなりません。=Vâng ạ. Đúng như lời Chủ nhân nói, bây giờ là tình huống cấp bách từng phút từng giây... Chúng ta phải nhanh chóng giải cứu Pecorine-sama thôi.
+あれこれ考えるのは、その後でも遅くはないでしょう。=Mấy chuyện suy tính vẩn vơ đó để sau rồi tính cũng không muộn đâu ạ.
+
+お手をどうぞ、主さま。\nこの先に階段があり、その下が『王宮』の悪名高き地下監獄……=Xin hãy nắm lấy tay em, Chủ nhân. Phía trước có một cầu thang dẫn xuống hầm ngục khét tiếng của "Vương cung"...
+事前に得た情報によると、\nそこにペコリーヌさまが囚われているはずでございます。=Theo thông tin thu thập được từ trước, Pecorine-sama chắc chắn đang bị giam giữ ở dưới đó.
+こちらに協力してくださっている、\nネネカさまとやらが情報を提供してくださって助かりました。\nさもなくば、『王宮』内部を右往左往することになったでしょう。=Thật may vì Neneka-sama – người đang hợp tác với chúng ta – đã cung cấp thông tin hữu ích này. Nếu không thì có lẽ tụi mình đã phải chạy ngược chạy xuôi quanh "Vương cung" rồi.
+『王宮』地下監獄は政治犯などが収容されている、\n警備が厳重で脱獄もほぼ不可能な牢屋……という話でございます。=Hầm ngục "Vương cung" là nơi giam giữ các tù nhân chính trị và những thành phần tương tự. Nghe nói đây là nhà ngục được canh phòng cẩn mật và gần như bất khả xâm phạm để vượt ngục...
+監獄に辿りついても、\nペコリーヌさまを牢屋から出すのに手間取りそうですね。\nとりあえず看守がいれば倒して鍵を奪おう、と考えておりますけど。=Dù có đến được nhà ngục đi chăng nữa, thì việc đưa Pecorine-sama ra khỏi phòng giam có lẽ cũng sẽ tốn khối công sức đây. Em đang tính nếu có quản ngục ở đó thì sẽ hạ gục họ để cướp chìa khóa.
+看守が不在、または鍵などが入手できなかった場合は……\n主さまの能力で、わたくしを限界まで強化してくださいまし。\nやや乱暴ですが、力ずくで牢を破ります。=Trường hợp không có quản ngục, hoặc không lấy được chìa khóa thì... xin hãy dùng năng lực của Chủ nhân để cường hóa em đến giới hạn nhé. Tuy có hơi bạo lực một chút, nhưng em sẽ dùng vũ lực để phá nát nhà ngục luôn.
+あまり分の良い賭けではないかと思いますが、\n他に方策もございません。=Dù đây không phải là một canh bạc sáng cửa cho lắm, nhưng chúng ta cũng chẳng còn phương án nào khác.
+何にせよ、早めに牢屋に辿りつく必要が……ひっ！？=Dù sao đi nữa, chúng ta phải nhanh chóng đến được phòng giam... hức!?
+警戒してくだいまし、主さま。\n地下に降りる階段の正面に、\n見るからに強そうなかたが陣取っておられます。=Xin hãy cảnh giác cao độ, Chủ nhân. Ngay chính diện cầu thang đi xuống tầng ngầm, có một người trông có vẻ cực kỳ mạnh mẽ đang trấn giữ ở đó.
+……あのかたが、牢屋に至るための最後の難関でしょうね。=...Có lẽ vị đó chính là thử thách khó khăn cuối cùng để tiến đến phòng giam.
+……ふぁ？\nえぇっと、主さまのお知りあいのかたですか？=...Hả? Ờm... Đây là người quen của Chủ nhân sao ạ?
+本当に顔が広いのですね、主さま。\nしかしまぁ、たいへん結構でございます。=Chủ nhân thực sự quen biết rộng rãi thật đấy ạ. Nhưng mà thế thì lại tốt quá đi mất.
+お知りあいのかたなら、\n事情を説明すれば退いていただけるかもしれません。=Nếu là người quen của Chủ nhân, biết đâu khi giải thích đầu đuôi sự tình thì họ sẽ chịu nhường bước.
+……そこに誰かいるな？=...Ở đó có ai phải không?
+……えっ？\nできるだけ気配を消して隠れながら移動していたのに、\nこの距離から察知されました！　勘の鋭いかたですね？=...Ể? Rõ ràng là mình đã cố gắng che giấu khí tức và di chuyển ẩn nấp hết mức có thể rồi mà vẫn bị phát hiện ra từ khoảng cách này ư! Quả là một người có trực giác nhạy bén sắc sảo nhỉ?
+どうしましょう？\n主さまのお知りあいなら、\n素直に顔を見せて真心をこめて説得したほうが……？=Chúng ta nên làm gì đây? Nếu là người quen của Chủ nhân, hay là cứ đường đường chính chính lộ mặt rồi dùng sự chân thành để thuyết phục nhỉ...?
+侵入者か。\n仕方ないな、看守は私の本業ではないんだが。=Kẻ đột nhập ư. Đành chịu vậy, dù làm quản ngục vốn không phải là công việc chính của ta.
+主命により、地下監獄に近づくものはすべて成敗する。\n悪く思わないでほしい、これが仕事だ。=Theo mệnh lệnh của Bệ hạ, tất cả những kẻ bén mảng lại gần hầm ngục đều phải bị trừng trị. Đừng trách ta nhé, đây là công việc phải làm.

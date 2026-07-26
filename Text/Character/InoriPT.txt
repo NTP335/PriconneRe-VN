@@ -11,18 +11,18 @@
 
 ##UB##
 ドラゴンズファントム=Ảo Ảnh Rồng
-目の前の敵１キャラに物理大ダメージを与える。自分が隠密状態の場合、自分の物理攻撃クリティカル時のダメージを中アップさせ、このスキルのダメージがアップし、１ヒットは必ずクリティカルする。さらに、クリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây ra lượng sát thương vật lý lớn lên kẻ địch phía trước. Nếu Inori ở chế độ Ẩn thân, tăng nhẹ sát thương chí mạng vật lý của bản thân, và sát thương vật lý gây ra tăng lên với một đòn đảm bảo chí mạng. Ngoài ra, sát thương chí mạng nhân 4 lần.
+目の前の敵１キャラに物理大ダメージを与える。自分が隠密状態の場合、自分の物理クリティカルダメージを中アップし、ダメージが増加し、１ヒットは必ずクリティカルし、クリティカルダメージは４倍になる。=Gây lượng lớn sát thương vật lý lên một kẻ địch ở phía trước. Nếu bản thân đang ở trạng thái Tàng hình, tăng vừa sát thương bạo kích vật lý của bản thân, gia tăng sát thương kỹ năng này, đảm bảo 1 đòn chí mạng và đòn chí mạng đó sẽ gây sát thương gấp 4 lần thay vì gấp đôi.
 r:"^敵単体に(\d+)の物理ダメージ自分が隠密状態の時、敵単体に(\d+)の物理ダメージ自分が隠密状態の時、自分の物理攻撃クリティカル時のダメージを30％アップ$"=Nếu Inori không ở chế độ Ẩn thân:\n►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu Inori ở chế độ Ẩn thân:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Tăng sát thương chí mạng vật lý của bản thân lên 30% trong 18s.
 
 ##S1##
 シャドウファング=Răng Nanh Bóng Tối
-目の前の敵１キャラに物理中ダメージを与える。自分が隠密状態の場合、自分のＴＰを小回復し、このスキルのダメージがアップし、必ずクリティカルする。さらに、クリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây ra lượng sát thương vật lý trung bình lên kẻ địch phía trước. Nếu Inori ở chế độ Ẩn thân, hồi phục nhẹ TP của bản thân, và sát thương vật lý gây ra tăng lên và luôn chí mạng. Ngoài ra, sát thương chí mạng nhân 4 lần.
-r:"^敵単体に(\d+)の物理ダメージ自分が隠密状態の時、敵単体に(\d+)の物理ダメージ自分が隠密状態の時、自分のＴＰを80回復$"=Thời gian niệm: 0.465\nNếu Inori không ở chế độ Ẩn thân:\n►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu Inori ở chế độ Ẩn thân:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Hồi phục TP của bản thân thêm 80.
+目の前の敵１キャラに物理中ダメージを与える。自分が隠密状態の場合、自分のＴＰを中回復し、ダメージが増加し、さらに追加で物理小ダメージを与える。このスキルのダメージは必ずクリティカルし、クリティカルダメージは４倍になる。=Gây sát thương vật lý trung bình lên một kẻ địch ở phía trước. Nếu bản thân đang ở trạng thái Tàng hình, hồi vừa TP cho bản thân, gia tăng sát thương kỹ năng này và gây thêm một lượng nhỏ sát thương vật lý. Sát thương của kỹ năng này luôn chí mạng, và sát thương bạo kích sẽ gấp 4 lần thay vì gấp đôi.
+r:"^敵単体に(\d+)の物理ダメージ自分が隠密状態の時、敵単体に(\d+)の物理ダメージ自分が隠密状態の時、自分のＴＰを80回復$"=Thời gian triển khai: 0.465s.\nNếu Inori không ở chế độ Tàng hình:\n►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu Inori đang ở chế độ Tàng hình:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Hồi 80 TP cho bản thân.
 
 ##S2##
 ドラゴンズミスト=Sương Mù Rồng
-【隠密】自分を隠密状態にして、行動速度を大アップさせ、物理攻撃力を特大アップし、さらに自分のＴＰを大回復する。=[Ẩn thân] Vào chế độ Ẩn thân. Tăng rất mạnh tốc độ hành động và sát thương vật lý của bản thân, đồng thời cũng hồi phục rất nhiều TP của bản thân.
-r:"^自分を隠密状態にする自分の行動速度アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを350回復$"=Thời gian niệm: 0.465\n►Vào chế độ Ẩn thân.\n►Tăng tốc độ hành động của bản thân lên 200% trong 18s.\n►Tăng sát thương vật lý của bản thân lên $1 trong 18s.\n►Hồi phục TP của bản thân thêm 350.
+【隠密】自分を隠密状態にし、行動速度を大アップ、物理攻撃力を特大アップ、ＴＰを大回復する。=[Tàng hình] Đưa bản thân vào trạng thái Tàng hình, tăng mạnh tốc độ hành động, tăng cực lớn tấn công vật lý và hồi nhiều TP cho bản thân.
+r:"^自分を隠密状態にする自分の行動速度100％アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを350回復$"=Thời gian triển khai: 0.465s.\n►Vào trạng thái Tàng hình.\n►Tăng 100% tốc độ hành động trong 18s.\n►Tăng $1 P.ATK cho bản thân trong 18s.\n►Hồi 350 TP cho bản thân.
 
 ##EX##
 いただくですよ！=Ta Sẽ Lấy Đi!
@@ -31,7 +31,7 @@ r:"^自分を隠密状態にする自分の行動速度アップ自分の物理�
 ##S1+##
 シャドウファング+=Răng Nanh Bóng Tối+
 目の前の敵１キャラに物理中ダメージを与える。自分が隠密状態の場合、自分のＴＰを中回復し、このスキルのダメージがアップし、追加で物理小ダメージを与える。さらに、このスキルのダメージが必ずクリティカルし、クリティカルした場合のダメージは、２倍ではなく４倍になる。=Gây ra lượng sát thương vật lý trung bình lên kẻ địch phía trước. Nếu Inori ở chế độ Ẩn thân, hồi phục nhẹ TP của bản thân, và sát thương vật lý gây ra tăng lên và luôn chí mạng, đồng thời còn gây thêm một lần sát thương vật lý nữa lên kẻ địch. Ngoài ra, sát thương chí mạng nhân 4 lần.
-r:"^敵単体に(\d+)の物理ダメージ自分が隠密状態の時、敵単体に(\d+)の物理ダメージ自分が隠密状態の時、敵単体に(\d+)の物理ダメージ自分が隠密状態の時、自分のＴＰを150回復$"=Thời gian niệm: 0.465\nNếu Inori không ở chế độ Ẩn thân:\n►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu Inori ở chế độ Ẩn thân:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Hồi phục TP của bản thân thêm 150.
+r:"^敵単体に(\d+)の物理ダメージ自分が隠密状態の時、敵単体に(\d+)の物理ダメージ自分が隠密状態の時、敵単体に(\d+)の物理ダメージ自分が隠密状態の時、自分のＴＰを150回復$"=Thời gian niệm: 0.465s.\nNếu Inori không ở chế độ Ẩn thân:\n►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu Inori ở chế độ Ẩn thân:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Hồi phục TP của bản thân thêm 150.
 
 ##UE##
 インビジブルドラゴン=Rồng Vô Hình

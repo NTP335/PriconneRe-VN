@@ -1,0 +1,54 @@
+Name
+クレープ屋=Tiệm bánh crepe
+
+Story
+ペコリーヌ救出作戦の決行日、お祭りで賑わう街を歩く{playername}とコッコ\nロは、珍妙な合言葉を口にしてクレープ屋に扮したシズルと合流するので\nあった。=Vào ngày thực hiện chiến dịch giải cứu Pecorine, {playername} và Kokkoro bước đi giữa thành phố rộn ràng tiếng cười của lễ hội, rồi hội ngộ với Shizuru trong cải trang thành người bán bánh crepe sau khi thốt ra câu mật khẩu kỳ quặc.
+
+それから時は流れ、ペコリーヌ救出作戦の決行日となった。\nランドソルの町では予定どおり、盛大なお祭りが開催されている。=Thời gian cứ thế trôi đi, và cuối cùng cũng đến ngày thực hiện chiến dịch giải cứu Pecorine. Đúng như dự kiến, một lễ hội rình rang đang được tổ chức tại thị trấn Landosol.
+ふむ……予想はしておりましたが、\n凄まじいとしか形容できない人混みでございますね。\nはぐれないように手、繋ぎましょう、主さま。=Hừm... Dù em đã lường trước được, nhưng biển người ở đây chỉ có thể dùng từ khủng khiếp để hình dung thôi ạ. Nắm tay nhau để không bị lạc nhé, Chủ nhân.
+ふふ。迷子になったら大変でございますからね……\nペコリーヌさまを無事に救出するための大一番です、\nすこしの手抜かりも許されません。=Fufu. Vì nếu đi lạc thì rắc rối to lắm... Đây là trận đại chiến để giải cứu Pecorine-sama một cách an toàn, nên chúng ta không được phép lơ đễnh dù chỉ một chút.
+
+わかってる。=Anh hiểu mà.
+はい。\nただ、緊張しすぎても宜しくはありません。=Vâng. Chỉ có điều, căng thẳng quá mức cũng không tốt đâu ạ.
+挙動不審にして変に目立ってしまうと、\n警備をしている【王宮騎士団（NIGHTMARE）】の方々に\n目をつけられる可能性もございますから。=Nếu có những cử động đáng ngờ và gây chú ý một cách kỳ lạ, chúng ta có thể sẽ lọt vào tầm ngắm của các thành viên thuộc 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 đang làm nhiệm vụ tuần tra đấy ạ.
+なので可能なかぎり自然体で、\nのんびりお祭りを楽しんでいるっぽく振る舞いましょう。=Thế nên, chúng ta hãy cố gắng thả lỏng tự nhiên nhất có thể, cư xử sao cho giống như đang thong thả thưởng thức lễ hội nhé.
+すこしぐらい楽しみたくもあるけど。=Anh cũng muốn tận hưởng một chút đấy chứ.
+はい。わたくしも主さまと、\nこのようなお祭りを仲良く楽しめたらどんなに幸せでしょうか……\nなどと夢想します。=Vâng. Em cũng thầm mơ mộng rằng... nếu mình cùng Chủ nhân vui vẻ tận hưởng một lễ hội thế này thì sẽ hạnh phúc biết bao...
+けれど。\nすべては、ペコリーヌさまを救いだしてからでございます。=Thế nhưng. Tất cả những điều đó chỉ được thực hiện sau khi chúng ta giải cứu được Pecorine-sama thôi.
+お祭りは五日間、行われるようなので……\n万事、上首尾に片付いた後にでもお祭りを楽しむ機会もあるでしょう。=Lễ hội hình như diễn ra trong năm ngày lận... Nên sau khi mọi việc đã được giải quyết suôn sẻ đầu đuôi, chắc chắn chúng ta vẫn sẽ có cơ hội tận hưởng lễ hội mà.
+その際はペコリーヌさまと、できればキャルさまも一緒に……\n【美食殿】勢揃いで、たっぷり満喫したいものでございますね。=Lúc đó, em rất muốn cùng Pecorine-sama, và nếu được thì cả Kyaru-sama nữa... đầy đủ thành viên 【Mỹ Thực Điện】 cùng nhau thưởng thức thật trọn vẹn.
+そんな希望を抱くことぐらい、許されるべきではないかと思います。=Em nghĩ rằng việc ôm ấp một hy vọng nhỏ nhoi như vậy hoàn toàn là điều có thể chấp nhận được mà.
+
+あっ……\nあの屋台をご覧ください、主さま。=Á... Xin hãy nhìn hàng quán kia đi, Chủ nhân.
+クレープを売っております。\nともに作戦を決行する【ラビリンス】の方々とは、\nクレープの屋台で落ち合う約束でございましたね？=Họ đang bán bánh crepe kìa. Chẳng phải chúng ta đã hẹn gặp những thành viên thuộc 【Labyrinth】 – những người cùng thực hiện chiến dịch – tại một quán bán bánh crepe hay sao ạ?
+指名手配されているあの方々は追っ手の目を誤魔化しつつ、\nこまめに場所を変えながら移動しているようですし……\n具体的な、正確な現在の位置はわかりませんけど。=Những người đang bị truy nã đó có vẻ như vừa đánh lạc hướng kẻ địch vừa liên tục di chuyển đổi địa điểm... nên em cũng không rõ vị trí hiện tại cụ thể và chính xác của họ ở đâu.
+クレープの屋台にて、\n合い言葉を口にすることで合流できる手筈になっております。\n事前に、わたくしの使い鴉による伝言でそう連絡を受けております。=Theo kế hoạch, chúng ta sẽ hội ngộ bằng cách đọc mật khẩu tại quầy bánh crepe. Em đã nhận được thông báo đó trước thông qua lời nhắn của chú quạ đưa thư nhà em rồi ạ.
+やや手間ですし、下手をすれば\nなかなか合流できず時間を浪費する結果になりそうで不安でしたが。\nもしかしたら、あっさり目論見が果たせるかもしれません。=Dù hơi phiền phức một chút, và em đã lo lắng rằng nhỡ đâu không thể hội ngộ suôn sẻ rồi lại tốn thời gian vô ích... nhưng biết đâu chừng chúng ta lại hoàn thành mục đích một cách nhanh gọn lẹ cũng nên.
+不自然でない程度に、\n急いであの屋台へ向かいましょう……主さま。=Chúng ta hãy mau chóng tiến về phía hàng quán đó một cách tự nhiên nhất có thể nhé... Chủ nhân.
+えぇっと、ごめんください。=Ừm, xin lỗi cho hỏi...
+おや？ 屋台でクレープを売ってるかた、\n見知った【ラビリンス】のかたではない……ような？=Ủa? Người đang bán bánh crepe ở quầy kia, hình như... không phải là thành viên quen thuộc của 【Labyrinth】 thì phải?
+あのかたたちとは、そこまで親しいわけでもございませんし。\nちょっと確信が持てませんね……\nもしかしたら、まったく無関係な屋台かもしれません。=Bọn mình cũng không đến mức quá thân thiết với họ cho lắm, nên mình cũng hơi thiếu chắc chắn... Không chừng đây hoàn toàn chỉ là một hàng quán không liên quan gì hết.
+念のため、合い言葉を言ってみましょう。=Để cho chắc ăn, chúng ta cứ thử đọc mật khẩu xem sao nhé.
+あのう、すみません。\nニンニクニンニクアブラアブラマシマシ……という、\nクレープをいただけますか？=Dạ, xin lỗi cho em hỏi... Cho em xin một chiếc bánh crepe... tỏi tỏi mỡ mỡ thêm nhiều nhiều được không ạ?
+あっ、良かった！\nちゃんと合い言葉を口にしてくれた～♪=Á, may quá! Bé đã đọc đúng mật khẩu rồi nè~♪
+待ってたよ！\nんもう……お祭りだからってみんなお財布の紐をゆるめてるのか、\n朝から無駄にお客さんが入れ食い状態でね？=Chị chờ mãi đấy! Chà chà... Không biết có phải vì là ngày hội nên mọi người thả lỏng hầu bao hay không, mà khách cứ nườm nượp kéo đến từ sáng đến giờ đông nghịt luôn ấy chứ?
+息つく間もなくクレープ焼きまくりトッピングしまくりで、\nめちゃくちゃ大変だったよ～！=Chị bận tối mặt tối mũi nướng bánh rồi phủ topping không kịp thở luôn, cực kinh khủng luôn nè~！
+でも、{playername}くんの顔を見たら元気でた！\nお姉ちゃんパワー充填完了～☆=Nhưng mà vừa nhìn thấy khuôn mặt của {playername} là chị lại thấy tràn đầy sinh lực ngay! Đã nạp đầy năng lượng chị gái rồi nha~☆
+あっ……\nあのう、【ラビリンス】のシズルさまですよね？\nいつもと服装などがちがっていたので、一瞬わかりませんでした。=Á... Dạ, có phải Shizuru-sama của nhóm 【Labyrinth】 đó không ạ? Vì trang phục khác với thường ngày nên chớp mắt em suýt không nhận ra luôn đấy ạ.
+おぉっと、その名前は出さないでね？\n私たち、指名手配されてるから……しぃ～♪=Ố là la, đừng có gọi to cái tên đó lên chứ nhé? Bọn chị đang bị truy nã cơ mà... suỵt~♪
+えへへ。こんな見た目で驚いたでしょ、\nちょっと変装してるんだ。=Ehehe. Bất ngờ lắm đúng không với bộ dạng này nè, chị đang hóa trang một chút đấy.
+私なんか敵に顔バレしてるし、\nいつもと同じ格好でうろついてたら一発でアウトだからね？=Mặt của chị đã bị kẻ địch nhận dạng hết rồi, mà cứ lang thang với cái bộ dạng thường ngày thì tèo ngay trong một nốt nhạc chứ đùa à?
+はぁ、成る程…… \nたしかに仰るとおり、変装などの必要はあるでしょうね。=Haa, ra là vậy... Quả thực đúng như chị nói, việc hóa trang là hoàn toàn cần thiết rồi.
+うん。秘密結社っぽいでしょ～♪\n私たちが保護してるマサキってひと、覚えてる？\nあのひとが変装とか得意でね、いろいろ教えてもらっちゃった。=Đúng chứ. Nghe ra rất ra dáng một hội kín đúng không nào~♪ Bé có nhớ người tên Masaki mà bọn chị đang bảo vệ không? Anh ta rất giỏi mấy khoản hóa trang này nọ, nên chị đã được anh ấy chỉ dạy cho khối thứ luôn đấy.
+あと、ネネカってひとが開発したっていう秘薬も借りたんだけど。\nそれを使うと、雰囲気とかまでガラッと変えられるんだ。=Thêm nữa, chị cũng có mượn một loại bí dược do người tên Neneka phát triển nữa cơ. Dùng nó vào là có thể thay đổi hoàn toàn cả bầu không khí luôn ấy chứ.
+今もそれを使ってるから、すぐに私だって気づかなかったでしょ？\n触られたりすると秘薬の効果が消えちゃうから、\nなるべくスキンシップは遠慮してね～？=Bây giờ chị vẫn đang dùng nó đấy, nên bé mới không nhận ra ngay là chị đúng không nào? Bị chạm vào là hiệu ứng của bí dược sẽ biến mất tiêu luôn, thế nên bé ráng hạn chế đụng chạm thân mật chút nha~?
+{playername}くんを抱きしめたいけど、\nお姉ちゃんも必死に我慢してる。=Chị rất muốn ôm chầm lấy {playername} lắm chứ bộ, nhưng chị đành phải cố gắng kìm nén lại đấy.
+私以外にも、他の【ラビリンス】のメンバーやノウェムちゃんたち……\nみんなが変装したりしてお祭り会場のあちこちに潜伏しつつ、\n決起の瞬間を待ってるんだ。=Ngoài chị ra thì các thành viên khác của 【Labyrinth】 hay Novem-chan và mọi người nữa... ai nấy đều hóa trang rồi ẩn nấp khắp mọi ngóc ngách trong khu vực lễ hội để chờ đợi thời cơ hành động đấy.
+合図と同時に、『王宮』へ突入する手筈になってるから……\n{playername}くんたちは、\nそのときまでこの屋台の裏とかで休んでていいよ？=Bọn chị đã lên kế hoạch đột nhập vào "Vương cung" ngay khi có hiệu lệnh... nên {playername}-kun cứ nghỉ ngơi ở phía sau quầy hàng này cho đến lúc đó đi nhé?
+すみませ～ん、クレープください！\nイチゴ味の！=Xin ch-o một cái bánh kếp crepe với ạ! Vị dâu nhé!
+あっ、うん！\nイチゴ味だねっ、任せて！=Á, ừm! Vị dâu hả, cứ để chị lo!
+うひいっ……\nほんとにかつてない大盛況だよ～、\nマスターが見たら大喜びしてただろうなぁ？=Hú hì... Quả thật là đông khách chưa từng thấy luôn á trời~, nếu Master mà thấy cảnh này chắc là mừng quýnh lên cho mà xem?
+あのう。何やらとても忙しそうですし、\n待っているだけでは暇なので……\n良かったら、屋台のお手伝いをしましょうか？=Dạ. Trông có vẻ như chị đang rất bận rộn, mà đứng chờ không thì cũng buồn chán quá... Nếu không phiền, để em phụ một tay quản lý quầy hàng này cùng chị nhé?
+あっ助かる！\n良い子だねっ、お姉ちゃんが褒めてあげる～……よしよし♪=Á, cứu tinh đây rồi! Bé ngoan quá đi, để chị thưởng cho nào~... giỏi lắm giỏi lắm ♪
+ふふ。コッコロちゃん、\nいつも{playername}くんの世話をしてくれてありがとうね。\n話には聞いてたけど、無事に退院もできたみたいで安心したよ。=Fufu. Kokkoro-chan này, cảm ơn em lúc nào cũng chăm sóc cho {playername}-kun nha. Chị cũng có nghe kể lại rồi, thấy em xuất viện bình an là chị yên tâm lắm luôn á.
+今日は過酷な一日になりそうだけど、お互いがんばろうっ♪=Hôm nay có vẻ sẽ là một ngày đầy cam go đấy, nhưng chúng ta cùng cố gắng lên nào♪

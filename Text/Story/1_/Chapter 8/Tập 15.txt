@@ -38,9 +38,9 @@
 よぉし、近くにいる魔物は軒並みブッ倒してやったぜ！\nどんなもんだコラァ！=Được rồi, lũ ma vật ở gần đây đã bị ta đánh cho tơi tả hết cả rồi!\nThấy bản lĩnh của ta thế nào hả lũ kia!
 今が好機！\nペコリーヌさん、戻ってくるといい！\n一緒に脱出するぞ！=Cơ hội tới rồi!\nPecorine, hãy quay trở lại đây mau!\nChúng ta cùng nhau rút lui thôi!
 ……すみません！\nもうすこしで、キャルちゃんに手が届くんです！=……Tôi xin lỗi!\nChỉ một chút nữa thôi là tôi có thể chạm tới Kyaru-chan rồi!
-……ここまで接近されるとは予想外ですが。\nあたしは国王陛下の代理人です、あまり侮らないでほしいですね。=……Việc cô có thể tiếp cận đến khoảng cách gần thế này đúng là ngoài dự kiến của tôi.\nNhưng tôi là người đại diện của Bệ hạ, mong cô đừng coi thường tôi quá mức như vậy.
+……ここまで接近されるとは予想外ですが。\nあたしは国王陛下の代理人です、あまり侮らないでほしいですね。=……Việc cô có thể tiếp cận đến khoảng cách gần thế này đúng là ngoài dự kiến của ta.\nNhưng ta là người đại diện của Bệ hạ, mong cô đừng coi thường ta quá mức như vậy.
 死になさい、賊徒。\nあたしの魔法で消し炭にしてやりましょう。=Hãy đền mạng đi, tên nghịch tặc.\nTa sẽ dùng ma pháp của mình thiêu rụi ngươi thành tro bụi.
-ぐっ……！？\nキャルちゃん、お願いだから正気に戻ってください！=Hự……!?\nKyaru-chan, tớ xin cậu đấy, hãy tỉnh táo lại đi mà!
+ぐっ……！？\nキャルちゃん、お願いだから正気に戻ってください！=Hự……!?\nKyaru-chan, chị xin em đấy, hãy tỉnh táo lại đi mà!
 むっ、この距離でかわしますか？\nですが、すべては避けきれませんよ……！=Hử, né được ở khoảng cách gần thế này sao?\nNhưng cô không thể né được toàn bộ đâu……!
 
 死ね！　反逆者ども=Hãy chết đi! Lũ phản loạn!
@@ -56,7 +56,7 @@
 あたしに触れるなあ=Đừng có chạm vào người ta!
 この仮面が…！=Chiếc mặt nạ này…!
 う…=Ư…
-キャルちゃん！　わたしです、分かりますか？=Kyaru-chan! Là tớ đây, cậu có nhận ra tớ không?
+キャルちゃん！　わたしです、分かりますか？=Kyaru-chan! Là chị đây, em có nhận ra chị không?
 ペコ…リーヌ=Peco…rine
 よかったぁ=May quá đi mất.
 またの名をユースティアナ・フォン・アストライア=Với cái danh xưng khác là Eustiana von Astrea.
@@ -68,8 +68,8 @@
 オマエたち！\nもう限界だっ、可哀想だがティアナのことはもう諦めろ！\nオマエたちまでやられるぞっ、一緒にこい……！=Mọi người ơi!\nĐã đến giới hạn rồi, tuy rất đáng thương nhưng đành phải bỏ cuộc chuyện của Tiana thôi!\nCứ thế này thì ngay cả các người cũng sẽ bị vạ lây đấy, mau đi theo ta……!
 ぐずぐずしていると、本当に全滅する！=Cứ chần chừ do dự ở đây là tất cả sẽ bị quét sạch thật đấy!
 でも……\nけれどっ、ペコリーヌさまが！=Nhưng mà……\nDẫu vậy thì, tiểu thư Pecorine vẫn đang ở đó!
-……残念でしたね。\n何のつもりかはわかりませんが、\nこの仮面は単なる魔力の増幅器ですよ？=……Thật đáng tiếc cho cô nhé.\nTôi không biết cô đang mưu tính cái gì, \nnhưng chiếc mặt nạ này chỉ đơn thuần là một thiết bị khuếch đại ma lực mà thôi?
-たとえ取り外されても、\nわたし自身の魔力で攻撃魔法ぐらいなら放てます。=Cho dù có bị giật mất đi chăng nữa, \nthì chỉ riêng ma lực bản thân tôi cũng đủ để thi triển ma pháp tấn công rồi.
+……残念でしたね。\n何のつもりかはわかりませんが、\nこの仮面は単なる魔力の増幅器ですよ？=……Thật đáng tiếc cho cô nhé.\nTa không biết cô đang mưu tính cái gì, \nnhưng chiếc mặt nạ này chỉ đơn thuần là một thiết bị khuếch đại ma lực mà thôi?
+たとえ取り外されても、\nわたし自身の魔力で攻撃魔法ぐらいなら放てます。=Cho dù có bị giật mất đi chăng nữa, \nthì chỉ riêng ma lực bản thân ta cũng đủ để thi triển ma pháp tấn công rồi.
 標的一名、確保。\n拘束し、王宮地下監獄まで搬送してください。=Đã bắt giữ được một mục tiêu.\nHãy trói ả lại, rồi áp giải ngay về ngục tối dưới lòng đất của hoàng cung.
 残りも、さっさと捕らえましょう。\n絶対に逃がしません、無知蒙昧なる逆賊ども。=Những kẻ còn lại, mau chóng bắt hết lại cho ta.\nTa tuyệt đối không để một ai trốn thoát đâu, lũ nghịch tặc ngu muội vô tri kia.
 あぁ、陛下……\nこの世界から膿を取り除き、害虫どもを虱潰しにして、\nあなたの権勢を盤石なものとしましょう。=Ôi, Bệ hạ……\nThần sẽ loại bỏ sạch những vết mủ hoại tử khỏi thế giới này, lùng sục tiêu diệt tận gốc lũ sâu bọ cản đường, \nđể củng cố vương quyền của người trở nên vững chắc như bàn thạch.

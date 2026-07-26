@@ -98,7 +98,7 @@ r:"^\[3C404E\]リタイアするとクエスト報酬を獲得できず、\nス�
 スタミナ回復回数に応じて、スタミナ回復１回あたりの\nジュエルの必要数が異なります。詳細は下記をご覧ください。=Tùy thuộc vào số lần nạp thể lực đã thực hiện, chi phí Jewel cho mỗi lần nạp có thể khác nhau.\nXem chi tiết bên dưới.
 スタミナ回復すると、スタミナ上限を超えてしまうため回復できません。=Không thể phục hồi thêm thể lực, bạn đã đạt tối đa.
 [3C404E]スタミナが不足しています。\n回復しますか?[-]=[3C404E]Thể lực không đủ.\nBạn có muốn nạp không? [-]
-
+スタミナが不足しています。\n回復する方法を選択してください。=Bạn đã cạn thể lực.\nVui lòng chọn phương pháp để hồi phục.
 r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\nスタミナを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Sử dụng [FFBB00,CE4F00]$1[-] Jewels \nđể phục hồi [FFBB00,CE4F00]$2[-] Thể lực\n\nLượt nạp còn lại hôm nay: $3[-]
 ----------------------
 New stamina---

@@ -1,7 +1,8 @@
 究極錬成=Tối thượng\nHỗn hợp
 サブステータス=Trạng thái phụ
 錬成されていません。=Chưa hỗn hợp.
-錬成=Hỗn hợp
+錬成=Luyện chế
+カスタム錬成=luyện chế tùy chỉnh
 変換=Chuyển đổi
 EX装備錬成Pt=Điểm hỗn hợp EX Equip
 パラメータを最大値にするスロット=Các ô để tối đa hóa tham số
@@ -65,3 +66,55 @@ EX装備錬成結果反映の確認ダイアログ=Hộp thoại xác nhận K�
 錬成結果を反映する場合に、確認ダイアログを表示するか設定します。=Đặt hiển thị hộp thoại xác nhận khi xem lại kết quả chế tạo.
 錬成スフィアの使用確認ダイアログ=Hộp thoại xác nhận sử dụng Cầu Chế tạo
 錬成スフィアを使用する場合に、確認ダイアログを開きます。=Mở hộp thoại xác nhận khi sử dụng Cầu Chế tạo.
+
+
+
+
+
+
+
+
+
+-------
+条件を満たすサブステータスが抽選された場合は、途中で錬成を停止します。=Quá trình luyện chế sẽ dừng lại sớm nếu nhận được một chỉ số phụ đáp ứng các điều kiện đã chỉ định.
+実行回数=Số lần thực hiện #
+指定した条件で実行回数分、繰り返し錬成します。=Thực hiện luyện chế lặp lại theo số lần đã chỉ định bằng các điều kiện đã chọn.
+条件なし=Không đủ điều kiện
+カスタム錬成設定=Cài đặt luyện chế tùy chỉnh
+サブステータス条件=Điều kiện chỉ số phụ
+グレード条件=Điều kiện cấp độ
+最大消費数=Số lượt sử dụng tối đa
+Sグレード=Cấp S
+Aグレード以上=Cấp A trở lên
+Bグレード以上=Cấp B trở lên
+Cグレード以上=Cấp C trở lên
+[3C404E]サブステータスの評価には D ～ [F374FF,95289F]S[-] グレードがありま\nす。\n\n　[F374FF,95289F]S[-] グレード（最高）\n　[FF5C77,CE0030]A[-] グレード\n　[2DB075,31635C]B[-] グレード\n　[FFBB00,CE4F00]C[-] グレード\n　D グレード（最低）\n\n錬成を実行すると、装備ごとに決められた種類の中からランダムにサブステータスの種類とグレードが抽選されます。[-]=[3C404E]Các chỉ số phụ được đánh giá từ cấp D đến [F374FF,95289F]S[-].\n\n　[F374FF,95289F]Cấp S[-] (Cao nhất)\n　[FF5C77,CE0030]Cấp A[-]\n　[2DB075,31635C]Cấp B[-]\n　[FFBB00,CE4F00]Cấp C[-]\n　Cấp D (Thấp nhất)\n\nKhi thực hiện luyện chế, loại chỉ số phụ và cấp độ sẽ được chọn ngẫu nhiên từ các tùy chọn có sẵn cho món trang bị đó.[-]
+サブステータスのグレードについて=Về cấp độ chỉ số phụ
+カスタム錬成は、指定した種類とグレードの両方の条件を満たすサブステータスが抽選されるまで錬成を繰り返します。\n\n条件を満たすサブステータスが抽選されなかった場合\nは、設定した最大実行回数まで錬成が実行されます。=Luyện chế tùy chỉnh sẽ lặp lại cho đến khi nhận được chỉ số phụ thỏa mãn cả hai điều kiện về loại và cấp độ đã chỉ định.\n\nNếu không có chỉ số phụ nào đáp ứng điều kiện được chọn, quá trình luyện chế sẽ tiếp tục cho đến khi đạt số lần thực hiện tối đa đã cài đặt.
+カスタム錬成について=Về luyện chế tùy chỉnh
+グレードについて=Về cấp độ
+
+1種類選択中=Đang chọn 1 loại
+r:"^(\d+)種類選択中$"=Đang chọn $1 loại
+r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]錬成します。$"=Tiêu hao các vật phẩm sau để thực hiện tối đa [FFBB00,CE4F00]$1[-] lần luyện chế.
+カスタム錬成確認=Xác nhận luyện chế tùy chỉnh
+途中結果=Kết quả trung gian
+消費したアイテム=Vật phẩm đã tiêu hao
+r:"^(\d+)回\[-\]\[3C404E\]錬成を行いました。$"=Đã thực hiện [FFBB00,CE4F00]$1[-][3C404E] lần luyện chế.
+カスタム錬成完了=Hoàn thành luyện chế tùy chỉnh
+カスタム錬成 設定確認=Xác nhận cài đặt luyện chế tùy chỉnh
+選択中のサブステータス=Chỉ số phụ đang chọn
+カスタム錬成 途中結果=Kết quả trung gian luyện chế tùy chỉnh
+カスタム錬成 設定確認=Xác nhận cài đặt luyện chế tùy chỉnh
+選択中のサブステータス=Các chỉ số phụ đã chọn
+カスタム錬成 途中結果=Tiến trình luyện chế tùy chỉnh
+
+一度に実行できる回数の上限です。=Đã đạt đến số lần thực hiện tối đa có thể chạy cùng một lúc.
+
+
+
+錬成結果を破棄して再錬成します。=Hủy kết quả luyện chế hiện tại và tiến hành luyện chế lại.
+前回の錬成結果=Kết quả luyện chế trước
+r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]錬成します。前回の錬成結果を破棄してから再錬成します。$"=Tiêu hao các vật phẩm sau để thực hiện tối đa [FFBB00,CE4F00]$1[-] lần luyện chế.\nKết quả luyện chế trước sẽ bị hủy trước khi tiến hành luyện chế lại.
+カスタム再錬成確認=Xác nhận luyện chế lại tùy chỉnh
+条件を満たすサブステータスが抽選されました。=Đã nhận được chỉ số phụ đáp ứng các điều kiện đã chỉ định.

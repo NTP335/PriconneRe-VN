@@ -16,7 +16,7 @@ r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃クリティカ�
 自分の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、さらにＴＰを小回復する。=Tăng rất mạnh tấn công vật lý và tỷ lệ chí mạng tấn công vật lý của bản thân, và đồng thời hồi nhẹ TP của bản thân. Tất cả hiệu ứng kéo dài 12s.
 自分の物理攻撃力と物理クリティカルを大アップさせ、さらにＴＰを小回復する。=Tăng rất mạnh tấn công vật lý và tỷ lệ chí mạng tấn công vật lý của bản thân, và đồng thời hồi nhẹ TP của bản thân. Tất cả hiệu ứng kéo dài 12s.
 
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＴＰを(\d+)回復$"=►Tăng lực tấn công vật lý (P.ATK) của bản thân lên $1.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân lên $2.\n►Hồi TP cho bản thân $3.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＴＰを180回復$"=►Tăng lực tấn công vật lý (P.ATK) của bản thân lên $1.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân lên $2.\n►Hồi 180 TP cho bản thân.
 
 ##EX##
 光風の天啓=Ánh Sáng và Gió

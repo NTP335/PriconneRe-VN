@@ -1,0 +1,51 @@
+【王宮騎士団（NIGHTMARE）】の包囲網を突破し、【ラビリンス】の別\nのアジトへ逃げ延びた{playername}達。一夜明け、厳しい状況を理解した後、\n打開手段を考えるのだった。=Sau khi vượt qua vòng vây của 【Nightmare】 và trốn thoát đến một căn cứ khác của 【Labyrinth】, {playername} và mọi người đã trải qua một đêm. Sau khi thấu hiểu tình cảnh khắc nghiệt hiện tại, họ bắt đầu suy tính các phương án để xoay chuyển tình thế.
+
+{playername}たちが無事に安全圏……\n【ラビリンス】が築いていた他のアジトまで逃げこんだ、\nその翌日である。=Đó là ngày hôm sau khi {playername} và mọi người thoát được đến nơi an toàn... một căn cứ khác mà 【Labyrinth】 đã xây dựng.
+あの【リトルリリカル】だっけ……\n{playername}の知りあいだっていう子たちは、\n無事にご家族のところまで送り届けてきたぞ。=Cái nhóm 【Little Lyrical】 đó ấy... những đứa trẻ được cho là người quen của {playername}, tôi đã đưa chúng về đến tận tay gia đình an toàn rồi.
+あっ、お帰りなさいノウェムちゃん！\n帰りが遅かったから心配したよぉ、何かあったの？\n大丈夫だった？=A, Novem em về rồi! Em về muộn quá làm chị lo lắm đấy, có chuyện gì xảy ra à? Em không sao chứ?
+うん。\nラジラジが復調してくれたお陰で、空間跳躍が使えたしな。=Ừ. Nhờ có Rajraj đã hồi phục nên đã có thể sử dụng phép nhảy vọt không gian.
+罠を警戒して、\nちょっと遠い場所に瞬間移動してから徒歩で町まで行ったし……\nついでにあちこち調べてきたから、時間がかかっちゃったけど。=Vì cảnh giác với bẫy, tôi đã dịch chuyển tức thời đến một nơi hơi xa rồi đi bộ vào thị trấn... sẵn tiện đi thám thính xung quanh một chút nên mất hơi nhiều thời gian.
+とりあえず、今のところ町の様子に変化はなかったぞ。\nとはいえあれだけ大規模な軍事行動があったんだ、\nみんな何となく不安そうにしてたな。=Tạm thời thì tình hình thị trấn vẫn chưa có gì thay đổi. Nhưng dù sao cũng đã có một cuộc hành quân quy mô lớn như vậy, nên ai nấy trông đều có vẻ bất an.
+そっかぁ……\n今まで平和な時代が長くつづいてたし、\n兵隊さんが大行進してるだけで『何事だ？』って思っちゃうよね。=Ra vậy à... Từ trước đến nay thời bình kéo dài quá lâu rồi, chỉ cần thấy lính tráng diễu hành thôi cũng đủ làm người ta nghĩ "Có chuyện gì thế?" rồi.
+うん。\nそれよりも、{playername}たちの様子はどうだ？=Ừ. Mà chuyện đó khoan đã, {playername} và mọi người thế nào rồi?
+ん～。さすがに昨日あれだけドンパチしたせいで疲れたのか、\nぐっすり熟睡しちゃってたけど……\nさっき目を覚まして、今は朝ご飯を食べてるよ。=Ưm~. Chắc là do hôm qua đánh đấm dữ dội quá nên mệt, họ ngủ say sưa luôn... nhưng mới tỉnh dậy lúc nãy, giờ đang ăn sáng đấy.
+このアジトには食料の備蓄もなかったし、\n貧相な食事になっちゃったけど。=Căn cứ này cũng không có lương thực dự trữ, nên bữa sáng đạm bạc lắm.
+まぁ、急場を凌げればいい。\nううん、とりあえず無事に逃げ延びられただけで御の字だ。=Chà, vượt qua được tình thế khẩn cấp là được rồi. Ừ, tạm thời cứ trốn thoát an toàn được là tốt lắm rồi.
+まだ安心はできないけどね……\n前のアジトもけっこう厳重に存在を隠してたのに、\nあっさり敵に見つかっちゃったし。=Nhưng vẫn chưa thể yên tâm được đâu... Căn cứ trước kia đã che giấu sự tồn tại rất kỹ lưỡng rồi mà còn dễ dàng bị kẻ địch phát hiện ra đấy.
+ここは潜伏先として、うちのマスターが……\n『オブジェクトの変更』でつくった小規模なアジトのひとつだけど。\n前のアジトよりよっぽど、危機管理とか徹底してないし。=Nơi này là một trong những căn cứ nhỏ mà Master của chị đã tạo ra bằng cách "Thay đổi đối tượng" để làm nơi ẩn náu đấy. So với căn cứ trước thì việc quản lý rủi ro chẳng được triệt để gì cả.
+敵がその気になれば、すぐに見つかっちゃうかも。\n居場所を気取られないように、\n今後はこまめに移動しつづけるべきだと思うよ。=Nếu kẻ địch muốn, có khi chúng sẽ tìm ra ngay thôi. Để không bị phát hiện nơi ở, chị nghĩ từ giờ cứ phải di chuyển thường xuyên thôi.
+ほんと、今のアタシたちってテロリストみたいだよな……\nあ～あ、何でこんなことになっちゃったんだか。=Thật sự, bây giờ bọn mình chẳng khác nào khủng bố vậy nhỉ... Haizz, sao mọi chuyện lại ra nông nỗi này cơ chứ.
+あのう……\n朝ご飯、ごちそうさまでございました。=Dạ... Cảm ơn vì bữa sáng ạ.
+あぁ、{playername}たち。\nおはよう。\n昨日は、よく眠れたか？=À, {playername} và mọi người. Chào buổi sáng. Hôm qua có ngủ ngon không?
+
+あんまり眠れなかった。=Tôi không ngủ được nhiều.
+
+そっか……\nまぁ仕方ないよな、昨日あんなことがあったんだし。=Ra vậy à... Chà, cũng không trách được, chuyện hôm qua như thế mà.
+オマエたちの仲間の、ペコリーヌだっけ……\nあいつも敵に捕まっちゃったし。\n心配で、よく眠れなくっても当然だ。=Đồng đội của các cậu, Pecorine phải không nhỉ... Cô ấy cũng bị kẻ địch bắt mất rồi. Lo lắng đến mức không ngủ được cũng là chuyện đương nhiên.
+はい。ペコリーヌさま、大丈夫でしょうか……\n生け捕りが目的のようだったので、\nまだ命はあると思いたいですけど。=Vâng. Không biết Pecorine-sama có sao không nữa... Vì hình như mục đích của chúng là bắt sống, nên em vẫn hy vọng là cô ấy vẫn còn sống.
+酷い目に遭っていそうで、心配です。\n様子のおかしかった、キャルさまのことも非常に気がかりですし。=Em rất lo vì sợ cô ấy bị ngược đãi. Cả Kyaru-sama với thái độ kỳ lạ nữa, em cũng rất bận tâm.
+あぁ、どうしてこのようなことに……\n我らは笑いあいながら食卓を囲む、家族のような関係だったのに。\n今は、ばらばらでございます。=A, sao mọi chuyện lại thành ra thế này... Chúng em đã từng là mối quan hệ như gia đình, cùng nhau vây quanh bàn ăn cười nói vui vẻ. Vậy mà giờ đây, mỗi người một nơi.
+
+はう……\n慰めてくださるのですね、主さま。=Hau... Cảm ơn Chủ nhân đã an ủi em.
+あまり、撫でられるのは好きではないのですけど。\nわたくしは主さまの従者であって、愛玩動物ではございませんので。=Em không thích bị xoa đầu cho lắm, vì em là thuộc hạ của Chủ nhân chứ không phải thú cưng.
+けれど今は、主さまが触れているところから、\n優しい気持ちが染みこんでくるようで……\n何だか、たいへん癒されます。=Nhưng giờ đây, từ nơi Chủ nhân đang chạm vào, em cảm nhận được sự dịu dàng đang thấm dần vào người... Cảm giác này, thật sự rất chữa lành ạ.
+言葉で慰める。=An ủi bằng lời nói.
+……はい。\n弁えております、しょんぼりしている場合ではないと。=...Vâng. Em hiểu rồi, đây không phải lúc để ủ rũ.
+さんざんな状況ではございますが、\nわたくしも主さまも生き延びたのです。\n手を携え、何としてでもこの窮地を乗り越えなくては。=Dù tình thế hiện tại rất tồi tệ, nhưng cả em và Chủ nhân đều còn sống. Chúng ta phải nắm tay nhau, bằng mọi giá vượt qua nghịch cảnh này.
+そして再び、【美食殿】のみんなで仲良く食卓を囲むのです。\nわたくし、そのために努力したいと思います。=Và rồi, chúng ta sẽ lại cùng vây quanh bàn ăn như những thành viên của 【Mỹ Thực Điện】. Em muốn nỗ lực vì mục tiêu đó.
+ふふ。主さまは口べたなのに、\n一生懸命、言葉を尽くしてくださって……\nわたくし、感無量でございます。=Fufu. Chủ nhân không giỏi ăn nói là thế, mà lại cố gắng hết sức để nói những lời đó với em... Em thực sự cảm thấy rất cảm động ạ.
+
+わたくしはどうも、\n自分で思っている以上に弱っているようなので……\n今だけはこのまま、『甘えん坊さん』させてくださいまし。=Có lẽ em yếu đuối hơn em tưởng... nên chỉ lúc này thôi, xin hãy để em được làm "đứa trẻ nũng nịu" như thế này nhé.
+うん。厳しいようだけど、しゃきっとしてくれると嬉しい。\nとりあえず生き延びることはできたけど、\n依然として状況は芳しくない。=Ừ. Dù nghe có vẻ nghiêm túc nhưng chị rất vui nếu em có thể xốc lại tinh thần. Tạm thời chúng ta đã sống sót, nhưng tình hình vẫn không mấy khả quan.
+手をこまねいていたら、押し切られて潰されるぞ。\nどうにか、起死回生の方法を探さないとな。=Nếu cứ đứng nhìn, chúng ta sẽ bị áp đảo và tiêu diệt mất. Phải tìm cách xoay chuyển tình thế thôi.
+はい。心得ております。\n……しかし、どうすれば良いのでしょう？=Vâng, em hiểu rồi. ...Nhưng, chúng ta nên làm gì đây?
+それを今から、みんなで考える。\nオマエらも作戦会議に参加して、知恵を貸してほしい。=Chúng ta sẽ cùng nhau suy nghĩ về điều đó ngay bây giờ. Các em cũng hãy tham gia họp bàn kế hoạch và cho tôi mượn sự thông tuệ của hai người nhé.
+はい。ただ、できれば……\nわたくしたちが厄介になっている、\n【サレンディア救護院】に連絡だけ入れておきたいのですけど。=Vâng. Nhưng, nếu được thì... em muốn gửi liên lạc đến 【Viện Cứu Trợ Sarendia】, nơi chúng em đang tá túc. 
+わたくしたちが帰ってこないので、心配しているでしょうし。=Vì chúng em không về, chắc họ đang lo lắng lắm.
+ん～……今はまだ、やめといたほうがいいかも。\n敵はあらゆる手段を講じてこっちを潰しにきてる、\n普通に町中で犯罪者として指名手配される可能性もある。=Ưm... Bây giờ có lẽ chưa nên đâu. Kẻ địch đang dùng mọi thủ đoạn để tiêu diệt chúng ta, có khả năng chúng ta sẽ bị truy nã như tội phạm trong thị trấn đấy.
+迂闊に誰かと連絡をとったり、\n接触したりしたら巻きこんじゃう可能性がある。=Nếu bất cẩn liên lạc hoặc tiếp xúc với ai đó, có thể sẽ kéo họ vào rắc rối.
+アタシたちは今、国家権力そのもの……\n王宮と敵対してるんだから。=Giờ chúng ta đang đối đầu trực diện với quyền lực quốc gia... đối đầu với Vương cung mà.
+そう、ですよね。\nサレンさまたちの平和な暮らしを、\nわたくしたちのせいで台無しにするのは心苦しいです。=Vâng, đúng nhỉ. Làm đảo lộn cuộc sống bình yên của Saren-sama và mọi người vì chuyện của chúng ta thì thật đáng áy náy.
+まぁ、無事を伝えるだけならいくらでも方法はある。\nこっそり、秘密のメッセージを届けたりしてさ。=Chà, nếu chỉ để thông báo mình vẫn an toàn thì có hàng tá cách. Ví dụ như lén lút gửi đi những thông điệp bí mật chẳng hạn.
+そういうのも含めて、みんなで一緒に考えていこう。=Hãy cùng nhau suy nghĩ về những cách đó nhé.
+生きてるかぎりは負けじゃない。\n諦めなければ、いつか大逆転だってできる。\nそう信じて、今は全力でがんばるしかないよな。=Còn sống là chưa thua. Nếu không từ bỏ, một ngày nào đó chúng ta có thể lật ngược thế cờ. Tin vào điều đó, giờ đây chúng ta chỉ còn cách nỗ lực hết mình thôi.

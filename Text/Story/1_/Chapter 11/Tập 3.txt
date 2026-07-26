@@ -1,0 +1,59 @@
+ジュンと相対する{playername}とコッコロ。厄介な力を先に潰す、とジュンは\nまず{playername}を一撃で昏倒させる。訓練された軍人の手練手管を見せつけ\nられ、コッコロは窮地に陥るのだった。=Đối mặt với Jun, {playername} và Kokkoro nhanh chóng bị ép vào thế khó khi Jun quyết định vô hiệu hóa mối nguy hiểm lớn nhất trước tiên bằng cách đánh ngất {playername} chỉ trong một đòn duy nhất. Chứng kiến thân thủ điêu luyện của một quân nhân đã qua huấn luyện bài bản, Kokkoro rơi ngay vào bước đường cùng.
+
+ひっ、ものすごい殺気でございます……\nたいへんお強そうなかたですし、\nまともに交戦しても勝ち目は薄いような気がいたします。=Hii, sát khí dâng trào kinh khủng quá... Trông vị đó cực kỳ mạnh mẽ, mình có cảm giác dù có giao chiến chính diện đi chăng nữa thì phần thắng cũng rất mong manh.
+あぁ、気圧されてしまっております……\nあのかたは主さまのお知りあいということですし、\n素直に顔を見せて心をこめて説得したほうが良さそうに思えます。=A, mình đang bị át vía mất rồi... Vị đó lại là người quen của Chủ nhân nữa, nên có lẽ cứ đường đường chính chính lộ mặt rồi dùng sự chân thành để thuyết phục sẽ tốt hơn đấy ạ.
+隠れていないで、出てきて欲しいな。\nあんまり細かい作業は得意じゃないし、\nできれば正々堂々……真っ向から立ち会いたい。=Đừng có trốn tránh nữa, mau ra đây đi nào. Ta vốn không giỏi mấy việc tỉ mỉ cho lắm, nên nếu được thì muốn đường đường chính chính... đối đầu trực diện cơ.
+まぁ、そちらが礼儀を重んじずに奇襲をしたいなら構わないけど。\nそれならそれで、こちらもお上品には対応しないよ。=Chà, nếu mấy người không màng lễ nghĩa mà muốn đánh úp thì ta cũng chiều thôi. Đã vậy thì bên này cũng sẽ không nề hà khách sáo với mấy người đâu đấy.
+ひぇっ、さらに迫力が増しました！\nあのかたの背丈が、急に巨大になったように感じます！=Hii, áp lực lại càng tăng lên rồi kìa! Mình có cảm giác vóc dáng của vị ấy bỗng chốc trở nên khổng lồ hơn hẳn!
+お、お待ちください！\nわたくしたちは、あなたの敵ではございません！=X-Xin hãy chờ đã! Tụi em không phải là kẻ thù của ngài đâu ạ!
+む？　子供か。\n迷子……ではないよね、たぶん。=Hử? Trẻ con à? Không phải... đi lạc đấy chứ, chắc là thế.
+ううん。たとえ迷子でも、\n面白半分に忍びこんできた悪戯っ子でも関係ない。\n『王宮』に侵入したものは、誰であれ処罰する。=Không. Dù có là đi lạc đi chăng nữa, hay là lũ nhóc nghịch ngợm tò mò lẻn vào đây cho vui đi chăng nữa thì cũng mặc kệ. Kẻ nào xâm nhập vào "Vương cung", bất kể là ai đều sẽ bị trừng phạt.
+陛下が定めた法により、その行為は禁じられている。\nそれを破るものは看過できない、\n軽微とはいえ国家反逆罪にあたるからね。=Theo pháp luật do Bệ hạ ban hành, hành vi đó là hoàn toàn bị nghiêm cấm. Những kẻ dám phá vỡ nó thì không thể làm ngơ được, dẫu có nhẹ đi chăng nữa thì vẫn cấu thành tội phản quốc đấy nhé.
+うんと叱りつけて反省してもらって、おうちに帰ってもらう……\n程度で済ますわけにもいかないんだ。=Không thể nào chỉ xử lý qua loa bằng cách mắng cho một trận tơi bời, bắt hối cải rồi cho về nhà... như vậy được đâu.
+あの……\nそのう、何と説明すればよろしいかわかりかねますけど。\nど、どうしましょう主さま？=Ờm... Ừm thì, em không biết phải giải thích thế nào cho phải phép nữa. P-Phải làm sao đây Chủ nhân ơi?
+
+ジュンさん！　僕です！=Chị Jun! Là em đây mà!
+
+んん？\nあぁ、やっぱり君だったのか……{playername}少年。\n声が聞こえた気がしたんだよ、幻聴だったら良かったのに。=Hửm? A, hóa ra là cậu nhóc... {playername} à. Tôi cứ tưởng mình nghe nhầm cơ đấy, ước gì đó chỉ là ảo thính thì tốt biết mấy.
+残念だな。\n君みたいな良い子を、始末しなくちゃいけないなんて。=Tiếc thật đấy. Lại phải đi thanh trừng một đứa bé ngoan như cậu rồi.
+ひっ、主さまが姿を見せたのに……\nちっともあのかたの殺気が減じませんね？=Hức, Chủ nhân đã lộ diện rồi mà... sao sát khí của vị đó chẳng hề thuyên giảm chút nào thế kia ạ?
+たいていの場合、\n主さまのお知りあいのかたは話せばわかってくれるのですけど。=Thông thường thì những người quen của Chủ nhân chỉ cần nói chuyện là sẽ hiểu ngay cơ mà...
+目論見が外れてしまったでしょうか……\nど、どうしましょう？=Chẳng lẽ dự tính của chúng ta đã lệch làu rồi sao... P-Phải làm sao bây giờ ạ?
+
+必死に説得する。=Cố gắng hết sức để thuyết phục.
+ふむふむ。\n君は大事な友達を助けるために、この『王宮』に侵入したんだね。\n厳重な警備を潜り抜け、命を賭して……おとぎ話の王子さまみたいに。=Hừm hừm. Cậu đã đột nhập vào "Vương cung" này để cứu người bạn quan trọng của mình cơ à. Vượt qua lớp canh gác cẩn mật, đánh đổi cả tính mạng... hệt như hoàng tử trong truyện cổ tích vậy nhỉ.
+感動的な話だね。\n拍手ぐらいするし、涙も流そう。=Đúng là một câu chuyện cảm động thật đấy. Tôi chắc sẽ vỗ tay chúc mừng, thậm chí là rơi lệ luôn ấy chứ.
+でも。\n法を破った君を、同情して見逃してあげるわけにはいかない。=Nhưng mà. Tôi không thể vì đồng cảm mà làm ngơ cho một kẻ đã phá vỡ luật pháp như cậu được đâu.
+申し訳ないとは思うよ。\nでも何度でも言うけど、これが私の仕事だ。\n狼藉者は成敗する、たとえ君でも。=Tôi thấy áy náy lắm chứ. Nhưng tôi phải nhắc lại lần nữa, đây là công việc của tôi. Kẻ nào làm loạn đều phải bị trừng trị, dẫu đó là cậu đi chăng nữa.
+不意打ちを仕掛ける。=Tung đòn đánh úp bất ngờ.
+えっ？　あ、主さま……急に何を？=Ể? Á, Chủ nhân... tự dưng làm gì thế ạ?
+あのお優しい主さまが、問答無用で攻撃を……？=Một vị Chủ nhân hiền lành nhân hậu như thế mà lại ra tay tấn công không thèm nói nhiều ư...?
+……酷いな。\nいきなり、剣で打ちかかってくるなんて。\nまぁこの程度なら、防御をする必要すらないけど。=...Quá đáng thật đấy. Lại đột ngột lao vào vung kiếm thế này cơ chứ. Mà trình độ cỡ này thì đến cả phòng thủ tôi cũng chẳng cần thiết nữa là.
+あと不意打ちするならするで、\nもっとタイミングを見計らったほうがいい。\n今から攻撃するぞ、っていう挙動が見え見えだったよ。=Với lại nếu đã định đánh úp thì nên tính toán thời điểm cho chuẩn xác hơn đi chứ. Động thái ra tay "Tôi sắp tấn công đây này" lộ liễu quá thể đáng luôn kìa.
+それに。\n私も単に突っ立ってるだけの木偶の坊じゃない、反撃もするよ。=Hơn nữa. Tôi đây cũng đâu phải là khúc gỗ chỉ biết đứng đực ra đó một chỗ, tôi cũng sẽ phản công đấy nhé.
+私をこの場からどかしたいなら、\n初太刀から命を奪いにくるべきだった。=Nếu cậu muốn đẩy tôi ra khỏi vị trí này, thì ngay từ nhát kiếm đầu tiên cậu phải nhắm thẳng vào mạng sống của tôi mới đúng.
+今の一撃で、私は完全に臨戦態勢になったよ。\nこれでも、おっとりのんびりしてるんだけど……\n攻撃されてまで身構えないほど、寝惚けてはいない。=Chỉ với cú đánh vừa rồi, tôi đã hoàn toàn bước vào trạng thái chiến đấu rồi đấy. Dù bề ngoài tôi có vẻ chậm chạp thong thả thế thôi... nhưng cũng chẳng đến mức bị tấn công mà ngớ người ra không thèm thủ thế đâu nhé.
+本当に残念だ、少年。\n君は最大にして、最後のチャンスを失った。=Thật sự rất tiếc đấy, cậu nhóc ạ. Cậu đã đánh mất cơ hội lớn nhất và cũng là cơ hội cuối cùng của mình rồi.
+
+どうしても見逃してはくださらないようですね=Có vẻ như ngài nhất quyết không chịu chừa đường sống cho chúng em nhỉ.
+最初からそう言っている=Tôi đã nói điều đó từ đầu rồi mà.
+それでは仕方がございません=Vậy thì đành chịu thôi ạ.
+主さま！　わたくしを強化してくださいまし！=Chủ nhân! Xin hãy cường hóa em cho đi ạ!
+力押しで突破いたします！=Em sẽ dùng vũ lực để phá vây!
+残念だけどそれは無理だ=Đáng tiếc là chuyện đó bất khả thi đấy.
+やはり首を落とすべきだったかな？=Quả nhiên lúc nãy nên chém phăng đầu đi thì hơn nhỉ?
+私もほとほと甘い=Tôi đây cũng quá ư là mềm lòng quá rồi.
+あなた決して許しませんよ！=Em tuyệt đối sẽ không tha thứ cho ngài đâu!
+主さまに危害を加えるものはわたくしが排除いたします！=Kẻ nào dám làm hại Chủ nhân, em sẽ tiêu diệt kẻ đó!
+できるかな？=Làm được không đấy?
+我ら【王宮騎士団（NIGHTMARE）】を=Bọn ta là 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】
+あまり舐めないでほしい=Đừng có mà xem thường bọn ta quá đấy.
+
+ちなみに解説しておくと、\n地下監獄の入口の前に立っている鎧のなかみは空洞だ。=Tiện đây tôi giải thích luôn cho rõ nhé, phần bên trong bộ giáp đang đứng trước cửa hầm ngục thực chất là rỗng tuếch đấy.
+そこに私の音波を受信する秘石を入れてある、\n新しい部下に魔法が得意な子がいてね。=Tôi đã bỏ vào đó một viên bí thạch có khả năng thu nhận sóng âm của tôi, vốn được đưa cho bởi một đứa nhóc mới gia nhập rất có năng khiếu về ma pháp.
+君たちが空っぽの鎧を警戒すればするほど、\nこっそり背後から忍び寄る本物の私に気づきにくくなる。\n騙し討ちみたいで気が咎めるけどね、オクトーくんは性格が悪い。=Càng cảnh giác với bộ giáp trống rỗng đó bao nhiêu, thì tụi em lại càng khó nhận ra được con người thật của tôi đang lén lút lẻn đến từ phía sau bấy nhiêu. Dù làm kiểu đánh lừa thế này khiến tôi hơi chột dạ một chút, nhưng mà tại tính tình tên Octo-kun cũng đâu có tốt lành gì.
+でも効果的だ。\nこれで詰みだよ、もう抵抗しないで大人しく捕縛されてほしい。=Nhưng mà hiệu quả lắm chứ bộ. Thế là cục diện đã an bài rồi đấy, mong em đừng kháng cự nữa mà hãy ngoan ngoãn chịu bị bắt đi thôi.
+いいえ！\nまだ、わたくしは戦えます！=Không ạ! Em vẫn còn có thể chiến đấu tiếp được!
+君では私には勝てないよ、かわい子ちゃん……\n私が{playername}少年の知りあいだとわかったせいかな、\n必死に突っ張って見せてはいるけど殺気を感じない。=Em không thắng được tôi đâu, cô bé xinh xắn à... Chắc là vì biết tôi là người quen của cậu nhóc {playername} nên em mới cố gắng gồng mình tỏ ra kiên cường thế chứ chẳng hề cảm nhận được chút sát ý nào từ em cả.
+君は優しい子だね。\nでも、だからこそ君は私を殺せない。=Em là một đứa trẻ dịu dàng nhỉ. Nhưng cũng chính vì thế mà em không thể ra tay hạ sát tôi được.
+私には勝てない。\nだから、これでもうお終いなんだよ。=Em không thể thắng được tôi đâu. Thế nên, đến đây là kết thúc thật rồi đấy.

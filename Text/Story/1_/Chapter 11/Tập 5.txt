@@ -1,0 +1,62 @@
+昏倒から目覚めた{playername}は、知恵を絞り機転を利かせてジュンを撃破す\nる。【王宮騎士団（NIGHTMARE）】内にいる謎の協力者の助けもあり、\nペコリーヌ救出作戦もいよいよ大詰めである。=Sau khi tỉnh lại từ cú ngất xỉu, {playername} đã vắt óc suy nghĩ và dùng sự cơ trí của mình để đánh bại Jun. Nhờ có sự giúp đỡ từ một đồng minh bí ẩn nằm vùng trong nội bộ 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)}】, chiến dịch giải cứu Pecorine cuối cùng cũng đã tiến đến hồi kết.
+
+うん？　あっ、地下監獄の出入り口……\nジュンさまの背後に主さまがおられます！\nお目覚めになられたのですね、あぁ良かった♪=Hả? Á, lối ra vào hầm ngục... Chủ nhân đang đứng ngay sau lưng Jun-sama kìa! Ngài đã tỉnh lại rồi sao, ôi mừng quá đi♪
+おや？　主さま、何かを狙っておられるような……？\nいったい、何を？=Ồ? Chủ nhân, trông ngài có vẻ như đang ngắm nghía hay nhắm vào điều gì đó thì phải...? Rốt cuộc là ngài định làm gì thế?
+
+仲間を強化する能力を用いる。=Sử dụng năng lực cường hóa.
+むう？　この輝きは……\n{playername}少年、例の能力を使ったな？=Hừm? Ánh sáng này là... Cậu nhóc {playername}, cậu vừa dùng cái năng lực đó đúng không?
+けれど。君たちの戦力はもう壊滅状態だよ、\nどれだけ強化しても意味がない！\n私ひとりだけで充分、対処可能！=Thế nhưng. Sức mạnh chiến đấu của các cậu đã ở trạng thái tiêu điều tơi tả hết rồi, có cường hóa thế nào đi nữa cũng vô ích thôi! Chỉ một mình tôi đây là quá đủ để đối phó rồi!
+でも。どれだけ痛めつけても、\nいちいち強化されて立ち上がってこられると面倒だ……=Nhưng mà. Dù có hành hạ tơi bời đến đâu, mà cứ hễ bị cường hóa lên rồi lại lồm cồm bò dậy thì phiền phức lắm...
+今度こそしばらく起きられない程度に、\n{playername}少年を殴って昏倒させる！=Lần này tôi sẽ đánh cho cậu nhóc {playername} một trận nhừ tử đến mức không thể gượng dậy nổi trong một thời gian luôn!
+あぁ主さまっ、危ない！　お逃げください！\n主さまをやるなら、先にわたくしからやってくださいまし！=Ôi Chủ nhân, nguy hiểm quá! Xin hãy mau trốn đi! Nếu muốn ra tay với Chủ nhân, xin hãy xử lý em trước đã!
+くううっ？　こうなったら、\n無理やりジュンさまの足に縋りついて時を稼ぐしか……？\nその間に、主さまが逃げてくださるのを願って！=Ư hựm...? Nếu tình hình đã thế này, thì chỉ còn cách nhào tới ôm cứng lấy chân Jun-sama để câu giờ thôi sao...? Mong rằng trong khoảng thời gian đó, Chủ nhân có thể kịp thời trốn thoát!
+主さまの性格上、\nわたくしたちを見捨てて逃げることはないでしょうけど……=Xét theo tính cách của Chủ nhân, chắc chắn ngài ấy sẽ không bao giờ bỏ rơi tụi mình mà chạy trốn một mình đâu nhỉ...
+主さまに強化された今なら、\nジュンさまに飛びつけばバランスぐらい崩せるかも？=Nếu được Chủ nhân cường hóa ngay lúc này, có lẽ khi lao vào Jun-sama ít nhiều gì cũng làm cô ấy mất thăng bằng đôi chút nhỉ?
+その隙を突いて、主さまがジュンさまを倒して……あれ？=Chớp lấy sơ hở đó để Chủ nhân hạ gục Jun-sama... Ủa kìa?
+わたくし、\n主さまがときおり放つお優しい光に包まれていません……\nつまり主さまの能力で、強化されていないということでございますね。=Mình... chẳng hề được bao bọc bởi thứ ánh sáng dịu dàng mà Chủ nhân thỉnh thoảng vẫn hay phát ra chút nào cả... Nói cách khác là mình không hề nhận được năng lực cường hóa của Chủ nhân.
+脚力も何もかも強化されていないので、\n主さまのもとへ向かうジュンさまに追いつけません！=Vì năng lực lẫn mọi thứ đều chẳng được cường hóa tí nào, nên mình không sao bắt kịp được Jun-sama đang lao về phía Chủ nhân!
+な、なぜ？\n主さまの能力、不発だったのでしょうか？=T-Tại sao chứ? Chẳng lẽ năng lực của Chủ nhân bị... lép vế không phát tác sao?
+{playername}少年！\n怨みはないけど、正義のために倒れてほしい！=Cậu nhóc {playername}! Tôi chẳng có thù hằn gì với cậu cả, nhưng vì chính nghĩa, mong cậu hãy gục ngã tại đây nhé!
+……と、とと？\nうっひゃあ！？=...H-Hả? Uwaaa!?
+えっ？\nジュンさま、ものすごい勢いで階段を駆け上がって……\nそのまま廊下の壁に激突いたしましたよ？=Ể? Jun-sama vừa lao vút lên cầu thang với một tốc độ khủng khiếp... rồi tông thẳng vào bức tường ngoài hành lang luôn kìa?
+コメディのように……ど、どうして？\nジュンさまは訓練された、\n歴戦の強者という感じでございましたけど？=Trông hệt như trong phim hài ấy... Tại sao lại thế chứ? Chẳng phải Jun-sama là một người dày dặn kinh nghiệm chiến trận, đã qua huấn luyện bài bản lắm cơ mà?
+なぜ、あのようなドジを……？=Sao lại có thể mắc phải cái lỗi ngớ ngẩn thế cơ chứ...?
+あはは、なぁるほど。\n考えましたね、{playername}くん。=Ahaha, ra là thế. Cậu tính toán kỹ phết nhỉ, {playername}-kun.
+{playername}くんは、\nあの鎧のひとを強化したんですよ。={playername} đã cường hóa cho người trong bộ giáp đó đấy.
+急に脚力とかが強化されて、\n思った以上の勢いで床を蹴っちゃって……\n止まれずに、壁に突っこんじゃったんですね。=Đột nhiên năng lực được cường hóa vượt mức, khiến cho đối phương dùng lực đạp sàn mạnh hơn dự tính... thế là không tài nào phanh lại được, cứ thế đâm thẳng vào tường luôn.
+あぁ……\n合点がいきました、\nジュンさまは主さまのお知りあいですものね。=A... Em đã hiểu ra vấn đề rồi. Jun-sama vốn là người quen của Chủ nhân cơ mà.
+主さま的には仲間なのでしょう、\nですから能力が適用されたのでございます。=Đối với Chủ nhân thì chắc chắn ngài ấy xem như đồng đội rồi, thế nên năng lực mới tác dụng lên cô ấy.
+知恵を絞って、己の能力を巧みに用いたのですね……\n成長されましたね主さま、お見事でございます♪=Vắt óc suy nghĩ rồi khéo léo vận dụng chính năng lực của bản thân mình cơ đấy... Chủ nhân đã trưởng thành lên nhiều rồi đấy ạ, thật là xuất sắc quá đi♪
+ジュンの兜を引っぺがす。=Gắng sức giật phăng chiếc mũ giáp của Jun ra.
+えっ？　主さま、急に何を……？\nいけませんよ、あまりみだりに女性の顔に触れては！=Ể? Chủ nhân, tự dưng ngài làm gì thế hả...? Không được đâu ạ, sao lại tùy tiện chạm vào mặt con gái nhà người ta thế chứ!
+あれ？\nジュンさまの動きが、ぴたりと止まりましたね？\nどうして？=Ủa kìa? Hành động của Jun-sama khựng lại hẳn luôn rồi kìa? Tại sao vậy nhỉ?
+ふぇっ、えぇえっ……？=Hé, é ế ế...?
+何というか、今のジュンさまは隙だらけでございますね……\n先ほどまでは、どう足掻いても勝ち目のない難敵に思えたのに。=Phải nói thế nào nhỉ, Jun-sama lúc này trông sơ hở tứ phía luôn ấy... Dù cho ban đầu cứ ngỡ đây là một đối thủ khó nhằn đến mấy cũng chẳng tài nào thắng nổi cơ mà.
+何てことをするんだ、少年！\n酷い！　兜、返して……！=Cậu đang làm cái quái gì thế hả nhóc con! Quá đáng lắm luôn! Trả mũ giáp lại đây cho tôi... mau lên!
+す、素顔を見られると私は、私はっ？=N-Nhìn thấy dung mạo thật của ta thì tôi, tôi sẽ...?!
+おぉ？\n主さまが謝りながらジュンさまに体当たりを！=Ồ? Chủ nhân vừa cúi đầu xin lỗi vừa lao người tông thẳng vào Jun-sama kìa!
+ひゃっ、うひゃあああああ！？=Hya, uwaaaaaaa!?
+うわ……ジュンさま、バランスを崩して階段を転げ落ちましたね？\nだ、大丈夫でしょうか？=Trời... Jun-sama mất thăng bằng rồi lăn nhào xuống cầu thang luôn kìa? L... Liệu ngài ấy có sao không ta?
+おぉ、見事に目を回しておられます。\n成る程、主さまはジュンさまと親しかったがために、\nその弱点も熟知しておられたのですね。=Ồ, quay mòng mòng choáng váng luôn kìa. Ra là thế, vì Chủ nhân vốn rất thân thiết với Jun-sama nên mới nắm rõ như lòng bàn tay điểm yếu của vị đó.
+機転を利かせて、そこを突いたようです。\nお見事でございます、主さま。\nふふ、やや卑劣な気もいたしますけど……♪=Nhanh trí chớp lấy thời cơ để đánh vào điểm yếu đó. Thật là xuất sắc quá đi, Chủ nhân. Fufu, tuy nghe có vẻ hơi tiểu nhân một chút xíu thôi nhưng mà...♪
+
+主さま！\n素晴らしい作戦でございました！=Chủ nhân! Quả là một chiến lược tuyệt vời quá đi mất!
+などと、快勝を祝っている場合ではございませんね……\nちょっと失礼して、\nジュンさまが牢屋の鍵を持っていないか調べます。=...Nhưng mà không phải lúc để tung hô chúc mừng chiến thắng giòn giã này đâu nhỉ... Xin phép thất lễ một chút, em sẽ kiểm tra xem Jun-sama có mang theo chìa khóa phòng giam bên người không đã nhé.
+それでペコリーヌさまを救出し、即座に撤退いたしましょう。\nジュンさまも仰っていましたが、\n先ほどから大勢の足音がいたします。=Sau đó chúng ta sẽ giải cứu Pecorine-sama rồi rút lui ngay lập tức. Đúng như những gì Jun-sama vừa nói, nãy giờ có rất nhiều tiếng bước chân đang kéo đến rồi đấy ạ.
+ジュンさまは格別にお強かったのでしょうけど。\n一般的な警備兵が相手でも、\n多数に取り囲まれたら万事休すでございますから。=Dù Jun-sama có mạnh mẽ đặc biệt đi chăng nữa, nhưng nếu đối đầu với lính canh thông thường mà lại bị số đông bao vây tứ phía thì chúng ta cũng tiêu đời như chơi.
+
+たぶん大丈夫だと思う。=Chắc là ổn thôi mà.
+
+えぇっ、何を根拠に？=Ể, dựa vào đâu mà ngài tự tin thế ạ?
+ふむ、ふむ……\n主さま、やけに素早く目覚められたなと思っておりましたが。\nどなたかが、気絶していた主さまを介抱してくださったのですね。=Hừm, hừm... Em cứ thắc mắc sao Chủ nhân lại tỉnh dậy nhanh đến thế. Hóa ra là có ai đó đã ra tay chăm sóc, cứu giúp Chủ nhân khi ngài đang bất tỉnh đúng không ạ?
+そのかたは【王宮騎士団（NIGHTMARE）】では\nそこそこの地位の持ち主で、\n駆けつけてきた部下に命じてこの場から遠ざけてくださったと？=Người đó mang chức vị khá cao trong hàng ngũ 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 nên đã ra lệnh cho đám thuộc hạ vừa chạy đến phải rời khỏi khu vực này sao?
+たしかに言われてみれば、\n大勢の足音はここから遠ざかっていきますね……=Đúng là ngẫm lại thì tiếng bước chân của đám đông đang dần rời xa nơi này thật...
+不思議でございます。\nいったいどなたが、何のためにそのようなことを？=Lạ thật đấy. Rốt cuộc là ai, và vì mục đích gì mà lại làm thế nhỉ?
+【王宮騎士団（NIGHTMARE）】のかた、と仰いましたね。\nわたくしたちと交流のある、トモさまやマツリさまでしょうか？=Ngài vừa nói là người thuộc 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】 phải không ạ? Liệu có phải là Tomo-sama hay Matsuri-sama – những người từng giao du với chúng ta không nhỉ?
+けれど。あのかたたちだとしても、\nジュンさまと同様に洗脳されていた可能性がございます……\nわたくしたちを助けてくださるわけがない、と思いますけど。=Nhưng mà, dẫu có là các ngài ấy đi chăng nữa thì vẫn có khả năng đã bị tẩy não y như Jun-sama... Nên em nghĩ chắc họ không đời nào lại ra tay giúp đỡ chúng ta đâu.
+それにたしか、\nあの方々はそんなに高い地位の持ち主ではなかったような？=Hơn nữa nếu nhớ không lầm, những vị đó hình như đâu có giữ chức vụ gì cao cho lắm đâu nhỉ?
+あまり家柄が良くないから、\n『王宮』に入ることもできない……はずでは？=Vì gia thế cũng không có gì là hiển hách cho lắm nên làm sao mà bước chân được vào "Vương cung"... phải vậy không nhỉ?
+ふむ。ネネカさまとやらには変身能力があると聞いておりますし、\nあのかたが【王宮騎士団（NIGHTMARE）】のお偉方に化けた……\nとかでしょうか？=Hừm. Em có nghe nói vị gọi là Neneka-sama kia có năng lực biến hình, không lẽ nào vị đó đã hóa thân thành nhân vật tai to mặt lớn trong 【Hiệp Sĩ Hoàng Gia (NIGHTMARE)】... hay sao ấy nhỉ?
+あのかたも囚われの身ですが、\nたしか分身を動かせるのですよね？=Dù vị đó cũng đang bị giam cầm, nhưng hình như vẫn có thể điều khiển phân thân của mình phải không ạ?
+……やや疑問が残りますが、考えるのは後にしましょうか。\nジュンさまが鍵を持っておられました、\nこれで地下監獄の鍵が解錠できるはずでございます。=...Dẫu vẫn còn đôi chút hoài nghi thắc mắc, nhưng cứ để việc đó suy tính sau đi vậy. Jun-sama đang cầm chìa khóa trên người kìa, thế này thì chắc chắn sẽ mở được khóa hầm ngục rồi.
+今お助けしますね、ペコリーヌさま……♪=Em đến giải cứu ngài đây, Pecorine-sama...♪
