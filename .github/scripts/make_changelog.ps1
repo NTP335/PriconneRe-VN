@@ -1,7 +1,6 @@
 $InformationPreference = 'Continue'
 
 function Get-ChangedFiles {
-    # Lấy tag gần nhất để làm mốc so sánh
     $LatestTag = git describe --tags --abbrev=0
     
     # So sánh tag hiện tại với commit ngay trước nó để lấy chính xác danh sách file thay đổi
@@ -21,7 +20,6 @@ function ConvertTo-ChangelogStatus {
         [parameter(ValueFromPipeline)]
         [string] $Status
     )
-    # Trích xuất hành động Git sang từ ngữ tiếng Việt ngắn gọn theo ý bạn
     switch -Wildcard ($Status) {
         "A*" { return "- Thêm " }
         "M*" { return "- Cập Nhật " }
@@ -34,8 +32,6 @@ function Get-ChangelogFileName {
     param (
         [string]$FilePath
     )
-    # Tự động lấy phần tên file và loại bỏ phần đuôi mở rộng (ví dụ: .txt)
-    # Cách này an toàn tuyệt đối cho cả file ở thư mục gốc Text/ lẫn thư mục con Text/Event/
     $FileBaseName = Split-Path $FilePath -LeafBase
     return $FileBaseName
 }
@@ -44,15 +40,13 @@ function Get-ChangelogParentFolder {
     param (
         [string]$FilePath
     )
-    # Nếu file nằm trong thư mục con (ví dụ: Text/Event/Arisa.txt)
     if ($FilePath -match "^Text/[^/]+/.+") {
         $ParentFolder = $FilePath.Split("/")[1]
         
-        # Định dạng chuẩn Title Case (ví dụ: event -> Event)
-        $FormattedFolder = (Get-Culture).TextInfo.ToTitleCase($ParentFolder)
+        # Tự động viết hoa chữ đầu chuẩn mã nguồn (ví dụ: event -> Event, story -> Story)
+        $FormattedFolder = $ParentFolder.Substring(0,1).ToUpper() + $ParentFolder.Substring(1).ToLower()
         return "${FormattedFolder}: "
     }
-    # Nếu file nằm ngay thư mục gốc Text/ thì không cần trả về tên thư mục con
     return ""
 }
 
@@ -74,20 +68,16 @@ function Get-Changelog {
     foreach ($file in $Files) {
         if ([string]::IsNullOrWhiteSpace($file)) { continue }
         
-        # Tách trạng thái Git và đường dẫn file bằng phím Tab (\t)
         $Elements = $file.Split("`t")
         $Status = $Elements[0]
         $FilePath = $Elements[1]
     
-        # Gọi đầy đủ các hàm xử lý thành phần
         $ChangelogStatus = $Status | ConvertTo-ChangelogStatus
-        $ChangelogParent = Get-ChangelogParentFolder $FilePath # <-- Đã thêm bước gọi hàm này của bạn vào đây
+        $ChangelogParent = Get-ChangelogParentFolder $FilePath
         $ChangelogFile = $FilePath | ConvertTo-ChangelogFile
 
-        # Ghép chuỗi hoàn chỉnh đầy đủ danh mục thư mục con
         $ChangelogFull = $ChangelogStatus + $ChangelogParent + $ChangelogFile
         
-        # Lọc bỏ trùng lặp nếu có nhiều file trùng tên được xử lý
         if ($ChangelogFull -notin $Changelog) {
             $null = $Changelog.Add($ChangelogFull)
         }
@@ -97,19 +87,16 @@ function Get-Changelog {
 
 # --- TIẾN TRÌNH XỬ LÝ CHÍNH ---
 $ChangedFiles = Get-ChangedFiles
-
-# Lọc riêng các file thay đổi thuộc phạm vi thư mục Text/ của repo PriconneRe-VN
 $CharacterChanges = Get-Changelog ($ChangedFiles -match "^Text/" )
 
 Write-Output "::group::Final Changelog`n"
 
-# Khởi tạo file RELEASE_NOTE chứa cấu trúc tiêu đề tĩnh theo ảnh mẫu
+# Khởi tạo tiêu đề tĩnh chuẩn theo ảnh
 Set-Content -Path ./RELEASE_NOTE -Value "## Thông Tin Cập Nhật:`r`n"
 
 if ($CharacterChanges) {
     Add-Content -Path ./RELEASE_NOTE -Value $CharacterChanges
 } else {
-    # Nội dung mặc định nếu bản release này không có file Text nào thay đổi
     Add-Content -Path ./RELEASE_NOTE -Value "- Cập nhật hệ thống dữ liệu dịch thuật."
 }
 
