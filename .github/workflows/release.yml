@@ -38,9 +38,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup PowerShell
-        uses: actions/setup-powershell@v1
-
       - name: Generate Changelog Content
         shell: pwsh
         run: |
