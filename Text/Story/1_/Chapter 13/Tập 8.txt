@@ -1,0 +1,57 @@
+Name
+避難民=Người sơ tán
+
+Story
+ランドソルの町では【悪魔偽王国軍（ディアボロス）】が避難民を護るた\nめに奮戦していた。そんな最中、町中に溢れる負の感情の影響でミヤコが\n体調を崩していることが分かり、一行は休息をとることになった。=Giữa lúc các thành viên của 【Quân Đội Ma Vương (Diabolos)】 đang kiên cường chiến đấu để bảo vệ những người tị nạn ở thị trấn Landosol, họ nhận ra Miyako đang đổ bệnh do ảnh hưởng từ những cảm xúc tiêu cực lan tràn khắp chốn, và cả nhóm quyết định dừng chân nghỉ ngơi.
+
+続々とランドソルの人々が町の外へと脱出するなか、\n【悪魔偽王国軍（ディアボロス）】の面々は、\nそんな避難民たちを守るために奮戦していた。=Giữa lúc dòng người dân Landosol liên tục tấp nập tháo chạy ra khỏi thị trấn, các thành viên của 【Quân Đội Ma Vương (Diabolos)】 vẫn đang kiên cường chiến đấu để bảo vệ những người tị nạn ấy.
+ぎゃあああ！\nだ、誰か助けてくれ！=Áaaaa! C-Cứu tôi với, ai cứu tôi với!
+うわぁああん！\nパパ、ママ、どこにいるの～っ！？=Oa aaa! Bố ơi, mẹ ơi, hai người đang ở đâu rồi!?
+アカリ、その子をお願い！=Akari, nhờ em giúp đỡ đứa bé đó nhé!
+うん、お姉ちゃん！\nよしよし、こっちにおいで～？　大丈夫だからねぇ♪=Vâng thưa chị hai! Nào ngoan nào, lại đây với chị nào~? Không sao đâu nha♪
+う、うう？　うええん！=H-Huhu? Uhuhu!
+このぉっ、ちっちゃい子を怖がらせるなぁ！\nどっか行っちゃえ馬鹿ぁ！=Cái lũ nàyy, dám làm cho trẻ con sợ hãi hả! Biến hết đi chỗ khác đi, đồ ngốc!
+はぁ、はぁ！\nもうっ、いったい何なのよもうもうもうっ！=Haa, haa! Trời ạ, rốt cuộc đây là cái quái gì thế không biết nữa!
+あちこち魔物だらけ！\n今は何とかなってるけど、\nこの調子だとあっという間に息切れしちゃうわよ！=Chỗ nào cũng toàn ma vật là ma vật! Hiện tại thì vẫn đang chống đỡ được đấy, nhưng cứ đà này chắc chẳng mấy chốc mà tụi mình thở không ra hơi mất thôi!
+落ちついて、お姉ちゃん……\n余計に疲れちゃうよぉ？\nよしよし、アカリが抱きしめて癒してあげるねぇ♪=Bình tĩnh lại nào, chị hai... Cứ thế này chị sẽ càng mệt lả đi đấy biết không? Nào ngoan ngoan, để Akari ôm chặt sưởi ấm vỗ về cho chị nhé♪
+むぎゅ！　ちょっともう、抱きしめられると動きにくいでしょ！\n子供あつかいするのやめてよねっ、\n同い年だけど私のほうがお姉ちゃんでしょっ？=Á hự! Này chớ, cứ ôm ghì lấy thế này thì sao mà cử động được chứ hả! Đừng có đối xử với chị như trẻ con thế chứ, tuy bằng tuổi nhau nhưng chị mới là chị cơ mà?
+うふふ～♪\nでも、たまにはお姉ちゃんも甘えたい気分になるんじゃない？=Ufufu~♪ Nhưng mà, thỉnh thoảng chị hai cũng có lúc muốn được làm nũng một chút chứ nhỉ?
+……いつも助けてもらってるぶん、たまにはアカリが支えるから。=...Đổi lại việc lúc nào cũng được chị giúp đỡ, thỉnh thoảng để Akari làm chỗ dựa cho chị nha.
+ヨリさん、アカリさん、お疲れさまです。=Yori-san, Akari-san, hai người vất vả rồi ạ.
+この地区に逃げこんできたひとたちの退路を確保できれば、\nとりあえず一安心……\n町の人々の避難は、近いうちに完了すると思います。=Nếu có thể bảo đảm được đường rút lui cho những người chạy trốn vào khu vực này, thì tạm thời có thể thở phào nhẹ nhõm... Chị nghĩ việc sơ tán của người dân trong thị trấn sẽ sớm hoàn tất trong thời gian ngắn tới thôi.
+そ、そうなの？\n良かったぁっ、さすがにもう限界だったわよぉ……？=Th-Thật á? May quá đi mất, chứ không thì sức em chạm ngưỡng giới hạn mất tiêu rồi đây này...?
+ん～みんなが避難した後も、\n町に居座る魔物はできるかぎりやっつけたほうがいいよねぇ。\n町を魔物に占拠されたままだと、みんな帰ってこれなくなっちゃう。=Ừm~ sau khi mọi người đã sơ tán xong hết rồi, thì tốt nhất vẫn nên tiêu diệt càng nhiều ma vật còn lỳ lợm bám trụ trong thị trấn càng tốt nhỉ. Nếu cứ để thị trấn bị ma vật chiếm đóng thế này, mọi người sẽ chẳng thể nào quay về nhà được nữa.
+はい。\nなので、できるかぎり踏ん張りましょう。=Vâng ạ.\nThế nên, chúng ta hãy cố gắng kiên trì bám trụ hết sức có thể nhé.
+おそらく他のギルドも、とくに武闘派の【自警団（カォン）】などは\n町の危機に対処するために動いていると思いますので……\nなるべく協調して動きつつ、ともにこの困難を突破しましょう。=Có lẽ các hội quán khác, đặc biệt là phái võ thuật như 【Đội Tự Vệ (Caon)】 cũng đang hành động để đối phó với nguy hoạ của thị trấn rồi... Nên chúng ta hãy cố gắng phối hợp nhịp nhàng, cùng nhau vượt qua hoạ nạn khó khăn này nhé.
+前代未聞の災厄を、ちからを合わせて乗り越えましょう。\n占いをしている余裕はないので直感で喋っていますが、\nきっと未来に希望はあります。=Hãy cùng nhau hợp sức vượt qua tai ương chưa từng có trong lịch sử này nào. Vì không có thời gian để xem bói nên chị hoàn toàn nói bằng trực giác, nhưng nhất định tương lai vẫn sẽ luôn có hy vọng.
+はぁ……\nさすがにこう過酷な連戦がつづくと、きついですけど。=Hà... Dẫu biết vậy nhưng cứ liên tục chiến đấu ác liệt thế này thì oải lắm chứ bộ.
+大丈夫かシノブ！\nおまえ昔から体力ないんだから、あんまり無理するんじゃねぇぞ？=Con vẫn ổn chứ Shinobu! Từ nhỏ con đã nổi tiếng thể lực kém rồi, đừng có mà cố chấp quá sức đấy nhé?
+よぉし、ここはオレに任せとけ！\nあの双子が教えてくれたっ、\nくたびれた心を癒すのは家族のぬくもりだと！=Được rồi, cứ để đó cho ta lo! Mấy đứa nhóc sinh đôi đó đã dạy cho ta biết rồi, thứ có thể xoa dịu tâm hồn mệt mỏi chính là sự ấm áp của gia đình đấy!
+ほらシノブぅ、パパがたっぷり頬擦りしてやろう……\nすぅりすりすりすり♪=Nào Shinobu ơi, để Papa cọ má cưng nựng con cho thật đã đời nào... Sư... sượt sượt sượt sượt♪
+……仕方ありません。\nこうなったら、私の最終奥義を使いましょう。=...Đành chịu vậy thôi.\nNếu đã đến nước này, con đành phải tung ra tuyệt chiêu tối thượng của mình vậy.
+お父さんのなかにたっぷり魔力を注ぎこんで、\n敵に投げつける～という荒技なのですが。\nこれを使えば、敵とお父さんは死にます。=Đó là một chiêu thức thô bạo bơm đẫm ma lực vào bên trong cơ thể bố, rồi ném thẳng về phía kẻ thù~ ạ. Nếu dùng cách này, cả kẻ địch lẫn bố đều sẽ toi đời.
+え？　冗談だよね、この子ったら目がマジなんだけど！\nうちの優しい愛娘は、そんな腐れ外道みたいな真似をしないよね……？=Hả? Đùa đấy đúng không, ánh mắt con bé lúc này nghiêm túc thật sự luôn kìa! Đứa con gái ngoan hiền yêu quý của ta chắc chắn sẽ không làm mấy trò tồi bại cặn bã kiểu đó đâu nhỉ...?
+ふふ。冗談です。\n場を和ませる、小粋なジョークです。=Fufu. Con đùa đấy ạ.\nChỉ là một câu nói vui dí dỏm để bầu không khí bớt căng thẳng thôi.
+いや、おまえの冗談は何かものすごく怖いんだけど！？=Không, đùa kiểu gì mà nghe rợn tóc gáy thế hả con!?
+これ、おぬしら。\n緊張感を切らすでないぞ、いまだ我らは修羅場におるんじゃ。=Này mấy đứa kia. Đừng có mà lơ là mất cảnh giác đấy, chúng ta vẫn đang ở giữa chiến trường hiểm ác đấy nhé.
+まぁ本来の姿にも戻れず、\nあまり戦力にもなれぬわらわが言うことでもないんじゃが……=Dẫu rằng ta hiện tại vẫn chưa thể trở lại hình dạng nguyên thủy, và chẳng đóng góp được mấy sức chiến lực nên lời để mà nói ra câu này nhưng mà...
+くうっ、不甲斐ないのう。\nすまんのう、おぬしらばかりに戦わせてしまって。=Hừm, vô dụng thật đấy. Xin lỗi mấy đứa nhé, cứ để tụi em phải gồng mình chiến đấu một mình thế này.
+落ちこまないでイリヤ。\nミヤコも何か気分が悪くて戦う元気がないから、\n役立たずなのは一緒なの！=Đừng có mà buồn rầu ủ rũ thế chứ Illya. Miyako cũng đang thấy khó chịu trong người nên chẳng còn chút sức lực nào để chiến đấu cả, nên việc trở thành kẻ vô tích sự thì tụi mình giống nhau thôi!
+仲間がいると嬉しいの、えへへ～☆=Có bạn bè đồng hành thế này thật là vui quá đi, ehehe~☆
+えっ？　動きが鈍いと思ったら……\n気分が悪いの、ミヤコ？　大丈夫？=Ể? Thảo nào nãy giờ thấy cậu cử động chậm chạp thế hóa ra là vì... Cậu thấy không khỏe trong người hả Miyako? Có ổn không thế?
+心配！　ミヤコちゃん、\nいつもみたいにやる気ないだけかと思ってたよぉ？=Lo chết đi được! Cứ tưởng Miyako-chan cũng chỉ lười biếng thiếu động lực như mọi khi thôi chứ?
+アカリ、そのへんのお店からプリン持ってくる！\nプリンがあればミヤコちゃんは元気になるでしょ？\n代金は、お店のカウンターにでも置いとけばいいよね～♪=Akari đi lấy bánh pudding ở mấy cửa hàng gần đây đem ra cho! Có pudding chắc chắn Miyako-chan sẽ khỏe lại ngay thôi đúng không nào? Tiền thì cứ để ở quầy thu ngân của quán là được chứ gì~♪
+ふむ。\nイリヤさんは{playername}さんがいないと、\nちびっこ状態で戦えないのは知っていましたが。=Hừm. Em vốn biết rằng nếu không có {playername}-san bên cạnh, thì Illya-san sẽ không thể chiến đấu ở trạng thái hình dáng nhóc tì được.
+ミヤコさんの不調は気になりますね、\nいつも羨ましいぐらい元気なのに。=Nhưng tình trạng bất ổn của Miyako-chan mới là điều khiến em lo ngại đấy, bình thường con bé lúc nào cũng năng nổ tràn trề sức sống đến mức ghen tỵ cơ mà.
+ふむ。ミヤコはお化けゆえに、\n他人の発する感情や魔力に対して敏感じゃからの。=Hừm. Vì Miyako vốn là một tiểu ma quỷ, nên con bé rất nhạy cảm với cảm xúc cũng như luồng ma lực phát ra từ người khác.
+町中で恐怖や混乱、負の感情が溢れている現状、\n影響を受けて気分が悪くなったんじゃろ。=Hiện trạng khắp thị trấn đang ngập tràn nỗi sợ hãi, sự hỗn loạn cùng những cảm xúc tiêu cực, chắc hẳn con bé đã bị ảnh hưởng nên mới đâm ra khó chịu trong người rồi.
+我らでいうと、風邪をひいておる状態に近い。\n素人意見じゃがな、あまり無理はさせたくないのう。=Nói theo ngôn ngữ của tụi mình thì nó gần tương đương với trạng thái bị cảm lạnh đấy. Dù chỉ là quan điểm của kẻ ngoại đạo thôi, nhưng ta không muốn ép con bé phải cố quá sức đâu.
+ふむ。ここまで戦闘つづきで全員、疲れ切ってもいますし……\nどこか安全な建物を見つけて待避し、休息をとりましょうか。=Hừm. Kéo dài cuộc chiến đến tầm này thì tất cả mọi người cũng đã kiệt sức rã rời rồi... Chi bằng chúng ta hãy tìm một tòa nhà an toàn nào đó để sơ tán và nghỉ ngơi lấy sức nhỉ?
+うむ。その意見に賛成じゃ。\n【悪魔偽王国軍（ディアボロス）】の盟主として命じよう……\n総員、いったん待避！　骨休めをしようぞ！=Ừm chuẩn. Ta hoàn toàn tán thành ý kiến đó. Với tư cách là minh chủ của 【Quân Đội Ma Vương (Diabolos)】, ta hạ lệnh... Toàn quân tạm thời sơ tán! Nghỉ ngơi dưỡng sức nào!
+あっ、そういえば、\nうちのギルドってイリヤさんがリーダーなんだっけ？=Á, nhắc mới nhớ, hội quán của tụi mình người lãnh đạo đứng đầu thực ra là Illya-san cơ à?
+あはは。\n実質、シノブさんが切り盛りしてるから忘れがちだよねぇ♪=Ahaha. Vì thực tế toàn do Shinobu-san lo toan gánh vác hết nên hay bị quên bén mất đi ghê cơ♪
+ええっ？　忘れるでないっ、\nおぬしらはわらわのカリスマ性に惹かれて集まったんじゃろ？\nそうじゃよなっ、おぬしらはわらわの下僕じゃろっ！？=Ểểể? Đừng có mà quên chứ, chẳng phải mấy đứa đã tụ tập về đây vì bị cuốn hút bởi sức hút charisma của ta sao? Đúng thế phải không nào, mấy đứa chính là bầy gia nô hạ thần của ta mà!?
+ううん。最初はそうだったとしても、\n今はみんな仲間が大好きだから集まってるの。=Không đâu. Dù ban đầu đúng là như thế đi chăng nữa, thì hiện tại mọi người tụ họp lại bên nhau đơn giản chỉ vì cực kỳ yêu quý các đồng đội của mình thôi.
+嬉しいの……\nお化けになったあとでも、そうやって誰かと絆を結べるの。=Hạnh phúc lắm cơ... Ngay cả sau khi đã biến thành ma quỷ rồi, em vẫn có thể thiết lập được những mối dây liên kết gắn bó với ai đó như thế này.
+えへへ。\nこの世にはプリン以外にも、すてきなものがたくさんあるの♪=Ehehe. Trên cõi đời này ngoài bánh pudding ra, còn vô vàn những điều tuyệt vời khác nữa đấy♪
+みんなが、ミヤコにそれを教えてくれたの。=Tất cả mọi người đã dạy cho Miyako biết những điều đó đấy.

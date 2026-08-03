@@ -3,7 +3,8 @@
 
 ##UB##
 緑翠の絆風=Gió Gắn Bó Xanh Lá
-自分の物理攻撃がクリティカルした時のダメージを中アップさせ、さらに目の前の敵１キャラに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく５倍になる。=Tăng vừa phải sát thương chí mạng tấn công vật lý của bản thân, và đồng thời gây sát thương vật lý lớn cho kẻ địch phía trước. Nếu kỹ năng này đánh trúng chí mạng, sát thương sẽ là x5 thay vì x2.
+自分の物理クリティカルダメージを中アップし、目の前の敵１キャラに物理大ダメージを与える。このスキルのクリティカルダメージは５倍になる。=Tăng vừa sát thương chí mạng vật lý của bản thân và gây sát thương vật lý lớn cho một kẻ địch ở phía trước. Sát thương chí mạng của kỹ năng này sẽ nhân 5 lần thay vì gấp đôi.
+
 
 r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃クリティカル時のダメージを30％アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng sát thương chí mạng tấn công vật lý của bản thân lên 30% trong 18s.
 
@@ -13,10 +14,9 @@ r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃クリティカ�
 
 ##S2##
 翔る薫風=Gió Hương Thơm Vút Cao
-自分の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、さらにＴＰを小回復する。=Tăng rất mạnh tấn công vật lý và tỷ lệ chí mạng tấn công vật lý của bản thân, và đồng thời hồi nhẹ TP của bản thân. Tất cả hiệu ứng kéo dài 12s.
-自分の物理攻撃力と物理クリティカルを大アップさせ、さらにＴＰを小回復する。=Tăng rất mạnh tấn công vật lý và tỷ lệ chí mạng tấn công vật lý của bản thân, và đồng thời hồi nhẹ TP của bản thân. Tất cả hiệu ứng kéo dài 12s.
+自分の物理攻撃力を特大アップ、物理クリティカルを大アップ、ＴＰを小回復する。=Tăng cực lớn Tấn công Vật lý của bản thân, tăng mạnh Tỉ lệ Chí mạng Vật lý của bản thân, và hồi một lượng nhỏ TP cho bản thân.
 
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＴＰを180回復$"=►Tăng lực tấn công vật lý (P.ATK) của bản thân lên $1.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân lên $2.\n►Hồi 180 TP cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＴＰを180回復$"=Thời gian triển khai: 0.9s.\n►Tăng P.ATK của bản thân thêm $1.\n►Tăng P.CRIT Rate của bản thân thêm $2.\n►Hồi 180 TP cho bản thân.
 
 ##EX##
 光風の天啓=Ánh Sáng và Gió
@@ -24,7 +24,14 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカル�
 
 ##S1+##
 春疾風+=Gió Xuân Mạnh Mẽ+
-自分の物理攻撃力と物理クリティカルを大アップさせ、目の前の敵１キャラに物理中ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく７倍になる。=Tăng lực tấn công vật lý (P.ATK) và tỷ lệ chí mạng (P.CRIT Rate) của bản thân lên rất lớn, và gây sát thương vật lý (P.DMG) trung bình lên kẻ địch phía trước. Nếu kỹ năng này gây chí mạng, sát thương sẽ là x7 thay vì x2.
+自分の物理攻撃力と物理クリティカルを大アップし、目の前の敵１キャラに物理中ダメージを与える。このスキルのクリティカルダメージは７倍になる。=Tăng mạnh Tấn công Vật lý và Tỉ lệ Chí mạng Vật lý của bản thân, sau đó gây sát thương vật lý trung bình cho một kẻ địch ở phía trước. Sát thương chí mạng của kỹ năng này sẽ nhân 7 lần thay vì gấp đôi.
 
 ##UE##
 大精霊の儀剣=Kiếm Linh Hồn Vĩ Đại
+
+
+##UE2##
+息吹の白装束=White Garments of Vital Breath
+翔る薫風+=Soaring Fragrant Breeze+
+自分の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理クリティカルダメージを小アップし、ＴＰを特大回復する。初回発動時、自分が敵にクリティカルでダメージを与えるたびにその敵の最大ＨＰに応じて最大50万の物理割合ダメージを与える状態になる。=Tăng cực lớn Tấn công Vật lý của bản thân, tăng mạnh Tỉ lệ Chí mạng Vật lý của bản thân, tăng nhẹ Sát thương Chí mạng Vật lý của bản thân, và hồi cực lớn TP cho bản thân. Trong lần kích hoạt đầu tiên, mỗi khi bản thân gây sát thương chí mạng cho kẻ địch, sẽ gây thêm sát thương chuẩn vật lý dựa trên HP tối đa của kẻ địch đó, lên tới tối đa 500.000 sát thương.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを100アップ自分の物理クリダメを6％アップ自分のＴＰを1000回復初使用時、クリティカルでダメージを与えるたびに敵単体に最大50万の物理割合ダメージを与える状態になる$"=Thời gian triển khai: 0.9s.\n►Tăng P.ATK của bản thân thêm $1 trong 180 giây.\n►Tăng P.CRIT RATE của bản thân thêm 100 trong 180 giây.\n►Tăng P.CRIT DMG của bản thân thêm 6% trong 180 giây.\n►Hồi 1000 TP cho bản thân.\n►Khi sử dụng lần đầu, cấp trạng thái mà mỗi khi bản thân gây sát thương chí mạng lên kẻ địch, sẽ đồng thời gây sát thương phần trăm vật lý dựa trên HP tối đa của kẻ địch đó, lên tới tối đa 500.000 sát thương.

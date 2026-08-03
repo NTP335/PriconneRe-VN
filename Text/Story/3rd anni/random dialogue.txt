@@ -80,4 +80,3 @@
 戦う前より元気になってるわね、あんたたち……=Các người còn tràn đầy năng lượng hơn cả trước khi chiến đấu...
 ごっはん～、ごっはん～♪=Đồ ăn~, đồ ăn~♪
 あれ？　これあたしも歌う流れ？\nちょっと、チラチラこっち見ないでくれる！？　分かったわよ！\nご……ごっはん～、ごっはん～……♪=Hả? Đây là dòng ý định em hát nữa à? Này, cô có thể dừng việc liếc nhìn em được không?! Em hiểu rồi! Đồ ăn... Đồ ăn~, đồ ăn~...♪
-【物理】中衛で、尊き儀装束を纏うエルフの里の巫女。\n自分の攻撃力を強化し、さらにＴＰ回復で攻撃の手数を\n増やす。クリティカル時の猛攻で仲間を守る剣となる。=【Vật Lý】Nữ thầy tu của làng elf, đứng ở trung vị và khoác trang phục nghi lễ quý tộc. Cô ấy tăng cường sức tấn công của bản thân và sử dụng hồi TP để tăng số lần tấn công. Cô ấy trở thành thanh kiếm bảo vệ bạn bè trong những khoảnh khắc nguy hiểm.

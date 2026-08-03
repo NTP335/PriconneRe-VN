@@ -2825,3 +2825,13 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 対象のＨＰ70％未満：スタン時間アップ=Nếu HP của mục tiêu dưới 70%: Tăng thời gian làm choáng.
 対象が火傷：物理固定追加ダメージ=Nếu mục tiêu bị bỏng: Gây thêm sát thương cố định vật lý.
 対象のＨＰ70％未満：火傷時間アップ=Nếu HP của mục tiêu dưới 70%: Tăng thời gian bỏng.
+
+
+行楽地の近海より漂着した厄介者。捕食前に触手でねっとり獲物を撫で回す習性を持つ。リゾート側は体よく客を遣わして討つ策に出た。=Một sinh vật phiền toái trôi dạt vào bờ từ vùng biển gần khu nghỉ dưỡng. Trước khi nuốt chửng con mồi, nó có thói quen vuốt ve ố dề nạn nhân bằng những chiếc xúc tu. Phía khu nghỉ dưỡng đã khéo léo phái các vị khách đến để tiêu diệt mối họa này.
+対象の残りＨＰが少ないほど：ダウン量上昇=HP của mục tiêu càng thấp: lượng giảm càng lớn.
+敵全体への継続ダメージ量アップ=Tăng lượng sát thương duy trì lên toàn bộ kẻ địch.
+
+挑発／飛行効果無視=Bỏ qua hiệu ứng Khiêu khích và Bay.
+敵全体に物理ダメージ（召喚体無視・ＴＰ回復不可）=Gây sát thương vật lý lên toàn bộ kẻ địch (bỏ qua thể triệu hồi; không hồi TP).
+
+

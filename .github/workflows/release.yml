@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout source code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Stage files into installer layout
         run: |
@@ -35,3 +37,19 @@ jobs:
           files: PriconneRe-VN-${{ github.ref_name }}.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup PowerShell
+        uses: actions/setup-powershell@v1
+
+      - name: Generate Changelog Content
+        shell: pwsh
+        run: |
+          ./.github/scripts/make_changelog.ps1
+
+      - name: Write Notes to GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: pwsh
+        run: |
+          $ChangelogText = Get-Content ./RELEASE_NOTE -Raw
+          gh release edit ${{ github.ref_name }} --notes "$ChangelogText"

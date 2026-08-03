@@ -1,0 +1,94 @@
+魔物によって仲間と分断され、危機に陥ったユイを{playername}が助ける。\n【カルミナ】の協力で{playername}のもとに集結したマコトたちは、一致団結\nしシャドウ討伐に乗り出すのだった。=Bị chia cắt khỏi đồng đội bởi lũ ma vật và rơi vào tình thế hiểm nghèo, Yui đã được {playername} cứu nguy. Nhờ sự hỗ trợ từ 【Carmina】, nhóm Makoto tập hợp lại bên cạnh {playername}, cùng nhau đồng tâm hiệp lực bước vào công cuộc tiêu diệt đám Shadow.
+
+首都ランドソルにて、\n{playername}と絆を結んだ少女たち。=Tại thủ đô Landosol, những cô gái đã kết duyên cùng {playername}.
+彼女たちもまた、必死に戦っていたが……\n覇瞳皇帝の操る魔物たちによって\n仲間と分断され、それぞれ窮地に立たされていた。=Họ cũng đang chiến đấu một cách tuyệt vọng...\nNhưng vì lũ ma vật do Kaiser Insight điều khiển nên đã bị chia cắt khỏi đồng đội, từng người một đều đang rơi vào cảnh khốn cùng.
+せいっ……！=Sei...!
+くそっ！\nまんまと孤立させられてしまった……！\nユイ、ヒヨリ！　どこだっ！？=Khốn kiếp!\nLại bị cô lập hoàn toàn rồi……!\nYui, Hiyori! Mọi người đang ở đâu vậy!?
+……はぁ、はぁ……っ！\nあっちもこっちも魔物だらけで、\nどこ走ってるかよくわかんなくなってきたぞ……！=...Haa, haa...!\nĐâu đâu cũng toàn là ma vật,\nChẳng biết mình đang chạy đến chỗ quái nào nữa rồi...!
+うぇぇ～ん！\nシズルお姉ちゃん、どこですか～っ！？=Uwaaaan!\nChị Shizuru ơi, chị đang ở đâu thế hả~~!?
+うう～っ……魔物に追いかけられてる子供がいたから\n助けようとしたら、シャドウだったなんて……！\nみんなどこーっ！？=Ư ư…… rõ ràng có đứa trẻ đang bị ma vật đuổi theo, lúc định ra tay cứu giúp thì hóa ra lại là Shadow...!\nMọi người đâu hết rồi hả~~!?
+魔物たちの動きに、裏で操る者の意志を感じる……！\nこのままじゃ、いくらお姉ちゃんでもジリ貧だよっ……=Cảm nhận được ý chí của kẻ đứng sau giật dây trong chuyển động của lũ ma vật...!\nCứ đà này thì dù là chị đây cũng sẽ rơi vào cảnh cạn kiệt sức lực mất thôi...
+でも……どうしよっ！？\nマコトのニオイもわかんなくなってきちゃったし！=Nhưng mà... phải làm sao đây chứ!?\nMùi hương của Makoto cũng chẳng còn ngửi thấy đâu nữa rồi!
+はぁっ、はぁっ……！\nこ、こっちこないでぇ～っ！=Haa, haa...!\nĐ-Đừng có lại đây mà~~!
+はぁっ、はぁ……！　どうしよう……！\n私ひとりだけじゃ、魔法を唱えるあいだは魔物から走り回って\n逃げなくちゃいけないから……息を整える、暇が……！　=Haa, haa...! Phải làm sao đây...!\nChỉ có một mình mình thì trong lúc niệm chú phải vừa chạy khắp nơi trốn ma vật, nên chẳng có lấy một chút thời gian để thở đều lại nữa...!
+──そのまま走って！\nそちらの路地に、飛び込んでくださいっ！=──Cứ tiếp tục chạy đi!\nHãy lao thẳng vào con hẻm ở hướng đó!
+えっ、だ、誰！？　ヒヨリちゃんでもレイちゃんでもない……\nもしかして、通信魔法──\n──きゃあっ！=Eh, ai... ai vậy chứ!? Không phải Hiyori-chan cũng chẳng phải Rei-chan...\nChẳng lẽ là ma pháp truyền tin──\n──Kyaa!
+転んじゃった！　こんなときに……！　=Ngã mất rồi! Lại đúng vào lúc này...!
+あ、あ……っ！\n騎士クンっ……！=A, ah...!\nHiệp sĩ-kun...!
+
+き、騎士クンっ！？\n来て、くれたんだ……！=H-Hiệp sĩ-kun!?\nCậu đã đến cứu tớ sao...!
+ケガはない！？=Có bị thương ở đâu không!?
+う、うん！\nありがとう、でもどうしてここが……？=U-Um!\nCảm ơn cậu, nhưng sao cậu lại biết chỗ này mà đến...?
+……って、危ない！\nまだ、おっきいのが来てるよ！=...Chờ đã, nguy hiểm lắm!\nVẫn còn một con to vật vã đang lao đến kìa!
+
+キャルちゃん、お願い！=Kyaru-chan, nhờ em nhé!
+
+おりゃああぁっ！=Oryaaaaaah!
+転倒させます！\n後詰をお願いいたします！　ペコリーヌさま！=Em đánh ngã nó rồi đấy!\nNhờ mọi người hậu thuẫn phía sau nhé! Pecorine-sama!
+そぉれえええっ！=Nhận lấy nàyyy!
+騎士クンも、【美食殿】のみんなも……良かった！\n無事だったんだね！=Hiệp sĩ-kun và mọi người ở 【Mỹ thực điện】 nữa...\nThật tốt quá! Mọi người vẫn bình an vô sự nhỉ!
+あたしもいるぜ！\n誘導サンキューだ、【カルミナ】ッ！=Cả tớ nữa đây nhé!\nCảm ơn vì đã dẫn đường nhé, 【Carmina】!
+マコトちゃんもっ。\n【カルミナ】って……あの、アイドルの？=Makoto-chan kìa.\n【Carmina】 ấy hả... nhóm thần tượng đó á?
+ああ──連中があたしらに通信魔法を飛ばして、\n行先を教えてくれたんだ。つっても、大元の情報を纏めてるのは\n{playername}だけどな。=Đúng vậy── Bọn họ đã dùng ma pháp truyền tin để gửi cho nhóm,\nRồi chỉ đường đi nước bước cho đấy. Dù nói vậy chứ người tổng hợp nguồn thông tin gốc chính là {playername} mà nhỉ.
+お～いっ！\nユイちゃ～んっ！=Này~!\nYui-chan~~!
+あっ、ヒヨリちゃん！\nそ、それにっ……？=Á, Hiyori-chan!\nV-Với lại...?
+あれれ？\n言われたほうに来てみたけど……\nなんだか、女の子がいっぱいだねっ。=Hả kì lạ nhỉ?\nThử đến theo lời chỉ dẫn xem sao mà...\nTrông có vẻ tập trung rất nhiều các cô gái ở đây nhỉ.
+あーっ！\nシズルお姉ちゃ～んっ！\nやっと見つけましたよー……！=Aaa! Chị Shizuru ơi~~!\nCuối cùng em cũng tìm thấy chị rồi...!
+マコト～♪\nよかった、合流できた～\n指示を信じて良かったさ～♪=Makoto~♪ Mừng quá, chúng ta đã hợp lưu được với nhau rồi~\nThật may vì đã tin tưởng vào chỉ dẫn đó đấy~♪
+カオリ！　無事だったかっ！\n……って、なんだかえらくたくさん\nここに集まってきてるな……！？=Kaori! Cậu vẫn bình an chứ hả!\n...Mà sao tự nhiên có đông đảo người tụ tập hết lại ở đây thế này...!?
+ユイー！=Yui ơi!
+レイちゃんも来たっ！\nこっちだよー！=Rei-chan cũng đến rồi kìa!\nChị qua đây này!
+すまない、はぐれてしまって……\n怪我は無いか？=Xin lỗi nhé, vì để lạc mất nhau...\nEm không bị thương chứ?
+ううんっ、平気！\nレイちゃんも、【カルミナ】の人たちの通信魔法で？=Không sao, em bình thường!\nCả Rei-chan cũng đến đây nhờ ma pháp truyền tin của người bên 【Carmina】 à?
+ああ、そうだ──聞こえるか？\nツムギたちのおかげで助かったよ。ありがとう。=Ừ, đúng vậy── Mọi người có nghe rõ không?\nNhờ có Tsumugi và mọi người mà chúng ta mới được cứu đấy. Cảm ơn nhé.
+やった～！　レイ様に褒められちゃいました～！\nみなさん無事に合流できたみたいで良かったです！=Yay~! \nEm được ngài Rei khen ngợi kìa~!\nMọi người đều đã hợp lưu an toàn, thật tốt quá!
+本当ならレイ様には、私のそばに来て欲しいんですけど……\n残念ながらいま私たちは空中にいるので、\nこちらからレイ様たちを支援します！=Lẽ ra em rất muốn ngài Rei đến ở ngay bên cạnh cơ……\nNhưng tiếc là hiện tại bọn em đang ở trên không trung,\nnên sẽ hỗ trợ cho nhóm ngài Rei từ phía này nhé!
+あっ、飛空艇だー！\nそっか、あそこから通信魔法を送ってるんだねっ！=Á, phi thuyền kìa! \nRa là vậy, họ đang phát ma pháp truyền tin từ trên đó xuống đấy à!
+【カルミナ】の人達、ありがとさーっ♪=Mọi người ở 【Carmina】 ơi, cảm ơn nhé♪
+どういたしまして～！　って言いたいところなんですけど……\nお礼なら、そこの騎士さんにどうぞ。=Không có gì đâu nha~! \nEm rất muốn nói câu đó đấy nhưng mà...\nNếu muốn cảm ơn thì hãy dành lời đó cho cậu Hiệp sĩ đằng kia kìa.
+えっ、お兄ちゃん？=Hả, anh hai á?
+{playername}さんに……\nそれから、そちらで頑張っている\n魔法使いの方々にも、心からの感謝を……！=Gửi lời cảm ơn từ tận đáy lòng đến {playername}-san...\nVà cả những vị pháp sư đang nỗ lực hết mình ở phía dưới đó nữa...!
+空を飛びながら通信魔法つなげるの、思ったより難しいけど……！\nできる、できるっ……あたしは天才だから！\nそれに、あいつらに借りをかえすんだから～っ！=Vừa bay lượn trên không vừa duy trì ma pháp truyền tin khó hơn tôi tưởng tượng đấy...!\nNhưng làm được, làm được hết... vì tôi là thiên tài mà!\nTôi nhất định phải trả món nợ này cho bọn họ mới được~~!
+そっか、あの子が空中から私たちを見つけてくれてたんだね！=Ra là vậy, chính cô bé đó đã tìm thấy chúng ta từ trên không trung đấy à!
+そうですっ！\nキャルちゃん以外に、【悪魔偽王国軍（ディアボロス）】の人達も\n街の上を飛び回って協力してくれてるんですよ！=Đúng vậy đấy ạ!\nNgoài Kyaru-chan ra, những người thuộc 【Diabolos】 cũng đang bay lượn khắp bầu trời thành phố để hợp sức giúp đỡ chúng ta nữa đấy!
+
+みんな、無事でよかった！=Mọi người đều bình an vô sự thật tốt quá!
+
+そっかぁ……覇瞳皇帝にばらばらにされちゃった私たちを、\n弟くんが集めてくれたんだね♪\nえらいえらい！　お姉ちゃんがよしよししてあげる♪=Ra là vậy sao... Tụi mình bị Kaiser Insight đánh cho tản mác mỗi người một nơi, được cậu em trai cưng tập hợp lại hết thế này đây nhỉ♪\nGiỏi lắm giỏi lắm! Để chị thương thương xoa đầu cho nào♪
+えへへっ♪\nよくわかんないけど、私もいーこいーこしてあげますね、\nお兄ちゃんっ♪=Ehehehe♪\nDù không hiểu rõ lắm nhưng em cũng sẽ xoa đầu cưng chiều anh hai nhé,\nAnh hai ơi♪
+この場にいらっしゃるみなさまも……上空のみなさまも。\n当然のように主さまのお知り合い……\n本当にもう、本当にまったくもう、主さまは……=Tất cả những vị có mặt ở nơi đây... lẫn những người ở trên không trung kia nữa.\nĐương nhiên đều là người quen của Chủ nhân...\nThật sự là, thật sự không còn gì để nói nổi nữa rồi, Chủ nhân ngài đúng là...
+……ああ、困惑している場合ではありませんでした。\nみなさま、すみませんが。\nまずは主さまの言葉に、耳を傾けていただけますでしょうか。=...À không, bây giờ không phải lúc để bối rối đâu.\nMọi người, xin lỗi vì sự đường đột này.\nTrước tiên, xin mọi người hãy lắng nghe những lời từ Chủ nhân nhé.
+
+どうか、みんなの力を貸してほしい。=Xin hãy cho tớ mượn sức mạnh của mọi người.
+みなさまの中には、過去に対立した方々もいらっしゃるでしょうが……\nどうかここは、わだかまりを水に流し、\nわたくしたちと手を取り合っていただきたいのです。=Trong số các chị ở đây, chắc hẳn cũng có những người từng đối đầu với nhau trong quá khứ...\nNhưng xin hãy bỏ qua hết mọi hiềm khích sang một bên, và hãy cùng chung tay hợp sức với chúng em nhé.
+
+覇瞳皇帝の野望を止めるために……=Để ngăn chặn dã tâm của Kaiser Insight...
+……ま、あたしらは構わないぜ。\n前のときも、先に手を出したのは\n【ラビリンス】の連中のほうだったしな？=...Chà, bọn tôi thế nào cũng được cả thôi.\nLần trước chính lũ người bên 【Labyrinth】 là kẻ ra tay trước cơ mà nhỉ?
+うーん……あのときは、ノウェムちゃんの安全を\n確保するためにしょうがなくー、だったんだけどねっ。\nだから今はケンカするつもりなんてないよ？=Hừm... Lần đó là vì bất đắc dĩ phải đảm bảo sự an toàn cho Novem-chan thôi mà.\nNên bây giờ tụi này không có ý định gây sự đánh nhau gì đâu nhé?
+あたしたちは、もちろんオッケーだよっ！\nみんなで力を合わせよう！\n困った時はお互いさまさま、だもんねっ！=Tụi em thì tất nhiên là OK rồi nhé!\nChúng ta hãy cùng nhau hợp sức nào!\nLúc khó khăn hoạn nạn thì phải giúp đỡ lẫn nhau mà, đúng không nào!
+
+みんな、ありがとう。=Cảm ơn mọi người nhiều lắm.
+
+ううん、こっちこそありがとう、騎士クン！\nこんな状況だけど……私、\nみんなと手を取り合うことができて、嬉しいよ。=Không có chi, tớ mới là người phải cảm ơn cậu ấy, Hiệp sĩ-kun!\nDù trong hoàn cảnh thế này nhưng...\nTớ rất vui vì có thể cùng chung tay nắm lấy tay mọi người thế này.
+コッコロ……それにキミも。\nキミたちは、かなり状況を把握しているようだ。\n教えてくれ。私たちは何をすればいい？=Kokkoro... Và cả cậu nữa.\nCó vẻ như các em đã nắm bắt rất rõ tình hình hiện tại rồi nhỉ.\nHãy nói cho chúng tôi biết đi. Bọn tôi cần phải làm những gì đây?
+ありがとうございます。\nでは……みなさま、まずはシャドウを狙ってください。=Xin cảm ơn mọi người.\nVậy thì... xin mọi người trước tiên hãy nhắm mục tiêu vào các Shadow nhé.
+シャドウをか？\nたしかに今、この街には\n魔物以外にもシャドウたちがあふれているけれど……=Nhắm vào Shadow á?\nQuả thực là bây giờ, trong thành phố này\nNgoài ma vật ra thì Shadow cũng đang tràn lan khắp nơi thật đấy nhưng mà...
+でも、シャドウは魔物と違って、\n襲ってこないのや、勝手に逃げてくのも多いさー？=Nhưng mà Shadow không giống như ma vật,\nCó rất nhiều con không hề tấn công mà cứ tự bỏ chạy mất cơ mà?
+うん……それよりは、\nここにいるみんなで力をあわせて、敵の親玉を……\n覇瞳皇帝を直接倒しちゃったほうが、早くないかな？=Đúng thế... Chi bằng là, tất cả chúng ta ở đây cùng hợp sức lại, rồi đánh gục thẳng trùm sò của kẻ địch...\nKaiser Insight trực tiếp luôn thì chẳng phải sẽ nhanh hơn sao?
+お気持ちはわかります……ですが、\n現在この街に徘徊する魔物の一部と、シャドウのほぼすべては、\n覇瞳皇帝に有益な情報をもたらす端末なのだそうです。=Em hiểu cảm giác của mọi người...\nNhưng mà, phần lớn ma vật đang lang thang khắp thành phố này hiện tại, cùng với hầu hết các Shadow, được cho là những thiết bị đầu cuối mang lại thông tin hữu ích cho Kaiser Insight.
+それらが残る限り、覇瞳皇帝はこちらの攻撃を予測し、\n回避してしまう……と。変貌大妃のネネカさまから\nつい先ほど、そのようにお話をいただきました。=Chừng nào chúng vẫn còn tồn tại, Kaiser Insight sẽ dự đoán được đòn tấn công của chúng ta, và né tránh nó...\nĐó là những gì mà Biến mạo đại phi Neneka-sama đã vừa mới thông báo với chúng em cách đây không lâu.
+つまり……ヤツの目を塞ぐために、先にザコを始末するってことか。\nちとまだるっこしいが……魔物もシャドウも、\n最終的にブッ飛ばさなきゃいけねえのは一緒だな。=Nghĩa là... để bịt mắt tên đó lại, chúng ta phải dọn dẹp bọn tép riu trước tiên phải không nào.\nHơi rườm rà một chút đấy... nhưng mà dù là ma vật hay Shadow đi nữa, thì cuối cùng vẫn phải cho bay màu hết thảy nên cũng thế cả thôi.
+ふむふむっ！\n『賞を取るにはまず旨辛』ってことですね！=Fumu fumu!\nĐó chính là "Muốn bắt giặc phải bắt tướng trước" đấy nhỉ!
+「将を射るにはまず馬から」だね、リノちゃん。=Là "Muốn bắn tướng thì phải bắn ngựa trước" chứ, Rino-chan.
+でもさでもさ、全部のシャドウって、\nどれだけいるかわかんないよ？\nそれにランドソルはすっごく広いし……！=Nhưng mà, nhưng mà, toàn bộ số Shadow đó,\nBọn mình làm sao biết được có bao nhiêu con chứ?\nHơn nữa Landosol lại rộng lớn vô cùng...!
+そうだな……不可能とは言わないが、\n相応の時間は掛かるだろう。\nそのあいだ、覇瞳皇帝が我々を看過するとは思えないが……=Đúng vậy nhỉ... Không dám nói là bất khả thi, nhưng chắc chắn sẽ mất một khoảng thời gian tương xứng đấy.\nTrong khoảng thời gian đó, chị không nghĩ là Kaiser Insight sẽ làm ngơ để mặc chúng ta đâu...
+覇瞳皇帝は、現在、クリスティーナたちに足止めを依頼してます。\nあの人だったら、そう簡単に後れを取ることはないでしょう。=Kaiser Insight hiện đang nhờ Christina và mọi người giữ chân ả rồi.\nNếu là người đó thì chắc sẽ không dễ dàng bị lép vế đâu nhỉ.
+クリスティーナ……あいつか……=Christina... là ả đó sao...
+まあ、ヤなヤツだけど……\n味方してくれるなら頼もしいさー！=Chà, tuy là một kẻ khó ưa...\nNhưng nếu chịu đứng về phe chúng ta thì đúng là đáng tin cậy hết sẩy rồi!
+そして……現在、主さまはラビリスタさまより、\nふたつの力を託されているそうです。\nひとつは、『七冠』に対抗する剣。それと……=Và thêm nữa... hiện tại, Chủ nhân đã được ban phó hai nguồn sức mạnh từ Labyrista-sama.\nMột là thanh kiếm đối kháng với 『Seven Crown』. Còn lại là...
+もうひとつは、\nいつもよりさらに効果を増した、\n私たちを強化してくれるちからですっ！=Và nguồn sức mạnh thứ hai chính là, hiệu quả được gia tăng mạnh mẽ hơn bình thường, sức mạnh giúp cường hóa cho tất cả chúng ta đấy!
+みなさまは、その効果範囲内で散開し……\n主さまにあわせて移動しながら、敵を撃破してください。=Mọi người hãy tản ra trong phạm vi hiệu quả đó...\nVừa di chuyển đồng điệu cùng Chủ nhân, vừa tiêu diệt kẻ địch nhé.
+上空のキャルちゃんや、【カルミナ】の方々の情報をもらいつつ、\n突っ走りながらの戦いになっちゃいますけど……\n彼を信じて、協力してくださいっ！=Dù chúng ta sẽ phải vừa thu thập thông tin từ Kyaru-chan trên không trung và nhóm 【Carmina】, vừa lao lên chiến đấu hết mình...\nNhưng xin hãy tin tưởng cậu ấy và cùng hợp sức lại nhé!
+では、主さま。\nみなさまの、一斉強化をお願いします……！=Vậy xin mời Chủ nhân.\nHãy tiến hành cường hóa toàn diện cho tất cả mọi người nhé...!
+
+みんな、行くよ！=Được rồi mọi người, đi thôi!
