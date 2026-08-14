@@ -184,7 +184,9 @@ Difficulty Details
 以下のキャラが仲間に加わりました。=Các nhân vật sau đã gia nhập đội của cậu.
 キャラ加入=Nhân Vật Đã Gia Nhập
 このマスには移動できません。=Cậu không thể di chuyển đến ô này.
-バトルマス（NORMAL）に移動します。\nよろしいですか？=Di chuyển đến Ô Chiến Đấu (BINH THƯỜNG)?
+バトルマス（NORMAL）に移動します。\nよろしいですか？=Di chuyển đến Ô Chiến Đấu (BINH THƯỜNG)?\nBạn có chắc chắn không?
+バトルマス（EXTREME）に移動します。\nよろしいですか？=Di chuyển đến Ô Trận chiến (EXTREME)?\nBạn có chắc chắn không?
+バトルマス（HELL）に移動します。\nよろしいですか？=Di chuyển đến Ô Trận chiến (HELL)?\nBạn có chắc chắn không?
 移動先確認=Xác Nhận Đích Đến
 バトルマス=Ô Chiến Đấu
 マップを見る=Kiểm Tra Bản Đồ
@@ -218,7 +220,6 @@ Difficulty Details
 加入しているキャラがいません。=Không có nhân vật nào trong đội này.
 
 現在の状況=Tình Hình Hiện Tại
-バトルマス（EXTREME）に移動します。\nよろしいですか？=Di chuyển đến Ô Chiến Đấu (CỰC KHÓ)?
 
 ラビリンスパスポートは返却されます。=Hộ Chiếu Mê Cung sẽ được trả lại.
 ラビリンスパスポート=Vé Mê cung
@@ -393,3 +394,11 @@ sr:"^すべてのキャラの(.+)をダウンさせる。$"=Giảm $1 của tấ
 すべてのモンスターが受ける継続ダメージの発生間\n隔と効果時間が延長される。=Kéo dài giãn cách kích hoạt và thời gian duy trì của sát thương duy trì mà toàn bộ quái vật phải nhận.
 継続ダメージ発生間隔/効果時間延長=Kéo dài giãn cách kích hoạt/Thời gian duy trì sát thương duy trì
 NPCキャラのEX装備は変更できません。=Không thể thay đổi trang bị EX của nhân vật NPC.
+
+
+パス=Pass
+パスを利用できないマスです。=Ô này không thể sử dụng lượt bỏ qua.
+
+究極錬成‐氷炎融合‐=Luyện Kim Tối Thượng - Dung Hợp Băng Viêm -
+パス確認=Xác nhận bỏ qua
+[FF7C4E,D62146]スコアとバトル報酬を獲得せず[-][3C404E]に\nこのバトルをパスします。\nよろしいですか？[-]=[FF7C4E,D62146]Bạn sẽ bỏ qua trận chiến này[-][3C404E]\nmà không nhận được điểm số và phần thưởng trận chiến.\nBạn có chắc chắn muốn tiếp tục không?[-]

@@ -20,3 +20,11 @@ r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御�
 
 ##Misc##
 【魔法】中衛で砂浜の木陰に微睡むアルラウネの妖魔人。行動速度アップや初回使用時に回復量が増加するＴＰ回復を起点に支援し、穏やかな木漏れ日と共にゆらゆら憩う。=[Ma thuật] Một Alraune Monstress chợp mắt dưới bóng cây dọc bãi cát từ vị trí trung tâm. Cô hỗ trợ đồng minh bằng cách tăng tốc độ hành động và phục hồi TP—có lượng phục hồi tăng lên khi dùng lần đầu— và đung đưa thư thái dưới ánh nắng nhẹ nhàng rải rác.
+
+
+
+##S1##
+サマーガーデンスコップ=Summer Garden Scoop
+バルーンクラップ+=Balloon Clap+
+目の前の敵１キャラの物理・魔法攻撃力を特大ダウン、魔法防御力を小ダウン、受けるクリティカルダメージを小アップさせる。初回発動時、さらに目の前の敵１キャラの与える物理・魔法ダメージを小ダウンさせる。=Giảm cực lớn tấn công vật lý và phép thuật của một kẻ địch ở phía trước, giảm nhẹ phòng thủ phép thuật, và tăng nhẹ sát thương chí mạng mà mục tiêu phải chịu. Khi kích hoạt lần đầu, đồng thời giảm nhẹ sát thương vật lý và phép thuật mà một kẻ địch ở phía trước gây ra.
+r:"^敵単体の物理・魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン敵単体の被クリダメを3％アップ初回発動時、敵単体が与える物理・魔法ダメージを5％ダウン$"=Thời gian triển khai: 1,05 giây.\n►Giảm cực lớn tấn công vật lý và phép thuật của một kẻ địch trước mặt đi $1 trong 12 giây.\n►Giảm nhẹ phòng thủ phép thuật của một kẻ địch trước mặt đi $2 trong 12 giây.\n►Tăng nhẹ sát thương chí mạng phải chịu của một kẻ địch trước mặt thêm 3％ trong 12 giây.\n►Trong lần sử dụng đầu tiên, giảm nhẹ sát thương vật lý và phép thuật do một kẻ địch gây ra đi 5％ trong 180 giây.

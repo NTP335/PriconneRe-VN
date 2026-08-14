@@ -165,7 +165,6 @@
 2部 第5章 第3話=Phần 2 Chương 5 Tập 3
 市街の修復をペコリーヌに押しつけられ復讐に燃えるクレジッタ。そんな折、彼女のもとへ王宮からゴウシンの使いがやってくる。一方、未だプリンセスフォームになれないキャルは不安と悩みを抱えていた。=Thành phố đang được sửa chữa bởi Pecorine, và Creditta bùng cháy với lòng thù hận. Đó là lúc sứ giả của Gorschin đến từ cung điện. Mặt khác, Kyaru, người vẫn chưa thể sử dụng dạng công chúa của mình, lo lắng và bối rối.
 ぐぬぬぬっ……！=Grrrrrr...!
-おっきくてもちっちゃくても……\n{playername}くんをいじめるのは、見過ごせません！\nだって、わたしの仲間ですから！=Dù lớn hay nhỏ... Tôi không thể làm ngơ khi ai đó bắt nạt {playername}-kun! Anh ấy là bạn của tôi mà!
 ……ぐぬぬ……=...Grrr...
 あンの甘っちょろくて甘ちゃんでスウィーティーな\nクソお姫さまがぁ～っ！=Công chúa ngọt ngào, ngọt ngào, ngọt ngào quá!
 何度も何度も何度も何度も！\nオトナをコケッコケにしてくれちゃって！=Lặp đi lặp lại mãi! Chế giễu người lớn!
