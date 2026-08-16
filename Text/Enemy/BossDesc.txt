@@ -2835,3 +2835,40 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 敵全体に物理ダメージ（召喚体無視・ＴＰ回復不可）=Gây sát thương vật lý lên toàn bộ kẻ địch (bỏ qua thể triệu hồi; không hồi TP).
 
 
+
+王家の装備──『怠惰』！=Trang Bạc Hoàng Gia── "Lười Biếng"!
+王家の装備──『強欲』！=Trang Bạc Hoàng Gia── "Tham Lam"!
+【苦死の冥咆】数が３個以上：対象に物理割合ダメージ=Nếu số cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] từ 3 trở lên: Gây sát thương vật lý theo phần trăm lên mục tiêu.
+敵全体の【苦死の冥咆】をリセット=Đặt lại số cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] của toàn bộ kẻ địch.
+前から敵１体がバリア状態ではない：前から敵１体に【苦死の冥咆】を１個追加=Nếu kẻ địch ở vị trí đầu tiên không ở trạng thái khiên: Thêm 1 cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] vào kẻ địch ở vị trí đầu tiên.
+前から敵１体に物理／魔法与ダメダウン（召喚体無視・必中）=Giảm sát thương vật lý và sát thương phép do kẻ địch ở vị trí đầu tiên gây ra (bỏ qua thể triệu hồi, đánh trúng 100%).
+自身が防御力ダウン状態ではない：敵全体に【苦死の冥咆】を１個追加=Nếu bản thân không ở trạng thái giảm phòng thủ: Thêm 1 cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] cho toàn bộ kẻ địch.
+自身が継続ダメージ状態ではない：敵全体に【苦死の冥咆】を１個追加=Nếu bản thân không ở trạng thái sát thương duy trì: Thêm 1 cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] cho toàn bộ kẻ địch.
+【苦死の冥咆】の数が多いほど：ダウン量上昇=Số lượng cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] càng nhiều: Lượng giảm càng lớn.
+敵全体にＴＰ上昇上限=Áp dụng giới hạn tăng TP cho toàn bộ kẻ địch.
+身丈を超した『願い』の為、幻境竜后についた元三魔姫属。呪術と弓術で相手を翻弄し、『強欲』で未来を、希望を、生命を奪う。=Cựu thành viên của Tam Ma Cơ, kẻ đã quy thuận Huyễn Cảnh Long Hậu vì một "điều ước" vượt quá tầm với của bản thân. Ả ta đùa giỡn đối thủ bằng thuật nguyền và cung pháp, cướp đoạt tương lai, hy vọng và sinh mạng bằng "Tham Lam".
+
+ルイズマリー・アカリ=Louise Marie Akari.
+幻境竜后のプリンセスナイトであり友。妖艶かつ陰惨を極めた牝山羊は邪法を用いて弱ったココロに付け込み、魂を堕とし絡み合う。=Princess Knight và là bạn của Huyễn Cảnh Long Hậu. Con dê cái đầy vẻ quyến rũ và cực kỳ tàn nhẫn này sử dụng tà pháp để lợi dụng những trái tim đang suy yếu, đọa đày và quấn lấy linh hồn họ.
+物理か魔法攻撃力が最も高い敵１体に魔法割合ダメージ（召喚体無視）=Gây sát thương phép theo phần trăm lên 1 kẻ địch có tấn công vật lý hoặc tấn công phép cao nhất (bỏ qua thể triệu hồi).
+物理か魔法攻撃力が最も高い敵１体に誘惑（召喚体無視・必中）=Gây hiệu ứng Mê hoặc (Charm) lên 1 kẻ địch có tấn công vật lý hoặc tấn công phép cao nhất (bỏ qua thể triệu hồi, đánh trúng 100%).
+物理か魔法攻撃力が最も高い敵１体の攻撃力を奪って自身に魔法攻撃力アップ（召喚体無視・必中）=Đánh cắp chỉ số tấn công của 1 kẻ địch có tấn công vật lý hoặc tấn công phép cao nhất và tăng tấn công phép cho bản thân (bỏ qua thể triệu hồi, đánh trúng 100%).
+前から敵１体に与えたダメージが多いほど：ダメージ量アップ=Lượng sát thương gây ra cho kẻ địch ở vị trí đầu tiên càng lớn: Lượng sát thương càng tăng.
+前から敵１体に与えたダメージが多いほど：沈黙時間アップ=Lượng sát thương gây ra cho kẻ địch ở vị trí đầu tiên càng lớn: Thời gian câm lặng (Silence) càng kéo dài.
+敵の数が多いほど：ＴＰ回復量アップ=Số lượng kẻ địch càng nhiều: Lượng hồi phục TP càng tăng.
+自身に物理／魔法被ダメアップ=Tăng sát thương vật lý và sát thương phép phải chịu cho bản thân.
+
+冷徹にして悲業の革命者。アストライアへの『憤怒』の炎は激しく燃え上がり、自身をも焚べながら一切を灰燼に帰すまで猛り続ける。=Một nhà cách mạng lạnh lùng và bi tráng. Ngọn lửa "Phẫn nộ" hướng về Astraea bùng cháy dữ dội, tiếp tục cuồng nộ cho đến khi thiêu rụi vạn vật thành tro bụi, ngay cả khi nó nuốt chửng chính bản thân ả.
+このスキルの使用回数が多いほど：ダメージアップ=Số lần sử dụng kỹ năng này càng nhiều: Sát thương càng tăng.
+前から敵２体に魔法割合ダメージ（挑発／召喚体無視）=Gây sát thương phép theo phần trăm lên 2 kẻ địch ở phía trước (bỏ qua Khiêu khích và thể triệu hồi).
+前から敵２体に憤怒の伝播（挑発／召喚体無視）=Gây hiệu ứng Lan truyền Phẫn nộ lên 2 kẻ địch ở phía trước (bỏ qua Khiêu khích và thể triệu hồi).
+自身に魔法割合ダメージ=Gây sát thương phép theo phần trăm lên bản thân.
+自身に物理固定ダメージ=Gây sát thương vật lý cố định lên bản thân.
+敵全体に与えたダメージが多いほど：ダメージアップ=Tổng lượng sát thương gây ra cho toàn bộ kẻ địch càng nhiều: Sát thương càng tăng.
+【残り時間45秒で発動】=[Kích hoạt khi thời gian còn lại 45 giây]
+
+冥府にて旧き神と邂逅し狂気に呑まれた偽りの救済者。魔法の威力は熾烈を極め、救い手の望む世界のため抗う全ての敵を尽滅する。=Kẻ cứu rỗi giả mạo từng gặp gỡ Cổ thần nơi địa phủ và bị nuốt chửng bởi sự điên loạn. Sức mạnh phép thuật của ả đạt đến cực hạn ác liệt, tiêu diệt tận gốc mọi kẻ địch dám chống lại thế giới mà đấng cứu rỗi hằng mong ước.
+敵全体に物理／魔法攻撃力ダウン／ＴＰ上昇ダウン／ＨＰ回復量ダウン（必中）=Giảm tấn công vật lý/phép thuật, giảm tốc độ tăng TP, và giảm lượng hồi phục HP của toàn bộ kẻ địch (đánh trúng 100%).
+
+幻境竜后と盟を結び、再び小さき者の前に立つ創世者。鋭さを増した瞳で未来を見据え因縁に応報すべく終幕の刃を世界に突き立てる。=Đấng Sáng Thế, kẻ đã minh ước với Huyễn Cảnh Long Hậu và một lần nữa đứng trước những kẻ bé nhỏ. Với đôi mắt sắc bén hướng về tương lai, ngài cắm lưỡi dao hạ màn xuống thế giới để báo đáp mọi ân oán xưa.
+挑戦回数はイベント参加から2時間ごとに1回分付与されます。=Lượt khiêu chiến sẽ được cộng thêm 1 lần cứ mỗi 2 giờ kể từ khi tham gia sự kiện.

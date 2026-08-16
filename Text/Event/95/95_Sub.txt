@@ -20,7 +20,7 @@ sr:"^福弾ける出張ビストロ　(.+)$"=Fortune-Bursting Traveling Bistro: 
 ふふっ、いいですね。\nでは、掛け声はどのような……えっ、こちらですか。=Hì hì, hay đấy ạ.\nVậy câu khẩu hiệu sẽ là gì đây…… ơ, cái này sao?
 ネフィ＝ネラ媛、お気に召して……？\nわ、分かりました。では僭越ながら、わたくしが音頭を。\nせーの……！=Công chúa Nephy-Nella, cô thích câu này sao……?\nV-vâng. Vậy tôi xin mạn phép được bắt nhịp.\nMột, hai, ba……!
 こうして『ビストロプリンセス』が始まるまでの数日間、\nプリンセスが各々で料理を振る舞うことになったのだった。=Cứ như thế, trong vài ngày cho đến khi 『Bistro Princess』 chính thức bắt đầu,\nmỗi nàng công chúa sẽ thay nhau trổ tài nấu nướng phục vụ mọi người.
-ビストロプリンセス本番まで、料理の練習をしようとクッキングスタジア\nムを訪れたプリンセスたち。Corneliaのアイデアで料理をゲストに振舞う\nことになり、３人はそれぞれ気合を入れるのだった。=Các nàng công chúa đã ghé thăm đấu trường nấu ăn để luyện tập chuẩn bị cho sự kiện Bistro Princess chính thức. Theo ý tưởng của Cornelia, họ quyết định phục vụ món ăn cho các vị khách, và cả ba người đều đang hừng hực khí thế với quyết tâm của riêng mình.
+ビストロプリンセス本番まで、料理の練習をしようとクッキングスタジア\nムを訪れたプリンセスたち。{playername}のアイデアで料理をゲストに振舞う\nことになり、３人はそれぞれ気合を入れるのだった。=Các nàng công chúa đã ghé thăm đấu trường nấu ăn để luyện tập chuẩn bị cho sự kiện Bistro Princess chính thức. Theo ý tưởng của {playername}, họ quyết định phục vụ món ăn cho các vị khách, và cả ba người đều đang hừng hực khí thế với quyết tâm của riêng mình.
 
 さぁ、参りますよ。\n目指すはランドソル万博の屋台、完全制覇です。\nついてきてください騎士──そして、アネモネ。=Nào, chúng ta đi thôi.\nMục tiêu là chinh phục toàn bộ các gian hàng tại hội chợ Landosol.\nHãy đi theo tôi, Hiệp sĩ── và cả Anemone nữa.
 ──え、と。\n意味、わかりません──\nそもそもなんで、私……。──クローチェさんは……？=── Ơ, dạ.\nEm không hiểu ý chị lắm──\nVới lại tại sao lại là em……. ── Còn chị Croce thì sao……?
@@ -185,7 +185,7 @@ Cái thế giới Gio Gehenna này hoang dã đến mức nào vậy trời! Nh�
 ──コロコロコロ。\nシオリ殿が望むのであれば、\n何時也と案内致しまする。=── Koro koro koro. Nếu tiểu thư Shiori mong muốn, ta sẵn lòng dẫn đường bất cứ lúc nào.
 岩漿煮え滾る巌窟、瘴気渦巻く古跡、精霊荒れ狂う混沌の原野──\n何れも未だ見ぬ一大冒険譚になりんしょう。\n万事万端、相調えてお越しくだしゃんせ。=Hang động nham thạch sôi sùng sục, di tích cổ xưa chìm trong chướng khí, hay cánh đồng hỗn mang nơi tinh linh điên cuồng gào thét── tất cả sẽ trở thành một thiên anh hùng ca phiêu lưu chưa từng thấy. Hãy chuẩn bị mọi thứ thật sẵn sàng rồi ghé thăm nhé.
 ほ、本当ですか……っ？\nぜひお願いします！　色々と準備をしなくちゃ……\nまずは体を鍛えるところから、ですね。=Th-thật sao ạ...? Nhất định nhờ chị giúp đỡ! Em phải chuẩn bị nhiều thứ đây... Trước tiên là phải rèn luyện cơ thể đã nhỉ.
-私、きっと強くなります！\nジオ・ゲヘナの秘境へ行けるくらい……\nCorneliaさん。一緒にトレーニング、お願いします！=Em nhất định sẽ trở nên mạnh mẽ hơn! Để có thể đặt chân đến những vùng đất bí ẩn của Gio Gehenna... Chị Cornelia, xin hãy tập luyện cùng em nhé!
+私、きっと強くなります！\nジオ・ゲヘナの秘境へ行けるくらい……\n{playername}さん。一緒にトレーニング、お願いします！=Em nhất định sẽ trở nên mạnh mẽ hơn! Để có thể đặt chân đến những vùng đất bí ẩn của Gio Gehenna... {playername}, xin hãy tập luyện cùng em nhé!
 斯くの如き祝祭の場、民草の心も華やぐと云ふもの。\n足を運ぶ老若男女、皆々が喜ぶ料理となると……\n此れは中々に悩ましき難事なりけり。=Ở nơi lễ hội như thế này, lòng người cũng trở nên phấn chấn hơn. Nhưng để làm ra một món ăn có thể khiến tất cả mọi người, từ già trẻ gái trai đều hài lòng... thì quả là một nan đề nan giải.
 万人の心躍らせるは至難の極み故。\n先ずは愛らしき稚児らの為、童心くすぐる一品を。\n騎士殿の御手を借りられるとあらば、美味なる品と仕上がりましょうぞ。=Vì làm lay động trái tim của vạn người là điều cực kỳ khó khăn, nên trước tiên hãy tạo ra một món ăn gợi lên sự thích thú cho những đứa trẻ đáng yêu. Nếu có sự giúp sức của ngài Hiệp sĩ, chắc chắn chúng ta sẽ tạo nên một món ăn tuyệt hảo.
 はぁはぁ……くっくっくっ……\n滾る……滾るぞ……っ！\n私の中に秘められた漆黒の魔力の高まりを感じる……！=Hà hà... khà khà khà... Nó đang cuộn trào... đang cuộn trào đây này...! Ta cảm nhận được ma lực đen tối ẩn giấu trong mình đang tăng vọt!

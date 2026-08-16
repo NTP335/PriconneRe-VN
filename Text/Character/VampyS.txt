@@ -1,0 +1,23 @@
+##Profile##
+【魔法】中衛でけんぞくとラヴを集めるつよつよ吸血姫。スキルでＴＰを吸収し、【チャームスローブ】を消費して放つＵＢは、ほとばしるカワいさで敵を骨抜きにする。=[Phép thuật] Nữ vương ma cà rồng cực mạnh ở vị trí trung vệ, chuyên thu thập gia tộc và tình yêu. Kỹ năng giúp hút TP, trong khi UB tiêu hao [Áo Choàng Mê Hoặc] để giải phóng một nguồn sức mạnh đáng yêu tràn trề khiến kẻ địch phải cạn kiệt kháng cự.
+
+##UB##
+サマーナイト・スプラッシュ=Summer Night Splash
+目の前の敵１キャラに魔法特大ダメージを２回与え、魔法防御力を小ダウンさせる。対象の【チャームスローブ】が７個以上の場合、さらに受けるクリティカルダメージを小アップさせ、与えたダメージに応じて味方全体のＨＰを最大20％回復させる。対象の【チャームスローブ】が最大の場合、さらに与える物理・魔法ダメージを短時間極大ダウンさせ、【チャームスローブ】を３個消費する。=Gây sát thương phép cực lớn 2 lần lên một kẻ địch ở phía trước và giảm nhẹ phòng thủ phép thuật của mục tiêu. Nếu mục tiêu có từ 7 [Áo Choàng Mê Hoặc] trở lên, đồng thời tăng nhẹ sát thương chí mạng mà mục tiêu phải chịu và hồi phục HP cho toàn bộ đồng minh tối đa 20% dựa trên sát thương gây ra. Nếu mục tiêu đạt số lượng [Áo Choàng Mê Hoặc] tối đa, đồng thời giảm cực mạnh sát thương vật lý và phép thuật do mục tiêu gây ra trong thời gian ngắn, và tiêu hao 3 [Áo Choàng Mê Hoặc].
+r:"^敵単体に(\d+)の魔法ダメージを２回与える敵単体の魔法防御力を(\d+)ダウン対象のチャームスローブが７個以上の場合、以下の効果が発動する敵単体の被クリダメを6％アップ味方全体のＨＰを与ダメージに応じて最大20％回復対象のチャームスローブが最大の場合、以下の効果が発動する敵単体のチャームスローブを３個消費する敵単体が与える物理・魔法ダメージを70％ダウン$"=►Gây $1 sát thương phép cho một kẻ địch 2 lần.\n►Giảm nhẹ phòng thủ phép của một kẻ địch đi $2 trong 18 giây.\n\nNếu mục tiêu có từ 7 [Áo Choàng Mê Hoặc] trở lên:\n►Tăng nhẹ 6% sát thương chí mạng phải chịu của một kẻ địch trong 18 giây.\n►Hồi phục HP cho toàn bộ đồng minh tối đa đến 20% dựa trên sát thương gây ra.\n\nNếu mục tiêu đạt số lượng [Áo Choàng Mê Hoặc] tối đa:\n►Tiêu hao 3 [Áo Choàng Mê Hoặc] của mục tiêu.\n►Giảm cực mạnh 70% sát thương vật lý và phép thuật do mục tiêu gây ra trong 18 giây.
+
+##S1##
+ネオンバットフィズ=Neon Bat Fizz
+目の前の敵１キャラに【チャームスローブ】（上限12）を１個付与し、魔法大ダメージを２回与え、魔法防御力とＴＰを小ダウンさせる。発動時既に対象の【チャームスローブ】が７個以上だった場合、さらに追加でＴＰを小ダウンさせ、自分のＴＰを中回復する。=Đính kèm 1 [Áo Choàng Mê Hoặc] (tối đa 12) lên một kẻ địch ở phía trước, gây sát thương phép lớn 2 lần, đồng thời giảm nhẹ phòng thủ phép thuật và TP của mục tiêu. Nếu vào thời điểm kích hoạt, mục tiêu đã có từ 7 [Áo Choàng Mê Hoặc] trở lên, sẽ tiếp tục giảm thêm TP của mục tiêu và hồi phục vừa TP của bản thân.
+
+r:"^敵単体に(\d+)の魔法ダメージを２回与える敵単体の魔法防御力を(\d+)ダウン敵単体のＴＰを75失わせる敵単体にチャームスローブを１個付与する対象のチャームスローブが７個以上の場合、以下の効果が発動する敵単体のＴＰを75失わせる自分のＴＰを150回復$"=Thời gian triển khai: 0,59 giây.\n►Gây $1 sát thương phép cho một kẻ địch 2 lần.\n►Giảm nhẹ phòng thủ phép của một kẻ địch đi $2 trong 12 giây.\n►Giảm 75 TP của một kẻ địch.\n►Đính kèm 1 [Áo Choàng Mê Hoặc] lên một kẻ địch.\n\nNếu mục tiêu có từ 7 [Áo Choàng Mê Hoặc] trở lên:\n►Giảm 75 TP của một kẻ địch.\n►Hồi phục 150 TP cho bản thân.
+
+##S2##
+ラヴリーインプレッション=Lovely Impression
+目の前の敵１キャラの魔法攻撃力を大ダウン、ＴＰを小ダウンさせ、【チャームスローブ】（上限12）を１個付与する。発動時既に対象の【チャームスローブ】が７個以上だった場合、さらに追加でＴＰを小ダウンさせ、自分の魔法攻撃力を大アップし、味方全体のＴＰを小回復させる。=Giảm lớn tấn công phép và giảm nhẹ TP của một kẻ địch ở phía trước, đồng thời đính kèm 1 [Áo Choàng Mê Hoặc] (tối đa 12). Nếu vào thời điểm kích hoạt, mục tiêu đã có từ 7 [Áo Choàng Mê Hoặc] trở lên, sẽ tiếp tục giảm thêm TP của mục tiêu, tăng lớn tấn công phép của bản thân và hồi phục vừa TP cho toàn bộ đồng minh.
+
+r:"^敵単体の魔法攻撃力を(\d+)ダウン敵単体のＴＰを50失わせる敵単体にチャームスローブを１個付与する対象のチャームスローブが７個以上の場合、以下の効果が発動する敵単体のＴＰを50失わせる自分の魔法攻撃力を(\d+)アップ味方全体のＴＰを100回復$"=Thời gian triển khai: 0,59 giây.\n►Giảm tấn công phép của một kẻ địch đi $1 trong 12 giây.\n►Giảm 50 TP của một kẻ địch.\n►Đính kèm 1 [Áo Choàng Mê Hoặc] lên một kẻ địch.\n\nNếu mục tiêu có từ 7 [Áo Choàng Mê Hoặc] trở lên:\n►Giảm 50 TP của một kẻ địch.\n►Tăng tấn công phép của bản thân lên $2 trong 12 giây.\n►Hồi phục 100 TP cho toàn bộ đồng minh.
+
+##EX##
+#ラヴよろしくぅ♪=#LoveGreeting♪
+#ラヴよろしくぅ♪+=#LoveGreeting♪+
