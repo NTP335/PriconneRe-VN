@@ -36,7 +36,7 @@ Eris
 覇瞳皇帝…わたしの邪魔をするなら\nかつてのように、消去するだけ\nミロクも…わたしを草野優衣の\n複製と呼んだこと、後悔させてやる=Kaiser Insight... Nếu ngươi dám cản đường ta, ta sẽ xóa sổ ngươi như đã từng làm trước đây.\nCả Miroku nữa... ta sẽ cho ngươi phải hối hận vì dám gọi ta là bản sao của Kusano Yui.
 
 Anemone
-騎士のひと──背中は、任せます\n貴方のこと、\n媛と同じくらい、信じてるので──\n自分でも、びっくりですけど=Kỵ sĩ-san── Em xin phó thác tấm lưng này cho anh.\nTâm tư của anh, em tin tưởng nhiều ngang ngửa với Công chúa vậy──\nTuy chính bản thân em cũng thấy ngạc nhiên lắm...
+騎士のひと──背中は、任せます\n貴方のこと、\n媛と同じくらい、信じてるので──\n自分でも、びっくりですけど=Kỵ sĩ-san── Em xin phó thác tấm lưng này\ncho anh. Tâm tư của anh, em tin tưởng nhiều ngang ngửa\nvới Công chúa vậy── Tuy chính bản thân em\ncũng thấy ngạc nhiên lắm...
 
 Rin
 ええー？　こんだけ人数いるならさ\n一人ぐらいいなくても…\n…って空気じゃないわけね\nはいはい、あたしも働きますよー=Ể～? Đông người thế này thì thiếu một người chắc cũng chẳng sao đâu nhỉ...\n...Mà xem ra không khí hiện tại không cho phép thế nhỉ.\nRồi rồi, tôi cũng chịu khó chiến đấu cùng mọi người là được chứ gì──
@@ -87,8 +87,8 @@ Akari
 ひゃぁんっ！\nもう、敵さんが脅かしてくるから\nアカリ、ヘンな声出ちゃいました…\nこういうの、よくないですよっ=Kyaaa~h! Trời ơi, tự dưng bọn địch cứ hù dọa người ta, khiến Akari phát ra cái âm thanh kỳ quặc gì đâu á... Mấy chuyện thế này, thật là không tốt chút nào luôn đó nha!
 
 Miyako
-アイツらが野放しだと、ミヤコは\n安心してプリンを食べられないの\n今日のプリンと明日のプリンの\nためにも、絶対負けないの！=Bọn chúng mà cứ nhởn nhơ ngoài kia thì Miyako sẽ chẳng thể nào thảnh thơi ăn bánh pudding được mất.\nVì phần pudding của ngày hôm nay và cả ngày mai nữa, Miyako tuyệt đối không thua đâu!
-前はミヤコ、悪いヤツに捕まって\n消されそうになって怖かったの…\nでも今度は全然怖くないの！\nオマエが一緒なら平気なの！=Trước đây, Miyako đã rất sợ hãi khi bị kẻ xấu bắt giữ và suýt thì bị xóa sổ...\nNhưng lần này thì Miyako không hề sợ chút nào cả!\nChỉ cần có cậu ở cùng thì Miyako sẽ ổn thôi!
+アイツらが野放しだと、ミヤコは\n安心してプリンを食べられないの\n今日のプリンと明日のプリンの\nためにも、絶対負けないの！=Bọn chúng mà cứ nhởn nhơ ngoài kia thì\nMiyako sẽ chẳng thể nào thảnh thơi ăn bánh pudding được mất.\nVì phần pudding của ngày hôm nay và cả ngày mai nữa,\nMiyako tuyệt đối không thua đâu!
+前はミヤコ、悪いヤツに捕まって\n消されそうになって怖かったの…\nでも今度は全然怖くないの！\nオマエが一緒なら平気なの！=Trước đây, Miyako đã rất sợ hãi khi bị\nkẻ xấu bắt giữ và suýt thì bị xóa sổ...\nNhưng lần này thì Miyako không hề sợ chút nào cả!\nChỉ cần có cậu ở cùng thì Miyako sẽ ổn thôi!
 
 Arachne
 騎士さま、どうかご安心を…\nどれだけ厳しい運命が待って\nいたとしても…あなたのことは、\nわたしの糸が必ずお守りします=Xin Ngài Kỵ sĩ cứ yên tâm nhé... Cho dù phía trước có phải đối mặt với số phận nghiệt ngã đến nhường nào... thì sợi chỉ của em nhất định sẽ luôn bảo vệ ngài.
@@ -163,7 +163,7 @@ Kuuka
 とっても強そうな敵ですっ…\n当然、攻撃も強烈になるはず…\nドＳさん、ここはどうかクウカに、\n先頭をお任せください！　ぐふふ♪Trông bọn chúng có vẻ mạnh quá đi mất... Đương nhiên là các đòn tấn công cũng sẽ cực kỳ hung hãn đây... Ngài Bạo chúa-san, xin hãy để Kuuka được xung phong dẫn đầu trận chiến này nhé! Gufuhêhê♪
 
 Makoto
-くっ、敵の連中、ずいぶんな戦力\n揃えてきやがった。けど、\n数でも気合でも負けやしねぇ！\nあたしが嚙み砕いてやる！=Hừ...! Mấy tên địch đó đã gom góp được một lực lượng kha khá cơ đấy. Nhưng mà dẫu có đọ về số lượng hay khí thế đi nữa, tụi này cũng chẳng thèm thua kém đâu nhé! Cứ để bà đây nhai nát tụi nó cho coi!
+くっ、敵の連中、ずいぶんな戦力\n揃えてきやがった。けど、\n数でも気合でも負けやしねぇ！\nあたしが嚙み砕いてやる！=Hừ...! Mấy tên địch đó đã gom góp được\nmột lực lượng kha khá cơ đấy. Nhưng mà\ndẫu có đọ về số lượng hay khí thế đi nữa,\ntụi này cũng chẳng thèm thua kém đâu nhé!\nCứ để bà đây nhai nát tụi nó cho coi!
 
 Karyl
 この世界を好き勝手しようだなんて\nそういう連中に人生振り回されるの\nこちとらもううんざりなのよ！\n全員ぶっ飛ばしてやるんだから！=Cho dù là thế giới này hay thực tại đi chăng nữa, tôi đã quá chán ngấy cảnh cuộc đời mình bị sai khiến bởi đám người cứ nghĩ chúng thích làm gì thì làm rồi đấy! Tôi sẽ cho tất cả mấy người bay màu hết!

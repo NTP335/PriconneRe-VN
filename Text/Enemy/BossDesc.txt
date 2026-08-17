@@ -2836,8 +2836,7 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 
 
 
-王家の装備──『怠惰』！=Trang Bạc Hoàng Gia── "Lười Biếng"!
-王家の装備──『強欲』！=Trang Bạc Hoàng Gia── "Tham Lam"!
+
 【苦死の冥咆】数が３個以上：対象に物理割合ダメージ=Nếu số cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] từ 3 trở lên: Gây sát thương vật lý theo phần trăm lên mục tiêu.
 敵全体の【苦死の冥咆】をリセット=Đặt lại số cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] của toàn bộ kẻ địch.
 前から敵１体がバリア状態ではない：前から敵１体に【苦死の冥咆】を１個追加=Nếu kẻ địch ở vị trí đầu tiên không ở trạng thái khiên: Thêm 1 cộng dồn [Tiếng Gầm Âm Phủ Đau Khổ] vào kẻ địch ở vị trí đầu tiên.
@@ -2848,7 +2847,6 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 敵全体にＴＰ上昇上限=Áp dụng giới hạn tăng TP cho toàn bộ kẻ địch.
 身丈を超した『願い』の為、幻境竜后についた元三魔姫属。呪術と弓術で相手を翻弄し、『強欲』で未来を、希望を、生命を奪う。=Cựu thành viên của Tam Ma Cơ, kẻ đã quy thuận Huyễn Cảnh Long Hậu vì một "điều ước" vượt quá tầm với của bản thân. Ả ta đùa giỡn đối thủ bằng thuật nguyền và cung pháp, cướp đoạt tương lai, hy vọng và sinh mạng bằng "Tham Lam".
 
-ルイズマリー・アカリ=Louise Marie Akari.
 幻境竜后のプリンセスナイトであり友。妖艶かつ陰惨を極めた牝山羊は邪法を用いて弱ったココロに付け込み、魂を堕とし絡み合う。=Princess Knight và là bạn của Huyễn Cảnh Long Hậu. Con dê cái đầy vẻ quyến rũ và cực kỳ tàn nhẫn này sử dụng tà pháp để lợi dụng những trái tim đang suy yếu, đọa đày và quấn lấy linh hồn họ.
 物理か魔法攻撃力が最も高い敵１体に魔法割合ダメージ（召喚体無視）=Gây sát thương phép theo phần trăm lên 1 kẻ địch có tấn công vật lý hoặc tấn công phép cao nhất (bỏ qua thể triệu hồi).
 物理か魔法攻撃力が最も高い敵１体に誘惑（召喚体無視・必中）=Gây hiệu ứng Mê hoặc (Charm) lên 1 kẻ địch có tấn công vật lý hoặc tấn công phép cao nhất (bỏ qua thể triệu hồi, đánh trúng 100%).
