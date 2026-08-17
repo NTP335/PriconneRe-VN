@@ -1,0 +1,235 @@
+End Vision Opening, Bosses dialogue
+
+Opening
+「ぴっぎゅうぅ～っ！！」\n「ぶっぅう～～っ！！」="Piggyaaah!!"\n"Buuuuuhh!!"
+──……来たか。\nアストライア……=──...Ngươi đến rồi sao.\nAstraea...
+フレイヤさんっ……！\n今度こそ、決着をつけましょう……！=Freya-san...!\nLần này chúng ta hãy giải quyết dứt điểm mọi chuyện nhé...!
+リーザ……！\nかつての主君として──\nあなたに、裁きを……！=Risa...!\nVới tư cách là chủ nhân cũ của ngươi──\nTa sẽ giáng phán quyết xuống đầu ngươi...!
+……良い眼をするようになりましたね、ヴァイオレット姫。\nでも──\n私を裁くなんて、できるかしら？=...Ngươi bắt đầu có ánh mắt thật sắc sảo rồi đấy, Công chúa Violet.\nNhưng mà──\nliệu ngươi có thực sự phán xét được ta không?
+うふふふっ♡\nチェリーちゃんや美味しそうな子たちが、よりどりみどり♡\n山盛りのフルーツポンチみたいで、ヨダレが止まりません……♡=Hufufu... ♡\nBé Cherry và những đứa trẻ trông ngon miệng này, có rất nhiều để lựa chọn luôn đấy ♡\nTrông giống như một tô trái cây hỗn hợp vun đầy vậy, nước dãi của ta cứ chảy không ngừng thôi... ♡
+現れましたね、アルシャト……！\nもう誰も、あなたに堕とさせはしませんよ……！=Ngươi xuất hiện rồi nhỉ, Alshat...!\nTa sẽ không để ngươi làm bất cứ ai sa ngã thêm lần nào nữa đâu...!
+──陛下っ！\nあたしの成長、今度こそお見せしますから……！=──Bệ hạ!\nLần này em nhất định sẽ cho người thấy sự trưởng thành của em...!
+拙い技で、私の『眼』を穢そうというの？\nあなたにしては良い作戦かもしれないわね、キャル……♪=Ngươi định dùng thứ kỹ thuật vụng về đó để vấy bẩn "con mắt" của ta sao?\nĐối với ngươi thì đó có lẽ là một kế sách hay đấy nhỉ, Karyl...♪
+きっ──\nきっ──、きっ──\n「君と出逢いぃ～　君と往くぅ～」♪=Ki──\nKi──, ki──\n"Gặp gỡ emm~ và cùng đi với emm~"♪
+ミロク……！\n今度こそ、冥界に送り返してあげるわ！=Miroku...!\nLần này ta sẽ tiễn ngươi quay về âm giới!
+キッ！　キキキ来ぃ～やがったなドラゴン娘ぇ……！\nここから先には、逝かせぬゎぁあああぁいっ……！\n先の無いBAD ENDに、送ってやらぁぁ……！=Tch! Đ-Đứa con gái long tộc mi, mi cuối cùng cũng đến rồi rữaa...!\nTa không đời nào để mi bước qua đây đâuuu...!\nTa sẽ tiễn mi tới một BAD END chẳng có tương lai nào hết cho xemm...!
+あんた！\nこの前はよくもあたしのこと踏んずけてくれたわね！\nたっぷりお返ししてやるんだから……！=Ngươi!\nLần trước dám giẫm đạp lên người ta một vố ra trò cơ mà nhỉ!\nTa sẽ trả lại cho ngươi cả vốn lẫn lời đấy...!\n
+……主さま、アメスさま。そしてみなさまも。\n敵は強大にして、数多くおります。\nまずは各個撃破を目指しましょう。=...Chủ nhân, Ngài Ameth, và tất cả mọi người nữa.\nKẻ thù vô cùng hùng mạnh và đông đảo.\nTrước tiên, chúng ta hãy hướng tới mục tiêu tiêu hao từng kẻ một nhé.
+然り。\n後に控える本命は、此度の首魁にして梟悪──幻境竜后也。\n努々御忘れ無き様に、伏して御願い申し上げ奉る。=Quả thực là vậy.\nKẻ chủ mưu thực sự chờ đợi ở phía sau, thủ lĩnh kiêm hung thần của lần này── chính là Huyễn Cảnh Long Hậu.\nThiếp xin cúi đầu khẩn khoản mong mọi người đừng bao giờ quên điều đó.
+幻境竜后の元には、行かせない──\nお前たちは、ここで終わりだ。=Ta sẽ không để các ngươi đến chỗ Huyễn Cảnh Long Hậu đâu──\nTất cả các ngươi sẽ phải chấm dứt ở đây.
+お空のソルドラちゃんのおナカが、[rub:リソース]　餌　[/rub]でパンパンになるまで──\nみぃんなで、イチャイチャしましょうね……♡=Cho đến khi cái bụng của bé Sorudra trên bầu trời căng phồng lên bởi [rub:Tài nguyên] Thức ăn [/rub]──\nchúng ta hãy cùng nhau âu yếm thật vui vẻ nhé... ♡
+……あんま、のんびりしてらんないわね。\nただでさえ絶望的なのに、もっとパワーアップされちゃったら……！=...Chúng ta không thể cứ thong thả được đâu.\nĐã tuyệt vọng sẵn rồi mà bọn chúng lại còn được cường hóa mạnh hơn nữa thì...
+かしこまりました──\n一意専心、迅速果断に参りましょう！=Tôi hiểu rồi ạ──\nChúng ta hãy nhất tâm nhất ý, tiến hành thật nhanh chóng và quả đoán nhé!
+おっけー！\nそれじゃああたしたちも、全力全開だーっ！=Oki!\nVậy thì tụi mình cũng dốc toàn lực 100% luôn đây!
+よーしっ！\n行きましょう、{playername}くん！\nみんなで、未来を勝ち取るために！=Được rồi!\nNào, chúng ta đi thôi, {playername}-kun!\nĐể tất cả cùng nhau giành lấy tương lai!
+
+Freyja Pre Fight
+ヲ～ッホッホッホ♪　アラクネさんとのお決戦ではあたくし、\nナーナさんにズンバラリされてスヤスヤでしたけど？\nマンティコア流毒殺剣術の恐怖、今こそ叩き込んで差し上げますわ～っ！=Ô-ho-ho-ho-ho♪ Trong trận chiến quyết định với Arachne, tớ đã bị Nana chém cho tơi bời rồi ngủm củ tỏi mất tiêu còn gì?\nBây giờ tớ sẽ cho các cậu nếm mùi terror của Kiếm thuật Ám sát Kịch độc phái Manticore nhé~!
+……叩き込まれるのはお前のほうだ。=...Kẻ phải nếm mùi đó mới là cô đấy.
+──んひゃあああぁんっ！？=──Nhyaaaahhh!?
+カノンさぁ～んっ！=Chị Kanon ơi~!
+フレイヤ様とは、過去に何度か相対しておりますが。\nこれほどまでとは……=Thiếp đã từng đối đầu với Freyja-sama vài lần trong quá khứ.\nNhưng không ngờ ngài ấy lại mạnh đến mức này...
+……この前わたしと戦ったときよりも、\nさらにパワーアップしてるみたいですね……=...Có vẻ như chị ấy còn được cường hóa mạnh hơn cả lúc đấu với tớ lần trước nữa...
+これはもしや……\n幻境竜后からの、強化の力……？=Chẳng lẽ đây là...\nsức mạnh cường hóa từ Huyễn Cảnh Long Hậu sao...?
+ユースティアナ・フォン・アストライア……\n私は最早、貴様との因果に拘泥しない。=Eustiana von Astraea...\nTa không còn bị vướng bận bởi nhân quả với ngươi nữa.
+幻境竜后のプリンセスナイトとして、王家の装備を振るうだけ。\n怒りの炎はそのままに、機械のように──\n貴様たちを最後の一人まで根絶してやる。=Với tư cách là Princess Knight của Huyễn Cảnh Long Hậu, ta chỉ đơn giản là sử dụng Trang bị Hoàng gia.\nVới ngọn lửa phẫn nộ vẫn cháy nguyên vẹn, như một cỗ máy──\nTa sẽ tiêu diệt sạch sẽ các ngươi đến tận một kẻ cuối cùng.
+……そうだ、私の……願いのために──……=...Đúng vậy, vì... điều ước của ta──...
+……？\nあの方。怒りだけではない、何かが……=...?\nNgười đó. Ngoài sự giận dữ ra, còn có thứ gì đó...
+いくぞ。\n王家の装備、『憤怒』──！=Đi nào.\nTrang bị Hoàng gia, "Phẫn nộ"──!
+リリちゃん、危ないっ！=Lily-chan, nguy hiểm đấy!
+！\n申し訳ありません、ペコリーヌ様……！=Thiếp vô cùng xin lỗi, Pecorine-sama...!
+だ、大丈夫です！\nフレイヤさん……\nやっぱり、手ごわいですね……！　でも……！=Em, em không sao ạ!\nFreyja-san...\nQuả nhiên là một đối thủ khó nhằn...!\nNhưng mà...!
+ペコリーヌさま、ご無理をなさらず……！\nわたくしたちがおります……！=Pecorine-sama, xin đừng gắng sức quá mức...!\nBọn em vẫn luôn ở đây mà...!
+はいっ……！\n頼りにしてます、みなさん！=Vâng...!\nTớ trông cậy vào mọi người nhé!
+っ……！\n……アスト、ライア……\n私を……乱すな……！=Hự...!\n...Astraia...\nĐừng có... làm ta xao lãng...!
+
+Freyja Post Fight
+……はぁ、はぁっ……！=...Haaah, haaah...!
+──『[rub:ハウリング・ネメシス]復讐の咆哮[/rub]』！！=──"[rub:Howling Nemesis]Tiếng Gầm Báo Thù[/rub]"!!
+あ～らあらあら♪　フレイヤさんったらフラフラじゃありませんこと♪\nこのおビューティーなあたくし様が、トドメを刺して差し上げますわ\nお命とったらぁですわ～♪　──んどりゃあああああっっ！！！！=Chà chà chà♪ Freya-chan trông xiêu vẹo thấy thương chưa kìa♪\nChính cái sự xinh đẹp này của tiểu thư ta sẽ ban cho ngươi đòn kết liễu.\nTa lấy mạng ngươi đây nha~♪ ──Hyaaaaaahhhhh!!!!!!!!
+しんでる。=Ngỏm rồi.
+──んびゃあああぁ～～んっ！？！？=──Nbyyyyyyaaaahhh~!?!?
+まだだ……！\n私の怒りは、ようやく火が付いた程度に過ぎない……！=Vẫn chưa đâu...!\nCơn giận của ta mới chỉ chớm bùng lên thôi...!
+はああぁっ……！！=Haaaah...!!
+……！\nまだ、これほどの力が……！\nそれに──=...!\nCô ta vẫn còn lượng sức mạnh lớn thế này...!\nVà──
+──漆身呑炭。\nまるで、命の炎をくべているかのような……=──Tất thân nuốt than (Hủy thân tột độ).\nCứ như thể... đang thiêu đốt cả ngọn lửa sinh mệnh vậy...
+フレイヤさん……=Freya-chan...
+……っ……\nその──\n哀れむような、眼──=...!\nÁnh mắt... thương hại đó──
+私は、[rub:・]お[/rub][rub:・]前[/rub]が気に食わない。=Ta [rub:・]g[/rub][rub:・]h[/rub][rub:・]é[/rub][rub:・]e[/rub] ngươi.
+お前の眼が。お前の声が。お前の顔が。お前の性格が。\nお前の同情が。\nお前のすべてが──！=Ánh mắt của ngươi. Giọng nói của ngươi. Gương mặt của ngươi. Tính cách của ngươi.\nSự thương hại của ngươi.\nMọi thứ về ngươi──!
+ユースティアナ──いや！\nランドソルの王女、ペコリーヌ！！\n私の怒りを、その卑しい腹がはち切れるまで味わわせてやるッ！！！=Eustiana──không!\nCông chúa của Landosol, Pecorine!!\nTa sẽ bắt ngươi nếm trải cơn giận này cho đến khi cái bụng ti tiện của ngươi bùng nổ thì thôi động lực đó hiểu chửaiii ！！！
+──はい！\nわたしのお腹で、あなたのすべてを受け止めてみせます！=──Vâng!\nEm sẽ dùng cái bụng của mình để hứng trọn tất cả từ chị!
+「やあああああぁっ！！」\n「だあああああぁっ！！」="Hyaaaaaaaaah!!"\n"Daaaaaaaah!!"
+
+Lisa Pre Fight
+「リーザ！」\n「リーザちゃ！」\n「リーザ姉しゃま！」="Liza!"\n"Liza-chan!"\n"Chị Liza!"
+あらあら……ずいぶんと、頭数を揃えて来たわね。\nよってたかって私を嬲るつもりかしら。=Ồ nào... Các người mang đến một lực lượng đông đảo phết nhỉ.\nĐịnh hợp sức lại để hành hạ tôi đấy à.
+おう。\n落とし前、つけてもらおうかい。=Ừ.\nBọn này đến để đòi lại món nợ đấy.
+悪いけど。\nそういうワケにもいかないの。=Tiếc quá nhỉ.\nNhưng mà chuyện đó không được đâu.
+情けないわね。\n幻境竜后の足の裏は、そんなに甘いのかしら？=Thật thảm hại làm sao.\nDưới chân của Huyễn Cảnh Long Hậu có vị ngọt đến thế cơ à?
+あたちの足のほうが、おいしいでしゅよきっと……！=Chân của em chắc chắn còn ngon hơn ấy chứ...!
+そんなものいらないわ。\n……タコ焼きは嫌いじゃないけどね。=Thứ đó thì tôi không cần đâu.\n...Dù là bạch tuộc nướng thì tôi cũng không ghét lắm đâu nhé.
+じゃ、じゃあ……クーちゃんは？\nすっげぇさびしそうに、リーザちゃのこと待ってたよ……？=V-Vậy còn... Ku-chan thì sao?\nEm ấy đã đợi chị Liza trông có vẻ cô đơn lắm đấy biết không...?
+未練なんて、ありはしないわ。\nあの子は私の、弱みになるかもしれなかったのだから。=Chút vương vấn nào cũng không có đâu.\nBởi vì đứa trẻ đó có thể sẽ trở thành điểm yếu của tôi.
+御託はいらねぇよ。\n曲がった性根、首根っこごとへし折って畳んでやらぁ。=Đừng có mà lải nhải mấy lời ngụy biện nữa.\nCái bản chất vẹo vọ đó, tôi sẽ bẻ gãy từ gốc cổ rồi gói gọn lại cho xem.
+姫？\nさっきの啖呵、忘れてませんよね。=Hime?\nLời tuyên chiến lúc nãy, chắc cậu không quên chứ hả.
+……ええ。\nプリンセスとして──\nあなたを裁きます……！=...Đúng vậy.\nVới tư cách là một Công chúa──\nTôi sẽ phán xét cô...!
+王家の装備──『怠惰』！=Trang bị Hoàng gia── "ACEDIA"!
+王家の装備──『強欲』！=Trang bị Hoàng gia── "AVARITIA"!
+
+Lisa Post Fight
+「リーザちゃ……！」\n「リーザ姉しゃま……！」="Liza-cha...!"\n"Chị Liza...!"
+っ……\nあのね……\n敵がちょっと傷ついた程度で、心配してどうするの。=...!\nNày nhé...\nLo lắng cái gì chỉ vì kẻ địch bị thương nhẹ một tẹo chứ.
+あてやっぱ、こんなん嫌だぁ……！\nこっち戻ろ？\nリーザちゃ……！=Em rốt cuộc không thích thế này chút nào đâu...!\nQuay về bên này đi?\nLiza-cha...!
+うじゅっ……！\nごめんなしゃいでしゅっ……\nで、でしゅけどぉ……！=Ujyu...!\nEm xin nhỗi...!\nNhưng, nhưng mà cơ mà...!
+今なら、全身くしゅぐり刑と久遠氷河でかき氷の刑だけで済みましゅよ！=Giờ mà về thì chỉ bị phạt cù lét toàn thân với phạt bào đá bằng Sông băng Vĩnh cửu thôi đó nha!
+やれやれ。\n困った奴らだぜ。=Trời ạ.\nMấy kẻ phiền phức thật đấy.
+いや済まないですけどね普通に。\n終身刑でゾンビの廃村の清掃と──\nグレイスちゃんのスケスケな足を舐める刑も、オマケしてあげます。=Không, thế thì bớt ảo tưởng đi cưng.\nÁn chung thân gồm có quét dọn ngôi làng bỏ hoang đầy zombie──\nKèm theo cả hình phạt liếm đôi chân xuyên thấu của Grace-chan nữa đấy nhé.
+……最後のだけで、徹底抗戦のための十分な理由になるわね。=...Riêng cái cuối cùng thôi cũng đủ lý do để kháng chiến đến cùng rồi đấy.
+……わかっております。\nあなたが、抵抗を続けるということは。=
+[rub:・]全[/rub][rub:・]力[/rub][rub:・]で[/rub]挑んで参りなさい──叛逆の徒よ。\nただでさえ、数の利はこちらにあるのですから。=...Ta hiểu rồi.\nRằng ngươi vẫn định tiếp tục kháng cự.\nHãy xông lên với toàn [rub:・]l[/rub][rub:・]ự[/rub][rub:・]c[/rub] đi──hỡi những kẻ phản nghịch.\nDẫu sao thì lợi thế về số lượng cũng đang nghiêng về phía bọn ta cơ mà.
+っ……\n言われなくたって、そうさせてもらうわっ……=...!\nKhông cần ngươi nhắc thì ta cũng sẽ làm thế...
+リーザ……！　=Lisa...!
+
+Alshat Pre Fight
+ヴルムを苦しめた、幻境竜后のプリンセスナイト……！\nここで神罰を下します、アルシャト……！=Princess Knight của Huyễn Cảnh Long Hậu, kẻ đã hành hạ Vrum...!\nTa sẽ giáng hình phạt của thần linh xuống ngươi tại đây, Alshat...!
+やぁん♡\n電流プレイなんて、マニアックすぎますぅ♡\nそれよりも──=Á chà♡\nKiểu chơi điện giật này thì quá là maniac rồi đấy ạ♡\nHơn thế nữa──
+まずは、しりとりで勝負♡\nですよぉ♡=Trước tiên, chúng ta hãy đấu shiritori đi đã nào♡
+し、しりとり！？=Sh-Shiritori!?
+『り』ですか？　ウフフ……\n──『リップサービス』♡=Là chữ "Ri" sao? Ufufu...\n──"Lip service"♡
+っ！？　そ、それってどういう意味──じゃなくて！\nす、す……\n『スイッチヒッター』！=Hả!? C-Cái đó nghĩa là gì──không phải thế!\nSw-Sw...\n"Switch hitter"!
+た？\nた～……『玉遊び』、ですっ♪=Ta? Ta~... là "Tamasobi", đấy ạ♪
+まぁ♡\nとっても手ごわいひとたち……♡\nそれなら──=Chao ôi♡\nĐúng là những đối thủ cực kỳ đáng gờm...♡\nNếu vậy thì──
+『[rub:ビ]ヴィ[/rub]ーちゃんはFカップ』です……♡="Bé Vee ngực cúp F" vậy...♡
+えぇっ！？\nまさか、そんな高等テクを使ってくるなんて……！=Êả!?\nKhông ngờ cậu ta lại dùng một kỹ thuật cấp cao như thế chứ...!
+どうしよう～！？\n『ぷ』だよ、お姉ちゃん！=Phải làm sao đây~!?\nChữ "Pu" đó, chị hai!
+へっ！？\nいきなりそんなこと言われても……！\n『ぷ』、『ぷ』……！=Hả!?\nDù có bất ngờ bảo em thế đi nữa thì...!\n"Pu", "pu"...!
+『プリン』なの～！="Pudding"!
+ミヤコちゃん！？=Miyako-chan!?
+あっ♡\n『ん』がついちゃいましたね……♡\n罰ゲームはぁ、お口とお口で──=Ah♡ Lại kết thúc bằng chữ "n" mất tiêu rồi kìa...♡ Hình phạt là... chạm môi nhau đấy nhé──
+やあぁぁ～んっ！=YAAAAAHN!
+下卑た座興に付き合う暇など無い。\n欠片も残さず黒焦げにしてくれる……！=Tôi không có thời gian để hùa theo những trò vui nhảm nhí tầm thường đó đâu.\nTa sẽ thiêu rụi các người thành tro bụi không còn một mảnh vụn...!
+はぁ……仕方がありません。\nそれじゃあ、お尻の取り合いはこれくらいにして。\nお肉とお肉をぶつけあうプレイ──はじめましょうか♡=Haizz... đành chịu vậy thôi.\nVậy thì, chuyện tranh giành mông má tạm dừng ở đây nhé.\nTrò chơi va chạm da thịt giữa hai bên── bắt đầu thôi nào♡
+
+New Titlecard
+ルイズマリー・アカリ=Louise Marie Akari
+
+Alshat Post Fight
+やりましたぁ！\nお兄ちゃん、アカリをた～っくさん褒めてください♡=Em làm được rồi nè!\nAnh hai, hãy khen ngợi Akari thâậật nhiều vào nhé♡
+きゃああんっ……♡=Kyaaah...♡
+あぁん♡\nアカリちゃんやルイズマリーちゃんばっかり、ずるいです♡\nワタシもチェリーちゃんと、ちゅっちゅしまぁす♡=Aah♡\nToàn là Akari-chan với Louise-Marie-chan không à, gian lận quá đi mất♡\nEm cũng sẽ chụt chụt với Cherry-chan nữa cơ♡!
+ダーリンダーリン♡\n私にも、ご褒美くれるわよね？\n今度こそ、唇と唇でっ……！=Darling, darling♡\nAnh cũng sẽ thưởng cho em chứ đúng không?\nLần này nhất định là môi chạm môi đấy nhé...!
+ええっ！？\nあの人、まだまだ元気いっぱいって感じじゃない……！=Ểh!?\nTrông cô ta vẫn tràn trề sinh lực lắm chứ bộ...!
+ハイ♡\nヴィーちゃんに、力を貰ってますし──\n何回戦でも、気を抜かずにお相手しちゃいますよ♡=Vâng♡\nVì em đang nhận sức mạnh từ Vee-chan mà──\nDù là mấy hiệp đi nữa, em cũng sẽ tiếp đón cẩn thận không lơi lỏng đâu nhé♡
+もちろん……\n肉弾戦じゃなくて、構いませんからね……♡\nしりとりでも♡　お相撲でも♡=Đương nhiên là...\nKhông đánh cận chiến thì chơi kiểu khác cũng được mà...♡\nChơi nối chữ cũng được nè♡ Hay đấu vật Sumo cũng chấp tuốt♡
+雑草みたいに、生えてくるなら──\n刈り取るだけです。\n何度でも──=Nếu cứ mọc lên như cỏ dại──\nThì ta chỉ việc nhổ sạch chúng đi thôi.\nBao nhiêu lần cũng thế──
+モネや、手緩き事を言いなんし。\n不貞の山羊奴──今こそ根切りにしてくれようぞ。=Mone, chớ có nói lời nhân nhượng.
+ふふっ……こわぁい♡\nでも──=Hì hì... đáng sợ quá cơ♡\nNhưng mà──
+みんな、みぃんな……\n汗や汁まみれの、ドロドロになるまでぶつかりあって。\n心を晒して。それから──ワタシが、抱いてあげますね♡=Tất cả, tất tần tật mọi người...\nVa chạm nhau cho đến khi đầm đìa mồ hôi dịch chất, nhão nhoét bê bết vào.\nPhơi bày tâm hồn ra. Rồi sau đó──chị sẽ ôm ấp các cưng cho nhé♡!
+
+Miroku Pre Fight
+……フフ。\n世界が滅びる間際の、この感覚──\n何やら懐かしくすらありますね。=...Hufufu.\nCảm giác này, ngay trước bờ vực diệt vong của thế giới──\nThậm chí ta còn thấy có chút hoài niệm nữa cơ đấy.
+その節はLoAを焼き滅ぼすこと、叶いませんでしたが。\n此度は現実ごと、滅却すると致しましょう──我が幻境竜后と共に。=Lần trước ta đã không thể thiêu rụi LoA thành tro bụi được.\nNhưng lần này, ta sẽ tiêu diệt cả hiện thực này──cùng với Huyễn Cảnh Long Hậu của ta.
+現れましたね、ミロク……！=Ngươi xuất hiện rồi nhỉ, Miroku...!
+【アルターメイデン】のみんな、気を付けて！\nそいつは──=Mọi người trong [Alter Maiden], hãy cẩn thận!\nTên đó là──
+──存じております。\n以前わたくしたちが『端末』だった頃、\nミソラ様らと共に、エリス様に仕えていた方……=—Bọn em biết rõ ạ.\nKhoảng thời gian trước, khi tụi em vẫn là những "vật chủ/thiết bị",\nđó là kẻ từng phụng sự Nữ thần Eris cùng với tiểu thư Misora và những người khác...
+御無沙汰をしておりますね……\nTYPE-Rさん。Pさん。Qさん。\n随分と、様変わりしたようですが。=Đã lâu không gặp nhỉ...\nTYPE-R. P. Q.\nCó vẻ như các em đã thay đổi rất nhiều rồi nhỉ.
+今のわたしたちは、そんな名前じゃありませんっ……！\n行きますよ！=Tụi em bây giờ không còn dùng những cái tên đó nữa đâu...!\nĐi thôi nào!
+「「「シャイン・エンゲージ！！」」」=“““Shine Engage!!!”””
+……！\nまほう。\nけされた。=...!\nPhép thuật.\nĐã bị xóa sổ.
+相変わらず、大変厄介な能力でございます……！=Vẫn vô cùng phiền toái như mọi khi...!\n
+ええ、それに……\n……なんだか、違和感あるわね。\nこの前は、もう少しその……様子が変だったような？=Ừm, hơn nữa là...\n...Cảm giác có chút gì đó lạ lắm.\nLần trước, hình như trạng thái của gã ta có phần... hơi bất thường cơ mà nhỉ?
+えっ？\nそうだったんですか？\nわたしたちが知っているあの人と、変わらないですけど……=Hả?\nVậy sao ạ?\nVẫn giống y như người mà tụi em từng biết mà...
+心頭滅却すればなんとやら。\nシェフィさん──貴方とゼーンさんに海へ落とされたことで頭が冷え、\n精神の落ち着きを取り戻したのですよ。=Người ta vẫn thường nói "Tâm đầu ý hợp/tâm tịnh ắt thanh tịnh" mà.\nShefi-san──nhờ việc bị cô và Zane ném xuống biển nên tôi đã được hạ nhiệt cái đầu,\nvà lấy lại được sự bình tĩnh trong tâm trí rồi đây.
+そ、そういうものなの……？=V... Vậy ra là thế sao...?
+──おや？\nそちらにいるのは、ミソラさんではないですか。\n懐かしい顔が揃い踏み、まるで同窓会のようですね。=—Ồ?\nChẳng phải Misora ở đằng kia đó sao.\nTập hợp đầy đủ những gương mặt hoài niệm thế này, trông cứ như một buổi họp lớp vậy nhỉ.
+……はぁ。\n正直もう関わりたくないな～ってカンジですけど。=...Hà.\nNói thật là tớ ngán đến tận cổ chẳng muốn dính dáng gì nữa đâu~.
+幻境竜后のついでに、大掃除しちゃいましょっか★\nそれじゃ、どるるる──=Nhưng nhân tiện xử lý Huyễn Cảnh Long Hậu luôn, tụi mình dọn dẹp tổng vệ sinh một mẻ luôn nhé★\nVậy thì, dorururu──
+うじゅっ！？\nあたちをよびまちた？=Ujyu!?\nCậu gọi tớ đấy à?
+──ひぃっ！！！！！=—HYAAAAAY!!!
+タ、タコぉっ！！！！！！！\nいやぁ！！！\nタコいやぁ！！！　ぐちょぐちょぬるぬるカミサマいやぁ～っ！！！！=B-Bạch tuộc！！！！！！！\nKhôngggggg muốn đâuuuu!!!\nGhét bạch tuộc lắm ấyyyy! Cái thứ thần linh nhầy nhụa lầy lội ghét chết đi được gưaaaa~っ!!!!
+ぜんぜん落ち着いてないじゃない！？=Có bình tĩnh tẹo nào đâu hả trời!?
+──無効化能力に隙が生まれたようです。\n畳みかけましょう、主さま。=—Hình như có sơ hở xuất hiện trong năng lực vô hiệu hóa rồi.\nChúng ta cùng dồn lực tấn công thôi, thưa Chủ nhân.
+
+Miroku Post Fight
+いいわ、効いてる……！=Được lắm, trúng đòn rồi...!
+どひいいいぃっ！？=WAAAEEEEYYY?!
+「ナナカ・∞・グリッター！」\n「忍法・烈火之紅蓮旋風～っ！」\n「羅刹涅槃・《覇極》万象無尽冥壊破！」="Nanaka ∞ Glitter!"\n"Nân pháp: Hỏa diễm hồng liên tuyền phong~!"\n"La Sát Niết Bàn: 《Bá Cực》Vạn Tượng Vô Tận Minh Hoại Phá!"
+こ、ごの゛ぉ゛っ……！\n『[rub:プレイ・ウィズ]無手にて[/rub]──=Kh, khôn kiếp...!\n"[rub:Play With]Bằng tay không[/rub]──
+「エンド・ヴィジョン　-幻竜争覇戦-」でミロクに1回挑戦しよう=Let's challenge Miroku in the End Vision: The Phantom Dragon Battle
+うじゅるるる～っ！=UJYURURURUR~!
+──『プレイ・ウィズ・うじゅるる』！！=──"Play With Ujyu-ruru"!!
+「イスルギ流奥義・いろは歌【琥珀】！」\n「極の太刀・止水龍吟の哮り！」\n「ミクマ流奥義・烈風迅光！」="Bí kỹ phái Isurugi: Bài ca Iroha [Hổ phách]!"\n"Cực chiếu chi đao: Tiếng gầm của Thủy Long tĩnh lặng!"\n"Bí kỹ phái Mikuma: Liệt phong tấn quang!"
+ぉんぎゃあああぁぁっ！？=Ôi mẹ ơiiiiii~!?
+ぅぅ……\n……ぐすっ……=Hự hự...\n...Hu hu...
+うじゅっ、うじゅっ……！　ふぇぇん、ひどすぎでしゅぅ～っ！！\nようやく見つけたカミサマがあんなうじゅうじゅネバネバとかぁ……！\nどうせならいないほうがよ゛がっだよ゛ぉ゛～っ゛！！=Ujyu, ujyu...! Hức hức, ác ôn quá đi mất thôiii~!\nVị thần mà tớ khó khăn lắm mới tìm thấy hóa ra lại nhầy nhụa nhớp nháp thế này á...!\nBiết thế này thà méo có vị thần nào còn hơn ấy trờiiii~!!
+わぁ～……\nミロクさん、すっかりはっちゃけちゃいましたね★\nドン引きです♪=Oa chao~...\nMiroku-chan quẩy tới bến luôn rồi kìa★\nSợ tụt vòi luôn đấy♪
+わたしも、タコはちょっと……=Em cũng không khoái tuộc lắm đâu...
+……なんていうか、ゲームでたとえるなら\n弱点とか特効のようなもんみたいね。\n何がどう効いてんのかは分からないけど……=...Phải nói thế nào nhỉ, nếu ví von trong game ấy,\nThì nó giống như điểm yếu hoặc hiệu ứng khắc chế đặc biệt vậy.\nChẳng biết là nó khắc chế kiểu gì nữa nhưng mà...
+よくわからないでしゅけど、ありがとうございましゅ！\nそれじゃ、もっとも～っとうじゅうじゅしましゅよっ！\n『全身もみほぐちタコ足乱舞──=Em không hiểu lắm đâu nhưng mà cảm ơn nha!\nThế thì em sẽ nhầy nhụa thêêêm nữa cho coi nè!\n"Vũ điệu xúc tu bạch tuộc massage toàn thân──
+……ちょぉぉぉＣにィ──=...Mình sẽ trông thật dễ thương──
+乗りゅにゃああぁあっ！！！=Đừng hòng mà cưỡi lên người taooooo trợiii ơi!!!
+うじゅ～っ！！？=Ujyu~!!?
+ルルィちゃ──っ！=Lului-chan──!
+──ばあぁぁぁっ……！\nこのにゅるにゅるガミのケンゾクがぁぁぁ……\nたこわさにして、オレのカミ殺しの一歩目にしてやらぁぁぁ……！=──Baaaaaah...!\nLũ tay sai của cái tên thần nhớp nháp này...!\nTao sẽ biến tụi mày thành món takowasa rồi dẫm bước đầu tiên trên con đường sát thần cho chúng mày sáng mắt raaaa...!
+ったく……！\n相変わらず、しぶといやつね……！=Thật tình...!\nVẫn dai như đỉa đóói như mọi khi ấy nhỉ...!
+しかも、幻境竜后の力でパワーアップまでしてるみたい……\nでも、こんな人に絶対負けられないわ！\n行きましょう！=Hơn nữa hình như ả ta còn được buff sức mạnh nhờ lực lượng của Huyễn Cảnh Long Hậu nữa chứ...\nNhưng mà, không đời nào bọn mình chịu thua loại người này đâu!\nĐi thôi!
+
+Player Prompts
+ルルィちゃん、ナイス……！=Làm tốt lắm, Lului-chan...!
+
+Kaiser Insight Pre Fight
+「『覇瞳天星』──！」\n「──『覇瞳天星』」=“‘Hadou Tensei’—!”\n“—‘Hadou Tensei.’”
+……視えた！\nそこっ──=...Nhìn thấy rồi!\nChỗ đó──!
+天叢雲剣・雷霆。=Thiên tùng vân kiếm - Lôi đình.
+──えっ？\nぎゃああああぁっ！=──Hả?\nGyaaaaaah!
+フン──私の権能の猿真似なんて。\n本当、恥知らずな真似をするわね。\nいったい誰に似たのかしら。=Hừm──Bắt chước khỉ ho cò gáy quyền năng của ta sao.\nThật là một hành động trơ trẽn hết sức.\nKhông biết là học tập theo thói hư tật xấu của ai nữa cơ chứ.
+──ほら。\nその『瞳』で予知して、避けてみなさいな。=──Nào.\nHãy dùng "con mắt" đó để tiên tri và né tránh thử xem nào.
+避けろって、言われても……！\n避けた先に、かならず雷の球が置いてあるんですけどっ……！　=Dù có bảo em né đi chăng nữa thì...!\nNhưng chỗ nào em né cũng đều có sẵn một quả cầu sét ở đó cả rồi còn gì...!\n
+──ぎゃっ！\n──ひぐっ……！\n──ぅあああっ！！=──Hự!\n──Hừm...!\n──Uaaah!!
+……はぁ。\n本当に愚かなんだから。\nうわべだけ真似た技で、私の相手になると思っていたの？=...Hà.\nĐúng là một đứa ngốc nghếch.\nNgươi thực sự nghĩ rằng chỉ với một chiêu thức bắt chước bề ngoài mà có thể làm đối thủ của ta sao?
+あなたの予知精度は、私の予知精度の──そうね。\n甘めに採点してあげても、20％にも満たない。\nこれがどういうことか、分かる？=Độ chính xác tiên tri của ngươi so với độ chính xác tiên tri của ta──để xem nào.\nDù có chấm điểm châm chước cho ngươi đi nữa thì cũng chưa đầy 20%.\nNgươi có hiểu điều này có nghĩa là gì không?
+…………ぁ、あははっ……♪\nうれしい、です……♪\n陛下の、20％なんて……あたし、すご────ぎゃっ！！？=......Á, ahaha...♪\nVui lắm, ạ...♪\nMà là 20% của Bệ hạ đấy... em, tuyệt c────Gah!!?
+まったく……やっぱり、何も分かってないじゃない。\nあなたはね？　ようやくチェスのルールを覚えた子供のようなもの。\nグランドマスターの私とは、読みの深さが違うのよ。=Thật tình... Quả nhiên là ngươi chẳng hiểu gì sất.\nNgươi ấy à? Giống như một đứa trẻ vừa mới học được luật chơi cờ vua vậy.\nĐộ sâu trong cách đọc nước đi của một Đại kiện tướng như ta hoàn toàn khác biệt với ngươi đấy.
+つまり──私は[rub:・]あ[/rub][rub:・]な[/rub][rub:・]た[/rub][rub:・]の[/rub][rub:・]予[/rub][rub:・]知[/rub][rub:・]を[/rub][rub:・]予[/rub][rub:・]知[/rub][rub:・]で[/rub][rub:・]き[/rub][rub:・]る[/rub]。\n[rub:・]あ[/rub][rub:・]な[/rub][rub:・]た[/rub][rub:・]が[/rub][rub:・]予[/rub][rub:・]知[/rub][rub:・]で[/rub][rub:・]き[/rub][rub:・]な[/rub][rub:・]い[/rub][rub:・]こ[/rub][rub:・]と[/rub][rub:・]を[/rub][rub:・]予[/rub][rub:・]知[/rub][rub:・]で[/rub][rub:・]き[/rub][rub:・]る[/rub]。\n10手先を読んで、３手先しか読めないあなたが詰む先に雷撃を置ける。=Nói cách khác── Ta có thể tiên đoán được cả lời tiên đoán của ngươi.\nTa có thể nhìn trước những điều mà ngươi vốn không thể thấy được.\nBằng cách tính trước 10 bước cờ, ta có thể giáng một đòn sét đánh vào nơi mà ngươi, kẻ chỉ tính được 3 bước, sẽ bị chiếu bí.
+だから──\nそろそろワガママをやめなさい？\nその雷撃防御のアミュレットも、もう保たないわよ。=Cho nên──\nĐã đến lúc từ bỏ cái tính ương bướng đó đi được chưa hả?\nCái bùa phòng thủ lôi kích đó của ngươi cũng trụ được mấy hồi nữa đâu.
+──来たわね。=──Bọn chúng đến rồi kìa.
+「キャルちゃん！」\n「キャル！」=“Karyl-chan!”\n“Karyl!”
+──光の精よ、癒しを……！=──Hỡi tinh linh ánh sáng, xin hãy ban ơn lành chữa lành...!
+……わ、悪いわね。あんたたち。\n「一回でいいから、陛下とタイマンさせて」なんて\nワガママに付き合ってもらっちゃってさ……=...X-Xin lỗi nhé, mọi người.\nĐã bắt mọi người phải hùa theo cái yêu cầu ích kỷ\n"Cho em được solo một lần với Bệ hạ thôi cũng được" của em...
+もう、ムチャしすぎだよ～っ！=Trời ơi, làm quá sức thế chứ lị~!
+師を──恩ある人物を超えたい、っていう気持ちは分かるけどね。=Tớ hiểu cảm giác muốn vượt qua người thầy──người có ơn với mình mà.
+師だとか、恩人だとか。\n気持ち悪いことを言わないで頂戴……不敬罪ものよ？=Thầy với chả ân nhân.\nĐừng có nói ra mấy lời ghê tởm đó chứ... Tính phạm tội bất kính đấy biết không?
+まぁ──\nそうでなくても、あなたたちのことは始末するけどね。\n【トゥインクルウィッシュ】。=Chà──\nDù không phải vậy thì ta cũng sẽ xử lý các ngươi thôi.\n[Twinkle Wish].
+覇瞳皇帝さん……！\n[rub:・]も[/rub][rub:・]う[/rub]、わたしたちは負けません……！=Kaiser Insight...!\nBọn mình sẽ [rub:・]k[/rub][rub:・]h[/rub][rub:・]ô[/rub][rub:・]n[/rub][rub:・]g[/rub] [rub:・]thua[/rub] nữa đâu...!
+かつてあなたに敵わなかった私たちの不甲斐なさが、『懲役』を──\n今の世界の窮状を、作ったようなものだ。\nだからっ……！=Sự kém cỏi của chúng ta khi từng không thể địch lại ngươi trước kia, chính là thứ đã tạo nên "án phạt" này──\ngiống như tạo ra tình cảnh khốn cùng của thế giới hiện tại vậy.\nThế nên là...!
+──今度こそ、あのとき掴めなかった勝利を掴んでみせるっ！\n一緒に行こう、騎士くん！　キャルちゃん！　みんな！=──Lần này nhất định chúng ta sẽ nắm lấy chiến thắng mà lúc đó đã để vụt mất!\nCùng đi nào, Knight-kun! Karyl-chan! Mọi người!
+ええ……！\n拙い技なんかじゃなくて──しっかり見てもらいます、陛下！\nあたしたちの絆を！=Đúng vậy...!\nKhông phải bằng một kỹ thuật vụng về nào đâu──mà chúng em sẽ cho Bệ hạ thấy thật rõ ràng!\nMối liên kết của bọn em!
+
+New Titlecard
+キャル・覇瞳皇帝=Kyaru - Kaiser Insight
+
+Player Prompts
+キャルを強化する！=Tăng sức mạnh cho Kyaru!
+
+Kaiser Insight Post Fight
+チャンスだ！\n畳みかけよう！=Cơ hội đến rồi!\nThừa thắng xông lên thôi!
+よーしっ！\nヒヨリブレイジング──=Được rồi!\nHiyori Blazing──
+っ！\n待って──=!\nĐợi đã──
+……覇瞳天星・滅光！！=...Hadou Tensei: Hủy Diệt Quang!!
+うぅっ……！\nあたしがもっと、正確に攻撃を予知できたら……！　=Hự...!\nƯớc gì mình có thể dự đoán chính xác đường tấn công của ả hơn nữa...!
+──あんたたち！\n下がって回復してなさい！\n戦いは、まだまだこれからなんだからね！？=──Mấy đứa kia!\nLùi về sau hồi sức ngay!\nTrận chiến này chỉ mới bắt đầu thôi đấy nhé!?
+……ごめん、フィオちゃん……！\nすぐ戻るから！=...Xin lỗi nhé, Fio-chan...!\nTớ quay lại ngay đây!
+……ガイド妖精。\nまた自爆でもする気かしら？\nあのとき同様、何の意味もないけどね。=...Tinh linh dẫn đường.\nĐịnh tự sát lần nữa à?\nCũng vô nghĩa y chang lần trước thôi cưng.
+しないわよそんなこと！\n体を直すの、ほんとしんどかったんだから！\nそれよりも──=Đời nào tao làm thế!\nMất công tao khổ sở lắm mới phục hồi lại được cái cơ thể này đấy biết không!
+選手交代！\n頼むわよ──七冠！=Thay người!\nNhờ cả vào các cậu đấy──Thất Quan!
+──[rub:ナンバーズアヴァロン]乱数聖域[/rub]！\nアヴァロン！\nアアァヴァロォンッ！！=──[rub:Numbers Avalon]Loạn Số Thánh Vực[/rub]!\nAvalon!\nAaaavaaalooon!!
+……っ！\nああ、やだ……\nその切っ先──前より鋭くなったようね。クリス。=...!\nÔi chao...\nMũi kiếm đó──có vẻ bén nhọn hơn trước rồi đấy, Chris.
+もちろんだとも！\nステージに命を燃やす少女たちの輝きを受けて、\nワタシの剣も輝きを増したのさ☆=Đương nhiên rồi!\nĐược tắm mình trong ánh hào quang của những thiếu nữ đang cháy hết mình vì sân khấu,\nThanh kiếm của ta cũng tỏa sáng rực rỡ hơn bội phần☆
+さぁ陛下！　もっと！　もっとだ！\n全力で殺し合い、愛し合おうじゃないか！\nナンヴァーズ──=Nào Bệ hạ! Hơn nữa đi!\nNhiệt tình lên nào!\nHãy dùng toàn lực để chém giết lẫn nhau và trao nhau hơi ấm ái tình đi chứ!\nNumbers──
+やっほー、真那ー？\nビックリしたよ、まさかキミが幻境竜后と組むなんてね。\nキミたちそんなに仲良かったっけ？=Ú oà, Mana à~?\nBất ngờ ghê, không ngờ cậu lại đi hợp tác với Huyễn Cảnh Long Hậu luôn đấy.\nHai người thân thiết từ bao giờ thế hả?
+別に、仲良しこよしなんかじゃないわ。\n私を倒したあなたたちに、今度こそ負けないために行動しているだけよ。\n……どれだけ不愉快でもね。=Ai thèm thân thiết với tụi nó chứ.\nTa chỉ hành động để không phải thua dưới tay bọn ngươi – những kẻ từng đánh bại ta – thêm một lần nào nữa thôi.\n...Dù cho có khó chịu đến thế nào đi chăng nữa.
+……なんだか変わったね。\nたかーく伸びてた鼻が折れて、ますます器量良しになったんじゃない？=...Trông cậu khác xưa nhiều phết nhỉ.\nCái tôi cao ngút ngàn bị bẻ gãy rồi, giờ trông cậu càng ra dáng mỹ nhân hơn đấy chứ bộ?
+慢心が消えた今のほうが、前よりずっとずーっと手強そうだ。\n……こりゃあ、こっちも後先考えてたらあっさりへし折られるね。=Giờ đây khi sự ngạo mạn đã biến mất, cậu trông có vẻ trâu bò hơn trước gấp tỉ lần.\n...Kiểu này mà bên mình còn mải lo nghĩ chuyện sau này thì có mà bị bẻ gãy xương sống lúc nào không hay ấy chứ.
+こらこらこら。\nワタシと陛下のダンスの最中に、割り込みはやめてもらおうか？=Này này này.\nĐang trong lúc ta và Bệ hạ khiêu vũ mà chen chân vào thế là mất lịch sự lắm đấy biết không?
+ダンスだなんて嫌よ、疲れるもの。\nそれよりも──\nあなたたちは私に頭を垂れて、跪くのがお似合いよ！=Khiêu vũ á, dẹp đi, mệt thấy mồ.\nQuan trọng hơn là──\nBọn ngươi quỳ sụp xuống, cúi đầu thần phục dưới chân ta mới là hợp cảnh nhất đấy!

@@ -133,7 +133,7 @@ sr:"^(.+)のバースト効果確認$"=Hiệu ứng Burst của $1
 イベントで使用されるサポートキャラを設定できます。=Bạn có thể thiết lập nhân vật hỗ trợ được sử dụng trong sự kiện.
 特別サポート設定=Cài đặt Hỗ trợ Đặc biệt
 
-リタイアしても、挑戦回数は消費されません。\n　※バトルの途中経過は保存されません。\n\nリタイアしますか？=Ngay cả khi bạn bỏ cuộc, lượt thử sẽ bị sử dụng.\n※Tiến độ của trận chiến sẽ không được lưu.\n\nBạn có muốn bỏ cuộc không?
+リタイアしても、挑戦回数は消費されません。\n　※バトルの途中経過は保存されません。\n\nリタイアしますか？=Khi bạn bỏ cuộc, sẽ không tiêu tốn lượt nào.\n※Tiến độ của trận chiến sẽ không được lưu.\n\nBạn có muốn bỏ cuộc không?
 
 イベント参加時点では、\n6回挑戦できる状態でスタートします。=Vào thời điểm sự kiện bắt đầu, bạn sẽ được cấp sáu lượt thử.
 挑戦回数はイベント開始から\n1時間ごとに1回分付与されます。=Số lượt thử được cấp thêm một mỗi giờ kể từ khi sự kiện bắt đầu.
