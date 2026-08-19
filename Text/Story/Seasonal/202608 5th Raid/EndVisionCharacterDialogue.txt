@@ -10,6 +10,7 @@ Vampy
 
 Io
 やん！　なんて手ごわい人たちなの\nでも諦めないわ。難しい問題だって\n落ち着いてやればちゃんと解けるの\n戦いも同じよ…いきましょう！=Ái chà! Mới đối phó với mấy người này mà đã thấy khó nhằn thật đấy.\nNhưng mà em sẽ không bỏ cuộc đâu. Ngay cả những bài toán hóc búa nhất\nchỉ cần bình tĩnh suy nghĩ thì cũng sẽ giải được mà thôi.\nTrận chiến cũng thế cả thôi... Chúng ta cùng tiến lên nào!
+学校生活の邪魔はさせないわ\nだって私、みんなの先生だもの\n明日の授業も世界のことも\n全部守ってみせるんだから！=Cô không cho phép bất kỳ ai cản trở cuộc sống học đường đâu...\nVì cô là giáo viên của tất cả mọi người mà!\nTừ những bài học ngày mai cho đến cả thế giới này,\nCô sẽ bảo vệ tất cả bằng mọi giá!
 
 Hatsune
 力を使いすぎると眠く…スヤァ…\nはっ、いけないいけない！\nキミ、私が寝ちゃったら起こして！\n…お、王子様のキスとかで…=Dùng nhiều sức quá là buồn ngủ mất... Suyaaa...\nHả, không được không được!\nNày, nếu tớ có ngủ quên thì nhớ gọi dậy nhé!\n...M-Mà bằng nụ hôn kiểu hoàng tử hay gì đó cũng được đấy...
@@ -31,12 +32,14 @@ Anna
 
 Shinobu
 この世界が、明日を迎えることなく\n滅んでしまうかもしれない…\n運命の岐路が、目の前にあります\n抗えるのは、私たちだけです…！=Ngày tận thế, giờ phút diệt vong đã đến rồi sao... Nhưng ngẫm lại định mệnh của chúng ta, những kẻ cứ lặp đi lặp lại vòng luân hồi và chiến đấu không dứt, thì chuyện này chắc cũng chẳng thấm vào đâu... phải không nào!
+何よりも色濃い死の気配が、\n世界に満ちていくのを感じます\nでも、倒れるわけにはいきません\n最後まで戦いましょう、全力で=Tôi cảm nhận được bầu không khí tử khí nặng nề bao trùm khắp thế gian.\nNhưng chúng ta không thể gục ngã lúc này được.\nHãy chiến đấu đến giây phút cuối cùng,\nvới toàn bộ sức mạnh của mình!
 
 Eris
 覇瞳皇帝…わたしの邪魔をするなら\nかつてのように、消去するだけ\nミロクも…わたしを草野優衣の\n複製と呼んだこと、後悔させてやる=Kaiser Insight... Nếu ngươi dám cản đường ta, ta sẽ xóa sổ ngươi như đã từng làm trước đây.\nCả Miroku nữa... ta sẽ cho ngươi phải hối hận vì dám gọi ta là bản sao của Kusano Yui.
 
 Anemone
 騎士のひと──背中は、任せます\n貴方のこと、\n媛と同じくらい、信じてるので──\n自分でも、びっくりですけど=Kỵ sĩ-san── Em xin phó thác tấm lưng này\ncho anh. Tâm tư của anh, em tin tưởng nhiều ngang ngửa\nvới Công chúa vậy── Tuy chính bản thân em\ncũng thấy ngạc nhiên lắm...
+リアを──媛を、傷つけたひとたち\n笑ってられるのも今だけです──\nアルラウネの棘の鋭さ、\n教えてあげますから──=Những kẻ đã dám làm tổn thương Ria── Công chúa của ta...\nCứ cười đi, vì các ngươi chỉ còn được cười đến lúc này thôi...\nTa sẽ cho các ngươi biết thế nào là sự sắc bén...\nTừ những chiếc gai của Alraune này──
 
 Rin
 ええー？　こんだけ人数いるならさ\n一人ぐらいいなくても…\n…って空気じゃないわけね\nはいはい、あたしも働きますよー=Ể～? Đông người thế này thì thiếu một người chắc cũng chẳng sao đâu nhỉ...\n...Mà xem ra không khí hiện tại không cho phép thế nhỉ.\nRồi rồi, tôi cũng chịu khó chiến đấu cùng mọi người là được chứ gì──
@@ -62,26 +65,30 @@ Aoi
 
 Ho-ou
 さあ皆さん、ここが正念場です！\n私がいれば楽勝圧勝間違いなし！\n…えっ？　私が先頭？　えーと…\nあっちょっと待って押さないで！=Nào mọi người ơi, đây chính là thời khắc quyết định rồi đấy nhé! Có tôi ở đây thì chiến thắng áp đảo là chuyện chắc chắn khỏi phải bàn! ...Hả? Bảo tôi đứng ở hàng đầu tiên á? Ưm... Ơ kìa, chờ chút, đừng có đẩy chứ!
+この大地と大空を守るため、\n人の子らだけに任せてはおけません\n鳳凰のはばたきで、その野望ごと\n跡形もなく吹き飛ばしましょう！=Để bảo vệ mảnh đất và bầu trời này,\nchúng ta không thể phó mặc tất cả chỉ cho con cháu loài người được.\nBằng đôi cánh phượng hoàng rực lửa,\nta sẽ thổi bay dã tâm của chúng\nkhông còn lấy một mảnh giáp!
 
 Pecorine
 また一緒に、みんなで\nおいしいごはんを食べるために！\nわたしたちは、絶対に負けません！=Để tất cả chúng ta lại được cùng nhau thưởng thức những bữa ăn ngon lành thêm một lần nữa!\nChúng ta tuyệt đối sẽ không thua đâu!
 
 Fubuki
 あの陰気ダサダサメガネさー、\n仲間集めてチョーシ乗ってねー？\nザコは何匹集まったってザコだって\nフブキちゃんが教えてあげまーす♪=Cái đứa đeo kính u ám nhà quê đó ấy mà～,\ntập hợp đám bạn bè lại rồi đang lên mặt hống hách lắm hả?\nDù có gom bao nhiêu con tép riêu lại thì cũng vẫn chỉ là tép riêu thôi, để Fubuki-chan dạy cho cưng một bài học nhé♪
+だる～、ささっと片付けてきてよ～\nムリ？　知ってる～だってザコザコ\nお兄さんだもんね♪　しょーがない\n助けてあげよっかな～？きゃはは♡=Chán chết đi được～,\nKhông tự giải quyết nhanh gọn lẹ đi giúp tôi coi nào～?\nKhông làm nổi á? Biết ngay mà,\nAnh trai lúc nào cũng gà mờ\nchân yếu tay mềm thế đấy♪\nThôi không thèm chấp,\nĐể tôi ra tay cứu giúp một tay nhé～? Kyahaha♡
 
 Yuki
-相手が誰であれ、やることは同じ…\nそう…ボクの美しさを見せてあげる\nことさ！　予言しよう…絶世の美の\n前にはどんな敵もひれ伏すと、ね！=Đối thủ có là ai đi nữa thì việc cần làm vẫn thế... Đúng vậy... Chính là cho chúng thấy vẻ đẹp của tớ! Tớ xin tiên tri rằng... trước vẻ đẹp tuyệt trần này, bất kỳ kẻ địch nào cũng sẽ phải quy phục thôi!
-少し待っていてくれる？　メイクを\n直さないと。避けられない戦いなら\nせめて美しいボクと戦えることを\n彼らには誇りに思ってほしいからね=Cậu đợi một chút được không? Tớ phải dặm lại lớp trang điểm cái đã. Nếu đã là trận chiến không thể tránh khỏi, thì ít nhất tớ muốn bọn chúng phải cảm thấy tự hào vì được giao đấu với một người đẹp như tớ chứ.
+相手が誰であれ、やることは同じ…\nそう…ボクの美しさを見せてあげる\nことさ！　予言しよう…絶世の美の\n前にはどんな敵もひれ伏すと、ね！=Đối thủ có là ai đi nữa thì việc cần làm vẫn thế...\nĐúng vậy... Chính là cho chúng thấy vẻ đẹp của tớ!\nTớ xin tiên tri rằng... trước vẻ đẹp tuyệt trần này,\nbất kỳ kẻ địch nào cũng sẽ phải quy phục thôi!
+少し待っていてくれる？　メイクを\n直さないと。避けられない戦いなら\nせめて美しいボクと戦えることを\n彼らには誇りに思ってほしいからね=Cậu đợi một chút được không?\nTớ phải dặm lại lớp trang điểm cái đã.\nNếu đã là trận chiến không thể tránh khỏi,\nthì ít nhất tớ muốn bọn chúng phải cảm thấy tự hào\nvì được giao đấu với một người đẹp như tớ chứ.
 
 Nozomi
 どんな強い敵にだって屈しない…\n歌って踊って戦うアイドルになる！\nあの日に誓った願い、私の希望！\n今こそ、果たして見せるんだから！=Dù cho kẻ địch có mạnh đến đâu đi nữa, tớ cũng sẽ không bao giờ khuất phục... Tớ sẽ trở thành một thần tượng vừa hát, vừa múa lại vừa chiến đấu! Nguyện ước đã thề non hẹn biển vào ngày hôm đó, chính là niềm hy vọng của tớ! Ngay lúc này đây, tớ nhất định sẽ thực hiện nó cho mọi người xem!
+この世界が終わっちゃうって…\nアイドル活動も卒業ってコト！？\nファンのみんなが黙ってないよ！\nもちろん私だって…！=Thế giới này mà tàn lụi á...\nCũng đồng nghĩa với việc sự nghiệp idol của tôi phải tốt nghiệp luôn á hả! ?\nĐám đông fan hâm mộ ngoài kia chắc chắn sẽ không đời nào chịu để yên đâu nhé!\nVà đương nhiên là cả tôi nữa chứ...!
 
 Kururu
 この戦いが終わったら、みなさんと\nパークで凱旋パレードですぅ♪\n…ふぇっ？\n気が早いですますか？=Sau khi trận chiến này kết thúc, chúng ta sẽ cùng mọi người tổ chức một cuộc diễu hành khải hoàn ở công viên nhé♪\n...Hửm? Chẳng lẽ tớ đang lo xa quá rồi sao ạ?
 はわっ！？　すっごくすっごく\n悪そうな人達いっぱいですますぅ！\nかばばん君、警備員モードです！\nぴっぴーーーー！=Hawaaah...!? Toàn là những kẻ trông có vẻ vô cùng vô cùng gian ác xuất hiện kìa mọi người ơi! Kababan-kun, chuyển sang chế độ bảo vệ an ninh thôi! Pi-pi-pi-pi-pi──!
 
 Ninon
-むむむ…待ち受けているのは強敵\nばかり…それでも退きまセン！\n超烈火之紅蓮旋風で、\nまとめて討ち取ってみせまショウ！=Mumu... Trước mặt toàn là những kẻ địch cường đại... Thế nhưng ta vẫn tuyệt đối không lùi bước đâu nhé! Dùng Chiêu Thức Siêu Liệt Hỏa Chi Hồng Liên Tấn Phong, ta sẽ quét sạch tất cả bọn chúng trong một mẻ cho mà xem!
+むむむ…待ち受けているのは強敵\nばかり…それでも退きまセン！\n超烈火之紅蓮旋風で、\nまとめて討ち取ってみせまショウ！=Mumu... Trước mặt toàn là những kẻ địch cường đại...\nThế nhưng ta vẫn tuyệt đối không lùi bước đâu nhé!\nDùng Chiêu Thức Siêu Liệt Hỏa Chi Hồng Liên Tấn Phong,\nta sẽ quét sạch tất cả bọn chúng trong một mẻ cho mà xem!
+ショーグンの天下統一を阻む者は\n誰であろうと許しまセン！\nショーグン！　ここはチューシン\nニノンにお任せアーレー！=Kẻ nào dám đứng ra cản trở con đường thống nhất thiên hạ của Shogun,\nBổn tiểu thư Ninon đây tuyệt đối sẽ không tha thứ cho bất kỳ tên nào hết!\nShogun đại nhân! Nơi này cứ để trung thần Ninon con lo liệu tất thảy nhé!
 
 Akari
 ひゃぁんっ！\nもう、敵さんが脅かしてくるから\nアカリ、ヘンな声出ちゃいました…\nこういうの、よくないですよっ=Kyaaa~h! Trời ơi, tự dưng bọn địch cứ hù dọa người ta, khiến Akari phát ra cái âm thanh kỳ quặc gì đâu á... Mấy chuyện thế này, thật là không tốt chút nào luôn đó nha!
@@ -91,7 +98,8 @@ Miyako
 前はミヤコ、悪いヤツに捕まって\n消されそうになって怖かったの…\nでも今度は全然怖くないの！\nオマエが一緒なら平気なの！=Trước đây, Miyako đã rất sợ hãi khi bị\nkẻ xấu bắt giữ và suýt thì bị xóa sổ...\nNhưng lần này thì Miyako không hề sợ chút nào cả!\nChỉ cần có cậu ở cùng thì Miyako sẽ ổn thôi!
 
 Arachne
-騎士さま、どうかご安心を…\nどれだけ厳しい運命が待って\nいたとしても…あなたのことは、\nわたしの糸が必ずお守りします=Xin Ngài Kỵ sĩ cứ yên tâm nhé... Cho dù phía trước có phải đối mặt với số phận nghiệt ngã đến nhường nào... thì sợi chỉ của em nhất định sẽ luôn bảo vệ ngài.
+騎士さま、どうかご安心を…\nどれだけ厳しい運命が待って\nいたとしても…あなたのことは、\nわたしの糸が必ずお守りします=Xin Ngài Kỵ sĩ cứ yên tâm nhé...\nCho dù phía trước có phải đối mặt với số phận nghiệt ngã đến nhường nào...\nthì sợi chỉ của em nhất định sẽ luôn bảo vệ ngài.
+…？　あの金髪の女性、なんだか\n見覚えあるような気が…いえ\n騎士さまの敵は、わたしの敵です\nそれだけです…=…？ Cơn bóng dáng người phụ nữ tóc vàng kia, sao trông cứ quen quen thế nhỉ...\nKhông, hễ kẻ nào là kẻ thù của Kishi-sama thì cũng chính là kẻ thù của em.\nChỉ vậy thôi là đủ rồi...
 
 Jun
 少年…\n最前線は危険だが、下がるつもりは\nないのか？　ふふ、やはり強情だな\nならば、私の隣を絶対に離れるな=Thiếu niên... Tiền tuyến nguy hiểm lắm đấy, nhưng em không có ý định lùi bước sao? Hừm, đúng là cứng đầu thật đấy.\nĐã vậy thì, tuyệt đối không được rời khỏi cạnh ta nửa bước nhé!
@@ -115,10 +123,12 @@ Violet
 リーザ…どうしてもわたくしたちの\n前に立ちはだかるというのですね\nならばわたくしも覚悟を決めました\nこの手であなたを、倒します…！=Lisa... Hóa ra cậu vẫn khăng khăng muốn ngáng đường bọn tớ bằng mọi giá cơ à. Nếu đã vậy thì tớ cũng đã hạ quyết tâm rồi. Tớ sẽ chính tay đánh bại cậu...!
 
 Yui
-わたしたちの世界のためにも\nこの世界のためにも、\n絶対に負けられない…！\nがんばろうね、騎士クン=Vì thế giới của chúng ta, và cũng vì cả thế giới này nữa, chúng ta tuyệt đối không được phép thua cuộc...! Cùng cố gắng hết mình nhé, Kỵ sĩ-kun!
+わたしたちの世界のためにも\nこの世界のためにも、\n絶対に負けられない…！\nがんばろうね、騎士クン=Vì thế giới của chúng ta, và cũng vì cả thế giới này nữa,\nchúng ta tuyệt đối không được phép thua cuộc...!\nCùng cố gắng hết mình nhé, Kỵ sĩ-kun!
+みんな、怪我したらすぐに教えて！\n…もう誰も失いたくないの\nそのために修行もしたんだから…\n大丈夫、絶対なんとかしてみせる！=Mọi người ơi, bị thương ở đâu là phải báo ngay cho em đấy nhé!\n...Em không muốn phải mất đi bất kỳ ai thêm một lần nào nữa đâu.\nĐó chính là lý do vì sao em đã liều mạng khổ luyện bấy lâu nay mà...\nKhông sao đâu, em nhất định sẽ tìm cách cứu chữa bằng mọi giá!
 
 Kanon
-ヲ～ッホッホ！　どいつもこいつも\n大層なおツラ構えしてますけどぉ？\nあたくし様の敵じゃありませんわ！\nほら馬ボーン！　お強化なさいな！=O-Ho-Ho-Ho! Đứa nào đứa nấy cứ làm bộ mặt ra vẻ ta đây ghê gớm lắm cơ đấy? Chẳng có đứa nào đủ tầm làm đối thủ của tiểu thư ta đây hết á! Nào, Lowborn! Tăng sức mạnh cho ta mau lên chứ lị!
+ヲ～ッホッホ！　どいつもこいつも\n大層なおツラ構えしてますけどぉ？\nあたくし様の敵じゃありませんわ！\nほら馬ボーン！　お強化なさいな！=O-Ho-Ho-Ho! Đứa nào đứa nấy cứ làm bộ mặt ra vẻ ta đây ghê gớm lắm cơ đấy?\nChẳng có đứa nào đủ tầm làm đối thủ của tiểu thư ta đây hết á!\nNào, Lowborn! Tăng sức mạnh cho ta mau lên chứ lị!
+いってぇ～ですわ！　あたくし様の\nお美しいお肌を傷つけましたわね！\nまとめてお成敗して差し上げますわ\nついてらっしゃいな！　馬ボーン！=Ái đau quá～!\nDám làm tổn thương làn da ngọc ngà thanh tú của bổn tiểu thư hả!\nHôm nay ta sẽ thay trời hành đạo trừng trị tất cả một mẻ luôn cho bõ ghét!\nMau mau cước bộ đi theo ta ngay lập tức, cái tên Lowborn kia!
 
 Rino
 お兄ちゃんがいれば百人力士っ！\n妹パワーも全開でいきますよ～♪\nどんな敵でもドンドンこいですっ！\nあれ？　ちょっと違いました？=Có anh hai ở bên là tụi mình chấp hết một trăm người luôn á nha! Sức mạnh em gái cũng sẽ được phát huy tối đa luôn nè～♪ Kẻ địch có là ai cứ thoải mái lao vào đây hết đi! ...Ủa? Hình như có chỗ nào đó sai sai phải không ta?
@@ -145,7 +155,8 @@ Tamaki
 強そうなやつらが目白押しにゃ～\n短期戦でどうにかならないなら…\n長丁場に向けて、特別価格の\nたい焼きはいかがかにゃ～？=Toàn những đối thủ trông có vẻ xương xẩu xếp hàng dài thế này meo～ Nếu mà đánh nhanh thắng nhanh không xong ấy chứ... thì để chuẩn bị cho một trận chiến lâu dài, mọi người có muốn mua bánh taiyaki với giá đặc biệt không nào meo～?
 
 Lind
-騎士さんたちと出会えたこの世界を\n悪いことになんか使わせません\n作り物だなんて信じられませんけど\n失っちゃいけないものはわかります=Em sẽ không để bọn chúng lợi dụng thế giới này, nơi mà em đã được gặp Kỵ sĩ-san, vào những mục đích xấu xa đâu. Dù vẫn khó mà tin nổi đây chỉ là một thứ được tạo ra nhân tạo... nhưng em thừa biết đâu là những thứ tuyệt đối không thể đánh mất.
+騎士さんたちと出会えたこの世界を\n悪いことになんか使わせません\n作り物だなんて信じられませんけど\n失っちゃいけないものはわかります=Em sẽ không để bọn chúng lợi dụng thế giới này,\nnơi mà em đã được gặp Kỵ sĩ-san, vào những mục đích xấu xa đâu.\nDù vẫn khó mà tin nổi đây chỉ là một thứ được tạo ra nhân tạo...\nnhưng em thừa biết đâu là những thứ tuyệt đối không thể đánh mất.
+あそこにヴルムを傷つけた人が…！\n…騎士さん、絶対勝ちましょうね\nあの人たちのやったこと、私\n絶対ぜったい許しませんから！=Kìa... chính là kẻ đã dám làm tổn thương Wyrm ở đằng kia kìa!\n...Kishi-san, chúng ta nhất định phải thắng trận này đấy nhé.\nNhững gì bọn chúng đã gây ra,\nEm thề là sẽ không bao giờ, tuyệt đối không bao giờ tha thứ cho chúng nó đâu!
 
 Nephy Nella
 今のわっちが萎弱であろうとて\n貴様等如き梟悪に斃される訳には\nゆかぬ也。再び足甲を舐めさせ\n地に臥すまで仕置きを致しんしょう=Dù hiện tại ta có đang suy yếu đi chăng nữa, thì cũng đời nào để bị hạ gục bởi đám yêu ma quỷ quái như các ngươi. Ta sẽ bắt các ngươi phải liếm lại bàn chân ta, và trừng trị cho đến khi các ngươi phải nằm rạp xuống đất mới thôi!
@@ -160,7 +171,7 @@ Suzume
 大変なことになっちゃいましたね…\nで、でも怖がっていられません！\nお嬢さまのことも、あなたのことも\n私が精一杯お支えします！=Mọi chuyện chuyển biến thành thế này thì rắc rối thật rồi nhỉ... Nh-Nhưng chúng ta không thể cứ sợ hãi mãi được đâu! Cả tiểu thư lẫn ngài nữa, em sẽ cố gắng hết sức để phò tá và hỗ trợ cả hai người!
 
 Kuuka
-とっても強そうな敵ですっ…\n当然、攻撃も強烈になるはず…\nドＳさん、ここはどうかクウカに、\n先頭をお任せください！　ぐふふ♪Trông bọn chúng có vẻ mạnh quá đi mất... Đương nhiên là các đòn tấn công cũng sẽ cực kỳ hung hãn đây... Ngài Bạo chúa-san, xin hãy để Kuuka được xung phong dẫn đầu trận chiến này nhé! Gufuhêhê♪
+とっても強そうな敵ですっ…\n当然、攻撃も強烈になるはず…\nドＳさん、ここはどうかクウカに、\n先頭をお任せください！　ぐふふ♪=Trông bọn chúng có vẻ mạnh quá đi mất... Đương nhiên là các đòn tấn công cũng sẽ cực kỳ hung hãn đây... Ngài Bạo chúa-san, xin hãy để Kuuka được xung phong dẫn đầu trận chiến này nhé! Gufuhêhê♪
 
 Makoto
 くっ、敵の連中、ずいぶんな戦力\n揃えてきやがった。けど、\n数でも気合でも負けやしねぇ！\nあたしが嚙み砕いてやる！=Hừ...! Mấy tên địch đó đã gom góp được\nmột lực lượng kha khá cơ đấy. Nhưng mà\ndẫu có đọ về số lượng hay khí thế đi nữa,\ntụi này cũng chẳng thèm thua kém đâu nhé!\nCứ để bà đây nhai nát tụi nó cho coi!
@@ -170,7 +181,8 @@ Karyl
 また陛下と戦うのね…大丈夫、一番\n大事なものが何なのかは分かってる\n…だから、あたしも負けないわ\n─陛下、よろしくお願いします！=Lại phải chiến đấu với Bệ Hạ nữa sao... Không sao đâu, giờ thì mình đã biết đâu là điều quan trọng nhất đối với mình rồi... Thế nên mình cũng sẽ không đời nào thua cuộc đâu─Bệ hạ, xin hãy chỉ giáo cho!
 
 Iroha
-わわっ、敵がいっぱい！\nこれがクワガタだったら最高…よし\n新種のクワガタって事にしちゃお！\nあははっ！　待て待て～っ！！=Á chà, kẻ địch đông quá trời quá đất luôn! Giá mà đám này toàn là bọ kỵ sĩ hiếm có khó tìm thì tuyệt cú mèo phải biết... Thôi được, cứ xem như tụi nó là một loài bọ kỵ sĩ hoàn toàn mới đi vậy! Áha há! Đứng lại đó, mau đứng lại cho bần tăng— nhầm, cho taaa!!
+わわっ、敵がいっぱい！\nこれがクワガタだったら最高…よし\n新種のクワガタって事にしちゃお！\nあははっ！　待て待て～っ！！=Á chà, kẻ địch đông quá trời quá đất luôn!\nGiá mà đám này toàn là bọ kỵ sĩ hiếm có khó tìm thì tuyệt cú mèo phải biết...\nThôi được, cứ xem như tụi nó là một loài bọ kỵ sĩ hoàn toàn mới đi vậy!\nÁha há! Đứng lại đó, mau đứng lại cho bần tăng— nhầm, cho taaa!!
+あはは、まだまだ出てくるね～！\nなら新しい技いっぱい\n試しちゃおっか…さあ、いくよ！\n──イスルギ流奥義っ！！=Ahahaha, vẫn còn kéo nhau ra đông thế cơ à～!\nVậy thì đây sẽ là cơ hội tuyệt vời để thử nghiệm vô số chiêu thức mới đây...\nNào, đi thôi nào!\n──Tuyệt kỹ phái Isurugi──!!
 
 Ayumi
 つ、強そうな人たちばっかり…\n逃げたいくらいだけど、\nそれはダメ。先輩をケガさせない\nためにも、私も頑張らなくちゃ！=T-Toàn những người trông có vẻ mạnh quá đi mất... Muốn trốn chạy luôn ghê, nhưng mà không được đâu. Để không làm Senpai bị thương, em cũng phải cố gắng hết sức mới được!
@@ -179,10 +191,12 @@ Satsuki
 いつ死んでもいいなんて\nもう思っちゃいねぇさ\nこの悪玉どもより、図太くしぶとく\n生き抜いてやろうじゃねぇか=Ý niệm muốn chết quách đi cho rồi, tao sớm đã dẹp bỏ nó từ lâu rồi nhé! Tao nhất định sẽ sống dai hơn, lỳ lợm hơn và sống khỏe hơn cái đám ác ôn, tồi bại này cho tụi mày xem!
 
 Mahiru
-こんな舞台で漫才したって\nみんなもお天道さんもどんよりだべ\n安心して笑ってられる世界を\nオラたちで取り戻すど！　おー！=Biểu diễn tấu hài trên một cái sân khấu thế này thì đến cả ông mặt trời cũng phải ủ rũ u ám cho mà xem! Chúng ta hãy cùng nhau giành lại một thế giới mà mọi người có thể vô tư cười đùa trong yên bình thôi nào! Ồ —!
+こんな舞台で漫才したって\nみんなもお天道さんもどんよりだべ\n安心して笑ってられる世界を\nオラたちで取り戻すど！　おー！=Biểu diễn tấu hài trên một cái sân khấu thế này thì\nđến cả ông mặt trời cũng phải ủ rũ u ám cho mà xem!\nChúng ta hãy cùng nhau giành lại một thế giới mà\nmọi người có thể vô tư cười đùa trong yên bình thôi nào! Ồ —!
+お、おっかねぇ連中だ…！\nでも…スベっちまう怖さに比べりゃ\nマシだべな！　あははっ！\nみんなの笑顔は、オラが守るべ！=Trông đám người này đáng sợ quá đi mất...!\nNhưng mà... so với cái nỗi sợ bị tịt ngòi chọc cười ma xó nào đấy thì...\nCỡ này vẫn còn nhẹ chán hen! Ahahaha!\nMọi người cứ cười tươi đi, nụ cười của tất cả để đấy cho tụi mình lo hết sức nha!
 
 Lima
-私のお友達をいじめるなら\n相手になるわ！\nたとえ魔物に間違えられても\n絶対にここを引かないから！=Nếu các người muốn bắt nạt bạn của tớ, thì phải bước qua xác tớ trước đã! Dù có bị hiểu lầm là quái vật đi chăng nữa... tớ cũng nhất định sẽ không lùi bước đâu!
+私のお友達をいじめるなら\n相手になるわ！\nたとえ魔物に間違えられても\n絶対にここを引かないから！=Nếu các người muốn bắt nạt bạn của tôi,\nthì phải bước qua xác tôi trước đã! Dù có bị hiểu lầm là quái vật đi chăng nữa...\ntôi cũng nhất định sẽ không lùi bước đâu!
+ね、ねぇ…\nちょっと聞きたいんだけど\n毛皮もないのにあの姿なのよね？\n風邪引いたりしないのかしら？=Này, này cậu ơi...\nTớ có chuyện này muốn hỏi chút nha.\nCon bé đó rõ ràng là có lông mao gì đâu mà cứ ăn mặc phô phang kiểu đó hoài thế nhỉ...\nLiệu có sợ bị cảm lạnh hay ốm sốt gì không ta?
 
 Tsumugi
 強そうな相手ばかりですけど\nだからなんだっていうんですか！\nほら、騎士さんも気合い入れて！\n一緒に戦いますよ！=Toàn những đối thủ trông có vẻ mạnh không thôi, nhưng thế thì đã sao chứ! Nào, Kỵ sĩ-san cũng hãy xốc lại tinh thần đi chứ! Chúng ta sẽ cùng nhau chiến đấu nhé!
@@ -194,7 +208,8 @@ Misaki
 アブナイキレイなお姉さんはね\n『ふれーばー』だから許されるの！\nこんなメチャクチャにするなんて…\n本物の大人のレディが勝負よ勝負！=Kiểu chị đại quyến rũ nhưng nguy hiểm ấy hả, là nhờ có "vị" riêng nên mới được phép làm thế đấy nhé! Dám làm loạn mọi thứ lên thế này à... Để một quý cô trưởng thành thực thụ cho các người thấy thế nào gọi là một trận so tài đàng hoàng nào!
 
 Kaori
-ううっ強そうな敵ばっかりさ～！\n長丁場の戦いにはやっぱりこれよ～\nサーターアンダギー！\n栄養付けて平和を守るさ～♪=Hic hic, toàn là kẻ địch mạnh không à sa～! Bí quyết để chiến đấu bền bỉ đường dài chính là món này đây～ Sata Andagi! Tẩm bổ cho thật tốt rồi cùng nhau bảo vệ hòa bình thế giới thôi nào sa～♪
+ううっ強そうな敵ばっかりさ～！\n長丁場の戦いにはやっぱりこれよ～\nサーターアンダギー！\n栄養付けて平和を守るさ～♪=Hic hic, toàn là kẻ địch mạnh không à sa～!\nBí quyết để chiến đấu bền bỉ đường dài chính là món này đây～ Sata Andagi!\nTẩm bổ cho thật tốt rồi cùng nhau bảo vệ hòa bình thế giới thôi nào sa～♪
+歌ったり踊ったり、\nキミと一緒にやりたいことが\nばんないあるからね～！\n絶対に負けられないさ～！=Có biết bao nhiêu là điều tớ cực kỳ muốn được cùng cậu làm chung với nhau,\nnhư là ca hát và nhún nhảy chẳng hạn đó nha～!\nCho nên trận này chúng ta tuyệt đối không được phép thua đâu đó～sa!
 
 Kasumi
 仕方ない、こうなったら奥の手だ\nミスティ！　セオリー！　…って\nこらぁっ！　変身の最中は待って\nくれるのがお約束だよ！？=Hết cách rồi, đành phải dùng đòn tủ này vậy! Misty! Theory! Tru—... NÀY CÁI ANH CHỊ EM KIA! Biến hình thì phải chờ người ta làm cho xong chứ, đó là quy tắc bất thành văn cơ mà hả!?
@@ -209,5 +224,105 @@ Chieru
 クリスＰの敵はカルミナの敵！\nカルミナの敵はなかよし部の敵！\nツアー全通めざして戦います！\n現場の平和はチエルが守る！=Kẻ thù của Chris-P chính là kẻ thù của Carmina! Kẻ thù của Carmina chính là kẻ thù của Câu lạc bộ Tình Bạn! Tụi mình sẽ chiến đấu để tham gia trọn vẹn tất cả các buổi diễn trong tour luôn! Hòa bình của thánh địa concert cứ để Chieru này bảo vệ!
 
 Mifuyu
-バイト仲間とこの世界のみんなを\n守るために！　私たちのやるべき\nことはただ一つ！　いいわね？\n─最高の効率で倒すわよ！=Vì những đồng nghiệp làm thêm và tất cả mọi người ở thế giới này! Việc chúng ta phải làm chỉ có một mà thôi! Rõ chưa nào? ─Tiêu diệt tụi nó với hiệu suất tối đa thôi!
-+1
+バイト仲間とこの世界のみんなを\n守るために！　私たちのやるべき\nことはただ一つ！　いいわね？\n─最高の効率で倒すわよ！=Vì những đồng nghiệp làm thêm và tất cả mọi người ở thế giới này!\nViệc chúng ta phải làm chỉ có một mà thôi! Rõ chưa nào?\n─Tiêu diệt tụi nó với hiệu suất tối đa thôi!
+相手も数が多いし、短期決戦とは\nいかないわね…って！　早く\n勝たなきゃバイトに遅刻しちゃう\nもっと効率アップしていくわよ！=Đối thủ thì đông thế này, không thể kết thúc nhanh gọn trong một sớm một chiều được đâu...\nChờ đã! Nếu không nhanh chóng thắng lẹ lên là tôi bị muộn giờ làm thêm mất!\nTăng tốc hiệu suất lên hết cỡ cho tôi nào!
+
+Misogi
+ミソギとにいちゃんはこれからも\n世界中を冒険して、ワクワクする\nお宝をたくさん見つけるんだ！\nワルモノなんかに邪魔させないよ！=Hai anh em Misogi và Nii-chan sẽ tiếp tục hành trình phiêu lưu khắp thế gian,\nđể săn tìm thật nhiều những kho báu cực kỳ kỳ thú và hấp dẫn!\nĐừng có hòng mà mơ có kẻ xấu nào dám cản đường bọn này nhé!
+わわ、なんかヤバそうな雰囲気…\nこういう時こそミソギの出番だね！\nとっておきのイタズラ決めて、\nピンチもひっくり返しちゃうよ！=Oa oa, không khí gì mà nguy hiểm và căng thẳng thế này...!\nNhưng chính vào những lúc hiểm nghèo thế này mới là sân khấu tỏa sáng của Misogi đây nè!\nRa tay thực hiện một cú chơi khăm đặc biệt nhất quả đất,\nlật ngược thế cờ và phá tan tình thế nguy cấp này luôn cho coi!
+
+Kyouka
+ここで私たちが諦めたら、このまま\n世界が終わっちゃう！　そんなの\n絶対ダメです！　負けられません！\n私たちで全部退治しちゃいますよ！=Nếu mà chúng ta bỏ cuộc ở đây, thế giới này sẽ cứ thế mà tàn lụi mất!\nChuyện đó tuyệt đối không thể chấp nhận được đâu!\nChúng ta không được phép thua!\nTụi mình sẽ đứng lên quét sạch tất cả bọn chúng luôn cho coi!
+うぅ、ふしんしゃがいっぱいです！\n…でも、このくらいへっちゃらです\nお母さんが心配する前に、早く\n片付けておうちに帰りましょう！=Hự, xung quanh toàn là những kẻ khả nghi không kìa!\n...Nhưng mà, mấy chuyện này thì nhằm nhò gì với em chứ.\nTrước khi mẹ phải lo lắng, chúng ta hãy mau chóng\ngiải quyết gọn gàng rồi cùng về nhà thôi nào!
+
+Sheffy
+ミロク…まだ生きていたのね…！\nあの男は私が相手するわ\n兄さんの分もまとめて、\n今ここで借りを返さないと！=Miroku... Ngươi vẫn còn sống sót cơ à...!\nTên đànォng đó cứ để tôi lo.\nTính cả phần của huynh trưởng nữa,\nhôm nay tôi phải đòi lại tất cả nợ cũ\nngay tại nơi này và vào lúc này!!
+
+Mimi
+す、すごく強そうな人がいっぱい…\nミミ、怖くてぶるぶるしちゃうけど\nでも泣いちゃったりはしないよっ\nおにいちゃんがいっしょだもん…！=Ứ… Ứ hự, xung quanh toàn là những người trông đáng sợ và mạnh quá đi thôi...\nMimi sợ tới mức run lẩy bẩy cả người lên luôn nè,\nNhưng mà Mimi sẽ không thèm khóc nhè đâu nhé!\nBởi vì có onii-chan luôn ở bên cạnh cơ mà...!
+
+Ranpha
+緊張、してる…？　そ、それなら、\nわたしに、任せて…わたし、歌を、\n歌うわね…聴けばきっと、いつも\n通りの力を、出せると思うから…=Cậu... đang căng thẳng lắm hả?\nN-Nếu vậy thì... cứ để em lo nhé...\nEm sẽ hát... tặng cậu nghe nha...\nChắc chắn là nếu cậu lắng nghe...\nCậu sẽ tìm lại được phong độ thường ngày và phát huy hết sức mạnh của mình cho mà xem...
+
+Tomo
+追いかけっこでもしようか\n鬼さんこちら♪　…って、まだ\n来るの！？　不意打ちされる側に\nなるのは趣味じゃないんだけどな！=Hay là chúng ta chơi trò đuổi bắt một ván đi nhỉ?\nNày quỷ ơi, mau lại đây bắt ta nào♪\n...Khoan đã, tụi nó vẫn còn đuổi theo nữa cơ à?!\nTớ không thích làm người bị chơi khăm hay đánh úp bất ngờ chút nào đâu đấy nhé!
+滅ぼすための力に、守るための力が\n屈するわけにはいかないよ。\nこの剣の誇りに賭けて、必ず止める\nさあ、来い！　ミクマ流が相手だ！=Sức mạnh sinh ra chỉ để tàn phá và hủy diệt,\tuyệt đối không thể khuất phục trước sức mạnh được sinh ra để bảo vệ!\nTa xin lấy niềm kiêu hãnh của thanh kiếm này ra để thề, nhất định sẽ chặn đứng các người lại.\nNÀO, MAU XÔNG LÊN ĐI! PHÁI MIKUMA XIN ĐƯỢC TIẾP CHIÊU TẤT CẢ!!
+
+Nebbia
+あんな奴らを野放しにしてたら\nこの世界が滅茶苦茶にされちゃう！\nでもまぁこれはこれでチャンスよ♪\n最っ高の悪戯の標的にしてあげる！=Mà để mấy tên đó nhởn nhơ ngoài kia thì thế giới này tiêu đời sớm mất!\nNhưng mà nghĩ lại thì đây cũng là một cơ hội tuyệt vời đó chứ nhỉ♪\nTa sẽ biến tụi nó thành nạn nhân cho cú chơi khăm đỉnh cao nhất quả đất luôn cho xem!
+
+Precia
+ん\nまだまだ、いける\nお兄、パパ、なかま、いる\nむしゃぶるい=Mưm...\nVẫn... vẫn còn cố được mà...\nCó Papa nè. Có Onii nữa. Cả các bạn nữa... mọi người đều ở đây.\nToàn thân run lẩy bẩy vì hưng phấn
+てき、いっぱい、しかも、つよすぎ\nけど、まけないよ\nお兄のほっぺ、たべて\nふるぱわー=Kẻ địch... đông quá trời, lại còn mạnh khủng khiếp nữa chứ...\nNhưng mà, em không thua đâu!\nGiờ thì... cắn cho má Onii một phát nào...\nTHỨC TỈNH SỨC MẠNH TỐI ĐA -- FULL POWER!!
+
+Chloe
+ざーす。世界を救う系の光バイトで\n来たんすけど…あ、説明とかは\n大丈夫っす。慣れてるんでノリで\n入れます─おのれ世界の敵め！=Chào buổi sáng/buổi chiều ạ. Nhân viên bán thời gian chuyên hệ cứu thế giới đây rồi...\nÀ, mấy vụ giải thích chi tiết thì khỏi cần đâu ạ.\nTụi em quen thuộc mấy việc này rồi, cứ xông pha theo cảm tính là vào guồng ngay thôi──Đỡ lấy này, hỡi lũ kẻ thù của thế giới!
+なっつ、狐のねえさんいるじゃん\nまだ現役で悪モンやってたんだ\nてか中ボスポジに降格してるくね？\n世界の敵界隈、意外とせちがれーな=Hoài niệm ghê ta, có cả chị đại hồ ly ở đây nữa kìa!\nTính ra vẫn còn đang bám trụ làm kẻ ác kỳ cựu cơ à?\nMà hình như bị giáng cấp xuống làm mid boss hay sao rồi ý nhỉ?\nCái giới phe phản diện này dạo này cũng khắc nghiệt phết đấy chứ lị!
+
+Violet
+恐るべき方々ばかりです…\nですがわたくしは絶対に退きません\nジオ・ニヴルヘルの姫として\nこの世界を守ると決めたのです！=Toàn là những vị khách vô cùng đáng sợ và khủng khiếp...\nNhưng mà ta tuyệt đối sẽ không lùi bước đâu!\nVới tư cách là Công chúa của Geo Niflhell...\nTa đã hạ quyết tâm sẽ bảo vệ thế giới này bằng mọi giá!
+
+Illya
+ここはいずれわらわが支配する世界\nつまり、わが領地に等しきもの…\n奴らのような不届き者の蛮行、\n見過ごすわけにはいかぬわ！=Nơi này sớm muộn gì cũng sẽ là thế giới do một tay ta thống trị,\nNói cách khác, nó chẳng khác nào lãnh thổ riêng của ta cả...\nMấy hành vi ngang ngược, vô lễ của cái đám vô lại đó,\nta quyết không thể làm ngơ cho qua chuyện được đâu nhé!
+厳しい戦いになりそうじゃな…\nお主もわらわから離れるでないぞ\nも、もちろん、大人の姿を保つのに\n都合がいいからというだけじゃ！=Có vẻ như đây sẽ là một trận chiến cam go đấy nhỉ...\nNgươi cũng đừng có mà bén mảng đi ra xa khỏi cạnh ta đấy.\nT-Tất nhiên là chỉ vì như thế mới thuận tiện cho việc duy trì hình dạng người lớn của ta thôi đó nha!
+
+Saren
+ちょっと！　なんか向こうに\n教育に悪そうなのがいるんだけど！\nあいつは子どもたちの目に入る前に\nあたしたちで倒すわよ。いい？=Này! Hình như đằng kia có một đứa trông cực kỳ có hại cho sự phát triển giáo dục của trẻ nhỏ kìa!\nTrước khi để tụi nhỏ kịp nhìn thấy, chúng ta phải tẩn cho mẻ một trận rồi hạ gục luôn đi chứ. Được chứ?
+しっかり頭数揃えてきたわね…\nでもこの程度の力に屈するような\nあたしたちじゃないんだから\nあんたも、サポート頼んだわよ！=Đông đủ lực lượng phết đấy chứ nhỉ...\nNhưng mà bọn này không phải kiểu người dễ dàng khuất phục trước chút sức mạnh cỏn con này đâu!\nCậu cũng nhớ hỗ trợ hết mình cho tôi đấy nhé!
+
+Lily
+これから挑む敵がどれだけ強いと\nしても、勇往邁進していきます\nですからこの戦いでも、兄様の\nおそばで戦わせてくださいませ=Cho dù kẻ địch chúng ta sắp phải đối mặt có mạnh đến đâu đi chăng nữa,\nem vẫn sẽ dũng mãnh tiến bước với quyết tâm không bao giờ lay chuyển.\nThế nên, xin người hãy cho phép em được tiếp tục chiến đấu ngay bên cạnh anh hai trong trận chiến lần này nhé!
+
+Louise Marie
+愛情×愛情＝無限大…\n遂に錬金術の神髄に辿り着いたわ…\nさあ…お見舞いしてやりましょう！\n私とダーリンの究極錬成をっ！=Tình yêu nhân tình yêu bằng vô cực...\nCuối cùng ta cũng chạm tới chân lý tối cao của thuật luyện kim rồi...\nNào... để ta ban cho các ngươi một liều thuốc nhớ đời nhé!\nThứ luyện kim tuyệt đỉnh kết tinh từ tình yêu của ta và Darling đây!!
+
+Mitsuki
+なんて重圧かしら…でも、あいにく\n私も伊達に修羅場をくぐってないの\nさあ、かかってきなさい！\n裏の人生経験、見せてあげるわ…♪=Áp lực gì mà nặng nề thế không biết... nhưng mà tiếc cho tụi nó là,\nchị mày đây cũng đâu phải dạng vừa, trải qua không biết bao nhiêu trận bời bời sinh tử rồi đâu nhé!\nNào, thích thì cứ lao vào đây!\nĐể chị cho tụi bay nếm mùi đời của một kẻ lăn lộn chốn giang hồ thực thụ là thế nào...♪
+
+Sono
+敵、まだいっぱいいるじゃん…\nはあ…残業したくないけど頑張るか\n全部終わったら君からのマッサージ\n期待しとくから、ね=Kẻ địch... vẫn còn đông quá trời kìa...\nHàizz... Chẳng muốn tăng ca chút nào đâu nhưng mà đành cố gắng hết sức vậy.\nXử lý xong xuôi hết mọi chuyện thì tớ nhớ phần thưởng là một cú massage từ cậu lắm đấy nhé, hứa rồi đấy nha!
+
+Homare
+ヴィーちゃんてば、そんな子たちと\n一緒にいるほうが楽しいんだ～？\nじゃ、私たちも見せつけないとだね\n遠慮なくやっちゃおう☆　あははっ=Hả? Vee-chan, cậu thích đi chơi với mấy đứa kiểu đó hơn cơ à～?\nThế thì tụi mình cũng phải cho tụi nó thấy một màn thật ấn tượng thôi nhỉ!\nKhông cần phải khách sáo đâu, cứ chơi hết mình luôn nào☆ A ha ha!
+
+Eriko
+有象無象のクズ虫が、私たちの\n幸せを阻もうとしているようですね\nあぁ、なんて忌々しいのでしょう…\n残らずすり潰しますわ、クスクス…=Có vẻ như một lũ rác rưởi vô tích sự ngoài kia đang\nmuốn ngáng đường hạnh phúc của chúng ta đấy nhỉ...\nA, thật là đáng ghét làm sao...\nTa sẽ nghiền nát tất cả bọn chúng ra thành bã không sót một mống, kus kus...
+
+Croce
+ビーッ！　ビーッ！\nあっちもこっちもそっちも\n強そうな人たちでいっぱいですっ！\nセンサーが壊れちゃいそう～っ！=Bíp! Biiíp!\nTừ đông sang tây, từ trong ra ngoài, chỗ nào cũng toàn là những người trông mạnh khủng khiếp không hà!\nCảm biến của tớ chắc hỏng mất thôi～!
+世界が大変なことになってますっ！\nでもわたしたちは今までだって、\n大変な戦いを乗り越えてきましたっ\nきっと…ううん、絶対勝てますっ！=Thế giới đang lâm vào tình cảnh cực kỳ nguy cấp rồi đây này!\nNhưng mà cho tới bây giờ, tụi mình đã vượt qua biết bao nhiêu trận chiến khó khăn gian khổ rồi cơ mà.\nChắc chắn là... hông, tụi mình nhất định sẽ giành chiến thắng thui!
+
+Nanaka
+見るからにヤバい奴らが勢ぞろい！\nでもみんなの世界が狙われてんのに\n日和ってる奴いる？いねえよなぁ！\n全員ぶっ飛ばして世界を救うぞ！！=Toàn những kẻ nhìn qua là biết nguy hiểm tụ tập lại một đống kìa!\nNhưng mà thế giới của mọi người đang bị đe dọa thế này mà có đứa nào dám hèn nhát rụt vòi lại không hả?\nLàm gì có chuyện đấy đúng không nào! Xông lên tẩn bay màu tất cả bọn chúng rồi cứu lấy thế giới nào!!
+
+Yamato
+…フゥン？　あっちもこっちも\n『王家の装備』を持ってるらしいね\n宝の山ってのはこのことかい\nまとめて搔っ攫ってやろうかね…！=...Hừm? Nghe bảo ở đâu cũng có kẻ mang theo "Trang bị của Hoàng gia" hết nhỉ...\nĐúng là kho báu chồng chất núi là đây chứ đâu...\nHay là ta cứ tiện tay vơ vét sạch tụi nó mang đi hết luôn nhỉ...!?
+
+Wyrm
+…正直、サボりとかじゃなくて…\nぜんぜん身体はきついです。でも…\n姉貴やみんなと過ごすこの世界は\n誰にも壊させやしませんから…！=...Thật đấy, lần này em không hề trốn việc hay lười biếng đâu nhé...\nCơ thể thực sự đã mệt mỏi rã rời hết cả rồi. Dù vậy đi nữa...\nCái thế giới nơi em được quây quần bên chị hai và mọi người tuyệt đối sẽ không để cho bất kỳ kẻ nào dám phá hủy đâu...!
+
+Ayane
+私もみんなと一緒に戦うよ！\n悪い人たちはフルスイングで\nあっという間に倒しちゃうから！\n『おうっ！　全員かかってこい！』=Tớ cũng sẽ cùng chiến đấu với mọi người nữa đấy!\nMấy kẻ xấu xa đó, tớ sẽ vung gậy một phát là đánh bay màu trong chớp mắt cho xem!\n"Ừm đúng rồi đấy! Tất cả nhào vô hết đây cho tao!!"
+本当はちょっとだけ怖いけど…\nぷうきちもお兄ちゃんも一緒だもん\n力を合わせて世界を守っちゃうよ\n絶対に負けないんだから！=Thật ra trong lòng em cũng hơi sợ một chút xíu thôi, nhưng mà...\nCó cả Pukichi lẫn anh hai đều ở cạnh em cơ mà.\nMình sẽ cùng nhau đồng tâm hiệp lực bảo vệ thế giới này cho xem!\nEm tuyệt đối, tuyệt đối không bao giờ thua cuộc đâu!
+
+Wakana
+きっと、長期戦になりますよね…\nあ、あの…ご飯、食べませんか？\nお腹が空くといけないと思って、\n作ってきたので…よろしければっ=Chắc là sẽ phải đánh một trận kéo dài đây nhỉ...\nỜ... ừm... Cậu có muốn ăn chút gì không?\nTớ sợ mọi người bị đói nên có chuẩn bị sẵn một ít... Nếu cậu không chê thì dùng thử nhé!!
+
+Lului
+姫姉しゃまも騎士しゃんも\nみなしゃん戦ってるんでしゅ\nあたちだって負けましぇん！\n一生懸命がんばりましゅ～！=Công chúa tỷ tỷ và cả hiệp sĩ ca ca nữa,\nmọi người đều đang chiến đấu cơ mà,\nem cũng sẽ không chịu thua kém đâu!\nNhất định em sẽ cố gắng hết mình cho xem～!
+リーザ姉しゃまが裏切ったなんて\nあたち、信じたくないでしゅ…！\nだから直接聞きにいきましゅ\n吸盤ぜんぶで捕まえてでも…！=Chị Lisa mà phản bội ư, em... em tuyệt đối không muốn tin chút nào hết...!\nThế nên em phải tự mình đến hỏi cho ra lẽ mới được...\nCho dù có phải dùng tất cả mấy cái xúc tu để tóm chặt lấy chị ấy đi nữa...!!
+
+Creditta
+ああもうはあもう、あっちこっち\n滅茶苦茶にしてくださってからに！\n復興費用の賠償はどなたに\n請求すればよろしいのかしら！？=Trời ơi là trời, thật tình đấy!\nQuậy cho nát bét cả trong lẫn ngoài, đông sang tây thế này rồi đấy!\nThế rốt cuộc là chị phải đi đòi bồi thường chi phí tái thiết từ cái mặt mũi đứa nào bây giờ hả hả!?
+
+Muimi
+真那、覚悟しとけよ！\nオマエが積み上げてきた悪事…\nこの大悪党がまとめて\nぶっ壊してやるからな！=Chuẩn bị tinh thần sẵn đi, Mana!\nTất cả những việc làm ác độc mà mày đã tích tụ bấy lâu nay...\nĐại ác nhân này sẽ đập tan nát từng mảnh không còn một mống cho mày xem!
+
+Lyrael
+穢らわしい、色狂いの山羊めが\n我が従僕を傀儡としてくれた借り、\n兆倍──否、京倍にして\n返してくれようぞ。崩雷夜天！=Đồ con dê dơ bẩn, dâm đãng kia...\nMón nợ ngươi dám biến thuộc hạ trung thành của ta thành con rối điều khiển,\nta sẽ bắt ngươi trả gấp một nghìn tỷ lần... không, gấp mười triệu tỷ lần!\nLÔI ĐỘNG MÀN ĐÊM - BÙNG NỔ!!
+
+Ruka
+世界の危機とあっちゃあ\nアタシたち黄昏時の住人でも\n黙っちゃいられないね！\nひとっ働きさせてもらおうかい！=Đã là nguy trọng của cả thế giới rồi thì\ndù có là người của Đoàn Lữ Hành Lúc Chạng Vạng đi nữa\nthì tụi này cũng không thể làm ngơ ngồi yên được đâu nha!\nNào, cùng nhau làm một vố ra trò cho nên chuyện thôi nào!
+
+Shinatsu
+私はこの世界の人々と出会い、\n失ったはずの希望を見つけられた\n今度は私が、皆に希望を届ける番だ\nこの刃、存分に振るわせてくれ=Tôi đã gặp gỡ những con người ở thế giới này, và tìm lại được niềm hy vọng tưởng chừng như đã mất mãi mãi.\nĐến lượt tôi sẽ là người mang hy vọng trao gửi đến tất cả mọi người.\nThanh kiếm này... xin cứ tùy ý sử dụng nó theo ý muốn của cậu nhé.
