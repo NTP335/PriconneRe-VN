@@ -2870,3 +2870,17 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 
 幻境竜后と盟を結び、再び小さき者の前に立つ創世者。鋭さを増した瞳で未来を見据え因縁に応報すべく終幕の刃を世界に突き立てる。=Đấng Sáng Thế, kẻ đã minh ước với Huyễn Cảnh Long Hậu và một lần nữa đứng trước những kẻ bé nhỏ. Với đôi mắt sắc bén hướng về tương lai, ngài cắm lưỡi dao hạ màn xuống thế giới để báo đáp mọi ân oán xưa.
 挑戦回数はイベント参加から2時間ごとに1回分付与されます。=Lượt khiêu chiến sẽ được cộng thêm 1 lần cứ mỗi 2 giờ kể từ khi tham gia sự kiện.
+
+
+魔力を帯びた霧が実体化した魔物。怨嗟を振りまいては、冒険者の生気を徐々に蝕む。=Một con quái vật được hình thành từ màn sương đượm ma lực. Nó gieo rắc sự oán hận và dần dần bào mòn sinh khí của các nhà mạo hiểm.
+自身が継続ダメージ状態：ダウン量減少=Bản thân đang trong trạng thái chịu sát thương theo thời gian: Giảm lượng suy giảm.
+メデューサに物理固定ダメージ=Gây sát thương vật lý cố định lên Medusa.
+自身への継続ダメージ量アップ 【召喚体死亡時】=Tăng lượng sát thương theo thời gian phải nhận lên bản thân\n\n[Khi một thể triệu hồi tử vong].
+自身への継続ダメージ量アップ \n【召喚体死亡時】=Tăng lượng sát thương theo thời gian phải nhận lên bản thân\n\n[Khi một thể triệu hồi tử vong].
+しもべ２体召喚【召喚体特殊効果】=Triệu hồi 2 bề tôi\n\n[Hiệu ứng đặc biệt của thể triệu hồi].
+対象のＨＰ70％未満：対象に石化=HP của mục tiêu dưới 70%: Gây hiệu ứng Hóa đá lên mục tiêu.
+後ろから２番目の敵と周囲に魔法ダメージ=Gây sát thương phép thuật lên kẻ địch ở vị trí thứ 2 từ dưới lên (tính từ hàng sau) và các mục tiêu xung quanh.
+対象のＨＰ70％未満：毒ではなく猛毒=HP của mục tiêu dưới 70%: Gây Trúng độc nặng (Venom) thay vì Trúng độc thông thường (Poison).
+後ろから２番目の敵と周囲に毒=Gây Trúng độc lên kẻ địch ở vị trí thứ 2 từ dưới lên (tính từ hàng sau) và các mục tiêu xung quanh.
+対象のＨＰ80％未満：対象に最大ＨＰダウン（必中）=HP của mục tiêu dưới 80%: Giảm HP tối đa của mục tiêu (đòn đánh chắc trúng).
+対象のＨＰ70％未満：石化時間アップ=HP của mục tiêu dưới 70%: Tăng thời gian duy trì hiệu ứng Hóa đá.

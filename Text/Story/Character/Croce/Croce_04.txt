@@ -1,6 +1,5 @@
 千恵=Chie
 野良猫=Mèo hoang
-ティア=Tia
 
 夢の中で、{playername}は千恵と名乗る少女と交流する。目覚めると、{playername}と同じ夢を見ていたクローチェが、はじめて夢を見たことや夢の中での不思議な体験を楽しそうに語るのだった。=Trong giấc mơ, {playername} đã tương tác với một cô gái tự xưng là "Chie". Khi tỉnh dậy, Croce - người cũng có cùng giấc mơ với {playername} - vui vẻ kể về giấc môn đầu tiên trong đời và trải nghiệm tuyệt vời cô ấy đã có.
 

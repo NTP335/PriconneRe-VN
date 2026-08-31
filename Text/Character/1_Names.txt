@@ -163,7 +163,7 @@
 ネビア=Nebbia
 ホウオウ=Ho-oh
 
-ルルィ=Lului
+ルルィ=Rurui
 ヴァイオレット=Violet
 グレイス=Grace
 イロハ=Iroha
@@ -192,6 +192,10 @@ Ameth alias
 ミホ=Miho
 エリカ=Erika
 
+リーザ・フレイヤ=Lisa Freyja
+アルシャト=Alshat
+アグライア=Aglaia
+エウロス=Euros
 
 sr:"^このスキルのスキルレベルは「([\S\s]+)」と連動しています$"=Cấp độ kỹ năng này được liên kết với "$1"
 
