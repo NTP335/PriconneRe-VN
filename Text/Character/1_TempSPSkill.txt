@@ -1,16 +1,3 @@
-Yori
-オーバーチャージ++=Quá Tải++
-自分の残りＨＰの90％を消費して、自分の魔法攻撃力を特大アップし、前方の自分以外の最も近くの味方１キャラと自分のＴＰを大回復させる。消費したＨＰ量に応じて、魔法攻撃力の上昇量とＴＰの回復量が最大３倍までアップする。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Tiêu tốn 90% lượng HP hiện tại của bản thân để tăng cực đại Tấn công Ma pháp của chính mình, đồng thời hồi phục mạnh TP cho bản thân và 1 đồng minh gần nhất phía trước (ngoại trừ bản thân). Dựa trên lượng HP đã tiêu tốn, lượng Tấn công Ma pháp tăng thêm và lượng TP hồi phục sẽ tăng lên tối đa gấp 3 lần. Sát thương gây ra cho bản thân bởi kỹ năng này sẽ không giúp hồi phục TP.
-
-自分の残りＨＰの90％を消費して、自分の魔法攻撃力を特大アップ、ＴＰを大回復させる。消費したＨＰ量に応じて、魔法攻撃力の上昇量とＴＰの回復量が最大=Tiêu tốn 90% lượng HP hiện tại của bản thân để tăng cực đại Tấn công Ma pháp và hồi phục mạnh TP cho bản thân. Dựa trên lượng HP đã tiêu tốn, lượng Tấn công Ma pháp tăng thêm và lượng TP hồi phục sẽ tăng lên mức tối đa.
-r:"^自分の残りＨＰを90％消費自分の魔法攻撃力を(\d+)アップ自分のＴＰを360回復$"=►Tiêu tốn 90% HP hiện tại.\n►Tăng $1 Tấn công Ma pháp cho bản thân.\n►Hồi phục 360 TP cho bản thân.
-r:"^自分の残りＨＰを90％消費自分の魔法攻撃力を(\d+)アップ味方単体のＴＰを360回復自分のＴＰを360回復$"=►Tiêu tốn 90% HP hiện tại.\n►Tăng $1 Tấn công Ma pháp cho bản thân.\n►Hồi phục 360 TP cho một đồng minh.\n►Hồi phục 360 TP cho bản thân.
-
-
-
-
-
-
 
 Miyako
 う～ら～め～し～や～なの++=Ura~me~shi~ya~nano++

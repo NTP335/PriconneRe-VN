@@ -30,7 +30,7 @@ r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ$"=Th�
 
 ##S2##
 シャドウブラスト=Bùng Nổ Bóng Tối
-前方範囲内の敵すべてに魔法小ダメージを与える。=Gây sát thương ma thuật trung bình lên toàn kẻ địch trong phạm vi.
+前方範囲内の敵に魔法大ダメージを与える。=Gây sát thương phép lớn lên kẻ địch trong phạm vi phía trước.
 
 ##EX##
 ライトニングブースト=Sóng Dâng Tia Chớp
@@ -38,12 +38,21 @@ r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ$"=Th�
 
 ##UB+##
 ジャッジメントジャベリン=Giáo Giới Phán Quyết
-前方範囲内の敵すべてに魔法大ダメージを与える。ヨリのＨＰが低いほど、ダメージがアップする。=Sát thương ma thuật lớn lên toàn kẻ địch trong vùng phía trước. Càng ít HP của Yori, sát thương càng tăng.
+前方範囲内の敵に魔法中ダメージを２回与え、自分がバリア展開中の場合、さらに追加で魔法中ダメージを与える。自分のＨＰ割合が低いほど、ダメージ倍率が最大1.5倍まで増加する。=Gây 2 lần sát thương phép trung bình lên kẻ địch trong phạm vi phía trước, và nếu bản thân đang triển khai khiên (barrier), gây thêm một đợt sát thương phép trung bình nữa. Tỷ lệ sát thương càng tăng cao khi tỷ lệ HP của bản thân càng thấp, tối đa lên tới 1.5 lần.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージバリアが展開されている時、範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch trong phạm vi.\n►Gây $2 sát thương phép lên kẻ địch trong phạm vi.\n►Khi có khiên được triển khai, gây $3 sát thương phép lên kẻ địch trong phạm vi.
 
 ##S1+##
 オーバーチャージ+=Vượt Qua Giới Hạn+
 ＨＰを消費して、自分の魔法攻撃力を特大アップさせ、さらにＴＰを中回復させる。=Tăng rất mạnh M.ATK của bản thân nhưng phải trả giá bằng HP. Hồi một lượng TP vừa phải cho bản thân.
-r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=Thời gian niệm: 1.25s\n►Giảm HP của bản thân đi $1.\n►Tăng M.ATK của bản thân lên $2.\n►Hồi TP của bản thân $3.
+自分の残りＨＰの90％を消費して、自分の魔法攻撃力を特大アップ、ＴＰを大回復させる。消費したＨＰ量に応じて、魔法攻撃力の上昇量とＴＰの回復量が最大=Tiêu thụ 90% lượng HP còn lại của bản thân để tăng cực đại tấn công phép và hồi nhiều TP cho bản thân. Dựa trên lượng HP đã tiêu thụ, mức tăng tấn công phép và lượng TP hồi phục sẽ tăng lên, tối đa đạt giá trị lớn nhất.
+r:"^自分のＨＰを(\d+)消費自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=Thời gian triển khai: 1.25s\n►Giảm HP của bản thân đi $1.\n►Tăng M.ATK của bản thân lên $2.\n►Hồi TP của bản thân $3.
+r:"^自分の残りＨＰを90％消費自分の魔法攻撃力を(\d+)アップ自分のＴＰを360回復$"=Thời gian triển khai: 1.25s.\n►Tiêu thụ 90% HP còn lại của bản thân.\n►Tăng tấn công phép của bản thân thêm $1 trong vòng 12s.\n►Hồi 360 TP cho bản thân.
 
 ##UE##
 デモンズジャベリン=Demon's Javelin
+
+
+##S1+##
+オーバーチャージ++=Vượt Qua Giới Hạn++
+自分のＨＰの90％を消費して、自分の魔法攻撃力を特大アップし、前方の自分以外の最も近くの味方と自分のＴＰを大回復させる。消費したＨＰ量に応じて、魔法攻撃力のアップ量とＴＰの回復量が最大３倍まで増加する。このスキルによる自分へのダメージでは自分のＴＰは回復しない。Tiêu thụ 90% HP của bản thân để tăng cực đại tấn công phép của bản thân, đồng thời hồi nhiều TP cho bản thân và đồng minh ở gần nhất phía trước (không tính bản thân). Dựa trên lượng HP đã tiêu thụ, mức tăng tấn công phép và lượng TP hồi phục sẽ tăng lên tối đa 3 lần. Sát thương gây ra cho bản thân bởi kỹ năng này sẽ không hồi TP cho bản thân.
+r:"^自分の残りＨＰを90％消費自分の魔法攻撃力を(\d+)アップ味方単体のＴＰを360回復自分のＴＰを360回復$"=Thời gian triển khai: 1.25s.\n►Tiêu thụ 90% HP còn lại của bản thân.\n►Tăng tấn công phép của bản thân thêm $1 trong vòng 12s.\n►Hồi 360 TP cho 1 đồng minh.\n►Hồi 360 TP cho bản thân.

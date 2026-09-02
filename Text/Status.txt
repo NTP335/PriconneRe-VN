@@ -56,6 +56,7 @@ HP回復量=Lượng hồi HP
 ---Status Popup---
 
 
+強化条件を満たしていません。=Không đáp ứng đủ điều kiện cường hóa.
 
 スキル切り替え！=Kỹ năng thay đổi!
 r:"^与ダメアップ[＋+]([0-9.%％]+)$"=Tăng sát thương +$1

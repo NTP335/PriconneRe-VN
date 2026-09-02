@@ -11,16 +11,19 @@ r:"^敵全体の受ける物理・魔法ダメージを2％アップ敵全体の
 オーバークロック=Overclock
 敵全体の与える物理・魔法ダメージを小ダウンさせる。味方全体の物理・魔法攻撃力と行動速度を大アップさせる。目の前の敵１キャラの弱体効果の種類の数に応じて、物理・魔法攻撃力のアップ量が最大５倍まで増加する。=Làm giảm nhẹ sát thương vật lý và phép thuật gây ra bởi toàn bộ kẻ địch. Làm tăng mạnh chỉ số tấn công vật lý, phép thuật và tốc độ hành động của toàn bộ đồng minh. Lượng gia tăng tấn công vật lý và phép thuật sẽ tăng lên tối đa gấp 5 lần tùy theo số lượng các loại hiệu ứng bất lợi khác nhau đang tác dụng lên kẻ địch ở phía trước.
 
-r:"^敵全体が与える物理・魔法ダメージを4％ダウン味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の行動速度100％アップ$"=►Giảm 4% sát thương vật lý và phép thuật gây ra bởi toàn bộ kẻ địch trong 12 giây.\n►Tăng chỉ số tấn công vật lý và phép thuật của toàn bộ đồng minh lên $1 trong 12 giây.\n►Tăng 100% tốc độ hành động của toàn bộ đồng minh trong 12 giây.
+r:"^敵全体が与える物理・魔法ダメージを4％ダウン味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の行動速度100％アップ$"=Thời gian triển khai: 1.05s.\n►Giảm 4% sát thương vật lý và phép thuật gây ra bởi toàn bộ kẻ địch trong 12 giây.\n►Tăng chỉ số tấn công vật lý và phép thuật của toàn bộ đồng minh lên $1 trong 12 giây.\n►Tăng 100% tốc độ hành động của toàn bộ đồng minh trong 12 giây.
 
 ##S2##
 エクスプロイト=Exploit
 敵全体の物理・魔法防御力を小ダウン、受けるクリティカルダメージを小アップさせる。味方全体のＴＰを小回復させる。目の前の敵１キャラの弱体効果の種類の数に応じて、ＴＰの回復量が最大５倍まで増加する。=Làm giảm nhẹ chỉ số phòng thủ vật lý và phép thuật của toàn bộ kẻ địch, đồng thời làm tăng nhẹ sát thương chí mạng mà chúng phải chịu. Hồi phục nhẹ điểm TP cho toàn bộ đồng minh. Lượng TP hồi phục sẽ tăng lên tối đa gấp 5 lần tùy theo số lượng các loại hiệu ứng bất lợi khác nhau đang tác dụng lên kẻ địch ở phía trước.
 
-r:"^敵全体の物理・魔法防御力を(\d+)ダウン敵全体の被クリダメを4％アップ味方全体のＴＰを20回復$"=►Giảm chỉ số phòng thủ vật lý và phép thuật của toàn bộ kẻ địch đi $1 trong 12 giây.\n►Tăng 4% sát thương chí mạng phải chịu của toàn bộ kẻ địch trong 12 giây.\n►Hồi phục 20 TP cho toàn bộ đồng minh.
+r:"^敵全体の物理・魔法防御力を(\d+)ダウン敵全体の被クリダメを4％アップ味方全体のＴＰを20回復$"=Thời gian triển khai: 1.05s.\n►Giảm chỉ số phòng thủ vật lý và phép thuật của toàn bộ kẻ địch đi $1 trong 12 giây.\n►Tăng 4% sát thương chí mạng phải chịu của toàn bộ kẻ địch trong 12 giây.\n►Hồi phục 20 TP cho toàn bộ đồng minh.
 
 ##EX##
 クイズの時間よ♪=It's Quiz Time♪ 
 クイズの時間よ♪+=It's Quiz Time♪+
+
+##SP##
 ブランクブロック=Blank Block
 味方全体の受ける混乱と誘惑を無効化する。=Vô hiệu hóa trạng thái Hỗn loạn và Mê hoặc phải chịu cho toàn bộ đồng minh.
+味方全体の受ける混乱、誘惑を無効化する=Vô hiệu hóa trạng thái Hỗn loạn và Mê hoặc phải chịu cho toàn bộ đồng minh

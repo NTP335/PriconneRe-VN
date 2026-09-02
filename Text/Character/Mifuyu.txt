@@ -13,6 +13,7 @@
 
 ##S2##
 ハイドロスラッシュ=Chém Nước
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする$"=Thời gian triển khai: 1.31s.\n►Gây $1 sát thương vật lý lên 1 kẻ địch.\n►Gây choáng (Stun) lên 1 kẻ địch trong vòng 3.5s.
 
 ##EX##
 マーセナリープライド=Niềm Kiêu Hãnh Của Lính Đánh Thuê

@@ -1,0 +1,30 @@
+##Profile##
+【物理】中衛で、愛する者たちのため本意気を放つ妹竜。【決意の流星】を溜め覚醒すると、攻撃スキルが再発動しさらに味方の火力を引き上げ、渦炎で敵を灰燼に変える。=[Vật lý] Một cô em gái rồng ở hàng giữa, kẻ dốc toàn lực vì những người mình yêu thương. Bằng cách tích tụ [Sao Băng Quyết Tâm] và thức tỉnh, các kỹ năng tấn công của cô sẽ được kích hoạt lại, giúp gia tăng mạnh mẽ hỏa lực cho đồng minh và thiêu rụi kẻ địch thành tro bụi bằng những ngọn lửa xoáy.
+
+##UB##
+バルムンク・ヴォーテクス=Balmung Vortex
+敵全体に物理大ダメージを与え、物理防御力を小ダウンさせる。【渦竜覚醒】状態の場合、このスキルの効果がもう一度発動し、さらに味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理クリティカルダメージを小アップさせる。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch và giảm nhẹ phòng thủ vật lý của chúng. Nếu đang ở trạng thái [Thức Tỉnh Xoáy Long], hiệu ứng của kỹ năng này sẽ được kích hoạt thêm một lần nữa, đồng thời tăng cực đại tấn công vật lý, tăng nhiều chí mạng vật lý và tăng nhẹ sát thương chí mạng vật lý cho toàn bộ đồng minh.
+
+r:"^敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン渦竜覚醒状態の場合、以下の効果が発動する敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを150アップ味方全体の物理クリダメを6％アップ$"=►Gây $1 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm $2 P.DEF của toàn bộ kẻ địch trong 18 giây.\n\nNếu ở trạng thái [Thức Tỉnh Long Xoáy]:\n►Gây $3 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm $4 P.DEF của toàn bộ kẻ địch trong 18 giây.\n►Tăng $5 P.ATK cho toàn bộ đồng minh trong 18 giây.\n►Tăng 150 tỉ lệ chí mạng vật lý cho toàn bộ đồng minh trong 18 giây.\n►Tăng 6% sát thương chí mạng vật lý cho toàn bộ đồng minh trong 18 giây.
+
+##S1##
+ブレイザー=Blazer
+敵全体に物理大ダメージを与え、物理防御力を小ダウンさせる。【渦竜覚醒】状態の場合、このスキルの効果がもう一度発動し、さらに味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。=Gây sát thương vật lý lớn lên toàn bộ kẻ địch và giảm nhẹ phòng thủ vật lý của chúng. Nếu đang ở trạng thái [Thức Tỉnh Xoáy Long], hiệu ứng của kỹ năng này sẽ được kích hoạt thêm một lần nữa, đồng thời tăng cực đại tấn công vật lý và tăng nhiều chí mạng vật lý cho toàn bộ đồng minh.
+r:"^敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン渦竜覚醒状態の場合、以下の効果が発動する敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ$"=Thời gian triển khai: 1.05s.\n►Gây $1 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm phòng thủ vật lý của toàn bộ kẻ địch đi $2 trong vòng 12s.\n\nNếu bản thân đang ở trạng thái [Thức Tỉnh Xoáy Long], các hiệu ứng sau sẽ kích hoạt:\n►Gây $3 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm phòng thủ vật lý của toàn bộ kẻ địch đi $4 trong vòng 12s.\n►Tăng tấn công vật lý của toàn bộ đồng minh thêm $5 trong vòng 12s.\n►Tăng chí mạng vật lý của toàn bộ đồng minh thêm $6 trong vòng 12s.
+
+##S2##
+パイロクラズム=Pyroclasm
+自分に【決意の流星】（上限60）を５個付与する。味方全体の行動速度を大アップ、ＨＰとＴＰを小回復させる。【決意の流星】が最大の場合の初回発動時、さらに自分を【渦竜覚醒】状態にし、加算行動速度を大アップし、物理追撃状態になる。発動時既に【渦竜覚醒】状態だった場合、さらに味方全体の与える物理ダメージを小アップさせる。=Cấp cho bản thân 5 điểm tích lũy [Sao Băng Quyết Tâm] (tối đa 60). Tăng nhiều tốc độ hành động của toàn bộ đồng minh, đồng thời hồi một lượng nhỏ HP và TP cho họ. Vào lần kích hoạt đầu tiên khi [Sao Băng Quyết Tâm] đạt mức tối đa, bổ sung trạng thái [Thức Tỉnh Xoáy Long] cho bản thân, tăng mạnh tốc độ hành động cộng dồn và đưa bản thân vào trạng thái truy kích vật lý. Nếu đã ở trong trạng thái [Thức Tỉnh Xoáy Long] khi kích hoạt, tăng nhẹ sát thương vật lý gây ra cho toàn bộ đồng minh.
+r:"^味方全体の行動速度100％アップ味方全体のＨＰを(\d+)回復味方全体のＴＰを100回復自分に決意の流星を５個付与する決意の流星が最大の場合の初回発動時、以下の効果が発動する自分を渦竜覚醒状態にする自分の行動速度50％加算自分を10％の物理追撃ダメージが発生する状態にする渦竜覚醒状態の場合、味方全体の与える物理ダメージを5％アップ$"=Thời gian triển khai: 1.05s.\n►Tăng tốc độ hành động của toàn bộ đồng minh thêm 100% trong vòng 12s.\n►Hồi $1 HP cho toàn bộ đồng minh.\n►Hồi 100 TP cho toàn bộ đồng minh.\n►Cấp cho bản thân 5 [Sao Băng Quyết Tâm].\n\nVào lần kích hoạt đầu tiên khi [Sao Băng Quyết Tâm] đạt tối đa, các hiệu ứng sau sẽ kích hoạt:\n►Đưa bản thân vào trạng thái [Thức Tỉnh Xoáy Long].\n►Cộng thêm 50% tốc độ hành động cho bản thân trong vòng 180s.\n►Đưa bản thân vào trạng thái gây 10% sát thương truy kích vật lý trong vòng 180s.\n►Nếu bản thân đang ở trạng thái [Thức Tỉnh Xoáy Long], tăng 5% sát thương vật lý gây ra bởi toàn bộ đồng minh trong vòng 180s.
+
+
+##EX##
+ヤキ入れてやりますよ=Ta sẽ thiêu rụi ngươi thành tro bụi!
+ヤキ入れてやりますよ+=Ta sẽ thiêu rụi ngươi thành tro bụi!+
+
+##SP1##
+業火よ、渦巻け！=Lửa địa ngục, hãy bùng cháy và xoay chuyển!
+
+自分を飛行状態にするステータスアップ効果を受けるたびに自分に決意の流星を付与する状態になる=Nhận trạng thái khiến mỗi khi bản thân nhận được hiệu ứng tăng chỉ số giúp đưa bản thân vào trạng thái [Bay] (Flight), bản thân sẽ nhận được [Sao Băng Quyết Tâm].
+
+【飛行】自分を飛行状態にする。自分がステータスアップ効果を受けるたびに、【決意の流星】（上限60）が１個付与される状態になる。=[Bay] Đưa bản thân vào trạng thái [Bay] (Flight). Mỗi khi bản thân nhận được hiệu ứng tăng chỉ số, cấp cho bản thân 1 điểm tích lũy [Sao Băng Quyết Tâm] (tối đa 60).

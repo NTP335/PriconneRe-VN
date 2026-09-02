@@ -28,9 +28,9 @@ r:"^味方全体のＨＰを(\d+)回復$"=►Hồi HP đồng đội bằng $1.
 
 ##S2##
 フローラルシールド=Bảo vệ hoa
-味方全体の物理防御力を小アップさせる。=Tăng nhỏ phòng thủ vật lý cho đồng đội.
-r:"^味方全体の物理防御力を(\d+)アップ$"=►Tăng phòng thủ vật lý đồng đội bằng $1.
-## Same as XNozomi UB
+味方全体の物理・魔法防御力を小アップさせ、物理無効バリアを展開する。発動時既に自分にバリア展開中の場合、さらに味方全体のＴＰを小回復させる。=Tăng nhẹ phòng thủ vật lý và phép của toàn bộ đồng minh, đồng thời triển khai khiên vô hiệu hóa sát thương vật lý. Nếu bản thân đã có khiên được triển khai từ trước khi kích hoạt, sẽ hồi thêm một lượng nhỏ TP cho toàn bộ đồng minh.
+
+r:"^味方全体の物理・魔法防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する自分にバリアが展開されている場合、味方全体のＴＰを100回復$"=Thời gian niệm: 1.46s.\n►Tăng phòng thủ vật lý và phép của toàn bộ đồng minh thêm $1 trong vòng 18s.\n►Triển khai một lớp khiên bảo vệ toàn bộ đồng minh có khả năng hấp thụ $2 sát thương vật lý trong vòng 18s.\n\n►Nếu bản thân đang có khiên, hồi 100 TP cho toàn bộ đồng minh.
 
 ##EX##
 フラワーオーラ=Aura hoa
@@ -40,9 +40,9 @@ r:"^味方全体の物理防御力を(\d+)アップ$"=►Tăng phòng thủ vậ
 
 ##UB+##
 フラワリングヒール=Hồi máu nở hoa
-味方全体のＨＰを中回復、物理防御力と行動速度を大アップさせ、物理無効バリアを展開する。=Hồi vừa phải HP cho tất cả đồng minh, tăng lớn chỉ số phòng thủ vật lý và tốc độ hành động, đồng thời triển khai rào chắn vô hiệu hóa sát thương vật lý.
+味方全体のＨＰを中回復、物理・魔法防御力を大アップ、魔法クリティカルダメージを小アップさせ、物理吸収バリアを展開し、行動速度を大アップさせる。発動時既に自分にバリア展開中の場合、さらに味方全体に魔法無効バリア、物理/魔法無効バリアを展開する。=Hồi một lượng HP trung bình cho toàn bộ đồng minh, tăng nhiều phòng thủ vật lý và phép của họ, tăng nhẹ sát thương chí mạng phép, triển khai khiên hấp thụ sát thương vật lý và tăng mạnh tốc độ hành động. Nếu bản thân đã có khiên được triển khai khi kích hoạt, đồng thời triển khai thêm khiên vô hiệu hóa sát thương phép và khiên vô hiệu hóa sát thương vật lý/phép cho toàn bộ đồng minh.
 
-r:"^味方全体のＨＰを(\d+)回復味方全体の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する味方全体の行動速度100％アップ$"=►Hồi $1 HP cho toàn đội.\n►Tăng $2 phòng thủ vật lý cho toàn đội trong 18s.\n►Triển khai rào chắn vật lý hấp thụ $3 sát thương vật lý cho toàn đội trong 18s.\n►Tăng 100% tốc độ hành động cho toàn đội trong 18s.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理・魔法防御力を(\d+)アップ味方全体の魔法クリダメを12％アップ(\d+)ダメージ分の物理吸収バリアを展開する味方全体の行動速度100％アップ自分にバリアが展開されている場合、以下の効果が発動する(\d+)ダメージ分の魔法無効バリアを展開する(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Hồi $1 HP cho toàn bộ đồng minh.\n►Tăng phòng thủ vật lý và phép của toàn bộ đồng minh thêm $2 trong vòng 18s.\n►Tăng sát thương chí mạng phép của toàn bộ đồng minh thêm 12% trong vòng 18s.\n►Triển khai một lớp khiên bảo vệ toàn bộ đồng minh có khả năng hấp thụ $3 sát thương vật lý trong vòng 18s.\n►Tăng tốc độ hành động của toàn bộ đồng minh thêm 100% trong vòng 18s.\n\n►Nếu bản thân đang có khiên, các hiệu ứng sau sẽ kích hoạt:\n►Triển khai một lớp khiên bảo vệ toàn bộ đồng minh có khả năng vô hiệu hóa $4 sát thương phép trong vòng 18s.\n►Triển khai một lớp khiên bảo vệ toàn bộ đồng minh có khả năng vô hiệu hóa $5 sát thương vật lý và phép trong vòng 18s.
 ##S1+##
 フラワーショット+=Vụ nổ nở hoa+
 目の前の敵１キャラに魔法中ダメージを与え、物理攻撃力を中ダウンさせる。=Gây sát thương phép thuật trung bình lên một kẻ địch ở ngay phía trước và giảm vừa phải chỉ số tấn công vật lý của mục tiêu.

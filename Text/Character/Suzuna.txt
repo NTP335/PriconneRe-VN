@@ -58,6 +58,6 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリダメを15％
 ##S1++##
 おこぷんダーツ++=Phi Tiêu Pudding Giận Dữ++
 
-目の前の敵１キャラに物理中ダメージを３回与える。このスキルは必ずクリティカルし、クリティカルダメージは３倍になる。初回発動時、自分が敵にクリティカルでダメージを与えるたびに、その敵の最大ＨＰに応じて最大50万の percentage P.DMGを与える状態になる。=Gây sát thương vật lý trung bình 3 lần cho 1 kẻ địch trước mặt. Kỹ năng này chắc chắn sẽ chí mạng, và sát thương chí mạng sẽ gấp 3 lần. Ở lần kích hoạt đầu tiên, mỗi khi bản thân gây sát thương chí mạng lên kẻ địch, sẽ nhận trạng thái gây thêm sát thương vật lý theo phần trăm HP tối đa của kẻ địch đó (tối đa 500.000 sát thương).
+目の前の敵１キャラに物理中ダメージを３回与える。このスキルは必ずクリティカルし、クリティカルダメージは３倍になる。初回発動時、自分が敵にクリティカルでダメージを与えるたびに、その敵の最大ＨＰに応じて最大50万の物理割合ダメージを与える状態になる。=Gây 3 lần sát thương vật lý trung bình lên 1 kẻ địch ở phía trước. Kỹ năng này chắc chắn sẽ chí mạng, và sát thương chí mạng sẽ được nhân 3. Vào lần kích hoạt đầu tiên, nhận được trạng thái khiến mỗi khi bản thân gây sát thương chí mạng lên kẻ địch, sẽ gây thêm sát thương chuẩn vật lý dựa trên HP tối đa của kẻ địch đó với mức tối đa lên tới 500.000.
 
 r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージクリティカルでダメージを与えるたびに敵単体に最大50万の物理割合ダメージを与える状態になる$"=Thời gian thi triển: 0,71 giây.\n►Gây $1 sát thương Vật lý cho một kẻ địch.\n►Gây $2 sát thương Vật lý cho một kẻ địch.\n►Gây $3 sát thương Vật lý cho một kẻ địch.\n►Nhận trạng thái mỗi khi gây ra một đòn chí mạng, sẽ gây sát thương vật lý theo tỷ lệ (tối đa 500.000) cho một kẻ địch.

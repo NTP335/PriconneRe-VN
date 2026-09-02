@@ -30,6 +30,7 @@ r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アッ
 
 ##S2##
 もふもふヘッドバット=Hairy Headbutt
+前方範囲内の敵に物理大ダメージを与え、小さく吹き飛ばし、スタンさせる。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi phía trước, đẩy lùi nhẹ và khiến chúng bị choáng (Stun).
 
 ##EX##
 プロテクトファー=Downy Defense
@@ -38,13 +39,19 @@ r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アッ
 
 ##UB+##
 メリーウールストライク=Whopping Woolly Wallop
-前方範囲内の敵に物理大ダメージを与え、小さく吹き飛ばす。自分の物理防御力を特大アップし、味方全体に物理無効バリアを展開する。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước và đẩy lùi chúng một khoảng ngắn. Tăng cực đại Phòng thủ Vật lý của bản thân và triển khai lá chắn vô hiệu hóa sát thương vật lý cho toàn bộ đồng minh.
+前方範囲内の敵に物理大ダメージを与え、小さく吹き飛ばす。自分の物理防御力を特大アップし、味方全体に物理無効バリアを展開する。発動するたびに、最大２回までダメージが増加する。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi phía trước và đẩy lùi nhẹ. Tăng cực đại phòng thủ vật lý của bản thân và triển khai khiên vô hiệu hóa sát thương vật lý cho toàn bộ đồng minh. Mỗi lần kỹ năng được kích hoạt, sát thương sẽ tăng lên, tối đa cộng dồn 2 lần.
 r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 400.\n►Đẩy lùi một kẻ địch 50 đơn vị.\n►Tăng P.DEF của bản thân lên $2 trong 18s.\n►Triển khai Màn Chắn cho toàn bộ đồng đội phản chọi $3 sát thương vật lý trong 18s.
 
 ##S1+##
 もふもふアサルト+=Fuzzy Fury+
-バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップする。味方全体に物理無効バリアを展開する。=Một thời gian ngắn sau khi bắt đầu trận đấu, lao về phía kẻ địch đi đầu, gây sát thương vật lý trung bình cho mục tiêu đó và tăng vừa Phòng thủ Vật lý của bản thân. Đồng thời triển khai lá chắn vô hiệu hóa sát thương vật lý cho toàn bộ đồng minh.
+バトル開始後しばらくして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップする。味方全体に物理無効バリアを展開する。=Sau một khoảng thời gian kể từ khi trận chiến bắt đầu, lao về phía kẻ địch ở vị trí đầu tiên, gây sát thương vật lý trung bình cho kẻ đó và tăng vừa phòng thủ vật lý của bản thân. Triển khai khiên vô hiệu hóa sát thương vật lý cho toàn bộ đồng minh.
 r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Xuất hiện sau 1s khi đợt quái bắt đầu, ở phía trước kẻ địch gần nhất 100 đơn vị.\n►Miễn nhiễm sát thương với bản thân trong 1s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng P.DEF của bản thân lên $2 trong 16s.\n►Triển khai Màn Chắn cho toàn bộ đồng đội phản chọi $3 sát thương vật lý trong 16s.
 
 ##UE##
 アンビシャスドレス=Dreamer's Dress
+
+
+##S1++##
+もふもふアサルト++=Fuzzy Fury++
+バトル開始後しばらくして、最も前の敵まで突進し、その敵の最大ＨＰに応じて最大200万の物理割合ダメージを与え、大きく吹き飛ばす。自分の物理防御力を中アップ、味方全体に物理無効バリアを展開する。初回発動後、自分が５回ダメージを与えるたびに、自分の物理攻撃力と物理クリティカルを特大アップし、ＨＰを小回復する。=Sau một khoảng thời gian kể từ khi trận chiến bắt đầu, lao về phía kẻ địch ở vị trí đầu tiên, gây sát thương chuẩn vật lý dựa trên HP tối đa của mục tiêu với mức tối đa lên tới 2.000.000, đồng thời đẩy lùi mạnh kẻ đó. Tăng vừa phòng thủ vật lý của bản thân và triển khai khiên vô hiệu hóa sát thương vật lý cho toàn bộ đồng minh. Sau lần kích hoạt đầu tiên, cứ mỗi khi bản thân gây sát thương đủ 5 lần, sẽ tăng cực đại tấn công vật lý và chí mạng vật lý của bản thân, đồng thời hồi một lượng nhỏ HP.
+r:"^敵単体に最大200万の物理割合ダメージを与える自分の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する５回ダメージを与えるたびに、以下の効果が発動する自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分のＨＰを(\d+)回復$"=►Gây sát thương vật lý cố định (dựa theo phần trăm HP) tối đa 2.000.000 lên 1 kẻ địch.\n►Tăng phòng thủ vật lý của bản thân thêm $1 trong vòng 12s.\n►Triển khai một lớp khiên bảo vệ bản thân có khả năng vô hiệu hóa $2 sát thương vật lý trong vòng 12s.\n\n►Mỗi khi gây sát thương đủ 5 lần, các hiệu ứng sau sẽ kích hoạt:\n►Tăng tấn công vật lý của bản thân thêm $3 trong vòng 12s.\n►Tăng chí mạng vật lý của bản thân thêm $4 trong vòng 12s.\n►Hồi $5 HP.

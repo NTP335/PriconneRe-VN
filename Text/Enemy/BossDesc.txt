@@ -2205,23 +2205,17 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 味方全体に魔法ダメージカット=Tặng cho toàn bộ đồng minh Giảm Sát Thương Phép
 近接攻撃、毒=Tấn công cận chiến, gây hiệu ứng Độc
 毒ダメージによるＴＰ回復なし=Không hồi TP từ sát thương Độc
-
-
 敵全体に物理中ダメージを与え、スタンさせる。その後、自身の物理防御力と魔法防御力を特大ダウン。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương vật lý vừa phải và gây hiệu ứng Choáng cho toàn bộ kẻ địch. Sau đó giảm khổng lồ Kháng Vật Lý và Kháng Phép của bản thân. Hiệu ứng Choáng được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
 前方３キャラに物理中ダメージを与え、ノックバックさせる。その後、自身の物理防御力と魔法防御力を特大ダウン。このスキルの状態異常はダメージを無効化しても付与される。=Gây sát thương vật lý vừa phải và đẩy lùi 3 kẻ địch phía trước. Sau đó giảm khổng lồ Kháng Vật Lý và Kháng Phép của bản thân. Hiệu ứng đẩy lùi được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
 目の前の１キャラに物理中ダメージを与える。その後、自身の物理防御力と魔法防御力を特大ダウン。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước. Sau đó giảm khổng lồ Kháng Vật Lý và Kháng Phép của bản thân.
 ユニオンバーストは、敵全体に物理大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウンさせる。その後、自身の物理防御力と魔法防御力を特大ダウン。このスキルの状態異常はダメージを無効化しても付与される。=Union Burst gây sát thương vật lý lớn lên tất cả kẻ địch, giảm mạnh tấn công vật lý và ma thuật của chúng. Sau đó, giảm mạnh phòng thủ vật lý và ma thuật của bản thân. Các hiệu ứng giảm được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
 次元の狭間に誕生した、生きた財宝。煌めく財貨を散らしながら、冒険者に襲い掛かる。=Một kho báu sống sinh ra trong hư không chiều không. Nó rải những đồng xu lấp lánh khi tấn công các nhà mạo hiểm.
-
-
 私がキミの力になってあげる\nお給料の相談は、またあとでね=Tôi sẽ là sức mạnh của cậu.\nChúng ta có thể nói về lương của tôi sau.
 バトル中継続物理攻撃力アップ=Tăng liên tục Sức Mạnh Tấn Công Vật Lý (Trong Trận Chiến)
 バトル開始後一定時間ごとに、すべてのモンスターの物理攻撃力を中\nアップさせる。=Sau khi trận chiến bắt đầu, ở các khoảng thời gian cố định, tăng vừa phải sức mạnh tấn công vật lý cho tất cả quái vật.
 バトル開始後一定時間ごとに、すべてのモンスターの魔法攻撃力を中\nアップさせる。=Sau khi trận chiến bắt đầu, ở các khoảng thời gian cố định, tăng vừa phải sức mạnh tấn công ma thuật cho tất cả quái vật.
 バトル中継続魔法攻撃力アップ=Tăng liên tục Sức Mạnh Tấn Công Ma Thuật (Trong Trận Chiến)
 バトル中、「バトル中継続物理攻撃力アップ」効果が発動する。=Trong trận chiến, hiệu ứng 'Tăng liên tục Sức Mạnh Tấn Công Vật Lý (Trong Trận Chiến)' được kích hoạt.
-
-
 敵全体に沈黙=Áp dụng hiệu ứng Câm Lặng lên tất cả kẻ địch.
 前から敵１体にＴＰダウン=Giảm TP của một kẻ địch phía trước.
 前から敵１体にＵＢ封印=Hóa chặn Union Burst của một kẻ địch phía trước.
@@ -2233,9 +2227,6 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 後ろから敵２体にＴＰ上昇ダウン=Giảm TP Boost của hai kẻ địch xa nhất phía sau.
 自身に物理無効バリア=Tạo ra một lá chắn cho bản thân vô hiệu hóa P.DMG.
 自身に魔法無効バリア=Tạo ra một lá chắn cho bản thân vô hiệu hóa M.DMG.
-
-
-
 後ろから敵１体に魔法ダメージ=Gây M.DMG lên kẻ địch xa nhất phía sau.
 解除不可=Không thể trừ
 自身に魔法攻撃力アップ解除=Loại bỏ hiệu ứng Tăng M.ATK của bản thân.
@@ -2252,7 +2243,6 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 レリック=Di Vật
 【死亡時発動】=【Kích hoạt khi bị phá hủy】
 ランダムな敵１体に魔法ダメージ×３回=Gây M.DMG lên một kẻ địch ngẫu nhiên 3 lần.
-
 自身を中心に物理／魔法防御力アップフィールド=Triển khai một vùng hiệu ứng xung quanh bản thân tăng P.DEF và M.DEF.
 【召喚体通常攻撃】=[Tấn công thường của Đơn vị Triệu hồi]
 対象のＨＰ50％未満：ノックバック=Nếu HP mục tiêu dưới 50%: Đẩy lùi.
@@ -2884,3 +2874,10 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 後ろから２番目の敵と周囲に毒=Gây Trúng độc lên kẻ địch ở vị trí thứ 2 từ dưới lên (tính từ hàng sau) và các mục tiêu xung quanh.
 対象のＨＰ80％未満：対象に最大ＨＰダウン（必中）=HP của mục tiêu dưới 80%: Giảm HP tối đa của mục tiêu (đòn đánh chắc trúng).
 対象のＨＰ70％未満：石化時間アップ=HP của mục tiêu dưới 70%: Tăng thời gian duy trì hiệu ứng Hóa đá.
+
+凶星・アルゲティ=Calamitous Star: Algethi
+クローチェ、サブマリンモードっ換装完了ですっ♪どんな荒波も、ナイトさんとなら越えちゃいますからっ！=Croce, chuyển đổi chế độ tàu ngầm đã hoàn tất♪\nDù sóng gió có dữ dội đến đâu,\nem cũng sẽ cùng vượt qua với anh, Hiệp sĩ!
+より妖しく、より淫らに。さらなる力を得た色欲の魔女が操る山羊頭の魔物。邪悪な魔術で世を混沌で満たし、人々が抱く希望を葬り去る。=Yêu ma đầu dê mang hình hài quỷ dị và gợi cảm hơn, do phù thủy sắc dục – kẻ vừa thu nhận thêm sức mạnh to lớn – điều khiển. Ả lấp đầy thế gian bằng sự hỗn loạn thông qua ma thuật tà ác, chôn vùi mọi niềm hy vọng của nhân loại.
+前から敵１体に暗闇=Gây mù lên kẻ địch ở vị trí đầu tiên phía trước.
+敵全体に物理／魔法与ダメダウン=Giảm sát thương vật lý và sát thương phép gây ra của toàn bộ kẻ địch.
+対象が行動速度ダウン状態：沈黙時間アップ=Nếu mục tiêu đang trong trạng thái giảm tốc độ hành động: Tăng thời gian câm lặng.

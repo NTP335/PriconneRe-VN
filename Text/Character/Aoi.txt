@@ -26,8 +26,8 @@ r:"^敵単体に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態
 
 ##S2##
 パラライズアロー=Mũi Tên Tê Liệt
-目の前の敵１キャラに物理小ダメージを与え、麻痺状態にする。=Gây sát thương vật lý nhỏ cho 1 kẻ địch trước mặt và gây trạng thái tê liệt.
-r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Làm kẻ địch bất động.
+前方範囲内の敵に物理小ダメージを与え、麻痺状態にする。発動時既に対象が毒状態だった場合、ダメージと麻痺状態の効果時間が増加する。発動時既に対象が毒状態かつ猛毒状態だった場合、物理防御力を小ダウンさせる。自分を中心とした範囲内の味方の数が２キャラ以下の場合、ダメージが増加する。=Gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi phía trước và khiến chúng bị tê liệt. Nếu mục tiêu đã ở trạng thái trúng độc khi kỹナー(kỹ năng) kích hoạt, sát thương và thời gian hiệu lực của trạng thái tê liệt sẽ tăng lên. Nếu mục tiêu đã ở trạng thái trúng độc và cực độc (venom) khi kích hoạt, giảm nhẹ phòng thủ vật lý của chúng. Nếu số lượng đồng minh trong phạm vi quanh bản thân từ 2 nhân vật trở xuống, sát thương sẽ tăng lên.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする敵が毒状態の場合、対象の敵の麻痺時間アップ敵が毒状態かつ猛毒状態の場合、対象の敵の物理防御力を(\d+)ダウン$"=Thời gian triển khai: 1.06s.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 1185.\n►Gây choáng (Stun) cho kẻ địch trong phạm vi 1185 trong vòng 2.25s.\n\n►Nếu kẻ địch đang trúng độc, tăng thời gian tê liệt của mục tiêu thêm 4s.\n\n►Nếu kẻ địch đang trúng độc và cực độc, giảm phòng thủ vật lý của mục tiêu đi $2 trong vòng 18s.
 
 ##EX##
 フォレストシューター=Xạ Thủ Rừng Xanh
@@ -35,13 +35,21 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能�
 
 ##UB+##
 ヴェノムブルーミング=Độc Hoa Nở Rộ
-目の前の敵１キャラを中心とした範囲内の敵に物理中ダメージを与え、毒状態にする。発動時既に対象が毒状態だった場合、代わりに物理特大ダメージを与え、猛毒状態にする。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi xung quanh 1 kẻ địch trước mặt và gây trạng thái độc. Nếu mục tiêu vốn đã bị trúng độc khi kỹ năng này kích hoạt, gây sát thương vật lý cực đại thay thế và gây trạng thái kịch độc.
-r:"^敵が毒状態の時、範囲内の敵に(\d+)の物理ダメージ敵が毒状態の時、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない時、範囲内の敵に(\d+)の物理ダメージ敵が毒状態でない時、(\d+)ダメージを与える毒状態にする$"=Nếu mục tiêu chưa bị Độc hoặc Độc Tối:\n►Gây $3 sát thương vật lý lên tất cả kẻ địch trong phạm vi 400.\n►Gây Độc, sát thương $4/s trong 24s.\n\nNếu mục tiêu đã bị Độc hoặc Độc Tối:\n►Gây $1 sát thương vật lý lên tất cả kẻ địch trong phạm vi 400.\n►Gây Độc Tối, sát thương $2/s trong 12s.
+目の前の敵１キャラを中心とした範囲内の敵に物理中ダメージを与え、毒状態にする。発動時既に対象が毒状態だった場合、物理ダメージと毒のダメージが増加し、さらに猛毒状態にする。発動時既に対象が毒状態かつ猛毒状態だった場合、物理ダメージがさらに増加し、物理防御力を小ダウンさせる。自分を中心とした範囲内の味方の数が２キャラ以下の場合、物理ダメージが増加する。=Gây sát thương vật lý trung bình lên kẻ địch trong vùng ảnh hưởng xung quanh 1 mục tiêu ở phía trước, đồng thời khiến chúng nhiễm độc. Nếu mục tiêu đã bị nhiễm độc từ trước khi kỹ năng kích hoạt, sát thương vật lý và sát thương độc sẽ tăng lên, đồng thời gây thêm trạng thái cực độc (Venom). Nếu mục tiêu đã ở trạng thái vừa nhiễm độc vừa cực độc khi kích hoạt, sát thương vật lý sẽ tiếp tục tăng và giảm nhẹ phòng thủ vật lý của chúng. Nếu số lượng đồng minh trong phạm vi quanh bản thân từ 2 nhân vật trở xuống, sát thương vật lý sẽ tăng lên.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする敵が毒状態の場合、対象の敵に以下の効果が発動する(\d+)ダメージを与える毒状態にする(\d+)ダメージを与える猛毒状態にする敵が毒状態かつ猛毒状態の場合、対象の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 400.\n►Gây $2 sát thương và khiến mục tiêu nhiễm độc trong vòng 25s.\n\n►Nếu kẻ địch đang nhiễm độc, các hiệu ứng sau sẽ kích hoạt lên mục tiêu:\n►Gây $3 sát thương và khiến mục tiêu nhiễm độc trong vòng 25s.\n►Gây $4 sát thương và khiến mục tiêu nhiễm cực độc (Venom) trong vòng 19s.\n\nNếu kẻ địch đang nhiễm độc và cực độc:\n►Giảm phòng thủ vật lý của mục tiêu đi $5 trong vòng 18s.
 
 ##S1+##
 ポイズンアロー+=Mũi Tên Độc+
-目の前の敵１キャラに物理中ダメージを与え、毒状態にする。発動時既に対象が毒状態だった場合、代わりに物理特大ダメージを与え、猛毒状態にする。=Gây sát thương vật lý trung bình cho 1 kẻ địch trước mặt và gây trạng thái độc. Nếu mục tiêu vốn đã bị trúng độc khi kỹ năng này kích hoạt, gây sát thương vật lý cực đại thay thế và gây trạng thái kịch độc.
-r:"^敵が毒状態の時、敵単体に(\d+)の物理ダメージ敵が毒状態でない時、敵単体に(\d+)の物理ダメージ敵が毒状態の時、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない時、(\d+)ダメージを与える毒状態にする$"=Thời gian niệm: 0.86s\nNếu mục tiêu chưa bị Độc hoặc Độc Tối:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây Độc, sát thương $4/s trong 24s.\n\nNếu mục tiêu đã bị Độc hoặc Độc Tối:\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Gây Độc Tối, sát thương $3/s trong 12s.
+目の前の敵１キャラに物理中ダメージを与え、毒状態にする。発動時既に対象が毒状態だった場合、物理ダメージが増加し、猛毒状態にする。=Gây sát thương vật lý trung bình lên 1 kẻ địch ở phía trước và khiến mục tiêu nhiễm độc. Nếu mục tiêu đã bị nhiễm độc từ trước khi kỹ năng kích hoạt, sát thương vật lý sẽ tăng lên và gây thêm trạng thái cực độc (Venom).
+
+r:"^敵単体に(\d+)の物理ダメージ敵が毒状態の場合、(\d+)ダメージを与える猛毒状態にする敵が毒状態でない場合、(\d+)ダメージを与える毒状態にする$"=Thời gian triển khai: 0.86s.\n►Gây $1 sát thương vật lý lên 1 kẻ địch.\n\n►Nếu kẻ địch đang nhiễm độc, gây $2 sát thương và khiến mục tiêu nhiễm cực độc (Venom) trong vòng 13s.\n►Nếu kẻ địch không nhiễm độc, gây $3 sát thương và khiến mục tiêu nhiễm độc trong vòng 25s.
+
 
 ##UE##
 BB団の絆ベレー=Mũ Lính BB
+
+
+##S1++##
+ポイズンアロー++=Mũi Tên Độc++
+前方範囲内の敵に物理中ダメージを与え、毒状態にする。発動時既に対象が毒状態だった場合、物理ダメージと毒のダメージが増加し、さらに猛毒状態にする。発動時既に対象が毒状態かつ猛毒状態だった場合、物理防御力を小ダウンさせる。自分を中心とした範囲内の味方の数が２キャラ以下の場合、物理ダメージが増加する。=Gây sát thương vật lý trung bình lên kẻ địch trong phạm vi phía trước và khiến chúng nhiễm độc. Nếu mục tiêu đã bị nhiễm độc từ trước khi kỹ năng kích hoạt, sát thương vật lý và sát thương độc sẽ tăng lên, đồng thời gây thêm trạng thái cực độc (Venom). Nếu mục tiêu đã ở trạng thái vừa nhiễm độc vừa cực độc khi kích hoạt, giảm nhẹ phòng thủ vật lý của chúng. Nếu số lượng đồng minh trong phạm vi quanh bản thân từ 2 nhân vật trở xuống, sát thương vật lý sẽ tăng lên.
+r:"^範囲内の敵に(\d+)の物理ダメージ(\d+)ダメージを与える毒状態にする敵が毒状態の場合、対象の敵に以下の効果が発動する(\d+)ダメージを与える毒状態にする(\d+)ダメージを与える猛毒状態にする敵が毒状態かつ猛毒状態の場合、対象の敵の物理防御力を(\d+)ダウン$"=Thời gian triển khai: 0.86s.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Gây $2 sát thương và khiến mục tiêu nhiễm độc.\n\nNếu kẻ địch đang nhiễm độc, các hiệu ứng sau sẽ kích hoạt lên mục tiêu:\n►Gây $3 sát thương và khiến mục tiêu nhiễm độc trong vòng 25s.\n►Gây $4 sát thương và khiến mục tiêu nhiễm cực độc (Venom) trong vòng 13s.\n\nNếu kẻ địch đang nhiễm độc và cực độc, giảm phòng thủ vật lý của mục tiêu đi $5 trong vòng 12s.
