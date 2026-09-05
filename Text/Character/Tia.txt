@@ -26,4 +26,6 @@ r:"^敵全体の物理・魔法防御力を(\d+)ダウン敵全体の被クリ�
 ##SP##
 ブランクブロック=Blank Block
 味方全体の受ける混乱と誘惑を無効化する。=Vô hiệu hóa trạng thái Hỗn loạn và Mê hoặc phải chịu cho toàn bộ đồng minh.
-味方全体の受ける混乱、誘惑を無効化する=Vô hiệu hóa trạng thái Hỗn loạn và Mê hoặc phải chịu cho toàn bộ đồng minh
+味方全体の受ける混乱、誘惑を無効化する=Vô hiệu hóa trạng thái Hỗn loạn và Mê hoặc phải chịu cho toàn bộ đồng minh.
+味方全体の受ける混乱、誘惑を無効化する=Vô hiệu hóa trạng thái Hỗn loạn và Mê hoặc áp dụng lên toàn bộ đồng minh.
+バトル中敵物理防御力中ダウン=Giảm vừa P.DEF của toàn bộ kẻ địch trong suốt trận chiến.

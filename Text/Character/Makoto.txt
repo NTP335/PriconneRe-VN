@@ -23,12 +23,12 @@ r:"^敵単体の物理防御力を(\d+)ダウン$"=►Giảm Kháng Thể Chất
 
 ##UB+##
 ウルフェンランページ=Sự Phẫn Nộ Của Sói
-目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。さらに自分に【狼牙の咆哮】を付与する。【狼牙の咆哮】が付与されている間、すべてのスキルの効果値が増加する。=Gây sát thương thể chất khổng lồ (P.DMG) cho kẻ địch phía trước và giảm rất lớn Kháng Thể Chất (P.DEF) của chúng. Ngoài ra, trao cho bản thân trạng thái "Tiếng Hú Của Sói". Khi "Tiếng Hú Của Sói" đang hoạt động, hiệu quả của mọi kỹ năng sẽ được tăng cường.
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を特大ダウンさせる。自分に【狼牙の咆哮】を付与する。【狼牙の咆哮】付与中、スキルの効果値が増加する。=Gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước và giảm cực mạnh P.DEF của chúng. Cấp trạng thái [Wolf's Howl] cho bản thân. Trong thời gian [Wolf's Howl] còn hiệu lực, các giá trị hiệu ứng của kỹ năng sẽ được gia tăng.
 r:"^自分に狼牙の咆哮を付与する敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=►Trao cho bản thân Tiếng Hú Của Sói.\n►Gây $1 sát thương thể chất (P.DMG) cho một kẻ địch.\n►Giảm Kháng Thể Chất (P.DEF) của một kẻ địch lên $2.
 
 ##S1+##
 ハードスラッシュ+=Chém Mạnh+
-目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を小アップさせる。=Gây sát thương thể chất lớn (P.DMG) cho kẻ địch ngay phía trước. Tăng vừa phải Lực Thể Chất (P.ATK) của bản thân.
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を小アップする。=Gây sát thương vật lý lớn cho 1 kẻ địch ở phía trước và tăng nhẹ P.ATK của bản thân.
 
 ##UE##
 ウルフェンブレード=Lưỡi Kiếm Sói

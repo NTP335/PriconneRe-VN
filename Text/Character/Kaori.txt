@@ -26,8 +26,9 @@
 
 ##S2##
 精神統一=Tập Trung Tinh Thần
-このスキルを使用した後、カオリが敵を攻撃するたびに、以降その敵にカオリが与えるダメージがアップする。この効果は最大５回まで累積する。=Sau khi kích hoạt, tăng sát thương gây ra với mỗi đòn tấn công.\nTích lũy tối đa 5 lần.
-r:"^攻撃する度にダメージ(\d+)増加$"=Thời gian niệm: 1s\n►Thêm $1 sát thương mỗi đòn tấn công.
+自分が敵を攻撃するたびに、以降その敵に自分が与えるダメージが増加する。この効果は最大５回まで累積する。=Mỗi khi bản thân tấn công kẻ địch, sát thương do bản thân gây ra cho kẻ địch đó ở các đòn sau sẽ tăng lên. Hiệu ứng này có thể cộng dồn tối đa 5 lần.
+
+r:"^攻撃する度にダメージ(\d+)増加$"=Thời gian triển khai: 1.00s.\n►Tăng thêm $1 sát thương mỗi lần tấn công.
 
 ##EX##
 琉球犬式練気術=Ryukyu-Ken Hơi Thở Võ Thuật
@@ -35,7 +36,8 @@ r:"^攻撃する度にダメージ(\d+)増加$"=Thời gian niệm: 1s\n►Thêm
 
 ##UB+##
 真・琉球犬ナックルラッシュ=Ryukyu-Ken Knuckle Rush Đích Thực
-自分の物理攻撃力を中アップさせ、目の前の敵１キャラに物理極大ダメージを与える。=Gây sát thương vật lý khổng lồ lên kẻ địch ngay phía trước. Áp dụng buff tăng P.ATK vừa phải cho bản thân trong 180s.
+自分の物理攻撃力を中アップし、目の前の敵１キャラに物理極大ダメージを与える。=Tăng vừa P.ATK của bản thân và gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho một kẻ địch đơn lẻ.\n►Tăng $2 P.ATK cho bản thân trong 18 giây.
 
 ##S1+##
 正中線突き+=Đòn Đâm Trung Tuyến+

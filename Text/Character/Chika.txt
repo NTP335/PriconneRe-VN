@@ -29,9 +29,9 @@ r:"^範囲内の味方の物理攻撃力を(\d+)アップ$"=►Tăng P.ATK đồ
 
 ##S2##
 フェアリーズララバイ=Bài hát ru của Tiên
-目の前の敵１キャラの物理攻撃力を中ダウンさせる。=Giảm P.ATK của kẻ địch đứng trực diện một lượng trung bình.
-r:"^敵単体の物理攻撃力を(\d+)ダウン$"=►Giảm P.ATK kẻ địch bằng $1.
+目の前の敵１キャラの物理・魔法攻撃力を大ダウン、物理防御力を小ダウンさせる。自分が唱喚した精霊が味方にいる場合、このスキルの効果がもう一度発動する。=►Giảm mạnh P.ATK và M.ATK của 1 kẻ địch ở phía trước, đồng thời giảm nhẹ P.DEF của chúng. Nếu có Tinh linh do bản thân triệu hồi ở phe đồng minh, hiệu ứng của kỹ năng này sẽ được kích hoạt thêm một lần nữa.
 
+r:"^敵単体の物理・魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン精霊がいる場合、以上の効果がもう一度発動する$"=Thời gian triển khai: 2.03s.\n►Giảm $1 P.ATK và M.ATK của một kẻ địch đơn lẻ.\n►Giảm $2 P.DEF của một kẻ địch đơn lẻ.\n►Nếu có Tinh linh hiện diện, các hiệu ứng trên sẽ được kích hoạt thêm một lần nữa.
 ##EX##
 ギフテッドボイス=Giọng nói được ban tặng
 ギフテッドボイス+=Giọng nói được ban tặng+
@@ -40,13 +40,23 @@ r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法防御力を(\d+)ア
 
 ##UB+##
 シルフィードオーケストラ=Dàn nhạc Sylphid
-【召喚】味方全体のＨＰを中回復し、物理攻撃力を特大アップさせ、物理攻撃クリティカル時のダメージを中アップさせ、継続ＨＰ回復状態を付与する。さらに最も前の味方のそばに精霊を唱喚する。=[Triệu hồi] Hồi phục trung bình HP cho tất cả đồng đội, tăng mạnh P.ATK của họ, tăng trung bình P.CRIT DMG, và cấp phục hồi HP liên tục nhỏ. Ngoài ra, triệu hồi một tinh linh bên cạnh đồng đội tiên phong.
-r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを28％アップ毎秒ＨＰを(\d+)回復する精霊を唱喚する$"=►Hồi phục HP tất cả đồng đội bằng $1.\n►Tăng P.ATK tất cả đồng đội bằng $2 trong 18s.\n►Tăng P.CRIT DMG tất cả đồng đội 28% trong 18s.\n►Hồi phục HP tất cả đồng đội $3/giây trong 18.5s.\n►Triệu hồi một tinh linh bên cạnh đồng đội tiên phong.
+【召喚】味方全体のＨＰを中回復、物理攻撃力を特大アップ、物理クリティカルダメージを小アップさせ、継続ＨＰ回復状態を付与する。自分が唱喚した精霊が味方にいる場合、このスキルの効果がもう一度発動し、そうでない場合、自分の目の前に精霊を唱喚する。精霊のスキルは自分を唱喚したチカの魔法攻撃力を大アップさせる。=►[Triệu hồi] Hồi phục lượng HP vừa cho toàn bộ đồng minh, tăng cực đại P.ATK, tăng nhẹ sát thương chí mạng vật lý và cấp trạng thái hồi HP liên tục. Nếu có Tinh linh do bản thân triệu hồi ở phe đồng minh, hiệu ứng của kỹ năng này sẽ được kích hoạt thêm một lần nữa; ngược lại, triệu hồi một Tinh linh trước mặt bản thân. Kỹ năng của Tinh linh giúp tăng mạnh M.ATK của Chika - người đã triệu hồi nó.
+
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリダメを14％アップ毎秒ＨＰを(\d+)回復する精霊がいる場合、以上の効果がもう一度発動する精霊がいない場合、精霊を唱喚する$"=►Hồi phục $1 HP cho toàn bộ đồng minh.\n►Tăng $2 P.ATK cho toàn bộ đồng minh trong 18 giây.\n►Tăng 14% sát thương chí mạng vật lý cho toàn bộ đồng minh trong 18 giây.\n►Hồi phục $3 HP mỗi giây trong 18.5 giây.\n\n►Nếu có Tinh linh hiện diện, các hiệu ứng trên sẽ được kích hoạt thêm một lần nữa.\n►Nếu không có Tinh linh hiện diện, triệu hồi một Tinh linh.
+
 
 ##S1+##
 チアーソング+=Khúc ca hào hùng+
-最も前の味方を中心として、範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに範囲内の味方すべてを小回復するフィールドを展開する。=Tăng lớn P.ATK, tăng trung bình P.CRIT Rate, và hồi phục HP đồng đội trong phạm vi xung quanh đồng đội tiên phong.
+
+最も前の味方を中心とした範囲内の味方の物理攻撃力を大アップ、物理クリティカルを中アップ、ＨＰを小回復させるフィールドを展開する。=Triển khai một vùng ảnh hưởng tập trung vào đồng minh ở vị trí xa nhất phía trước, giúp tăng mạnh P.ATK, tăng vừa tỉ lệ chí mạng vật lý và hồi phục nhẹ HP cho các đồng minh trong phạm vi.
+
 r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを50アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Thời gian niệm: 1.5s\n►Tăng P.ATK đồng đội trong phạm vi 200 bằng $1 trong 12s.\n►Tăng P.CRIT Rate đồng đội trong phạm vi 200 bằng 50 trong 12s.\n►Triển khai một trường bán kính 250 hồi phục HP đồng đội $2/giây trong 8s.
 
 ##UE##
 翠霊譜ルーンノーツ=Ghi chú Rune Phiến Ngọc
+
+
+##S1++##
+チアーソング++=Khúc ca hào hùng++
+最も前の味方を中心とした範囲内の味方の物理攻撃力を特大アップ、物理クリティカルを大アップ、ＨＰを小回復させるフィールドを展開し、ＴＰを小回復させる。自分が唱喚した精霊が味方にいる場合、このスキルの効果がもう一度発動する。初回発動時、自分のＴＰを特大回復する。=Triển khai một vùng ảnh hưởng tập trung vào đồng minh ở vị trí xa nhất phía trước, giúp tăng cực đại P.ATK, tăng mạnh tỉ lệ chí mạng vật lý, hồi phục nhẹ HP và hồi phục nhẹ TP cho các đồng minh trong phạm vi. Nếu có Tinh linh do bản thân triệu hồi ở phe đồng minh, hiệu ứng của kỹ năng này sẽ được kích hoạt thêm một lần nữa. Trong lần kích hoạt đầu tiên, hồi phục cực đại TP của bản thân.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを100アップ範囲内の味方のＴＰを75回復毎秒ＨＰを(\d+)回復するフィールドを展開する精霊がいる場合、以上の効果がもう一度発動する初回発動時、自分のＴＰを1000回復$"=Thời gian triển khai: 1.5s.\n►Tăng $1 P.ATK cho đồng minh trong phạm vi 200 trong 12 giây.\n►Tăng 100 tỉ lệ chí mạng vật lý cho đồng minh trong phạm vi 200 trong 12 giây.\n►Hồi phục 75 TP cho đồng minh trong phạm vi 200.\n►Triển khai một vùng ảnh hưởng hồi phục $2 HP mỗi giây cho đồng minh trong phạm vi trong 8 giây.\n\n►Nếu có Tinh linh hiện diện, các hiệu ứng trên sẽ được kích hoạt thêm một lần nữa.\n►Trong lần sử dụng đầu tiên, hồi phục 1000 TP cho bản thân.

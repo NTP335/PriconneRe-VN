@@ -29,7 +29,8 @@ r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自�
 
 ##S2##
 火炎扇=Quạt bùng cháy
-目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Gây sát thương vật lý vừa phải cho kẻ địch ngay phía trước và đẩy lùi chúng một chút.
+目の前の敵１キャラに物理大ダメージを与え、小さく吹き飛ばす。これを２回行う。自分に【火遁の印】（上限５）を１個付与する。=Gây sát thương vật lý lớn cho 1 kẻ địch ở phía trước và đẩy lùi nhẹ chúng. Thực hiện điều này 2 lần. Cấp 1 [Dấu ấn Hỏa độn] (tối đa 5) cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージを２回与える自分に火遁の印を１個付与する$"=Thời gian triển khai: 0.85s.\n►Gây $1 sát thương vật lý cho một kẻ địch đơn lẻ hai lần.\n►Cấp 1 [Dấu ấn Hỏa độn] cho bản thân.
 
 ##EX##
 ホンノウジブースト=Honnoji Hustle
@@ -37,13 +38,20 @@ r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自�
 
 ##UB+##
 忍法・烈火之紅蓮旋風=Ninpo: Cơn gió đỏ rực cháy
-前方範囲内の敵すべてに物理大ダメージを与え、自分の物理攻撃力を大アップさせ、ＴＰを小回復する。とどめを刺した敵の数に応じて物理攻撃力の上昇量とＴＰの回復量が増加する。=Gây sát thương cho tất cả kẻ địch trong phạm vi phía trước, tăng P.ATK của bản thân và phục hồi TP một chút. Lượng tăng P.ATK và lượng phục hồi TP tăng theo số kẻ địch bị hạ.
-r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを100回復$"=►Gây $1 P.DMG cho kẻ địch trong phạm vi 815.\n►Tăng P.ATK của bản thân lên $2 trong 12s.\n►Phục hồi TP của bản thân 100.\n►Phục hồi TP của bản thân 200 cho mỗi kẻ địch bị hạ.
+前方範囲内の敵に物理特大ダメージを与え、自分の物理攻撃力を短時間大アップする。敵を倒した場合、自分に【火遁の印】（上限５）を１個付与する。倒した敵の数に応じて【火遁の印】の付与数と、物理攻撃力のアップ量が増加する。【火遁の印】付与中、【火遁の印】を１個消費し、自分のＴＰを特大回復する。=Gây sát thương vật lý cực đại lên kẻ địch trong phạm vi phía trước và tăng mạnh P.ATK của bản thân trong thời gian ngắn. Nếu hạ gục được kẻ địch, cấp 1 [Dấu ấn Hỏa độn] (tối đa 5) cho bản thân. Số lượng [Dấu ấn Hỏa độn] được cấp và mức tăng P.ATK sẽ tăng tùy theo số lượng kẻ địch bị hạ gục. Trong thời gian [Dấu ấn Hỏa độn] có hiệu lực, tiêu hao 1 [Dấu ấn Hỏa độn] để hồi phục cực đại TP cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ倒した敵の数に応じて、自分に火遁の印を付与する火遁の印が１個以上の場合、以下の効果が発動する火遁の印を１個消費する自分のＴＰを1000回復$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 815.\n►Tăng $2 P.ATK cho bản thân trong 6 giây.\n►Cấp [Dấu ấn Hỏa độn] cho bản thân dựa trên số lượng kẻ địch bị hạ gục.\n\nNếu bản thân có từ 1 [Dấu ấn Hỏa độn] trở lên:\n►Tiêu hao 1 [Dấu ấn Hỏa độn].\n►Hồi phục 1000 TP cho bản thân.
 
 ##S1+##
 旋風撃+=Hurricane Assault+
 前方範囲内の敵すべてに物理中ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを特大回復する。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi. Phục hồi TP của bản thân một lượng lớn nếu kẻ địch bị đánh bại bởi kỹ năng này.
-r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを1000回復$"=Thời gian niệm: 1.85s\n►Gây $1 P.DMG cho kẻ địch trong phạm vi 750.\n►Phục hồi TP của bản thân 1000 cho mỗi kẻ địch bị hạ.
+r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した場合、自分のＴＰを1000回復$"=Thời gian triển khai: 1.85s.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 750.\n►Nếu hạ gục được kẻ địch, hồi phục 1000 TP cho bản thân.
 
 ##UE##
 紅蓮爆炎扇=Ngọn lửa đỏ rực
+
+
+
+##S1++##
+前方範囲内の敵に物理大ダメージを与え、自分に【火遁の印】（上限５）を１個付与する。敵を倒した場合、その数に応じて【火遁の印】の付与数が増加し、さらに自分のＴＰを特大回復する。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước và cấp 1 [Dấu ấn Hỏa độn] (tối đa 5) cho bản thân. Nếu hạ gục được kẻ địch, số lượng [Dấu ấn Hỏa độn] được cấp sẽ tăng tùy theo số lượng đó, đồng thời hồi phục cực đại TP cho bản thân.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ自分に火遁の印を１個付与する敵を倒した場合、自分のＴＰを1000回復$"=Thời gian triển khai: 1.85s.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 750.\n►Cấp 1 [Dấu ấn Hỏa độn] cho bản thân.\n►Nếu hạ gục được kẻ địch, hồi phục 1000 TP cho bản thân.

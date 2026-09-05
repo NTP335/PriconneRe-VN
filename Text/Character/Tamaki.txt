@@ -19,6 +19,7 @@
 ##UB##
 ねこねこファイナルブレイク=Thảm Họa Mèo
 魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。=Gây sát thương vật lý lớn lên kẻ địch có sức mạnh phép thuật cao nhất.
+
 r:"^敵単体に(\d+)の物理ダメージ\$"=►Gây Sát Thương Vật Lý Lớn $1 lên kẻ địch có sức mạnh phép thuật cao nhất.
 
 ##S1##
@@ -28,8 +29,7 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダ
 
 ##S2##
 猫の気まぐれ=Mèo Kén Ăn
-魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Giảm TP của kẻ địch có sức mạnh phép thuật cao nhất một chút và đồng thời hồi TP cho bản thân một chút.
-魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復し、物理攻撃力を小アップさせる。=Giảm TP của kẻ địch có sức mạnh phép thuật cao nhất một chút. Hồi TP cho bản thân một chút. Tăng sát thương vật lý của bản thân một chút.
+魔法攻撃力が最も高い敵のＴＰを小ダウンさせ、自分のＴＰを小回復、物理攻撃力を小アップする。=Giảm nhẹ TP của kẻ địch có M.ATK cao nhất, hồi phục nhẹ TP của bản thân và tăng nhẹ P.ATK của bản thân.
 r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ$"=►Giảm TP của kẻ địch đi $1.\n►Hồi TP cho bản thân $2.\n►Tăng sát thương vật lý của bản thân lên $3.
 ## Same as STamaki S1
 
@@ -39,12 +39,13 @@ r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の
 
 ##UB+##
 ねこねこファントムラッシュ=Kitty Cat-astrophic Rush
-魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加し、さらに物理防御力を特大ダウンさせる。=Gây sát thương vật lý cực lớn lên kẻ thù có M.ATK cao nhất. Nếu mục tiêu thuộc kiểu M (ma thuật), sát thương tăng lên và áp dụng thêm hiệu ứng giảm P.DEF lớn.
+魔法攻撃力が最も高い敵に物理特大ダメージを与える。対象が魔法攻撃を行う敵の場合、ダメージが増加し、さらに物理防御力を特大ダウンさせる。=Gây sát thương vật lý cực đại lên kẻ địch có M.ATK cao nhất. Nếu mục tiêu là kẻ địch sử dụng đòn tấn công phép, sát thương sẽ tăng lên và đồng thời giảm cực đại P.DEF của chúng.
 r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ対象が魔法攻撃をする敵だった場合物理防御力を(\d+)ダウン$"=Nếu mục tiêu là vật lý:\n►Gây $1 P.DMG.\n\nNếu mục tiêu là ma thuật:\n►Gây $2 P.DMG.\n►Giảm P.DEF đi $3 trong 18s.
 
 ##S1+##
 ねこねこスローイング+=Feline Fling+
-魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を中ダウンさせスタンさせる。=Gây sát thương vật lý vừa phải lên kẻ thù có M.ATK cao nhất, giảm M.ATK của mục tiêu một lượng vừa phải và gây choáng.
+
+魔法攻撃力が最も高い敵に物理中ダメージを与え、魔法攻撃力を中ダウンさせ、スタンさせる。=Gây sát thương vật lý trung bình lên kẻ địch có M.ATK cao nhất, giảm vừa M.ATK của chúng và làm choáng chúng.
 r:"^敵単体に(\d+)の物理ダメージ敵単体の魔法攻撃力を(\d+)ダウン敵単体を一定時間行動不能にする$"=►Gây $1 P.DMG lên một kẻ thù.\n►Giảm M.ATK của kẻ thù đi $2.\n►Gây choáng lên mục tiêu bị tổn thương trong 1.5s.
 
 ##UE##

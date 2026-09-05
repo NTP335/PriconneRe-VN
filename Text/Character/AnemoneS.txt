@@ -19,7 +19,7 @@ r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御�
 トロピカルリーフ+=Tropical Leaf+
 
 ##Misc##
-【魔法】中衛で砂浜の木陰に微睡むアルラウネの妖魔人。行動速度アップや初回使用時に回復量が増加するＴＰ回復を起点に支援し、穏やかな木漏れ日と共にゆらゆら憩う。=[Ma thuật] Một Alraune Monstress chợp mắt dưới bóng cây dọc bãi cát từ vị trí trung tâm. Cô hỗ trợ đồng minh bằng cách tăng tốc độ hành động và phục hồi TP—có lượng phục hồi tăng lên khi dùng lần đầu— và đung đưa thư thái dưới ánh nắng nhẹ nhàng rải rác.
+【魔法】中衛で砂浜の木陰に微睡むアルラウネの妖魔人。行動速度アップや初回発動時に回復量が増加するＴＰ回復を起点に支援し、穏やかな木漏れ日と共にゆらゆら憩う。=[Ma thuật] Một Alraune Monstress chợp mắt dưới bóng cây dọc bãi cát từ vị trí trung tâm. Cô hỗ trợ đồng minh bằng cách tăng tốc độ hành động và phục hồi TP—có lượng phục hồi tăng lên khi dùng lần đầu— và đung đưa thư thái dưới ánh nắng nhẹ nhàng rải rác.
 
 
 

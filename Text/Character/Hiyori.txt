@@ -31,21 +31,16 @@
 
 ##S2##
 キャットコンビネーション=Liên Hoàn Mèo
-目の前の敵１キャラに物理小ダメージを与え、さらに自分の物理攻撃力を中アップさせる。=Gây sát thương vật lý nhỏ lên kẻ địch đứng trước mặt. Tăng sát thương vật lý của bản thân một chút.
-
-自分の物理攻撃力を大アップし、目の前の敵１キャラに物理中ダメージを与える。敵の数が２キャラ以上の場合、追加で前方範囲内の敵すべてに物理中ダメージを与える。=Tăng lớn tấn công vật lý của bản thân và gây sát thương vật lý trung bình lên một kẻ địch trước mặt. Nếu số lượng kẻ địch từ 2 trở lên, gây thêm sát thương vật lý trung bình lên toàn bộ kẻ địch trong phạm vi phía trước.
-
-##OLD r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=Giá trị này bị bỏ qua vì giống với UB của Djeeta. Thời gian niệm chú không thể bao gồm.
-r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵の数が２キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ$"=►Tăng $1 tấn công vật lý của bản thân.\n►Gây $2 sát thương vật lý lên một kẻ địch.\n\nNếu số lượng kẻ địch từ 2 trở lên:\n►Gây $3 sát thương vật lý lên các kẻ địch trong phạm vi.
+自分の物理攻撃力を大アップし、目の前の敵１キャラに物理中ダメージを与える。敵の数が２キャラ以上の場合、さらに追加で前方範囲内の敵に物理中ダメージを与える。=Tăng mạnh P.ATK của bản thân và gây sát thương vật lý vừa cho 1 kẻ địch ở phía trước. Nếu có từ 2 kẻ địch trở lên, gây thêm sát thương vật lý vừa cho kẻ địch trong phạm vi phía trước.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵の数が２キャラ以上の場合、範囲内の敵に(\d+)の物理ダメージ$"=Thời gian triển khai: 1.295s.\n►Tăng $1 P.ATK cho bản thân trong 12 giây.\n►Gây $2 sát thương vật lý cho một kẻ địch đơn lẻ.\n\nNếu có từ 2 kẻ địch trở lên:\n►Gây $3 sát thương vật lý cho kẻ địch trong phạm vi.
 ##EX##
 肉球パワー！=Sức Mạnh Bàn Chân!
 肉球パワー！+=Sức Mạnh Bàn Chân!+
 
 ##UB+##
 ヒヨリバーニングラッシュ=Cuộc Xung Kích Cháy Của Hiyori
-目の前の敵１キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý cực lớn lên kẻ địch đứng trước mặt và gây sát thương vật lý trung bình lên tất cả kẻ địch trong một phạm vi xung quanh.
+目の前の敵１キャラに物理特大ダメージを与え、前方範囲内の敵に物理大ダメージを与える。=Gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước và gây sát thương vật lý lớn lên các kẻ địch trong phạm vi phía trước.
 
-目の前の敵１キャラに物理特大ダメージを与え、さらに前方範囲内の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý cực đại lên một kẻ địch trước mặt, đồng thời gây thêm sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi phía trước.
 
 ##S1+##
 キャットストライク+=Mèo Chiêu Bạo+
@@ -58,9 +53,9 @@ r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメー
 
 ##S1++##
 キャットストライク++=Mèo Chiêu Bạo++
-目の前の敵１キャラに物理大ダメージを与え、さらに、前方範囲内の敵すべてに物理大ダメージを与える。敵の数が２キャラ以上の場合、自分の行動速度を大アップし、ＴＰを特大回復する。このスキルの初回使用後、ヒヨリが敵を攻撃するたびに、以降その敵にヒヨリが与えるダメージがアップする。この効果は最大100回まで累積する。=Gây sát thương vật lý lớn lên một kẻ địch trước mặt, đồng thời gây thêm sát thương vật lý lớn lên toàn bộ kẻ địch trong phạm vi phía trước. Nếu số lượng kẻ địch từ 2 trở lên, tăng lớn tốc độ hành động của bản thân và hồi cực đại TP. Sau lần sử dụng kỹ năng này đầu tiên, mỗi khi Hiyori tấn công một kẻ địch, sát thương Hiyori gây ra cho kẻ địch đó sau này sẽ tăng lên. Hiệu ứng này có thể cộng dồn tối đa 100 lần.
+目の前の敵１キャラに物理大ダメージを与え、前方範囲内の敵に物理大ダメージを与える。敵の数が２キャラ以上の場合、自分の行動速度を特大アップ、ＴＰを特大回復する。初回発動時、自分が敵を攻撃するたびに、以降その敵に自分が与えるダメージが増加する。この効果は最大100回まで累積する。=Gây sát thương vật lý lớn lên 1 kẻ địch ở phía trước và gây sát thương vật lý lớn lên kẻ địch trong phạm vi phía trước. Nếu có từ 2 kẻ địch trở lên, tăng cực đại tốc độ hành động và hồi phục cực đại TP cho bản thân. Trong lần kích hoạt đầu tiên, cấp trạng thái khiến mỗi khi bản thân tấn công kẻ địch, sát thương do bản thân gây ra cho kẻ địch đó ở các đòn sau sẽ tăng lên. Hiệu ứng này có thể cộng dồn tối đa 100 lần.
 
-r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ攻撃する度にダメージ1500増加敵の数が２キャラ以上の場合、以下の効果が発動する自分の行動速度200％アップ自分のＴＰを1000回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên các kẻ địch trong phạm vi.\n►Sát thương tăng thêm 1500 sau mỗi lần tấn công.\n\nNếu số lượng kẻ địch từ 2 trở lên:\n►Tăng 200％ tốc độ hành động của bản thân.\n►Hồi 1000 TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ攻撃する度にダメージ1500増加敵の数が２キャラ以上の場合、以下の効果が発動する自分の行動速度200％アップ自分のＴＰを1000回復$"=Thời gian triển khai: 1.125s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên các kẻ địch trong phạm vi.\n►Sát thương tăng thêm 1500 sau mỗi lần tấn công.\n\nNếu số lượng kẻ địch từ 2 trở lên:\n►Tăng 200％ tốc độ hành động của bản thân.\n►Hồi 1000 TP cho bản thân.
 
 
 ##Comments##

@@ -12,10 +12,10 @@ r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復$"=►Gâ
 ##S1##
 う～ら～め～し～や～なの=Tớ~ Sẽ~ Đi~ Báo~ Oán~ Cậu~
 【変身】幽霊に変身し、しばらくの間無敵状態になる。=[Biến hình] Biến hình thành ma, trở nên bất khả xâm phạm trong một thời gian ngắn.
-r:"^一定時間無敵状態になる$"=►Trở nên miễn nhiễm mọi sát thương trong 3+(0.01Lv)s.
+r:"^一定時間無敵状態になる$"=Thời gian triển khai: 0.00s.\n►Trở nên miễn nhiễm mọi sát thương trong 6s.
 ## 260lvl
 【変身】幽霊に変身し、しばらくの間無敵状態になり、自分の物理防御力を小アップさせる。=[Biến hình] Biến hình thành ma, trở nên bất khả xâm phạm trong một thời gian ngắn. Đồng thời tăng nhẹ P.DEF của bản thân.
-r:"^一定時間無敵状態になる自分の物理防御力を(\d+)アップ$"=►Trở nên miễn nhiễm mọi sát thương trong 3+(0.01Lv)s.\n►Tăng P.DEF của bản thân thêm $1 trong 12s.
+r:"^一定時間無敵状態になる自分の物理防御力を(\d+)アップ$"=Thời gian triển khai: 0.00s.\n►Trở nên miễn nhiễm mọi sát thương trong 6s.\n►Tăng P.DEF của bản thân thêm $1 trong 12s.
 
 ##S2##
 おやつの時間なの=Giờ Ăn Vặt!
@@ -28,13 +28,13 @@ r:"^自分のＨＰを(\d+)回復$"=►Hồi HP của bản thân thêm $1.
 
 ##UB+##
 ぜ～んぶプリンにしてやるの=Giờ Tất Cả Là Pudding Rồi!
-r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復自分の回避を(\d+)アップ$"=►Gây $1 sát thương vật lý lên một kẻ thù đơn.\n►Hồi HP của bản thân thêm $2.\n►Tăng khả năng né tránh của bản thân thêm $3 trong 180s.
-目の前の敵１キャラに物理特大ダメージを与え、さらに自分のＨＰを中回復し、回避を中アップさせる。=Gây sát thương vật lý khổng lồ lên kẻ thù phía trước, đồng thời hồi một lượng trung bình HP của bản thân và tăng khả năng né tránh một chút.
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を大ダウンさせる。自分のＨＰを中回復、回避を特大アップする。=Gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước, giảm mạnh P.DEF của chúng, hồi phục lượng HP vừa cho bản thân và tăng cực đại né tránh của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復自分の回避を(\d+)アップ$"=►Gây $1 sát thương vật lý cho một kẻ địch đơn lẻ.\n►Giảm $2 P.DEF của một kẻ địch đơn lẻ.\n►Hồi phục $3 HP cho bản thân.\n►Tăng $4 né tránh cho bản thân.
 
 ##S1+##
 う～ら～め～し～や～なの+=Tớ~ Sẽ~ Đi~ Báo~ Oán~ Cậu~+
-【変身】幽霊に変身し、しばらくの間無敵状態になる。また、自分の回避を中アップさせ、さらに物理防御力を大アップさせる。=[Biến hình] Biến hình thành ma, trở nên bất khả xâm phạm trong một thời gian ngắn. Đồng thời tăng trung bình khả năng né tránh và tăng lớn P.DEF của bản thân.
-r:"^一定時間無敵状態になる自分の回避を(\d+)アップ自分の物理防御力を(\d+)アップ$"=►Trở nên miễn nhiễm mọi sát thương trong 3+(0.01Lv)s.\n►Tăng khả năng né tránh của bản thân thêm $1 trong 12s.\n►Tăng P.DEF của bản thân thêm $2 trong 12s.
+【変身】幽霊に変身し、一定時間無敵状態になり、自分の回避を特大アップ、物理防御力を大アップする。=[Biến hình] Biến thành bóng ma, trở nên miễn nhiễm với sát thương trong một khoảng thời gian nhất định, tăng cực đại né tránh và tăng mạnh P.DEF của bản thân.
+r:"^一定時間無敵状態になる自分の回避を(\d+)アップ自分の物理防御力を(\d+)アップ$"=Thời gian triển khai: 0.00s.\n►Trở nên miễn nhiễm với mọi sát thương trong 6 giây.\n►Tăng $1 né tránh cho bản thân trong 12 giây.\n►Tăng $2 P.DEF cho bản thân trong 12 giây.
 
 ##UE##
 霊甘ゴーストプリン=Pudding Vui Sướng Của Linh Hồn
@@ -42,3 +42,11 @@ r:"^一定時間無敵状態になる自分の回避を(\d+)アップ自分の�
 
 ##uncategorized (shadow)##
 目の前の敵１キャラに物理特大ダメージを与え、物理防御力を大ダウンさせる。さらに自分のＨＰを中回復し、回避を特大アップさせる。=Gây sát thương vật lý cực đại cho 1 kẻ địch trước mặt và giảm mạnh phòng thủ vật lý. Ngoài ra, bản thân được hồi phục lượng HP vừa phải và tăng cực đại khả năng né tránh.
+
+
+##S1++##
+【変身】幽霊に変身し、一定時間無敵状態になり、自分の回避を特大アップ、物理防御力を大アップする。目の前の敵１キャラが呪い状態でない場合、さらに呪い状態にし、呪い状態であり呪詛状態でない場合、呪詛状態にする。=[Biến hình] Biến thành bóng ma, trở nên miễn nhiễm với sát thương trong một khoảng thời gian nhất định, tăng cực đại né tránh và tăng mạnh P.DEF của bản thân. Nếu kẻ địch ở phía trước chưa bị dính hiệu ứng Nguyền rủa, gây thêm hiệu ứng Nguyền rủa; nếu đã bị dính Nguyền rủa nhưng chưa bị dính Trù ếm, gây hiệu ứng Trù ếm.
+
+Miyako
+う～ら～め～し～や～なの++=Tớ~ Sẽ~ Đi~ Báo~ Oán~ Cậu~++
+r:"^一定時間無敵状態になる自分の回避を(\d+)アップ自分の物理防御力を(\d+)アップ敵が呪い状態でない場合、(\d+)ダメージを与える呪い状態にする敵が呪い状態であり呪詛状態でない場合、毎秒ダメージが初期値(\d+)の150％ずつアップするダメージを与える呪詛状態にする$"=Thời gian triển khai: 0.00s.\n►Trở nên miễn nhiễm với mọi sát thương trong 6 giây.\n►Tăng $1 né tránh cho bản thân trong 12 giây.\n►Tăng $2 P.DEF cho bản thân trong 12 giây.\n\nNếu kẻ địch không bị dính trạng thái Nguyền rủa:\n►Gây hiệu ứng Nguyền rủa, gây $3 sát thương.\n\nNếu kẻ địch đã bị dính Nguyền rủa nhưng chưa bị dính Trù ếm:\n►Gây hiệu ứng Trù ếm, gây sát thương tăng thêm mỗi giây bằng 150% giá trị khởi điểm $4 sát thương.

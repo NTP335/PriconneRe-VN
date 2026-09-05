@@ -34,7 +34,7 @@ r:"^味方単体のＴＰを(\d+)回復$"=►Hồi phục TP cho đồng đội 
 最も近くの味方１キャラのＴＰを中回復し、物理攻撃力と魔法攻撃力を小アップさせる。=Hồi phục TP một lượng vừa phải cho đồng đội gần nhất, và tăng P.ATK cùng M.ATK một lượng nhỏ.
 r:"^味方単体のＴＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の魔法攻撃力を(\d+)アップ$"=►Hồi phục TP cho đồng đội $1.\n►Tăng P.ATK của đồng đội $2 trong 12s.\n►Tăng M.ATK của đồng đội $3 trong 12s.
 
-アキノ（同名キャラを除く）が味方にいる場合、前方の火属性の味方すべての物理・魔法攻撃力を特大アップさせ、ＴＰを特大回復させる。そうでない場合、最も近くの味方１キャラの物理・魔法攻撃力を大アップさせ、ＴＰを特大回復させる。=Nếu có Akino (ngoại trừ các phiên bản khác của cùng nhân vật) trong đội hình, sẽ tăng cực đại tấn công vật lý và ma thuật, đồng thời hồi phục cực đại TP cho tất cả đồng minh hệ Lửa ở phía trước. Nếu không, sẽ tăng lớn tấn công vật lý và ma thuật, đồng thời hồi phục cực đại TP cho một đồng minh gần nhất.
+アキノ（同名キャラを除く）が味方にいる場合、前方の火属性の味方の物理・魔法攻撃力を特大アップ、ＴＰを特大回復させる。そうでない場合、最も近くの味方の物理・魔法攻撃力を大アップ、ＴＰを特大回復させる。=Nếu có Akino (trừ nhân vật cùng tên) trong đội ngũ đồng minh, tăng cực đại P.ATK và M.ATK của các đồng minh hệ Hỏa ở phía trước, đồng thời hồi phục cực đại TP cho họ. Nếu không, tăng mạnh P.ATK và M.ATK của đồng minh ở gần nhất và hồi phục cực đại TP cho họ.
 
 r:"^アキノがいない場合、味方単体の物理・魔法攻撃力を(\d+)アップアキノがいない場合、味方単体のＴＰを725回復アキノがいる場合、範囲内の火属性の味方の物理・魔法攻撃力を(\d+)アップアキノがいる場合、範囲内の火属性の味方のＴＰを500回復$"=Thời gian thi triển: 1.25 giây\n►Nếu không có [Akino]:\n►Tăng $1 tấn công vật lý và ma thuật cho một đồng minh trong 18 giây.\n►Hồi phục 725 TP cho một đồng minh.\n\nNếu có [Akino]:\n►Tăng $2 tấn công vật lý và ma thuật cho các đồng minh hệ Lửa trong phạm vi trong 18 giây.\n►Hồi phục 500 TP cho các đồng minh hệ Lửa trong phạm vi.
 
@@ -47,10 +47,7 @@ r:"^アキノがいない場合、味方単体の物理・魔法攻撃力を(\d+
 
 ##UB+##
 エンドオブフェニックス=Kết Thúc Của Phượng Hoàng
-前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を大アップさせる。サレンのＨＰが低いほど、ダメージと攻撃力の上昇量がアップする。=Gây lượng lớn sát thương P.DMG cho toàn kẻ địch trong phạm vi, và tăng lớn P/M.ATK cho đồng đội. HP của Saren càng thấp, sát thương và lượng tăng tấn công càng lớn.
-### OLD r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=►Gây $1 P.DMG cho kẻ địch trong phạm vi 900.\n►Gây thêm sát thương P.DMG bằng x2.5 HP đã mất.\n►Tăng P.ATK cho đồng đội $2 trong 18s.\n►Tăng M.ATK cho đồng đội $3 trong 18s.\n►Tăng thêm P/M.ATK bằng x0.2 HP đã mất.
-
-前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を特大アップさせる。アキノ（同名キャラを除く）が味方にいる場合、さらに前方範囲内の敵すべての物理防御力を小ダウンさせる。サレンのＨＰが低いほど、ダメージ倍率と攻撃力の上昇量が最大２倍までアップする。=Gây sát thương vật lý lớn cho tất cả kẻ địch trong phạm vi phía trước, đồng thời tăng cực đại tấn công vật lý và ma thuật cho toàn thể đồng minh. Nếu có Akino (ngoại trừ các phiên bản khác của cùng nhân vật) trong đội hình, sẽ giảm nhẹ phòng thủ vật lý của tất cả kẻ địch trong phạm vi phía trước. Lượng máu của Saren càng thấp, hệ số sát thương và lượng tấn công tăng thêm sẽ càng cao, tối đa lên đến gấp 2 lần.
+前方範囲内の敵に物理大ダメージを与え、味方全体の物理・魔法攻撃力を特大アップさせる。アキノ（同名キャラを除く）が味方にいる場合、さらに前方範囲内の敵の物理防御力を小ダウンさせる。自分のＨＰ割合が低いほど、ダメージ倍率と攻撃力のアップ量が最大２倍まで増加する。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước và tăng cực đại P.ATK và M.ATK của toàn bộ đồng minh. Nếu có Akino (trừ nhân vật cùng tên) trong đội ngũ đồng minh, giảm nhẹ P.DEF của kẻ địch trong phạm vi phía trước. Tỷ lệ HP của bản thân càng thấp, hệ số sát thương và mức tăng tấn công sẽ càng tăng, tối đa lên gấp 2 lần.
 r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理・魔法攻撃力を(\d+)アップアキノがいる場合、範囲内の敵の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 900.\n►Tăng $2 tấn công vật lý và ma thuật cho đồng minh trong 18 giây.\n\nNếu có [Akino]:\n►Giảm $3 phòng thủ vật lý của kẻ địch trong phạm vi 900 trong 18 giây.
 
 
@@ -65,7 +62,8 @@ r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理・魔法�
 
 ##S1++##
 ファイアスラッシュ++=Chém Lửa++
-前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせる。サレンのＨＰが低いほど、ダメージ倍率が最大２倍までアップする。アキノ（同名キャラを除く）が味方にいる場合、自分のＨＰ回復量が特大ダウン、物理・魔法防御力が大ダウンするが、自分に【競争心】を付与し、前方の火属性の味方すべての物理攻撃力を特大アップさせる。【競争心】付与時にＨＰが0になるダメージを受けると、ＨＰ１で耐える。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi phía trước và giảm nhẹ phòng thủ vật lý của chúng. Lượng máu của Saren càng thấp, hệ số sát thương sẽ càng cao, tối đa lên đến gấp 2 lần. Nếu có Akino (ngoại trừ các phiên bản khác của cùng nhân vật) trong đội hình, lượng hồi phục HP của bản thân sẽ giảm cực đại, phòng thủ vật lý và ma thuật giảm lớn, nhưng bù lại bản thân sẽ nhận được trạng thái 【Cạnh tranh】, đồng thời tăng cực đại tấn công vật lý cho tất cả đồng minh hệ Lửa ở phía trước. Trong khi có trạng thái 【Cạnh tranh】, nếu nhận sát thương khiến HP về 0, bản thân vẫn sẽ chịu đựng được với 1 HP.
+前方範囲内の敵に物理大ダメージを与え、物理防御力を小ダウンさせる。自分のＨＰ割合が低いほど、ダメージ倍率が最大２倍まで増加する。アキノ（同名キャラを除く）が味方にいる場合、自分のＨＰ回復量が特大ダウン、物理・魔法防御力が大ダウンするが、自分に【競争心】を付与し、前方の火属性の味方の物理攻撃力を特大アップさせる。【競争心】付与時にＨＰが０になるダメージを受けると、ＨＰ１で耐える。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước và giảm nhẹ P.DEF của chúng. Tỷ lệ HP của bản thân càng thấp, hệ số sát thương sẽ càng tăng, tối đa lên gấp 2 lần. Nếu có Akino (trừ nhân vật cùng tên) trong đội ngũ đồng minh, lượng hồi phục HP và P.DEF/M.DEF của bản thân sẽ giảm cực mạnh, nhưng sẽ cấp trạng thái [Rivalry] cho bản thân và tăng cực đại P.ATK của các đồng minh hệ Hỏa ở phía trước. Trong thời gian [Rivalry] có hiệu lực, nếu nhận sát thương khiến HP giảm xuống 0, sẽ chịu đựng lại với 1 HP.
+
 
 r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウンアキノがいる場合、以下の効果が発動する競争心付与中にＨＰが0になった場合、ＨＰ1で耐える範囲内の火属性の味方の物理攻撃力を(\d+)アップ自分のＨＰ回復量を100％ダウン自分の物理・魔法防御力を現在値の50%ダウン$"=Thời gian thi triển: 1.45 giây\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi.\n\nNếu có [Akino]:\n►Nếu HP về 0 trong khi có [Cạnh tranh], duy trì còn 1 HP.\n►Tăng $3 tấn công vật lý cho đồng minh hệ Lửa trong phạm vi.\n►Giảm 100％ lượng hồi phục HP của bản thân.\n►Giảm 50% phòng thủ vật lý và ma thuật hiện tại của bản thân.
 

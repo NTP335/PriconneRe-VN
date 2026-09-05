@@ -23,18 +23,19 @@ r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理攻撃�
 
 ##UB+##
 スウィープサイクロン=Cơn Lốc Quét Sạch
-前方範囲内の敵すべてに魔法大ダメージを与え、さらに物理防御力と魔法防御力を大ダウンさせる。=Sát thương Ma thuật (M.DMG) lớn cho tất cả kẻ địch trong phạm vi phía trước, và cũng giảm Phòng thủ Thể chất (P.DEF) và Phòng thủ Ma thuật (M.DEF).
+前方範囲内の敵に魔法大ダメージを与え、物理・魔法防御力を大ダウンさせる。=Gây sát thương phép lớn cho kẻ địch trong phạm vi phía trước và giảm mạnh P.DEF cùng M.DEF của chúng.
+
 r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương Ma thuật (M.DMG) cho kẻ địch trong tầm.\n►Giảm $2 Phòng thủ Thể chất (P.DEF) của kẻ địch trong tầm.\n►Giảm $3 Phòng thủ Ma thuật (M.DEF) của kẻ địch trong tầm.
 
 ##S1+##
 ウィンドブラスト+=Gió Cuộn+
 前方範囲内の敵すべてに魔法中ダメージを与える。さらに物理防御力と魔法防御力を小ダウンさせる。=Gây sát thương Ma thuật (M.DMG) vừa phải cho tất cả kẻ địch trong tầm và giảm nhẹ Phòng thủ Thể chất (P.DEF) cùng Phòng thủ Ma thuật (M.DEF) của họ.
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương Ma thuật (M.DMG) cho kẻ địch trong tầm.\n►Giảm $2 Phòng thủ Thể chất (P.DEF) của kẻ địch trong tầm.\n►Giảm $3 Phòng thủ Ma thuật (M.DEF) của kẻ địch trong tầm.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン$"=Thời gian triển khai: 1.6s.\n►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n►Giảm $2 P.DEF của kẻ địch trong phạm vi.\n►Giảm $3 M.DEF của kẻ địch trong phạm vi.
 
 ##S2+##
 メイドエール+=Sự An ủi của Hầu Gái+
-自分の周囲の味方すべてのＨＰを小回復させ、物理攻撃力と物理クリティカルを特大アップさせる。さらに自分に【ティーポット】を付与し、魔法攻撃力を特大アップさせ、ＴＰを大回復する。【ティーポット】が付与されている間、スウィープサイクロンとウィンドブラスト+で与えるダメージと物理防御力、魔法防御力ダウンの効果量が上昇する。=Hồi nhẹ HP của đồng minh trong tầm và tăng mạnh Tấn công Thể chất (P.ATK) cùng Tỷ lệ Chí mạng Thể chất (P.CRIT Rate). Đồng thời nhận [Ấm Trà] (Teapot), tăng mạnh Tấn công Ma thuật (M.ATK) của bản thân và hồi nhiều TP. Khi có [Ấm Trà], tăng sát thương Ma thuật (M.DMG) gây ra và giảm Phòng thủ Thể chất/Phòng thủ Ma thuật (P/M.DEF) cho UB và S1.
-r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを200アップ自分にティーポットを付与する自分の魔法攻撃力を(\d+)アップ自分のＴＰを300回復$"=►Hồi HP của đồng minh trong phạm vi 500 bằng $1.\n►Tăng Tấn công Thể chất (P.ATK) của đồng minh trong phạm vi 500 bằng $2 trong 18s.\n►Tăng Tỷ lệ Chí mạng Thể chất (P.CRIT Rate) của đồng minh trong phạm vi 500 bằng 200 trong 18s.\n►Nhận [Ấm Trà] (Teapot).\n►Tăng Tấn công Ma thuật (M.ATK) của bản thân bằng $3 trong 18s.\n►Hồi TP của bản thân bằng 300.
+自分を中心とした範囲内の味方のＨＰを小回復、物理攻撃力と物理クリティカルを特大アップさせる。自分に【ティーポット】を付与し、魔法攻撃力を特大アップ、ＴＰを大回復する。【ティーポット】付与中、スウィープサイクロンとウィンドブラスト+で与えるダメージと物理・魔法防御力のダウン量が増加する。=Hồi phục lượng HP nhỏ cho đồng minh trong phạm vi xung quanh bản thân, đồng thời tăng cực đại P.ATK và tỉ lệ chí mạng vật lý của họ. Cấp trạng thái [Teapot] cho bản thân, tăng cực đại M.ATK và hồi phục lượng lớn TP cho bản thân. Trong thời gian [Teapot] có hiệu lực, sát thương gây ra bởi Sweep Cyclone và Wind Blast+, cũng như lượng giảm P.DEF và M.DEF sẽ được gia tăng.
+r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを200アップ自分にティーポットを付与する自分の魔法攻撃力を(\d+)アップ自分のＴＰを300回復$"=Thời gian triển khai: 1.46s.\n►Hồi phục $1 HP cho đồng minh trong phạm vi 500.\n►Tăng $2 P.ATK cho đồng minh trong phạm vi 500 trong 18 giây.\n►Tăng 200 tỉ lệ chí mạng vật lý cho đồng minh trong phạm vi 500 trong 18 giây.\n►Nhận [Teapot].\n►Tăng $3 M.ATK cho bản thân trong 18 giây.\n►Hồi phục 300 TP cho bản thân.
 
 ##UE##
 ロイヤルメイドドレス=Trang phục Hầu Gái Hoàng gia

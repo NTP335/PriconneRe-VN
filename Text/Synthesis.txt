@@ -22,6 +22,7 @@ EX装備錬成確認=Đã xác nhận hỗn hợp EX Equip
 錬成結果破棄確認=Bỏ kết quả hỗn hợp
 再錬成=Rèn lại
 
+ロック状態・数に変更があるため、アイテムの消費数が変化しています。錬成結果を確定後に再錬成します。=Số lượng vật phẩm tiêu hao đã thay đổi do có sự thay đổi về trạng thái khóa và số lượng. Vui lòng xác nhận kết quả luyện chế trước khi tiến hành luyện chế lại.
 
 橙=Cam
 緑=Xanh lá
@@ -118,3 +119,10 @@ r:"^(\d+)回\[-\]\[3C404E\]錬成を行いました。$"=Đã thực hiện [FFB
 r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]錬成します。前回の錬成結果を破棄してから再錬成します。$"=Tiêu hao các vật phẩm sau để thực hiện tối đa [FFBB00,CE4F00]$1[-] lần luyện chế.\nKết quả luyện chế trước sẽ bị hủy trước khi tiến hành luyện chế lại.
 カスタム再錬成確認=Xác nhận luyện chế lại tùy chỉnh
 条件を満たすサブステータスが抽選されました。=Đã nhận được chỉ số phụ đáp ứng các điều kiện đã chỉ định.
+
+
+r:"^以下のアイテムを消費して、最大\[FFBB00,CE4F00\](\d+)回\[-\]錬成します。前回の錬成結果を確定してから再錬成します。$"=Tiêu thụ các vật phẩm sau để thực hiện tối đa [FFBB00,CE4F00]$1[-] lần luyện chế. Vui lòng xác nhận kết quả luyện chế trước đó trước khi luyện chế lại.
+ロック状態・数に変更があるため、アイテムの消費数が変化しています。錬成結果を確定後に再錬成します。=Số lượng vật phẩm tiêu hao đã thay đổi do có sự thay đổi về trạng thái khóa và số lượng. Vui lòng xác nhận kết quả luyện chế trước khi tiến hành luyện chế lại.
+
+以下のアイテムを消費して再錬成します。前回の錬成結果を破棄してから再錬成します。=Tiêu thụ các vật phẩm sau để luyện chế lại. Kết quả luyện chế trước đó sẽ bị hủy bỏ trước khi tiến hành luyện chế lại.
+EX装備再錬成確認=Xác nhận luyện chế lại trang bị EX
