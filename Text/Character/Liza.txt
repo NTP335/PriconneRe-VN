@@ -1,0 +1,27 @@
+若山詩音=Wakayama Shion
+薬学の勉強、クーの散歩=Học dược học, dắt chó Cu đi dạo
+
+
+##Profile##
+【物理】後衛で、答えを求め彷徨うダークエルフの咎人。ＵＢで放つ矢の呪いは二度重なれば呪詛、三度重なれば強烈な割合ダメージとなり、立ちはだかる敵を殺める。=[Vật lý] Kẻ mang tội là một Elf bóng tối ở hàng sau, đang lang thang tìm kiếm câu trả lời. Lời nguyền từ mũi tên do UB phóng ra nếu cộng dồn hai lần sẽ thành Yểm ếm, cộng dồn ba lần sẽ gây ra sát thương theo phần trăm cực kỳ mạnh mẽ, tiễn biệt những kẻ thù dám cản đường.
+
+##UB##
+イクリプス・ショット=Eclipse Shot
+前方範囲内の敵に物理大ダメージを与え、物理防御力を小ダウンさせ、呪い状態にする。発動時既に対象が呪い状態だった場合、物理ダメージと呪いのダメージが増加し、さらに呪詛状態でない場合、呪詛状態にする。発動時既に前方範囲内の最も物理防御力が低い敵が呪い状態かつ呪詛状態だった場合、その敵の最大ＨＰに応じて最大444万の物理割合ダメージを与え、さらに弱体効果が９種類以上の場合、受ける物理ダメージを小アップさせる。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước, giảm nhẹ phòng thủ vật lý của chúng và gây trạng thái nguyền rủa. Khi kích hoạt, nếu mục tiêu đã dính trạng thái nguyền rủa, sát thương vật lý và sát thương nguyền rủa sẽ tăng lên, đồng thời nếu chưa bị yểm ếm thì sẽ gây thêm trạng thái yểm ếm. Khi kích hoạt, nếu kẻ địch có phòng thủ vật lý thấp nhất trong phạm vi phía trước đã đồng thời dính cả trạng thái nguyền rủa và yểm ếm, sẽ gây sát thương vật lý theo phần trăm dựa trên HP tối đa của kẻ địch đó, lên tới 4,44 triệu. Nếu kẻ địch đó có từ 9 loại hiệu ứng bất lợi trở lên, sẽ tiếp tục làm tăng nhẹ sát thương vật lý phải nhận.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン(\d+)ダメージを与える呪い状態にする敵が呪い状態であり呪詛状態でない場合、毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする対象の敵が呪い状態かつ呪詛状態の場合、敵単体に最大444万の物理割合ダメージを与える対象の敵が呪い状態かつ呪詛状態であり弱体効果が９種類以上の場合、敵単体が受ける物理ダメージを9％アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi trong 18 giây.\n►Gây trạng thái nguyền rủa cho kẻ địch trong phạm vi, gây $3 sát thương.\n\nNếu kẻ địch đang dính trạng thái nguyền rủa nhưng chưa bị yểm ếm:\n►Gây trạng thái yểm ếm, gây sát thương mỗi giây bắt đầu từ mức khởi điểm $4 và tăng thêm 30% sau mỗi lần.\n\nNếu mục tiêu đang dính cả trạng thái nguyền rủa và yểm ếm:\n►Gây sát thương vật lý theo phần trăm lên tới 4.440.000 dựa trên HP tối đa cho một kẻ địch đơn lẻ.\n\nNếu mục tiêu đang dính cả trạng thái nguyền rủa, yểm ếm và có từ 9 loại hiệu ứng bất lợi trở lên:\n►Tăng 9% sát thương vật lý phải nhận cho một kẻ địch đơn lẻ.
+
+##S1##
+ゴーストハンド=Ghost Hand
+前方範囲内の敵に物理中ダメージを与え、束縛する。対象が呪い状態の場合、ダメージが増加し、さらに物理防御力を小ダウンさせる。対象が呪い状態かつ呪詛状態の場合、さらにダメージが増加する。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi phía trước và trói buộc chúng. Nếu mục tiêu đang dính trạng thái nguyền rủa, sát thương sẽ tăng lên và đồng thời giảm nhẹ phòng thủ vật lý của chúng. Nếu mục tiêu đang dính cả trạng thái nguyền rủa lẫn yểm ếm, sát thương sẽ tiếp tục tăng thêm.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間行動不能にする敵が呪い状態の場合、以下の効果が発動する範囲内の敵の物理防御力を(\d+)ダウン$"=Thời gian triển khai: 1,05 giây.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 1185.\n►Gây trạng thái Trói buộc (Bind) lên các mục tiêu trúng đòn trong 3 giây.\n\nNếu kẻ địch đang dính trạng thái Nguyền rủa (Curse):\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi trong 12 giây.
+
+##S2##
+カースサークル=Curse Circle
+前方範囲内の敵のＨＰ回復量と行動速度を大ダウンさせる。前方範囲内の最も物理防御力が低い敵が呪い状態の場合、さらにその敵のＴＰを中ダウンさせ、自分のＴＰを中回復する。前方範囲内の最も物理防御力が低い敵が呪い状態かつ呪詛状態の場合、さらにその敵の受けるクリティカルダメージを小アップさせる。=Giảm mạnh lượng hồi phục HP và tốc độ hành động của kẻ địch trong phạm vi phía trước. Nếu kẻ địch có phòng thủ vật lý thấp nhất trong phạm vi phía trước đang dính trạng thái nguyền rủa, sẽ tiếp tục giảm vừa TP của kẻ địch đó và hồi phục vừa TP cho bản thân. Nếu kẻ địch đó đang dính cả trạng thái nguyền rủa lẫn yểm ếm, sẽ tiếp tục làm tăng nhẹ sát thương chí mạng mà kẻ địch đó phải nhận.
+r:"^範囲内の敵のＨＰ回復量を50％ダウン範囲内の敵の行動速度50％ダウン対象の敵が呪い状態の場合、以下の効果が発動する敵単体のＴＰを250失わせる自分のＴＰを250回復対象の敵が呪い状態かつ呪詛状態の場合、敵単体の被クリダメを8％アップ$"=Thời gian triển khai: 1,05 giây.\n►Giảm 50% lượng hồi phục HP của kẻ địch trong phạm vi 1185 trong 18 giây.\n►Giảm 50% tốc độ hành động của kẻ địch trong phạm vi trong 18 giây.\n\nNếu mục tiêu đang dính trạng thái Nguyền rủa (Curse):\n►Hút 250 TP từ một kẻ địch đơn lẻ.\n►Hồi phục 250 TP cho bản thân.\n\nNếu mục tiêu đang dính cả trạng thái Nguyền rủa và Yểm ếm (Hex):\n►Tăng 8% sát thương chí mạng phải nhận cho một kẻ địch đơn lẻ trong 18 giây.
+
+##EX##
+ダークエルフの秘術=Bí thuật của Dark Elf
+ダークエルフの秘術+=Bí thuật của Dark Elf+

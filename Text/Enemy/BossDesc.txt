@@ -2881,3 +2881,7 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 前から敵１体に暗闇=Gây mù lên kẻ địch ở vị trí đầu tiên phía trước.
 敵全体に物理／魔法与ダメダウン=Giảm sát thương vật lý và sát thương phép gây ra của toàn bộ kẻ địch.
 対象が行動速度ダウン状態：沈黙時間アップ=Nếu mục tiêu đang trong trạng thái giảm tốc độ hành động: Tăng thời gian câm lặng.
+
+強靭な脚と鋭利なツメを操る獰猛な恐竜。滅びた大地でマグマを喰らい生きる孤高の存在。【特殊効果】=Loài khủng long hung dữ sở hữu đôi chân vươn mạnh mẽ và móng vuốt sắc bén. Một sinh vật cô độc sinh tồn bằng cách nuốt chửng dung nham trên vùng đất bị tàn phá. [Hiệu ứng đặc biệt]
+全スキルダメージＴＰ回復不可【ユニオンバースト】=Toàn bộ sát thương kỹ năng không thể hồi phục TP. [Union Burst]
+自身に行動速度アップ【スキル１】=Tăng tốc độ hành động cho bản thân. [Skill 1]

@@ -32,22 +32,23 @@ r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を一定時間�
 
 ##S2##
 アイドルエール=Lời khích lệ của thần tượng
-自分の周囲の味方すべてのＨＰを中回復させる。=Hồi lại một chút HP cho tất cả đồng đội gần đó.
+自分を中心とした範囲内の味方のＨＰを中回復させる。=Hồi phục vừa HP cho tất cả đồng minh trong phạm vi xung quanh bản thân.
 r:"^範囲内の味方のＨＰを(\d+)回復$"=►Hồi HP cho đồng đội trong phạm vi theo $1.
 
 ##EX##
 ルミナススマイル=Nụ Cười Rực Rỡ
 ルミナススマイル+=Nụ Cười Rực Rỡ+
-バトル開始時に自分の物理防御力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Tăng P.DEF của bản thân vừa phải và tăng M.DEF một chút khi trận đấu bắt đầu.
+バトル開始時に自分の物理防御力を中アップ、魔法防御力を小アップする。=Vào đầu trận chiến, tăng vừa phòng thủ vật lý và tăng nhẹ phòng thủ phép của bản thân.
 r:"^自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ$"=►Tăng P.DEF của bản thân theo $1.\n►Tăng M.DEF của bản thân theo $2.
 
 ##UB+##
 ライブ・オンスペシャルステージ=Sống Trên Sân Khấu Đặc Biệt
-【挑発】味方全体の物理攻撃力を大アップさせ、物理/魔法無効バリアを展開し、自分の物理防御力と魔法防御力を特大アップさせる。さらに敵全体を挑発してスタンさせる。=[Khiêu Khích] Tăng P.ATK của đồng đội lớn, tạo lá chắn phản P/M, và tăng P/M.DEF của bản thân lớn. Đồng thời khiêu khích và choáng tất cả kẻ địch.
+【挑発】味方全体の物理攻撃力を大アップさせ、物理/魔法無効バリアを展開し、自分の物理・魔法防御力を特大アップする。敵全体を挑発し、スタンさせる。=[Khiêu khích] Tăng mạnh tấn công vật lý của toàn bộ đồng minh, triển khai rào chắn vô hiệu hóa sát thương vật lý và phép, đồng thời tăng cực đại phòng thủ vật lý và phép của bản thân. Khiêu khích và làm choáng toàn bộ kẻ địch.
 r:"^味方全体の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法無効バリアを展開する自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ敵全体を挑発する敵全体を一定時間行動不能にする$"=►Tăng P.ATK của đồng đội theo $1 trong 18s.\n►Tạo lá chắn cho tất cả đồng đội, phản mọi sát thương P/M $2 trong 20s.\n►Tăng P.DEF của bản thân theo $3 trong 18s.\n►Tăng M.DEF của bản thân theo $4 trong 18s.\n►Khiêu khích tất cả kẻ địch trong 11s.\n►Gây choáng tất cả kẻ địch trong 1.5s.
 
 ##S1+##
 クレールスラッシュ+=Cắt Gọn Lộng Lẫy+
+前方範囲内の敵に物理小ダメージを与え、スタンさせ、物理攻撃力を小ダウンさせる。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi phía trước, làm choáng chúng và giảm nhẹ tấn công vật lý của chúng.
 
 ##UE##
 ブリリアントマイク=Microphone Tuyệt Vời
