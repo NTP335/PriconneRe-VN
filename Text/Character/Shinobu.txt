@@ -24,13 +24,18 @@ r:"^敵全体の物理防御力を(\d+)ダウン$"=►Hạ P.DEF của toàn b�
 
 ##UB+##
 ファントムインフェルノ=Hỏa Ngục Ma Ảo
-前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を中ダウン、行動速度を大ダウンさせ、恐慌状態にする。さらに、【霊力】を解放する。【霊力】解放中、召喚するドクロ親父の各種ステータスがアップする。=Gây sát thương vật lý lớn cho toàn bộ kẻ địch trong phạm vi, hạ trung bình P.DEF, giảm mạnh tốc độ, và gây hiệu ứng Sợ Hãi. Ngoài ra, nhận được [Sức Mạnh Tinh Thần] (các chỉ số của Skull Father được triệu hồi sẽ tăng lên).
+前方範囲内の敵に物理大ダメージを与え、物理防御力を中ダウン、行動速度を大ダウンさせ、恐慌状態にする。【霊力】を解放する。【霊力】解放中、召喚するドクロ親父の各種ステータスがアップする。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước, làm giảm vừa phòng thủ vật lý của chúng, làm giảm lớn tốc độ hành động và khiến chúng rơi vào trạng thái hoảng loạn. Giải phóng [Spiritual Power]. Trong thời gian [Spiritual Power] được giải phóng, các chỉ số khác nhau của Skull Father được triệu hồi sẽ được tăng lên.
+
 r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の行動速度を一定時間低下させる範囲内の敵を恐慌状態にする霊力を解放する$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 850.\n►Hạ P.DEF của kẻ địch trong phạm vi bằng $2 trong 18 giây.\n►Giảm tốc độ hành động của kẻ địch trong phạm vi còn 65% trong 12 giây.\n►Gây hiệu ứng Sợ Hãi cho kẻ địch trong phạm vi trong 12 giây.\n►Nhận Sức Mạnh Tinh Thần trong 180 giây.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の行動速度35％ダウン範囲内の敵を恐慌状態にする霊力を解放する$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 850.\n►Làm giảm phòng thủ vật lý của kẻ địch trong phạm vi 850 xuống $2 trong 18 giây.\n►Làm giảm tốc độ hành động của kẻ địch trong phạm vi 850 xuống 35% trong 12 giây.\n►Gây trạng thái hoảng loạn cho kẻ địch trong phạm vi 850 trong 12 giây.\n►Nhận [Spiritual Power].
+
 
 ##S1+##
 ファントムコール+=Lời Mời Thế Giới Khác+
-【召喚】自分の前に、目の前の敵１キャラを攻撃するドクロを召喚し、自分を中心とした範囲内の味方の物理攻撃力と物理クリティカルを中アップする。=[Triệu Hồi] Triệu hồi một bộ xương trước mặt, tấn công kẻ địch ngay phía trước. Tăng trung bình P.ATK và tỷ lệ P.CRIT của đồng minh trong vùng xung quanh đồng minh đứng phía trước nhất.
-r:"^ドクロ親父を召喚する範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=►Triệu hồi Skull Father của Shinobu.\n►Tăng P.ATK của đồng minh trong phạm vi bằng $1.\n►Tăng tỷ lệ P.CRIT của đồng minh trong phạm vi bằng $2.
+【召喚】自分の前に、目の前の敵１キャラを攻撃するドクロを召喚し、自分を中心とした範囲内の味方の物理攻撃力と物理クリティカルを中アップさせる。=[Triệu hồi] Triệu hồi một Skull ở trước mặt bản thân để tấn công 1 kẻ địch ở ngay trước mặt, đồng thời tăng vừa tấn công vật lý và tỉ lệ chí mạng vật lý cho các đồng minh trong phạm vi tính từ bản thân.
+
+r:"^ドクロ親父を召喚する範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=Thời gian triển khai: 1,38 giây.\n►Triệu hồi Skull Father của Shinobu.\n►Tăng tấn công vật lý của đồng minh trong phạm vi lên $1 trong 12 giây.\n►Tăng tỉ lệ chí mạng vật lý của đồng minh trong phạm vi lên $2 trong 12 giây.
 
 ##UE##
 グリムソウルローブ=Áo Choàng Linh Hồn

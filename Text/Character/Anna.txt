@@ -26,7 +26,8 @@ r:"^敵全体に(\d+)の魔法ダメージ自分の物理防御力を0にする�
 
 ##S2##
 冥空天昇=Thừa kế hư không
-【自爆】アンナのＨＰが最大ＨＰの１０％以下になった時に発動し、周囲の敵すべてに魔法大ダメージを与えるが、自身は戦闘不能になる。=[Tự hủy] Kích hoạt khi HP dưới 10%. Gây sát thương phép lớn cho tất cả kẻ địch trong phạm vi nhưng khiến bản thân bị hạ gục.
+【自爆】自分のＨＰが最大ＨＰの１０％以下になった時に発動し、自分を中心とした範囲内の敵に魔法大ダメージを与えるが、自分は戦闘不能になる。=[Tự hủy] Kích hoạt khi HP của bản thân giảm xuống còn từ 10% HP tối đa trở xuống, gây sát thương phép lớn cho kẻ địch trong phạm vi xung quanh bản thân, nhưng khiến bản thân bị hạ gục.
+
 r:"^範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép cho kẻ địch trong phạm vi.
 
 ##EX##
@@ -35,14 +36,12 @@ r:"^範囲内の敵に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phé
 
 ##UB+##
 羅刹涅槃・《覇極》万象無尽冥壊破=Raksha Nirvana: Thế giới kết thúc song song
-自分の魔法攻撃力を短時間特大アップさせ、敵全体に魔法特大ダメージを与えるが、使用後アンナの物理防御力と魔法防御力が特大ダウンする。=Tạm thời tăng mạnh M.ATK của Anna, gây sát thương phép lớn cho tất cả kẻ địch, nhưng sau khi dùng, P.DEF và M.DEF của Anna sẽ giảm mạnh.
-
-自分の魔法攻撃力を短時間特大アップさせ、敵全体に魔法特大ダメージを与えるが、使用後バトル終了時までアンナの物理・魔法防御力が特大ダウンする。このステータスダウン効果は解除できない。=Tăng đặc biệt lớn tấn công ma thuật của bản thân trong thời gian ngắn và gây sát thương ma thuật đặc biệt lớn cho toàn bộ kẻ địch, nhưng sau khi sử dụng, phòng thủ vật lý và phòng thủ ma thuật của Anna sẽ bị giảm đặc biệt lớn cho đến khi trận đấu kết thúc. Hiệu ứng giảm chỉ số này không thể bị hóa giải.
+自分の魔法攻撃力を短時間特大アップし、敵全体に魔法特大ダメージを与えるが、バトル終了時まで自分の物理・魔法防御力が特大ダウンする。このステータスダウン効果は解除できない。=Tăng cực đại tấn công phép của bản thân trong thời gian ngắn và gây sát thương phép cực đại cho toàn bộ kẻ địch, nhưng làm giảm cực đại phòng thủ vật lý và phép của bản thân cho đến hết trận đấu. Hiệu ứng giảm chỉ số này không thể bị xóa bỏ.
 r:"^自分の魔法攻撃力を(\d+)アップ敵全体に(\d+)の魔法ダメージ自分の物理防御力を初期値の100%ダウン自分の魔法防御力を初期値の100%ダウン$"=►Tăng M.ATK của bản thân lên $1 trong 8s.\n►Gây $2 sát thương phép cho tất cả kẻ địch.\n►Giảm P.DEF của bản thân xuống 0 trong 99s.\n►Giảm M.DEF của bản thân xuống 0 trong 99s.\n
 
 ##S1+##
 羅刹涅槃・無式+=Raksha Nirvana: Vô tận+
-目の前の敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương phép vừa phải cho kẻ địch ngay phía trước và giảm M.DEF của nó một chút.
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương phép trung bình cho 1 kẻ địch ở trước mặt và giảm nhẹ phòng thủ phép của chúng.
 
 ##UE##
 螺旋霊撃疾風飛剣=Lưỡi kiếm cuồng phong xoáy trời

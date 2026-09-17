@@ -1,6 +1,5 @@
 黎明界ラビリンス=Mê Cung Bình Minh
 黎明界ラビリンスβ=Mê Cung Bình Minh β
-黎明界ラビリンスβに挑戦しよう=Thử thách Mê Cung Bình Minh β
 
 r:"^残り(\d+)セット購入可能！$"=Có thể mua thêm $1 bộ nữa!
 所持パスポート=Hộ Chiếu

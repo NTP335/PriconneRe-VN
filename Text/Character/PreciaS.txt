@@ -22,5 +22,5 @@ r:"^自分の魔法攻撃力を(\d+)アップ味方全体の物理クリダメ�
 ##Special Effect##
 すーぱーはっぴー=Super Happy
 特殊効果=Hiệu ứng đặc biệt
-ダメージとＨＰ回復は物理攻撃力と魔法攻撃力を合わせるクリティカルは物理クリティカルと魔法クリティカルを合わせる=[Luôn Hoạt Động] Kết hợp Tấn Công Vật Lý và Tấn Công Thần Kỳ cho tính toán sát thương/hồi máu. Kết hợp Tỷ Lệ Chí Mạng Vật Lý và Thần Kỳ cho tính toán chí mạng.
-【常時発動】自分のユニオンバーストおよびスキルのダメージとＨＰ回復は物理と魔法攻撃力を合わせ、クリティカルは物理と魔法クリティカルの値を合わせる。=[Hiệu Ứng Vĩnh Viễn] Kết hợp Tấn Công Vật Lý và Tấn Công Thần Kỳ cho sát thương UB/kỹ năng và hồi máu. Kết hợp Tỷ Lệ Chí Mạng Vật Lý và Thần Kỳ cho tính toán chí mạng.
+ダメージとＨＰ回復は物理攻撃力と魔法攻撃力を合わせるクリティカルは物理クリティカルと魔法クリティカルを合わせる=[Luôn Hoạt Động]\n ►Kết hợp Tấn Công Vật Lý và Tấn Công Thần Kỳ cho tính toán sát thương/hồi máu.\n►Kết hợp Tỷ Lệ Chí Mạng Vật Lý và Thần Kỳ cho tính toán chí mạng.
+【常時発動】自分のユニオンバーストおよびスキルのダメージとＨＰ回復は物理と魔法攻撃力を合わせ、クリティカルは物理と魔法クリティカルの値を合わせる。=[Luôn Hoạt Động] Kết hợp Tấn Công Vật Lý và Tấn Công Thần Kỳ cho sát thương UB/kỹ năng và hồi máu. Kết hợp Tỷ Lệ Chí Mạng Vật Lý và Thần Kỳ cho tính toán chí mạng.

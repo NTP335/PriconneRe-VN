@@ -635,8 +635,8 @@
 ラースドラゴン自身の残りＨＰが10％を切るとさらに攻撃が激しく強暴になり、ブレイクされなくなる。=Khi HP còn lại của Rồng Giận Dữ giảm dưới 10%, các đòn tấn công của nó trở nên cường liệt và dữ dội hơn, và nó trở nên không thể phá hủy.\n
 エルダータイラント=Kỳ Long Lão
 岩山の如く進化した、大いなる老亀。強力無比な頭突きは、大地を容易く砕き割る。=Rùa Lão Tộc đã tiến hóa như một quả núi đá. Cú húc đầu không đối thủ của nó dễ dàng vỡ tan mặt đất.
-・ユニオンバーストは前から４キャラに物理ダメージを与え、さらに麻痺状態にする。=Union Burst: Gây sát thương vật lý (P.DMG) lên 4 nhân vật phía trước, khiến chúng càng thêm tê liệt.\n
-・前方3キャラに物理防御力ダウン。=P.DEF giảm xuống cho 3 nhân vật ở phía trước.\n
+ユニオンバーストは前から４キャラに物理ダメージを与え、さらに麻痺状態にする。=Union Burst: Gây sát thương vật lý (P.DMG) lên 4 nhân vật phía trước, khiến chúng càng thêm tê liệt.\n
+前方3キャラに物理防御力ダウン。=P.DEF giảm xuống cho 3 nhân vật ở phía trước.\n
 
 ワイズオウル=Cú Mưu Kiếm
 大樹の頂に棲まう、聡明なる大梟。森に生ける者の英知を束ね、巧みに魔術を操る。=Một con cú mưu kiếm sống trên đỉnh cây lớn, hứng thụ trí tuệ của cư dân rừng và khéo léo thao túng phép thuật.\n
@@ -2728,7 +2728,8 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 あらゆる物理攻撃を剣ではじき返す、命ある石像。=Bức tượng đá có sinh mệnh dùng thanh kiếm của mình để phản lại mọi đòn tấn công vật lý.
 動く剣士=Kiếm sĩ di động.
 剣士たちの大乱舞=Đại loạn vũ của các kiếm sĩ.
-《EX》危険な魔物・魔狼=<EX> Ma thú nguy hiểm: Ma lang.
+《EX》危険な魔物・魔狼=《EX》 Ma thú nguy hiểm: Ma lang.
+《EX》危険な魔物・妖蛇=《EX》 Yêu quái nguy hiểm - Xà yêu
 召喚体、分身を除いた最も近い敵３キャラに魔\n　法大ダメージを与え、魔法防御力を中ダウンさ\n　せる。このスキルの効果はダメージを無効化し\n　ても付与される。=Gây sát thương phép lớn cho 3 kẻ địch gần nhất không tính vật triệu hồi và phân thân, đồng thời giảm tầm trung phòng thủ phép của chúng. Hiệu ứng này vẫn được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
 
 自身の物理攻撃力を特大アップし、ＴＰを特大回復する。自身のＨＰが低いほど、物理攻撃力の上昇量がアップする。=Tăng mạnh tấn công vật lý và hồi phục lượng lớn TP cho bản thân. HP của bản thân càng thấp, lượng tấn công vật lý tăng thêm càng nhiều.
@@ -2885,3 +2886,20 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 強靭な脚と鋭利なツメを操る獰猛な恐竜。滅びた大地でマグマを喰らい生きる孤高の存在。【特殊効果】=Loài khủng long hung dữ sở hữu đôi chân vươn mạnh mẽ và móng vuốt sắc bén. Một sinh vật cô độc sinh tồn bằng cách nuốt chửng dung nham trên vùng đất bị tàn phá. [Hiệu ứng đặc biệt]
 全スキルダメージＴＰ回復不可【ユニオンバースト】=Toàn bộ sát thương kỹ năng không thể hồi phục TP. [Union Burst]
 自身に行動速度アップ【スキル１】=Tăng tốc độ hành động cho bản thân. [Skill 1]
+
+ゴブリンランサー=Goblin Lancer
+【バトル開始時発動】=【Kích hoạt khi bắt đầu trận đấu】
+自身に行動速度、魔法攻撃力アップ=Tăng tốc độ hành động và tấn công phép thuật của bản thân.
+前から敵２体に火傷=Gây hiệu ứng bỏng lên 2 kẻ địch ở phía trước.
+勇猛果敢にして歴戦を誇るゴブリン族の槍騎兵。灼熱の竜を駆りて自慢の鋭槍を揮わせる。【特殊効果】=Một kỵ sĩ thương thuộc tộc Goblin dũng mãnh và dày dặn kinh nghiệm trận mạc. Cưỡi trên lưng một con rồng thiêu đốt, hắn vung ngọn giáo sắc bén niềm tự hào của mình.\n\n【Hiệu ứng đặc biệt】
+
+
+バトル中敵物理攻撃力中ダウン=Giảm trung bình tấn công vật lý của kẻ địch trong trận đấu
+対象が行動速度ダウン状態：麻痺時間アップ=Nếu mục tiêu đang trong trạng thái giảm tốc độ hành động: Tăng thời gian tê liệt
+前から敵２体に行動速度ダウン、猛毒=Gây giảm tốc độ hành động và trúng độc nặng lên 2 kẻ địch ở phía trước
+周囲の敵３体に火傷=Gây bỏng lên 3 kẻ địch ở khu vực xung quanh
+周囲の敵全体に魔法ダメージ=Gây sát thương phép lên toàn bộ kẻ địch ở khu vực xung quanh
+周囲の敵全体に行動速度、物理／魔法防御力ダウン（必中）=Giảm tốc độ hành động cùng phòng thủ vật lý/phép thuật của toàn bộ kẻ địch ở khu vực xung quanh (đánh trúng chắc chắn)
+自身に行動速度、物理攻撃力アップ=Tăng tốc độ hành động và tấn công vật lý của bản thân
+周囲の敵３体に物理ダメージ=Gây sát thương vật lý lên 3 kẻ địch ở khu vực xung quanh
+周囲の敵全体に物理ダメージ=Gây sát thương vật lý lên toàn bộ kẻ địch ở khu vực xung quanh

@@ -3,22 +3,25 @@
 
 ##UB##
 フィオレ・オセアーノ=Fiore Oceano
-目の前の敵１キャラに魔法特大ダメージを与え、物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。=Gây sát thương ma thuật lớn lên kẻ địch phía trước, giảm mạnh tấn công vật lý và tấn công ma thuật của chúng, và giảm nhẹ phòng thủ ma thuật.
+目の前の敵１キャラに魔法特大ダメージを与え、物理・魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。=Gây sát thương phép cực lớn lên 1 kẻ địch ở phía trước, đồng thời giảm mạnh tấn công vật lý, tấn công phép và giảm nhẹ phòng thủ phép của mục tiêu.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Giảm tấn công vật lý của kẻ địch đi $2 trong 18s.\n►Giảm tấn công ma thuật của kẻ địch đi $3 trong 18s.\n►Giảm phòng thủ ma thuật của kẻ địch đi $4 trong 18s.
 
 ##S1##
 アクア・メンブラーナ=Aqua Membrana
 味方全体に物理/魔法無効バリアを展開する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。=Triển khai Khiên lên toàn bộ đồng minh, hóa giải sát thương vật lý/ma thuật. Đồng thời, phục hồi nhẹ TP cho đồng minh có TP thấp nhất, và liên tục phục hồi TP cho đồng minh trong phạm vi xung quanh đồng minh đó.
-r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"=►Triển khai Khiên lên toàn bộ đồng minh, hóa giải $1 sát thương vật lý/ma thuật trong 18s.\n►Phục hồi 50 TP cho một đồng minh.\n►Phục hồi 10 TP/giây cho đồng minh trong phạm vi 300 trong 10s.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"=Thời gian triển khai: 0.74s.\n►Triển khai Khiên lên toàn bộ đồng minh, hóa giải $1 sát thương vật lý/ma thuật trong 12s.\n►Phục hồi 50 TP cho một đồng minh.\n►Phục hồi 10 TP/giây cho đồng minh trong phạm vi 300 trong 10s.
 
 ##S1+##
 アクア・メンブラーナ+=Aqua Membrana+
-r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方全体に調和状態を付与する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"="►Triển khai Khiên phản sát thương vật lý/ma thuật ($1)\n►Trao [Hòa âm] cho toàn bộ đồng minh\n►Phục hồi 50 TP cho đồng minh có TP thấp nhất\n►Trao 10 TP mỗi giây"
-r:"^味方全体に物理/魔法無効バリアを展開し、調和状態を付与する。さらに、最もＴＰが低い味方１キャラのＴＰを小回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＴＰ回復状態を付与する。調和状態の間は物理防御力と魔法防御力のうち高い方によって計算されたダメージを受ける。$"="Triển khai Khiên phản sát thương vật lý/ma thuật cho toàn bộ đồng minh và trao [Hòa âm]. Đồng thời, phục hồi nhẹ TP cho đồng minh có TP thấp nhất và trao phục hồi TP liên tục cho đồng minh xung quanh. Trong khi [Hòa âm] hoạt động, sát thương nhận được được tính bằng giá trị phòng thủ cao hơn giữa P.DEF và M.DEF."
+味方全体に物理/魔法無効バリアを展開し、調和状態を付与する。最もＴＰが低い味方のＴＰを小回復させ、その味方を中心とした範囲内の味方に継続ＴＰ回復状態を付与する。=Triển khai rào chắn vô hiệu hóa sát thương vật lý/phép thuật cho toàn bộ đồng minh và cấp trạng thái [Điều hòa] cho họ. Hồi phục một lượng nhỏ TP cho đồng minh có TP thấp nhất, đồng thời đem lại trạng thái hồi TP liên tục cho các đồng minh trong phạm vi quanh đồng minh đó.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する味方全体に調和状態を付与する味方単体のＴＰを50回復毎秒ＴＰを10回復する$"=Thời gian triển khai: 0.74 giây.\n►Triển khai rào chắn cho toàn bộ đồng minh để vô hiệu hóa $1 sát thương vật lý hoặc phép thuật trong 12 giây.\n►Cấp trạng thái [Điều hòa] cho toàn bộ đồng minh\n►Hồi 50 TP cho đồng minh có TP thấp nhất\n►Hồi 10 TP mỗi giây cho các đồng minh trong phạm vi 300 trong 10.5 giây.
+
 ##S2##
 ヴィータ・オペラーレ=Vita Operare
-味方全体の行動速度を大アップさせる。さらに、最もＨＰが低い味方１キャラのＨＰを中回復させ、そのキャラを中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=Tăng mạnh tốc độ hành động của toàn bộ đồng minh. Đồng thời, phục hồi đáng kể HP của đồng minh có HP thấp nhất, và liên tục phục hồi HP cho đồng minh trong phạm vi xung quanh đồng minh đó.
-r:"^味方全体の行動速度アップ味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Tăng tốc độ hành động của toàn bộ đồng minh lên 200% trong 12s.\n►Phục hồi $1 HP cho một đồng minh.\n►Phục hồi $2 HP/giây cho đồng minh trong phạm vi 300 trong 10s.
+味方全体の行動速度を大アップさせる。最もＨＰが低い味方のＨＰを中回復させ、その味方を中心とした範囲内の味方に継続ＨＰ回復状態を付与する。=Tăng mạnh tốc độ hành động của toàn bộ đồng minh. Hồi phục trung bình HP của đồng minh có HP thấp nhất, đồng thời cấp trạng thái hồi HP liên tục cho các đồng minh trong phạm vi tính từ đồng minh đó.
+
+r:"^味方全体の行動速度100％アップ味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=Thời gian triển khai: 0.74 giây.\n►Tăng 100% tốc độ hành động của toàn bộ đồng minh trong 12 giây.\n►Hồi $1 HP cho một đồng minh duy nhất.\n►Hồi $2 HP mỗi giây cho các đồng minh trong phạm vi 300 trong 10.5 giây.
+
 
 ##EX##
 ファータスプルッツォ=Fata Spruzzo

@@ -1,9 +1,9 @@
 ##Profile##
-【魔法】最前衛で、味方を鼓舞する着物姿のドＭ娘。\n味方の魔法攻撃力を高め、敵の魔法防御力を下げる事で、\n魔法パーティのサポート兼防御役として活躍する。=[Phép] Một cô gái masochist tuyệt vọng, cung cấp hỗ trợ từ tuyến đầu trong một chiếc kimono lộng lẫy. Bằng cách tăng tấn công phép cho đồng minh và hạ thấu phòng thủ phép kẻ địch, cô mang lại lợi ích lớn cho đội phép thuật trong khi bảo vệ họ khỏi nguy hiểm.
+【魔法】最前衛で、味方を鼓舞する着物姿のドＭ娘。味方の魔法攻撃力を高め、敵の魔法防御力を下げる事で、魔法パーティのサポート兼防御役として活躍する。=[Phép] Một cô nàng cuồng đau khổ trong bộ kimono hào nhoáng, cổ vũ đồng minh từ tuyến đầu. Bằng cách gia tăng tấn công phép của đồng minh đồng thời hạ thấp phòng thủ phép của kẻ địch, cô mang lại lợi ích lớn cho các đội hình phép thuật trong khi vẫn bảo vệ họ khỏi tổn thương.
 
 ##UB##
 恍惚絶頂の舞～！=Điệu Nhảy Cực Lạc Tinh Khiết
-自身のＨＰを特大回復し、さらに自分を中心とした範囲内の味方の物理防御力と魔法防御力を大アップさせる。=Hồi HP của bản thân một lượng rất lớn. Tăng mạnh Phòng Thủ Vật Lý và Phòng Thủ Phép của toàn bộ đồng minh xung quanh.
+自分のＨＰを特大回復し、自分を中心とした範囲内の味方の物理・魔法防御力を大アップさせる。=Hồi phục cực đại HP của bản thân và tăng lớn phòng thủ vật lý, phòng thủ phép của các đồng minh trong phạm vi xung quanh bản thân.
 r:"^自分のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ$"=►Hồi HP của bản thân bằng $1.\n►Tăng Phòng Thủ Vật Lý của đồng minh trong phạm vi bằng $2.\n►Tăng Phòng Thủ Phép của đồng minh trong phạm vi bằng $3.
 
 ##S1##
@@ -12,7 +12,7 @@ r:"^自分のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)ア
 
 ##S2##
 妖しい桃色吐息ですぅ！=Hơi Thở Của Tôi Quyến Rũ!
-目の前の敵１キャラに魔法小ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây Sát Thương Phép nhỏ lên kẻ địch ngay phía trước và hạ thấu Phòng Thủ Phép của chúng một chút.
+目の前の敵１キャラに魔法小ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương phép nhỏ cho 1 kẻ địch ở phía trước và làm giảm nhẹ phòng thủ phép của chúng.
 
 ##EX##
 絢爛トリップゾーン=Vùng Đất Du Lịch Xa hoa
@@ -20,13 +20,14 @@ r:"^自分のＨＰを(\d+)回復範囲内の味方の物理防御力を(\d+)ア
 
 ##S1+##
 みんな昂りますよぉ！+=Hãy Cùng Nhiệt Huyết!+
-味方全体の魔法攻撃力を大アップさせ、さらに魔法クリティカルと行動速度を中アップさせる。=Tăng lớn Sát Thương Phép, Tỷ Lệ Chí Mạng Phép và tăng vừa phải Tốc Độ Hành Động của đồng minh.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の行動速度アップ$"=►Tăng Sát Thương Phép của đồng minh bằng $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng Phép của đồng minh bằng $2 trong 12s.\n►Tăng Tốc Độ Hành Động của đồng minh lên 125% trong 12s.
+味方全体の魔法攻撃力を大アップ、魔法クリティカルと行動速度を中アップさせる。=Tăng lớn tấn công phép của toàn bộ đồng minh, đồng thời tăng vừa tỉ lệ chí mạng phép và tốc độ hành động của họ.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを75アップ味方全体の行動速度25％アップ$"=Thời gian triển khai: 0.715s.\n►Tăng tấn công phép của toàn bộ đồng minh lên $1 trong 12 giây.\n►Tăng 75 tỉ lệ chí mạng phép của toàn bộ đồng minh trong 12 giây.\n►Tăng 25% tốc độ hành động của toàn bộ đồng minh trong 12 giây.
 
 ##S2+##
 妖しい桃色吐息ですぅ！+=Hơi Thở Của Tôi Quyến Rũ!+
-自分に物理/魔法無効バリアを展開し、物理防御力と魔法防御力を中アップさせる。さらに目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を特大ダウンさせる。=Triển khai Màn Chắn lên bản thân, phớt lờ Sát Thương Vật Lý/Phép, tăng vừa phải Phòng Thủ Vật Lý và Phòng Thủ Phép của bản thân. Ngoài ra, gây Sát Thương Phép khổng lồ lên một kẻ địch và hạ thấu Phòng Thủ Phép của chúng rất nhiều.
-r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Triển khai Màn Chắn lên bản thân, phớt lờ $1 Sát Thương Vật Lý/Phép trong 18s.\n►Tăng Phòng Thủ Vật Lý của bản thân bằng $2 trong 18s.\n►Tăng Phòng Thủ Phép của bản thân bằng $3 trong 18s.\n►Gây $4 Sát Thương Phép lên một kẻ địch.\n►Hạ thấu Phòng Thủ Phép của một kẻ địch bằng $5 trong 18s.
+自分に物理/魔法無効バリアを展開し、物理・魔法防御力を中アップする。目の前の敵１キャラに魔法大ダメージを与え、魔法防御力を特大ダウンさせる。=Triển khai khiên vô hiệu hóa sát thương vật lý/phép cho bản thân và tăng vừa phòng thủ vật lý, phòng thủ phép của bản thân. Gây sát thương phép lớn cho 1 kẻ địch ở phía trước và làm giảm cực đại phòng thủ phép của chúng.
+
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=Thời gian triển khai: 0.715s.\n►Triển khai khiên hấp thụ cho bản thân để vô hiệu hóa $1 sát thương vật lý/phép trong 18 giây.\n►Tăng phòng thủ vật lý của bản thân lên $2 trong 18 giây.\n►Tăng phòng thủ phép của bản thân lên $3 trong 18 giây.\n►Gây $4 sát thương phép cho một kẻ địch.\n►Làm giảm phòng thủ phép của một kẻ địch xuống $5 trong 18 giây.
 
 ##UE##
 千紫万紅艶椿=Hoa Tràu Đỏ Ngàn Vạn

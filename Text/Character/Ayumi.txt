@@ -31,6 +31,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理攻撃�
 
 ##S2##
 目を閉じて行けるかな…？=Mình cứ nhắm mắt được không...?
+前方範囲内の敵に物理小ダメージを与え、スタンさせる。=Gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi phía trước và làm choáng chúng.
 
 ##EX##
 湧き出す勇気=Bùng Nổ Lòng Dũng Cảm
@@ -41,12 +42,13 @@ r:"^自分の物理防御力を(\d+)アップ$"=►Tăng P.DEF của bản thân
 
 ##UB+##
 はわわわ、大変です～！？=Hà hà! Đây không phải là thảm họa sao~!?
-前方範囲内の敵すべてに物理大ダメージを与え、暗闇・混乱状態にし、さらにＴＰ上昇を大ダウンさせる。このスキルを使用するたび、最大３回までダメージが増加する。=Gây sát thương vật lý (P.DMG) khổng lồ cho toàn bộ kẻ địch trong phạm vi, gây tình trạng mù và bối rối, và giảm mạnh Kháng TP. Mỗi lần sử dụng kỹ năng này, sát thương sẽ tăng lên tối đa 3 lần.
+前方範囲内の敵に物理大ダメージを与え、暗闇・混乱状態にし、ＴＰ上昇を大ダウンさせる。発動するたびに、最大３回までダメージが増加する。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước, đồng thời gây trạng thái mù và hỗn loạn, làm giảm mạnh tốc độ tăng TP của chúng. Sát thương sẽ tăng lên theo mỗi lần kích hoạt, tối đa 3 lần.
+
 r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵を暗闇状態にする範囲内の敵を混乱させる範囲内の敵のＴＰ上昇を(\d+)ダウン$"=►Gây $1 sát thương vật lý (P.DMG) cho toàn bộ kẻ địch trong phạm vi 1200.\n►Gây tình trạng Mù (Blind) cho kẻ địch trong phạm vi trong 12 giây (-70% tỷ lệ chính xác).\n►Gây tình trạng Bối Rối (Confusion) cho kẻ địch trong phạm vi trong 8 giây.\n►Giảm Kháng TP của kẻ địch trong phạm vi đi $2 trong 12 giây.
 
 ##S1+##
-つ、突き刺します！+=T-Tao sẽ đâm mày!+
-自分を中心とした範囲内の敵すべてに物理中ダメージを与え、さらに物理攻撃力を中ダウンさせる。=Gây sát thương vật lý (P.DMG) vừa phải cho toàn bộ kẻ địch và giảm một lượng vừa phải P.ATK của chúng.
+つ、突き刺します！+=T-Tôi sẽ đâm cậu!+
+自分を中心とした範囲内の敵に物理中ダメージを与え、物理攻撃力を中ダウンさせる。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi xung quanh bản thân và làm giảm vừa tấn công vật lý của chúng.
 
 ##UE##
 ストーキングマント=Áo Choàng Rình Rập

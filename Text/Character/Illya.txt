@@ -25,10 +25,7 @@ r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復$"=
 
 ##S2##
 ブラッディスピア=Giáo Máu
-前方範囲内の敵すべてに魔法中ダメージを与えるが、自分のＨＰを消費する。=Gây sát thương phép vừa phải cho tất cả kẻ địch ở hàng đầu với chi phí máu của bản thân.
-## OLD r:"^自分のＨＰを(\d+)消費範囲内の敵に(\d+)の魔法ダメージ$"=►Giảm máu bản thân $1.\n►Gây $2 sát thương phép cho tất cả kẻ địch trong phạm vi 600.
-
-自分の残りＨＰの90％を消費して、前方範囲内の敵すべてに魔法中ダメージを与え、自分のＴＰを小回復する。消費したＨＰ量に応じて、ＴＰの回復量が最大３倍までアップする。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Tiêu hao 90% lượng HP hiện tại của bản thân để gây sát thương ma pháp vừa lên toàn bộ kẻ địch trong phạm vi phía trước, đồng thời hồi phục nhẹ TP cho bản thân. Dựa trên lượng HP đã tiêu thụ, lượng TP hồi phục sẽ tăng lên tối đa gấp 3 lần. Sát thương gây ra cho bản thân từ kỹ năng này sẽ không làm tăng TP.
+自分のＨＰの90％を消費して、前方範囲内の敵に魔法中ダメージを与え、自分のＴＰを小回復する。消費したＨＰ量に応じて、ＴＰの回復量が最大３倍まで増加する。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Tiêu tốn 90% HP của bản thân để gây sát thương phép trung bình cho kẻ địch trong phạm vi phía trước và hồi phục một lượng nhỏ TP cho bản thân. Dựa trên lượng HP đã tiêu tốn, lượng TP hồi phục sẽ tăng lên tối đa gấp 3 lần. Sát thương gây ra cho bản thân bởi kỹ năng này sẽ không hồi phục TP cho bản thân.
 r:"^自分の残りＨＰの90％を消費範囲内の敵に(\d+)の魔法ダメージ自分のＴＰを100回復$"=Thời gian thi triển: 0.865 giây.\n►Tiêu hao 90% lượng HP hiện tại của bản thân.\n►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi.\n►Hồi phục 100 TP cho bản thân.
 
 ##EX##
@@ -39,10 +36,8 @@ r:"^自分の魔法攻撃力を(\d+)アップ$"=►Tăng sức tấn công phép
 
 ##UB+##
 ヴァーミリオンエンプレス=Nữ Hoàng Đỏ Son
-最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、自分のＨＰを中回復し、クリティカルを受けた際のダメージを大ダウンさせる。さらに【宵闇の加護】を１つ追加する。【宵闇の加護】を得た状態で使用するスキルのダメージが【宵闇の加護】の個数に応じて増加する。【宵闇の加護】は最大４まで追加される。=Gây sát thương phép cho tất cả kẻ địch trong phạm vi xung quanh kẻ địch gần nhất, hồi máu vừa phải cho bản thân, và giảm lớn sát thương nhận từ đòn chí mạng. Đồng thời, thêm 1 ngăn 【Thánh Phúc Hoàng Hôn】, làm tăng sát thương kỹ năng sử dụng cùng nó (tối đa 4 ngăn).
-## OLD r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復自分がクリティカルを受けた際のダメージを50％ダウン$"=►Dịch chuyển đến mục tiêu kẻ địch gần nhất và quay về vị trí ban đầu sau khi kỹ năng kết thúc.\n►Gây $1 sát thương phép cho kẻ địch trong phạm vi 250.\n►Hồi máu cho bản thân $2.\n►Tăng kháng sát thương phép chí mạng 50% trong 18s.\n►Nhận Thánh Phúc Hoàng Hôn.
+目の前の敵１キャラを中心とした範囲内の敵に魔法特大ダメージを与え、自分のＨＰを中回復し、【宵闇の加護】（上限１）を付与する。【宵闇の加護】付与中に１回魔法ダメージを受けると【宵闇の加護】を消費してダメージを無効化する。=Gây sát thương phép cực đại cho kẻ địch trong phạm vi xung quanh 1 kẻ địch ở trước mặt, hồi phục vừa HP cho bản thân và cấp [Chúc phúc Chạng vạng] (tối đa 1 cộng dồn). Trong thời gian có [Chúc phúc Chạng vạng], khi nhận sát thương phép 1 lần, sẽ tiêu thụ 1 cộng dồn [Chúc phúc Chạng vạng] để vô hiệu hóa sát thương đó.
 
-目の前の敵１キャラを中心とした範囲内の敵すべてに魔法特大ダメージを与え、自分のＨＰを中回復し【宵闇の加護】を１つ付与する。【宵闇の加護】が付与されている間に１回魔法ダメージを受けると【宵闇の加護】を１つ消費してダメージを無効化する。【宵闇の加護】は最大１つまで付与される。=Gây sát thương ma pháp cực đại lên toàn bộ kẻ địch trong phạm vi xung quanh 1 mục tiêu phía trước, hồi phục vừa HP cho bản thân và ban cho 1 tầng 【Thánh Phúc Hoàng Hôn】. Trong khi đang có hiệu ứng này, nếu nhận sát thương ma pháp 1 lần, sẽ tiêu hao 1 tầng để vô hiệu hóa sát thương đó. 【Thánh Phúc Hoàng Hôn】 có thể tích lũy tối đa 1 tầng.
 r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを20％回復自分に宵闇の加護を１つ付与する$"=►Di chuyển đến mục tiêu kẻ địch gần nhất và quay trở lại vị trí ban đầu sau khi kết thúc kỹ năng.\n►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi 300.\n►Hồi phục 20% HP cho bản thân.\n►Ban cho bản thân 1 tầng 【Thánh Phúc Hoàng Hôn】.
 
 ##S1+##
@@ -59,5 +54,6 @@ r:"^自分の残りＨＰの90％を消費敵単体に(\d+)の魔法ダメージ
 
 ##S1++##
 ブリーディングブラスト++=Cú Nổ Thèm Máu++
-自分の残りＨＰの90％を消費して、目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、目の前の敵１キャラが呪い状態だった場合、自分は短時間全ての物理攻撃を回避する。さらに、闇属性の味方すべての行動速度を大アップ、自分の魔法攻撃力を大アップ、ＴＰを大回復する。消費したＨＰ量に応じて、物理回避の効果時間、魔法攻撃力の上昇量、ＴＰの回復量が最大３倍までアップする。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Tiêu hao 90% lượng HP hiện tại của bản thân để gây sát thương ma pháp lớn lên toàn bộ kẻ địch trong phạm vi xung quanh 1 mục tiêu phía trước. Nếu mục tiêu đó đang bị trạng thái Nguyền rủa (Curse), bản thân sẽ né tránh toàn bộ đòn tấn công vật lý trong thời gian ngắn. Ngoài ra, tăng mạnh tốc độ hành động của tất cả đồng đội hệ Bóng tối (Dark), tăng mạnh tấn công ma pháp của bản thân và hồi phục mạnh TP. Dựa trên lượng HP đã tiêu thụ, thời gian hiệu lực né tránh vật lý, lượng tấn công ma pháp tăng thêm và lượng TP hồi phục sẽ tăng lên tối đa gấp 3 lần. Sát thương gây ra cho bản thân từ kỹ năng này sẽ không làm tăng TP.
+自分のＨＰの90％を消費して、目の前の敵１キャラを中心とした範囲内の敵に魔法大ダメージを与え、目の前の敵１キャラが呪い状態の場合、さらに自分を短時間物理回避状態にする。闇属性の味方の行動速度を大アップさせ、自分の魔法攻撃力を大アップ、ＴＰを大回復する。消費したＨＰ量に応じて、物理回避状態の効果時間、魔法攻撃力のアップ量、ＴＰの回復量が最大３倍まで増加する。このスキルによる自分へのダメージでは自分のＴＰは回復しない。=Tiêu tốn 90% HP của bản thân để gây sát thương phép lớn cho kẻ địch trong phạm vi xung quanh 1 kẻ địch ở trước mặt. Nếu kẻ địch ở trước mặt đang ở trạng thái nguyền rủa, bổ sung trạng thái né tránh vật lý trong thời gian ngắn cho bản thân. Tăng lớn tốc độ hành động của các đồng minh hệ Bóng Tối, tăng lớn tấn công phép và hồi phục lượng lớn TP cho bản thân. Dựa trên lượng HP đã tiêu tốn, thời gian hiệu lực của trạng thái né tránh vật lý, lượng tăng tấn công phép và lượng TP hồi phục sẽ tăng lên tối đa gấp 3 lần. Sát thương gây ra cho bản thân bởi kỹ năng này sẽ không hồi phục TP cho bản thân.
+
 r:"^自分の残りＨＰの90％を消費範囲内の敵に(\d+)の魔法ダメージ敵が呪い状態の時、一定時間全ての物理攻撃を回避する闇属性の味方の行動速度55％アップ自分の魔法攻撃力を(\d+)アップ自分のＴＰを300回復$"=Thời gian thi triển: 1.125 giây.\n►Tiêu hao 90% lượng HP hiện tại của bản thân.\n►Gây $1 sát thương ma pháp lên kẻ địch trong phạm vi.\n►Nếu kẻ địch bị Nguyền rủa, né tránh mọi đòn tấn công vật lý trong một khoảng thời gian.\n►Tăng 55% tốc độ hành động cho đồng đội hệ Bóng tối.\n►Tăng $2 tấn công ma pháp cho bản thân.\n►Hồi phục 300 TP cho bản thân.

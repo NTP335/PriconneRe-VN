@@ -11,12 +11,12 @@
 
 ##UB##
 ミラーミラー=Gương Gương
-【召喚】ユニオンバーストを使用しない、自分の分身を生成する。さらに自分の周囲に魔法攻撃力を特大アップさせ、ＴＰ上昇を小アップさせるフィールドを展開する。=[Triệu Hồi] Tạo ra một bản sao của chính mình không thể dùng UB. Triển khai một vùng trường xung quanh bản thân tăng mạnh M.ATK và tăng nhỏ TP Boost.
+【召喚】ＵＢを発動しない、自分の分身を生成する。自分を中心とした範囲内の味方の魔法攻撃力を特大アップ、ＴＰ上昇を小アップさせるフィールドを展開する。=[Triệu hồi] Tạo ra một phân thân của bản thân không kích hoạt UB. Triển khai một vùng ảnh hưởng xung quanh bản thân làm tăng cực đại tấn công phép và tăng nhẹ gia tăng TP của đồng minh trong phạm vi.
 r:"^分身を生成する魔法攻撃力を(\d+)アップさせるフィールドを展開するＴＰ上昇を15アップさせるフィールドを展開する$"=►Tạo ra một bản sao của bản thân.\n►Triển khai một trường trong phạm vi 400 xung quanh bản thân trong 18s.\n►Tăng M.ATK của đồng minh trong trường lên $1.\n►Tăng TP Boost của đồng minh trong trường lên 15.
 
 ##S1##
 サテュレイト・レイ=Tia Bão Hòa
-目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに短時間スタンさせる。=Gây lượng sát thương phép lớn lên tất cả kẻ địch trong phạm vi, tập trung vào kẻ địch đầu tiên ở phía trước, và làm choáng họ.
+目の前の敵１キャラを中心とした範囲内の敵に魔法大ダメージを与え、魔法防御力を小ダウンさせ、スタンさせる。=Gây sát thương phép lớn cho các kẻ địch trong phạm vi xung quanh 1 kẻ địch ở ngay trước mặt, làm giảm nhẹ phòng thủ phép của chúng và khiến chúng choáng.
 r:"^範囲内の敵すべてに(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương phép lên tất cả kẻ địch trong phạm vi 250.\n►Gây choáng mục tiêu trong 1.5s.
 
 ##S2##

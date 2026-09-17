@@ -83,3 +83,8 @@ r:"^覇瞳皇帝の領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng
 r:"^ゼーンの領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng $1 thuộc Lãnh địa của Zane.
 r:"^アラクネの領域(\d+)層をクリアしよう$"=Hãy vượt qua tầng $1 thuộc Lãnh địa của Arachne.
 r:"^バトルスタジアムで★を合計(\d+)個獲得しよう$"=Hãy thu thập tổng cộng $1 ★ trong Battle Stadium
+
+深淵討伐戦の前哨クエストに挑戦しよう=Thách đấu nhiệm vụ mở đầu của Trận chiến Thăng hoa Vực sâu.
+深淵討伐戦のボスに挑戦しよう=Thách đấu trùm Chiến dịch thảo phạt vực sâu
+黎明界ラビリンスに挑戦しよう=Thách đấu Mê cung Giới hạn Bình minh
+黎明界ラビリンスβに挑戦しよう=Thách đấu Mê cung Giới hạn Bình minh β

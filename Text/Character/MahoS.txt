@@ -3,7 +3,7 @@
 
 ##UB##
 メルヘンサマーパレード=Diễu Hành Mùa Hè Kể Chuyện
-ランダムな敵キャラに、単体魔法中ダメージを計４回与える。=Gây sát thương ma thuật vừa phải (M.DMG) cho một kẻ địch ngẫu nhiên 4 lần.
+ランダムな敵に、魔法中ダメージを与える。これを４回行う。=Gây sát thương phép trung bình cho một kẻ địch ngẫu nhiên. Lặp lại điều này 4 lần.
 
 ##S1##
 マホマホサマーフレンズ=Bạn Bè Mùa Hè Kỳ Diệu
@@ -21,12 +21,12 @@ r:"^自分の魔法攻撃力を(\d+)アップ\n自分のＴＰを(\d+)回復$"=�
 
 ##S1+##
 マホマホサマーフレンズ+=Bạn Bè Mùa Hè Kỳ Diệu+
-自分の魔法攻撃力を特大アップさせ、ＴＰを中回復させ、さらにＴＰ上昇を小アップさせる。=Tăng lớn Lực Ma Thuật (M.ATK) của bản thân. Hồi một lượng vừa phải Điểm Ma Thuật (TP) cho bản thân và tăng nhỏ Tăng Điểm Ma Thuật (TP Boost) của bản thân.
+自分の魔法攻撃力を特大アップ、ＴＰを中回復、ＴＰ上昇を小アップする。=Tăng cực đại tấn công phép của bản thân, hồi phục vừa TP và tăng nhẹ chỉ số gia tăng TP của bản thân.
 r:"^自分の魔法攻撃力を(\d+)アップ自分のＴＰを(\d+)回復自分のＴＰ上昇を(\d+)アップ$"=►Tăng Lực Ma Thuật (M.ATK) của bản thân lên $1 trong 15s.\n►Hồi Điểm Ma Thuật (TP) của bản thân lên $2.\n►Tăng Tăng Điểm Ma Thuật (TP Boost) của bản thân lên $3 trong 15s.
 
 ##S2+##
 マホマホサマーブロッサム+=Hoa Mùa Hè Kỳ Diệu+
-ランダムな敵１キャラに魔法大ダメージを与え、魔法防御力を中ダウンさせる。さらに、自分の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法攻撃クリティカル時のダメージを中アップする。=Gây sát thương ma thuật lớn (M.DMG) cho một kẻ địch ngẫu nhiên và giảm vừa phải Kháng Ma Thuật (M.DEF) của nó. Ngoài ra, còn tăng rất lớn Lực Ma Thuật (M.ATK), tăng lớn Tỷ Lệ Chí Mạng Ma Thuật (M.CRIT Rate) và tăng vừa phải Sát Thương Chí Mạng Ma Thuật (M.CRIT DMG) của bản thân.
+ランダムな敵に魔法大ダメージを与え、魔法防御力を中ダウンさせる。自分の魔法攻撃力を特大アップ、魔法クリティカルを大アップ、魔法クリティカルダメージを中アップする。=Gây sát thương phép lớn cho một kẻ địch ngẫu nhiên và làm giảm vừa phòng thủ phép của chúng. Tăng cực đại tấn công phép của bản thân, tăng lớn tỉ lệ chí mạng phép và tăng vừa sát thương chí mạng phép của bản thân.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを(\d+)アップ自分の魔法攻撃クリティカル時のダメージを25％アップ$"=►Gây $1 sát thương ma thuật (M.DMG) cho một kẻ địch.\n►Giảm Kháng Ma Thuật (M.DEF) của một kẻ địch lên $2 trong 18s.\n►Tăng Lực Ma Thuật (M.ATK) của bản thân lên $3 trong 18s.\n►Tăng Tỷ Lệ Chí Mạng Ma Thuật (M.CRIT Rate) của bản thân lên $4 trong 18s.\n►Tăng Sát Thương Chí Mạng Ma Thuật (M.CRIT DMG) của bản thân lên 25% trong 18s.
 
 ##UE##

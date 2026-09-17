@@ -3,7 +3,8 @@
 
 ##UB##
 メモリーズ・オブ・サマー=Kỷ Niệm Mùa Hè
-味方全体の物理攻撃クリティカル時のダメージを小アップさせ、目の前の敵１キャラに物理特大ダメージを与える。=Tăng Sát Thương Chí Mạng P. của tất cả đồng minh một chút, và gây sát thương vật lý lớn lên kẻ địch phía trước.
+味方全体の物理クリティカルダメージを小アップさせ、目の前の敵１キャラに物理特大ダメージを与える。=Tăng nhẹ sát thương chí mạng vật lý của toàn bộ đồng minh và gây sát thương vật lý cực lớn cho 1 kẻ địch ở ngay trước mặt.
+
 r:"^味方全体の物理攻撃クリティカル時のダメージを16％アップ敵単体に(\d+)の物理ダメージ$"=►Tăng Sát Thương Chí Mạng P. của tất cả đồng minh theo 16% trong 18s.\n►Gây $1 sát thương vật lý lên kẻ địch.
 
 ##S1##
@@ -13,7 +14,8 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御�
 
 ##S2##
 サマーブリーズ=Làn gió hè
-味方全体のＴＰを小回復させ、さらに物理攻撃力を中アップさせる。=Hồi một chút TP cho toàn bộ đồng đội và tăng sát thương vật lý (P.ATK) ở mức vừa phải.
+味方全体の物理攻撃力を特大アップ、物理・魔法防御力を中アップ、ＴＰ上昇を小アップさせる。=Tăng cực đại tấn công vật lý của toàn bộ đồng minh, tăng vừa phòng thủ vật lý lẫn phòng thủ phép của họ, đồng thời tăng nhẹ gia tăng TP của họ.
+
 r:"^味方全体のＴＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ$"=►Hồi $1 TP cho toàn bộ đồng đội.\n►Tăng sát thương vật lý (P.ATK) của toàn bộ đồng đội lên $2 trong 12 giây.
 ## Same with WTamaki S2
 
@@ -23,7 +25,7 @@ r:"^味方全体のＴＰを(\d+)回復味方全体の物理攻撃力を(\d+)ア
 
 ##S1+##
 サマーアイドルエール+=Cổ vũ Idol Mùa hè+
-味方全体の物理攻撃力を特大アップさせ、物理防御力と魔法防御力を中アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng mạnh sát thương vật lý (P.ATK) cho toàn bộ đồng đội, tăng vừa phải phòng thủ vật lý (P.DEF) và phòng thủ ma thuật (M.DEF), đồng thời tăng nhẹ Hiệu quả Hồi TP (TP Boost).
+味方全体のＴＰを小回復、物理攻撃力を大アップさせる。=Hồi phục nhẹ TP cho toàn bộ đồng minh và tăng lớn tấn công vật lý của họ.
 r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ味方全体のＴＰ上昇を５アップ$"=►Tăng sát thương vật lý (P.ATK) của toàn bộ đồng đội lên $1 trong 12 giây.\n►Tăng phòng thủ vật lý (P.DEF) của toàn bộ đồng đội lên $2 trong 12 giây.\n►Tăng phòng thủ ma thuật (M.DEF) của toàn bộ đồng đội lên $3 trong 12 giây.\n►Tăng Hiệu quả Hồi TP (TP Boost) của toàn bộ đồng đội lên 5 trong 12 giây.
 
 ##UE##

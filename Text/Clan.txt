@@ -273,7 +273,7 @@ r:"^1分30秒以内に\n(\d+)人が本戦を開始しました。$"=$1 người 
 このパーティを編成した時と★が異なるキャラがいます。\n以下は★の設定も含めて編成が保存されています。=Có nhân vật có ★ khác với khi đội hình này được tổ chức. Bên dưới, đội hình sẽ được lưu bao gồm cả cài đặt ★.
 ★設定の保存について=Lưu Cài Đặt ★
 [FF7C4E,D62146]保存時と★設定が違うキャラがいます。[-]=[FF7C4E,D62146]Một số nhân vật có cài đặt ★ khác với khi chúng được lưu.[-]
-・マイパーティ\n・バトルアリーナ/プリンセスアリーナの防衛設定=・ Cài đặt Phòng Thủ Battle Arena/Princess Arena của đội của tôi
+・マイパーティ\n・バトルアリーナ/プリンセスアリーナの防衛設定=►Cài đặt Phòng Thủ Battle Arena/Princess Arena\n►đội của tôi
 挑戦回数を消費してクランバトルを開始しますか？=Sử dụng lượt thử của bạn để bắt đầu trận đấu?
 [FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[FF7C4E,D62146]Số lượt thử sẽ\nđược tiêu hao khi bắt đầu.\nVui lòng chơi ở nơi có kết nối ổn định.[-]
 

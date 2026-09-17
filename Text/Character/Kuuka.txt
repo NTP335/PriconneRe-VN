@@ -38,12 +38,13 @@ r:"^自分の魔法防御力を(\d+)アップ$"=►Tăng M.DEF của bản thân
 
 ##UB+##
 エクスタシートランス=Trance cực khoái
-自分に魔法吸収バリアを展開し、ＨＰを中回復する。さらに自分に魔法ダメージカット効果を付与する。=Triển khai Màn Chắn lên bản thân, hấp thụ Sát Thương Phép, hồi một lượng HP vừa phải và giảm Sát Thương Phép nhận.
+自分に魔法吸収バリアを展開し、ＨＰを中回復し、魔法ダメージカット効果を付与する。=Triển khai khiên hấp thụ sát thương phép cho bản thân, hồi phục vừa HP cho bản thân và cấp hiệu ứng giảm sát thương phép.
 r:"^(\d+)ダメージ分の魔法吸収バリアを展開する自分のＨＰを(\d+)回復自分が受ける魔法ダメージを25％カット$"=►Triển khai Màn Chắn lên bản thân, hấp thụ $1 Sát Thương Phép trong 18s.\n►Hồi HP của bản thân bằng $2.\n►Giảm Sát Thương Phép nhận của bản thân 25% trong 18s.
 
 ##S1+##
 狙うならクウカを！+=Chơi với Tôi Đi!+
-【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Khiêu Khích] Khiêu khích toàn bộ kẻ địch. Tăng mạnh Phòng Thủ Vật Lý của bản thân và hồi một lượng HP vừa phải.
+【挑発】敵全体を挑発し、自分の物理防御力を大アップ、ＨＰを中回復する。=[Khiêu khích] Khiêu khích toàn bộ kẻ địch, tăng lớn phòng thủ vật lý của bản thân và hồi phục vừa HP cho bản thân.
+
 r:"^敵全体を挑発する自分の物理防御力を(\d+)アップ自分のＨＰを(\d+)回復$"=►Khiêu khích toàn bộ kẻ địch trong 16.6-17.1s.\n►Tăng Phòng Thủ Vật Lý của bản thân bằng $1.\n►Hồi HP của bản thân bằng $2.
 
 ##UE##

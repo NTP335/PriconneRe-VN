@@ -3,7 +3,7 @@
 
 ##UB##
 琉球犬アラウンドシュート=Ryukyu-Ken Đạn Xoáy
-前方範囲内の敵すべてに物理中ダメージを与える。このスキルの攻撃対象の数が多いほどダメージが増加する。=Gây sát thương vật lý vừa phải lên tất cả kẻ địch trong phạm vi. Sát thương tăng dựa trên số lượng mục tiêu.
+前方範囲内の敵に物理中ダメージを与える。対象の敵の数が多いほど、ダメージが増加する。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi phía trước. Sát thương sẽ tăng lên tương ứng với số lượng kẻ địch bị trúng đòn.
 
 ##S1##
 円心裂波=Cuộn Xoáy Nghiền Nát
@@ -20,13 +20,13 @@ r:"^自分の物理攻撃力を(\d+)アップ範囲内の味方の行動速度�
 
 ##S1+##
 円心裂波+=Cyclone Smash+
-前方範囲内の敵すべてに物理中ダメージを与えてスタンさせ、さらに目の前の敵１キャラを大きく吹き飛ばす。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi, làm choáng họ, và đẩy lùi kẻ địch đứng trước mặt.
+前方範囲内の敵に物理中ダメージを与え、スタンさせ、目の前の敵１キャラを大きく吹き飛ばす。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi phía trước và làm choáng chúng, sau đó đẩy lùi mạnh 1 kẻ địch ở ngay phía trước.
 
 ##S2+##
 琉球犬唄+=Ryukyu Calypso+
-自分を中心とした範囲内の味方の行動速度を大アップさせる。さらに、自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップ、ＴＰを中回復する。=Tăng mạnh P.ATK của bản thân, tăng nhẹ P.CRIT DMG của bản thân và hồi phục TP của bản thân một cách vừa phải. Đồng thời tăng mạnh tốc độ hành động của đồng minh trong phạm vi.
-r:"^範囲内の味方の行動速度アップ自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを6％アップ自分のＴＰを150回復$"=►Tăng tốc độ hành động của đồng minh trong phạm vi 300 lên 155% trong 12 giây.\n►Tăng P.ATK của bản thân lên $1 trong 180 giây.\n►Tăng P.CRIT DMG của bản thân thêm 6% trong 180 giây.\n►Hồi phục TP của bản thân 150.
+自分を中心とした範囲内の味方の行動速度を大アップさせる。自分の物理攻撃力を特大アップ、物理クリティカルダメージを小アップ、ＴＰを中回復する。=Tăng lớn tốc độ hành động của đồng minh trong phạm vi xung quanh bản thân. Tăng cực đại tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý và hồi phục vừa TP cho bản thân.
 
+r:"^範囲内の味方の行動速度55％アップ自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを6％アップ自分のＴＰを150回復$"=Thời gian triển khai: 0.84s.\n►Tăng 55% tốc độ hành động của đồng minh trong phạm vi trong 12 giây.\n►Tăng tấn công vật lý của bản thân lên $1 trong 180 giây.\n►Tăng 6% sát thương khi chí mạng vật lý của bản thân trong 180 giây.\n►Hồi phục 150 TP cho bản thân.
 ##UE##
 琉球犬式・神舞之籠手=Ryukyu-Ken Style: Divine Dance Gauntlet
 琉球犬式・踊三線=Ryukyu Dog Style: Dance Sanshin

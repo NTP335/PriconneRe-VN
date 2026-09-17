@@ -15,28 +15,34 @@ r:"^敵全体に(\d+)の魔法ダメージ敵全体を誘惑する$"=►Gây $1 
 
 ##S2##
 ソウルドレイン=Hút Hồn
-ランダムな敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Giảm TP của một kẻ địch ngẫu nhiên một chút và đồng thời hồi một chút TP cho bản thân.
-r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復$"=►Giảm TP của một kẻ địch bằng $1.\n►Hồi TP cho bản thân bằng $2.
-## 260lvl
-ランダムな敵１キャラのＴＰを小ダウンさせ、物理攻撃力と魔法攻撃力を小ダウンさせる。さらに自分のＴＰを小回復する。=Giảm TP, P.ATK và M.ATK của một kẻ địch ngẫu nhiên một chút và đồng thời hồi một chút TP cho bản thân.
-r:"^敵単体のＴＰを(\d+)失わせる敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン自分のＴＰを(\d+)回復$"=Thời gian niệm chú: 1.33s\n►Giảm TP của một kẻ địch bằng $1.\n►Giảm P.ATK của một kẻ địch bằng $2.\n►Giảm M.ATK của một kẻ địch bằng $3.\n►Hồi TP cho bản thân bằng $4.
+ランダムな敵のＴＰと物理・魔法攻撃力を大ダウンさせる。自分のＴＰを大回復する。=Giảm lớn TP cũng như tấn công vật lý và tấn công phép của một kẻ địch ngẫu nhiên. Hồi phục lượng lớn TP cho bản thân.
 
+r:"^敵単体のＴＰを310失わせる敵単体の物理・魔法攻撃力を(\d+)ダウン自分のＴＰを310回復$"=Thời gian triển khai: 1.33s.\n►Hút 310 TP từ một kẻ địch đơn lẻ.\n►Giảm tấn công vật lý và tấn công phép của một kẻ địch đơn lẻ đi $1 trong 12 giây.\n►Hồi phục 310 TP cho bản thân.
 ##EX##
 スウィートラブリーハート=Trái Tim Ngọt Ngào, Yêu Thương
 スウィートラブリーハート+=Trái Tim Ngọt Ngào, Yêu Thương+
 
 ##UB+##
 ハートラブサイクロン=Xoáy Tròn Trái Tim Đáng Yêu
-Deals moderate M.DMG and inflicts Charm to all enemies.
-敵全体に魔法中ダメージを与え、ＴＰを小ダウンさせ、ＴＰ上昇を小ダウンさせ、さらに誘惑状態にする。=Gây sát thương phép vừa phải, giảm TP kẻ địch một chút, giảm Tăng TP kẻ địch một chút và khiến tất cả kẻ địch bị Thôi miên.
-r:"^敵全体に(\d+)の魔法ダメージ敵全体のＴＰを(\d+)失わせる敵全体のＴＰ上昇を(\d+)ダウン敵全体を誘惑する$"=►Gây $1 sát thương phép cho tất cả kẻ địch.\n►Khiến tất cả kẻ địch bị Thôi miên trong 5s.\n►Giảm TP của kẻ địch bằng $2.\n►Giảm Tăng TP của kẻ địch bằng $3 trong 18s.
+敵全体に魔法中ダメージを与え、ＴＰ上昇を小ダウンさせ、誘惑状態にし、ＴＰを中ダウンさせる。=Gây sát thương phép trung bình cho toàn bộ kẻ địch, làm giảm nhẹ tốc độ tăng TP của chúng, áp dụng trạng thái quyến rũ và làm giảm vừa TP của chúng.
+
+r:"^敵全体に(\d+)の魔法ダメージ敵全体のＴＰを124失わせる敵全体のＴＰ上昇を15ダウン敵全体を誘惑する$"=►Gây $1 sát thương phép cho toàn bộ kẻ địch.\n►Hút 124 TP từ toàn bộ kẻ địch.\n►Giảm tốc độ tăng TP của toàn bộ kẻ địch đi 15 trong 18 giây.\n►Quyến rũ toàn bộ kẻ địch trong 5 giây.
+
 
 ##S1+##
 テイルウィップ+=Vũi Đuôi+
-前から２番目の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに誘惑状態の敵のＴＰを大ダウンさせ、そうでない敵の物理攻撃力と魔法攻撃力を中ダウンさせる。=Gây sát thương phép vừa phải cho tất cả kẻ địch trong phạm vi. Nếu chúng bị Thôi miên, giảm TP của chúng một lượng lớn, còn nếu không, giảm P.ATK và M.ATK của chúng một lượng vừa phải.
-r:"^範囲内の敵に(\d+)の魔法ダメージ敵が誘惑状態の時、敵単体のＴＰを(\d+)失わせる敵が誘惑状態でない時、範囲内の敵の物理攻撃力を(\d+)ダウン$"=Thời gian niệm chú: 1.66s\n►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n\nNếu kẻ địch trong phạm vi bị Thôi miên:\n►Giảm TP của kẻ địch bằng $2.\n►Giảm P.ATK của kẻ địch bằng $3.
-## 260lvl
-r:"^範囲内の敵に(\d+)の魔法ダメージ敵が誘惑状態の時、敵単体のＴＰを(\d+)失わせる敵が誘惑状態でない時、範囲内の敵の物理攻撃力を(\d+)ダウン敵が誘惑状態でない時、範囲内の敵の魔法攻撃力を(\d+)ダウン$"=Thời gian niệm chú: 1.66s\n►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n\nNếu kẻ địch trong phạm vi bị Thôi miên:\n►Giảm TP của kẻ địch bằng $2.\n►Giảm P.ATK của kẻ địch bằng $3.\n►Giảm M.ATK của kẻ địch bằng $4.
+前から２番目の敵を中心とした範囲内の敵に魔法中ダメージを与える。対象が誘惑状態の場合、その敵のＴＰを特大ダウンさせ、そうでない場合、物理・魔法攻撃力を中ダウンさせる。=Gây sát thương phép trung bình cho kẻ địch trong phạm vi tập trung vào kẻ địch thứ hai từ phía trước. Nếu mục tiêu đang trong trạng thái quyến rũ, làm giảm cực đại TP của kẻ địch đó; nếu không, làm giảm vừa tấn công vật lý và tấn công phép của họ.
+r:"^範囲内の敵に(\d+)の魔法ダメージ敵が誘惑状態の場合、対象の敵のＴＰを560失わせる敵が誘惑状態でない場合、対象の敵の物理・魔法攻撃力を(\d+)ダウン$"=Thời gian triển khai: 1.66s.\n►Gây $1 sát thương phép cho các kẻ địch trong phạm vi 100.\n\nNếu kẻ địch đang trong trạng thái Hỗn loạn hoặc Quyến rũ:\n►Hút 560 TP từ kẻ địch mục tiêu.\n\nNếu kẻ địch không trong trạng thái Quyến rũ:\n►Giảm tấn công vật lý và tấn công phép của kẻ địch mục tiêu đi $3 trong 12 giây.
 
 ##UE##
 グラマーウィップ=Vũi Quyến Rũ
+
+
+
+
+
+##S1++##
+テイルウィップ++=Vũi Đuôi++
+前から２番目の敵を中心とした範囲内の敵に魔法中ダメージを与える。対象が誘惑状態の場合、その敵のＴＰを特大ダウンさせ、そうでない場合、物理・魔法攻撃力を大ダウンさせ、誘惑状態にする。初回発動後、敵から攻撃を受けるたびに、その敵のＴＰを中ダウンさせ、自分のＴＰを中回復する状態になる。=Gây sát thương phép trung bình cho kẻ địch trong phạm vi tập trung vào kẻ địch thứ hai từ phía trước. Nếu mục tiêu đang trong trạng thái quyến rũ, làm giảm cực đại TP của kẻ địch đó; nếu không, làm giảm lớn tấn công vật lý và tấn công phép đồng thời áp dụng trạng thái quyến rũ. Sau lần kích hoạt đầu tiên, chuyển sang trạng thái mà mỗi khi bản thân bị kẻ địch tấn công, làm giảm vừa TP của kẻ địch đó và hồi phục vừa TP cho bản thân.
+
+r:"^初回発動後、自分を攻撃した敵のＴＰを(\d+)失わせ、自分のＴＰを200回復範囲内の敵に(\d+)の魔法ダメージ敵が誘惑状態の場合、対象の敵のＴＰを(\d+)失わせる敵が誘惑状態でない場合、以下の効果が発動する対象の敵の物理・魔法攻撃力を(\d+)ダウン対象の敵を誘惑する$"=Thời gian triển khai: 1.66s.\n►Sau lần kích hoạt đầu tiên, kẻ địch tấn công bản thân sẽ mất $1 TP và bản thân hồi phục 200 TP.\n►Gây $2 sát thương phép cho các kẻ địch trong phạm vi 100.\n\nNếu kẻ địch đang trong trạng thái Quyến rũ:\n►Hút $3 TP từ kẻ địch mục tiêu.\n\nNếu kẻ địch không trong trạng thái Quyến rũ:\n►Giảm tấn công vật lý và tấn công phép của kẻ địch mục tiêu đi $4 trong 12 giây.\n►Quyến rũ kẻ địch mục tiêu trong 5 giây.

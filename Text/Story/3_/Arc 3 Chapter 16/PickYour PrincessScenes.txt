@@ -869,3 +869,1025 @@ Chapter Names
 いこう、タマキ！=Tiến lên nào, Tamaki!
 ただいまを言うまで気は抜かないにゃ！\n{playername}、最後の一撃、合わせてにゃ！=Tôi sẽ không lơ lơi cảnh giác cho đến khi chúng ta nói câu "Chúng tôi đã về nhà" đâu đấy!\n{playername}, tung đòn quyết định cùng tôi nào!
 覚悟するにゃ、悪党！\nファントムキャッツが、お前を懲らしめてやるにゃ～！！\nねこねこファイナルブレイクーーっ！！=Hãy chuẩn bị tinh thần đi, tên ác nhân kia!\nPhantom Cats này sẽ trừng trị ngươi cho một trận──!!\nNeko Neko Final Break────っ!!
+
+はっ？　いや、ええっ？\nア、アタシかいっ！？\n間違えちゃいないだろうね？=Hả? Không... Hả chứ?! T-Tôi á hả?! Cậu không nhầm lẫn gì đấy chứ?
+……なあ、お前さん。よく考え直しな。\nアタシは日陰者だよ。\n女らしさもないし、一緒にいて幸せになれるかも怪しいもんさ。=...Này, {playername}. Cậu nên suy nghĩ lại cho kỹ đi. Tôi là kẻ sống trong bóng tối cơ mà.\nVẻ nữ tính cũng chẳng có, và ở bên tôi có khi còn chẳng mang lại hạnh phúc cho nổi đâu.
+お前さんにゃ、他にふさわしい子がたくさんいるだろ？\nアタシみたいな根無し草じゃなくってさ。=Xung quanh cậu có khối cô bé phù hợp hơn cơ mà? Chứ đâu phải một kẻ trôi dạt vô định như tôi.
+なっ……！？\nそんなにアタシがいいってのかい！？\nアタシはお前さんのことを思って……=Cái gì...?! Cậu thực sự thích tôi đến thế cơ à?! Tôi chỉ nghĩ cho cậu thôi mà...
+……いや、お前さんはそういうやつか。\nそこまで決意が固いなら……アタシも覚悟を決めないといけないね。\nいいかい、一度しか言わないからよくお聞きよ。=...Không. Cậu đúng là cái kiểu người đó nhỉ.\nNếu quyết tâm của cậu đã cứng cỏi đến vậy... thì tôi cũng phải chuẩn bị tinh thần thôi.\nNghe cho rõ đây, tôi chỉ nói một lần duy nhất này thôi đấy.
+大好きだよ、{playername}。ずっと恋してたんだ。\n……面と向かって改めて言葉にするのは、ちょいと気恥ずかしいけどね。=Tớ yêu cậu, {playername}. Tớ đã vẫn luôn yêu cậu đấy.\n...Đường đường chính chính nói ra thành lời thế này, ngượng chết đi được.
+だから、お前さんがアタシを選ぶって言うなら──\nアタシは大切なお前さんのために刀を振るうとするよ。=Thế nên, nếu cậu đã bảo rằng chọn tôi──\nThì tôi sẽ vung kiếm vì sự an nguy của người quan trọng nhất đời mình.
+それが真のサムライだからね！=Vì đó mới chính là một samurai chân chính mà!
+……後になって離してくれなんて言われても、聞かないよ。\nアタシはこれからも、ずっとお前さんのすぐ側にいる。\nだからこれから先も、末永くよろしく頼むよ。=...Và sau này dù cậu có bảo tôi buông tay thì tôi cũng chẳng thèm nghe đâu.\nTôi sẽ mãi ở ngay bên cạnh cậu từ bây giờ và mãi về sau.\nThế nên... từ nay về sau, hãy cứ chong chóng gắn bó với nhau dài lâu nhé.
+
+間違えてないよ。=Không nhầm đâu.
+それでも一緒がいい。=Dù vậy, tớ vẫn muốn ở bên cậu.
+
+いこう、ルカ！=Đi thôi, Ruka!
+黄昏時の住人でも、明けない夜がないことぐらい知ってるさ！\nさあ、朝日のように眩しい未来まで、\nアタシの刀が切り開くよ！=Kẻ sống chốn hoàng hôn như tôi cũng thừa biết rằng chẳng có đêm nào là không sáng lên cả!\nNào, cho đến tận tương lai rực rỡ tựa ánh ban mai,\nThanh gươm của tôi sẽ mở lối rạch tan tất cả!
+これで終わりさ！\n──縁の太刀・龍吟虎嘯の絆！=Đến đây là hết rồi!\n──Đường kiếm duyên phận: Long ngâm hổ tiếu chi kiên!
+
+……私を、ね。\nふふっ、予想外の選択をするのは君の十八番だもの。\n今さら驚いたりしないわ。=...Chọn tôi cơ à...\nFufu, đưa ra những lựa chọn bất ngờ vốn là sở trường của cậu mà.\nGiờ thì tôi chẳng còn thấy ngạc nhiên nữa đâu.
+……なんて。ごめんなさい、嘘。\nかなり動揺してる。心拍数も上がってるわ。\n[rub:ワンアイドデビル]隻眼の悪魔[/rub]の名折れね。=...Đùa đấy. Xin lỗi, tớ nói dối đấy.\nTớ đang bấn loạn lắm đây. Nhịp tim cũng tăng vọt rồi này.\nThật là hổ thẹn với cái danh [rub:One-Eyed Devil]Bác sĩ ngầm[/rub] mà.
+私、君にはずいぶん好き勝手してきたわよね。\n実験台にして、助手にして、仮眠の枕にまでして。\nなのに君、嫌な顔一つしなかったわね。面白い子だと思ったわ。=Tớ đã làm đủ điều tùy hứng với cậu nhỉ?\nBiến cậu thành vật thí nghiệm, làm trợ lý, và thậm chí làm gối ngủ trưa nữa.\nThế mà cậu chẳng hề tỏ ra khó chịu chút nào. Tớ đã nghĩ cậu là một đứa nhóc thú vị đấy.
+そのうち、君の前でだけ、冷静でいられなくなったの。\nあれが危険な初期症状だったことくらい、分かってたわ。\n……大人として、身を引くべきだってことも。=Chẳng biết từ lúc nào, chỉ cần ở trước mặt cậu là tớ không thể giữ nổi bình tĩnh nữa.\nTớ thừa biết đó là một triệu chứng ban đầu đầy nguy hiểm.\n...Và rằng với tư cách là một người lớn, tớ nên rút lui.
+これ以上、君といたらいけないって、何度考えても同じ結論が出て。\nだけど、助手であることを言い訳にして、君を手放せなかった。\n合理的な決断ができないなんて、科学者失格よ。=Dù có nghĩ bao nhiêu lần đi nữa thì kết quả vẫn luôn giống nhau: Tớ không được ở bên cậu nữa.\nThế nhưng, lấy cái cớ cậu là trợ lý, tớ đã không thể buông tay cậu ra.\nKhông thể đưa ra một quyết định lý trí... tớ đúng là một nhà khoa học tồi.
+「いい先生」なんて……闇医者が、一番言われたくない言葉よ。\nでも、君が言ってくれるなら──悪くないわ。=«Giáo viên tốt» hay «Bác sĩ tốt» gì chứ... Đó là từ mà một bác sĩ ngầm ít muốn nghe nhất đấy.\nNhưng mà, nếu là cậu nói── thì cũng không tệ đâu.
+闇医者だからとか、年齢だとか、打算だとか、山ほど言い訳したのに\n君の前では、とっくに意味なんてなかったのね。=Dù tớ đã viện ra vô số lý do như vì mình là bác sĩ ngầm, vì tuổi tác, vì sự tính toán...\nThì trước mặt cậu, mấy thứ đó từ lâu đã chẳng còn ý nghĩa gì nữa rồi.
+……熱は……平熱、より少しだけ高い。発汗も認められる。\n私と、一緒ね。\n君も本気で言ってくれてる……そう信じるわ。なら──=...Nhiệt độ cơ thể... cao hơn bình thường một chút. Lại còn đổ mồ hôi nữa chứ.\nGiống y như tớ vậy.\nTớ sẽ tin rằng cậu cũng đang nói thật... bằng cả tấm lòng. Nếu vậy thì──
+私を選んだ以上、覚悟はできてるんでしょうね？\n闇医者の助手は、一生解雇されないわよ。\n君という万能薬が、私には必要なの。=Đã chọn tớ rồi thì chắc là cậu cũng chuẩn bị tinh thần sẵn sàng rồi nhỉ?\nTrợ lý của bác sĩ ngầm thì sẽ không bao giờ bị sa thải đâu nhé.\nTớ cần cậu, liều thuốc vạn năng của tớ.
+……ふふっ。合格よ。\nこれから先も、たっぷり実験に付き合ってもらうから。\n……大丈夫、痛いことはしないわ。多分ね♪=...Fufu. Đạt yêu cầu.\nTừ nay về sau, cậu sẽ còn phải tham gia vào vô số thí nghiệm của tớ đấy nhé.\n...Không sao đâu, tớ không làm gì đau đớn đâu. Chắc là thế♪
+
+ミツキさんは、いい先生だよ。=Mitsuki-san là một bác sĩ rất tuyệt.
+ずっと、助手でいさせてください。=Xin hãy để em được làm trợ lý của chị mãi mãi.
+
+いこう、ミツキさん！=Đi thôi, Mitsuki-san!
+えぇ、いきましょう！\n二人の力で、輝く明日を掴み取るのよ！=Ừm, đi thôi!\nBằng sức mạnh của cả hai, chúng ta sẽ nắm lấy một ngày mai rực rỡ!
+私たちの想い、未来の可能性……咲き誇って！\n奇跡の証──ブルーミングローズ！！=Tình cảm của chúng ta, tiềm năng của tương lai... Hãy nở rộ thật rực rỡ!\nMinh chứng của điều kỳ diệu──BLOOMING ROSE!!
+
+あぁ、{playername}様……\nようやく確かな言葉で、その意志を示してくださいましたね。\n絆を深め、永遠を共に歩む伴侶として、この私を選ぶと……=A, {playername} thân yêu của em……\nCuối cùng thì chàng cũng dùng những lời lẽ chắc chắn để bày tỏ ý chí ấy rồi nhỉ.\nRằng chàng đã chọn em, người bạn đồng hành cùng sâu đậm mối lương duyên và bước đi đến vĩnh hằng……
+当然私たちは結ばれる運命です……それでも……ええ、それでも……！\nあなた様の愛を受け取ることができた、この喜びは何にも代えがたく……\nクスクスクスクス、クースクスクスクスクス！！=Đương nhiên chúng ta vốn dĩ là định mệnh của nhau rồi…… thế mà…… vâng, dẫu vậy chứ……!\nĐược đón nhận tình yêu của chàng, niềm hạnh phúc này chẳng gì có thể sánh bằng……\nKus kus kus kus, kuuuus kus kus kus kus!!
+落ち着いていますとも。ですが……\nいずれ訪れる運命とはいえ、あなた様の愛を待ち望む私の想いは、\n私の中で思っていた以上に膨れ上がっていたのかもしれませんわ……=Em vẫn đang rất bình tĩnh mà. Thế nhưng……\nDù biết đó là định mệnh thế nào cũng sẽ đến, nhưng tâm tư mong chờ tình yêu của chàng trong em, có lẽ đã bùng nổ vượt quá những gì em từng nghĩ……
+何せ私たちの歩みは、様々な障害に何度も阻まれてきましたから。\n……そういえば今も、そのような輩がのさばっていたのでした。\nあれを片付けねば、私たちに明るい未来は訪れない、と……=Bởi vì con đường chúng ta đi đã từng bị muôn vàn chướng ngại cản trở hết lần này đến lần khác cơ mà.\n……Nhắc mới nhớ, ngay lúc này vẫn còn có những kẻ ngứa mắt như thế đang lộng hành.\nNếu không dọn dẹp chúng đi, thì một tương lai tươi sáng sẽ chẳng thể ghé đến với chúng ta đâu, nhỉ……
+ですが今となっては、恐るるに足りませんわ。\n{playername}様の愛を受けた以上、私が後れを取る可能性など\n億に一つもあり得ませんもの……クスクスクス。=Nhưng đến bây giờ thì, chẳng có gì phải sợ hãi cả.\nMột khi đã nhận được tình yêu của {playername}, thì khả năng em phải chịu thua kém...\nchỉ một phần trăm triệu cũng chẳng thể xảy ra đâu…… Kus kus kus.
+っ……！！　あぁっ、{playername}様っ……♪\nあなた様の愛が、全身に行き渡っていくのを感じます……！\n今の言葉、すべてが終わった後にもう一度お願いします。=Á……!! A a, {playername} ơi……♪\nEm cảm nhận được tình yêu của chàng đang lan tỏa khắp toàn thân……!\nLời nói vừa rồi, xin hãy nói lại cho em nghe một lần nữa sau khi mọi chuyện kết thúc nhé.
+さあ、こうなればもう、一刻の猶予も与えません……\nあの忌々しい竜女に、そして世界の全てに、\n私たちの愛の絆を見せつけるのです！　クースクスクスクスクス！！=Nào, đến mức này thì ta sẽ không cho chúng một phút giây chần chừ nào nữa……\nTa sẽ cho con ả long nữ đáng ghét kia, và cả thế giới này biết được...\nmối lương duyên tình yêu của chúng ta! Kuuuus kus kus kus kus!!!
+
+エリコ、落ち着いて……=Eriko, bình tĩnh nào……
+僕も全力で戦うよ。=Anh cũng sẽ chiến đấu bằng toàn lực.
+大好きなエリコのために。=Vì Eriko mà anh yêu nhất.
+
+いこう、エリコ！=Đi thôi, Eriko!
+はい、{playername}様……♪\n私はいかなる時も、あなた様と共に……！=Vâng, {playername} thân yêu……♪\nBất cứ lúc nào, em cũng sẽ luôn ở bên chàng……!
+誓い、そして示しましょう……私たちの永遠の愛を！\nエターナルマリッジエグゼキューション！=Hãy cùng thề nguyện, và cho chúng thấy đi…… tình yêu vĩnh hằng của chúng ta!\nEternal Marriage... EXECUTION!!
+
+……なるほど？\nここでナナカちゃん推しとか、\nふーん、おもしれー男じゃん。=...Thế à? Chỗ này mà lại chọn đẩy thuyền Nanaka-chan à,\nHừm... đúng là một anh chàng thú vị thật đấy.
+いや、なんかネタで返しちゃってごめん。\nその……君の雰囲気でいろいろ察して、覚悟は決めてたはずなのに……\nいざ面と向かって言われると、めちゃくちゃ動揺しちゃってさ。=Không, xin lỗi vì tớ cứ hay giỡn cợt qua loa nhé.\nChỉ là... tớ vốn tưởng qua thái độ của cậu, tớ đã phần nào đoán được và chuẩn bị tinh thần rồi cơ chứ...\nĐến lúc bị nói thẳng vào mặt thế này, tớ lại hoảng loạn tột độ mất thôi.
+そりゃ私も一端のオタクとして？\n「二人の絆が世界を救うと信じて……！」みたいなお話も、\n今まで数えきれないくらい摂取してきたわけですよ。=Thì dẫu sao tớ cũng là một otaku chính hiệu mà?\nNhững câu chuyện kiểu như «Tin tưởng vào sợi dây liên kết giữa hai người để cứu lấy thế giới...!» ấy,\ntớ cũng đã đọc và xem không biết bao nhiêu lần rồi.
+でもまさか、自分がそんなセカイ系の当事者になるとは思わなくて……！\n私の中のオタソウルが、「本当に私がここにいていいんですか？」って\nガチビビりしながら必死に訴えてるんだよ！=Nhưng mà đời nào ngờ, có ngày chính mình lại trở thành nhân vật chính trong một cốt truyện kiểu «Sekai-kei» thế này chứ...!\nCái linh hồn otaku sâu thẳm trong tớ đang sợ quắn quéo cả lên, và liên tục gào thét rằng: «Liệu tớ có thực sự được phép đứng ở đây không thế hả?!»
+あーやばい、ドキがムネムネして全然収まらない！\nいったん深呼吸して落ち着こ。ひっひっふーひっひっふー=Á tệ rồi, tim đập thình thịch loạn nhịp không tài nào kìm lại được đây này!\nPhải hít thở sâu để bình tĩnh lại cái đã. H h h hụt... h h h hụt...
+ふー……うん、でも、まぁ……\n{playername}君の真剣な気持ちは、ちゃんと伝わってきたよ。\nてか、今だけじゃなくて……いつだって、君は真剣だったっけ。=Phù... Ừm, nhưng mà, thôi nào...\nTâm tư nghiêm túc của cậu, {playername}-kun, tớ đã cảm nhận được trọn vẹn rồi.\nMà ngẫm lại thì, không phải chỉ mỗi lúc này đâu... lúc nào cậu cũng luôn nghiêm túc như thế cả, nhỉ.
+一緒に遊んで、冒険して、イベント参加して、オタトークして……\n私の『好き』に寄り添って、同じくらい一生懸命になってくれるとこ、\n今までもたくさん見てきたんだよね……=Cùng nhau chơi game, phiêu lưu, tham gia sự kiện, rồi tám chuyện về otaku...\nNhững khoảnh khắc cậu luôn dõi theo những điều tớ thích, và đặt trọn vẹn tâm huyết vào đó chẳng kém gì tớ,\ntớ đã chứng kiến rất nhiều lần rồi đấy...
+……よし、決めた。ナナカちゃん、覚悟完了。\n私も真剣な気持ち、ちゃんと言うよ。つーか、言わせて。=...Được rồi, quyết định thế đi. Nanaka-chan đã sẵn sàng tinh thần rồi đây.\nTớ cũng sẽ nói ra cảm xúc thật của mình một cách nghiêm túc. Hay nói đúng hơn là... hãy để tớ nói nhé.
+私も……同じ気持ちだよ。\n君と、相方として一緒に戦いたい。\n大好きなこの世界を、私たちの力で守りたい……=Tớ cũng... có chung cảm xúc ấy.\nTớ muốn được cùng cậu chiến đấu sát cánh bên nhau như một người bạn đồng hành thực thụ.\nTớ muốn dùng chính sức mạnh của chúng ta để bảo vệ thế giới mà chúng ta yêu quý này...
+うん、私からもありがとう……なんて、\nお礼を言うのは全部が片付いてから、だよね。\nそれじゃ行こうか、{playername}君っ。=Ừm, tớ cũng muốn gửi lời cảm ơn đến cậu... à mà thôi,\nđể dành lời cảm ơn đó khi mọi chuyện đã giải quyết xong xuôi hết đi nhỉ.\nGiờ thì đi thôi nào, {playername}-kun!
+絶望なんて、私たちの力で全部ひっくり返して\n二人の力で叶えようよ、最高のハッピーエンドを！=Mấy cái thứ tuyệt vọng đó, chúng ta sẽ dùng sức mạnh của mình để lật ngược tất cả,\nrồi cùng nhau hiện thực hóa một kết cục có hậu tuyệt vời nhất nhé!
+
+ありがとう、ナナカ。=Cảm ơn cậu nhé, Nanaka.
+
+いこう、ナナカ！=Đi thôi, Nanaka!
+オッケー、こっちも準備万端！\n見せつけちゃおうね、二人のコンビネーション！=Được thôi, bên này cũng đã chuẩn bị sẵn sàng rồi đây!\nCho họ thấy sự phối hợp ăn ý đỉnh cao của đôi ta nào!
+これが私たちの究極魔法！\nナナカ＆ユー・[rub:インフィニット]　∞　[/rub]・フューチャー！！=Đây chính là ma pháp tối thượng của chúng ta!\nNANAKA & YOU [rub:INFINITE]∞[/rub] FUTURE!!!
+
+っ……！　シグルド、その言葉は……\n確かな意思と受け取ってもいいのか？\nこの疾風の冥姫と、永遠の契りを交わすに等しいものと……=...! Sigurd, những lời đó... ta có thể xem đó là ý chí kiên định của ngươi không? Rằng điều đó cũng tương đương với việc thề ước vĩnh hằng cùng Minh cơ của gió lốc đây...
+だが私は、輪廻の鎖に囚われし暗黒騎士……\n共に歩むならば、貴様もまた過酷な運命を背負うことに──=Nhưng ta lại là một Hắc kỵ sĩ bị trói buộc bởi xiềng xích luân hồi... Nếu ngươi muốn cùng bước đi trên con đường này, thì ngươi cũng sẽ phải gánh chịu một số mệnh khắc nghiệt──
+そうか……思えばシグルドは、すでに私の言葉を……\n愛の告白にも等しい叫びを、受け入れてくれていたのだったな。\nその覚悟を改めて問うなど、無用であったか。=Ra là vậy... Nghĩ lại thì Sigurd, ngươi từ sớm đã chấp nhận lời của ta... Tiếng gào thét chẳng khác nào một lời tỏ tình ấy. Việc phải hỏi lại quyết tâm đó của ngươi một lần nữa, hóa ra lại là điều thừa thãi sao.
+私たちは魂の伴侶……\nこうして誓いを交わすことも、必然の運命だったといえよう。\nだがそれでも、伝えさせてほしい。ありがとう、と……=Chúng ta là tri kỷ của nhau... Việc trao nhau lời thề này có thể xem là định mệnh tất yếu. Thế nhưng, dẫu vậy, xin hãy để ta được nói điều này. Cảm ơn ngươi...
+永く別たれていた半身を、ようやく取り戻せた……そんな想いだ。\n私たちはもう、二度と離れない。\n永遠の日々を、共に過ごすと約束しよう……=Cảm giác như... ta cuối cùng cũng tìm lại được nửa kia của linh hồn vốn đã bị chia cắt từ lâu... Chúng ta sẽ không bao giờ phải rời xa nhau nữa. Hãy hứa rằng chúng ta sẽ cùng nhau trải qua những ngày tháng vĩnh hằng nhé...
+……ん？\nあぁ、そうだな。次は……=...Hửm?\nÀ, đúng rồi. Tiếp theo là...
+……えっ、あれっ？　つ、次って……何をどうすればいいんだ？\n熱い抱擁を交わすとか、誓いの口づけ、とか……？\nそれともまさか、それ以上の……？=...Eh, hửm? Kho... Khoan đã, tiếp theo là... mình phải làm gì và thế nào đây? Trao nhau một cái ôm nồng cháy hay nụ hôn thề ước...?\nHay là, chẳng lẽ còn hơn thế nữa...?!
+いや、し、しかし……心の準備がっ！\nまずいぞ、冥風戦記でもそこまでの記述はないし、\n想定もしていなかった……！　ど、どどどどうすれば……=Khô... Không, nhưng mà... mình chưa chuẩn bị tâm lý cho việc này! Nguy to rồi, trong «Minh Phong Chiến Ký» cũng không có miêu tả nào xa đến thế, và ta chưa từng nghĩ tới khả năng này...!\nPhải, phải, phải làm sao đây...?!
+あっ……そ、そうだなっ！！\n仇敵、幻境竜后……奴を滅ぼさねば、この世界に明日はない！\n浮かれすぎて一瞬忘れてたとかそんなことは一切合切あり得ないぞ！！=Á... Đ... Đúng rồi đấy!!\nKẻ thù không đội trời chung, Huyễn Cảnh Long Hậu... Nếu không tiêu diệt ả ta, thế giới này sẽ chẳng có ngày mai!\nChuyện ta vì quá cao hứng mà quên mất dù chỉ một khoảnh khắc là tuyệt đối không bao giờ có chuyện đó đâu nhé!!
+行くぞ、閃光のシグルド！\n冥風戦記に、新たな歴史を刻もうではないか！\n私の心には、もはや一片の迷いもない！　はーっはっはっは！！！=Đi thôi, Thiểm quang chi Sigurd!\nHãy cùng khắc ghi một trang lịch sử mới vào «Minh Phong Chiến Ký» nào!\nTrong tim ta giờ đây không còn chút mảy may vướng bận nào nữa! Haa ha ha ha ha!!!
+
+我が魂は永遠に、其方と共に。=Linh hồn ta sẽ mãi mãi ở bên ngươi suốt đời suốt kiếp.
+それじゃあ、次は……=Vậy thì, tiếp theo...
+最後の戦いの準備をしよう。=Hãy chuẩn bị cho trận chiến cuối cùng thôi.
+
+いこう、アンナちゃん！=Đi thôi, Anna-chan!
+うむ、征くぞシグルド！\nこれが真なる滅びの輝き……\nそして、新たな未来を創造する究極の力だ！=Ừm, xuất phát thôi Sigurd!\nĐây chính là ánh quang huy hủy diệt chân chính...\nVà là sức mạnh tối thượng để tạo dựng nên một tương lai mới!
+魔瞳・極限完全解放──\n《覇道開闢》熾天崩界獄炎魔導疾風閃光冥壊破！！！=Ma đồng - Cực hạn hoàn toàn giải phóng──\n«Bá đạo khai tịch» Sí thiên băng giới ngục viêm ma đạo tật phong thiểm quang minh hoại phá!!!
+
+{playername}君……本当？\nせんせーのこと……選んでくれるの……？={playername}-kun... Thật sao? Cậu... chọn cô sao...?
+ふふっ……うふふっ♪\n先生、とっても……とってもうれしいわ。\n{playername}君。=Fufu... Ufufu♪ Cô vui lắm... vui lắm luôn ấy, {playername}-kun.
+少女漫画や小説で、何回も読んだの、こんなシーン。\nずっとあこがれてたの。\n今も、まだ夢なんじゃないかって思ってるけど、本当のことなのよね。=Cô đã đọc những cảnh thế này biết bao nhiêu lần trong truyện tranh shojo hay tiểu thuyết rồi. Cậu ấy vẫn luôn hằng ao ước. Dù bây giờ, cô vẫn nghĩ đây chỉ là một giấc mơ thôi, nhưng sự thật là thế phải không nào.
+先生も、ううん。私も。\n君がいいわ……♪\nあなたの気持ちに、応えます。=Cô cũng vậy, à không. Tớ cũng thế. Tớ chọn cậu đấy...♪ Tớ sẽ đáp lại tình cảm của cậu.
+私、君のこと──大好きよ。=Tớ... rất thích cậu.
+や、やだ、照れて……体中が熱くなってきちゃう……っ。\nきっと私、真っ赤な顔してるわよね。\nほら、触ってみて？　鼓動がこんなに大きく……=Á, ngại quá, cứ ngượng ngùng thế này... khiến cả người tớ nóng bừng lên mất thôi... Chắc là mặt tớ đang đỏ bừng hết cả lên rồi nhỉ. Này, thử chạm vào xem? Tim đập nhanh và mạnh thế này cơ mà...
+それもこれも全部、{playername}君のせい、なんだから。\nちゃんと、責任取ってちょうだいね♪=Tất cả những chuyện này, tất cả đều là tại {playername}-kun đấy nhé. Phải chịu trách nhiệm đàng hoàng với cô đấy, biết chưa♪
+
+いこう、イオちゃん！=Đi nào, Io-chan!
+大変な戦いだったけど、とってもとっても、よく頑張りました♪\nこの授業の仕上げね！=Đó là một trận chiến vất vả, nhưng em đã cố gắng rất rất nhiều rồi đấy♪ Đây chính là bài kiểm tra kết thúc môn học nhé!
+二人の愛の力を、ここに──っ……\nハートラブストーム！！=Xin hãy chứng kiến sức mạnh tình yêu của đôi ta ở đây nào──...\nHEART LOVE STORM!!!
+
+えっ、やばばば！\n{playername}、うちでいいの！？\nこれガチなやつだよね？=Ể, ái chà chà! {playername}, cậu chọn tớ thật hả...?! Chuyện này là thật 100% đúng không hả?!
+そっか……ガチなんだ。\n腕つねると、ちゃんと痛いし……ガチじゃん。\nサイコーにハッピーなんだけど。=Hả... Thật luôn kìa.\nTớ tự véo tay mình, thấy đau thật này... Đúng là thật rồi còn gì.\nPhê chữ Y, sướng điên người luôn á.
+……ヤバ、なんか涙出てきちゃった……\nあはは……うれしくて泣いちゃうなんて、うち初めてだよ。\nうれし過ぎて、わけわかんなくなっちゃったのかな。=...Tiêu rồi, tự dưng nước mắt cứ chực trào ra thế này...\nAhaha... Đây là lần đầu tiên tớ khóc vì vui mừng đấy.\nVui quá hóa rồ mất tiêu rồi hay sao ấy nhở.
+うん、大丈夫……ヒデサイは優しいよね。\n今も寄りそってくれるし、苦手なベンキョーも付き合ってくれるし。=Ừ, tớ ổn mà... Cậu dịu dàng thật đấy, Whizboy.\nLúc nào cũng ở bên cạnh tớ, lại còn chịu khó kèm cặp tớ học hành dốt đặc cán mai này nữa.
+……うちは、ヒデサイのそーゆうトコ好きだよ。=...Tớ thích cái tính này của cậu lắm đấy, Whizboy.
+ううん、めっちゃ好き。めちゃめちゃ大好き。\nもっと言うと、ヒデサイの全部が好きっ……！=Không, phải là siêu thích luôn. Yêu cực kỳ, yêu lắm ấy.\nNói thật là tớ thích tất tần tật mọi thứ về cậu luôn đấy, Whizboy...!
+って、ヤバ……思ってるコト全部言っちゃった。\n……このチョーシでもっと言っちゃう！\nねね、ヒデサイ、聞いて。=Hây dà, hỏng bét... Lỡ phun ra hết sạch trong đầu luôn rồi.\n...Nhưng mà đà này thì nói luôn cho dứt! Này nhé, Whizboy, nghe cho kỹ nha.
+うちね、たまに考えるんだ。\nもし人生がランウェイだったら、ヒデサイには観客席じゃなくて、\nうちの隣で一緒に歩いていてほしいなーって。=Tớ hay nghĩ vẩn vơ thế này lắm.\nNếu cuộc đời là một sàn diễn runway, thì tớ không muốn cậu ngồi ở dưới khán đài đâu,\nmà muốn cậu bước đi ngay bên cạnh tớ cơ.
+そしたら、サイキョーにハッピーで。\n毎日が宝物で、特別になるっしょ？\nえへへ、こんなふうに思うの、ヒデサイ限定だよ？=Có thế thì mới là đỉnh chóp của hạnh phúc chứ lị.\nNgày nào cũng sẽ biến thành báu vật và trở nên đặc biệt hết, đúng không nào?\nEhehee, mà chỉ có mỗi mình Whizboy mới khiến tớ nghĩ thế này thôi đấy nhé?
+……って、うちの話わかる？\nええっと、つまり……=...Mà này, cậu có hiểu tớ đang nói gì không đấy?\nỪm thì, ý tớ là...
+ほんと！？　さっすがヒデサイ♪\nやっぱ、うちらフィーリングばっちりじゃん！=Thật á?! Chuẩn không cần chỉnh luôn, đúng là Whizboy có khác♪\nQuả nhiên sóng điện tâm hồn của tụi mình là hợp cạ hết sảy luôn gớm!
+じゃあ、これからもずっとずっとよろしくね♪\n一緒にラブラブなランウェイ……の前に、\n勝利のランウェイ、行っちゃおー！=Thế thì từ nay về sau cứ dính lấy nhau suốt đời suốt kiếp nha♪\nCùng nhau bước trên sàn runway ngọt ngào... ơ mà trước đấy,\nphải ra sàn runway chiến thắng cái đã nào!
+
+うん、ガチなやつだよ。=Ừ, là thật 100% đấy.
+スズナ、大丈夫……？=Suzuna, cậu ổn chứ...?
+大丈夫、分かるよ。僕も隣で歩きたい。=Không sao đâu, tớ hiểu mà. Tớ cũng muốn được bước đi bên cạnh cậu.
+
+いこう、スズナ！=Đi thôi, Suzuna!
+うん！　これでフィニッシュ！\n一緒にいくよ、{playername}──=Ứm! Lên đỉnh điểm luôn nè!\nCùng đi với tớ nhé, {playername}──
+うちと{playername}の！\nメロメロ・ハートブレイク！=Của tớ và {playername} đây!\nHEAD-OVER-HEELS HEARTBREAK!!!
+
+──え？\n今なんて言ったの！？=...Hả?\nVừa nãy cậu nói gì cơ hả...?!
+……\n……\n……ほんとに、アタシなの？=...Ừm...\n...\n...Thật sự... là chọn tớ sao?
+フ、フフンッ……！\nたしかにアタシは、大人のレディだし？=H, Hư hừm...!\nDẫu gì thì tớ cũng là một quý cô trưởng thành cơ mà!
+アンタ、\nアタシにずっとメロメロだったし？=Với lại cậu cũng đã mê mẩn tớ từ đời thủa nào rồi còn gì, đúng hông?
+だから──……=Thế nên──...
+──……夢じゃないんだ。=...Đây không phải là mơ.
+アタシ、もっともーっと\nオシャレでエレガントな大人のレディになるわ！=Tớ sẽ trở thành một quý cô trưởng thành vừa sành điệu vừa thanh lịch hơn nữa, hơn nữa cơ!
+そしたら今より\nモテモテになっちゃうけど……=Đến lúc đó thì chắc tớ sẽ còn được săn đón hơn bây giờ nhiều cho xem...
+でも、\nその時はみんなに言ってあげる！=Nhưng mà,\nđến lúc đó tớ sẽ tuyên bố với tất cả mọi người luôn!
+世界一の大人のレディは、\n{playername}にしかエスコートさせないって♪=Rằng quý cô trưởng thành tuyệt vời nhất thế giới này sẽ chỉ để cho mỗi {playername} эscort (hộ tống) thôi đấy nhé♪
+
+いこう、ミサキ！=Đi thôi, Misaki!
+いいわ！　{playername}！\n大人のレディの本気、一番近くで見せてあげるんだから！=Được thôi, {playername}!\nTớ sẽ cho cậu tận mắt chứng kiến sự nghiêm túc của một quý cô trưởng thành ở cự ly gần nhất luôn nhé!
+アタシの魅力の前に、ギャフンと言いなさい！\nラブアンドヴィーナス・アイ！=Trước mị lực của tớ, hãy ngậm tăm chịu thua đi! \nLOVE AND VENUS EYE!!
+
+なっ、なんだと！？\n……今、何か聞き間違いをした……かもしれない……\nあっ、いや！　もう一度言う必要はないぞ！=C, cái gì thế hả?! ...Có khi nào ta vừa nghe nhầm... không cơ chứ... A, không! Không cần phải nói lại lần nữa đâu!
+あまりのことに我が耳を疑ってしまったが、\n貴公の声、私が聞き間違えるはずがないのだ。\nだが……わ……私か？　本当に私でいいのかっ？=Sốc đến mức ta phải hoài nghi cả tai mình, nhưng giọng nói của ngươi thì đời nào ta lại nghe nhầm được chứ. Thế nhưng... l... là ta sao? Thật sự chọn ta thì ổn thật chứ hả?
+……う、疑り深くなるくらいは許せ。\n私にはそのくらい、驚くべき出来事だったのだ。\nだって。それは……いや。=...Đ... Đừng trách vì ta lại đâm ra đa nghi nhé. Với ta thì chuyện này quả thật chấn động đến mức khó tin mà. Bởi vì. Đó là... không.
+……ふふ、うれしいな。\nずっと一緒にいたいと思える者に、ただ一人として選んでもらえるのは。\n願い叶った、夢のような心地だ。=...Fufu, hạnh phúc quá đi mất.\nĐược chọn làm duy nhất bởi người mà ta hằng mong muốn được ở bên suốt đời...\nCảm giác cứ như điều ước đã thành sự thật, tựa như một giấc mơ vậy.
+もはや貴公を我が友と呼ぶのはふさわしくない気がするが、\nかといって相棒も違う気がするな。\nで、では──ここ、恋人っ……とか！　伴侶は……行き過ぎか！？=Có lẽ giờ đây gọi ngươi là "bằng hữu" thì không còn phù hợp nữa rồi, nhưng mà gọi là "cộng sự" thì hình như vẫn chưa đúng lắm nhỉ.\nV-Vậy thì── "n-người yêu"…… chẳng hạn! Hay "bạn đời" thì... có hơi quá đà không hả?!
+私と貴公は、友情も慕情も信頼もすべてひっくるめて\n人生をともにする無二の存在──\n……つまり、運命共同体というわけだ！　飛空艇と提督のようにな！=Ngươi và ta, gom trọn cả tình bạn, tình yêu lẫn sự tín nhiệm vào làm một,\nchính là sự tồn tại độc nhất cùng nhau đồng hành suốt đường đời──\n...Nói ngắn gọn lại, chúng ta chính là một cộng đồng chung số phận! Tựa như khí cầu và vị đô đốc của nó vậy!
+これからはずっと側で、私が貴公を支えよう！\nどうだ、うれしいだろう……？=Từ nay về sau, ta sẽ luôn ở bên cạnh để phò trợ cho ngươi!\nThế nào, hạnh phúc lắm đúng không nào...?
+……こ、こらっ！　そんなまっすぐな目をして頷かれたら\n言ってるこっちが恥ずかしくなってくるだろう！=...N... Này! Nhìn ta gật đầu với ánh mắt thẳng thắn như thế...\nLại thành ra người nói như ta đâm ra ngượng ngùng đấy biết không!
+私だってかなり勇気を出したんだぞ！　だから、その。\n末永く、よろしく頼む！=Ta cũng phải dũng cảm lắm mới thốt lên được đấy nhé! Thế nên là, ừm.\nMong ngươi từ nay về sau hãy cứ chiếu cố nhiều hơn nha!
+さあ、行こう。\n平和な未来へと向けて！\n──全速、前進っ！=Nào, đi thôi.\nHướng tới một tương lai hòa bình!\n──Toàn lực, tiến lên!
+
+いこう、モニカ！=Đi nào, Monika!
+{playername}、合わせてくれ！\n私たちの手で、未来を切り開こう！\n行くぞ！={playername}, hãy theo nhịp của ta!\nBằng chính đôi tay của chúng ta, hãy mở lối tương lai!\nXUẤT PHÁT!
+平和な未来のために！\n──紫電、一閃っ！=Vì một tương lai hòa bình!\n──Tử điện, nhất thiểm!
+
+ふぇ……？\nあ、あの……ショーグン……\n本当に、ワタシでいいのデスか……？=Ể...? Ư... m, Shogun... Ngài chọn em thật đấy chứ ạ...?
+ワタシは、ショーグンの家来デス。\nショーグンの一番近くで、一緒に戦えるなんて\nコーエーここにキワマレリ、デス。=Em vốn chỉ là bề tôi của Shogun thôi mà.\nĐược chiến đấu ngay sát bên cạnh Shogun, đúng là vinh hạnh đỉnh cao của một đời ninja như em mà lỵ.
+でも、でもショーグン！\nワタシ、胸がドキドキして、顔が熱くって、こんな時なのにうれしくって\nシノビ、失格デスよね……？=Nhưng mà... nhưng mà Shogun ơi!\nTim em cứ đập thình thịch, mặt thì nóng bừng lên, dẫu đang lúc thế này mà em lại thấy hạnh phúc quá...\nKiểu này thì em mất chất làm một nhẫn giả mất thôi, phải không ạ...?
+それはっ、そのっ……\nワタシをショーグンのセイシツに迎えてくれる、ということ……=Đó là, ừm thì là...\nÝ ngài là sẽ rước em về phủ làm chính thất của Shogun... có phải vậy không ạ?
+あわわわ……っ、なんというオボシメシ……！\nこのニノン、一番のチューシンとして、セイシツとして\n必ずやショーグンの天下を築いてみせマス！=Á va va va... Ôi trời, thánh ân bao la nhường này...!\nEm đây, Ninon, với tư cách là cận thần trung thành nhất, đồng thời là chính thất của ngài,\nnhất định sẽ phò tá Shogun dựng nên cả thiên hạ cho mà xem!
+そのためなら、目の前のキョーテキも何のその！\n絶対に負けるわけにはいきまセン！=Vì mục tiêu đó, dẫu kẻ thù trước mắt có sừng sỏ thế nào cũng chẳng nhằm nhò gì!\nEm tuyệt đối, tuyệt đối không được phép thua ở đây đâu đấy!
+……ワタシ。ショーグンの家来として、\nずっとおそばにいられるだけで十分だと思ってまシタけど……\n今はもうただの家来では満足できないワタシになっちゃいまシタ♪=...Trước kia em vẫn nghĩ, chỉ cần được ở bên cạnh Shogun với tư cách là một bề tôi... thôi là đã quá đủ rồi.\nNhưng mà giờ thì em đã trở thành một Ninon không thể chỉ thấy thỏa mãn với mỗi chức danh bề tôi nữa rồi đấy♪
+天下統一を果たしたあとも、世界が平和になったあとも、\nその先もずっとずっと……=Dù cho có thống nhất được thiên hạ, hay thế giới có đạt được hòa bình đi chăng nữa,\nthì mãi mãi về sau...
+家来として、セイシツとして、\nショーグンのおそばにいることを誓いマス♪=Dưới cương vị là bề tôi... và là chính thất của ngài,\nem xin thề sẽ mãi mãi ở bên cạnh Shogun♪
+ワタシも、ショーグンのことが、大大大好きデス！=Em cũng yêu Shogun, yêu nhiều, nhiều lắm luôn ấy ạ!
+さあっ、いきまショウ。\nこれはショーグンの天下を守るための戦いデス！=Nào, chúng ta xuất phát thôi.\nĐây chính là trận chiến để bảo vệ thiên hạ của Shogun đấy ạ!
+
+そのままのニノンが、僕は好きだよ。=Anh thích Ninon cứ là chính mình như thế.
+だからずっと一緒に、いてほしい。=Thế nên... anh mong chúng ta sẽ mãi mãi ở bên nhau.
+
+いこう、ニノン！=Đi thôi, Ninon!
+ここで会ったがヒャクネンメ！\n決めましょう、ショーグン！=Gặp nhau ở đây chính là định mệnh trăm năm! \nHãy kết thúc trận này thôi nào, Shogun!
+ワタシとショーグンの絆の技──\nアムール忍法・烈火之紅恋旋風ゥ～！！=Chiêu thức kết tinh từ sợi dây liên kết giữa Shogun và em──\nÁi Tình Nhẫn Pháp - Liệt Hỏa Chi Hồng Luyến Tuyền Phong~!!
+
+へぇ、ボクを選んだってことは、答えが出たんだね。\n『この世で一番美しいのは誰か』という問いに。\nうん、待ちかねたとも。=Hừm? Vậy là bằng việc chọn tớ, cậu đã tìm ra câu trả lời rồi nhỉ.\nCâu trả lời cho câu hỏi: «Ai là người đẹp nhất trên thế gian này?».\nĐúng thế... tớ đã mòn mỏi chờ đợi đấy.
+だけど自信を持っていい。キミの審美眼は間違いなく、\n美しいものを見る力があるということさ。=Nhưng mà cậu cứ tự tin lên đi. Con mắt thẩm mỹ của cậu chắc chắn là có thừa...\nkhả năng nhận diện những thứ đẹp đẽ mà.
+誇りに思っていいよ。\nボクを選んだことをね。=Cậu có quyền tự hào đấy.\nVì đã chọn tớ.
+そして、安心もしてほしい。\nボクを選んだことを、決して後悔させないと約束するから。=Và... tớ muốn cậu cũng hãy yên tâm nữa.\nBởi vì tớ hứa sẽ không bao giờ để cậu phải hối hận vì đã chọn tớ đâu.
+男も女も、老いも若きも、美しいものに惹かれてしまうのは、\nこの世界の真理だよね。\n知っての通り、ボクも美しいものには目がないから理解できるんだよ。=Dù là nam hay nữ, già hay trẻ, việc bị thu hút bởi những thứ đẹp đẽ...\nchính là chân lý của thế giới này mà, đúng không?\nNhư cậu đã biết đấy, tớ cũng cực kỳ mê mẩn cái đẹp nên tớ hoàn toàn hiểu được.
+ボクは美しい。\nそして、キミのそばにいると、ボクはさらに美しいボクになれる。=Tớ rất đẹp.\nVà khi ở bên cạnh cậu, tớ lại càng có thể trở thành một phiên bản tuyệt mỹ hơn nữa của chính mình.
+同じ美意識を持つ者が一緒にいるのは自然なことだし、\nボクたちの関係自体もとても美しいものとして、\nたくさんの人たちの瞳に映るはずさ。=Việc những kẻ có cùng chung gu thẩm mỹ ở bên nhau là điều hiển nhiên,\nvà bản thân mối quan hệ của chúng ta chắc chắn cũng sẽ hiện lên trong mắt rất nhiều người...\nnhư một điều gì đó vô cùng đẹp đẽ.
+キミのことを慕う彼女たちも理解してくれると、ボクは信じているよ。\n究極の美しさというものは、時に理屈も超えてしまうものだから。=Tớ tin rằng những cô nàng ngưỡng mộ cậu cũng sẽ thấu hiểu thôi.\nBởi vì vẻ đẹp tối thượng đôi khi vượt xa cả những đạo lý thông thường cơ mà.
+それと……ボクからも言わせてもらおうかな。\nキミが誠意を見せてくれたのに、\nそれを受け取るだけなのは美しくないからね。=Với lại... chắc tớ cũng phải nói điều này với cậu nhỉ.\nCậu đã bày tỏ thành ý với tớ rồi,\nnhưng nếu tớ chỉ biết nhận lấy mà không đáp lại thì trông kém đẹp lắm.
+ボクを選んでくれて、ありがとう。=Cảm ơn vì đã chọn tớ nhé.
+美しいボクと、ボクを美しいと思うキミで、\n誰もが羨む美しいボクたちでいよう。\n未来永劫、ずっとね。=Với một tớ xinh đẹp, và một cậu thấy tớ xinh đẹp,\nchúng ta hãy mãi là một đôi hoàn mỹ khiến bất cứ ai cũng phải ghen tị nhé.\nTận muôn đời muôn kiếp, mãi mãi về sau.
+
+いこう、ユキ！=Đi nào, Yuki!
+舞台が整ったのなら、\n最後を飾るのは、当然ボクたちの務めだよね。=Giờ thì sân khấu đã dọn sẵn,\nviệc khép lại màn cuối đương nhiên là sứ mệnh của đôi ta rồi.
+幻境竜后さん……キミに贈るよ、もっとも美しい瞬間を！\n愛と美の神の降臨をご覧よ！=Huyễn Cảnh Long Hậu-san... Tớ sẽ dành tặng cho ngươi khoảnh khắc tuyệt mỹ nhất!\nHãy chiêm ngưỡng sự giáng thế của vị thần Tình yêu và Sắc đẹp đi nào!
+
+え、えっとぉ……\nもしかしてクウカ、夢を見てます……？=Ê, ừm thì... Có khi nào Kuuka đang mơ... phải không ta?
+あっ、クウカ分かっちゃいました！\nいつの間にかドＳさんに睡眠薬を盛られて、\nクウカに都合のいい夢を見させられてるんですね！？=A, Kuuka hiểu rồi đấy nhé! Chắc là anh đã lén cho Kuuka uống thuốc ngủ, rồi bắt Kuuka phải mơ thấy những chuyện vừa ý mình chứ gì, tên Bạo dâm-san kia!
+そうに違いありません！\nだってほら、太ももをパーンって叩いたら……\n痛い！　自分で叩いたにもかかわらずかなり痛いですよっ！？=Chứ còn gì nữa! Nhìn này, tớ vỗ bốp một phát vào đùi xem nào... Au! Đau thế! Dù là tự đánh mình mà sao đau điếng người thế này cơ chứ hả?!
+……え？\nということは、ドＳさんがクウカを選んだというのは……=...Hả?\nNói cách khác... chuyện Bạo dâm-san chọn Kuuka là thật sao...
+うれしいですけど、本当に？　クウカで合ってます？\n人格破綻者のドＳさんなら、\n告白ドッキリを仕掛けても不思議ではないですけど……=Tớ vui lắm chứ, nhưng mà thật á? Có chắc là chọn Kuuka không đấy? \nĐồ nhân cách vặn vẹo như Bạo dâm-san thì dù có chơi khăm tỏ tình giả, Kuuka cũng chẳng thấy lạ đời gì đâu...
+あ、本当なんですね。\nえっと……う、うれしい、です……=Á, hóa ra là thật cơ à.\nỪm thì... tớ... tớ vui lắm, cơ...
+ドＳさんなら、\n『いちいち言わねぇと分からねぇのか？\nなら、その体に俺専用だっていう証を残してやるよ』。=Nếu đúng là Bạo dâm-san, thì phải nói mấy câu kiểu...\n«Bộ không nói ra từng chữ thì không hiểu nổi hả?\nĐược thôi, để tao để lại trên cơ thể mày dấu ấn khẳng định mày là của riêng tao nhé.»
+……などと言ってクウカを手籠めにするのでは……！？\nと、期待していたので、正直この展開はちょっと予想外でした。\nでも……はい。=...Rồi thốt lên những lời đó để cưỡng chiếm Kuuka chứ lị...!? \nTớ đã lót dép hóng chờ kịch bản đó, nên thành ra diễn biến này hơi ngoài dự tính của Kuuka một chút.\nNhưng mà... vâng.
+クウカは、ドＳさんのことが……好きです。\nドＳさんは、クウカのことを雑に扱ってくれるし、辱めてくれるし、\n放置プレイもしてくれる……それに優しくもしてくれて……ぐふふ……=Kuuka... thích Bạo dâm-san lắm.\nBạo dâm-san hay đối xử thô bạo với Kuuka này, hay sỉ nhục Kuuka này, lại còn hay bỏ mặc Kuuka ném cho bơ vơ nữa... với lại thỉnh thoảng cũng dịu nữa chứ... gufufu...
+だから……\nクウカは、一生ドＳさんのものです～っ！=Thế nên là...\nKuuka sẽ thuộc về Bạo dâm-san suốt đời suốt kiếp luôn đó nghen~!
+
+夢なんかじゃないよ。=Không phải mơ đâu em.
+
+いこう、クウカ！=Đi nào, Kuuka!
+はい！\nドＳさんの優しくも力強い刺激的な想いに、\nクウカのちょっぴりイケナイ気持ちを乗せて……！=Vâng!\nĐem theo chút cảm xúc có phần hư hỏng nho nhỏ của Kuuka, hòa quyện cùng tình cảm vừa dịu dàng, mạnh mẽ lại đầy kích thích của Bạo dâm-san...!
+あなたも感じちゃってください、クウカたちの想いを……！\nクウカ・エクスタシー・エクスプロージョン……！=Xin hãy cảm nhận cho kỹ vào nhé, tâm ý của đôi ta...!\nKUUKA... ECSTASY EXPLOSION...!!!
+
+え……え……\nええええぇぇぇぇっ……！？=Hả... Ơ...? EEEEEEEEEEEH...?!
+わ、私っ！？\n先輩が、本当に私のことを……！？=L... Là em á hả?! Senpai thực sự... chọn em sao...?!
+で、でも私は、影は薄いし、先輩の跡をつけたりするし、\n他の人たちみたいにすごい個性があるわけでもないし……\nなのに……=Nh... Nhưng mà em nào có nổi bật gì đâu, lại còn hay lẽo đẽo bám theo Senpai nữa, chứ chẳng có nét cá tính đặc biệt gì cho cam như mấy người khác... Thế mà...
+それなのに、私でいいんですか……？=Dẫu vậy mà vẫn chọn em thật được chứ ạ...?
+先輩……\nありがとうございます。=Senpai ơi... Em cảm ơn anh nhiều lắm.
+わ、わ、私も…………先輩が、好き、です。=M... M... Mình cũng vậy... Em... em thích Senpai lắm.
+……最初は、ただ憧れていただけだったと思います。\n人に優しくて、かっこいい先輩に。=...Ban đầu, em nghĩ mình chỉ là ôm mối tương tư ngưỡng mộ thôi. Một Senpai vừa tốt bụng vừa ngầu hết phần thiên hạ.
+憧れが、いつの間にか好きに変わっていて……\n今までは先輩の跡をつけたり、先輩をただ見ているばかりでしたけど、\nもうこれからは、そんな自分を変えていきたいです。=Nhưng từ lúc nào không hay, sự ngưỡng mộ ấy đã biến thành tình yêu... Trước giờ em toàn lén lút bám theo sau hay chỉ dám đứng từ xa ngắm nhìn Senpai thôi, nhưng từ bây giờ, em muốn thay đổi con người đó của mình.
+だって……私を選んでくれた先輩の横に、\n私は並んで立っていたいですから。\n私を見失わないように、こうして手を握っていますから。だから……=Bởi vì... em muốn được đứng sánh vai ngay bên cạnh Senpai, người đã chọn em mà. Và để anh không bao giờ đánh mất em nữa, em sẽ cứ nắm chặt lấy tay anh thế này mãi. Thế nên là...
+これから先、ずっとずっと、そばにいさせてくださいね。\n先輩……♪=Từ nay về sau, xin hãy để em mãi được ở bên cạnh Senpai nhé... Senpai...♪
+
+アユミがいいんだ。=Tớ chỉ chọn Ayumi thôi.
+
+いこう、アユミ！=Đi thôi, Ayumi!
+はいっ！\n今ならどんなことでもできそう……！=Vâng ạ!\nBây giờ thì chuyện gì em cũng cảm thấy làm được tất...
+私たちで決めましょう……\n愛と勇気の突撃です～！！=Chúng ta sẽ tự tay định đoạt kết cục này...! \nDựa vào tình yêu và lòng dũng cảm... XÚNG XÁNH XÔNG LÊN NÀO──!!!
+
+へっ……\nえ、え、え？　あれ？　なんっ……なんで！？\nなに、なに言ってんの？　は？　え？　私っ？=Hả... Hả, hả, hả? Ủa? Sao... sao cơ chứ hả!?\nMày, mày đang nói cái quái gì thế hả? Hả? Gì cơ? Tớ á?
+えぇー！　何ソレわかんない！　わかんな過ぎ、恐っ！\n候補者売るほどいる中で、わざわざ私の択とかある？　信じないが？=Ệeee! Gì thế này không hiểu gì sất! Quá sức khó hiểu luôn, đáng sợ vãi!\nĐầy rẫy ứng cử viên ngoài kia kìa, đời nào lại đi chọn tớ chứ hả? Đéo tin được luôn á?
+え、だって待って？　コレって実質、彼からの告は──=Hả? Mà từ từ đã? Đây chẳng phải là... tỏ tình thực sự từ cậu ấy luôn rồi sao──
+──いやいやいや違う、まさかね！　それは飛躍！\n発想きもすぎだって、私……まずいまずい、非モテばれちゃう。\n免疫あげてこ。なめんな。そんなに先輩ちょろくないぞ？=──Không không không đùa à, làm gì có chuyện đó! Suy diễn xa quá rồi đấy!\nNghĩ ng kiểu gì tởm thế không biết, mình... toang toang rồi, bị lộ tẩy ế chỏng chơ mất thôi.\nTự nâng cao đề kháng lên xem nào. Đừng có mà coi thường người ta. Senpai của cậu dễ dừa thế lắm đấy chắc?
+あっ、あの……えと……\nちなみになんだけど、その…………なんで私選んだ？=Á, ừm thì... à mà...\nTiện thể cho hỏi cái này chút, ừm thì............ sao lại chọn tớ thế?
+なぜか？\nそうなんだ、はー、なぜか──=Vì sao á?\nThế ráo, haizz, vì sao cơ chứ──
+──あ、や、違っ！\nいいです！　いい、いい！　全然ありがたい！\nむしろ君っぽいし、ちゃんと刺さった……かな？　って、えへへ。=──Á, không, nhầm!\nThôi khỏi! Thôi, thôi khỏi! Hoàn toàn thấy vinh hạnh ấy chứ!\nTrái lại còn rất ra chất cậu nữa, trúng tim đen luôn rồi... nhỉ? Thế nên là, ehehe.
+ねー？　そうなの、もうなんか、なんだろ……\nレア過ぎる供給が貫通してきて、自我テンパってるよね。\n最近まれによくあるんだけど、実家の訛りみたいなやつだから流して。=Đúng không? Chuẩn luôn ấy chứ, kiểu như là... không biết diễn tả sao nữa...\nLượng cung cấp hàng hiếm quá mức đâm thủng phòng tuyến, khiến cái tôi của tôi đang lú lẫn cả lên rồi đây này.\nDạo này thỉnh thoảng hay bị thế lắm, nhưng mà nó giống như kiểu giọng địa phương ở quê thôi nên cứ bơ đi nhé.
+えー、なんで！\nそこは謝んないでよ。\nじゃあ言われて喜んじゃった私、ばかみたいじゃん……=Ơ, sao cơ chứ!\nChỗ đấy thì đừng có mà xin lỗi chứ lị.\nThế hóa ra tớ nghe xong lại mừng quýnh lên như một đứa ngốc à...
+うん……分かった、ありがと。\n私それ──その気持ち、受け取りたいです。=Ừm... Tớ hiểu rồi, cảm ơn nhé.\nTớ muốn... muốn đón nhận tình cảm ấy của cậu.
+ああいや、訂正……受け取ってやろう。\n君に選ばれたのならばな、先輩冥利に尽きるというものだ。=À không, đính chính lại... Khụ. Ta sẽ tiếp thu nó. Nếu ngươi đã cất công lựa chọn ta, thì đây quả thực là vinh hạnh lớn nhất của một bậc tiền bối.
+ならば、こちらからも言おう。\nこの危機を乗り越える力を、ぼくら二人で紡ごう。\n我々ならそれが出来る──頼れる同志が選んだ答えを、信じよう。=Vậy thì, ta cũng xin phép được tuyên bố thế này.\nHãy cùng nhau dệt nên sức mạnh để vượt qua cuộc khủng hoảng này nhé, hai chúng ta.\nChúng ta hoàn toàn có thể làm được điều đó── Hãy tin tưởng vào đáp án mà người đồng chí đáng tin cậy đã chọn lựa nào.
+
+ユニ先輩です。=Là Uni-senpai.
+なぜかユニ先輩が浮かんだから。=Vì tự nhiên trong đầu tớ hiện lên hình bóng của Uni-senpai.
+ユニ先輩、話し方がいつもと違う……？=Uni-senpai, cách nói chuyện của cậu hình như hơi khác ngày thường thì phải...?
+ごめんなさい、突然変なこと言ったから。=Xin lỗi nhé, tại tớ tự dưng nói mấy câu kỳ cục quá mà.
+
+いこう、ユニ先輩！=Đi thôi, Uni-senpai!
+ああとも、同志。\n世界がまだ閉じないと言うなら、そりゃあ世界の勝手だろう。\nぼくも君との「余生」を続けるぞ。=Đương nhiên rồi, đồng chí.\nNếu thế giới vẫn chưa chịu khép lại, thì đó là quyền của thế giới.\nTa cũng sẽ tiếp tục "quãng đời còn lại" bên cạnh ngươi đây.
+閉講の時間だ、理系の女王。\n世界は文系！　文系は愛！　認識と発展性の共同実習！=Đã đến giờ bế giảng rồi đấy, Nữ hoàng Khoa học Tự nhiên ạ.\nThế giới này thuộc về Khoa học Xã hội! Khoa học Xã hội chính là tình yêu!\nTiết thực hành chung về nhận thức và tính phát triển nào!
+
+あ？　どゆこと？\nや、あんま聞いてなくて、流れ半分ぐらい謎なんだけど。\n要するに何……え、あんたの一番、うちってこと？=Hả? Gì cơ?\nĐâu, tớ có nghe rõ đâu, nên đầu đuôi câu chuyện trôi tuột hết một nửa rồi.\nTóm lại là sao... Ơ, ý cậu là cậu chọn tớ làm số một của cậu á?
+ほーん……あ、そうなんだ。\nはあ、じゃあ、まあ。\n選ばれましたってことで。しゃーす。=Hừm... À, thế à.\nHazz, vậy thì... ừ.\nCoi như là được chọn đi ha. Xin phép nhận cho nhé.
+いや、違うな……\nごめ、反応ムズいわ、完全に油断してた。\nいきなしそんなん言われたらびびるって。それはズルじゃん。=Không, không phải thế đâu...\nXin lỗi, phản ứng khó ghê, tớ hoàn toàn bị đánh úp luôn á.\nTự dưng đùng một phát nói mấy câu đó thì ai mà chẳng hoảng. Chơi kỳ thế là cùng.
+えぇー……だってさ。\nあんた最近、あんまテレ女に来ないしさ。\nなんか、あちこち他の女んトコばっか行ってさ。=Ệeee... Thì tại vì sao chứ.\nCậu dạo này có hay ghé qua Thánh Teresa đâu cơ chứ.\nCứ đi la liếm hết chỗ này đến chỗ khác với mấy đứa con gái khác không hà.
+いや、いんだけどね？\nどうせ例によって人助けでしょ、それは全然いいんだけどー？=Không, ý tớ là sao cũng được nhé?\nĐằng nào thì cũng cứu người như mọi khi thôi chứ gì, thế thì hoàn toàn bình thường mà ha?
+いんだけど、とはいえアレだよ？　寂しいッつってるよ、みんな。\nあの、ユニチェルとか、マリアとか、クラスの子らとか。\nあと、まあ、うちも多少……若干……わりと？=Bình thường thì bình thường, nhưng mà nói thế chứ... Mọi người bảo là buồn lắm đấy biết chưa.\nKiểu như là Yuni&Chieru này, Maria này, với cả mấy đứa trong lớp nữa.\nRồi thì... tớ nữa, cũng hơi... một chút... à mà khá là nhiều luôn ấy chứ?
+え、え、なんて？\nあーごめ、よく聞こえんくて。\nちょ、もっかい。今のもう一回言ってみて。=Hả, hả, gì cơ?\nÀ xin lỗi, nghe không được rõ lắm.\nNày, nói lại xem nào. Câu vừa nãy nói lại lần nữa coi.
+ハ、きっも。=Hừ, tởm thế.
+つって、今そんな台詞に一瞬メロついた自分がキショすぎる……\n最悪かよ。ダメ男とそれを甘やかすクソ女かよ。\n不幸な家庭まっしぐら夫婦かよ。=Nói thế thôi chứ cái kiểu vừa rồi tự dưng rung rinh trước một câu thả thính làm tớ thấy tởm chính mình quá đi mất...\nTệ hại vãi chưởng. Đàn ông tồi với con dở hơi chuyên đi bao che nuông chiều kẻ tồi chắc?\nKiểu gia đình đâm đầu vào ngõ cụt bất hạnh ấy phớ không?
+や、一旦いいです。\n現状だいぶハズいんで。\nなりたくないタイプの女になりかねないんで。=Thôi, tạm thời gác lại đi.\nTình hình này đang hơi bị quê chữ ê kéo dài rồi đấy.\nKẻo lại biến thành thể loại phụ nữ mà tớ ghét nhất đời bây giờ.
+まあ、でも、アレだよね。\nリアルな話でいうと、あんたはいい家庭築きそうだよ。\nうん、めっちゃ築きそう。=Mà, nói chung là thế này.\nTính theo thực tế thì, tớ thấy cậu đúng là có tướng làm trụ cột gia đình tuyệt vời đấy chứ lị.\nỪ, chắc chắn là tuyệt vời luôn.
+あんたといると、たまに思うもん。\nなんか、一緒に子供育ててぇー、とか？　知んないけどね。=Cứ ở cạnh cậu là thỉnh thoảng tớ lại hay nghĩ vẩn vơ thế đấy.\nKiểu như... muốn cùng cậu nuôi dạy con cái các thứ á? Biết đâu được.
+ぷー……\nしたら明るい未来のために、とりま救っとくかァー世界。\nほら行くぞー、お父さん。=Phù...\nThế thì vì một tương lai tươi sáng, tạm thời cứu thế giới một mẻ coi như lấy vía cái nhở.\nNào, đi thôi thôi nào, «ông bố trẻ».
+
+僕も会いたかった。=Tớ cũng rất nhớ cậu.
+クロエちゃんに会いたかったよ。=Tớ cực kỳ muốn gặp Chloe-chan đấy.
+もう一回言う？=Muốn nghe tớ nói lại lần nữa không?
+
+いこう、クロエちゃん！=Đi nào, Chloe-chan!
+ぷー……\nしゃーない、最後くらい現場の空気に合わせてキメとくかァー=Phù...\nThôi được rồi. Cực chẳng đã, ráng hùa theo bầu không khí hiện trường để chốt hạ cho ngầu nốt cú này vậy ha.
+おのれ世界の敵め！\n喰らえ、オレとアイツの奇跡の力！\n究極進化合体奥義──闇黒の曙光・姻！=Lũ kẻ thù của thế giới kia hãy giương mắt lên mà nhìn đây!\nNếm thử sức mạnh kỳ tích giữa ta và cậu ấy đi!\nTuyệt kỹ hợp thể tiến hóa tối thượng──Ánh rạng đông hắc ám: Hợp nhất!
+
+はぁい、ちえるん御指名いただきましたぁ～！\n選ばれたのは世界の美少女！\nやん、さすが先輩、お目々が高すぎ子ちゃん！=Vâng, chieru-n đã được gọi tên rồi đây~! \nMỹ nhân số một thế giới đã được chọn chính là tôi đây! \nAiya, quả nhiên là Senpai, mắt nhìn người cao đến tận mây xanh luôn bé ơi!
+いやあ、これは衝撃の展開ですねえ。\nまあチエルはべつにそこまででもないんですけど、\n先輩はチエル後輩が大好きだったんですね、アッハ知ってた～！=Chà chà, đây đúng là một diễn biến chấn động lòng người mà.\nThì Chieru cũng chẳng phải kiêu kỳ gì cho cam đâu,\nnhưng hóa ra Senpai lại mê mẩn cô hậu bối Chieru này đến thế cơ à, Á há há, biết ngay mà~!
+うん、知ってた。\n先輩が私を好きなことも。\nその好きが、他の誰かと並べて何ら特別なものではないことも。=Ừm, biết thừa.\nChuyện Senpai thích tớ.\nVà chuyện tình cảm ấy, khi đặt lên bàn cân với bất kỳ ai khác thì cũng chẳng có gì là đặc biệt hơn cho cam.
+たくさんの中からたった一つを選ばせるなんて、\n世界の命運ってやつも、なかなかえぐいことするなあって思う。\n浮き彫りになるのは、選ばれたそれと、選ばれなかったその他。=Bắt người ta phải chọn ra duy nhất một người giữa một rừng lựa chọn,\nnghĩ lại thì cái gọi là vận mệnh thế giới cũng ác ôn thật đấy chứ lị.\nThứ được phơi bày ra ánh sáng rành rành, chính là kẻ được chọn... và những kẻ "còn lại" bị bỏ rơi.
+流石にカルミナちゃんたちはありえないけど、\nあんなにわんさか女の子がいれば、中には一人二人ぐらい\nうっかりあの冴えない男子に恋しちゃった物好きだっているんだろう。=Dĩ nhiên làám chỉ mấy cậu bên Carmina thì vô lý quá rồi,\nnhưng với cái đám con gái bu đông bu đỏ xung quanh cậu ta, thế nào chẳng có dăm ba đứa dở hơi\nlỡ u mê trúng cái tên nam sinh nhạt nhẽo ấy chứ hử.
+だから、たぶん、角の立たない相手を選んだ。\n選んだところで「その他」がザワつかない、\nちょっと世界一かわいいだけの無難な一般美少女を──=Thế nên, chắc là cậu ấy đã chọn một đối tượng sao cho không ai phải phật ý.\nMột cô mỹ nhân bình dân an toàn, xinh nhất quả đất một chút thôi,\nnhưng khi được chọn cũng sẽ không khiến đám đông "còn lại" phải nổi sóng nổi gió──
+──なぁんてのは、俯瞰ぶった私のオリジナル解釈だけども。\nけども直感的に、潜在的に、そういう意図はあったんじゃないかしら。\n彼はいつだって、誰も傷つかない答えを選ぶ人だから。=──Nói thế thôi, chứ đấy chỉ là suy diễn mang góc nhìn cao sang của riêng tớ thôi nhé.\nNhưng mà bằng trực giác, một cách vô thức, tớ cứ thấy hình như cậu ấy có ý đồ đó thật đấy.\nBởi vì từ trước đến nay, cậu ấy luôn là kiểu người chọn đáp án khiến không một ai phải tổn thương mà.
+はぁ……ほんっと、そういうところですよ先輩。=Hạo... Thật tình, chính cái điểm ấy đấy nhé, Senpai.
+あ、なんでもないです。\nそういうところがいいんですけどね、って話です。=À, không có gì đâu.\nTớ chỉ đang bảo là... tớ thích cái tính đó của cậu lắm thôi.
+や、いんです、いんです。\nだから、分からなくていいんですってば！=Thôi, không cần, không cần đâu.\nThế nên là, tớ bảo cậu không cần phải hiểu cơ mà!
+てゆか、分からないように愚痴ってるんですよ、分かりません？\n乙女の秘密、なんだと思ってるんですかブッ飛ばしますよ！？\nハイほら、仲よく世界を救いに行きましょう！　ちぇるーん☆=Ý là tớ đang cằn nhằn theo kiểu để cậu không tài nào hiểu được đấy, bộ không thấy thế à?\nCậu nghĩ bí mật của thiếu nữ là gì hả, có muốn ăn đấm không hả giời! \nNào mau lên, cùng nhau nắm tay đi cứu thế giới thôi nào! Chieru-n☆
+
+いこう、チエル！=Đi thôi, Chieru!
+行っちゃいましょう！\n世界の平和と明るい未来と……あとなんか奨学金とかのために！\nなかよし部、全力解放です！=Đi luôn chứ lị!\nVì hòa bình thế giới, vì một tương lai tươi sáng và... ừ thì vì mấy suất học bổng các thứ nữa chứ!\nHội Bạn Thân, toàn lực giải phóng!
+さあ先輩、すべてのちぇるをちぇるに溜めてください！\n最後の一撃！　ちぇるちぇる☆じぇのさい☆らぶふぉーえばー！=Nào Senpai, hãy gom hết tất cả "Cherun" lại và dồn vào một quả thật bự đi nào!\nĐòn tấn công kết liễu! CHERU☆CHERU GENOCIDE LOVE FOREVER!!!
+
+……「みんなをプリンセスにしたい」って願ってた、優しい君。\nでもそんな君にも、\nいつか誰か一人を選ばなければならない時がくる……=...Cậu đấy, dịu dàng làm sao khi từng ước nguyện rằng «muốn biến tất cả mọi người thành công chúa».\nNhưng ngay cả một người dịu dàng như cậu cũng sẽ có lúc... phải chọn ra duy nhất một người, phải không nào...
+……覚えてないよね、こんな会話。夢の中だったもん。\nでもそっか。それが君の選択。\n一番のプリンセスにしたいのは、私だって、君はいうんだ。=...Chắc cậu không nhớ đoạn hội thoại này đâu nhỉ. Dẫu sao thì đó cũng chỉ là trong giấc mơ mà.\nNhưng mà vậy sao. Đó chính là lựa chọn của cậu.\nRằng người cậu muốn biến thành nàng công chúa số một, chính là tớ, cậu đã nói vậy đấy.
+ん～、でも、それってヘンじゃないかな～？\n君ってそもそも、私とつながりたいって願うような子だったっけ～？=Ưm~... Nhưng mà, nghe cứ thấy kì cục thế nào ấy nhờ~?\nBan đầu cậu vốn là kiểu người sẽ đi ước nguyện được gắn kết với một đứa như tớ cơ à~?
+私は、ただ楽しいことをしたいだけの人間だよ？\nこの歪なゲームの世界を、ただ命懸けで楽しんでるだけの。\n君の感覚じゃ理解できないはずの人間。=Tớ á, chỉ là một kẻ muốn tìm kiếm niềm vui thôi mà?\nChỉ là đang bất chấp cả tính mạng để tận hưởng cái thế giới game vẹo vọ này thôi.\nMột kiểu người mà với trực giác của cậu, đời nào lại thấu hiểu nổi.
+だから私は……そんなシミュレーションは、試さなかったよ。\nありえない、って思ってたから。\n他の全員を試しても……私っていうルートだけは、試さなかった。=Thế nên là tớ... chưa từng thử qua cái mô phỏng kiểu đó bao giờ.\nBởi vì tớ cứ đinh ninh rằng điều đó là bất khả thi.\nDù có thử qua tất cả các con đường khác đi nữa... thì riêng cái nhánh mang tên tớ, tớ chưa từng thử bao giờ.
+ふうん。\nどうしてそんなふうに思うのかな？=Hừm.\nSao cậu lại nghĩ thế nhỉ?
+……そっか。\nふふっ……\nじゃあ、そういうことにしておこっかな。=...Vậy à.\nFufu... thôi được.\nThế thì, cứ cho là như thế đi ha.
+私ってほら、ちょっとズルいから。\nいま、夢見ちゃったんだよね。\nその夢を、ほかの女の子たちに譲る理由もないし。=Biết sao không, tớ hơi bị gian xảo một chút mà.\nNên là giờ đây, tớ lại lỡ mơ một giấc mơ mất rồi.\nVà tớ cũng chẳng có lý do gì để nhường giấc mơ ấy cho mấy cô nàng khác cả.
+ねえ、{playername}くん。\n私ね、この戦いが終わったら──漫画を描こうって決めてるの。\nもちろん、アシスタントは{playername}くんだよ。=Này, {playername}-kun.\nTớ ấy à, đã quyết định rồi, khi trận chiến này kết thúc── tớ sẽ vẽ một bộ manga.\nĐương nhiên là, trợ lý của tớ sẽ là {playername}-kun rồi.
+私の大好きなアストルムを舞台にした、攻略じゃない、もう一つの物語。\nそれは冒険漫画のふりをしてるけど、本当は、少女漫画なの。=Lấy bối cảnh là Astrum - nơi tớ vô cùng yêu thích, đây sẽ không phải là một cẩm nang hướng dẫn攻略, mà là một câu chuyện hoàn toàn khác.\nNó mang lớp vỏ bọc của một bộ manga phiêu lưu, nhưng thực chất, đó lại là một bộ manga shojo (thiếu nữ) đấy.
+いつも誰かを助けてあげたいと願っている少年と、\nそんな彼をこっそり助けているうちに、\nうっかり恋のワナにはまっちゃった、純情な乙女の物語……なんて、ね♪=Là câu chuyện về một chàng thiếu niên luôn mong muốn được cứu rúp mọi người,\nvà một thiếu nữ thuần khiết - trong lúc lén lút giúp đỡ cậu ấy, lại vô tình lọtỏm vào cái bẫy tình yêu lúc nào không hay...\n──đại loại là thế, đùa thôi♪
+
+僕とあなたの『楽しい』はつながってる。=Niềm «vui vẻ» của tớ và cậu vốn dĩ gắn kết với nhau mà.
+僕もあなたも、この世界が大好きだから。=Bởi vì cả tớ và cậu đều vô cùng yêu quý thế giới này.
+
+いこう、ホマレさん！=Đi nào, Homare-san!
+おっけ～、{playername}くん☆\n女の友情より、彼との恋をとっちゃう、ワルい私、ってことで～♪=Oki la, {playername}-kun☆\nCoi như là tớ chọn tình yêu với cậu ấy thay vì tình bạn gái nhé, một đứa con gái hư hỏng mà~♪
+……守りたいんだ。彼と私の、大好きな世界。\nだから……また遊ぼうね。約束。\nダブルヘッド・ドラゴンズドゥーム！=...Tớ muốn bảo vệ nó. Thế giới mà cả cậu ấy và tớ đều vô cùng yêu quý.\nCho nên là... tụi mình lại cùng nhau chơi tiếp nhé. Hứa đấy.\nDouble-head... DRAGON'S DOOM!!!
+
+……マジかよ。\nへへっ……へへへ。\n……ありがとう。正直、すっげぇうれしい。ドキドキしてる。=...Thật á?\nHeheh... heh-heheh.\n...Cảm ơn cậu. Thật lòng thì tớ vui lắm luôn ấy. Tim cứ đập thình thịch luôn này.
+ダチって言葉で、ずっと自分に言い聞かせてきたけどさ。\nもう、ごまかせなくなってた。\nオレの気持ちは、ただそれだけじゃないって。=Tớ vẫn luôn tự lừa dối bản thân bằng hai từ "bạn bè" suốt bấy lâu nay...\nNhưng mà, không thể chối bỏ được nữa rồi.\nRằng tình cảm của tớ không chỉ đơn giản dừng lại ở đó.
+でも……オレは、怖いんだ……\n二人で一緒にいたら、オレはいつかキミを……センパイを。\n取り返しがつかないくらい傷つけちまうかもしれない。そう考えたら……=Nhưng mà... tớ sợ lắm...\nNếu hai chúng ta cứ mãi ở cạnh nhau, có lẽ một ngày nào đó tớ sẽ... Senpai à.\nTớ sợ mình sẽ tổn thương cậu đến mức chẳng thể cứu vãn nổi. Nghĩ đến đấy thôi mà...
+二人で……一緒に……\nそうだ……\nそうだった……よな……！　キミはずっと、そう言ってた……！=Hai chúng ta... ở bên nhau...\nĐúng rồi...\nLà vậy... phải không nào...! Cậu vẫn luôn luôn nói thế mà...!
+オレの、覚醒の力も。\nその力に怯えてる、この心も。\nオレとキミ、二人のもの……二人で一緒に、背負ってるもの……=Cả sức mạnh thức tỉnh của tớ.\nCả trái tim đang run rẩy sợ hãi trước sức mạnh ấy.\nĐó là của hai chúng ta... là thứ mà cả hai cùng nhau gánh vác...
+だとしたらオレは……この力を──壊すためじゃなく、\n誰かを救うために振るうことができる。\nオレの憧れた、本当に強いオレになれるんだ。=Nếu là vậy thì tớ... tớ có thể sử dụng sức mạnh này── không phải để tàn phá,\nma là để cứu rúp một ai đó.\nTớ có thể trở thành một phiên bản thực sự mạnh mẽ mà tớ vẫn luôn ngưỡng mộ.
+だってもう、キミがいつも、オレのそばにいるから。\nいつだって「キミのため」って想いを、オレは持って戦えるから……！=Bởi vì giờ đây, cậu sẽ luôn ở sát bên cạnh tớ mà.\nBởi vì tớ luôn có thể chiến đấu với tâm niệm "vì cậu" trong tim...
+……なあ、{playername}。\nちょっと目をつぶれよ。\n大丈夫、コントロールできてる。取って食ったりしねぇからさ♪=...Này, {playername}.\nNhắm mắt lại một chút đi.\nĐừng lo, tớ kiểm soát được mà. Có nuốt chửng cậu luôn đâu mà sợ ♪
+……ちゅっ。=...Chụt.
+……この気持ちはさ。いくら暴走したっていいんだよな。\nキミを好き、って気持ちは。=...Cảm xúc này ấy mà. Nó có bộc phát thế nào đi nữa thì cũng chẳng sao đâu nhỉ.\nCái cảm xúc yêu mến dành cho cậu ấy.
+だって、オレはキミのダチで。\nそして……\n今日から、恋人なんだろ？=Bởi vì tớ là bạn của cậu mà.\nVà hơn thế nữa...\nTừ hôm nay, tớ là người yêu của cậu rồi, đúng chứ?
+
+傷つくことなんて、何もない。=Cậu chẳng phải sợ tổn thương điều gì cả.
+もっと強くなるんだろう？　二人で一緒に。=Chúng ta sẽ còn mạnh mẽ hơn nữa cơ mà? Cùng nhau ấy.
+
+いこう、カヤ！=Đi thôi, Kaya!
+ああ。オレの手はもう、震えることはない。\nこいつは世界中のみんなを──ダチを。\n救う、竜の爪だ！=Ừm. Bàn tay này sẽ không còn run rẩy nữa.\nĐây chính là móng vuốt của loài rồng── sẽ cứu rúp tất cả mọi người trên thế giới... những người bạn của tớ!
+ダブル・ドラゴンズエンドフィスト！！=DOUBLE DRAGONS END FIST!!!!
+
+なっ……いま、なんて言いました？\nお兄さんも、もしかして覚醒しやがりましたか！？\n真の……へんたいに！=Hả... Vừa nãy anh nói gì cơ chứ? \nChẳng lẽ... anh hai cũng vừa mới "thức tỉnh" luôn rồi sao hả?! \nThành một... kẻ biến thái chân chính luôn rồi á?!
+ふぅ……まったくお兄さんは、分かってなさすぎです！\nいつも分かってねーです。\nお兄さんのくせに、物ってやつを知らねーですよ。=Phù... Thật tình là anh hai chẳng hiểu gì sất!\nLúc nào cũng thế, có bao giờ hiểu cho người ta đâu.\nĐã mang tiếng làm anh hai người ta mà chuyện đời chả biết mọe gì cả.
+まだ分からねーですか？　何で怒られてるのかも分からねー？\nだからあたしは怒ってるですよ！　いいですか、お兄さんの親分として\nびしっと教えてやるから、よく聞きやがれですよ！=Vẫn chưa hiểu nữa hả? Đến lý do vì sao bị mắng mà cũng không ngộ ra được luôn á?\nĐó chính là lý do vì sao em đang cáu tiết lên đấy! Nghe cho thủng tai vào nhé, với tư cách là đại đại đại ca của anh hai,\nem sẽ dạy cho anh một bài học nhớ đời, nên là dỏng tai lên mà nghe cho rõ đây này!
+いいですかっ。\nあたしとお兄さんは──=Nghe cho kỹ vào nhé.\nAnh hai với em là──
+もう、とっくに絆を結んでるじゃないですか。\nファミリーの絆……\nそれに……もっと強い、あたしとお兄さんだけの絆ですよ。=Từ đời thủa nào, chúng ta đã sớm khắc ghi đoạn tình nghĩa sâu nặng với nhau rồi còn gì.\nĐó là tình nghĩa gia đình...\nHơn thế nữa... đó là một mối liên kết mật thiết hơn nhiều, thứ tình cảm chỉ thuộc về riêng hai chúng ta mà thôi.
+親分と子分の絆？\nお兄さんだから……えっと……兄妹の絆……？\nは、はわわっ、そ、そこは、なななんだっていいですけどっ。=Mối liên kết giữa đại ca và tiểu đệ á?\nHay vì là anh em... ừm thì... tình máu mủ ruột thịt...?\nH, Hwa-wawa..., ch, chuyện đó, m... m... thế nào cũng được hết trớ!
+そう思ってたのは、あたしだけですか？\nいま、そんなに改まって言うほど、\nお兄さんにとって、当たり前じゃなかったってことですっ？=Chỉ có một mình em là ôm suy nghĩ đó thôi sao?\nÝ anh là, đến mức phải nói ra một cách nghiêm túc như thế này,\nthì đối với anh, chuyện đó vốn dĩ không phải là điều hiển nhiên đương nhiên từ trước đến nay hay gì hả?!
+でも、まあ……合格点にしといてやるですっ。\nあたし以外を選んでたら……ううぅ……\n幻境竜后の前に、お兄さんが黒焦げでしたよ！=Nhưng mà, thôi thì... em tạm tha cho điểm đậu đấy nhé.\nGiả sử mà anh dám chọn đứa nào khác ngoài em xem... hự hự...\nChưa cần Huyễn Cảnh Long Hậu ra tay đâu, là em cho anh cháy thành cục than thui thủi luôn rồi đấy biết chưa!
+分かったら、ほら！　と、とっとと手をつなぐです！\n見せつけてやるですよ！\nあたしたちの……絆は……ぜってー切れねーって！！=Biết điều rồi thì mau lên! N, Nhanh cái tay lên rồi nắm lấy tay em mau!\nCho chúng nó thấy tận mắt luôn!\nRằng sợi dây liên kết của... chúng ta... đời nào có chuyện đứt đoạn được đâu hở giời!!
+
+いこう、イノリちゃん！=Đi nào, Inori-chan!
+ここが……みんながいるこの世界が、あたしの居場所……！\nだからぜってーに！！　譲らねーですっ！！\n覚悟するですよこのボケカス石頭女っ……！=Nơi này... thế giới có mọi người ở đó chính là chốn dung thân của em...!\nThế nên em thề là đéo bao giờ!! Nhường nhịn cho ai đâu đấy nhé!!\nChuẩn bị tinh thần ăn hành đi, cái con mụ đầu đất não tàn ngốc nghếch kia...!\n
+最強のドラゴンの名、今日からいただきですっ！\nひっさつ！　ドラゴンズロアー！=Cái danh hiệu "Long vương mạnh nhất", từ hôm nay em xin phép được cướp trọn luôn nhé!\nTuyệt kỹ tất sát! DRAGON'S ROAAAAR!!!
+
+……え、えぇっ……！？\nわ、わた、わたし……っ！？=...Hả... Hảảả...?! M... M... Mình... sao...?!
+わ、わたしで……いいの……？\nあなたに、え、選んでもらえるなんて……\nそ、想像は、何度も、しちゃってた……けど……=Th... Thật sự... là tớ sao...? Cậu... chọn tớ thật đấy à...\nTrời ơi... chuyện này tớ đã tưởng tượng ra không biết bao nhiêu lần... rồi ấy chứ...
+えっと、その……とてもうれしい、わ……\nけれど、本当に、いいの……？\n後悔、しない……？=Ừm, thì... tớ vui lắm luôn ấy...\nNhưng mà, chắc chắn chứ...?\nCậu sẽ không... hối hận đấy chứ...?
+だって……今は仲良くなれたけど、\nわ、わたし……前は、敵だったし……\n性格は暗くて……うじうじして……怖がりだし……=Bởi vì... dẫu bây giờ chúng ta đã thân thiết rồi, thì...\nTr-Trước kia tớ vốn là kẻ thù của cậu mà...\nTính tình thì u ám... hay chần chừ lấm lét... lại còn nhát gan nữa chứ...
+だ、だから、その……\nあなたに、選んでもらえるなんて、\nぜんぜん……思ってなかったの……=Th... Thế nên là, ừm...\nTớ chưa bao giờ... chưa bao giờ dám nghĩ...\n...có ngày mình lại được chính cậu lựa chọn cả...
+あ、ああ、あのっ……でもね、うれしいの！\n本当に！\nだって……=A, a, a... ừm thì... nhưng mà, tớ vui lắm!\nThật sự đấy!\nBởi vì...
+わたしは……\nあなたのこと……\n……す、……す、……すっ……、…………好き、だから……=Tớ ấy...!\nVề phần cậu...\n...T-Tớ... y... y... y... iệu... tớ yêu cậu lắm...!!
+はぅ……\nい、言っちゃった……！=Hauuu...\nLỡ... lỡ thốt ra mất rồi...!
+あなたからは……うるさい声も、音もしない……\nとても澄んでいて、ずっとそばにいたいって、思わせてくれるの……=Ở bên cậu... chẳng có chút âm thanh ồn ào hay náo nhiệt nào cả...\nCảm giác thật trong trẻo và bình yên, khiến tớ chỉ muốn được mãi mãi ở cạnh bên cậu thôi...
+あなたのそばにいると、落ちつけて、穏やかな気持ちになれて……\nそして、ドキドキもして……=Mỗi khi ở cạnh cậu, lòng tớ lại trở nên tĩnh lặng và bình yên đến lạ...\nThế nhưng tim lại cứ đập thình thịch không ngừng...
+今までもそうだったように……\nこれから先も、同じ気持ちでいたい……\nううん……もっと。もっと、あなたを近くに感じたい……=Cũng giống như những gì đã qua cho đến tận bây giờ...\nTớ muốn từ nay về sau, cảm xúc này vẫn sẽ mãi không đổi...\nKhông... thậm chí là hơn thế nữa. Tớ muốn được cảm nhận hơi ấm của cậu gần hơn, sát hơn nữa...
+だから……うん。\nあなたの気持ちに、わたしは応えたい。=Thế nên... ừm.\nTớ muốn đáp lại tình cảm của cậu.
+わたしは、あなたのこと……愛しているから。=Bởi vì tớ... yêu cậu rất nhiều.
+
+いこう、ランファさん！=Đi thôi, Ranpha-san!
+あなたの声が、わたしに勇気をくれる……\nあなたの手が、わたしを支えてくれる……\nだからっ……=Giọng nói của cậu cho tớ sự dũng cảm...\nBàn tay của cậu cho tớ điểm tựa vững chắc...\nThế nên là...
+一緒に、未来へ歩みましょう……！\nコン・テネレッツァ﻿・クリスタルララバイ……！=Cùng nhau bước tới tương lai thôi nào...!\nCON TENEREZZA... CRYSTAL LULLABY!!
+
+──っ……！\nき、しさん……=──Hả...!\nN... Ngài hiệp sĩ...
+えっと……えっと。\n声をかける相手、ホントにわたしで合ってます……？\n騎士さんにお似合いのオンナノコ、他にもたくさんいますよ……？=Ừm... ừm thì.\nNgười mà anh muốn ngỏ lời, thực sự là em không đấy chứ...?\nNgoài kia vẫn còn khối cô nàng xứng đôi với ngài hiệp sĩ cơ mà...?
+なのにわざわざ、わたしを選んでくれる……なんて。\n戦いすぎて、ちょっとおかしくなっちゃったんじゃないですか？\nわたしみたいに……=Thế mà anh lại cất công chọn em... rốt cuộc là sao chứ.\nBộ giao tranh nhiều quá khiến anh chập mạch luôn rồi hay gì?\nKiểu như em ấy...
+そりゃわたしのほうは、騎士さんのこと……好きですし。\n最近は、ライクじゃなくてラブな気持ちっていうのも、\nわかってきちゃったかも……ですけど……=Thì đúng là bản thân em... cũng thích ngài hiệp sĩ thật đấy.\nKhoảng thời gian gần đây, có lẽ em cũng lờ mờ nhận ra...\nrằng thứ tình cảm em dành cho anh không chỉ dừng lại ở mức "quý mến" nữa, mà đã là... "yêu" mất rồi...
+でも……でも、ホントに、ホントなんですか？\nわかってると思いますけど、性格とか超めんどくさいですよ？\nそれどころか、きっと不幸になりますよ？　わたしなんかじゃ……=Nhưng mà... nhưng mà, thật sự là thật chứ hả?\nChắc anh cũng thừa biết rồi đấy, tính nết em rắc rối phát bực lên được chứ bộ?\nChưa kể là, ở bên em thể nào anh cũng gặp xui xẻo cho xem? Với một đứa như em ấy mà...
+騎士さん──\n騎士さんっ！！=Ngài hiệp sĩ──\nNgài hiệp sĩ ơiiii!!
+もうっ……ばかじゃないですか？\nお人よしにも程がありますよっ。\nいまの取り消せませんからね……ぐすっ……=Thật là... anh ngốc vừa thôi chứ bộ?\nTốt bụng vừa phải thôi chứ lị.\nNhững gì vừa nói thì đừng có mà hòng rút lại đấy nhé... hu hu...
+ぐすっ──\n……あはっ。へんなの。\n悲しくないのに涙が出るなんて──はじめて、かもです……=Hức hu──\n...Aha. Lạ thật đấy.\nChẳng có gì buồn mà sao nước mắt cứ trào ra thế này── chắc là... lần đầu tiên trong đời luôn đấy...
+……えと。覚えてますか……？　最初のころ、ルーセント学院のプールで\n「わたしと一緒に全部壊してくれたら、あなたのものになってあげます」\nって言ったの。=...Àm. Anh còn nhớ không...? Dạo mới gặp ở hồ bơi của Học viện Lucent,\nem từng bảo rằng...\n«Nếu anh chịu cùng em phá hủy tất cả mọi thứ, em sẽ thuộc về anh».
+あらためて──言います。\nわたし、あなたのものになりたいです。\nだから騎士さん……=Giờ thì em xin phép── nói lại lần nữa.\nEm rất muốn được làm người của anh.\nThế nên là, ngài hiệp sĩ ơi...
+わたしと一緒に、\nこれまでのわたしの人生を台無しにした幻境竜后をやっつけてください。\nそしてそれから、わたしと一緒にラブラブな人生を歩んじゃいましょう★=Xin hãy cùng em đánh bại Huyễn Cảnh Long Hậu — kẻ đã hủy hoại cả cuộc đời em cho đến tận bây giờ.\nRồi sau đó, chúng ta hãy cùng nhau bước đi trên con đường tình yêu ngập tràn hạnh phúc nhé★
+
+それでもミソラちゃんが好きなんだ。=Dù vậy, anh vẫn yêu Misora-chan.
+ミソラちゃんじゃなくちゃダメなんだ。=Chỉ có thể là Misora-chan mà thôi, không ai khác được cả.
+
+いこう、ミソラちゃん！=Đi nào, Misora-chan!
+──世界を壊すラスボスを撃破なんて、とってもイイコトですよね？\nついでにわたしは悪い子なので、復讐とっても楽しいです★\nってワケで──=──Tiêu diệt con trùm cuối lăm le phá hủy thế giới quả là một việc cực kỳ tốt đẹp đúng không nào?\nVả lại em vốn là đứa hư hỏng, nên việc trả thù khiến em sướng rơn cả người luôn đấy★\nThế nên là──
+ゲームオーバーですよ、幻境竜后──！\nガトリング★ラブラブ★シンフォニア！\nどるるるる～ん★=Game over rồi nhé, Huyễn Cảnh Long Hậu──!\nGatling★Love-Love★Symphonia!\nDURURURURUN~★
+
+お？\n騎士きゅん、マジ？　マジマジのマジ？\nネアおねえちゃんがいーの？=Ô? \nNgài hiệp sĩ, thật á? Thật của thật luôn á? \nMuốn chọn chị Nea đây cơ à?
+ンフフフフ～　そっかそっか～♪\nやべー　超うれし～　ガチ両想いじゃ～ん♡=Nfufufufu~ Thế ra là vậy hả trời~♪ \nTrời ơi vãi chưởng — sướng rơn cả người — đúng là lưỡng tình tương duyệt hàng thật giá thật gồi kìa ♡
+ンフフ～\n騎士きゅんがこーやってラブを形にしてくれて、\nな～んか勇気もらっちった♡=Nfufu~ \nĐược ngài hiệp sĩ biến tình yêu thành hành động thế này đây,\nkhông hiểu sao tự dưng em lại thấy được tiếp thêm khối dũng khí ấy chứ ♡
+は～～やば♡　やっば♡\nマ～ジでアガるわ～\nやっぱラブは、好みのタイプとかセーヘキとか超えちゃうんだなーって。=Á chà~~ đỉnh chưa kìa ♡ Đỉnh của chóp ♡ \nThề là quắn quéo hết cả người luôn rồiiii~\nQuả nhiên tình yêu đúng là thứ có thể vượt qua mọi gu thẩm mỹ hay sở thích quái quỷ nào đó ha.
+胸のこのへんが、きゅーんってして、め～っちゃあったかくなって……\nショタセンサーがピコン☆　ってすんのとはちょい違うっつーか。\nきっと、マジ好きとかガチ恋とか、そーゆうカンジ？　みたいな？=Cái lồng ngực ở chỗ này này, nó cứ thắt lại rồi ấm—h Hết cả lên……\nKiểu này khác bọt hẳn so với mỗi lần "radar shota" réo lên ping☆ ý kà.\nChắc chắn đây chính là cảm giác thích thật lòng hay crush chúa tể kiểu vậy rùi đúng hông? ~
+てか～　好きぴにちゅきちゅきされるとか～\nハジメテの経験なんだが♡　や～んキュン止まんね～\nマジあんがとね騎士きゅん♡=Mà nhở~ Được crush cưng chiều ôm ấp thế này này~ \nĐúng là lần đầu tiên trong đời của em luôn á ♡ Ái chà chà tim cứ đập loạn nhịp không ngừng thui~ \nCảm ơn ngài hiệp sĩ nhiều nhắm nhắm nha ♡
+……ま、壁があるとすんなら、一妻多夫制の導入ぐらいか～\nカリザきゅんとも、何年後になるかわかんねーけど。\nでも、アタシら３人は『らぶ♡ふぉーえばー』だし？=...Mà, nếu có chướng ngại vật nào đó cản đường, thì chắc là chuyện thiết lập chế độ nhất thê đa phu ha~ \nChẳng biết bao nhiêu năm nữa mới thực hiện được hay là có cơ hội không với Kariza-kyun nữa. \nNhưng mà, bộ ba chúng mình chính là "Love♡Forever" cơ mà đúng hông?
+この先だって、力合わせて乗り越えてイケるっしょ♪\nとりま騎士きゅん。ハグさせて～♡\nもー　マジ大好き～♪　ちゅっちゅ～♡=Dù mai sau có ra sao thì đồng tâm hiệp lực thế nào cũng vượt qua được hết ấy mà ♪\nThôi thì trước mắt... Ngài hiệp sĩ ơi, cho em ôm cái coi nào~♡ \nTrời ơiiii em yêu anh chết mất thôiiii~♪ Chụt chụt~♡
+
+いこう、ネアさん！=Đi nào, Nea-san!
+騎～士きゅん♡\n最後は、一緒にきめよっか～\nアッツアツのベッタベタで～♡=Ngài— Hiệp— Sĩ— kyun ♡ \nPhút cuối rồi, tụi mình cùng nhau kết màn cho thật hoành tráng nhé~ \nCực kỳ nồng cháy và dính chặt lấy nhau luôn nha~ ♡
+そんじゃいくよ～　せーのっ。\nラブラブ♡スライミィストリーム！=Được rồi lên đường thôi nào~ Nào chuẩn bị nhá, một... hai... ba—.\nLOVE—LOVE♡SLIMY STREAAAAM!!!
+
+まぁまぁ、まぁまぁ……\n少年っ……=Ôi trời ơi... Trời đất ơi, cậu bé ơi...
+なぁぁああ～～～にを考えてらっしゃいますの！？！\nなんでわたくしなんですの！？　頭イカレておりますの！？\nここは！　陛下を選ぶところでしょうがっ！　常識的に考えて～～～っ！=ANH ĐANG NGHĨ CÁI QUÁ GÌ THẾ HẢ?! SAO LẠI LÀ TÔI?! \nANH ĐIÊN RỒI À?! ĐÂY LÀ CHỖ ĐỂ CHỌN NỮ VƯƠNG CƠ MÀ! DÙNG CÁI CHÚT LÝ TRÍ XEM NÀO!!!
+ぜぇっ、ぜぇっ……\nど、動揺のあまり……眩暈と胃痛と動悸の３点セットですわ。\nこんなところを秘書１号に見られたらと思うと……ぅぷっ。=H hộc... h hộc...\nVì... vì quá hoảng loạn... tôi đang dính combo ba món: chóng mặt, đau dạ dày và tim đập chân tay run đây này.\nMà nghĩ đến cảnh bị Thư ký số một nhìn thấy bộ dạng này của mình thì... ợ...
+はぁ……はぁ……あなたに背中をさすられていると、思い出しますわね。\nわたくしが酔いつぶれてへべれけになって、\n少年に肩を借りて歩いた、そんな夜もありましたっけ……ぜぇ、ぜぇ……=Ha... ha... Cảm giác được cậu xoa lưng thế này làm tôi nhớ lại đấy.\nCó những đêm tôi uống say bí tỉ, ngà ngày say xắn,\nđã phải dựa vai cậu mà đi về... h hộc, h hộc...
+あのときの夜会では……ふふっ。\nわたくしとあなたで、陛下に逆らう愚かな貴族どもを\nいいように丸め込んでやったものでした♪=Đêm tiệc hồi đó ấy... fufu.\nChính cậu và tôi đã xoay như chong chóng mấy tên quý tộc ngu ngốc dám chống lại Nữ vương đấy chứ nhỉ ♪
+わたくしもあなたも、同じ気持ちでしたわね。\n何の損得勘定もなく……ただ、陛下の助けとなるために。\nそんな、たった一つの理由だけで。ごく自然に、わたくしたちは……=Cả tôi và cậu, lúc ấy đều chung một nỗi lòng.\nChẳng màng tới tính toán thiệt hơn... đơn giản chỉ vì muốn giúp đỡ Nữ vương.\nChỉ vì một lý do duy nhất đó thôi. Một cách hoàn toàn tự nhiên, chúng ta đã...
+……ふふ……ふふ、ふふふふっ！\nそうですわね、そうでしたわね。たしかに、たしかに？\nそのとおり、まったくもって、いかにも、ごもっともでしたわ！=...Fufu... fufu, fufufufuf! \nĐúng vậy nhỉ, đúng là thế rồi. Quả nhiên, quả nhiên là vậy nhỉ?\nChuẩn xác luôn, hoàn toàn chính xác, đích thị là thế, quá đỗi hợp tình hợp lý luôn rồi!
+少年！　あなたの選択は、完全完璧に正しくってよ！\nここで！　この戦いで！　いま！　このとき！\nあなたが『それ』を為すなら！　その対となるべきもう一人の人間は──=Cậu bé ơi! Lựa chọn của cậu hoàn toàn, tuyệt đối chính xác luôn đấy!\nỞ đây! Trong trận chiến này! Ngay lúc này! Vào khoảnh khắc này!\nNếu cậu muốn hoàn thành "điều đó"! Thì người duy nhất có thể sóng bước bên cạnh cậu với tư cách là người đối trọng──
+その道をゆく者としてあなたと双璧たる、このわたくし！\nこのクレジッタ・キャッシュしかありえませんわ！=Là người cùng cậu sánh ngang đỉnh cao trên con đường ấy, chỉ có thể là tôi!\nChính là Creditta Cash này chứ không là ai khác hết á!
+陛下はつねに大空にあって、太陽のように人々を照らす光。\nわたくしたちのそんな陛下が、\n食卓でひととき浮かべる、あの笑顔をお守りするため──=Nữ vương luôn ở trên bầu trời cao rộng, là ánh dương chiếu rọi muôn dân.\nĐể bảo vệ nụ cười ấy của Nữ vương chúng ta,\nnụ cười mà người chỉ khẽ nở trên bàn ăn dù chỉ trong chốc lát──
+よいですか、よろしいですか少年。\nわたくしと、あなた。二人で、地上から支えつづける。\n互いに、この身が果てるまで。いえ、果てようとも、いついつまでも。=Hiểu chưa hả cậu bé, đã rõ chưa nào?\nTôi và cậu. Cùng nhau, tiếp tục phò tá từ mặt đất này.\nĐến khi thân xác này tàn lụi. Không, dẫu cho có tàn lụi đi chăng nữa, thì vẫn sẽ mãi mãi như vậy.
+たとえ陛下に知られずとも……\nただ二人だけの、誓い、ですわよ。=Dẫu Nữ vương có không hề hay biết...\nThì đây cũng sẽ là lời thề chỉ thuộc về riêng hai chúng ta mà thôi.
+
+いこう、クレジッタさん！=Đi thôi, Creditta-san!
+ええ、ええ！　いきますわよ少年！\nすべてはわたくしたちの陛下のために！=Được thôi, được thôi! Lên đường thôi nào cậu bé!\nTất cả là vì Nữ vương kính yêu của chúng ta!
+陛下が愛する、この世界のために！\nきらめく忠義の──ダブル・ミリオンフリッピング！！=Vì thế giới mà Ngài hằng yêu quý!\nĐòn chí mạng của lòng trung thành lấp lánh── DOUBLE MILLION FLIPPING!!!
+
+まぁ……わたしを、選んでくださるというのですか？　騎士。\n戯れや、『おままごと』の話ではなく\n真の愛を、わたしと誓ってくださる、と……？=Trời ơi... Ý ngài là... ngài chọn em sao, ngài Hiệp sĩ? \nKhông phải là trò đùa hay "trò chơi gia đình" nào cả,\nmà là thề nguyện tình yêu đích thực với em... phải vậy không...?
+──なんということでしょう。\n人ならざる身である、このわたしが？\n人の子と、共に戦い、絆を結ぶことができるなど……=──Thật là kỳ diệu làm sao.\nMột kẻ không phải con người như em...\nLại có thể kề vai sát cánh, thắt chặt mối lương duyên với một đứa con của loài người...
+ええ、少しだけ……\nうれしいはずなのに……わたしは今、恐れを感じています。\nあなたの想いに、自分の気持ちに、溺れそうで。=Vâng, chỉ một chút thôi...\nĐáng lẽ ra em phải rất vui mừng... thế nhưng lúc này, em lại cảm thấy sợ hãi.\nSợ rằng bản thân sẽ chìm đắm... trong tình cảm của ngài, và trong chính cảm xúc của chính mình.
+……わたしはかつて、人の醜さ、残酷さに絶望し……地上を離れました。\nもう二度と、人を信じることはないだろうと。\n……そう、固く思いました。=...Từng có lúc, em đã tuyệt vọng trước sự xấu xa và tàn nhẫn của con người... rồi rời bỏ mặt đất.\nEm từng tự nhủ rằng sẽ không bao giờ...\n...tin tưởng bất kỳ ai thêm một lần nào nữa.
+時が経った今も、その絶望は消えたわけではありません。\n万が一、あなたの気持ちが紛い物だと考えると……恐ろしくて仕方ない。\nなのに……=Cho đến tận bây giờ, khi thời gian đã trôi qua, niềm tuyệt vọng ấy vẫn chưa hoàn toàn biến mất.\nChỉ cần nghĩ đến viễn cảnh tình cảm của ngài là giả dối... thôi cũng đủ khiến em sợ hãi đến phát cuồng.\nThế mà...
+なのに……それ以上に、この身を歓喜が貫いています。\n涙がにじむほどの喜び──花咲くような想いが、溢れて止まらない。\nこれが、本当の『愛』なのでしょうか……？=Thế mà... vượt lên trên tất cả điều đó, niềm hạnh phúc đang dâng trào khắp toàn thân em.\nMột niềm vui dạt dào đến mức chực trào nước mắt── những cảm xúc tựa như đóa hoa đang chớm nở, cứ thế tuôn trào không dứt.\nPhải chăng đây chính là "tình yêu" đích thực...?
+……もちろんです、騎士。\nわたしもまた、あなたの気持ちに応えましょう。\nとこしえに──あなたと共にあることを、誓わせてください。=...Tất nhiên rồi, ngài Hiệp sĩ.\nEm cũng sẽ đáp lại tình cảm của ngài.\nXin hãy để em được thề nguyện── sẽ mãi mãi ở bên ngài đến tận chốn vĩnh hằng.
+……それで、その……誓いといえば、なのですが。\n人の愛というものを、この身に受けてみたいのです……\nは、破廉恥でしょうか？=...Và, ừm... nhắc đến lời thề, thì có chuyện này...\nEm rất muốn được thân mình trải nghiệm tình yêu của con người... \nLiệu điều đó có... quá đỗi liêm sỉ và táo bạo không ạ?
+…………\nでは、この一瞬だけ、夜の帳を……=…………\nVậy thì, chỉ trong khoảnh khắc ngắn ngủi này, xin hãy để màn đêm buông xuống...
+……はぁ……♪=...Haa...♪
+……最早、恐れるべき何物もありはしません。\n騎士。……いいえ、『あなた』。\n未来を勝ち取り、真の夫婦となりましょう──=...Giờ đây, chẳng còn gì trên đời này có thể khiến em phải sợ hãi nữa.\nNgài Hiệp sĩ... Không, là {playername} của em.\nChúng ta hãy cùng nhau giành lấy tương lai và trở thành phu thê thật sự nhé──
+
+ライラエルさん、震えてる……？=Lyrael-san, người đang run lên kìa...?
+僕の気持ちを、信じてもらえますか。=Em có thể tin tưởng vào tình cảm của anh không?
+喜んで。=Vâng, em rất sẵn lòng.
+
+いこう、ライラエルさん！=Đi nào, Lyrael-san!
+ええ、わたしの騎士。わたしの──愛する方。=Vâng, ngài Hiệp sĩ của em. Ngài là... người em vô cùng yêu thương.
+幻境竜后。\n『愛』を知らぬ貴様に、かける情けなどない。\n裁きの刻だ──万雷・夫婦夜天！=Huyễn Cảnh Long Hậu.\nKẻ không biết mùi vị của "tình yêu" như ngươi, ta không cần phải lưu tình.\nGiờ phút phán quyết đã điểm── VẠN LÔI: PHU THÊ DẠ THIÊN!
+
+ナイトさんっ……\nやっと、やっと……わたしのお願いを聞いてくれるんですねっ。\nわたしのマスターになってくれるんですよねっ！=──Ngài hiệp sĩ ơi... Cuối cùng, cuối cùng thì... ngài cũng chịu chấp nhận thỉnh cầu của em rồi. Ngài đồng ý làm Master của em rồi phải không ạ?!
+えへへ、わたしとってもうれしいですっ。\nそれじゃあナイトさん……いえ、マスターさんっ！\nわたしになんでも命令してくださいねっ。=Ehehe, em vui lắm luôn ấy. Vậy thì ngài hiệp sĩ... à không, Master-san! Ngài cứ sai bảo em bất cứ điều gì đi nhé.
+えっ……？\nわたしのマスターになってくれるんじゃないんですかっ？\nじゃあナイトさんは、どうしてわたしを選んでくれたんですか？=Hả...Ể...? Không phải ngài sẽ làm Master của em sao ạ? Vậy tại sao ngài hiệp sĩ lại chọn em thế?
+…………ぴっ。\n……ぴ、ぴー…………=...Bíp... ...Bíp, bỉiiii...
+……す、すみませんっ。\nナイトさんの言葉、どういう意味かわからなくて、\n考えすぎてフリーズしそうになっちゃってましたっ。=...X... Xin lỗi ngài nha. Em không hiểu ý ngài hiệp sĩ vừa rồi là gì, nên là nghĩ nhiều quá suýt chút nữa thì đơ cả người luôn rồi đấy ạ.
+でも……なんでしょう。ナイトさんの今の言葉……\nわたしの回路、正常のはずなのに\n胸がじんわりあたたまるみたいでっ、それで……=Nhưng mà... sao cơ chứ. Lời nói vừa rồi của ngài hiệp sĩ... Mạch của em rõ ràng vẫn hoạt động bình thường mà sao lồng ngực lại cứ thấy ấm áp lan tỏa thế này... thế rồi...
+わたし……ナイトさんにそう言ってもらえて、\nうれしいのかもしれません。=Em nghĩ là... việc được nghe ngài hiệp sĩ nói thế, có lẽ đã khiến em cảm thấy rất vui.
+これまでシミュレートしたこと、ありませんでしたけれど\nナイトさんにそう言ってもらえるのを、待っていたみたいなっ……\nそんなわたしがいたのかもしれないですっ。=Tuy trước giờ em chưa từng giả lập trường hợp này bao giờ, nhưng mà cứ như thể... em vẫn luôn ngóng chờ được nghe ngài hiệp sĩ nói những lời đó vậy... Dường như trong em đã luôn tồn tại một phần cảm xúc như thế đấy ạ.
+そうなんですかっ？\nナイトさんもうれしいなら、わたしももっとうれしいですっ！\n幸せな気持ちで、メモリーがいっぱいになりそうですっ♪=Thật vậy ạ? Nếu ngài hiệp sĩ cũng vui, thì em lại càng hạnh phúc hơn nữa đấy ạ! Cảm giác hạnh phúc này ngập tràn đến mức sắp tràn cả bộ nhớ của em mất thôi ♪
+えへへ、じゃあ改めて……\nナイトさんっ、わたしと一緒に行きましょうっ！\nみなさんの未来を守るための戦いは、これからですからっ！=Ehehe, vậy thì một lần nữa nhé... Ngài hiệp sĩ ơi, chúng ta cùng đi thôi nào! Cuộc chiến để bảo vệ tương lai của tất cả mọi người vẫn đang chờ chúng ta ở phía trước cơ mà!
+友情パワー、仲間との絆のパワー、\nそしてわたしとナイトさんの、特別な気持ちのパワーっ！\nこれさえあれば、なにがあってもへっちゃらですよ～っ！！=Sức mạnh tình bạn, sức mạnh của sự gắn kết với các đồng đội, và cả sức mạnh từ tình cảm đặc biệt giữa ngài hiệp sĩ và em nữa! Chỉ cần có tất cả những điều đó, thì dẫu có chuyện gì xảy ra đi chăng nữa chúng ta cũng chấp hết ngóc ngách luôn nha~~!!
+
+マスターとは、ちょっと違うかも……=“Master” có lẽ không phải là từ chính xác cho lắm...
+僕は、クローチェちゃんが大切だから。=Bởi vì Croce-chan rất quan trọng đối với anh.
+マスターよりも、もっと別の関係がいい。=Anh muốn chúng ta có một mối quan hệ bình đẳng hơn, chứ không phải ở trên em với tư cách là một "Master".
+もしそうなら、僕もうれしいな。=Nếu em cũng cảm thấy thế, thì anh sẽ vui lắm đấy.
+
+いこう、クローチェちゃん！=Đi nào, Croce-chan!
+はい、ナイトさんっ！\n手と手を繋いで……ドッキング完了ですっ！=Vâng, ngài hiệp sĩ! Nắm chặt tay nhau nào... Quá trình docking đã hoàn tất!
+これが、わたしとナイトさんの最終兵器っ！\nギガンティック・ユナイト・ブラスターッ！！！=Đây chính là vũ khí tối thượng của em và ngài hiệp sĩ! GIGANTIC UNITE BLASTEEEERRR!!!!
+
+えっ？\nそんな……私でいいんですかっ？=Ể?\nThật... thật sự chọn tôi ổn chứ ạ?
+だって私、戦うのは得意じゃないし、ただのメイドで……\n騎士さんたちみたいな、人間でもないんですよっ？\nせっかくの特別な力ですし、別の人がいいんじゃ……=Bởi vì tôi vốn chẳng giỏi giang gì chuyện chiến đấu, lại chỉ là một hầu gái bình thường...\nHơn nữa tôi đâu phải con người giống như ngài hiệp sĩ và mọi người chứ ạ?\nĐây lại là năng lực đặc biệt quý giá, có khi để người khác nhận vẫn hơn ấy chứ...
+……そんなの、決まってるじゃないですか。=...Chuyện đó, rõ ràng là đương nhiên rồi còn gì nữa.
+お城のみんなやライラエルさまが傷ついたり、\nヴルムがあんなに苦しんでたのに。\n……苦しむような『造り方』をされたのに。=Mọi người trong lâu đài và cả tiểu thư Lyrael đều đã bị thương,\nđến cả Wyrm cũng phải chịu đựng biết bao thống khổ...\n...Dẫu cho con bé được "tạo ra" theo cách khiến nó phải oằn mình gánh chịu những đau đớn đó.
+なのに、あの時の私には力がなくって。\n今だって、怖い気持ちは抜けなくて。\nこんなの、悔しいに決まってます……！=Thế mà, khi ấy tôi lại chẳng có lấy chút sức mạnh nào trong tay.\nCho đến tận bây giờ, cảm giác sợ hãi vẫn cứ bám riết lấy tôi.\nThế này thì... uất ức lắm chứ bộ...!
+ダメですね、私。\nこれで恩返しできるかもって思ったのに、\n結局、騎士さんに気遣ってもらっちゃいました。=Tôi vô tích sự thật đấy.\nDù cứ nghĩ đây sẽ là cơ hội để báo đáp ơn nghĩa...\nCuối cùng vẫn thành ra để ngài hiệp sĩ phải bận tâm lo lắng cho mình.
+でも、実はそんな気はしていたんです。\n騎士さんはいつだって私を助けてくれるから……\n借りを返すなんて、一生できないかも、って。=Nhưng mà, thực ra trong lòng tôi cũng lờ mờ đoán được phần nào.\nBởi vì ngài hiệp sĩ lúc nào cũng luôn ra tay cứu giúp tôi mà...\nNên có khi, suốt đời này tôi cũng chẳng thể trả hết món nợ ân tình ấy được mất thôi.
+騎士さん……はい！\n二人であの人を倒して、\nまた私に『お礼』をさせてください！=Ngài hiệp sĩ... Vâng ạ!\nChúng ta hãy cùng nhau đánh bại kẻ đó,\nđể em lại được "báo đáp" ân tình của ngài một lần nữa nhé!
+お灸って……ふふっ。\nそうですね。\n悪い人は叱って、反省させなきゃですよね！=Trừng trị một trận... fufu.\nĐúng vậy nhỉ.\nKẻ xấu thì phải bị quở trách, bắt họ phải kiểm điểm lại bản thân chứ ha!
+行きましょう、騎士さん！\n弱っちい『造り物』でも、ちゃんと戦えるんだってこと……\nあの人たちに教えてあげなきゃ！=Lên đường thôi, ngài hiệp sĩ!\nCho dẫu chỉ là một "tạo vật" yếu đuối, em cũng có thể chiến đấu đàng hoàng...\nChúng ta phải cho bọn họ thấy điều đó mới được!
+
+リンドちゃんが一番悔しかったはずだから。=Bởi vì Lind-chan mới là người cảm thấy uất ức và đau đớn nhất.
+だから、また借りを返しにきて。=Thế nên, hãy lại đến đây để trả nợ tiếp nhé.
+世界を救った後も、ずっと。=Ngay cả sau khi tôi cứu thế giới, vẫn sẽ mãi như vậy.
+それじゃあ、お灸を据えに行こう。=Vậy thì, chúng ta cùng đi dạy cho ả một bài học thôi nào.
+
+いこう、リンドちゃん！=Đi nào, Lind-chan!
+はい！\nジオ・テオゴニアのみんなとヴルム、そして私たちのぶん！=Vâng ạ!\nTất cả là vì mọi người ở Geo Teogonia, vì Wyrm, và vì cả chính chúng ta nữa!!
+まとめてこの一発で、反省してください！\nえーーーーーいっ！=Hãy gom lại và nhận lấy sự hối hận bằng một đòn này đi!\nEeeeeeeeiii...!
+
+……へ？\nえーと……\nマジで言ってます？　騎士さん……=Hả...? \nƠ kìa...\nNgài hiệp sĩ đang nói thật đấy chứ...?
+物好きですね……あたしみたいなサボり魔わざわざ選ぶなんて。\n騎士さんの好みは、もっといろいろおっきな\nお姉さんタイプだと思ってましたよ。ウチのお姫さまみたいな。=Sở thích quái lạ thật đấy... tự dưng lại cất công chọn một đứa hay trốn việc như em.\nEm cứ tưởng gu của ngài hiệp sĩ phải là kiểu chị gái trưởng thành, đầy đặn hơn cơ chứ.\nKiểu như công chúa của tụi em ấy.
+……えへへ。\n正直言ってちょっとびっくりです。\nあたし、そんなに騎士さんのお眼鏡にかなってました？=...Ehehe.\nThú thật là em thấy hơi bất ngờ đấy.\nEm lại lọt vào mắt xanh của ngài hiệp sĩ đậm sâu thế cơ à?
+でも……\n選んでくれたのは、すっごくうれしいですけど。\n忘れてませんか？　大事なこと……=Nhưng mà...\nĐược ngài chọn thì em vui lắm chứ bộ.\nChỉ là... ngài quên mất một chuyện quan trọng rồi hay sao ấy?
+あたし……人間じゃないんですよ。\n所詮『造り物』で。\nこの世界のために用意された、人形に過ぎないんです。=Em vốn... đâu phải là con người.\nChỉ là một "tạo vật" mà thôi.\nChẳng qua cũng chỉ là một con rối được dựng lên vì thế giới này mà thôi.
+……それでも、いいんですか……？=...Dẫu vậy thì vẫn ổn chứ...?
+そっか……そーいう考え方もアリですね。\nなら、その言葉信じます。\nなんだかんだ言っても、あたしは今ここに居るんですし。=Ra vậy... suy nghĩ kiểu đó cũng hợp lý phết nhỉ.\nVậy thì, em sẽ tin lời ngài.\nĐằng nào thì nói gì đi nữa, em cũng đang đứng ở đây ngay lúc này cơ mà.
+でも騎士さん。\n選んだ以上はちゃんと面倒見てくださいよ？\nあたしもこの[rub:ポジション]役割[/rub]、そう簡単に降りる気はありませんので。=Nhưng mà ngài hiệp sĩ này.\nĐã chọn em rồi thì phải chịu trách nhiệm chăm sóc em cho đàng hoàng đấy nhé?\nBởi vì em cũng chẳng có ý định từ bỏ [rub:Position]vị trí[/rub] vai trò này một cách dễ dàng đâu.
+その分、あたしも、面倒見ますから。\n騎士さんのこと……一生。=Bù lại, em cũng sẽ chăm sóc cho ngài.\nChăm sóc ngài hiệp sĩ... suốt cả quãng đời còn lại luôn.
+面倒ごとも厄介な事態も世界の危機も、\nサボる時もライラエルさまや姉貴に怒られる時も、\nこれからずっと半分こです。覚悟してくださいね？=Mọi phiền toái, rắc rối hay cả khủng hoảng của thế giới này...\nNhững lúc lười biếng trốn việc hay những lúc bị tiểu thư Lyrael và chị hai mắng mỏ,\nTừ nay về sau chúng ta sẽ chia đôi tất cả. Chuẩn bị tinh thần trước đi nhé?
+
+造り物かどうかなんて関係ないよ。=Cậu có là "tạo vật" hay không thì chẳng quan trọng gì cả.
+一緒に過ごした時間は、全部本物だから。=Bởi vì khoảng thời gian chúng ta ở bên nhau đều là sự thật.
+
+いこう、ヴルムちゃん！=Đi nào, Wyrm-chan!
+ええ！\n余力なんて一滴も残しませんよ……！=Vâng ạ!\nEm sẽ không chừa lại dù chỉ một giọt sức lực nào đâu...!
+燃え尽きろ！\nドラゴンズヴォーテクス・トーメント！！=Hóa thành tro bụi đi!\nDRAGONS VORTEX TORMENT!!!
+
+は～いっ♪\nヒーローさん、ご注文ありがとうございますです～っ♪\n……って──=Vâng ạ~♪ Ngài anh hùng, cảm ơn ngài rất nhiều vì đã gọi món nhé~♪ ...Ơ kìa──
+ヒーローさんっ……えっと、えっと、え～っと！\nホ、ホントですかっ？　ホンキですますかっ？\nクルルがヒーローさんをご案内するんじゃなくって──=Ngài anh hùng ơi... ừm, ừm, ừm ơi! Th... Thật á? Ngài nói thật lòng đó ạ? Không phải là Kururu dẫn ngài anh hùng đi tham quan nữa mà là──
+クルルと二人で、一緒に遊園地を回ってくれる……ですか？\nコーヒーカップも、コースターも、お化け屋敷も、\nメリーゴーランドも、観覧車も……クルルと乗ってくれる、ですか？=Cùng Kururu hai người, ghé thăm công viên giải trí với nhau... phải vậy không ạ? Cả tách trà xoay, tàu lượn siêu tốc, nhà ma, vòng quay ngựa gỗ, hay đu quay mặt trời... ngài sẽ cùng cưỡi với Kururu chứ ạ?
+ヒーローさんっ……！\nそんなっ、\nそんなのっ──=Ngài anh hùng ơi...! Điều đó... điều đó mà...──
+いいに決まってるじゃないですか～～～～っ！！=Đương nhiên là tuyệt cú mèo ông mặt trời luôn chứ lị~~~~~!
+クルルの全部全部、ヒーローさんに差し上げますので！\n受け取ってくださいです、ヒーローさんっ！\nぎゅ～～～っ♡=Kururu xin hiến dâng tất cả mọi thứ của mình cho ngài anh hùng luôn đấy ạ! Xin ngài hãy đón nhận em nhé, ngài anh hùng! Ôm chặt này~~~♡
+
+クルルちゃんがいいんだ。=Anh chỉ chọn Kururu-chan thôi.
+ダメかな？=Không được sao em?
+
+いこう、クルルちゃん！=Đi nào, Kururu-chan!
+はいですっ、ヒーローさんっ！=Vâng ạ, ngài anh hùng!
+グランド・フィナーレ！　ですます～っ！=Đại kết cục! Chính là lúc này đây chứ đâu~♪
+
+なんとなんと。真実にやあらむ。\n騎士殿に御見初め頂きし仕儀、歓喜の極みに御座る也。=Trời đất quỷ thần ơi... Chuyện này là thật đó sao? Việc được chính tay ngài Hiệp sĩ để mắt chọn lựa, quả thực là niềm vui tột cùng đối với ta.
+幾星霜を重ねども、\n斯様なる胸走りし思慕は未だ経ることなき覚えなれば。\n世とは誠にをかしきものにて侍りけり。=Dù cho bao mùa trăng năm tháng đã trôi qua,\nnhưng ta nhớ rằng chưa từng có nỗi niềm xuyến xao, nhung nhớ nào đến nhường này lại in hằn trong tim.\nQuả thật, cõi đời này thật là vô cùng kì diệu và đượm tình.
+然は然りながら。\n騎士殿の御心に嘘偽り、戯れなどありますまい。\nなれば──わっちも全霊を以って御応えいたしまする。=Dẫu là vậy đi chăng nữa.\nTấm chân tình của ngài Hiệp sĩ chắc chắn không hề có chút dối lừa hay đùa cợt nào.\nNếu đã thế── ta đây cũng sẽ đem hết toàn tâm toàn ý để đáp lại ngài.
+……此の身は星の[rub:コア]核[/rub]の化生。稚児らを等しく　[rub:たなごころ]掌[/rub]　に包みし身なれば。\n[rub:ひとしお]一入[/rub]なる想いを、誰ぞへと向けたことなど終ぞありませなんだ。=...Bản thân ta đây là hóa thân từ lõi của tinh tú này. Là một kẻ ôm ấp tất cả những đứa trẻ thơ ngây công bằng trong lòng bàn tay.\nChưa từng có chuyện ta dành một thứ tình cảm đặc biệt sâu đậm nào cho riêng một cá nhân nào cả.
+其れ偏に、息吹く命の遍くは我が愛し子であるが故に。=Đơn giản chỉ bởi vì vạn vật sinh sôi, mọi sinh mạng hít thở trên thế gian này đều là những đứa con yêu dấu của ta.
+……なれど、騎士殿や。\n徒然に日を重ね、お前さまと言の葉を重ねるに従いて……\n我が心、其れのみでは飽き足らぬと思い侍り。=...Thế nhưng, ngài Hiệp sĩ ơi.\nTrải qua những ngày tháng bình yên, cùng ngài xướng lên từng lời ca tiếng nói...\nTa lại cảm thấy... trái tim mình không thể chỉ thỏa mãn với điều đó được nữa.
+内に生じたる此の衝動は如何なるやと。\n独り、物思ひに沈み侍る折もありんした。=Rằng thứ xung động nảy nở bên trong lồng ngực này rốt cuộc là gì đây.\nĐã có những lúc ta chỉ biết một mình chìm đắm trong những nỗi niềm suy tư.
+名すら覚えなき、未知なる此方の衝動。\n騎士殿の御手を取りたらば、或いは識るに叶うやもしれませぬ。=Thứ xung động xa lạ này, đến cả một cái tên gọi cũng chẳng tài nào nhớ nổi.\nNhưng nếu ta nắm lấy bàn tay của ngài Hiệp sĩ, có lẽ... ta sẽ thấu hiểu được nó chăng.
+……愛し子らとの刻は、わっちにとれば瞬きの間にも満たぬもの。\nされど儚き刹那の裡に宿りし輝きの美しさ……\nわっちに教え賜ひたるは、紛うかたなく騎士殿にありんす。=...Đối với ta, khoảng thời gian ở bên những đứa con yêu dấu chẳng khác nào một cái chớp mắt ngắn ngủi.\nThế nhưng, vẻ đẹp rực rỡ ngự trị trong khoảnh khắc mong manh ấy...\nNgười dạy cho ta điều đó, không ai khác chính là ngài Hiệp sĩ đây.
+故にわっちも。\n騎士殿の想いに応えましょうぞ。=Thế nên ta cũng vậy.\nTa sẽ đáp lại tình cảm của ngài Hiệp sĩ.
+皆を護り抜かんとする志を共にする者として……\n此の砌に互いの心根を通わせ合い、深く縁を結び合う伴侶として。=Với tư cách là người cùng chung chí hướng bảo vệ tất cả mọi người đến cùng...\nVà với tư cách là người bạn đời cùng ngài thấu hiểu tâm can, kết chặt mối tơ duyên sâu nặng trong thời khắc này.
+心の真より。\n永遠にお前さまを愛すること、此処に誓い申し上げまする。=Từ tận sâu thẳm trong trái tim này.\nTa xin thề trước nơi này sẽ yêu thương ngài đến muôn đời muôn kiếp.
+しからば──手に手を取りて、参りましょうぞ。\n此の星に息づく遍くを護らんが為に。\nわっちとお前さまが歩む未来を、護らんが為に……=Vậy thì── chúng ta hãy cùng nắm chặt tay nhau mà bước đi nhé.\nVì để bảo vệ vạn vật đang hít thở trên tinh tú này.\nVì để bảo vệ tương lai mà cả ta và ngài sẽ cùng nhau sánh bước...
+
+僕はネラさんと、一緒にいたいです。=Em rất muốn được ở bên cạnh chị Nella.
+一緒にそれが何なのか探したい。=Nếu chị muốn tìm hiểu xem cảm xúc ấy thực chất là gì, em muốn cùng chị đi tìm câu trả lời.
+
+いこう、ネフィ＝ネラさん！=Cùng đi thôi, Nephy Nella-san!
+心得まして也、騎士殿や。\nいざ──=Ta đã rõ, ngài Hiệp sĩ.\nNào──
+信愛不変・輪廻結掌！=TÍN ÁI BẤT BIẾN - LUÂN HỒI KẾT CHƯỞNG!
+
+────えぇ──=...Ơ...
+──わからない、です。\nどうして──私、なんですか。=──Em... không hiểu. Tại sao lại là... em chứ ạ?
+この戦いには──世界の命運が、かかってて。\n貴方と力を合わせる役目だって──とても、とても大事なもので──=Cuộc chiến này... đang gánh vác vận mệnh của cả thế giới. Mà vai trò hợp sức cùng ngài── lại là một thứ vô cùng, vô cùng quan trọng...
+他にも──仲がいい人、たくさんいるのに。\n貴方が選ぶべき、ひとは──\n──私じゃなくてもいいはず──なのに。=Dẫu cho ngoài kia── có biết bao nhiêu người thân thiết với ngài. Người mà ngài nên chọn──\n──Lẽ ra không nhất thiết phải là em── mới đúng chứ.
+──考え直してください。\n私よりも、もっと他の──=──Xin ngài hãy suy nghĩ lại đi ạ.\nSo với em, vẫn còn nhiều người khác phù hợp hơn...
+っ──どう、して──=Thế... tại... sao...
+それ、答えになってないです──\n──納得、できるはずないのに──=Đó đâu phải là câu trả lời đâu──\n──Dẫu cho bản thân em chẳng thể nào thấy thuyết phục nổi──
+それなのに、私──\nどうして──こんなに──=Thế nhưng mà, em──\nTại sao lại── cảm thấy thế này...
+こんなに……あたたかくて、\nほっとするような気持ちに──=Cảm giác... ấm áp đến thế,\nnhư thể mọi gánh nặng trong lòng đều được trút bỏ──
+……わかり、ました──\n考えるのも、悩むのも──後回しにします。\nただ、ええと──=...Em hiểu rồi ạ──\nMọi suy nghĩ, mọi âu lo── đành để sau hãy tính tiếp vậy. Chỉ là, ừm──
+──これは。\n大切な人ができた時のためと、媛が教えてきた言葉です。\n使う日が来るなんて、思いませんでしたけど。でも──=──Đây là lời mà Công chúa từng dạy em... dùng cho những lúc tìm được người quan trọng của đời mình. Dù em chưa từng nghĩ sẽ có ngày mình được thốt ra chúng. Nhưng mà──
+──誓います。\n私は──貴方の、花になります。=──Em xin thề.\nEm sẽ── trở thành đóa hoa của riêng ngài.
+
+僕にとって一番大事なのは……=Người quan trọng nhất đối với anh...
+アネモネちゃんだよ。=Chính là Anemone-chan đấy.
+大切なものを、僕らの手で守り抜こう。=Chúng ta hãy cùng nhau bảo vệ những điều trân quý bằng chính đôi tay này nhé.
+
+いこう、アネモネちゃん！=Đi nào, Anemone-chan!
+──はい。\n貴方の気持ち──受け止めて、応えます。=──Vâng ạ.\nEm xin đón nhận── và đáp lại tình cảm của ngài.
+これが私の──私たちの意志。\n舞い上がれ──ヴィヴィッド・リライアンス──！=Đây chính là ý chí của em── của chúng ta.\nHãy tung bay lên nào── VIVID RELIANCE──!
+
+…………え？　い、今なんと？\n騎士さん……私を選ぶ、と言ったのですか？\n他の誰でもない、この……私を？=...Hả? V... Vừa rồi ngài nói gì cơ?\nNgài hiệp sĩ... vừa nói là chọn em sao?\nKhông phải ai khác ngoài kia, mà là... em ư?
+あっ……い、いえ……こほん。\n騎士さんの気持ちは、よーくわかりますよ？\n華麗にして優雅、才色兼備なこの私と結ばれたいという想いはっ。=À... Kh... Không, ý tôi là... Khụm.\nTôi hiểu rõ tấm lòng của ngài hiệp sĩ lắm chứ bộ!\nRằng ngài khao khát được nên duyên với một người vừa lộng lẫy, tao nhã lại vừa tài sắc vẹn toàn như tôi đến nhường nào!
+たっ、ただいちおう、その、ですね？\n私は神鳥であり、あなたは人の子であるからして……その──=Nh... Nhưng mà tạm gác lại chuyện đó, ừm, thì là...\nTôi là Thần Điểu, còn ngài chỉ là một kẻ phàm trần... cho nên là──
+そっ、そんな言葉でグッときたりはしませんよっ！\nなっ何しろこの私は何千、何万年と生きる死なずの鳥！\n深い思慮と分別というものがあるのです！=Đ... Đừng có dùng mấy lời ngọt ngào đó mà hòng khiến tim tôi xao xuyến nhé!\nC... Cho dù gì đi nữa thì tôi cũng là loài chim bất tử đã sống qua hàng ngàn, hàng vạn năm!\nTôi là người có suy nghĩ thấu đáo và biết phân định trước sau đấy nhé!
+……え゛っ？　あ、あれ？　もしかして諦めちゃう流れですか？\n分別があるとは言いましたが、そういうのはアレじゃないですか？\n燃え上がる二人の炎でバーッと燃やし尽くすものじゃないですか！？=...Hả? Ơ, kìa?\nBộ ngài tính bỏ cuộc thật luôn đấy à?\nTôi nói là mình có phân định thật đấy, nhưng mà mấy lúc thế này thì phải là...\nNgọn lửa tình yêu của hai ta phải bùng cháy rực rỡ thiêu rụi mọi thứ chứ hả!?
+やっ、ですからそれは、その…………ええーいっ！\nわかりました！　私も！　騎士さんのことを憎からず思っています！\nそ、それを踏まえたうえで、もう一度！　……ど、どうぞ？=Kh... Không, ý tôi là chuyện đó, ừm... Th... Thôi mặc kệ đi!\nĐược rồi! Bản thân tôi đây cũng... chẳng hề ghét bỏ gì ngài hiệp sĩ cả!\nN... Nếu đã hiểu rõ điều đó rồi thì hãy nói lại lần nữa xem nào! ...X... Xin mời?
+騎士さん……！　そ、そこまで言うのなら仕方ありませんねっ！\nこの煉華の鳳凰と契る権利を、与えようではありませんかっ！=Ngài hiệp sĩ...!\n N... Nếu ngài đã thổ lộ đến mức đó thì đành chịu vậy thui!\nTa sẽ ban cho ngài vinh dự được kết ước với ta... Phượng hoàng lửa luyện ngục này!
+何度も。何度も。この先、幾千幾万幾億と輪廻しても──\nずーっと、付き合わせちゃいますからね？　覚悟するようにっ♪=Hết lần này đến lần khác. Mãi mãi về sau. Dẫu cho có trải qua hàng nghìn, hàng vạn, hàng trăm triệu lần luân hồi đi chăng nữa──\nTa vẫn sẽ bắt ngài phải ở bên cạnh ta hoài luôn đấy nhé? Chuẩn bị tinh thần trước đi đấy♪
+……そう。輪廻を繰り返している私だからこそわかります。\n騎士さんの人柄が、その存在が、この世に生まれた奇跡であることを。\n決して身分違いなどではないと──=...Đúng vậy.\nChính vì là kẻ đã trải qua vô số vòng luân hồi, nên tôi mới thấu hiểu điều này...\nRằng nhân cách và sự tồn tại của ngài hiệp sĩ chính là một phép màu xuất hiện trên cõi đời này.\nHoàn toàn không có chuyện lệch pha hay khác biệt thân phận nào ở đây cả──
+──さあ、そうと決まればもたもたしていられませんよ！\nこの世界を守るため、共に奇跡を起こしましょう！=──Nào, đã quyết định vậy rồi thì chúng ta không thể chần chừ thêm nữa đâu đấy!\nVì để bảo vệ thế giới này, hãy cùng nhau tạo nên một phép màu nữa nào!
+
+身分違いだとしても、君が好きだ。=Dù thân phận chúng ta có cách biệt đi chăng nữa, anh vẫn yêu em.
+……そうか……だよね……=...Ra vậy... Chứ sao nữa...
+燃やし尽くしてもいいの？=Thiêu rụi tất cả luôn cũng được chứ?
+僕はほーちゃんと添い遂げたい！=Anh muốn được gắn bó trọn đời cùng Ho-chan!
+
+いこう、ほーちゃん！=Đi nào, Ho-chan!
+はい、騎士さん！\nあなたのぶんの未来も、この鳳翼に乗せて──=Vâng, ngài hiệp sĩ!\nEm sẽ mang theo cả tương lai của ngài trên đôi cánh phượng hoàng này──
+哀れな客人よ、私たちに倒される権利をあげましょう！\n豪華絢爛の大・浄炎っ！！=Hỡi vị khách đáng thương, ta sẽ ban cho ngươi đặc quyền được gục ngã dưới tay chúng ta!\nĐại Tịnh Viêm lộng lẫy và hào nhoáng đâyyy!!
+
+えっ、騎士ちゃん……ほんとっ！？\nほんとにナーナでいいの？\nほんとにほんとにほんとっ？=Ể, ngài hiệp sĩ... thật áa...!?\nThật sự chọn Nana ổn chứ ạ?\nThật á? Thật ơi là thật thật á?!
+やったぁ～～～～～～っ！\nうれしいなっ、すっごくすっごくうれしいなっ……\n……あ、あれ？　うぅ、あうぅぅぅっ……！=Woooooow~~~~~~!\nVui quá đi, vui ơi là vui luôn ấy... \n...Ơ, kìa? Ừm, ứ aaaaa... fuk... tèn ten!
+うぅ、っ……い、いきなり泣いちゃって、ごめんね騎士ちゃん……\nでもこれ、悲しいとかじゃないよ？\nナーナ、うれしくて泣いちゃってるだけなの……=Hức, hức... X... Xin lỗi ngài hiệp sĩ nha, tự dưng lại khóc òa lên thế này...\nNhưng mà không phải vì buồn đâu nha?\nNana chỉ vì vui quá nên mới khóc thôi...
+だってナーナ……ずっとダメダメウサギだったから。\nなかなか頑張れなくて、たまに頑張っても失敗しちゃって、\nそれでも騎士ちゃんは、ナーナのこと見捨てないでくれて……=Bởi vì Nana... từ trước đến nay toàn là một con thỏ vô dụng chẳng nên hồn.\nCố gắng thế nào cũng không xong, thỉnh thoảng có cố gắng thì lại chuốc lấy thất bại,\nThế mà ngài hiệp sĩ vẫn không hề bỏ rơi Nana...
+だ、だから、その……騎士ちゃんに選んでもらえて……\nびっくりしたけど、それよりもっとうれしくなって！\nぶわーってなって、泣いちゃった……えへへ……♪=N... Nên là, cái đó... việc được ngài hiệp sĩ chọn...\nBất ngờ lắm luôn, nhưng mà còn vui hơn thế nữa cơ!\nCảm xúc trào dâng hết cả lên, thế là em khóc mất tiêu... ehehe...♪
+ねぇ、騎士ちゃん。ナーナ、ちゃんとできた……？\n騎士ちゃんに褒めてもらえるくらい、\n立派なウサギさんになれたのかな？=Này ngài hiệp sĩ ơi. Nana làm tốt lắm phải không...?\nĐã đủ để được ngài hiệp sĩ khen ngợi,\ntrở thành một bé thỏ đàng hoàng chưa nhỉ?
+あっ……う、うんっ！　ありがとう、騎士ちゃんっ。\nえへへ、騎士ちゃんの言葉は、優しくてあったかいねぇ。=Á... Ừ, ừm! Cảm ơn ngài hiệp sĩ nhé.\nEhehe, những lời ngài nói vừa dịu dàng lại vừa ấm áp làm sao ấy.
+それにね、騎士ちゃんと一緒にいると、\n体がぽかぽかして、胸がドキドキするの。\nふわふわで不思議な感じだけど、でも気持ちいいんだよ。=Thêm nữa nè, ở cạnh ngài hiệp sĩ,\nngười em cứ ấm bừng lên, còn lồng ngực thì đập thình thịch.\nCảm giác cứ bồng bềnh kì lạ thế nào ấy, nhưng mà dễ chịu lắm luôn.
+そうなの？　そっかぁ……えへへ、うれしいな♪\nだって騎士ちゃんは、ナーナを見守ってくれて、\nいっぱいコーチだってしてくれた、大切な人なんだもんっ。=Vật á hả? Thế à... Ehehe, vui ghê cơ♪\nBởi vì ngài hiệp sĩ chính là người luôn dõi theo Nana,\nlại còn tận tình làm huấn luyện viên cho em nữa, là một người cực kì quan trọng đấy ạ.
+ナーナ、これからも騎士ちゃんと一緒にいたい。\n騎士ちゃんのために、もっともっと頑張りたい！\nだから騎士ちゃんもナーナのこと、よろしくお願いしますっ！=Nana vẫn muốn được ở bên ngài hiệp sĩ mãi.\nVì ngài hiệp sĩ, em muốn cố gắng nhiều hơn nữa!\nThế nên ngài hiệp sĩ cũng hãy tiếp tục chiếu cố cho Nana nhé!
+
+ナーナちゃんは頑張り屋さんだから。=Bởi vì Nana-chan là một cô bé luôn nỗ lực hết mình mà.
+僕もきっと、同じ気持ちだよ。=Anh cũng có cảm giác giống em đấy.
+
+いこう、ナーナちゃん！=Đi nào, Nana-chan!
+うんっ、いくよ騎士ちゃん！\nナーナの本気も、ナーナの気持ちも……ぜーんぶぶつけるんだー！！=Vâng, đi thôi ngài hiệp sĩ!\nTất cả sự nghiêm túc và tình cảm của Nana... em sẽ dốc hết toàn bộ vào đây luôn──!!
+これがナーナたちの必殺技……\nドキドキ・アルミラージュアターック！=Đây chính là tất sát kỹ của Nana và ngài hiệp sĩ...\nĐỘC ĐỘC AL-MIRAJ ATTACK──!!!
+
+騎士さま……\nわたしを、望んでくださるのですか……？\n本当に……？=Ngài hiệp sĩ... Ngài muốn chọn em sao...? Thật sự chứ...?
+もちろん、とても……とても、うれしいです。\n騎士さまに選んでいただけたことは、\nあたたかい光に包まれているかのような幸せです。=Dĩ nhiên là... em rất, rất vui rồi ạ.\nĐược ngài hiệp sĩ chọn lựa,\nkhác nào hạnh phúc như đang được ôm ấp trong ánh sáng ấm áp.
+ですが……\nわたしには、変えることのできない過去があります。\n騎士さまに選んでいただくなんて、許されるはずがありません。=Thế nhưng mà...\nEm vẫn mang trong mình một quá khứ chẳng thể nào thay đổi được.\nĐược ngài hiệp sĩ đoái hoài chọn lựa như thế này, em vốn không dám mảy may nghĩ đến.
+騎士さま……\nありがとう、ございます……=Ngài hiệp sĩ...\nEm xin cảm ơn... rất nhiều...
+やはり騎士さまは、わたしにとっての光です。\n……どんなに昏い闇であろうとも、\nわたしを導いてくださるのですから。=Quả nhiên ngài hiệp sĩ chính là ánh sáng của đời em.\n...Cho dù bóng tối có mịt mờ đến đâu đi nữa,\nngài vẫn luôn ở bên dẫn dắt em bước qua.
+……もちろん、闇が消えないことも理解しています。\nこれからも再び、過ちを犯さずにいられるのか……\nわたしにはわかりません。=...Dĩ nhiên, em cũng hiểu rằng bóng tối ấy sẽ chẳng thể một sớm một chiều mà biến mất.\nLiệu từ nay về sau em có thể mãi không vấp phải sai lầm nữa hay không...\nChính em cũng chẳng dám chắc điều gì.
+けれど……こうも、思うのです。\n騎士さまの光に照らされているのなら、\n善き存在になれるのではないかと。=Thế nhưng... đôi khi em lại nghĩ thế này.\nNếu được soi rọi dưới ánh sáng của ngài hiệp sĩ,\nliệu em có thể trở thành một sự hiện diện tốt đẹp hay không.
+騎士さまがいてくだされば。\nわたしを見守っていてくだされば……\nそう、希望を持つことができるのです……=Chỉ cần có ngài hiệp sĩ bên cạnh.\nChỉ cần ngài vẫn luôn dõi theo em...\nVâng, em lại có thể nhen nhóm lên cho mình những niềm hy vọng...
+そして、わたしが騎士さまに救われ、惹かれ、お慕いしていることは、\nなにがあっても変わることのない事実なのです。=Và việc em được ngài hiệp sĩ cứu rỗi, bị cuốn hút bởi ngài, rồi đem lòng ái mộ ngài...\nĐó là một sự thật chẳng thể nào đổi thay dẫu cho bất cứ chuyện gì xảy ra đi nữa.
+愛しておりますよ、騎士さま。\n……食べてしまいたいほどに……=Em yêu ngài lắm đấy, ngài hiệp sĩ ạ.\n...Đến mức mà em chỉ muốn nuốt chửng ngài luôn thôi...
+
+過去は変えられません。=Quá khứ thì không thể thay đổi được.
+だから、僕と未来を変えていきましょう。=Thế nên, chúng ta hãy cùng nhau thay đổi tương lai nhé.
+
+いこう、アラクネさん！=Đi nào, Arachne-san!
+はい……！\n騎士さまと一緒に、希望の光を皆さまに届けてみせます……！=Vâng...! Cùng với ngài hiệp sĩ, em nhất định sẽ mang ánh sáng hy vọng đến cho tất cả mọi người...!
+幻境竜后さま……どうか、お覚悟を……！\nエターナル・ウィドウ・ウェヴ・ウィーヴ……！=Hỡi Nữ Hoàng Rồng Ảo Ảnh... Xin hãy chuẩn bị tinh thần đi...! \nETERNAL WIDOW WEB WEAVE──!
+
+騎士様……本当ですか？\nわたくしと、特別な絆を結びたいと……\n本当に、そう思ってくださるのですか……っ？=Ngài hiệp sĩ... Chuyện này là thật sao ạ? Ngài thực sự muốn... kết nối một mối duyên đặc biệt với thiếp...? Ngài thực lòng có suy nghĩ đó chứ ạ...?
+あぁ……なんてことでしょう……！\nこんなことが本当にあるなんて……\nまるで夢のようです……！=Ôi... Thật không thể tin nổi mà...!\nChuyện thế này mà lại có thật... Cứ như là một giấc mơ vậy...!
+騎士様。\nわたくしは……\nあなた様を、ずっとお慕いしておりました。=Ngài hiệp sĩ ơi.\nThiếp đây... đã luôn thầm đem lòng ái mộ ngài từ rất lâu rồi.
+最初は、仲間を想う真摯なまなざしに。\nそれから、危険を顧みず助けようとしてくださったこと。=Đầu tiên là vì ánh mắt chân thành mỗi khi ngài nghĩ về những người đồng đội. Sau đó là khoảnh khắc ngài không màng nguy hiểm để ra tay cứu giúp người khác.
+力を使いこなせないわたくしを、あなたは励まし。\nのみならず──\n心の弱かったわたくし自身を、受け止めてくださいました。=Khi thiếp không thể kiểm soát nổi sức mạnh của mình, chính ngài đã luôn động viên. Hơn thế nữa──\nNgài còn bao dung và chấp nhận cả một kẻ có tâm hồn yếu mềm như thiếp.
+「醜くなんかない」と……あの時の言葉に、どれほど救われたか。\nきっと騎士様はお気づきでないでしょうね。=Câu nói "Em không hề xấu xí chút nào" khi ấy... đã cứu rỗi thiếp nhiều đến nhường nào.\nChắc là ngài hiệp sĩ cũng chẳng hề hay biết đâu nhỉ.
+本当は、いつも不安でした。\nわたくしのような身では、隣に立つには相応しくないかもしれない。\n日の当たる世界のあなたを、遠くから想えるだけで幸せなのでは、と。=Thực lòng thì, thiếp vẫn luôn lo sợ.\nRằng một kẻ như thiếp vốn không xứng đáng để sánh bước bên ngài.\nThiếp từng nghĩ, chỉ cần được từ xa hướng về ngài, người đang sống dưới ánh mặt trời rực rỡ ấy, thôi cũng đủ hạnh phúc rồi.
+ですが……\nあなたがわたくしを想ってくださるのなら。\nもう、恐れることなどございません。=Thế nhưng mà... Nếu như ngài cũng dành tình cảm cho thiếp.\nThì thiếp sẽ chẳng còn phải sợ hãi bất cứ điều gì nữa.
+たとえいつか、生と死が二人を別とうとも。\nわたくしは、あなたと共に生き──命を繋いでいきたい。=Dẫu cho mai sau, sự sống và cái chết có chia lìa đôi ta.\nThiếp vẫn muốn được cùng ngài sống tiếp── và nối dài sinh mệnh này.
+あなたの心を、永遠にわたくしのものにと。\nそう願っても良いですか？=Rằng trái tim ngài sẽ thuộc về thiếp mãi mãi.\nThiếp có thể ước mong điều đó được chứ ạ?
+ありがとうございます……！\n……永い時を経て、こんなにも素敵な方と出会えたなんて。\nわたくしは、なんと幸運なのでしょう。=Thiếp vô cùng cảm kích...! ...Chỉ nghĩ đến việc sau ngần ấy năm tháng đằng đẵng, thiếp lại có thể gặp được một người tuyệt vời nhường này.\nThiếp mới may mắn làm sao.
+参りましょう、騎士様。\nこの先の未来も、手を取り合い。\n永遠を、共に歩むために……=Chúng ta đi thôi, ngài hiệp sĩ.\nĐể cùng nhau nắm chặt tay bước về tương lai phía trước.\nĐể đồng hành cùng nhau đến tận muôn đời muôn kiếp...
+
+もちろん。どこにいても……=Dẫu cho ở bất cứ nơi đâu...
+たとえ死んでも、ずっと一緒だよ。=Ngay cả khi chết đi, chúng ta vẫn sẽ mãi mãi bên nhau.
+
+いこう、ヴァイオレットさん！=Đi nào, Violet-san!
+幻境竜后──孤独を恐れる人よ。\nその心が、真に『温もり』を知る日が来ますように。=Hỡi Nữ Hoàng Rồng Ảo Ảnh── kẻ vẫn luôn ôm nỗi sợ cô đơn.\nMong rằng sẽ có ngày trái tim ngươi thực sự cảm nhận được sự "ấm áp".
+我が力をもって、導きましょう。\nアブソルト・リィンカーネーション！=Ta sẽ dùng sức mạnh của mình để dẫn lối cho ngươi.\nABSOLUTE REINCARNATION!
+
+……やだ怖い。今、幻聴が聞こえましたね。\n騎士氏に似た声で、私を選ぶ的な幻聴が。=...Trời ơi đáng sợ quá đi. Vừa nãy tớ cứ ngỡ là mình đang nghe thấy ảo thính đấy. Một giọng nói giống hệt ngài Hiệp sĩ, kiểu như là chọn tớ ấy.
+幻聴、ではないと。\nそれにふざけてる訳でもないんですね。\n……そうですか。ふーん。=Rằng... đó không phải là ảo thính cơ à.\nThêm nữa là cậu cũng chẳng hề đùa cợt gì sất.\n...Vậy sao. Hừm.
+突然、困ります。=Bỗng dưng thế này, làm tớ bối rối quá đi mất.
+……謝らないでください。\n正直……私も貴方のこと、好きですよ。\nめっちゃ。=...Đừng có xin lỗi mà.\nThành thật thì... tớ cũng thích cậu lắm đấy.\nCực kỳ luôn ấy chứ.
+でも……この気持ちはしまっておこうと。\n守護騎士として、親友として、スミレを出し抜くことはできませんから。\n……それなのに、貴方のほうからなんて……=Nhưng mà... tớ vốn định giấu kín cảm xúc này đi cơ.\nBởi vì với tư cách là Thủ hộ hiệp sĩ, là bạn thân của Sumire, tớ không thể nào làm chuyện vượt mặt cô ấy được.\n...Thế mà, chính cậu lại là người chủ động tiến đến trước...
+……もう一度、いいですか。\n聞かせてください。\n騎士氏の気持ち。=...Cho tớ nghe lại lần nữa được không?\nĐể tớ được cảm nhận nhé.\nTình cảm của ngài Hiệp sĩ.
+……わーお。\nレイスにはぴったりの口説き文句ですね。\nさすがです。スケコマシ大将。=...Oa oao.\nLời tán tỉnh này đúng là hợp với một con Wraith như tớ ghê cơ.\nQuả không hổ danh mà. Đại tướng đào hoa lăng nhăng.
+ふふっ……今の言葉、しっかり受け取りました。\n私も覚悟を決めます。\n騎士氏……いえ。=Phì phì... Câu nói vừa rồi của cậu, tớ xin phép nhận lấy trọn vẹn nhé.\nTớ cũng hạ quyết tâm luôn rồi đây.\nNgài Hiệp sĩ... Không.
+大好きですよ。\n……{playername}くん。=Tớ yêu cậu nhiều lắm đấy.\n...Cậu {playername} ạ.
+
+いこう、グレイスさん！=Đi nào, Grace-san!
+死んでしまっても、ご安心を。\n私がずっと一緒にいますので。=Dẫu cho có chết đi chăng nữa, cậu cứ yên tâm nhé.\nBởi vì tớ sẽ luôn ở bên cạnh cậu mà.
+冗談よ。共に魂を燃やしましょう。\nソウルフル・グレイテスト・スラスト！=Đùa chút thôi. Nào, chúng ta hãy cùng nhau cháy hết tâm can thôi nào.\nSOULFUL GREATEST THRUST──!
+
+す……すみません。=T... Tớ xin lỗi nha.
+死ぬまでグレイスさんと一緒にいます。=Tớ sẽ ở cạnh Grace-san cho đến tận lúc chết luôn.
+
+あ？\n{playername}、今なんつった？=Hả? {playername}, vừa nãy mày nói cái đék gì thế?
+俺と手前はダチ公だろうが。\nこの流れでダチを選ぶヤツがいるかよ。=Mày với tao là chiến hữu cơ mà. Ai đời trong hoàn cảnh này lại đi chọn chiến hữu chứ hả.
+ずっと一緒にいてぇ……か。\nそいつぁ出来ねぇ相談ってやつだ。\n悪ィがな。=Muốn ở bên nhau mãi mãi... à.\nChuyện đó thì tao không nhận lời được đâu. Xin lỗi nhé.
+どう頑張ったって──どっちかが、いずれ先に死ぬ。\n片方は、残される。\n俺が双子の妹に……残されたみてぇにな。=Dù có cố gắng thế nào đi nữa── thì trước sau gì cũng sẽ có đứa chết trước.\nMột người sẽ bị bỏ lại.\nGiống như tao... từng bị đứa em gái song sinh bỏ lại vậy.
+俺だってよ、騎士公。手前のこたぁ嫌いじゃァねぇさ。\nけど俺ァ、もう二度と連れを残したり、残されたりしたくねぇんだ。\n……だからよ、悪ィな──=Này nhóc hiệp sĩ, tao cũng chẳng ghét bỏ gì mày đâu.\nNhưng tao không muốn phải chịu cảnh bỏ lại người bên cạnh hay bị bỏ lại thêm lần nào nữa.\n...Cho nên là, xin lỗi nhé──
+…………あァ？=...Hả?
+あー……ひょっとしてアレか？\n前に俺がぶっ殺されたとき、手前に取り憑いちまったみてぇにって事か。\n──ハッ。=A... hay ý mày là vụ đó hả?\nKiểu như hồi tao bị tẩn cho tơi bời rồi nhập hồn vào mày ấy hả?\n──Hạ.
+アッハッハ！！\nそうか──そいつァいいや！=Á ha ha!!\nThế ra là vậy── nghe được phết đấy chứ!
+てこたァだ、俺が先におっ死んだら、また手前に憑くことになんのか？\n──たく、しゃあねえ。\n手前みてぇな素っ頓狂、おちおち目ぇ離してらんねェしな。=Đồng nghĩa với việc nếu taom có lăn ra ngỏm trước, thì tao lại ám vào mày tiếp chứ gì?\n──Đúng là hết nói nổi.\nMấy đứa ngốc nghếch như mày, tao đasq phải để mắt tới suốt không rời được cơ mà.
+……けどよ。どっちが化けて出るにせよ、\n俺も手前も、ここでくたばるワケにゃあいかねぇよな。\n幻境竜后──あのズベ公に、一泡吹かせてからにしようぜ。=...Nhưng mà này. Cho dù đứa nào có biến thành ma đi chăng nữa,\nthì cả mày lẫn tao đều không được phép bỏ mạng ở cái chỗ này.
+んじゃま、気張っていこうやダチ公──\nや、違うか。\nなんか照れるが……=Nào, giờ thì lên dây cót tinh thần chiến đấu thôi chiến hữu──\nƠ không, sai à.\nNghe cứ ngượng ngùng thế nào ấy nhưng mà...
+夜露死苦な、ツレ公よ。=Chiếu cố nhau nhé, người tình dấu yêu.
+
+本気だ。ずっと一緒にいたい。=Tớ nghiêm túc đấy. Tớ muốn được ở bên cậu... mãi mãi.
+僕が死んだら、サツキさんに取り憑く！=Nếu tớ chết, tớ sẽ ám ngược lại Satsuki-san luôn cho xem!
+
+いこう、サツキさん！=Đi nào, Satsuki-san!
+そろそろケリつけようかい。\n{playername}、合わせろよ。=Đã đến lúc chấm dứt tất cả rồi đây.\n{playername}, phối hợp cho tốt vào đấy.
+あばよ。\n──六角納骨・四方相杓りッ！=Vĩnh biệt.\n──Lục Giác Nạp Cốt - Tứ Phương Tương Thược──!
+
+……？\nえ……=...? Hả...?
+え、え、え、え～～っ！！？\nあ、あ、あ、あてっ！？！？=Ơ, ơ, ơ, ơ~~~~~!!?\nL... L... L... Là em á!?!?!
+へぅっ……\nい、い、いけね……雪に還るとこだった……\nで、でも、騎士さ……=Hư ức...\nT... T... Tiêu rồi... suýt chút nữa thì hóa thành tuyết mất tiêu rồi...\nM... Mà, nhưng mà ngài hiệp si...
+ほ、本当にいいの……？\nあ、あてなんか……\n田舎者で、引っ込み思案で、騎士さに助けてもらってばっかで……=Th... Thật sự chọn em ổn chứ...?\nEm chỉ là... một đứa nhà quê, nhút nhát, lúc nào cũng chỉ biết chờ được ngài hiệp sĩ cứu giúp...
+なにより……騎士さのこと、氷漬けにしちまうかもなのにっ……\n騎士さのことも、みんなのことも、不幸にしちまうかも……=Hơn hết thảy... lỡ như em biến ngài hiệp sĩ thành tảng băng thì sao chứ...\nLỡ như em mang lại bất hạnh cho ngài, và cho cả mọi người nữa thì sao...
+あ……そ、そんな……う、うぅっ……\nな、なんでそんな、まっすぐに……あてのこと、見てくれんの……？=Á... Kh... Không thể nào... Ư, ức...\nS... Sao ngài lại nhìn em... với ánh mắt thẳng thắn và chân thành đến thế...?
+そ、そんなに、見つめられたら……あても、我慢できね……\n騎士さ、本当に優しくって……あての欲しい言葉、くれて……\nダ、ダメだってわかってても、あて……うれしいって、思っちまうよ……=Bị ngài nhìn chằm chằm thế này... em không tài nào kìm chế được nữa đâu...\nNgài hiệp sĩ dịu dàng quá mức rồi... lại còn nói những lời mà em hằng mong muốn nữa chứ...\nBiết... biết là không được phép đâu, nhưng mà em... vẫn thấy hạnh phúc lắm ngài ơi...
+あ……き、騎士さ……\n騎士さに、ぎゅってされるの……やっぱり、好きだ……=Á... Ng... Ngài hiệp sĩ ơi...\nĐược ngài siết chặt trong vòng tay thế này... quả nhiên là em thích lắm...
+あ、あての体は……冷たくねぇか？\nあてはもう……自分の体が、熱いのか冷たいのかも……\nド、ドキドキしすぎて……よくわがんね……=Cơ thể của em... có bị lạnh lắm không hả ngài?\nBản thân em bây giờ... đến cả việc cơ thể mình đang nóng hay lạnh nữa...\nTim đập thình thịch thế này... nên em chẳng phân biệt nổi nữa rồi...
+でも、やっぱり……ほっとするよ……\nそれに、今だけじゃね……\nこれからももっと、こうやってぎゅってしてほしい……=Nhưng mà, quả nhiên vẫn là... cảm giác vô cùng an tâm...\nHơn nữa, không chỉ lúc này thôi đâu...\nEm còn muốn được ngài ôm chặt thế này mãi mãi về sau nữa cơ...
+騎士さが信じてくれるなら、あて、頑張れる……\nあての大好きな人、大事なもの……守るために、戦うよ。\nいこ、騎士さ……！=Chỉ cần ngài hiệp sĩ tin tưởng, em nhất định sẽ cố gắng...\nĐể bảo vệ người mà em yêu thương nhất, bảo vệ những gì trân quý nhất... em sẽ chiến đấu.\nĐi thôi nào, ngài hiệp sĩ...!!
+
+ユキノさん、溶けてる溶けてる！=Yukino-san, cậu đang tan chảy kìa, tan chảy kìa!
+ユキノさんを信じてるから。=Bởi vì tớ luôn tin tưởng Yukino-san mà.
+ありがとう、ユキノさん。=Cảm ơn cậu nhé, Yukino-san.
+
+いこう、ユキノさん！=Đi nào, Yukino-san!
+うん、任せてくんろ……\nあての力、あての心……全部、ぶつけんだ……！=Vâng, cứ để đó cho em...\nSức mạnh của em, trái tim của em... em sẽ dốc hết toàn bộ vào đây──!!
+ずっとずっと、騎士さと一緒に……！\n奏でるよ……[rub:もろごいゆき]諸恋雪[/rub]・[rub:こいのひきあみ]戀曳網[/rub]……！=Mãi mãi, mãi mãi ở bên ngài hiệp sĩ...!\nEm sẽ tấu lên khúc ca... [rub:Many-Loved Snow]Giai Điệu Tình Tuyết[/rub]-[rub:Love-Drawing Net]Lưới Tình Giăng Mắc[/rub]...!
+
+え、えぇ……っ？\nわたし？\nわたしですかあっ！？=Ể, ể~~~~~!?\nEm ư?\nLà em thật áaaa?!
+えっと、他の誰かとの間違いとかでは……\nあっ、もしかして夢っ？　都合のいい夢とか？\nすみません騎士さん、ちょっと頬っぺた引っ張ってもらえますか……？=Ừm, lỡ như ngài nhầm lẫn với ai khác thì sao...?\nÁ, hay là mơ nhỉ? Một giấc mơ quá tuyệt vời sao?\nXin lỗi ngài hiệp sĩ nha, ngài có thể véo nhẹ má em một cái được không...?
+ひゃうっ！\n……ゆ、ゆ、夢じゃ、ない……？\nそ、それじゃ……姉さんに言われたから……とかでもなく……？=Hyaaaaa! \n...Kh... Không phải... là mơ... đúng không...?\nTh... Thế thì... không phải là vì bị Chị Hai xúi giục... hay gì chứ...?
+ほ、本気……ですか……\nえ、えへ……そうですか……えへへ……=Th... Thật lòng... luôn sao ạ...\nE, ehe... Vậy ra là thế... Ehehe...
+……あ、ありがとうございます、騎士さん。\n正直、わたしが選んでもらえるなんて全然思ってなくて……=...Em... em cảm ơn ngài hiệp sĩ rất nhiều.\nThật lòng thì, em chưa từng nghĩ có ngày mình lại được chọn...
+でも、わたし……\n{playername}さんに選んでもらえて、すごくうれしいです。=Nhưng mà, em...\nĐược chính anh {playername} chọn, em vui lắm ạ.
+あの……なので、その……わたし、騎士さんのこと、一生懸命支えます。\nわたしにできることなら、なんでもします。\nなので……不束者ですが、よろしくお願いします。=Ưm... Thế nên là... em sẽ hết lòng phò tá ngài hiệp sĩ.\nBất cứ chuyện gì trong khả năng, em đều sẽ làm hết.\nCho nên... em tuy còn nhiều thiếu sót, nhưng rất mong sẽ được ngài chiếu cố.
+あっ、もちろん姉さんやフブキちゃんのこともお願いしますっ。\nきっと、二人とも喜んでくれると思いますから……\n……歓迎はちょっと荒っぽくなるかもしれませんけど。=À, và tất nhiên là mong ngài cũng hãy quan tâm đến Chị Hai và cả Fubuki-chan nữa nhé.\nEm chắc chắn là hai người ấy cũng sẽ vui lắm cho xem...\n...Mặc dù cách họ chào đón có hơi thô bạo một chút xíu thôi.
+…………あ、あのっ！\nわたし臆病だし、全然騎士さんとは不釣り合いかもしれませんけどっ。\nでも、胸を張って隣に並んで立ってられるように頑張りますからっ！=...Ư, ừm!\nEm vốn nhát gan, lại thấy bản thân chẳng hề xứng đôi với một ngài hiệp sĩ tài ba như anh chút nào cả.\nNhưng mà em sẽ cố gắng hết sức để có thể tự tin ngẩng cao đầu đứng sánh vai bên cạnh anh!
+だから……わたしのこと、見ててほしいです。\nわたしが頑張れてるか、しっかりと。=Cho nên... em muốn ngài hãy luôn dõi theo em.\nXem xem em có đang cố gắng thật tốt không nhé.
+……えへ。\nありがとうございます、わたしの親愛なる監視役さん……\n──いえ、わたしの大好きな{playername}さんっ♪=...Eheh.\nEm cảm ơn ngài, người giám sát thân thiết của em...\n──Không, là anh {playername} yêu dấu của em mới đúng chứ ♪
+
+むにっ。=Bóp má
+本気だよ。=Anh nghiêm túc đấy.
+ずっと見てるよ。=Anh sẽ luôn dõi theo em mà, Wakana-chan.
+
+いこう、ワカナちゃん！=Đi nào, Wakana-chan!
+わ、わたしと騎士さんの絆には、これからが……\n未来がありますから！\nだから、誰にも奪わせませんっ！=M... Mối liên kết giữa em và ngài hiệp sĩ, vẫn còn cả một tương lai... ở phía trước cơ mà!\nThế nên, em sẽ không để bất cứ ai cướp nó đi đâu!
+バンディ＆ナイト──\nスパーーーイクッ！！=Bandy & Knight──\nSMASH CỰC MẠNH TAYYYYYY──!!
+
+ふ～ん？　ふぅーん……\nふ～～～～ん……♡=Hừm? Hưm hưm... Hư~~~~m...♡
+ザコお兄さんさ～、自分で言ってる意味わかってる？\n「ザコザコでよわよわな僕は、大好きなフブキちゃんがいないと\n生きていけませぇ～ん」ってことだよね～♡=Này anh trai gà mờ ơi~ Tự cậu nói ra mà có hiểu ý nghĩa của nó không thế? Ý cậu là "Một kẻ té riu yếu ớt như em, nếu không có Fubuki-chan yêu dấu thì sẽ chẳng thể sống nổi đâu~", đúng không nào~♡
+え、そんなの言ってない？　きゃははっ、必死すぎてだっさ♪\nでもさー、ザコお兄さんのホンネってもうバレバレなんだよね。\n口では強がってても、魂がフブキちゃんに負けたがってる～みたいなぁ？=Ể, cậu chưa nói câu đấy bao giờ á? Kyahaha, cố chối đây đẩy trông quê mùa quá đi mất♪ Nhưng mà nha, đáy lòng của cái tên anh trai gà mờ này đã lộ rõ hết cả rồi. Ngoài miệng thì cứ hay ra vẻ ta đây, nhưng mà sâu thẳm trong tâm hồn lại đang thèm thuồng được thua dưới tay Fubuki-chan phải hông cơ chứ~?
+顔？　挙動？　オーラ？　そういうのからぜーんぶ、\nザコザコな匂いが染み出ちゃってるもん♪　ホントなっさけなーい♡\nあーあ、見ててかわいそーになってきちゃった♪=Khuôn mặt á? Biểu cảm á? Hào quang á? Mấy thứ đó từa lưa tà la đều... toát ra cái mùi gà mờ kém cỏi hết cả rồi kìa♪ Trông thảm hại làm sao đó nha♡ A~i da, nhìn cậu thế này tự dưng tớ lại thấy thương hại giùm luôn á♪
+そんでぇ、フブキちゃんにすべてを捧げさせてくださ～い、だっけ？\nお兄さんでもいちおー使いどころはあるし、実際役には立ってるし？\nゴホービに、お願い聞いてあげなくもないかなーって思ったり～……=Rồi xong, kiểu như là "xin hãy cho em dâng hiến tất cả mọi người cho Fubuki-chan", đúng không nhể? Cho dù là một tên như cậu thì ít ra vẫn có chỗ dùng được, và thực tế là cũng có ích phết đấy chứ? Thế nên là tớ đang nghĩ hay là... ban ơn cho cậu một chút, chấp nhận thỉnh cầu của cậu như một phần thưởng nhỉ~...
+──なーんて、ぷぷ～っ！　本気で期待しちゃった？\nよわよわザコザコお兄さんにゴホービなんてありませ～ん♡\nぼくにお願いしたいなら、もっとみっともなく頭下げたりさー……=──Đùa đấy, phì phì~ Phốc! Cậu tưởng thật và ôm hy vọng luôn đấy à? Đời nào lại có phần thưởng cho một tên anh trai gà mờ yếu ớt như cậu chứ~♡ Nếu muốn được tớ ban ơn cho điều gì đó, thì cậu phải cúi đầu van xin thảm hại hơn nữa cơ...
+は……？　いや、ちょっと……お兄さん何言ってんの！？\nここまで来てそんなのアリなの？　ないっしょ！？\n待って、さりげなくどっか行こーとすんな！　ねぇ無視すんな～！=Hả...? Không, chờ chút... Anh trai đang nói cái khỉ gì thế hả!? Đi đến nước này rồi mà còn chơi bài chuồn á? Làm quái có chuyện đó được! Đợi đã, đừng có mà lén lút chuồn đi chỗ khác nha! Này, đừng có phớt lờ tớ chứ~!
+あーもーわかった！　お兄さんのお願い聞いたげる！\nザコお兄さんのくせにナマイキなのめちゃくちゃムカつくけど、\nちゃんと戦ってあげるし！　わーフブキちゃんやさし～っ！=Ái chà được rồi, hiểu rồi đấy! Tớ chịu thỉnh cầu của cậu là được chứ gì! Dù rất ghét cái kiểu xấc láo của một tên gà mờ như cậu, nhưng mà tớ vẫn sẽ đàng hoàng chiến đấu cùng cậu đấy nhé! Oa, Fubuki-chan tốt bụng ghê cơ~!
+はー、はー……ちゃ、ちゃんとゆーこと聞けて偉いじゃん？\nやっぱお兄さんはそーでなくっちゃだよね～\nぼくの命令に逆らうとかありえないっつーか、ムリでしょ♡=Hộc, hộc... B... Biết ngoan ngoãn nghe lời thế là ngoan lắm đấy, biết chưa? Quả nhiên anh trai phải thế này mới đúng điệu chứ lị~ Chống lại mệnh lệnh của tớ á, đời nào có chuyện đó xảy ra, mà có muốn cũng đố làm nổi đấy nhé♡
+あーダメだってば！　もー、そーゆーのなし！\nお兄さんはぼくと一緒にクソトカゲ女をぶっとばすの！\nハイけってーい♪　異論は認めませーん♪=Ái, đã bảo là không được mà lị! Trời ạ, không có kiểu đó đâu đấy nhé! Cục cưng anh trai đây phải cùng tớ đấm bay cái ả thằn lằn rác rưởi kia đi chứ! Nào, quyết định vậy đi nghen♪ Miễn kháng cáo đấy nhớ chưa♪
+そ・ん・でー♡\n終わったらぁ、一生フブキちゃんのドレーにしたげるから♪\n覚悟しといてね、お・に・い・さ・ん♡=Rồ・i・thìー♡ Xong xuôi đâu đấy rồi, tớ sẽ ban cho cậu đặc ân làm nô lệ của Fubuki-chan trọn đời luôn cho coi♪ Cứ chuẩn bị tinh thần sẵn sàng đi nha, a・n・h・t・r・a・i♡
+
+じゃあ他の人にするね。=Vậy tớ chọn người khác vậy nhé.
+それならフブキちゃんにする。=Thế thì tớ chọn Fubuki-chan vậy.
+やっぱり他の人に……=Quả nhiên vẫn chọn người khác thôi...
+
+いこう、フブキちゃん！=Đi nào, Fubuki-chan!
+もー、命令すんなしー！\nお兄さんのお願い、聞いてあげるだけならー=Trời ạ, đừng có mà ra lệnh cho người ta chứ lị! Tớ chỉ đồng ý thực hiện nguyện vọng của cậu thôi đấy nhé~
+とにかく、ジャマな奴は全員ぶっとばしまーす！\n二人でいっしょに♡　ウルトラバースト♪=Nói tóm lại, đứa nào dám ngáng đường là cứ đấm văng hết cho tớ! Cùng nhau xông lên nào hai ta ơi♡ ULTRA BUUUUURST♪
+
+あたち……でしゅか？　あたち、で、いいんでしゅか……？\nちょ、ちょっと待ってくだしゃい、心の準備がまだ……！=L... Là em... sao ạ? Ch... Chọn em thật... ổn đấy chứ ạ...?\nCh... Chờ một chút nha, em... em vẫn chưa chuẩn bị tinh thần đâu...!\n
+うじゅじゅじゅ……ぶぶっ！\nす、すみましぇん。\n墨が出ちゃいまちた……=U jyu jyu jyu... phụt!\nEm... em xin lỗi ạ.\nMực... mực cứ trào ra mất rồi...
+あたちはただの小姓見習いでしゅ。\n触手はぬるぬるだし墨は出ちゃうし……\nこんなあたちで、ほんとにいいんでしゅか……？=Em chỉ là một tiểu đồng tập sự thôi mà.\nXúc tu thì nhớp nháp lại còn hay phun ra mực nữa... \nMột người như em, thực sự... thực sự được chọn luôn sao ạ...?
+あたち、何をやってもうまくできてまちぇん。\n姫姉しゃまや、グレイス姉しゃまみたいに\n騎士しゃんの力になれる気がちないでしゅ……=Em làm việc gì cũng hậu đậu, chẳng nên hồn cả.\nCảm giác như em không thể giúp ích được gì cho ngài hiệp sĩ giống như... Chị Hai Princess hay Chị Hai Grace vậy...
+……えっ。\nあたちだから……？\n……うじゅ、また何か出しょうでしゅ……ちょっとまって……=...Ể.\nLà... vì em sao...?\n...U jyu, sắp có cái gì trào ra nữa rồi... Chờ chút đã nào...
+……サツキ姉しゃまに、教えてもらったことがありましゅ。\n「胸張って、背筋伸ばして、堂々と伝えればいい」って。\n「素直な言葉は、相手に刺さる」って。=...Chị Hai Satsuki từng dạy em một điều thế này.\n"Cứ ngực ưỡn thẳng, lưng vươn vai, đường hoàng mà bày tỏ là được."\n"Những lời nói chân thành xuất phát từ đáy lòng, nhất định sẽ chạm đến trái tim đối phương."
+サツキ姉しゃまのことがあった時……騎士しゃんのおかげで、\nみなしゃんの気持ちが、一つになったでしゅよね。\nあたち……ああなりたいって、ずっと思ってたんでしゅ。=Vào cái lúc xảy ra chuyện với Chị Hai Satsuki... nhờ có ngài hiệp sĩ, mà cảm xúc của mọi người mới có thể hòa làm một.\nEm... vẫn luôn hằng ao ước được giống như ngài.
+……ふしぎなんでしゅ。騎士しゃんのそばにいると……\nお腹の奥がきゅうってなって、なんだか……おいちそう、っていうか……\n……えっ、あたち今なんて言いまちた……？=...Lạ lắm luôn ấy. Cứ mỗi lần ở cạnh ngài hiệp sĩ... \nLà lồng ngực em lại thắt lại, cảm giác cứ thế nào ấy... kiểu như... trông ngon miệng ghê, hay sao ấy nhỉ...\n...Ể, vừa nãy em lỡ nói cái gì thế kia...?
+う、うまく言えましぇんけど……！\nこの気持ちぜんぶで……騎士しゃんが、ほちいんでしゅ。=D... Dù em không biết diễn tả sao cho phải nữa...!\nNhưng với toàn bộ cảm xúc này... em muốn có được ngài hiệp sĩ cơ.
+いつか騎士しゃんみたいに、みなしゃんを繋げたい……\nタコでもイカでもない……『ルルィ』とちて。=Đến một ngày nào đó, em cũng muốn kết nối mọi người lại với nhau giống như ngài hiệp sĩ... \nKhông phải với tư cách là một con bạch tuộc hay con mực nào cả... mà là "Lului".
+……はいっ！　約束でしゅ！\nタコ足で、指切り……しゃせてくだしゃいね。\n……じゅるり。……あっ、な、何でもないでしゅ……たぶん。=...Vâng ạ! Là giao ước đó nha!\nMình ngoéo tay... bằng xúc tu nhé ngài.\n...Chẹp. ...Á, kh... không có gì đâu ạ... chắc là thế.
+
+うん。ルルィちゃんがいい。=Vâng. Anh chỉ muốn Lului-chan thôi.
+ルルィちゃんだから、一緒にいたいんだ。=Vì đó là Lului-chan, nên anh mới muốn ở bên cạnh.
+隣にいるよ。一緒に繋いでいこう。=Anh sẽ luôn ở ngay bên cạnh em. Chúng ta hãy cùng nhau kết nối tất cả nhé.
+
+いこう、ルルィちゃん！=Đi nào, Lului-chan!
+はいでしゅ、騎士しゃん！\nふんぐるい　むぐるうなふ──るるいえ！=Dạ vâng thưa ngài hiệp sĩ!\nPh'nglui mglw'nafh... r'lyeh!
+おとうしゃまの力、お借りしましゅ！\nしゅーぱーうねうねらっしゅ・でらっくしゅ！！=Xin mượn lấy sức mạnh của Phụ thân!\nSUPER WRIGGLE RUSH DELUXEEEE──!!
+
+…………………………ハァ？=............Hả?
+オイオイ……オイオイオイオイ。\n酔っぱらってんのかいボーヤ。\nワカナでもフブキでもなく、アタシだって？=Này này... này này này này.\nCậu say rượu rồi hả nhóc con?\nKhông phải Wakana cũng chẳng phải Fubuki, mà là tao á?
+アタシにその気はないってのは伝えたし、\n姉弟の契りだって交わしたはずだ。\nそれでもお前さんはアタシを選ぼうって言うんだね？=Tao tưởng tao đã bảo là không có hứng thú với chuyện đó rồi chứ, tụi mình còn kết nghĩa chị em (hoặc chị em kết nghĩa) với nhau rồi cơ mà.\nThế mà mày vẫn chọn tao đấy à?
+……その眼……本気だね。\n……はぁ。まさか義弟にしようって男が\nアタシを欲しがるだなんて、思ってもみなかった。=...Ánh mắt đó... Mày nghiêm túc thật đấy nhỉ.\n...Haiz. Tao chưa từng nghĩ cái thằng mà tao định nhận làm em rể lại đi muốn có được tao đấy.
+けど、お前さんがそこまで求めるってんなら、\n応えてやらなきゃ女が廃るってモンか。\n……ワカナとフブキにゃ悪いけどね。=Nhưng mà, nếu mày đã khao khát đến thế...\nThì nếu tao không đáp lại, mặt mũi đàn bà của tao vứt đi đâu.\n...Chỉ là hơi có lỗi với Wakana và Fubuki thôi.
+──よし、腹ァ括ったよ！\nお前さんとアタシで、お互いの人生を全ツッパといこうか。\n人生賭けようってンだ、なかなか面白い賭けになりそうじゃないかね。=──Được rồi, tao liều luôn đây!\nMày và tao, cùng chơi lớn dốc toàn bộ cuộc đời vào nhau đi nào.\nĐã đánh cược cả cuộc đời thì thế này mới là một ván cược thú vị chứ lị.
+途中で降りるだなんてピーピー喚いても許してあげないよ。\n覚悟はできてるね、ボーヤ？=Đừng có mà hòng khóc lóc gào thét đòi bỏ cuộc giữa chừng đấy nhé.\nChuẩn bị tâm lý sẵn sàng chưa hả nhóc?
+いい返事だ♪\nあぁ、それから──他の女どもはともかく。\nワカナとフブキには、ちゃあんと構ってあげるんだよ。=Câu trả lời tốt lắm♪\nÀ, với cả──Mấy đứa con gái khác thì không nói.\nNhưng nhớ phải quan tâm, chăm sóc Wakana và Fubuki cho đàng hoàng đấy nhé.
+よし、これでもうお前さんは今から家族の一員だ。\nそれじゃあ手始めに──LoA丸ごと、\nアタシたちで奪い取ってやろうじゃないか！=Được rồi, từ giây phút này mày chính thức là người một nhà rồi.\nThế thì, việc đầu tiên── Toàn bộ LoA này,\nchúng ta cùng nhau cướp lấy nó thôi nào!
+
+いこう、ヤマトさん！=Đi thôi, Yamato-san!
+勝負のツキはアタシらに傾いたみたいだね。\nさあ、一気にケリをつけちまうよ！\n合わせな、ボーヤ！=Có vẻ như vận may đang nghiêng về phía chúng ta rồi đấy.\nNào, kết thúc nó trong một nốt nhạc luôn đi!\nHợp sức với tao nào, nhóc!
+これが家族の絆ってやつさ！\n──ファミリア・ティース・ワインディング！=Đây chính là cái gọi là sợi dây liên kết gia đình đấy!\n──FAMILIA TEETH WINDING!!!
+
+ちょ……ちょっと待って！？\n『基創錬成』──よし、『夢なら覚める薬』完成よ！\nごくり……っ。……っ……ゆ、夢じゃないわ。=K-Khoan, chờ chút đã nào...!? "Cơ Sáng Luyện Thành"──Được rồi, "Thuốc Tỉnh Mộng" của mình đã hoàn thành! Ực, ực... Ch... Chẳng phải mơ đâu.
+……ほんとに？\n夢でも冗談でもないんだよね……？=...Thật chứ? Không phải mơ hay trò đùa đấy chứ...?
+あなたが私のこと選んでくれるなんて……\n……こんな幸せなことがあっていいのかな？=Không ngờ anh lại chọn em... Chuyện hạnh phúc nhường này... thực sự có thể xảy ra với em sao?
+こんなに幸せで、いいのかな……？=Hạnh phúc thế này, liệu có ổn không chứ...?
+……っ！　そ、それは妄想の中でなら、\nあんなことやこんなことも自信満々に……\nじゃなくてっ！！=...Ư! Đ... Đó là trong tưởng tượng thì em mới tự tin làm đủ chuyện này chuyện nọ... Không phải thế đâu nhé!!
+──幸せに臆病になっちゃうなんて私らしくないわ。\n私は必ず目標を達成させる。\n何があっても絶対に諦めない。=──Trở nên rụt rè trước hạnh phúc không phải là phong cách của em chút nào. Em nhất định sẽ đạt được mục tiêu của mình. Dù có chuyện gì xảy ra đi nữa, em cũng tuyệt đối không bỏ cuộc.
+イロハちゃんとソノさんを元に戻す伝説の秘薬も、\nダーリンとの甘い新婚生活も、\n絶対に手に入れて見せるわ……だって。=Cả thứ bí dược huyền thoại để biến Iroha-chan và Sono-san trở lại bình thường, lẫn cuộc sống tân hôn ngọt ngào với anh... em nhất định sẽ giành lấy cho bằng được... Bởi vì...
+だって私は天才錬金術師・ルイズマリーですからっ！=Bởi vì em chính là... nhà giả kim thiên tài Louise Marie đó mà!
+……っ！！！！！\nす……すすす……好きっていわれたっ！！？\n妄想じゃなく、ほんとのほんとの本当にっ！！？=...!!! Đ... Đ... Đ... Đã bảo là thích em á!!? Không phải trong tưởng tượng, mà là thật 100% bằng xương bằng thịt luôn á!!?
+……へへ。\nえへへ……=...Hehe.\nEhehe...
+アイ・ウィル・ラブ・ユー・フォーエバー……=I Will Love You Forever... (Em sẽ yêu anh mãi mãi...)
+
+もっと自信満々だと思ってた。=Em tưởng mình sẽ tự tin hơn cơ.
+それでこそ僕の好きなルイちゃんだね！=Đúng là Lou-chan mà anh yêu quý rồi!
+
+いこう、ルイちゃん！=Đi nào, Lou-chan!
+オッケー、ダーリン！\n夫婦になって初めての共同作業……！=Okay, Darling! Đây sẽ là công việc chung đầu tiên của hai vợ chồng mình...!
+練れば練るほど、愛よ深まれ！\n究極錬成-恋愛融合-！！=Càng nhào nặn, tình yêu càng sâu đậm! \nCực Kịch Luyện Thành - Ái Tình Dung Hợp──!!
+
+…………え？\n私を選ぶの。なんで、どうして……？=...Hả? Cậu chọn tôi á? Sao, tại sao cơ chứ...?
+だって私、見た目は子どもだけど、\n中身はなかなかの大人だよ……？\nや、見た目で選ばれんのもやばいんだけどさ……=Vì rõ ràng trông tôi giống trẻ con thế này, chứ bên trong thực chất là một người lớn đàng hoàng đấy nhé...? \nNhưng mà, nếu chỉ vì ngoại hình mà chọn tôi thì cũng có vấn đề lắm đấy...
+……ってかそんなんいきなり言われたら照れるじゃん。\nまったく大人焦らせないでよ、このマセガキ。=...Mà nói gì thì nói, tự nhiên bị tỏ tình kiểu đấy ngại chết đi được. \nTrời ạ, đừng có làm một người lớn như tôi phải bối rối chứ, cái đồ ranh con cụ non này.
+でも、そっか……私のこと見ててくれたんだ。\nそっかぁ……ふふ。=Nhưng mà, hóa ra là vậy... Cậu vẫn luôn để mắt đến tôi cơ à.\nRa là thế... Hì hì.
+……っ……は？　泣いてませんけど？\nってか泣く要素なさすぎん？　何涙？\nまったくおかしなこと…………っ。=...Ư... Hả? Ai thèm khóc chứ bộ?\nMà làm gì có lý do gì để mà khóc cơ chứ? Nước mắt đâu ra thế này?\nĐúng là mấy chuyện kỳ quặc... Ư...
+あーはいはい、泣いてます泣いてます。\nあのね、言っときますけど大人って涙腺ぶっ壊れてるから。\n赤ちゃんが笑うだけで泣くから。ホントそれだけだから。=À thì vâng vâng, tôi đang khóc, đang khóc đây.\nNày nhé, nói cho cậu biết là tuyến lệ của người lớn tụi tôi bị hỏng từ lâu rồi đấy.\nChỉ cần thấy em bé cười thôi là cũng đủ khóc rồi. Thật đấy, chỉ thế thôi đấy.
+だ……だからそういうんじゃないって！\nてかなんでそんなセリフ言えちゃうんかな……もう。\n君って本当マセてるよね。=Đ... Đã bảo không phải thế mà lại còn! \nMà sao cậu cứ thản nhiên nói ra mấy câu đó hay thế cơ chứ... Trời ạ.\nCậu đúng là ông cụ non chính hiệu luôn rồi đấy.
+……でもさ、それは君の純粋な言葉だって分かってる。\n嘘や偽りや、自分を上げるための言葉じゃないって。\nだから……心に響くんだね。=...Nhưng mà, tôi biết đó đều là những lời nói chân thành và thuần khiết từ cậu.\nKhông hề có chút dối trá, giả tạo hay cố tình nói để nâng cao bản thân nào cả.\nThế nên... nó mới chạm đến trái tim tôi đấy.
+ふふ……さぁて、まだゆっくりはできないみたいだね。\nじゃあもう少しだけ頑張っちゃいますか。=Hì hì... Nào, xem ra vẫn chưa được nghỉ ngơi thảnh thơi đâu nhỉ.\nThế thì đành ráng cày cuốc thêm một chút nữa vậy.
+君に選んでもらった私に恥じないため──\nつおぉおっ！！？=Để không hổ thẹn với việc được chính cậu lựa chọn──\nÁ s… ối giời ơi đau quá!!!?
+……あ、足、攣った。\nちょっとあっち向いててくれる……=...Ch... Chân, bị chuột rút rồi.\nCậu quay mặt đi chỗ khác một tí được không...
+
+……ソノさん、泣いてます？=...Sono-san, chị đang khóc đấy à?
+これからは僕が泣かせません。=Từ bây giờ, em sẽ không để chị phải khóc nữa đâu.
+
+いこう、ソノさん！=Đi nào, Sono-san!
+うん、イロハと君の力を借りられたらなんとかなる……！\nさっさと終わらせて定時で帰るよ！=Ừm, nếu có được sự giúp đỡ của Iroha và cậu thì chắc chắn sẽ ổn thôi...!\nGiải quyết cho nhanh gọn rồi về nhà đúng giờ thôi nào!
+呼吸を合わせて！\nはあああ……！\nアムニス・デュオ・オケアノス！=Điều hòa nhịp thở nào!\nHaaaaa...!\nAMNIS DUO OCEANUS!!!
+
+……えっ？\nおじちゃん、イロハを選んでくれるの……？\nほんとに……？=...Hả? Chú chọn Iroha cơ á...? Thật á...?
+ううぅ……すっごくうれしいよ、おじちゃん。\nだってそれはつまりさ、おじちゃんはこれからの人生を\n病める日も健やかなる日も、命ある限りイロハの……=Huhu... Iroha vui lắm luôn á, chú ơi.\nVì điều đó có nghĩa là... từ nay về sau, trong suốt quãng đời còn lại... dù ốm đau hay mạnh khỏe, chừng nào còn sống thì chú cũng sẽ là...
+一番の遊び相手になってくれるってことだもんね！？\nやったやった！　やったぁ～～～！！\nそんなのイロハ、夢みたいだよ♪=Người bạn đồng hành chơi vui nhất của Iroha, đúng không nào hả!?\nYaeh yaeh! Yaaaaeeh~~~!!\nIroha cứ ngỡ như đang mơ vậy đó♪
+あっ、でも困ったな。おじちゃんはソノちゃんのいい人だから\nイロハとばっかり遊んでたら、ソノちゃんと過ごす時間が\n少なくなっちゃうよ。=Á, nhưng mà kẹt ghê cơ. Chú là người thương của chị Sono mà,\nhướng trọn thời gian chơi đùa với mỗi Iroha thôi,\nthì thời gian ở cạnh chị Sono sẽ bị ít đi mất tiêu đấy.
+う～～ん、参ったなあ～\n一緒のおうちで暮らせば、いっぱい時間があるから、\nそんな悩みもごムヨーなんだけどなあ～……=Ừm~~~~, khó xử ghê ta ơi~\nNếu mà dọn về chung một nhà thì sẽ có khối thời gian bên nhau,\nlúc đó mấy chuyện phiền não này bay sạch luôn cho xem~...
+どうしたらいいかなあ……チラチラ\nアレが必要かもしれないなあ……チラチラ\nおじちゃんとソノちゃんの、「け」で始まって「ん」で終わるやつが……=Phải làm sao bây giờ ta... liếc mắt, liếc mắt\nHình như chúng ta cần có cái đó á nghen... liếc mắt, liếc mắt\nCái thứ giữa chú và chị Sono, bắt đầu bằng chữ "k" và kết thúc bằng chữ "h" ấy...
+えっ、なに結婚！？！？\nなーーんだおじちゃん、せっかちだなあ。\nそんなに待ちきれなかったんだねえ、このスケベ♪=Hả, gì cơ, kết hôn á!?!?\nRa~~~ là thế, chú gấp gáp ghê cơ.\nNóng lòng đến mức không chờ nổi nữa đúng hông, đồ dê xồm này♪
+よーし！\nそれじゃあ、一緒にあのドラゴンのおねーさんを倒したら、\nそのままお役所に『コンイン届』出しにいこっか♪=Được gò nha!\nThế thì, sau khi tụi mình cùng nhau đập gục chị rồng kia xong,\nthì ghé thẳng lên phường để nộp "giấy đăng ký kết hôn" luôn nhở♪
+戦いの後だからソノちゃんはきっとヘトヘトだし、\nあの姿だとお役所でも断られちゃうと思うから、\nイロハがこうやって代わってあげるね。んしょんしょ……=Chị Sono vừa đánh trận xong chắc chắn sẽ mệt rã rời luôn,\nmà với bộ dạng đó thì chắc phường cũng chẳng cho vào đâu, cho nên Iroha sẽ ra tay thay thế chị ấy nha. Nâng lên đặt xuống...
+こんにちは～、ラブラブ新婚夫婦でーす♡\n二人で幸せになるので、この『コンイン届』受理してくださーい♡\nほらおじちゃんも、キリっとした顔で「幸せにします」とか言って。=Xin chào mọi người~ Tụi em là cặp đôi tân hôn ngọt ngào đây ạ♡\nTụi em sẽ hạnh phúc bên nhau mãi nên là hãy thông qua "giấy đăng ký kết hôn" này giùm tụi em nha♡\nNào chú ơi, làm nét mặt thật nghiêm túc rồi nói "Tôi sẽ mang lại hạnh phúc cho em" đi chứ.
+うんうん、準備も完璧だねえ♪\nよーし、そうと決まったらサイキョーのイロハが\n悪い人をバシーッと倒してみーんな幸せにしてあげるんだ！=Ừm hửm, chuẩn bị ngon lành cành đào luôn rồi nè♪\nĐược gò, đã quyết định vậy thì Iroha mạnh nhất hành tinh này\nsẽ cho mấy kẻ xấu bầm dập tơi bời rồi mang lại hạnh phúc cho tất tần tật mọi người luôn!
+ほら、行くよおじちゃん！\n早く早くっ♪\n時間は待ってくれないよーー！=Nào, đi thôi chú ơi!\nNhanh lên nhanh lên nào♪\nThời gian không chờ đợi ai đâu đó nghen~~~!
+
+……結婚のこと？=...Chuyện kết hôn á?
+幸せにします。キリっ。=Tôi sẽ mang lại hạnh phúc cho em. Nét mặt nghiêm túc.
+
+いこう、イロハちゃん！=Đi nào, Iroha-chan!
+よーし！\nおじちゃん、イロハの剣に合わせてね！=Được gò nha!\nChú ơi, nhớ phối hợp nhịp nhàng với kiếm pháp của Iroha đấy nhé!
+イスルギ＆おじちゃん流奥義！\nいろは歌【瑠璃琥珀】！=Tuyệt kỹ phái Isurugi & Chú!\nBài ca Iroha [Lưu Ly Hổ Phách]!
+
+ちょっと待ちなさい。あんた今、なんて言ったの？\nあたしをプリンセスに選ぶって？\n冗談にしては笑えないわよ。=Khoan đã nào. Cậu vừa nói cái gì cơ? Chọn tôi làm công chúa của cậu á? Đùa kiểu đó không vui chút nào đâu đấy.
+やめてよ。他にいくらでもいるでしょ？\nあんたが一番つらかった時、\nあたしは何もできなかったのよ。=Thôi đi. Ngoài kia thiếu gì người khác để cậu chọn chứ? Vào lúc cậu phải trải qua khoảng thời gian khổ sở nhất, tôi lại chẳng thể làm được gì cho cậu cả.
+巻き戻しの時だって、目をつぶってって\n言うだけで……何もしてあげられなかった。\nあたしは……そういう存在なのよ。=Ngay cả lúc thời gian bị tua ngược, tôi cũng chỉ biết bảo cậu nhắm mắt lại thôi... chứ chẳng giúp được gì cho cậu hết. Tôi... vốn là một kẻ vô tích sự như thế đấy.
+……っ、何よそれ……\nあんたがそういうこと言うから、あたしは……=...Ư, gì thế này chứ...?\nCậu cứ mở miệng ra là nói mấy câu kiểu đó, khiến cho tôi...
+……ばか。十分なわけないでしょ。\nあんたは何も覚えてないのに、\nあたしだけが全部覚えてて……そんなの、いいわけないじゃない。=...Đồ ngốc. Sao mà đủ cho được chứ?\nCậu thì chẳng nhớ gì sất, thế mà một mình tôi lại khắc ghi tất cả... Làm gì có chuyện công bằng như thế chứ.
+あたし、ずっとそばにいたかったの。\nあんたの隣に立って、手を繋いで、冒険して、それから──\n妖精だった頃には夢みたいな話だった。=Tôi vẫn luôn, luôn muốn được ở bên cạnh cậu.\nĐược đứng sát bên cậu, nắm tay nhau cùng phiêu lưu, và rồi──\nVào thời điểm còn là một nàng tiên, chuyện đó đối với tôi chẳng khác nào một giấc mơ xa vời cả.
+でも、あんたが選んでくれるなら。\n──あたしも、あんたを選ぶわ。=Nhưng mà, nếu cậu đã cất lời chọn tôi...\n──Vậy thì tôi cũng sẽ chọn cậu.
+ガイド妖精としてでも、女神さまとしてでもない。\nただのあたしとして、あんたのそばにいる。\nこの手で、この足で。=Không phải với tư cách là Tiên Dẫn Đường, hay một vị Nữ Thần nào cả.\nMà chỉ đơn giản là chính tôi, ở bên cạnh cậu.\nBằng đôi tay này, bằng đôi chân này.
+ほら。あんたから誘ったんでしょ？\n一緒にどこかに行くって。\nあたしはずっと待ってたのよ。=Nào. Chẳng phải chính cậu là người đã ngỏ lời trước đó sao?\nRằng chúng ta sẽ cùng nhau đi đến một nơi nào đó... Tôi đã mòn mỏi chờ đợi khoảnh khắc này lâu lắm rồi đấy.
+握り返してきなさいよ、ばか。\n離したら……許さないから。=Nắm chặt lấy tay tôi đi chứ, đồ ngốc.\nCậu mà dám buông ra... là tôi không tha cho đâu đấy.
+あんたを導くのは、あたしの仕事よ。\n……ずっと、ね。=Dẫn dắt cậu chính là công việc của tôi mà.\n...Mãi mãi luôn đấy, nhé.
+
+アメスさまがいたから僕はここにいる。=Em có mặt ở đây ngày hôm nay là nhờ có Ngài, Ameth-sama.
+夢の中で声をかけてくれたよ。それに……=Ngài đã luôn gọi tên em trong những giấc mơ. Thêm nữa...
+ずっと見守ってくれてた。それで十分だ。=Ngài đã luôn dõi theo em từ tận đẩu tận đâu. Bấy nhiêu đó thôi là quá đủ rồi.
+
+いこう、アメスさま！=Đi thôi, Ameth-sama!
+待ってたわよ、その言葉！\nあんたと一緒に咲かせるわ！=Tôi đã đợi câu nói đó lâu lắm rồi đấy!\nCùng với cậu... tôi sẽ khiến nó nở rộ rực rỡ!
+あたしの全部を、あんたに──\nフィオレ・フェリチータ・エテルナメンテ！！=Tất cả những gì thuộc về tôi, xin dành trọn cho cậu──\nFIORE FELICITÀ ETERNAMENTE!!
+
+……へ？　わ、私……？\nいやいや、ちょっと待ちなさいっ！\nこんな大事な局面で私を選ぶなんて、何考えてるのよ！=...Hả? T... Tôi á...? \nKhoan, khoan đã nào! Vào cái thời điểm quan trọng thế này mà lại chọn tôi, cậu đang nghĩ cái quái gì thế hả!
+別にイヤってわけじゃないわ。\nでも、負けたらこの世界がおしまいだって、分かってるの！？\nな・ん・で、私なのよ！！=Không phải là tôi không muốn đâu nhé.\nNhưng mà cậu có biết là nếu thua thì cái thế giới này tơi bời hoa lá luôn không hả!?\nTẠI... SAO... LẠI LÀ TÔI CHỨ!!
+約束って……\nもしかしてあんた、あのときのことを言ってるの？\n私のことをまた冒険に連れて行ってくれるって。あの約束。=Giao ước á...? \nĐừng bảo là cậu đang nhắc đến chuyện lúc đó đấy nhé? Rằng cậu sẽ dẫn tôi đi phiêu lưu cùng một lần nữa. Lời hứa đó ấy.
+……そう。ふふ、覚えてくれてたんだ。\nありがと、{playername}。=...Phải rồi. Hì hì, cậu vẫn nhớ cơ à.\nCảm ơn cậu nhé, {playername}.
+……でもねえ、よりによって今じゃなくたっていいでしょーが。\nだって私にできることなんて、悪戯くらいなもんよ？=Nhưng mà này, sao không phải lúc nào khác mà lại cứ nhằm đúng lúc này cơ chứ.\nBởi vì năng lực của tôi giỏi lắm cũng chỉ biết nghịch ngợm vài trò phá phách thôi, hiểu chưa?
+それに私はバグだらけで、出来損ないのガイド妖精だし。\n今だって、あんたに選んでもらったことを、\nうれしい……なんて思っちゃってる。=Hơn nữa tôi lại là một tiên dẫnダーリング lỗi tung tóe, chẳng tích sự gì.\nNgay cả lúc này đây, việc được cậu lựa chọn...\nLại khiến tôi cảm thấy... vui mừng khôn tả.
+胸の奥がなんだかあったかくて……\n……こんなの、ただのバグのはずなのに。\nこの気持ちが本物であってほしいなんて、おかしなこと考えてる。=Lồng ngực tự dưng lại thấy ấm áp đến lạ thường...\n...Đáng lẽ đây chỉ là một lỗi hệ thống vô tri.\nThế mà tôi lại đi mong mỏi thứ cảm xúc này là thật, nghĩ lại thấy ngốc nghếch thật đấy.
+ねえ、{playername}。\nこんなバグだらけで出来損ないのガイド妖精を、\n本当に連れて行ってくれるの？=Này, {playername}.\nCậu thực sự sẽ dẫn một con tiên dẫn đường lỗi tung tóe, vô tích sự như tôi đi cùng thật chứ?
+…………っ！\nきゃははっ♪\nあんた、なかなか面白い男になってきたじゃない♪=...! \nKyahaha♪ \nCậu ngày càng trở nên thú vị phết rồi đấy, biết không hả♪
+そうね。一世一代の、とびっっきりの悪戯！\n世界を終わらせようとする計画を、これでもかってくらい邪魔して、\nめちゃめちゃにしてやりましょ♪=Đúng thế. Một trò quậy phá siêu kinh điển có một không hai trong đời!\nPhải phá cho nát bét cái kế hoạch muốn hủy diệt thế giới của ả ta, quậy đến mức không ngóc đầu lên nổi luôn mới đã chứ♪
+そんなことができるの、私とあんただけってものだわ♪\nそう思ったら、不安な気持ちなんて吹き飛んじゃった。=Chỉ có tôi và cậu mới làm nổi mấy chuyện tày đình này thôi đấy♪\nNghĩ đến thế thôi là mọi lo lắng trong lòng bay sạch từ lúc nào không hay.
+ほら、行くわよ。{playername}。\n私を選んだからには、最後の最後まで付き合ってもらうわね♪=Nào, đi thôi nào. {playername}.\nĐã chọn tôi rồi thì phải bám theo tôi cho đến tận giây phút cuối cùng đấy nhé♪
+
+約束をしたから。=Vì tôi đã đưa ra lời hứa với cậu.
+ネビア。=Nebbia.
+一緒にとびっきりの悪戯をしてやろう！=Chúng ta cùng nhau tạo ra một cú quậy phá để đời thôi nào!
+
+いこう、ネビア！=Đi thôi, Nebbia!
+待ってました、その合図！\nさあ、とっておきの悪戯よ！=Tôi đang chờ hiệu lệnh đó của cậu đấy!\nNào... cùng quậy một trận ra trò thôi!
+これが夢じゃないって証明してあげる──\nネビア・インフェリチータ・リナシメント！！！=Tôi sẽ chứng minh cho cậu thấy đây không phải là mơ──\nNEBBIA INFELICITÀ RINASCIMENTO!!!
+
+はーっはっは！　アタシを選ぶとはな！\nオマエもなかなか見る目があるじゃないか。\nよし、大悪党ノウェム様が手を貸してやるよ！=Hahaha! Không ngờ cậu lại chọn tôi đấy! Cậu cũng có mắt nhìn người phết nhỉ. Được thôi, đại ác nhân Novem-sama đây sẽ ra tay giúp một tay!
+って、いいのか？　アタシは悪いヤツだぞ？\n最後に世界をひっくり返したって後悔するなよ？\nそれでも選ぶってんなら大した度胸だ！=Mà này, chắc chắn chứ? Tôi là kẻ xấu đấy biết chưa? Đừng có mà hối hận nếu đến cuối cùng tôi lật tung cả cái thế giới này lên đấy nhé? Nếu mà vẫn quyết định chọn tôi thì can đảm lắm đấy!
+しかしプリンセスか……大悪党がそんなのに選ばれたなんてな！\nはっはっは！　いや、笑えないぞこれ。=Nhưng mà công chúa á... Không ngờ một đại ác nhân như tôi lại được chọn vào vị trí đó đấy! Hahaha!\nKhông, thực sự thì... chuyện này chẳng buồn cười tẹo nào đâu.
+知ってるだろ。アタシには心に決めた相棒がいる。\nオマエはそういうのとは違う。違うけど……\nなんでアタシを選んだんだよ。=Cậu biết thừa rồi còn gì. Tôi đã có một người bạn đồng hành khắc ghi trong tim rồi. Cậu không phải kiểu người đó. Không phải, nhưng mà... \nTại sao cậu lại chọn tôi cơ chứ?
+
+Choice 1
+……へへっ！　そっか、そういうことならアタシに任せとけ！\n──おっ？　コイツ、今光ったぞ……！\nオマエもやる気か、天楼覇断剣！=...Hì hì! Ra là vậy, nếu đã thế thì cứ để đó cho đại tiểu thư này lo!\n── Ơ? Này, thanh kiếm này vừa phát sáng kìa...!\nNgươi cũng đang hừng hực khí thế lắm phải không, Thiên Lâu Bá Đoạn Kiếm!
+コイツを初めて持った時、言葉が流れ込んできたんだ──\n『この剣を手にした者よ。星を統べる者迷いし時、\n天楼を覇断し世界を救え。=Hồi mới cầm thứ này lần đầu, tự nhiên có những lời cứ thế dội vào trong đầu tôi──\n"Hỡi kẻ nắm giữ thanh kiếm này. Khi kẻ thống trị các vì sao lạc lối,\nhãy phá vỡ thiên lâu và cứu lấy thế giới.
+空より[rub:きょうらん]凶爛[/rub]の災い降り注ぐ時、\n[rub:てんこう]天光[/rub]を覇断し世界を統べよ』\n幻境竜后に、一度折られちまった[rub:コイツ]剣[/rub]とアタシだけど──=Khi tai họa hung tàn trút xuống từ bầu trời,\nhãy phá vỡ ánh sáng thiên đàng và thống trị thế giới."\nCả tôi và thanh kiếm này đã từng bị Huyễn Cảnh Long Hậu đánh cho gãy nát một lần rồi đấy, thế nhưng──
+オクトーや晶、オマエが手を貸してくれるから、何度だって立ち上がる。\n月や星のように、また昇る。\nだから──=Vì có Octo, Akira và anh cùng vươn tay giúp sức, nên dù có gục ngã bao nhiêu lần đi nữa tôi cũng sẽ đứng dậy được hết.\nSẽ lại tỏa sáng rực rỡ như vầng trăng và các vì sao.\nCho nên──
+──約束だ。アタシは、相棒と一緒にオマエの前を走る。\n光りまくって、前を照らしてやる。\nだからオマエはみんなを連れてついてこい！=──Đó là lời hứa đấy. Tôi và bạn đồng hành sẽ chạy ở phía trước dẫn đường cho anh.\nTỏa sáng lóa mắt luôn để soi đường cho anh mà.\nThế nên anh hãy dẫn mọi người theo sau tôi nhé!
+へへっ、ちゃんと覚えてくれてるじゃないか。\nオマエにそう呼ばれるのは、やっぱ悪くないな。\n行くぞ！　世界一の大悪党のお通りだ！=Hì hì, xem ra anh vẫn nhớ rất rõ cơ đấy.\nĐược anh gọi như thế, quả thật cũng không tệ chút nào đâu.\nĐi thôi nào! Đại ác nhân số một thế giới chuẩn bị xuất hiện đây!
+
+Choice 2
+えっ、オマエも悪党にっ！？\nう、う～ん……=Hả, cậu cũng muốn làm kẻ ác luôn á!?\nỪm, ừm...
+……オマエ、あんま向いてない気がするけどなぁ～\nでも、なんか楽しそうだし……いやいや……\n──駄目だっ、アタシ馬鹿だから判断つかないぞ！=...Tôi có cảm giác mày không hợp với việc này cho lắm đâu đấy~\nNhưng mà, trông có vẻ vui phết... Không, không...\n──Hỏng bét rồi, tôi ngốc lắm nên chẳng phán đoán nổi đâu!
+こういう時は、相棒に聞くのが一番だ！\n──おーい、オクトー！=Những lúc thế này thì cứ hỏi ý kiến bạn đồng hành là chắc ăn nhất!\n──Ê, Octo!
+──ん？\nなにノウェム、どしたのー？\n……ふむふむ……=──Hả?\nSao thế Novem, có chuyện gì àー?\n...Hừm hừm...
+ふーん。\nま、いんじゃなーい？=Hừm.\nThôi, có sao đâu nhở?
+軽っ！？\nいいのかよオクトー、オマエはそれでさっ！？=Hời hợt thế hả trời!??\nThế là thế nào hả Octo, cậu thấy vậy mà ổn thật á hả!?
+だってー、{playername}もすご～く悪いヤツだよ？\nいったい何人のオンナノコを落としてきたか、\n両手じゃ数えきれないくらいだしー？=Vì áー, {playername} cũng là một kẻ cực kỳ tồi tệ đấy biết không?\nCậu ta đã đốn gục trái tim của bao nhiêu cô gái rồi cơ chứ,\nđến mức đếm trên đầu ngón tay hay hai bàn tay cũng chẳng hết nữa làー?
+あ──そっか。はははははっ！\nなーんだ、オマエわっるいヤツだったんだな{playername}！\nじゃあいいぞ！　悪党同士、手を組むとするか！=A── ra vậy. Hahahahaha!\nThì ra là thế, hóa ra anh cũng là một tên đểu cáng cơ à {playername}!\nVậy thì được thôi! Đã là kẻ ác với nhau thì hợp sức lại làm một mẻ lớn luôn nhỉ!
+大悪党団、結成だね。\nついでに──ノウェムのことは、渡さないから。\nそこんとこよろしくー=Đại ác nhân đoàn, chính thức thành lập nhé.\nTiện thể── tôi sẽ không nhường Novem cho cậu đâu.\nNhớ kỹ điều đó đấy nhéー
+ちょっ！！！？\nなに言ってんだオクトーこらっ！！？=Khoan đã, chớ!!!?\nCậu đang nói cái quá gì thế hả Octo, tính cà khịa hả đồ kia!!?
+ははっ。細かいコトは、後で相談するとして──\nとりあえず、幻境竜后ぶっ倒しちゃおっか。\nボクは後ろで援護してるから、トドメはキミらに任せるよ。=Haha. Chuyện nhỏ nhặt đó để tính sau đi──\nTrước mắt, cứ tẩn cho con Huyễn Cảnh Long Hậu một trận tơi bời đã nhỉ.\nTớ sẽ yểm trợ ở phía sau, còn đòn kết liễu thì giao phó cho hai bạn đó nha.
+フンッ、手を抜いたりするなよ！\nじゃあ行くか{playername}──\nアタシたち大悪党団の、最初の仕事だっ！=Hừ, đừng có mà giở trò lười biếng hay nương tay đấy nhé!\nGiờ thì lên đường thôi nào {playername}──\nĐây chính là công việc đầu tiên của liên minh đại ác nhân chúng ta!
+
+誰より悪くて誰より強いヤツが要る。=Tớ cần một kẻ vừa độc ác vừa mạnh mẽ hơn bất kỳ ai.
+僕も、『悪党』になりたいから。=Vì tớ cũng muốn trở thành một "kẻ ác".
+頼りにしてるよ、ノウェムちゃん！=Tớ đành nhờ cậu đấy, Novem-chan!
+じゃあライバルだね！=Vậy thì chúng ta là tình địch rồi nhé!
+
+いこう、ノウェムちゃん！=Đi nào, Novem-chan!
+ああ！　災いなんて全部断ち切るぞ！\nこの剣は、そのためにあるんだからな！=Ừm! Tôi sẽ chém đứt sạch mọi tai họa cho anh xem!\nVì thanh kiếm này sinh ra là để làm nhiệm vụ đó mà!
+覚悟しろ、幻境竜后！！\n現出せよ！　天楼覇断剣──[rub:きょうらんだ]凶爛断[/rub]ちぃぃぃっ！！=Liệu hồn mà nhận lấy đi, Huyễn Cảnh Long Hậu!!\nHiện hình đi nào! Thiên Lâu Bá Đoạn Kiếm──[rub:Hung lạn đoạn] Hung Lạn Đoạn Chémmmmmmm[/rub]!!!
+
+……そうですか。私を選びますか。\nまぁ、想定通りですね。=...Vậy sao. Cậu đã chọn tôi à.\nChà, đúng như tôi dự đoán rồi.
+当然でしょう。貴方は私のものです。\nほかの選択肢など、ありえませんから。=Đương nhiên là thế rồi. Cậu là của tôi cơ mà.\nLàm gì có chuyện tồn tại lựa chọn nào khác được chứ.
+それでも、自分から答えを出したことは……褒めてあげましょう。\n『親切なお姉さん』としても、『教師』としても。\n……ですが。=Dù vậy, việc cậu có thể tự mình đưa ra đáp án... thì tôi cũng nên khen ngợi một tiếng nhỉ.\nDưới tư cách là một "người chị tốt bụng", lẫn một "giáo viên".\n...Thế nhưng.
+答えを出す前に12秒ほど悩んでいました。\nですので……評価としては65点です。\n罰として、秘密のレッスンを言い渡す必要がありますね。=Cậu đã chần chừ mất khoảng 12 giây trước khi đưa ra câu trả lời.\nChính vì thế... điểm số cho màn thể hiện này là 65 điểm.\nXem ra để phạt cậu, tôi phải giao cho cậu một bài học bí mật rồi đây.
+レッスンの内容は……ふふ。今はまだ、内緒です。\n興味がありますか？=Nội dung của bài học đó là... hì hì. Hiện tại thì vẫn là bí mật nhé.\nCậu có thấy tò mò không nào?
+知りたいこともそうでないことも、すべて教えてあげますよ。\n私の手ずから、余すことなく。=Dù là điều cậu muốn biết hay không muốn biết đi chăng nữa, tôi sẽ dạy cho cậu tất tần tật.\nChính tay tôi sẽ uốn nắn, không sót một ly nào hết.
+楽しみ……ですか。\n呆れますね。\nそれでは罰ではなくなってしまいますが……=Cậu đang... rất mong chờ sao...?\nThật hết nói nổi mà.\nNếu thế thì làm sao còn gọi là hình phạt được nữa chứ...
+まぁ、それもいいでしょう。\n貴方はこれからも、ずっと私のもの。\n興味深い成長を見せてくれるでしょうから──=Mà, như vậy cũng không tệ.\nCậu từ nay về sau vẫn sẽ mãi mãi là của tôi.\nBởi vì chắc chắn cậu sẽ còn cho tôi thấy những sự trưởng thành đầy thú vị mà──
+今日はその手始め。\n──さぁ。=Hôm nay chỉ là màn khởi đầu thôi.\n──Nào.
+初めて会った日から今日までの間、貴方がどれほど成長したのか。\nこれからどう、成長していくのか。=Kể từ ngày đầu tiên chúng ta gặp nhau cho đến tận hôm nay, cậu đã trưởng thành lên được bao nhiêu...\nVà từ bây giờ, cậu sẽ tiếp tục tiến hóa ra sao.
+……お姉さんに、見せてごらんなさい。=...Hãy cho chị xem hết đi nào.
+
+いこう、ネネカさん！=Đi nào, Neneka-san!
+ええ。……幻境竜后、特別に教えてあげます。\n貴方が消去しようとした『人の心』というデータ。その可能性を。=Ừm. ...Huyễn Cảnh Long Hậu, tôi sẽ dạy cho cô một bài học đặc biệt.\nVề tiềm năng của thứ dữ liệu mang tên "trái tim con người" mà cô đang toan tính xóa bỏ.
+私と私の教え子で、貴方の身をもって証明しましょう。\nディスパージョン・ミラーミラー！=Tôi và đứa học trò cưng của tôi sẽ dùng chính thân xác cô để chứng minh điều đó.\nDISPERSION MIRROR-MIRROR!!!
+
+はい♪\n私をご希望ですね。\n承りました♪　……じゃ、なくって……=Vâng♪ \nCậu chọn tôi đúng không nào.\nĐã rõ ạ♪ ...Ủa, không phải...
+念のためお聞きしますけれど、人違いではありませんよね？\n……まさか、私が選ばれるなんて思っていませんでした。\nとても不思議な気持ちです。=Cho tôi hỏi lại cho chắc ăn nhé... Cậu không nhận nhầm người đấy chứ?\n...Không ngờ có ngày mình lại được chọn luôn đó.\nCảm giác cứ lạ lẫm thế nào ấy.
+私は……ずっとみなさんの支援や報告書の整理をしてきて。\n冒険の主役ではないと思っていましたから。\nでも、それが天職だったんですよ？=Tôi thì... từ trước đến nay toàn lo việc hỗ trợ mọi người với sắp xếp báo cáo thôi.\nCứ tưởng bản thân không phải là nhân vật chính trong các cuộc phiêu lưu chứ.\nNhưng mà, hóa ra đó mới chính là công việc phù hợp nhất với tôi đấy chứ nhỉ?
+それでも、あなたは……私を見つけて、選んでくれた。\n良ければ、その理由を聞かせてもらっていいですか？=Dẫu vậy, cậu vẫn... tìm thấy tôi và chọn tôi.\nNếu không phiền, cậu có thể cho tôi biết lý do vì sao được không?
+……あ、ありがとうございます！\nそんなふうに言っていただけて、とっても光栄です♪=...A, cảm ơn cậu rất nhiều!\nĐược cậu nói ra những lời này, tôi vinh hạnh lắm luôn á♪
+で・す・が！　支えるばかりでなく、\nお互い支え合える関係こそ、本当の絆だと私は思います。=Nhưng-mà-này! Không chỉ đơn phương hỗ trợ nhau đâu,\nmà phải là mối quan hệ cùng nhau nâng bước mới tạo nên sự gắn kết thực sự, tôi nghĩ vậy đấy.
+私は普段、みなさんが無事に帰ってこられるよう\n陰ながらお手伝いしているだけですが……\nやっぱり、笑顔で「ただいま」が聞ける瞬間が一番うれしいんです。=Bình thường tôi chỉ đứng sau hỗ trợ để mọi người có thể trở về an toàn thôi...\nNhưng quả thật, khoảnh khắc được nghe câu "Em đã về" kèm theo nụ cười mới là lúc tôi hạnh phúc nhất.
+だから、これからあなたが支えてくれるように。\n私も……ずっとあなたの力になりたい。=Thế nên, giống như cách mà cậu sẽ đồng hành và nâng bước cho tôi từ nay về sau.\nTôi cũng... rất muốn trở thành chỗ dựa vững chắc cho cậu. Mãi mãi.
+冒険も、危機も、日常も。\nどんな時も、私は私の持てる全てで。\nあなたを支え続けることを誓います。=Dù là phiêu lưu, hiểm nguy, hay cuộc sống thường nhật.\nDù ở bất cứ hoàn cảnh nào, tôi cũng sẽ đem tất cả những gì mình có.\nXin thề sẽ mãi mãi ở bên hỗ trợ cho cậu.
+そして。陰ながら支えるだけじゃなくて、\n隣に立って共に、困難に立ち向かうことや、喜びを分かち合うことも。\n……全部、あなたと一緒ですよ……♪=Và hơn thế nữa. Không chỉ là hỗ trợ thầm lặng phía sau,\nmà là được đứng sát bên cạnh cậu, cùng nhau vượt qua mọi gian khó, cùng chia sẻ niềm vui.\n...Tất cả những điều đó, tôi muốn được cùng làm với cậu...♪
+──正直、その……こういう経験があまりないもので。\nきっと戸惑うことも多いと思いますが、\nどうぞよろしくお願いします♪=──Thú thật là... tôi không có nhiều kinh nghiệm trong chuyện này lắm.\nChắc chắn sẽ có lúc tôi lúng túng và bối rối,\nnhưng mong cậu sẽ chỉ bảo thêm cho tôi nhiều nhé♪
+ふふふっ……ちょっぴり照れますね。\n私、全力で努めますから。\nぜひこれからも頼りにしてください♪=Phì phì... nghe xong thấy hơi ngượng ngùng ghê ta.\nTôi sẽ cố gắng hết sức mình mà.\nThế nên từ nay hãy cứ dựa dẫm vào tôi thoải mái đi nhé♪
+
+カリンさんの支えがいつも心強かった。=Sự hỗ trợ của Karin-san luôn là chỗ dựa tinh thần vô cùng vững chắc cho tớ.
+だから……今度は僕が支える番、です。=Nên là... giờ đến lượt tớ chống lưng cho cậu đấy.
+こちらこそ、よろしくお願いします。=Cả tôi nữa, rất mong sẽ được cậu giúp đỡ nhiều hơn.
+
+いこう、カリンさん！=Đi thôi nào, Karin-san!
+はい、こちらも準備万端です！\n私の知識と経験で──あなたを全力で支援します！=Vâng, tôi đã chuẩn bị sẵn sàng mọi thứ rồi đây!\nBằng tất cả tri thức và kinh nghiệm của mình── tôi sẽ hỗ trợ cậu hết mình!
+これが私たちの総力です！\nデュアルオブギルド！=Đây chính là toàn bộ sức mạnh của chúng ta!\nDUAL OF GUILD!!!
+
+えっ、あたし～？\nちょっと待った騎士くん！\n本気で言ってるんだよね？=Hả, tớ á~?\nKhoan đã nào Kishi-kun!\nCậu đang nói thật đấy chứ?
+だってあたし、ヒヨリちゃんの応援係だよ？\nキミとヒヨリちゃんを応援するって、決めてたのに。\n……あたしが選ばれちゃうなんて。=Bởi vì tớ vốn là... cổ động viên của Hiyori-chan mà?\nDẫu cho tớ đã quyết định sẽ luôn cổ vũ cho cậu và Hiyori-chan rồi cơ mà.\n...Không ngờ người được chọn lại chính là tớ.
+……参ったなぁ。\nいざ選ばれると、やっぱりどうしようもなくうれしいや。\nあはは……困っちゃった。=...Thua cậu luôn rồi đấy.\nĐến khi thực sự được chọn rồi, tớ lại thấy vui đến mức chẳng biết phải làm sao nữa.\nAhaha... ngại ghê cơ.
+この気持ち、あたしがヒヨリちゃんから\n生まれたから……なのかな。\nそれとも、あたし自身の気持ち……？=Cảm xúc này là do tớ sinh ra từ Hiyori-chan...\nHay là... cảm xúc xuất phát từ chính bản thân tớ nhỉ?
+ごめんね騎士くん。\nお姉さんなのに、こんなうじうじしちゃって。\n情けないよね……=Xin lỗi nhé Kishi-kun.\nRõ ràng là chị gái mà cứ chần chừ do dự thế này.\nTrông thảm hại ghê cơ chứ...
+……そう、かな。\nありがと……騎士くん。=...Thế á...\nCảm ơn cậu... Kishi-kun.
+……！　あははは、それ使う？\nずるいよ騎士くん……ありがと。\nうん、もう大丈夫！=...! Ahahaha, chơi chiêu đó luôn hả?\nGian lận quá đấy Kishi-kun... Cảm ơn cậu.\nỪm, tớ ổn rồi!
+お姉さん、自分のこと分かってなかったなぁ。\nでも、それがなんか……うれしいんだ。\nあたしだけの何かが、あるのかもしれないってことだもん。=Hóa ra chị đây vẫn chưa hiểu rõ về chính mình cho lắm nhỉ.\nNhưng mà, điều đó lại khiến tớ... thấy vui lắm.\nBởi vì điều đó nghĩa là có lẽ vẫn có thứ gì đó thuộc về riêng một mình "Isla" này.
+だからさ。ヒヨリちゃんから生まれたあたしの中に、\n『アイラ』だけの気持ちがあるのかどうか。\nこの先……キミと一緒に確かめてみせる。=Thế nên nhé. Liệu bên trong một đứa được sinh ra từ Hiyori-chan như tớ, có tồn tại những cảm xúc thuộc về riêng "Isla" hay không.\nTừ nay về sau... tớ sẽ cùng cậu đi tìm câu trả lời nhé.
+あははっ。こうやって新しい目標ができるのって……\n最高に『生きてる』って感じがするね！=Ahaha. Kiểu có một mục tiêu mới để hướng đến thế này...\nCảm giác cứ như đang được "sống" một cách trọn vẹn nhất vậy á!
+キミとなら、あたしは何だってできる。\n太陽みたいに熱く燃え上がって──\nこの先の未来、掴みに行くよ！　騎士くん！=Chỉ cần ở bên cậu, tớ có thể làm bất cứ điều gì.\nSẽ bùng cháy rực rỡ như ánh mặt trời──\nTớ sẽ cùng cậu nắm bắt tương lai phía trước! Kishi-kun!
+
+情けなくなんかないよ。=Không hề thảm hại chút nào đâu.
+困ったときはお互いさまさま、でしょ？=Những lúc gặp khó khăn thì chúng ta phải giúp đỡ lẫn nhau chứ, đúng không?
+
+いこう、アイラさん！=Đi thôi nào, Isla-san!
+あははっ、来たね騎士くん！\n照りつける太陽みたいに、燃え上がるよー！=Ahaha, tới luôn nào Kishi-kun!\nTựa như ánh mặt trời chói chang, chúng ta sẽ cùng nhau bùng cháy nhéー!
+あたしの全部、この一撃に乗せて──！\n天楼覇断剣・明ノ焔！！=Đem toàn bộ con người tớ dồn hết vào cú đánh này──!\nThiên Lâu Bá Đoạn Kiếm - Minh Chi Diễm (SPIRESBANE BLADE... FLAME OF DAWN)!!
+
+……………………………………\n……………………………………\n……………………………えっ？=...Hả?
+ちょ、ちょっと、待ってくれ……\n私を……キミと共に戦う、大切な役目に選ぶ、と……？\n……本気、なのか……？=Đ-Đợi, chờ chút đã... Cậu vừa bảo là... chọn tôi vào vai trò quan trọng để sát cánh chiến đấu cùng cậu ư...? \n...Là thật... hay đang đùa vậy?
+い、いや、すまない……気を悪くしないでくれ。\n突然のことに思考が追い付かなくて……\nそ、そうだ。少し、落ち着いて考える時間をもらおう……=K-Không, xin lỗi nhé... Đừng có tỏ ra buồn bã thế chứ. Mọi chuyện đến bất ngờ quá khiến đầu óc tôi chẳng tài nào xoay sở kịp...\nA, đúng rồi. Cho tôi chút thời gian để bình tĩnh lại và suy nghĩ đàng hoàng đã nào...
+……………………\n……うむ、ありがとう。もう大丈夫だ。=... \n...Ừm, cảm ơn cậu. Tôi ổn rồi.
+──{playername}。\nキミは覚えていないだろうが、かつてキミやレイたちは\nこの世界を救う大いなる戦いに挑み、その末に私という存在は生まれた。=──{playername}.\nCó thể cậu không còn nhớ, nhưng thuở trước, cậu cùng Rei và những người khác đã dấn thân vào trận chiến vĩ đại để cứu lấy thế giới này, và chính từ kết cục của cuộc chiến đó, sự tồn tại của tôi mới được sinh ra.
+それから数えきれないほどの時間を、\n私は繰り返し……もがき……\n絶望の中で一筋の光を求め続けた……=Kể từ khoảng thời gian vô tận đằng đẵng sau đó,\ntôi cứ lặp đi lặp lại... vùng vẫy... \nvà mỏi mòn tìm kiếm một tia sáng nhỏ nhoi giữa chốn tuyệt vọng...
+そんな私の──私たちの世界を救ってくれたのは\n……フフ。ほかでもないキミだったな。=Và người đã cứu lấy thế giới của tôi── của chúng ta ấy...\n...Phì phì. Chẳng phải ai khác mà chính là cậu đấy.
+そして運命の風は巡り、今このとき。\n今度はキミたちの世界を救うために、私の手を取ってくれると\nいうのなら、これ以上の誉れはない。=Rồi ngọn gió định mệnh lại xoay vần, đưa chúng ta đến khoảnh khắc này.\nNếu như bây giờ cậu ngỏ ý muốn nắm lấy tay tôi để cứu lấy thế giới của chính các cậu, thì không còn vinh hạnh nào lớn hơn thế nữa.
+だから……改めて、言わせてくれ。\nよろしく頼む、{playername}。\nこのシナツの[rub:かみかぜ]神風[/rub]が、キミの背中を押すことを約束しよう。=Thế nên... cho phép tôi được nói lại một lần nữa nhé.\nĐành nhờ cả vào cậu đấy, {playername}.\nTôi xin hứa ngọn thần phong của Shinatsu này sẽ luôn thổi bùng ở sau lưng, thúc đẩy cậu tiến bước.
+ふぅ……口下手なりに精いっぱい言葉にしたのだが、\nその、私の想いは伝わっただろうか……？=Hm... Dù tôi vốn là kẻ kém ăn kém nói nhưng đã cố gắng hết sức để diễn tả bằng lời rồi đấy,\nừm thì, không biết là tình cảm của tôi đã truyền đạt được đến cậu chưa nhỉ...?
+ふふ……そうか。\nそれならば私ももう迷いはない。\nさあ行くぞ、この世界の運命を決する戦場へ……！=Hì hì... Vậy sao.\nNếu đã thế thì tôi cũng chẳng còn gì phải vướng bận nữa.\nNào, đi thôi! Hướng đến chiến trường quyết định vận mệnh của thế giới này...
+
+もちろんだよ、シナツさん。=Tất nhiên là truyền tải trọn vẹn rồi, Shinatsu-san.
+
+いこう、シナツさん！=Đi thôi nào, Shinatsu-san!
+あぁ、いくぞ！\n滅びのさだめから、今こそ全てを解き放つんだ！=Ừm, đi thôi! Giờ là lúc giải phóng tất cả khỏi số phận diệt vong rồi!
+我らの意志、厄災を滅する嵐とならん……\n[rub:つがい]番[/rub]ノ[rub:かみわざ]神業[/rub]──[rub:かみはらいしなとかぜ]神祓科戸風[/rub]！！=Ý chí của chúng ta sẽ hóa thành cơn bão quét sạch tai họa...\nThần Kỹ Song Hợp (Tsugai no Kamiwaza)── Thần Phạt Kho Hộ Phong (Kamiharai Shinato-kaze)!!!
+
+ヴァンピィちゃんはね、けんぞくがだーいすきだよ。\n初めて出会って、けんぞくに選んでからずーっと\nヴァンピィちゃんだけの、ほんとのけんぞくにしたいって思ってるの。=Bé Vampy rất, rất là thích kenzoku luôn đó nha.\nTừ lần đầu tiên gặp mặt rồi chọn kenzoku làm người nhà cho tới nay, lúc nào bé cũng chỉ muốn kenzoku trở thành kenzoku thật sự, là của riêng một mình bé Vampy thôi.
+でもね、けんぞくは、ヴァンピィちゃんだけのためじゃなくって。\nみんなのために──みんなの『いばしょ』を守るために、\nいま、『けーやく』しようとしてるんだよね。=Nhưng mà nè, kenzoku không chỉ vì mỗi bé Vampy đâu.\nVì tất cả mọi người── vì để bảo vệ "nơi về" của tất cả mọi người,\nnên bây giờ kenzoku mới định lập ra "khế-ước" này đúng không nào.
+そんなけんぞくだから、\nヴァンピィちゃん、あの日、けんぞくにしたいなって思ったんだ。=Chính vì kenzoku tuyệt vời như thế,\nnên vào ngày hôm đó, bé Vampy mới nghĩ rằng mình cực kỳ muốn biến cậu thành kenzoku đấy.
+だからね。\nヴァンピィちゃんも、そんなけんぞくに胸を張れる、\nみんなのための、もーっとりっぱなご主人様にならなきゃ♪=Cho nên là.\nBé Vampy cũng phải trở thành một chủ nhân thật là oai phong, một người có thể tự hào trước kenzoku như thế,\nvì tất cả mọi người chứ lị♪
+え？\nじゃあ、アンタがヴァンピィちゃんを選んだのは──=Hả?\nVậy... lý do cậu chọn bé Vampy là vì──
+……！　けんぞく……\nずっと、ヴァンピィちゃんといっしょに、ぼーけんしてきて……\nいっしょに、いろんなことがんばって……そんなキモチになったの？=...! Kenzoku......\nCùng bé Vampy phiêu lưu suốt quãng thời gian qua...\nCùng nhau cố gắng vượt qua bao nhiêu chuyện... nên cậu mới có cảm xúc đó hả?
+他の誰かじゃなくって、\nヴァンピィちゃんがいいの？\nヴァンピィちゃんの、となりがいいの？=Không phải một ai khác,\nmà là bé Vampy cơ à?\nMuốn ở bên cạnh bé Vampy lắm hả?
+……えへへっ。あははっ♪\nけんぞく、初めてワガママ言ったの！\nわるいこですね～♪=...Ehehe. Ahaha♪\nKenzoku vừa mới làm mình làm mẩy lần đầu tiên luôn đó nha!\nHư quá cơ chứ lị~♪
+うん。わかった。けんぞくのワガママなキモチは、\nヒミツでもらった、ヴァンピィちゃんだけの、宝物にするね。\nそれじゃ……=Ừm. Bé hiểu rồi. Những tâm tư bướng bỉnh của kenzoku,\nbé sẽ cất giữ như một món bảo vật bí mật chỉ thuộc về riêng bé Vampy thôi nhé.\nThế thì......
+やろっか。\nイリヤの言ってた、ヒミツのけーやく。『絆の契約』。\nこっちきて、目をつぶりなさい、けんぞく。=Làm thôi nhỉ.\nCái khế-ước bí mật mà Illya đã nhắc đến. "Khế Ước Của Sự Gắn Kết".\nLại đây nào, nhắm mắt lại đi kenzoku.
+あのね。\nヴァンピィちゃんの血は──=Biết gì hông nè.\nMáu của bé Vampy ấy mà──
+とーってもおいしーよ？\n晩ご飯のスープより。えへへ♪=Ngon lém luôn đó nha?\nCòn ngon hơn cả súp ăn tối nữa cơ. Ehehe♪
+
+違うんだ、それだけじゃない。=Không phải vậy đâu, đó không phải là lý do duy nhất.
+僕の居場所も、君のとなりだから。=Bởi vì nơi chốn thuộc về tớ, chính là ở bên cạnh cậu mà, Vampy-chan.
+
+いこう、ヴァンピィちゃん！=Đi thôi, Vampy-chan!
+うんっ！　いくよ、けんぞくぅ！\nわるいこは、いっしょに懲らしめてやろっ！=Ừm! Đi thôi nào, kenzokuuuuu!\nTụi mình cùng nhau dạy cho kẻ xấu một bài học thôi nào!
+血を分けあったふたりは、永遠にさいきょーなんだから！\nエターナル・ファミリア！！=Hai đứa mình đã cùng chia sẻ máu cho nhau thì mãi mãi sẽ là mạnh nhất luôn đấy nhé!\nETERNAL FAMILIA!!!
+
+アンタ……アタシを、選ぼうっていうの？\nふ、ふーん。\nまっ、当然よね！　アタシの美貌は、お姉ちゃんたちにも負けないもん。=Hả... Cậu định chọn tôi cơ á?\nH... Hừm.\nMà, cũng phải thôi chứ lị! Nhan sắc của tôi đây đâu có thua kém gì mấy người chị đâu cơ chứ.
+でも……ってことはさ、アンタ。\nアタシの言うこと、ぜんぶ聞いてくれるんでしょ？\nなら──約束して。=Nhưng mà... điều đó có nghĩa là, cậu đấy.\nCậu sẽ nghe theo mọi điều tôi nói chứ gì?\nVậy thì── hãy hứa với tôi đi.
+必ず、この世界を救うって。\n……それに、絶対いなくならないって。=Phải chắc chắn là sẽ cứu lấy thế giới này.\n...Và cả việc tuyệt đối không được biến mất nữa đấy.
+アタシ、嫌なの。こんなところで、世界が終わっちゃうなんて。\nいなくなったお姉ちゃんたち、まだ見つけてないし、それに……\n始まったばっかりじゃない。アタシの旅は──アンタとの旅は……=Tôi không thích thế đâu. Sao thế giới lại có thể kết thúc ở một nơi thế này được cơ chứ.\nMấy người chị mất tích của tôi vẫn chưa tìm thấy, lại thêm cả...\nMọi thứ mới chỉ bắt đầu thôi mà. Chuyến hành trình của tôi── chuyến hành trình cùng với cậu ấy...
+アタシ、まだぜんぜん案内してもらってない。\nこの世界の、楽しいところ。あのお花畑みたいな、キレイな場所。\n教えてほしい花の名前も、まだまだあったのに。いっぱい約束したのに。=Cậu còn chưa dẫn tôi đi tham quan đâu vào với đâu hết.\nNhững nơi vui vẻ trong thế giới này. Cả cái nơi đẹp đẽ tựa cánh đồng hoa đó nữa.\nVẫn còn bao nhiêu loài hoa tôi muốn cậu dạy tên cho. Đã hứa với nhau biết bao nhiêu điều cơ mà.
+もっと知りたいのよ。この世界の……ううん。\n……アンタのこと、知りたいの。=Tôi muốn biết nhiều hơn nữa cơ. Về thế giới này... Không, phải là...\n...Tôi muốn được hiểu thêm về cậu đấy.
+アンタがどうして、そんなにお人よしで、おせっかいで。\nどんなワガママだってニコニコして聞いてくれて……\nどうしてアタシに、いつも優しいのか。=Tại sao cậu lại tốt bụng và hay lo chuyện bao đồng đến thế.\nTại sao mọi yêuهو quái quỷ nào của tôi cậu cũng mỉm cười lắng nghe...\nTại sao cậu lúc nào cũng dịu dàng với tôi như vậy.
+どうして、いつもアタシの胸を、モヤモヤさせてくのか。\nどうして──また会いたいって思っちゃうのか……=Tại sao cậu cứ luôn làm cho lồng ngực tôi bứt rứt không yên thế này.\nTại sao── tôi lại cứ mãi muốn được gặp lại cậu cơ chứ...
+フン！　知りたくなくたって教えてあげるわ。\nっていうか……アンタがアタシの言うこと聞いてくれるなら、\nアタシも多少は聞いてあげなくちゃ不公平だし。……それに……=Hừ! Cho dù cậu không muốn biết thì tôi cũng sẽ kể cho nghe luôn.\nÝ tôi là... nếu cậu đã chịu nghe lời tôi, thì tôi cũng phải nghe lại cậu một chút chứ không thì bất công quá. ...Hơn nữa là...
+……\n……えっと……いまならメドゥシアナも見てないわよね。=...\n...Ờm... chắc là lúc này Medusiana không nhìn thấy đâu nhỉ.
+アンタ、ゴルゴーンの娘と絆を結ぶっていうんでしょう。\n本当なら、噛み跡くらい付けてやらなきゃだけど。\nいまは……ほら、ほっぺた、こっちに向けなさいよ。め、目もつぶって。=Cậu định kết nối khế ước với con gái của Gorgon cơ mà.\nLẽ ra thì tôi phải để lại vài vết cắn hay gì đó trên người cậu mới phải.\nNhưng mà hiện tại thì... mau lên, quay má cậu sang đây xem nào. Nh... Nhắm mắt lại nữa chứ.
+こ、これくらいにしといてあげるっ……！=T... tạm tha cho cậu lần này đấy nhé...!\n
+
+メドゥーサちゃん……？=Medusa-chan...?
+僕も知りたい。メドゥーサちゃんのこと。=Anh cũng rất muốn hiểu rõ hơn. Về em đấy, Medusa-chan.
+目をつぶり、ほっぺたを寄せる。=Tôi nhắm nghiền mắt lại và áp sát má mình vào
+
+いこう、メドゥーサちゃん！=Đi nào, Medusa-chan!
+オッケー、{playername}！\n教えてやるのよ、蛇は竜よりも強い──=Được thôi, {playername}!\nCho ả ta biết tay nào! Rồng gì thì rồng cũng phải chịu thua loài rắn chúng ta──
+そして、二人は一人より強い！\n食い破れッ──つがいの牙！　カップリング・ファング！！=Và hai người thì chắc chắn mạnh hơn một người!\nTươi xé nát chúng ra── Đôi nanh đồng hành! COUPLING FANG!!!
+
+……～っ……\nや、やめなさいっての\nくすぐったいんだから……=...Ưm...\nTh-Thôi ngay xem nào...\nNhột chết đi được...
+……あんた。\nあたしをからかってるの？\nそ、それとも……=...Này cậu.\nCậu đang trêu chọc tôi đấy à?\nH-Hay là...
+あたしを選ぼう、とか……\n言わないわよね……？=Cậu không định nói...\nLà muốn "chọn tôi"... chứ nhỉ...?
+
+……………………はぁ……=...Hầu...
+冗談よね？\nって言いたいとこだけど……そうじゃないのよね。\nあんたって……=Đang đùa cợt đúng không?\nLà câu mà tôi muốn nói lắm đấy... nhưng sự đời lại chẳng phải thế. Cậu ấy mà...
+ほんとばか。\nばか。\nばかばかばかばか……=Đúng là đồ ngốc.\nĐồ ngốc.\nĐồ ngốc ngốc ngốc ngốc...
+ふんだ、しょーがないでしょ？\nあたしなんて所詮、別の世界線じゃ生まれなかった存在。\nプログラムのバグなんだから。……なのに……=Hừ, hết cách rồi phải không?\nSuy cho cùng thì tôi cũng chỉ là một tồn tại vốn không hề được sinh ra ở một thế giới tuyến khác.\nChỉ là một lỗi lập trình vớ vẩn mà thôi. ...Thế mà...
+……そんなあたしを、プリンセスに選ぶとか。\nばかゆってんじゃ、ないわよ……=...Lại đi chọn một kẻ như tôi làm công chúa của mình.\nĐừng có mà nói mấy câu ngốc nghếch thế chứ...
+っ……\nあ、あんたね……前にゆったけど、思い上がるんじゃないっての。\nオンナノコなら、誰も彼もあんたに靡くとか……そんな……=Ư...\nN-Này cậu... Như tôi đã nói trước đó rồi đấy, đừng có mà huyễn hoặc bản thân mình nhé.\nCứ là con gái thì ai ai cũng sẽ đổ rạp trước cậu hay sao... Làm gì có chuyện đó chứ...
+……これって、さ。\nあんたからの、クイズみたいなものよね。\n「あんたの気持ちに、あたしがどう応えるか」って……=...Chuyện này ấy mà.\nGiống như một câu đố mà cậu dành cho tôi vậy.\nKiểu như "Tôi sẽ đáp lại tình cảm của cậu như thế nào" ấy...
+……なら。\nあたしも、答えを出さなきゃね。\nこれまでさんざん、答えさせてきたんだし。=...Vậy thì.\nTôi cũng phải đưa ra câu trả lời cho đàng hoàng chứ nhỉ.\nDù sao thì trước giờ tôi cũng bắt cậu phải trả lời biết bao nhiêu lần rồi cơ mà.
+…………ん、んん……\n……まぁ……その…………=...Ưm, ưm...|\n...Thì... ừm...
+このっ……\nカウントすんじゃないわよっ……=Cái tên này...!\nĐ-Đừng có mà bắt đầu đếm ngược ở đây chứ...
+……そーね。\n悪くない……っていうか……=...Phải nhỉ.\nCũng không tệ... ý tôi là...
+けっこう、うれしー、かも。\nあんたのプリンセス……=Cảm giác... hình như là vui lắm ấy.\nKhi được làm công chúa của cậu...
+でも──せいぜい、カクゴしときなさいよ？\nあたし口も性格もワルいし……現実のカラダもないし。\nまずは幻境竜后なんとかしなきゃだし。世界線もバラけるでしょーし……=Nhưng mà── tốt nhất là cậu nên chuẩn bị tâm lý sẵn đi đấy nhé?\nTôi vừa hay cãi, tính nết lại vừa xấu... cơ thể thật cũng chẳng có.\nTrước mắt lại phải giải quyết cái vụ "Huyễn Cảnh Long Hậu" gì đó nữa chứ. Các thế giới tuyến thế nào cũng sẽ bị phân tách cho xem...
+もしあんたがこの先、あたしをキライになったとしても\n全力で『認識の修正』してやるし。\n……ふふっ……=Cho dù sau này cậu có đâm ra ghét tôi đi chăng nữa...\nTôi cũng sẽ dùng toàn lực để "chỉnh sửa nhận thức" của cậu lại cho bằng được.\n...Hì hì...
+もう中立で平等って、言えないわねあたし。\nだって──=Tôi chẳng thể nào mở miệng ra nhận mình là người trung lập và bình đẳng nữa rồi.\nBởi vì──
+あんたが一番、なんだもの♪=Cậu chính là người quan trọng nhất đối với tôi mà♪
+
+く、口が悪い……=C-Cái miệng thật là...
+でも、ティアといると楽しいから。=Nhưng mà ở cạnh Tia lúc nào cũng vui hết.
+チッチッチッチッ……=Tích tắc, tích tắc, tích tắc...
+時計の口マネ=Bắt chước tiếng đồng hồ kêu
+制限時間、あと５秒ね。=Thời gian giới hạn còn 5 giây thôi đấy nhé.
+
+いこう、ティア！=Đi thôi, Tia!
+仕方ないわね──\nあんたの敵は、あたしの敵だもの。=Hết cách với cậu luôn đấy──\nKẻ địch của cậu cũng chính là kẻ địch của tôi mà.
+とっておきの答え、ぶつけてあげるわ♪\nレコグナイズ・リバース──エクストリーム！=Tôi sẽ ném câu trả lời đặc biệt nhất vào mặt cậu cho xem♪\nNhận diện đảo nghịch── EXTREME!!

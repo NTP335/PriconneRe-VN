@@ -52,6 +52,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した場合、自分�
 
 
 ##S1++##
+旋風撃++=Hurricane Assault++
 前方範囲内の敵に物理大ダメージを与え、自分に【火遁の印】（上限５）を１個付与する。敵を倒した場合、その数に応じて【火遁の印】の付与数が増加し、さらに自分のＴＰを特大回復する。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước và cấp 1 [Dấu ấn Hỏa độn] (tối đa 5) cho bản thân. Nếu hạ gục được kẻ địch, số lượng [Dấu ấn Hỏa độn] được cấp sẽ tăng tùy theo số lượng đó, đồng thời hồi phục cực đại TP cho bản thân.
 
 r:"^範囲内の敵に(\d+)の物理ダメージ自分に火遁の印を１個付与する敵を倒した場合、自分のＴＰを1000回復$"=Thời gian triển khai: 1.85s.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 750.\n►Cấp 1 [Dấu ấn Hỏa độn] cho bản thân.\n►Nếu hạ gục được kẻ địch, hồi phục 1000 TP cho bản thân.

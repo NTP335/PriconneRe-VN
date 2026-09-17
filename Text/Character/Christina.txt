@@ -23,14 +23,14 @@ r:"^敵単体に(\d+)の物理ダメージ一定時間全ての物理攻撃を�
 r:"^敵単体に(\d+)の物理ダメージ一定時間全ての物理攻撃を回避する自分の物理攻撃力を{0}アップ$"=►Gây $1 sát thương vật lý không thể tránh lên kẻ địch.\n►Tránh mọi đòn tấn công vật lý trong 3(+0.01×Lv) giây.\n►Tăng tấn công vật lý của bản thân lên $2 trong 18 giây.
 
 ##S1##
-オーバーレイ=Lớp Phủ
+オーバーレイ=Overlay
 自分の物理攻撃力を中アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng vừa phải tấn công vật lý của bản thân và tăng nhẹ Hiệu Quả Tăng TP của bản thân.
 r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ$"=►Tăng tấn công vật lý của bản thân lên $1.\n►Tăng Hiệu Quả Tăng TP của bản thân lên $2.
 
 ##S2##
 インジェクション=Tiêm
 目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước và giảm nhẹ phòng thủ vật lý của chúng.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch lên $2.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=Thời gian triển khai: 1.35s.\n►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm phòng thủ vật lý của kẻ địch lên $2.
 
 ##EX##
 イグナイトエグゼ=Ignition EX
@@ -38,16 +38,14 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダ
 
 ##UB+##
 アルティマスアヴァロン=Ultimus Avalon
-目の前の敵１キャラに物理防御力を一定値無視する物理大ダメージを２回与え、物理防御力を小ダウンさせる。さらに自分は一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Gây 2 đòn sát thương vật lý cực lớn lên kẻ địch phía trước, bỏ qua một phần phòng thủ vật lý của chúng và giảm nhẹ phòng thủ vật lý của chúng. Người dùng cũng nhận được khả năng tránh đòn tấn công vật lý trong một khoảng thời gian. Đòn tấn công này không thể trượt và luôn là đòn chí mạng.
-r:"^敵単体に物理防御力を(\d+)無視する(\d+)の物理ダメージ敵単体に物理防御力を(\d+)無視する(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン一定時間全ての物理攻撃を回避する$"=►Gây $2 sát thương vật lý không thể tránh lên kẻ địch, bỏ qua $1 phòng thủ vật lý của chúng.\n►Gây $4 sát thương vật lý không thể tránh lên kẻ địch, bỏ qua $3 phòng thủ vật lý của chúng.\n►Giảm phòng thủ vật lý của kẻ địch lên $5 trong 18 giây.\n►Tránh mọi đòn tấn công vật lý trong 3(+0.01×Lv) giây.
-## 260lvl
-目の前の敵１キャラに物理防御力を一定値無視する物理大ダメージを２回与え、物理防御力を小ダウンさせる。さらに自分の物理攻撃力を小アップし、一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Gây 2 đòn sát thương vật lý cực lớn lên kẻ địch phía trước, bỏ qua một phần phòng thủ vật lý của chúng và giảm nhẹ phòng thủ vật lý của chúng. Tăng nhẹ tấn công vật lý của bản thân. Người dùng cũng nhận được khả năng tránh đòn tấn công vật lý trong một khoảng thời gian. Đòn tấn công này không thể trượt và luôn là đòn chí mạng.
-r:"^絶氷中、敵単体に(\d+)の物理ダメージ絶氷中、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ絶氷中、敵単体の物理防御力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン絶氷中、敵単体の被クリダメを8％アップ$"=►Gây $2 sát thương vật lý không thể tránh lên kẻ địch, bỏ qua $1 phòng thủ vật lý của chúng.\n►Gây $4 sát thương vật lý không thể tránh lên kẻ địch, bỏ qua $3 phòng thủ vật lý của chúng.\n►Giảm phòng thủ vật lý của kẻ địch lên $5 trong 18 giây.\n►Tránh mọi đòn tấn công vật lý trong 3(+0.01×Lv) giây.\n►Tăng tấn công vật lý của bản thân lên $6.
+r:"^敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体の物理防御力を80ダウン一定時間全ての物理攻撃を回避する自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho một kẻ địch đơn lẻ, bỏ qua 50 phòng thủ vật lý.\n►Gây $2 sát thương vật lý cho một kẻ địch đơn lẻ, bỏ qua 50 phòng thủ vật lý.\n►Giảm phòng thủ vật lý của một kẻ địch đơn lẻ đi 80 trong 18 giây.\n►Né tránh tất cả các đòn tấn công vật lý trong một khoảng thời gian.\n►Tăng tấn công vật lý của bản thân thêm $3 trong 18 giây.
+目の前の敵１キャラに物理防御力を一定値無視する物理大ダメージを２回与え、物理防御力を小ダウンさせる。自分の物理攻撃力を小アップし、一定時間物理回避状態にする。この攻撃は必ず命中し、クリティカルする。=Gây 2 lần sát thương vật lý lớn cho 1 kẻ địch ở trước mặt, bỏ qua một lượng cố định phòng thủ vật lý của chúng, đồng thời giảm nhẹ phòng thủ vật lý của mục tiêu. Tăng nhẹ tấn công vật lý của bản thân và đưa bản thân vào trạng thái né tránh đòn tấn công vật lý trong một khoảng thời gian. Đòn tấn công này chắc chắn trúng đích và gây sát thương chí mạng.
 
 ##S1+##
-オーバーレイ+=Lớp Phủ+
-自分の物理攻撃力を特大アップさせ、ＴＰ上昇を中アップさせ、ＴＰを中回復し、さらに物理攻撃クリティカル時のダメージを小アップさせる。=Tăng lớn tấn công vật lý của bản thân. Tăng vừa phải Hiệu Quả Tăng TP của bản thân. Phục hồi một lượng lớn TP của bản thân và tăng nhẹ sát thương chí mạng vật lý của bản thân.
-r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ自分のＴＰを(\d+)回復自分の物理攻撃クリティカル時のダメージを10％アップ$"=►Tăng tấn công vật lý của bản thân lên $1.\n►Tăng Hiệu Quả Tăng TP của bản thân lên $2 trong 15 giây.\n►Phục hồi TP của bản thân lên $3.\n►Tăng sát thương chí mạng vật lý của bản thân lên 10% trong 180 giây.
+オーバーレイ+=Overlay+
+自分の物理攻撃力を特大アップ、ＴＰ上昇を中アップ、ＴＰを中回復、物理クリティカルダメージを小アップする。=Tăng cực đại tấn công vật lý của bản thân, tăng vừa tốc độ tăng TP, hồi phục vừa TP, và tăng nhẹ sát thương chí mạng vật lý của bản thân.
+
+r:"^自分の物理攻撃力を(\d+)アップ自分のＴＰ上昇を(\d+)アップ自分のＴＰを(\d+)回復自分の物理攻撃クリティカル時のダメージを10％アップ$"=Thời gian triển khai: 0.75s.\n►Tăng cực đại tấn công vật lý của bản thân thêm $1.\n►Tăng vừa tốc độ tăng TP của bản thân thêm $2 trong 15 giây.\n►Hồi phục một lượng vừa TP cho bản thân thêm $3.\n►Tăng 10% sát thương chí mạng vật lý của bản thân trong 180 giây.
 
 ##UE##
 聖域剣アヴァロン=Avalon Thanh Kiếm Thánh

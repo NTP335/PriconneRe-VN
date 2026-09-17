@@ -10,27 +10,37 @@
 
 ##UB##
 覇瞳天星・滅光=Hadou Tensei: Destruction
-敵全体のバリアとステータスアップ効果を解除し、物理大ダメージを与える。=Loại bỏ khiên và hiệu ứng tăng trạng từ tất cả kẻ địch và gây sát thương vật lý lớn.
-r:"^敵全体のバリアとステータスアップ効果を解除する敵全体に(\d+)の物理ダメージ$"=►Xóa mọi hiệu ứng khiên và tăng trạng thái của kẻ địch.\n►Gây $1 sát thương vật lý lên toàn bộ kẻ địch.
+敵全体のバリアとステータスアップ効果を解除し、物理大ダメージと魔法大ダメージを与える。このスキルのダメージは物理・魔法攻撃力の値を合わせ、クリティカルは物理・魔法クリティカルの値を合わせる。=Xóa bỏ toàn bộ khiên và hiệu ứng tăng chỉ số của toàn bộ kẻ địch, sau đó gây sát thương vật lý lớn và sát thương phép lớn. Sát thương của kỹ năng này dựa trên tổng giá trị tấn công vật lý và tấn công phép, trong khi tỉ lệ chí mạng dựa trên tổng giá trị tỉ lệ chí mạng vật lý và tỉ lệ chí mạng phép.
+r:"^敵全体のバリアとステータスアップ効果を解除する敵全体に(\d+)の物理ダメージ敵全体に(\d+)の魔法ダメージ$"=►Xóa bỏ khiên và hiệu ứng tăng chỉ số của toàn bộ kẻ địch.\n►Gây $1 sát thương vật lý cho toàn bộ kẻ địch.\n►Gây $2 sát thương phép cho toàn bộ kẻ địch.
 
 ##S1##
 天叢雲剣・偽翔=Ama-no-Murakumo: False Flight
-前方の敵すべてに物理中ダメージを与え、ＴＰを小ダウンさせる。さらに、自分のＴＰを小回復する。=Gây sát thương vật lý trung bình lên toàn bộ kẻ địch phía trước và giảm một chút TP. Ngoài ra, phục hồi một chút TP của bản thân.
+前方の敵に物理中ダメージを与え、ＴＰを小ダウンさせる。自分のＴＰを小回復する。=Gây sát thương vật lý trung bình cho kẻ địch ở phía trước và làm giảm nhẹ TP của chúng. Hồi phục nhẹ TP cho bản thân.
+
 r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵のＴＰを100失わせる自分のＴＰを100回復$"=Thời gian niệm: 1.1s\n►Gây $1 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm TP của mục tiêu 100.\n►Phục hồi 100 TP cho bản thân.
 
 ##S2##
 八尺瓊勾玉・減葬=Hachishaku Magatama: Cremation
-前方の敵すべての攻撃を受けた際の被ダメージを中アップさせ、物理/魔法防御力とクリティカル時のダメージを小ダウンさせる。=Tăng sát thương nhận vào trung bình của toàn bộ kẻ địch phía trước, và giảm một chút phòng thủ vật lý/phép thuật cùng sát thương phản chí.
-r:"^範囲内の敵が受ける物理ダメージを12％アップ範囲内の敵が受ける魔法ダメージを12％アップ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の物理攻撃クリティカル時のダメージを15％ダウン範囲内の敵の魔法攻撃クリティカル時のダメージを15％ダウン$"=Thời gian niệm: 1.7s\n►Tăng sát thương vật lý/phép thuật mà kẻ địch trong phạm vi nhận vào 12% trong 12s.\n►Giảm phòng thủ vật lý/phép thuật của kẻ địch trong phạm vi $1 trong 12s.\n►Giảm sát thương phản chí của kẻ địch trong phạm vi 15% trong 12s.
+前方の敵の受ける物理・魔法ダメージを中アップさせ、物理・魔法防御力と物理・魔法クリティカルダメージを小ダウンさせる。自分を一定時間物理・魔法回避状態にする。敵の数に応じて、物理・魔法回避状態の効果時間が減少する。初回発動時、さらに味方全体を覇瞳神眼状態にする。覇瞳神眼状態は受けるダメージを１回無効化し、その後解除される。=Làm tăng vừa sát thương vật lý và phép mà kẻ địch ở phía trước phải chịu, đồng thời làm giảm nhẹ phòng thủ vật lý, phòng thủ phép, sát thương chí mạng vật lý và sát thương chí mạng phép của chúng. Đưa bản thân vào trạng thái né tránh vật lý và phép trong một khoảng thời gian. Thời gian hiệu lực của trạng thái né tránh sẽ giảm tùy theo số lượng kẻ địch. Trong lần kích hoạt đầu tiên, cấp thêm trạng thái [Hadou Tensei: Omniscience] cho toàn bộ đồng minh. Trạng thái [Hadou Tensei: Omniscience] sẽ vô hiệu hóa sát thương nhận phải 1 lần rồi sau đó biến mất.
+r:"^範囲内の敵の受ける物理・魔法ダメージを16％アップ範囲内の敵の物理・魔法防御力を(\d+)ダウン範囲内の敵の物理・魔法クリダメを15％ダウン一定時間すべての物理・魔法攻撃を回避する初回発動時、味方全体を覇瞳神眼状態にする$"=Thời gian triển khai: 1.7s.\n►Tăng 16% sát thương vật lý và phép mà kẻ địch trong phạm vi phải chịu trong 12 giây.\n►Làm giảm phòng thủ vật lý và phép của kẻ địch trong phạm vi xuống $1 trong 12 giây.\n►Giảm 15% sát thương chí mạng vật lý và phép của kẻ địch trong phạm vi trong 12 giây.\n►Né tránh tất cả các đòn tấn công vật lý và phép trong 21 giây.\n►Trong lần sử dụng đầu tiên, cấp trạng thái [Hadou Tensei: Omniscience] cho toàn bộ đồng minh.
 
 ##SP1##
 天叢雲剣・草薙=Ama-no-Murakumo: Kusanagi
 このスキルのスキルレベルは「覇瞳天星・滅\n光」と連動しています=Cấp độ kỹ năng này liên kết với "Hadou Tensei: Destruction"
 このスキルのスキルレベルは「覇瞳天星・滅光」と連動しています=Cấp độ kỹ năng này liên kết với "Hadou Tensei: Destruction"
-前方範囲内の敵すべてに通常攻撃を行う。=Một đòn tấn công thường lên toàn bộ kẻ địch trong phạm vi phía trước.
 
+前方の敵に物理中ダメージと魔法中ダメージを与え、物理・魔法防御力を小ダウンさせる。このスキルのダメージは物理・魔法攻撃力の値を合わせ、クリティカルは物理・魔法クリティカルの値を合わせる。=Gây sát thương vật lý trung bình và sát thương phép trung bình cho kẻ địch ở phía trước, đồng thời làm giảm nhẹ phòng thủ vật lý và phòng thủ phép của chúng. Sát thương của kỹ năng này dựa trên tổng giá trị tấn công vật lý và tấn công phép, trong khi tỉ lệ chí mạng dựa trên tổng giá trị tỉ lệ chí mạng vật lý và tỉ lệ chí mạng phép.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理・魔法防御力を(\d+)ダウン$"=Thời gian triển khai: 1.7s.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Gây $2 sát thương phép cho kẻ địch trong phạm vi.\n►Làm giảm phòng thủ vật lý và phép của kẻ địch trong phạm vi xuống $3 trong 12 giây.
 
 
 ##EX##
 八咫鏡・煌裁=Mirror of Yata: Brilliant Judgment
 八咫鏡・煌裁+=Mirror of Yata: Brilliant Judgment+
+
+
+UE
+覇瞳・天叢雲剣=Hadou: Ama-no-Murakumo Sword
+天叢雲剣・偽翔+=Ama-no-Murakumo: False Flight+
+
+前方の敵に物理中ダメージと魔法中ダメージを与え、物理・魔法攻撃力を大ダウン、ＴＰを小ダウンさせる。自分のＴＰを小回復する。このスキルのダメージは物理・魔法攻撃力の値を合わせ、クリティカルは物理・魔法クリティカルの値を合わせる。=Gây sát thương vật lý trung bình và sát thương phép trung bình cho kẻ địch ở phía trước, làm giảm lớn tấn công vật lý và tấn công phép, đồng thời làm giảm nhẹ TP của chúng. Hồi phục nhẹ TP cho bản thân. Sát thương của kỹ năng này dựa trên tổng giá trị tấn công vật lý và tấn công phép, trong khi tỉ lệ chí mạng dựa trên tổng giá trị tỉ lệ chí mạng vật lý và tỉ lệ chí mạng phép.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の物理・魔法攻撃力を(\d+)ダウン範囲内の敵のＴＰを(\d+)失わせる自分のＴＰを100回復$"=Thời gian triển khai: 1.1s.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Gây $2 sát thương phép cho kẻ địch trong phạm vi.\n►Làm giảm tấn công vật lý và tấn công phép của kẻ địch trong phạm vi xuống $3 trong 12 giây.\n►Hút $4 TP từ kẻ địch trong phạm vi.\n►Hồi phục 100 TP cho bản thân.

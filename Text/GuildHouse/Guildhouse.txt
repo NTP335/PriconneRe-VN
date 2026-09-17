@@ -1,7 +1,7 @@
 ---Guildhouse---
 データの取得に失敗しました。\nタイトルへ戻ります。=Lấy dữ liệu thất bại.\nQuay về màn hình chính.
 
-Lv上限：=Cấp Tối Đa:
+r:"^Lv上限([ ：:0-9]+)$"=Max Lv$1
 r:"^(\d+)ルピを消費してLvアップ可能$"=Sẵn sàng lên Cấp bằng [00ff0099]$1[-] Rupie
 Lvアップ可能な家具があります。=Có nội thất có thể lên cấp.
 すでに最大Lvに達しています。=Đã ở Cấp Tối Đa.

@@ -34,17 +34,18 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカル�
 
 ##UB+##
 コロナレイン=Corona Rain
-前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく3.5倍になる。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Nếu kỹ năng này trúng chí mạng, sát thương sẽ thành x3.5 thay vì x2.
+
+前方範囲内の敵に物理大ダメージを与える。このスキルのクリティカルダメージは3.5倍になる。=Gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước. Sát thương chí mạng của kỹ năng này được tăng lên 3,5 lần.
 
 ##S1+##
 コンセントレーション+=Concentration+
-自分の物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに行動速度を大アップさせる。=Tăng cường mạnh mẽ tấn công vật lý của bản thân và tốc độ hành động, đồng thời tăng trung bình tỷ lệ chí mạng vật lý của bản thân.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の行動速度アップ$"=Thời gian thi triển: 1.07s ►Tăng tấn công vật lý của bản thân lên $1 trong 12s. ►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 99s. ►Tăng tốc độ hành động của bản thân lên 180% trong 12s.
+自分の物理攻撃力を大アップ、物理クリティカルを中アップ、行動速度を大アップする。=Tăng lớn tấn công vật lý của bản thân, tăng vừa tỉ lệ chí mạng vật lý của bản thân, đồng thời tăng lớn tốc độ hành động của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを75アップ自分の行動速度80％アップ$"=Thời gian triển khai: 1,5 giây.\n►Tăng tấn công vật lý của bản thân lên $1 trong 12 giây.\n►Tăng tỉ lệ chí mạng vật lý của bản thân lên 75 trong 12 giây.\n►Tăng tốc độ hành động của bản thân lên 80% trong 12 giây.
 
 ##S2+##
 ブレイクアロー+=Crushing Shot+
-自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、前方範囲内の敵すべてに物理大ダメージを与える。さらに、自分のＴＰを特大回復する。=Tăng cường mạnh mẽ tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý của bản thân, và gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Ngoài ra, phục hồi lượng TP khổng lồ cho bản thân.
-r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃クリティカル時のダメージを15％アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを650回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 1300. ►Tăng sát thương chí mạng vật lý của bản thân lên 15% trong 18s. ►Tăng tấn công vật lý của bản thân lên $2 trong 18s. ►Phục hồi 650 TP cho bản thân.
+自分の物理攻撃力を特大アップ、物理クリティカルダメージを小アップし、前方範囲内の敵に物理大ダメージを与える。自分のＴＰを特大回復する。=Tăng cực đại tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý, gây sát thương vật lý lớn cho kẻ địch trong phạm vi phía trước, đồng thời hồi phục cực nhiều TP cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃クリティカル時のダメージを15％アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを650回復$"=Thời gian triển khai: 1,5 giây.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 1300.\n►Tăng sát thương chí mạng vật lý của bản thân lên 15% trong 18 giây.\n►Tăng tấn công vật lý của bản thân lên $2 trong 18 giây.\n►Hồi phục 650 TP cho bản thân.
 
 ##UE##
 プロミネンスアロー=Prominence Arrow

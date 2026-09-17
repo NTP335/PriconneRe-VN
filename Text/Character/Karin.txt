@@ -11,23 +11,35 @@
 
 ##UB##
 コールオブギルド=Call of Guild
-味方全体のクリティカル時のダメージを小アップさせ、敵全体のクリティカル時のダメージを中ダウンさせる。さらに、味方全体に物理/魔法無効バリアを展開する。=Tăng nhẹ P/M.CRIT DMG của tất cả đồng minh, và giảm vừa phải P/M.CRIT DMG của tất cả kẻ địch. Ngoài ra, triển khai Barrier trên tất cả đồng minh, phép thuật này phản chọi sát thương vật lý/phép thuật.
-r:"^味方全体のクリティカル時のダメージを10%アップ敵全体のクリティカル時のダメージを25%ダウン(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Tăng P/M.CRIT DMG của tất cả đồng minh thêm 10% trong 18 giây.\n►Giảm P/M.CRIT DMG của tất cả kẻ địch thêm 25% trong 18 giây.\n►Triển khai Barrier trên tất cả đồng minh, phản chọi $1 sát thương vật lý/phép thuật trong 18 giây.
+味方全体の物理・魔法クリティカルダメージを小アップさせ、敵全体の物理・魔法クリティカルダメージを中ダウンさせる。味方全体に物理/魔法無効バリアを展開する。風属性の味方の物理・魔法攻撃力を大アップ、物理・魔法クリティカルダメージを小アップさせる。=Tăng nhẹ sát thương chí mạng vật lý và phép của toàn bộ đồng minh, đồng thời giảm vừa sát thương chí mạng vật lý và phép của toàn bộ kẻ địch. Triển khai khiên vô hiệu hóa sát thương vật lý/phép cho toàn bộ đồng minh. Tăng lớn tấn công vật lý và phép, đồng thời tăng nhẹ sát thương chí mạng vật lý và phép của các đồng minh thuộc hệ Gió.
+r:"^味方全体の物理・魔法クリダメを10％アップ敵全体の物理・魔法クリダメを25％ダウン(\d+)ダメージ分の物理魔法無効バリアを展開する風属性の味方の物理・魔法攻撃力を(\d+)アップ風属性の味方の物理・魔法クリダメを3％アップ$"=►Tăng 10% sát thương chí mạng vật lý và phép của toàn bộ đồng minh trong 18 giây.\n►Giảm 25% sát thương chí mạng vật lý và phép của toàn bộ kẻ địch trong 18 giây.\n►Triển khai khiên vô hiệu hóa sát thương vật lý và phép trị giá $1 cho toàn bộ đồng minh trong 18 giây.\n►Tăng tấn công vật lý và phép của đồng minh hệ Gió lên $2 trong 18 giây.\n►Tăng 3% sát thương chí mạng vật lý và phép của đồng minh hệ Gió trong 18 giây.
 
 ##S1##
 ギルドオブストレングス=Guild of Strength
-味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらに力の魔字を刻む。力の魔字が刻まれている間、味方の行動速度を大アップさせる。（このスキルの効果は他の行動速度変化スキルと重複する）=Tăng mạnh P/M.ATK của tất cả đồng minh, và khắc phép thuật sức mạnh. Khi phép thuật sức mạnh được khắc, tăng tốc độ hành động của tất cả đồng minh thêm 50% (có thể chồng lấn).
+味方全体の物理・魔法攻撃力を大アップさせ、【力の魔字】を刻む。【力の魔字】が刻まれている間、味方の加算行動速度を大アップさせる。=Tăng lớn tấn công vật lý và phép của toàn bộ đồng minh, đồng thời khắc [Cổ tự Sức mạnh] lên họ. Trong thời gian [Cổ tự Sức mạnh] được khắc, tăng lớn tốc độ hành động cộng dồn của đồng minh.
+r:"^味方全体の物理・魔法攻撃力を(\d+)アップ味方全体に力の魔字を刻み、行動速度50％加算$"=Thời gian triển khai: 0.59s.\n►Tăng tấn công vật lý và phép của toàn bộ đồng minh lên $1 trong 12 giây.\n►Khắc [Cổ tự Sức mạnh] lên toàn bộ đồng minh, tăng 50% tốc độ hành động trong 12 giây.
 
 ##S2##
 ギルドオブデトネーション=Guild of Detonation
-敵全体に魔法中ダメージを与え、さらに大きく吹き飛ばす。=Gây sát thương phép thuật vừa phải cho tất cả kẻ địch và thổi bay chúng.
+このスキルのスキルレベルは「コールオブギルド」と連動しています=Cấp độ của kỹ năng này liên kết với "Call of Guild".
+敵全体に魔法中ダメージを与え、大きく吹き飛ばす。【管理協会の羽ペン】が最大の場合、すべて消費し、さらに追加で敵全体に魔法大ダメージを与える。初回発動時、自分がステータスアップ効果を受けるたびに、【管理協会の羽ペン】（上限60）が１個付与される状態になる。=Gây sát thương phép trung bình cho toàn bộ kẻ địch và đẩy lùi mạnh chúng. Nếu [Lông vũ của Hiệp hội Quản lý] ở mức tối đa, tiêu hao toàn bộ và bổ sung gây sát thương phép lớn cho toàn bộ kẻ địch. Lần kích hoạt đầu tiên sẽ chuyển sang trạng thái tự nhận 1 điểm [Lông vũ của Hiệp hội Quản lý] (tối đa 60) mỗi khi bản thân nhận được hiệu ứng tăng chỉ số.
+r:"^初回発動時、ステータスアップ効果を受けるたびに自分に管理協会の羽ペンを付与する状態になる敵全体に(\d+)の魔法ダメージ管理協会の羽ペンが最大の場合、全て消費して敵全体に(\d+)の魔法ダメージ$"=Thời gian triển khai: 0.59s.\n►Trong lần sử dụng đầu tiên, mỗi khi bản thân nhận được hiệu ứng tăng chỉ số, sẽ chuyển sang trạng thái tự nhận [Lông vũ của Hiệp hội Quản lý].\n►Gây $1 sát thương phép cho toàn bộ kẻ địch.\n\nNếu [Lông vũ của Hiệp hội Quản lý] ở mức tối đa (60):\n►Tiêu hao toàn bộ và gây $2 sát thương phép cho toàn bộ kẻ địch.
 
 ##SP1##
 エグゼクティブサポート=Executive Support
-このスキルのスキルレベルは「コールオブギ\nルド」と連動しています=Cấp độ kỹ năng này liên kết với "Call of Guild"
-味方全体の物理攻撃力と魔法攻撃力と物理防御力と魔法防御力を中アップさせる。=Tăng vừa phải P.ATK, M.ATK, P.DEF và M.DEF của tất cả đồng minh.
-味方全体の物理攻撃力を初期値の20%アップ\n味方全体の魔法攻撃力を初期値の20%アップ\n味方全体の物理防御力を初期値の20%アップ\n味方全体の魔法防御力を初期値の20%アップ=Thời gian niệm chú: 1.75 giây\n►Tăng P.ATK của tất cả đồng minh thêm 20% trong 12 giây.\n►Tăng M.ATK của tất cả đồng minh thêm 20% trong 12 giây.\n►Tăng P.DEF của tất cả đồng minh thêm 20% trong 12 giây.\n►Tăng M.DEF của tất cả đồng minh thêm 20% trong 12 giây.
+
+味方全体の物理・魔法攻撃力と物理・魔法防御力を中アップさせる。風属性の味方の物理・魔法攻撃力と物理・魔法防御力を小アップさせる。=Tăng vừa tấn công vật lý, tấn công phép, phòng thủ vật lý và phòng thủ phép của toàn bộ đồng minh. Tăng nhẹ tấn công vật lý, tấn công phép, phòng thủ vật lý và phòng thủ phép của các đồng minh thuộc hệ Gió.
+r:"^味方全体の物理・魔法攻撃力を初期値の20％アップ味方全体の物理・魔法防御力を初期値の20％アップ風属性の味方の物理・魔法攻撃力を初期値の5％アップ風属性の味方の物理・魔法防御力を初期値の5％アップ$"=Thời gian triển khai: 1.75s.\n►Tăng 20% giá trị khởi điểm tấn công vật lý và phép của toàn bộ đồng minh trong 12 giây.\n►Tăng 20% giá trị khởi điểm phòng thủ vật lý và phép của toàn bộ đồng minh trong 12 giây.\n►Tăng 5% giá trị khởi điểm tấn công vật lý và phép của đồng minh hệ Gió trong 12 giây.\n►Tăng 5% giá trị khởi điểm phòng thủ vật lý và phép của đồng minh hệ Gió trong 12 giây.
 
 ##EX##
 ペンオブハーモニー=Pen of Harmony
 ペンオブハーモニー+=Pen of Harmony+
+
+
+
+##UE##
+剣よりも強いフェザーペン=Cây bút lông mạnh hơn thanh kiếm
+ギルドオブストレングス+=Guild of Strength+
+味方全体の物理・魔法攻撃力を大アップさせ、【力の魔字】を刻む。【力の魔字】が刻まれている間、味方の加算行動速度を大アップさせる。風属性の味方の物理・魔法クリティカルを大アップ、物理・魔法クリティカルダメージを小アップ、ＴＰを小回復させる。=Tăng lớn tấn công vật lý và phép của toàn bộ đồng minh, đồng thời khắc [Cổ tự Sức mạnh] lên họ. Trong thời gian [Cổ tự Sức mạnh] được khắc, tăng lớn tốc độ hành động cộng dồn của đồng minh. Tăng lớn tỉ lệ chí mạng vật lý và phép, tăng nhẹ sát thương chí mạng vật lý và phép, đồng thời hồi phục vừa TP cho các đồng minh thuộc hệ Gió.
+r:"^味方全体の物理・魔法攻撃力を(\d+)アップ味方全体に力の魔字を刻み、行動速度50％加算風属性の味方の物理・魔法クリティカルを80アップ風属性の味方の物理・魔法クリダメを3％アップ風属性の味方のＴＰを50回復$"=Thời gian triển khai: 0.59s.\n►Tăng tấn công vật lý và phép của toàn bộ đồng minh lên $1 trong 12 giây.\n►Khắc [Cổ tự Sức mạnh] lên toàn bộ đồng minh, tăng 50% tốc độ hành động trong 12 giây.\n►Tăng 80 tỉ lệ chí mạng vật lý và phép của đồng minh hệ Gió trong 12 giây.\n►Tăng 3% sát thương chí mạng vật lý và phép của đồng minh hệ Gió trong 12 giây.\n►Hồi phục 50 TP cho đồng minh hệ Gió.
+

@@ -4,21 +4,21 @@
 
 ##UB##
 バレット・ワールド=Thế Giới Đạn
-目の前の敵１キャラに魔法大ダメージを３回与える。１回ごとにダメージがアップする。さらに、自分を中心に、魔法攻撃力を大アップさせるフィールドを展開する。フィールド上にいるキャラが水属性だった場合、追加で魔法攻撃力を大アップさせ、ＴＰ上昇を小アップさせる。=Gây 3 lần Sát thương M.Lý lên kẻ địch phía trước, với mỗi lần sức mạnh tăng dần. Triển khai một vùng hiệu quả xung quanh bản thân cực lớn tăng S.ATK M.Lý. Nếu có nhân vật hệ Thủ trong vùng, còn cực lớn tăng S.ATK M.Lý và tăng nhẹ Tăng TP cho họ.
+目の前の敵１キャラに魔法大ダメージを３回与える。１回ごとにダメージが増加する。自分を中心とした範囲内の味方の魔法攻撃力を大アップさせるフィールドと、水属性の味方の魔法攻撃力を大アップ、ＴＰ上昇を小アップさせるフィールドを展開する。=Gây sát thương phép lớn 3 lần lên 1 kẻ địch ở phía trước, sát thương tăng dần theo từng lần. Triển khai một vùng ảnh hưởng (field) quanh bản thân giúp tăng mạnh tấn công phép của các đồng minh trong phạm vi, đồng thời triển khai một vùng ảnh hưởng giúp tăng mạnh tấn công phép và tăng nhẹ gia tốc TP của các đồng minh hệ Nước.
 
-r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ魔法攻撃力を(\d+)アップさせるフィールドを展開する水属性の味方の魔法攻撃力を(\d+)アップ、ＴＰ上昇を15アップさせるフィールドを展開する$"=►Gây $1 Sát thương M.Lý lên một kẻ địch.\n►Gây $2 Sát thương M.Lý lên một kẻ địch.\n►Gây $3 Sát thương M.Lý lên một kẻ địch.\n►Tạo vùng tăng S.ATK M.Lý lên $4.\n►Tạo vùng tăng S.ATK M.Lý của đồng minh Thủy lên $5 và Tăng TP lên 15.
+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ魔法攻撃力を(\d+)アップさせるフィールドを展開する水属性の味方の魔法攻撃力を(\d+)アップ、ＴＰ上昇を15アップさせるフィールドを展開する$"=►Gây $1 sát thương phép cho một kẻ địch đơn lẻ.\n►Gây $2 sát thương phép cho một kẻ địch đơn lẻ.\n►Gây $3 sát thương phép cho một kẻ địch đơn lẻ.\n►Tạo ra một vùng ảnh hưởng bán kính 350 làm tăng $4 tấn công phép trong 18 giây.\n►Tạo ra một vùng ảnh hưởng bán kính 350 làm tăng $5 tấn công phép và tăng 15 gia tốc TP của các đồng minh hệ Nước trong 18 giây.
 
 ##S1##
 デコーデッドスナイプ=Bắn Chính Xác Giải Mã
 目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。これを３回行い、１回ごとにダメージと魔法防御力ダウンの効果量がアップする。=Gây Sát thương M.Lý trung bình lên kẻ địch phía trước và giảm nhẹ S.Phòng M.Lý của chúng. Lặp lại 3 lần, với mỗi lần cả sát thương và hiệu ứng giảm S.Phòng M.Lý đều tăng lên.
 
-r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $2.\n►Gây $3 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $4.\n►Gây $5 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $6.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン$"=Thời gian triển khai: 1.05s.\n►Gây $1 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $2.\n►Gây $3 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $4.\n►Gây $5 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $6.
 
 ##S2##
 リロードスクリプト=Nạp Đạn Script
-自分の魔法攻撃力を大アップ、魔法攻撃クリティカル時のダメージを小アップし、ＴＰを小回復する。【フィールド展開中】このスキルの効果量がアップする。=Tăng cực lớn S.ATK M.Lý của bản thân, tăng nhẹ S.Crit M.Lý, và hồi nhẹ TP. [Vùng Hiệu Quả Kích Hoạt] Cường độ mọi hiệu ứng của kỹ năng này được tăng cường.
-
-r:"^フィールド展開中、自分の魔法攻撃力を(\d+)アップフィールド展開中、自分の魔法攻撃クリティカル時のダメージを18％アップフィールド展開中、自分のＴＰを250回復自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを9％アップ自分のＴＰを125回復$"=►Khi [Vùng Hiệu Quả Đang Hoạt Động]:\n►Tăng S.ATK M.Lý của bản thân lên $1.\n►Tăng S.Crit M.Lý của bản thân lên 18%.\n►Hồi TP của bản thân thêm 250.\n\n►Nếu không:\n►Tăng S.ATK M.Lý của bản thân lên $2.\n►Tăng S.Crit M.Lý của bản thân lên 9%.\n►Hồi TP của bản thân thêm 125.
+自分の魔法攻撃力を大アップ、魔法クリティカルダメージを小アップ、ＴＰを小回復する。【フィールド展開中】効果量が増加する。=Tăng mạnh tấn công phép của bản thân, tăng nhẹ sát thương chí mạng phép và hồi một lượng nhỏ TP cho bản thân. [Khi Vùng ảnh hưởng đang hoạt động] Các giá trị hiệu ứng sẽ được tăng lên.
+r:"^フィールド展開中、自分の魔法攻撃力を(\d+)アップフィールド展開中、自分の魔法攻撃クリティカル時のダメージを18％アップフィールド展開中、自分のＴＰを250回復自分の魔法攻撃力を(\d+)アップ自分の魔法攻撃クリティカル時のダメージを9％アップ自分のＴＰを125回復$"=Thời gian triển khai: 1.05 giây.\n►Khi [Vùng ảnh hưởng đang hoạt động]:\n►Tăng $1 tấn công phép của bản thân trong 18 giây.\n►Tăng 18% sát thương chí mạng phép của bản thân trong 18 giây.\n►Hồi 250 TP cho bản thân.\n\n►Nếu không:\n►Tăng $2 tấn công phép của bản thân trong 18 giây.\n►Tăng 9% sát thương chí mạng phép của bản thân trong 18 giây.\n►Hồi 125 TP cho bản thân.
 
 アームズクリエイション=Tạo Thể Vũ Khí
 アームズクリエイション+=Tạo Thể Vũ Khí+
@@ -29,5 +29,5 @@ r:"^フィールド展開中、自分の魔法攻撃力を(\d+)アップフィ�
 デコーデッドスナイプ+=Bắn Chính Xác Giải Mã+
 
 クイーンズガンビット=Quyết Định Nữ Hoàng
-目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。これを３回行い、１回ごとにダメージと魔法防御力ダウンの効果量がアップする。さらに、自分の魔法攻撃力を中アップする。=Gây Sát thương M.Lý trung bình lên kẻ địch phía trước và giảm nhẹ S.Phòng M.Lý của chúng. Lặp lại hiệu ứng này ba lần, với sát thương và hiệu ứng giảm S.Phòng M.Lý tăng lên mỗi lần. Ngoài ra, tăng vừa phải S.ATK M.Lý của bản thân.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $2.\n►Gây $3 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $4.\n►Gây $5 Sát thương M.Lý lên một kẻ địch.\n►Giảm S.Phòng M.Lý của một kẻ địch đi $6.\n►Tăng S.ATK M.Lý của bản thân lên $7.
+目の前の敵１キャラに魔法中ダメージを与え、魔法防御力を小ダウンさせる。これを３回行い、１回ごとにダメージと魔法防御力のダウン量が増加する。自分の魔法攻撃力を中アップする。=Gây sát thương phép trung bình lên 1 kẻ địch ở phía trước và giảm nhẹ phòng thủ phép của mục tiêu. Thực hiện điều này 3 lần, với lượng sát thương và mức giảm phòng thủ phép tăng dần sau mỗi lần. Tăng trung bình tấn công phép của bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ$"=Thời gian triển khai: 1.05 giây.\n►Gây $1 sát thương phép cho một kẻ địch đơn lẻ.\n►Giảm $2 phòng thủ phép của một kẻ địch đơn lẻ trong 12 giây.\n►Gây $3 sát thương phép cho một kẻ địch đơn lẻ.\n►Giảm $4 phòng thủ phép của một kẻ địch đơn lẻ trong 12 giây.\n►Gây $5 sát thương phép cho một kẻ địch đơn lẻ.\n►Giảm $6 phòng thủ phép của một kẻ địch đơn lẻ trong 12 giây.\n►Tăng $7 tấn công phép của bản thân trong 12 giây.

@@ -31,7 +31,7 @@ r:"^自分のＴＰを(\d+)回復ユニオンバースト使用後、自分の�
 ##S2##
 翅の輝き=Cánh Đồng Tiệc
 自分の物理攻撃力を小アップ、ＴＰを大回復する。既にＵＢを発動していた場合、ＴＰの回復量が増加する。=Tăng nhẹ tấn công vật lý của bản thân và hồi nhiều TP cho bản thân. Nếu bản thân đã kích hoạt Union Burst trước đó, lượng TP hồi phục sẽ tăng lên.
-
+r:"^自分のＴＰを450回復ユニオンバースト使用後、自分のＴＰを720回復自分の物理攻撃力を(\d+)アップ$"=Thời gian triển khai: 1.35s.\n►Hồi phục 450 TP cho bản thân.\n►Sau khi sử dụng Union Burst, hồi phục 720 TP cho bản thân.\n►Tăng tấn công vật lý của bản thân thêm $1 trong 12 giây.
 
 
 ##EX##

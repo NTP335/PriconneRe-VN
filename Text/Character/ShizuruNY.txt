@@ -3,19 +3,19 @@
 
 ##UB##
 新春・姉文字斬り=Tết: Chém Chị Đại
-目の前の敵１キャラに対象の魔法防御力が物理防御力より低い場合、魔法ダメージ扱いになる物理特大ダメージを与え、物理防御力と魔法防御力を小ダウンさせる。さらに、味方全体の物理攻撃力と魔法攻撃力を特大アップさせ、ＨＰを小回復させる。=Gây sát thương vật lý (P.DMG) khổng lồ lên kẻ thù phía trước. Nếu M.DEF của mục tiêu thấp hơn P.DEF, sát thương này sẽ được tính là sát thương phép thuật (M.DMG). Giảm một chút P.DEF và M.DEF của mục tiêu. Ngoài ra, tăng mạnh P.ATK và M.ATK cho tất cả đồng minh, và phục hồi một chút HP của họ.
+目の前の敵１キャラに対象の魔法防御力が物理防御力より低い場合、魔法ダメージ扱いになる物理特大ダメージを与え、物理・魔法防御力を小ダウンさせる。味方全体の物理・魔法攻撃力を特大アップ、ＨＰを小回復させる。=Gây sát thương vật lý cực lớn lên 1 kẻ địch ở phía trước (được tính là sát thương phép nếu phòng thủ phép của mục tiêu thấp hơn phòng thủ vật lý của họ) và giảm nhẹ phòng thủ vật lý và phép thuật của mục tiêu. Tăng cực lớn tấn công vật lý và phép thuật của toàn bộ đồng minh, đồng thời hồi một lượng nhỏ HP cho họ.
+
 r:"^敵単体に(\d+)の低い側の防御力で防御する物理ダメージ敵単体の物理・魔法防御力を(\d+)ダウン味方全体の物理・魔法攻撃力を(\d+)アップ味方全体のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý (P.DMG) lên một kẻ thù đơn, tính dựa trên P.DEF hoặc M.DEF thấp hơn của chúng.\n►Giảm P.DEF và M.DEF của một kẻ thù đơn lên $2.\n►Tăng P.ATK và M.ATK cho đồng minh lên $3.\n►Phục hồi HP cho tất cả đồng minh $4.
 
 ##S1##
 新春お姉ちゃん頭突き=Đấu Đầu Tết Onee-chan
-目の前の敵１キャラに対象の魔法防御力が物理防御力より低い場合、魔法ダメージ扱いになる物理大ダメージを与え、物理防御力と魔法防御力を小ダウン、物理攻撃力と魔法攻撃力を大ダウンさせる。自分が物理・魔法攻撃力アップ状態だった場合、目の前の敵１キャラのクリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý (P.DMG) lớn lên kẻ thù phía trước. Nếu M.DEF của mục tiêu thấp hơn P.DEF, sát thương này sẽ được tính là sát thương phép thuật (M.DMG). Giảm một chút P.DEF và M.DEF của mục tiêu, và giảm mạnh P.ATK và M.ATK của chúng. Nếu bản thân đang có hiệu ứng tăng P.ATK và M.ATK, sẽ tăng một chút sát thương mà mục tiêu nhận khi bị đánh chí mạng.
-r:"^敵単体に(\d+)の低い側の防御力で防御する物理ダメージ敵単体の物理・魔法防御力を(\d+)ダウン敵単体の物理・魔法攻撃力を(\d+)ダウン自分が物理・魔法攻撃力アップ状態の時、敵単体の被クリダメを10％アップ$"=►Gây $1 sát thương vật lý (P.DMG) lên một kẻ thù đơn, tính dựa trên P.DEF hoặc M.DEF thấp hơn của chúng.\n►Giảm P.DEF và M.DEF của một kẻ thù đơn lên $2.\n►Giảm P.ATK và M.ATK của một kẻ thù đơn lên $3.\n\nNếu P.ATK và M.ATK của bản thân được tăng:\n►Tăng sát thương chí mạng (CRIT DMG) mà một kẻ thù đơn nhận lên 10%.
+目の前の敵１キャラに対象の魔法防御力が物理防御力より低い場合、魔法ダメージ扱いになる物理大ダメージを与え、物理・魔法防御力を小ダウン、物理・魔法攻撃力を大ダウンさせる。自分が物理・魔法攻撃力アップ状態の場合、さらに目の前の敵１キャラの受けるクリティカルダメージを小アップさせる。=Gây sát thương vật lý lớn lên 1 kẻ địch ở phía trước (được tính là sát thương phép nếu phòng thủ phép của mục tiêu thấp hơn phòng thủ vật lý của họ), giảm nhẹ phòng thủ vật lý và phép thuật, đồng thời giảm mạnh tấn công vật lý và phép thuật của mục tiêu. Nếu bản thân đang trong trạng thái tăng tấn công vật lý và phép thuật, làm tăng thêm nhẹ sát thương chí mạng phải chịu của 1 kẻ địch ở phía trước.
+r:"^敵単体に(\d+)の低い側の防御力で防御する物理ダメージ敵単体の物理・魔法防御力を(\d+)ダウン敵単体の物理・魔法攻撃力を(\d+)ダウン自分が物理・魔法攻撃力アップ状態の時、敵単体の被クリダメを10％アップ$"=Thời gian triển khai: 1.05s.\n►Gây $1 sát thương vật lý (P.DMG) lên một kẻ thù đơn, tính dựa trên P.DEF hoặc M.DEF thấp hơn của chúng.\n►Giảm P.DEF và M.DEF của một kẻ thù đơn lên $2 trong 12s.\n►Giảm P.ATK và M.ATK của một kẻ thù đơn lên $3 trong 12s.\n\nNếu P.ATK và M.ATK của bản thân được tăng:\n►Tăng sát thương chí mạng (CRIT DMG) mà một kẻ thù đơn nhận lên 10% trong 12s.
 
 ##S2##
 見せつけるきょうだい愛=Khoe Tình Anh Em
-【挑発】敵全体を挑発し、自分が敵から受ける行動不能を３回まで無効にする。自分が物理攻撃力アップ状態だった場合、味方全体の物理攻撃力を特大アップさせる。自分が魔法攻撃力アップ状態だった場合、味方全体の魔法攻撃力を特大アップさせる。自分が物理・魔法攻撃力アップ状態だった場合、味方全体のＴＰを中回復させる。=[Thách Đấu] Khiêu khích tất cả kẻ thù và phá hủy tối đa ba hiệu ứng khiến bản thân bất động từ kẻ thù. Nếu bản thân đang có hiệu ứng tăng P.ATK, sẽ tăng mạnh P.ATK cho tất cả đồng minh. Nếu bản thân đang có hiệu ứng tăng M.ATK, sẽ tăng mạnh M.ATK cho tất cả đồng minh. Nếu bản thân đang có cả hiệu ứng tăng P.ATK và M.ATK, sẽ phục hồi một chút TP cho tất cả đồng minh.
-
-r:"^敵全体を挑発する自分の受ける行動不能を３回まで無効化する自分が物理攻撃力アップ状態の時、味方全体の物理攻撃力を(\d+)アップ自分が魔法攻撃力アップ状態の時、味方全体の魔法攻撃力を(\d+)アップ自分が物理・魔法攻撃力アップ状態の時、味方全体のＴＰを150回復$"=►Khiêu khích tất cả kẻ thù.\n►Phá hủy tối đa 3 hiệu ứng khiến bản thân bất động incoming.\n\nNếu P.ATK của bản thân được tăng:\n►Tăng P.ATK cho đồng minh lên $1.\n\nNếu M.ATK của bản thân được tăng:\n►Tăng M.ATK cho đồng minh lên $2.\n\nNếu cả P.ATK và M.ATK của bản thân được tăng:\n►Phục hồi TP cho tất cả đồng minh 150.
+【挑発】敵全体を挑発し、自分が敵から受ける行動不能を３回まで無効にする。自分が物理攻撃力アップ状態の場合、さらに味方全体の物理攻撃力を特大アップさせる。自分が魔法攻撃力アップ状態の場合、さらに味方全体の魔法攻撃力を特大アップさせる。自分が物理・魔法攻撃力アップ状態の場合、さらに味方全体のＴＰを中回復させる。=[Khiêu khích] Khiêu khích toàn bộ kẻ địch và vô hiệu hóa tối đa 3 lần hiệu ứng bất động do kẻ địch gây ra lên bản thân. Nếu bản thân đang trong trạng thái tăng tấn công vật lý, làm tăng cực lớn tấn công vật lý của toàn bộ đồng minh. Nếu bản thân đang trong trạng thái tăng tấn công phép thuật, làm tăng cực lớn tấn công phép thuật của toàn bộ đồng minh. Nếu bản thân đang trong trạng thái tăng cả tấn công vật lý và phép thuật, hồi một lượng trung bình TP cho toàn bộ đồng minh.
+r:"^敵全体を挑発する自分の受ける行動不能を３回まで無効化する自分が物理攻撃力アップ状態の時、味方全体の物理攻撃力を(\d+)アップ自分が魔法攻撃力アップ状態の時、味方全体の魔法攻撃力を(\d+)アップ自分が物理・魔法攻撃力アップ状態の時、味方全体のＴＰを150回復$"=Thời gian niệm chú: 1.05 giây.\n►Khiêu khích toàn bộ kẻ địch trong 18 giây.\n►Vô hiệu hóa tối đa 3 hiệu ứng làm mất khả năng hành động sắp phải nhận lên bản thân trong 18 giây.\n\nNếu tấn công vật lý của bản thân được tăng cường:\n►Tăng $1 tấn công vật lý của đồng minh trong 18 giây.\n\nNếu tấn công phép của bản thân được tăng cường:\n►Tăng $2 tấn công phép của đồng minh trong 18 giây.\n\nNếu cả tấn công vật lý và tấn công phép của bản thân được tăng cường:\n►Hồi 150 TP cho toàn bộ đồng minh.
 
 
 ##EX##
@@ -23,5 +23,7 @@ r:"^敵全体を挑発する自分の受ける行動不能を３回まで無効�
 春は、あけぼのお姉ちゃん+=Mùa Xuân Là Onee-chan Bình Minh+
 
 
+##Same with PreciaS, but diferent wording
+【常時発動】自分のＵＢおよびスキルのダメージとＨＰ回復は物理・魔法攻撃力を合わせ、クリティカルは物理・魔法クリティカルの値を合わせる。=[Luôn kích hoạt] Kết hợp tấn công vật lý và phép thuật cho sát thương của UB/kỹ năng cũng như lượng HP hồi phục. Kết hợp tỉ lệ chí mạng vật lý và phép thuật để tính toán chí mạng.
 
 

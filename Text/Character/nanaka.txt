@@ -38,18 +38,19 @@
 
 ##UB+##
 ナナカ・∞・グリッター=Nanaka Infinite Glitter
-最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương phép cực lớn lên kẻ địch có HP còn lại cao nhất và nhẹ nhàng giảm phòng thủ phép của chúng.
-残りＨＰが最も高い敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương phép cực lớn lên kẻ địch có HP còn lại cao nhất và nhẹ nhàng giảm phòng thủ phép của chúng.
+最もＨＰの割合が高い敵に魔法特大ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương phép cực lớn cho kẻ địch có tỉ lệ HP cao nhất và làm giảm nhẹ phòng thủ phép của chúng.
 
 ##S1+##
 スターダストマジック+=Stardust Magic+
-目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を中ダウンさせる。=Giảm trung bình phòng thủ phép của kẻ địch trong phạm vi.
-r:"^範囲内の敵の魔法防御力を(\d+)ダウン$"=►Giảm phòng thủ phép của kẻ địch trong phạm vi 200 đơn vị bằng $1 trong 12 giây.
+目の前の敵１キャラを中心とした範囲内の敵の魔法防御力を中ダウンさせる。=Làm giảm vừa phòng thủ phép của kẻ địch trong phạm vi tính từ 1 kẻ địch ở ngay trước mặt.
+
+r:"^範囲内の敵の魔法防御力を(\d+)ダウン$"=Thời gian triển khai: 1,4 giây.\n►Làm giảm phòng thủ phép của kẻ địch trong phạm vi 200 xuống $1 trong 12 giây.
 
 ##S2+##
 エナジーインパクト+=Energy Impact+
-最もＨＰの割合が高い敵１キャラに魔法特大ダメージを与えてスタンさせ、さらにＨＰ回復量を特大ダウンさせる。=Gây sát thương phép cực lớn lên kẻ địch có %HP cao nhất, khiến chúng choáng và giảm mạnh tốc độ hồi HP của chúng.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする敵単体のＨＰ回復量を90％ダウン$"=►Gây $1 sát thương phép lên kẻ địch.\n►Khiến kẻ địch choáng trong 4.5 giây.\n►Giảm tốc độ hồi HP của kẻ địch còn 10% trong 18 giây.
+最もＨＰの割合が高い敵に魔法特大ダメージを与え、スタンさせ、ＨＰ回復量を特大ダウンさせる。=Gây sát thương phép cực lớn cho kẻ địch có tỉ lệ HP cao nhất, làm choáng chúng và làm giảm cực lớn lượng hồi phục HP của chúng.
+
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする敵単体のＨＰ回復量を90％ダウン$"=Thời gian triển khai: 1,4 giây.\n►Gây $1 sát thương phép cho 1 kẻ địch.\n►Gây choáng cho 1 kẻ địch trong 4,5 giây.\n►Giảm tỷ lệ hồi phục HP của 1 kẻ địch xuống còn 10% trong 18 giây.
 
 ##UE##
 ナナカサイツヨロッド=Nanaka's Kickass Rod

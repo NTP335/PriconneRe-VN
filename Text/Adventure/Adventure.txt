@@ -170,3 +170,27 @@ sr:"^(.+)のアドベンチャーから撤退しました。$"=Rút lui khỏi C
 アストライア大陸の未踏地=Vùng đất Chưa khám phá của Astraea
 
 チェックされていないアドベンチャーポイントの\n設定はクリアされます。\n\nよろしいですか？=Các cài đặt cho điểm phiêu lưu không được chọn sẽ bị xóa. \n\nBạn có chắc không?
+
+
+
+
+
+
+
+
+
+おまかせ設定=Cài đặt Tự động
+まとめておまかせボタンを押した際に、\nコッコロにおまかせの設定になっている項目のスキップ実行確認を自動で進行するか設定できます。=Cho phép cài đặt xem có tự động tiến hành xác nhận thực hiện bỏ qua cho các mục được đặt chế độ Tự động của Kokkoro khi nhấn nút "Tự động tất cả" hay không.
+開催中のイベントのデイリーミッション報酬を受け取っていないとき\n予定帳に表示するか設定できます。=Cho phép cài đặt xem có hiển thị trong Sổ lịch trình khi chưa nhận phần thưởng nhiệm vụ hàng ngày của sự kiện đang diễn ra hay không.
+スペシャルダンジョンの挑戦回数が残っているとき予定帳に表示するかどうかを設定できます。=Cho phép cài đặt xem có hiển thị trong Sổ lịch trình khi vẫn còn số lần khiêu chiến Cầm động đặc biệt (Special Dungeon) hay không.
+スペシャルダンジョン設定=Cài đặt Hầm ngục Đặc biệt (Special Dungeon)
+前哨クエストの挑戦回数が1回以上残っているとき予定帳に表示するか設定できます。=Cho phép cài đặt xem có hiển thị trong Sổ lịch trình khi còn từ 1 lần khiêu chiến Nhiệm vụ Tiền trạm (Prelude Quest) trở lên hay không.
+深淵討伐戦 前哨クエスト設定=Cài đặt Nhiệm vụ Tiền trạm Trận Thảo phạt Vực sâu (Abyss Subjugation Battle Prelude Quest)
+究極錬成設定=Cài đặt Luyện chế Tối thượng (Ultimate Synthesis)
+深淵討伐戦の終了まで残り24時間を切っており、討伐依頼証を1枚以上所持しているとき\n予定帳に表示するか設定できます。=Cho phép cài đặt xem có hiển thị trong Sổ lịch trình khi thời gian kết thúc Trận Thảo phạt Vực sâu còn dưới 24 giờ và bạn đang sở hữu từ 1 Giấy ủy thác thảo phạt trở lên hay không.
+深淵討伐戦 ボス設定=Cài đặt Trùm Trận Thảo phạt Vực sâu (Abyss Subjugation Battle Boss)
+アルケス錬金堂の日常ストーリーが発生しているとき\n予定帳から報酬を受け取れるようにするか、表示するか設定できます。=Cho phép cài đặt xem có hiển thị Cốt truyện Hàng ngày của Tiệm Giả kim Arches trong Sổ lịch trình và cho phép nhận phần thưởng từ đó khi có sẵn hay không.
+レイドバトルのデイリーミッションを達成していないとき、予定帳に表示するかを設定できます。=Cho phép cài đặt xem có hiển thị trong Sổ lịch trình khi chưa hoàn thành nhiệm vụ hàng ngày của Trận chiến Đột kích (Raid Battle) hay không.
+レイドバトルのデイリーミッション設定=Cài đặt Nhiệm vụ Hàng ngày Trận chiến Đột kích (Raid Battle Daily Mission)
+エルピス討魔戦線の終了まで残り24時間を切っており、\n挑戦可能なボスがいるとき予定帳に表示するか設定できます。=Cho phép cài đặt xem có hiển thị trong Sổ lịch trình khi thời gian kết thúc Chiến tuyến Trừ ma Elpis còn dưới 24 giờ và có trùm khả dụng để khiêu chiến hay không.
+エルピス討魔戦線設定=Cài đặt Chiến tuyến Trừ ma Elpis (Elpis Demonfront)

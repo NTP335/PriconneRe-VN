@@ -14,7 +14,7 @@ r:"^発動時の中心の敵が毒または猛毒状態の時、毎秒(\d+)の�
 
 ##S2##
 アシッドヴァイン=Acid Vines
-目の前の敵１キャラの物理防御力を中ダウンさせる。対象が毒か猛毒状態だった場合、さらに対象に物理中ダメージを与える。=Giảm trung bình phòng thủ vật lý của kẻ thù. Nếu mục tiêu đang bị ảnh hưởng bởi Độc hoặc Nọc độc, bổ sung gây sát thương vật lý trung bình.
+目の前の敵１キャラの物理防御力を中ダウンさせる。対象が毒か猛毒状態の場合、さらに物理中ダメージを与える。=Giảm vừa phòng thủ vật lý của 1 kẻ địch ở trước mặt. Trường hợp mục tiêu đang ở trạng thái trúng độc hoặc độc nặng, gây thêm sát thương vật lý trung bình.
 r:"^敵単体の物理防御力を(\d+)ダウン対象が毒または猛毒状態の時、敵単体に(\d+)の物理ダメージ$"=Thời gian triển khai: 1,14s.\n►Giảm P.DEF của một kẻ địch đi $1 trong 12s.\n\nNếu mục tiêu bị trúng độc hoặc cực độc:\n►Gây $2 sát thương vật lý lên kẻ địch.
 
 ##EX##

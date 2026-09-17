@@ -5,16 +5,17 @@
 
 ##UB##
 レヴィアタンランス=Giáo Leviathan
-目の前の敵１キャラに物理大ダメージを与え、さらに味方全体の物理攻撃力を中アップさせる。=Gây sát thương vật lý lớn cho kẻ địch đối diện trực tiếp. Tăng vừa phải tấn công vật lý của đồng minh.
-r:"^敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Tăng tấn công vật lý của đồng minh lên $2.
+前方の敵に物理大ダメージを与え、味方全体の物理攻撃力を特大アップさせる。=Gây sát thương vật lý lớn cho kẻ địch ở phía trước và tăng cực đại tấn công vật lý của toàn bộ đồng minh.
+r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n►Tăng tấn công vật lý của toàn bộ đồng minh lên $2 trong 18 giây.
+
 
 ##S1##
 ハイドロスティング=Quây Nước
-目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理小ダメージを与える。=Gây sát thương vật lý nhỏ cho kẻ địch trước mặt, và thêm sát thương vật lý nhỏ cho các kẻ địch xung quanh mục tiêu.
+目の前の敵１キャラに物理中ダメージを与え、その敵を中心とした範囲内の敵に物理小ダメージを与える。=Gây sát thương vật lý trung bình cho 1 kẻ địch ở ngay trước mặt, đồng thời gây sát thương vật lý nhỏ cho các kẻ địch trong phạm vi xung quanh mục tiêu đó.
 
 ##S2##
 ハンティングモード=Chế độ Săn Bắn
-自分の物理攻撃力を中アップさせ、さらに物理クリティカルを大アップさせる。=Tăng vừa phải Tấn Công Vật Lý và Tỷ Lệ Chí Mạng của bản thân.
+自分の物理攻撃力を中アップ、物理クリティカルを大アップする。=Tăng vừa tấn công vật lý của bản thân và tăng lớn tỉ lệ chí mạng vật lý của bản thân.
 
 ##EX##
 サマーマーセナリー=Lính Thuê Mùa Hè
@@ -22,8 +23,7 @@ r:"^敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)
 
 ##S1+##
 ハイドロスティング+=Vòng Xoay Nước+
-目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理大ダメージを与える。=Gây sát thương vật lý vừa phải cho kẻ địch trước mặt, và thêm sát thương vật lý nhỏ cho các kẻ địch xung quanh mục tiêu.
-It deals P.DMG to one enemy in front of you, and also does physics -based damage to all the surrounding enemies.
+目の前の敵１キャラに物理中ダメージを与え、その敵を中心とした範囲内の敵に物理大ダメージを与える。=Gây sát thương vật lý trung bình cho 1 kẻ địch ở ngay trước mặt, đồng thời gây sát thương vật lý lớn cho các kẻ địch trong phạm vi xung quanh mục tiêu đó.
 
 ##S2+##
 ハンティングモード+=Chế độ Săn Bắn+
