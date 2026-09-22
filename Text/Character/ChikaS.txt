@@ -4,7 +4,8 @@
 ##UB##
 サマーオーシャンシンフォニー=Giao hưởng Đại dương Mùa hè
 味方全体の物理・魔法防御力を中アップさせ、物理/魔法吸収バリアを展開する。=Tăng vừa phòng thủ vật lý và phép của toàn bộ đồng minh, đồng thời triển khai khiên hấp thụ sát thương vật lý/phép.
-r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御力を(\d+)アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Tăng P.DEF tất cả đồng đội bằng $1 trong 18s.\n►Tăng M.DEF tất cả đồng đội bằng $2 trong 18s.\n►Triển khai Rào cản lên tất cả đồng đội hấp thụ $3 sát thương P/M trong 18s.
+r:"^味方全体の物理・魔法防御力を(\d+)アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=►Tăng $1 phòng thủ vật lý và phép thuật cho toàn bộ đồng minh trong 18 giây.\n►Triển khai một lớp rào chắn hấp thụ $2 sát thương vật lý và phép thuật cho toàn bộ đồng minh trong 18 giây.
+
 
 ##S1##
 オーシャンプロテクション=Bảo vệ Đại dương
@@ -13,7 +14,7 @@ r:"^味方全体の物理防御力を(\d+)アップ味方全体の魔法防御�
 ##S2##
 ドルフィンソング=Dolphin Song
 最もＨＰが低い味方のＨＰを小回復させ、継続ＨＰ回復状態を付与する。=►Hồi phục một lượng nhỏ HP cho đồng minh có HP thấp nhất và cấp trạng thái hồi phục HP liên tục cho họ.
-r:"^味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►Hồi HP cho đồng minh $1.\n►Hồi HP cho đồng minh $2/giây trong 8.5 giây.
+r:"^味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=Thời gian triển khai: 0.465s.\n►Hồi HP cho đồng minh $1.\n►Hồi HP cho đồng minh $2/giây trong 8.5 giây.
 
 ##EX##
 サマーディーヴァ=Summer Diva
@@ -21,9 +22,21 @@ r:"^味方単体のＨＰを(\d+)回復毎秒ＨＰを(\d+)回復する$"=►H�
 
 ##S1+##
 オーシャンプロテクション+=Ocean Protection+
-自分を中心とした範囲内の味方の魔法防御力を特大アップさせ、魔法無効バリアを展開し、自分のＴＰを特大回復する。発動するたびに、最大３回まで効果量がダウンする。=Tăng cực đại phòng thủ phép của đồng minh trong phạm vi xung quanh bản thân, triển khai khiên vô hiệu hóa sát thương phép, và hồi phục cực đại TP của bản thân. Mức độ hiệu quả sẽ giảm dần theo mỗi lần kích hoạt, tối đa 3 lần.
+自分を中心とした範囲内の味方の魔法防御力を特大アップさせ、魔法無効バリアを展開し、自分のＴＰを特大回復する。発動するたびに、最大３回まで効果量が減少する。=Tăng cực đại phòng thủ phép thuật cho đồng minh trong phạm vi quanh bản thân, triển khai một lớp rào chắn vô hiệu hóa sát thương phép thuật, và hồi phục cực lớn TP cho bản thân. Hiệu ứng sẽ giảm dần sau mỗi lần kích hoạt, tối đa lên đến 3 lần.
 
-r:"^範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng M.DEF cho đồng minh trong phạm vi 255 lên $1 trong 12s.\n►Hồi TP cho bản thân $2.\n►Triển khai lá chắn bảo vệ đồng minh trong phạm vi 255, hấp thụ $3 sát thương ma thuật (M.DMG) trong 12s.
+r:"^範囲内の味方の魔法防御力を(\d+)アップ自分のＴＰを(\d+)回復(\d+)ダメージ分の魔法無効バリアを展開する$"=Thời gian triển khai: 0.695s.\n►Tăng M.DEF cho đồng minh trong phạm vi 255 lên $1 trong 12s.\n►Hồi TP cho bản thân $2.\n►Triển khai lá chắn bảo vệ đồng minh trong phạm vi 255, hấp thụ $3 sát thương ma thuật (M.DMG) trong 12s.
 
 ##UE##
 翠夏杖オーシャンルーン=Midsummer Cane Ocean Rune
+
+
+
+
+
+
+##S2+##
+ドルフィンソング+=Dolphin Song+
+ビーチシンフォニー・クロース=Beach Symphony Close
+
+自分を中心とした範囲内の味方の物理・魔法防御力を極大アップ、ＨＰを大回復、ＴＰを特大回復させ、継続ＨＰ回復状態と物理・魔法ダメージカット効果を付与し、物理無効バリアを展開する。発動するたびに、最大３回まで効果量が減少する。=Cực kỳ tăng phòng thủ vật lý và phép thuật của đồng minh trong phạm vi quanh bản thân, hồi phục lượng lớn HP, hồi phục cực nhiều TP, cấp trạng thái hồi phục HP liên tục và hiệu ứng giảm sát thương vật lý/phép thuật, đồng thời triển khai một lớp rào chắn vô hiệu hóa sát thương vật lý. Hiệu ứng sẽ giảm dần sau mỗi lần kích hoạt, tối đa lên đến 3 lần.
+r:"^範囲内の味方の物理・魔法防御力を(\d+)アップ範囲内の味方のＨＰを(\d+)回復範囲内の味方のＴＰを500回復毎秒ＨＰを(\d+)回復する範囲内の味方が受ける物理・魔法ダメージを20％カット(\d+)ダメージ分の物理無効バリアを展開する$"=Thời gian triển khai: 0.465s.\n►Tăng $1 phòng thủ vật lý và phép thuật cho đồng minh trong phạm vi trong 12 giây.\n►Hồi phục $2 HP cho đồng minh trong phạm vi.\n►Hồi phục 500 TP cho đồng minh trong phạm vi.\n►Hồi phục $3 HP cho đồng minh trong phạm vi mỗi giây trong 8.5 giây.\n►Giảm 20% sát thương vật lý và phép thuật mà đồng minh trong phạm vi phải chịu trong 12 giây.\n►Triển khai một lớp rào chắn vô hiệu hóa $4 sát thương vật lý cho đồng minh trong phạm vi trong 12 giây.

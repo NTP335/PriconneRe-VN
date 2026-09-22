@@ -1,0 +1,23 @@
+##Profile##
+【物理】中衛から必殺クローで敵全体を圧潰するロボ娘。自分へのバフと敵へのデバフで【水陸可変ブースター】が起動し、高頻度のＵＢでダメージの大渦潮を巻き起こす！=[Vật lý] Một cô nàng người máy ở vị trí trung hàng dùng móng vuốt chí mạng để nghiền nát toàn bộ kẻ địch. Việc tự buff bản thân và debuff kẻ địch sẽ kích hoạt 【Amphibious Shift Booster】, tạo ra một cơn lốc xoáy sát thương với các đòn Union Burst có tần suất cao!
+
+##UB##
+サブマリンストローム=Submarine Storm
+自分の物理攻撃力を大アップ、物理クリティカルダメージを小アップし、敵全体に物理大ダメージを2回与え、物理防御力を小ダウンさせる。=Tăng lớn lực tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý, gây sát thương vật lý lớn cho toàn bộ kẻ địch 2 lần, và giảm nhẹ phòng thủ vật lý của chúng.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリダメを9％アップ敵全体に(\d+)の物理ダメージを２回与える敵全体の物理防御力を(\d+)ダウン$"=►Tăng $1 lực tấn công vật lý của bản thân trong 18 giây.\n►Tăng 9% sát thương chí mạng vật lý của bản thân trong 18 giây.\n►Gây $2 sát thương vật lý cho toàn bộ kẻ địch 2 lần.\n►Giảm $3 phòng thủ vật lý của toàn bộ kẻ địch trong 18 giây.
+
+##S1##
+マルチハープーン=Multi Harpoon
+敵全体に物理中ダメージを２回与え、物理防御力を小ダウンさせる。発動時既に【水陸可変ブースター】が33個以上だった場合、【水陸可変ブースター】を33個消費し、さらに自分のＴＰを特大回復する。=Gây sát thương vật lý trung bình cho toàn bộ kẻ địch 2 lần và giảm nhẹ phòng thủ vật lý của chúng. Nếu đã có từ 33 tầng 【Amphibious Shift Booster】 trở lên khi kích hoạt, tiêu hao 33 tầng 【Amphibious Shift Booster】 và hồi phục cực lớn TP cho bản thân.
+r:"^敵全体に(\d+)の物理ダメージを２回与える敵全体の物理防御力を(\d+)ダウン水陸可変ブースターが33個以上の場合、以下の効果が発動する水陸可変ブースターを33個消費する自分のＴＰを1000回復$"=Thời gian triển khai: 1.05s.\n►Gây $1 sát thương vật lý cho toàn bộ kẻ địch 2 lần.\n►Giảm $2 phòng thủ vật lý của toàn bộ kẻ địch trong 12 giây.\n\nNếu 【Amphibious Shift Booster】 có từ 33 tầng trở lên:\n►Tiêu hao 33 tầng 【Amphibious Shift Booster】.\n►Hồi phục 1000 TP.
+
+##S2##
+ターボスクリュー=Turbo Screw
+自分の物理攻撃力を大アップ、与える物理ダメージを小アップする。発動時既に【水陸可変ブースター】が33個以上だった場合、【水陸可変ブースター】を33個消費し、さらに自分のＴＰを特大回復する。初回発動時、目の前の敵１キャラがステータスダウン効果を受けるか自分がステータスアップ効果を受けるたびに、自分に【水陸可変ブースター】（上限99）が１個付与される状態になる。=Tăng lớn lực tấn công vật lý của bản thân và tăng nhẹ sát thương vật lý gây ra. Nếu đã có từ 33 tầng 【Amphibious Shift Booster】 trở lên khi kích hoạt, tiêu hao 33 tầng 【Amphibious Shift Booster】 và hồi phục cực lớn TP cho bản thân. Trong lần kích hoạt đầu tiên, chuyển sang trạng thái nhận thêm 1 tầng 【Amphibious Shift Booster】 (tối đa 99) mỗi khi kẻ địch ở phía trước nhận hiệu ứng giảm chỉ số hoặc bản thân nhận hiệu ứng tăng chỉ số.
+r:"^自分の物理攻撃力を(\d+)アップ自分の与える物理ダメージを9％アップ水陸可変ブースターが33個以上の場合、以下の効果が発動する水陸可変ブースターを33個消費する自分のＴＰを1000回復初回発動時、以下の効果が発動する敵単体がステータスダウン効果を受けるたびに自分に水陸可変ブースターが付与される状態になる自分がステータスアップ効果を受けるたびに自分に水陸可変ブースターが付与される状態になる$"=Thời gian triển khai: 1.05s.\n►Tăng $1 lực tấn công vật lý của bản thân trong 12 giây.\n►Tăng 9% sát thương vật lý gây ra của bản thân trong 12 giây.\n\nNếu 【Amphibious Shift Booster】 có từ 33 tầng trở lên:\n►Tiêu hao 33 tầng 【Amphibious Shift Booster】.\n►Hồi phục 1000 TP.\n\nTrong lần sử dụng đầu tiên:\n►Mỗi khi một mục tiêu kẻ địch chịu hiệu ứng giảm chỉ số, chuyển sang trạng thái nhận 【Amphibious Shift Booster】 cho bản thân.\n►Mỗi khi bản thân nhận hiệu ứng tăng chỉ số, chuyển sang trạng thái nhận 【Amphibious Shift Booster】 cho bản thân.
+
+##EX##
+マリンブースト=Marine Boost
+マリンブースト+=Marine Boost+
+
+##S1+##

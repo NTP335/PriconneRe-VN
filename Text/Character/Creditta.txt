@@ -14,7 +14,7 @@
 
 ##UB##
 ミリオンフリッピング=Lật Đổ Triệu Phú
-前方の敵すべてに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。範囲内の敵の数に応じて、ダメージと防御力の減少量が増加する。=Gây sát thương vật lý (P.DMG) vừa phải lên tất cả kẻ địch và giảm nhỏ Phòng Thủ Vật Lý (P.DEF) của chúng. Lượng P.DMG gây ra và lượng P.DEF giảm tăng lên tùy theo số lượng kẻ địch trong phạm vi.\nP.DMG x 0.6 x Số Kẻ Địch.\nP.DEF x Số Kẻ Địch.
+前方の敵に物理中ダメージを与え、物理防御力を小ダウンさせる。範囲内の敵の数に応じて、効果量が増加する。=Gây sát thương vật lý trung bình cho kẻ địch ở phía trước và giảm nhẹ phòng thủ vật lý của chúng. Giá trị hiệu ứng tăng dựa trên số lượng kẻ địch trong phạm vi.
 
 ##S1##
 トラップウォレット=Ví Bẫy
@@ -22,8 +22,8 @@
 
 ##S2##
 ロイヤリティライト=Ánh Sáng Hoàng Tộc
-味方全体に継続ＨＰ回復状態と継続ＴＰ回復状態を付与し、さらに物理無効バリアを展開する。=Trao hiệu quả hồi HP và hồi TP liên tục cho tất cả đồng minh, và thiết lập Khiên (Barrier) phản chọi sát thương vật lý (P.DMG).
-r:"^毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する(\d+)ダメージ分の物理無効バリアを展開する$"=►Hồi HP cho tất cả đồng minh $1/giây trong 10.5s.\n►Hồi TP cho tất cả đồng minh 10 trong 10.5s.\n►Thiết lập Khiên (Barrier) trên tất cả đồng minh phản chọi $2 P.DMG trong 11s.
+味方全体に継続ＨＰ回復状態と継続ＴＰ回復状態を付与し、物理無効バリアを展開する。=Cấp trạng thái hồi phục HP liên tục và hồi phục TP liên tục cho toàn bộ đồng minh, đồng thời triển khai một lớp rào chắn vô hiệu hóa sát thương vật lý.
+r:"^毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する(\d+)ダメージ分の物理無効バリアを展開する$"=Thời gian triển khai: 0.465s.\n►Hồi HP cho tất cả đồng minh $1/giây trong 10.5s.\n►Hồi TP cho tất cả đồng minh 10 trong 10.5s.\n►Thiết lập Khiên (Barrier) trên tất cả đồng minh phản chọi $2 P.DMG trong 11s.
 
 ##EX##
 へそくりブースト=Tăng Cường Tiết Kiệm
@@ -31,8 +31,8 @@ r:"^毎秒ＨＰを(\d+)回復する毎秒ＴＰを10回復する(\d+)ダメー�
 
 ##S1+##
 トラップウォレット+=Ví Bẫy+
-目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与える。バトル開始後、初弾のこのスキルはさらに敵の物理防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương vật lý vừa phải cho tất cả kẻ địch trong phạm vi 250 đơn vị tính từ kẻ địch ở phía trước nhất. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên sẽ giảm một chút phòng thủ vật lý của kẻ địch trong phạm vi và tăng một chút sát thương phản công vật lý mà kẻ địch trong phạm vi phải nhận.
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵のクリティカルを受けた際のダメージを2％アップ$"=►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi đi $2 trong 180s.\n►Tăng sát thương phản công vật lý mà kẻ địch trong phạm vi phải nhận lên 2% trong 180s.
+目の前の敵１キャラを中心とした範囲内の敵に物理中ダメージを与える。初回発動時、敵の物理防御力を小ダウンさせ、受けるクリティカルダメージを小アップさせる。=Gây sát thương vật lý trung bình cho kẻ địch trong phạm vi quanh 1 mục tiêu kẻ địch ở phía trước. Trong lần kích hoạt đầu tiên, giảm nhẹ phòng thủ vật lý của kẻ địch và tăng nhẹ sát thương chí mạng mà chúng phải chịu.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵のクリティカルを受けた際のダメージを2％アップ$"=Thời gian triển khai: 0.235s.\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi đi $2 trong 180s.\n►Tăng sát thương phản công vật lý mà kẻ địch trong phạm vi phải nhận lên 2% trong 180s.
 
 ##UE##
 アバカス・アーバレスト=Nỏ Bàn Tính

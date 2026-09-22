@@ -6,7 +6,7 @@
 クエスト・イベント=Nhiệm Vụ & Sự Kiện
 メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(EXHIBITION＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト=Nhiệm vụ chính (THƯỜNG)\nNhiệm vụ chính (KHÓ)\nNhiệm vụ chính (RẤT KHÓ)\nNhiệm vụ phụ\nHang động (EXP)\nHang động (MANA)\nKhảo sát Thánh Đường\nHành trình Đền thờ\nSự kiện nhiệm vụ (THƯỜNG)\nSự kiện nhiệm vụ (KHÓ)\nNhiệm vụ cốt truyện phụ (THƯỜNG)\nNhiệm vụ cốt truyện phụ (KHÓ)\nTrận boss sự kiện (Triển Lãm+)\nNhiệm vụ tầng sâu
 
-ダンジョン・追憶の戦域=Hầm ngục & Ký Ức
+ダンジョン・追憶の戦域=Hầm ngục & Ký ức
 メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(EXHIBITION＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト\n深淵討伐戦=Nhiệm vụ chính (THƯỜNG)\nNhiệm vụ chính (KHÓ)\nNhiệm vụ chính (RẤT KHÓ)\nNhiệm vụ phụ\nHang động (EXP)\nHang động (MANA)\nKhảo sát Thánh Đường\nHành trình Đền thờ\nSự kiện nhiệm vụ (THƯỜNG)\nSự kiện nhiệm vụ (KHÓ)\nNhiệm vụ cốt truyện phụ (THƯỜNG)\nNhiệm vụ cốt truyện phụ (KHÓ)\nTrận boss sự kiện (Triển Lãm+)\nNhiệm vụ tầng sâu\nTrận chiến Vực Sâu
 
 メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\nサブクエスト\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nイベントボスバトル(SPECIAL＋)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)\n深域クエスト\n深淵討伐戦=Nhiệm vụ chính (THƯỜNG)\nNhiệm vụ chính (KHÓ)\nNhiệm vụ chính (RẤT KHÓ)\nHang động (EXP)\nHang động (MANA)\nKhảo sát Thánh Đường\nHành trình Đền thờ\nSự kiện nhiệm vụ (THƯỜNG)\nSự kiện nhiệm vụ (KHÓ)\nTrận boss sự kiện (ĐẶC BIỆT+)\nNhiệm vụ cốt truyện phụ (THƯỜNG)\nNhiệm vụ cốt truyện phụ (KHÓ)\nNhiệm vụ sâu\nTrận chiến Vực Sâu

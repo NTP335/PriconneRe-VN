@@ -3,27 +3,30 @@
 
 ##UB##
 スライミィサービス=Slime-y Service
-##oldr:"^敵単体に(\d+)の物理ダメージ敵単体にネバネバを２つ付与する敵単体の物理防御力を255ダウン敵単体の物理・魔法攻撃力を1452ダウン自分のＨＰを20885回復ネバネバが４つ以上の場合、16335ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý lên một kẻ thù đơn. ►Gây 2 [Dính] lên một kẻ thù đơn. ►Giảm P.DEF của một kẻ thù đơn bằng 255. ►Giảm P.ATK & M.ATK của một kẻ thù đơn bằng 1452. ►Phục hồi HP của bản thân bằng 20885.  Nếu [Dính] từ 4 trở lên: ►Tạo M barrier miễn nhiễm sát thương vật lý/phép (16335 HP) cho bản thân.
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を中ダウンさせ、【ネバネバ】（上限６）を２個付与する。【ネバネバ】の数に応じて敵の攻撃力はダウンする。自分のＨＰを中回復する。対象の【ネバネバ】が４個以上の場合、さらに自分に物理/魔法無効バリアを展開する。=Gây sát thương vật lý cực đại cho 1 mục tiêu kẻ địch ở phía trước, giảm vừa phòng thủ vật lý của chúng, và đính kèm 2 tầng 【Sticky】 (tối đa 6). Lực tấn công của kẻ địch sẽ giảm dựa trên số lượng tầng 【Sticky】. Hồi phục lượng HP vừa phải cho bản thân. Nếu mục tiêu có từ 4 tầng 【Sticky】 trở lên, đồng thời triển khai một lớp rào chắn vô hiệu hóa sát thương vật lý/phép thuật cho bản thân.
 
-r:"^敵単体に(\d+)の物理ダメージ敵単体にネバネバを２つ付与する敵単体の物理防御力を(\d+)ダウン敵単体の物理・魔法攻撃力を(\d+)ダウン自分のＨＰを(\d+)回復ネバネバが４つ以上の場合、(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý cho một kẻ địch.\n►Gán 2 tầng [Dính dớp] lên một kẻ địch.\n►Giảm $2 phòng thủ vật lý của một kẻ địch trong 18 giây.\n►Giảm $3 tấn công vật lý và ma thuật của một kẻ địch trong 18 giây.\n►Hồi phục $4 HP cho bản thân.\n\nNếu có từ 4 tầng [Dính dớp] trở lên:\n►Triển khai rào chắn vô hiệu hóa sát thương vật lý và ma thuật hấp thụ $5 sát thương.
-
-目の前の敵１キャラに物理特大ダメージ、物理防御力を中ダウン、【ネバネバ】を２つ付与する（最大６つまで）。【ネバネバ】の数に応じて敵の攻撃力はダウンする。自分のＨＰを中回復する。【ネバネバ】の数が４つ以上の場合、自分に物理/魔法無効バリアを展開する。=Gây lượng sát thương vật lý khổng lồ lên 1 kẻ thù phía trước, giảm vừa phải P.DEF của chúng, và gây 2 [Dính] (tối đa: 6). Tấn công của kẻ thù giảm dựa trên số lượng [Dính]. Phục hồi HP bản thân một lượng vừa phải. Nếu số lượng [Dính] từ 4 trở lên, tạo barrier miễn nhiễm sát thương vật lý/phép cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージ敵単体にネバネバを２つ付与する敵単体の物理防御力を(\d+)ダウン敵単体の物理・魔法攻撃力を(\d+)ダウン自分のＨＰを(\d+)回復ネバネバが４つ以上の場合、(\d+)ダメージ分の物理魔法無効バリアを展開する$"=►Gây $1 sát thương vật lý cho một mục tiêu kẻ địch.\n►Đính kèm 2 tầng 【Sticky】 lên một mục tiêu kẻ địch.\n►Giảm $2 phòng thủ vật lý của một mục tiêu kẻ địch trong 18 giây.\n►Giảm $3 lực tấn công vật lý và phép thuật của một mục tiêu kẻ địch trong 18 giây.\n►Hồi phục $4 HP cho bản thân.\n\nNếu có từ 4 tầng 【Sticky】 trở lên:\n►Triển khai lớp rào chắn vô hiệu hóa $5 sát thương vật lý và phép thuật trong 18 giây.
 
 ##S1##
-ホットヒップドロップ+=Hot hip drop+
 ホットヒップドロップ=Hot hip drop
-
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを80アップネバネバが２つ以上の場合、味方全体の物理クリダメを8％アップネバネバが４つ以上の場合、味方全体のＴＰを30回復$"=►Gây $1 sát thương vật lý lên một kẻ thù đơn. ►Giảm P.DEF của một kẻ thù đơn bằng $2. ►Tăng P.ATK của tất cả đồng đội bằng $3. ►Tăng P.CRIT RATE của tất cả đồng đội bằng 80. Nếu [Dính] từ 2 trở lên: ►Tăng P.CRIT DMG của tất cả đồng đội bằng 8％. Nếu [Dính] từ 4 trở lên: ►Phục hồi TP của tất cả đồng đội bằng 30.
-
-目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。さらに、味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。対象の【ネバネバ】の数が２つ以上の場合、味方全体の物理攻撃クリティカル時のダメージを小アップ、４つ以上の場合、さらに味方全体のＴＰを小回復させる。=Gây sát thương vật lý vừa phải lên 1 kẻ thù phía trước và giảm nhẹ P.DEF của chúng. Đồng thời tăng mạnh P.ATK của tất cả đồng đội và tăng đáng kể P.CRIT RATE của họ. Nếu mục tiêu có 2+ [Dính], tăng nhẹ P.CRIT DMG của tất cả đồng đội. Nếu có 4+ [Dính], thêm vào phục hồi TP của tất cả đồng đội một lượng nhỏ.
 
 ##S2##
 ハグハグスライム=Hug-Hug Slime
+敵から攻撃を受けるたびに、その敵に【ネバネバ】（上限６）を１個付与する状態になる。【ネバネバ】の数に応じて敵の攻撃力はダウンする。【ネバネバ】が６個の敵から攻撃を受けた場合、その敵の【ネバネバ】を２個消費し、物理中ダメージを与え、束縛し、自分のＨＰを中回復する。=Chuyển sang trạng thái đính kèm 1 tầng 【Sticky】 (tối đa 6) lên kẻ địch mỗi khi bản thân chịu đòn tấn công từ kẻ đó. Lực tấn công của kẻ địch sẽ giảm dựa trên số lượng tầng 【Sticky】. Khi chịu đòn tấn công từ kẻ địch đang có 6 tầng 【Sticky】, tiêu hao 2 tầng 【Sticky】 của kẻ đó, gây sát thương vật lý trung bình, trói buộc (bind) và hồi phục lượng HP vừa phải cho bản thân.
 
-r:"^自分を攻撃した敵にネバネバを１つ付与する敵単体の物理・魔法攻撃力を(\d+)ダウン自分を攻撃した敵のネバネバが６つの場合、以下の効果が発動するその敵のネバネバを２つ消費するその敵に(\d+)の物理ダメージその敵を一定時間行動不能にする自分のＨＰを(\d+)回復$"=►Gây 1 [Dính] lên kẻ thù đang tấn công. ►Giảm P.ATK & M.ATK của kẻ thù đang tấn công bằng $1.  Nếu kẻ thù đang tấn công có 6 [Dính]: ►Tiêu thụ 2 [Dính] từ kẻ thù đó. ►Gây $2 sát thương vật lý lên kẻ thù đó. ►Trói kẻ thù đó. ►Phục hồi HP của bản thân bằng $3.
 
-敵から攻撃を受けるたび、その敵に【ネバネバ】を１つ付与する状態になる。【ネバネバ】は最大６つまで追加される。【ネバネバ】の数に応じて敵の攻撃力はダウンする。【ネバネバ】が６つの敵から攻撃を受けた場合、その敵の【ネバネバ】を２つ消費し、物理中ダメージを与え、束縛し、さらに自分のＨＰを中回復する。=Khi bị tấn công, gây 1 [Dính] lên kẻ thù đang tấn công (tối đa: 6). Tấn công của kẻ thù giảm dựa trên số lượng [Dính]. Nếu bị kẻ thù có 6 [Dính] tấn công, tiêu thụ 2 [Dính] từ chúng, gây sát thương vật lý vừa phải, trói chúng, và phục hồi vừa phải HP của bản thân.
+r:"^自分を攻撃した敵にネバネバを１つ付与する敵単体の物理・魔法攻撃力を(\d+)ダウン自分を攻撃した敵のネバネバが６つの場合、以下の効果が発動するその敵のネバネバを２つ消費するその敵に(\d+)の物理ダメージその敵を一定時間行動不能にする自分のＨＰを(\d+)回復$"=Thời gian triển khai: 1.05s.\n►Đính kèm 1 tầng 【Sticky】 lên kẻ địch tấn công bản thân.\n►Giảm $1 lực tấn công vật lý và phép thuật của kẻ địch tấn công trong 12 giây.\n\nNếu kẻ địch tấn công có 6 tầng 【Sticky】:\n►Tiêu hao 2 tầng 【Sticky】 từ kẻ địch đó.\n►Gây $2 sát thương vật lý cho kẻ địch đó.\n►Trói buộc (bind) kẻ địch đó trong một khoảng thời gian nhất định.\n►Hồi phục $3 HP cho bản thân.
+
+r:"^自分を攻撃した敵にネバネバを１つ付与する敵単体の物理・魔法攻撃力を(\d+)ダウン自分を攻撃した敵のネバネバが６つの場合、以下の効果が発動するその敵のネバネバを２つ消費するその敵に(\d+)の物理ダメージその敵を一定時間行動不能にする自分のＨＰを(\d+)回復$"=Thời gian triển khai: 1.05s.\n►Đính kèm 1 tầng 【Sticky】 lên kẻ địch tấn công bản thân.\n►Giảm $1 lực tấn công vật lý và phép thuật của một mục tiêu kẻ địch trong 12 giây.\n\nNếu tầng 【Sticky】 trên kẻ địch tấn công bản thân đạt 6:\n►Tiêu hao 2 tầng 【Sticky】 từ kẻ địch đó.\n►Gây $2 sát thương vật lý cho kẻ địch đó.\n►Trói buộc (bind) kẻ địch đó trong 2.5 giây.\n►Hồi phục $3 HP cho bản thân.
 
 ##EX##
 ぷるぷるサンスクリーン=Puru-Puru Sunscreen
 ぷるぷるサンスクリーン+=Puru-Puru Sunscreen+
+
+
+##S1+##
+カリザきゅんランド=Kariza-kyun Land
+ホットヒップドロップ+=Hot hip drop+
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。対象の【ネバネバ】が２個以上の場合、さらに味方全体の物理クリティカルダメージを小アップさせ、４個以上の場合、さらに味方全体のＴＰを小回復させる。=Gây sát thương vật lý trung bình cho 1 mục tiêu kẻ địch ở phía trước và giảm nhẹ phòng thủ vật lý của chúng. Tăng cực lớn lực tấn công vật lý và tăng lớn tỉ lệ chí mạng vật lý cho toàn bộ đồng minh. Nếu mục tiêu có từ 2 tầng 【Sticky】 trở lên, đồng thời tăng nhẹ sát thương chí mạng vật lý cho toàn bộ đồng minh; nếu có từ 4 tầng trở lên, đồng thời hồi phục một lượng nhỏ TP cho toàn bộ đồng minh.
+
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを80アップネバネバが２つ以上の場合、味方全体の物理クリダメを8％アップネバネバが４つ以上の場合、味方全体のＴＰを30回復$"=Thời gian triển khai: 1.05s.\n►Gây $1 sát thương vật lý cho một mục tiêu kẻ địch.\n►Giảm $2 phòng thủ vật lý của một mục tiêu kẻ địch trong 12 giây.\n►Tăng $3 lực tấn công vật lý của toàn bộ đồng minh trong 12 giây.\n►Tăng 80 tỉ lệ chí mạng vật lý của toàn bộ đồng minh trong 12 giây.\n\nNếu có từ 2 tầng 【Sticky】 trở lên:\n►Tăng 8% sát thương chí mạng vật lý của toàn bộ đồng minh trong 12 giây.\n\nNếu có từ 4 tầng 【Sticky】 trở lên:\n►Hồi phục 30 TP cho toàn bộ đồng minh.

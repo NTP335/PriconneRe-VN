@@ -8,7 +8,7 @@
 
 ##UB##
 グランドリームパレード=Đại diễu hành Giấc mơ
-前方の敵すべてに魔法大ダメージを与え、自分のＨＰを中回復し、無敵状態になる。このスキルのダメージは【かばばん君】の数に応じて増加し、クリティカル時のダメージが３倍になる。【かばばん君】が20以上の場合、このスキルは必ずクリティカルし、40の場合、さらに、味方全体の魔法攻撃クリティカル時のダメージを小アップする。=Gây sát thương phép lớn cho tất cả kẻ địch phía trước, hồi phục một lượng HP vừa phải và trở nên miễn nhiễm với mọi sát thương trong một khoảng thời gian. Sát thương phép tăng theo số chồng [Kababan-kun], và gây sát thương phép gấp 3 nếu chí mạng. Nếu có 20+ chồng [Kababan-kun], UB luôn chí mạng. Nếu có 40 chồng [Kababan-kun], tăng nhẹ M.CRIT DMG cho tất cả đồng minh.
+前方の敵に魔法大ダメージを与え、自分のＨＰを中回復し、一定時間無敵状態になる。【かばばん君】の数に応じて、ダメージが増加し、クリティカルダメージは３倍になる。【かばばん君】が20体以上の場合、必ずクリティカルし、40体の場合、さらに味方全体の魔法クリティカルダメージを小アップさせる。=Gây sát thương phép lớn cho kẻ địch ở phía trước, hồi phục lượng HP vừa phải cho bản thân, và trở nên bất tử trong một khoảng thời gian nhất định. Sát thương tăng lên dựa trên số lượng 【Kababan-kun】, và sát thương chí mạng tăng gấp 3 lần. Nếu có từ 20 【Kababan-kun】 trở lên, đòn đánh sẽ chắc chắn chí mạng; nếu có 40 【Kababan-kun】, đồng thời tăng nhẹ sát thương chí mạng phép thuật cho toàn bộ đồng minh.
 r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復一定時間無敵状態になるかばばん君が40の場合、味方全体の魔法攻撃クリティカル時のダメージを15％アップ$"=►Gây $1 M.DMG cho tất cả kẻ địch.\n►Hồi HP của bản thân $2.\n►Trở nên miễn nhiễm với mọi sát thương trong 4s.\n►Nếu có 40 chồng [Kababan-kun], tăng M.CRIT DMG của đồng minh 15% trong 18s.
 
 ##S1##
@@ -16,19 +16,20 @@ r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復一
 目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、自分のＨＰを小回復させ、さらに物理/魔法吸収バリアを展開する。このスキルのダメージは【かばばん君】の数に応じて増加する。=Gây sát thương phép vừa phải cho kẻ địch trong phạm vi, hồi phục một chút HP và triển khai Barrier hấp thụ P/M.DMG. Sát thương phép tăng theo số chồng [Kababan-kun].
 r:"^範囲内の敵に(\d+)の魔法ダメージ(\d+)ダメージ分の物理魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Gây $1 M.DMG cho kẻ địch trong phạm vi.\n►Triển khai Barrier hấp thụ $2 P/M.DMG trong 12s.\n►Hồi HP của bản thân $3.
 
-##Skill Desc##
-目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、自分のＨＰを小回復し、物理/魔法吸収バリアを展開する。このスキルのダメージは【かばばん君】の数に応じて増加し、クリティカル時のダメージが３倍になる。【かばばん君】が20以上の場合、このスキルは必ずクリティカルし、40の場合、さらにダメージを与えた敵を束縛する。=Gây sát thương phép vừa phải cho tất cả kẻ địch trong vùng xung quanh một kẻ địch phía trước, hồi phục một chút HP và triển khai barrier hấp thụ vật lý/phép. Sát thương kỹ năng này tăng dựa trên số Kababan-kun. Sát thương chí mạng nhân ba. Nếu số Kababan-kun từ 20 trở lên, kỹ năng này luôn chí mạng; nếu 40, thêm vào đó trói kẻ địch bị tổn thương.
-r:"^範囲内の敵に(\d+)の魔法ダメージかばばん君が40の場合、範囲内の敵を一定時間行動不能にする(\d+)ダメージ分の物理魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Gây $1 M.DMG cho kẻ địch trong phạm vi 300.\n►Nếu [Kababan-kun] là 40: Gây trạng thái Bind cho kẻ địch trong phạm vi.\n►Triển khai Barrier trên bản thân hấp thụ $2 P/M.DMG trong 12s.\n►Hồi HP của bản thân $3.
 
 
 ##S2##
 恩返しですっ！=Đây là sự hoàn trả của tôi!
-自分の物理防御力と魔法防御力を中アップさせる。さらに、自分がステータスアップ効果を受ける度に、【かばばん君】を１体追加し、自分以外の味方すべての魔法攻撃力を小アップさせる。この効果は【かばばん君】が40より少ない場合に発動し、このスキルによって他のスキルの効果は発動しない。=Tăng vừa phải P.DEF và M.DEF của bản thân. Ngoài ra, mỗi lần một buff được áp dụng cho bản thân, nhận một chồng [Kababan-kun] và tăng nhẹ M.ATK cho tất cả đồng minh khác. Hiệu ứng bổ sung này chỉ xảy ra khi chồng [Kababan-kun] < 40, và sẽ không kích hoạt hiệu ứng của kỹ năng khác.
-r:"^自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップステータスアップ効果を受けるたびに自分にかばばん君を追加する状態になるステータスアップ効果を受けるたびに自分以外の味方の魔法攻撃力を(\d+)アップ$"=►Tăng P.DEF của bản thân $1 trong 180s.\n►Tăng M.DEF của bản thân $2 trong 180s.\n►Mỗi lần một buff được áp dụng cho bản thân, nhận một chồng [Kababan-kun] và tăng M.ATK cho tất cả đồng minh khác $3 trong 180s.
+自分の物理・魔法防御力を中アップする。自分がステータスアップ効果を受けるたびに【かばばん君】を１体追加し、自分以外の味方の魔法攻撃力を小アップさせる。この効果は【かばばん君】が40体より少ない場合に発動し、このスキルによって他のスキルの効果は発動しない。=Tăng vừa phòng thủ vật lý và phép thuật của bản thân. Mỗi khi bản thân nhận hiệu ứng tăng chỉ số, thêm 1 【Kababan-kun】 và tăng nhẹ lực tấn công phép thuật của đồng minh ngoại trừ bản thân. Hiệu ứng này kích hoạt khi số lượng 【Kababan-kun】 ít hơn 40, và kỹ năng này không kích hoạt hiệu ứng của các kỹ năng khác.
+r:"^自分の物理防御力を(\d+)アップ自分の魔法防御力を(\d+)アップステータスアップ効果を受けるたびに自分にかばばん君を追加する状態になるステータスアップ効果を受けるたびに自分以外の味方の魔法攻撃力を(\d+)アップ$"=Thời gian triển khai: 1.05s.\n►Tăng P.DEF của bản thân $1 trong 180s.\n►Tăng M.DEF của bản thân $2 trong 180s.\n►Mỗi lần một buff được áp dụng cho bản thân, nhận một chồng [Kababan-kun] và tăng M.ATK cho tất cả đồng minh khác $3 trong 180s.
 
 ##EX##
 オープニングジュエル=Viên ngọc mở đầu
 オープニングジュエル+=Viên ngọc mở đầu+
 
 
+##S1+##
+かばばん君=Kababan-kun
 かばばん君警備員モード+=Chế độ bảo vệ Kababan-kun+
+目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、自分のＨＰを小回復し、物理/魔法吸収バリアを展開する。このスキルのダメージは【かばばん君】の数に応じて増加し、クリティカル時のダメージが３倍になる。【かばばん君】が20以上の場合、このスキルは必ずクリティカルし、40の場合、さらにダメージを与えた敵を束縛する。=Gây sát thương phép trung bình cho toàn bộ kẻ địch trong phạm vi quanh 1 mục tiêu kẻ địch ở phía trước, hồi phục một lượng nhỏ HP cho bản thân, và triển khai lớp rào chắn hấp thụ sát thương vật lý/phép thuật. Sát thương của kỹ năng này tăng lên dựa trên số lượng 【Kababan-kun】, và sát thương chí mạng tăng gấp 3 lần. Nếu số lượng 【Kababan-kun】 từ 20 trở lên, kỹ năng này sẽ chắc chắn chí mạng; nếu đạt 40, đồng thời trói buộc (bind) những kẻ địch trúng phải sát thương.
+r:"^範囲内の敵に(\d+)の魔法ダメージかばばん君が40の場合、範囲内の敵を一定時間行動不能にする(\d+)ダメージ分の物理魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=Thời gian triển khai: 1.05s.\n►Gây $1 sát thương phép cho kẻ địch trong phạm vi.\n►Nếu số lượng 【Kababan-kun】 là 40: Trói buộc kẻ địch trong phạm vi trong một khoảng thời gian nhất định.\n►Triển khai lớp rào chắn hấp thụ $2 sát thương vật lý/phép thuật cho bản thân trong 12 giây.\n►Hồi phục $3 HP cho bản thân.

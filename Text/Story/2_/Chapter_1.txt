@@ -959,7 +959,7 @@ Tập 12
 ひぅぅっ……！=Hư ứ ứ...!
 
 Tập 13
-カリザとの戦いに苦戦する一行の前に、ペコリーヌがやってくる。ネネカから授けられた秘策をペコリーヌが実行すると、ユイとペコリーヌが輝きだす。二人は叫ぶ。チェンジ・プリンセスフォーム、と。=Giữa lúc nhóm {playername} đang gặp vô vàn khó khăn, chật vật trong trận chiến với Kaliza, Pecorine bất ngờ xuất hiện. Khi Pecorine thực hiện kế sách bí mật được truyền lại từ Neneka, cả Yui và Pecorine đột nhiên tỏa sáng rực rỡ. Cả hai cùng cất tiếng hô vang: "Biến thân: Hình thái Công chúa"
+カリザとの戦いに苦戦する一行の前に、ペコリーヌがやってくる。ネネカから授けられた秘策をペコリーヌが実行すると、ユイとペコリーヌが輝きだす。二人は叫ぶ。チェンジ・プリンセスフォーム、と。=Giữa lúc nhóm {playername} đang gặp vô vàn khó khăn, chật vật trong trận chiến với Kaliza, Pecorine bất ngờ xuất hiện. Khi Pecorine thực hiện kế sách bí mật được truyền lại từ Neneka, cả Yui và Pecorine đột nhiên tỏa sáng rực rỡ. Cả hai cùng cất tiếng hô vang: "Change: Princess Form"
 
 だめだっ……！=Không được đâu...!
 主さま！\nお下がりください！=Chủ nhân! \nXin ngài hãy lùi lại phía sau ạ!
@@ -1038,11 +1038,11 @@ Tập 13
 うんっ！　変身っていうの……やってみよう！\nみんなを助けるために！=Ừm! \nCái gọi là biến thân ấy... tớ sẽ thử xem sao!\nTất cả cũng chỉ để cứu giúp mọi người!
 よーしっ！\nじゃあ行きますよ！　ユイちゃん！=Được rồi đấy nhé!\nThế thì chúng ta cùng xông lên nào, Yui-chan!
 
-『チェンジ・プリンセスフォーム』！=『Biến thân: Hình thái Công chúa』!
+『チェンジ・プリンセスフォーム』！=『Change: Princess Form』!
 あむっ！=Am~m!
 
 Tập 14
-プリンセスフォームに変身したペコリーヌとユイは、これまでにない圧倒的な力でカリザと魔物を退けたのち、すさまじい空腹に襲われる。新たな力が、冒険の幕開けを慌ただしく告げるかのようだった。=Biến thân thành công trong Hình thái Công chúa, Pecorine và Yui đã sử dụng sức mạnh áp đảo chưa từng có để đánh đuổi Kaliza cùng lũ quái vật, nhưng ngay sau đó cả hai lại bị một cơn đói cồn cào khủng khiếp ập đến tấn công. Nguồn sức mạnh mới mẻ ấy tựa như đang vội vã gióng lên hồi chuông báo hiệu cho sự khởi đầu của một cuộc hành trình phiêu lưu đầy sóng gió mới.
+プリンセスフォームに変身したペコリーヌとユイは、これまでにない圧倒的な力でカリザと魔物を退けたのち、すさまじい空腹に襲われる。新たな力が、冒険の幕開けを慌ただしく告げるかのようだった。=Biến thân thành công trong Princess Form, Pecorine và Yui đã sử dụng sức mạnh áp đảo chưa từng có để đánh đuổi Kaliza cùng lũ quái vật, nhưng ngay sau đó cả hai lại bị một cơn đói cồn cào khủng khiếp ập đến tấn công. Nguồn sức mạnh mới mẻ ấy tựa như đang vội vã gióng lên hồi chuông báo hiệu cho sự khởi đầu của một cuộc hành trình phiêu lưu đầy sóng gió mới.
 
 ええっ！？　なに、これ……！\n服が、変わっちゃった……！？=ỂỂỂ!? Cái gì thế này...!\nTrang phục của tớ, tự dưng thay đổi xoành xoạch thế này rồi...!?
 わぁ～っ！\nネネカさんが教えてくれたとおりにしたら、\nほんとに変身出来ちゃいました♪　やばいですね☆=Oa~~!\nLàm theo đúng y hệt những gì Neneka-san chỉ dẫn, thế mà tớ hóa thân biến hình thành công thật luôn nè♪ Tuyệt thật đấy☆
@@ -1084,8 +1084,8 @@ Tập 14
 ユイちゃんも、ぺコさんも！\nなんだかすっごいパワーアップしてたよ！\nびゅーんって！　どかーんって！=Cả Yui-chan lẫn Peco-san nữa!\nCảm giác hai chị vừa được thăng cấp sức mạnh khủng khiếp lắm luôn á!\nVù vù một phát! Rồi oành oành một phát luôn!
 魔力、肉体能力の大幅な向上に加え……\n敵の纏っていたオーラも、やすやすと切り裂いていたようだ。\nだが、どうやって……？=Không chỉ gia tăng đột biến về năng lực ma thuật lẫn thể chất...\nMà ngay cả lớp hào quang bao bọc xung quanh kẻ địch cũng bị chém đứt lìa một cách vô cùng dễ dàng.\nNhưng mà, rốt cuộc hai người đã làm cách nào để...?
 先ほど、ぺコリーヌさまは\n「新しい力」とおっしゃっておりましたが。\nそれは、いったい……？=Vừa nãy, Pecorine-sama có thốt lên rằng đó là\n"Sức mạnh hoàn toàn mới".\nVà rốt cuộc thì nó là... cái gì vậy ạ?
-あっ、これですか？\n『プリンセスフォーム』って言うらしいですよ☆\nやばいですね☆=À, ý mọi người là cái này á?\nNgười ta gọi nó là 『Hình thái Công chúa』 đấy ạ☆\nNghe oách xà lách thật chứ☆
-『プリンセスフォーム』っ！？=『Hình thái Công chúa』 ư!?
+あっ、これですか？\n『プリンセスフォーム』って言うらしいですよ☆\nやばいですね☆=À, ý mọi người là cái này á?\nNgười ta gọi nó là 『Princess Form』 đấy ạ☆\nNghe oách xà lách thật chứ☆
+『プリンセスフォーム』っ！？=『Princess Form』 ư!?
 さっき彼が食べちゃった\n魔法のアイテムと、関係あるらしいです。\nといっても、わたしも聞きかじりの知識しかないんですけど……=Dường như nó có mối liên hệ mật thiết với món bảo vật ma thuật mà cậu ấy khi nãy vừa nuốt chửng vào bụng.\nCho dù nói vậy, thì tớ cũng chỉ mới nghe thoáng qua đôi chút kiến thức chắp vá từ người ta thôi à...
 いいから教えなさいよ！\nもったいぶってるんじゃないのっ！=Biết gì thì khai mau ra hết đi còn dài dòng văn tự gì nữa!\nCố tình úp úp mở mở câu giờ hả!
 もちろんです、キャルちゃんっ。\n……あっ……、でもえっと、その前に……=Tất nhiên rồi chứ, Kyaru-chan.\n...Ơ kìa..., nhưng mà này, trước tiên thì...

@@ -2,8 +2,3 @@
 Monika
 白翼提督の新春晴れ着=Trang Phục Ngày Tết của Đô Đốc Cánh Trắng
 目の前の敵１キャラに物理大ダメージを与える。さらにそのキャラを中心とした範囲内の敵すべてに物理中ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý lớn lên 1 kẻ địch trước mặt. Ngoài ra, gây sát thương vật lý vừa lên toàn bộ kẻ địch trong phạm vi lấy mục tiêu đó làm trung tâm, đồng thời giảm nhẹ Phòng thủ Vật lý của chúng.
-
-
-
-S.Nea
-カリザきゅんランド=Vùng Đất Kariza-kyun

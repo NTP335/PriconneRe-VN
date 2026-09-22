@@ -21,7 +21,15 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体の行動速度50％ダウン
 ##S1+##
 スプラッシュストリング+=Splash String+
 前方の最も攻撃力が高い敵に物理大ダメージを与え、束縛し、ＴＰを中ダウンさせる。=Gây sát thương vật lý lớn cho kẻ địch có tấn công cao nhất ở phía trước, trói buộc chúng và làm giảm vừa TP của chúng.
-r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体のＴＰを(\d+)失わせる$"=►Gây $1 sát thương vật lý cho kẻ địch.\n►Khiến kẻ địch bị Trói buộc trong 3.5s.\n►Giảm TP của kẻ địch bằng $2.
+r:"^敵単体に(\d+)の物理ダメージ敵単体を一定時間行動不能にする敵単体のＴＰを(\d+)失わせる$"=Thời gian triển khai: 0.465s.\n►Gây $1 sát thương vật lý cho kẻ địch.\n►Khiến kẻ địch bị Trói buộc trong 3.5s.\n►Giảm TP của kẻ địch bằng $2.
 
 ##UE##
 サマーテーラーグローブ=Summer Tailor Glove
+
+
+
+##S2+##
+トロピカルサニー・クロース=Tropical Sunny Close
+サマーバインドアクション+=Summer Bind Action+
+前方の最も攻撃力が高い敵を誘惑状態にする。対象が誘惑状態の場合、さらにその敵の物理・魔法攻撃力を特大アップさせ、【操り糸】を付与し、自分の目の前まで引き寄せ、一定時間後に物理特大ダメージを与える。【操り糸】付与中の敵は攻撃の対象にならない。=Gây hiệu ứng Mê hoặc (Charm) lên kẻ địch có lực tấn công cao nhất ở phía trước. Nếu mục tiêu đang trong trạng thái Mê hoặc, đồng thời tăng cực lớn lực tấn công vật lý và phép thuật của kẻ đó, đính kèm 【Puppet Strings】, kéo họ đến ngay trước mặt bản thân, và gây sát thương vật lý cực đại sau một khoảng thời gian nhất định. Kẻ địch đang chịu hiệu ứng 【Puppet Strings】 sẽ không thể trở thành mục tiêu tấn công.
+r:"^敵単体を誘惑する敵が誘惑状態の場合、以下の効果が発動する敵単体の物理・魔法攻撃力を(\d+)アップ敵単体に操り糸を付与する敵単体に(\d+)の物理ダメージ$"=Thời gian triển khai: 0.465s.\n►Gây hiệu ứng Mê hoặc (Charm) lên một mục tiêu kẻ địch trong 12.5 giây.\n\nNếu kẻ địch đang trong trạng thái Mê hoặc:\n►Tăng $1 lực tấn công vật lý và phép thuật của một mục tiêu kẻ địch trong 12 giây.\n►Đính kèm 【Puppet String】 lên một mục tiêu kẻ địch trong 12 giây.\n►Gây $2 sát thương vật lý cho một mục tiêu kẻ địch.

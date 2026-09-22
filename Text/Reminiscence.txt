@@ -9,17 +9,13 @@ Reminiscence &\nConquestへ=Đến Ký Ức và Chinh Phục
 宝箱詳細=Chi Tiết Rương
 受け取り=Biên Lai
 次の報酬まで\n--:--=Cho đến phần thưởng tiếp theo:
-
-ゼーンの領域=Phạm Vi Của Zane
+ゼーンの領域=Lãnh địa của\nZane
 r:"^ゼーンの領域(\d+)層$"=Cấp Độ Zane $1
-覇瞳皇帝の領域=Phạm Vi Của Kaiser Insight\n
+覇瞳皇帝の領域=Lãnh địa của\nKaiser Insight
 r:"^覇瞳皇帝の領域(\d+)層$"=Cấp Độ Kaiser Insight $1
-
-ミロクの領域=Phạm Vi Của Miroku
+ミロクの領域=Lãnh địa của\nMiroku
 r:"^ミロクの領域(\d+)層$"=Cấp Độ Miroku $1
-
-
-アラクネの領域=Phạm Vi Của Arachne
+アラクネの領域=Lãnh địa của\nArachne
 r:"^アラクネの領域(\d+)層$"=Cấp Độ Arachne $1
 
 r:"^記憶領域(\d+)層$"=Giai Đoạn Ký Ức $1
