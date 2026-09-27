@@ -4,23 +4,29 @@
 
 ##UB##
 ブルーミングサイクロン=Cơn lốc nở hoa
-目の前の敵１キャラに魔法特大ダメージを与える。さらにそのキャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を中ダウン、クリティカルを受けた際のダメージを小アップさせる。=Gây sát thương ma thuật (M.DMG) lớn lên kẻ địch phía trước. Ngoài ra, gây sát thương ma thuật lớn lên kẻ địch trong phạm vi, giảm M.DEF của chúng vừa phải, và tăng sát thương phản ứng ma thuật (M.CRIT DMG) mà chúng nhận nhẹ.
-r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵のクリティカルを受けた際のダメージを5％アップ$"=►Gây $1 M.DMG lên kẻ địch.\n►Gây $2 M.DMG lên kẻ địch trong phạm vi.\n►Giảm M.DEF của kẻ địch trong phạm vi $3 trong 18s.\n►Tăng sát thương phản ứng ma thuật (M.CRIT DMG) mà kẻ địch trong phạm vi nhận thêm 5% trong 18s.
+目の前の敵１キャラに魔法特大ダメージを与える。その敵を中心とした範囲内の敵に魔法大ダメージを与え、魔法防御力を中ダウン、受けるクリティカルダメージを小アップさせる。=Gây sát thương phép thuật cực lớn cho 1 kẻ địch ở ngay trước mặt. Gây sát thương phép thuật lớn cho các kẻ địch trong phạm vi xoay quanh kẻ địch đó, đồng thời giảm trung bình phòng thủ phép thuật và tăng nhẹ sát thương chí mạng mà chúng nhận phải.
+r:"^敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを5％アップ$"=►Gây $1 sát thương phép thuật cho một mục tiêu kẻ địch duy nhất.\n►Gây $2 sát thương phép thuật cho các kẻ địch trong phạm vi 400.\n►Giảm $3 phòng thủ phép thuật của các kẻ địch trong phạm vi 400 trong 18 giây.\n►Tăng 5% sát thương chí mạng phải chịu cho các kẻ địch trong phạm vi 400 trong 18 giây.
+
 
 ##S1##
 スウィンギングペタル=Cánh hoa đung đưa
 目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương ma thuật lớn lên kẻ địch trong phạm vi, và giảm M.DEF của chúng nhẹ.
 ## Same as Ranpha
 ##s1+##
+
+
 スウィンギングペタル+=Cánh hoa đung đưa+
-r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを3％アップ$"=►Gây $1 M.DMG lên kẻ địch trong phạm vi.\n►Giảm M.DEF của kẻ địch trong phạm vi $2.\n►Tăng sát thương phản ứng (CRIT DMG) mà kẻ địch nhận thêm 3%.
+目の前の敵１キャラを中心とした範囲内の敵に魔法大ダメージを与え、魔法防御力を小ダウン、受けるクリティカルダメージを小アップさせる。=Gây sát thương phép thuật lớn cho các kẻ địch trong phạm vi xoay quanh 1 kẻ địch ở ngay trước mặt, đồng thời giảm nhẹ phòng thủ phép thuật và tăng nhẹ sát thương chí mạng mà chúng nhận phải.
+
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを3％アップ$"=Thời gian triển khai: 0.66s.\n►Gây $1 sát thương phép thuật cho các kẻ địch trong phạm vi 400.\n►Giảm $2 phòng thủ phép thuật của các kẻ địch trong phạm vi 400 trong 12 giây.\n►Tăng 3% sát thương chí mạng phải chịu cho các kẻ địch trong phạm vi 400 trong 12 giây.
 r:"^目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。$"=Gây sát thương ma thuật lớn lên tất cả kẻ địch trong phạm vi (tâm là kẻ địch phía trước), giảm M.DEF nhẹ, và tăng sát thương phản ứng (CRIT DMG) mà chúng nhận nhẹ.
 サンライトフローラ=Hoa cỏ nắng vàng
 
 ##S2##
 スプリングリース=Vòng hoa mùa xuân
-目の前の敵１キャラを中心とした範囲内の敵すべての物理攻撃力を中ダウン、物理クリティカルを特大ダウン、物理攻撃クリティカル時のダメージを小ダウンさせる。さらに魔法防御力を小ダウン、ＴＰを中ダウンさせる。=Giảm P.ATK của kẻ địch trong phạm vi vừa phải, giảm P.CRIT Rate của chúng nhiều, và giảm P.CRIT DMG của chúng nhẹ. Ngoài ra, giảm M.DEF của kẻ địch trong phạm vi một chút và TP của chúng vừa phải.
-r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の物理クリティカルを500ダウン範囲内の敵の物理攻撃クリティカル時のダメージを10％ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵のＴＰを120失わせる$"=►Giảm P.ATK của kẻ địch trong phạm vi $1 trong 18s.\n►Giảm P.CRIT Rate của kẻ địch trong phạm vi 500 trong 18s.\n►Giảm P.CRIT DMG của kẻ địch trong phạm vi 10% trong 18s.\n►Giảm M.DEF của kẻ địch trong phạm vi $2 trong 18s.\n►Giảm TP của kẻ địch trong phạm vi 120.
+目の前の敵１キャラを中心とした範囲内の敵の物理クリティカルを特大ダウン、物理攻撃力とＴＰを中ダウン、物理クリティカルダメージと魔法防御力を小ダウンさせる。=Giảm cực lớn tỷ lệ chí mạng vật lý, giảm trung bình lực tấn công vật lý và TP, đồng thời giảm nhẹ sát thương chí mạng vật lý và phòng thủ phép thuật của các kẻ địch trong phạm vi xoay quanh 1 kẻ địch ở ngay trước mặt.
+
+r:"^範囲内の敵の物理攻撃力を(\d+)ダウン範囲内の敵の物理クリティカルを500ダウン範囲内の敵の物理攻撃クリティカル時のダメージを10％ダウン範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵のＴＰを120失わせる$"=Thời gian triển khai: 0.796s.\n►Giảm $1 lực tấn công vật lý của các kẻ địch trong phạm vi 400 trong 18 giây.\n►Giảm 500 tỷ lệ chí mạng vật lý của các kẻ địch trong phạm vi 400 trong 18 giây.\n►Giảm 10% sát thương chí mạng vật lý của các kẻ địch trong phạm vi 400 trong 18 giây.\n►Giảm $2 phòng thủ phép thuật của các kẻ địch trong phạm vi 400 trong 18 giây.\n►Làm mất 120 TP của các kẻ địch trong phạm vi 400.
 
 ##EX##
 ブルームメイデン=Thiếu nữ nở hoa

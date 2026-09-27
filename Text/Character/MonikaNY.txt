@@ -3,24 +3,34 @@
 
 ##UB##
 絢爛廻天麗舞！=Vũ Điện Thiên Hà Vòng Quay Lộng Lẫy!
-r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm Phòng Thủ Vật Lý của kẻ địch trong phạm vi xuống $2.\n►Tăng Tấn Công Vật Lý của bản thân lên $3.
+目の前の敵１キャラを中心とした範囲内の敵に物理大ダメージを与え、物理防御力を小ダウンさせる。自分の物理攻撃力を大アップする。与えたダメージに応じて、物理防御力のダウン量と物理攻撃力のアップ量が最大５倍まで増加する。=Gây sát thương vật lý lớn cho các kẻ địch trong phạm vi xoay quanh 1 kẻ địch ở phía trước, giảm nhẹ phòng thủ vật lý của chúng và tăng lớn lực tấn công vật lý của bản thân. Lượng giảm phòng thủ vật lý và lượng tăng lực tấn công vật lý sẽ tăng tối đa lên gấp 5 lần tùy theo sát thương gây ra.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý cho các kẻ địch trong phạm vi 500.\n►Giảm $2 phòng thủ vật lý của các kẻ địch trong phạm vi 500 trong 18 giây.\n►Tăng $3 lực tấn công vật lý của bản thân trong 18 giây.
 
 
-目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに、自分の物理攻撃力を大アップする。このスキルで与えたダメージ量に応じて、防御力ダウンと攻撃力アップの効果量が最大５倍までアップする。=Gây sát thương vật lý lớn lên tất cả kẻ địch trong phạm vi tập trung vào kẻ địch gần nhất và giảm nhẹ Phòng Thủ Vật Lý của chúng. Ngoài ra, tăng mạnh Tấn Công Vật Lý của bản thân. Lượng giảm Phòng Thủ Vật Lý và tăng Tấn Công Vật Lý tăng lên tối đa 5 lần dựa trên sát thương gây ra bằng kỹ năng này.
 
 ##S1##
 飛空蛮衝！=Xung Phong Liều Lĩnh Vươn Lên Trời!
-飛空蛮衝！+=Xung Phong Liều Lĩnh Vươn Lên Trời!+
+
 
 ##S2##
 世界巡礼玉！=Viên Ngọc Hành Hương Thế Giới!
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを3％アップ自分のＴＰを75回復$"=►Tăng Tấn Công Vật Lý của bản thân lên $1.\n►Tăng Sát Thương Chí Mạng Vật Lý của bản thân lên 3%.\n►Khôi phục TP cho bản thân 75.
+自分の物理攻撃力を大アップ、物理クリティカルダメージを小アップし、ＴＰを小回復する。発動するたびに、最大４回まで効果量が増加する。=Tăng lớn lực tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý và hồi phục một lượng nhỏ TP. Mỗi lần kích hoạt, lượng hiệu ứng sẽ tăng lên tối đa 4 lần.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを3％アップ自分のＴＰを75回復$"=Thời gian triển khai: 0.59s.\n►Tăng $1 lực tấn công vật lý của bản thân trong 12 giây.\n►Tăng 3% sát thương chí mạng vật lý của bản thân trong 12 giây.\n►Hồi phục 75 TP cho bản thân.
 
 
-自分の物理攻撃力を大アップ、物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復する。このスキルを使用するたび、最大４回まで効果量がアップする。=Tăng mạnh Tấn Công Vật Lý của bản thân, tăng nhẹ Sát Thương Chí Mạng Vật Lý của bản thân, và khôi phục một lượng TP nhỏ. Mỗi lần kỹ năng này được dùng, lượng hiệu ứng tăng lên tối đa bốn lần.
 
 
 
 ##EX##
 迎春の戯れ=Trò chơi Năm Mới
 迎春の戯れ+=Trò chơi Năm Mới+
+
+
+
+
+##S1+##
+白翼提督の新春晴れ着=Trang phục ngày tết của Đô đốc Cánh Trắng
+飛空蛮衝！+=Xung Phong Liều Lĩnh Vươn Lên Trời!+
+
+目の前の敵１キャラに物理大ダメージを与える。その敵を中心とした範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý lớn cho 1 kẻ địch ở ngay trước mặt, đồng thời gây sát thương vật lý trung bình cho các kẻ địch trong phạm vi xoay quanh kẻ địch đó và giảm nhẹ phòng thủ vật lý của chúng.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=Thời gian triển khai: 0.59s.\n►Gây $1 sát thương vật lý cho một kẻ địch duy nhất.\n►Gây $2 sát thương vật lý cho các kẻ địch trong phạm vi 500.\n►Giảm $3 phòng thủ vật lý của các kẻ địch trong phạm vi 500 trong 12 giây.

@@ -3,8 +3,8 @@
 
 ##UB##
 ぷうきちサンタ・ストーム=Pukichi Santa Storm
-目の前の敵１キャラに物理特大ダメージを与えるが、自分のＨＰを消費する。=Gây sát thương vật lý cực lớn lên kẻ địch ngay phía trước, với cái giá là HP.
-r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)消費$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm HP của bản thân đi $2.
+目の前の敵１キャラに物理特大ダメージを与え、自分のＴＰを固定量で中回復するが、自分の残りＨＰの80％を消費し、【ぐるぐる】（上限20）を１個付与する。発動時既に【ぐるぐる】が最大の場合、このスキルによるダメージで自分のＴＰは回復せず、さらに自分がスタンする。=Gây sát thương vật lý cực đại cho 1 mục tiêu kẻ địch ở phía trước và hồi phục một lượng nhỏ TP cố định cho bản thân, nhưng tiêu hao 80% HP còn lại của bản thân và cấp 1 tầng 【Dizzy】 (tối đa 20). Nếu trạng thái 【Dizzy】 đã đạt tối đa khi kích hoạt, sát thương từ kỹ năng này sẽ không hồi phục TP cho bản thân, đồng thời khiến bản thân bị choáng (stun).
+r:"^敵単体に(\d+)の物理ダメージ自分のＴＰを固定量で200回復自分の残りＨＰの80%を消費自分にぐるぐるを１個付与するぐるぐるが最大の場合、自分を一定時間行動不能にする$"=►Gây $1 sát thương vật lý cho một mục tiêu kẻ địch.\n►Hồi phục cố định 200 TP cho bản thân.\n►Tiêu hao 80% HP còn lại của bản thân.\n►Cấp 1 tầng 【Dizzy】 cho bản thân.\n\nNếu trạng thái 【Dizzy】 đã đạt tối đa (2):\n►Khiến bản thân bị choáng (stun) trong 3 giây.
 
 ##S1##
 ぷうきちエール=Pukichi Cheering
@@ -20,14 +20,21 @@ r:"^敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)消費$"=►Gâ
 
 ##S1+##
 ぷうきちエール+=Pukichi Cheering+
-自分の物理攻撃力を特大アップさせ、さらに行動速度を大アップさせる。=Tăng mạnh tấn công vật lý của bản thân và tăng cường mạnh mẽ tốc độ hành động.
-r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度アップ$"=►Tăng tấn công vật lý của bản thân lên $1.\n►Tăng tốc độ hành động của bản thân.
+自分の物理攻撃力を特大アップ、行動速度を大アップする。=Tăng cực lớn lực tấn công vật lý và tăng lớn tốc độ hành động của bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度75％アップ$"=Thời gian triển khai: 1.05s.\n►Tăng $1 lực tấn công vật lý của bản thân trong 12 giây.\n►Tăng 75% tốc độ hành động của bản thân trong 12 giây.
 
 ##S2+##
 ぷうきちラッシュ+=Pukichi Rush+
-目の前の敵１キャラに物理特大ダメージを与え、クリティカルを受けた際のダメージを小アップさせ、小さく吹き飛ばす。さらに、自分の物理攻撃力を特大アップさせ、ＴＰを大回復し、【ぷうきちクッション】を付与する。【ぷうきちクッション】が付与されている間、ユニオンバーストで消費するＨＰは残りＨＰの40％になる。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước và thổi bay chúng nhẹ nhàng, tăng nhẹ sát thương chí mạng vật lý. Ngoài ra, tăng cường mạnh mẽ tấn công vật lý của bản thân, hồi lại TP rất nhiều, và trao [Pukichi Cushion] (UB tiêu hao HP trở thành 40% HP còn lại).
-r:"^敵単体に(\d+)の物理ダメージ敵単体のクリティカルを受けた際のダメージを14％アップ自分の物理攻撃力を(\d+)アップ自分のＴＰを500回復自分にぷうきちクッションを付与する$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Đẩy lùi kẻ địch 200 đơn vị.\n►Tăng sát thương chí mạng vật lý của bản thân lên 14% trong 12s.\n►Tăng tấn công vật lý của bản thân lên $2 trong 180s.\n►Hồi TP của bản thân lên 500.\n►Trao Pukichi Cushion cho bản thân.
+目の前の敵１キャラに物理大ダメージを２回与え、物理防御力を短時間小ダウンさせ、小さく吹き飛ばす。自分の物理攻撃力を特大アップ、ＴＰを大回復する。=Gây sát thương vật lý lớn 2 lần cho 1 mục tiêu kẻ địch ở phía trước, giảm nhẹ phòng thủ vật lý của chúng trong thời gian ngắn và đẩy lùi nhẹ. Tăng cực lớn lực tấn công vật lý của bản thân và hồi phục lượng lớn TP cho bản thân.
+r:"^敵単体に(\d+)の物理ダメージを２回与える敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分のＴＰを500回復$"=Thời gian triển khai: 1.19s.\n►Gây $1 sát thương vật lý cho một mục tiêu kẻ địch 2 lần.\n►Giảm $2 phòng thủ vật lý của một mục tiêu kẻ địch trong 3 giây.\n►Đẩy lùi mục tiêu bị sát thương đi 200.\n►Tăng $3 lực tấn công vật lý của bản thân trong 180 giây.\n►Hồi phục 500 TP cho bản thân.
 
 ##UE#
 クリスマス王ぷうきち=Pukichi, King of Christmas
 ぷうきちスノーマン=Pukichi Snowman
+
+
+
+##S1++##
+ぷうきちエール++=Pukichi Cheer++
+自分の物理攻撃力を特大アップ、行動速度を大アップする。【ぐるぐる】が最大の場合、【ぐるぐる】を２個消費する。=Tăng cực lớn lực tấn công vật lý và tăng lớn tốc độ hành động của bản thân. Nếu trạng thái 【Dizzy】 đã đạt tối đa, tiêu hao 2 tầng 【Dizzy】.
+r:"^自分の物理攻撃力を(\d+)アップ自分の行動速度100％アップぐるぐるを２個消費する$"=Thời gian triển khai: 1.05s.\n►Tăng $1 lực tấn công vật lý của bản thân trong 12 giây.\n►Tăng 100% tốc độ hành động của bản thân trong 12 giây.\n►Giảm 2 tầng 【Dizzy】 của bản thân.

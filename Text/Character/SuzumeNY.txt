@@ -3,8 +3,8 @@
 
 ##UB##
 祝福ノ巫女神楽=Lễ Nghi Ban Phước
-味方全体のＨＰを中回復し、さらに行動速度を大アップさせる。=Hồi HP vừa phải cho tất cả đồng minh và tăng mạnh tốc độ hành động của họ.
-r:"^味方全体のＨＰを(\d+)回復味方全体の行動速度アップ$"=►Hồi HP của tất cả đồng minh bằng $1.\n►Tăng tốc độ hành động của tất cả đồng minh lên 160%.
+味方全体のＨＰを中回復、行動速度を大アップさせる。=Hồi phục lượng trung bình HP cho toàn bộ đồng minh và tăng lớn tốc độ hành động của họ.
+r:"^味方全体のＨＰを(\d+)回復味方全体の行動速度60％アップ$"=►Hồi phục $1 HP cho toàn bộ đồng minh.\n►Tăng 60% tốc độ hành động của toàn bộ đồng minh.
 
 ##S1##
 賀春旋風=Làn Gió Tươi Mới
@@ -16,8 +16,8 @@ r:"^味方全体のＨＰを(\d+)回復味方全体の行動速度アップ$"=�
 
 ##S2+##
 加護ノ破魔矢+=Mũi Tên Thanh Tẩy Thánh Thiện+
-味方全体の物理攻撃力と魔法攻撃力\nを大アップさせ、物理無効バリアと\n魔法無効バリアを展開する。=Tăng mạnh Tấn công Thể chất (P.ATK) và Tấn công Ma thuật (M.ATK) của tất cả đồng minh, và triển khai cả rào cản phản thể chất và rào cản phản ma thuật cho tất cả đồng minh.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng Tấn công Thể chất (P.ATK) của tất cả đồng minh bằng $1.\n►Tăng Tấn công Ma thuật (M.ATK) của tất cả đồng minh bằng $2.\n►Triển khai Rào cản Phản Thể chất cho tất cả đồng minh, phản $3 sát thương Thể chất (P.DMG).\n►Triển khai Rào cản Phản Ma thuật cho tất cả đồng minh, phản $4 sát thương Ma thuật (M.DMG).
+味方全体の物理・魔法攻撃力を大アップさせ、物理無効バリアと魔法無効バリアを展開する。=Tăng lớn lực tấn công vật lý và phép thuật của toàn bộ đồng minh, đồng thời triển khai lá chắn vô hiệu hóa sát thương vật lý và lá chắn vô hiệu hóa sát thương phép thuật.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する$"=Thời gian triển khai: 0.97s.\n►Tăng Tấn công Thể chất (P.ATK) của tất cả đồng minh bằng $1 trong 12s.\n►Tăng Tấn công Ma thuật (M.ATK) của tất cả đồng minh bằng $2 trong 12s.\n►Triển khai Rào cản Phản Thể chất cho tất cả đồng minh, phản $3 sát thương Thể chất (P.DMG) trong 12s.\n►Triển khai Rào cản Phản Ma thuật cho tất cả đồng minh, phản $4 sát thương Ma thuật (M.DMG) trong 12s.
 
 ##EX##
 新年ノ加護=Lộc Tết
@@ -25,7 +25,7 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃�
 
 ##S1+##
 賀春旋風+=Làn Gió Tươi Mới+
-最も遠くの敵を中心とした範囲内の敵すべてに魔法小ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。ダメージを与えた敵の数に応じて、スタンの効果時間が増加する。=Gây sát thương Ma thuật (M.DMG) nhỏ cho kẻ địch xa nhất, đẩy lùi chúng một khoảng cách lớn và gây choáng. Thời gian choáng tăng tùy theo số kẻ địch bị tổn thương.
+最も遠くの敵を中心とした範囲内の敵に魔法小ダメージを与え、大きく吹き飛ばし、スタンさせる。ダメージを与えた敵の数に応じて、スタンの効果時間が増加する。=Gây sát thương phép thuật nhỏ cho các kẻ địch trong phạm vi xoay quanh kẻ địch ở xa nhất, đẩy lùi chúng một khoảng lớn và làm choáng. Thời gian gây choáng sẽ tăng lên tùy thuộc vào số lượng kẻ địch nhận sát thương.
 
 ##UE##
 神殿巫女の鈴飾り=Trang Trí Chuông Nữ Tu

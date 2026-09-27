@@ -3,21 +3,18 @@
 
 ##UB##
 エメラルドシンフォニー=Giao hưởng Ngọc lục bảo
-味方全体の魔法攻撃力を特大アップさせ、物理無効バリアを展開する。さらに、自分と最も近くの味方１キャラの魔法攻撃力を特大アップさせ、ＴＰを中回復させる。=Tăng mạnh M.ATK cho tất cả đồng đội và triển khai một rào cản vô hiệu hóa vật lý. Ngoài ra, tăng mạnh M.ATK của bản thân và đồng đội gần nhất và hồi phục trung bình TP của họ.
+味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせる。自分と最も近くの味方の魔法攻撃力と魔法クリティカルを特大アップ、魔法クリティカルダメージを小アップさせ、敵全体に魔法大ダメージを与え、味方全体のＨＰを小回復させる。=Tăng cực lớn lực tấn công phép thuật và tăng lớn tỷ lệ chí mạng phép thuật của tất cả đồng minh. Tăng cực lớn lực tấn công phép thuật và tỷ lệ chí mạng phép thuật của bản thân và đồng minh ở gần nhất, tăng nhẹ sát thương chí mạng phép thuật của họ, gây sát thương phép thuật lớn cho toàn bộ kẻ địch, đồng thời hồi phục một lượng nhỏ HP cho tất cả đồng minh.
 r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを80アップ味方全体のＨＰを(\d+)回復自分と対象の味方の魔法攻撃力を(\d+)アップ、魔法クリティカルを160アップ、魔法クリダメを12％アップ敵全体に(\d+)の魔法ダメージ$"=►Tăng $1 Tấn công Ma pháp của toàn bộ đồng đội trong 18 giây.\n►Tăng 80 Tỉ lệ Chí mạng Ma pháp của toàn bộ đồng đội trong 18 giây.\n►Hồi $2 HP cho toàn bộ đồng đội.\n►Tăng $3 Tấn công Ma pháp của bản thân và đồng đội mục tiêu trong 18 giây.\n►Tăng 160 Tỉ lệ Chí mạng Ma pháp của bản thân và đồng đội mục tiêu trong 18 giây.\n►Tăng 12％ Sát thương Chí mạng Ma pháp của bản thân và đồng đội mục tiêu trong 18 giây.\n►Gây $4 sát thương ma pháp lên toàn bộ kẻ địch.
 
 ##S1##
 サンクトゥスコーラス=Khúc đồng ca Thánh
-味方全体の魔法攻撃力を特大アップ、魔法クリティカルを大アップさせる。さらに、自分と最も近くの味方１キャラの魔法攻撃力と魔法クリティカルを特大アップ、魔法クリダメを小アップさせ、敵全体に魔法大ダメージを与え、味方全体のＨＰを小回復させる。=Tăng mạnh M.ATK cho tất cả đồng đội và tăng lớn M.CRIT RATE của họ. Ngoài ra, tăng mạnh M.ATK và M.CRIT RATE của bản thân và đồng đội gần nhất, tăng nhỏ M.CRIT DMG, gây sát thương phép lớn cho tất cả kẻ địch, và hồi phục nhỏ HP cho tất cả đồng đội.
-
-
-
+味方全体の魔法攻撃力を特大アップさせ、物理無効バリアを展開する。自分と最も近くの味方の魔法攻撃力を特大アップさせ、ＴＰを中回復させる。=Tăng cực lớn lực tấn công phép thuật của tất cả đồng minh và triển khai khiên vô hiệu hóa sát thương vật lý. Tăng cực lớn lực tấn công phép thuật của bản thân và đồng minh ở gần nhất, đồng thời hồi phục lượng trung bình TP cho họ.
 r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する自分と対象の味方の魔法攻撃力を(\d+)アップ自分と対象の味方のＴＰを120回復$"=Thời gian triển khai: 0.74 giây\n►Tăng $1 Tấn công Ma pháp của toàn bộ đồng đội trong 12 giây.\n►Triển khai lớp khiên vô hiệu vật lý chặn $2 sát thương vật lý trong 12 giây.\n►Tăng $3 Tấn công Ma pháp của bản thân và đồng đội mục tiêu trong 12 giây.\n►Hồi 120 TP cho bản thân và đồng đội mục tiêu.
 
 ##S2##
 シルフェンカンタービレ=Sylphen Cantabile
-味方全体の物理防御力を大アップさせる。さらに、自分と最も近くの味方１キャラの魔法攻撃力と魔法クリティカルを特大アップ、魔法クリダメを小アップ、ＴＰ上昇を小アップさせる。=Tăng lớn P.DEF cho tất cả đồng đội. Ngoài ra, tăng mạnh M.ATK và M.CRIT RATE của bản thân và đồng đội gần nhất, tăng nhỏ M.CRIT DMG, và tăng nhỏ TP Boost.
-r:"^味方全体の物理防御力を(\d+)アップ自分と対象の味方の魔法攻撃力を(\d+)アップ自分と対象の味方の魔法クリティカルを160アップ自分と対象の味方の魔法クリダメを12％アップ自分と対象の味方のＴＰ上昇を8アップ$"=Thời gian triển khai: 0.74 giây\n►Tăng $1 Phòng thủ Vật lý của toàn bộ đồng đội trong 12 giây.\n►Tăng $2 Tấn công Ma pháp của bản thân và đồng đội mục tiêu trong 12 giây.\n►Tăng 160 Tỉ lệ Chí mạng Ma pháp của bản thân và đồng đội mục tiêu trong 12 giây.\n►Tăng 12％ Sát thương Chí mạng Ma pháp của bản thân và đồng đội mục tiêu trong 12 giây.\n►Tăng 8 Chỉ số tăng TP của bản thân và đồng đội mục tiêu trong 12 giây.
+味方全体の物理防御力を大アップさせる。自分と最も近くの味方の魔法攻撃力と魔法クリティカルを特大アップ、魔法クリティカルダメージを小アップ、ＴＰ上昇を小アップさせる。=Tăng lớn phòng thủ vật lý của tất cả đồng minh. Tăng cực lớn lực tấn công phép thuật và tỷ lệ chí mạng phép thuật của bản thân và đồng minh ở gần nhất, đồng thời tăng nhẹ sát thương chí mạng phép thuật và Tăng TP (TP Boost) của họ.
+r:"^味方全体の物理防御力を(\d+)アップ自分と対象の味方の魔法攻撃力を(\d+)アップ自分と対象の味方の魔法クリティカルを160アップ自分と対象の味方の魔法クリダメを12％アップ自分と対象の味方のＴＰ上昇を8アップ$"=Thời gian triển khai: 0.74 giây.\n►Tăng $1 Phòng thủ Vật lý của toàn bộ đồng đội trong 12 giây.\n►Tăng $2 Tấn công Ma pháp của bản thân và đồng đội mục tiêu trong 12 giây.\n►Tăng 160 Tỉ lệ Chí mạng Ma pháp của bản thân và đồng đội mục tiêu trong 12 giây.\n►Tăng 12％ Sát thương Chí mạng Ma pháp của bản thân và đồng đội mục tiêu trong 12 giây.\n►Tăng 8 Chỉ số tăng TP của bản thân và đồng đội mục tiêu trong 12 giây.
 
 ##EX##
 フェアリーズディーヴァ=Diva của Tiên
@@ -30,5 +27,5 @@ r:"^味方全体の物理防御力を(\d+)アップ自分と対象の味方の�
 ##S1+##
 ルーンテーラ・ネロ=Runetail Nero
 サンクトゥスコーラス+=Sanctus Chorus+
-味方全体の魔法攻撃力を特大アップさせ、物理無効バリアを展開する。さらに、自分と最も近くの味方１キャラの魔法攻撃力を特大アップ、魔法攻撃クリティカル時のダメージを小アップさせ、ＴＰを中回復させる。=Tăng cực đại Tấn công Ma pháp của toàn bộ đồng đội và triển khai lớp khiên vô hiệu vật lý. Ngoài ra, tăng cực đại Tấn công Ma pháp của bản thân và 1 đồng đội gần nhất, đồng thời tăng nhẹ sát thương khi chí mạng ma pháp và hồi vừa TP cho cả hai.
-r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する自分と対象の味方の魔法攻撃力を(\d+)アップ自分と対象の味方の魔法クリダメを8％アップ自分と対象の味方のＴＰを120回復$"=Thời gian triển khai: 0.74 giây\n►Tăng $1 Tấn công Ma pháp của đồng đội.\n►Triển khai lớp khiên vô hiệu vật lý giúp chặn $2 sát thương.\n►Tăng $3 Tấn công Ma pháp của bản thân và đồng đội mục tiêu.\n►Tăng 8％ Sát thương Chí mạng Ma pháp của bản thân và đồng đội mục tiêu.\n►Hồi 120 TP cho bản thân và đồng đội mục tiêu.
+味方全体の魔法攻撃力を特大アップさせ、物理無効バリアを展開する。自分と最も近くの味方の魔法攻撃力を特大アップ、魔法クリティカルダメージを小アップさせ、ＴＰを中回復させる。=Tăng cực lớn lực tấn công phép thuật của tất cả đồng minh và triển khai khiên vô hiệu hóa sát thương vật lý. Tăng cực lớn lực tấn công phép thuật của bản thân và đồng minh ở gần nhất, tăng nhẹ sát thương chí mạng phép thuật của họ, đồng thời hồi phục lượng trung bình TP cho họ.
+r:"^味方全体の魔法攻撃力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する自分と対象の味方の魔法攻撃力を(\d+)アップ自分と対象の味方の魔法クリダメを8％アップ自分と対象の味方のＴＰを120回復$"=Thời gian triển khai: 0.74 giây.\n►Tăng $1 Tấn công Ma pháp của đồng đội.\n►Triển khai lớp khiên vô hiệu vật lý giúp chặn $2 sát thương.\n►Tăng $3 Tấn công Ma pháp của bản thân và đồng đội mục tiêu.\n►Tăng 8％ Sát thương Chí mạng Ma pháp của bản thân và đồng đội mục tiêu.\n►Hồi 120 TP cho bản thân và đồng đội mục tiêu.

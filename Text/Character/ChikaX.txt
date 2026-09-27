@@ -3,8 +3,8 @@
 
 ##UB##
 シルフィードキャロル=Sylphid Carol
-【召喚】自分の目の前に３体の精霊を唱喚する。=[Triệu hồi] Triệu hồi ba linh hồn thẳng phía trước bản thân.
-魔法攻撃を行う精霊を唱喚する最もＨＰが低い味方のＨＰを回復する精霊を唱喚する味方全体のＴＰを回復する精霊を唱喚する=Triệu hồi một linh hồn thực hiện tấn công ma thuật (M.ATK).\nTriệu hồi một linh hồn hồi HP cho đồng minh có HP thấp nhất.\nTriệu hồi một linh hồn hồi TP cho toàn bộ đồng minh.
+【召喚】物理攻撃を行う味方の行動速度を大アップさせる。自分が唱喚した精霊が味方にいない場合、さらに自分の目の前に精霊を唱喚し、そうでない場合、さらに精霊の魔法攻撃力を大アップさせ、行動速度のアップ量が増加する。自分の魔法攻撃力に応じて、魔法攻撃力のアップ量が最大２倍まで増加する。精霊のスキルは物理攻撃を行う味方の物理攻撃力を３回中アップ、最もＨＰが低い味方のＨＰを中回復、味方全体のＴＰを小回復させる。=[Triệu hồi] Tăng lớn tốc độ hành động của các đồng minh thực hiện tấn công vật lý. Nếu không có linh hồn nào do bản thân triệu hồi ở phe đồng minh, đồng thời triệu hồi một linh hồn ở phía trước bản thân; nếu không, đồng thời tăng lớn lực tấn công phép thuật của linh hồn và gia tăng lượng tăng tốc độ hành động. Lượng tăng lực tấn công phép thuật sẽ tăng tối đa lên gấp 2 lần tùy theo lực tấn công phép thuật của bản thân. Kỹ năng của linh hồn giúp tăng trung bình lực tấn công vật lý của các đồng minh thực hiện tấn công vật lý 3 lần, hồi phục trung bình HP của đồng minh có HP thấp nhất và hồi phục một lượng nhỏ TP cho tất cả đồng minh.
+r:"^対象の味方の行動速度50％アップ精霊がいない場合、精霊を唱喚する精霊がいる場合、以下の効果が発動する精霊の魔法攻撃力を(\d+)アップ対象の味方の行動速度100％アップ$"=►Tăng 50% tốc độ hành động của đồng minh mục tiêu trong 18 giây.\n\nNếu không có [Spirit]:\n►Triệu hồi một [Spirit].\n\nNếu có [Spirit]:\n►Tăng $1 lực tấn công phép thuật của [Spirit] trong 18 giây.\n►Tăng 100% tốc độ hành động của đồng minh mục tiêu trong 18 giây.
 
 ##S1##
 アセンションワルツ=Ascension Waltz
@@ -24,19 +24,23 @@ r:"^範囲内の味方の物理防御力を(\d+)アップ範囲内の味方の�
 
 ##S1+##
 アセンションワルツ+=Ascension Waltz+
-一番物理攻撃力が高い味方１キャラの物理攻撃力と物理クリティカルを大アップさせる。このキャラの魔法攻撃力が高い程、物理攻撃力の上昇量がアップする。=Tăng cường rất lớn P.ATK và Tỷ lệ Chí mạng (P.CRIT Rate) của đồng minh có P.ATK cao nhất. Mức tăng P.ATK còn được tăng cường thêm dựa trên M.ATK của nhân vật.
-r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK của đồng minh lên $1.\n►Tăng Tỷ lệ Chí mạng (P.CRIT Rate) của đồng minh lên $2.
+最も物理攻撃力が高い味方の物理攻撃力と物理クリティカルを大アップさせる。対象が水属性かつ自分が唱喚した精霊が味方にいる場合、これを３回行う。=Tăng lớn lực tấn công vật lý và tỷ lệ chí mạng vật lý của đồng minh có lực tấn công vật lý cao nhất. Nếu mục tiêu có thuộc tính Nước và có linh hồn do bản thân triệu hồi ở phe đồng minh, hãy thực hiện điều này 3 lần.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ対象が水属性かつ精霊がいる場合、以上の効果が追加で２回発動する$"=Thời gian triển khai: 1.05s.\n►Tăng $1 lực tấn công vật lý của một đồng minh trong 12 giây.\n►Tăng 100 tỷ lệ chí mạng vật lý của một đồng minh trong 12 giây.\n\nNếu mục tiêu mang hệ Nước và có [Spirit], các hiệu ứng trên sẽ kích hoạt thêm 2 lần nữa.
 
 ##S2+##
 ガーディアンメロディ+=Guardian Melody+
-
-自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を中アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Tăng cường rất lớn M.ATK của bản thân, và trong phạm vi xung quanh người dùng, tăng cường rất lớn P.ATK của đồng minh, tăng P.DEF một chút, và hồi thêm một ít TP. Mức tăng P.ATK còn được tăng cường thêm, tối đa hai lần, dựa trên M.ATK của nhân vật này.
-
-自分の魔法攻撃力を特大アップさせ、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理防御力を大アップし、さらにＴＰを小回復する。このキャラの魔法攻撃力に応じて最大２倍まで物理攻撃力の上昇量がアップする。=Tăng cường rất lớn M.ATK của bản thân, và trong phạm vi xung quanh người dùng, tăng cường rất lớn P.ATK của đồng minh, tăng cường rất lớn P.DEF, và hồi thêm một ít TP. Mức tăng P.ATK còn được tăng cường thêm, tối đa hai lần, dựa trên M.ATK của nhân vật này.
-
-
-r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを(\d+)回復$"=►Tăng M.ATK của bản thân lên $1 trong 18s.\n►Tăng P.ATK của đồng minh trong phạm vi 400 lên $2 trong 18s.\n►Tăng P.DEF của đồng minh trong phạm vi 400 lên $3 trong 18s.\n►Hồi TP của đồng minh trong phạm vi 400 lên $4.
+自分の魔法攻撃力を特大アップし、最も物理攻撃力が高い味方を中心とした範囲内の味方の物理攻撃力を特大アップ、物理防御力を大アップ、ＴＰを中回復させる。自分が唱喚した精霊が味方にいる場合、さらに追加で最も物理攻撃力が高い味方の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。=Tăng cực lớn lực tấn công phép thuật của bản thân, đồng thời tăng cực lớn lực tấn công vật lý, tăng lớn phòng thủ vật lý và hồi phục lượng trung bình TP cho các đồng minh trong phạm vi xoay quanh đồng minh có lực tấn công vật lý cao nhất. Nếu có linh hồn do bản thân triệu hồi ở phe đồng minh, đồng thời tăng cực lớn lực tấn công vật lý và tăng lớn tỷ lệ chí mạng vật lý của đồng minh có lực tấn công vật lý cao nhất.
+r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ範囲内の味方のＴＰを108回復精霊がいる場合、以下の効果が発動する味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ$"=Thời gian triển khai: 1.19s.\n►Tăng $1 lực tấn công phép thuật của bản thân trong 18 giây.\n►Tăng $2 lực tấn công vật lý của các đồng minh trong phạm vi 400 trong 18 giây.\n►Tăng $3 phòng thủ vật lý của các đồng minh trong phạm vi 400 trong 18 giây.\n►Hồi phục 108 TP cho các đồng minh trong phạm vi 400.\n\nNếu có [Spirit]:\n►Tăng $4 lực tấn công vật lý của một đồng minh trong 18 giây.\n►Tăng 100 tỷ lệ chí mạng vật lý của một đồng minh trong 18 giây.
 
 ##UE##
 翠霊杖ルーンスノウ=Jadestaff Rune Snow
 ルーンノエルドレス=Rune-Noel Dress
+
+
+
+
+
+
+アセンションワルツ++=Ascension Waltz++
+最も物理攻撃力が高い味方の物理攻撃力と物理クリティカルを大アップさせる。対象が水属性かつ自分が唱喚した精霊が味方にいる場合、これを６回行い、さらにダメージブーストを大アップさせる。初回発動時、さらに自分のＴＰを特大回復する。=Tăng lớn lực tấn công vật lý và tỷ lệ chí mạng vật lý của đồng minh có lực tấn công vật lý cao nhất. Nếu mục tiêu thuộc hệ Nước và có tinh linh do bản thân triệu hồi đang ở phía đồng minh, thực hiện điều này 6 lần, đồng thời tăng lớn gia tăng sát thương. Vào lần kích hoạt đầu tiên, hồi phục cực lớn TP cho chính mình.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを100アップ対象が水属性かつ精霊がいる場合、以上の効果が追加で５回発動する対象が水属性かつ精霊がいる場合、味方単体にダメージブースト50％を付与（上限250万）初回発動時、自分のＴＰを1000回復$"=Thời gian triển khai: 1.05s.\n►Tăng $1 lực tấn công vật lý của một đồng minh đơn lẻ trong 12 giây.\n►Tăng 100 tỷ lệ chí mạng vật lý của một đồng minh đơn lẻ trong 12 giây.\n\nNếu mục tiêu thuộc hệ Nước và có Tinh linh, các hiệu ứng trên sẽ được kích hoạt thêm 5 lần.\n►Nếu mục tiêu thuộc hệ Nước và có Tinh linh, ban cho một đồng minh 50% gia tăng sát thương (giới hạn 2.500.000).\n\nVào lần sử dụng đầu tiên, hồi phục 1000 TP.

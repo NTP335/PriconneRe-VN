@@ -13,6 +13,8 @@ r:"^敵全体の受ける物理・魔法ダメージを2％アップ敵全体の
 
 r:"^敵全体が与える物理・魔法ダメージを4％ダウン味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の行動速度100％アップ$"=Thời gian triển khai: 1.05s.\n►Giảm 4% sát thương vật lý và phép thuật gây ra bởi toàn bộ kẻ địch trong 12 giây.\n►Tăng chỉ số tấn công vật lý và phép thuật của toàn bộ đồng minh lên $1 trong 12 giây.\n►Tăng 100% tốc độ hành động của toàn bộ đồng minh trong 12 giây.
 
+r:"^敵全体の与える物理・魔法ダメージを4％ダウン味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の行動速度100％アップ$"=Thời gian triển khai: 1.05s.\n►Giảm 4% sát thương vật lý và phép thuật gây ra bởi toàn bộ kẻ địch trong 12 giây.\n►Tăng $1 lực tấn công vật lý và phép thuật cho toàn bộ đồng minh trong 12 giây.\n►Tăng 100% tốc độ hành động của toàn bộ đồng minh trong 12 giây.
+
 ##S2##
 エクスプロイト=Exploit
 敵全体の物理・魔法防御力を小ダウン、受けるクリティカルダメージを小アップさせる。味方全体のＴＰを小回復させる。目の前の敵１キャラの弱体効果の種類の数に応じて、ＴＰの回復量が最大５倍まで増加する。=Làm giảm nhẹ chỉ số phòng thủ vật lý và phép thuật của toàn bộ kẻ địch, đồng thời làm tăng nhẹ sát thương chí mạng mà chúng phải chịu. Hồi phục nhẹ điểm TP cho toàn bộ đồng minh. Lượng TP hồi phục sẽ tăng lên tối đa gấp 5 lần tùy theo số lượng các loại hiệu ứng bất lợi khác nhau đang tác dụng lên kẻ địch ở phía trước.

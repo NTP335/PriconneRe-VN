@@ -9,7 +9,7 @@
 
 ##UB##
 ホープ・オンステージ=Hy Vọng Trên Sân Khấu
-目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。さらに、物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và giảm P.DEF của nó một chút. Thêm nữa, tăng cực kỳ P.ATK của tất cả đồng đội thuộc kiểu P.
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。物理攻撃を行う味方の物理攻撃力を特大アップさせる。=Gây sát thương vật lý lớn cho 1 kẻ địch ở ngay trước mặt và giảm nhẹ phòng thủ vật lý của chúng. Tăng cực lớn lực tấn công vật lý của các đồng minh thực hiện tấn công vật lý.
 r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン対象の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch theo $2 trong 18s.\n►Tăng P.ATK của tất cả đồng đội thuộc kiểu P theo $3 trong 18s.
 
 ##S1##
@@ -19,7 +19,7 @@ r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理�
 
 ##S2##
 エールフォーフューチャー=Cổ Vũ Tương Lai
-物理攻撃を行うすべての味方キャラの物理攻撃力を大アップさせ、ＴＰを小回復させる。バトル開始後、初弾のこのスキルはＴＰの回復量が大幅アップし、敵全体の物理防御力を小ダウンさせる。=Tăng rất mạnh P.ATK của tất cả đồng đội thuộc kiểu P, và phục hồi TP của họ một chút. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên phục hồi TP cực lớn cho tất cả đồng đội thuộc kiểu P và giảm P.DEF của tất cả kẻ địch một chút.
+物理攻撃を行う味方の物理攻撃力を大アップ、ＴＰを小回復させる。初回発動時、ＴＰの回復量が大幅に増加し、さらに敵全体の物理防御力を小ダウンさせる。=Tăng lớn lực tấn công vật lý và hồi phục một lượng nhỏ TP cho các đồng minh thực hiện tấn công vật lý. Trong lần kích hoạt đầu tiên, lượng hồi phục TP sẽ tăng lên đáng kể, đồng thời giảm nhẹ phòng thủ vật lý của toàn bộ kẻ địch.
 r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰを(\d+)回復初使用時、対象の味方のＴＰを(\d+)回復初使用時、敵全体の物理防御力を(\d+)ダウン$"=Thời gian niệm: 1.05s\n►Tăng P.ATK của tất cả đồng đội thuộc kiểu P theo $1 trong 12s.\n\nĐối với lần dùng kỹ năng đầu tiên:\n►Phục hồi TP của tất cả đồng đội thuộc kiểu P theo $3.\n►Giảm P.DEF của tất cả kẻ địch theo $4 trong 180s\n\nĐối với lần dùng kỹ năng thứ hai trở đi:\n►Phục hồi TP của tất cả đồng đội thuộc kiểu P theo $2.
 
 ##EX##
@@ -28,7 +28,7 @@ r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方のＴＰ�
 
 ##S1+##
 グロウイレーション+=Hào Quang Phấn Khởi+
-物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、物理クリティカルを大アップし、物理攻撃クリティカル時のダメージを小アップさせ、さらにＴＰ上昇を小アップさせる。=Tăng rất mạnh P.ATK và Tỷ Lệ Chí Mạng P. của tất cả đồng đội thuộc kiểu P, và tăng Sát Thương Chí Mạng P. của họ một chút. Thêm nữa, tăng Khả Năng Tăng TP của họ một chút.
+物理攻撃を行う味方の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理クリティカルダメージとＴＰ上昇を小アップさせる。=Tăng cực lớn lực tấn công vật lý, tăng lớn tỷ lệ chí mạng vật lý, đồng thời tăng nhẹ sát thương chí mạng vật lý và tốc độ hồi TP của các đồng minh thực hiện tấn công vật lý.
 r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを(\d+)アップ対象の味方の物理攻撃クリティカル時のダメージを12％アップ対象の味方のＴＰ上昇を(\d+)アップ$"=Thời gian niệm: 1.05s\n►Tăng P.ATK của tất cả đồng đội thuộc kiểu P theo $1 trong 12s.\n►Tăng Tỷ Lệ Chí Mạng P. của tất cả đồng đội thuộc kiểu P theo $2 trong 12s.\n►Tăng Sát Thương Chí Mạng P. của tất cả đồng đội thuộc kiểu P theo 12% trong 12s.\n►Tăng Khả Năng Tăng TP của tất cả đồng đội thuộc kiểu P theo $3 trong 12s.
 
 ##UE##
