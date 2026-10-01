@@ -91,3 +91,16 @@ sr:"^(.+?)ロールのマスタリー強化用素材。(.+?)(?:アップ)?の強
 
 
 黎明界ラビリンスで報酬を獲得する際に消費されるチケット。=Vé tiêu hao để nhận phần thưởng trong Mê Cung Vùng Bình Minh.
+
+
+
+
+
+
+
+一部のEX装備作成の素材となる、外宇宙からもたらされし赤色の鉱石。=Quặng màu đỏ đến từ ngoài vũ trụ, dùng làm nguyên liệu để chế tạo một số trang bị EX.
+彼方より来訪せし射手座の星獣姫の力を宿した結晶石。根源を等しくする武具の鍛錬に用いることで、秘められた星海の力を解き放つ。=Viên đá tinh thể mang trong mình sức mạnh của Nữ tinh thú cung Nhân Mã ghé thăm từ phương xa. Dùng để rèn luyện các trang vũ khí có cùng cội nguồn nhằm giải phóng sức mạnh biển sao ẩn giấu bên trong.
+射手座の星彩石=Đá Ánh Sao Cung Nhân Mã
+彼方より来訪せし射手座の星獣姫の力を宿した結晶片。根源を等しくする武具の鍛錬に用いることで、秘められた星海の力を解き放つ。=Mảnh tinh thể mang trong mình sức mạnh của Nữ tinh thú cung Nhân Mã ghé thăm từ phương xa. Dùng để rèn luyện các trang vũ khí có cùng cội nguồn nhằm giải phóng sức mạnh biển sao ẩn giấu bên trong.
+一部のEX装備作成の素材となる、外宇宙からもたらされし青色の鉱石。=Quặng màu xanh dương đến từ ngoài vũ trụ, dùng làm nguyên liệu để chế tạo một số trang bị EX.
+一部のEX装備作成の素材となる、外宇宙からもたらされし黄色の鉱石。=Quặng màu vàng đến từ ngoài vũ trụ, dùng làm nguyên liệu để chế tạo một số trang bị EX.

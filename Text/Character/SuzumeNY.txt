@@ -13,7 +13,6 @@ r:"^味方全体のＨＰを(\d+)回復味方全体の行動速度60％アップ
 ##S2##
 加護ノ破魔矢=Mũi Tên Trừng Rị
 
-
 ##S2+##
 加護ノ破魔矢+=Mũi Tên Thanh Tẩy Thánh Thiện+
 味方全体の物理・魔法攻撃力を大アップさせ、物理無効バリアと魔法無効バリアを展開する。=Tăng lớn lực tấn công vật lý và phép thuật của toàn bộ đồng minh, đồng thời triển khai lá chắn vô hiệu hóa sát thương vật lý và lá chắn vô hiệu hóa sát thương phép thuật.

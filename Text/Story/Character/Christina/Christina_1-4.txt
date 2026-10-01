@@ -40,7 +40,7 @@
 ますます興味深い。n他人なんぞに毛ほども興味を抱かん『陛下』が、nオマエを名指しで追い回していたのだからな……=Thật đầy hấp dẫn.\nNgười cai trị của chúng ta, người chưa bao giờ thể hiện sự quan tâm đến người khác,\n lại quyết tâm truy tìm cậu bằng tên...
 本当に、何者なんだ？n答えを聞くまで帰さんぞ。nたぁっぷりお喋りしよう、{playername}くん♪=Cậu thực sự là ai, cậu bé? Tôi cần một câu trả lời đầy đủ.\nChúng ta hãy nói chuyện cho đến khi cậu sẵn sàng chia sẻ, cậu {playername} thân mến ♪
 {playername}はクリスティーナが提案した、体に触れることが出来れば無罪放免になる条件の組み手に挑む。苦戦するも足を滑らせたところをクリスティーナに抱き留められ、無罪放免となるのだった。=Cậu {playername} nhận lấy thử thách theo điều kiện mà Christina đưa ra rằng cậu sẽ được tha nếu chạm được vào cơ thể cô ấy. Dù cố gắng, cậu trượt và bị Christina tóm được, khiến cậu được tha.
-運悪く【王宮騎士団（NIGHTMARE）】にn捕獲された{playername}は、nクリスティーナによって面白半分な尋問をうけていた。=Bất hạnh bị các hiệp sĩ Nightmare bắt giữ,\n{playername} thấy mình bị thẩm vấn\nđể giải trí cho Christina.\n
+運悪く【王宮騎士団（NIGHTMARE）】にn捕獲された{playername}は、nクリスティーナによって面白半分な尋問をうけていた。=Bất hạnh bị các hiệp sĩ Nightmare bắt giữ\n{playername} thấy mình bị thẩm vấn\nđể giải trí cho Christina.\n
 ふぅむ、記憶喪失ねぇ……いかにも言い訳くさくて嘘っぽいな。n偽証を見抜くような魔法も存在するんだが、n生憎と魔術師や魔法道具の用意がなくてね。=Hừm... Mất trí nhớ, cậu nói vậy sao? Thật là một cái cớ tiện lợi đáng sợ.\nCó những phép thuật có thể phơi bày những lời nói dối hoàn toàn,\nnhưng tiếc thay, tôi không có các pháp sư hoặc bảo vật cần thiết ở đây.\n
 かといって。オマエが自分で【ラビリンス】の関係者である、nという嫌疑を否定する証拠をだすのも難しいだろう。nいつだって、真実を語るよりも嘘をつくほうが簡単なのさ。=Mặt khác, sẽ rất khó cho cậu để chứng minh\nrằng cậu không liên quan đến Labyrinth bằng bất kỳ cách nào.\nNhững lời nói dối luôn dễ tạo ra hơn sự thật.\n
 なので、こうしよう。nこれから簡単なテストをする。nそれにオマエが合格すれば晴れて無罪放免だ、おうちに帰れるぞ。=Vậy cái này thế nào? Tôi sẽ cho cậu một bài kiểm tra đơn giản.\nNếu cậu vượt qua thành công, tôi sẽ để cậu tự do. Mọi nghi ngờ sẽ được xóa bỏ.\n
@@ -180,7 +180,7 @@
 失礼する。nまた会いにきたよ、坊や。=Bản thân vào đây.\nDạo này cậu chàng thế nào?\n
 ふふん。n今日はオマエが年下しか愛せない可能性を考えて、nワタシがかわいい幼女だったころの写真を持ってきたよ。=Ha ha.\nBản thân nghĩ có thể cậu thích con gái hơn,\nnên hôm nay bản thân mang theo vài bức ảnh thời thơ ấu dễ thương để cho cậu xem.\n
 すっかり育ってしまったが、子供のころのワタシもワタシだ。nすこしでも、今のワタシに好意を抱くきっかけになればと……む？=Từ đó đến nay bản thân lớn lên nhiều,\nnhưng đây vẫn là bản thân, rốt cuộc.\nCó lẽ sẽ khơi dậy những tình cảm mới trong cậu... Hừm?\n
-{playername}くん、nソファに寝っ転がって熟睡しているのか。="Có vẻ như cậu ta... ngủ thiếp đi trên ghế sofa rồi."
+{playername}くん、nソファに寝っ転がって熟睡しているのか。=Có vẻ như cậu ta... ngủ thiếp đi trên ghế sofa rồi?
 いつもこの時間にワタシが顔を見せるのだから、n訪れるのを予想して然るべきなのに。=Bản thân thường đến thăm cậu ta vào giờ này,\ncho nên {playername} lẽ ra phải dự đoán được sự xuất hiện của bản thân...\n
 すこしは身構えでもしてくれないと、歯応えがないな。nまぁ鬱陶しがられて、拒絶もされていないようだが。=Vui gì mà phục kích một nạn nhân hoàn toàn không hay biết?\nDù chắc cũng ít nhất cho thấy\ncậu ta không cố gắng từ chối bản thân.\n
 状況が遅々として、思ったように進まないので苛々するな。nいったい何が気に食わないんだろうか、nこんな美女に求婚されているというのに。=Dù vậy, tiến độ của chúng ta chậm quá đến mức bắt đầu khó chịu.\nĐiều gì khiến cậu ta do dự,\nKhi một người vợ tuyệt vời như vậy đã thuộc về cậu ta?\n
@@ -229,7 +229,7 @@
 あたしは、そのまま平和な感じに仲良くなってくれたら……nって思うわ。=Về phần tôi, tôi không mong gì hơn nếu cậu có thể duy trì\nmối tình bạn hòa bình đó.\n
 『前世』では敵対して、潰しあって、n最後まであんたたちの道が交わることはなかったから。=Trong thế giới cũ, các cậu là kẻ thù, đối lập gay gắt,\nvà chưa bao giờ giải quyết được những khác biệt.\n
 今こうして手を繋ぐようにして、一緒に歩いてるのが奇跡みたい。nううん、ほんとに夢みたいだわ。=Vì vậy, thật như một phép màu khi các cậu đang nắm tay nhau đi.\nThực tế, đó là giấc mơ thành hiện thực.\n
-結婚？　良いじゃないの、nあたしは応援するし祝福するわよ……{playername}♪="Và hôn nhân? Tại sao không?\nTôi rất vui khi chúc hai người tất cả những điều tốt đẹp nhất!♪"
+結婚？　良いじゃないの、nあたしは応援するし祝福するわよ……{playername}♪=Và hôn nhân? Tại sao không?\nTôi rất vui khi chúc hai người tất cả những điều tốt đẹp nhất!♪
 どうせ、すべては泡沫の夢……n本来は有り得なかった未来を、n人生を、思いっきり満喫しちゃいなさい。=Tất cả chỉ là một giấc mơ phù du...\nVì vậy, tương lai bất khả thi này, cuộc sống mới này, là để cậu tận hưởng theo ý muốn.\n
 それじゃあね、{playername}。\nまた夢で逢いましょう。=Hẹn gặp lại, {playername}.\nCho đến giấc mơ tiếp theo của chúng ta.\n
 ……んん？nほんの刹那だが、意識が途切れていたようだな。=...Mmnhh?\nChỉ một chút, tôi cảm thấy như đã mất ý thức...\n

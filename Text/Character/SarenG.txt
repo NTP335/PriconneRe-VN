@@ -1,0 +1,30 @@
+【物理】中衛で、敵影に照準を定める戦場のサレンママ。７種以上の弱体効果があれば更に効果が増すスキルで敵の装甲に風穴を開け、臨機応変の戦術で窮地を逆手に取る。=[Vật lý] Saren Mama ở vị trí trung vệ, ngắm bắn bóng hình kẻ địch từ chiến trường. Khoét thủng giáp của kẻ địch bằng các kỹ năng gia tăng hiệu quả khi có từ 7 loại hiệu ứng suy yếu trở lên, đồng thời lật ngược tình thế ngặt nghèo nhờ chiến thuật tùy cơ ứng biến.
+
+##UB##
+ナイトフォールストレイフ=Nightfall Strafe
+目の前の敵１キャラに物理特大ダメージを２回与え、物理防御力を小ダウンさせる。発動時既に対象の弱体効果が７種類以上だった場合、物理防御力のダウン量が増加し、さらに受けるクリティカルダメージを小アップさせ、自分を中心とした範囲内の味方に物理無効バリアを展開する。=Gây cực lớn sát thương vật lý 2 lần cho 1 nhân vật địch ở phía trước, đồng thời làm giảm nhẹ phòng thủ vật lý của mục tiêu. Nếu mục tiêu đã có từ 7 loại hiệu ứng suy yếu trở lên tại thời điểm kích hoạt, lượng giảm phòng thủ vật lý sẽ tăng lên, đồng thời làm tăng nhẹ sát thương chí mạng phải chịu của mục tiêu, và triển khai lá chắn vô hiệu hóa sát thương vật lý cho các đồng minh trong phạm vi quanh bản thân.
+r:"^敵単体に(\d+)の物理ダメージを２回与える敵単体の物理防御力を(\d+)ダウン対象の弱体効果が７種類以上の場合、以下の効果が発動する(\d+)ダメージ分の物理無効バリアを展開する敵単体の被クリダメを9％アップ$"=►Gây $1 sát thương vật lý 2 lần cho một mục tiêu địch đơn lẻ.\n►Giảm $2 phòng thủ vật lý của một mục tiêu địch đơn lẻ trong 18 giây.\n\nNếu mục tiêu có từ 7 hiệu ứng suy yếu trở lên:\n►Triển khai lá chắn vô hiệu hóa $3 sát thương vật lý trong 18 giây.\n►Tăng 9% sát thương chí mạng phải chịu cho một mục tiêu địch đơn lẻ trong 18 giây.
+
+
+##S1##
+ラピッドエレガント=Rapid Elegant
+目の前の敵１キャラに物理大ダメージを２回与え、物理防御力を小ダウン、受けるクリティカルダメージを小アップさせる。発動時既に対象の弱体効果が７種類以上だった場合、物理防御力のダウン量が増加する。=Gây lớn sát thương vật lý 2 lần cho 1 nhân vật địch ở phía trước, làm giảm nhẹ phòng thủ vật lý và làm tăng nhẹ sát thương chí mạng phải nhận của mục tiêu. Nếu mục tiêu đã có từ 7 loại hiệu ứng suy yếu trở lên tại thời điểm kích hoạt, lượng giảm phòng thủ vật lý sẽ tăng lên.
+r:"^敵単体に(\d+)の物理ダメージを２回与える敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを6％アップ$"=Thời gian niệm: 1,05s.\n►Gây $1 sát thương vật lý cho một mục tiêu địch đơn lẻ 2 lần.\n►Giảm $2 phòng thủ vật lý của một mục tiêu địch đơn lẻ trong 12 giây.\n►Tăng 6% sát thương chí mạng phải chịu của một mục tiêu địch đơn lẻ trong 12 giây.
+
+
+##S2##
+イルミネートフレア=Illuminate Flare
+目の前の敵１キャラをスタンさせ、暗闇状態にし、物理攻撃力を大ダウンさせる。自分の物理攻撃力を大アップ、物理クリティカルダメージを小アップ、ＴＰを大回復する。発動時既に目の前の敵の弱体効果が７種類以上だった場合、物理攻撃力と物理クリティカルダメージのアップ量が増加し、さらに自分を中心とした範囲内の闇属性の味方のＴＰを小回復させる。=Gây choáng 1 nhân vật địch ở phía trước, khiến họ rơi vào trạng thái mù và giảm lớn lực tấn công vật lý của họ. Tăng lớn lực tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý và hồi phục lớn TP. Nếu mục tiêu ở phía trước đã có từ 7 loại hiệu ứng suy yếu trở lên tại thời điểm kích hoạt, lượng tăng lực tấn công vật lý và sát thương chí mạng vật lý sẽ tăng lên, đồng thời hồi phục nhỏ TP cho các đồng minh hệ Bóng tối trong phạm vi quanh bản thân.
+r:"^敵単体を一定時間行動不能にする敵単体を暗闇状態にする敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分の物理クリダメを9％アップ自分のＴＰを300回復対象の敵の弱体効果が７種類以上の場合、範囲内の闇属性の味方のＴＰを100回復$"=Thời gian niệm: 1,05s.\n►Gây choáng kẻ địch gần nhất trong 3 giây.\n►Gây trạng thái mù cho một mục tiêu địch đơn lẻ trong 8 giây.\n►Giảm $1 lực tấn công vật lý của một mục tiêu địch đơn lẻ trong 18 giây.\n►Tăng $2 lực tấn công vật lý của bản thân trong 18 giây.\n►Tăng 9% sát thương chí mạng vật lý của bản thân trong 18 giây.\n►Hồi phục 300 TP.\n\nNếu mục tiêu địch có từ 7 hiệu ứng suy yếu trở lên:\n►Hồi phục 100 TP cho các đồng minh hệ Bóng tối trong phạm vi.
+
+
+##EX##
+スピンコック=Spin Cock
+スピンコック+=Spin Cock+
+
+##SP1##
+カウンタースナイプ=Counter Snipe
+敵から攻撃を受けた時に発動し、その敵に物理中ダメージを与え、回避を大ダウンさせる。このスキルは必ずクリティカルし、発動後一定時間発動しない。=Kích hoạt khi nhận đòn tấn công từ kẻ địch, gây sát thương vật lý trung bình cho kẻ địch đó và làm giảm lớn né tránh của chúng. Kỹ năng này luôn chí mạng và sẽ không kích hoạt lại trong một khoảng thời gian nhất định sau khi sử dụng.
+r:"^自分を攻撃した敵に(\d+)の物理ダメージ自分を攻撃した敵の回避を(\d+)ダウン$"=Thời gian niệm: 1,05s.\n►Gây $1 sát thương vật lý cho kẻ địch đã tấn công bản thân.\n►Giảm $2 né tránh của kẻ địch đã tấn công bản thân trong 180 giây.
+
+

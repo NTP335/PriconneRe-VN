@@ -41,8 +41,6 @@ r:"^ぷちゴーレムを召喚する物理防御力を(\d+)アップさせる�
 
 r:"^範囲内の味方の魔法防御力を(\d+)アップ範囲内の味方の物理・魔法攻撃力を(\d+)アップ範囲内の味方のＨＰを(\d+)回復(\d+)ダメージ分の魔法吸収バリアを展開する$"=Thời gian thi triển: 0.92 giây\n►Tăng $1 phòng thủ ma thuật cho đồng minh trong phạm vi 600 trong 18 giây.\n►Tăng $2 tấn công vật lý và ma thuật cho đồng minh trong phạm vi 600 trong 18 giây.\n►Hồi phục $3 HP cho đồng minh trong phạm vi 600.\n►Triển khai rào chắn hấp thụ sát thương ma thuật trị giá $4 cho đồng minh trong phạm vi 600 trong 18 giây.
 
-
-
 ##UE##
 陽杖シャインサンデー=Shining Sunday
 思い出の麦わら帽子=Chiếc mũ rơm của ký ức

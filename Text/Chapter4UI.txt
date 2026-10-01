@@ -1,0 +1,97 @@
+
+r:"^在庫数:([0-9∞]+)$"=Hàng tồn kho: $1
+
+
+NPC
+4部メインクエストをクリアすると、\n報酬としてEX装備作成や錬成に必要なアイテムを獲得できますよ。\nEX装備を集めてキャラを強化いたしましょう。=Khi hoàn thành các Nhiệm vụ Chính tuyến Phần 4, bạn có thể nhận được các vật phẩm cần thiết để chế tạo và luyện hóa Trang bị EX làm phần thưởng. Hãy thu thập Trang bị EX để cường hóa các nhân vật của bạn.
+見事★3クリアを達成したクエストはスキップができます。\nゾディアックチケットを使うとスタミナを消費せずに\nスキップできますので、★3クリアを目指しましょう。=Bạn có thể bỏ qua (quét nhanh) các nhiệm vụ đã đạt xuất sắc xếp hạng 3 sao (★3). Sử dụng Vé Hoàng đạo (Zodiac Ticket) cho phép bạn bỏ qua nhiệm vụ mà không tốn Thể lực, vì vậy hãy hướng tới việc hoàn thành 3 sao (★3).
+主さま。アイテムを獲得しましたので、\nEX装備の作成にまいりましょう。=Thưa Chủ nhân. Vì chúng ta đã nhận được các vật phẩm rồi, hãy tiến hành chế tạo Trang bị EX nhé.
+
+新たな敵の出現により風の大精霊の力が暴走し、ランドソルは無数の竜巻に襲われていた。通信が安定しない中でテーセウス号からモニタリングするこころは、先行している{playername}に情報を伝えるため捜索を続けるのだった。=Sự xuất hiện của một kẻ địch mới đã khiến sức mạnh của Đại Tinh Linh Gió bộc phát mất kiểm soát, khiến Landosol bị tàn phá bởi vô số cơn lốc xoáy. Trong lúc liên lạc không ổn định, Kokoro vẫn tiếp tục dò tìm từ tàu Theseus để giám sát tình hình và truyền đạt thông tin cho {playername}, người đã đi trước.
+『……これは……\n魔力による竜巻が、いくつも荒れ狂っておりますね。\nテーセウス号からの[rub:モニター]観察[/rub]では正確な分析とはいきませんが……ふむ……』="…Đây là…\nCó vô số cơn lốc xoáy do ma lực đang hoành hành dữ dội.\nDù không thể đưa ra phân tích chính xác qua việc [rub:monitor]quan sát[/rub] từ tàu Theseus, nhưng… hừm…"
+『……風の大精霊さまが、ご乱心を──いえ。\nもしや新たな“敵”によって、操られてしまっているのでしょうか？\nセキュリティ上、そのようなことはありえないはずなのですが……』="…Đại Tinh Linh Gió đang nổi giận──không.\nPhải chăng ngài ấy đang bị thao túng bởi 'kẻ địch' mới?\nNhưng xét về mặt bảo mật, chuyện đó đáng lẽ ra không thể xảy ra được…"
+『……ノイズがひどく、接続が不安定ですね……\nしかし一刻も早く、主さまたちを捜し出し、情報を共有しなくては』="…Nhiễu tín hiệu quá nặng, kết nối đang rất không ổn định…\nNhưng chúng ta phải nhanh chóng tìm ra Chủ nhân cùng mọi người để chia sẻ thông tin ngay lập tức."
+『……こちらのエリアを攻略することで、\n新たな装備の獲得や、強化が可能なことなども──……』="…Bằng cách vượt qua khu vực này,\nviệc nhận các trang bị mới cũng như cường hóa chúng cũng sẽ khả thi──…"
+
+4部メインクエストで獲得したアイテムを使って、\nゾディアックシリーズEX装備が作成できます。\n同じEX装備を集めればさらに、超越錬醒をすることができますよ。=Sử dụng các vật phẩm nhận được từ Nhiệm vụ Chính tuyến Phần 4, bạn có thể chế tạo Trang bị EX dòng Zodiac. Thu thập các Trang bị EX giống nhau cũng cho phép bạn thực hiện Thức tỉnh Siêu việt (Transcendent Awakening).
+EX装備をセットし、さまざまなエリアボーナスを獲得できましたね。\nでは、練習はこれにて終了でございます。\n実際にEX装備を身につけてから、クエストに挑戦いたしましょう。=Bạn đã trang bị Trang bị EX và nhận được nhiều phần thưởng khu vực (Area Bonus) khác nhau rồi nhỉ. Phần thực hành đến đây là kết thúc.\n►Bây giờ, hãy thực sự trang bị Trang bị EX và bắt đầu khiêu chiến nhé.
+ゾディアックシリーズのEX装備は、\n装備カテゴリが異なっても強力なエリアボーナスが獲得できます。\n忘れずにセットしてから、クエストに挑戦いたしましょう。=Trang bị EX dòng Zodiac có thể mang lại phần thưởng khu vực cực kỳ mạnh mẽ ngay cả khi danh mục trang bị khác nhau. Đừng quên trang bị chúng trước khi khiêu chiến nhé.
+
+
+
+
+
+Item
+ステラミネーラ・アレス=Stella Minera Ares
+射手座の星彩片=Mảnh Tinh Thải Cung Nhân Mã
+sr:"^(.+?)の星彩片$"=$1 Mảnh Tinh Thải
+
+Quest?
+エリア初回報酬受け取り=Nhận phần thưởng lần đầu hoàn thành khu vực
+
+UI
+アイテム作成=Chế tạo vật phẩm
+作成する=Chế tạo
+
+
+sr:"^(.+?)を(\d+)個作成します。\nよろしいですか？$"=Bạn có muốn chế tạo $2 cái $1 không?\nBạn có chắc chắn không?
+sr:"^(.+?)を(\d+)個作成しよう$"=Hãy chế tạo $2 cái $1 nhé
+作成アイテム受け取り=Nhận vật phẩm đã chế tạo
+まとめてスキップ使用チケット確認=Xác nhận vé sử dụng quét nhanh hàng loạt
+使用するチケットを選択してください。=Vui lòng chọn loại vé để sử dụng.
+
+
+アイテム作成に必要な素材が不足しています。=Bạn không có đủ nguyên liệu cần thiết để chế tạo vật phẩm.
+
+
+Quest
+4部メインクエストミッション=Nhiệm vụ Chính tuyến Phần 4
+暴風のランドソル=Landosol Bão Táp
+人馬弓カウス・メディアを1個作成しよう=Chế tạo 1 Cung Nhân Mã Caus Media
+人馬環アルナスル《R》を1個作成しよう=Chế tạo 1 Nhẫn Nhân Mã Alnasl 《R》
+人馬衣アルカブ《R》を1個作成しよう=Chế tạo 1 Áo Nhân Mã Alkaid 《R》
+開催中のミッションがありません。=Không có nhiệm vụ nào đang diễn ra.
+
+sr:"^(.+?) (ボスバトル|[a-zA-Z\-0-9]+)(（.+）)?クリアで解放$"=Mở khóa khi hoàn thành $1 $2$3
+
+sr:"^(.+?)(ボスバトル|[a-zA-Z\-0-9]+)(（.+）)?をクリアしよう$"=Hãy hoàn thành $1 $2$3
+
+sr:"^(.+?)のクエストを(\d+)回クリアしよう$"=Hãy hoàn thành nhiệm vụ của $1 $2 lần
+sr:"^(.+?) ([a-zA-Z\-0-9]+)をクリアしよう$"=Hãy hoàn thành $1 $2
+
+sr:"^(.+?)のクエストを(\d+)回スキップしよう$"=Hãy bỏ qua (quét nhanh) nhiệm vụ của $1 $2 lần
+
+sr:"^(.+?)のEX装備を(\d+)個以上装備して(.+?)のクエストをクリアしよう$"=Hãy hoàn thành nhiệm vụ của $3 trong khi trang bị từ $2 trang bị EX của $1 trở lên
+
+
+sr:"^(.+?) ボスバトル（(.+)）を(.)属性(\d)人編成でクリアしよう$"=Hãy hoàn thành Trận chiến Trùm $1 ($2) với đội hình gồm $4 nhân vật hệ $3
+sr:"^(.+?) ボスバトル（(.+)）を([0-9:]+)以上残してクリアしよう$"=Hãy hoàn thành Trận chiến Trùm $1 ($2) với thời gian còn lại từ $3 trở lên
+
+牡羊座=Bạch Dương
+牡牛座=Kim Ngưu
+双子座=Song Tử
+蟹座=Cự Giải
+獅子座=Sư Tử
+乙女座=Xử Nữ
+天秤座=Thiên Bình
+蠍座=Thiên Yết
+射手座=Nhân Mã
+山羊座=Ma Kết
+水瓶座=Bảo Bình
+魚座=Song Ngư
+
+
+4部メインクエスト 暴風のランドソル=Nhiệm vụ Chính tuyến Phần 4: Landosol Bão Táp
+
+
+初回消費なし=Miễn phí lần đầu
+オート進行が設定されています。=Chế độ Tự động tiến hành đã được bật.
+ゾディアックシリーズのEX装備を装着すると、\nドロップ率アップなどのエリアボーナスを獲得できます。\nまずはEX装備を身に着ける練習をしてみましょう。=Khi trang bị Trang bị EX thuộc dòng Zodiac, bạn có thể nhận được các phần thưởng khu vực (Area Bonus) như tăng tỷ lệ rơi vật phẩm.\nTrước tiên, hãy thử luyện tập cách trang bị Trang bị EX nhé.
+装備カテゴリが異なるゾディアックシリーズEX装備もセットできますが\nこの場合はエリアボーナスのみが発動し、\nスキルやサブステータスは発動いたしませんのでご注意くださいまし。=Bạn cũng có thể trang bị các Trang bị EX dòng Zodiac thuộc danh mục trang bị khác nhau, nhưng xin lưu ý rằng trong trường hợp này, chỉ có phần thưởng khu vực được kích hoạt, còn kỹ năng và chỉ số phụ sẽ không phát huy tác dụng.
+
+
+
+
+
+
+第4部 第1章 エンディング=Phần 4 Chương 1: Kết thúc

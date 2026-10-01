@@ -1,0 +1,25 @@
+
+人馬弓カウス・メディア《R》=Cung Nhân Mã Caus Media 《R》
+人馬弓カウス・メディア=Cung Nhân Mã Caus Media
+人馬衣アルカブ《R》=Áo Nhân Mã Alkaid 《R》
+人馬衣アルカブ=Áo Nhân Mã Alkaid
+人馬環アルナスル《R》=Nhẫn Nhân Mã Alnasl 《R》
+人馬環アルナスル=Nhẫn Nhân Mã Alnasl
+ステラミネーラ・リゲル=Stella Minera Rigel
+ステラミネーラ・カペラ=Stella Minera Capella
+まとめて\\n分解する=Phân rã\\nhàng loạt
+おまかせ\\n分解する=Phân rã\\ntự động
+超越錬醒=Thức tỉnh Siêu việt
+所持していません=Chưa sở hữu
+ゾディアックチケット=Vé Hoàng Đạo
+
+
+
+
+
+Item Craft
+選択可能な最大超越錬醒済みのEX装備がありません。=Không có trang bị EX nào đã đạt cấp Thức tỉnh Siêu việt tối đa có thể chọn.
+適正装備可能キャラ=Nhân vật có thể trang bị phù hợp
+錬成スキル=Kỹ năng tổng hợp (Chế tạo)
+◆超越錬醒1段階目で解放=◆Mở khóa ở Giai đoạn Thức tỉnh Siêu việt 1
+超越スキル=Kỹ năng Siêu việt

@@ -33,6 +33,7 @@ r:"^メインストーリー第(\d+)部のミッション報酬を全て受け�
 sr:"^(.+)を限界突破しよう$"=Giới Hạn $1
 r:"^メインストーリー第(\d+)部第(\d+)章をすべて閲覧しよう$"=Xem toàn bộ Phần $1, Chương $2 của cốt truyện chính
 
+r:"^第(\d+)部第(\d+)章$"=Phần $1 Chương $2
 
 r:"^深域クエストでいずれかの属性の(.+?)をクリアしよう$"=Hãy vượt qua tầng $1 của bất kỳ thuộc tính nào trong Nhiệm vụ Thâm Vực.
 煉獄のリベリオンをクリアしよう=Hãy chinh phục Luyện Ngục Rebellion.

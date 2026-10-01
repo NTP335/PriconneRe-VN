@@ -165,3 +165,6 @@ r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプ�
 
 
 
+
+バトル中物理防御力小アップ=Tăng nhẹ phòng thủ vật lý trong trận chiến.
+バトル開始後90秒間自分の物理防御力と魔法防御力を３％アップさせる。=Tăng 3% phòng thủ vật lý và phòng thủ phép thuật của bản thân trong 90 giây sau khi trận chiến bắt đầu.

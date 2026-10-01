@@ -7,7 +7,8 @@
 状況=Trạng thái
 共通=Phổ biến
 達成状況=Hoàn thành
-期限=Cuối ngày
+期限=EoD
+r:"^期限([0-9：:]+)$"=EoD$1
 獲得した報酬はありません=Không nhận được phần thưởng
 
 獲得したプレイヤー経験値はダンジョンコインに変換されました。=Kinh nghiệm người chơi đã nhận được đã được chuyển đổi\nthành Đồng Dungeon.

@@ -4,6 +4,11 @@
 オート進行設定中=Cài đặt Auto Tiến
 主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないイベントクエストで使用できます。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Chủ nhân, tính năng Auto Tiến hiện đã có thể sử dụng. Auto Tiến có thể dùng trong các event quest chưa được giải. Việc chinh phục quest sẽ thuận tiện hơn, hãy dùng ngay đi.
 
+4部メインストーリー解放時にオート進行を停止するか設定します。=Thiết lập có dừng tính năng tự động tiến hành khi mở khóa Cốt truyện chính Phần 4 hay không.
+4部メインストーリー解放時のオート進行停止設定=Cài đặt dừng tự động tiến hành khi mở khóa Cốt truyện chính Phần 4
+合計消費マナ=Tổng Mana tiêu hao
+
+
 停止する=Dừng
 停止しない=Không
 合計消費スタミナ=Tổng Thể Lực Đã Tiêu

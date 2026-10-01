@@ -2913,3 +2913,25 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 対象が毒状態：麻痺時間アップ=Nếu mục tiêu đang trong trạng thái trúng độc: Tăng thời gian tê liệt.
 前から敵１体に猛毒=Gây độc nặng cho 1 kẻ địch ở vị trí đầu tiên.
 周囲の敵全体に行動速度ダウン=Giảm tốc độ hành động của toàn bộ kẻ địch ở xung quanh.
+
+
+
+
+
+星獣姫・ルクバト=Star Beast Princess: Rukbat
+残りＨＰが最も低い敵１体に挑発=Khiêu khích 1 kẻ địch có HP còn lại thấp nhất.
+残りＨＰが最も低い敵１体に被クリダメアップ=Tăng sát thương chí mạng phải chịu cho 1 kẻ địch có HP còn lại thấp nhất.
+自身に物理回避=Cấp trạng thái né tránh vật lý cho bản thân.
+自身に魔法回避=Cấp trạng thái né tránh phép thuật cho bản thân.
+対象を倒した場合：自身に【キルストリーク】を20個追加=Nếu tiêu diệt được mục tiêu: Thêm 20 cộng dồn [Chuỗi hạ gục - Kill Streak] cho bản thân.
+ランダムな敵１体に物理ダメージ=Gây sát thương vật lý cho 1 kẻ địch bất kỳ.
+前から敵１体に与えたダメージが高いほど：ダメージアップ=Sát thương càng lớn khi lượng sát thương gây ra cho kẻ địch ở phía trước càng cao.
+敵全体に魔法クリティカルダメージ=Gây sát thương chí mạng phép thuật cho toàn bộ kẻ địch.
+前から敵１体に魔法クリティカルダメージ=Gây sát thương chí mạng phép thuật cho kẻ địch ở phía trước.
+自身の【キルストリーク】を１個減少=Giảm 1 cộng dồn [Chuỗi hạ gục - Kill Streak] của bản thân.
+【クリティカルダメージを受けた時発動】=[Kích hoạt khi nhận sát thương chí mạng]
+自身に【キルストリーク】を10個追加=Thêm 10 cộng dồn [Chuỗi hạ gục - Kill Streak] cho bản thân.
+【クリティカルダメージを与えた時発動】=[Kích hoạt khi gây ra sát thương chí mạng]
+【キルストリーク】の数が多いほど：自身の物理／魔法クリダメアップ=Số lượng cộng dồn [Chuỗi hạ gục - Kill Streak] càng nhiều: Sát thương chí mạng vật lý / phép thuật của bản thân càng tăng.
+物理攻撃をする敵と魔法攻撃をする敵の数に応じて行動パターン変化=Thay đổi chuỗi hành động tùy theo số lượng kẻ địch sử dụng đòn đánh vật lý và đòn đánh phép thuật.
+外宇宙から襲来せし、射手座の星獣姫。神出鬼没な動きで死角を消し去り、終焉を告げる銃声が響くとき獲物は既に死を刻まれている。=Nữ tinh thú cung Nhân Mã xâm lược từ không gian ngoài vũ trụ. Với những chuyển động biến ảo khôn lường xóa sổ mọi góc khuất, khi tiếng súng báo hiệu hồi kết vang lên, con mồi của cô ấy đã sớm bị khắc ghi cái chết.
