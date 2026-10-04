@@ -11,10 +11,17 @@
 おまかせ\\n分解する=Phân rã\\ntự động
 超越錬醒=Thức tỉnh Siêu việt
 所持していません=Chưa sở hữu
-ゾディアックチケット=Vé Hoàng Đạo
+ゾディアックチケット=Vé Zodiac
 
 
 
+以下の素材を消費して、EX装備を超越錬醒します。=Tiêu hao các nguyên liệu sau để tiến hành Thức tỉnh Siêu việt cho trang bị EX.
+使用装備の選択数が不足しています。=Số lượng trang bị được chọn để sử dụng chưa đủ.
+EX装備 超越錬醒確認=Xác nhận Thức tỉnh Siêu việt Trang bị EX
+EX装備 超越錬醒2段階目=Thức tỉnh Siêu việt Trang bị EX - Giai đoạn 2
+EX装備 超越錬醒3段階目=Thức tỉnh Siêu việt Trang bị EX - Giai đoạn 3
+EX装備 超越錬醒4段階目=Thức tỉnh Siêu việt Trang bị EX - Giai đoạn 4
+EX装備 超越錬醒5段階目=Thức tỉnh Siêu việt Trang bị EX - Giai đoạn 5
 
 
 Item Craft

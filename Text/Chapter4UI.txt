@@ -1,6 +1,6 @@
 
 r:"^在庫数:([0-9∞]+)$"=Hàng tồn kho: $1
-
+r:"^暴風のランドソル([0-9\-\(\)A-Za-z （）]*?)$"=Landosol Bão Táp $1
 
 NPC
 4部メインクエストをクリアすると、\n報酬としてEX装備作成や錬成に必要なアイテムを獲得できますよ。\nEX装備を集めてキャラを強化いたしましょう。=Khi hoàn thành các Nhiệm vụ Chính tuyến Phần 4, bạn có thể nhận được các vật phẩm cần thiết để chế tạo và luyện hóa Trang bị EX làm phần thưởng. Hãy thu thập Trang bị EX để cường hóa các nhân vật của bạn.
@@ -95,3 +95,77 @@ sr:"^(.+?) ボスバトル（(.+)）を([0-9:]+)以上残してクリアしよ�
 
 
 第4部 第1章 エンディング=Phần 4 Chương 1: Kết thúc
+クリア数=Số lần hoàn thành
+オート進行を停止しますか？=Bạn có muốn dừng tính năng tự động tiến hành không?
+4部メインクエストのボスバトルを10回クリアしよう=Hoàn thành Trận chiến Trùm Nhiệm vụ chính Phần 4 10 lần
+4部メインクエストのボスバトルを20回クリアしよう=Hoàn thành Trận chiến Trùm Nhiệm vụ chính Phần 4 20 lần
+暴風のランドソル H-3=Landosol Bão Táp H-3
+射手座のEX装備を15個装備して暴風のランドソルのクエストをクリアしよう=Trang bị 15 trang bị EX cung Nhân Mã và hoàn thành nhiệm vụ Landosol Bão Táp
+4部クエスト=Nhiệm vụ Phần 4
+メイン(4部含む)・イベント・サイドいずれか=Bất kỳ nhiệm vụ Chính (bao gồm Phần 4), Sự kiện hoặc Phụ tuyến nào
+メインストーリー第4部 第1章 エンディングを閲覧しよう=Xem đoạn kết của Cốt truyện chính Phần 4 Chương 1
+この装備の超越錬醒は今後登場予定です。=Tính năng Thức tỉnh Siêu việt cho trang bị này sẽ ra mắt trong thời gian tới.
+超越錬醒1段階目で解放されます。=Được mở khóa ở Giai đoạn Thức tỉnh Siêu việt 1.
+さらに超越錬醒=Thức tỉnh Siêu việt tiếp
+超越錬醒する=Thức tỉnh Siêu việt
+EX装備 超越錬醒=Thức tỉnh Siêu việt Trang bị EX
+超越錬醒{0}段階目で解放されます。=Được mở khóa ở Giai đoạn Thức tỉnh Siêu việt {0}.
+消費素材=Nguyên liệu tiêu hao
+選択されていません。=Chưa được chọn.
+錬醒済み=Đã luyện thức tỉnh
+素材選択中=Đang chọn nguyên liệu
+アイテムとマナが不足しています。=Không đủ vật phẩm và Mana.
+闇属性スキルダメアップⅠ=Tăng sát thương kỹ năng thuộc tính Bóng tối I
+使用する素材を選択=Chọn nguyên liệu sử dụng
+同じ装備を使用=Sử dụng trang bị giống nhau
+EX★５装備に『超越錬醒』が解放されました。\n超越錬醒を進めるとステータスアップや超越スキルの獲得ができます。\nEX★５装備やアイテムを集めて、パワーアップしてまいりましょう。=Tính năng 'Thức tỉnh Siêu việt' đã được mở khóa cho trang bị EX★5.\nKhi tiến hành Thức tỉnh Siêu việt, bạn có thể tăng chỉ số và nhận các kỹ năng Siêu việt.\nHãy thu thập trang bị EX★5 và vật phẩm để gia tăng sức mạnh nhé.
+EX装備 超越錬醒1段階目=Thức tỉnh Siêu việt Trang bị EX - Giai đoạn 1
+EX装備 超越錬醒 使用装備選択=Thức tỉnh Siêu việt Trang bị EX: Chọn trang bị sử dụng
+特別な強化がされている装備が選択されています。=Trang bị có cường hóa đặc biệt đang được chọn.
+火属性スキルダメアップⅠ=Tăng sát thương kỹ năng thuộc tính Lửa I
+消費素材に特別な強化がされている装備が含まれています。=Nguyên liệu tiêu hao có chứa trang bị đã được cường hóa đặc biệt.
+前の段階の使用素材が確定されていません。=Nguyên liệu sử dụng của giai đoạn trước vẫn chưa được xác nhận.
+装備者が火属性の場合、バトル開始後90秒間自分\nの物理クリティカルと物理攻撃クリティカル時の\nダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Lửa, tăng 10% Tỷ lệ chí mạng vật lý và Sát thương chí mạng vật lý của bản thân trong 90 giây sau khi bắt đầu trận đấu.
+一部のEX装備を超越錬醒する際に必要\nな、外宇宙からもたらされし黄色の鋳\n塊。=Thỏi kim loại màu đến từ ngoài vũ trụ, cần thiết khi tiến hành Thức tỉnh Siêu việt cho một số trang bị EX.
+ステラインゴット・カペラ=Stella Ingot Capella
+彼方より来訪せし射手座の星獣姫の力を\n宿した結晶塊。根源を等しくする武具の\n鍛錬に用いることで、秘められた星海の\n力を解き放つ。=Khối tinh thể mang trong mình sức mạnh của Nữ tinh thú cung Nhân Mã ghé thăm từ phương xa. Dùng để rèn luyện các trang vũ khí có cùng cội nguồn nhằm giải phóng sức mạnh biển sao ẩn giấu bên trong.
+射手座の星彩塊=Khối Ánh Sao Cung Nhân Mã
+一部のEX装備を超越錬醒する際に必要\nな、外宇宙からもたらされし赤色の鋳\n塊。=Thỏi kim loại đỏ đến từ ngoài vũ trụ, cần thiết khi tiến hành Thức tỉnh Siêu việt cho một số trang bị EX.
+ステラインゴット・アレス=Stella Ingot Ares
+一部のEX装備を超越錬醒する際に必要\nな、外宇宙からもたらされし青色の鋳\n塊。=Thỏi kim loại xanh dương đến từ ngoài vũ trụ, cần thiết khi tiến hành Thức tỉnh Siêu việt cho một số trang bị EX.
+ステラインゴット・リゲル=Stella Ingot Rigel
+上記以外のアイテムも出現する場合があります。=Các vật phẩm khác ngoài danh sách trên cũng có thể xuất hiện.
+以下のアイテムを入手できます。=Bạn có thể nhận được các vật phẩm sau.
+属性なし=Không có thuộc tính
+使用する素材を選択してください。=Vui lòng chọn nguyên liệu sử dụng.
+使用するチケットの枚数を選択して下さい。=Vui lòng chọn số lượng vé sử dụng.
+エリアボーナス=Thưởng khu vực
+超越錬醒回数=Số lần Thức tỉnh Siêu việt
+超越スキルあり=Có kỹ năng Siêu việt
+
+スキップチケットを消費してクエストを\n実行します。よろしいですか？=Tiêu hao Vé Bỏ qua để\nthực hiện nhiệm vụ. Bạn có chắc chắn muốn tiếp tục không?
+メイン(4部含む)・イベントクエストを10回クリアしよう=Hoàn thành nhiệm vụ Chính (bao gồm Phần 4) hoặc Sự kiện 10 lần
+メイン(4部含む)・イベントクエストを20回クリアしよう=Hoàn thành nhiệm vụ Chính (bao gồm Phần 4) hoặc Sự kiện 20 lần
+ゾディアックチケットを消費して、以下のクエストを実行します。よろしいですか？=Tiêu hao Vé Zodiac để thực hiện các nhiệm vụ sau. Bạn có chắc chắn muốn tiếp tục không?
+チケット不足のため実行できないクエストがあります。=Có một số nhiệm vụ không thể thực hiện do không đủ vé.
+ゾディアックチケット確認=Xác nhận Vé Zodiac
+ゾディアックチケットを消費してクエストを\n実行します。よろしいですか？=Tiêu hao Vé Zodiac để\nthực hiện nhiệm vụ. Bạn có chắc chắn muốn tiếp tục không?
+メイン・4部メイン・イベント・サイドのクエストを合計10回クリアしよう=Hoàn thành tổng cộng 10 nhiệm vụ Chính, Chính Phần 4, Sự kiện hoặc Phụ tuyến
+メイン・4部メイン・イベント・サイドのクエストを合計20回クリアしよう=Hoàn thành tổng cộng 20 nhiệm vụ Chính, Chính Phần 4, Sự kiện hoặc Phụ tuyến
+メイン・4部メイン・イベント・サイドのH・VHを合計3回クリアしよう=Hoàn thành tổng cộng 3 nhiệm vụ Hard/Very Hard Chính, Chính Phần 4, Sự kiện hoặc Phụ tuyến
+
+
+
+ゾディアックチケット詳細=Chi tiết Vé Zodiac
+r:"^あと(\d+)時間(\d+)分後に\n?ゾディアックチケットを(\d+)枚獲得$"=Nhận $3 Vé Zodiac sau $1 giờ $2 phút.
+r:"^あと(\d+)分後に\n?ゾディアックチケットを(\d+)枚獲得$"=Nhận $2 Vé Zodiac sau $1 phút.
+ゾディアックチケットは所持上限を超えて付与されません。=Vé Zodiac vượt quá giới hạn sở hữu sẽ không được cấp thêm.
+シナツの極うな重　韋駄天仕上げ=Cơm lươn thượng hạng của Shinatsu - Phiên bản Idaten
+胃に入れば何でも同じ、が信条のシナツが自分で\n釣った鰻で拵えたうな重。レイの協力のもと練習\nを重ね、見た目も味も合格点に到達した。一番\n苦労したのは調理場を破壊しない力加減だとか。=Món cơm lươn do tự tay Shinatsu chế biến từ con lươn mà cô tự câu được. Với phương châm "vào dạ dày thì cái gì cũng như nhau", sau khi luyện tập cùng sự trợ giúp của Rei, cả hình thức lẫn hương vị đều đạt điểm đạt. Nghe nói phần khó khăn nhất là điều chỉnh lực sao cho không làm phá hủy nhà bếp.
+スキップの実行、またはダイスか料理を\n使用する前であれば画面右上より再度開けます。=Bạn có thể mở lại từ góc trên bên phải màn hình trước khi thực hiện bỏ qua, hoặc sử dụng xúc xắc hay món ăn.
+
+
+
+第4部開幕記念=Kỷ niệm Khai mạc Phần 4
+敵全体に物理／魔法攻撃力ダウン（飛行効果無視・必中）=Giảm Tấn công Vật lý/Phép thuật của tất cả kẻ địch (Bỏ qua hiệu ứng Bay; Đảm bảo trúng đích)
+敵全体に物理割合ダメージ（飛行効果無視・ＴＰ回復不可）=Gây sát thương vật lý theo tỷ lệ phần trăm lên tất cả kẻ địch (Bỏ qua hiệu ứng Bay; Không thể hồi TP)
