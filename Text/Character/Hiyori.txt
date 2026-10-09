@@ -57,6 +57,9 @@ r:"^自分の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメー
 
 r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ攻撃する度にダメージ1500増加敵の数が２キャラ以上の場合、以下の効果が発動する自分の行動速度200％アップ自分のＴＰを1000回復$"=Thời gian triển khai: 1.125s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý lên các kẻ địch trong phạm vi.\n►Sát thương tăng thêm 1500 sau mỗi lần tấn công.\n\nNếu số lượng kẻ địch từ 2 trở lên:\n►Tăng 200％ tốc độ hành động của bản thân.\n►Hồi 1000 TP cho bản thân.
 
+##Shadow
+目の前の敵１キャラに物理大ダメージを与え、前方範囲内の敵に物理小ダメージを与える。=Gây sát thương vật lý lớn lên 1 kẻ địch ở ngay trước mặt, đồng thời gây sát thương vật lý nhỏ lên các kẻ địch trong phạm vi phía trước.
+
 
 ##Comments##
 みんなが笑顔でいられるように！\nヒヨリ、頑張りまーっす！　いぇい！=Để mọi người có thể cười!\nHiyori sẽ cố gắng hết sức! Yay!

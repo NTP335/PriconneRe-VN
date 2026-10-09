@@ -1,0 +1,34 @@
+##Profile##
+【魔法】中衛で、まばゆい弾丸の雨を降らす銃装の妖精。一定回数ダメージを与えるたび割合ダメージを発生させ、【ペタロ】で敵からの攻撃をひらりと躱し、無効化する。=[Phép] Tiên trang bị súng ở vị trí trung phong, trút cơn mưa đạn lấp lánh xuống kẻ địch. Gây sát thương theo tỷ lệ mỗi khi gây sát thương đủ số lần nhất định, đồng thời dùng [Petalo] để uyển chuyển né tránh và vô hiệu hóa các đòn tấn công từ kẻ địch.
+
+
+?月?日/??歳=? Tháng ? Ngày / ?? Tuổi
+懐かしい温もりを掴んで=Nắm bắt lấy hơi ấm quen thuộc
+‘妖精をパートナーにして’='Chọn tiên nữ làm bạn đồng hành'
+絆のフラグムービー=Đoạn phim gắn kết
+心の照準を重ねて=Hướng về cùng một nhịp
+
+
+##UB## 
+フィオレ・ティラトーレ=Fiore Tiratore
+敵全体に魔法特大ダメージを２回与え、魔法防御力を小ダウン、受けるクリティカルダメージを小アップさせる。【ファータ・ポルヴェレ】が30個以上の場合、ダメージが増加する。【ファータ・ポルヴェレ】が最大の場合、【ファータ・ポルヴェレ】を30個消費し、さらにダメージとヒット数が増加する。対象の敵の数に応じて、ダメージが減少する。=Gây sát thương phép cực lớn 2 lần lên toàn bộ kẻ địch, giảm nhẹ phòng thủ phép và tăng nhẹ sát thương chí mạng phải nhận. Nếu có từ 30 [Fata Polvere] trở lên, sát thương sẽ tăng lên. Nếu [Fata Polvere] đạt tối đa, tiêu hao 30 [Fata Polvere] để tiếp tục tăng sát thương và số lần tấn công. Sát thương sẽ giảm dần tùy theo số lượng mục tiêu địch.
+r:"^敵全体に(\d+)の魔法ダメージを２回与える敵全体の魔法防御力を(\d+)ダウン敵全体の被クリダメを8％アップファータ・ポルヴェレが最大の場合、ファータ・ポルヴェレを30個消費する$"=►Gây $1 sát thương phép 2 lần lên toàn bộ kẻ địch.\n►Giảm phòng thủ phép của toàn bộ kẻ địch đi $2.\n►Tăng 8% sát thương chí mạng phải nhận của toàn bộ kẻ địch.\n►Nếu [Fata Polvere] đạt tối đa, tiêu hao 30 [Fata Polvere].
+
+##S1## 
+ルーチェ・アッサルト=Luce Assalto 
+敵全体に魔法特大ダメージを２回与え、物理・魔法攻撃力を特大ダウン、魔法防御力を小ダウンさせる。【ファータ・ポルヴェレ】が30個以上の場合、ダメージが増加する。対象の敵の数に応じて、ダメージが減少する。=Gây sát thương phép cực lớn 2 lần lên toàn bộ kẻ địch, giảm cực lớn tấn công vật lý và phép, đồng thời giảm nhẹ phòng thủ phép của toàn bộ kẻ địch. Nếu có từ 30 [Fata Polvere] trở lên, sát thương sẽ tăng lên. Sát thương sẽ giảm dần tùy theo số lượng mục tiêu địch.
+r:"^敵全体に(\d+)の魔法ダメージを２回与える敵全体の物理・魔法攻撃力を(\d+)ダウン敵全体の魔法防御力を(\d+)ダウン$"=Thời gian niệm: 1.05s.\n►Gây $1 sát thương phép 2 lần lên toàn bộ kẻ địch.\n►Giảm tấn công vật lý và phép của toàn bộ kẻ địch đi $2 trong 12s.\n►Giảm phòng thủ phép của toàn bộ kẻ địch đi $3 trong 12s.
+
+##S2##
+バッテリーア=Batteria 
+自分の魔法攻撃力と魔法クリティカルを特大アップ、魔法クリティカルダメージを小アップし、ＴＰを中回復する。初回発動時、自分がステータスアップ効果を受けるたびに、【ファータ・ポルヴェレ】（上限60）が１個付与される状態と、自分が10回ダメージを与えるたびに、近い敵５キャラに最大ＨＰに応じて最大20万の魔法割合ダメージを与える状態になる。=Tăng cực lớn Tấn công phép và Tỉ lệ chí mạng phép của bản thân, tăng nhẹ Sát thương chí mạng phép, đồng thời hồi lượng vừa TP. Trong lần kích hoạt đầu tiên, bước vào trạng thái tự động nhận 1 [Fata Polvere] (tối đa 60) mỗi khi nhận được hiệu ứng tăng chỉ số, đồng thời kích hoạt trạng thái gây sát thương chuẩn phép dựa theo HP tối đa (lên tới tối đa 200.000 sát thương) lên 5 kẻ địch ở gần nhất cứ mỗi khi bản thân gây sát thương đủ 10 lần.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを160アップ自分の魔法クリダメを8％アップ自分のＴＰを200回復初回発動時、以下の効果が発動するステータスアップ効果を受けるたびに自分にファータ・ポルヴェレを付与する状態になる10回ダメージを与えるたびに、敵５体に最大20万の魔法割合ダメージを与える状態になる$"=Thời gian niệm: 1.05s.\n►Tăng tấn công phép của bản thân thêm $1 trong 18s.\n►Tăng tỉ lệ chí mạng phép của bản thân thêm 160 trong 18s.\n►Tăng sát thương chí mạng phép của bản thân thêm 8% trong 18s.\n►Hồi 200 TP cho bản thân.\n\nTrong lần sử dụng đầu tiên:\n►Vào trạng thái nhận [Fata Polvere] cho bản thân mỗi khi nhận được hiệu ứng tăng chỉ số.\n►Vào trạng thái cứ mỗi khi gây sát thương đủ 10 lần, sẽ gây sát thương phép theo tỷ lệ HP lên 5 kẻ địch, tối đa lên tới 200.000 sát thương.
+
+##EX## 
+ミーラ・ファタータ=Mirra Fatata
+ミーラ・ファタータ+=Mirra Fatata+
+
+##SP1## 
+ドゥーエ・スクード=Due Scudo 
+敵から攻撃を受けた時に発動し、自分に【ペタロ】（上限２）を２個付与する。【ペタロ】付与中に１回ダメージを受けると【ペタロ】を１個消費してダメージを無効化する。このスキルは発動後一定時間発動しない。=Kích hoạt khi bị kẻ địch tấn công, cấp 2 [Petalo] (tối đa 2) cho bản thân. Khi đang có [Petalo], nếu nhận sát thương 1 lần sẽ tiêu hao 1 [Petalo] để vô hiệu hóa đòn sát thương đó. Kỹ năng này sẽ không thể kích hoạt lại trong một khoảng thời gian nhất định sau khi sử dụng.
+攻撃を受けた時、自分にペタロを２個付与する=►Khi bị tấn công, cấp 2 [Petalo] cho bản thân.

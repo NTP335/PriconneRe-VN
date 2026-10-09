@@ -38,3 +38,7 @@ r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の�
 自分の魔法攻撃力を大アップする。最も物理攻撃力が高い味方を中心とした範囲内の味方の物理攻撃力を特大アップ、物理クリティカルダメージを小アップさせ、物理無効バリアと魔法無効バリアを展開し、ＴＰを中回復させる。範囲内の味方の数に応じて、物理攻撃力と物理クリティカルダメージのアップ量とバリアの無効ダメージ量が最大４倍まで増加する。=Tăng lớn lực tấn công phép thuật của bản thân. Tăng cực lớn lực tấn công vật lý, tăng nhẹ sát thương chí mạng vật lý, triển khai lá chắn vô hiệu hóa sát thương vật lý và phép thuật, đồng thời hồi phục lượng trung bình TP cho các đồng minh trong phạm vi xoay quanh đồng minh có lực tấn công vật lý cao nhất. Mức tăng lực tấn công vật lý, sát thương chí mạng vật lý và lượng sát thương bị vô hiệu hóa của lá chắn sẽ tăng lên tối đa gấp 4 lần tùy thuộc vào số lượng đồng minh có trong phạm vi.
 
 r:"^自分の魔法攻撃力を(\d+)アップ範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリダメを6％アップ(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の魔法無効バリアを展開する範囲内の味方のＴＰを160回復$"=Thời gian triển khai: 0.5s.\n►Tăng $1 M.ATK của bản thân trong 18s.\n►Tăng $2 P.ATK cho đồng minh trong phạm vi 50 trong 18s.\n►Tăng 6% sát thương bạo kích vật lý cho đồng minh trong phạm vi 50 trong 18s.\n►Triển khai rào chắn vật lý hấp thụ $3 sát thương vật lý cho đồng minh trong phạm vi 50 trong 18s.\n►Triển khai rào chắn phép thuật hấp thụ $4 sát thương phép thuật cho đồng minh trong phạm vi 50 trong 18s.\n►Hồi 160 TP cho đồng minh trong phạm vi 50.
+
+
+##Shadow
+最も物理攻撃力が高い味方を中心とした範囲内の味方のＴＰを小回復させる。=Hồi một lượng nhỏ TP cho các đồng minh trong phạm vi xung quanh đồng minh có Tấn công vật lý cao nhất.

@@ -14,8 +14,11 @@ r:"^あと (\d+)$"=còn $1
 [3C404E]残り挑戦回数が0になりました。\n回復しますか?[-]=[3C404E]Số lần thử còn lại đã về 0.\nKhôi phục?
 ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復します。\nよろしいですか？=Tiêu hao Ngọc và khôi phục số lần thử còn lại của các nhiệm vụ sau.\nĐồng ý?
 r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設定をリセットし、撃破数を1体に戻しますか？\[-\]$"=[3C404E]Số vé bỏ qua cần dùng\nhiện đang đặt là $1.\nĐặt lại số này thành 1? [-]
-r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定されています。\n設定をリセットし、消費枚数を1枚に戻しますか？$"=Số vé bỏ qua cần dùng\nhiện đang đặt là $1.\nĐặt lại số này thành 1?
+r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定されています。\n設定をリセットし、消費枚数を(\d+)枚に戻しますか？$"=Số lượng vé bỏ qua hiện đang được\nđặt là $1 vé.\nBạn có muốn đặt lại cài đặt và đưa số lượng vé tiêu thụ về mức $2 vé không?
+
+0枚に戻す=Đặt lại thành 0
 1枚に戻す=Đặt lại thành 1
+0体に戻す=Đặt lại thành 0
 1体に戻す=Đặt lại thành 1
 スキップチケット枚数リセット確認=Đặt lại số vé bỏ qua
 下記のアイテムを装備します。よろしいですか？=Trang bị các vật phẩm sau. Đồng ý?

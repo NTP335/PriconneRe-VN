@@ -116,7 +116,11 @@ r:"^(\d+)回\[-\]\[3C404E\]錬成を行いました。$"=Đã thực hiện [FFB
 
 錬成結果を破棄して再錬成します。=Hủy kết quả luyện chế hiện tại và tiến hành luyện chế lại.
 前回の錬成結果=Kết quả luyện chế trước
-r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]錬成します。前回の錬成結果を破棄してから再錬成します。$"=Tiêu hao các vật phẩm sau để thực hiện tối đa [FFBB00,CE4F00]$1[-] lần luyện chế.\nKết quả luyện chế trước sẽ bị hủy trước khi tiến hành luyện chế lại.
+r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]錬成します。前回の錬成結果を破棄してから再錬成します。$"=Tiêu thụ các vật phẩm sau để luyện kim tối đa [FFBB00,CE4F00]$1[-] $1[-] lần.\nKết quả luyện kim trước đó sẽ bị hủy bỏ trước khi tiến hành luyện kim lại.
+
+r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]錬成します。前回の錬成結果を確定してから再錬成します。$"=Tiêu thụ các vật phẩm sau để luyện kim tối đa [FFBB00,CE4F00]$1[-] lần.\nVui lòng xác nhận kết quả luyện kim trước đó trước khi tiến hành luyện kim lại.
+
+
 カスタム再錬成確認=Xác nhận luyện chế lại tùy chỉnh
 条件を満たすサブステータスが抽選されました。=Đã nhận được chỉ số phụ đáp ứng các điều kiện đã chỉ định.
 
@@ -125,3 +129,17 @@ r:"^以下のアイテムを消費して、最大\[FFBB00\,CE4F00\](\d+)回\[-\]
 
 以下のアイテムを消費して再錬成します。前回の錬成結果を破棄してから再錬成します。=Tiêu thụ các vật phẩm sau để luyện chế lại. Kết quả luyện chế trước đó sẽ bị hủy bỏ trước khi tiến hành luyện chế lại.
 EX装備再錬成確認=Xác nhận luyện chế lại trang bị EX
+
+
+
+
+この装備はこれ以上超越錬醒できません。=Trang bị này không thể Thức tỉnh Siêu việt (Transcendent Awakening) thêm được nữa.
+素材に使用するEX装備を選択してください。=Vui lòng chọn trang bị EX dùng làm nguyên liệu.
+素材に使用するEX装備のサブステータスは継承されません。=Chỉ số phụ của trang bị EX dùng làm nguyên liệu sẽ không được kế thừa.
+EX装備選択=Chọn trang bị EX
+在庫がありません。=Đã hết hàng.
+ミニゲームをリタイアしました。=Đã thoát khỏi minigame.
+EX装備変更確認=Xác nhận thay đổi trang bị EX
+他のキャラが装備中のEX装備があります。\n外してマイパーティを呼び出します。\nよろしいですか？=Có trang bị EX đang được trang bị bởi nhân vật khác.\nTrang bị đó sẽ được tháo ra và đội hình của tôi sẽ được tải lại.\nBạn có chắc chắn muốn tiếp tục không?
+EX装備には、『強化』や『上限解放』できるものがございます。\nEX装備を強化すると、ステータスがアップします。\nEX装備の強化と上限解放で、強敵との戦いに備えましょう。=Có một số trang bị EX có thể được "Cường hóa" hoặc "Giải phóng giới hạn".\nCường hóa trang bị EX sẽ giúp tăng các chỉ số.\nHãy cường hóa và giải phóng giới hạn trang bị EX để sẵn sàng chiến đấu với những kẻ địch mạnh nhé.
+すみません、わたくしの\n手料理は売り切れなのです\nグレイスが、買い占めを…=Thành thật xin lỗi, nhưng các món ăn tự nấu\ncủa tôi đã bán hết sạch rồi.\nLà do Grace đã mua sạch hết tất cả rồi đó...

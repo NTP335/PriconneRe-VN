@@ -6,7 +6,8 @@
 
 ##UB##
 ちぇるちぇる☆じぇのさい=Cheru-Cheru★Carnage
-目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力と物理クリティカルを大アップさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước. Tăng lớn lực công kích vật lý và tỷ lệ chí mạng vật lý của bản thân.
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力と物理クリティカルを大アップする。=Gây sát thương vật lý lớn lên 1 kẻ địch ở ngay trước mặt, đồng thời tăng lớn Tấn công vật lý và Tỉ lệ chí mạng vật lý của bản thân.
+
 r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Tăng lực công kích vật lý của bản thân lên $2.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $3.
 
 ##S1##
@@ -16,7 +17,8 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカル�
 
 ##S2##
 きゃすと☆あ☆ちぇるーん=Mega★Cheru~n
-目の前の敵１キャラに物理小ダメージを与えて物理攻撃力を大ダウンさせ、さらに自分の物理攻撃力と物理クリティカルを小アップさせる。物理攻撃力と物理クリティカルの上昇量は【ちぇる】の数に応じて増加する。=Gây sát thương vật lý nhỏ lên kẻ địch phía trước và giảm lớn lực công kích vật lý của chúng. Tăng nhỏ lực công kích vật lý và tỷ lệ chí mạng vật lý của bản thân. Hiệu ứng tăng chỉ số này sẽ tăng thêm dựa trên số hiệu ứng Cheru bản thân đang có.
+目の前の敵１キャラに物理小ダメージを与え、物理攻撃力を大ダウンさせ、自分の物理攻撃力と物理クリティカルを小アップさせる。【ちぇる】の数に応じて、物理攻撃力と物理クリティカルのアップ量が増加する。=Gây sát thương vật lý nhỏ lên 1 kẻ địch ở ngay trước mặt, giảm lớn Tấn công vật lý của mục tiêu, đồng thời tăng nhẹ Tấn công vật lý và Tỉ lệ chí mạng vật lý của bản thân. Lượng tăng Tấn công vật lý và Tỉ lệ chí mạng vật lý sẽ tăng lên tùy theo số lượng stack [Cheru].
+
 r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Giảm lực công kích vật lý của kẻ địch lên $2 trong 12s.\n►Tăng lực công kích vật lý của bản thân lên $3 (+148×[Cheru]) trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $4 (+7×[Cheru]) trong 12s.
 
 ##EX##
@@ -25,8 +27,9 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダ
 
 ##S1+##
 ちぇるうぃ☆だんす？+=Chell★We★Dance?+
-自分の物理攻撃力と行動速度を特大アップ、物理クリティカルを大アップさせ、敵にクリティカルでダメージを与えるたびに【ちぇる】ステータスが１つ追加される。さらに【ちぇる】を30追加する。【ちぇる】は最大77まで追加される。=Tăng cực lớn lực công kích vật lý, tỷ lệ chí mạng vật lý và tốc độ hành động của bản thân. Mỗi lần đánh trúng chí mạng vào kẻ địch, bản thân nhận 1 hiệu ứng "Cheru". Tối đa có thể áp dụng 77 hiệu ứng Cheru cùng lúc. Ngay lập tức áp dụng 30 hiệu ứng "Cheru".
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の行動速度アップちぇるを30追加クリティカルでダメージを与えるたびにちぇるを付与する状態になる$"=►Tăng lực công kích vật lý của bản thân lên $1 trong 180s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 180s.\n►Tăng tốc độ hành động của bản thân lên 225% trong 180s.\n►Áp dụng 30 [Cheru] cho bản thân.
+自分の物理攻撃力と行動速度を特大アップ、物理クリティカルを大アップし、自分が敵にクリティカルダメージを与えるたびに、自分に【ちぇる】（上限77）が１個付与される状態になる。自分に【ちぇる】を30個付与する。=Tăng cực lớn Tấn công vật lý và Tốc độ hành động của bản thân, tăng lớn Tỉ lệ chí mạng vật lý, đồng thời bước vào trạng thái tự động nhận 1 stack [Cheru] (tối đa 77) mỗi khi gây sát thương chí mạng lên kẻ địch. Cấp cho bản thân 30 stack [Cheru].
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを150アップ自分の行動速度125％アップちぇるを30追加クリティカルでダメージを与えるたびにちぇるを付与する状態になる$"=►Tăng tấn công vật lý của bản thân thêm $1.\n►Tăng tỉ lệ chí mạng vật lý của bản thân thêm 150.\n►Tăng tốc độ hành động của bản thân lên 125%.\n►Thêm 30 [Cheru].\n►Vào trạng thái nhận [Cheru] mỗi khi gây sát thương chí mạng.
+
 
 ##UE##
 ももいろ☆ぺんら☆なっくる=Momoiro★Penra★Nakkuru

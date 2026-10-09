@@ -104,6 +104,15 @@ sr:"^(.+?) ボスバトル（(.+)）を([0-9:]+)以上残してクリアしよ�
 4部クエスト=Nhiệm vụ Phần 4
 メイン(4部含む)・イベント・サイドいずれか=Bất kỳ nhiệm vụ Chính (bao gồm Phần 4), Sự kiện hoặc Phụ tuyến nào
 メインストーリー第4部 第1章 エンディングを閲覧しよう=Xem đoạn kết của Cốt truyện chính Phần 4 Chương 1
+
+同じ装備・アイテムを使用=Sử dụng trang bị / vật phẩm giống nhau
+バトル中クリダメアップⅠ=Tăng sát thương chí mạng I trong trận chiến
+超越錬醒素材の入手場所を確認できます。=Bạn có thể kiểm tra vị trí thu thập nguyên liệu Thức tỉnh Siêu việt (Transcendent Awakening).
+超越錬醒素材入手方法=Cách nhận nguyên liệu Thức tỉnh Siêu việt
+暴風のランドソル ボスバトル=Trận chiến trùm Landosol Bão Táp
+
+
+
 この装備の超越錬醒は今後登場予定です。=Tính năng Thức tỉnh Siêu việt cho trang bị này sẽ ra mắt trong thời gian tới.
 超越錬醒1段階目で解放されます。=Được mở khóa ở Giai đoạn Thức tỉnh Siêu việt 1.
 さらに超越錬醒=Thức tỉnh Siêu việt tiếp
@@ -154,6 +163,11 @@ EX装備 超越錬醒 使用装備選択=Thức tỉnh Siêu việt Trang bị E
 メイン・4部メイン・イベント・サイドのクエストを合計20回クリアしよう=Hoàn thành tổng cộng 20 nhiệm vụ Chính, Chính Phần 4, Sự kiện hoặc Phụ tuyến
 メイン・4部メイン・イベント・サイドのH・VHを合計3回クリアしよう=Hoàn thành tổng cộng 3 nhiệm vụ Hard/Very Hard Chính, Chính Phần 4, Sự kiện hoặc Phụ tuyến
 
+ブースト発動中=Đang kích hoạt Boost
+危険なクエスト=Nhiệm vụ nguy hiểm
+クエストガイド=Hướng dẫn nhiệm vụ
+
+ゾディアックチケットを所持していません。=Bạn không có Vé Zodiac nào.
 
 
 ゾディアックチケット詳細=Chi tiết Vé Zodiac

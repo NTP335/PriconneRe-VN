@@ -30,7 +30,7 @@ r:"^味方単体のＨＰを(\d+)回復$"=►Hồi HP của một đồng minh $
 
 ##S2##
 アーマーブレイク=Kẻ Phá Giáp
-目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý (P.DMG) nhỏ lên kẻ địch đứng ngay trước mặt và giảm phòng thủ vật lý (P.DEF) của chúng một chút.
+目の前の敵１キャラに物理小ダメージを与え、物理防御力を小ダウンさせる。=Gây sát thương vật lý nhỏ lên 1 kẻ địch ở ngay trước mặt, đồng thời giảm nhẹ phòng thủ vật lý của mục tiêu.
 
 ##EX##
 ジャスティスバリア=Khiên Công Lý
@@ -38,14 +38,13 @@ r:"^味方単体のＨＰを(\d+)回復$"=►Hồi HP của một đồng minh $
 
 ##UB+##
 インフェルノランパート=Thành Trì Hỏa Ngục
-自分に物理/魔法吸収バリアを展開し、自分の周囲に範囲内の味方すべての物理攻撃力を特大アップ、行動速度を大アップさせるフィールドを展開する。=Triển khai một rào cản hấp thụ sát thương vật lý/và ma thuật (P/M) lên bản thân, và tạo một vùng lân cận xung quanh bản thân làm tăng mạnh sát thương vật lý (P.ATK) và tốc độ hành động của tất cả đồng minh trong phạm vi.
-r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する物理攻撃力を(\d+)アップさせるフィールドを展開する行動速度をアップさせるフィールドを展開する$"=►Triển khai Rào Cản lên bản thân hấp thụ $1 sát thương vật lý/ma thuật (P/M.DMG) trong 18s.\n►Tăng sát thương vật lý (P.ATK) của đồng minh trong phạm vi 300 lên $2 trong 18s.\n►Tăng tốc độ hành động của đồng minh trong phạm vi 300 lên 155% trong 18s.
+自分に物理/魔法吸収バリアを展開し、自分を中心とした範囲内の味方の物理攻撃力を特大アップ、行動速度を大アップさせるフィールドを展開する。=Triển khai rào chắn hấp thụ sát thương vật lý/phép cho bản thân, đồng thời tạo ra một vùng ảnh hưởng xung quanh bản thân giúp tăng cực lớn Tấn công vật lý và tăng lớn Tốc độ hành động của các đồng minh trong phạm vi.
+r:"^(\d+)ダメージ分の物理魔法吸収バリアを展開する物理攻撃力を(\d+)アップさせるフィールドを展開する行動速度を55％アップさせるフィールドを展開する$"=►Triển khai rào chắn hấp thụ $1 sát thương vật lý và phép trong 18s.\n►Tạo vùng ảnh hưởng trong phạm vi 300 giúp tăng Tấn công vật lý thêm $2 trong 18s.\n►Tạo vùng ảnh hưởng trong phạm vi 300 giúp tăng Tốc độ hành động lên 55% trong 18s.
 
 ##S1+##
 ブレイブリカバリー+=Động Viên Lòng Dũng Cảm+
-自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復させ、さらに物理攻撃力を中アップ、行動速度を小アップさせる。=Hồi một lượng vừa phải HP cho đồng minh gần nhất có HP thấp nhất. Tăng mạnh sát thương vật lý (P.ATK) và tăng nhẹ tốc độ hành động của đồng minh đó.
-自分の周りの味方のうち、最もＨＰの割合が低い味方１キャラのＨＰを中回復させ、さらに物理攻撃力を中アップ、行動速度を小アップさせる。=Hồi một lượng lớn HP cho đồng minh gần nhất có HP thấp nhất. Tăng mạnh sát thương vật lý (P.ATK) và tăng nhẹ tốc độ hành động của đồng minh đó.
-r:"^味方単体のＨＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の行動速度アップ$"=►Hồi HP của một đồng minh $1.\n►Tăng sát thương vật lý (P.ATK) của một đồng minh $2 trong 12s.\n►Tăng tốc độ hành động của một đồng minh lên 120% trong 12s.
+自分を中心とした範囲内の味方のうち、最もＨＰの割合が低い味方のＨＰを中回復、物理攻撃力を中アップ、行動速度を小アップさせる。=Hồi lượng vừa HP, tăng vừa Tấn công vật lý và tăng nhẹ Tốc độ hành động cho đồng minh có tỷ lệ HP thấp nhất trong phạm vi xung quanh bản thân.
+r:"^味方単体のＨＰを(\d+)回復味方単体の物理攻撃力を(\d+)アップ味方単体の行動速度20％アップ$"=Thời gian niệm: 0.475s.\n►Hồi $1 HP cho một đồng minh đơn lẻ.\n►Tăng Tấn công vật lý của một đồng minh đơn lẻ thêm $2 trong 12s.\n►Tăng Tốc độ hành động của một đồng minh đơn lẻ thêm 20% trong 12s.
 
 ##UE##
 シュバリエメイル=Giáp Chevalier

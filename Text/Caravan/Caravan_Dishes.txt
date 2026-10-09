@@ -230,6 +230,9 @@ sr:"^(.+)を([0-9,]+)個獲得…$"=Nhận được $2 x $1.
 [3C404E]ダイスを3回振るまでの間、「5と6」の⽬が出る確率が3倍になる。[-]=[3C404E]Xác suất roll được 5 hoặc 6 tăng gấp ba[-]
 ダイスを3回振るまでの間、「5と6」の⽬が出る確率が3倍になる。=Trong ba lần roll tiếp theo, xác suất roll được 5 hoặc 6 sẽ tăng gấp ba.
 【料理】ダイスの「5と6」の目が出る確率が3倍になる=【Nấu Ăn】 Xác suất roll được 5 hoặc 6 tăng gấp ba
+ミニゲームプレイ中に、合計2回中断した場合\nリタイアとなります。=Nếu bạn tạm dừng trò chơi nhỏ tổng cộng 2 lần trong lúc chơi,\nbạn sẽ bị xử thua (hoặc buộc phải dừng cuộc chơi).
+
+【料理】ダイスの目が1ターン目は必ず「12」に、2・3ターン目は必ず「1」になる=【Nấu ăn】Kết quả xúc xắc sẽ luôn ra số "12" ở lượt thứ nhất, và luôn ra số "1" ở lượt thứ hai và thứ ba.
 
 一定の経過ターン以内にチェックポイントを通過すると\n豪華なアイテムが手に入ります!=Vượt qua checkpoint trong một số lượt nhất định để nhận được những món đồ xa hoa!
 

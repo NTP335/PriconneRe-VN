@@ -531,3 +531,7 @@ r:"^ガチャチケットを消費してガチャを (\d+) 回引きます。$"=
 
 マスターピース×１獲得可能！=Có thể nhận được 1 Masterpiece!
 有償ジュエル限定！[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！=Chỉ dành cho Jewel trả phí! [3C404E] Nhân vật thứ 10 chắc chắn là [FFBB00,CE4F00]nhân vật ★3!
+
+
+
+コネクトコイン×400獲得可能！=Nhận ngay tới 400 Đồng Kết Nối (Connect Coin)!

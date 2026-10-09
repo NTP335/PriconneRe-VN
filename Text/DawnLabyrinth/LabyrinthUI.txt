@@ -16,6 +16,11 @@ r:"^残り(\d+)セット購入可能！$"=Có thể mua thêm $1 bộ nữa!
 「トゥインクルブレス」の迷宮遺物効果により、\nバトル結果が敗北から勝利へと変更されました。=Do hiệu ứng Di Vật Mê Cung "Hơi Thở Lấp Lánh",\n kết quả trận đấu đã thay đổi từ thua thành thắng.
 
 
+迷宮遺物使用=Sử dụng Di vật Mê cung
+迷宮遺物発動=Kích hoạt Di vật Mê cung
+発動する=Kích hoạt
+[3C404E]「トゥインクルブレス」の迷宮遺物効果を発動して\nバトル結果を敗北から勝利へと変更します。\nよろしいですか？[-][FF7C4E,D62146]（一度きり）[-]=[3C404E]Kích hoạt hiệu hiệu di vật Mê cung của "Twinkle Breath" để\nđổi kết quả trận đấu từ thua thành thắng.\nBạn có chắc chắn không?[-][FF7C4E,D62146](Chỉ dùng một lần)[-]
+
 挑戦を終了してラビリンスTOPに戻りますか？\n\n※「撤退する」を選択すると、報酬が獲得できない\n代わりにラビリンスパスポートが返却されます。=Bạn có muốn kết thúc thử thách và quay về Mê Cung TOP?\n\n※Nếu chọn "Rút Lui", bạn sẽ không nhận được phần thưởng nào.\nThay vào đó, Hộ Chiếu Mê Cung của bạn sẽ được hoàn trả.
 
 有効効果=Hiệu quả khả thi

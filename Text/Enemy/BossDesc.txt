@@ -2935,3 +2935,19 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 【キルストリーク】の数が多いほど：自身の物理／魔法クリダメアップ=Số lượng cộng dồn [Chuỗi hạ gục - Kill Streak] càng nhiều: Sát thương chí mạng vật lý / phép thuật của bản thân càng tăng.
 物理攻撃をする敵と魔法攻撃をする敵の数に応じて行動パターン変化=Thay đổi chuỗi hành động tùy theo số lượng kẻ địch sử dụng đòn đánh vật lý và đòn đánh phép thuật.
 外宇宙から襲来せし、射手座の星獣姫。神出鬼没な動きで死角を消し去り、終焉を告げる銃声が響くとき獲物は既に死を刻まれている。=Nữ tinh thú cung Nhân Mã xâm lược từ không gian ngoài vũ trụ. Với những chuyển động biến ảo khôn lường xóa sổ mọi góc khuất, khi tiếng súng báo hiệu hồi kết vang lên, con mồi của cô ấy đã sớm bị khắc ghi cái chết.
+
+
+
+氷河地帯を支配する厳霜の魔狼。冷酷な仔らが標的を貫き、氷爪が獲物を引き裂く。【特殊効果】=[Hiệu ứng đặc biệt] Con ma sói băng giá cai trị vùng đất băng hà. Những đứa con tàn nhẫn của nó đâm xuyên mục tiêu, trong khi đôi vuốt băng xé toạc con mồi.
+
+石化の呪剣を携えた怪鳥。尾蛇の毒牙で獲物を蝕み、呪剣の石化で冒険者の歩みを止める。【特殊効果】=[Hiệu ứng đặc biệt] Quái điểu mang theo thanh ma kiếm hóa đá. Nó gặm nhấm con mồi bằng nanh độc của chiếc đuôi rắn và ngăn cản bước chân của các nhà thám hiểm bằng lời nguyền hóa đá từ thanh ma kiếm.
+
+捕食者として君臨する、凶悪な怪鳥獣。狩りを続ける膂力と剛爪が、侵入者をつけ狙う。【特殊効果】=[Hiệu ứng đặc biệt] Dã điểu hung ác trị vì như một kẻ săn mồi đỉnh cao. Sức mạnh thể chất và bộ vuốt sắc bén được tôi luyện qua những cuộc săn đuổi không ngừng nghỉ luôn rình rập những kẻ xâm nhập.
+
+このスキルで与えたダメージが高いほど：ダメージアップ=Càng gây sát thương lớn bằng kỹ năng này, sát thương càng tăng.
+
+果てのない愛憎に狂う乙女座の魔星獣。凄まじい嫉妬と拒絶が見るもの全てを石化させる。【特殊効果】=[Hiệu ứng đặc biệt] Quái thú tinh tú cung Xử Nữ phát điên vì tình yêu và lòng hận thù vô tận. Sự ghen tuông và chối bỏ khủng khiếp của nó biến mọi thứ trong tầm nhìn thành đá.
+
+
+挑発無視・必中=Bỏ qua khiêu khích; Chắc chắn trúng đích
+後ろから敵１体に行動速度ダウン（挑発無視・必中）=Giảm tốc độ hành động của 1 kẻ địch từ phía sau (Bỏ qua khiêu khích; Chắc chắn trúng đích).
