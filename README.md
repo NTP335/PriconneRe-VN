@@ -61,5 +61,5 @@ Nếu bạn thấy chỗ nào chưa ổn hoặc có ý tưởng về cách xưng
 **Ủng hộ giúp mình ly cafe với nha:**
 
 <p align="center">
-  <img src="[https://vietqr.io](https://img.vietqr.io/image/MSB-08001012629322-compact.svg)" alt="Mã QR Donate MSB" width="350"/>
+  <img src="https://img.vietqr.io/image/MSB-08001012629322-compact.svg" alt="Mã QR Donate MSB" width="350"/>
 </p>
