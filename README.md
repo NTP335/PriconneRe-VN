@@ -60,4 +60,6 @@ Nếu bạn thấy chỗ nào chưa ổn hoặc có ý tưởng về cách xưng
 
 **Ủng hộ giúp mình ly cafe với nha:**
 
-<img width="378" height="558" alt="image" src="https://github.com/user-attachments/assets/592ea08a-ae5b-45ff-83d4-a28b11ac778e" />
+<p align="center">
+  <img src="[https://vietqr.io](https://img.vietqr.io/image/MSB-08001012629322-compact.svg)" alt="Mã QR Donate MSB" width="350"/>
+</p>
