@@ -8,51 +8,62 @@ auto限定=Chỉ tự động
 納品アイテム=Vật phẩm nhận được
 
 出現モンスター=Quái vật
+sr:"^クエストガイド【(.+)】$"=Hướng dẫn Nhiệm vụ [$1]
+
+《EX》危険な魔物・翼竜ふたたび=《EX》Ma thú nguy hiểm: Dực Long trở lại
+《EX》危険な魔物・懶獣=《EX》Ma thú nguy hiểm: Lãn Thú
+《EX》危険な魔物・鬼騎兵=《EX》Ma thú nguy hiểm: Quỷ Kỵ Binh
+《EX》危険な魔物・雷鳥ふたたび=《EX》Ma thú nguy hiểm: Lôi Điểu trở lại
+《EX》危険な魔物・大鬼ふたたび=《EX》Ma thú nguy hiểm: Đại Quỷ trở lại
+《EX》天才発明家の三女、襲来=《EX》Con gái thứ ba của nhà phát minh thiên tài tập kích!
+《EX》危険な魔物・狂熊と翼竜=《EX》Ma thú nguy hiểm: Cuồng Hùng và Dực Long
+《EX》危険な影と魔物・雷々傲M=《EX》Bóng ma nguy hiểm và Ma thú: Thunder Thunder Gou M
+《EX》受難体質の次女、遭難=《EX》Con gái thứ hai có cơ địa xui xẻo gặp nạn
+《EX》危険な魔物・大鬼と雷鳥=《EX》Ma thú nguy hiểm: Đại Quỷ và Lôi Điểu
+《EX》豪放磊落の長女、狂酔=《EX》Con gái cả hào sảng phóng khoáng say xỉn cuồng loạn
+《EX》危険な魔物・胡狼と眼蔓=《EX》Ma thú nguy hiểm: Hồ Lang và Dây Mây Nhãn
+《EX》危険な影の群れ・堕天=《EX》Bày bóng ma nguy hiểm: Thiên thần sa ngã
+《EX》危険な影の群れ・魔学=《EX》Bầy bóng ma nguy hiểm: Ma Học
+《EX》危険な影と怪鳥獣=《EX》Bóng ma nguy hiểm và Quái Điểu Thú
+《EX》危険な魔物・鷲獅子=《EX》Ma thú nguy hiểm: Griffin
+《EX》危険な魔物・深海竜=《EX》Ma thú nguy hiểm: Thâm Hải Long
+《EX》危険な魔物・眼蔓ふたたび=《EX》Ma thú nguy hiểm: Dây Mây Nhãn trở lại
+《EX》危険な魔物・魔狼=《EX》Ma thú nguy hiểm: Ma Lang
+《EX》危険な魔物・妖蛇=《EX》Ma thú nguy hiểm: Yêu Xà
+《EX》危険な魔物・老大亀=《EX》Ma thú nguy hiểm: Lão Đại Quy
+《EX》危険な魔物・仙猿=《EX》Ma thú nguy hiểm: Tiên Viên
+《EX》危険な魔物・霊王=《EX》Ma thú nguy hiểm: Linh Vương
+
+
+《EX》危険な影の群れ=《EX》Bầy bóng ma nguy hiểm
+《EX》危険な影の群れ・学院=《EX》Bầy bóng ma nguy hiểm: Học viện St. Theresa
+《EX》危険な影の群れ・光願=《EX》Bầy bóng ma nguy hiểm: Ước nguyện Ánh sáng
+《EX》危険な影の群れ・偶像=《EX》Bầy bóng ma nguy hiểm: Thần tượng
+《EX》危険な影の群れ・救護=《EX》Bầy bóng ma nguy hiểm: Cứu trợ
+《EX》危険な影の群れ・財団=《EX》Bầy bóng ma nguy hiểm: Thương hội
+《EX》危険な影の群れ・美食=《EX》Bầy bóng ma nguy hiểm: Mỹ thực
+《EX》危険な影の群れ・黄昏=《EX》Bầy bóng ma nguy hiểm: Hoàng hôn
+《EX》危険な影の群れ・学院=《EX》Bầy bóng ma nguy hiểm: Học viện St. Theresa
+《EX》危険な影の群れ・白翼=《EX》Bầy bóng ma nguy hiểm: Cánh trắng
+《EX》危険な影の群れ・竜巣=《EX》Bầy bóng ma nguy hiểm: Tổ Rồng
+《EX》危険な影の群れ・森精=《EX》Bầy bóng ma nguy hiểm: Tinh linh Rừng
+《EX》危険な影の群れ・仲良=《EX》Bầy bóng ma nguy hiểm: Hội Bạn Thân
+《EX》危険な影の群れ・魔軍=《EX》Bầy bóng ma nguy hiểm: Quân đoàn Ma Vương
 
 裏世界での戦闘訓練=Đào tạo chiến đấu ở Thế Giới Ngược
 【トワイライトキャラバン】出動！=Huy hiệu Đoàn Caravan Hoàng Hôn!
 裏世界への修学旅行？=Chuyến tham quan trường học đến Thế Giới Ngược?
-《EX》危険な影と怪鳥獣=《EX》Bóng Ma và Quái Vật Nguy Hiểm
-《EX》危険な影の群れ=《EX》Đàn Bóng Ma Nguy Hiểm
-《EX》危険な影の群れ・偶像=《EX》Bầy Bóng Ma Nguy Hiểm: Thần Tượng
-《EX》危険な影の群れ・救護=《EX》Bầy Bóng Ma Nguy Hiểm: Orphane
-《EX》危険な影の群れ・財団=《EX》Bầy Bóng Ma Nguy Hiểm: Foundation
-《EX》危険な影の群れ・美食=《EX》Bầy Bóng Ma Nguy Hiểm: Thực Phẩm
-《EX》危険な影の群れ・黄昏=《EX》Bầy Bóng Ma Nguy Hiểm: Hoàng Hôn
-《EX》危険な影の群れ・学院=《EX》Bầy Bóng Ma Nguy Hiểm: Học Viện
-《EX》危険な影の群れ・白翼=《EX》Bầy Bóng Ma Nguy Hiểm: Cánh Trắng
-《EX》危険な影の群れ・竜巣=《EX》Bầy Bóng Ma Nguy Hiểm: Tổ Rồng
-《EX》危険な影の群れ・森精=《EX》Bầy Bóng Ma Nguy Hiểm: Tinh Linh Rừng
-《EX》危険な影の群れ・仲良=《EX》Bầy Bóng Ma Nguy Hiểm: Bạn Bè
-《EX》危険な影の群れ・魔軍=《EX》Bầy Bóng Ma Nguy Hiểm: Quân Đội Ma
-《EX》危険な魔物・鷲獅子=《EX》Quái vật nguy hiểm & Sư Tử Đại Bàng
-《EX》危険な魔物・深海竜=《EX》Ma vật nguy hiểm: Thâm Hải Long
 衝突、母性vs商魂！？=Đối đầu: Tình Mẹ vs. Tinh Thần Kinh Doanh!?
 冥界に漂う魔性の香り=Hương thơm Quyến rũ trôi nổi trong Địa Ngục
-《EX》危険な影の群れ・堕天=《EX》Bầy Bóng Ma Nguy Hiểm: Thiên Thần Sa Ngã
-《EX》危険な影の群れ・魔学=《EX》Bầy Bóng Ma Nguy Hiểm: Nghệ Thuật Hắc Ám
-
-《EX》危険な魔物・眼蔓ふたたび=《EX》Quái Vật Nguy Hiểm: Dây Leo Mắt, Một Lần Nữa
 うるわしや、冥界べっぴん旅行客=Những du khách xinh đẹp, rất xinh đẹp đến với thế giới ngầm
 冥府の魔鎧=Giáp Ma Quỷ của Thế Giới Ngầm
-
 ギャングとヒーロー=Băng Đảng và Anh Hùng
-《EX》危険な魔物・大鬼ふたたび=《EX》Quái Vật Nguy Hiểm: Đại Quỷ Lại Xuất Hiện
-
 襲来！赤髪盗賊三姉妹！？=Tấn công! Ba chị em cướp tóc đỏ?!
-《EX》天才発明家の三女、襲来=《EX》Con Gái Thứ Ba Của Một Thiên Tài Phát Minh, Tấn Công
-《EX》危険な魔物・狂熊と翼竜=《EX》Gấu Điên Nguy Hiểm và Rồng Bò
-《EX》危険な影と魔物・雷々傲M=《EX》Quái Vật Nguy Hiểm Với Sự Kiêu Ngạo Sấm Sét
-《EX》受難体質の次女、遭難=《EX》Con Gái Thứ Hai Của Cấu Trúc Nhạy Cảm, Mắc Kẹt
-《EX》危険な魔物・大鬼と雷鳥=《EX》Quái Vật Nguy Hiểm: Đại Quỷ và Chim Sét
-《EX》豪放磊落の長女、狂酔=《EX》Con Cả Của Dòng Dõi Quý Tộc Không Kiềm Chế, Say Rượu
-《EX》危険な魔物・胡狼と眼蔓=《EX》Ma Quỷ Nguy Hiểm, Horo và Dây Leo Mắt
 迷子の鳥を導け！=Dẫn Lối Cho Loài Chim Lạc Đường!
 白き剣と黒き盾=Kiếm Trắng và Khiên Đen
 冥界を笑わせに来ました！=Tớ Đến Để Khiến Thế Giới Ngầm Cười!
 大人女子会へようこそ=Chào Mừng Đến Với Buổi Tụ Hội Của Các Quý Bà Trưởng Thành
 裏世界安全講習会=Huấn Luyện An Toàn Thế Giới Ngầm
-
 おさんぽはアツアツヒヤヒヤ=Osanpo nóng, nóng và rất nóng
 冥界の魔物調査=Điều Tra Sinh Vật Thế Giới Ngầm
 魔と闇の令嬢=Tiểu Thư Của Ác Ma và Bóng Tối
@@ -95,7 +106,6 @@ auto限定=Chỉ tự động
 
 冥界ファッションショー☆=Buổi Diễn Thời Trang Dưới Địa Ngục☆
 忍者冥剣伝=Huyền Thoại Lưỡi Kiếm Quỷ Nhẫn
-《EX》危険な影の群れ・光願=EX: Bầy Bóng Đen Nguy Hiểm – Ước Nguyện Rực Rỡ
 
 
 このクエストはクリア後の挑戦ができません。=Nhiệm vụ này không thể thử lại sau khi hoàn thành.
@@ -110,12 +120,9 @@ auto限定=Chỉ tự động
 以下の報酬を受け取りました。=Đã nhận được các phần thưởng sau.
 
 ミスト・イン・リビングデッド=Sương Mù Trong Người Sống Chết
-《EX》危険な魔物・懶獣=《EX》 Quái Vật Nguy Hiểm: Raiju
-《EX》危険な魔物・鬼騎兵=《EX》 Ma vật nguy hiểm: Quỷ Kỵ Binh
-《EX》危険な魔物・雷鳥ふたたび=《EX》 Quái Vật Nguy Hiểm Thunderbird Lại Nữa
+
 凸凹楽団三重奏=Bộ Ba Dãy Bất Thường
 
 蒼海の孤島=Hòn đảo cô độc giữa biển xanh
 アラクネの肉マシマシマシ炒め野菜入り=Thịt Arachne siêu siêu siêu nhiều xào cùng rau củ
 目立つ女と目立たない少女=Người phụ nữ nổi bật và cô thiếu nữ mờ nhạt
-《EX》危険な魔物・翼竜ふたたび=<EX> Ma vật nguy hiểm: Dực Long tái xuất

@@ -170,3 +170,41 @@ r:"^バトル開始後(\d+)秒間自分の魔法防御力を(\d+)％アッ\nプ�
 バトル開始後90秒間自分の物理防御力と魔法防御力を３％アップさせる。=Tăng 3% phòng thủ vật lý và phòng thủ phép thuật của bản thân trong 90 giây sau khi trận chiến bắt đầu.
 
 バトル開始後90秒間敵全体の物理攻撃力を５％ダウンさせる。=Giảm 5% Tấn công vật lý của toàn bộ kẻ địch trong 90 giây sau khi bắt đầu trận đấu.
+
+------Awakening------
+超越スキル確認=Xác nhận Kỹ năng Siêu việt
+超越錬醒1段階目=Thức tỉnh Siêu việt Bậc 1
+超越錬醒2段階目=Thức tỉnh Siêu việt Bậc 2
+超越錬醒3段階目=Thức tỉnh Siêu việt Bậc 3
+超越錬醒4段階目=Thức tỉnh Siêu việt Bậc 4
+超越錬醒5段階目=Thức tỉnh Siêu việt Bậc 5
+選択中の装備に付与される\n超越スキルを確認できます。=Bạn có thể kiểm tra Kỹ năng Siêu việt\nsẽ được gán cho trang bị đang chọn.
+
+
+sr:"^(.)属性ＵＢダメアップ([Ⅰ-Ⅹ0-9A-Z]+)$"=$1 Tăng Sát thương UB Hệ $2
+
+sr:"^(.)属性の味方が([0-9０-９]+)キャラの場合、自分のユニオン\n?バーストのダメージを([0-9０-９.%％]+)アップさせる。$"=Nếu có $2 nhân vật thuộc tính $1 trong đồng minh,\ntăng $3 Sát thương Union Burst của bản thân.
+
+sr:"^(.)属性クリダメアップ([Ⅰ-Ⅹ0-9A-Z]+)$"=$1 Tăng Sát thương Bạo kích Hệ $2
+
+sr:"^(.)属性の味方が([0-9０-９]+)キャラの場合、自分の物理/魔法\n?攻撃クリティカル時のダメージを([0-9０-９.%％]+)アップさせ\n?る。$"=Nếu có $2 nhân vật thuộc tính $1 trong đồng minh,\ntăng $3 Sát thương khi gây bạo kích Vật lý/Phép thuật của bản thân.
+
+
+sr:"^(.)属性スキルダメアップ([Ⅰ-Ⅹ0-9A-Z]+)$"=$1 Tăng Sát thương Kỹ năng Hệ $2
+
+sr:"^(.)属性の味方が([0-9０-９]+)キャラの場合、自分のスキルの\n?ダメージを([0-9０-９.%％]+)アップさせる。$"=Nếu có $2 nhân vật thuộc tính $1 trong đồng minh,\ntăng $3 Sát thương Kỹ năng của bản thân.
+
+
+r:"^バトル中物理与ダメアップ([Ⅰ-Ⅹ0-9A-Z]+)$"=Tăng Sát thương Vật lý trong Trận đấu $1
+
+r:"^バトル開始後([0-9０-９]+)秒間自分の与える物理ダメージを([0-9０-９.%％]+)アップさせる。$"=Tăng $2 Sát thương Vật lý gây ra của bản thân\ntrong $1 giây sau khi bắt đầu trận đấu.
+
+r:"^バトル中魔法与ダメアップ([Ⅰ-Ⅹ0-9A-Z]+)$"=Tăng Sát thương Phép trong Trận đấu $1
+
+r:"^バトル開始後([0-9０-９]+)秒間自分の与える魔法ダメージを([0-9０-９.%％]+)アップさせる。$"=Tăng $2 Sát thương Phép gây ra của bản thân\ntrong $1 giây sau khi bắt đầu trận đấu.
+
+r:"^バトル中ＵＢダメアップ([Ⅰ-Ⅹ0-9A-Z]+)$"=Tăng Sát thương UB trong Trận đấu $1
+r:"^バトル開始後([0-9０-９]+)秒間自分のユニオンバーストのダメージを([0-9０-９.%％]+)アップさせる。$"=Tăng $2 Sát thương Union Burst của bản thân\ntrong $1 giây sau khi bắt đầu trận đấu.
+
+r:"^バトル中クリダメアップ([Ⅰ-Ⅹ0-9A-Z]+)$"=Tăng Sát thương Bạo kích trong Trận đấu $1
+r:"^バトル開始後([0-9０-９]+)秒間自分の物理/魔法攻撃クリティ\nカル時のダメージを([0-9０-９.%％]+)アップさせる。$"=Tăng $2 Sát thương khi gây bạo kích Vật lý/Phép thuật\ncủa bản thân trong $1 giây sau khi bắt đầu trận đấu.

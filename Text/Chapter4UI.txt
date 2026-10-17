@@ -124,14 +124,12 @@ EX装備 超越錬醒=Thức tỉnh Siêu việt Trang bị EX
 錬醒済み=Đã luyện thức tỉnh
 素材選択中=Đang chọn nguyên liệu
 アイテムとマナが不足しています。=Không đủ vật phẩm và Mana.
-闇属性スキルダメアップⅠ=Tăng sát thương kỹ năng thuộc tính Bóng tối I
 使用する素材を選択=Chọn nguyên liệu sử dụng
 同じ装備を使用=Sử dụng trang bị giống nhau
 EX★５装備に『超越錬醒』が解放されました。\n超越錬醒を進めるとステータスアップや超越スキルの獲得ができます。\nEX★５装備やアイテムを集めて、パワーアップしてまいりましょう。=Tính năng 'Thức tỉnh Siêu việt' đã được mở khóa cho trang bị EX★5.\nKhi tiến hành Thức tỉnh Siêu việt, bạn có thể tăng chỉ số và nhận các kỹ năng Siêu việt.\nHãy thu thập trang bị EX★5 và vật phẩm để gia tăng sức mạnh nhé.
 EX装備 超越錬醒1段階目=Thức tỉnh Siêu việt Trang bị EX - Giai đoạn 1
 EX装備 超越錬醒 使用装備選択=Thức tỉnh Siêu việt Trang bị EX: Chọn trang bị sử dụng
 特別な強化がされている装備が選択されています。=Trang bị có cường hóa đặc biệt đang được chọn.
-火属性スキルダメアップⅠ=Tăng sát thương kỹ năng thuộc tính Lửa I
 消費素材に特別な強化がされている装備が含まれています。=Nguyên liệu tiêu hao có chứa trang bị đã được cường hóa đặc biệt.
 前の段階の使用素材が確定されていません。=Nguyên liệu sử dụng của giai đoạn trước vẫn chưa được xác nhận.
 装備者が火属性の場合、バトル開始後90秒間自分\nの物理クリティカルと物理攻撃クリティカル時の\nダメージを10％アップさせる。=Nếu người trang bị thuộc hệ Lửa, tăng 10% Tỷ lệ chí mạng vật lý và Sát thương chí mạng vật lý của bản thân trong 90 giây sau khi bắt đầu trận đấu.
@@ -183,3 +181,39 @@ r:"^あと(\d+)分後に\n?ゾディアックチケットを(\d+)枚獲得$"=Nh�
 第4部開幕記念=Kỷ niệm Khai mạc Phần 4
 敵全体に物理／魔法攻撃力ダウン（飛行効果無視・必中）=Giảm Tấn công Vật lý/Phép thuật của tất cả kẻ địch (Bỏ qua hiệu ứng Bay; Đảm bảo trúng đích)
 敵全体に物理割合ダメージ（飛行効果無視・ＴＰ回復不可）=Gây sát thương vật lý theo tỷ lệ phần trăm lên tất cả kẻ địch (Bỏ qua hiệu ứng Bay; Không thể hồi TP)
+
+9個の同じEX装備を消費して、最大まで超越錬醒が可能です。このEX装備素材の超越錬醒へ移動しますか？=Có thể tiến hành Thức Tỉnh Siêu việt đến cấp tối đa bằng cách tiêu thụ 9 trang bị EX cùng loại. Bạn có muốn chuyển sang màn hình Thức Tỉnh Siêu việt cho nguyên liệu trang bị EX này không?
+【レプリカ】星獣姫が有する権能を微かに宿した大弓。遥かに仰ぐ理、外宇宙を根源とする力を秘め、射手座の領域内でその真価を発揮する。=[Bản sao] Cây đại cung ẩn chứa một chút quyền năng của Công chúa Tinh thú. Nó cất giấu sức mạnh có nguồn gốc từ ngoại vũ trụ và những quy luật xa xăm, phát huy trọn vẹn giá trị thực sự khi ở trong khu vực Nhân Mã.
+
+
+
+強化状態=Trạng thái Cường hóa
+現在の強化状態=Trạng thái Cường hóa hiện tại
+クエスト推奨=Gợi ý Nhiệm vụ
+プレイヤーレベル=Cấp độ Người chơi
+プリンセスナイトRANK=Princess Knight Rank
+アドバンスブースト=Boost Nâng cao
+条件を達成してプリンセスナイト超強化を発動しよう=Hãy đạt đủ điều kiện để kích hoạt Siêu Cường hóa Princess Knight
+バトル開始時のコネクトRANKボーナスの効果量=Chỉ số hiệu ứng Thưởng Connect Rank khi bắt đầu trận đấu
+Lv強化におすすめ=Gợi ý Cường hóa Cấp độ
+Pナイト強化におすすめ=Gợi ý Cường hóa Princess Knight
+初心者におすすめ=Gợi ý cho Người mới bắt đầu
+EX装備におすすめ=Gợi ý Trang bị EX
+バトルマス（HELL）が出現する。=Ô Trận đấu (HELL) sẽ xuất hiện.
+HELLマス出現=Xuất hiện ô HELL
+[3C404E]主さまの実力であれば[FFBB00,CE4F00]十分クリア\n可能なクエスト[-]でございますね。\nご健闘をお祈りしております。[-]=[3C404E]Với thực lực của Chủ nhân thì đây là [FFBB00,CE4F00]nhiệm vụ hoàn toàn trong tầm tay[-].\nChúc Chủ nhân may mắn và gặt hái thành công.[-]
+推奨プレイヤー情報=Thông tin Người chơi Gợi ý
+バトルボーナス情報=Thông tin Thưởng Trận đấu
+
+全てのスロットがロックされています。=Tất cả các slot đều đã bị khóa.
+
+特別な強化がされている装備が消費されます。=Trang bị đã được cường hóa đặc biệt sẽ bị tiêu thụ.
+上記を確認し、超越錬醒を実行します。=Tôi đã xác nhận các nội dung trên và tiến hành Thức Tỉnh Siêu việt.
+チェックボックスの内容を確認してください。=Vui lòng kiểm tra nội dung ở checkbox.
+
+獲得シャード=Mảnh thu thập được
+獲得トークン=Xu thu thập được
+幻の花を探し、二人だけの冒険に向かったクリアとアネモネ。ひと夏の旅の果てに少女たちは何を目にするのか──？=Claire và Anemone cùng nhau bước vào hành trình phiêu lưu chỉ có hai người để tìm kiếm loài hoa huyễn tưởng. Ở nơi cuối con đường của chuyến đi mùa hè ấy, các cô gái sẽ nhìn thấy điều gì──?
+美が生まれた日=Ngày vẻ đẹp được sinh ra
+最強でお美しいあたくし様=Mạnh nhất và xinh đẹp nhất chính là ta
+難易度が変更されていません。=Độ khó chưa được thay đổi.

@@ -69,12 +69,14 @@ r:"^難易度ボーナス ×([0-9.]+)$"=Thưởng độ khó ×$1
 3戦目=Trận thứ 3
 4戦目=Trận thứ 4
 5戦目=Trận thứ 5
+r:"^([0-9０-９])戦目(（.+）)$"=$2 Trận $1
 
 火属性ボーナスアップ=Tăng thêm hệ Lửa
 光属性ボーナスアップ=Tăng thêm hệ Ánh sáng
 闇属性ボーナスアップ=Tăng thêm hệ Bóng tối
 水属性ボーナスアップ=Tăng thêm hệ Nước
 風属性ボーナスアップ=Tăng thêm hệ Gió
+
 
 スキップスコアが最大の難易度でスキップします。=Càn quét ở độ khó có điểm càn quét cao nhất.
 挑戦回数を消費しないで1回バトルをスキップします。=Càn quét 1 lần mà không tiêu tốn lượt thử.

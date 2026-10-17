@@ -1,7 +1,5 @@
 8.5 Year Anniversary カウントダウンログインボーナス=Quà đăng nhập đếm ngược kỷ niệm 8,5 năm
 
-《EX》危険な魔物・仙猿=《EX》Ma vật nguy hiểm - Tiên Viên
-《EX》危険な魔物・霊王=《EX》Ma vật nguy hiểm - Linh Vương
 
 特別商品販売開始のお知らせ=Thông báo mở bán sản phẩm đặc biệt
 ショップで期間限定の特別商品の販売が開始されました！=Các sản phẩm đặc biệt thời gian giới hạn đã bắt đầu được bày bán trong cửa hàng!
@@ -12,7 +10,6 @@ Pアリーナショップ=P. Arena Shop
 ★3出現率2倍！新キャラ｢ヴァンピィ（サマー）｣登場！=Tỷ lệ xuất hiện ★3 x2! Nhân vật mới "Vampy (Summer)" đã xuất hiện!
 有償ジュエル限定！[3C404E]10キャラ目は[FFBB00,CE4F00]選択した★3キャラ確定！=Chỉ dùng Jewel trả phí! [3C404E]Nhân vật thứ 10 [FFBB00,CE4F00]chắc chắn là nhân vật ★3 đã chọn!
 
-《EX》危険な魔物・老大亀=《EX》Ma vật nguy hiểm - Lão Đại Quy
 自身を中心に物理ダメージフィールド展開=Triển khai trường sát thương vật lý xoay quanh bản thân
 特別商品販売中=Đang mở bán sản phẩm đặc biệt
 特別商品=Sản phẩm đặc biệt

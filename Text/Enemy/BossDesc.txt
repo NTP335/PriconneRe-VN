@@ -1,6 +1,6 @@
 みんな=Mọi Người
 魔物=Quái Vật
-
+【ＨＰ33％以下時発動】=[Kích hoạt khi HP dưới 33%]
 【物理】盗賊ギルド、バンディ=[Vật Lý] Đạo tặc, thành viên của Hội Đạo tặc.\n
 シスターズ次女。戦闘中後方でおびえているワカナを助けるために、スパイク=Chị thứ hai trong các Chị em. Trong trận chiến, cô hỗ trợ cho Wakana đang hoảng sợ ở hậu phương, trong khi các Anh em Spike chặn đường của các nhà mạo hiểm.\n
 
@@ -2728,8 +2728,6 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 あらゆる物理攻撃を剣ではじき返す、命ある石像。=Bức tượng đá có sinh mệnh dùng thanh kiếm của mình để phản lại mọi đòn tấn công vật lý.
 動く剣士=Kiếm sĩ di động.
 剣士たちの大乱舞=Đại loạn vũ của các kiếm sĩ.
-《EX》危険な魔物・魔狼=《EX》 Ma thú nguy hiểm: Ma lang.
-《EX》危険な魔物・妖蛇=《EX》 Yêu quái nguy hiểm - Xà yêu
 召喚体、分身を除いた最も近い敵３キャラに魔\n　法大ダメージを与え、魔法防御力を中ダウンさ\n　せる。このスキルの効果はダメージを無効化し\n　ても付与される。=Gây sát thương phép lớn cho 3 kẻ địch gần nhất không tính vật triệu hồi và phân thân, đồng thời giảm tầm trung phòng thủ phép của chúng. Hiệu ứng này vẫn được áp dụng ngay cả khi sát thương bị vô hiệu hóa.
 
 自身の物理攻撃力を特大アップし、ＴＰを特大回復する。自身のＨＰが低いほど、物理攻撃力の上昇量がアップする。=Tăng mạnh tấn công vật lý và hồi phục lượng lớn TP cho bản thân. HP của bản thân càng thấp, lượng tấn công vật lý tăng thêm càng nhiều.
@@ -2951,3 +2949,17 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 
 挑発無視・必中=Bỏ qua khiêu khích; Chắc chắn trúng đích
 後ろから敵１体に行動速度ダウン（挑発無視・必中）=Giảm tốc độ hành động của 1 kẻ địch từ phía sau (Bỏ qua khiêu khích; Chắc chắn trúng đích).
+
+
+以下のストーリーを閲覧できます。=Bạn có thể xem câu chuyện sau đây.
+前から敵４体に物理／魔法与ダメダウン（必中）=Giảm Sát thương vật lý/Sát thương phép gây ra của 4 kẻ địch từ phía trước (Chắc chắn trúng).
+周囲の敵４体に行動速度ダウン=Giảm tốc độ hành động của 4 kẻ địch xung quanh.
+周囲の敵４体にＴＰ上昇ダウン=Giảm Tăng TP của 4 kẻ địch xung quanh.
+周囲の敵４体にＴＰダウン=Giảm TP của 4 kẻ địch xung quanh.
+周囲の敵４体に物理ダメージ=Gây sát thương vật lý lên 4 kẻ địch xung quanh.
+
+
+ジオ・ニヴルヘルの深淵に澱む妖霧。道行く者の周囲に現れ、触れた者の魂を蝕む。=Lớp sương mù ma quái đọng lại nơi vực sâu của Geo Niflhel. Nó xuất hiện xung quanh những kẻ qua đường và gặm nhấm linh hồn của bất kỳ ai chạm vào.
+ユニオンバーストは、敵全体に魔法大ダメージ。=Union Burst gây sát thương phép lớn lên toàn bộ kẻ địch.
+敵全体に魔法大ダメージ。さらに、ミストヴェイル自身のＨＰが80％以下の場合、物理攻撃力と魔法攻撃力を大ダウン。=Gây sát thương phép lớn lên toàn bộ kẻ địch. Ngoài ra, nếu HP của Mistveil từ 80% trở xuống, giảm mạnh Tấn công vật lý và Tấn công phép.
+ミストヴェイル自身のＨＰが80％以下になると、さらに攻撃が激しく凶暴になる。=Khi HP của Mistveil xuống từ 80% trở xuống, các đòn tấn công sẽ trở nên dồn dập và hung dữ hơn.
