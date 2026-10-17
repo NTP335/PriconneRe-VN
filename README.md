@@ -1,3 +1,5 @@
+<img width="1281" height="640" alt="Princess Connect ReDive Việt Hoá" src="https://github.com/user-attachments/assets/c60af59d-ec6b-4fa2-b403-c9e80a2aa685" />
+
 # Princess Connect Re:Dive Việt Hoá
 
 Đây là dự án tiếp nối bản dịch từ một bạn trước đó trên Group Facebook. Do nhận thấy bản dịch cũ không còn được cập nhật, mình quyết định tiếp quản và phát triển tiếp dựa trên patch EN của **ImaterialC**.
