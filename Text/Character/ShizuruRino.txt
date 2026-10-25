@@ -9,18 +9,18 @@
 
 ##UB##
 セイクリッドレイン=Mưa Thánh
-目の前の敵１キャラに物理大ダメージを２回与え、自分のＨＰを中回復する。このスキルがクリティカルした場合のダメージは、２倍ではなく3.5倍になる。さらに、自分の後方に物理攻撃力を特大アップ、物理クリティカルを大アップさせるフィールドを展開する。=Gây sát thương vật lý (P.DMG) khổng lồ lên kẻ thù phía trước hai lần, và phục hồi một chút HP cho bản thân. Nếu kỹ năng này đánh chí mạng, sát thương sẽ nhân 3.5 lần. Ngoài ra, triển khai một vùng hiệu quả xung quanh bản thân tăng mạnh P.ATK và P.CRIT Rate.
+目の前の敵１キャラに物理大ダメージを２回与え、自分のＨＰを中回復する。このスキルのクリティカルダメージは3.5倍になる。自分の後方に範囲内の味方の物理攻撃力を特大アップ、物理クリティカルを大アップさせるフィールドを展開する。=Gây sát thương vật lý lớn 2 lần lên 1 kẻ địch phía trước và hồi phục vừa HP cho bản thân. Sát thương bạo kích của kỹ năng này được nhân lên 3.5 lần. Triển khai một vùng khu vực (field) ở phía sau bản thân giúp tăng cực lớn Tấn công vật lý và tăng lớn Bạo kích vật lý của đồng minh trong phạm vi.
 r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ自分のＨＰを(\d+)回復物理攻撃力を(\d+)アップさせるフィールドを展開する物理クリティカルを(\d+)アップさせるフィールドを展開する$"=►Gây $1 sát thương vật lý (P.DMG) lên một kẻ thù.\n►Gây $2 sát thương vật lý (P.DMG) lên một kẻ thù.\n►Phục hồi HP của bản thân $3.\n►Triển khai vùng hiệu quả phạm vi 300 tăng P.ATK lên $4 và P.CRIT Rate lên $5 trong 12s.
 
 ##S1##
 セイントアロー=Mũi Tên Thánh
-目の前の敵１キャラに物理中ダメージを２回与える。このスキルがクリティカルした場合のダメージは、２倍ではなく3.5倍になる。【フィールド展開中】味方全体のＴＰを小回復する。=Gây sát thương vật lý (P.DMG) vừa phải lên kẻ thù phía trước hai lần. Nếu kỹ năng này đánh chí mạng, sát thương sẽ nhân 3.5 lần. Nếu vùng hiệu quả đang hoạt động, sẽ phục hồi một chút TP cho tất cả đồng minh.
-r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージフィールド展開中、味方全体のＴＰを75回復$"=►Gây $1 sát thương vật lý (P.DMG) lên một kẻ thù.\n►Gây $2 sát thương vật lý (P.DMG) lên một kẻ thù.\n►Nếu vùng hiệu quả đang hoạt động, phục hồi TP cho tất cả đồng minh 75.
+目の前の敵１キャラに物理中ダメージを２回与える。このスキルのクリティカルダメージは3.5倍になる。【フィールド展開中】さらに味方全体のＴＰを小回復させる。=Gây sát thương vật lý vừa 2 lần lên 1 kẻ địch phía trước. Sát thương bạo kích của kỹ năng này được nhân lên 3.5 lần. 【Trong thời gian duy trì khu vực】 Đồng thời hồi phục nhẹ TP cho toàn bộ đồng minh.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージフィールド展開中、味方全体のＴＰを75回復$"=Thời gian thi triển: 0.92s.\n►Gây $1 sát thương vật lý (P.DMG) lên một kẻ thù.\n►Gây $2 sát thương vật lý (P.DMG) lên một kẻ thù.\n►Nếu vùng hiệu quả đang hoạt động, phục hồi TP cho tất cả đồng minh 75.
 
 ##S2##
 プレシャスコネクション=Kết Nối Quý Giá
-自分に物理無効バリアを展開し、物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを小アップする。【フィールド展開中】バリアの無効ダメージ量がアップし、敵全体の物理防御力を小ダウンさせる。=Triển khai Khiên lên bản thân chống lại sát thương vật lý (P.DMG), tăng mạnh P.ATK và P.CRIT Rate của bản thân, và tăng một chút P.CRIT DMG của bản thân. Nếu vùng hiệu quả đang hoạt động, lượng sát thương vật lý (P.DMG) bị Khiên chống lại tăng lên, và đồng thời giảm một chút P.DEF của tất cả kẻ thù. Tất cả hiệu ứng kéo dài 12s.
-r:"^フィールド展開中、(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の物理無効バリアを展開する自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを15％アップフィールド展開中、敵全体の物理防御力を(\d+)ダウン$"=►Nếu vùng hiệu quả đang hoạt động, triển khai Khiên lên bản thân chống lại $1 sát thương vật lý (P.DMG).\n►Nếu vùng hiệu quả không hoạt động, triển khai Khiên lên bản thân chống lại $2 sát thương vật lý (P.DMG).\n►Tăng P.ATK của bản thân lên $3.\n►Tăng P.CRIT Rate của bản thân lên $4.\n►Tăng P.CRIT DMG của bản thân lên 15%.\n►Nếu vùng hiệu quả đang hoạt động, giảm P.DEF của tất cả kẻ thù lên $5.
+自分に物理無効バリアを展開し、物理攻撃力と物理クリティカルを特大アップ、物理クリティカルダメージを小アップする。【フィールド展開中】バリアの無効ダメージ量が増加し、さらに敵全体の物理防御力を小ダウンさせる。=Triển khai lá chắn vô hiệu hóa sát thương vật lý cho bản thân, tăng cực lớn Tấn công vật lý, Bạo kích vật lý và tăng nhẹ Sát thương bạo kích vật lý của bản thân. 【Trong thời gian duy trì khu vực】 Lượng sát thương vô hiệu hóa của lá chắn được tăng lên, đồng thời giảm nhẹ Phòng thủ vật lý của toàn bộ kẻ địch.
+r:"^フィールド展開中、(\d+)ダメージ分の物理無効バリアを展開する(\d+)ダメージ分の物理無効バリアを展開する自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを15％アップフィールド展開中、敵全体の物理防御力を(\d+)ダウン$"=Thời gian thi triển: 0.59s.\n►Nếu vùng hiệu quả đang hoạt động, triển khai Khiên lên bản thân chống lại $1 sát thương vật lý (P.DMG).\n►Nếu vùng hiệu quả không hoạt động, triển khai Khiên lên bản thân chống lại $2 sát thương vật lý (P.DMG).\n►Tăng P.ATK của bản thân lên $3.\n►Tăng P.CRIT Rate của bản thân lên $4.\n►Tăng P.CRIT DMG của bản thân lên 15%.\n►Nếu vùng hiệu quả đang hoạt động, giảm P.DEF của tất cả kẻ thù lên $5.
 
 ##EX##
 お姉ちゃん＆妹パワー=Sức Mạnh Chị Em

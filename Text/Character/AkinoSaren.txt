@@ -17,17 +17,17 @@
 
 ##UB##
 ノーブルブレイズ=Ngọn Lửa Quý Tộc
-目の前の敵１キャラに物理特大ダメージを与える。自分の残りＨＰが高い程、このダメージがアップする。さらにその敵を中心として物理ダメージフィールドを展開する。=Gây sát thương vật lý khổng lồ cho kẻ địch phía trước. HP càng cao của bản thân, sát thương vật lý càng lớn. Ngoài ra, triển khai một vùng gây sát thương vật lý cho kẻ địch trong phạm vi.
+目の前の敵１キャラに物理特大ダメージを与える。自分のＨＰが高いほど、このダメージが増加する。その敵を中心に物理ダメージフィールドを展開する。=Gây sát thương vật lý cực lớn lên 1 kẻ địch phía trước. HP của bản thân càng cao thì lượng sát thương này càng tăng. Triển khai trường sát thương vật lý lấy kẻ địch đó làm trung tâm.
 r:"^敵単体に(\d+)の物理ダメージ毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=►Gây $1 sát thương vật lý lên kẻ địch.\n►Triển khai vùng phạm vi 300 quanh kẻ địch gây $2 sát thương vật lý trong 15.5 giây.
 
 ##S1##
 ファイアエンハンスメント=Tăng Cường Hỏa
-味方全体の物理攻撃力を特大アップさせ、物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Tăng P.ATK cho tất cả đồng minh rất lớn, và tăng nhẹ Tỷ Lệ Chí Mạng và Sát Thương Chí Mạng vật lý của họ.
+味方全体の物理攻撃力を特大アップ、物理クリティカルと物理クリティカルダメージを小アップさせる。=Tăng cực lớn Tấn công vật lý, đồng thời tăng nhẹ Bạo kích vật lý và Sát thương bạo kích vật lý của toàn bộ đồng minh.
 r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体の物理攻撃クリティカル時のダメージを10％アップ$"=Thời gian niệm: 0.59s\n►Tăng P.ATK của tất cả đồng minh lên $1 trong 12 giây.\n►Tăng Tỷ Lệ Chí Mạng vật lý của tất cả đồng minh lên $2 trong 12 giây.\n►Tăng Sát Thương Chí Mạng vật lý của tất cả đồng minh lên 10% trong 12 giây.
 
 ##S2##
 グリッターフォース=Lực Lấp Lánh
-自分の周囲に範囲内の味方すべてのＨＰとＴＰを小回復するフィールドを展開する。さらに自分のＴＰを大回復する。=Triệu hồi một vùng hiệu ứng xung quanh bản thân, hồi phục một chút HP và TP cho đồng minh trong phạm vi. Ngoài ra, hồi phục cực nhiều TP cho bản thân.
+自分を中心とした範囲内の味方のＨＰとＴＰを小回復させるフィールドを展開する。自分のＴＰを大回復する。=Triển khai trường ma thuật giúp hồi phục nhẹ HP và TP cho đồng minh trong phạm vi lấy bản thân làm trung tâm. Hồi phục lớn TP cho bản thân.
 r:"^毎秒ＴＰを10回復するフィールドを展開する毎秒ＨＰを(\d+)回復するフィールドを展開する自分のＴＰを280回復$"=Thời gian niệm: 0.59s\n►Triệu hồi vùng hiệu ứng bán kính 300 xung quanh bản thân, hồi phục HP đồng minh $1/s và TP 10/s trong 12.5s.\n►Hồi phục 280 TP cho bản thân.
 
 ##EX##
@@ -36,8 +36,8 @@ r:"^毎秒ＴＰを10回復するフィールドを展開する毎秒ＨＰを(\
 
 ##S1+##
 ファイアエンハンスメント+=Tăng Cường Hỏa+
-味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせ、物理攻撃クリティカル時のダメージを小アップさせる。さらに、自分の物理攻撃力と物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップし、ＨＰを小回復、ＴＰを大回復する。=Tăng cực lớn tấn công vật lý (P.ATK) cho tất cả đồng minh, và tăng một chút tỷ lệ chí mạng vật lý (P.CRIT Rate) cùng sát thương chí mạng vật lý (P.CRIT DMG) của họ. Đồng thời, tăng cực lớn tấn công vật lý (P.ATK) và tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân, tăng vừa phải sát thương chí mạng vật lý (P.CRIT DMG), hồi phục một chút HP và hồi phục vừa phải TP cho bản thân.
-r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の物理攻撃クリティカル時のダメージを12％アップ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを200アップ自分の物理攻撃クリティカル時のダメージを24％アップ自分のＴＰを280回復自分のＨＰを(\d+)回復$"=►Tăng tấn công vật lý (P.ATK) của tất cả đồng minh lên $1 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) của tất cả đồng minh lên 100 trong 12s.\n►Tăng sát thương chí mạng vật lý (P.CRIT DMG) của tất cả đồng minh lên 12% trong 12s.\n►Tăng tấn công vật lý (P.ATK) của bản thân lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân lên 200 trong 12s.\n►Tăng sát thương chí mạng vật lý (P.CRIT DMG) của bản thân lên 24% trong 12s.\n►Hồi phục 280 TP cho bản thân.\n►Hồi phục $3 HP cho bản thân.
+味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップ、物理クリティカルダメージを小アップさせる。自分の物理攻撃力と物理クリティカルを特大アップ、物理クリティカルダメージを中アップ、ＨＰを小回復、ＴＰを大回復する。=Tăng cực lớn Tấn công vật lý, tăng lớn Bạo kích vật lý và tăng nhẹ Sát thương bạo kích vật lý của toàn bộ đồng minh. Tăng cực lớn Tấn công vật lý và Bạo kích vật lý, tăng vừa Sát thương bạo kích vật lý, hồi phục nhẹ HP và hồi phục lớn TP cho bản thân.
+r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ味方全体の物理攻撃クリティカル時のダメージを12％アップ自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを200アップ自分の物理攻撃クリティカル時のダメージを24％アップ自分のＴＰを280回復自分のＨＰを(\d+)回復$"=Thời gian niệm: 0.59s.\n►Tăng tấn công vật lý (P.ATK) của tất cả đồng minh lên $1 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) của tất cả đồng minh lên 100 trong 12s.\n►Tăng sát thương chí mạng vật lý (P.CRIT DMG) của tất cả đồng minh lên 12% trong 12s.\n►Tăng tấn công vật lý (P.ATK) của bản thân lên $2 trong 12s.\n►Tăng tỷ lệ chí mạng vật lý (P.CRIT Rate) của bản thân lên 200 trong 12s.\n►Tăng sát thương chí mạng vật lý (P.CRIT DMG) của bản thân lên 24% trong 12s.\n►Hồi phục 280 TP cho bản thân.\n►Hồi phục $3 HP cho bản thân.
 
 ##UE##
 好敵手たちの輝き=Ánh Sáng Của Kẻ Đối Thủ

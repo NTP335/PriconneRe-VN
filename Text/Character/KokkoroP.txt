@@ -8,19 +8,16 @@
 
 ##UB##
 オーロラ・サンクチュアリ=Nơi Trú Ẩn Cực Quang
-自分を中心に、範囲内の味方すべてのＨ\nＰを小回復し、ＴＰ上昇を小アップさせ\nるフィールドを展開する。さらに味方全\n体の物理・魔法攻撃クリティカル時のダ\nメージを小アップさせ、敵全体の物理・\n魔法防御力を小ダウンさせる。=Triệu hồi một vùng hiệu quả xung quanh bản thân, hồi phục một chút HP và tăng TP Boost cho đồng minh gần đó. Đồng thời, tăng nhẹ P/M.Crit DMG cho tất cả đồng minh và giảm P/M.DEF của tất cả kẻ địch.
+自分を中心とした範囲内の味方のＨＰを小回復、ＴＰ上昇を小アップさせるフィールドを展開する。味方全体の物理・魔法クリティカルダメージを小アップさせ、敵全体の物理・魔法防御力を小ダウンさせる。=Triển khai trường ma thuật giúp hồi phục nhẹ HP và tăng nhẹ Tăng TP cho đồng minh trong phạm vi lấy bản thân làm trung tâm. Tăng nhẹ Sát thương bạo kích vật lý và Sát thương bạo kích phép của toàn bộ đồng minh, đồng thời giảm nhẹ Phòng thủ vật lý và Phòng thủ phép của toàn bộ kẻ địch.
 r:"^毎秒ＨＰを(\d+)回復するフィールドを展開するＴＰ上昇を(\d+)アップさせるフィールドを展開する味方全体の物理・魔法攻撃クリティカル時のダメージを(\d+％)アップ敵全体の物理・魔法防御力を(\d+)ダウン$"=►Triệu hồi vùng hiệu quả xung quanh bản thân, hồi phục $1 HP/giây.\n►Tăng TP Boost thêm $2.\n►Tăng P.Crit và M.Crit DMG của tất cả đồng minh thêm $3.\n►Giảm P.DEF và M.DEF của tất cả kẻ địch thêm $4.
 
 ##S1##
 エアロヒーリング=Aero Healing
-エアロヒーリング+=Aero Healing+
-味方全体のＨＰを小回復する。=Hồi phục một chút HP cho toàn bộ đồng minh.
-味方全体のＨＰを小回復する。さらに、\n味方全体の物理攻撃力と魔法攻撃力を特\n大アップさせ、物理クリティカルと魔法\nクリティカルを大アップし、物理・魔法\n攻撃クリティカル時のダメージを小アッ\nプさせる。=Hồi phục một chút HP cho toàn bộ đồng minh. Đồng thời, tăng rất lớn P.ATK và M.ATK, tăng lớn P.Crit và M.Crit, và tăng nhẹ P/M.Crit DMG.
-r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の物理・魔法攻撃クリティカル時のダメージを(\d+％)アップ$"=►Hồi phục HP của toàn bộ đồng minh thêm $1.\n►Tăng P.ATK của toàn bộ đồng minh thêm $2.\n►Tăng M.ATK của toàn bộ đồng minh thêm $3.\n►Tăng P.Crit của toàn bộ đồng minh thêm $4.\n►Tăng M.Crit của toàn bộ đồng minh thêm $5.\n►Tăng P.Crit và M.Crit DMG của toàn bộ đồng minh thêm $6.
+味方全体のＨＰを小回復させる。=Hồi phục nhẹ HP cho toàn bộ đồng minh.
 
 ##S2##
 ブライトアテンション=Bright Attitude
-味方全体の物理攻撃力と魔法攻撃力を大アップさせ、さらにＴＰを小回復する。=Tăng rất lớn P.ATK và M.ATK cho toàn bộ đồng minh, và hồi phục nhẹ TP của họ.
+味方全体の物理・魔法攻撃力を大アップ、ＴＰを小回復させる。=Tăng lớn Tấn công vật lý và Tấn công phép của toàn bộ đồng minh, đồng thời hồi phục nhẹ TP.
 r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰを(\d+)回復$"=►Tăng P.ATK của toàn bộ đồng minh thêm $1.\n►Tăng M.ATK của toàn bộ đồng minh thêm $2.\n►Hồi phục TP của toàn bộ đồng minh thêm $3.
 
 ##EX##
@@ -29,3 +26,8 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃�
 
 ##UE##
 マーシフルプリンセスローブ=Merciful Princess Robe
+
+##S1+##
+エアロヒーリング+=Aero Healing+
+味方全体のＨＰを小回復、物理・魔法攻撃力を特大アップ、物理・魔法クリティカルを大アップ、物理・魔法クリティカルダメージを小アップさせる。=Hồi phục nhẹ HP, tăng cực lớn Tấn công vật lý và Tấn công phép, tăng lớn Bạo kích vật lý và Bạo kích phép, đồng thời tăng nhẹ Sát thương bạo kích vật lý và Sát thương bạo kích phép của toàn bộ đồng minh.
+r:"^味方全体のＨＰを(\d+)回復味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ味方全体の物理クリティカルを(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ味方全体の物理・魔法攻撃クリティカル時のダメージを(\d+％)アップ$"=►Hồi phục $1 HP cho toàn bộ đồng minh.\n►Tăng $2 Tấn công vật lý cho toàn bộ đồng minh.\n►Tăng $3 Tấn công phép cho toàn bộ đồng minh.\n►Tăng $4 Bạo kích vật lý cho toàn bộ đồng minh.\n►Tăng $5 Bạo kích phép cho toàn bộ đồng minh.\n►Tăng $6 Sát thương Bạo kích vật lý và Bạo kích phép cho toàn bộ đồng minh.

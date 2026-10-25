@@ -8,16 +8,17 @@
 
 ##UB##
 グロリアステンペスト=Cơn bão rực rỡ
-前方範囲内の敵すべてに物理大ダメージを与える。対象になる敵が多いほど、クリティカル時に与えるダメージがアップする。=Gây sát thương vật lý lớn cho kẻ thù trong phạm vi 750. Sát thương vật lý chí mạng tăng lên theo số lượng kẻ thù trong phạm vi.\nSát thương vật lý chí mạng: (+30%×Số kẻ thù)
+前方範囲内の敵に物理大ダメージを与える。対象の敵の数に応じて、このスキルのクリティカルダメージが増加する。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi phía trước. Sát thương bạo kích của kỹ năng này tăng tùy thuộc vào số lượng kẻ địch trúng đòn.
 
 ##S1##
 トゥインクルエッジ=Lưỡi kiếm lấp lánh
-自分の物理攻撃力と物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを小アップさせる。敵の数に応じて、このスキルの効果値がアップする。=Tăng sức tấn công vật lý và tỷ lệ chí mạng vật lý của bản thân rất lớn, và cũng tăng sát thương vật lý chí mạng một chút. Giá trị hiệu quả tăng theo số lượng kẻ thù trong phạm vi.
+自分の物理攻撃力と物理クリティカルを大アップ、物理クリティカルダメージを小アップする。敵の数に応じて、効果量が増加する。=Tăng lớn Tấn công vật lý và Bạo kích vật lý, đồng thời tăng nhẹ Sát thương bạo kích vật lý của bản thân. Lượng hiệu ứng tăng tùy thuộc vào số lượng kẻ địch.
+
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを50アップ自分の物理攻撃クリティカル時のダメージを8％アップ$"=Thời gian niệm: 0.415s\n►Tăng sức tấn công vật lý của bản thân lên $1 (+$1×Số kẻ thù) trong 12s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên 50 (+50×Số kẻ thù) trong 12s.\n►Tăng sát thương vật lý chí mạng của bản thân lên 8% (+8%×Số kẻ thù) trong 12s.
 
 ##S2##
 ランペイジスラッシュ=Chém điên cuồng
-前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理攻撃力を中アップさせる。対象になる敵が多いほど、物理攻撃力の上昇量がアップする。=Gây sát thương vật lý vừa phải cho kẻ thù trong phạm vi, và tăng sức tấn công vật lý của bản thân một cách vừa phải. Mức tăng sức tấn công vật lý tăng theo số lượng kẻ thù trong phạm vi.\nSức tấn công vật lý: (+Sức tấn công vật lý×Số kẻ thù)
+前方範囲内の敵に物理中ダメージを与え、自分の物理攻撃力を中アップする。対象の敵の数に応じて、物理攻撃力のアップ量が増加する。=Gây sát thương vật lý vừa lên kẻ địch trong phạm vi phía trước và tăng vừa Tấn công vật lý của bản thân. Lượng tăng Tấn công vật lý tăng tùy thuộc vào số lượng kẻ địch trúng đòn.
 
 ##EX##
 ブロウアップハート=Trái tim bùng nổ
@@ -25,7 +26,7 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカル�
 
 ##S1+##
 トゥインクルエッジ+=Lưỡi kiếm lấp lánh+
-自分の物理攻撃力と物理クリティカルを大アップさせ、さらに物理攻撃クリティカル時のダメージを小アップさせる。敵の数に応じて、このスキルの効果値がアップする。さらに自分のＴＰを小回復する。=Tăng sức tấn công vật lý và tỷ lệ chí mạng vật lý của bản thân rất lớn, và cũng tăng sát thương vật lý chí mạng một chút. Giá trị hiệu quả tăng theo số lượng kẻ thù trong phạm vi. Hồi một chút TP của bản thân.
+自分の物理攻撃力と物理クリティカルを大アップ、物理クリティカルダメージを小アップする。敵の数に応じて、効果量が増加する。自分のＴＰを小回復する。=Tăng lớn Tấn công vật lý và Bạo kích vật lý, đồng thời tăng nhẹ Sát thương bạo kích vật lý của bản thân. Lượng hiệu ứng tăng tùy thuộc vào số lượng kẻ địch. Hồi phục nhẹ TP cho bản thân.
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを(\d+)アップ自分の物理攻撃クリティカル時のダメージを8％アップ自分のＴＰを70回復$"=►Tăng sức tấn công vật lý của bản thân lên $1 (+$1×Số kẻ thù) trong 18s.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 (+$2×Số kẻ thù) trong 18s.\n►Tăng sát thương vật lý chí mạng của bản thân lên 8% (+8%×Số kẻ thù) trong 18s.\n►Hồi TP của bản thân lên 70.
 
 ##UE##

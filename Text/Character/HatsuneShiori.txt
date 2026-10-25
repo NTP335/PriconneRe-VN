@@ -14,8 +14,8 @@ r:"^自分の物理攻撃力を(\d+)アップ範囲内の敵に(\d+)の物理ダ
 
 ##S1##
 スターライトシュート=Starlight Shoot
-前方の敵すべてに物理中ダメージを与え、さらに自分のＴＰを中回復する。範囲内の敵の数に応じて、ダメージとＴＰの回復量が増加する。=Gây sát thương vừa lên tất cả kẻ địch, và phục hồi chút TP cho bản thân. Sát thương vật lý gây ra và lượng TP phục hồi tăng theo số lượng kẻ địch.
-r:"^範囲内の敵に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=►Gây $1 (+0.3×$1×Số kẻ địch) sát thương vật lý lên tất cả kẻ địch.\n►Phục hồi $2 (+25×Số kẻ địch) TP cho bản thân.
+前方の敵に物理中ダメージを与え、自分のＴＰを中回復する。範囲内の敵の数に応じて、効果量が増加する。=Gây sát thương vật lý vừa lên kẻ địch phía trước và hồi phục vừa TP cho bản thân. Lượng hiệu ứng sẽ tăng lên tùy thuộc vào số lượng kẻ địch trong phạm vi.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=Thời gian thi triển: 0.59s.\n►Gây $1 (+0.3×$1×Số kẻ địch) sát thương vật lý lên tất cả kẻ địch.\n►Phục hồi $2 (+25×Số kẻ địch) TP cho bản thân.
 
 ##S2##
 シスターズリンク=Sisters' Link

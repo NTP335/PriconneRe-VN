@@ -1,11 +1,13 @@
-【物理】後衛で、喪われた光を求めてもがく元『六凶』。敵のＵＢを遅延する【遮絶の操糸】や、味方単体のＵＢを連続発動可能にする【賦活の糸】を戦場に張り巡らせる。=[Vật lý] Hậu phương cựu "Six Calamities" tìm kiếm ánh sáng đã mất. Triển khai sợi chỉ làm chậm UB kẻ địch và cho phép đồng minh spam UB trên chiến trường.
+【物理】後衛で、喪われた光を求めてもがく元『六凶』。敵のＵＢを遅延する【遮絶の操糸】や、味方単体のＵＢを連続発動可能にする【賦活の糸】を戦場に張り巡らせる。=[Vật lý] Cựu thành viên của "Lục Họa" chiến đấu ở hàng sau, giãy giụa tìm kiếm ánh sáng đã mất. Cô chăng khắp chiến trường 【Sợi Dây Rối Cách Tuyệt】 giúp làm chậm UB của kẻ địch, và 【Sợi Dây Phú Hoạt】 cho phép một đồng minh kích hoạt UB liên tiếp.
+
+
 光を追うこと、整理整頓=Theo đuổi ánh sáng, sắp xếp và dọn dẹp.
 
 新たな道を歩み始めた女郎蜘蛛=Một arachne đã bắt đầu bước đi trên con đường mới.
 
 ##UB##
 ウィドウ・ウェヴ・ウィーヴ=Widow Web Weave
-味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与する。自分以外の物理攻撃を行う味方のうち最も物理攻撃力が高い味方の物理攻撃力を特大アップさせ、【賦活の糸】（上限１）を１個付与する。【賦活の糸】付与中の味方がＵＢを発動した場合、その味方の【賦活の糸】を１個消費し、さらにＴＰを特大回復させる。=Triển khai rào chắn vô hiệu hóa sát thương vật lý/phép thuật cho toàn bộ đồng minh và cấp trạng thái hồi phục HP liên tục. Tăng cực đại chỉ số tấn công vật lý cho đồng minh gây sát thương vật lý có chỉ số tấn công vật lý cao nhất (ngoại trừ bản thân) và cấp cho mục tiêu đó 1 【Sợi Chỉ Hoạt Hóa】 (giới hạn 1). Khi đồng minh đang có 【Sợi Chỉ Hoạt Hóa】 kích hoạt UB, mục tiêu đó sẽ tiêu hao 1 【Sợi Chỉ Hoạt Hóa】 và hồi phục lượng lớn TP.
+味方全体に物理/魔法無効バリアを展開し、継続ＨＰ回復状態を付与する。自分以外の物理攻撃を行う味方のうち最も物理攻撃力が高い味方の物理攻撃力を特大アップさせ、【賦活の糸】（上限１）を１個付与する。【賦活の糸】付与中の味方がＵＢを発動した場合、その味方の【賦活の糸】を１個消費し、さらにＴＰを特大回復させる。=Triển khai rào chắn vô hiệu hóa sát thương vật lý/phép thuật cho toàn bộ đồng minh và cấp trạng thái hồi phục HP liên tục. Tăng cực đại chỉ số tấn công vật lý cho đồng minh gây sát thương vật lý có chỉ số tấn công vật lý cao nhất (ngoại trừ bản thân) và cấp cho mục tiêu đó 1 [Sợi Dây Rối Cách Tuyệt] (giới hạn 1). Khi đồng minh đang có [Sợi Dây Rối Cách Tuyệt] kích hoạt UB, mục tiêu đó sẽ tiêu hao 1 [Sợi Dây Rối Cách Tuyệt] và hồi phục lượng lớn TP.
 
 r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する毎秒ＨＰを(\d+)回復する対象の味方の物理攻撃力を(\d+)アップ対象の味方に賦活の糸を付与する対象の味方がＵＢを使用した時に、賦活の糸を１つ消費し、ＴＰを1000回復$"=►Triển khai Rào cản Vô hiệu Vật lý/Phép thuật hấp thụ $1 sát thương.\n►Hồi HP $2 mỗi giây.\n►Tăng P.ATK của đồng minh mục tiêu lên $3.\n►Trao [Activation Thread] cho đồng minh mục tiêu.\n►Khi đồng minh mục tiêu dùng UB: Tiêu thụ 1 [Activation Thread] và hồi 1000 TP.
 
@@ -18,16 +20,16 @@ r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御�
 ##S2##
 粘つく白糸=Sợi tơ trắng dính dớp
 目の前の敵１キャラの物理・魔法攻撃力を大ダウン、物理防御力を小ダウンさせ、受ける物理ダメージを小アップさせる。=Giảm mạnh chỉ số tấn công vật lý và tấn công phép thuật của một kẻ địch ở ngay phía trước, giảm nhẹ phòng thủ vật lý, và tăng nhẹ sát thương vật lý mà kẻ địch đó phải nhận.
-r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体が受ける物理ダメージを3％アップ$"=Thời gian thi triển: 1.05s.\n►Giảm $1 tấn công vật lý của một kẻ địch đơn lẻ.\n►Giảm $2 tấn công phép thuật của một kẻ địch đơn lẻ.\n►Giảm $3 phòng thủ vật lý của một kẻ địch đơn lẻ.\n►Tăng 3% sát thương vật lý mà một kẻ địch đơn lẻ phải nhận.
+r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\d+)ダウン敵単体の物理防御力を(\d+)ダウン敵単体の受ける物理ダメージを3％アップ$"=Thời gian thi triển: 1.05s.\n►Giảm $1 Tấn công vật lý của đơn thể kẻ địch.\n►Giảm $2 Tấn công phép của đơn thể kẻ địch.\n►Giảm $3 Phòng thủ vật lý của đơn thể kẻ địch.\n►Tăng 3% Sát thương vật lý nhận vào của đơn thể kẻ địch.
 
 ##EX##
 光射す方へ=Hướng về nơi ánh sáng rạng ngời
 光射す方へ+=Hướng về nơi ánh sáng rạng ngời+
 
 逃れ得ぬカルマ=Nghiệp chướng khó lòng thoát khỏi
-敵単体を遮絶の操糸状態にする物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Khiến một kẻ địch rơi vào trạng thái dây cô lập.\nKhiến kẻ địch có sức tấn công cao nhất, dù là P.ATK hay M.ATK, rơi vào trạng thái dây cô lập. Trong khi ở trạng thái dây cô lập, TP không tăng.
+敵単体を遮絶の操糸状態にする物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Gán trạng thái [Sợi Dây Rối Cách Tuyệt] lên 1 kẻ địch có Tấn công vật lý hoặc Tấn công phép cao nhất. Trong thời gian chịu trạng thái [Sợi Dây Rối Cách Tuyệt], TP sẽ không thể tăng.
 
-物理攻撃力、魔法攻撃力いずれかで、最も攻撃力が高い敵１キャラを遮絶の操糸状態にする。遮絶の操糸状態の間はＴＰが増加しない。=Khiến kẻ địch có sức tấn công cao nhất, dù là P.ATK hay M.ATK, rơi vào trạng thái dây cô lập. Trong khi ở trạng thái dây cô lập, TP không tăng.
+最も攻撃力が高い敵を遮絶の操糸状態にする。遮絶の操糸状態中はＴＰが増加しない。=Gán trạng thái [Sợi Dây Rối Cách Tuyệt] lên kẻ địch có Tấn công cao nhất. Trong thời gian chịu trạng thái [Sợi Dây Rối Cách Tuyệt], TP sẽ không thể tăng.
 敵単体を遮絶の操糸状態にする=Khiến một kẻ địch rơi vào trạng thái dây cô lập.
 
 Story Title Cards

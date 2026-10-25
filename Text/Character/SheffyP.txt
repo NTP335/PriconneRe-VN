@@ -25,7 +25,7 @@ r:"^絶氷中、味方全体の物理攻撃力を(\d+)アップ絶氷中、味�
 ##EX##
 ラディアントルッツ=Lutz Rực Rỡ
 ラディアントルッツ+=Lutz Rực Rỡ+
-
+バトル開始時に自分の物理クリティカルを中アップする。=Tăng vừa Bạo kích vật lý của bản thân khi bắt đầu trận đấu.
 
 絶氷=Phá Băng
 物理攻撃クリティカル時のダメージが小アップする。=Tăng nhẹ Sát Thương Phá Thủ Vật Lý.

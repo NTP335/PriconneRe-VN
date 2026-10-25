@@ -1,20 +1,20 @@
 ##Profile##
-【物理】中衛で、優艶に炎と踊り舞う情熱のサレンママ。物理攻撃から味方を守り、【炎舞の刻印】の数に応じて効果の上がる物攻アップとＴＰ回復で皆を奮い立たせる。=[Vật Lý] Mẹ Saren nhảy điệu múa lửa đầy nhiệt huyết ở vùng trung tâm. Bảo vệ đồng minh khỏi tấn công vật lý và tăng tấn công vật lý, đồng thời hồi TP theo số Dấu Ấn Vũ Điệu Lửa tích lũy được.
+【物理】中衛で、優艶に炎と踊り舞う情熱のサレンママ。物理攻撃から味方を守り、【炎舞の刻印】の数に応じて効果の上がる物攻アップとＴＰ回復で皆を奮い立たせる。=[Vật Lý] Mẹ Saren nhảy điệu múa lửa đầy nhiệt huyết ở vùng trung tâm. Bảo vệ đồng minh khỏi tấn công vật lý và tăng tấn công vật lý, đồng thời hồi TP theo số 【Khắc Ấn Viêm Vũ】 tích lũy được.
 
 ##UB##
 シアリングストーム=Bão Cháy Dữ Dội
-自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、目の前の敵１キャラに物理大ダメージを与え、自分に【炎舞の刻印】を１つ付与する。【炎舞の刻印】は最大３まで追加される。【炎舞の刻印】の数に応じて、物理攻撃力の上昇量とダメージが増加する。=Tăng mạnh Tấn Công Vật Lý cho đồng minh trong phạm vi, gây sát thương vật lý lớn cho kẻ địch phía trước và tích lũy 1 [Dấu Ấn Vũ Điệu Lửa], tối đa 3. Hiệu quả tăng Tấn Công Vật Lý và sát thương vật lý tăng theo số [Dấu Ấn Vũ Điệu Lửa].
-r:"^自分に炎舞の刻印を付与する範囲内の味方の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=►Tích lũy 1 [Dấu Ấn Vũ Điệu Lửa].\n►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $1 (+0.33×$1×[Dấu Ấn Vũ Điệu Lửa]) trong 18s.\n►Gây $2 (+1.2×$2×[Dấu Ấn Vũ Điệu Lửa]) sát thương vật lý cho kẻ địch.
+自分を中心とした範囲内の味方の物理攻撃力を特大アップさせ、目の前の敵１キャラに物理大ダメージを与え、自分に【炎舞の刻印】（上限３）を１個付与する。【炎舞の刻印】の数に応じて、物理攻撃力のアップ量とダメージが増加する。=Tăng cực lớn Tấn công vật lý của đồng minh trong phạm vi lấy bản thân làm trung tâm, gây sát thương vật lý lớn lên 1 kẻ địch phía trước và gán 1 tích lũy 【Khắc Ấn Viêm Vũ (Flame Dance Mark)】 (tối đa 3) cho bản thân. Lượng tăng Tấn công vật lý và sát thương sẽ tăng tùy thuộc vào số lượng tích lũy 【Khắc Ấn Viêm Vũ】.
+r:"^自分に炎舞の刻印を付与する範囲内の味方の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ$"=►Tích lũy 1 【Khắc Ấn Viêm Vũ】.\n►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $1 (+0.33×$1×【Khắc Ấn Viêm Vũ】) trong 18s.\n►Gây $2 (+1.2×$2×【Khắc Ấn Viêm Vũ】) sát thương vật lý cho kẻ địch.
 
 ##S1##
 フレイムオービット=Quỹ Đạo Lửa
-目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の味方すべてのＴＰを小回復させる。【炎舞の刻印】の数に応じて、ダメージとＴＰの回復量が増加する。=Gây sát thương vật lý lớn cho kẻ địch phía trước và hồi nhẹ TP cho đồng minh trong phạm vi. Sát thương vật lý và lượng TP hồi tăng theo số [Dấu Ấn Vũ Điệu Lửa].
-r:"^敵単体に(\d+)の物理ダメージ範囲内の味方のＴＰを60回復$"=►Gây $1 (+0.8×$1×[Dấu Ấn Vũ Điệu Lửa]) sát thương vật lý cho kẻ địch.\n►Hồi TP cho đồng minh trong phạm vi 300 lên 60 (+20×[Dấu Ấn Vũ Điệu Lửa]).
+目の前の敵１キャラに物理大ダメージを与え、自分を中心とした範囲内の味方のＴＰを小回復させる。【炎舞の刻印】の数に応じて、効果量が増加する。=Gây sát thương vật lý lớn lên 1 kẻ địch phía前 và hồi phục nhẹ TP cho đồng minh trong phạm vi lấy bản thân làm trung tâm. Lượng hiệu ứng tăng tùy thuộc vào số lượng tích lũy 【Khắc Ấn Viêm Vũ】.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方のＴＰを60回復$"=Thời gian thi triển: 0.59s.\n►Gây $1 (+0.8×$1×【Khắc Ấn Viêm Vũ】) sát thương vật lý cho kẻ địch.\n►Hồi TP cho đồng minh trong phạm vi 300 lên 60 (+20×【Khắc Ấn Viêm Vũ】).
 
 ##S2##
 パッショネイト=Đam Mê
 自分を中心とした範囲内の味方すべての物理攻撃力と物理防御力を大アップさせ、物理無効バリアを展開する。=Tăng mạnh Tấn Công Vật Lý và Phòng Thủ Vật Lý cho đồng minh trong phạm vi, tạo khiên bảo vệ đồng minh trong phạm vi, chống lại sát thương vật lý.
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $1 trong 12s.\n►Tăng Phòng Thủ Vật Lý cho đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Tạo khiên cho đồng minh trong phạm vi 300, chống lại $3 sát thương vật lý trong 12s.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理防御力を(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する$"=Thời gian thi triển: 0.59s.\n►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $1 trong 12s.\n►Tăng Phòng Thủ Vật Lý cho đồng minh trong phạm vi 300 lên $2 trong 12s.\n►Tạo khiên cho đồng minh trong phạm vi 300, chống lại $3 sát thương vật lý trong 12s.
 
 ##EX##
 デザートベール=Lá Chắn Sa Mạc
@@ -22,8 +22,8 @@ r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の�
 
 ##S1+##
 フレイムオービット+=Quỹ Đạo Lửa+
-自分を中心とした範囲内の味方すべての物理攻撃力を中アップさせ、目の前の敵１キャラに物理大ダメージを与える。さらに自分を中心とした範囲内の味方すべてのＴＰを小回復させる。このスキルの効果量は【炎舞の刻印】の数に応じて上昇する。=Tăng vừa phải Tấn Công Vật Lý cho đồng minh trong phạm vi, gây sát thương vật lý lớn cho kẻ địch phía trước và hồi nhẹ TP cho đồng minh trong phạm vi. Hiệu quả kỹ năng tăng theo số [Dấu Ấn Vũ Điệu Lửa].
-r:"^敵単体に(\d+)の物理ダメージ範囲内の味方のＴＰを60回復範囲内の味方の物理攻撃力を(\d+)アップ$"=►Gây $1 (+0.9×$1×[Dấu Ấn Vũ Điệu Lửa]) sát thương vật lý cho kẻ địch.\n►Hồi TP cho đồng minh trong phạm vi 300 lên 60 (+20×[Dấu Ấn Vũ Điệu Lửa]).\n►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $2 (+0.33×$2×[Dấu Ấn Vũ Điệu Lửa]) trong 12s.
+自分を中心とした範囲内の味方の物理攻撃力を中アップさせ、目の前の敵１キャラに物理大ダメージを与える。自分を中心とした範囲内の味方のＴＰを小回復させる。【炎舞の刻印】の数に応じて、効果量が増加する。=Tăng vừa Tấn công vật lý của đồng minh trong phạm vi lấy bản thân làm trung tâm, gây sát thương vật lý lớn lên 1 kẻ địch phía trước. Hồi phục nhẹ TP cho đồng minh trong phạm vi lấy bản thân làm trung tâm. Lượng hiệu ứng tăng tùy thuộc vào số lượng tích lũy 【Khắc Ấn Viêm Vũ】.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の味方のＴＰを60回復範囲内の味方の物理攻撃力を(\d+)アップ$"=Thời gian thi triển: 0.59s.\n►Gây $1 (+0.9×$1×【Khắc Ấn Viêm Vũ】) sát thương vật lý cho kẻ địch.\n►Hồi TP cho đồng minh trong phạm vi 300 lên 60 (+20×【Khắc Ấn Viêm Vũ】).\n►Tăng Tấn Công Vật Lý cho đồng minh trong phạm vi 300 lên $2 (+0.33×$2×【Khắc Ấn Viêm Vũ】) trong 12s.
 
 ##UE##
 熱き砂漠のサラサリアン=Sa Mạc Nóng Bỏng Salasaria

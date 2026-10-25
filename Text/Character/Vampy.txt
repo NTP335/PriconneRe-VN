@@ -13,24 +13,31 @@
 約束の花をあなたに=Bông Hoa Lời Hứa Dành Cho Cậu
 吸血姫とベス人形=Công Chúa Ma Cà Rồng và Búp Bê Beth
 
-r:"^ゴロツキに絡まれていた(.{1,10})を助けてくれたのは、謎の少女ヴァンピィだった。友だちのドラゴン『ベス』を探すヴァンピィのために(.{1,10})は協力することに。$"="Đó là Vampy, một cô gái bí ẩn, người đã giúp đỡ $1, người bị dính vào Gorotsuki. Khi tìm thấy rồng "Beth" của bạn cô ấy, $1 quyết định hợp tác với Vampy."
-r:"^ベスを探す(.{1,10})とヴァンピィ。そんな二人の前に、吸血鬼のイリヤが現れる。かくして(.{1,10})を巡り、イリヤとヴァンピィによる眷属の取り合いが始まるのだった。$"=$1 và Vampy đi tìm Beth. Một ma cà rồng, Illya, xuất hiện trước mặt họ. Vì vậy, vì $1, Illya và Vampy bắt đầu chiến đấu vì dòng dõi.
-r:"^元々、ヴァンピィとベスは何者かに誘拐されてランドソルへ来たことを知った(.{1,10})。イリヤのコウモリのおかげでベスの居場所が判明し、ついにベスとヴァンピィは再会を果たした。$"=Ban đầu $1 biết rằng Vampy và Beth đã bị ai đó bắt cóc và đến Landosol. Nhờ những con dơi của Illya, nơi ẩn náu của Beth đã được tiết lộ, và Beth cùng Vampy cuối cùng đã đoàn tụ.
-r:"^夜の学校に少女の霊が現れるという噂が囁かれていた頃。成り行きで(.{1,10})はその少女と出会い、学校案内を頼まれる。そこで(.{1,10})は、少女の本当の正体を知るのだった。$"=Khoảng thời gian khi có tin đồn rằng linh hồn một cô gái sẽ xuất hiện ở trường đêm. $1 gặp cô gái và được yêu cầu cung cấp thông tin về trường học của cô ấy. Vì vậy $1 biết được sự thật về cô gái.
-r:"^ヴァンピィとベスが再会した後、ヴァンピィは自分の故郷がどこにあるのか思い出せないことが分かる。そこで(.{1,10})は、ヴァンピィを故郷へ帰すために手助けすることを決める。$"=Sau khi Vampy và Beth gặp lại nhau, Vampy nhận ra cô ấy không thể nhớ quê hương của mình ở đâu. Vì vậy $1 quyết định giúp Vampy trở về quê hương.
-r:"^ヴァンピィたちを誘拐した黒幕が『伯爵』だと判明。単独で『伯爵』の屋敷へ乗り込んだヴァンピィを追って(.{1,10})はベスと一緒に城へ乗り込み、『伯爵』との決着をつけるのだった。$"="Kẻ chủ mưu đằng sau vụ bắt cóc Vampies hóa ra là "Bá tước". Theo sau Vampy, người đã một mình lên biệt thự của "Bá tước", $1 cùng Beth lên lâu đài và thanh toán với "Bá tước"."
-r:"^『伯爵』の供述によって、ヴァンピィの故郷がすでにないことを知る。永い眠りの末、大切な記憶を失ったヴァンピィのために、(.{1,10})とベスはひとつの約束をヴァンピィに伝えるのだった。$"="Lời khai của "Bá tước" cho chúng ta biết rằng quê hương của Vampy không còn tồn tại. $1 và Beth nói với Vampy một lời hứa dành cho cô ấy, người đã mất đi ký ức quý giá sau giấc ngủ dài."
-r:"^眠る(.{1,10})の前に現れたヴァンピィは、ぬいぐるみのベスを紹介。『レジェンドオブアストルム』にもベスがいると知ったヴァンピィは、(.{1,10})とゲームで会う約束をするのだった。$"="Vampy, người xuất hiện trước mặt $1 đang ngủ, giới thiệu Beth, một con thú nhồi bông. Biết rằng Beth cũng có trong Legend of Astrum, Vampy hứa sẽ gặp $1 trong trò chơi."
+ゴロツキに絡まれていた{playername}を助けてくれたのは、謎の少女ヴァンピィだった。友だちのドラゴン『ベス』を探すヴァンピィのために{playername}は協力することに。=Đó là Vampy, một cô gái bí ẩn, người đã giúp đỡ {playername}, người bị dính vào Gorotsuki. Khi tìm thấy rồng "Beth" của bạn cô ấy, {playername} quyết định hợp tác với Vampy.
+ベスを探す{playername}とヴァンピィ。そんな二人の前に、吸血鬼のイリヤが現れる。かくして{playername}を巡り、イリヤとヴァンピィによる眷属の取り合いが始まるのだった。={playername} và Vampy đi tìm Beth. Một ma cà rồng, Illya, xuất hiện trước mặt họ. Vì vậy, vì {playername}, Illya và Vampy bắt đầu chiến đấu vì dòng dõi.
+元々、ヴァンピィとベスは何者かに誘拐されてランドソルへ来たことを知った{playername}。イリヤのコウモリのおかげでベスの居場所が判明し、ついにベスとヴァンピィは再会を果たした。=Ban đầu {playername} biết rằng Vampy và Beth đã bị ai đó bắt cóc và đến Landosol. Nhờ những con dơi của Illya, nơi ẩn náu của Beth đã được tiết lộ, và Beth cùng Vampy cuối cùng đã đoàn tụ.
+夜の学校に少女の霊が現れるという噂が囁かれていた頃。成り行きで{playername}はその少女と出会い、学校案内を頼まれる。そこで{playername}は、少女の本当の正体を知るのだった。=Khoảng thời gian khi có tin đồn rằng linh hồn một cô gái sẽ xuất hiện ở trường đêm. {playername} gặp cô gái và được yêu cầu cung cấp thông tin về trường học của cô ấy. Vì vậy {playername} biết được sự thật về cô gái.
+ヴァンピィとベスが再会した後、ヴァンピィは自分の故郷がどこにあるのか思い出せないことが分かる。そこで{playername}は、ヴァンピィを故郷へ帰すために手助けすることを決める。=Sau khi Vampy và Beth gặp lại nhau, Vampy nhận ra cô ấy không thể nhớ quê hương của mình ở đâu. Vì vậy {playername} quyết định giúp Vampy trở về quê hương.
+ヴァンピィたちを誘拐した黒幕が『伯爵』だと判明。単独で『伯爵』の屋敷へ乗り込んだヴァンピィを追って{playername}はベスと一緒に城へ乗り込み、『伯爵』との決着をつけるのだった。=Kẻ chủ mưu đằng sau vụ bắt cóc Vampies hóa ra là "Bá tước". Theo sau Vampy, người đã một mình lên biệt thự của "Bá tước", {playername} cùng Beth lên lâu đài và thanh toán với "Bá tước".
+『伯爵』の供述によって、ヴァンピィの故郷がすでにないことを知る。永い眠りの末、大切な記憶を失ったヴァンピィのために、{playername}とベスはひとつの約束をヴァンピィに伝えるのだった。=Lời khai của "Bá tước" cho chúng ta biết rằng quê hương của Vampy không còn tồn tại. {playername} và Beth nói với Vampy một lời hứa dành cho cô ấy, người đã mất đi ký ức quý giá sau giấc ngủ dài.
+眠る{playername}の前に現れたヴァンピィは、ぬいぐるみのベスを紹介。『レジェンドオブアストルム』にもベスがいると知ったヴァンピィは、{playername}とゲームで会う約束をするのだった。=Vampy, người xuất hiện trước mặt {playername} đang ngủ, giới thiệu Beth, một con thú nhồi bông. Biết rằng Beth cũng có trong Legend of Astrum, Vampy hứa sẽ gặp {playername} trong trò chơi."
 
 ##UB##
 エターナル・フレンドシップ=Eternal Friendship
-目の前の敵１キャラに魔法特大ダメージを与え、自分の魔法攻撃力を大アップさせる。さらにＴＰが無くなるまでの間ベスと共闘状態になる。=Gây sát thương phép lớn lên kẻ địch phía trước và tăng mạnh M.ATK của bản thân. Ngoài ra, cô ấy chuyển sang trạng thái hợp tác với "Beth" cho đến khi TP của cô ấy cạn kiệt.
+目の前の敵１キャラに魔法特大ダメージを与え、自分の魔法攻撃力を大アップし、ベスと共闘状態になる。共闘中はＴＰが減少し続け、ＴＰが無くなると共闘状態が解除される。=Gây sát thương phép cực lớn lên 1 kẻ địch phía trước, tăng lớn Tấn công phép của bản thân và tiến vào trạng thái sát cánh chiến đấu cùng Beth. Trong thời gian sát cánh chiến đấu, TP sẽ liên tục giảm, và trạng thái này sẽ giải trừ khi TP về 0.
 
-目の前の敵１キャラに魔法特大ダメージを与え、自分の魔法攻撃力を大アップし、与ダメージに応じて味方全体のＨＰを回復させる。さらに【竜の実】を初回発動時は５つ、２回目以降は２つ獲得し（最大５つまで）、バトル終了時までベスと共闘状態になる。共闘中のスキル発動時に【竜の実】を１つ消費し、目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。=Gây sát thương phép lớn lên một kẻ địch đơn, tăng mạnh Magic Attack của người dùng, và hồi phục HP của tất cả đồng đội dựa trên sát thương gây ra. Cấp 5 [Trái Của Rồng] lần sử dụng đầu tiên và 2 lần sau đó (tối đa 5), chuyển sang Chế Độ Hợp Tác với Beth cho đến khi trận chiến kết thúc. Khi kích hoạt kỹ năng trong khi chiến đấu cùng nhau, một [Trái Của Rồng] sẽ bị tiêu hao, giảm nhẹ TP của một kẻ địch phía trước và hồi phục nhẹ TP của bản thân.
+##UB+##
+目の前の敵１キャラに魔法特大ダメージを与え、自分の魔法攻撃力を大アップし、与えたダメージに応じて味方全体のＨＰを回復させる。自分に【竜の実】（上限５）を初回発動時は５個、２回目以降は２個付与し、バトル終了時までベスと共闘状態になる。共闘中のスキル発動時に【竜の実】を１個消費し、目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。=Gây sát thương phép cực lớn lên 1 kẻ địch phía trước, tăng lớn Tấn công phép của bản thân và hồi phục HP cho toàn bộ đồng minh dựa trên lượng sát thương gây ra. Gán cho bản thân 【Trái Cây Của Rồng (Dragon Fruit)】 (tối đa 5) với 5 quả ở lần kích hoạt đầu tiên, và 2 quả từ lần thứ hai trở đi, đồng thời duy trì trạng thái sát cánh chiến đấu cùng Beth cho đến khi kết thúc trận đấu. Khi kích hoạt kỹ năng trong thời gian sát cánh chiến đấu, tiêu hao 1 【Trái Cây Của Rồng】, giảm nhẹ TP của 1 kẻ địch phía trước và hồi phục nhẹ TP cho bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ初使用時、竜の実を５つ獲得味方全体のＨＰを与ダメージの２％回復$"=►Gây $1 sát thương phép lên đơn thể kẻ địch.\n►Tăng $2 Tấn công phép của bản thân trong 18 giây.\n\nKhi sử dụng lần đầu:\n►Nhận 5 [Trái Cây Của Rồng].\n►Hồi phục HP cho toàn bộ đồng minh bằng 2% sát thương gây ra.
+
+##UB+SP##
+目の前の敵１キャラに魔法特大ダメージを与え、自分の魔法攻撃力を大アップし、与えたダメージに応じて味方全体のＨＰを回復させる。自分に【竜の実】（上限５）を２個付与する。共闘中のスキル発動時に【竜の実】を１個消費し、目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。=Gây sát thương phép cực lớn lên 1 kẻ địch phía trước, tăng lớn Tấn công phép của bản thân và hồi phục HP cho toàn bộ đồng minh dựa trên lượng sát thương gây ra. Gán 2 tích lũy 【Trái Cây Của Rồng】 (tối đa 5) cho bản thân. Khi kích hoạt kỹ năng trong thời gian sát cánh chiến đấu, tiêu hao 1 【Trái Cây Của Rồng】, giảm nhẹ TP của 1 kẻ địch phía trước và hồi phục nhẹ TP cho bản thân.
+SP1
+r:"^敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ竜の実を２つ獲得味方全体のＨＰを与ダメージの２％回復$"=►Gây $1 sát thương phép lên đơn thể kẻ địch.\n►Tăng $2 Tấn công phép của bản thân trong 18 giây.\n►Nhận 2 [Trái Cây Của Rồng].\n►Hồi phục HP cho toàn bộ đồng minh bằng 2% sát thương gây ra.
 
 ##S1##
 ブラッド・ドレイン=Blood Drain
-目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、さらに自分のＴＰを小回復させる。=Gây sát thương phép lớn lên kẻ địch phía trước, giảm nhẹ TP của nó và hồi phục nhẹ TP của bản thân.
+目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、自分のＴＰを小回復する。=►Gây sát thương phép lớn lên 1 kẻ địch phía trước, giảm nhẹ TP của kẻ đó và hồi phục nhẹ TP cho bản thân.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる自分のＴＰを75回復$"=►Gây $1 sát thương phép lên kẻ địch.\n►Giảm TP của kẻ địch đi 75.\n►Hồi phục TP của bản thân 75.
 
 ##S2##
@@ -45,7 +52,7 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる自
 
 ##SP2##
 リトルブレス=Little Breath
-目の前の敵１キャラに魔法大ダメージを与え、さらに自分の魔法攻撃力を大アップさせる。=Gây sát thương phép lớn lên kẻ địch phía trước và tăng M.ATK của bản thân.
+目の前の敵１キャラに魔法大ダメージを与え、自分の魔法攻撃力を大アップする。=Gây sát thương phép lớn lên 1 kẻ địch phía trước và tăng lớn Tấn công phép của bản thân.
 
 ##EX##
 おしおきしちゃうよっ！=I'll Punish You!
@@ -53,12 +60,13 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる自
 
 ##S1+##
 ブラッド・ドレイン+=Blood Drain+
-目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、さらに味方全体の魔法攻撃力を大アップさせ、自分のＴＰを小回復させる。=Gây sát thương phép lớn lên kẻ địch phía trước, giảm nhẹ TP của nó, tăng mạnh M.ATK cho tất cả đồng đội và hồi phục nhẹ TP của bản thân.
+目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、味方全体の魔法攻撃力を大アップさせ、自分のＴＰを小回復する。=Gây sát thương phép lớn lên 1 kẻ địch phía trước, giảm nhẹ TP của kẻ đó, tăng lớn Tấn công phép của toàn bộ đồng minh và hồi phục nhẹ TP cho bản thân.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体のＴＰを75失わせる味方全体の魔法攻撃力を(\d+)アップ自分のＴＰを75回復$"=►Gây $1 sát thương phép lên kẻ địch.\n►Giảm TP của kẻ địch đi 75.\n►Tăng M.ATK cho tất cả đồng đội bằng $2 trong 180s.\n►Hồi phục TP của bản thân 75.
 
 ##SP1+##
 スカーレット・リンク+=Scarlet Link+
-目の前の敵１キャラに魔法特大ダメージを与え、さらに魔法防御力を大ダウンさせる。=Gây sát thương phép lớn lên kẻ địch phía trước và giảm mạnh M.DEF của nó.
+目の前の敵１キャラに魔法特大ダメージを与え、魔法防御力を大ダウンさせる。=Gây sát thương phép cực lớn lên 1 kẻ địch phía trước và giảm lớn Phòng thủ phép của kẻ đó.
+
 
 ##UE##
 ベスちゃん=Beth-chan

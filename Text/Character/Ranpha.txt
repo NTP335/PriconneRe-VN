@@ -9,18 +9,13 @@ etude　～練習曲～=Etude ~Bài Tập~
 
 ##UB##
 クリスタルララバイ=Bài Hát Ru Ngọc
-前方の敵すべてに魔法中ダメージを与え、さらに魔法防御力を中ダウンさせる。=Gây sát thương phép vừa phải lên tất cả kẻ địch, và giảm M.DEF của chúng vừa phải.
+前方の敵に魔法中ダメージを与え、魔法防御力を中ダウンさせる。=Gây sát thương phép vừa lên kẻ địch phía trước và giảm vừa Phòng thủ phép của chúng.
 r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép lên tất cả kẻ địch.\n►Giảm M.DEF của tất cả kẻ địch' đi $2.
 
 ##S1##
 ミスティックハーモニー=Hòa Âm Thần Bí
-【召喚】味方全体の魔法攻撃力を大アップさせる。ネフライトワイバーンが味方にいない場合、さらにネフライトワイバーンを召喚する。=[Triệu Hồi] Tăng mạnh M.ATK cho tất cả đồng minh. Nếu Rồng Nephrite không có trận, triệu hồi Rồng Nephrite.
+【召喚】味方全体の魔法攻撃力を大アップさせる。ネフライトワイバーンが味方にいない場合、召喚する。=[Triệu Hồi] Tăng lớn Tấn công phép của toàn bộ đồng minh. Triệu Hụt Tinh Long (Nephrite Wyvern) nếu nó chưa có mặt trong đội hình đồng minh.
 r:"^味方全体の魔法攻撃力を(\d+)アップネフライトワイバーンを召喚する$"=Thời gian niệm: 0.733s\n►Tăng M.ATK cho tất cả đồng minh đi $1 trong 180s.\n►Triệu hồi Rồng Nephrite ở vị trí 125 phía trước bản thân.
-
-##SP1##
-ミスティックハーモニー+=Hòa Âm Thần Bí+
-【召喚】味方全体の魔攻特大アッ\nプ、魔クリ中アップ、物理無効バリ\nアを展開する。ネフライトワイバー\nンが味方にいる場合、ネフライトワ\nイバーンの魔攻と魔クリ特大アッ\nプ、ＨＰ中回復、ＴＰ特大回復、【\n翡翠の葬歌】を付与し、そうでない\n場合召喚する。【翡翠の葬歌】が付\n与されている間ネフライトワイバー\nンのＵＢとスキルは前方の最も魔防\nの低い敵１キャラを対象とする。=Tăng mạnh M.ATK cho tất cả đồng minh, tăng vừa phải M.Crit, và triển khai một rào chắn phớt lỡ vật lý. Nếu Rồng Nephrite có mặt, tăng M.ATK và M.Crit của nó, hồi HP và TP, và tặng [Jade Requiem]. Ngược lại, triệu hồi nó. Với [Jade Requiem], UB và kỹ năng của nó nhắm vào kẻ địch phía trước nhất có M.DEF thấp nhất.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ味方単体のＨＰを(\d+)回復・ＴＰを(\d+)回復ネフライトワイバーンを召喚する$"=►Tăng M.ATK cho tất cả đồng minh đi $1.\n►Tăng M.Crit cho tất cả đồng minh đi $2.\n►Triển khai một rào chắn phớt lỡ vật lý, phớt lỡ $3 sát thương.\n►Tăng M.ATK của Rồng Nephrite đi $4.\n►Tăng M.Crit của Rồng Nephrite đi $5.\n►Hồi HP của Rồng Nephrite đi $6.\n►Hồi TP của Rồng Nephrite đi $7.\n►Triệu hồi Rồng Nephrite nếu không có mặt.\n►Tặng [Jade Requiem] nếu đã có mặt.
 
 
 ##S2##
@@ -37,3 +32,9 @@ r:"^敵全体の魔法防御力を(\d+)ダウン敵全体のクリティカル�
 
 ##UE##
 ネフライト・レゾナンス=Cộng Hưởng Nephrite
+
+
+##S1+##
+ミスティックハーモニー+=Mystic Harmony+
+【召喚】味方全体の魔法攻撃力を特大アップ、魔法クリティカルを中アップ、物理無効バリアを展開する。ネフライトワイバーンの魔法攻撃力と魔法クリティカルを特大アップ、ＨＰを中回復、ＴＰを特大回復させ、【翡翠の葬歌】を付与する。ネフライトワイバーンが味方にいない場合、召喚する。【翡翠の葬歌】付与中、ネフライトワイバーンのＵＢとスキルは前方の最も魔防が低い敵を対象とする。=[Triệu Hồi] Tăng cực lớn Tấn công phép, tăng vừa Bạo kích phép của toàn bộ đồng minh và triển khai lá chắn vô hiệu hóa sát thương vật lý. Tăng cực lớn Tấn công phép và Bạo kích phép, hồi phục vừa HP, hồi phục cực lớn TP cho Tinh Long (Nephrite Wyvern), đồng thời gán trạng thái 【Khúc Tráng Ca Phỉ Thúy (Jade Requiem)】 cho nó. Triệu hồi Tinh Long nếu nó chưa có mặt trong đội hình đồng minh. Trong thời gian gán 【Khúc Tráng Ca Phỉ Thúy】, UB và kỹ năng của Tinh Long sẽ nhắm vào kẻ địch có Phòng thủ phép thấp nhất ở phía trước.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを(\d+)アップ(\d+)ダメージ分の物理無効バリアを展開する味方単体の魔法攻撃力を(\d+)アップ味方単体の魔法クリティカルを(\d+)アップ味方単体のＨＰを(\d+)回復・ＴＰを(\d+)回復ネフライトワイバーンを召喚する$"=Thời gian thi triển: 0.733s.\n►Tăng $1 Tấn công phép cho toàn bộ đồng minh.\n►Tăng $2 Bạo kích phép cho toàn bộ đồng minh.\n►Triển khai lá chắn vô hiệu hóa $3 sát thương vật lý.\n►Tăng $4 Tấn công phép cho Tinh Long.\n►Tăng $5 Bạo kích phép cho Tinh Long.\n►Hồi phục $6 HP cho Tinh Long.\n►Hồi phục $7 TP cho Tinh Long.\n►Triệu hồi Tinh Long nếu chưa xuất hiện.\n►Gán trạng thái [Khúc Tráng Ca Phỉ Thúy] nếu đã xuất hiện.

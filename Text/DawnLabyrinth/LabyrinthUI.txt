@@ -125,8 +125,9 @@ sr:"^\[3C404E\]\[FFBB00,CE4F00\]【(.+)】\[-\]と一緒に出発します。\n�
 【会心】15以上：敵の【看破】99：攻撃時追加ダメージ＋30％=[Critical] 15+:\n►Khi kẻ địch có 99 [Nhìn thấu]: +30% sát thương cộng thêm khi tấn công
 
 【弱体】4以上：敵への継続ダメージアップ（【弱体】数×50％）=[Debuff] 4+:\n►Tăng sát thương duy trì lên kẻ địch (số [Debuff] × 50%)
-【弱体】9以上：敵にデバフを付与するたびに敵に【衰弱】＋１（最大66）敵の物理/魔法被ダメアップ（【衰弱】数×2％）=[Debuff] 9+:\n►Mỗi khi gây debuff lên kẻ địch, tích +1 [Suy yếu] (tối đa 66). Tăng sát thương vật lý/phép kẻ địch phải chịu (số [Suy yếu] × 2%)
-【弱体】15以上：敵の【衰弱】66：１秒ごとに最大ＨＰの5％の割合ダメージ（最大100万）=[Debuff] 15+:\n►Khi kẻ địch có 66 [Suy yếu]: Gây sát thương theo tỷ lệ 5% HP tối đa mỗi giây (tối đa 1 triệu)
+【弱体】9以上：敵にデバフを付与するたびに敵に【衰弱】＋１（最大99）敵の物理/魔法被ダメアップ（【衰弱】数×2％）=[Suy Yếu (Debuff)] Từ 9 trở lên:\n►Mỗi lần gán hiệu ứng bất lợi (debuff) lên kẻ địch\n►Gán +1 【Suy Nhược (Weaken / 衰弱)】 (tối đa 99)\n►Tăng sát thương Vật lý/Phép thuật kẻ địch nhận vào (Số lượng 【Suy Nhược】 × 2%)
+【弱体】15以上：敵の【衰弱】66：１秒ごとに最大ＨＰの5％の割合ダメージ（最大100万）=[Suy Yếu (Debuff)] Từ 15 trở lên:\n►【Suy Nhược】 của kẻ địch đạt 66: Gây sát thương theo tỷ lệ 5% HP tối đa mỗi giây (tối đa 1.000.000)
+【弱体】15以上：敵の【衰弱】66：１秒ごとに最大ＨＰの5％の割合ダメージ（最大200万）=[Suy Yếu (Debuff)] Từ 15 trở lên:\n►【Suy Nhược】 của kẻ địch đạt 66: Gây sát thương theo tỷ lệ 5% HP tối đa mỗi giây (tối đa 2.000.000)
 
 【強化】4以上：ダメージブーストアップ（【強化】数×2％）=[Buff] 4+:\n►Tăng sát thương cộng thêm (Damage Boost) (số [Buff] × 2%)
 【強化】9以上：味方からバフを受けるたびに【高揚】＋１（最大99）物理/魔法攻撃力アップ（【高揚】数×1％）=[Buff] 9+:\n►Mỗi khi nhận buff từ đồng minh, tích +1 [Phấn chấn] (tối đa 99). Tăng tấn công vật lý/phép (số [Phấn chấn] × 1%)

@@ -16,7 +16,7 @@ r:"^分身を生成する魔法攻撃力を(\d+)アップさせるフィール�
 
 ##S1##
 サテュレイト・レイ=Tia Bão Hòa
-目の前の敵１キャラを中心とした範囲内の敵に魔法大ダメージを与え、魔法防御力を小ダウンさせ、スタンさせる。=Gây sát thương phép lớn cho các kẻ địch trong phạm vi xung quanh 1 kẻ địch ở ngay trước mặt, làm giảm nhẹ phòng thủ phép của chúng và khiến chúng choáng.
+目の前の敵１キャラを中心とした範囲内の敵に魔法中ダメージを与え、短時間スタンさせる。=Gây sát thương phép vừa lên kẻ địch trong phạm vi lấy 1 kẻ địch ở phía trước làm trung tâm và làm choáng chúng trong thời gian ngắn.
 r:"^範囲内の敵すべてに(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする$"=►Gây $1 sát thương phép lên tất cả kẻ địch trong phạm vi 250.\n►Gây choáng mục tiêu trong 1.5s.
 
 ##S2##

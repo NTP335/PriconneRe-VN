@@ -8,13 +8,13 @@
 
 ##UB##
 ハロウィンブルームダンス=Halloween Bloom Dance
-目の前の敵１キャラの魔法防御力を中ダウンさせ、さらに味方全体の魔法攻撃力を特大アップさせる。=Giảm M.DEF của kẻ địch ngay phía trước một lượng vừa phải. Tăng cực lớn M.ATK cho tất cả đồng minh.
+目の前の敵１キャラの魔法防御力を中ダウンさせ、味方全体の魔法攻撃力を特大アップさせる。=Giảm vừa Phòng thủ phép của 1 kẻ địch phía trước và tăng cực lớn Tấn công phép của toàn bộ đồng minh.
 r:"^敵単体の魔法防御力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ$"=►Giảm M.DEF của kẻ địch lên $1 trong 18.9s.\n►Tăng M.ATK cho đồng minh lên $2 trong 18.9s.
 
 ##S1##
 マジカルトリック=Magical Trick
-最も魔法攻撃力が高い味方１キャラの魔法攻撃力を中アップさせる。このキャラの魔法攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng lớn M.ATK cho đồng minh có M.ATK cao nhất. Lượng tăng này còn tăng thêm dựa trên M.ATK của mục tiêu.
-r:"^味方単体の魔法攻撃力を(\d+)アップ$"=►Tăng M.ATK cho một đồng minh lên $1 trong 12s.
+最も魔法攻撃力が高い味方の魔法攻撃力を中アップさせる。自分の魔法攻撃力に応じて、効果量が増加する。=Tăng vừa Tấn công phép cho đồng minh có Tấn công phép cao nhất. Lượng hiệu ứng tăng tùy thuộc vào Tấn công phép của bản thân.
+r:"^味方単体の魔法攻撃力を(\d+)アップ$"=Thời gian thi triển: 1.27s.\n►Tăng M.ATK cho một đồng minh lên $1 trong 12s.
 
 ##S2##
 マジカルトリート=Magical Treat
@@ -26,12 +26,12 @@ r:"^味方単体の魔法攻撃力を(\d+)アップ$"=►Tăng M.ATK cho một �
 
 ##S1+##
 マジカルトリック+=Ma thuật đặc biệt+
-最も魔法攻撃力が高い味方１キャラの魔法攻撃力を大アップさせる。このキャラの魔法攻撃力が高い程、攻撃力の上昇量がアップする。=Tăng lớn M.ATK cho đồng minh có M.ATK cao nhất. Lượng tăng phụ thuộc vào M.ATK của mục tiêu.
+最も魔法攻撃力が高い味方の魔法攻撃力を大アップさせる。自分の魔法攻撃力に応じて、効果量が増加する。=Tăng lớn Tấn công phép cho đồng minh có Tấn công phép cao nhất. Lượng hiệu ứng tăng tùy thuộc vào Tấn công phép của bản thân.
 
 ##S2+##
 マジカルトリート+=Đãi ngộ phép thuật+
-味方全体の魔法攻撃力を大アップ、魔法クリティカルを中アップ、魔法攻撃クリティカル時のダメージを小アップさせる。さらに味方全体の行動速度を大アップさせる。=Tăng rất lớn M.ATK cho toàn bộ đồng minh, tăng trung bình Tỷ lệ chí mạng phép thuật và tăng nhẹ Sát thương chí mạng phép thuật. Đồng thời tăng rất lớn tốc độ hành động của toàn bộ đồng minh.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを60アップ味方全体の魔法攻撃クリティカル時のダメージを4％アップ味方全体の行動速度アップ$"=►Tăng M.ATK cho toàn bộ đồng minh thêm $1 trong 180s.\n►Tăng Tỷ lệ chí mạng phép thuật cho toàn bộ đồng minh thêm 60 trong 180s.\n►Tăng Sát thương chí mạng phép thuật cho toàn bộ đồng minh thêm 4% trong 180s.\n►Tăng tốc độ hành động của toàn bộ đồng minh lên 150% trong 18s.
+味方全体の魔法攻撃力を大アップ、魔法クリティカルを中アップ、魔法クリティカルダメージを小アップ、行動速度を大アップさせる。=Tăng lớn Tấn công phép, tăng vừa Bạo kích phép, tăng nhẹ Sát thương bạo kích phép và tăng lớn tốc độ hành động của toàn bộ đồng minh.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを60アップ味方全体の魔法攻撃クリティカル時のダメージを4％アップ味方全体の行動速度50％アップ$"=Thời gian thi triển: 0.97s.\n►Tăng $1 Tấn công phép cho toàn bộ đồng minh trong 180 giây.\n►Tăng 60 Bạo kích phép cho toàn bộ đồng minh trong 180 giây.\n►Tăng 4% Sát thương Bạo kích phép cho toàn bộ đồng minh trong 180 giây.\n►Tăng 50% tốc độ hành động cho toàn bộ đồng minh trong 180 giây.
 
 ##UE##
 ハロウィン猫さんブルーム=Chổi mèo Halloween

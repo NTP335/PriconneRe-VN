@@ -1,5 +1,5 @@
 ##Profile##
-【魔法】中衛で、魔力共鳴し連撃を放つマナリアの双姫。ステータスアップ効果を受けると増加する【友情の魔印】がスキルを強化し、波長を合わせた炎の魔槍で敵を討つ。=[Phép thuật] Hai công chúa của Manaria cộng hưởng với nhau để phóng loạt phép thuật tấn công từ trung tuyến. Với [Dấu ấn Phép thuật của Tình bạn] từ tăng chỉ số, họ có thể tăng cường kỹ năng và phóng ngọn giáo phép lửa để tiêu diệt kẻ thù.
+【魔法】中衛で、魔力共鳴し連撃を放つマナリアの双姫。ステータスアップ効果を受けると増加する【友情の魔印】がスキルを強化し、波長を合わせた炎の魔槍で敵を討つ。=[Phép thuật] Hai công chúa của Manaria cộng hưởng với nhau để phóng loạt phép thuật tấn công từ trung tuyến. Với 【Ấn Ma Tình Bạn】 từ tăng chỉ số, họ có thể tăng cường kỹ năng và phóng ngọn giáo phép lửa để tiêu diệt kẻ thù.
 
 一緒にピアノを連弾すること=Chơi piano cùng nhau
 ヒューマン、半人半竜=Người, bán người bán rồng
@@ -12,27 +12,29 @@
 
 ##UB##
 レイディアントインフェルノ=Radiant Inferno
-目の前の敵１キャラに魔法大ダメージを２回与える。このスキルのダメージは、【友情の魔印】の数に応じて増加する。さらに、自分の周囲の味方すべての魔法攻撃力を大アップさせる。=Gây sát thương phép lớn lên kẻ địch phía trước hai lần. Sát thương phép tăng theo số lượng [Dấu ấn Phép thuật của Tình bạn]. Ngoài ra, tăng mạnh M.ATK của đồng minh trong phạm vi.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 (+0.225×$1× \n[Dấu ấn Phép thuật của Tình bạn]) sát thương phép lên kẻ địch.\n►Gây $2 (+0.225×$1× \n[Dấu ấn Phép thuật của Tình bạn]) sát thương phép lên kẻ địch.\n►Tăng M.ATK của đồng minh trong phạm vi 200 lên $3 trong 18s.
+目の前の敵１キャラに魔法大ダメージを２回与える。【友情の魔印】の数に応じて、ダメージが増加する。自分を中心とした範囲内の味方の魔法攻撃力を大アップさせる。=Gây sát thương phép lớn 2 lần lên 1 kẻ địch phía trước. Lượng sát thương tăng tùy thuộc vào số lượng 【Ấn Ma Tình Bạn】. Tăng lớn Tấn công phép của đồng minh trong phạm vi lấy bản thân làm trung tâm.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 (+0.225×$1× \n【Ấn Ma Tình Bạn】) sát thương phép lên kẻ địch.\n►Gây $2 (+0.225×$1× \n【Ấn Ma Tình Bạn】) sát thương phép lên kẻ địch.\n►Tăng M.ATK của đồng minh trong phạm vi 200 lên $3 trong 18s.
 
 ##S1##
 フレンズリンケージ=Friends Linkage
-目の前の敵１キャラに魔法小ダメージを２回与える。このスキルのダメージは、【友情の魔印】の数に応じて増加する。=Gây sát thương phép nhỏ lên kẻ địch phía trước hai lần. Sát thương phép tăng theo số lượng [Dấu ấn Phép thuật của Tình bạn].
+目の前の敵１キャラに魔法小ダメージを２回与える。【友情の魔印】の数に応じて、ダメージが増加する。=Gây sát thương phép nhỏ 2 lần lên 1 kẻ địch phía thực. Lượng sát thương tăng tùy thuộc vào số lượng 【Ấn Ma Tình Bạn】.
+
 r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Gây $2 sát thương phép lên kẻ địch.
 
 ##S2##
 フレンズリード=Friends Lead
-自分がステータスアップ効果を受ける度に、【友情の魔印】が１つ追加される。【友情の魔印】は最大40まで追加される。さらに自分の魔法攻撃力と魔法クリティカルを特大アップさせ、ＴＰ上昇を小アップさせる。=Mỗi khi Anne & Grea nhận được tăng cường, nhận 1 [Dấu ấn Phép thuật của Tình bạn], tối đa 40. Ngoài ra, tăng mạnh M.ATK và Tỷ lệ CHÍ MẠNG của bản thân, và tăng nhỏ TP Boost của bản thân.
-r:"^ステータスアップ効果を受けるたびに【友情の魔印】を付与する状態になる自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを200アップ自分のＴＰ上昇を15アップ$"=►Khi nhận được tăng cường, nhận 1 [Dấu ấn Phép thuật của Tình bạn].\n►Tăng M.ATK của bản thân lên $1 trong 180s.\n►Tăng Tỷ lệ CHÍ MẠNG của bản thân lên 200 trong 180s.\n►Tăng TP Boost của bản thân lên 15 trong 180s.
+自分がステータスアップ効果を受けるたびに、【友情の魔印】（上限40）が１個付与される状態になる。自分の魔法攻撃力と魔法クリティカルを特大アップ、ＴＰ上昇を小アップする。=Tiến vào trạng thái nhận 1 【Ấn Ma Tình Bạn】 (tối đa 40) mỗi khi nhận được hiệu ứng tăng chỉ số (Buff). Tăng cực lớn Tấn công phép và Bạo kích phép, đồng thời tăng nhẹ Tăng TP của bản thân.
+r:"^ステータスアップ効果を受けるたびに自分に友情の魔印を追加する状態になる自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを200アップ自分のＴＰ上昇を15アップ$"=►Mỗi khi nhận hiệu ứng tăng chỉ số, tiến vào trạng thái nhận thêm 1 Ấn Ma Tình Bạn.\n►Tăng $1 Tấn công phép cho bản thân trong 180 giây.\n►Tăng 200 Bạo kích phép cho bản thân trong 180 giây.\n►Tăng 15 Tăng TP cho bản thân trong 180 giây.
 
 ##EX##
 マナリアハート=Manaria Heart
 マナリアハート+=Manaria Heart+
 
-##S1##
+##S1+##
 フレンズリンケージ=Friends Linkage
 フレンズリンケージ+=Friends Linkage+
 ブレイズフレンズランス=Blaze Friends Lance
 
+目の前の敵１キャラに【友情の魔印】の数に応じてダメージが増加する魔法小ダメージを２回与える。【友情の魔印】が最大の場合、さらに追加で魔法大ダメージを与える。自分の魔法攻撃力と魔法クリティカルを大アップ、魔法クリティカルダメージを小アップ、ＴＰを小回復する。=Gây sát thương phép nhỏ 2 lần lên 1 kẻ địch phía trước, lượng sát thương tăng tùy thuộc vào số lượng 【Ấn Ma Tình Bạn】. Khi 【Ấn Ma Tình Bạn】 đạt tối đa, gây thêm sát thương phép lớn. Tăng lớn Tấn công phép và Bạo kích phép, tăng nhẹ Sát thương bạo kích phép và hồi phục nhẹ TP cho bản thân.
 
 r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ自分の魔法攻撃力を(\d+)アップ自分の魔法クリティカルを80アップ自分の魔法クリダメを6％アップ自分のＴＰを90回復友情の魔印が40の場合、敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương ma thuật lên 1 kẻ địch.\n►Gây $2 sát thương ma thuật lên 1 kẻ địch.\n►Tăng sát thương ma thuật của bản thân lên $3.\n►Tăng tỷ lệ chí mạng ma thuật của bản thân lên 80.\n►Tăng sát thương chí mạng ma thuật của bản thân lên 6％.\n►Hồi 90 TP cho bản thân.\n\nNếu [Dấu Hiệu Bạn Bè] là 40:\n►Gây $4 sát thương ma thuật lên 1 kẻ địch.

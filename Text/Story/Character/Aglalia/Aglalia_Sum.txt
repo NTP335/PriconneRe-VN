@@ -1,0 +1,10 @@
+
+異変を照らす光=Ánh Sáng Soi Rọi Sự Biến Dị
+かがやく休息を=Giây Phút Nghỉ Ngơi Tỏa Sáng
+きらめき逃走劇=Màn Tẩu Thoát Lấp Lánh
+強制休日と感謝の光彩=Kỳ Nghỉ Cưỡng Bức Và Ánh Hào Quang Biết Ơn
+
+現実世界で異常が起こる少し前。いつも通り管理者の仕事をしていたエウロスが異変を発見した。確認しに行ったアグライアは、謎の人物の襲撃を受ける。エウロスの支援で難を逃れたアグライアは、助けを求めて現実世界へと向かった。=Khoảng thời gian ngắn trước khi dị biến xảy ra ở thế giới thực, Euros lúc ấy vẫn đang thực hiện công việc quản lý quen thuộc thì phát hiện ra điểm bất thường. Aglaia đi kiểm tra thì bất ngờ bị một kẻ bí ẩn tấn công. Nhờ sự hỗ trợ của Euros, Aglaia đã thoát nạn thành công và hướng về thế giới thực để cầu cứu.
+街を復興させるため、働き通しのアグライアは、{playername}と食事休憩へ行くことに。二人で食事をし、たくさん話したアグライア。英気を養った彼女は、明日からの仕事もがんばろうと気合を入れるのだった。=Vì làm việc không ngừng nghỉ để khôi phục lại thành phố, Aglaia quyết định cùng {playername} đi nghỉ giải lao dùng bữa. Sau khi cùng nhau ăn uống và trò chuyện rôm rả, Aglaia đã lấy lại được tinh thần và hừng hực khí thế quyết tâm sẽ tiếp tục cố gắng cho công việc từ ngày mai.
+働きすぎたせいで強制休暇になったアグライア。休みの過ごし方を相談された{playername}は花畑へ案内し、二人はひなたぼっこをして過ごす。アグライアは、大事なことに気づかせてくれたお礼に特別な光魔法を披露するのだった。=Vì làm việc quá sức nên Aglaia bị bắt buộc phải nghỉ phép. Khi được hỏi ý kiến về cách trải qua ngày nghỉ, {playername} đã dẫn cô đến một cánh đồng hoa, nơi cả hai cùng nhau tận hưởng ánh nắng ấm áp. Để cảm ơn vì đã giúp mình nhận ra điều quan trọng, Aglaia đã biểu diễn một phép thuật ánh sáng đặc biệt.
+{playername}はアグライアに街を案内する途中で優衣に出会う。アグライアの存在に人々が気付き始めた時、一行はプロジェクションマッピングのように光を振りまき、歓声の中を優衣の家まで逃げていくのだった──。=Trên đường dẫn Aglaia đi tham quan thành phố, {playername} tình cờ gặp Yui. Khi mọi người bắt đầu chú ý đến sự hiện diện của Aglaia, cả nhóm tung ra những luồng ánh sáng rực rỡ như trình chiếu 3D (projection mapping) và chạy trốn đến nhà Yui giữa những tiếng reo hò náo nhiệt──.

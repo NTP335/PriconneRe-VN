@@ -1,0 +1,33 @@
+##Profile##
+【魔法】後衛で働いて働いて働く仕事中毒な光の大精霊。自分に展開されているバリアに応じて性能が強化されるスキルを武器に、ブラックな環境さえ輝く笑顔で照らす。=[Phép thuật] Đại tinh linh Ánh sáng nghiện công việc, luôn làm, làm và làm hết mình ở hàng sau. Với vũ khí là kỹ năng được tăng cường hiệu năng dựa trên lớp lá chắn được triển khai cho bản thân, cô ấy soi sáng ngay cả môi trường làm việc bóc lột đen tối bằng nụ cười rạng rỡ.
+
+光の大魔法陣=Đại Ma Pháp Trận Ánh Sáng
+お仕事、残業、奉仕活動=Công việc, tăng ca, hoạt động tình nguyện
+異変を照らす光=Ánh sáng soi rọi dị biến
+かがやく休息を=Dành trọn sự nghỉ ngơi rạng rỡ
+-月-日/-歳=-Tháng -Ngày/-Tuổi
+光精霊、働き者。=Tinh linh Ánh sáng chăm chỉ.
+
+
+##UB##
+大いなる光矢=Mũi Tên Ánh Sáng Vĩ Đại
+味方全体の魔法攻撃力と魔法クリティカルを特大アップ、物理/魔法無効バリアを展開する。自分に展開中のバリアの数に応じて追加効果が発動する。１つの場合、目の前の敵１キャラに魔法特大ダメージを与える。２つの場合、目の前の最大２キャラまでの敵に魔法特大ダメージを与える。３つ以上の場合、目の前の最大３キャラまでの敵に魔法特大ダメージを与える。=Tăng cực lớn Tấn công phép và Bạo kích phép của toàn bộ đồng minh, đồng thời triển khai lá chắn vô hiệu hóa sát thương Vật lý/Phép thuật. Kích hoạt hiệu ứng bổ sung dựa trên số lượng lá chắn đang triển khai cho bản thân. Nếu là 1 lá chắn, gây sát thương phép cực lớn lên 1 kẻ địch phía trước. Nếu là 2 lá chắn, gây sát thương phép cực lớn lên tối đa 2 kẻ địch phía trước. Nếu từ 3 lá chắn trở lên, gây sát thương phép cực lớn lên tối đa 3 kẻ địch phía trước.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリティカルを200アップ(\d+)ダメージ分の物理魔法無効バリアを展開する自分にバリアが１つ展開中、敵単体に(\d+)の魔法ダメージ自分にバリアが２つ展開中、以下の効果が発動する１番目に近い敵単体に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ自分にバリアが３つ以上展開中、以下の効果が発動する１番目に近い敵単体に(\d+)の魔法ダメージ２番目に近い敵単体に(\d+)の魔法ダメージ３番目に近い敵単体に(\d+)の魔法ダメージ$"=►Tăng $1 Tấn công phép cho toàn bộ đồng minh trong 18 giây.\n►Tăng 200 Bạo kích phép cho toàn bộ đồng minh trong 18 giây.\n►Triển khai lá chắn vô hiệu hóa $2 sát thương Vật lý và Phép thuật trong 18 giây.\n\nNếu bản thân đang có 1 Lá chắn triển khai:\n►Gây $3 sát thương phép lên kẻ địch gần nhất.\n\nNếu bản thân đang có 2 Lá chắn triển khai:\n►Gây $4 sát thương phép lên kẻ địch gần nhất.\n►Gây $5 sát thương phép lên kẻ địch gần thứ 2.\n\nNếu bản thân đang có từ 3 Lá chắn trở lên triển khai:\n►Gây $6 sát thương phép lên kẻ địch gần nhất.\n►Gây $7 sát thương phép lên kẻ địch gần thứ 2.\n►Gây $8 sát thương phép lên kẻ địch gần thứ 3.
+
+##S1##
+聖なる力=Sức Mạnh Thần Thánh
+味方全体の魔法攻撃力を特大アップ、ＴＰを小回復させ、継続ＨＰ回復状態を付与する。自分に展開中のバリアの数に応じて追加効果が発動する。１つ以上の場合、さらに味方全体の魔法クリティカルダメージを小アップさせる。２つ以上の場合、さらに味方全体のＴＰ上昇を小アップさせる。３つ以上の場合、さらに追加で自分のＴＰを特大回復する。=Tăng cực lớn Tấn công phép của toàn bộ đồng minh, hồi phục nhẹ TP và gán trạng thái hồi phục HP liên tục. Kích hoạt hiệu ứng bổ sung dựa trên số lượng lá chắn đang triển khai cho bản thân. Nếu từ 1 lá chắn trở lên, tăng nhẹ Sát thương bạo kích phép của toàn bộ đồng minh. Nếu từ 2 lá chắn trở lên, tăng nhẹ Tăng TP của toàn bộ đồng minh. Nếu từ 3 lá chắn trở lên, hồi phục cực lớn TP cho bản thân.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体のＴＰを100回復毎秒ＨＰを(\d+)回復する自分に展開中のバリアの数に応じて以下の効果が発動する１つ以上の場合、味方全体の魔法クリダメを12％アップ２つ以上の場合、味方全体のＴＰ上昇を5アップ３つ以上の場合、自分のＴＰを1000回復$"=Thời gian thi triển: 1.05s.\n►Tăng $1 Tấn công phép cho toàn bộ đồng minh trong 12 giây.\n►Hồi phục 100 TP cho toàn bộ đồng minh.\n►Hồi phục $2 HP mỗi giây trong 10.5 giây.\n\nCác hiệu ứng sau được kích hoạt dựa trên số lượng Lá chắn đang triển khai cho bản thân:\nNếu từ 1 trở lên:\n►Tăng 12% Sát thương Bạo kích phép cho toàn bộ đồng minh trong 12 giây.\nNếu từ 2 trở lên:\n►Tăng 5 Tăng TP cho toàn bộ đồng minh trong 12 giây.\nNếu từ 3 trở lên:\n►Hồi phục 1000 TP.
+
+##S2##
+光の閃霊=Thủ Hộ Tinh Linh Ánh Sáng
+目の前の敵１キャラに魔法大ダメージを与え、スタン状態と暗闇状態にする。自分が物理無効または吸収バリア展開中の場合、さらに自分を一定時間物理回避状態にする。自分が魔法無効または吸収バリア展開中の場合、さらに自分を一定時間魔法回避状態にする。=Gây sát thương phép lớn lên 1 kẻ địch phía trước, đồng thời gây trạng thái Choáng (Stun) và Mù (Blind). Nếu bản thân đang triển khai lá chắn vô hiệu hóa hoặc hấp thụ sát thương vật lý, tăng trạng thái né tránh vật lý cho bản thân trong thời gian nhất định. Nếu bản thân đang triển khai lá chắn vô hiệu hóa hoặc hấp thụ sát thương phép, tăng trạng thái né tránh phép cho bản thân trong thời gian nhất định.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を一定時間行動不能にする敵単体を暗闇状態にする自分に物理無効または吸収バリア展開中、一定時間すべての物理攻撃を回避する自分に魔法無効または吸収バリア展開中、一定時間すべての魔法攻撃を回避する$"=Thời gian thi triển: 1.05s.\n►Gây $1 sát thương phép lên đơn thể kẻ địch.\n►Gây choáng đơn体 kẻ địch trong 3 giây.\n►Gây trạng thái Mù lên đơn thể kẻ địch trong 6 giây.\n►Khi bản thân đang triển khai Lá chắn Vật lý vô hiệu hóa hoặc hấp thụ sát thương, né tránh toàn bộ Tấn công vật lý trong 6 giây.\n►Khi bản thân đang triển khai Lá chắn Phép thuật vô hiệu hóa hoặc hấp thụ sát thương, né tránh toàn bộ Tấn công phép trong 6 giây.
+
+##EX##
+お仕事ですね！？=Lại đến giờ làm việc rồi sao!?
+お仕事ですね！？+=Lại đến giờ làm việc rồi sao!?+
+
+##SP1##
+味方のＴＰを小回復させるフィールドを展開する。光属性の味方の数が５キャラ以上の場合、この効果はバトル終了まで継続する。=Triển khai một trường ma thuật giúp hồi phục nhẹ TP cho đồng minh. Nếu số lượng đồng minh thuộc tính Ánh sáng từ 5 nhân vật trở lên, hiệu ứng này sẽ kéo dài cho đến khi kết thúc trận đấu.
+r:"^毎秒ＴＰを5回復するフィールドを展開する$"=►Triển khai trường ma thuật trong phạm vi 2160 giúp hồi 5 TP mỗi giây trong 10 giây.\n\nNếu có từ 5 nhân vật thuộc tính Ánh sáng trở lên trong đồng minh:\n►Triển khai trường ma thuật trong phạm vi 2160 giúp hồi 5 TP mỗi giây trong 180 giây.

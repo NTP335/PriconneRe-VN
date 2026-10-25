@@ -4,17 +4,17 @@
 ##UB##
 パンプキンデスパーティー=Tiệc Bí Ngô Chết Người
 敵全体に魔法中ダメージを与え、呪いと束縛を付与し、さらに魔法防御力を小ダウンさせる。=Gây sát thương ma thuật nhỏ lên tất cả kẻ địch ở phía trước và giảm M.DEF một chút. Gây Nguyền Rủa và Trói.
-r:"^敵全体に(\d+)の魔法ダメージ敵全体を一定時間行動不能にする(\d+)ダメージを与える呪い状態にする敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương ma thuật lên tất cả kẻ địch.\n►Làm tất cả kẻ địch bất động trong một khoảng thời gian.\n►Áp dụng Nguyền Rủa gây $2 sát thương/giây.\n►Giảm M.DEF của tất cả kẻ địch đi $3.
+r:"^敵全体に(\d+)の魔法ダメージ敵全体を一定時間行動不能にする(\d+)ダメージを与える呪い状態にする敵全体の魔法防御力を(\d+)ダウン味方全体の魔法攻撃力を(\d+)アップ$"=►Gây $1 sát thương phép lên toàn bộ kẻ địch.\n►Làm cho toàn bộ kẻ địch không thể hành động trong 3.5 giây.\n►Gán trạng thái [Nguyền Rủa (Curse)] lên toàn bộ kẻ địch, gây $2 sát thương mỗi giây trong 19 giây.\n►Giảm $3 Phòng thủ phép của toàn bộ kẻ địch trong 18 giây.\n►Tăng $4 Tấn công phép cho toàn bộ đồng minh trong 18 giây.
 
 ##S1##
 レディマジック=Mê Hoặc Của Công Nương
 目の前の敵１キャラに魔法小ダメージを与え、さらに誘惑状態にする。=Gây sát thương ma thuật nhỏ lên kẻ địch đứng trước mặt và gây Mê Hoặc.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体を誘惑する$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Gây Mê Hoặc lên kẻ địch.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を誘惑する$"=Thời gian thi triển: 1.05s.\n►Gây $1 sát thương ma thuật lên kẻ địch.\n►Gây Mê Hoặc lên kẻ địch.
 
 ##S2##
 ハロウィンブースト=Hội Halloween
 自分を中心とした範囲内の味方すべての魔法攻撃力を中アップさせる。=Tăng sức mạnh ma thuật của đồng minh trong tầm một lượng trung bình.
-r:"^範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Tăng sức mạnh ma thuật của đồng minh trong tầm lên $1.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ$"=Thời gian thi triển: 1.19s.\n►Tăng sức mạnh ma thuật của đồng minh trong tầm lên $1.
 
 ##EX##
 ハロウィンレディ=Nàng Dáng Halloween
@@ -22,15 +22,13 @@ r:"^範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Tăng sức mạn
 
 ##S1+##
 レディマジック+=Mê Hoặc Của Công Nương+
-目の前の敵１キャラに魔法中ダメージを与え、ＴＰを小ダウンさせ、さらに誘惑状態にする。=Gây sát thương ma thuật trung bình lên kẻ địch đứng trước mặt, giảm nhẹ TP của chúng. Ngoài ra, áp dụng trạng thái Mê Hoặc lên chúng.
-目の前の敵１キャラに魔法大ダメージを与え、ＴＰを小ダウンさせ、さらに誘惑状態にする。=Gây sát thương ma thuật lớn lên kẻ địch đứng trước mặt, giảm nhẹ TP của chúng. Ngoài ra, áp dụng trạng thái Mê Hoặc lên chúng.
-r:"^敵単体に(\d+)の魔法ダメージ敵単体を誘惑する敵単体のＴＰを(\d+)失わせる$"=►Gây $1 sát thương ma thuật lên kẻ địch.\n►Gây Mê Hoặc lên kẻ địch.\n►Giảm TP của kẻ địch đi $2.
+目の前の敵１キャラに魔法大ダメージを与え、誘惑状態にし、ＴＰを大ダウンさせる。=Gây sát thương phép lớn lên 1 kẻ địch phía前, gán trạng thái Mê Hoặc (Charm) và giảm lớn TP của kẻ đó.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体を誘惑する敵単体のＴＰを(\d+)失わせる$"=Thời gian thi triển: 1.05s.\n►Gây $1 sát thương phép lên đơn thể kẻ địch.\n►Gán trạng thái Mê Hoặc lên đơn thể kẻ địch trong 8 giây.\n►Làm sụt giảm $2 TP của đơn thể kẻ địch.
 
 ##S2+##
 ハロウィンブースト+=Hội Halloween+
-自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップ、魔法防御力を大アップさせ、魔法無効バリアを展開する。=Tăng cực lớn sức mạnh ma thuật, tăng cực lớn phòng thủ ma thuật và tạo một rào cản kháng ma thuật cho tất cả đồng minh trong khu vực xung quanh bản thân.
-r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法無効バリアを展開する$"=►Tăng sức mạnh ma thuật của đồng minh trong tầm 400 lên $1 trong 12s.\n►Tăng phòng thủ ma thuật của đồng minh trong tầm 400 lên $2 trong 12s.\n►Tạo Rào Cản cho đồng minh trong tầm 400, kháng $3 sát thương ma thuật trong 12s.
-
+自分を中心とした範囲内の味方の魔法攻撃力を特大アップ、魔法防御力を大アップさせ、魔法無効バリアを展開し、継続ＴＰ回復状態を付与する。目の前の敵１キャラの弱体効果の種類の数に応じて、魔法攻撃力のアップ量が最大３倍まで増加する。=Tăng cực lớn Tấn công phép và tăng lớn Phòng thủ phép cho đồng minh trong phạm vi lấy bản thân làm trung tâm, triển khai lá chắn vô hiệu hóa sát thương phép, đồng thời gán trạng thái hồi phục TP liên tục. Tùy thuộc vào số lượng loại hiệu ứng bất lợi (debuff) trên 1 kẻ địch phía trước, lượng tăng Tấn công phép sẽ tăng lên tối đa 3 lần.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ範囲内の味方の魔法防御力を(\d+)アップ(\d+)ダメージ分の魔法無効バリアを展開する毎秒ＴＰを10回復$"=Thời gian thi triển: 1.19s.\n►Tăng $1 Tấn công phép cho đồng minh trong phạm vi 400 trong 12 giây.\n►Tăng $2 Phòng thủ phép cho đồng minh trong phạm vi 400 trong 12 giây.\n►Triển khai lá chắn vô hiệu hóa $3 sát thương Phép thuật cho đồng minh trong phạm vi 400 trong 12 giây.\n►Hồi phục 10 TP mỗi giây cho đồng minh trong 12.5 giây.
 ##UE##
 魔箒ハロウィン・アイ=Mắt Đêm Halloween
 魔淑帽レディ・ウィッチ=Mũ Phép Của Nàng Phù Thủy

@@ -60,7 +60,7 @@ sr:"^(\d+月)クランバトルランキング(\d+位)の報酬です。$"="Ph�
 期限を過ぎていたため、一部のプレゼントは受け取れませんでした。=Một số quà tặng đã không được nhận vì đã qua hạn.
 所持上限を超えて獲得したスタミナです。=Đây là năng lượng nhận được vượt quá giới hạn trên.
 スタミナ受取対象外にチェックしているため受け取れません。=Năng lượng hiện đã bị loại trừ. Vui lòng bỏ chọn "Loại trừ Năng lượng" để nhận.
-ウマ娘「The Game Awards 2025」受賞記念★3確定ガチャチケット=Vé Gacha Đảm bảo ★3 Kỷ niệm Giải thưởng "The Game Awards 2025" của Uma Musume =
+ウマ娘「The Game Awards 2025」受賞記念★3確定ガチャチケット=Vé Gacha Đảm bảo ★3 Kỷ niệm Giải thưởng "The Game Awards 2025" của Uma Musume
 ---Login Bonus---
 
 クリスマス=Giáng sinh
@@ -131,7 +131,7 @@ r:"^([0-9.]+)年メモリーピース交換チケット$"=$1 Vé đổi mảnh k
 r:"^([0-9.]+)周年セレクトガチャ$"=Gacha tự chọn kỷ niệm $1th năm
 
 ウマ娘「The Game Awards 2025」受賞記念★3確定ガチャチケット=Vé Gacha chắc chắn ★3 kỷ niệm Uma Musume nhận giải "The Game Awards 2025"
-
+プリコネR×ウマ娘 プリティーダービーコラボ記念生放送 シリアルコード=Mã quà tặng (Serial Code) Buổi phát sóng trực tiếp kỷ niệm sự kiện hợp tác giữa Priconne R và Umamusume: Pretty Derby
 
 r:"^イベントクエスト（(.+)）クリアで獲得したアイテムです。$"=Vật phẩm nhận được khi hoàn thành Nhiệm vụ Sự kiện ($1).
 所持上限を超えて獲得した復刻イベントログインボーナスの報酬です。=Phần thưởng từ Bonus đăng nhập sự kiện tái bản nhận được vượt quá giới hạn sở hữu.

@@ -7,20 +7,13 @@
 
 ##UB##
 ガトリング★シンフォニア=Gatling★Symphonia
-目の前の最大３キャラまでの敵に魔法大ダメージを与える。このスキルのダメージは、遠い敵ほどダメージが増加する。さらに、目の前の敵１キャラのクリティカルを受けた際のダメージを小アップさせる。=Gây sát thương phép lớn lên tới 3 kẻ địch phía trước. Sát thương tăng lên với kẻ địch ở xa hơn. Đồng thời tăng nhẹ Sát thương Phép/Crit mà kẻ địch phía trước phải nhận.
+目の前の最大３キャラまでの敵に魔法大ダメージを与える。目の前の敵１キャラの受けるクリティカルダメージを小アップさせる。=Gây sát thương phép lớn lên tối đa 3 kẻ địch ở phía trước. Tăng nhẹ sát thương bạo kích nhận vào của 1 kẻ địch ở phía trước.
 r:"^１番目に近い敵に(\d+)の魔法ダメージ２番目に近い敵に(\d+)の魔法ダメージ３番目に近い敵に(\d+)の魔法ダメージ敵単体のクリティカルを受けた際のダメージを10％アップPSI★チャージ状態中、敵単体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép lên kẻ địch gần nhất.\n►Gây $2 sát thương phép lên kẻ địch thứ gần nhất.\n►Gây $3 sát thương phép lên kẻ địch thứ ba gần nhất.\n►Tăng 10% Sát thương Phép/Crit mà kẻ địch phải nhận trong 10s.\n►Nếu Misora có [PSI★Charge], giảm Phép Ngự của kẻ địch đi $4 trong 18s.
 
 ##S1##
 どるるる～ん★=Dorururu～n★
-目の前の最大３キャラまでの敵に魔法中ダメージを与える。このスキルのダメージは、遠い敵ほどダメージが増加する。=Gây sát thương phép vừa phải lên tới 3 kẻ địch phía trước. Sát thương tăng lên với kẻ địch ở xa hơn.
+目の前の最大３キャラまでの敵に魔法中ダメージを与える。=Gây sát thương phép vừa lên tối đa 3 kẻ địch ở phía trước.
 r:"^１番目に近い敵に(\d+)の魔法ダメージ２番目に近い敵に(\d+)の魔法ダメージ３番目に近い敵に(\d+)の魔法ダメージPSI★チャージ状態中、敵単体の魔法防御力を(\d+)ダウン$"=Thời gian niệm: 0.0s\n►Gây $1 sát thương phép lên kẻ địch gần nhất.\n►Gây $2 sát thương phép lên kẻ địch thứ gần nhất.\n►Gây $3 sát thương phép lên kẻ địch thứ ba gần nhất.\n►Nếu Misora có [PSI★Charge], giảm Phép Ngự của kẻ địch đi $4 trong 12s.
-
-## UE1 ##
-
-どるるる～ん★+=Dorrururu~n★+
-ミソラのガトリング=Gatling của Misora
-r:"^敵３体に(\d+)の魔法ダメージ敵３体に(\d+)の魔法ダメージ敵３体に(\d+)の魔法ダメージPSI★チャージ状態中、敵単体の魔法防御力を(\d+)ダウンPSI★チャージ状態中、自分の魔法攻撃力を(\d+)アップPSI★チャージ状態中、自分のＴＰを(\d+)回復$"="►Gây $1 sát thương phép lên 3 kẻ địch\n►Gây $2 sát thương phép lên 3 kẻ địch\n►Gây $3 sát thương phép lên 3 kẻ địch\n\nTrong khi [PSI★Charge]:\n►Giảm Phép Ngự của 1 kẻ địch đi $4\n►Tăng Phép Công của bản thân lên $5\n►Hồi TP của bản thân lên $6"
-r:"^目の前の敵３キャラに魔法中ダメージを３回与える。１回ごとにダメージがアップする。さらに【PSI★チャージ】状態の場合、自分の魔法攻撃力を大アップし、ＴＰを小回復する。$"="Gây sát thương phép trung bình 3 lần lên 3 kẻ địch phía trước (sát thương tăng theo lần đánh). Trong khi [PSI★Charge], tăng mạnh Phép Công của bản thân và hồi nhẹ TP."
 
 
 ##S2##
@@ -31,9 +24,20 @@ r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の魔法クリ�
 ##SP1##
 バンキッシュ・バレット=Đạn Trấn Hùng
 このスキルのスキルレベルは「ガトリング★シンフォニア」と連動しています=Cấp độ kỹ năng này liên kết với "Gatling★Symphonia"
-自分に【PSI★チャージ】状態を付与する。【PSI★チャージ】状態中はＨＰが毎秒回復し、ダメージスキルを使用する際、目の前の敵１キャラの魔法防御力を小ダウンさせる。=Tặng [PSI★Charge] cho bản thân. Trong khi ở trạng thái [PSI★Charge], tặng khả năng hồi HP cho bản thân và giảm Phép Ngự của kẻ địch khi dùng kỹ năng gây sát thương.
+自分に【PSI★チャージ】状態を付与する。【PSI★チャージ】状態中はＨＰが毎秒回復し、ダメージスキルを発動する際、目の前の敵１キャラの魔法防御力を小ダウンさせる。=Gán trạng thái 【PSI★Nạp Điện (PSI★Charge)】 cho bản thân. Trong thời gian duy trì trạng thái 【PSI★Nạp Điện】, HP sẽ được hồi phục mỗi giây, đồng thời khi kích hoạt kỹ năng gây sát thương, giảm nhẹ Phòng thủ phép của 1 kẻ địch ở phía trước.
 r:"^自分にPSI★チャージ状態を付与する毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 1.24s\n►Tặng [PSI★Charge] cho bản thân trong 12s.\n►Hồi HP của bản thân lên $1/giây trong 12s.
 
 ##EX##
 サイキック・サイト=Tầm Nhìn Tâm Linh
 サイキック・サイト+=Tầm Nhìn Tâm Linh+
+
+
+
+## UE1 ##
+
+どるるる～ん★+=Dorrururu~n★+
+ミソラのガトリング=Misora's Gatling
+
+目の前の敵３キャラに魔法中ダメージを３回与える。１回ごとにダメージが増加する。【PSI★チャージ】状態の場合、さらに自分の魔法攻撃力を大アップ、ＴＰを小回復する。=Gây sát thương phép vừa 3 lần lên 3 kẻ địch ở phía trước, sát thương tăng lên sau mỗi lần. Nếu đang ở trạng thái 【PSI★Nạp Điện】, đồng thời tăng lớn Tấn công phép và hồi phục nhẹ TP cho bản thân.
+
+r:"^敵３体に(\d+)の魔法ダメージ敵３体に(\d+)の魔法ダメージ敵３体に(\d+)の魔法ダメージPSI★チャージ状態中、敵単体の魔法防御力を(\d+)ダウンPSI★チャージ状態中、自分の魔法攻撃力を(\d+)アップPSI★チャージ状態中、自分のＴＰを(\d+)回復$"="►Gây $1 sát thương phép lên 3 kẻ địch.\n►Gây $2 sát thương phép lên 3 kẻ địch.\n►Gây $3 sát thương phép lên 3 kẻ địch.\n\nTrong thời gian trạng thái [PSI★Nạp Điện]:\n►Giảm $4 Phòng thủ phép của 1 kẻ địch.\n►Tăng $5 Tấn công phép của bản thân.\n►Hồi phục $6 TP cho bản thân."

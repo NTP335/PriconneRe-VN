@@ -12,12 +12,12 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の低い側の防御
 ##S1##
 トライ・アドべンチャー=Phiêu Lưu Ba Người
 目の前の敵１キャラに物理中ダメージと、対象の魔法防御力が物理防御力より低い場合、魔法ダメージ扱いになる物理小ダメージを与える。=Gây sát thương vật lý vừa phải và sát thương vật lý nhỏ được tính là sát thương ma thuật nếu phòng thủ ma thuật của kẻ địch < phòng thủ vật lý.
-r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の低い側の防御力で防御する物理ダメージ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý hoặc ma thuật lên một kẻ địch.
+r:"^敵単体に(\d+)の物理ダメージ敵単体に(\d+)の低い側の防御力で防御する物理ダメージ$"=Thời gian thi triển: 0.14s.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Gây $2 sát thương vật lý hoặc ma thuật lên một kẻ địch.
 
 ##S2##
 リリカルダンシング=Vũ Điệu Lãng Mạn
-自分の物理攻撃力と物理クリティカルを中アップさせ、目の前の敵１キャラの物理防御力を小ダウンさせる。さらに自分のＴＰを小回復させる。=Tăng vừa phải tấn công vật lý và tỷ lệ chí mạng vật lý của bản thân, giảm một chút phòng thủ vật lý của kẻ địch, và hồi một chút điểm kỹ năng (TP) của bản thân.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを60アップ敵単体の物理防御力を(\d+)ダウン自分のＴＰを50回復$"=►Tăng tấn công vật lý của bản thân lên $1 trong 180 giây.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên 60 trong 180 giây.\n►Giảm phòng thủ vật lý của một kẻ địch đi $2 trong 12 giây.\n►Hồi 50 TP cho bản thân.
+自分の物理攻撃力と物理クリティカルを中アップ、目の前の敵１キャラの物理防御力を小ダウンさせる。自分のＴＰを小回復する。=Tăng vừa Tấn công vật lý và Bạo kích vật lý của bản thân, giảm nhẹ Phòng thủ vật lý của 1 kẻ địch phía trước, đồng thời hồi phục nhẹ TP cho bản thân.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを60アップ敵単体の物理防御力を(\d+)ダウン自分のＴＰを50回復$"=Thời gian thi triển: 0.59s.\n►Tăng tấn công vật lý của bản thân lên $1 trong 180 giây.\n►Tăng tỷ lệ chí mạng vật lý của bản thân lên 60 trong 180 giây.\n►Giảm phòng thủ vật lý của một kẻ địch đi $2 trong 12 giây.\n►Hồi 50 TP cho bản thân.
 
 ##EX##
 リトルブレイブリー=Dũng Khí Nhỏ Bé
@@ -25,8 +25,8 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカル�
 
 ##S1+##
 トライ・アドべンチャー+=Phiêu Lưu Ba Người+
-目の前の敵１キャラに物理大ダメージを３回与える。ミミの攻撃は対象の物理防御力を一定値無視し、キョウカの攻撃は対象の魔法防御力が物理防御力より低い場合魔法ダメージ扱いになり、ミソギの攻撃は対象の物理攻撃力を大ダウンさせる。さらに自分のＴＰを小回復させる。=Gây 3 lần sát thương vật lý lớn lên kẻ địch phía trước. Đòn tấn công của Mimi xuyên phòng thủ, đòn của Kyouka sử dụng giá trị phòng thủ thấp hơn của mục tiêu, và đòn của Misogi giảm mạnh tấn công vật lý của kẻ địch. Đồng thời hồi một chút TP cho bản thân.
-r:"^敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体に(\d+)の低い側の防御力で防御する物理ダメージ敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン自分のＴＰを100回復$"=►Gây $1 sát thương vật lý lên kẻ địch, bỏ qua 50 phòng thủ vật lý của chúng.\n►Gây $2 sát thương vật lý hoặc ma thuật lên kẻ địch.\n►Gây $3 sát thương vật lý lên kẻ địch.\n►Giảm tấn công vật lý của kẻ địch đi $4 trong 18 giây.\n►Hồi 100 TP cho bản thân.
+目の前の敵１キャラに物理大ダメージを３回与える。ミミの攻撃は対象の物理防御力を一定値無視し、キョウカの攻撃は対象の魔法防御力が物理防御力より低い場合魔法ダメージ扱いになり、ミソギの攻撃は対象の物理攻撃力を大ダウンさせる。自分のＴＰを小回復する。=Gây sát thương vật lý lớn 3 lần lên 1 kẻ địch phía trước. Đòn tấn công của Mimi xuyên một lượng Phòng thủ vật lý nhất định của mục tiêu, đòn tấn công của Kyouka được tính là sát thương phép nếu Phòng thủ phép của mục tiêu thấp hơn Phòng thủ vật lý, và đòn tấn công của Misogi làm giảm lớn Tấn công vật lý của mục tiêu. Hồi phục nhẹ TP cho bản thân.
+r:"^敵単体に物理防御力を50無視する(\d+)の物理ダメージ敵単体に(\d+)の低い側の防御力で防御する物理ダメージ敵単体に(\d+)の物理ダメージ敵単体の物理攻撃力を(\d+)ダウン自分のＴＰを100回復$"=Thời gian thi triển: 0.14s.\n►Gây $1 sát thương vật lý lên kẻ địch, bỏ qua 50 phòng thủ vật lý của chúng.\n►Gây $2 sát thương vật lý hoặc ma thuật lên kẻ địch.\n►Gây $3 sát thương vật lý lên kẻ địch.\n►Giảm tấn công vật lý của kẻ địch đi $4 trong 18 giây.\n►Hồi 100 TP cho bản thân.
 
 
 ##UE##

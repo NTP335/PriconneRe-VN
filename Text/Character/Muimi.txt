@@ -5,8 +5,7 @@
 
 ##UB##
 天楼覇断剣=Thiên Lâu Bá Đoạn Kiếm
-目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Gây sát thương vật lý cực lớn lên kẻ địch ngay phía trước. Trang bị Thiên Lâu Bá Đoạn Kiếm cho đến khi TP cạn kiệt.\nThay đổi hiệu ứng kỹ năng cho đến khi TP cạn (100 TP/giây) và chuyển vòng đánh thành Vòng Lặp (UB).\nKhôi phục hiệu ứng kỹ năng sau khi TP về 0.\n(UB không tiêu hao TP)
-
+目の前の敵１キャラに物理特大ダメージを与え、天楼覇断剣を装備する。装備中はＴＰが減少し続け、ＴＰが無くなると装備が解除される。=Gây sát thương vật lý cực lớn lên 1 kẻ địch phía trước và trang bị 【Thien Lâu Bá Đoạn Kiếm (Heavenly Tower Severing Sword)】. Trong thời gian trang bị, TP sẽ liên tục giảm, và trang bị sẽ bị gỡ bỏ khi TP cạn kiệt.
 
 
 ##S1##

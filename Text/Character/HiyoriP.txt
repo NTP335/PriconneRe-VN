@@ -8,16 +8,16 @@
 
 ##UB##
 ヒヨリブレイジングインパクト=Hiyori Đột Kích Rực Lửa
-目の前の敵１キャラに物理特大ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルで与えたダメージ量に応じて、防御力の減少量が最大６倍までアップする。=Gây sát thương P.DMH lớn lên kẻ địch phía trước, và đồng thời hơi giảm P.DEF của nó. Sát thương P.DMH càng lớn do kỹ năng này gây ra, mức giảm P.DEF càng cao, tối đa 6 lần.\nP.DEF: (+0.0004×P.DMH)
+目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。与えたダメージに応じて、物理防御力のダウン量が最大６倍まで増加する。=Gây sát thương vật lý cực lớn lên 1 kẻ địch phía trước và giảm nhẹ Phòng thủ vật lý của kẻ đó. Tùy thuộc vào lượng sát thương gây ra, lượng giảm Phòng thủ vật lý tăng lên tối đa 6 lần.
 
 ##S1##
 トゥインクルブレイブ=Dũng Sĩ Lấp Lánh
-自分の物理攻撃力を中アップさせ、さらに物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Tăng trung bình P.ATK của bản thân, và đồng thời hơi tăng Tỷ Lệ Chí Mạng P. và P.CRIT DMG của bản thân.
+自分の物理攻撃力を中アップ、物理クリティカルと物理クリティカルダメージを小アップする。=Tăng vừa Tấn công vật lý, đồng thời tăng nhẹ Bạo kích vật lý và Sát thương bạo kích vật lý của bản thân.
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを25アップ自分の物理攻撃クリティカル時のダメージを5％アップ$"=Thời gian niệm: 0.6s\n►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Tăng Tỷ Lệ Chí Mạng P. của bản thân lên 25 trong 180s.\n►Tăng P.CRIT DMG của bản thân lên 5% trong 180s.
 
 ##S2##
 バーニングサンライズ=Bình Minh Cháy Bỏng
-自分の物理攻撃力を小アップさせ、さらに目の前の敵１キャラに物理中ダメージを与える。=Hơi tăng P.ATK của bản thân, và gây sát thương P.DMH trung bình lên kẻ địch phía trước.
+自分の物理攻撃力を小アップし、目の前の敵１キャラに物理中ダメージを与える。=Tăng nhẹ Tấn công vật lý của bản thân và gây sát thương vật lý vừa lên 1 kẻ địch phía trước.
 
 ##EX##
 バーニングソウル=Tâm Hồn Cháy Bỏng
@@ -25,7 +25,7 @@ r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカル�
 
 ##S1+##
 トゥインクルブレイブ+=Dũng Sĩ Lấp Lánh+
-自分の物理攻撃力と物理クリティカルを中アップさせ、さらに物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復させる。=Tăng trung bình P.ATK của bản thân, hơi tăng Tỷ Lệ Chí Mạng P. và P.CRIT DMG của bản thân, và cũng hơi hồi TP của bản thân.
+自分の物理攻撃力と物理クリティカルを中アップ、物理クリティカルダメージを小アップ、ＴＰを小回復する。=Tăng vừa Tấn công vật lý và Bạo kích vật lý, tăng nhẹ Sát thương bạo kích vật lý và hồi phục nhẹ TP cho bản thân.
 r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを40アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分のＴＰを100回復$"=Thời gian niệm: 0.6s\n►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Tăng Tỷ Lệ Chí Mạng P. của bản thân lên 40 trong 180s.\n►Tăng P.CRIT DMG của bản thân lên 10% trong 180s.\n►Hồi TP của bản thân lên 100.
 
 ##UE##

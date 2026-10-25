@@ -14,28 +14,28 @@
 
 ##UB##
 認識と発展性の哲学=Triết lý về Nhận thức và Tiềm năng
-味方全体の物理攻撃力を特大アップさせ、物理クリティカルを大アップさせる。=Tăng cường mạnh mẽ tấn công vật lý và tăng đáng kể tỷ lệ chí mạng vật lý cho tất cả đồng minh.
+最も物理攻撃力が高い味方の物理攻撃力と物理クリティカルを大アップ、ＴＰを小回復させるが、自分の物理・魔法防御力を小ダウンする。=Tăng lớn Tấn công vật lý và Bạo kích vật lý, hồi phục nhẹ TP của đồng minh có Tấn công vật lý cao nhất, nhưng đồng thời giảm nhẹ Phòng thủ vật lý và Phòng thủ phép của bản thân.
 r:"^味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを110アップ$"=►Tăng P.ATK của đồng minh lên $1 trong 18s.\n►Tăng P.CRIT Rate của đồng minh lên 110 trong 18s.
 
 ##S1##
 豪傑生成概論=Định lý Sinh ra Anh hùng
 最も物理攻撃力が高い味方１キャラの物理攻撃力と物理クリティカルを大アップさせ、さらにＴＰを小回復させるが、自分の物理防御力と魔法防御力を小ダウンさせる。=Tăng mạnh mẽ P.ATK và P.CRIT Rate của đồng minh có P.ATK cao nhất. Ngoài ra, phục hồi nhỏ TP của mục tiêu. Giảm P.DEF và M.DEF của bản thân.
-r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ味方単体のＴＰを(\d+)回復自分の物理防御力を初期値の15%ダウン自分の魔法防御力を初期値の15%ダウン$"=►Tăng P.ATK của đồng minh có P.ATK cao nhất lên $1 trong 12s.\n►Tăng P.CRIT Rate của đồng minh có P.ATK cao nhất lên $2 trong 12s.\n►Phục hồi TP của mục tiêu lên $3.\n►Giảm P/M.DEF của bản thân đi 15% trong 12s.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ味方単体のＴＰを(\d+)回復自分の物理防御力を初期値の15%ダウン自分の魔法防御力を初期値の15%ダウン$"=Thời gian thi triển: 0.73s.\n►Tăng P.ATK của đồng minh có P.ATK cao nhất lên $1 trong 12s.\n►Tăng P.CRIT Rate của đồng minh có P.ATK cao nhất lên $2 trong 12s.\n►Phục hồi TP của mục tiêu lên $3.\n►Giảm P/M.DEF của bản thân đi 15% trong 12s.
 
 ##S2##
 緩衝因子探求=Nghiên cứu về Các yếu tố Cách điện
-味方全体に継続ＴＰ回復状態を付与し、魔法無効バリアを展開するが、自分の魔法攻撃力を大ダウンさせる。=Cấp TP Regen cho tất cả đồng minh và triển khai một rào cản hấp thụ sát thương phép xung quanh họ, nhưng giảm đáng kể tấn công phép của bản thân.
-r:"^毎秒ＴＰを5回復する(\d+)ダメージ分の魔法無効バリアを展開する自分の魔法攻撃力を初期値の70%ダウン$"=►Phục hồi TP của đồng minh 5/s trong 10s.\n►Triển khai Rào cản trên tất cả đồng minh, hấp thụ $1 M.DMG trong 12s.\n►Giảm M.ATK của bản thân đi 70% trong 12s.
+味方全体に継続ＴＰ回復状態を付与し、魔法無効バリアを展開するが、自分の魔法攻撃力を大ダウンする。=Gán trạng thái hồi phục TP liên tục cho toàn bộ đồng minh và triển khai lá chắn vô hiệu hóa sát thương phép, nhưng đồng thời giảm lớn Tấn công phép của bản thân.
+r:"^毎秒ＴＰを5回復する(\d+)ダメージ分の魔法無効バリアを展開する自分の魔法攻撃力を初期値の70%ダウン$"=Thời gian thi triển: 0.57s.\n►Phục hồi TP của đồng minh 5/s trong 10s.\n►Triển khai Rào cản trên tất cả đồng minh, hấp thụ $1 M.DMG trong 12s.\n►Giảm M.ATK của bản thân đi 70% trong 12s.
 
 ##EX##
 碩学の教え=Nguyên tắc Học thuật
 碩学の教え+=Nguyên tắc Học thuật+
+バトル開始時に自分の魔法防御力を中アップする。=Tăng vừa Phòng thủ phép của bản thân khi bắt đầu trận đấu.
 
 ##S1+##
 豪傑生成概論+=Định lý Sinh ra Anh hùng+
-最も物理攻撃力が高い味方１キャラの物理攻撃力を大アップ、物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップさせ、さらにＴＰを小回復させるが、自分の物理防御力と魔法防御力を小ダウンさせる。=Tăng mạnh mẽ P.ATK và P.CRIT Rate của đồng minh có P.ATK cao nhất, và tăng trung bình P.CRIT DMG của nó. Ngoài ra, phục hồi nhỏ TP của mục tiêu. Giảm P.DEF và M.DEF của bản thân.
-最も物理攻撃力が高い味方１キャラの物理攻撃力を特大アップ、物理クリティカルを特大アップ、物理攻撃クリティカル時のダメージを中アップさせ、さらにＴＰを小回復させるが、自分の物理防御力と魔法防御力を小ダウンさせる。=Tăng mạnh mẽ P.ATK và P.CRIT Rate của đồng minh có P.ATK cao nhất, và tăng trung bình P.CRIT DMG của nó. Ngoài ra, phục hồi nhỏ TP của mục tiêu. Giảm P.DEF và M.DEF của bản thân.
-r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ味方単体の物理攻撃クリティカル時のダメージを25％アップ味方単体のＴＰを(\d+)回復自分の物理防御力を初期値の15%ダウン自分の魔法防御力を初期値の15%ダウン$"=►Tăng P.ATK của đồng minh có P.ATK cao nhất lên $1 trong 12s.\n►Tăng P.CRIT Rate của đồng minh có P.ATK cao nhất lên $2 trong 12s.\n►Tăng P.CRIT DMG của đồng minh có P.ATK cao nhất lên 25% trong 12s.\n►Phục hồi TP của mục tiêu lên $3.\n►Giảm P/M.DEF của bản thân đi 15% trong 12s.
+最も物理攻撃力が高い味方の物理攻撃力を特大アップ、物理クリティカルを特大アップ、物理クリティカルダメージを中アップ、ＴＰを小回復させるが、自分の物理・魔法防御力を小ダウンする。=Tăng cực lớn Tấn công vật lý và Bạo kích vật lý, tăng vừa Sát thương bạo kích vật lý, hồi phục nhẹ TP của đồng minh có Tấn công vật lý cao nhất, nhưng đồng thời giảm nhẹ Phòng thủ vật lý và Phòng thủ phép của bản thân.
+r:"^味方単体の物理攻撃力を(\d+)アップ味方単体の物理クリティカルを(\d+)アップ味方単体の物理攻撃クリティカル時のダメージを25％アップ味方単体のＴＰを(\d+)回復自分の物理防御力を初期値の15%ダウン自分の魔法防御力を初期値の15%ダウン$"=Thời gian thi triển: 0.73s.\n►Tăng $1 Tấn công vật lý của đồng minh có Tấn công vật lý cao nhất trong 12 giây.\n►Tăng $2 Bạo kích vật lý của đồng minh có Tấn công vật lý cao nhất trong 12 giây.\n►Tăng 25% sát thương khi bạo kích tấn công vật lý của đồng minh có Tấn công vật lý cao nhất trong 12 giây.\n►Hồi phục $3 TP cho mục tiêu.\n►Giảm 15% Phòng thủ vật lý/phép thuật của bản thân so với giá trị ban đầu trong 12 giây.
 
 ##UE##
 ペンシルアックス・レプリカ=Bản sao Rìu Bút chì

@@ -8,17 +8,17 @@
 
 ##UB##
 超全力全開☆プリンセスストライク=Đòn Công chúa Tối thượng☆
-目の前の敵１キャラに物理特大ダメージを与える。ぺコリーヌのＨＰが高い程ダメージがアップ。残りＨＰが50%未満で自分に騎士の加護を付与する。騎士の加護付与時にＨＰが0になると、倒れずに加護を消費してＨＰを回復する。=Gây sát thương vật lý cực lớn lên kẻ địch phía trước. Sát thương vật lý càng lớn khi HP còn lại càng nhiều. Tặng cho bản thân Knight's Blessing khi HP còn lại < 50%. Knight's Blessing sẽ hồi sinh cô khi nhận sát thương lớn hơn HP còn lại.
+目の前の敵１キャラに物理特大ダメージを与える。自分のＨＰが高いほど、ダメージが増加する。ＨＰが50%未満の場合、さらに自分に【騎士の加護】を付与する。【騎士の加護】付与中にＨＰが０になると、倒れずに【騎士の加護】を消費してＨＰを中回復する。=Gây sát thương vật lý cực lớn lên 1 kẻ địch phía trước. HP của bản thân càng cao, sát thương càng tăng. Nếu HP dưới 50%, đồng thời gán 【Gia Hộ Của Kỵ Sĩ (Knight's Blessing)】 cho bản thân. Nếu HP về 0 trong thời gian được gán 【Gia Hộ Của Kỵ Sĩ】, tiêu hao 【Gia Hộ Của Kỵ Sĩ】 để hồi phục vừa HP mà không bị hạ gục.
 r:"^敵単体に(\d+)の物理ダメージ騎士の加護付与中にＨＰが0になった場合、戦闘不能になる前に加護を消費してＨＰを(\d+)回復する$"=►Gây $1 (+2.7×HP) sát thương vật lý lên kẻ địch.\n►Nếu HP bản thân < 50%, tặng Knight's Blessing cho bản thân, hồi HP $2 khi gần chết trong 12s.
 
 ##S1##
 オニギリタイム=Onigiri Time
-自分の物理攻撃力を大アップさせる。ぺコリーヌのＨＰが高い程攻撃力の上昇量がアップする。残りＨＰが50%未満で自分に物理/魔法吸収バリアを展開する。=Tăng rất lớn P.ATK của bản thân. HP càng cao, tăng P.ATK càng nhiều. Triển khai Barrier trên bản thân hấp thụ sát thương vật lý/phép khi HP còn lại < 50%.
+自分の物理攻撃力を大アップする。自分のＨＰが高いほど攻撃力のアップ量が増加する。ＨＰが50%未満の場合、さらに自分に物理/魔法吸収バリアを展開する。=Tăng lớn Tấn công vật lý của bản thân. HP của bản thân càng cao, lượng tăng Tấn công vật lý càng lớn. Nếu HP dưới 50%, đồng thời triển khai lá chắn hấp thụ sát thương vật lý/phép thuật cho bản thân.
 r:"^自分の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Thời gian niệm: 0.46s\n►Tăng P.ATK của bản thân $1 (+0.2×HP) trong 12s.\n►Nếu HP bản thân < 50%, triển khai Barrier trên bản thân hấp thụ $2 sát thương vật lý/phép trong 12s.
 
 ##S2##
 ロイヤルスラッシュ=Chém Hoàng gia
-前方範囲内の敵すべてに物理中ダメージを与える。ぺコリーヌのＨＰが高い程ダメージがアップ。残りＨＰが50%以上でダメージの合計に応じて自分の物理攻撃力をアップさせ、50%未満でダメージの合計に応じて自分のＨＰを回復させる。=Gây sát thương vật lý vừa phải cho kẻ địch trong phạm vi. HP càng cao, sát thương vật lý càng lớn. Tăng P.ATK của bản thân dựa trên HP còn lại (≥50%HP), và hồi HP của bản thân dựa trên tổng sát thương (<50%HP).
+前方範囲内の敵に物理中ダメージを与える。自分のＨＰが高いほど、ダメージが増加する。ＨＰが50%以上の場合、与えたダメージに応じて自分の物理攻撃力が増加し、そうでない場合、与えたダメージに応じて自分のＨＰを回復する。=Gây sát thương vật lý vừa lên kẻ địch trong phạm vi phía trước. HP của bản thân càng cao, sát thương càng tăng. Nếu HP từ 50% trở lên, tăng Tấn công vật lý của bản thân tùy thuộc vào lượng sát thương gây ra; ngược lại, hồi phục HP của bản thân tùy thuộc vào lượng sát thương gây ra.
 r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＨＰを(\d+)回復$"=Thời gian niệm: 0.62s\n►Gây $1 sát thương vật lý cho kẻ địch trong phạm vi 300.\n►Nếu HP bản thân ≥ 50%, tăng P.ATK của bản thân $2 trong 12s.\n►Nếu HP bản thân < 50%, hồi HP của bản thân $3.
 
 ##EX##
@@ -27,7 +27,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)
 
 ##S1+##
 オニギリタイム+=Onigiri Time+
-自分の物理攻撃力を特大アップし、継続ＨＰ回復状態を付与する。ぺコリーヌのＨＰが高い程攻撃力の上昇量がアップする。残りＨＰが50%未満で自分に物理/魔法吸収バリアを展開する。=Tăng rất lớn P.ATK của bản thân và cho phép hồi HP liên tục. HP càng cao, tăng P.ATK càng nhiều. Triển khai Barrier trên bản thân hấp thụ sát thương vật lý/phép khi HP còn lại < 50%.
+自分の物理攻撃力を特大アップし、継続ＨＰ回復状態を付与する。自分のＨＰが高いほど、攻撃力のアップ量が増加する。ＨＰが50%未満の場合、さらに自分に物理/魔法吸収バリアを展開する。=Tăng cực lớn Tấn công vật lý của bản thân và gán trạng thái hồi phục HP liên tục. HP của bản thân càng cao, lượng tăng Tấn công vật lý càng lớn. Nếu HP dưới 50%, đồng thời triển khai lá chắn hấp thụ sát thương vật lý/phép thuật cho bản thân.
 r:"^自分の物理攻撃力を(\d+)アップ(\d+)ダメージ分の物理魔法吸収バリアを展開する毎秒ＨＰを(\d+)回復する$"=Thời gian niệm: 0.46s\n►Tăng P.ATK của bản thân $1 (+0.2×HP) trong 12s.\n►Hồi HP của bản thân $3/giây trong 12.5s.\n►Nếu HP bản thân < 50%, triển khai Barrier trên bản thân hấp thụ $2 sát thương vật lý/phép trong 12s.
 
 ##UE##
