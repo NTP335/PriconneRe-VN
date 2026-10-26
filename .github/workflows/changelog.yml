@@ -1,0 +1,71 @@
+name: Auto Changelog
+
+on:
+  workflow_run:
+    workflows: ["Auto Pack and Release"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+jobs:
+  changelog:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Tạo changelog
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          CURR: ${{ github.event.workflow_run.head_branch }}   # tên tag vừa phát hành, vd v1.0.2
+        run: |
+          set -euo pipefail
+          git fetch --tags --force
+
+          # Tag ngay trước tag hiện tại (theo thứ tự phiên bản)
+          PREV=$(git tag --sort=-v:refname | grep -A1 -Fx "$CURR" | sed -n 2p || true)
+
+          if [ -z "$PREV" ]; then
+            BASE=$(git hash-object -t tree /dev/null)   # release đầu tiên: so với "rỗng"
+          else
+            BASE="$PREV"
+          fi
+
+          {
+            echo "## Thông Tin Cập Nhật:"
+            echo
+            git -c core.quotepath=false diff --name-status --no-renames "$BASE" "$CURR" |
+            while IFS=$'\t' read -r status path; do
+              case "$status" in
+                A) verb="Thêm" ;;
+                D) verb="Xóa" ;;
+                M) verb="Cập nhật" ;;
+                *) continue ;;
+              esac
+
+              # Chỉ lấy file .txt nằm trong thư mục Text/
+              [[ "$path" == Text/*.txt ]] || continue
+
+              rest="${path#Text/}"   # bỏ đường dẫn thứ 1 (Text/)
+              rest="${rest%.txt}"    # bỏ đuôi .txt
+
+              if [[ "$rest" == */* ]]; then
+                dir="${rest%%/*}"    # đường dẫn thứ 2
+                name="${rest##*/}"   # tên file
+                echo "* $verb $dir: $name"
+              else
+                echo "* $verb $rest"
+              fi
+            done
+            echo
+            if [ -n "$PREV" ]; then
+              echo "**Full Changelog**: https://github.com/$REPO/compare/$PREV...$CURR"
+            fi
+          } > notes.md
+
+          cat notes.md
+          gh release edit "$CURR" --notes-file notes.md
