@@ -4,7 +4,7 @@
 お問い合わせ=Liên hệ với chúng tôi
 データ修復=Sửa chữa dữ liệu
 データ\n連携=Liên kết\ndữ liệu
-メニュー=Trình đơn
+メニュー=Menu
 ゲーム起動中=Bắt đầu trò chơi
 データダウンロード=Tải dữ liệu
 ＳＤカード保存設定=Cài đặt lưu trữ SDCard
