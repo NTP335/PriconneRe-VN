@@ -506,3 +506,5 @@ sr:"^(.+?)のストーリーを全て閲覧する$"=Xem toàn bộ cốt truyệ
 ドジ退散！　脱大凶大作戦=Xua tan hậu đậu! Đại chiến dịch thoát khỏi vận rủi
 煉獄のリベリオン=Rebellion of Purgatory (Cuộc nổi dậy của luyện ngục)
 お城に採用いたしましょう♪=Ta sẽ nhận ngươi vào lâu đài làm việc nhé ♪
+
+仮面の下の照れ屋さん=Cô nàng e thẹn bên dưới chiếc mặt nạ

@@ -52,6 +52,11 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理攻撃力を(\d+)ダ
 ##UE##
 ブロッサムウィッシュ=Ước muốn nở hoa
 
+##S1++##
+フラワーショット++=Vụ nổ nở hoa++
+目の前の敵１キャラに魔法大ダメージを与え、物理・魔法攻撃力を大ダウン、魔法防御力を小ダウンさせる。自分にバリア展開中の場合、さらに自分のＴＰを大回復する。=Gây sát thương phép cực lớn cho 1 kẻ địch ở phía trước, giảm mạnh lực tấn công vật lý và phép, đồng thời giảm nhẹ phòng thủ phép của mục tiêu. Nếu bản thân đang triển khai khiên chắn (barrier), sẽ hồi phục lượng lớn TP cho bản thân.
+r:"^敵単体に(\d+)の魔法ダメージ敵単体の物理・魔法攻撃力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン自分にバリアが展開されている場合、自分のＴＰを500回復$"=►Gây $1 sát thương phép lên một mục tiêu kẻ địch đơn lẻ.\n►Giảm lực tấn công vật lý và phép của một mục tiêu kẻ địch đơn lẻ đi $2 trong 12 giây.\n►Giảm phòng thủ phép của một mục tiêu kẻ địch đơn lẻ đi $3 trong 12 giây.\n\nNếu bản thân đang triển khai khiên chắn (Barrier):\n►Hồi phục 500 TP cho bản thân.
+
 ##Comments##
 わたしでよかったら、力になりたいな…\nこれからよろしくね。騎士クン=Nếu cậu không phiền, em muốn giúp...\nEm rất mong được làm việc với cậu, Kishi-kun
 今日は付き合ってくれてありがとう\nもっと強くなれるようにがんばるから、\nこれからもよろしくねっ！=Cảm ơn cậu đã đi chơi với em hôm nay.\nEm sẽ cố gắng trở nên mạnh mẽ hơn, nên em rất mong\nđược làm việc với cậu từ bây giờ!
