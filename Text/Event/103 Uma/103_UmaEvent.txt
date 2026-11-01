@@ -1,0 +1,87 @@
+
+ウマ娘コラボ記念ショップ=Cửa Hàng Kỷ Niệm Hợp Tác Umamusume
+7.5th Anniv.\nピュアメモリーピース交換チケット=Vé Đổi Mảnh Thần Thức (Pure Memory Piece)\nKỷ Niệm 7.5 Năm
+一部6:00更新=Một số vật phẩm cập nhật lúc 6:00
+
+Comic
+ばぁ～か♡=Đồ ngốc~♡
+キミと繋がるゴルシちゃん=Bé Golshi-chan Tái Kết Nối Cùng Bạn
+
+NPC
+よっ！　来てやったぜー！\n……誰？　って顔すんなよ！\nアタシだアタシ！　ゴールドシップ様だっつーの！=Yo! Bé đến chơi rồi đây nèー!\n……Đừng có trưng cái bản mặt "Ai thế?" ra chứ hả!\nLà tôi đây, tôi đây nè! Đã bảo là ngài Gold Ship vĩ đại rồi cơ mà!
+なぁ、本当に忘れちまったのか？\n共にランドソルを巡り、剣を交えた……\nあの血と汗と涙と、魔法と青春の日々を……！？=Này, cậu nỡ lòng nào quên sạch sành sanh rồi thật đấy à?\nNhững ngày tháng tụi mình cùng nhau bôn ba khắp Landosol, kề vai sát cánh giao phong……\nChuỗi ngày ngập tràn máu, mồ hôi, nước mắt, ma pháp cùng thanh xuân nhiệt huyết đó……!?
+ま、そんな記憶ねーんだけどさ。=Mà kể ra thì, tụi mình làm gì có mấy cái ký niệm đó đâu cơ chứ.
+つーわけでしばらく厄介になるぜ！\nいやだって言ってもー、逃・が・さ・な・い・ぞ♡=Thế nên là từ giờ tôi sẽ làm phiền cậu một thời gian đấy nhé!\nDù cậu có lắc đầu quầy quậy bảo không thích đi chăng nữaー, tôi cũng sẽ k・h・ô・n・g・t・h・ả・c・ậ・u・r・a・đ・â・u♡
+わかったら観念してアタシに付き合え！\n行くぞー！　まずは栗拾いだー！=Hiểu rồi thì ngoan ngoãn đầu hàng chịu trận mà đi chơi với tôi đi!\nĐi thôi nàoー! Trước tiên là đi nhặt hạt dẻ thôi nàoー!
+
+Mission
+ゴールドシップのユニオンバースト=Union Burst của Gold Ship
+4部メインクエストを1回クリアしよう=Hoàn thành Quest Chính Phần 4 1 lần
+サポート含む=Bao gồm cả Nhân vật Hỗ trợ (Support)
+ゴールドシップを編成してイベントボス(SCENARIO)を撃破しよう=Đưa Gold Ship vào đội hình và tiêu diệt Boss Sự Kiện (SCENARIO)
+ゴールドシップのキャラクターストーリー第2話を閲覧しよう=Xem Câu Truyện Nhân Vật Tập 2 của Gold Ship
+アーモンドアイを編成してイベントボス(SCENARIO)を撃破しよう=Đưa Almond Eye vào đội hình và tiêu diệt Boss Sự Kiện (SCENARIO)
+ゴールドシップのキャラクターストーリー第4話を閲覧しよう=Xem Câu Truyện Nhân Vật Tập 4 của Gold Ship
+ゴールドシップのキャラクターストーリー第1話を閲覧しよう=Xem Câu Truyện Nhân Vật Tập 1 của Gold Ship
+4部メインクエストを5回クリアしよう=Hoàn thành Quest Chính Phần 4 5 lần
+ゴールドシップに通常枠のEX装備を3つ装備させよう=Trang bị 3 Trang bị EX ô thường cho Gold Ship
+EX装備を1回上限解放しよう=Mở giới hạn (Đột phá giới hạn) Trang bị EX 1 lần
+4部メインクエストを50回クリアしよう=Hoàn thành Quest Chính Phần 4 50 lần
+4部メインクエストを30回クリアしよう=Hoàn thành Quest Chính Phần 4 30 lần
+
+ボスバトル（SPECIAL）の=Trận Đấu Boss (SPECIAL)
+ボスバトル（SPECIAL＋）の=Trận Đấu Boss (SPECIAL+)
+
+
+
+Boss Event
+ラースゴルシ=Warth Golshi
+
+ゴールドシップの力を巨躯に宿した竜。無比の俊足を持ち、行動は予測不能にして混沌。だがレースでは、心に宿した熱が真紅に燃え盛る。=Con rồng mang sức mạnh của Gold Ship ẩn chứa trong tấm thân đồ sộ. Tố chất phi nước đại không ai sánh bằng, hành động vô cùng hỗn loạn và khó đoán. Nhưng một khi bước vào đường đua, ngọn lửa nhiệt huyết trong tim nó sẽ bùng cháy đỏ rực.
+
+
+Story intro
+飛び込んで、異世界！？=Lạc Bước Vào, Thế Giới Khác!?
+なんて美しい世界でしょう…！\n現実では見られない景色ばかり\nぜひ一度、この世界の大自然を\n隅から隅まで駆け抜けてみたいです=Một thế giới tuyệt đẹp làm sao…!\nToàn là những khung cảnh chẳng thể nào bắt gặp ở thế giới thực.\nEm nhất định muốn một lần được phi nước đại bứt tốc qua thiên nhiên hùng vĩ của thế giới này,\ntừ mọi ngóc ngách cho tới từng bờ cõi.
+来ったぞ～来ったぞ～\nアストルム～っと！\nな～んか平和そうな世界だな\nちょっくら盛り上げてくっか！=Đến rồi đây～ đến rồi đây～\nĐặt chân tới Astrum rồi nè～!\nTrông cái thế giới này có vẻ bình yên quá nhở,\nđể tớ khuấy đảo cho nó nhộn nhịp hừng hực lên chút nào!
+ゲームの世界、ね\n分からないことばかりだけれど\nやることは変わらないわ\nどんな場所でもわたしは負けない！=Thế giới trong game, nhỉ.\nTuy có toàn những điều tôi chưa thể thấu hiểu,\nnhưng những việc tôi cần làm thì vẫn chẳng hề thay đổi.\nDù cho có ở bất kỳ nơi đâu, tôi cũng tuyệt đối không chịu khuất phục!
+（剣と魔法！　ええなぁ～！\nうちも魔法覚えられるやろか\nレースの後に花咲かせたり…\nくぅ～っ！　はよ試したいわ！）=(Kiếm và ma pháp! Đã quá ha～!\nKhông biết mình có học được ma pháp luôn không ta,\nkiểu như làm hoa nở rộ sau khi cán đích cuộc đua ấy…\nƯmmm～! Muốn thử ngay và luôn quá đi mất!)
+ゴルシさんは相変わらずやねぇ…\nまぁせっかくの異世界やし\nいつもと違うレース、\n楽しませてもらいましょ=Chị Golshi thì vẫn chứng nào tật nấy như mọi khi nhở…\nMà thôi, dù sao cũng đã cất công tới thế giới khác rồi,\nnên cứ tận hưởng trọn vẹn một cuộc đua khác biệt hoàn toàn so với thường ngày thôi nào.
+
+
+
+
+
+
+---Event Boss Story---
+シャドウゴルシ=Shadow Golshi
+まさかラースゴルシとシャドウゴルシが、同時に攻めて来るなんて……！=Không thể tin được là Wrath Golshi và Shadow Golshi lại cùng lúc tấn công chúng ta thế này……!
+ラースゴルシは確か、アイさんが捕まえた相手やったね。\nまた戦いにくるなんて、よっぽど元気が有り余ってるんやなぁ。=Wrath Golshi hình như là đối thủ mà chị Eye từng tóm gọn lần trước nhỉ.\nLại đến khiêu chiến tiếp thế này thì đúng là năng lượng dư thừa tràn trề quá chừng luôn ha.
+タッグを組むのは向こうだけじゃねぇぜ！\nこっちはアタシが参戦だーっ！\nいやーいっぺんやってみたかったんだよな、ドラゴン漁てやつ。=Đâu phải chỉ có bên đó mới biết lập đội song tấu chứ!\nBên này tớ cũng chính thức xuất trận đâyー!\nChao ôi, tớ đã luôn muốn thử cái trò đi "câu rồng" này một lần cho biết đấy.
+みなさまには攪乱をお願いいたします。\nほかはわたくしたちにお任せを！=Xin nhờ mọi người đảm nhận việc làm rối loạn đội hình địch.\nNhững phần còn lại xin hãy cứ giao hết cho chúng tôi!
+はい！\n以前魔物を捕まえた時と同じように……\nみんなで力を合わせましょう☆=Vâng ạ!\nTương tự như lần chúng ta vây bắt quái vật trước đây……\nTất cả chúng ta hãy cùng nhau hợp lực nào☆
+
+仲間と一緒に！=Cùng Với Những Người Bạn Đồng Hành!
+シャドウゴルシさんたち、やっとおとなしゅうなりましたな。=Mấy người như Shadow Golshi-san cuối cùng cũng đã chịu ngoan ngoãn lại rồi nhỉ.
+ふん！\nこっちだって振り回されてばっかじゃないんだから！=Hừm!\nBên này tụi này cũng đâu có dễ gì mà cứ bị xoay như dế hoài chứ!
+そうね。\nみんなで力を合わせればあっという間よ。=Đúng vậy nhỉ.\nChỉ cần tất cả chúng ta cùng nhau hợp lực thì xong xuôi trong một nốt nhạc thôi.
+みなさんと息を合わせて、相手の気を引いたり、攻撃を避けたり……\n普段のレースとは違って、とても新鮮でした。=Cùng phối hợp ăn ý nhịp nhàng với mọi người, đánh lạc hướng đối thủ, rồi lại né tránh đòn tấn công……\nKhác hẳn với những cuộc đua thường ngày, cảm giác vô cùng mới mẻ luôn ạ.
+この世界には勝負しがいのある相手もいれば、\n力を合わせられる仲間もいる……それがアストルムってことかしら。=Ở thế giới này vừa có những đối thủ xứng tầm để thi đấu hết mình, lại vừa có những người bạn đồng hành để cùng nhau hợp lực…… Có lẽ đó chính là bản chất của Astrum nhỉ.
+じゃあやることも終わったし、その仲間たちみんなで\nおいしいご飯でも食べに行きましょ。=Thế thì công việc cũng đã xong xuôi rồi, hay là tất cả những người bạn đồng hành ở đây cùng nhau đi ăn một bữa thật ngon thôi nào.
+ええ！\nたくさんおしゃべりをしながら、ね！=Vâng ạ!\nVừa ăn lại vừa trò chuyện thật nhiều nữa nhé!
+オラオラオラーーーーッ！！\nこっちこいやーーーっ！！=ORA ORA ORAAAAH!!\nNgon thì lao hết vào đây xem nàoーーー!!
+ラースゴルシに、シャドウゴルシ！？\n倒したはずじゃ……=Wrath Golshi với lại Shadow Golshi sao!?\nChẳng phải tụi mình vừa mới đánh gục rồi sao……
+いや、アタシにはわかるぜ。\nアイツもまた、アタシを基に生まれた存在……\nこいつを吸収すりゃあ、ゴルシちゃんはパーフェクトゴルシちゃんに……=Không, tớ cảm nhận được đấy.\nTên đó cũng lại là một thực thể được sinh ra dựa trên bản thể của tớ……\nChỉ cần hấp thụ tên này vào nữa là bé Golshi-chan sẽ biến thành Perfect Golshi-chan liền……
+いやどういう設定よ！？\nあーもう、わけわかんなくなってきたわ……！=Thế rốt cuộc đó là cái thiết lập quái gì vậy chứ hả!?\nBực thật đấy, đầu óc tôi bắt đầu rối tung rối mù lên rồi đây này……!
+とりあえずまた暴れられないように\n早く倒しましょう！=Trước mắt để tránh cho tụi nó lại làm loạn tiếp,\nchúng ta hãy mau chóng hạ gục tụi nó thôi!
+あら？　この魔物たち……\n故郷で見かける動物たちに似ているような……？=Ơ kìa? Mấy con quái vật này……\nHình như trông khá giống mấy con động vật hay bắt gặp ở quê nhà mình thì phải……?
+ラースゴルシにも仲間ができたみたいですね。\nどの子もすっごくおいしそうです♪=Có vẻ như Wrath Golshi cũng đã tìm được đồng bọn rồi nhỉ.\nBé nào trông cũng cực kỳ ngon lành cành đào luôn đó nha♪
+ジビエでしたら、シチューにするのもいいですよね。\n私もいただいたことがあります。=Nếu là thịt thú rừng thì mang đi nấu món hầm là chuẩn bài lắm luôn đấy ạ.\nTôi cũng từng được thưởng thức qua món đó rồi.
+ふむ……では、今日の晩ご飯はシチューにしましょう。\nちょうど食材も目の前にありますから。=Hừm…… Thế thì bữa tối hôm nay tụi mình quyết định ăn món hầm đi nha.\nDù sao thì nguyên liệu tươi ngon cũng đang lù lù ngay trước mắt rồi mà.
+やったぁ☆\nよーし、ガンガン倒しますよ～！=Tuyệt vời quá☆\nĐược rồi, quật ngã tụi nó tới bến luôn thôi nào～!
+いやタクトちゃん、馴染みすぎやろっ！？=Ủa alo Tact-chan, em nhập cuộc nhanh quá rồi đó biết không hả!?
+ゴルシ様ふっかぁーーーーーつ！=Ngài Golshi vĩ đại đã chính thức hồi sinhhhhhーーー!
+まだまだ遊び足りんやなんて……\nシャドウゴルシさんはほんま欲張りさんやなぁ。=Vẫn chưa chơi đùa thỏa thích sao……\nShadow Golshi-san đúng là tham lam quá chừng luôn ha.
+であれば、何度でも……\n満足できるまでお相手させていただきます。=Nếu đã như vậy thì dẫu có bao nhiêu lần đi nữa……\ntôi cũng xin nguyện tiếp đón cho đến khi chị cảm thấy thỏa mãn mới thôi.
+ええ。\n強敵との勝負は何回やっても楽しいもの。=Đúng thế.\nTranh tài đối đầu với đối thủ mạnh thì dù có làm lại bao nhiêu lần vẫn thấy thú vị như thường.
+そして最後は──\n絶対、わたしたちが勝つのよ！=Và đến chặng cuối cùng──\nnhất định người chiến thắng sẽ là chúng ta!

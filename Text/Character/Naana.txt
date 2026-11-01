@@ -1,5 +1,6 @@
 ##Profile##
 【物理】前衛でダメダメでも逃げず戦うアルミラージ娘。最も近くの味方に強化や行動不能無効の付与、回復を行い敵の注意をそらすことで、過酷な世界を生き延びる。=[Vật Lý] Một cô gái Almiraj tuyến đầu chiến đấu mà không bỏ chạy ngay cả khi xuống dốc. Cô tăng cường đồng minh gần nhất với các buff và miễn nhiễm với khống chế, cung cấp hồi phục, và thu hút sự chú ý của kẻ địch để tồn tại trong một thế giới khắc nghiệt.
+落ちこぼれでもめげない、アルミラージ娘=Cô nàng thỏ sừng Al-Mi'raj dù kém cỏi nhưng chưa bao giờ bỏ cuộc
 
 ##Union Burst##
 アルミラージュバッシュ=Almirage Bash

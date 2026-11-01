@@ -1,3 +1,9 @@
+
+##Profile##
+【魔法】後衛で、小柄で大人対応な錬金堂の省エネ店主。強力な弱体効果を与えながら、デバフ付与のたび増加する【虚脱】が80溜まると本気を出し定時厳守で戦い抜く。=[Phép thuật] Nữ chủ tiệm giả kim nhỏ nhắn nhưng rất chuyên nghiệp, luôn tiết kiệm năng lượng ở hàng sau. Trong khi gây ra các hiệu ứng suy yếu mạnh mẽ, cô sẽ tung hết sức lực khi tích lũy đủ 80 điểm [Suy nhược] từ mỗi lần gây debuff, và chiến đấu theo đúng giờ giấc quy định.
+体は子ども、頭脳は大人な錬金堂店主=Cơ thể trẻ thơ nhưng trí tuệ người lớn - Chủ tiệm tiệm giả kim
+
+
 ##UB##
 アムニス・オケアノス=Amnis Oceanus
 
@@ -20,9 +26,6 @@ r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の魔法攻撃力を(\
 #EX##
 定時退勤の心得=Bí quyết tan làm đúng giờ
 定時退勤の心得+=Bí quyết tan làm đúng giờ+
-
-##Profile##
-【魔法】後衛で、小柄で大人対応な錬金堂の省エネ店主。強力な弱体効果を与えながら、デバフ付与のたび増加する【虚脱】が80溜まると本気を出し定時厳守で戦い抜く。=[Phép thuật] Nữ chủ tiệm giả kim nhỏ nhắn nhưng rất chuyên nghiệp, luôn tiết kiệm năng lượng ở hàng sau. Trong khi gây ra các hiệu ứng suy yếu mạnh mẽ, cô sẽ tung hết sức lực khi tích lũy đủ 80 điểm [Suy nhược] từ mỗi lần gây debuff, và chiến đấu theo đúng giờ giấc quy định.
 
 ##S1+##
 テイジマデニアガールＺ=Teijimadenia Girl Z

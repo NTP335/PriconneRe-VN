@@ -1,6 +1,6 @@
 ##Profile##
 【魔法】後衛から、中立で平等とうそぶく認識の修正者。敵の認識を乱して弱体効果を付与し、一方で味方が受ける混乱、誘惑状態を無効化しお気に入りの彼に肩入れする。=[Phép thuật] hậu phương kẻ thao túng nhận thức luôn miệng khoe khoang sự trung lập và bình đẳng. Cô làm rối loạn nhận thức của kẻ địch để gây ra hiệu ứng bất lợi, đồng thời vô hiệu hóa trạng thái Hỗn loạn và Mê hoặc cho đồng minh, và thiên vị ra mặt cho người đàn ông cô yêu quý.
-高田憂希=Takada Yuki
+世界を繕う認識の修正者=Hiệu đính viên nhận thức người vá víu lại thế giới
 
 ##UB##
 レコグナイズ・リバース=Recognize Reverse

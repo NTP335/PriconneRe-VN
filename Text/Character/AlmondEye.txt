@@ -1,0 +1,27 @@
+##Profile##
+【物理】前衛でLoAを駆ける超×９負けず嫌いなウマ娘。自分より攻撃力の高い味方がいると、【スタミナ】を消費してスキルの性能を強化し、さらなる高みへと躍進する。=[Vật lý] Một mã nương cực kỳ hiếu thắng xông pha tuyến đầu trong LoA. Khi có đồng minh sở hữu lực tấn công cao hơn bản thân, cô ấy sẽ tiêu thụ [Thể lực] (Stamina) để cường hóa hiệu năng kỹ năng, vươn lên những tầm cao mới.
+
+完璧、よ=Hoàn hảo rồi đấy
+型=Loại
+ウマ娘=Uma Musume
+ゆっくりお風呂につかること=Ngâm mình thư giãn trong bồn nước nóng
+
+
+##UB## 
+ピアレスロードスター=Peerless Roadster
+目の前の敵１キャラに物理大ダメージを３回与え、物理防御力を小ダウン、受けるクリティカルダメージを小アップさせる。自分より物理攻撃力が高い味方がいる場合、さらに自分の与える物理ダメージを小アップし、ＴＰを固定量で中回復する。最も物理攻撃力が高い味方の物理攻撃力に応じて、与える物理ダメージのアップ量が最大５倍まで増加する。=Gây sát thương vật lý cực lớn cho 1 kẻ địch ở phía trước 3 lần, giảm nhẹ phòng thủ vật lý và tăng nhẹ sát thương chí mạng phải chịu của mục tiêu. Trường hợp có đồng minh sở hữu lực tấn công vật lý cao hơn bản thân, sẽ đồng thời gia tăng nhẹ sát thương vật lý do bản thân gây ra và hồi phục lượng vừa TP theo mức cố định. Dựa trên lực tấn công vật lý của đồng minh có P.ATK cao nhất, lượng gia tăng sát thương vật lý gây ra sẽ được nhân lên tối đa gấp 5 lần.
+r:"^敵単体に(\d+)の物理ダメージを３回与える敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを6％アップ自分より物理攻撃力が高い味方がいる場合、以下の効果が発動する自分の与える物理ダメージを1％アップ自分のＴＰを固定量で150回復$"=►Gây $1 sát thương vật lý lên một mục tiêu kẻ địch đơn lẻ 3 lần.\n►Giảm phòng thủ vật lý của một mục tiêu kẻ địch đơn lẻ đi $2 trong 18 giây.\n►Tăng 6% sát thương chí mạng phải chịu của một mục tiêu kẻ địch đơn lẻ trong 18 giây.\n\nNếu có đồng minh sở hữu lực tấn công vật lý cao hơn bản thân:\n►Tăng 1% sát thương vật lý do bản thân gây ra trong 180 giây.\n►Hồi phục 150 TP cho bản thân.
+
+##S1## 
+直向きな眼差し=Single-Minded Gaze
+目の前の敵１キャラに物理大ダメージを与え、その敵を中心に物理ダメージフィールドと、魔法攻撃力を大ダウン、物理防御力を小ダウンさせるフィールドを展開する。自分の【スタミナ】が９以上の場合、自分の【スタミナ】を９消費し、さらに自分のＴＰを小回復する。自分より物理攻撃力が高い味方がいる場合、さらに自分の【スタミナ】を最大３消費し、消費した【スタミナ】の量に応じて自分のＴＰを回復する。=Gây sát thương vật lý cực lớn cho 1 kẻ địch ở phía trước, đồng thời triển khai hai vùng đất (field) lấy kẻ địch đó làm tâm: một vùng gây sát thương vật lý và một vùng làm giảm mạnh tấn công phép cùng giảm nhẹ phòng thủ vật lý của kẻ địch trong vùng. Nếu [Thể lực] (Stamina) của bản thân từ 9 trở lên, sẽ tiêu thụ 9 [Thể lực] và hồi phục thêm một ít TP cho bản thân. Trường hợp có đồng minh sở hữu lực tấn công vật lý cao hơn bản thân, sẽ tiêu thụ thêm tối đa 3 [Thể lực] và hồi phục TP dựa trên lượng [Thể lực] đã tiêu thụ.
+r:"^敵単体に(\d+)の物理ダメージ毎秒(\d+)の物理ダメージを与えるフィールドを展開するフィールド内の敵の魔法攻撃力(\d+)ダウンフィールド内の敵の物理防御力(\d+)ダウン自分のスタミナが９以上の場合、以下の効果が発動する自分のスタミナを９消費する自分のＴＰを100回復自分より物理攻撃力が高い味方がいる場合、以下の効果が発動する自分のスタミナを最大３消費する自分のＴＰを最大60回復$"=Thời gian thi triển: 1.05s.\n►Gây $1 sát thương vật lý cho một mục tiêu kẻ địch đơn lẻ.\n►Triển khai một vùng ảnh hưởng trong bán kính 300 gây $2 sát thương vật lý mỗi giây trong 12.5 giây.\n►Giảm lực tấn công phép của kẻ địch trong vùng ảnh hưởng đi $3 trong 12.5 giây.\n►Giảm phòng thủ vật lý của kẻ địch trong vùng ảnh hưởng đi $4 trong 12.5 giây.\n\nNếu Thể lực (Stamina) của bản thân từ 9 trở lên:\n►Tiêu thụ 9 Thể lực của bản thân.\n►Hồi phục 100 TP cho bản thân.\n\nNếu có đồng minh sở hữu lực tấn công vật lý cao hơn bản thân:\n►Tiêu thụ tối đa 3 Thể lực của bản thân.\n►Hồi phục tối đa 60 TP cho bản thân.
+
+##S2##
+勝利へ繋ぐ一呼吸=A Breath Toward Victory
+自分の【スタミナ】（上限99）を99回復し、物理・魔法防御力を中アップ、加算行動速度を大アップする。味方がＵＢを発動するたびに自分の【スタミナ】が２回復する状態になる。=Hồi phục 99 [Thể lực] (Stamina) cho bản thân (giới hạn tối đa 99), tăng vừa phòng thủ vật lý và phép, đồng thời tăng mạnh tốc độ hành động cộng dồn. Đưa bản thân vào trạng thái hồi phục 2 [Thể lực] mỗi khi có đồng minh kích hoạt kỹ năng UB.
+r:"^自分のスタミナを(\d+)回復する自分の物理・魔法防御力を(\d+)アップ自分の行動速度100％加算味方がＵＢを使用するたびに自分のスタミナが２回復する状態になる$"=Thời gian thi triển: 1.05s.\n►Hồi phục $1 Thể lực cho bản thân.\n►Tăng phòng thủ vật lý và phép của bản thân lên $2 trong 180 giây.\n►Cộng thêm 100% tốc độ hành động cho bản thân trong 180 giây.\n►Đưa bản thân vào trạng thái hồi phục 2 Thể lực mỗi khi đồng minh sử dụng UB.
+
+##EX## 
+絶対負けないんだから！=I'm Absolutely Not Going to Lose!
+絶対負けないんだから！+=I'm Absolutely Not Going to Lose!+

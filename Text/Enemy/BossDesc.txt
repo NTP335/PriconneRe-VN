@@ -3013,3 +3013,10 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 自身の【月の祝福】をすべて消費=Tiêu thụ toàn bộ điểm [Chúc phúc của Mặt Trăng] của bản thân.
 自身のＨＰを25％回復=Hồi phục 25% HP cho bản thân.
 【フェーズ１】・シャドウが存在している・自身に全ダメージ100％カット【フェーズ２】・シャドウが存在しない、自身のＨＰ50％以上・行動パターン変更【スキル２】・敵全体に物理／魔法ダメージ・敵全体に物理／魔法防御力ダウン（必中）・自身がブレイク状態：ダウン量減少【フェーズ３】・シャドウが存在しない、自身のＨＰ50％未満・行動パターン変更・自身の【月の祝福】50消費・自身にブレイク無効・自身に物理／魔法防御力ダウン・自身に行動速度アップ・自身にＴＰ上昇アップ【スキル３】・敵全体に物理／魔法ダメージ・敵全体に物理／魔法攻撃力ダウン（必中）・自身が継続ダメージ状態でない：自身に　【月の祝福】15付与=[Đợt 1]\n►Có sự tồn tại của Shadow\n►Giảm 100% tất cả sát thương phải nhận cho bản thân\n\n[Đợt 2]\n►Không có sự tồn tại của Shadow, HP của bản thân từ 50% trở lên\n►Thay đổi chuỗi hành động\n\n[Kỹ năng 2]\n►Gây sát thương vật lý và phép lên toàn bộ kẻ địch\n►Giảm phòng thủ vật lý và phép của toàn bộ kẻ địch (chắc chắn trúng đích)\n►Bản thân ở trạng thái Phá vỡ (Break): Giảm mức độ giảm\n\n[Đợt 3]\n►Không có sự tồn tại của Shadow, HP của bản thân dưới 50%\n►Thay đổi chuỗi hành động\n►Tiêu thụ 50 điểm [Chúc phúc của Mặt Trăng] của bản thân\n►Miễn nhiễm trạng thái Phá vỡ cho bản thân\n►Giảm phòng thủ vật lý và phép của bản thân\n►Tăng tốc độ hành động của bản thân\n►Tăng chỉ số hồi TP của bản thân\n\n[Kỹ năng 3]\n►Gây sát thương vật lý và phép lên toàn bộ kẻ địch\n►Giảm lực tấn công vật lý và phép của toàn bộ kẻ địch (chắc chắn trúng đích)\n►Nếu bản thân không ở trạng thái chịu sát thương theo thời gian: Cấp 15 điểm [Chúc phúc của Mặt Trăng] cho bản thân
+
+
+
+
+
+
+自身に無敵\n【スキル１】 =Vô địch cho bản thân\n[Kỹ năng 1]

@@ -1,0 +1,24 @@
+##Profile##
+【物理】中衛から破天荒に翻弄するゴルシちゃんだぜ☆後ろでコソコソしてる敵を狙い打ち！　ラストスパートの追込でダメージレースをぶっちぎってやんよオラァッ！=[Vật lý] Là bé Golshi-chan quậy tưng bừng từ vị trí hàng trung đây☆ Nhắm thẳng vào mấy tên địch đang lén lút ở phía sau mà nã! Rồi dùng pha bứt tốc nước rút chặng cuối bỏ xa đối thủ trong cuộc đua sát thương luôn nhé đồ ngốc! OORAAAH!
+他愛もない可愛いイタズラ=Trò đùa nghịch ngợm đáng yêu vô hại
+
+粗暴、奔放！　謎テンションな黄金電波娘=Thô bạo, khoáng đạt! Cô nàng tần số lập dị sắc vàng với năng lượng khó cảm
+
+##UB##
+君と出逢い、君にキック=Meeting You, Kicking You
+前方の最も遠くの敵に物理特大ダメージを与え、物理防御力を中ダウンさせ、大きく引き寄せる。バトルの残り時間が30秒未満の場合、敵全体が対象になる。バトルの残り時間が10秒未満の場合、自分の【スタミナ】を半分消費し、消費した【スタミナ】の量に応じてダメージ倍率が増加する。=Gây sát thương vật lý siêu lớn cho kẻ địch ở xa nhất phía trước, giảm vừa phòng thủ vật lý và kéo mạnh mục tiêu về phía mình. Trường hợp thời gian trận đấu còn dưới 30 giây, toàn bộ kẻ địch sẽ trở thành mục tiêu. Trường hợp thời gian trận đấu còn dưới 10 giây, sẽ tiêu thụ một nửa [Thể lực] (Stamina) của bản thân, hệ số sát thương sẽ tăng dựa trên lượng [Thể lực] đã tiêu thụ.
+r:"^バトルの残り時間が30秒以上の場合、以下の効果が発動する敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンバトルの残り時間が30秒未満の場合、以下の効果が発動する敵全体に(\d+)の物理ダメージ敵全体の物理防御力を(\d+)ダウンバトルの残り時間が10秒未満の場合、自分のスタミナを半分消費する$"=Nếu thời gian trận đấu còn từ 30 giây trở lên:\n►Gây $1 sát thương vật lý lên một mục tiêu kẻ địch đơn lẻ.\n►Giảm phòng thủ vật lý của một mục tiêu kẻ địch đơn lẻ đi $2 trong 18 giây.\n\nNếu thời gian trận đấu còn dưới 30 giây:\n►Gây $3 sát thương vật lý lên toàn bộ kẻ địch.\n►Giảm phòng thủ vật lý của toàn bộ kẻ địch đi $4 trong 18 giây.\n\nNếu thời gian trận đấu còn dưới 10 giây:\n►Tiêu thụ một nửa Thể lực của bản thân.
+
+##S1##
+不沈艦抜錨・LoAコース=Unsinkable Ship, Weigh Anchor: LoA Course
+前方の最も遠くの敵に物理大ダメージを与え、物理防御力を小ダウン、受けるクリティカルダメージを小アップさせる。対象の敵の弱体効果の種類の数に応じて、自分の【スタミナ】（上限564）を最大で42回復する。バトルの残り時間が30秒未満の場合、敵への効果は前方の最も遠くの敵を中心とした範囲内の敵が対象になる。バトルの残り時間が10秒未満の場合、さらに自分のＴＰを特大回復する。=Gây sát thương vật lý cực lớn cho kẻ địch ở xa nhất phía前, giảm nhẹ phòng thủ vật lý và tăng nhẹ sát thương chí mạng phải chịu của mục tiêu. Dựa trên số lượng loại hiệu ứng bất lợi (debuff) mà kẻ địch mục tiêu đang chịu, hồi phục tối đa 42 [Thể lực] (Stamina) cho bản thân (giới hạn tối đa 564). Trường hợp thời gian trận đấu còn dưới 30 giây, hiệu ứng lên kẻ địch sẽ chuyển thành các kẻ địch trong phạm vi lấy kẻ địch xa nhất phía trước làm tâm. Trường hợp thời gian trận đấu còn dưới 10 giây, sẽ hồi phục thêm lượng siêu lớn TP cho bản thân.
+r:"^自分のスタミナを回復するバトルの残り時間が30秒以上の場合、以下の効果が発動する敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン敵単体の被クリダメを6％アップバトルの残り時間が30秒未満の場合、以下の効果が発動する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを6％アップバトルの残り時間が10秒未満の場合、自分のＴＰを1000回復$"=Thời gian thi triển: 1.05s.\n►Hồi phục Thể lực cho bản thân.\n\nNếu thời gian trận đấu còn từ 30 giây trở lên:\n►Gây $1 sát thương vật lý lên một mục tiêu kẻ địch đơn lẻ.\n►Giảm phòng thủ vật lý của một mục tiêu kẻ địch đơn lẻ đi $2 trong 12 giây.\n►Tăng 6% sát thương chí mạng phải chịu của một mục tiêu kẻ địch đơn lẻ trong 12 giây.\n\nNếu thời gian trận đấu còn dưới 30 giây:\n►Gây $3 sát thương vật lý lên các kẻ địch trong phạm vi 300.\n►Giảm phòng thủ vật lý của kẻ địch trong phạm vi 300 đi $4 trong 12 giây.\n►Tăng 6% sát thương chí mạng phải chịu của kẻ địch trong phạm vi trong 12 giây.\n\nNếu thời gian trận đấu còn dưới 10 giây:\n►Hồi phục 1000 TP cho bản thân.
+
+##S2##
+マックちゃんのやつ=McQueen's Thing
+自分の【スタミナ】を99回復し、物理・魔法防御力を中アップ、加算行動速度を大アップする。バトルの残り時間が30秒未満の場合、さらに自分の【スタミナ】を最大まで回復する。=Hồi phục 99 [Thể lực] (Stamina) cho bản thân, tăng vừa phòng thủ vật lý và phép, đồng thời tăng mạnh tốc độ hành動 cộng dồn. Trường hợp thời gian trận đấu còn dưới 30 giây, hồi phục thêm [Thể lực] của bản thân lên mức tối đa.
+r:"^自分のスタミナを(\d+)回復する自分の物理・魔法防御力を(\d+)アップ自分の行動速度100％加算バトルの残り時間が30秒未満の場合、自分のスタミナを最大まで回復する$"=Thời gian thi triển: 1.05s.\n►Hồi phục $1 Thể lực cho bản thân.\n►Tăng phòng thủ vật lý và phép của bản thân lên $2 trong 180 giây.\n►Cộng thêm 100% tốc độ hành動 cho bản thân trong 180 giây.\n\nNếu thời gian trận đấu còn dưới 30 giây:\n►Hồi phục Thể lực của bản thân lên mức tối đa.
+
+##EX##
+勇者ゴルシの威光=The Glory of Hero Golshi
+勇者ゴルシの威光+=The Glory of Hero Golshi+
