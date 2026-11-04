@@ -3,7 +3,7 @@
 
 ##UB##
 スカイラブリーハリケーン=Cơn Bão Xinh Đẹp Trời Xanh
-目の前の敵１キャラに物理大ダメージを与え、さらに自分の行動速度を大アップさせる。このスキルのダメージと行動速度の上昇量は、ユニオンバーストを使用するたび増加する。（最大４回）=Gây sát thương vật lý cực lớn lên kẻ địch phía trước và tăng mạnh Tốc Độ Hành Động của bản thân. Sát thương và tăng Tốc Độ Hành Động của kỹ năng này tích lũy với mỗi lần dùng Union Burst. (Tối đa 4 lần)
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を中ダウンさせる。=Gây sát thương vật lý lớn cho 1 kẻ địch trước mặt, đồng thời giảm vừa phòng thủ vật lý của mục tiêu.
 r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng Tốc Độ Hành Động của bản thân lên 150% trong 12 giây.
 
 ##S1##
@@ -12,7 +12,7 @@ r:"^敵単体に(\d+)の物理ダメージ自分の行動速度アップ$"=►G�
 
 ##S2##
 ラブリーインパルス=Xung Động Dễ Thương
-目の前の敵１キャラに物理中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復させる。このスキルで与えたダメージ量に応じてＨＰの回復量がアップする。=Gây sát thương vật lý trung bình lên kẻ địch phía trước, và đồng thời hồi nhẹ HP cho đồng minh có HP thấp nhất. Lượng HP hồi tăng tỷ lệ với lượng sát thương gây ra bằng kỹ năng này.
+目の前の敵１キャラに物理中ダメージを与え、最もＨＰが低い味方のＨＰを小回復させる。与えたダメージに応じて、ＨＰの回復量が増加する。=Gây sát thương vật lý vừa cho 1 kẻ địch trước mặt, đồng thời hồi phục nhẹ HP cho đồng minh có HP thấp nhất. Lượng hồi phục HP sẽ gia tăng dựa theo lượng sát thương đã gây ra.
 r:"^敵単体に(\d+)の物理ダメージ味方単体のＨＰを(\d+)回復$"=►Gây $1 sát thương vật lý lên một kẻ địch.\n►Hồi $2 HP cho một đồng minh.
 
 ##EX##
@@ -21,7 +21,7 @@ r:"^敵単体に(\d+)の物理ダメージ味方単体のＨＰを(\d+)回復$"=
 
 ##S1+##
 ラブリーオーダー+=Mệnh Lệnh Dễ Thương+
-自分を中心とした範囲内の味方の物理攻撃力を中アップさせ、物理クリティカルを大アップさせる。自分の物理攻撃力と自分を中心とした範囲内の味方の人数に応じて、物理攻撃力の上昇量がアップする。=Tăng trung bình Tấn Công Vật Lý cho đồng minh trong phạm vi 150 xung quanh mình, và tăng mạnh Tỷ Lệ Chí Mạng Vật Lý của họ. Lượng tăng Tấn Công Vật Lý tỷ lệ với Tấn Công Vật Lý của bản thân và số lượng đồng minh trong phạm vi xung quanh mình.
+自分を中心とした範囲内の味方の物理攻撃力を中アップ、物理クリティカルを大アップさせる。自分の物理攻撃力と対象の数に応じて、物理攻撃力のアップ量が増加する。=Tăng vừa tấn công vật lý và tăng lớn tỉ lệ chí mạng vật lý của các đồng minh trong phạm vi lấy bản thân làm tâm. Mức tăng tấn công vật lý sẽ gia tăng dựa theo tấn công vật lý của bản thân và số lượng mục tiêu ảnh hưởng.
 r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを(\d+)アップ$"=►Tăng Tấn Công Vật Lý của đồng minh trong phạm vi lên $1.\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của đồng minh trong phạm vi lên $2.
 
 ##UE##

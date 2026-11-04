@@ -3,7 +3,7 @@
 
 ##UB##
 サマーアクアフロック=Đàn chim nước hè
-ランダムな敵キャラに、単体魔法中ダメージを計３回与える。このスキルのダメージは対象の【バタフライシール】の数に応じて増加する。=Gây M.DMG trung bình cho một kẻ địch ngẫu nhiên 3 lần. M.DMG tăng theo số lượng [Dấu ấn bướm] trên kẻ địch.
+ランダムな敵に魔法中ダメージを与える。これを３回行う。対象の【バタフライシール】の数に応じて、ダメージが増加する。=Gây sát thương phép vừa cho các kẻ địch ngẫu nhiên. Thực hiện điều này 3 lần. Sát thương gia tăng dựa theo số lượng dồn cộng 【Dấu ấn bướm】 trên mỗi mục tiêu.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Gây $1 M.DMG cho một kẻ địch.\n►Gây $2 M.DMG cho một kẻ địch.\n►Gây $3 M.DMG cho một kẻ địch.
 
 ##S1##
@@ -13,21 +13,18 @@ r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ
 
 ##S2##
 アクアウィング=Cánh nước
-ランダムな敵キャラに、単体魔法小ダメージを計３回与える。このスキルのダメージは対象の【バタフライシール】の数に応じて増加する。=Gây M.DMG nhỏ cho một kẻ địch ngẫu nhiên 3 lần. M.DMG tăng theo số lượng [Dấu ấn bướm] trên kẻ địch.
+ランダムな敵に魔法小ダメージを与える。これを３回行う。対象の【バタフライシール】の数に応じて、ダメージが増加する。=Gây sát thương phép nhỏ cho các kẻ địch ngẫu nhiên. Thực hiện điều này 3 lần. Sát thương gia tăng dựa theo số lượng dồn cộng 【Dấu ấn bướm】 trên mỗi mục tiêu.
 
 ##SP1##
 サマーブースト=Tăng cường hè
-このスキルのスキルレベルは「サマーアクア\nフロック」と連動しています=Cấp độ kỹ năng này liên kết với "Đàn chim nước hè".
-自分の魔法攻撃力を大アップさせ、【バタフライシール】を敵へ付与できる状態になる。攻撃が敵に当たるたび【バタフライシール】を１つ付与する。【バタフライシール】は最大30まで追加される。=Tăng rất lớn M.ATK của bản thân. Mỗi khi một đòn tấn công của Kyouka trúng kẻ địch, kẻ địch đó nhận 1 tầng [Dấu ấn bướm], tối đa 30 tầng.
-自分の魔法攻撃力を大アップさせ、敵全体を、キョウカ（サマー）の攻撃が当たるたびに、【バタフライシール】が１つ付与されるようにする。【バタフライシール】は最大30まで追加される。=Tăng rất lớn M.ATK của bản thân. Mỗi khi một đòn tấn công của Kyouka trúng kẻ địch, kẻ địch đó nhận 1 tầng [Dấu ấn bướm], tối đa 30 tầng.
-
+自分の魔法攻撃力を大アップし、自分の攻撃が敵に当たるたびに、敵に【バタフライシール】（上限30）を１個付与する状態になる。=Tăng lớn tấn công phép của bản thân, đồng thời chuyển sang trạng thái mỗi khi đòn tấn công của bản thân trúng kẻ địch sẽ gán 1 dồn cộng 【Dấu ấn bướm】 (tối đa 30) lên kẻ địch đó.
 ##EX##
 サマーリトルブレイブ=Chiến binh nhỏ hè
 サマーリトルブレイブ+=Chiến binh nhỏ hè+
 
 ##S1+##
 アクアクレスト+=Biểu tượng nước+
-ランダムな敵キャラに、単体魔法小ダメージと魔法防御力小ダウンを計２回与える。このスキルのダメージは対象の【バタフライシール】の数に応じて増加する。さらに自分の魔法攻撃力を大アップさせる。=Gây M.DMG nhỏ cho một kẻ địch và giảm nhẹ M.DEF của nó 2 lần. M.DMG tăng theo số lượng [Dấu ấn bướm] trên kẻ địch. Ngoài ra, tăng rất lớn M.ATK của bản thân.
+ランダムな敵に魔法小ダメージを与え、魔法防御力を小ダウンさせる。これを２回行う。対象の【バタフライシール】の数に応じて、ダメージが増加する。自分の魔法攻撃力を大アップする。=Gây sát thương phép nhỏ cho các kẻ địch ngẫu nhiên, đồng thời giảm nhẹ phòng thủ phép của mục tiêu. Thực hiện điều này 2 lần. Sát thương gia tăng dựa theo số lượng dồn cộng 【Dấu ấn bướm】 trên mỗi mục tiêu. Tăng lớn tấn công phép của bản thân.
 r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ敵単体の魔法防御力を(\d+)ダウン敵単体の魔法防御力を(\d+)ダウン自分の魔法攻撃力を(\d+)アップ$"=►Gây $1 M.DMG cho một kẻ địch ngẫu nhiên.\n►Gây $2 M.DMG cho một kẻ địch ngẫu nhiên.\n►Giảm M.DEF của một kẻ địch ngẫu nhiên thêm $3 trong 12s.\n►Giảm M.DEF của một kẻ địch ngẫu nhiên thêm $4 trong 12s.\n►Tăng M.ATK của bản thân thêm $5 trong 180s.
 
 ##UE##

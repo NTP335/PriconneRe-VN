@@ -24,7 +24,7 @@ r:"^攻撃が当たるたびに畏縮を付与する状態になる自分の物�
 
 ##S2##
 白銀の月影=Silver Moonlight
-目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。ダメージと物理防御力の減少量は、対象の【畏縮】の数に応じて増加する。=Gây sát thương vật lý (P.DMG) vừa phải cho kẻ địch đầu tiên phía trước, và giảm một chút P.DEF của chúng. Sát thương và mức giảm P.DEF trở nên mạnh hơn tùy theo số ngăn (stack) trạng thái "Sợ hãi" (Cower) mà kẻ địch đang có.
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。対象の【畏縮】の数に応じて、効果量が増加する。=Gây sát thương vật lý vừa cho 1 kẻ địch trước mặt, đồng thời giảm nhẹ phòng thủ vật lý của mục tiêu. Số lượng hiệu ứng tăng lên dựa theo số lượng dồn cộng 【Sợ hãi】 trên đối phương.
 
 ##EX##
 更け征く夜=Deepening Night
@@ -32,8 +32,7 @@ r:"^攻撃が当たるたびに畏縮を付与する状態になる自分の物�
 
 ##S1+##
 紫紺の黄昏+=Hoàng Hôn Tím+
-敵全体を、クロエの攻撃が当たるたびに【畏縮】ステータスが１つ追加されるようにする。【畏縮】は最大99まで追加される。さらに、自身の物理攻撃力を中アップさせる。=Mỗi khi một đòn tấn công của Chloe trúng kẻ thù, kẻ thù đó sẽ nhận một lớp debuff "Sợ Hãi". Có thể áp dụng tối đa 99 lớp cùng lúc. Ngoài ra, tăng sức mạnh tấn công vật lý của chính Chloe một lượng vừa phải.
-【畏縮】を敵へ付与できる状態になる。攻撃が敵に当たるたび【畏縮】を１つ付与する。【畏縮】は最大99まで追加される。さらに、自身の物理攻撃力を大アップさせる。=Mỗi khi một đòn tấn công của Chloe trúng kẻ thù, kẻ thù đó sẽ nhận một lớp debuff "Sợ Hãi". Có thể áp dụng tối đa 99 lớp cùng lúc. Ngoài ra, tăng sức mạnh tấn công vật lý của chính Chloe một lượng vừa phải.
+自分の攻撃が敵に当たるたびに、敵に【畏縮】（上限99）を１個付与する状態になる。自分の物理攻撃力を大アップする。=Vào trạng thái mỗi khi đòn tấn công của bản thân trúng kẻ địch sẽ gán 1 dồn cộng 【Sợ hãi】 (tối đa 99) lên kẻ địch đó. Tăng lớn tấn công vật lý của bản thân.
 
 ##UE##
 フロムダスク・ティルドーン=Từ Hoàng Hôn Đến Bình Minh

@@ -35,7 +35,7 @@ EX装備を1回上限解放しよう=Mở giới hạn (Đột phá giới hạn
 
 
 Boss Event
-ラースゴルシ=Warth Golshi
+ラースゴルシ=Wrath Golshi
 
 ゴールドシップの力を巨躯に宿した竜。無比の俊足を持ち、行動は予測不能にして混沌。だがレースでは、心に宿した熱が真紅に燃え盛る。=Con rồng mang sức mạnh của Gold Ship ẩn chứa trong tấm thân đồ sộ. Tố chất phi nước đại không ai sánh bằng, hành động vô cùng hỗn loạn và khó đoán. Nhưng một khi bước vào đường đua, ngọn lửa nhiệt huyết trong tim nó sẽ bùng cháy đỏ rực.
 

@@ -3,7 +3,7 @@
 
 ##UB##
 ナナカ・サマー・カーニバル=Nanaka Summer Carnival
-前方範囲内の敵すべてに魔法大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Gây sát thương phép cực lớn lên tất cả kẻ địch phía trước và nhẹ nhàng giảm phòng thủ phép của chúng.
+前方範囲内の敵に魔法大ダメージを与え、魔法防御力を小ダウンさせる。=Gây sát thương phép lớn cho các kẻ địch trong phạm vi phía trước, đồng thời giảm nhẹ phòng thủ phép của mục tiêu.
 
 ##S1##
 ドルフィンマジック=Dolphin Magic
@@ -12,7 +12,7 @@ r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の味方の魔法攻�
 
 ##S2##
 ブレイクスプラッシュ=Break Splash
-敵全体の魔法防御力を小ダウンさせる。敵の数に応じて、このスキルの効果値が増加する。=Giảm phòng thủ phép của tất cả kẻ địch một chút. Hiệu quả kỹ năng này tăng lên dựa trên số kẻ địch.
+敵全体の魔法防御力を小ダウンさせる。敵の数に応じて、効果量が増加する。=Giảm nhẹ phòng thủ phép của toàn bộ kẻ địch. Lượng hiệu ứng sẽ gia tăng dựa theo số lượng kẻ địch.
 r:"^敵全体の魔法防御力を(\d+)ダウン$"=►Giảm phòng thủ phép của tất cả kẻ địch bằng $1.
 
 ##EX##
@@ -21,15 +21,15 @@ r:"^敵全体の魔法防御力を(\d+)ダウン$"=►Giảm phòng thủ phép 
 
 ##S1+##
 ドルフィンマジック+=Dolphin Magic+
-目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに自分を中心とした範囲内の味方すべての魔法攻撃力を特大アップさせる。対象になる敵が多いほど、ダメージと魔法攻撃力の上昇量がアップする。=Gây sát thương phép trung bình lên kẻ địch trong phạm vi của kẻ địch phía trước nhất và tăng mạnh tấn công phép của đồng minh trong phạm vi xung quanh bản thân. Càng nhiều kẻ địch trong trận, sát thương phép và buff tấn công phép càng lớn.
+目の前の敵１キャラを中心とした範囲内の敵に魔法中ダメージを与え、自分を中心とした範囲内の味方の魔法攻撃力を大アップさせる。対象の敵の数に応じて、効果量が増加する。=Gây sát thương phép vừa cho các kẻ địch trong phạm vi lấy 1 kẻ địch trước mặt làm tâm, đồng thời tăng lớn tấn công phép của các đồng minh trong phạm vi lấy bản thân làm tâm. Lượng hiệu ứng sẽ gia tăng dựa theo số lượng kẻ địch chịu ảnh hưởng.
 
 ##UE##
 ナナカナツカワロッド=Nanaka Natsukawa Rod
 
 
 
-##S2##
+##S2+##
 ブレイクスプラッシュ+=Break Splash+
 ナナカエモナツメモリー=Nanaka’s Midsummer Recollection
-敵全体の物理攻撃力と魔法攻撃力を大ダウン、魔法防御力を中ダウンさせ、そのキャラの最大ＨＰに応じて最大200万の魔法割合ダメージを与える。敵の数に応じて、このスキルの効果量が増加する。=Giảm mạnh tấn công vật lý và tấn công phép của tất cả kẻ địch, và giảm trung bình phòng thủ phép của chúng.\nGây sát thương phép theo tỷ lệ lên đến 2.000.000 tùy theo HP tối đa của mục tiêu.\nCường độ hiệu quả tăng dựa trên số kẻ địch.
+敵全体の物理・魔法攻撃力を大ダウン、魔法防御力を中ダウンさせ、その敵の最大ＨＰに応じて最大200万の魔法割合ダメージを与える。敵の数に応じて、効果量が増加する。=Giảm lớn tấn công vật lý và phép, giảm vừa phòng thủ phép của toàn bộ kẻ địch, đồng thời gây sát thương phép theo phần trăm HP tối đa của kẻ địch đó (tối đa 2.000.000 sát thương). Lượng hiệu ứng sẽ gia tăng dựa theo số lượng kẻ địch.
 r:"^敵全体の物理攻撃力を(\d+)ダウン敵全体の魔法攻撃力を(\d+)ダウン敵全体の魔法防御力を(\d+)ダウン敵全体に最大200万の魔法割合ダメージを与える$"=►Giảm tấn công vật lý của tất cả kẻ địch bằng $1\n►Giảm tấn công phép của tất cả kẻ địch bằng $2\n►Giảm phòng thủ phép của tất cả kẻ địch bằng $3\n►Gây lên tất cả kẻ địch sát thương phép lên đến 2.000.000 (theo tỷ lệ)

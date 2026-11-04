@@ -3016,7 +3016,10 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 
 
 
+このスキルで与えたダメージが高いほど：アップ量上昇=Sát thương gây ra bởi kỹ năng này càng cao: Lượng tăng cường càng tăng
+対象のＨＰが95％未満：スタン（飛行効果無視・必中）=HP của mục tiêu dưới 95%: Choáng (Bỏ qua hiệu ứng bay・Chắc chắn trúng)
+前から敵１体をノックバック（召喚体無視・必中）=Đẩy lùi (knockback) 1 kẻ địch từ phía trước (Bỏ qua vật triệu hồi・Chắc chắn trúng)
 
 
-
-自身に無敵\n【スキル１】 =Vô địch cho bản thân\n[Kỹ năng 1]
+自身に無敵\n【スキル１】 =Vô địch cho bản thân\n[Kỹ năng 1]\n
+自身に無敵【スキル１】=Vô địch cho bản thân\n[Kỹ năng 1]\n

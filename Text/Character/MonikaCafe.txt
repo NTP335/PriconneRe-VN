@@ -11,7 +11,7 @@
 
 ##S2##
 キャンディシャワー=Mưa Kẹo Ngọt
-自分に継続ＴＰ回復状態を付与し、味方全体の物理防御力を中アップさせる。さらに３回攻撃を受けるか一定時間経過するまでの間、味方全体の物理攻撃力を極大アップさせる。=Khôi phục TP cho bản thân và tăng trung bình Phòng Thủ Vật Lý cho toàn đội. Ngoài ra, tăng mạnh Tấn Công Vật Lý cho toàn đội cho đến khi Monika bị tấn công 3 lần hoặc một khoảng thời gian nhất định trôi qua.
+自分に継続ＴＰ回復状態を付与し、味方全体の物理防御力を中アップさせる。３回攻撃を受けるか一定時間経過するまでの間、味方全体の物理攻撃力を極大アップさせる。=Cấp trạng thái hồi phục TP liên tục cho bản thân, đồng thời tăng vừa phòng thủ vật lý của toàn bộ đồng minh. Tăng cực độ tấn công vật lý của toàn bộ đồng minh cho đến khi nhận đủ 3 lần tấn công hoặc trải qua một khoảng thời gian nhất định.
 r:"^キャンディを振りまいている間、味方全体の物理攻撃力を(\d+)アップ味方全体の物理防御力を(\d+)アップ毎秒ＴＰを15回復する$"=Thời gian niệm: 0.59 giây\n►Tăng Tấn Công Vật Lý của toàn đội lên $1 trong 24 giây, nhưng bị gián đoạn nếu nhận 3 lần sát thương.\n►Tăng Phòng Thủ Vật Lý của toàn đội lên $2 trong 24 giây.\n►Khôi phục TP cho bản thân 15/giây trong 24.5 giây.
 
 ##EX##
@@ -20,7 +20,7 @@ r:"^キャンディを振りまいている間、味方全体の物理攻撃力�
 
 ##S1+##
 バブルガムポップ+=Bong Bóng Kẹo Gum+
-目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。バトル開始後、初弾のこのスキルは追加で目の前の敵１キャラの物理防御力を大ダウンさせる。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ Phòng Thủ Vật Lý của chúng trong 12 giây. Khi trận đấu bắt đầu, lần dùng kỹ năng đầu tiên giảm Phòng Thủ Vật Lý của kẻ địch một lượng trung bình trong 30 giây.
+目の前の敵１キャラに物理大ダメージを与え、物理防御力を小ダウンさせる。初回発動時、さらに追加で物理防御力を大ダウンさせる。=Gây sát thương vật lý lớn cho 1 kẻ địch ở phía trước, đồng thời giảm nhẹ phòng thủ vật lý của mục tiêu. Vào lần kích hoạt đầu tiên, đồng thời giảm lớn phòng thủ vật lý của mục tiêu như một hiệu ứng bổ sung.
 
 ##UE##
 ナッシュカッツェ店長服=Đồng Phục Quản Lý Naschkatze

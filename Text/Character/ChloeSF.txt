@@ -23,7 +23,7 @@ r:"^自分の物理攻撃力を(\d+)アップ敵単体の物理防御力を(\d+)
 
 ##S1+##
 涅の小夜嵐+=Đêm Bão Vàng+
-自分の物理攻撃力を大アップさせ、目の前の敵１キャラの物理防御力を大ダウンさせる。バトル開始後初めてこのスキルを使用した後、13回ダメージを与えるたびに、自分のＴＰを特大回復させる。=Tăng P.ATK của bản thân một lượng lớn. Giảm P.DEF của kẻ địch đứng trước nhất một lượng lớn. Sau khi kỹ năng này được sử dụng lần thứ nhất, hồi một lượng TP khổng lồ cho mỗi 13 lần đánh trúng.
+自分の物理攻撃力を大アップし、目の前の敵１キャラの物理防御力を大ダウンさせる。初回発動時、自分が13回ダメージを与えるたびに、自分のＴＰを特大回復する状態になる。=Tăng lớn tấn công vật lý của bản thân và giảm lớn phòng thủ vật lý của 1 kẻ địch ở phía trước. Trong lần kích hoạt đầu tiên, bản thân chuyển sang trạng thái hồi phục cực lớn TP mỗi khi gây sát thương đủ 13 lần.
 r:"^自分の物理攻撃力を(\d+)アップ敵単体の物理防御力を(\d+)ダウン13回ダメージを与えるたびに、自分のＴＰを1000回復$"=►Tăng P.ATK của bản thân bằng $1 trong 180s.\n►Giảm P.DEF của kẻ địch bằng $2 trong 18s.\n►Hồi TP của bản thân 1000 cho mỗi 13 lần đánh trúng.
 
 ##UE##
