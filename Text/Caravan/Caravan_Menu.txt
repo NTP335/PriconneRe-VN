@@ -3,13 +3,13 @@
 経過ターン=Lượt Đã Trôi Qua
 
 シーズン最速到達ターン=Lượt nhanh nhất của mùa
-シーズン最速到達記録=Kỷ Lục Mùa Nhanh Nhất
+シーズン最速到達記録=Kỷ lục về đích nhanh nhất mùa
 
 グルメチェイサー号=Kẻ Đuổi Theo Ẩm Thực
-バンディシャーク号=Bandyshark
+バンディシャーク号=Bandy Shark
 追加ボーナス発生中!=+Đang áp dụng thưởng!
 
-バンディシャーク号との距離=Khoảng Cách Bandyshark
+バンディシャーク号との距離=Khoảng Cách Bandy Shark
 目標到着ボーナス=Thưởng đến đích mục tiêu
 到着までにかかったターン数=Tổng Số Lượt
 ライバルに勝利=Đã Thắng
@@ -27,7 +27,7 @@ r:"^ダイスを(\d+)個入手した。$"=Đã nhận được xúc xắc $1.
 15ターン以内にチェックポイントに到達すると解放されます。=Sẽ được mở khóa nếu bạn đến trạm kiểm soát trong vòng 15 lượt.
 [FF7C4E,D62146]1[-][3C404E]ターン[-]=[FF7C4E,D62146]1[-][3C404E] Lượt[-]
 r:"^\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]ターン\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] Lượt[-]
-チェックポイント=Trạm
+チェックポイント=Trạm kiểm soát
 [3C404E]あと [-][FF7C4E,D62146]1[-][3C404E]マス[-]=[FF7C4E,D62146]1[-][3C404E] ô còn lại[-]
 r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\](\d+)\[-\]\[3C404E\]マス\[-\]$"=[FF7C4E,D62146]$1[-][3C404E] ô còn lại[-]
 シーズン切替=Chuyển mùa
@@ -47,7 +47,7 @@ r:"^\[3C404E\]あと \[-\]\[FF7C4E,D62146\]([0-9]+)\[-\]\[3C404E\]分\[-\]$"=[FF
 ダイスを所持していません。=Không còn xúc xắc.
 トレジャー=Kho báu
 現在位置に戻る=Quay về
-チェックポイントまで=Đến trạm
+チェックポイントまで=Đến Trạm kiểm soát
 
 ダイスを振る=Lăn xúc xắc
 シーズン終了=Kết thúc mùa
@@ -68,7 +68,7 @@ r:"^(\d+)ターン以内に到達$"=Đến trong vòng $1 lượt
 r:"^(\d+)ターンで到達$"=Đến trong vòng $1 lượt
 r:"^レベル(\d)$"=Cấp $1
 ターン数ボーナス=Thưởng lượt
-一定のターン以内にチェックポイントへ到達すると\nボーナスが獲得できます！=Nếu bạn đến trạm trong vòng một số lượt nhất định, bạn sẽ nhận thưởng!
+一定のターン以内にチェックポイントへ到達すると\nボーナスが獲得できます！=Nếu bạn đến Trạm kiểm soát trong vòng một số lượt nhất định, bạn sẽ nhận thưởng!
 
 ---Event bonus---
 次にミニゲームに挑戦した際の\n獲\r得マイルが100%アップする。=Lần sau bạn thử thách Minigame, số Miles thưởng của bạn sẽ tăng 100%.
@@ -78,7 +78,7 @@ r:"^レベル(\d)$"=Cấp $1
 ---GMA/Checkpoint---
 以下のアイテムを獲得しました。=Đã nhận các vật phẩm sau:
 ボーナスレベル=Cấp thưởng
-到達までにかかったターン数=Số lượt cần để đến trạm
+到達までにかかったターン数=Số lượt cần để đến Trạm kiểm soát
 
 ---Sell Dishes---
 sr:"^(?:\[3B3F4D\])?(.+)を売却して\n?\[-\]\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\[3B3F4D\]マイルを獲得しました。(?:\[-\])?$"=[3B3F4D]Đã bán $1 và kiếm được [FFBB00,CE4F00]$2[-] Miles[-]
@@ -89,7 +89,7 @@ sr:"^(?:\[3B3F4D\])?(.+)を売却して\n?\[-\]\[FFBB00\,CE4F00\]([0-9,]+)\[-\]\
 所持していた福引券の抽選を行いました。=Các vé số đã được rút.
 
 ---Tile---
-福引券はチェックポイント到達時に抽選が行われます。=Vé số sẽ được rút tại trạm.
+福引券はチェックポイント到達時に抽選が行われます。=Vé số sẽ được rút tại Trạm kiểm soát.
 福引券を獲得しました。=Đã nhận vé số.
 福引券獲得=Đã sở hữu một vé số
 ショップマス=Ô cửa hàng
@@ -202,3 +202,9 @@ r:"^(?:\[3C404E\])?ダイスを\[FFBB00\,CE4F00\](\d+)個\[-\]使って区間ス
 ダイスを一度に３個振ることができる「まとめて３個」モードが\n新たに追加されました。お手持ちのダイスを用いて、効率的に冒険を\n進めることができるようでございます。ぜひご活用くださいまし。=Một chế độ mới: Tung Ba Lần, đã được thêm vào, cho phép bạn tung ba xúc xắc cùng lúc. Điều này sẽ giúp chúng ta tiến xa hơn trong cuộc phiêu lưu một cách hiệu quả hơn bằng cách sử dụng xúc xắc của bạn. Xin hãy tận dụng nó.
 「まとめて３個」モードの使用中は、マス効果の発動頻度や出現する\nお仲間の制限など、ダイスを1個ずつ振って遊ぶときとは異なる点が\nあるようです。詳細は「ヘルプ」をご覧ください、主さま。=Khi sử dụng chế độ Tung Ba Lần, tần suất hiệu ứng Ô và sự xuất hiện của đồng minh có thể khác với khi bạn tung một xúc xắc mỗi lần. Chi tiết, vui lòng kiểm tra phần Hướng dẫn, thưa ngài.
 シーズン中、一度でも規定ターン以内にチェックポイントへ到達すると\n「区間スキップ」が解放されますよ。スキップを実行すると、\nそのシーズン中の最速ターン数に応じて報酬がもらえるようですね。=Đạt checkpoint trong một số lượt chỉ định trong mùa sẽ mở khóa Bỏ qua Di chuyển. Nếu bạn thực hiện Bỏ qua Di chuyển, bạn sẽ được thưởng dựa trên kỷ lục lượt của bạn trong mùa hiện tại.
+
+---Hint---
+マス効果=Hiệu ứng ô
+仲間登場=Đồng hành xuất hiện
+ライバル登場=Đối thủ xuất hiện
+便利機能=Tính năng tiện ích

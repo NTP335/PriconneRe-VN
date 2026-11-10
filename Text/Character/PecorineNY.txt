@@ -6,14 +6,6 @@
 おせちが彩る王女との絆=Mối Liên Kết Với Công Chúa Được Tô Màu Bởi Osechi
 美食の新年を迎えるために=Để Ăn Mừng Năm Mới Với Đồ Ăn Ngon
 
-##OLD UB##
-ニューイヤーストライク=New Year Strike
-目の前の敵１キャラに物理中ダメージを与える。自分の残りＨＰが80％以上だった場合、物理大ダメ―ジを与える。自分の残りＨＰに応じて、このスキルのダメージがアップする。自分の残りＨＰが90％以上だった場合、さらに自分の物理攻撃力を特大アップさせる。=Gây sát thương vật lý vừa phải lên một kẻ địch phía trước. Nếu HP ≥ 80%, gây một lượng sát thương vật lý lớn. Sát thương của kỹ năng này tăng theo lượng HP còn lại. Nếu HP > 90%, tăng lớn tấn công vật lý của bản thân.
-
-OLD
-r:"^自分の残りＨＰが最大ＨＰの80％未満の場合、敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの80％以上の場合、敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの90％以上の場合、自分の物理攻撃力を(\d+)アップ$"
-= 90%, tăng tấn công vật lý của bản thân lên $3 trong 18 giây.
-
 ##S1##
 ダイフクタイム=Daifuku Time
 自分の物理攻撃力を小アップさせる。自分の残りＨＰが80％以上だった場合、さらに味方全体の物理攻撃力を中アップさせる。自分の残りＨＰに応じて、物理攻撃力の上昇量がアップする。=Tăng tấn công vật lý của bạn lên một chút. Nếu HP > 80%, nó tiếp tục tăng tấn công vật lý của đồng đội lên một lượng vừa phải. Lượng tăng tấn công vật lý được tăng theo lượng HP còn lại của bạn.
@@ -28,14 +20,6 @@ r:"^敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰ�
 新春美食パワー=New Year Gourmet Power
 新春美食パワー+=New Year Gourmet Power+
 
-##OLD S1+##
-ダイフクタイム+=Daifuku Time+
-自分の物理攻撃力を小アップさせる。自分の残りＨＰが80％以上だった場合、さらに味方全体の物理攻撃力を中アップさせる。自分の残りＨＰに応じて、物理攻撃力の上昇量がアップする。自分の残りＨＰが90％以上だった場合、さらに自分のＴＰを中回復する。=Tăng tấn công vật lý của bạn lên một chút. Nếu HP > 80%, nó tiếp tục tăng tấn công vật lý của đồng đội lên một lượng vừa phải. Lượng tăng tấn công vật lý được tăng theo lượng HP còn lại của bạn. Nếu HP > 90%, hồi TP của bản thân lên một lượng vừa phải.
-自分の物理攻撃力を中アップさせる。自分の残りＨＰが80％以上だった場合、さらに味方全体の物理攻撃力を中アップさせる。自分の残りＨＰに応じて、物理攻撃力の上昇量がアップする。自分の残りＨＰが90％以上だった場合、さらに自分のＴＰを中回復する。=Tăng P.ATK một cách vừa phải. Nếu HP > 80%, tiếp tục tăng P.ATK của đồng đội một cách vừa phải. Lượng tăng P.ATK được tính theo HP còn lại. Nếu HP > 90%, hồi TP của bản thân một cách vừa phải.
-r:"^
-自分の物理攻撃力を(\d+)アップ自分の残りＨＰが最大ＨＰの80％以上の場合、味方全体の物理攻撃力を(\d+)アップ自分の残りＨＰが最大ＨＰの90％以上の場合、自分のＴＰを(\d+)回復$"
-=Thời gian niệm: 0.465s\n►Tăng P.ATK của bản thân bằng $1 (+0.11×HP) trong 12s.\n►Nếu HP > 80%, tăng P.ATK của đồng đội bằng $2 (+0.06×HP) trong 12s.\n►Nếu HP > 90%, hồi TP của bản thân bằng $3.
-
 ##UE##
 迎春美食の晴着=Ẩm thực Tân Niên
 新春プリンセスおせち=Osechi Công Chúa Ngày Tết
@@ -45,15 +29,15 @@ r:"^
 
 
 ##UB##
-目の前の敵１キャラに物理中ダメージを与える。自分の残りＨＰが80％以上だった場合、追加の物理大ダメ―ジを与える。自分の残りＨＰが90％以上だった場合、さらに味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。自分のＨＰが最大の場合、さらに味方全体の物理攻撃クリティカル時のダメージを小アップさせる。自分の残りＨＰ割合が高いほどこのスキルのダメージ倍率が最大２倍までアップする。=Gây sát thương vật lý trung bình cho 1 kẻ địch trước mặt. Nếu HP còn lại của bản thân từ 80% trở lên, gây thêm sát thương vật lý lớn. Nếu HP còn lại của bản thân từ 90% trở lên, tăng đặc biệt lớn tấn công vật lý và tăng lớn tỷ lệ bạo kích vật lý cho toàn bộ đồng minh. Nếu HP của bản thân ở mức tối đa, tăng nhẹ sát thương bạo kích vật lý cho toàn bộ đồng minh. Tỷ lệ HP còn lại càng cao, hệ số sát thương của kỹ năng này càng tăng, tối đa gấp 2 lần.
+目の前の敵１キャラに物理中ダメージを与える。自分のＨＰが80％以上の場合、さらに追加で物理大ダメ―ジを与える。自分のＨＰが90％以上の場合、さらに味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。自分のＨＰが最大の場合、さらに味方全体の物理クリティカルダメージを小アップさせる。自分のＨＰ割合が高いほど、ダメージ倍率が最大２倍まで増加する。=Gây sát thương vật lý vừa lên 1 kẻ địch trước mặt. Nếu HP của bản thân từ 80％ trở lên, gây thêm sát thương vật lý lớn. Nếu HP của bản thân từ 90％ trở lên, tăng cực đại Công vật lý và tăng lớn Tỉ lệ Vật bạo cho toàn thể đồng minh. Nếu HP của bản thân đạt tối đa, tăng thêm nhẹ Sát thương Vật bạo cho toàn thể đồng minh. Tỉ lệ HP của bản thân càng cao, hệ số sát thương càng tăng, tối đa gấp 2 lần.
 r:"^敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの80％以上の場合、敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの90％以上の場合、味方全体の物理攻撃力を(\d+)アップ自分の残りＨＰが最大ＨＰの90％以上の場合、味方全体の物理クリティカルを100アップ自分のＨＰが最大の場合、味方全体の物理クリダメを8％アップ$"=►Gây $1 sát thương vật lý cho 1 kẻ địch.\n\nNếu HP còn lại từ 80% trở lên:\n►Gây $2 sát thương vật lý cho 1 kẻ địch.\n\nNếu HP còn lại từ 90% trở lên:\n►Tăng $3 tấn công vật lý cho toàn bộ đồng minh trong 18 giây.\n►Tăng 100 tỷ lệ bạo kích vật lý cho toàn bộ đồng minh trong 18 giây.\n\nNếu HP ở mức tối đa:\n►Tăng 8% sát thương bạo kích vật lý cho toàn bộ đồng minh trong 18 giây.
 
 ##S1+##
-自分の物理攻撃力を大アップする。自分の残りＨＰが80％以上だった場合、さらに味方全体の物理攻撃力を大アップさせる。自分の残りＨＰが90％以上だった場合、さらに自分のＴＰを大回復する。自分のＨＰが最大の場合、さらに追加で自分のＴＰを大回復する。自分の残りＨＰ割合が高いほど物理攻撃力の上昇量が最大２倍までアップする。=Tăng lớn tấn công vật lý của bản thân. Nếu HP còn lại của bản thân từ 80% trở lên, tăng lớn tấn công vật lý cho toàn bộ đồng minh. Nếu HP còn lại của bản thân từ 90% trở lên, hồi phục lớn TP của bản thân. Nếu HP ở mức tối đa, hồi phục lớn thêm một lượng TP cho bản thân. Tỷ lệ HP còn lại càng cao, lượng tấn công vật lý tăng thêm càng lớn, tối đa gấp 2 lần.
+自分の物理攻撃力を大アップする。自分のＨＰが80％以上の場合、さらに味方全体の物理攻撃力を大アップさせる。自分のＨＰが90％以上の場合、さらに自分のＴＰを大回復する。自分のＨＰが最大の場合、さらに追加で自分のＴＰを大回復する。自分のＨＰ割合が高いほど、物理攻撃力のアップ量が最大２倍まで増加する。=Tăng lớn Công vật lý cho bản thân. Nếu HP của bản thân từ 80％ trở lên, tăng thêm lớn Công vật lý cho toàn thể đồng minh. Nếu HP của bản thân từ 90％ trở lên, hồi phục lớn TP cho bản thân. Nếu HP của bản thân đạt tối đa, hồi phục thêm lớn TP cho bản thân. Tỉ lệ HP của bản thân càng cao, lượng tăng Công vật lý càng tăng, tối đa gấp 2 lần.
 r:"^自分の物理攻撃力を(\d+)アップ自分の残りＨＰが最大ＨＰの80％以上の場合、味方全体の物理攻撃力を(\d+)アップ自分の残りＨＰが最大ＨＰの90％以上の場合、自分のＴＰを270回復自分のＨＰが最大の場合、自分のＴＰを270回復$"=Thời gian thi triển: 0.465 giây.\n►Tăng $1 tấn công vật lý cho bản thân trong 12 giây.\n\nNếu HP còn lại từ 80% trở lên:\n►Tăng $2 tấn công vật lý cho toàn bộ đồng minh trong 12 giây.\n\nNếu HP còn lại từ 90% trở lên:\n►Hồi 270 TP cho bản thân.\n\nNếu HP ở mức tối đa:\n►Hồi 270 TP cho bản thân.
 
 
 ##S2+##
 ライジングサン+=Mặt Trời Mọc+
-目の前の敵１キャラに物理中ダメージを与える。自分の残りＨＰが80％以上だった場合、さらに物理防御力を小ダウンさせる。自分の残りＨＰが90％以上だった場合、さらにクリティカルを受けた際のダメージを小アップさせる。自分のＨＰが最大の場合、味方全体のＴＰを小回復させる。自分の残りＨＰ割合が高いほどこのスキルのダメージ倍率が最大２倍までアップする。=Gây sát thương vật lý trung bình cho 1 kẻ địch trước mặt. Nếu HP còn lại của bản thân từ 80% trở lên, giảm nhẹ phòng thủ vật lý của mục tiêu. Nếu HP còn lại của bản thân từ 90% trở lên, tăng nhẹ sát thương nhận vào khi bị bạo kích của mục tiêu. Nếu HP của bản thân ở mức tối đa, hồi phục nhẹ TP cho toàn bộ đồng minh. Tỷ lệ HP còn lại càng cao, hệ số sát thương của kỹ năng này càng tăng, tối đa gấp 2 lần.
+目の前の敵１キャラに物理中ダメージを与える。自分のＨＰが80％以上の場合、さらに物理防御力を小ダウンさせる。自分のＨＰが90％以上の場合、さらに受けるクリティカルダメージを小アップさせる。自分のＨＰが最大の場合、さらに味方全体のＴＰを小回復させる。自分のＨＰ割合が高いほど、ダメージ倍率が最大２倍まで増加する。=Gây sát thương vật lý vừa lên 1 kẻ địch trước mặt. Nếu HP của bản thân từ 80％ trở lên, giảm thêm nhẹ Thủ vật lý của mục tiêu. Nếu HP của bản thân từ 90％ trở lên, tăng thêm nhẹ sát thương bạo kích nhận vào của mục tiêu. Nếu HP của bản thân đạt tối đa, hồi phục thêm nhẹ TP cho toàn thể đồng minh. Tỉ lệ HP của bản thân càng cao, hệ số sát thương càng tăng, tối đa gấp 2 lần.
 r:"^敵単体に(\d+)の物理ダメージ自分の残りＨＰが最大ＨＰの80％以上の場合、敵単体の物理防御力を(\d+)ダウン自分の残りＨＰが最大ＨＰの90％以上の場合、敵単体の被クリダメを4％アップ自分のＨＰが最大の場合、味方全体のＴＰを75回復$"=Thời gian thi triển: 0.795 giây.\n►Gây $1 sát thương vật lý cho 1 kẻ địch.\n\nNếu HP còn lại từ 80% trở lên:\n►Giảm $2 phòng thủ vật lý của 1 kẻ địch trong 12 giây.\n\nNếu HP còn lại từ 90% trở lên:\n►Tăng 4% sát thương bạo kích nhận vào của 1 kẻ địch trong 12 giây.\n\nNếu HP ở mức tối đa:\n►Hồi 75 TP cho toàn bộ đồng minh.

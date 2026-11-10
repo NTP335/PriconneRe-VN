@@ -3,8 +3,8 @@
 
 ##UB##
 可愛いボクを緊急投与だよ♪=Emergency Dose for Cute Me♪
-味方全体の魔法攻撃力と行動速度を大アップさせる。さらに敵全体の魔法防御力を小ダウンさせる。=Tăng mạnh M.ATK và tốc độ hành động của tất cả đồng đội, và cũng giảm nhẹ M.DEF của tất cả kẻ thù.
-r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度アップ敵全体の魔法防御力を(\d+)ダウン$"=►Tăng M.ATK của tất cả đồng đội thêm $1 trong 18s.\n►Tăng tốc độ hành động của tất cả đồng đội lên 160% trong 18s.\n►Giảm M.DEF của tất cả kẻ thù thêm $2 trong 18s.
+味方全体の魔法攻撃力と行動速度を大アップさせる。敵全体の魔法防御力を小ダウンさせる。=Tăng lớn Ma công và Tốc độ hành động cho toàn thể đồng minh. Giảm nhẹ Ma thủ của toàn thể kẻ địch.
+r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度60％アップ敵全体の魔法防御力を(\d+)ダウン$"=►Tăng $1 Ma công cho toàn thể đồng minh trong 18 giây.\n►Tăng Tốc độ hành động của toàn thể đồng minh lên 160% trong 18 giây.\n►Giảm $2 Ma thủ của toàn thể kẻ địch trong 18 giây.
 
 ##S1##
 天使なボクが癒しちゃう♪=Angel-like Me Will Heal You♪
@@ -12,7 +12,7 @@ r:"^味方全体の魔法攻撃力を(\d+)アップ味方全体の行動速度�
 
 ##S2##
 ボクの美しさが処方箋さ♪=My Beauty is a Prescription♪
-最もＴＰが低い味方１キャラのＴＰを中回復させる。さらにそのキャラを中心とした範囲内の味方すべての魔法攻撃力を中アップさせる。=Hồi phục trung bình TP của đồng đội có TP thấp nhất và tăng trung bình M.ATK của đồng đội trong phạm vi của nó.
+最もＴＰが低い味方のＴＰを中回復させる。その味方を中心とした範囲内の味方の魔法攻撃力を中アップさせる。=Hồi phục vừa TP cho đồng minh có TP thấp nhất. Tăng vừa Ma công cho đồng minh trong phạm vi lấy đồng minh đó làm tâm.
 r:"^味方単体のＴＰを(\d+)回復範囲内の味方の魔法攻撃力を(\d+)アップ$"=Thời gian thi triển: 0.695s\n►Hồi phục TP của một đồng đội thêm $1.\n►Tăng M.ATK của đồng đội trong phạm vi 200 thêm $2 trong 12s.
 ## Same as NYKasumi S1 with different TP
 
@@ -22,7 +22,7 @@ r:"^味方単体のＴＰを(\d+)回復範囲内の味方の魔法攻撃力を(\
 
 ##S1+##
 天使なボクが癒しちゃう♪+=Angel-like Me Will Heal You♪+
-最もＨＰが低い味方１キャラを中心とした範囲内の味方すべての魔法攻撃力を大アップさせ、ＨＰを中回復させる。=Tăng mạnh M.ATK của đồng đội trong phạm vi của đồng đội có HP thấp nhất, và hồi phục trung bình HP của họ.
+最もＨＰが低い味方を中心とした範囲内の味方の魔法攻撃力を大アップ、ＨＰを中回復させる。=Tăng lớn Ma công cho đồng minh trong phạm vi lấy đồng minh có HP thấp nhất làm tâm và hồi phục vừa HP cho họ.
 r:"^範囲内の味方のＨＰを(\d+)回復範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Hồi phục HP của đồng đội trong phạm vi 120 thêm $1.\n►Tăng M.ATK của đồng đội trong phạm vi 120 thêm $2 trong 12s.
 
 ##UE##

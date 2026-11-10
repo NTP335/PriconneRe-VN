@@ -3,7 +3,7 @@
 
 ##UB##
 忍法・フジヤマ手裏剣=Ninpo: Shuriken Fujiyama
-目の前の敵１キャラに物理特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý cực lớn lên kẻ địch đứng ngay phía trước. Khi kỹ năng này trúng chí mạng, sát thương sẽ tăng lên gấp ba thay vì gấp đôi.
+目の前の敵１キャラに物理特大ダメージを与える。このスキルのクリティカルダメージは３倍になる。=Gây sát thương vật lý cực đại lên 1 kẻ địch trước mặt. Sát thương bạo kích của kỹ năng này tăng gấp 3 lần.
 
 ##S1##
 忍法・チュバメ返し=Ninpo: Swoopy Swallow
@@ -19,12 +19,13 @@
 
 ##S1+##
 忍法・チュバメ返し+=Ninpo: Swoopy Swallow+
-目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý lên một kẻ địch phía trước và giảm phòng thủ vật lý của chúng. Sát thương khi kỹ năng này trúng chí mạng sẽ tăng gấp ba thay vì gấp đôi.
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。このスキルのクリティカルダメージは３倍になる。=Gây sát thương vật lý vừa lên 1 kẻ địch trước mặt và giảm nhẹ Thủ vật lý của mục tiêu. Sát thương bạo kích của kỹ năng này tăng gấp 3 lần.
 
 ##S2+##
 忍法・影分身の術+=Ninpo: Shadow Clone no Jutsu+
-自分の物理攻撃力を特大アップ、物理攻撃クリティカル時のダメージを小アップし、自分の行動速度を大アップさせ、ＴＰを大回復する。=Tăng sát thương vật lý của bản thân rất nhiều, tăng sát thương chí mạng vật lý một chút, tăng tốc độ hành động rất nhiều và hồi lại lượng TP lớn.
-r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分の行動速度アップ自分のＴＰを500回復$"=►Tăng sát thương vật lý của bản thân lên $1 trong 180s.\n►Tăng sát thương chí mạng vật lý của bản thân lên 10% trong 180s.\n►Tăng tốc độ hành động của bản thân lên 200%.\n►Hồi lại 500 TP cho bản thân.
+自分の物理攻撃力を特大アップ、物理クリティカルダメージを小アップ、行動速度を大アップ、ＴＰを大回復する。=Tăng cực đại Công vật lý, tăng nhẹ Sát thương Vật bạo, tăng lớn Tốc độ hành động và hồi phục lớn TP cho bản thân.
+
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを10％アップ自分の行動速度100％アップ自分のＴＰを500回復$"=►Tăng $1 Công vật lý cho bản thân trong 180 giây.\n►Tăng 10％ Sát thương Vật bạo cho bản thân trong 180 giây.\n►Tăng 100％ Tốc độ hành động cho bản thân trong 180 giây.\n►Hồi phục 500 TP cho bản thân.
 
 ##UE##
 なりきりクノイチセット=Narikiri Kunoichi Set

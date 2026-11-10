@@ -1,0 +1,33 @@
+##Profile##
+【魔法】後衛で気高く咲き誇る時を待つ、忍耐のウマ娘。バトル後半になると内に秘めた【スタミナ】を解き放ち、しとやかな足取りで立ち塞がる敵を一息にかわす。=[Ma pháp] Một cô nàng mã nương kiên nhẫn, chờ đợi thời điểm ở hàng sau để nở rộ rực rỡ trong vẻ đẹp cao quý của mình. Về nửa sau của trận chiến, cô giải phóng [Thể lực] ẩn giấu bên trong và duyên dáng lướt qua mọi kẻ thù ngáng đường.
+
+花のお世話=Chăm sóc những đóa hoa
+たおやかな推移=Sự chuyển mình uyển chuyển
+長き冬を越え、気高く咲き誇る花=Đóa hoa cao quý kiêu hãnh nở rộ sau mùa đông dài đằng đẵng
+
+##UB##
+空に咲う花形=Sky-Blooming Star
+最も魔法防御力が低い敵に魔法特大ダメージを２回与える。バトルの残り時間が30秒未満の場合、さらに追加で最も魔法防御力が低い敵に魔法特大ダメージを与える。=Gây sát thương ma pháp cực đại lên kẻ địch có Ma thủ thấp nhất 2 lần. Nếu thời gian thi đấu còn lại dưới 30 giây, gây thêm sát thương ma pháp cực đại lên kẻ địch có Ma thủ thấp nhất.
+r:"^敵単体に(\d+)の魔法ダメージを２回与えるバトルの残り時間が30秒未満の場合、敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương ma pháp lên 1 kẻ địch 2 lần.\n\nNếu thời gian thi đấu còn lại dưới 30 giây:\n►Gây $2 sát thương ma pháp lên 1 kẻ địch.
+
+
+##S1##
+なんでやねん！=What the heck?!
+自分が敵から受ける行動不能を１回まで無効にする。最も魔法防御力が低い敵に魔法大ダメージを２回与え、自分のＴＰを小回復する。自分の【スタミナ】が15以上の場合、自分の【スタミナ】を15消費し、さらに追加で最も魔法防御力が低い敵に魔法大ダメージを与え、自分のＴＰを小回復する。バトルの残り時間が30秒未満の場合の初回発動時、さらに自分の【スタミナ】（上限99）を99回復し、行動パターンが変化する。=Vô hiệu hóa hiệu ứng không thể hành động do kẻ địch gây ra tối đa 1 lần. Gây sát thương ma pháp lớn lên kẻ địch có Ma thủ thấp nhất 2 lần và hồi phục nhẹ TP cho bản thân. Nếu [Thể lực] của bản thân từ 15 trở lên, tiêu hao 15 [Thể lực] để gây thêm sát thương ma pháp lớn lên kẻ địch có Ma thủ thấp nhất và hồi phục nhẹ TP cho bản thân. Khi thi triển lần đầu tiên lúc thời gian thi đấu còn lại dưới 30 giây, hồi phục thêm 99 [Thể lực] cho bản thân (tối đa 99) và thay đổi chuỗi hành động.
+
+r:"^自分の受ける行動不能を１回まで無効化する敵単体に(\d+)の魔法ダメージを２回与える自分のＴＰを100回復自分のスタミナが15以上の場合、以下の効果が発動する自分のスタミナを15消費する敵単体に(\d+)の魔法ダメージ自分のＴＰを100回復バトルの残り時間が30秒未満の場合の初回発動時、自分のスタミナを99回復する$"=Thời gian niệm: 1.05 giây.\n►Vô hiệu hóa hiệu ứng không thể hành động nhận phải cho bản thân tối đa 1 lần trong 12 giây.\n►Gây $1 sát thương ma pháp lên 1 kẻ địch 2 lần.\n►Hồi phục 100 TP cho bản thân.\n\nNếu Thể lực của bản thân từ 15 trở lên, kích hoạt các hiệu ứng sau:\n►Tiêu hao 15 Thể lực của bản thân.\n►Gây $2 sát thương ma pháp lên 1 kẻ địch.\n►Hồi phục 100 TP cho bản thân.\n\nKhi thi triển lần đầu tiên lúc thời gian thi đấu còn lại dưới 30 giây:\n►Hồi phục 99 Thể lực cho bản thân.
+
+
+##S2##
+静かな気炎=Quietly Burning Spirit
+自分の魔法攻撃力を特大アップ、魔法クリティカルダメージを小アップする。初回発動時、さらに自分の【スタミナ】を99回復し、物理・魔法防御力を中アップ、加算行動速度を大アップし、自分がステータスアップ効果を受けるたびに、自分の【スタミナ】が１回復する状態になる。=Tăng cực đại Ma công và tăng nhẹ Sát thương Ma bạo của bản thân. Khi thi triển lần đầu tiên, hồi phục thêm 99 [Thể lực] cho bản thân, tăng vừa Thủ vật lý và Ma thủ của bản thân, tăng lớn Tốc độ hành động cộng thêm, đồng thời bước vào trạng thái hồi phục 1 [Thể lực] mỗi khi bản thân nhận được hiệu ứng tăng chỉ số.
+r:"^自分の魔法攻撃力を(\d+)アップ自分の魔法クリダメを8％アップ初回発動時、以下の効果が発動する自分のスタミナを99回復する自分の物理・魔法防御力を(\d+)アップ自分の行動速度100％加算ステータスアップ効果を受けるたびに自分のスタミナを１回復する状態になる$"=Thời gian niệm: 1.05 giây.\n►Tăng $1 Ma công cho bản thân trong 180 giây.\n►Tăng 8％ Sát thương Ma bạo cho bản thân trong 180 giây.\n\nKhi thi triển lần đầu tiên, kích hoạt các hiệu ứng sau:\n►Hồi phục 99 Thể lực cho bản thân.\n►Tăng $2 Thủ vật lý và Ma thủ cho bản thân trong 180 giây.\n►Tăng thêm 100％ Tốc độ hành động cho bản thân trong 180 giây.\n►Bước vào trạng thái hồi phục 1 Thể lực mỗi khi nhận được hiệu ứng tăng chỉ số.
+
+##EX##
+しとやかな足取り=Graceful Footwork
+しとやかな足取り+=Graceful Footwork+
+
+##S1+##
+なんでやねん！+=What the heck?!+
+
+##UE##

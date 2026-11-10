@@ -2,9 +2,11 @@
 振り返り=Tổng kết
 四世界合同プリンセス杯=Cúp Princess Liên Thế Giới
 
+『四世界合同プリンセス杯』記念トロフィー=Cúp Kỷ Niệm 『Cúp Princess Liên Thế Giới』
+
+開幕！　四世界合同レース=Khai Mạc! Giải Đua Hợp Nhất 4 Thế Giới
 
 ---Opening---
-開幕！　四世界合同レース=Khai Mạc! Giải Đua Hợp Nhất 4 Thế Giới
 人々の間で高まるレース人気を受けて、各世界のプリンセスたちが合同でレースを企画した。四世界を股にかける４本勝負。普段とは違うルールだが、レースと名がつくならば見逃せない！　アイたちウマ娘も参戦を決意するのだった。=Nhận thấy sức hút của các giải đua ngày càng tăng cao trong lòng mọi người, các công chúa đến từ mỗi thế giới đã cùng nhau lên kế hoạch tổ chức một giải đua hợp nhất. Một cuộc tranh tài gồm 4 chặng đấu trải dài qua cả bốn thế giới. Dù luật chơi có đôi chút khác biệt so với bình thường, nhưng một khi đã mang danh giải đua thì tuyệt đối không thể bỏ lỡ! Nhóm Umamusume của Ai và các bạn cũng đã hạ quyết tâm tham gia tranh tài.
 ランドソルステークスからしばらくして──\nランドソルの城門前には大勢の人が集まっていた。=Một thời gian sau giải Landosol Stakes──\nRất đông người hâm mộ đã tập trung đông đủ trước cổng thành Landosol.
 みなさーん！\nオイッスー☆=Xin chào mọi ngườiii!\nOissu~☆
@@ -45,7 +47,7 @@
 『なるほど、カリンさんにはそんな目的があるんですのね。\n人手不足はどこのギルドでも深刻──\nスライムに負けるわけにはまいりませんわね！』=『Ra là vậy, Karin-san tham gia với mục đích như thế sao.\nTình trạng thiếu hụt nhân sự đúng là vấn đề nhức nhối ở mọi Guild──\nThế thì quả thực không thể chịu thua trước mấy con slime được rồi!』
 『さておき──これはなかなかの粘着力！\n何か商売に活かせそうな素材──じゃありませんわっ！\nみなさま無事抜け出せたでしょうかっ？』=『Gạt chuyện đó sang một bên──độ kết dính này đúng là không tầm thường nha!\nCó khi lại là nguyên liệu ứng dụng tốt vào buôn bán──À không phải lúc nói chuyện này!\nLiệu mọi người đã thoát ra an toàn hết chưa ạ?』
 『まだレースは始まったばかりですわっ！』=『Chặng đua chỉ mới vừa bắt đầu thôi ạ!』
-うひゃっは～い！\nきょ～も麦しゅわがおいし～わね～！=Uhyahhaaay!\nLúa mạch sủi bọt hôm nay lại ngon xỉu luôn nèee~!
+うひゃっは～い！\nきょ～も麦しゅわがおいし～わね～！=UHYAAHAAAA!\nLúa mạch sủi bọt hôm nay lại ngon xỉu luôn nèee~!
 『ああ～！　ユカリさんが麦しゅわにつかまってしまいましたわ！』=『Áiii~! Yukari-san đã bị lúa mạch sủi bọt níu chân mất rồi!』
 『露店の麦しゅわ、思わぬトラップですわね！』=『Gánh hàng lúa mạch sủi bọt ven đường đúng là một cạm bẫy không ai lường trước được ạ!』
 麦しゅわおかわりぃ～！=Cho thêm ly lúa mạch sủi bọt nữa đi ạaa~!
@@ -65,9 +67,9 @@
 イロハもやるー！=Iroha cũng làm được nèー!
 私もですっ……！=Tôi cũng vậy nữa...!
 わ、私もっ！=T-Tôi nữa!
-ひゃああああ、爆発が～！=Hyaaaaaah, nổ rồi kìaaa~!
+ひゃああああ、爆発が～！=HYAAAAAAAAH!, nổ rồi kìaaa~!
 『なんとここでまさかの爆発が！？　みなさまご無事でしょうかっ！？』=『Trời ơi là trời, ai mà ngờ lại có vụ nổ xảy ra thế này!? Mọi người có làm sao không ạ!?』
-えっ？　……きゃあっ！？=Hả? ...Kyaah!?
+えっ？　……きゃあっ！？=Hả? ...KYAAAAA!?
 メ、メガネが汚れて、前が見えませんっ……=M-Mắt kính bị bẩn mất rồi, tôi không thấy đường phía trước nữa...
 大丈夫かい、お嬢さん？\nここはアタシに任せて休んでなっ。=Cô em không sao chứ?\nCứ giao chỗ này cho chị rồi nghỉ ngơi đi nhé.
 は、はいっ……でも……=V-Vâng... Nhưng mà...
@@ -76,8 +78,8 @@
 『これで走者は４人に……って、あら？\nそういえば、アユミさんの姿が見当たりませんわね？\nもしやもうゴールされて……！？』=『Như vậy số tuyển thủ còn lại là 4 người... Ơ kìa?\nNhắc mới nhớ, sao không thấy bóng dáng của Ayumi-san đâu hết vậy ta?\nChẳng lẽ cô ấy đã cán đích từ đời nào rồi sao...!?』
 わ、私はここにいます～っ……！=E-Em vẫn ở ngay đây mà~...!
 ずっと走ってるのに、誰にも気づいてもらえないなんて～……！　=Rõ ràng mình chạy suốt từ nãy đến giờ mà chẳng ai nhận ra hết là sao~...!
-きゃあ～！\nまた爆発しちゃいました～！？=Kyaah~!\nLại bị nổ nữa rồi sao~!?
-きゃああああー！=Kyaaaaaah!
+きゃあ～！\nまた爆発しちゃいました～！？=WAAAAAAAAAH!\nLại bị nổ nữa rồi sao~!?
+きゃああああー！=KYAAAAAAAAH!!
 『さあ、一着は──\nゴールドシップさん……じゃなくて……？』=『Và tuyển thủ về đích đầu tiên là──\nGold Ship-san... ơ không phải sao...?』
 大勝利～！=Đại chiến thắng~!
 『イロハさんですわっ！\nみなさま盛大な拍手を～！』=『Chính là Iroha-san ạ!\nXin quý vị hãy dành một tràng pháo tay thật lớn cho cô ấy~!』
@@ -99,11 +101,10 @@
 普段から野山を走っていらっしゃるとか。\nいつか山ごもりをご一緒してみたいです！=Nghe bảo bình thường em ấy hay chạy luyện tập ở chốn núi non đồng ruộng.\nĐến một ngày nào đó em cũng rất muốn được cùng em ấy lên núi tu luyện đó!
 にしてもあんなに爆発が起きる中でも走るなんて。\nこっちの世界のみなさんは肝が据わってますね、\nうちもまだまだ修行が足りんみたいです。=Dù vậy mà vẫn có thể vừa chạy vừa né mấy vụ nổ tung trời thế kia được.\nNgười ở thế giới này ai nấy cũng gan dạ thật đấy chứ,\nxem ra bản lĩnh tu hành của mình vẫn còn non và xanh lắm đây.
 ドジなだけで爆発起きる原理は、\nよおわからんかったけども……=Dù mình vẫn chẳng thể nào hiểu nổi cái lý do vì sao chỉ hậu đậu một chút thôi mà cũng tạo ra được vụ nổ nữa là...
-きゃああ～～～！？=Kyaaaaaah~!?
+きゃああ～～～！？=KYAAAAAAAAAAH!?
 
 
 ---2---
-
 異世界でのレースは、やっぱり勝手が違う……！　=Chạy đua ở thế giới khác quả nhiên là cảm giác khác hẳn luôn...!
 けど、うちは負けん。\n花形の矜持に懸けて、\nたとえ誰が相手やとしても……！　=Nhưng mà, mình quyết không thua đâu.\nĐánh đổi bằng lòng tự tôn của một ngôi sao sân khấu,\ncho dù đối thủ có là ai đi chăng nữa...!
 はあ、はあ……っっ！=Haa, haa...!

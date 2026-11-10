@@ -6,11 +6,11 @@
 
 スキップ報酬=Bỏ qua Phần thưởng
 参加報酬を入手しました。=Đã nhận phí tham gia.
-獲得マイルアップ効果を適用しました。=Đã nhận hiệu ứng tăng dặm.
+獲得マイルアップ効果を適用しました。=Đã nhận hiệu ứng tăng Mile.
 ミニゲームをスキップして、以下のアイテムを獲得しました。=Bỏ qua minigame để nhận các vật phẩm sau:
 
 トレジャーマス=Ô Kho báu
-マイルマス=Ô Dặm
+マイルマス=Ô Mile
 ショップマス=Ô Cửa hàng
 
 【料理】移動時に料理マスをスキップできる=[Món Ăn] Cậu sẽ bỏ qua các Ô Món Ăn khi di chuyển.
@@ -124,7 +124,7 @@ r:"^このターンに振るダイスの目を必ず「(\d)」に、次のター
 
 
 [3C404E][FF7C4E,D62146]【上書き不可】[-]次に振るダイスの目を必ず「8」に、その次に振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-]Lượt này bạn sẽ chắc chắn ra mặt số 8. Sau đó, lượt kế tiếp chắc chắn ra mặt số 1.[-]
-[3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で2000マイルを獲得する。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-] Đổi lại là không thể ăn món thuộc danh mục [Di chuyển] ở lượt sau, bạn sẽ nhận ngay 2.000 dặm.[-]
+[3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で2000マイルを獲得する。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-] Đổi lại là không thể ăn món thuộc danh mục [Di chuyển] ở lượt sau, bạn sẽ nhận ngay 2.000 Mile.[-]
 [3C404E][FF7C4E,D62146]【上書き不可】[-]次に振るダイスの目を必ず「6」に、その次に振るダイスの目を必ず「3」にする。[-]=[3C404E] [FF7C4E,D621466]【Không thể ghi đè】[-]Lượt này bạn sẽ chắc chắn ra mặt số 6. Sau đó, lượt kế tiếp chắc chắn ra mặt số 3.[-]
 [3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「12」に、次とさらにその次のターンに振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-] Lượt này bạn sẽ chắc chắn ra mặt số 12. Sau đó, trong 2 lượt tiếp theo chắc chắn ra mặt số 1. [-]
 [3C404E][FF7C4E,D62146]【上書き不可】[-]このターンに振るダイスの目を必ず「8」に、次のターンに振るダイスの目を必ず「1」にする。[-]=[3C404E][FF7C4E,D62146]【Không thể ghi đè】[-]Lượt này bạn sẽ chắc chắn ra mặt số 8. Sau đó, lượt kế tiếp chắc chắn ra mặt số 1.[-]
@@ -133,7 +133,7 @@ r:"^このターンに振るダイスの目を必ず「(\d)」に、次のター
 
 次に振るダイスの目を必ず「2」に、その次に振るダイスの目を必ず「7」にする。=Lượt này bạn sẽ chắc chắn ra mặt số 2. Sau đó, lượt kế tiếp chắc chắn ra mặt số 7.
 次に振るダイスの目が「1・2・3」のみになる。さらに、次のターン数のカウントをスキップする。=Lượt này bạn sẽ ra mặt số 1, 2 hoặc 3.\nSố lượt sẽ bị bỏ qua.
-マイルマスをスキップして移動できる。効果は2ターンの間継続する。=Bạn sẽ bỏ qua các ô Dặm khi di chuyển. Hiệu ứng này kéo dài 2 lượt.
+マイルマスをスキップして移動できる。効果は2ターンの間継続する。=Bạn sẽ bỏ qua các ô Mile khi di chuyển. Hiệu ứng này kéo dài 2 lượt.
 次にダイスを振った際、1マス多く進める。=Lượt sau bạn có thể di chuyển thêm 1 ô.
 次にダイスを振った際、2マス多く進める。=Lượt sau bạn có thể di chuyển thêm 2 ô.
 次にダイスを振った際、3マス多く進める。=Lượt sau bạn có thể di chuyển thêm 3 ô.
@@ -143,9 +143,9 @@ r:"^このターンに振るダイスの目を必ず「(\d)」に、次のター
 次にダイスを振った際、7マス多く進める。=Lượt sau bạn có thể di chuyển thêm 7 ô.
 次にダイスを振った際、8マス多く進める。=Lượt sau bạn có thể di chuyển thêm 8 ô.
 ---Yellow---
-マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANKが1つ上がる。効果は対象のマスに計2回止まるまで継続する。=Cấp bậc (RANK) của tất cả các ô "Ô Dặm", "Ô Kho Báu" và "Ô Cửa Hàng" sẽ tăng lên 1. Hiệu ứng này kéo dài cho đến khi bạn dừng ở một ô thuộc loại đã nêu, tổng cộng 2 lần.
-マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANK\nが1つ上がる。効果は対象のマスに計1回止まるまで継続する。=Cấp bậc (RANK) của tất cả các ô "Ô Dặm", "Ô Kho Báu" và "Ô Cửa Hàng" sẽ tăng lên 1. Hiệu ứng này kéo dài cho đến khi bạn dừng ở một ô thuộc loại đã nêu, tổng cộng 2 lần.
-次にマイルマスに止まった際の獲得マイルが200%アップする。=Bạn sẽ nhận được 200% Dặm thêm trên ô Dặm tiếp theo bạn dừng lại.
+マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANKが1つ上がる。効果は対象のマスに計2回止まるまで継続する。=Cấp bậc (RANK) của tất cả các ô "Ô Mile", "Ô Kho Báu" và "Ô Cửa Hàng" sẽ tăng lên 1. Hiệu ứng này kéo dài cho đến khi bạn dừng ở một ô thuộc loại đã nêu, tổng cộng 2 lần.
+マップ上の「マイルマス」「トレジャーマス」 「ショップマス」のRANK\nが1つ上がる。効果は対象のマスに計1回止まるまで継続する。=Cấp bậc (RANK) của tất cả các ô "Ô Mile", "Ô Kho Báu" và "Ô Cửa Hàng" sẽ tăng lên 1. Hiệu ứng này kéo dài cho đến khi bạn dừng ở một ô thuộc loại đã nêu, tổng cộng 2 lần.
+次にマイルマスに止まった際の獲得マイルが200%アップする。=Bạn sẽ nhận được 200% Mile thêm trên ô Mile tiếp theo bạn dừng lại.
 ---Green---
 ランダムなイベントを発生させる。=Lượt sau bạn sẽ gặp một sự kiện ngẫu nhiên.
 
@@ -362,7 +362,7 @@ sr:"^(.+)を([0-9,]+)個獲得…$"=Nhận được $2 x $1.
 サレンの思い出ぎっしり焼きそばパン=Bánh mì Yakisoba đong đầy kỷ niệm của Saren
 「ショップマス」「ミニゲームマス」「イベントマス」をスキップして移動できる。効果は3ターンの間継続する。=Cho phép di chuyển bỏ qua "Ô Cửa hàng", "Ô Trò chơi nhỏ" và "Ô Sự kiện". Hiệu quả kéo dài trong 3 lượt.
 サレンが作った思い出の焼きそばパン。どっしりしたボリュームある炭水化物×炭水化物の信頼感で皆を笑顔に変える。専用の皿に盛り付けたら見栄えも十分。カロリーは気にしないのがお作法。=Món bánh mì Yakisoba kỷ niệm do chính tay Saren làm. Sự kết hợp đầy đặn giữa tinh bột × tinh bột mang lại cảm giác an tâm và khiến mọi người mỉm cười. Khi trình bày trên đĩa chuyên dụng, trông nó cực kỳ bắt mắt. Quy tắc thưởng thức là đừng bận tâm đến lượng calo.
-マイルマスをスキップして移動できる。効果は3ターンの間継続する。=Cho phép di chuyển bỏ qua "Ô Dặm đường". Hiệu quả kéo dài trong 3 lượt.
+マイルマスをスキップして移動できる。効果は3ターンの間継続する。=Cho phép di chuyển bỏ qua "Ô Mile đường". Hiệu quả kéo dài trong 3 lượt.
 アラクネが初めて覚えた料理。周囲の人々が自分より小さいのは小食が理由と思っているらしく、たくさん食べて大きくなってほしいという優しさから、超ボリュームなデカ盛り仕様となった。=Món ăn đầu tiên mà Arachne học được. Dường như cô cho rằng mọi người xung quanh nhỏ bé hơn mình là do ăn ít, nên từ lòng tốt muốn mọi người ăn thật nhiều để mau lớn, cô đã làm ra khẩu phần siêu khổng lồ này.
 [3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で…=[3C404E][FF7C4E,D62146][Không thể ghi đè][-]Thay vì không thể ăn "Món ăn thuộc danh mục di chuyển" ở lượt tiếp theo, ngay tại chỗ...
 [3C404E][FF7C4E,D62146]【上書き不可】[-]次のターン「移動系カテゴリーの料理」が食べられない代わりに、その場で貴重な未鑑定トレジャーを3個獲得する。[-]=[3C404E][FF7C4E,D62146][Không thể ghi đè][-]Thay vì không thể ăn "Món ăn thuộc danh mục di chuyển" ở lượt tiếp theo, bạn sẽ nhận ngay 3 Bảo vật chưa giám định quý giá[-]

@@ -1,12 +1,12 @@
 ------
-r:"^([0-9,]+)マイル([×\d]{2})? 獲得！$"=Đã thu được $1$2 Dặm!
+r:"^([0-9,]+)マイル([×\d]{2})? 獲得！$"=Đã thu được $1$2 Mile!
 獲得トレジャーはありません。=Không có kho báu nào được thu được.
 獲得トレジャー=Kho báu Đã Thu Được
 個=
 アイテム獲得数=Vật phẩm Đã Thu Được
-マイル=Dặm
-キャラバンで用いる特別な通貨。マイルショップやマイルガチャ利用時に必要となる。=Một loại tiền tệ đặc biệt dùng trong caravan. Nó cần thiết cho việc mua hàng tại Cửa hàng Dặm và sử dụng Máy Gacha Dặm.
-今回の獲得マイル=Dặm Đã Thu Được
+マイル=Mile
+キャラバンで用いる特別な通貨。マイルショップやマイルガチャ利用時に必要となる。=Một loại tiền tệ đặc biệt dùng trong caravan. Nó cần thiết cho việc mua hàng tại Cửa hàng Mile và sử dụng Máy Gacha Mile.
+今回の獲得マイル=Mile Đã Thu Được
 r:"^(\d+)ターン以内に到着$"=Đến trong $1 lượt
 ------
 個=Mảnh
@@ -89,5 +89,5 @@ sr:"^(?:\[3C404E\])?(.+)を \[-\]\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]個獲
 トゲトゲにぶつかると、少しの間動けなくなるので注意です！\nマグネットをキャッチすると、範囲内のフルーツや宝箱を一定時間\n引き寄せることができますよ♪=Nếu bạn chạm vào gai, bạn sẽ không thể di chuyển trong một thời gian ngắn, nên hãy cẩn thận! Bắt được nam châm, bạn có thể hút trái cây và hộp kho báu trong phạm vi của nó trong một khoảng thời gian nhất định♪
 
 強力なハンマーに要注意です！攻撃地点からはフルーツや宝箱が\nドロップしますが、すぐに消えてしまうので急いでGETしましょう！\n「練習する」から何度でも実際のゲームの動きが確認できますよ♪=Hãy cẩn thận với búa mạnh! Từ các điểm tấn công, trái cây và hộp kho báu sẽ rơi ra, nhưng chúng biến mất nhanh, nên hãy nhanh tay thu thập! Bạn có thể luyện tập và xác nhận cách chơi thực tế từ "Luyện tập" bao nhiêu lần tùy thích♪
-集めたフルーツはマイルと交換させていただきます\nSPECIALのフルーツは、NORMALの5個分の価値があります♪\nさらに宝箱をキャッチすると、トレジャーがGETできます！=Trái cây bạn thu thập sẽ được đổi lấy dặm. Trái cây ĐẶC BIỆT có giá trị gấp năm lần trái cây THÔNG THƯỜNG♪ Ngoài ra, bắt được hộp kho báu sẽ giúp bạn nhận được kho báu!
-フルーツや宝箱はリザルトでまとめて報酬に交換いたします！\nたくさんキャッチして、マイルやトレジャーをGETしましょう♪=Trái cây và hộp kho báu sẽ được đổi thành phần thưởng hàng loạt ở kết quả! Hãy bắt thật nhiều và nhận được dặm cùng kho báu♪
+集めたフルーツはマイルと交換させていただきます\nSPECIALのフルーツは、NORMALの5個分の価値があります♪\nさらに宝箱をキャッチすると、トレジャーがGETできます！=Trái cây bạn thu thập sẽ được đổi lấy Mile. Trái cây ĐẶC BIỆT có giá trị gấp năm lần trái cây THÔNG THƯỜNG♪ Ngoài ra, bắt được hộp kho báu sẽ giúp bạn nhận được kho báu!
+フルーツや宝箱はリザルトでまとめて報酬に交換いたします！\nたくさんキャッチして、マイルやトレジャーをGETしましょう♪=Trái cây và hộp kho báu sẽ được đổi thành phần thưởng hàng loạt ở kết quả! Hãy bắt thật nhiều và nhận được Mile cùng kho báu♪

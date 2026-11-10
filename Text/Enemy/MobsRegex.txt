@@ -88,6 +88,7 @@ sr:"^(【物理】|【魔法】|【回復】|【補助】|【ＭＯＤＥ１】|
 【スキル２】=\n\n[Kỹ năng 2]
 【スキル３】=\n\n[Kỹ năng 3]
 【スキル４】=\n\n[Kỹ năng 4]
+【スキル５】=\n\n[Kỹ năng 5]
 【召喚体特殊効果】=\n\n[Hiệu ứng đặc biệt của sinh vật triệu hồi]
 【召喚体スキル１】=\n\n[Kỹ năng 1 của sinh vật triệu hồi]
 【召喚体スキル２】=\n\n[Kỹ năng 2 của sinh vật triệu hồi]

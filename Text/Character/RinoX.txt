@@ -3,7 +3,7 @@
 
 ##UB##
 クリスマススターダスト=Christmas Stardust
-自分の物理クリティカルを大アップし、前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Tăng mạnh mẽ tỷ lệ chí mạng vật lý của bản thân và gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Nếu kỹ năng này trúng chí mạng, sát thương sẽ thành ba lần.
+自分の物理クリティカルを大アップし、前方範囲内の敵に物理大ダメージを与える。このスキルのクリティカルダメージは３倍になる。=Tăng lớn Tỉ lệ Vật bạo cho bản thân và gây sát thương vật lý lớn lên kẻ địch trong phạm vi phía trước. Sát thương bạo kích của kỹ năng này tăng gấp 3 lần.
 r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカルを(\d+)アップ$"=►Gây $1 sát thương lên kẻ địch trong phạm vi. ►Tăng tỷ lệ chí mạng vật lý của bản thân lên $2 trong 180s.
 
 ##S1##
@@ -12,7 +12,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカ�
 
 ##S2##
 ジングルアロー=Jingle Arrow
-前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。範囲内の敵の数に応じて、防御力の減少量が最大４倍までアップする。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi, và giảm nhẹ phòng thủ vật lý của chúng. Lượng phòng thủ vật lý bị giảm tăng theo số kẻ địch, tối đa 4 lần. Nếu kỹ năng này trúng chí mạng, sát thương sẽ thành ba lần.
+前方範囲内の敵に物理小ダメージを与え、物理防御力を小ダウンさせる。範囲内の敵の数に応じて、物理防御力のダウン量が最大４倍まで増加する。このスキルのクリティカルダメージは３倍になる。=Gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi phía trước và giảm nhẹ Thủ vật lý của chúng. Lượng giảm Thủ vật lý tăng lên dựa trên số lượng kẻ địch trong phạm vi, tối đa gấp 4 lần. Sát thương bạo kích của kỹ năng này tăng gấp 3 lần.
 
 ##EX##
 クリスマスアプローチ=Christmas Approach
@@ -20,7 +20,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理クリティカ�
 
 ##S1+##
 ブレッシングリース+=Blessing Wreath+
-自分を中心とした範囲内の味方すべてのＨＰを小回復するフィールドを展開し、自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、物理クリティカルを中アップする。=Triển khai một trường phục hồi nhẹ HP cho đồng đội trong phạm vi xung quanh bản thân. Tăng mạnh mẽ tấn công vật lý của đồng đội trong phạm vi, và tăng trung bình tỷ lệ chí mạng vật lý của họ.
+自分を中心とした範囲内の味方のＨＰを小回復させるフィールドを展開し、自分を中心とした範囲内の味方の物理攻撃力を特大アップ、物理クリティカルを中アップさせる。=Tạo một trường hỗ trợ lấy bản thân làm tâm giúp hồi phục nhẹ HP cho đồng minh trong phạm vi, đồng thời tăng cực đại Công vật lý và tăng vừa Tỉ lệ Vật bạo cho họ.
 r:"^範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを70アップ毎秒ＨＰを(\d+)回復するフィールドを展開する$"=►Tăng tấn công vật lý của đồng đội trong phạm vi 150 lên $1 trong 180s. ►Tăng tỷ lệ chí mạng vật lý của đồng đội trong phạm vi 150 lên 70 trong 180s. ►Triển khai một trường bán kính 260 phục hồi HP của đồng đội lên $2/giây trong 8.5s.
 
 ##UE##

@@ -1,0 +1,12 @@
+ララ、風に流れ=La La, cuốn theo chiều gió
+溶岩の中、凛とたおやかに=Hiên ngang và kiều diễm giữa dòng dung nham
+屋根越える紫丁香花=Cành hoa tử đinh hương (Lilac) vượt qua mái nhà
+魔法・ツッコミ・クエスト=Ma pháp, màn tung hứng bắt bẻ và các nhiệm vụ
+
+ラッキーライラックは、{playername}の助言で空を走る魔法を習得した。その魔法で、空飛ぶ魔物から行商人の荷物を奪い返すが、止まる方法がわからず遥か彼方へ走り去ってしまうのだった。=Lucky Lilac đã học được phép thuật chạy trên bầu trời nhờ lời khuyên từ {playername}. Nhờ phép thuật đó, cô đã giành lại được hành lý cho thương nhân du mục từ tay một con quái vật bay, nhưng khổ nỗi lại chẳng biết cách dừng lại nên cứ thế cắm cổ chạy mất tăm ra tận chân trời xa tít tắp.
+
+ララはアーモンドアイとジオ・ゲヘナの我慢大会に参加した。決勝まで進んだ二人は、超高温のマグマガマンサウナで対決。アイが善戦するも、ララが脳内で漫才を再現して暑さを乗り切り、優勝するのだった。=Lala tham gia cuộc thi chịu đựng tại Geo Gehenna cùng với Almond Eye. Tiến vào tận trận chung kết, cả hai đối đầu với nhau trong phòng xông hơi siêu nóng Magma Gaman Sauna. Dù Eye đã thi đấu rất cố gắng, nhưng Lala lại vượt qua cái nóng bằng cách tự tưởng tượng và diễn lại các màn tấu hài trong đầu, để rồi cuối cùng giành lấy chức vô địch.
+
+ララたちは依頼を受け雪山を訪れた。炎の魔法が上手く発現できないララだが、{playername}とコッコロの駄洒落に思わずツッコんだ瞬間、炎の花が咲き誇る。そして見事、依頼を達成したのだった。=Lala và mọi người đã nhận nhiệm vụ ghé thăm ngọn núi tuyết. Lala gặp khó khăn trong việc thi triển ma pháp lửa, nhưng đúng vào khoảnh khắc cô bất giác tung lời đâm chọc lại những câu trò đùa nhạt nhẽo của {playername} và Kokkoro, một đóa hoa lửa liền bừng nở rực rỡ. Và thế là họ đã hoàn thành xuất sắc nhiệm vụ được giao.
+
+ララは謎の光に包まれ、気がつくとトレセン学園にいた。空を走ったララは、学園の向こうに広がる家々を見て、応援してくれる人たちのために走ることを改めて誓うのだった。=Lala bị bao bọc bởi một thứ ánh sáng kỳ bí, và khi hoàn hồn lại thì thấy mình đã ở Học viện Tracen. Từng sải bước chạy trên bầu trời, Lala phóng tầm mắt ngắm nhìn những mái nhà trải dài bên kia học viện, để rồi một lần nữa tự khắc ghi lời hứa sẽ chạy vì những người luôn dõi theo cổ vũ cho mình.

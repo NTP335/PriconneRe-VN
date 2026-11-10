@@ -97,7 +97,7 @@ Opening
 Chapter 1
 ゴールドシップとはぐれ、魔物に追われ\nひたすら走って逃げたアーモンドアイたち。だが──=Sau khi thất lạc Gold Ship và bị ma vật truy đuổi,\nnhóm Almond Eye chỉ biết dốc sức tháo chạy giữ lấy mạng sống. Thế nhưng...
 どうにか安全そうな岩場に落ち着いたものの、\n３日経っても、ここがどこだかさっぱりやね。=Dù đã tạm thời dạt được vào một bãi đá trông có vẻ an toàn,\nnhưng đã trôi qua 3 ngày rồi mà tui vẫn chẳng thể nào biết được đây là đâu nữa.
-ゴルシ先輩に関しても、土地勘のない中での捜索は難しそうです。\nせめて、この辺りに詳しい方が見つかれば良いのですが……=Về phần Golshi-senpai, trong hoàn cảnh mù tịt địa hình thế này thì việc tìm kiếm chị ấy có vẻ rất khó khăn.\nGiá mà bọn em tìm được ai đó thông thuộc vùng này thì tốt biết mấy...
+ゴルシ先輩に関しても、土地勘のない中での捜索は難しそうです。\nせめて、この辺りに詳しい方が見つかれば良いのですが……=Về phần Golshi-senpai, trong hoàn cảnh mù tịt địa hình thế này thì việc tìm kiếm chị ấy có vẻ rất khó khăn.\nGiá mà bọn mình tìm được ai đó thông thuộc vùng này thì tốt biết mấy...
 まさか、ゴルシさんを捜す前の段階で躓くなんて……\nでも、一つずつ片付けていくしかないわね。=Ai mà ngờ được bọn mình lại vấp ngã ngay từ công đoạn trước khi đi tìm Golshi-san chứ...\nNhưng mà, đành phải giải quyết từng việc một thôi.
 そうやね。ゴルシさんはタフな人やから、\nあの人を信じつつ、まずはうちらにできることをやりましょ。=Đúng rồi đó. Golshi-san vốn là người rất kiên cường,\nnên bọn mình cứ tin tưởng chị ấy, và trước mắt hãy làm những việc mà chúng ta có thể làm đã.
 食料探しと、地元の人探しよね。\nそういえば……昨日この辺りを捜索してた時に、川を見つけたの。=Tìm kiếm lương thực và tìm người bản địa đúng không nào.\nNhắc mới nhớ... hôm qua lúc đang thám hiểm khu vực này, mình đã phát hiện ra một dòng sông đấy.
@@ -192,7 +192,7 @@ Chapter 2
 アタシのゴルシちゃんコロニーにタメはるくらいか……\nフッ、なかなかやるじゃねーか。=Cũng xấp xỉ ngang ngửa với cái Golshi-chan Colony của tui rồi đấy...\nHeh, không tệ chút nào đâu nhỉ.
 ちびゴルシ=Chibi Gold Ship
 えへへ、ありがとうございます☆\nわたしたちの自慢の城下町です！=Ehehe, em cảm ơn chị nhiều ạ☆\nĐây là thị trấn dưới chân thành mà chúng em vô cùng tự hào đấy!
-──時は、ペコリーヌに助けられた直後に遡る。=──Quá khứ ngược dòng về thời điểm ngay sau khi được Pecorine cứu giúp.
+──時は、ペコリーヌに助けられた直後に遡る。=──Quay ngược về thời điểm ngay sau khi được Pecorine cứu giúp.
 ゴールドシップさんが、みなさんの捜していた\nお知り合いだったんですね。見つかってよかったです！=Thì ra Gold Ship-san chính là người quen mà mọi người đang tìm kiếm.\nMừng quá vì đã tìm thấy chị ấy rồi!
 でも、本来はこの姿じゃないんですよね？=Nhưng mà, hình dạng thực sự của chị ấy không phải thế này đúng không ạ?
 はい……\nゴルシ先輩、なぜそんなに小さくなってしまわれたのですか？=Dạ vâng...\nGolshi-senpai, rốt cuộc tại sao chị lại bị thu nhỏ lại thế này ạ?
@@ -633,7 +633,7 @@ Chapter 5
 あの力の影響で、街の人もみんな\nシャドウゴルシさんみたいになってるんやとしたら……\n同じように、レースに夢中になるはず。=Giả sử như tầm ảnh hưởng của sức mạnh đó đã biến toàn bộ người dân trong thành phố thành những bản sao tương tự như Shadow Golshi-san...\nThì đương nhiên, tất cả bọn họ cũng sẽ trở nên cuồng nhiệt với các cuộc đua chạy.
 結果として、いまこの世界で起きている混乱も、\n落ち着かせることができるかもしれません。=Hệ quả là, chúng ta hoàn toàn có thể nhân cơ hội này để dập tắt và vãn hồi trật tự cho mớ hỗn độn đang hoành hành khắp thế giới này.
 捕獲を成功させる鍵は、獲物の本能を利用することです。\nあ、いえ。\nシャドウゴルシさんは野生動物ではありませんが……=Chìa khóa then chốt để tóm gọn mục tiêu trót lọt chính là phải biết tận dụng bản năng nguyên thủy của chúng.\nÀ, xin lỗi mọi người nhé.\nShadow Golshi-san thực ra không hẳn là một con thú hoang dã đâu...
-ラースゴルシも、レースに乗ってきたね。=Con Wrathgolshi lúc nãy cũng bị cuốn theo bầu không khí đua xe mà nhỉ
+ラースゴルシも、レースに乗ってきたね。=Con Wrathgolshi lúc nãy cũng bị cuốn theo bầu không khí cuộc đua mà nhỉ
 はい。ですから……\nきっと、シャドウゴルシさんを止めてみせます。\nみなさん、ここは私たちに恩返しさせてください！=Vâng ạ. Thế nên là...\nChúng em nhất định sẽ tìm ra cách ngăn chặn Shadow Golshi lại cho bằng được.\nMọi người ơi, xin hãy...!\nCho phép tụi em được đền đáp lại sự giúp đỡ của mọi người nhé!
 分かりましたっ。\nわたしたちも、精いっぱいサポートしますね！=Tụi mình hiểu rồi.\nCả đám sẽ dốc toàn lực để hậu thuẫn cho các cậu hết mình!
 というわけで、シャドウゴルシさん！\n貴方にレースを申し込むわ！=Thế nên là, hỡi Shadow Golshi-san!\nBọn tôi xin chính thức phát động lời khiêu chiến đua chạy với cô!
@@ -816,7 +816,7 @@ Cutscene
 本当に素敵なリゾート地ね……！\nでも一日貸し切りなんて、よかったのかしら。\nここって【メルクリウス財団】ってギルドの持ち物なのよね？=Đúng là một khu nghỉ dưỡng tuyệt vời quá đi...!\nNhưng mà bao trọn trọn gói cả một ngày thế này thì có thực sự ổn không ta.\nNơi này hình như thuộc quyền sở hữu của Guild 『Thương Hội Mercurius』 đúng không nhỉ?
 気にしなくていいわよ。\n向こう曰く「とんでもない世界の危機を救ってくれたお礼」らしーから。=Cần gì phải bận tâm mấy chuyện đó làm gì cho mệt.\nTheo lời mấy người đó thì đây là món quà hậu tạ vì "đã giải cứu thế giới khỏi thảm họa diệt vong chưa từng có" đấy mà.
 てかあっちはあっちでレースの実況に屋台、\nお土産の販売とか、いろいろ稼いでたみたいだし？\n感謝されてトーゼンよね♪=Mà tính ra bên đó cũng kiếm bộn tiền nhờ mấy vụ tường thuật trực tiếp giải đua, mở hàng quán vỉa hè, đến cả bán đồ lưu niệm các thứ nữa cơ mà?\nBọn họ biết ơn mình là điều hiển nhiên quá rồi còn gì♪
-巷のお子さまがたの間では、レースごっこがはやり始めているとか。\n中継魔法を通じて、あのレースをご覧になっていたようですね。=Hình như phong trào chơi trò "đua xe" đang bắt đầu rộ lên rần rần trong giới trẻ nhí ở khu phố rồi đấy.\nChắc là bọn trẻ đã dán mắt theo dõi giải đua đó qua hệ thống ma pháp truyền hình trực tiếp nhỉ.
+巷のお子さまがたの間では、レースごっこがはやり始めているとか。\n中継魔法を通じて、あのレースをご覧になっていたようですね。=Hình như phong trào chơi trò "chạy đua" đang bắt đầu rộ lên rần rần trong giới trẻ nhí ở khu phố rồi đấy.\nChắc là bọn trẻ đã dán mắt theo dõi giải đua đó qua hệ thống ma pháp truyền hình trực tiếp nhỉ.
 そんな影響が……いろいろありましたけど、\nうちらのレースを楽しんでもらえたならよかったです。=Không ngờ lại tạo ra sức ảnh hưởng lớn thế... Dù đã xảy ra vô số chuyện rắc rối,\nnhưng miễn là mọi người đều tận hưởng trọn vẹn giải đua của bọn mình là vui rồi.
 そうね。どっかの腹ペコプリンセスが率先して準備してたわけだし\nみんな、なんだかんだで楽しんでたんでしょ。=Đúng thế. Đã có một vị công chúa phàm ăn nào đó hăng hái xung phong đứng ra lo liệu từ A đến Z,\ncho nên rốt cuộc thì ai nấy cũng đều chơi hết mình còn gì.
 ですが、まさか褒章までいただくとは思いもしませんでした。\nありがとうございます、ペコリーヌさん──\nいえ、ユースティアナ・フォン・アストライア陛下。=Tuy nhiên, em thật sự không tài nào ngờ tới việc chúng ta lại được trao thưởng hậu hĩnh đến thế.\nEm cảm ơn chị nhiều lắm, Pecorine-san──\nKhông, phải gọi là Bệ hạ Eustiana von Astraea mới đúng nhỉ.
