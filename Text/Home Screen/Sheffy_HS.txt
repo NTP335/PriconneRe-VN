@@ -1,4 +1,6 @@
 
+美食殿 ギルドハウス=Mỹ Thực Điện, Guild House
+
 Sheffy 6*
 過去を知った時は辛かった…でも、知らないままだったらなにも気づけなかったと思うのきっと、あなたへの想いにも…=Thật khó khăn khi tìm hiểu về quá khứ... nhưng tôi nghĩ tôi đã không nhận ra bất cứ điều gì nếu không biết... và tôi chắc chắn điều đó cũng áp dụng cho cảm xúc của tôi dành cho cậu...
 願いと引き換えに手に入れたこの『力』…私の愛する人たち…家族やあなたは私が守るわ=Sức mạnh "này" tôi có để đổi lấy điều ước... những người tôi yêu thương... gia đình và cậu, tôi sẽ bảo vệ.
@@ -7,6 +9,7 @@ Sheffy 6*
 みんなと過ごす時間は、私を幸せな気持ちにしてくれたでも、あなたと二人で過ごすひと時も…キライじゃなかったわ=Dành thời gian với mọi người khiến tôi hạnh phúc, nhưng tôi không phiền khi dành thời gian... một mình với cậu.
 
 Sheffy 3*
+私、自分の誕生日が分からなくて…だから、お祝いとかできないのその分、あなたの誕生日をお祝いさせて貰っていいかしら？=Tôi vốn không biết rõ ngày sinh nhật của chính mình... Thế nên tôi chẳng thể tự tổ chức ăn mừng được. Nếu không phiền, tôi có thể thay thế để chúc mừng sinh nhật của cậu được không nhỉ?
 私を迎えてくれた【美食殿】のみんな、それにあなたも…絶対に、守ってみせるわ！=Tôi chắc chắn sẽ bảo vệ tất cả mọi người ở Guild Ẩm Thực đã chào đón tôi, bao gồm cả cậu!
 …不思議ねあなたから力をもらうと、胸が熱くなって…どこまでも跳べそうな気がするわ=...Thật kỳ lạ, khi tôi nhận được sức mạnh từ cậu, ngực tôi trở nên ấm áp... và tôi cảm thấy như có thể nhảy đến bất cứ đâu.
 必ず、みんなを守ってみせる！だって、みんなの隣が『今の私』の居場所だから！=Tôi sẽ bảo vệ mọi người, bởi vì bên cạnh mọi người là nơi "tôi hiện tại" thuộc về!
@@ -15,8 +18,30 @@ such things...!
 っくしゅっ…！氷の魔法は使えても、そこまで寒さに強いわけじゃないみたい後で、温かいスープが欲しいわね=*hắt hơi...! Dù tôi có thể dùng ma thuật băng, có vẻ tôi không kháng lạnh lắm. Sau này tôi sẽ muốn một bát súp nóng.
 
 Sheffy 1*
+お誕生日、おめでとうケーキ、一緒に食べましょうでも…魔物とか昆虫とかケーキに入ってないわよね？=Chúc mừng sinh nhật cậu nhé! Chúng ta hãy cùng nhau ăn bánh kem thôi nào. Nhưng mà... trong bánh kem không có quái vật hay côn trùng nào ở trỏng chứ hả?
 自分のなくした記憶もだけど…あなたが忘れた過去も気になるわ二人で一緒に見つけられたらいいわね=Tôi không chỉ lo lắng về những ký ức tôi đã mất mà còn về quá khứ bị lãng quên của cậu. Sẽ thật tuyệt nếu chúng ta có thể tìm thấy chúng cùng nhau.
 アイスクリームって、どうしてこうもおいしく感じるのかしら…『前の私』もひょっとしたらアイスが好きだったりしてね=Tôi tự hỏi tại sao kem lại ngon như vậy... Có lẽ "tôi cũ" cũng thích kem.
 そんなに真面目っぽい性格に、見えるかしら？冗談とか言うのは、確かに苦手ね=Tôi thực sự trông như người có tính cách nghiêm túc à? Tôi không giỏi đùa cợt, điều đó chắc chắn rồi.
 …ふとした弾みで、思い出すのコッコロさんに甘えてたこととかキャルのしっぽの味とか…もう…顔から火が出そうよ…=...Tôi bỗng nhớ những điều như cách tôi từng dựa vào Kokkoro-san hay vị đuôi của Kyaru... Tôi cảm thấy như mặt đang bừng cháy...
 【美食殿】での生活は毎日が充実していて、楽しいわこの時間が、少しでも長く続くように…精一杯努力するつもりよ=Cuộc sống ở Guild Ẩm Thực thật đáng giá và vui vẻ mỗi ngày. Tôi sẽ cố gắng hết sức để khoảnh khắc này kéo dài càng lâu càng tốt.
+
+
+
+Bond up
+空から落ちてきた私を、受け止めて…助けてくれて\nみんなには、たくさん世話になってしまったわ\nこれから、少しずつでも恩返ししなくちゃね=Cậu đã đỡ lấy khi mình rơi từ trên trời xuống... và cứu giúp mình.\nMình đã làm phiền mọi người quá nhiều rồi.\nTừ giờ trở đi, dù chỉ từng chút một, mình cũng phải tìm cách đền đáp lại ân tình này mới được.
+自分に何ができるか、まだ分からないけど…\n私、みんなの役に立ちたいの。あなたも私に\nしてほしいことがあったら、遠慮なく言ってね？=Dù vẫn chưa rõ bản thân có thể làm được những gì, nhưng...\nMình thực sự muốn giúp ích cho mọi người. Cậu cũng vậy,\nnếu có điều gì muốn mình làm, đừng ngần ngại mà hãy nói ra nhé?
+私の記憶の手がかり探し、\nいつも手伝ってくれてありがとう\nって言っても…食べ歩きしてばかりだけどね=Cảm ơn cậu vì đã luôn giúp mình tìm kiếm\nmanh mối về những ký ức đã mất.\nCơ mà nói vậy thôi chứ... tụi mình toàn đi ăn dạo khắp nơi là chính nhỉ.
+でも、それが【美食殿】のギルド活動だものね\n私的には、食べ歩きって、なんだか新鮮な感じだわ\n新鮮だし…とっても楽しいの=Nhưng dù sao đó cũng là hoạt động bang hội của 【Điện Thực Thần】 mà.\nVới riêng mình, việc đi la cà thưởng thức ẩm thực mang lại cảm giác mới mẻ lắm.\nVừa mới lạ... mà lại còn rất vui nữa.
+『前の私』は食べ歩きなんてしなかったのかしら？\nそれとも…\nあなたと一緒だから、楽しいのかしら…？=Không biết "mình của trước đây" có từng đi ăn dạo thế này bao giờ chưa nhỉ?\nHay là...\nChỉ vì được đi cùng cậu nên mình mới thấy vui đến thế này...?
+記憶喪失も問題だけど…ときどき、\n赤ん坊みたいになってしまうことも、なんとかしなきゃ\n…だって…本当に、恥ずかしいんだものっ…=Mất trí nhớ đã là một chuyện rồi, nhưng...\nmình cũng phải tìm cách khắc phục việc thỉnh thoảng lại\nbị biến thành trẻ con nữa...\n...Bởi vì... chuyện đó thực sự xấu hổ chết đi được...
+あのねっ、あのねっ\nしぇふぃ…おにーたんだーいすきっ♪\nぎゅ～～～っ♪　…えへへっ♪=Nè nha, nè nha!\nSheffy... thít anh hai nhìu nhắm nuôn á♪\nÔm chầm～～～♪ ...Ehehe♪
+【美食殿】での毎日…とても充実してる。みんなにも\nあなたにも、感謝してるわ。…でも…\n虫料理と魔物料理は、勘弁してもらえないかしら…？=Những ngày tháng ở 【Điện Thực Thần】... thực sự rất trọn vẹn. Mình vô cùng biết ơn mọi người,\nvà cả cậu nữa. ...Thế nhưng...\nmấy món côn trùng với món ăn từ quái vật thì xin tha cho mình có được không...?
+つらいことや怖いことがあっても、きっと大丈夫\nだって私の胸の中には、たくさん、たくさん…\nあたたかい思い出があるから。…あなたとの、ね=Dù có gặp phải chuyện đau khổ hay đáng sợ đến đâu, chắc chắn mọi chuyện rồi sẽ ổn thôi.\nBởi vì trong lồng ngực mình luôn chất chứa thật nhiều, thật nhiều...\nnhững ký ức ấm áp. ...Là những ký ức cùng với cậu đó.
+…だけど。だからこそ…\n私は、本当の自分を探したい\n胸を張って、みんなの仲間だって…言えるように=...Thế nhưng. Chính vì vậy nên...\nMình muốn đi tìm lại con người thật sự của bản thân.\nĐể có thể ưỡn ngực tự hào mà nói rằng... mình là đồng đội của mọi người.
+自分の記憶が戻ったときのことを、考えると…\nなんだか怖くなるの。あなたとも、みんなとも、\nお別れすることになるんじゃないかって=Mỗi khi nghĩ đến lúc bản thân lấy lại được ký ức...\nMình lại cảm thấy hơi sợ hãi. Sợ rằng mình sẽ phải\nnói lời chia tay với cậu, và với tất cả mọi người.
+私、あなたを守れるぐらい強くなったわ\nだから…これからは、私のことも頼ってほしいの\n…守られるだけの存在からは、もう卒業よ=Giờ đây mình đã trở nên đủ mạnh mẽ để có thể bảo vệ cậu rồi.\nThế nên... từ nay về sau, mong cậu cũng hãy dựa dẫm vào mình nhé.\n...Mình đã tốt nghiệp khỏi cái danh chỉ biết đứng sau để được bảo vệ rồi.
+私の宝箱の中身は、きっとみんなとの思い出で\nいっぱいになってるわね…え？　二箱目を作ろうって…\nふふ。そうね、まだやりたいこと…たくさんあるものね=Chiếc rương báu của mình hẳn là đã chất đầy\nnhững kỷ niệm cùng mọi người rồi nhỉ... Hả? Cậu bảo làm thêm chiếc rương thứ hai ư...?\nFufu. Đúng vậy nhỉ, vì vẫn còn rất nhiều điều mình muốn làm mà.
+最近、記憶を取り戻す前の…\nみんなと暮らしていた、幸せな頃をよく思い出すの\nそれから、あなたと歩いた何気ない日々のことも…=Dạo gần đây, mình thường hay nhớ về quãng thời gian hạnh phúc trước khi lấy lại ký ức...\nkhi còn chung sống dưới một mái nhà cùng mọi người.\nVà cả những ngày tháng bình dị được sánh bước bên cạnh cậu nữa...
+あなたは私の『お兄ちゃん』だけど、\nそれだけじゃない。なんて言ったら、そ、その…\nふふ…こういう時に限って赤ちゃんにならないのね…！=Cậu đúng là "anh trai" của mình thật, nhưng...\nkhông chỉ dừng lại ở đó đâu. Phải diễn tả thế nào đây nhỉ, ư, ừm...\nFufu... Cứ nhằm đúng những lúc thế này thì lại chẳng chịu hóa thành trẻ con gì cả...!
+あなたは兄さんのように優しくて温かい人よ。でも…\nそばにいてくれるのがうれしいのに、ソワソワして…\nこの気持ちは兄さんに対する想いと少し違う気がしたの=Cậu là một người dịu dàng và ấm áp hệt như anh trai mình vậy. Thế nhưng...\ndù rất vui khi có cậu ở bên cạnh, lòng mình lại cứ bồn chồn không yên...\nMình chợt nhận ra cảm xúc này có chút gì đó khác với tình cảm mình dành cho anh ấy.
+楽しいとき、不安なとき\nいつもそばにはあなたがいた\nそれは、記憶を取り戻した今も…=Những lúc vui vẻ hay khi bất an,\nngười luôn ở bên cạnh mình vẫn là cậu.\nVà điều đó vẫn vẹn nguyên như thế, ngay cả khi mình đã lấy lại được ký ức...

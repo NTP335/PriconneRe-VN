@@ -2,7 +2,7 @@
 
 #UB##
 ビッグピッグヒップドロップ=Ngồi Lên Mông Lợn Lớn
-目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、追加の物理特大ダメージを与える。さらに、味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。物理攻撃力アップと物理クリティカルアップの効果量は味方の数に応じて変化する。=Gây sát thương thần kỳ lớn (tính là sát thương vật lý nếu P.DEF của mục tiêu < M.DEF) và sát thương vật lý lớn thêm lên một kẻ địch phía trước. Tăng mạnh Tấn Công Vật Lý và Tỷ Lệ Chí Mạng Vật Lý cho toàn đội. Hiệu ứng tỉ lệ với số đồng đội.
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与え、さらに追加で物理特大ダメージを与える。味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。味方の数に応じて、物理攻撃力と物理クリティカルのアップ量が変化する。=Gây sát thương ma pháp cực đại lên 1 kẻ địch trước mặt (được tính là sát thương vật lý nếu Phòng thủ vật lý của mục tiêu thấp hơn Phòng thủ ma pháp), đồng thời gây thêm sát thương vật lý cực đại. Tăng cực đại Sức tấn công vật lý và tăng lớn Tỷ lệ bạo kích vật lý cho toàn bộ đồng minh. Mức độ tăng Sức tấn công vật lý và Tỷ lệ bạo kích vật lý sẽ thay đổi tùy thuộc vào số lượng đồng minh.
 r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ敵単体に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを100アップ$"=►Gây $1 sát thương thần kỳ lên một kẻ địch (dùng giá trị DEF thấp hơn)\n►Gây $2 sát thương vật lý lên một kẻ địch\n►Tăng Tấn Công Vật Lý của toàn đội thêm $3\n►Tăng Tỷ Lệ Chí Mạng Vật Lý của toàn đội thêm 100
 
 ##S1##
@@ -13,7 +13,7 @@ r:"^敵単体に(\d+)の低い側の防御力で防御する魔法ダメージ�
 ##S2##
 おいしいひんやり=Đồ Ăn Vặt Mát Lạnh
 r:"^自分の魔法攻撃力を(\d+)アップ味方全体の物理クリダメを8％アップ味方全体のＨＰを(\d+)回復自分のＴＰを30回復自分以外の味方全体のＴＰを20回復$"=►Tăng Tấn Công Thần Kỳ của bản thân thêm $1\n►Tăng Sát Thương Chí Mạng Vật Lý của toàn đội thêm 8%\n►Hồi máu cho toàn đội $2\n►Hồi TP của bản thân 30\n►Hồi TP cho tất cả đồng đội khác 20
-自分の魔法攻撃力を特大アップし、味方全体の物理攻撃クリティカル時のダメージを小アップ、ＨＰを小回復させる。さらに自分のＴＰを小回復し、自分以外の味方全体のＴＰを小回復させる。魔法攻撃力アップ、物理攻撃クリティカル時のダメージアップの効果量とＴＰの回復量は味方の数に応じて変化する。=Tăng mạnh Tấn Công Thần Kỳ của bản thân, tăng nhẹ Sát Thương Chí Mạng Vật Lý cho toàn đội, và hồi phục một ít máu. Đồng thời hồi phục một ít TP của bản thân và tất cả đồng đội khác. Các hiệu ứng tỉ lệ với số đồng đội.
+自分の魔法攻撃力を特大アップし、味方全体の物理クリティカルダメージを小アップ、ＨＰを小回復させる。自分のＴＰを小回復し、自分以外の味方のＴＰを小回復させる。味方の数に応じて、魔法攻撃力と物理クリティカルダメージのアップ量とＴＰの回復量が変化する。=Tăng cực đại Sức tấn công ma pháp của bản thân, tăng nhỏ Sức sát thương bạo kích vật lý và hồi phục nhỏ HP cho toàn bộ đồng minh. Hồi phục nhỏ TP cho bản thân và hồi phục nhỏ TP cho tất cả đồng minh ngoại trừ bản thân. Mức độ tăng Sức tấn công ma pháp, Sức sát thương bạo kích vật lý cũng như lượng TP hồi phục sẽ thay đổi tùy thuộc vào số lượng đồng minh.
 
 #EX#
 はっぴーさまー+=Happy Summer+
@@ -24,3 +24,9 @@ r:"^自分の魔法攻撃力を(\d+)アップ味方全体の物理クリダメ�
 特殊効果=Hiệu ứng đặc biệt
 ダメージとＨＰ回復は物理攻撃力と魔法攻撃力を合わせるクリティカルは物理クリティカルと魔法クリティカルを合わせる=[Luôn Hoạt Động]\n ►Kết hợp Tấn Công Vật Lý và Tấn Công Thần Kỳ cho tính toán sát thương/hồi máu.\n►Kết hợp Tỷ Lệ Chí Mạng Vật Lý và Thần Kỳ cho tính toán chí mạng.
 【常時発動】自分のユニオンバーストおよびスキルのダメージとＨＰ回復は物理と魔法攻撃力を合わせ、クリティカルは物理と魔法クリティカルの値を合わせる。=[Luôn Hoạt Động] Kết hợp Tấn Công Vật Lý và Tấn Công Thần Kỳ cho sát thương UB/kỹ năng và hồi máu. Kết hợp Tỷ Lệ Chí Mạng Vật Lý và Thần Kỳ cho tính toán chí mạng.
+
+
+
+##Skill 1+ (S1+)##
+たねれんしゃ+=Seed Barrage+
+目の前の敵１キャラに対象の物理防御力が魔法防御力より低い場合、物理ダメージ扱いになる魔法特大ダメージを与える。味方全体の物理攻撃力を特大アップ、物理クリティカルダメージを小アップさせ、物理無効バリアを展開する。味方の数に応じて、効果量が変化する。=Gây sát thương ma pháp cực đại lên 1 kẻ địch trước mặt (được tính là sát thương vật lý nếu Phòng thủ vật lý của mục tiêu thấp hơn Phòng thủ ma pháp). Tăng cực đại Sức tấn công vật lý, tăng nhỏ Sức sát thương bạo kích vật lý cho toàn bộ đồng minh, đồng thời triển khai lá chắn vô hiệu hóa sát thương vật lý. Mức độ hiệu ứng sẽ thay đổi tùy thuộc vào số lượng đồng minh.

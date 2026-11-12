@@ -14,6 +14,7 @@ r:"^味方全体の物理・魔法攻撃力を(\d+)アップ味方全体の物�
 
 ##S1##
 ぷちゴーレムサモン=Triệu hồi Mini-Golem
+ぷちゴーレム=Puchi Golem
 【召喚】自分の前に、目の前の敵１キャラを攻撃するぷちゴーレムを召喚する。=[Triệu hồi] Triệu hồi một mini-golem trước mặt bản thân, tấn công kẻ địch đứng ngay phía trước.
 r:"^ぷちゴーレムを召喚する$"=►Triệu hồi Mini-Golem.
 

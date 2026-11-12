@@ -84,3 +84,20 @@ SPEEDボタン=Nút Tốc độ
 
 ★設定の保存についての確認=Hộp thoại xác nhận khi lưu cấp độ ★
 マイパーティやアリーナの防衛設定で編成を保存した時と今の★の数の設定が異なる場合、確認ダイアログ\nを表示するか設定します。=Đặt có hiển thị hộp thoại xác nhận khi cài đặt hiện tại về số lượng ★\nkhác với khi đội được lưu trong Đội của tôi hoặc cài đặt phòng thủ Đấu trường.
+
+
+
+レンタルパーティ=Đội hình mượn
+利用可能なレンタルパーティがありません。=Không có đội hình mượn nào khả dụng.
+UB予約を有効にする=Kích hoạt trước UB
+UB発動時に演出を再生するか設定します。=Cài đặt có phát hoạt cảnh khi kích hoạt Union Burst hay không.
+プレイヤーの強化状況がクエスト推奨に満たしていないときに、確認ダイアログを開きます。=Mở hộp thoại xác nhận khi mức độ cường hóa của người chơi không đạt mức khuyến nghị của nhiệm vụ.
+バトル開始時の強化状況確認ダイアログ=Hộp thoại xác nhận tình trạng cường hóa khi bắt đầu trận đấu
+味方の行動パターンを表示します。=Hiển thị chuỗi hành động của đồng minh.
+行動パターンの表示設定=Cài đặt hiển thị chuỗi hành động
+味方に付与されている特殊な状態のアイコンを表示します。=Hiển thị biểu tượng của các trạng thái đặc biệt được gán cho đồng minh.
+特殊な状態のアイコン表示設定=Cài đặt hiển thị biểu tượng trạng thái đặc biệt
+味方に付与されている不利な状態のアイコンを表示します。=Hiển thị biểu tượng của các trạng thái bất lợi được gán cho đồng minh.
+不利な状態のアイコン表示設定=Cài đặt hiển thị biểu tượng trạng thái bất lợi
+味方に付与されている有利な状態のアイコンを表示します。=Hiển thị biểu tượng của các trạng thái có lợi được gán cho đồng minh.
+有利な状態のアイコン表示設定=Cài đặt hiển thị biểu tượng trạng thái có lợi

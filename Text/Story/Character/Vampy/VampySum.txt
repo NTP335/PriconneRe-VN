@@ -1,0 +1,23 @@
+
+ヴァンピィちゃん、登場♪=Vampy-chan xuất hiện rồi đây♪
+けんぞくはどっちのもの？=Quyến thuộc là của ai thế nhỉ?
+ベスちゃん奪還作戦！=Chiến dịch giải cứu bé Beth!
+夜の学校と謎の少女=Ngôi trường ban đêm và cô gái bí ẩn
+故郷はどこに？=Quê hương của bạn ở đâu?
+はくしゃくとの決着！=Trận chiến quyết định với Bá tước!
+約束の花をあなたに=Đóa hoa hẹn ước gửi đến bạn
+吸血姫とベス人形=Công chúa ma cà rồng và búp bê Beth
+
+ゴロツキに絡まれていた{playername}を助けてくれたのは、謎の少女ヴァンピィだった。友だちのドラゴン『ベス』を探すヴァンピィのために{playername}は協力することに。={playername} đã được một cô bé bí ẩn tên là Vampy giải cứu khỏi nhóm côn đồ đang gây sự. Để giúp Vampy tìm kiếm chú rồng 'Beth' - người bạn của cô bé, {playername} quyết định đồng ý hợp tác hỗ trợ.
+ベスを探す{playername}とヴァンピィ。そんな二人の前に、吸血鬼のイリヤが現れる。かくして{playername}を巡り、イリヤとヴァンピィによる眷属の取り合いが始まるのだった。={playername} và Vampy cùng nhau đi tìm Beth. Ngay lúc đó, ma cà rồng Illya xuất hiện trước mặt hai người. Thế là cuộc tranh giành quyến thuộc xoay quanh {playername} giữa Illya và Vampy chính thức bùng nổ.
+元々、ヴァンピィとベスは何者かに誘拐されてランドソルへ来たことを知った{playername}。イリヤのコウモリのおかげでベスの居場所が判明し、ついにベスとヴァンピィは再会を果たした。={playername} hay tin Vampy và Beth vốn dĩ đã bị một kẻ nào đó bắt cóc rồi đưa đến Landosol. Nhờ có đàn dơi của Illya mà tung tích của Beth cuối cùng cũng được hé lộ, và Vampy cùng Beth đã có màn hội ngộ đầy cảm xúc.
+夜の学校に少女の霊が現れるという噂が囁かれていた頃。成り行きで{playername}はその少女と出会い、学校案内を頼まれる。そこで{playername}は、少女の本当の正体を知るのだった。=Vào khoảng thời gian rộ lên tin đồn về hồn ma thiếu nữ xuất hiện trong ngôi trường về đêm. Do cơ duyên đưa đẩy, {playername} tình cờ chạm mặt cô bé đó và được nhờ dẫn đi tham quan trường. Cũng chính tại nơi đó, {playername} đã phát hiện ra thân phận thật sự của cô bé.
+ヴァンピィとベスが再会した後、ヴァンピィは自分の故郷がどこにあるのか思い出せないことが分かる。そこで{playername}は、ヴァンピィを故郷へ帰すために手助けすることを決める。=Sau khi Vampy và Beth đoàn tụ, người ta nhận ra rằng Vampy hoàn toàn không thể nhớ nổi quê hương của mình nằm ở đâu. Do đó, {playername} quyết định ra tay tương trợ giúp đỡ để đưa Vampy trở về quê nhà.
+ヴァンピィたちを誘拐した黒幕が『伯爵』だと判明。単独で『伯爵』の屋敷へ乗り込んだヴァンピィを追って{playername}はベスと一緒に城へ乗り込み、『伯爵』との決着をつけるのだった。=Kẻ chủ mưu đứng sau vụ bắt cóc Vampy và những người khác hóa ra chính là 'Bá Tước'. Lần theo dấu vết của Vampy – kẻ đã một mình xông thẳng vào dinh thự của 'Bá Tước', {playername} cùng với Beth đột nhập vào lâu đài để giải quyết ân oán một lần và mãi mãi với 'Bá Tước'.
+『伯爵』の供述によって、ヴァンピィの故郷がすでにないことを知る。永い眠りの末、大切な記憶を失ったヴァンピィのために、{playername}とベスはひとつの約束をヴァンピィに伝えるのだった。=Lời khai của 'Bá Tước' hé lộ sự thật phũ phàng rằng quê hương của Vampy thực chất đã không còn tồn tại nữa. Vì Vampy – người đã đánh mất những ký ức trân quý sau giấc ngủ dài đằng đẵng, {playername} và Beth đã cùng nhau trao gửi một lời hứa đến cô bé.
+眠る{playername}の前に現れたヴァンピィは、ぬいぐるみのベスを紹介。『レジェンドオブアストルム』にもベスがいると知ったヴァンピィは、{playername}とゲームで会う約束をするのだった。=Xuất hiện trước mặt {playername} đang chìm vào giấc ngủ, Vampy mang chú búp bê nhồi bông Beth ra để giới thiệu. Khi biết được rằng trong 'Legend of Astrum' cũng có sự tồn tại của Beth, Vampy liền hẹn ước với {playername} sẽ gặp lại nhau trong thế giới game.
+
+
+最近忙しい{playername}に代わり仕事を引き受けるが、失敗続きのヴァンピィ。失敗を{playername}が肩代わりしていたと知った彼女は、反省して真面目に仕事に取り組み、信頼を得るのだった。=Vampy chủ động đứng ra gánh vác công việc thay cho {playername} dạo gần đây đang bận rộn đầu tắt mặt tối, nhưng cô bé liên tục gây ra những cú phá phách thất bại. Sau khi hay tin chính {playername} là người đã âm thầm đứng ra chịu trách nhiệm thay cho những lỗi lầm của mình, cô bé đã biết tự suy ngẫm, nghiêm túc làm việc chăm chỉ và cuối cùng cũng giành được sự tín nhiệm từ mọi người.
+夜の学校の屋上で、{playername}とのひと時を楽しむヴァンピィだが、そこに見回りの教師が迫る。大切な『いばしょ』を守るため、ヴァンピィは幽霊のふりをして教師を追い払うのだった。=Vampy đang tận hưởng khoảnh khắc yên bình bên {playername} trên sân thượng ngôi trường về đêm, thì bất ngờ giáo viên đi tuần tra xuất hiện áp sát. Để bảo vệ 'nơi chốn thuộc về' vô cùng trân quý, Vampy đã đóng giả làm ma để hù dọa và đuổi cổ giáo viên đi.
+ヴァンピィは自身を狙うヴァンパイアハンターと戦うも、全く歯が立たない。しかし倒れたヴァンピィをかばう{playername}たちを目にし、大切な人が笑顔でいられる居場所を守るため再び立ち上がる。=Vampy giao chiến với thợ săn ma cà rồng đang nhắm vào mình, nhưng hoàn toàn lép vế không chống đỡ nổi. Thế nhưng, khi chứng kiến {playername} và mọi người lao ra che chắn bảo vệ cho thân hình đã gục ngã của mình, cô bé lại một lần nữa đứng vững trở lại để bảo vệ nơi mà những người thân yêu có thể nở nụ cười.

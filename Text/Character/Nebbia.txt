@@ -9,12 +9,12 @@
 
 ##S1##
 スケルツォ=Scherzo
-最も物理攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての物理攻撃を回避する。さらに、ランダムな敵の傍に移動する。=Gây Gắn bó lên kẻ thù có P.ATK cao nhất, phục hồi nhẹ HP của bản thân, và nhận né tránh P.ATK trong một khoảng thời gian. Đồng thời di chuyển ngẫu nhiên đến một kẻ thù.
+最も物理攻撃力が高い敵を執着状態にし、自分のＨＰを小回復し、一定時間物理回避状態にする。ランダムな敵の傍に移動する。=Gây trạng thái 【Ám Ảnh】 lên kẻ địch có Sức tấn công vật lý cao nhất, hồi phục nhỏ HP của bản thân, đồng thời cấp trạng thái Né tránh vật lý cho bản thân trong một khoảng thời gian nhất định. Di chuyển đến vị trí bên cạnh một kẻ địch ngẫu nhiên.
 r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての物理攻撃を回避する$"=►Chuyển đến kẻ thù có P.ATK cao nhất. ►Gây Gắn bó lên kẻ thù trong 4s. ►Phục hồi HP của bản thân bằng $1. ►Chuyển đến kẻ thù ngẫu nhiên.
 
 ##S2##
 カプリッチョ=Capriccio
-最も魔法攻撃力が高い敵１キャラを執着状態にし、自分のＨＰを小回復し、一定時間全ての魔法攻撃を回避する。さらに、ランダムな敵の傍に移動する。=Gây Gắn bó lên kẻ thù có M.ATK cao nhất, phục hồi nhẹ HP của bản thân, và nhận né tránh M.ATK trong một khoảng thời gian. Đồng thời di chuyển ngẫu nhiên đến một kẻ thù.
+最も魔法攻撃力が高い敵を執着状態にし、自分のＨＰを小回復し、一定時間魔法回避状態にする。ランダムな敵の傍に移動する。=Gây trạng thái 【Ám Ảnh】 lên kẻ địch có Sức tấn công ma pháp cao nhất, hồi phục nhỏ HP của bản thân, đồng thời cấp trạng thái Né tránh ma pháp cho bản thân trong một khoảng thời gian nhất định. Di chuyển đến vị trí bên cạnh một kẻ địch ngẫu nhiên.
 r:"^敵単体を執着状態にする自分のＨＰを(\d+)回復一定時間全ての魔法攻撃を回避する$"=►Chuyển đến kẻ thù có M.ATK cao nhất. ►Gây Gắn bó lên kẻ thù trong 4s. ►Phục hồi HP của bản thân bằng $1. ►Chuyển đến kẻ thù ngẫu nhiên.
 
 ##SP1##

@@ -1,10 +1,18 @@
 Emilia 6 Star Stories
 
 Chapter Names
+放っておけない人たち=Những người mà tôi không thể bỏ mặc
 異世界の絆=Mối Liên Kết Từ Thế Giới Khác
 冒険、ときどき魔物料理=Những Cuộc Phiêu Lưu... và Ẩm Thực Quái Vật
 もっと仲良くなる方法=Một Cách Để Gần Gũi Hơn
 氷結の魔女=Phù Thủy Băng Giá
+
+missing summary
+
+迷子を助けているエミリアに遭遇した{playername}。街でたくさんの困っている人に出会った二人は、人助けに大忙し。充実した一日を終え、お礼の品を抱えて嬉しそうに帰るのだった。={playername} tình cờ bắt gặp Emilia đang giúp đỡ một đứa trẻ bị lạc. Cả hai đã gặp rất nhiều người đang gặp khó khăn trong thị trấn và bận rộn cả ngày để giúp đỡ mọi người. Sau một ngày đầy ý nghĩa, họ vui vẻ trở về nhà với đầy ắp những món quà cảm ơn trên tay.
+ペコリーヌの提案で、元の世界へ帰ってしまう前に【美食殿】と一緒に冒険をするエミリアたち。各地を見て回ったあと、合唱でおびき寄せた魔物を狩り、料理して初めての魔物料理を楽しむのだった。=Theo lời đề nghị của Pecorine, nhóm Emilia cùng các thành viên 【Điện Thực Thần】 lên đường phiêu lưu trước khi trở về thế giới cũ. Sau khi tham quan khắp nơi, cả nhóm dùng tiếng hát đồng ca để dụ quái vật xuất hiện rồi săn bắt chúng, sau đó chế biến và lần đầu tiên thưởng thức món ăn từ quái vật.
+発魔期のパックのせいで雪が降った夏のランドソルで雪遊びに興じる一同。エミリアがこの世界で結んだ絆の強さを確かめるため、{playername}が強化して、エミリアの未来にエールを送るのだった。=Cả nhóm cùng nhau vui đùa trong tuyết tại Landosol giữa mùa hè, nơi tuyết rơi do Pack bước vào kỳ phát ma. Để giúp Emilia khẳng định sức mạnh từ những mối liên kết cô đã gây dựng ở thế giới này, {playername} đã cường hóa sức mạnh và gửi lời cổ vũ tới tương lai của Emilia.
+
 
 Chapter 1
 依頼を受けに{playername}が掲示板前へと訪れたある日。\nエミリアが小さな女の子と一緒にいるのを見かけた。=Một ngày, khi {playername} đang đến bảng tin để nhận nhiệm vụ, anh thấy Emilia cùng một bé gái nhỏ.
