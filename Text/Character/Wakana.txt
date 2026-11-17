@@ -5,13 +5,16 @@
 大変だけど元気です。盗賊ギルドの次女=Cô ấy khỏe mạnh, nhưng đang làm tốt. Con gái thứ hai của guild Thieves.
 ##UB##
 お願い！スパイクブラザーズ=Please! Spike Brothers!
+スパイクブラザーズ=Spike Brothers
+
 【召喚】味方全体の物理攻撃力を特大アップさせ、目の前の敵１キャラに物理特大ダメージを与え、物理防御力を小ダウンさせる。自分が呼び出したスパイクブラザーズが味方にいる場合、さらにスパイクブラザーズのＨＰを大回復させ、そうでない場合スパイクブラザーズを１体呼び出す。=[Triệu hồi] Tăng cực lớn tấn công vật lý của toàn bộ đồng minh, gây sát thương vật lý cực lớn lên 1 kẻ địch ở phía trước và giảm nhẹ phòng thủ vật lý của mục tiêu. Nếu có [Spike Brothers] do bản thân triệu hồi ở phía đồng minh, đồng thời hồi phục lượng lớn HP cho Spike Brothers đó. Ngược lại, triệu hồi 1 [Spike Brothers].
 
 r:"^味方全体の物理攻撃力を(\d+)アップ敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウンスパイクブラザーズのＨＰを(\d+)回復スパイクブラザーズを呼び出す$"=►Tăng P.ATK cho toàn đồng đội $1 trong 18s.\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Giảm P.DEF của kẻ địch $3 trong 18s.\n►Nếu Spike Brothers đang ở trên sân, hồi HP của chúng $4; Nếu không, triệu hồi Spike Brothers.
 
 ##S1##
 カレー、いかがです？=Would You Like Some Curry?
-自分以外の味方全体の物理攻撃力と物理クリティカルを特大アップさせ、ＨＰとＴＰを中回復させる。さらに、自分の物理攻撃力を中アップ、物理クリティカルを大アップし、ＨＰとＴＰを小回復する。=Tăng mạnh P.ATK và Tỷ lệ Chí mạng vật lý cho toàn đồng đội khác, và hồi trung bình HP và TP của họ. Đồng thời tăng trung bình P.ATK của bản thân, tăng mạnh Tỷ lệ Chí mạng vật lý của bản thân, và hồi nhẹ HP và TP của bản thân.
+自分以外の味方の物理攻撃力と物理クリティカルを特大アップ、ＨＰとＴＰを中回復させる。自分の物理攻撃力を中アップ、物理クリティカルを大アップ、ＨＰとＴＰを小回復する。=Tăng cực mạnh tấn công vật lý và bạo kích vật lý của toàn bộ đồng minh (trừ bản thân), đồng thời hồi phục vừa HP và TP của họ. Tăng vừa tấn công vật lý, tăng mạnh bạo kích vật lý của bản thân, đồng thời hồi phục nhẹ HP và TP của bản thân.
+
 r:"^自分以外の味方全体の物理攻撃力を(\d+)アップ自分以外の味方全体の物理クリティカルを180アップ自分以外の味方全体のＨＰを(\d+)回復自分以外の味方全体のＴＰを150回復自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを90アップ自分のＨＰを(\d+)回復自分のＴＰを75回復$"=►Tăng P.ATK cho toàn đồng đội khác $1 trong 12s.\n►Tăng Tỷ lệ Chí mạng vật lý cho toàn đồng đội khác 180 trong 12s.\n►Hồi HP cho toàn đồng đội khác $2.\n►Hồi TP cho toàn đồng đội khác 150.\n►Tăng P.ATK của bản thân $3 trong 12s.\n►Tăng Tỷ lệ Chí mạng vật lý của bản thân 90 trong 12s.\n►Hồi HP của bản thân $3.\n►Hồi TP của bản thân 75.
 
 

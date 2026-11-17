@@ -116,4 +116,4 @@
 花の手裏剣で切り裂かれるも──特になんともないグレイス。\n議題のないシュヴァリエ会議は、賑やかに続くのであった。=Dù bị cắt bởi những ngôi sao shuriken hoa, Grace vẫn bất tổn.\nHội Nghị Kỵ Sĩ không chương trình nghị sự tiếp tục một cách vui vẻ.
 で、なにを決めるんですか？=Vậy chúng ta đang quyết định điều gì?
 そっか、そうだよね。議題なし。あはは。=Ra vậy, đúng rồi. Không có chương trình nghị sự. A ha ha.
-ジオ・ゲヘナでの戦いを終えたGiovanniたちが\n新たな世界に旅立つ、その少しだけ前のこと──=Ngay trước khi Giovanni và những người khác kết thúc trận chiến ở\nGeo-Gehena lên đường khám phá một thế giới mới──
+ジオ・ゲヘナでの戦いを終えた{playername}たちが\n新たな世界に旅立つ、その少しだけ前のこと──=Ngay trước khi {playername} và những người khác kết thúc trận chiến ở\nGeo-Gehena lên đường khám phá một thế giới mới──

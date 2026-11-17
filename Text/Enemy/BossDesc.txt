@@ -3019,7 +3019,12 @@ EXTREMEバトル時に一定確率で強敵が出現する。=Một kẻ địch
 このスキルで与えたダメージが高いほど：アップ量上昇=Sát thương gây ra bởi kỹ năng này càng cao: Lượng tăng cường càng tăng
 対象のＨＰが95％未満：スタン（飛行効果無視・必中）=HP của mục tiêu dưới 95%: Choáng (Bỏ qua hiệu ứng bay・Chắc chắn trúng)
 前から敵１体をノックバック（召喚体無視・必中）=Đẩy lùi (knockback) 1 kẻ địch từ phía trước (Bỏ qua vật triệu hồi・Chắc chắn trúng)
-
+敵全体の召喚体か分身を消滅=Tiêu diệt tất cả triệu hồi vật và phân thân của toàn bộ kẻ địch.
+対象が消滅：自身に全ダメージカット=Nếu mục tiêu bị tiêu diệt: cấp hiệu ứng giảm toàn bộ sát thương cho bản thân.
+自身の【黒星】の数が多いほど：バリア耐久量アップ=Số tầng [Black Star] của bản thân càng nhiều: độ bền của khiên càng tăng.
+自身の【黒星】の数が多いほど：アップ量上昇=Số tầng [Black Star] của bản thân càng nhiều: lượng tăng càng lớn.
+敵全体に被クリダメアップ（飛行効果無視・必中）=Tăng sát thương chí mạng phải chịu cho toàn bộ kẻ địch (bỏ qua hiệu ứng bay; đảm bảo trúng đích).
+全スキルダメージクリティカル確定=Toàn bộ sát thương kỹ năng chắc chắn chí mạng.
 
 自身に無敵\n【スキル１】 =Vô địch cho bản thân\n[Kỹ năng 1]\n
 自身に無敵【スキル１】=Vô địch cho bản thân\n[Kỹ năng 1]\n

@@ -5,6 +5,7 @@
 
 ##UB##
 ボコ召喚作戦です！=Chiến dịch triệu hồi Boko!
+ボコ=Boko
 【召喚】ボコられグマのボコが味方にいる場合、ボコのＨＰを中回復し、そうでない場合ボコを１体召喚する。自分を中心とした範囲内の味方すべての物理攻撃力を特大アップ、物理クリティカルを大アップさせ、ＨＰを中回復させる。さらに目の前の敵１キャラの物理防御力を小ダウンさせる。このスキルのＨＰ回復量は、このキャラの物理と魔法攻撃力に応じて増加する。=【Triệu hồi】Nếu gấu Boko đang có mặt trong phe ta, hồi vừa HP cho Boko; nếu không, triệu hồi 1 Boko. Tăng cực đại Tấn công Vật lý và tăng đại Tỉ lệ Chí mạng Vật lý, đồng thời hồi vừa HP cho toàn bộ đồng đội trong phạm vi xung quanh bản thân. Ngoài ra, giảm nhẹ Phòng thủ Vật lý của 1 kẻ địch trước mắt. Lượng hồi phục HP của kỹ năng này tăng dựa theo Tấn công Vật lý và Ma pháp của bản thân.
 
 r:"^ボコのＨＰを(\d+)回復ボコを召喚する範囲内の味方の物理攻撃力を(\d+)アップ範囲内の味方の物理クリティカルを100アップ範囲内の味方のＨＰを(\d+)回復敵単体の物理防御力を(\d+)ダウン$"=►Hồi $1 HP cho [Boko].\n►Triệu hồi [Boko] tại vị trí 420 phía trước bản thân.\n►Tăng $2 Tấn công Vật lý cho đồng đội trong phạm vi 300 trong 18 giây.\n►Tăng 100 Tỉ lệ Chí mạng Vật lý cho đồng đội trong phạm vi 300 trong 18 giây.\n►Hồi $3 HP cho đồng đội trong phạm vi 300.\n►Giảm $4 Phòng thủ Vật lý của 1 kẻ địch trong 18 giây.

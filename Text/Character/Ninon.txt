@@ -21,11 +21,13 @@ Profile
 
 ##UB##
 忍法・灼熱地獄=Ninpo: Địa ngục cháy bỏng
+前方範囲内の敵に物理中ダメージを与える。【火遁の印】付与中、【火遁の印】を１個消費し、自分のＴＰを特大回復する。=Gây sát thương vật lý vừa lên kẻ địch trong phạm vi phía trước. Nếu đang có [Ấn Hỏa Độn], tiêu hao 1 [Ấn Hỏa Độn] và hồi phục cực nhiều TP cho bản thân.
+r:"^範囲内の敵に(\d+)の物理ダメージ火遁の印が１個以上の場合、以下の効果が発動する火遁の印を１個消費する自分のＴＰを1000回復$"=►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n\nNếu [Ấn Hỏa Độn] từ 1 trở lên:\n►Tiêu hao 1 [Ấn Hỏa Độn].\n►Hồi phục 1000 TP cho bản thân.
 
 ##S1##
 旋風撃=Cuộc tấn công bão tố
-前方範囲内の敵すべてに物理小ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを中回復する。とどめを刺した敵の数に応じてＴＰの回復量が増加する。=Gây sát thương vật lý nhỏ cho tất cả kẻ địch trong phạm vi. Phục hồi TP của bản thân một lượng vừa phải nếu kẻ địch bị đánh bại bởi kỹ năng này.
-r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを150回復$"=Thời gian niệm: 1.85s\n►Gây $1 P.DMG cho kẻ địch trong phạm vi 750.\n►Phục hồi TP của bản thân 150 cho mỗi kẻ địch bị hạ.
+前方範囲内の敵に物理小ダメージを与える。敵を倒した場合、さらに自分のＴＰを中回復する。倒した敵の数に応じて、ＴＰの回復量が増加する。=Gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi phía trước. Nếu tiêu diệt được kẻ địch, đồng thời hồi phục vừa TP cho bản thân. Lượng TP hồi phục sẽ gia tăng tùy theo số lượng kẻ địch đã bị tiêu diệt.
+r:"^範囲内の敵に(\d+)の物理ダメージ敵を倒した場合、自分のＴＰを150回復$"=Thời gian thi triển: 1.85 giây.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi 750.\n\nNếu tiêu diệt được kẻ địch:\n►Hồi phục 150 TP cho bản thân.
 
 ##S2##
 火炎扇=Quạt bùng cháy

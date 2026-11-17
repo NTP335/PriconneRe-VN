@@ -2,34 +2,36 @@
 【物理】中衛で、大きな体で無邪気に遊び回る天才剣士。戦いの中で【剣圧】を溜め、その後のスキルやＵＢで物防一定無視のダメージを連発し、才気煥発の活躍を見せる。=[Vật lý] Một kiếm sư thiên tài vui vẻ chơi đùa trong một cơ thể nhỏ bé với sự ngây thơ như trẻ con. Trong chiến đấu cô ấy tích lũy [Áp lực Kiếm], cho phép cô liên tục gây sát thương bỏ qua phòng thủ vật lý, để thiên tài rạng rỡ của cô tỏa sáng.
 
 ## UB ##
-イスルギ流奥義・いろは歌【琥珀】=Bí thuật Isurugi: Bài ca Iroha [Hổ phách]
+イスルギ流奥義・いろは歌【琥珀】=Isurugi-Style Secret Art: Iroha Ballad [Amber]
 
 目の前の敵１キャラに物理防御力を一定値無視する物理特大ダメージを３回与える。【剣圧】が最大の時の初回のＵＢは、さらに追加で目の前の敵１キャラに物理防御力を一定値無視する物理特大ダメージを３回与える。=Gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước 3 lần, bỏ qua một lượng nhất định phòng thủ vật lý của mục tiêu. Nếu [Kiếm áp] ở mức tối đa, lần dùng UB đầu tiên sẽ bổ sung gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước thêm 3 lần nữa, bỏ qua một lượng nhất định phòng thủ vật lý của mục tiêu.
 r:"^敵単体に物理防御力を50無視する(\d+)の物理ダメージを３回与える剣圧が10の場合の初使用時、敵単体に物理防御力を50無視する(\d+)の物理ダメージを３回与える$"=►Gây $1 sát thương vật lý cho một kẻ địch đơn lẻ 3 lần, bỏ qua 50 phòng thủ vật lý.\n\n►Khi sử dụng lần đầu, nếu [Kiếm áp] đạt 10:\n►Gây $2 sát thương vật lý cho một kẻ địch đơn lẻ 3 lần, bỏ qua 50 phòng thủ vật lý.
 
 ## S1 ##
-イスルギ流剣術・青嵐=Bí thuật Isurugi: Bão Xanh
+イスルギ流剣術・青嵐=Isurugi-Style Sword Art: Azure Gale
 目の前の敵１キャラに物理大ダメージを３回与える。【剣圧】が最大の場合、さらに追加で目の前の敵１キャラに物理特大ダメージを与え、ダメージが敵の物理防御力を一定値無視するようになる。=Gây sát thương vật lý lớn lên 1 kẻ địch ở phía trước 3 lần. Nếu [Kiếm áp] ở mức tối đa, bổ sung gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước, đồng thời đòn sát thương sẽ bỏ qua một lượng nhất định phòng thủ vật lý của mục tiêu.
 r:"^剣圧が９以下の場合、敵単体に(\d+)の物理ダメージを３回与える剣圧が10の場合、以下の効果が発動する敵単体に物理防御力を50無視する(\d+)の物理ダメージを３回与える敵単体に物理防御力を50無視する(\d+)の物理ダメージ$"=Thời gian triển khai: 3.0s.\n►Nếu [Kiếm áp] từ 9 trở xuống:\n►Gây $1 sát thương vật lý cho một kẻ địch đơn lẻ 3 lần.\n\n►Nếu [Kiếm áp] đạt 10:\n►Gây $2 sát thương vật lý cho một kẻ địch đơn lẻ 3 lần, bỏ qua 50 phòng thủ vật lý.\n►Gây $3 sát thương vật lý cho một kẻ địch đơn lẻ, bỏ qua 50 phòng thủ vật lý.
 
 ## S2 ##
-イスルギ流・銀花の構え=Bí thuật Isurugi: Thế đứng Hoa Bạc
+イスルギ流・銀花の構え=Isurugi-Style Stance: Silver Blossom Stance
 自分に【剣圧】（上限10）を２個付与し、物理攻撃力を特大アップ、物理クリティカルダメージを小アップ、加算行動速度を大アップする。発動するたびに、【剣圧】の付与数と物理攻撃力と物理クリティカルダメージのアップ量が増加する。=Cấp cho bản thân 2 điểm [Kiếm áp] (tối đa 10), tăng cực đại tấn công vật lý của bản thân, tăng nhẹ sát thương chí mạng vật lý và tăng lớn tốc độ hành động cộng dồn. Mỗi lần kích hoạt, số lượng điểm [Kiếm áp] được cấp cùng với lượng tăng tấn công vật lý và sát thương chí mạng vật lý sẽ tăng lên.
 r:"^剣圧を２つ獲得自分の物理攻撃力を(\d+)アップ自分の物理クリダメを16％アップ自分の行動速度50％加算$"=Thời gian triển khai: 1.05s.\n►Nhận 2 [Kiếm áp].\n►Tăng tấn công vật lý của bản thân lên $1 trong 180 giây.\n►Tăng 16% sát thương chí mạng vật lý của bản thân trong 180 giây.\n►Tăng 50% tốc độ hành động của bản thân trong 180 giây.
 
 
 ##SP##
-イスルギ流・銀花の構え…？=Bí thuật Isurugi: Tư Thế Bạch Hoa…?
+イスルギ流・銀花の構え…？=Isurugi-Style Stance: Silver Blossom Stance…?
 
 バトル終了まで自分が敵から受ける行動不能を無効化する。自分に【剣圧】（上限10）を１個付与するが、物理クリティカルダメージを中ダウン、与える物理ダメージを大ダウンする。=Vô hiệu hóa hiệu ứng bất động do kẻ địch gây ra lên bản thân cho đến khi kết thúc trận đấu. Cấp cho bản thân 1 điểm [Kiếm áp] (tối đa 10), đồng thời làm giảm vừa sát thương chí mạng vật lý và làm giảm lớn sát thương vật lý gây ra của bản thân.
 r:"^剣圧を１つ獲得自分の与える物理ダメージを20％ダウン自分の物理クリダメを20％ダウン自分が敵から受ける行動不能を無効化する$"=►Nhận 1 [Kiếm áp].\n►Giảm 20% sát thương vật lý gây ra của bản thân trong 20 giây.\n►Giảm 20% sát thương chí mạng vật lý của bản thân trong 20 giây.\n►Vô hiệu hóa các hiệu ứng khống chế từ kẻ địch trong 180 giây.
 
 ##EX##
-剣のいろは=Nền Tảng Của Kiếm Thuật
-剣のいろは+=Nền Tảng Của Kiếm Thuật+
+剣のいろは=Iroha of the Blade
+剣のいろは+=Iroha of the Blade+
 
 
 
 ##S1+##
-イスルギ流剣術・青嵐+=Bí thuật Isurugi: Bão Xanh
+天下一振・八百楓=Peerless Swing: Eight Hundred Maples
+イスルギ流剣術・青嵐+=Isurugi-Style Sword Art: Azure Gale+
 目の前の敵１キャラに物理大ダメージを３回与える。【剣圧】が最大の場合、この物理ダメージが敵の物理防御力を一定値無視するようになり、さらに追加で目の前の敵１キャラに物理防御力を一定値無視する物理特大ダメージを与える。【剣圧】が最大の時の初回のこのスキルは、さらに追加で目の前の敵１キャラに最大ＨＰに応じて最大9999999の物理割合ダメージを与える。=Gây sát thương vật lý lớn lên 1 kẻ địch ở phía trước 3 lần. Nếu [Kiếm áp] ở mức tối đa, đòn sát thương vật lý này sẽ bỏ qua một lượng nhất định phòng thủ vật lý của mục tiêu, đồng thời bổ sung gây sát thương vật lý cực đại lên 1 kẻ địch ở phía trước, bỏ qua một lượng nhất định phòng thủ vật lý. Lần kích hoạt kỹ năng này đầu tiên khi [Kiếm áp] ở mức tối đa sẽ bổ sung gây sát thương chuẩn vật lý dựa trên HP tối đa của kẻ địch lên 1 kẻ địch ở phía trước, tối đa lên tới 9.999.999.
+r:"^剣圧が９以下の場合、敵単体に(\d+)の物理ダメージを３回与える剣圧が10の場合、以下の効果が発動する敵単体に物理防御力を50無視する(\d+)の物理ダメージを３回与える敵単体に物理防御力を50無視する(\d+)の物理ダメージ剣圧が10の場合の初使用時、敵単体に最大(\d+)の物理割合ダメージを与える$"=Thời gian thi triển: 3.0 giây.\nNếu Kiếm Áp từ 9 trở xuống:\n►Gây $1 sát thương vật lý lên một kẻ địch 3 lần.\n\nNếu Kiếm Áp đạt 10, các hiệu ứng sau sẽ được kích hoạt:\n►Gây $2 sát thương vật lý lên một kẻ địch 3 lần, bỏ qua 50 phòng thủ vật lý.\n►Gây $3 sát thương vật lý lên một kẻ địch, bỏ qua 50 phòng thủ vật lý.\n\nKhi sử dụng lần đầu tiên ở trạng thái Kiếm Áp đạt 10:\n►Gây sát thương vật lý theo phần trăm HP tối đa lên một kẻ địch, tối đa lên tới $4.

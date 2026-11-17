@@ -20,10 +20,13 @@
 
 ##UB##
 テンペストブレード=Tempest Blade
+目の前の敵１キャラに物理特大ダメージを与える。発動時既に【CHAIN】が付与されていた場合、【CHAIN】をすべて消費し、さらに追加で敵全体に物理中ダメージを与える。消費した【CHAIN】の数に応じて敵全体へのダメージ倍率がアップする。=Gây sát thương vật lý cực lớn lên 1 kẻ địch trước mặt. Nếu khi kích hoạt đã có sẵn [CHAIN], tiêu hao toàn bộ [CHAIN] và gây thêm sát thương vật lý vừa lên toàn bộ kẻ địch. Hệ số sát thương lên toàn bộ kẻ địch tăng lên tùy theo số lượng [CHAIN] đã tiêu hao.
+r:"^敵単体に(\d+)の物理ダメージCHAINが１つ以上の場合、以下の効果が発動する敵全体に(\d+)の物理ダメージCHAINを全て消費する$"=Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu [CHAIN] từ 1 trở lên:\n►Gây $2 sát thương vật lý lên toàn bộ kẻ địch.\n►Tiêu hao toàn bộ [CHAIN].
 
 ##S1##
 ワイドブレード=Wide Blade
-目の前の敵１キャラに物理中ダメージを与える。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước trực tiếp.
+目の前の敵１キャラに物理中ダメージを与える。初回発動時、味方がＵＢを発動するたびに自分に【CHAIN】（上限５）が１個付与される状態になる。=Gây sát thương vật lý vừa lên 1 kẻ địch trước mặt. Khi kích hoạt lần đầu tiên, bản thân bước vào trạng thái nhận thêm 1 [CHAIN] (tối đa 5) mỗi khi đồng minh kích hoạt UB.
+r:"^敵単体に(\d+)の物理ダメージ初使用時、味方がＵＢを使用するたびに自分にCHAINが１つ付与される状態にする$"=Gây $1 sát thương vật lý lên một kẻ địch.\n►Khi sử dụng lần đầu tiên, mỗi khi đồng minh sử dụng UB, cộng thêm 1 [CHAIN] cho bản thân.
 
 ##S2##
 ウェポンバースト=Weapon Burst

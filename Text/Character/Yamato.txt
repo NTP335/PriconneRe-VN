@@ -9,7 +9,7 @@ r:"^敵全体の物理防御力を(\d+)ダウン敵全体の被クリダメを5�
 
 ##S1##
 チェーンエッジ=Lưỡi Liên Hoàn
-前方範囲内の敵すべてに物理中ダメージを２回与え、物理防御力を小ダウンさせる。さらに、自分のＨＰを中回復する。=Gây hai đòn sát thương vật lý trung bình lên kẻ địch phía trước và hơi giảm phòng thủ vật lý của chúng. Đồng thời hồi một lượng HP trung bình cho bản thân.
+前方範囲内の敵に物理中ダメージを２回与え、物理防御力を小ダウンさせる。自分のＨＰを中回復する。=Gây sát thương vật lý vừa 2 lần lên kẻ địch trong phạm vi phía trước và giảm nhẹ phòng thủ vật lý của chúng. Hồi phục vừa HP cho bản thân.
 r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分のＨＰを(\d+)回復$"=►Gây $1 Sát Thương Vật Lý lên kẻ địch trong phạm vi 500.\n►Gây $2 Sát Thương Vật Lý lên kẻ địch trong phạm vi 500.\n►Giảm $3 Phòng Thủ Vật Lý của kẻ địch trong phạm vi 500 trong 12 giây.\n►Hồi $4 HP cho bản thân.
 
 ##S2##

@@ -13,7 +13,7 @@ r:"^範囲内の敵に(\d+)の魔法ダメージ自分のＨＰを(\d+)回復一
 
 ##S1##
 かばばん君警備員モード=Chế độ bảo vệ Kababan-kun
-目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、自分のＨＰを小回復させ、さらに物理/魔法吸収バリアを展開する。このスキルのダメージは【かばばん君】の数に応じて増加する。=Gây sát thương phép vừa phải cho kẻ địch trong phạm vi, hồi phục một chút HP và triển khai Barrier hấp thụ P/M.DMG. Sát thương phép tăng theo số chồng [Kababan-kun].
+目の前の敵１キャラを中心とした範囲内の敵に魔法中ダメージを与え、自分のＨＰを小回復し、物理/魔法吸収バリアを展開する。【かばばん君】の数に応じて、ダメージが増加する。=Gây sát thương phép vừa lên kẻ địch trong phạm vi xung quanh một kẻ địch trước mặt, hồi phục nhẹ HP cho bản thân và triển khai khiên hấp thụ sát thương vật lý/phép thuật. Sát thương gia tăng tùy theo số lượng [Kababan-kun].
 r:"^範囲内の敵に(\d+)の魔法ダメージ(\d+)ダメージ分の物理魔法吸収バリアを展開する自分のＨＰを(\d+)回復$"=►Gây $1 M.DMG cho kẻ địch trong phạm vi.\n►Triển khai Barrier hấp thụ $2 P/M.DMG trong 12s.\n►Hồi HP của bản thân $3.
 
 

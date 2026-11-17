@@ -6,7 +6,7 @@
 目の前の敵１キャラに物理大ダメージを与える。対象のＨＰ割合が低いほど、ダメージが増加する。=Gây sát thương vật lý lớn lên 1 kẻ địch phía trước. Tỷ lệ HP của mục tiêu càng thấp, sát thương càng tăng.
 
 ##S1##
-幽玄足刀=Đá Yugen
+幽玄足刀=Mystic Foot Blade
 目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップする。対象のＨＰ割合が低いほど、効果量が増加する。=Gây sát thương vật lý vừa lên 1 kẻ địch phía trước và tăng nhẹ Tấn công vật lý của bản thân. Tỷ lệ HP của mục tiêu càng thấp, lượng hiệu ứng càng tăng.
 
 ##S2##
@@ -17,10 +17,19 @@
 琉球犬式南瓜術=Phong Cách Ryukyu-Ken: Kỹ Thuật Bí Ngô
 琉球犬式南瓜術+=Phong Cách Ryukyu-Ken: Kỹ Thuật Bí Ngô+
 
-##S1+##
-幽玄足刀+=Đá Yugen+
-目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を小アップさせる。対象の最大ＨＰに対する残りＨＰの割合が少ない程、ダメージと攻撃力の上昇量がアップする。対象の残りＨＰが50％未満の場合、自分の物理攻撃がクリティカルした時のダメージを中アップする。=Gây sát thương vật lý lớn lên kẻ địch phía trước, và đồng thời tăng nhẹ P.ATK của bản thân. Tỷ lệ HP còn lại của kẻ địch càng thấp, sát thương và buff tăng P.ATK càng lớn. Nếu HP còn lại của kẻ địch < 50%, tăng vừa phải sát thương chí mạng P.CRIT DMG của bản thân.
-r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の物理攻撃クリティカル時のダメージを20％アップ$"=Thời gian thi triển: 0.34s.\n►Gây $1 sát thương vật lý lên đơn thể kẻ địch.\n►Tăng $2 Tấn công vật lý cho bản thân trong 12 giây.\n►Tăng 20% Sát thương Bạo kích vật lý cho bản thân trong 12 giây.
-
 ##UE##
 琉球犬式・南瓜道着=Phong Cách Ryukyu-Ken: Đồng Phục Bí Ngô
+##S1+##
+幽玄足刀+=Mystic Foot Blade+
+
+目の前の敵１キャラに物理大ダメージを与え、自分の物理攻撃力を小アップする。対象のＨＰ割合が低いほど、ダメージと物理攻撃力のアップ量が増加する。対象のＨＰが50％未満の場合、さらに自分の物理クリティカルダメージを中アップする。=Gây sát thương vật lý lớn lên một kẻ địch trước mặt và tăng nhẹ tấn công vật lý của bản thân. Tỷ lệ phần trăm HP của mục tiêu càng thấp, sát thương và lượng tăng tấn công vật lý càng gia tăng. Nếu HP của mục tiêu dưới 50%, đồng thời tăng vừa sát thương bạo kích vật lý của bản thân.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分の物理クリダメを20％アップ$"=Thời gian thi triển: 0.34 giây.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Tăng $2 tấn công vật lý của bản thân trong 12 giây.\n►Tăng 20% sát thương bạo kích vật lý của bản thân trong 12 giây.
+
+
+##UE2##
+琉球犬式・南瓜手甲=Ryukyu Dog-Style Pumpkin Gauntlets
+##S2+##
+サーターアンダギーさ～+=Sata Undergi~sa+
+
+自分の物理攻撃力を中アップ、物理クリティカルを大アップさせる。最もＨＰの割合が低い敵の、ＨＰ割合が低いほど、このスキルの効果量がアップする。初回発動時、最もＨＰの割合が低い敵の残りＨＰが50％未満の場合、自分に【さんさんアンダギー】を付与する。【さんさんアンダギー】付与中、自分が受けるダメージを３回無効化し、自分のＴＰを中回復する。さらに、自分のユニオンバーストとスキルは対象の敵のＨＰの割合に関わらず最大値の効果が発動し、ダメージを与えた場合、追加で最大ＨＰに応じて最大300万の物理割合ダメージを与えるようになる。=Tăng vừa tấn công vật lý và tăng mạnh bạo kích vật lý của bản thân. Tỷ lệ HP của kẻ địch có tỷ lệ HP thấp nhất càng thấp, lượng hiệu ứng của kỹ năng này càng gia tăng. Khi kích hoạt lần đầu tiên, nếu HP còn lại của kẻ địch có tỷ lệ HP thấp nhất dưới 50%, cấp [Sansan Andagi] cho bản thân. Trong thời gian có [Sansan Andagi], vô hiệu hóa sát thương bản thân phải chịu 3 lần và hồi phục vừa TP cho bản thân. Hơn nữa, Union Burst và các kỹ năng của bản thân sẽ kích hoạt hiệu ứng ở mức tối đa bất kể tỷ lệ HP của kẻ địch mục tiêu, và khi gây sát thương, sẽ đồng thời gây thêm sát thương vật lý theo phần trăm lên tới tối đa 3.000.000 dựa trên HP tối đa.
+r:"^自分の物理攻撃力を(\d+)アップ自分の物理クリティカルを80アップ初回発動時、最もＨＰ割合が低い敵のＨＰが50％未満の場合、自分にさんさんアンダギーを付与するさんさんアンダギーが付与されている場合、以下の効果が発動する自分が受けるダメージを３回無効化する自分のＴＰを150回復する$"=Thời gian thi triển: 0.34 giây.\n►Tăng $1 tấn công vật lý của bản thân trong 12 giây.\n►Tăng 80 bạo kích vật lý của bản thân trong 12 giây.\n\nKhi kích hoạt lần đầu tiên, nếu kẻ địch có tỷ lệ HP thấp nhất có HP dưới 50%:\n►Cấp [Sansan Andagi] cho bản thân.\n\nNếu có [Sansan Andagi]:\n►Vô hiệu hóa sát thương nhận phải 3 lần.\n►Hồi phục 150 TP cho bản thân.

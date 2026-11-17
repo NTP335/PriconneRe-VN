@@ -1,0 +1,8 @@
+真犯人を捕まえろ！=Hãy bắt lấy thủ phạm thực sự!
+二人だけの場所を求めて！=Đi tìm chốn riêng tư chỉ có đôi ta!
+ミソギのイタズラ大作戦！=Đại chiến trò quậy phá của Misogi!
+お宝よりも大切なもの！=Thứ quý giá hơn cả kho báu!
+宝の地図をもとに{playername}と共に宝探しに赴くミソギ。様々な場所を探し回るも、結局宝物は見つからなかった。しかし二人で楽しく冒険できたことを宝物のように思うミソギなのだった。=Misogi cùng với {playername} lên đường đi tìm kho báu dựa trên tấm bản đồ kho báu. Dù đã lùng sục khắp mọi nơi nhưng rốt cuộc họ vẫn chẳng tìm thấy kho báu nào cả. Thế nhưng, Misogi vẫn coi chuyến phiêu lưu vui vẻ mà cả hai cùng trải qua chính là món quà quý giá tựa như kho báu vậy.
+盗人の濡れ衣を着せられたミソギは真犯人を捕まえようとする。張り込みの末に真犯人を見つけ出すが、取り囲まれてしまう。だが{playername}の機転で危機を脱し、無事盗人を捕らえるのだった。=Bị đổ oan là kẻ trộm, Misogi quyết định truy bắt thủ phạm đích thực. Sau một hồi mai phục, cuối cùng cô bé cũng tìm ra hung thủ, nhưng lại bị vây kín bốn bề. May thay, nhờ có sự cơ trí của {playername}, họ đã thoát khỏi vòng vây nguy hiểm và tóm gọn tên trộm một cách an toàn.
+父親へ贈る宝の地図作りのため{playername}と街へ繰り出すみそぎ。みそぎにとっての危険地帯や思い出の場所を辿りながら、二人しか知らない宝の隠し場所を求め探検を続けるのだった。=Misogi cùng {playername} rảo bước ra phố để làm bản đồ kho báu dành tặng cho người cha của mình. Lần theo những khu vực nguy hiểm và chốn kỷ niệm đối với Misogi, cả hai tiếp tục chuyến thám hiểm để tìm kiếm nơi giấu kho báu bí mật chỉ có hai người mới biết.
+{playername}とミソギはイタズラの特訓中、魔物の大群に襲われる。イタズラのために仕掛けた罠を駆使し居合わせた人々を助けたミソギは、感謝の言葉を受けながら無邪気な笑みを浮かべるのであった。={playername} và Misogi bất ngờ bị một bầy ma vật tấn công trong lúc đang đặc huấn chơi khăm. Tận dụng triệt để những cái bẫy vốn được giăng ra để quậy phá nhằm giải cứu những người có mặt lúc đó, Misogi nở nụ cười ngây thơ rạng rỡ khi đón nhận những lời cảm ơn từ mọi người.

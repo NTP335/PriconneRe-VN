@@ -3,29 +3,37 @@
 
 ##UB##
 ハロウィンチャームバレット=Hầu Gái Dịu Dàng Halloween
-前方の敵の中で最も物理攻撃力が高い敵１キャラに物理大ダメージを与え、さらに誘惑状態にする。対象が誘惑状態の場合、与えるダメージがアップする。=Gây sát thương vật lý lớn lên kẻ địch đứng trước mặt có sát thương vật lý (P.ATK) cao nhất, và khiến chúng bị ảnh hưởng bởi hiệu ứng "Quyến Rũ" (Charm). Nếu kẻ địch đã bị quyến rũ, sẽ tăng sát thương vật lý gây ra.
-r:"^敵が誘惑状態の時、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体を誘惑する$"=Nếu kẻ địch bị Quyến Rũ/Bối Rối:\n►Gây $1 sát thương vật lý lên kẻ địch.\n\nNếu kẻ địch không bị Quyến Rũ/Bối Rối:\n►Gây $2 sát thương vật lý lên kẻ địch.\n►Gây hiệu ứng Quyến Rũ lên kẻ địch trong 5s.
+前方の最も物理攻撃力が高い敵に物理大ダメージを与え、誘惑状態にする。発動時既に対象が誘惑状態だった場合、ダメージが増加する。=Gây sát thương vật lý lớn lên kẻ địch có tấn công vật lý cao nhất ở phía trước và gây trạng thái mê hoặc. Nếu mục tiêu đã sẵn đang ở trạng thái mê hoặc tại thời điểm kích hoạt, sát thương sẽ gia tăng.
+r:"^敵単体が誘惑状態の場合、敵単体に(\d+)の物理ダメージ敵単体が誘惑状態でない場合、敵単体に(\d+)の物理ダメージ敵単体が誘惑状態でない場合、敵単体を誘惑する$"=Nếu mục tiêu đơn lẻ đang ở trạng thái Mê hoặc:\n►Gây $1 sát thương vật lý lên một kẻ địch.\n\nNếu mục tiêu đơn lẻ không ở trạng thái Mê hoặc:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n►Gây trạng thái Mê hoặc lên một kẻ địch trong 5 giây.
 
 ##S1##
 ラブリートリック=Mẹo Dễ Thương
-自分の物理攻撃力を中アップさせ、さらに前方の敵の中で最も物理攻撃力が高い敵１キャラに物理中ダメージを与える。対象が誘惑状態の場合、このスキルは必ずクリティカルする。=Tăng sát thương vật lý (P.ATK) của bản thân một chút, và gây sát thương vật lý vừa lên kẻ địch có sát thương vật lý (P.ATK) cao nhất. Nếu kẻ địch bị Quyến Rũ/Bối Rối, kỹ năng này luôn chí mạng.
+自分の物理攻撃力を中アップし、前方の最も物理攻撃力が高い敵に物理中ダメージを与える。対象の敵が誘惑状態の場合、必ずクリティカルする。=Tăng vừa tấn công vật lý của bản thân và gây sát thương vật lý vừa lên kẻ địch có tấn công vật lý cao nhất ở phía trước. Đòn đánh này chắc chắn chí mạng nếu mục tiêu đang ở trạng thái mê hoặc.
 
 ##S2##
 ナイトメアルージュ=Đêm Tử Trần Rouge
-前方の敵の中で最も物理攻撃力が高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。対象が誘惑状態の場合、ＴＰ上昇を中ダウンさせ、誘惑状態でない場合、束縛する。=Giảm một chút TP của kẻ địch có sát thương vật lý (P.ATK) cao nhất, và cũng hồi một chút TP cho bản thân. Nếu kẻ địch bị Quyến Rũ/Bối Rối, sẽ giảm mạnh Tăng TP của chúng; nếu không, sẽ gây hiệu ứng Trói (Bind).
-r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復敵が誘惑状態の時、敵単体のＴＰ上昇を30ダウン敵が誘惑状態でない時、敵単体を一定時間行動不能にする$"=Thời gian niệm: 0.97s\n►Giảm TP của kẻ địch đi $1.\n►Hồi TP của bản thân lên $2.\n►Nếu kẻ địch bị Quyến Rũ/Bối Rối, giảm Tăng TP của kẻ địch đi 30 trong 24s.\n►Nếu kẻ địch không bị Quyến Rũ/Bối Rối, gây hiệu ứng Trói lên kẻ địch trong 2.5s.
-## 260lvl
-前方の敵の中で最も物理攻撃力が高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復し、物理攻撃力を小アップさせる。対象が誘惑状態の場合、ＴＰ上昇を中ダウンさせ、誘惑状態でない場合、束縛する。=Giảm một chút TP của kẻ địch có sát thương vật lý (P.ATK) cao nhất, hồi một chút TP cho bản thân và tăng sát thương vật lý (P.ATK) của bản thân. Nếu kẻ địch bị Quyến Rũ/Bối Rối, sẽ giảm mạnh Tăng TP của chúng; nếu không, sẽ gây hiệu ứng Trói (Bind).
-r:"^敵単体のＴＰを(\d+)失わせる自分のＴＰを(\d+)回復自分の物理攻撃力を(\d+)アップ敵が誘惑状態の時、敵単体のＴＰ上昇を30ダウン敵が誘惑状態でない時、敵単体を一定時間行動不能にする$"=Thời gian niệm: 0.97s\n►Giảm TP của kẻ địch đi $1.\n►Hồi TP của bản thân lên $2.\n►Tăng sát thương vật lý (P.ATK) của bản thân lên $3 trong 12s.\n►Nếu kẻ địch bị Quyến Rũ/Bối Rối, giảm Tăng TP của kẻ địch đi 30 trong 24s.\n►Nếu kẻ địch không bị Quyến Rũ/Bối Rối, gây hiệu ứng Trói lên kẻ địch trong 2.5s.
+前方の最も物理攻撃力が高い敵のＴＰを小ダウンさせ、自分のＴＰを小回復、物理攻撃力を小アップする。対象の敵が誘惑状態の場合、さらにＴＰ上昇を中ダウンさせ、そうでない場合、束縛する。=Làm giảm nhẹ TP của kẻ địch có tấn công vật lý cao nhất ở phía trước, hồi phục nhẹ TP và tăng nhẹ tấn công vật lý của bản thân. Nếu mục tiêu đang ở trạng thái mê hoặc, đồng thời làm giảm vừa khả năng tăng TP của chúng ngược lại, trói buộc chúng.
+r:"^敵単体のＴＰを180失わせる自分のＴＰを180回復自分の物理攻撃力を(\d+)アップ敵単体が誘惑状態の場合、敵単体のＴＰ上昇を30ダウン敵単体が誘惑状態でない場合、敵単体を一定時間行動不能にする$"=Thời gian thi triển: 0.94 giây.\n►Trừ 180 TP của một kẻ địch.\n►Hồi phục 180 TP cho bản thân.\n►Tăng $1 tấn công vật lý của bản thân trong 18 giây.\n\nNếu kẻ địch đang ở trạng thái Mê hoặc:\n►Giảm 30 chỉ số Tăng TP của kẻ địch trong 24 giây.\n\nNếu kẻ địch không ở trạng thái Mê hoặc:\n►Gây trạng thái Trói buộc lên kẻ địch trong 2,5 giây.
 
 ##EX##
 ハロウィンセレクトコーデ=Mã Lựa Chọn Halloween
 ハロウィンセレクトコーデ+=Mã Lựa Chọn Halloween+
 
+##UE##
+霊弓トリックオアキス=Spirit Bow Trick or Kiss
+
 ##S1+##
 ラブリートリック+=Mẹo Dễ Thương+
-自分の物理攻撃力を大アップさせ、さらに前方の敵の中で最も物理攻撃力が高い敵１キャラに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは２倍ではなく３倍になる。対象が誘惑状態の場合、このスキルは必ずクリティカルし、与えるダメージがアップする。対象が誘惑状態でない場合、誘惑状態にし、物理防御力を中ダウンさせる。=Tăng mạnh sát thương vật lý (P.ATK) của bản thân và gây sát thương vật lý cực lớn lên kẻ địch đứng trước mặt có sát thương vật lý (P.ATK) cao nhất. Sát thương chí mạng vật lý (P.CRIT DMG) được nhân lên 3 lần. Nếu kẻ địch đang ở trạng thái Quyến Rũ/Bối Rối, kỹ năng này luôn chí mạng và sát thương gây ra tăng lên. Nếu không, sẽ gây hiệu ứng Quyến Rũ lên kẻ địch và giảm sát thương vật lý (P.DEF) của chúng một chút.
-r:"^自分の物理攻撃力を(\d+)アップ敵が誘惑状態の時、敵単体に(\d+)の物理ダメージ敵単体に(\d+)の物理ダメージ敵単体を誘惑する敵単体の物理防御力を(\d+)ダウン$"=►Tăng sát thương vật lý (P.ATK) của bản thân lên $1 trong 12s.\nNếu kẻ địch bị Quyến Rũ/Bối Rối:\n►Gây $2 sát thương vật lý lên kẻ địch.\nNếu kẻ địch không bị Quyến Rũ/Bối Rối:\n►Gây $3 sát thương vật lý lên kẻ địch.\n►Gây hiệu ứng Quyến Rũ lên kẻ địch trong 4s.\n►Giảm sát thương vật lý (P.DEF) của kẻ địch đi $4 trong 12s.
+自分の物理攻撃力を大アップし、前方の最も物理攻撃力が高い敵に物理大ダメージを与える。このスキルのクリティカルダメージは３倍になる。対象の敵が誘惑状態の場合、必ずクリティカルし、ダメージが増加する。そうでない場合、さらに誘惑状態にし、物理防御力を中ダウンさせる。=Tăng mạnh tấn công vật lý của bản thân và gây sát thương vật lý lớn lên kẻ địch có tấn công vật lý cao nhất ở phía trước. Sát thương chí mạng của kỹ năng này được nhân lên 3 lần. Nếu mục tiêu đang ở trạng thái mê hoặc, đòn đánh này chắc chắn chí mạng và sát thương gia tăng; ngược lại, gây thêm trạng thái mê hoặc và giảm vừa phòng thủ vật lý của chúng.
+r:"^自分の物理攻撃力を(\d+)アップ敵単体が誘惑状態の場合、敵単体に(\d+)の物理ダメージ敵単体が誘惑状態でない場合、敵単体に(\d+)の物理ダメージ敵単体が誘惑状態でない場合、敵単体を誘惑する敵単体が誘惑状態でない場合、敵単体の物理防御力を(\d+)ダウン$"=Thời gian thi triển: 0.74 giây.\n►Tăng $1 tấn công vật lý của bản thân trong 12 giây.\n\nNếu kẻ địch đang ở trạng thái Mê hoặc:\n►Gây $2 sát thương vật lý lên một kẻ địch.\n\nNếu kẻ địch không ở trạng thái Mê hoặc:\n►Gây $3 sát thương vật lý lên một kẻ địch.\n►Gây trạng thái Mê hoặc lên kẻ địch trong 5 giây.\n►Giảm $4 phòng thủ vật lý của kẻ địch trong 12 giây.
 
-##UE##
-霊弓トリックオアキス=Tính Khiêu Khích Cung Thần
+
+
+
+##UE2##
+霊装ハロウィンハート=Spirit Gear Halloween Heart
+
+##S2+##
+ナイトメアルージュ+=Nightmare Rouge+
+前方の敵の中で、誘惑状態の敵と最も物理攻撃力が高い敵のＴＰを中ダウンさせ、自分のＴＰを中回復、物理攻撃力を大アップする。前方の誘惑状態の敵の数に応じてＴＰの回復量が増加する。前方の敵の中で最も物理攻撃力が高い敵が誘惑状態の場合、さらにＴＰ上昇を中ダウンさせ、そうでない場合、誘惑状態にする。=Làm giảm vừa TP của các kẻ địch đang ở trạng thái mê hoặc và kẻ địch có tấn công vật lý cao nhất trong số các kẻ địch ở phía trước, đồng thời hồi phục vừa TP và tăng mạnh tấn công vật lý của bản thân. Lượng TP hồi phục gia tăng tùy theo số lượng kẻ địch đang ở trạng thái mê hoặc ở phía trước. Nếu kẻ địch có tấn công vật lý cao nhất trong số các kẻ địch ở phía trước đang ở trạng thái mê hoặc, đồng thời làm giảm vừa khả năng tăng TP của chúng ngược lại, gây trạng thái mê hoặc cho chúng.
+r:"^範囲内の誘惑状態の敵のＴＰを180失わせる敵単体のＴＰを180失わせる自分のＴＰを180回復自分の物理攻撃力を(\d+)アップ敵単体が誘惑状態の場合、敵単体のＴＰ上昇を30ダウン敵単体が誘惑状態でない場合、敵単体を誘惑する$"=Thời gian thi triển: 0.94 giây.\n►Trừ 180 TP của các kẻ địch đang ở trạng thái Mê hoặc trong phạm vi.\n►Trừ 180 TP của một kẻ địch.\n►Hồi phục 180 TP cho bản thân.\n►Tăng $1 tấn công vật lý của bản thân trong 12 giây.\n\nNếu kẻ địch đang ở trạng thái Mê hoặc:\n►Giảm 30 chỉ số Tăng TP của kẻ địch trong 24 giây.\n\nNếu kẻ địch không ở trạng thái Mê hoặc:\n►Gây trạng thái Mê hoặc lên kẻ địch trong 18 giây.

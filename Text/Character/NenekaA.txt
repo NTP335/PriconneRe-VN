@@ -3,6 +3,7 @@
 
 ##UB##
 ティル・ナ・ノーグ=Tír na nÓg
+グレゴール=Gregor
 目の前の敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、魔法防御力を小ダウン、クリティカルを受けた際のダメージを小アップさせる。ネネカ（アルファ）が召喚したグレゴールが味方にいる場合、グレゴールの魔法攻撃力に応じて与えるダメージがアップし、追加で敵全体の魔法防御力を小ダウンさせる。=Gây sát thương phép lớn lên kẻ địch xung quanh mục tiêu. Giảm nhẹ phòng thủ phép và tăng sát thương phản công nhận. Khi Gregor được triệu hồi, sát thương tỷ lệ với M.ATK của Gregor và thêm vào đó giảm phòng thủ phép của tất cả kẻ địch.
 r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御力を(\d+)ダウン範囲内の敵の被クリダメを7％アップグレゴールがいる場合、敵全体の魔法防御力を(\d+)ダウン$"=►Gây $1 sát thương phép lên kẻ địch trong phạm vi.\n►Giảm phòng thủ phép của kẻ địch trong phạm vi đi $2.\n►Tăng sát thương phản công mà kẻ địch trong phạm vi nhận lên 7%.\n\nNếu Gregor hiện diện:\n►Giảm phòng thủ phép của tất cả kẻ địch đi $3.
 

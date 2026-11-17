@@ -8,8 +8,8 @@
 
 ##UB##
 妖忍法・ヒャッキ有頂天の宴=Ayakashi Ninpo: Bữa tiệc cuồng nhiệt của Hyakki
-物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップさせ、物理クリティカルを大アップさせる。=Tăng mạnh P.ATK cho tất cả đồng minh kiểu P, và tăng rất mạnh tỷ lệ P.CRIT của họ.
-r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の物理クリティカルを(\d+)アップ$"=►Tăng P.ATK cho tất cả đồng minh kiểu P lên $1 trong 18s.\n►Tăng tỷ lệ P.CRIT cho tất cả đồng minh kiểu P lên $2 trong 18s.
+物理攻撃を行う味方の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。=Tăng cực mạnh tấn công vật lý và tăng mạnh bạo kích vật lý của đồng minh thực hiện đòn tấn công vật lý.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリティカルを100アップ$"=►Tăng $1 tấn công vật lý của đồng minh mục tiêu trong 18 giây.\n►Tăng 100 bạo kích vật lý của đồng minh mục tiêu trong 18 giây.
 
 ##S1##
 妖忍法・マボロシ影絵の術=Ayakashi Ninpo: Thuật phân thân ảo ảnh
@@ -18,18 +18,28 @@ r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の行動
 
 ##S2##
 妖忍法・カボチャ突撃の術=Ayakashi Ninpo: Thuật xung kích bí ngô
-物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせ、さらに前方範囲内の敵すべてに物理小ダメージを与える。=Tăng vừa phải P.ATK cho tất cả đồng minh kiểu P, và gây sát thương vật lý nhỏ cho kẻ địch trong phạm vi.
-r:"^対象の味方の物理攻撃力を(\d+)アップ\n範囲内の敵に(\d+)の物理ダメージ$"=Thời gian niệm: 0.465s\n►Tăng P.ATK cho tất cả đồng minh kiểu P lên $1 trong 12s.\n►Gây $2 P.DMG cho kẻ địch trong phạm vi 865.
+物理攻撃を行う味方の物理攻撃力を中アップさせ、前方範囲内の敵に物理小ダメージを与える。=Tăng vừa tấn công vật lý của đồng minh thực hiện đòn tấn công vật lý và gây sát thương vật lý nhỏ lên kẻ địch trong phạm vi phía trước.
+r:"^対象の味方の物理攻撃力を(\d+)アップ範囲内の敵に(\d+)の物理ダメージ$"=Thời gian thi triển: 0.465 giây.\n►Tăng $1 tấn công vật lý của đồng minh mục tiêu trong 12 giây.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 865.
 
 ##EX##
 妖忍法・夢心地カボチャ音頭=Ayakashi Ninpo: Điệu nhảy bí ngô mộng mơ
 妖忍法・夢心地カボチャ音頭+=Ayakashi Ninpo: Điệu nhảy bí ngô mộng mơ+
 
-##S1+##
-妖忍法・マボロシ影絵の術+=Ayakashi Ninpo: Thuật phân thân ảo ảnh+
-物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、行動速度を大アップさせ、物理クリティカルを中アップさせる。=Tăng rất mạnh P.ATK, tốc độ hành động và tỷ lệ P.CRIT cho tất cả đồng minh kiểu P.
-r:"^対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の行動速度アップ\n対象の味方の物理クリティカルを(\d+)アップ$"=Thời gian niệm: 0.465s\n►Tăng P.ATK cho tất cả đồng minh kiểu P lên $1 trong 12s.\n►Tăng tốc độ hành động cho tất cả đồng minh kiểu P lên 155% trong 12s.\n►Tăng tỷ lệ P.CRIT cho tất cả đồng minh kiểu P lên $2 trong 12s.
-
 
 ##UE##
-南瓜頭響太郎=Kyotaro đầu bí ngô
+南瓜頭響太郎=Pumpkin Head Kyotaro
+
+
+##S1+##
+妖忍法・マボロシ影絵の術+=Ayakashi Ninpo: Thuật phân thân ảo ảnh+
+物理攻撃を行う味方の物理攻撃力を特大アップ、行動速度を大アップ、物理クリティカルを中アップさせる。=Tăng cực mạnh tấn công vật lý, tăng mạnh tốc độ hành động và tăng vừa bạo kích vật lý của đồng minh thực hiện đòn tấn công vật lý.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の行動速度55％アップ対象の味方の物理クリティカルを50アップ$"=Thời gian thi triển: 0.465 giây.\n►Tăng $1 tấn công vật lý của đồng minh mục tiêu trong 12 giây.\n►Tăng 55% tốc độ hành động của đồng minh mục tiêu trong 12 giây.\n►Tăng 50 bạo kích vật lý của đồng minh mục tiêu trong 12 giây.
+
+
+##UE2##
+南瓜百鬼装=Pumpkin Hyakki Gear
+
+##S2+##
+妖忍法・カボチャ突撃の術+=Ayakashi Ninpo: Pumpkin Charge Art+
+物理攻撃を行う味方の物理攻撃力を特大アップ、物理クリティカルダメージを小アップさせ、前方範囲内の敵に物理大ダメージを与える。物理攻撃を行う味方のＴＰを中回復する。初回発動時、さらに物理攻撃を行う味方が敵から受ける行動不能を１回まで無効化する。=Tăng cực mạnh tấn công vật lý và tăng nhẹ sát thương bạo kích vật lý của đồng minh thực hiện đòn tấn công vật lý, đồng thời gây sát thương vật lý lớn lên kẻ địch trong phạm vi phía trước. Hồi phục vừa TP cho đồng minh thực hiện đòn tấn công vật lý. Khi kích hoạt lần đầu tiên, đồng thời vô hiệu hóa tối đa 1 lần trạng thái bất động do kẻ địch gây ra cho đồng minh thực hiện đòn tấn công vật lý.
+r:"^対象の味方の物理攻撃力を(\d+)アップ対象の味方の物理クリダメを12％アップ範囲内の敵に(\d+)の物理ダメージ対象の味方のＴＰを125回復初回発動時、対象の味方の受ける行動不能を１回まで無効化する$"=Thời gian thi triển: 0.465 giây.\n►Tăng $1 tấn công vật lý của đồng minh mục tiêu trong 12 giây.\n►Tăng 12% sát thương bạo kích vật lý của đồng minh mục tiêu trong 12 giây.\n►Gây $2 sát thương vật lý lên kẻ địch trong phạm vi 865.\n►Hồi phục 125 TP cho đồng minh mục tiêu.\n\nKhi kích hoạt lần đầu tiên, vô hiệu hóa tối đa 1 lần trạng thái không thể hành động mà đồng minh mục tiêu phải nhận.

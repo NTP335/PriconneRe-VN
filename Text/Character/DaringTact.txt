@@ -1,0 +1,26 @@
+##Profile##
+【物理】中衛でファンタジーの大自然を満喫するウマ娘。物理・魔法を問わず自身の糧とし、温存した【スタミナ】をふりしぼる差し脚は、巨大な熊といえど震え上がる。=[Vật Lý] Cô nàng mã nương tuyến giữa đang tận hưởng trọn vẹn thiên nhiên hùng vĩ của thế giới giả tưởng. Biến cả sát thương vật lý lẫn phép thuật thành nguồn dinh dưỡng cho bản thân, cú bứt tốc nước rút dồn nén toàn bộ [Thể Lực] tích trữ của cô uy lực đến mức ngay cả một con gấu khổng lồ cũng phải run rẩy khiếp sợ.
+
+##UB##
+イノセント・チェイサー=Innocent Chaser
+前方の敵に物理大ダメージを２回与え、物理防御力を小ダウン、受けるクリティカルダメージを小アップさせる。前方の最も物理防御力が低い敵に物理特大ダメージを与える。バトルの残り時間が30秒未満の場合、さらに行動パターンが変化する。=Gây sát thương vật lý lớn lên kẻ địch phía trước 2 lần, giảm nhẹ phòng thủ vật lý của chúng, và tăng nhẹ sát thương chí mạng chúng phải chịu. Gây sát thương vật lý cực lớn lên kẻ địch phía trước có phòng thủ vật lý thấp nhất. Nếu thời gian trận đấu còn lại dưới 30 giây, sẽ thay đổi thêm kiểu hành động.
+r:"^範囲内の敵に(\d+)の物理ダメージを２回与える範囲内の敵の物理防御力を(\d+)ダウン範囲内の敵の被クリダメを3％アップ敵単体に(\d+)の物理ダメージ$"=►Gây $1 sát thương vật lý 2 lần lên kẻ địch trong phạm vi.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi trong 18 giây.\n►Tăng 3% sát thương chí mạng phải chịu cho kẻ địch trong phạm vi trong 18 giây.\n►Gây $3 sát thương vật lý lên một kẻ địch.
+
+##S1##
+狙うは大物！=Aiming for the Big Catch!
+前方の敵に物理大ダメージを与え、物理防御力を小ダウンさせる。自分の物理攻撃力を中アップ、ＴＰを小回復する。自分の【スタミナ】を最大９消費し、消費した【スタミナ】の量に応じて物理攻撃力のアップ量とＴＰの回復量が増加する。=Gây sát thương vật lý lớn lên kẻ địch phía trước và giảm nhẹ phòng thủ vật lý của chúng. Tăng vừa tấn công vật lý và hồi phục nhẹ TP của bản thân. Tiêu hao tối đa 9 [Thể Lực] của bản thân, lượng tăng tấn công vật lý và lượng hồi phục TP sẽ gia tăng tùy theo lượng [Thể Lực] đã tiêu hao.
+r:"^範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ自分のＴＰを30回復自分のスタミナを最大９消費する$"=Thời gian thi triển: 1.05 giây.\n►Gây $1 sát thương vật lý lên kẻ địch trong phạm vi.\n►Giảm $2 phòng thủ vật lý của kẻ địch trong phạm vi trong 12 giây.\n►Tăng $3 tấn công vật lý của bản thân trong 12 giây.\n►Hồi phục 30 TP cho bản thân.\n►Tiêu hao tối đa 9 Thể Lực.
+
+##S2##
+清流の恵み=Blessing of the Clear Stream
+自分が次の状態の場合、効果が発動する。【物理攻撃力アップ状態】自分の物理攻撃力を大アップし、【スタミナ】（上限99）を３回復する。【魔法攻撃力アップ状態】自分の物理攻撃力を大アップし、【スタミナ】を３回復する。【物理・魔法攻撃力アップ状態】自分の【スタミナ】を９回復し、味方全体のＨＰを小回復させる。初回発動時、さらに自分の【スタミナ】を99回復し、物理・魔法防御力を中アップ、加算行動速度を大アップする。=Kích hoạt hiệu ứng nếu bản thân đang ở các trạng thái sau. [Trạng thái Tăng Tấn Công Vật Lý]: Tăng mạnh tấn công vật lý của bản thân và hồi phục 3 [Thể Lực] (tối đa 99). [Trạng thái Tăng Tấn Công Phép Thuật]: Tăng mạnh tấn công vật lý của bản thân và hồi phục 3 [Thể Lực]. [Trạng thái Tăng Tấn Công Vật Lý/Phép Thuật]: Hồi phục 9 [Thể Lực] của bản thân và hồi phục nhẹ HP cho toàn bộ đồng minh. Khi kích hoạt lần đầu tiên, hồi phục thêm 99 [Thể Lực] của bản thân, tăng vừa phòng thủ vật lý và phép thuật, đồng thời tăng mạnh tốc độ hành động cộng thêm.
+r:"^自分が物理攻撃力アップ状態の場合、以下の効果が発動する自分の物理攻撃力を(\d+)アップ自分のスタミナを３回復する自分が魔法攻撃力アップ状態の場合、以下の効果が発動する自分の物理攻撃力を(\d+)アップ自分のスタミナを３回復する自分が物理・魔法攻撃力アップ状態の場合、以下の効果が発動する自分のスタミナを９回復する味方全体のＨＰを(\d+)回復初回発動時、以下の効果が発動する自分のスタミナを99回復する自分の物理・魔法防御力を(\d+)アップ自分の行動速度100％加算$"=Thời gian thi triển: 1.05 giây.\nNếu bản thân có Tăng Tấn Công Vật Lý:\n►Tăng $1 tấn công vật lý của bản thân trong 180 giây.\n►Hồi phục 3 Thể Lực.\n\nNếu bản thân có Tăng Tấn Công Phép Thuật:\n►Tăng $2 tấn công vật lý của bản thân trong 180 giây.\n►Hồi phục 3 Thể Lực.\n\nNếu bản thân có Tăng Tấn Công Vật Lý và Phép Thuật:\n►Hồi phục 9 Thể Lực.\n►Hồi phục $3 HP cho toàn bộ đồng minh.\n\nKhi kích hoạt lần đầu tiên:\n►Hồi phục 99 Thể Lực.\n►Tăng $4 phòng thủ vật lý và phòng thủ phép thuật của bản thân trong 180 giây.\n►Tăng 100% Tốc Độ Hành Động của bản thân trong 180 giây.
+
+##EX##
+故郷を胸に=Hometown in My Heart
+故郷を胸に+=Hometown in My Heart+
+
+##UE##
+
+##S1+##
+狙うは大物！+=Aiming for the Big Catch!+

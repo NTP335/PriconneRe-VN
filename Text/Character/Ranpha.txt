@@ -14,6 +14,7 @@ r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵の魔法防御�
 
 ##S1##
 ミスティックハーモニー=Hòa Âm Thần Bí
+ネフライトワイバーン=Nephrite Wyvern
 【召喚】味方全体の魔法攻撃力を大アップさせる。ネフライトワイバーンが味方にいない場合、召喚する。=[Triệu Hồi] Tăng lớn Tấn công phép của toàn bộ đồng minh. Triệu Hụt Tinh Long (Nephrite Wyvern) nếu nó chưa có mặt trong đội hình đồng minh.
 r:"^味方全体の魔法攻撃力を(\d+)アップネフライトワイバーンを召喚する$"=Thời gian niệm: 0.733s\n►Tăng M.ATK cho tất cả đồng minh đi $1 trong 180s.\n►Triệu hồi Rồng Nephrite ở vị trí 125 phía trước bản thân.
 

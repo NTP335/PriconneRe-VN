@@ -8,15 +8,15 @@
 
 ##UB##
 ブルートゥスアヴァロン=Avalon Brutus
-目の前の敵１キャラを中心とした範囲内の敵すべてに物理大ダメージを与える。この攻撃は必ず命中し、１ヒットは必ずクリティカルする。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Đòn tấn công này luôn đánh trúng, và một đòn trong đó luôn là đòn chí mạng.
+目の前の敵１キャラを中心とした範囲内の敵に物理大ダメージを与える。この攻撃は必ず命中し、１ヒットは必ずクリティカルする。=Gây sát thương vật lý lớn lên kẻ địch trong phạm vi xung quanh 1 kẻ địch trước mặt. Đòn đánh này luôn trúng đích, và 1 đòn chắc chắn sẽ chí mạng.
 
 ##S1##
 ラピッドラビット=Thỏ Nhanh
-目の前の敵１キャラに物理中ダメージを与え大きく吹き飛ばす。さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。この攻撃は必ずクリティカルする。=Gây sát thương vật lý vừa phải lên kẻ địch phía trước, đẩy chúng đi. Gây sát thương vật lý lớn lên kẻ địch trong phạm vi. Đòn tấn công này luôn chí mạng.
+目の前の敵１キャラに物理中ダメージを与え、大きく吹き飛ばす。自分を中心とした範囲内の敵に物理大ダメージを与える。この攻撃は必ずクリティカルする。=Gây sát thương vật lý vừa lên 1 kẻ địch trước mặt và hất văng chúng ra xa. Gây sát thương vật lý lớn lên kẻ địch trong phạm vi xung quanh bản thân. Đòn đánh này luôn chí mạng.
 
 ##S2##
 エレベーション=Đi Lên
-自分を一定時間全ての物理攻撃を回避する状態にする。さらに物理攻撃力を大アップさせる。=Dodge toàn bộ tấn công thuộc hệ Vật lý trong một khoảng thời gian cố định. Đồng thời tăng mạnh Tấn công Vật lý (P.ATK) của bản thân.
+自分を一定時間物理回避状態にし、物理攻撃力を大アップする。=Đưa bản thân vào trạng thái né tránh vật lý trong một khoảng thời gian nhất định và tăng mạnh tấn công vật lý.
 r:"^自分の物理攻撃力を(\d+)アップ一定時間全ての物理攻撃を回避する$"=Thời gian niệm: 0.46s\n►Tăng P.ATK của bản thân lên $1 trong 180s.\n►Dodge toàn bộ tấn công thuộc hệ Vật lý trong 6s.
 
 ##EX##

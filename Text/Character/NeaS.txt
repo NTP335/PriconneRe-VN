@@ -9,6 +9,8 @@ r:"^敵単体に(\d+)の物理ダメージ敵単体にネバネバを２つ付�
 
 ##S1##
 ホットヒップドロップ=Hot hip drop
+目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。味方全体の物理攻撃力を特大アップ、物理クリティカルを大アップさせる。対象の【ネバネバ】が４個以上の場合、さらに味方全体のＴＰを小回復させる。=Gây sát thương vật lý vừa lên một kẻ địch trước mặt và giảm nhẹ phòng thủ vật lý của chúng. Tăng cực mạnh tấn công vật lý và tăng mạnh bạo kích vật lý của toàn bộ đồng minh. Nếu mục tiêu có từ 4 tầng [Sticky] trở lên, đồng thời hồi phục nhẹ TP cho toàn bộ đồng minh.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン味方全体の物理攻撃力を(\d+)アップ味方全体の物理クリティカルを80アップネバネバが４つ以上の場合、味方全体のＴＰを30回復$"=Thời gian thi triển: 1.05 giây.\n►Gây $1 sát thương vật lý lên một kẻ địch.\n►Giảm $2 phòng thủ vật lý của một kẻ địch trong 12 giây.\n►Tăng $3 tấn công vật lý của toàn bộ đồng minh trong 12 giây.\n►Tăng 80 bạo kích vật lý của toàn bộ đồng minh trong 12 giây.\n\nNếu [Sticky] có từ 4 tầng trở lên:\n►Hồi phục 30 TP cho toàn bộ đồng minh.
 
 ##S2##
 ハグハグスライム=Hug-Hug Slime

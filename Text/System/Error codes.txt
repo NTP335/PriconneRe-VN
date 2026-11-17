@@ -42,3 +42,7 @@ r:"^\[3C404E\]\[FFBB00\,CE4F00\]([0-9/ :]+)～ 翌([0-9/ :]+)\[-\]に\nメンテ
 対戦相手との通信がタイムアウトしました。\nリトライしてください。=Truyền thông với đối thủ đã hết thời gian.\nVui lòng thử lại.
 
 [FF7C4E,D62146]タイムアウトが続く場合は\nアプリの再起動をお試しください[-]=[FFF7C4E,D62146]Nếu tình trạng timeout tiếp diễn, vui lòng thử khởi động lại ứng dụng.[-]
+
+
+ただいま深域クエストはメンテナンス中です。\nメンテナンスは11月16日　12時頃終了予定です。\n詳細はお知らせをご確認ください。=Deep Realms Quest hiện đang trong thời gian bảo trì.\nThời gian bảo trì dự kiến sẽ kết thúc vào khoảng 12:00 ngày 16 tháng 11.\nVui lòng kiểm tra mục Thông báo để biết thêm chi tiết.
+初回クリアまで消費なし=Miễn phí tiêu hao cho đến khi hoàn thành lần đầu

@@ -101,3 +101,15 @@ UB発動時に演出を再生するか設定します。=Cài đặt có phát h
 不利な状態のアイコン表示設定=Cài đặt hiển thị biểu tượng trạng thái bất lợi
 味方に付与されている有利な状態のアイコンを表示します。=Hiển thị biểu tượng của các trạng thái có lợi được gán cho đồng minh.
 有利な状態のアイコン表示設定=Cài đặt hiển thị biểu tượng trạng thái có lợi
+
+レンタルパーティ一覧=Danh sách đội hình cho thuê
+風属性・物理=Gió / Vật lý
+水属性・魔法=Nước / Phép thuật
+水属性・物理=Nước / Vật lý
+火属性・魔法=Lửa / Phép thuật
+火属性・物理=Lửa / Vật lý
+風属性・魔法=Gió / Phép thuật
+光属性・物理=Ánh sáng / Vật lý
+光属性・魔法=Ánh sáng / Phép thuật
+闇属性・物理=Bóng tối / Vật lý
+闇属性・魔法=Bóng tối / Phép thuật
