@@ -338,8 +338,6 @@
 {playername}、\nコッコロ、シェフィ、ユイにミツキを加えた５人は、\nオーエドへと向かう馬車に揺られていた。=Năm người họ—{playername}, Kokkoro, Sheffy, và Yui cùng với Mitsuki—đang đung đưa trong xe ngựa hướng về Oedo
 はいどうぞ、騎士クン。\nお弁当にと思って、サンドイッチ作ってきたの。=Đây, Kishi-kun. Em nghĩ mình sẽ làm cơm trưa cho anh, nên đã làm cho anh một chiếc bánh mì kẹp.
 まるでお店の品のような、きれいなサンドイッチですね。\nサンドイッチは見た目まで上手に作ろうとすると、\n大変難しいのですが……=Đó là một chiếc bánh mì kẹp đẹp mắt như từ nhà hàng. Rất khó để làm một chiếc bánh mì kẹp đẹp, nhưng..
-車=Xe
-馬=Ngựa
 えへへ……ありがとう。\nコッコロちゃんもどうぞ。\nタマゴサンド、自信作なんだ♪=He he... Cảm ơn cậu. Thử món bánh mì trứng của em đi, Kokkoro. Em rất tự hào về nó♪
 では、遠慮なく……はむ。=Vậy thì, em không khách khó nữa... Hamph.
 ……！\n味は、見た目以上にすばらしいです。\nユイさまは、お菓子だけでなく料理もお上手ですね。=...! Hương vị còn tuyệt vời hơn cả vẻ bên ngoài. Ngài là một đầu bếp giỏi, và cũng là một nhà làm bánh ngọt tài ba, Lady Yui.

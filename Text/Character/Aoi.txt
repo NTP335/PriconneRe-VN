@@ -3,14 +3,6 @@
 
 【物理】最後衛から状態異常の矢を放つ、ぼっちの射手。ダメージと共に付与する毒や麻痺の追加効果により、防御力の高い敵であっても、確実にＨＰを削りとる。=[Vật lý] Một tay cung đơn độc bắn những mũi tên độc từ hậu phương. Độc và tê liệt mà cô gây ra có thể rút cạn máu của kể cả chiến binh vững chắc nhất.
 
-結成！ＢＢ団=Chúng Là Đội BB!
-つかみはOK！？=Ấn Tượng Đầu Tiên
-友達づくりは命がけ=Trong Tình Bạn và Chiến Tranh, Mọi Thứ Có Thể Chấp Nhận
-真のぼっち対決！？=Người Cô Đơn Đấu với Người Cô Đơn!
-テーマソング完成！=Đến Giờ Nhạc Chủ Đề Rồi!
-あなたがそばにいてほしい=Cần Cậu Ở Bên Cạnh
-星降る夜の奇跡=Phép Màu Dưới Bầu Trời Sao
-私の、一番の友達=Bạn Thân Tốt Nhất Của Tôi
 
 「友達」に憧れる、エルフの森の女の子=Một cô gái từ khu rừng elf khao khát có bạn bè.
 

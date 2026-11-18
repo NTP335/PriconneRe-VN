@@ -457,7 +457,6 @@ sr:"^(.+)Ｒ$"=$1Ｒ
 エンシェントサンドワンド=Đũa Thần Cổ Đại
 クイックサンドシャムシール=Con Dấu Xiêm Mật Sa Mạc
 ダークデザートエッジ=Lưỡi Hái Sa Mạc Hắc Ám
-オブセッション=Sự Cuồng Si
 デザートレインケーン=Gậy Trượng Mưa Sa Mạc
 ヘリテージジャマダハル=Di Sản Jamadahar
 オアシスガードブレード=Lưỡi Hái Bảo Vệ Oasis

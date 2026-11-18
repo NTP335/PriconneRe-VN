@@ -4,18 +4,6 @@
 
 【魔法】後衛から、強力な全体攻撃を放つ、強気な猫娘。スキルで敵の物理、魔法両方の防御力を下げるため編成を選ばずにバトルを有利に進められる。=[Ma thuật] Một cô gái mèo ngạo mạn, phóng ra những đòn tấn công mạnh mẽ từ hậu phương, đánh trúng mọi đối thủ. Kỹ năng của cô giảm cả phòng thủ vật lý và ma thuật, khiến cô trở thành lựa chọn dễ dàng để chiến thắng trong bất kỳ đội hình nào.
 
-いつかお気楽な冒険を=Một Ngày Nào Đó... Cuộc Phiêu Lưu Bình Thường.
-救いの手とハンバーガー=Bàn Tay Giúp Đỡ và Burger
-儚い夢と宝くじ=Giấc Mơ Phai Phôi và Vé Số
-意思を操る魔石=Viên Đá Ma Thuật Điều Khiển Ý Chí
-幸せの方程式=Hướng Tới Hạnh Phúc Của Chính Mình
-初デートは刺激的？=Cuộc Hẹn Hò Đầy Hào Hứng Lần Đầu
-魔物たちの女王様=Nữ Hoàng Quái Vật
-隠されし少女の力=Bí Mật Của Cô Ấy
-野良猫少女との出会い=Sự Tiếp Xúc Đầu Tiên Với Con Mèo Hoang
-与えられた身分=Một Nơi Để Thuộc Về
-鳴き声に誘われて=Tiếng Khóc Thầm Lặng Của Một Con Mèo
-監視の目を光らせて=Dưới Ánh Mắt Giám Sát Của Cô Ấy
 
 ##UB##
 グリムバースト=Vụ Nổ Bóng Tối

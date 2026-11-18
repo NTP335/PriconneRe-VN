@@ -1,5 +1,4 @@
 In Real World Name
-ユースティアナ・フォン・アストライア=Eustiana von Astraea
 アストライア=Astraea
 ユースティアナ=Eustiana
 
@@ -155,7 +154,6 @@ In Real World Name
 鈴=Rin
 
 柏崎栞=Kashiwazaki
-柏崎=Kashiwazaki
 栞=Shiori
 
 藤堂秋乃=Tōdõ Akino
@@ -308,7 +306,6 @@ In Real World Name
 大吾=Daigo
 マサキ=Masaki
 
-禰羅=Nera
 
 
 若菜=Wakana
@@ -335,7 +332,6 @@ Story Nick Name
 ラフィ=Rafi
 エミィ=Emi
 女性１=Nữ 1
-女性１=Nữ 1
 二人=Cả hai
 ぷうきち=Pukichi
 老旅人=Lữ khách già
@@ -343,7 +339,6 @@ Story Nick Name
 商人=Thương nhân
 女の子=Cô gái
 カガミ=Kagami
-ひより=Hiyori
 バックログ=Back log
 魔法少女たち=Cô gái phép thuật
 イオ・ノワール=Io Noir
@@ -376,7 +371,6 @@ Story Nick Name
 サレンの心の声=Tiếng lòng Saren
 イオたち=Io và những người khác
 リリたち=Riri và những người khác
-４人=Bốn người
 麓の村の村人１=Dân làng núi 1
 麓の村の村人２=Dân làng núi 2
 麓の村の村長=Trưởng làng núi
@@ -389,9 +383,7 @@ TYPE-P・シャドウP=Shadow P Loại P
 万能人形たち=Omniforks
 手紙=Ghi chú
 魚屋=Uoya
-八百屋=Chủ cửa hàng
 母親=Mẹ
-少女=Con gái
 店員１=Phục vụ 1
 店員２=Phục vụ 2
 客１=Khách hàng 1
@@ -406,11 +398,9 @@ TYPE-P・シャドウP=Shadow P Loại P
 車=Xe kart
 子豚=Heo con
 レディ・アラクネ=Lady Arachne
-三姉妹=Ba chị em
 アラクネの巣=Tổ Arachne
 ふぁんふぁんファーム=Trang trại Vui Vẻ
 巨人族の青年=Thanh niên khổng lồ
-コボルトの老婆=Người phụ nữ kobold già
 コッコロの声=Giọng nói của Kokkoro
 幼いアネモネ=Anemone trẻ
 ケンタウロスの妖魔人=Thú nhân nhân mã
@@ -452,9 +442,6 @@ TYPE-P・シャドウP=Shadow P Loại P
 観客たち=Khán giả
 観客の男=Khán giả nam
 戦士１・戦士２=Chiến binh 1 & 2
-ロランド=Roland
-グルーヌイ=Grenouille
-主催者=Người dẫn chương
 ゾンビたち=Xác sống
 レム・漁師１=Rem & Người đánh cá 1
 漁師１・漁師２=Người đánh cá 1 & 2
@@ -490,16 +477,8 @@ TYPE-P・シャドウP=Shadow P Loại P
 サイード=Saeed
 白紋章の貴族=Quý tộc Dấu ấn Trắng
 来場者たち=Khách mời
-コボルトの男性=Kobold đàn ông
-妖魔人の男性１=Đàn ông Quỷ núi 1
-妖魔人の男性２=Đàn ông Quỷ núi 2
-妖魔人の男性３=Đàn ông Quỷ núi 3
 妖魔人の男性たち=Đàn ông Quỷ núi
-ジオ・テオゴニアの民たち=Người dân của Gio Teogonia
-ジオ・ゲヘナの民たち=Người dân của Gio Gehenna
-ジオ・ニヴルヘルの民たち=Người dân của Gio Nivlhel
 
-王室の広報担当者=Người phát ngôn hoàng gia
 おかみさん=Bà nội trợ
 看守=Tù nhân
 フローエ=Floe
@@ -510,10 +489,8 @@ TYPE-P・シャドウP=Shadow P Loại P
 刑務作業者１=Nhân viên nhà tù 1
 刑務作業者２=Nhân viên nhà tù 2
 イオ・フローエ=Io & Floe
-真実を告げる鏡=Chiếc gương nói thật
 ライラエル・イオ・フローエ=Lyrael & Io & Floe
 おしおきマシーン２号=Máy trừng phạt số 2
-愛を破壊された生徒たち=Học sinh có tình yêu bị hủy diệt
 ランドソルの要人１=Landosol VIP 1
 ランドソルの要人２=Landosol VIP 2
 会場=Địa điểm
@@ -526,10 +503,6 @@ TYPE-P・シャドウP=Shadow P Loại P
 ゾンビの男性３=Zombie đàn ông 3
 ゾンビの男性たち=Zombie Mans
 執政官たち=Các quản gia
-ハニハニちゃん=Honey-honey-chan
-来場者たち=Khách mời
-コボルトの男性=Kobold đàn ông
-ドレイドラゴン=Dragon Slave
 
 リマ？=Lima?
 イロハ？=Iroha?
@@ -593,7 +566,6 @@ TYPE-P・シャドウP=Shadow P Loại P
 クローチェ・リンド=Croce và Lind
 リンド・クローチェ=Lind và Croce
 リリ・リンド=Riri và Lind
-ペコリーヌ・コッコロ=Pecorine và Kokkoro
 クリア・リリ=Quria và Riri
 ペコリーヌ・キャル=Pecorine và Kyaru
 コッコロ・リリ=Kokkoro và Riri
@@ -679,7 +651,6 @@ TYPE-P・シャドウP=Shadow P Loại P
 アイラ・ヒヨリ=Aira & Hiyori
 レイ・シナツ=Rei & Shinatsu
 アイラ・シナツ=Aira & Shinatsu
-ヒヨリ・アイラ=Hiyori & Aira
 ユイ・ヒヨリ=Yui & Hiyori
 ヒヨリ・アイラ=Hiyori & Aira
 エリコ・マコト=Eriko & Makoto

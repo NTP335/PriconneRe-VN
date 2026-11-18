@@ -1,5 +1,3 @@
-リンド=Lind
-ヴルム=Vrum
 バック・イン・メイド服=Quay lại Trang Phục Hầu Gái
 街中に現れた魔物と戦うカヤとイノリ。難なく魔物を捕まえるが、リンドとヴルムの態度は冷ややかだった。視線の先には戦闘の余波で破壊された城壁が。弁償のため、再びメイドとしてのお仕事が待っている。=Kaya và Inori chiến đấu với các con quái vật xuất hiện giữa thành phố. Họ dễ dàng bắt chúng, nhưng thái độ của Lind và Vrumu thì lạnh lùng. Ánh mắt của họ dán chặt vào bức tường lâu đài bị phá hủy trong hậu quả trận chiến. Công việc của họ với tư cách là hầu gái đang chờ đợi họ một lần nữa, dưới dạng đổi chác.
 カヤとイノリはキャッスル・オブ・パルフェの城前広場で\n5.5周年の魔物と対峙していた。=Kaya và Inori đang đối đầu với các quái vật kỷ niệm 5.5 trên quảng trường trước Lâu Đài Parfait

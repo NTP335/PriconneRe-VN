@@ -382,4 +382,3 @@ Player Prompts
 知り合いにお医者さんがいるんだけど。=Anh có quen biết một vị bác sĩ này hay lắm.
 あっちに帰ったら紹介するよ。=Khi nào quay trở về thế giới bên kia anh sẽ giới thiệu cô ấy cho em nha.
 大切な人です。=Cô ấy là một người vô cùng quan trọng đối với em.
-（ヴァードラッヘ）=(Wahrdrachen)

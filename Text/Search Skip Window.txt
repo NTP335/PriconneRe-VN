@@ -17,6 +17,9 @@
 レア度=Độ hiếm
 アイテム種類=Loại vật phẩm
 チケット=Vé
+貫通=Xuyên thấu
+
+
 １クエストの使用チケット枚数=Vé dùng trên mỗi nhiệm vụ
 全クエスト=Tất cả nhiệm vụ
 サイドスト…=Ngoại truyện

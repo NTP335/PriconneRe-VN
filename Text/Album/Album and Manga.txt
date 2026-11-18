@@ -190,7 +190,6 @@ Rei
 守る力=Sức mạnh để bảo vệ
 
 Luna
-おともだちになってくれる？=Cậu có muốn làm bạn không?
 
 Rin
 早寝=Đi ngủ sớm

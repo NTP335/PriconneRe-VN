@@ -9,14 +9,6 @@
 二つの選択=Hai Lựa Chọn
 故郷ははるか遠く=Xa Nhà
 
-大事なものは木の上に=Một Điều Đáng Sợ Khi Mất
-眠れぬ夜の子守唄=Bài Hát Ru Trời Trời
-危険地帯のピクニック=Picnic Núi Lửa
-初めての焼肉屋さん=Bạn Đồng Hành Nướng Thịt
-ここが私の第二の故郷=Một Ngôi Nhà Xa Nhà
-ゴーヤーが結んだ絆=Lễ Vật Hòa Bình
-懐かしの故郷の味=Hương Vị Quê Nhà
-南国少女との出会い=Một Cô Gái Nhiệt Đới Thực Thụ
 
 ##UB##
 琉球犬ナックルアロー=Ryukyu-Ken Đại Pháo Nắm Đấm

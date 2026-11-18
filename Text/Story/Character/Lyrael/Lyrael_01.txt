@@ -1,6 +1,3 @@
-リンド=Lind
-ヴルム=Wurm
-ヴォルガーノ=Volgano
 旅とはどんなものかしら？=Một Chuyến Đi Như Thế Nào?
 天使の姫、ランドソルへ=Công Chúa Thiên Thần Đến Landosol
 夜の天使=Thiên Thần Đêm

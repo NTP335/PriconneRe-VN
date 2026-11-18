@@ -80,9 +80,6 @@ r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位�
 [FF7C4E,D62146]相手または自分が50位以内のためスキップ不可です。[-]=[FF7C4E,D62146]Chỉ thách thức hạng dưới 50 mới có thể bỏ qua.
 [3C404E]クールタイム中です。\n解除しますか？[-]=[3C404E]Đang trong thời gian hồi chiến.\nBạn có muốn đặt lại thời gian hồi chiến?[-]
 [FF7C4E,D62146]メッセージは必須ではありません。[-]=[FF7C4E,D62146]Tin nhắn không bắt buộc.[-]
-※80文字以下=※80 ký tự trở xuống
-バトルログをクランチャットに投稿しますか？=Bạn có muốn đăng bản ghi trận đấu lên chat Clan không?
-投稿する=Bài đăng
 バトルログ投稿確認=Xác nhận đăng nhật ký trận đấu
 
 [3C404E]現在対戦中です。\nしばらくお待ちください。[-]=[3C404E]Đang trong trận đấu.\nVui lòng chờ một chút.[-]
@@ -117,4 +114,3 @@ sr:"^対戦相手のランキングが(\d+位)に変更されました。\n勝�
 最大15キャラ対15キャラのバトルです。\nバトルを勝ち抜いて、ランキングの頂点を目指しましょう。\n上位ランクインするほど、Pアリーナコインが多く手に入ります。=Trận Đấu Công chúa được chiến đấu giữa các đội lên đến 15 nhân vật mỗi đội. Hãy tiếp tục thắng trận để leo lên đỉnh bảng xếp hạng. Ở cấp độ cao hơn
 
 プリンセスアリーナでは選択できません。=Không thể chọn trong Princess Arena.
-バトルアリーナでは選択できません。=Không thể chọn trong Battle Arena.

@@ -1,11 +1,3 @@
-フォーエバーフレンズ=Bạn bè mãi mãi
-悲しい夜にさよならを=Tạm biệt Halloween bất hạnh
-囚われし者たちの館=Ngôi nhà của những linh hồn bị giam cầm
-見知らぬ少女と謎の声=Một cô gái bí ẩn và một giọng nói rợn người
-絆が開く扉=Cánh cửa mở ra từ sự gắn bó
-その声は異空をこえて=Những tiếng nói từ khoảng không
-ミッシングチルドレン=Trẻ em mất tích
-危険な好奇心=Sự tò mò nguy hiểm
 ハロウィンのパーティー用にお菓子を集めて回る【リトルリリカル】は、ミソギの提案で街外れの幽霊屋敷にお菓子をもらいに行く。無人と思われた屋敷だが、ドアが勝手に開き３人は好奇心で中に入ってしまう。=Để chuẩn bị cho bữa tiệc Halloween, 【Little Lyrical】 đi khắp nơi thu thập kẹo. Theo gợi ý của Misogi, họ đến một ngôi nhà ma ám ở ngoại ô thị trấn để lấy một ít kẹo. Mặc dù ngôi nhà dường như bỏ hoang, cánh cửa tự mở ra và cả ba người bước vào do tò mò.
 ハロウィンムード華やぐある日のこと──=Một tối Halloween sôi động ở Landosol...
 トリックオアトリート～\nお菓子をくれなきゃ、イタズラしちゃうよ～=Trick or treat!\nCho tôi một ít kẹo, nếu không tôi sẽ chơi một trò!
@@ -71,7 +63,6 @@
 ちょっとミソギ！=Đợi đã, Misogi!
 ふえ～、二人とも置いてかないでよ～=Uwehh... Đừng bỏ tôi lại, mấy người...!
 ちょっとした好奇心から、幽霊屋敷へと足を踏み入れた３人。\nそこに恐怖が待ち受けることなど、まだ知る由もなかった……=Thúc đẩy bởi sự tò mò, các cô gái bước chân vào biệt thự ma. Họ chưa hề biết những điều gì kinh khủng đang chờ đợi họ bên trong...
-お菓子を\n食べよう=Đi lấy đồ ngọt thôi
 屋敷の中では謎の子どもの声が聞こえ、３人はパニックに陥る。さらに魔物が現れるとミミを連れ去り、キョウカも屋敷に閉じ込められてしまう。一人外に出たミソギは{playername}に助けを求めに行く。=Bên trong biệt thự, họ nghe thấy giọng nói bí ẩn của một đứa trẻ, khiến cả ba hoảng loạn. Và rồi, một con quái vật xuất hiện và bắt Mimi đi, trong khi Kyouka bị mắc kẹt trong biệt thự. Misogi, người đi ra ngoài một mình, đi tìm sự giúp đỡ từ {playername}.
 ミソギの提案で幽霊屋敷を訪れた【リトルリリカル】の３人は、\n軽い探検のつもりで屋敷の中へと足を踏み入れていた。=Theo đề xuất của Misogi, những thành viên dũng cảm của Little Lyrical đã đi xin kẹo tại một biệt thự được đồn là có ma. Sự tò mò chiếm thế thượng phong, họ liều lĩnh bước qua cánh cửa đã mở...
 すみませーん！　誰かいますかー！=Xin lỗi? Có ai ở nhà không?
@@ -128,7 +119,6 @@
 そうだ……にいちゃんなら……にいちゃんなら助けてくれるかも！=Tôi biết... Anh trai...!\nAnh ấy chắc chắn sẽ làm được gì đó!
 ……待っててね二人とも……すぐに助けるから！=Cố lên nhé, hai người... Tôi sẽ quay lại sớm thôi!
 幽霊屋敷に閉じ込められたキョウカと消えたミミを助けるため、\nミソギは{playername}の元へと向かうのだった。=Misogi quyết định đi cứu Kyouka, người bị mắc kẹt trong ngôi nhà ma, và Mimi, người đã biến mất, với {playername}.
-謎の女の子=Cô gái bí ẩn
 {playername}を連れ屋敷に戻るミソギだが、中に入ることはできない。一方、屋敷内を探索していたキョウカは墓場のような場所でミソギの声を聞く。キョウカはその声をつなぎ止めるように呼び掛ける。={playername} và tôi quay lại biệt thự nhưng không thể vào được. Trong lúc đó, Kyouka - người đang khám phá bên trong - nghe thấy giọng Misogi từ một nơi giống như nghĩa trang. Kyouka gọi lại giọng nói đó, cố gắng nắm bắt nó.
 ハロウィンの当日、{playername}はサレンに頼まれ、\nハロウィンパーティーの準備をしていた。\nそんな中、{playername}を呼ぶ声が響き渡る。=Vào Halloween năm nay, {playername} được nhờ giúp Saren chuẩn bị một bữa tiệc lớn cho trẻ em. Trong khi cậu đang bận rộn, cậu nghe thấy một giọng nói gọi mình.
 にいちゃーん！　にいちゃーーーーん！=Anh trai! Anh traiiii!
@@ -168,7 +158,6 @@
 ……違う、この声！=Không, giọng nói này là...!
 そこにいるの！？　ミソギ！=Cậu ở đó sao?! Misogi!
 キョウカは、ミソギの声をつなぎ止めるように呼びかけるのだった。=Sợ rằng tiếng nói có thể biến mất bất cứ lúc nào, Kyouka lên tiếng như để bám víu vào âm thanh của giọng Misogi.
-にあってる？=Nó vừa vặn chứ?
 幽霊屋敷の中と外からの同時攻撃によって扉を開けたミソギは、無事キョウカと再会する。幽霊が立てる音に誘われて屋敷の内部に進んで行くと、ある部屋の中にミミと見知らぬ少女の姿を見つける。=Misogi, người đã mở cửa bằng một đòn tấn công đồng thời từ bên trong và bên ngoài biệt điện ma ám, đã đoàn tụ an toàn với Kyouka. Khi bị lôi kéo bởi âm thanh của ma, anh tiến vào bên trong biệt điện và tìm thấy Mimi cùng một cô gái lạ trong một căn phòng.
 ミミとキョウカを救うため、\nミソギと共に墓地へとやってきた{playername}。\nそんな中、どこからかキョウカの声が聞こえてくる。=Misogi quay lại biệt điện với {playername} đi theo, \nquyết tâm cứu Mimi và Kyouka. Không lâu sau khi họ đến, họ nghe thấy giọng Kyouca vang lên từ hư không.
 キョウカ、どこにいるの？　声は聞こえるのに……=Kyouka, cậu đang ở đâu? Tôi nghe thấy giọng cậu, nhưng...
@@ -220,7 +209,6 @@
 えっと、誰？=Ơ... cô bé đó là ai?
 謎の少女の登場に驚くミソギとキョウカだった。=Misogi và Kyouka ngạc nhiên khi thấy Mimi \nđi cùng một cô bé nhỏ xa lạ.
 二人を強化する。=Hãy dùng sức mạnh đó giúp họ.
-ハナちゃんだよ=Đó là Hana.
 さらわれたミミは子ども部屋で謎の少女、ハナと遊んでいた。ハナを連れ一刻も早い脱出を促すキョウカだが、謎の光に包まれ全員霊界の墓場に送られる。そこにはハナを取り返そうとする謎の男の姿があった。=Bị bắt cóc, Mimi đang chơi với một cô gái bí ẩn tên Hana trong phòng trẻ. Kyouka, thúc giục họ chạy trốn càng sớm càng tốt, được bao bọc trong một luồng ánh sáng bí ẩn và gửi tới nghĩa trang thế giới tâm linh. Ở đó, họ nhìn thấy bóng dáng một người đàn ông bí ẩn đang cố gắng đón Hana về.
 ようやくミミを見つけ出した３人。\nしかし、そんな彼女の傍らには、見覚えのない少女がいた。=Cuối cùng, ba cô gái được đoàn tụ, \nnhưng Misogi và Kyouka ngạc nhiên khi thấy Mimi \nđi cùng một cô gái họ chưa từng gặp.
 うゅ……えへへ、キョウカちゃんくすぐったいよ～=Ồ... Ehehe, Kyouka, cậu làm ngứa quá~
@@ -264,7 +252,6 @@
 わー！　で、でたー！！=Oái! M-Một con ma!
 ……パパ？=...Bố?
 脱出を図るも、不思議な場所へと転送されてしまった一同。\nそこに、謎の男が姿を現すのだった。=Mặc dù họ cố gắng trốn chạy, cả nhóm đột nhiên được truyền diện\ntới một địa điểm xa lạ mới.\nVà ai lại đang chờ đợi họ ở đó ngoài một người đàn ông bí ẩn...?
-霊界って\nなに？=Thế giới tinh linh là gì?
 死してなおハナに執着する父親は、現世に留まるためハロウィンの日に集めた子供の魂を喰らおうとする悪霊だった。ハナを連れ消えた父親を追うミミ、そしてミソギたちは屋敷に囚われた魂を解放すると誓う。=Ngay cả khi đã chết, cha của Hana vẫn bám víu vào con gái, ông ấy là một tinh linh xấu xa tìm cách nuốt chửng linh hồn của những đứa trẻ tụ tập trong Halloween để có thể tồn tại ở cõi trần. Mimi, người đi theo cha đã biến mất cùng Hana, và Misogi, thề sẽ giải phóng những linh hồn bị mắc kẹt trong biệt thự.
 {playername}たちの前に現れた謎の男。\nそんな男を、ハナは『パパ』と呼ぶのだった。=Một người đàn ông bí ẩn xuất hiện trước {playername} và các cô gái,\n và khiến họ ngạc nhiên, Hana gọi ông ta là "Bố."
 ……ミミおねえちゃん？=...Mimi Onee-chan?
@@ -320,7 +307,6 @@
 終わりにしちゃおう！　こんな悲しいハロウィン……\nそうしたら、みんなで楽しいハロウィンに帰れるから！=Hãy chấm dứt tất cả! \nChúng ta sẽ kết thúc màn Halloween quái dị này! \nRồi tất cả chúng ta có thể cùng nhau tận hưởng Halloween vui vẻ!
 ハナと囚われた幽霊たちを救うため、\n３人はミミの後を追うのだった。=Quyết tâm cứu cả Hana lẫn những linh hồn bị giam cầm, cả ba vội vã rời đi theo Mimi.
 男=Người đàn ông
-ハロウィン\nパーティー=Bữa tiệc Halloween
 ハナに否定された父親は、子どもの霊魂を纏い魔物と化す。ミソギの案でお菓子を使い霊魂をはがして魔物を撃破し、ハナの言葉で父親も成仏する。その影響で空間が崩れ始めたその時、周囲を不思議な光が包む。=Người cha bị Hana từ chối, bao trùm lấy linh hồn của trẻ em và biến thành quái vật. Với kế hoạch của Misogi, họ dùng kẹo ngọt để tách linh hồn và đánh bại quái vật, và với lời nói của Hana, người cha của cô cũng tìm thấy sự bình yên. Khi đó, không gian bắt đầu sụp đổ vì ảnh hưởng, một ánh sáng bí ẩn bao trùm xung quanh.
 悲しきハロウィンを終わらせるため、ミソギ、キョウカ、\nそして{playername}は子ども部屋へと戻ってきた。=Quyết tâm chấm dứt màn Halloween bị xoắn xuýc này,\nMisogi, Kyouka và {playername} quay trở lại phòng ngủ của Hana.
 おねえちゃん！　おねえちゃん！=Onee-chan! Onee-chan!

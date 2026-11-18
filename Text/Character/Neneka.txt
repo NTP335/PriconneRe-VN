@@ -4,10 +4,6 @@
 物真似、芸術鑑賞=Bắt chước, Trân trọng nghệ thuật
 【魔法】後衛で、分身生成し敵を圧倒する『変貌大妃』。\n分身はネネカ自身と同じスキルをくり出し敵を攻撃する。\nその攻撃密度と制圧力の高さは他の追随を許さない。=[Ma Thuật] Nữ Hoàng Biến Hình tạo ra các bản sao phép thuật của chính mình để thống trị kẻ địch từ hậu phương. Các bản sao của cô có thể tấn công bằng cùng các kỹ năng với bản gốc, tạo ra áp lực tấn công không thể so sánh.
 
-シークレットエンカウント=Cuộc Gặp Gỡ Bí Mật
-お姉さんの名は=Tên Của Một Quý Cô Tốt Bụng
-ラストレッスン=Bài Học Cuối Cùng
-仕組まれた再会=Cuộc Tái Ngộ Được Kế Hoạch
 
 ##UB##
 ミラーミラー=Gương Gương

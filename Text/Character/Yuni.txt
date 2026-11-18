@@ -3,14 +3,6 @@
 
 【魔法】後衛で、味方の支援に特化した象牙の塔の才媛。自身の攻撃力は低いが、物理攻撃力の高い味方を強化し更に味方全体を魔法無効バリアで護りつつ勝利へ導く。=[Magic] Học giả từ Tháp Ngà, người cung cấp hỗ trợ từ hàng sau. Mặc dù bản thân cô ít gây sát thương, cô dẫn dắt đồng đội đến chiến thắng với các buff mạnh cho tấn công vật lý và các khiên triệt tiêu phép thuật đến.
 
-余生あるいは青春の始まり=Phục hồi hoặc Sự khởi đầu của tuổi trẻ
-世界の真理＜初めての友達=Chân lý của thế giới < Người bạn đầu tiên của tôi
-小宇宙の混沌と水色の布巾=Sự hỗn loạn vi mô và Khăn lau xanh nhạt
-思春期の生物学とその周辺=Sinh học của tuổi dậy thì và Môi trường xung quanh cô ấy
-高次元との暫時的接続演習=Bài tập Kết nối Tạm thời với Thứ cấp
-実践的当世おもてなし入門=Giới thiệu về Nghệ thuật Chăm sóc Hiện đại Thực tế
-民間伝承の成り立ちと反証=Nguồn gốc và Sự bác bỏ của Truyền thuyết Dân gian
-会食の効能とその経過観察=Hiệu quả của Bữa tối và Tiếp theo
 
 ##UB##
 認識と発展性の哲学=Triết lý về Nhận thức và Tiềm năng

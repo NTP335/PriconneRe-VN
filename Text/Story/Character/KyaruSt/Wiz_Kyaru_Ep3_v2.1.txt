@@ -1,7 +1,6 @@
 不良少女と家出少女=Thằng Du Đãng và Cô Gái Trốn Nhà
 家出少女=Cô Gái Trốn Nhà
 父親=Cha
-母親=Mẹ
 両親=Phụ Huynh
 魔物=Quái Vật
 たまたま出会った家出少女を放っておけず、家出に付き添うことになったキャルと{playername}。反抗期で親に不満を持つ家出少女だが、キャルの不器用な優しさのおかげで、親と仲直りできたのだった。=May mắn thay, Kyaru và {playername} gặp phải một cô gái trốn nhà, và vì không thể bỏ mặc, họ quyết định đi cùng cô ấy. Vì cô ấy đang trải qua giai đoạn nổi loạn, cô gái bất mãn với cuộc sống của mình; nhưng nhờ vào sự tử tế hơi lúng túng của Kyaru, cô ấy đã có thể hòa giải với cha mẹ.

@@ -35,7 +35,6 @@ r:"^★(\d)才能開花演出$"=★$1 Thăng cấp
 検索に該当するキャラがいません。=Không có nhân vật nào khớp với tìm kiếm.
 ---Dialog---
 特定の条件を達成すると\n報酬がもらえますよ！\nがんばりましょう♪=Bạn có thể nhận phần thưởng khi đạt được một số mục tiêu nhất định! Chúc may mắn! ♪
-浜辺で食うものって\nなんであんなに\nうまいのかな～=Tôi tự hỏi tại sao đồ ăn trên bãi biển lại ngon thế.
 オマエと一緒にいると、毎日が\nクリスマスみたいな気分なの♪\nとーってもワクワクするの～！=Khi ở cùng cậu, cứ như là Giáng sinh mỗi ngày vậy ♪ Em rất hào hứng!
 
 フレンドの申請や\n承認ができますよ\nどうぞ、良き交流を！=Bạn sẽ có thể gửi và chấp nhận lời mời kết bạn, vì vậy hãy tiến lên, hãy tử tế!

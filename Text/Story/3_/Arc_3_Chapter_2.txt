@@ -184,8 +184,6 @@ Episode 2:
 Summary: 
 一同は【バンディ・シスターズ】に対抗するため、乗り物を用意することに。ペコリーヌたちは乗り物を牽引する動物を探すため『ふぁんふぁんファーム』を訪ね、そこでおにぎりのような大きな動物と出会う。=Mọi người quyết định chuẩn bị một phương tiện để đối phó với Bandy Sisters. Pecorine và những người khác đã thăm Fun-Fun Farm để tìm những con vật kéo xe, nơi họ gặp một con vật lớn trông giống như cơm nắm.
 
-リンド・クローチェ=Lind&Croce
-子豚=Heo con
 
 とーちゃく？=Ở đây ư?
 わぁー！\nここが……=Ồ! Đây là...
@@ -362,7 +360,6 @@ Summary:
 
 ハムスター？=Hamster?
 ハムおにぎり？=Cơm nắp hamster?
-リリ・リンド=Riri & Lind
 
 ふぁんふぁんファームの外れにて、巨大おにぎりに扮する\nハムスター？　と遭遇した{playername}たち。\nペコリーヌとプレシアは、それを捕食しようと躍起になっていた。={playername} và những người khác đã gặp một con hamster cải trang thành cơm nắp khổng lồ ở ngoại ô Fun-Fun Farm. Pecorine và Precia háo hức muốn săn bắt nó.
 まてー=Khoan--
@@ -426,7 +423,6 @@ Summary:
 うるさくしてしまって、ごめんなさい。\n本当は最初に、ご挨拶させてもらうべきだったんですけど……=Chúng tôi xin lỗi vì đã làm ồn. Tôi nên là người đầu tiên chào bà mới đúng.
 いいのよぉ。\nあたしもさっきまで、お散歩に行ってたからねぇ。\nそれよりそっちのみなさんは、お友だちかしら？=Không sao đâu. Tôi cũng mới đi dạo về. Quan trọng hơn, các cô là bạn bè của nhau à?
 オイッス☆\n初めまして、ペコリーヌです！=Chào các bạn! ☆ Rất vui được gặp! Tôi là Pecorine!
-プレシア=Precia
 リリと申します。\nあなた様が、この『ふぁんふぁんファーム』の管理人様なのですね。=Tôi là Riri. Bà chắc hẳn là người quản lý của [Trang Trại Vui Vẻ] này rồi.
 管理人様、なんてほど大したことはしてないけどねぇ。\nライラエル様から、動物たちやファームを任されてるのはそうだねぇ。=Đừng khách sáo, tôi chẳng làm được gì đáng kể khi là người quản lý cả. Tôi chỉ được công chúa Lyrael giao phó chăm sóc các con vật và trang trại mà thôi.
 ま、動物たちの面倒を見るっていうよりは。\nペットを探しにきた人たちが、ちゃんとかわいがってくれそうかどうかを\n見定めるのがあたしの仕事かねぇ。=À, thực ra không phải chăm sóc động vật. Công việc của tôi là đảm bảo những người sẽ nhận nuôi chúng sau này sẽ đối xử với chúng thật tốt.

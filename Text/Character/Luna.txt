@@ -4,14 +4,6 @@
 「おともだち」を探すこと=Đi tìm "bạn bè"
 おともだちを探す死霊術師の少女=Một cô gái thần sử tìm kiếm một người bạn
 
-おともだちになってよ！=Cùng Ta Phiêu Lưu Nào
-かくれんぼ=Trốn Tìm
-サンドイッチ=Bánh Kẹp
-夢とデート=Ngày Hẹn Hòa Giấc Mơ
-罪のありか=Trọng Tâm Của Tội Lỗi
-さみしさを、約束と=Sự Cô Độc Và Lời Hứa
-それは命と死の母=Gia Đình Trong Sinh Mệnh Và Cái Chết
-心を込めて=Với Trái Tim Cảm Tạ
 
 ##UB##
 ファントムハウル=Tiếng Rú Ma Quỷ

@@ -11,7 +11,6 @@
 
 トレジャーマス=Ô Kho báu
 マイルマス=Ô Mile
-ショップマス=Ô Cửa hàng
 
 【料理】移動時に料理マスをスキップできる=[Món Ăn] Cậu sẽ bỏ qua các Ô Món Ăn khi di chuyển.
 
@@ -53,7 +52,6 @@ r:"^このターンに振るダイスの目が必ず「(\d+)」になる。$"=L�
 シズルの愛情\n盛り盛りハンバーグ=Hamburger Steak Đầy Tình Thương Của Shizuru
 アオイの疾走サンドイッチ=Bánh Mì Nước Rút Của Aoi
 クウカの緊縛触手活け造り=Bạch Tuộc Sống Trói Buộc Của Kuuka
-クレジッタの開運お菓子盛り合わせ=Đĩa Bánh Ngọt May Mắn Của Creditta
 ジータのグリルド・グラッジチャンク=Miếng Thịt Nướng Đầy Hận Thù Của Djeeta
 グレイスの目ん玉飛び出るカップケーキ=Bánh Cupcake Làm Ngạc Nhiên Của Grace
 ホウオウの食べる権利をあげます！饅頭="Ta Cho Phép Mày Ăn Ho-oh!" Manjuu

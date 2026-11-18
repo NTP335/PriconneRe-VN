@@ -1,8 +1,3 @@
-妖精たちの遊び=Tiên nữ chơi đùa
-三階の小さな同居人=Cư dân tầng ba
-封印解除で大ピンチ！？=Rắc rối được mở khóa!
-封印されし二階へ=Tầng hai bị khóa
-ようこそギルドハウスへ=Chào mừng đến với Guildhouse mới của cậu
 
 
 ギルドハウスを与えられた{playername}と美食殿の面々。しばらく常駐してくれるらしい【ギルド管理協会】のカリンに説明や注意事項を聞く。二階と三階はまだ『調査中』で封鎖されているらしい。={playername} và Gourmet Guild được trao Guildhouse. Chúng tôi sẽ giải thích và ghi chú mô tả và các biện pháp phòng ngừa cho Karin của [Hiệp hội Quản lý Guild], người dường như sẽ cư trú một thời gian. Có vẻ như tầng hai và tầng ba vẫn đang bị chặn trong quá trình "điều tra".

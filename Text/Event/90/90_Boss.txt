@@ -39,9 +39,9 @@
 ……なんていいながら、今頃ヒヨリは戦ってる。\n私たちもビシッと決めないとね。=…Vừa nói thế, Hiyori chắc đã chiến đấu rồi. Chúng ta cũng nên kết thúc nó thôi.
 よし、掴むぞ。\n未来はもう、目の前だ！=Được rồi, chúng ta nắm lấy nó. Tương lai đã trong tầm mắt rồi!
 はあああーーーっ！！！=Haaaaa!!!
-アイラとシナツ、そしてエリスとの温泉旅行から数週間後。\nレイとヒヨリは再びアイラとシナツの複製世界へ向かうため、\nソルの塔へとやってきた。=Vài tuần sau chuyến đi suối nước nóng cùng Aira, Shinatsu, và Ellis. Rei và Hiyori đã đến Tháp của Sol để đi đến thế giới bản sao của Aira và Shinatsu một lần nữa.
-……遅い。=…Muộn rồi.
-エリスさん！　フィオちゃん！\n遅くなってごめんなさいっ！=Ellis-san! Fio-chan! Xin lỗi vì đến muộn!
+アイラとシナツ、そしてエリスとの温泉旅行から数週間後。\nレイとヒヨリは再びアイラとシナツの複製世界へ向かうため、\nソルの塔へとやってきた。=Vài tuần sau chuyến đi suối nước nóng cùng Aira, Shinatsu và Eris. Rei và Hiyori đã đến Tháp của Sol để đi đến thế giới bản sao của Aira và Shinatsu một lần nữa.
+……遅い。=...Muộn quá.
+エリスさん！　フィオちゃん！\n遅くなってごめんなさいっ！=Eris-san! Fio-chan! Xin lỗi vì đến muộn!
 ちょっ、あんたたち、なによその荷物の量？\nあっちに移住でもするつもり？=Này, hai người, đồ đạc gì nhiều thế? Có ý định dọn sang đó sống hả?
 いや、ただの旅行さ。\nこの間はとても観光なんてできる状況じゃなかったからね。\nこれは、向こうのみんなへのお土産だ。=Không, chỉ là chuyến đi thôi. Lần trước, chúng ta không thể nào tham quan được. Đây là quà lưu niệm cho mọi người bên đó.
 うん！　魔物討伐依頼の報酬全部使っちゃった♪\n見て見て、ランドソル饅頭に～、ランドソル団子に～……\nあ、これあたしのイチオシ！　ランドソルバターサンド！=Ừ! Mình đã dùng hết phần thưởng từ yêu cầu diệt quái vật♪ Nhìn kìa, Landosol Manjuu, Landosol Dango... À, cái này là món yêu thích của mình! Landosol Butter Sandwich!
@@ -52,8 +52,12 @@
 それがそうでもないっぽいのよね。\nあっちの世界って何度もシミュレーションが繰り返されてたでしょ？\nだからバリエーションがそれなりにできてるっぽくてさ。=Nhưng dường như không phải vậy. Thế giới đó đã trải qua nhiều lần mô phỏng, nên có vẻ có khá nhiều biến thể.
 特に、人がね。=Đặc biệt là con người, cậu biết đấy.
 そうなんだ！\nあ、そういえば前にアイラがそんなこと言ってたような気も？=Ra vậy! À, nhớ lại thì, Aira có nhắc đến chuyện như vậy trước đây.
-なるほど、じゃあそれも見どころの一つかもね……っと。\nヒヨリ、そろそろ行こう。エリスがずっと見てくる。瞬きもなく。=Ra vậy, vậy thì đó có thể là một trong những điểm thú vị... Này, Hiyori, đi thôi. Ellis đang nhìn chúng ta đấy. Không chớp mắt.
+なるほど、じゃあそれも見どころの一つかもね……っと。\nヒヨリ、そろそろ行こう。エリスがずっと見てくる。瞬きもなく。=Ra vậy, vậy thì đó có thể là một trong những điểm thú vị... Này, Hiyori, đi thôi. Eris đang nhìn chúng ta đấy. Không chớp mắt.
 サーバー確認。\n『コル・カロリ』……\n士条怜のアクセス権を確認。アクセス権取得。=Kiểm tra server. 'Cor Caroli'... Xác nhận quyền truy cập cho Shijo Rei. Quyền truy cập đã được cấp.
-アイラとシナツの複製世界の危機が去って数週間後、ヒヨリとレイは以前\nできなかった観光をするため複製世界旅行へ行くことに。両手いっぱいの\nお土産を抱えた二人は、エリスの力で複製世界へと向かう。=Vài tuần sau khi khủng hoảng ở thế giới sao chép của Aira và Shinatsu qua đi, Hiyori và Rei quyết định đi du lịch thế giới sao chép để tham quan những nơi họ chưa thể đi trước đó. Với đôi tay đầy đồ lưu niệm, họ hướng đến thế giới sao chép với sự giúp đỡ của Ellis.
+アイラとシナツの複製世界の危機が去って数週間後、ヒヨリとレイは以前\nできなかった観光をするため複製世界旅行へ行くことに。両手いっぱいの\nお土産を抱えた二人は、エリスの力で複製世界へと向かう。=Vài tuần sau khi khủng hoảng ở thế giới sao chép của Aira và Shinatsu qua đi, Hiyori và Rei quyết định đi du lịch thế giới sao chép để tham quan những nơi họ chưa thể đi trước đó. Với đôi tay đầy đồ lưu niệm, họ hướng đến thế giới sao chép với sự giúp đỡ của Eris.
 サーバー確認。\n『リンクス』……\n春咲ひよりのアクセス権を確認。アクセス権取得。=Kiểm tra server. 'Lynx'... Xác nhận quyền truy cập cho Harusaki Hiyori. Quyền truy cập đã được cấp.
 ……さっさと行ってきなさい。=…Nhanh lên và đi đi.
+エリスさん、ありがとうございますっ！\nじゃ、行こ！　レイさん！=Cảm ơn cô, Eris! Được rồi, đi thôi! Chị Rei!
+……あのエリス。\nお世話になりっぱなしでこんなこと言える立場じゃないんだけど。\n一つだけお願いがある。=...Eris à. Tôi không có tư cách để nói những điều như thế này bởi vì tôi vẫn còn mắc nợ cô. Tôi chỉ có một yêu cầu.
+転送先が空なの、変えられないかな……？=Điểm đích chuyển tiếp trống, tôi không biết liệu tôi có thể thay đổi nó không...?
+レイの希望は特に叶えられないまま、\n二人はそれぞれの世界の上空に転送されたのだった。=Mong muốn của Rei không được thực hiện và cả hai được đưa lên bầu trời phía trên thế giới tương ứng của họ.

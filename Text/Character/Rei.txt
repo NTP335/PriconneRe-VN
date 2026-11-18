@@ -7,18 +7,6 @@
 スキップを除く=Ngoại trừ Bỏ Qua
 漫才=Manzai
 
-目指せ大海原=Nhắm tới Biển Cả Mênh Mông
-信じるべきものは=Điều Đáng Tin Cậy
-剣で救えるものがあるなら=Nếu Có Điều Kiếm Có Thể Cứu
-無事に釣り上げられるか？=Có Thể Kéo Vào An Toàn Không?
-暴れ馬を乗りこなせ=Làm Chủ Ngựa Hoang Dã
-刻限は日が沈むまで=Hạn Chế Là Cho Đến Khi Mặt Trời Lặn
-弱気の理由はどこから？=Sự Nhút Nhát Đến Từ Đâu?
-波打ち際の休息=Nghỉ Ngơi Bên Bờ Nước
-偽りのない笑顔=Nụ Cười Chân Thành
-二人だけの約束=Lời Hứa Giữa Hai Người
-いつか支え合うために=Để Một Ngày Nào Đó Có Thể Ở Bên Hỗ Trợ Nhau
-心強い指南役=Người Dẫn Đường An Tâm
 読書、乗馬、お茶=Đọc sách, cưỡi ngựa, trà
 
 ##UB##

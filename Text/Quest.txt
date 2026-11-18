@@ -40,8 +40,6 @@ r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定され
 ダンジョン=Hầm ngục
 調査=Đội thám hiểm
 探索=Hang động
-バトルアリーナ=Đấu trường
-プリンセスアリーナ=Đấu trường công chúa
 キャンペーン中=Chiến dịch
 
 エクストラクエストへ=Đến Extra Quest
@@ -73,7 +71,6 @@ Lv上限に達した状態で消費したスタミナは\nマスターコイン�
 ※80文字以下=※Tối đa 80 ký tự
 バトルログをクランチャットに投稿しますか？=Bạn có muốn đăng nhật ký trận chiến lên chat clan không?
 投稿する=Đăng
-バトルログ投稿確認=Xác nhận đăng nhật ký trận chiến
 ---Re enter---AB->Text color,C-> stamina,D number
 再戦する=Thử lại
 
@@ -132,7 +129,7 @@ r:"^\[3B3F4D\]本日の挑戦回数の上限に達しています。\nジュエ�
 スキップチケットとスタミナを消費して、チェックした\nクエストを実行します。よろしいですか？=Sử dụng Vé Bỏ Qua và Thể Lực để tiến hành\ncác nhiệm vụ đã đánh dấu. Tiếp tục chứ?
 現在、このアイテムは\nメインクエスト等では入手できません=Hiện tại, vật phẩm này không có sẵn trong Nhiệm Vụ Chính.
 検索対象外のクエストが含まれています。=Bao gồm các Nhiệm Vụ không được liệt kê trong tìm kiếm.
-か所=Địa điểm
+か所=Chỗ
 
 クエストTOPへ=Đến trang đầu Nhiệm Vụ
 

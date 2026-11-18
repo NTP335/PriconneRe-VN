@@ -1,20 +1,8 @@
 ##Profile##
 空想、ぬいぐるみ集め=Thích sưu tầm thú nhồi bông
-マホマホ王国のプリンセス=Công Chúa của Vương Quốc Maho-Maho
 
 【魔法】後衛で味方のサポートを担当するメルヘン少女。味方全体を強化してＴＰを回復するユニオンバーストや、ＨＰ回復、敵を暗闇にするスキルで戦況を好転させる。=[Ma thuật] Một cô gái như trong truyện cổ tích, hỗ trợ đội từ hậu phương. Lật ngược tình thế trận đấu với Union Burst tăng buff cho toàn đồng đội và hồi TP, cùng kỹ năng hồi HP và làm mù kẻ thù.
 
-ジェラシープリンセス=Jealousy Princess
-姫と王子の誓い=Lời Thề của Công Chúa và Hoàng Tử
-姫を救うは王子の心=Trái Tim của Hoàng Tử để Cứu Công Chúa
-お姫さまのおもてなし=Princess's Hospitality
-湖畔のプリンセス=Princess by the Lakeside
-籠の中のお姫様=Princess in the Cage
-マホ姫のお城へご招待=Invitation to Princess Maho's Castle
-プリンセスの気まぐれ魔法=Princess's Whimsical Magic
-夢と魔法のワンダーランド=Wonderland of Dreams and Magic
-お迎えの時間=Time for the Princess's Welcome
-姫と王子は馬車に揺られて=The Princess and the Prince Rocked by the Carriage
 
 ##Legacy UB##
 メルヘンガーデン=Fairy-tale Garden

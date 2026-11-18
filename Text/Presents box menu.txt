@@ -135,3 +135,5 @@ r:"^([0-9.]+)周年セレクトガチャ$"=Gacha tự chọn kỷ niệm $1th n�
 
 r:"^イベントクエスト（(.+)）クリアで獲得したアイテムです。$"=Vật phẩm nhận được khi hoàn thành Nhiệm vụ Sự kiện ($1).
 所持上限を超えて獲得した復刻イベントログインボーナスの報酬です。=Phần thưởng từ Bonus đăng nhập sự kiện tái bản nhận được vượt quá giới hạn sở hữu.
+
+「プリンセスナイト強化」および「深域クエスト」のアップデートにともなう配布です。=Đây là phần quà được phát nhân dịp cập nhật tính năng "Cường hóa Princess Knight" và "Deep Realms Quest".

@@ -682,12 +682,6 @@ Player Prompts
 裏世界からもお客さんが来てる！=Cả những vị khách từ thế giới bên kia cũng đã đến rồi kìa!
 
 New Titlecards
-執政官１=Steward 1
-執政官２=Steward 2
-執政官たち=Stewards
-来場者たち=Visitors
-コボルトの男性=Kobold Man
-妖魔人の男性１=Monstron 1
 
 Chapter 1
 『ランドソル万博』に国賓として招かれたプリンセスたちは、\nペコリーヌがいる玉座の間へと挨拶に訪れていた。=Các công chúa được mời làm quốc khách đến "Triển lãm Landosol" đã đến phòng ngai vàng nơi Pecorine đang ở để chào hỏi.
@@ -1045,7 +1039,6 @@ Player Prompts
 みなさん頑張ってください！=Mọi người ơi cố gắng lên nhé!
 
 New Titlecards
-メリッサ=Melissa
 ジオ・テオゴニアの民たち=Người dân của Gio Teogonia
 ジオ・ニヴルヘルの民たち=Người dân của Gio Niflhell
 ジオ・ゲヘナの民たち=Người dân của Gio Gehenna
@@ -1209,7 +1202,6 @@ Player Prompts
 ペコさん、下がって！=Peco-san, lùi lại mau!
 
 New Titlecards
-執政官３=Steward 3
 ドレイドラゴン=Rồng Nô Lệ
 
 Chapter 5
@@ -1334,7 +1326,6 @@ Player Prompts
 
 New Titlecards
 ラストドラゴン・スレイヴ=Lust Dragon Slave
-ゾンビの男性１=Zombie Man 1
 
 Scenario Boss 1
 はああ……！=Haaa……!
@@ -1579,7 +1570,6 @@ Player Prompts
 
 New Titlecards
 ５人=The Five
-ゾンビの男性２=Zombie Man 2
 料理人=Chef
 門番=Gatekeeper
 近衛兵=Royal Guard

@@ -5,18 +5,7 @@
 
 【物理】前衛にて、全力で仲間を護る、腹ペコ剣士。高いＨＰに加えて、自分自身でもＨＰ回復できるためギリギリまで味方の壁役を引き受ける。=[Vật lý] Một chiến binh luôn đói bụng bảo vệ bạn bè từ tuyến đầu. Cô có lượng HP cao và kỹ năng tự hồi phục, cho phép cô che chở đồng đội đến phút cuối.
 
-グルメな山籠もり=Núi ẩm thực
-王女様の騎士=Kỵ sĩ Công chúa
-旅の準備はデートのように=Chuẩn bị cho một chuyến đi giống như một buổi hẹn hò
 
-あなたが教えてくれた幸せ=Hạnh phúc mà cậu đã cho em
-今日の味、忘れません♪=Một hương vị khó quên
-ギルド設立レッツゴー！=Hoan hô Bộ máy quan liêu!
-旅立ちの焼肉=Một cuộc họp đầy thịt
-私ノコト、ワカリマスカ？=Cậu, mình, hiểu chứ?
-幸せを釣る針と糸=Câu được hạnh phúc
-おいしい持ち込み大歓迎！=Hiện đang chấp nhận nguyên liệu!
-再会はごはんの匂い=Một cuộc tái ngộ đầy ngon lành
 
 ##UB##
 プリンセスストライク=Đòn công chúa

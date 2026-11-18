@@ -7,7 +7,6 @@
 
 ##S1##
 忍法・チュバメ返し=Ninpo: Swoopy Swallow
-目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý trung bình lên kẻ địch đứng ngay phía trước và giảm một chút phòng thủ vật lý của chúng.
 
 ##S2##
 忍法・影分身の術=Ninpo: Shadow Clone no Jutsu

@@ -1,10 +1,6 @@
 ##Profile##
 【魔法】後衛で味方の火力を高める、黒猫仮装の優等生。自分の魔法攻撃力に応じて効果が強化されるものと、効果が累積するもの等、多彩なスキルで攻撃力を高める。=[Ma thuật] Một học sinh ưu tú nhỏ bé trong trang phục mèo đen, sẵn sàng tăng cường hỏa lực cho đồng minh từ hậu phương. Với các kỹ năng tăng cường được cường hóa dựa trên sức mạnh ma thuật của bản thân hoặc chồng chất theo thời gian, cô có thể tăng sát thương của đội theo nhiều cách.
 
-お菓子と仮装とお姉さん=Costumes and Cupcakes
-飲みすぎにご注意=The Perils of Drinking
-迷子のパレードナイト=Perplexing of Parade
-味見はお口いっぱいに=A Mouth Full of Cupcake
 
 ##UB##
 ハロウィンブルームダンス=Halloween Bloom Dance

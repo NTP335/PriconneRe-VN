@@ -3,18 +3,6 @@
 主を慕う、小さなガイド役=Một hướng đạo viên nhỏ bé chăm sóc chủ nhân của mình
 【物理】中衛で、補助と攻撃で皆を支える、導きの巫女。ユニオンバーストは、味方全体の攻撃力アップに加えて自らも回復するため、継続的なサポートが可能となる。=[Vật Lý] Một hướng đạo viên tận tâm hỗ trợ mọi người từ tuyến giữa với các buff và đòn tấn công. Union Burst của cô ấy tăng sức mạnh tấn công của tất cả đồng đội đồng thời hồi phục máu cho chính mình, cho phép cô ấy ở lại trận đấu lâu hơn.
 
-覚醒と芽生える想い=Trái Tim Tỉnh Thức và Cảm Xúc Mới Nở
-こころの拠り所=Nơi Trú Ẩn Của Trái Tim
-導き導かれて=Sự Hướng Dẫn Cho Kẻ Hướng Dẫn
-ガイド役の憂鬱=Một Hướng Đạo Viên Buồn Bã
-コッコロのこころ=Trái Tim Của Kokkoro
-懐かしいぬくもり=Hơi Ấm Hoài Cổ
-しっぽのある迷い子=Đứa Trẻ Lạc Đường Mềm Mại Với Đuôi
-保護者はどっち？=Người Nào Là Người Bảo Vệ?
-『はじめまして、主さま』=『Rất vui được gặp cậu, chủ nhân』
-ふるさとへの手紙=Một lá thư gửi quê hương
-青くて広くてまぶしくて=Màu Xanh Lấp Lánh Vĩ Đại
-ちっちゃな新米ガイド役=Ngày Đầu Tiên Của Một Hướng Dẫn Viên Nhỏ
 
 ##UB##
 オーロラ=Aurora

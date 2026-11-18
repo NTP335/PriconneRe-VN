@@ -1,8 +1,3 @@
-ファリーダ=Farida
-白服の男性=Người Mặc Áo Trắng
-白紋章の兵士=Binh Sĩ Dấu Ấn Trắng
-サイード=Saeed
-白紋章の貴族=Quý Tộc Dấu Ấn Trắng
 
 国王の親戚という王族の女性と知り合った一行は、彼女を取り巻く国の事情と恋の悩みを解決するべく力を貸す。囚われていた青年を救い出し、二人を王宮に送り届けた一行は幸せな平穏を噛みしめるのだった。=Nhóm gặp được người thân của vua, một nữ hoàng tộc, và kết bạn với nhau. Cô gái mang gánh nặng từ hoàn cảnh đất nước và tình yêu, và họ giúp đỡ cô giải quyết. Sau khi giải cứu người thanh niên bị giam và hộ tống hai người đến cung điện, họ tận hưởng những thời bình yên đó.
 

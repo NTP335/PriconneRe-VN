@@ -249,7 +249,6 @@ EXスキルスロット=Ô kỹ năng EX
 購入数=Giá
 
 セットに必要なプリンセスオーブ=Lá Chắn Công Chúa cần thiết cho quá trình dung hợp
-セットに必要なプリンセスオーブ=Lá Chắn Công Chúa cần thiết cho quá trình dung hợp
 プリンセスオーブは最大まで強化する必要があります。\n各段階で必要数が異なります。=Bạn cần Lá Chắn Công Chúa để nâng cấp. \nSố lượng cần thiết khác nhau cho mỗi giai đoạn.
 このクエストは勝利するまで何度でも挑戦可能です。=Nhiệm vụ này có thể thử lại\nnhiều lần cho đến khi bạn thắng.
 編成固定キャラ=Yêu Cầu
@@ -337,7 +336,6 @@ RANKボーナス詳細のステータス=Chi Tiết Trạng Thái
 装備やメモリーピースを消費して、\n専用装備１を作成します。=Tiêu hao vật phẩm và Mảnh Ký ức để chế tạo Trang bị độc nhất 1.
 [FF7C4E,D62146]作成した専用装備１を元に戻すことはできません。[-]=[FF7C4E,D62146]Bạn không thể tháo trang bị UE 1 sau khi đã chế tạo.[-]
 キャラ専用装備の所持最大数に達しています。=Nhân vật này đã trang bị UE rồi.
-作成確認=Xác nhận chế tạo
 
 専用装備スフィア=Hình cầu Trang bị độc nhất
 キャラスフィア=Hình cầu Nhân vật

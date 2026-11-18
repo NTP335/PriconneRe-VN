@@ -16,7 +16,6 @@
 r:"^(\d+)ターン経過$"=$1 Lượt đã trôi qua
 r:"^(\d+)ターン休み$"=$1 Lượt nghỉ
 練習する=Thực Hành
-練習中=Trong lúc thực hành
 ライバル=Đối Thủ
 ライバル勝利ボーナス=Thưởng chiến thắng đối thủ
 区間スキップ=Bỏ Qua Khu Vực

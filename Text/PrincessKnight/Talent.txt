@@ -21,18 +21,18 @@ sr:"^(.+)をクリアで解放されます。$"=Hoàn thành $1 để mở khóa
 属性ボーナス=Lưỡng Cư Nguyên Tố
 属性弱点=Điểm Yếu Nguyên Tố
 
-火属性キャラ=Toàn Nhân Vật Hỏa
-水属性キャラ=Toàn Nhân Vật Thủy
-風属性キャラ=Toàn Nhân Vật Phong
-光属性キャラ=Toàn Nhân Vật Bạch
-闇属性キャラ=Toàn Nhân Vật Hắc
+火属性キャラ=Toàn Nhân Vật [FF6B4A,B81D13]Hỏa[-]
+水属性キャラ=Toàn Nhân Vật [5CE1FF,005BB5]Thủy[-]
+風属性キャラ=Toàn Nhân Vật [9BE15D,1E7E22]Phong[-]
+光属性キャラ=Toàn Nhân Vật [FFD740,B27800]Ánh Sáng[-]
+闇属性キャラ=Toàn Nhân Vật [E066FF,5E1987]Bóng Tối[-]
 
 
-All [FF7C4E]Fire[-] Character
-All [DAA520]Water[-] Character
-All [006400]Wind[-] Character
-All [cc9900]Light[-] Character
-All [800080]Dark[-] Character
+All [FF6B4A,B81D13]Fire [FF5E3A,A8140B]Character[-][-]
+All [5CE1FF,005BB5]Water [64C9FD,0060BA]Character[-][-]
+All [9BE15D,1E7E22]Wind [8CE043,196F1D]Character[-][-]
+All [FFD740,B27800]Light [FFCA28,9E6900]Character[-][-]
+All [E066FF,5E1987]Dark [D557F5,4A106E]Character[-][-]
 
 
 チェック引継ぎ確認=Kiểm Tra Xác Nhận Giao Nhận

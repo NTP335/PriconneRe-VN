@@ -5,14 +5,6 @@
 
 前世を信じる中二病患者、「疾風の冥姫」=Một cô gái ảo tưởng tin rằng mình là một anh hùng tên "Hecate of the Gale" trong kiếp trước
 
-邂逅、閃光のシグルド！=Sigurd! Gặp lại cậu rồi!
-盟友との共同戦線=Đồng đội trên chiến trường
-喪った記憶の在処=Tìm kiếm ký ức đã mất
-異世界で出会う二人=Tiếng vọng từ thế giới xa xôi
-魔狼のごとく駆け抜けろ！=Bay lên như chó địa ngục rực lửa!
-なくした自分を取り戻せ！=Tìm kiếm vinh quang quá khứ
-「組織」との対決=Sự trỗi dậy của Syndicate
-前世での関係=Mối quan hệ ngày xưa
 
 ##UB##
 羅刹涅槃・極光終天冥壊破=Raksha Nirvana: Bình minh của tận thế
@@ -22,7 +14,6 @@ r:"^敵全体に(\d+)の魔法ダメージ自分の物理防御力を0にする�
 
 ##S1##
 羅刹涅槃・無式=Raksha Nirvana: Vô tận
-目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép vừa phải cho kẻ địch ngay phía trước.
 
 ##S2##
 冥空天昇=Thừa kế hư không

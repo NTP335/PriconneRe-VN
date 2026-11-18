@@ -8,7 +8,6 @@ r:"^味方全体の物理攻撃力を(\d+)アップ自分以外の味方の物�
 
 ##S1##
 ドラゴニックショット=Phát Bắn Rồng
-目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Gây sát thương vật lý vừa phải cho kẻ địch phía trước, và đồng thời giảm nhẹ P.DEF của chúng.
 
 ##S2##
 ドラモフレイム=Ngọn Lửa Dramo

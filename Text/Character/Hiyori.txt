@@ -4,19 +4,7 @@
 
 【物理】前衛で、敵前線を押し返す笑顔の元気娘。前衛に対して大ダメージを与えるユニオンバーストと、自身の攻撃力を強化するスキルを持つ攻撃役。=[Vật lý] Một cô gái năng động chiến đấu ở tuyến đầu để đẩy lùi phòng thủ của kẻ địch. Cô là một đòn tấn công với Union Burst gây sát thương nặng nề lên tuyến đầu, có thể được tăng cường thêm với kỹ năng tăng P.ATK của cô.
 
-ドキドキがくれるパワー=The Power Of A Racing Heartbeat
-ストレイキャットメモリー=Memory of a Stray Cat
-助けるべき悪人=A Villain To Help
-ムズムズの秘密=A Nagging Secret
 
-エールを送りたいのに=I Would Call For You
-勝利を君に=A Victory For You
-休みたいのに休めない！=I Can't Help It, I Can't Rest!
-しっぽは反則？=Is The Tail Off-Limits?
-ストレイキャットガール=The Stray Cat Girl
-願いは笑顔のために=An Earnest Wish for Happiness
-誓いのゆびきり=Lời Hứa Đáng Giá
-困った時はお互いさまさま=Cứu Cánh Lẫn Nhau
 
 ##UB##
 ヒヨリラッシュ=Cuộc Xung Kích Của Hiyori

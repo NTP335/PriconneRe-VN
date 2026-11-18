@@ -1,6 +1,5 @@
 ##Profile##
 【魔法】後衛で、回復と攻撃をこなすドジっ娘メイド。周りの味方のＨＰを回復しつつ物理攻撃力を高めるスキルは、中衛・後衛の攻撃役と抜群の相性。=[Ma thuật] Một hầu gái vụng về, hồi phục và tấn công từ hậu phương. Kỹ năng hồi phục đồng minh xung quanh và tăng tấn công thể chất của họ phối hợp tốt với sự tấn công của trung và hậu phương.
-スズメ=Suzume
 お嬢さまのためにがんばるドジっ娘メイド=Một hầu gái vụng về luôn cố gắng hết sức cho chủ nhân
 
 ##UB##

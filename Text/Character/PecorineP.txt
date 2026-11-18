@@ -1,10 +1,6 @@
 ##Profile##
 【物理】前衛で、攻防共に絶大な力を誇る腹ペコ王女。ＨＰが多い時は爆発的な攻撃力で、いかなる敵をも屠り、ＨＰが減ると自己回復能力を得て、鉄壁の護りを見せる。=[Vật lý] Một công chúa luôn đói khát, xuất sắc cả tấn công và phòng thủ ở mặt trận. Khi HP cao, cô tấn công, đè bẹp mọi đối thủ, và khi HP thấp, cô thể hiện sự kiên cường phi thường với nhiều khả năng tự hồi phục.
 
-王女様の休日=Kỳ nghỉ của Công chúa
-大切なものを守るために=Bảo vệ Điều Quan trọng Nhất
-お忍びバイトと民の声=Miếng cắn Bí mật và Tiếng nói của Dân
-憩いの時間をあなたと=Nghỉ ngơi và Thư giãn Cùng bạn
 
 ##UB##
 超全力全開☆プリンセスストライク=Đòn Công chúa Tối thượng☆

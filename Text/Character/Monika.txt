@@ -7,18 +7,9 @@
 勝利の風を掴むためには=Để Cầm Bắt Gió Chiến Thắng
 絆の力で放つ奥義=Bí Thuật Được Thức Tỉnh Bởi Sức Mạnh Của Mối Liên Kết
 努力の先に求める強さ=Sức Mạnh Khát Vọng Vượt Qua Nỗ Lực
-甘い甘いお礼の証=Sự Biết Ơn Ngọt Ngào
-目をつぶれ、貴公=Đôi Mắt Nhắm Khi Có Tôi Ở Đây
-穴の中に隠された真実=Những Diễn Biến Không Lường Trước
-モニカの秘密小隊=Tiểu Đội Bí Mật Của Monika
-スイミング・バディ=Bạn Bè Đi Bơi
-求める強さは志のために=Vì Niềm Tự Hào Của Bản Thân
-白き翼で空を舞う=Đôi Cánh Trắng Tung Bay
-体は小さく誇りは高く=Một Chỉ Huy Nhỏ Nhắn Nhưng Đáng Kính
 
 ##UB##
 紫電一閃=Violetshock Flare
-前方範囲内の敵すべてに物理中ダメージを与える。=Gây sát thương vật lý (P.DMG) lớn cho kẻ địch trong phạm vi.
 
 ##S1##
 フリューゲルエール=Khúc Ca Cánh Trắng

@@ -3,19 +3,7 @@
 料理、人間観察=Nấu ăn, Ngắm người.
 【魔法】最後衛から、味方の回復と補助を行う魔法士。打たれ弱いが高い魔法攻撃力を持ち、ランクを上げると攻撃も補助もバランスよくこなせるようになる。=[Ma thuật] Một pháp sư hồi phục và hỗ trợ đồng minh từ hàng sau. Mặc dù thiếu khả năng phòng thủ, cô sở hữu sức mạnh tấn công cao, cho phép cô vừa hỗ trợ vừa cung cấp hỏa lực ở các hạng cao hơn.
 
-いつか目覚めた思い=Một ngày nào đó tôi đã thức dậy.
-守りたい人に捧げる力=Sức mạnh để trao cho những người bạn muốn bảo vệ.
-信頼の行く末は光の中に=Tương lai của sự tin tưởng nằm trong ánh sáng.
-知られざる心を記して=Viết tấm lòng chưa biết của bạn.
 
-不思議なおまじない=Về tình yêu và sức hút.
-頼れる魔法？=Một đối tác đáng tin cậy?
-本当の気持ちが知りたくて=Thổ lộ hết lòng
-少しずつでも前に……=Từng bước một
-隣のあなたに伝えたい=Gần mà xa
-おいしいごはんの食べかた=Một muỗng tình yêu
-ランチ・ウィズ・ミー！=Chiến dịch giờ ăn trưa!
-今度はきっと=Lần này, chắc chắn
 
 ##UB##
 ヒールオール=Hồi máu nhóm
@@ -24,7 +12,6 @@ r:"^味方全体のＨＰを(\d+)回復$"=►Hồi HP đồng đội bằng $1.
 
 ##S1##
 フラワーショット=Vụ nổ nở hoa
-目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép vừa phải cho kẻ địch đang ở phía trước.
 
 ##S2##
 フローラルシールド=Bảo vệ hoa

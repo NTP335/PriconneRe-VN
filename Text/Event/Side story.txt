@@ -99,7 +99,6 @@ r:"^おもちゃ工場([0-9\-\(\)\w （）]*)$"=Nhà máy đồ chơi $1
 入れ替わり\nについて=Thay thế\nvề
 エンジェルの衣装=Trang phục thiên thần
 ラフィについて=Về Raffy
-リンについて=Về Phosphorus
 誰と\n入れ替わりたい？=Với ai\nmuốn thay thế?
 巨大弓矢\nについて=Cung và tên khổng lồ\nvề
 ヨリについて=Về Yori

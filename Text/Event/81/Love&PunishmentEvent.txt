@@ -151,10 +151,7 @@ Player Prompts
 
 New Titlecards
 王室の広報担当者=Chuyên Viên Quan Hệ Công Chúng Hoàng Gia
-ライラエル・イオ=Lyrael Io
-ライラエル・イオ・フローエ=Lyrael Io Floe
 ゴーストキッド・ベロリー=Ma Nhi Bellory
-フローエ=Floe
 
 Boss?
 ハートなんか描いたりしちゃって。\nベロリーも反省したみたいね！=Cô ấy còn vẽ cả trái tim nữa. Có vẻ như Bellory đang tự phản ánh hành động của mình!
@@ -446,7 +443,6 @@ Chapter 3
 クリスマスの悪魔の力で、夢を見せる術を得たライラエルたち。\n愛を失った人々を救うため、再び街へ駆けていくのだった。=Với sức mạnh của Christmas Devils, Lyrael và những người khác đã có khả năng khiến người ta mơ. Để cứu những người đã mất đi tình yêu, họ vội vã quay lại thành phố.
 
 New Titlecard
-サンタクロース=Santa Claus
 
 Player Prompts
 こんなサンタさん見たくなかった……=Santa Claus này... phá hỏng tuổi thơ của tôi.
@@ -601,9 +597,7 @@ New Player Prompts
 
 New Titlecards
 美し過ぎるボクが嫌い=Được Ghét Vì Quá Đẹp
-刑務作業者２=Nhân Viên Nhà Tù 2
 真実を告げる鏡=Gương Sự Thật
-イオ・フローエ=Io Floe
 
 Chapter 5
 集合的無意識で繋がった、深い深い夢の中。\n気がつくと、{playername}の目の前には──=Trong một giấc mơ sâu thẳm, được kết nối bởi vô thức tập thể, {playername} tỉnh dậy và trước mặt cậu là...
@@ -864,9 +858,6 @@ Chapter 6
 僕もそんな気がした。=Em cũng cảm thấy như vậy
 ライラエルさん、どうしたの？=Sao vậy, Lyrael-san?
 別の天使……？=Một thiên thần nữa...?
-天使=Thiên thần
-ライラエル・天使=Thiên thần Lyrael
-バラキエル=Barakiel
 ライラエルさん、愛の力だよ！=Lyrael-san! Hãy dùng sức mạnh của tình yêu!
 イオちゃんの言葉を思い出して！=Nhớ lời của Io-chan!
 二人マフラー……！？=Chiếc khăn quàng cho hai người...?!

@@ -1,22 +1,10 @@
 解放=Đã Mở Khóa
 初回クリア=Lần Đầu Hoàn Thành
-踏破せよ！『雲海の山脈』=Leo "Đỉnh Mây"
-勝利の山頂ごはん！=Đỉnh Cao Của Hương Vị!
 
-到達せよ！『密林の大樹』=Xuyên Thấu "Sồi Rừng Sâu"!
-甘い果実には皮がある=Trái Da Dày
 
-潜入せよ！『断崖の遺跡』=Leo "Tàn Tích Vách Đá Dựng Đứng"!
-みんなで作る幸せレシピ=Công Thức Cho Hạnh Phúc
 
-制覇せよ！『蒼海の孤塔』=Chinh Phục "Tháp Thủy Triều"!
-神さまにバレないように=Thoát Khỏi Cơn Thịnh Nộ Của Thần
 
-警戒せよ！『毒瘴の闇稜』=Đánh Bại "Núi Đá Bóng Tối"!
-食して分かる旨さがある=Nếm Thử Mới Biết Tin
 
-調査せよ！『緑竜の骸嶺』=Điều Tra "Ổ Trú Của Rắn Ngọc"
-伝説を超えて=Vượt Qua Huyền Thoại
 
 攻略せよ！『天上の浮城』=Chinh Phục! "Pháo Đài Trời"
 試練の先の理想郷=Một Thế Giới Lý Tưởng Vượt Qua Thử Thách

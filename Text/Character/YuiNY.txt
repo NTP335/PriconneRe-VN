@@ -1,9 +1,6 @@
 ##Profile##
 【魔法】後衛の、補助魔法に特化した、晴れ姿の癒し手。自身の攻撃力と引き換えに強力なバリアと継続回復状態を味方全体に付与する。絶大な防御能力は他を圧倒する。=[Phép] Một pháp sư hậu phương sử dụng ma thuật hồi phục và hỗ trợ, mặc trang phục truyền thống. Bằng cách hy sinh sức mạnh tấn công của bản thân, cô tạo ra những rào cản mạnh mẽ hồi phục cho bạn bè, mang lại tiềm năng phòng thủ vượt trội.
 
-初日の出までのひと時=Khởi Đầu Mới, Cùng Nhau
-今年初めての共同作業=Sự Phối Hợp Năm Mới
-変わらぬ優しさ=Luôn Tử Tế, Luôn Quan Tâm
 育む二人とつなぐ味=Hương Vị Nuôi Dưỡng Hai Trái Tim
 あなたの成長がくれた魔法=Ma Thuật Mà Sự Trưởng Thành Của Bạn Đã Mang Lại Cho Em
 買い物帰りの道で……=Trên Đường Về Nhà Sau Khi Mua Sắm…

@@ -956,7 +956,6 @@ Episode 6:
 Summary:
 戦いの後、ヤマトたちから奇襲を受けた一同。{playername}はペコリーヌとライラエルを強化し、力を合わせて彼女たちを退ける。そして疑惑が晴れた一同は改めてライラエルと『友人』になるのだった。=Mọi người đã bị phục kích bởi cuộc tấn công bất ngờ từ Yamato và đồng đội sau trận chiến. {playername} tăng cường sức mạnh cho Pecorine, Lyrael và họ cùng nhau đánh bại các Bandy Sisters. Khi sự nghi ngờ được xóa tan, họ đã trở thành 『bạn bè』 với Lyrael một lần nữa.
 
-フレイヤ=Freiya
 
 『グランドリームパーク』を支配した蜘蛛型の魔物を倒し、\nプリンセス・ライラエルと和解した{playername}たち。\nだがそこに、【バンディ・シスターズ】からの奇襲を受けてしまう。={playername} và nhóm đã đánh bại quái nhện chiếm giữ 『Grand Dream Park』 và hòa giải với Công Chúa Lyrael.\nTuy nhiên, ngay sau đó họ đã bị phục kích bởi 【Bandy Sisters】.
 きゃはははっ♪\n死んだ？\n死んじゃった～？♡=Kyahahaha♪\nChết rồi à?\nChết chưa thế~? ♡

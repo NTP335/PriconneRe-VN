@@ -278,3 +278,23 @@ sr:"^(.+?) ピュアメモリーピース交換チケット$"=$1 Phiếu đổi 
 sr:"^(.+?) メモリーピース交換チケット$"=$1 Phiếu đổi Mảnh Ký ức
 スペシャル交換チケット（限定+）=Phiếu đổi Đặc biệt (Hạn chế+)
 10回ガチャチケット=Vé Gacha 10 Lượt
+
+
+---Rental Party---
+ウマ娘コラボ記念 スペシャルジュエル7500個パック=Gói 7.500 Jewel Đặc biệt Kỷ niệm Hợp tác Umamusume
+レンタルパーティ火属性・物理=Đội hình cho thuê Hệ Lửa - Vật lý
+パーティ詳細=Chi tiết đội hình
+レンタルパーティ火属性・魔法=Đội hình cho thuê Hệ Lửa - Phép thuật
+レンタルパーティ水属性・物理=Đội hình cho thuê Hệ Nước - Vật lý
+レンタルパーティ水属性・魔法=Đội hình cho thuê Hệ Nước - Phép thuật
+レンタルパーティ風属性・物理=Đội hình cho thuê Hệ Gió - Vật lý
+レンタルパーティ風属性・魔法=Đội hình cho thuê Hệ Gió - Phép thuật
+レンタルパーティ光属性・物理=Đội hình cho thuê Hệ Ánh sáng - Vật lý
+レンタルパーティ光属性・魔法=Đội hình cho thuê Hệ Ánh sáng - Phép thuật
+レンタルパーティ闇属性・物理=Đội hình cho thuê Hệ Bóng tối - Vật lý
+レンタルパーティ闇属性・魔法=Đội hình cho thuê Hệ Bóng tối - Phép thuật
+レンタルパーティについて=Về đội hình cho thuê
+EX装備はそれぞれ最大強化にまで必要な未強化状態のEX装備と強化Pt、無償マナを付与します。=Với mỗi trang bị EX, bạn sẽ nhận được trang bị EX ở trạng thái chưa cường hóa, số Điểm Cường Hóa (Enhancement Pt) cần thiết để cường hóa tối đa, cùng với Mana miễn phí.
+このパーティを購入すると、以下のキャラとEX装備が獲得できます。=Khi mua đội hình này, bạn sẽ nhận được các nhân vật và trang bị EX sau đây.
+EX装備切替=Chuyển đổi trang bị EX
+レンタルパーティ詳細=Chi tiết đội hình cho thuê

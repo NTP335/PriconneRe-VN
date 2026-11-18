@@ -1,10 +1,6 @@
 ##Profile##
 【魔法】後衛で、攻防双方で活躍する晴れ着姿の猫娘。与ダメージに応じて魔法攻撃力がアップするユニオンバーストで、高いベースの攻撃力がさらに強大になる。=[Phép thuật] Một cô gái mèo trong trang phục truyền thống, cung cấp cả tấn công và phòng thủ từ hàng sau. Union Burst của cô ấy tăng tấn công phép thuật dựa trên sát thương gây ra, làm tăng thêm sức mạnh tấn công đáng gờm của cô ấy.
 
-宛先不明の年賀状=Người Nhận Không Xác Định
-ネコミミ娘捕物帳=Hồi ký của Thám Tử Tai Mèo
-ドキドキの書初め=Niềm Thú Vị Của Thư Pháp
-やさしさに触れるとき=Một Chút Lòng Tốt
 優しさに触れるとき=Một Chút Lòng Tốt
 
 
@@ -14,7 +10,6 @@
 
 ##OLD S1##
 シャドウバレット=Đạn Bóng Tối
-目の前の敵１キャラに魔法中ダメージを与える。=Gây sát thương phép thuật trung bình lên kẻ địch đứng trước mặt.
 
 ##OLD S2##
 ウィッシングフィールド=Trường Vọng Nguyện

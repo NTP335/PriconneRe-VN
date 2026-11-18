@@ -352,7 +352,6 @@
 そ、それも結構強そうだよっ……！=Nó dường như cũng khá mạnh...!
 レイさん！\nとにかく、今は！=Rei-san!\nDù sao đi nữa, chúng ta...!
 ああ！\nユイは、私たちが守る！=Ừ!\nChúng ta sẽ bảo vệ Yui!
-ヒヨリ・レイ=Hiyori & Rei
 2部 第3章 第5話=Arc 2 Chương 3 Tập 5
 救護院からの帰り道、カリザの襲撃を受けた{playername}とシェフィ。窮地の二人を救うため、コッコロと【リトルリリカル】の３人、そして王宮から駆けつけたペコリーヌはカリザと対峙する。=Trên đường về từ trại mồ côi, {playername} và Sheffy bị Kariza tấn công. Để cứu họ, Kokkoro, ba thành viên của Little Lyrical, và Pecorine, vừa chạy từ Cung Điện Hoàng Gia, đối đầu với hắn.
 お兄ちゃんコッコロシェフィちゃん、\n今日は楽しかったよっ！=Anh trai ơi, Kokkoro, Sheffy-chan!\nHôm nay vui quá!
@@ -812,7 +811,6 @@
 これでようやく、こいつのオモチャを卒業できるってわけね。=Giờ thì cuối cùng tôi cũng có thể tốt nghiệp vai trò đồ chơi của cậu ấy rồi.
 主さま。\nこのお薬……粉末状になっておりますが。\nお水で大丈夫ですか？=Chủ nhân.\nLoại thuốc này... có dạng bột.\nNgài ấy uống được với nước chứ?
 （のむ）。=(Uống)
-ヒヨリ・ユイ=Hiyori & Yui
 キャル？=Kyaru?
 ……おにーたん？=...Onii-tan?
 騎士クン、大丈夫……？=Cậu có sao không, Kishi-kun?
@@ -1057,8 +1055,6 @@
 いえいえ。\nここだけのはなし……今日は特別でしてな。\n実は──もう一人来ておりますぞ。=Không, không.\nChỉ giữa chúng ta... hôm nay là đặc biệt.\nThực tế, còn một người nữa với chúng ta.
 ―同時刻・ランドソル外門―=―Cùng lúc đó: Cổng ngoài Landosol―
 ……さて。\n俺も、俺の役割を果たすとするか……=...Vậy thì.\nTôi nghĩ tôi cũng nên đóng vai trò của mình...
-クルミ・アヤネ=Kurumi & Ayane
-万能人形たち=Omniforks
 2部 第3章 第12話=Arc 2 Chapter 3 Episode 12
 夢に現れたのは、超AI・ミネルヴァだった。彼女は{playername}に助力を願うが、何者かの介入を受け苦しみだす。そして少年は、別の可能性を、ありえたはずの敗北の光景を視る……=Siêu AI Minerva xuất hiện trong giấc mơ của cậu ấy. Khi cô ấy cầu xin {playername} giúp đỡ, ai đó can thiệp và cô bắt đầu chịu đựng. Ngay lúc đó, cậu bé nhìn thấy một khả năng khác, một cảnh tượng về một trận thua có thể đã xảy ra...
 {playername}は未だ、\n精神の世界で謎の存在と対峙していた。={playername} vẫn đang đối mặt với một sinh vật bí ẩn trong thế giới tâm linh của mình.
@@ -1113,7 +1109,6 @@
 ふっ。\nふふふふ……=Hah.\nHahahahah...
 （この声は……！）。=(Giọng nói đó...!)
 もう──おしまいにしましょう？\n迷宮女王のプリンセスナイトと、そのお仲間さんたち。=Hãy chấm dứt chuyện này, được chứ?\nKnight Princes của Queen Labyrinth, và đội quân vui vẻ của hắn.
-覇瞳皇帝=Kaiser Insight
 くぅっ……！\n逃げてください、{playername}くん！=Kh...!\nLàm ơn chạy đi, {playername}!
 主人公=Nhân vật chính
 （自分が、もう一人いる……！？）。=(Có một tôi khác...?!)
@@ -1268,7 +1263,6 @@
 行くぞ、アゾールド！=En garde, Azold!
 覚悟して、カリザくん！=Chuẩn bị đi, Kariza-kun!
 たああああああーーーっ！！！=Taaaaahhh!!!
-レイ・ヒヨリ=Rei & Hiyori
 一緒に、戦おう！=Hãy chiến đấu cùng nhau!
 2部 第3章 第14話=Arc 2 Chương 3 Tập 14
 プリンセスフォームの力を覚醒させたレイとヒヨリは、カリザやアゾールド、万能人形と激戦を繰り広げる。救護院へ急ぐペコリーヌとジュンたちはその道中、ゼーンと遭遇。交戦するも一蹴されてしまう。=Rei và Hiyori, đã thức tỉnh sức mạnh Dạng Công Chúa của mình, chiến đấu quyết liệt chống lại Kariza, Azold và các Omnifork. Pecorine, Jun và những người khác gặp Zane trên đường đến trại mồ côi. Họ đã chiến đấu, nhưng cuối cùng không thể ngăn cản hắn.

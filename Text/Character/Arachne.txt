@@ -33,9 +33,5 @@ r:"^敵単体の物理攻撃力を(\d+)ダウン敵単体の魔法攻撃力を(\
 敵単体を遮絶の操糸状態にする=Khiến một kẻ địch rơi vào trạng thái dây cô lập.
 
 Story Title Cards
-逃れられない過去=Quá khứ không thể trốn chạy
-脱出、あるいは運命の再会=Thoát thân, hoặc là cuộc tái ngộ định mệnh
-小さな従者と大きな従者=Người hầu nhỏ bé và Người hầu to lớn
-わたしの光=Ánh sáng của ta
 
 

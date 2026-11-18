@@ -16,7 +16,6 @@
 r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ範囲内の味方の魔法攻撃力を(\d+)アップ$"=►Gây $1 (+0.225×$1× \n【Ấn Ma Tình Bạn】) sát thương phép lên kẻ địch.\n►Gây $2 (+0.225×$1× \n【Ấn Ma Tình Bạn】) sát thương phép lên kẻ địch.\n►Tăng M.ATK của đồng minh trong phạm vi 200 lên $3 trong 18s.
 
 ##S1##
-フレンズリンケージ=Friends Linkage
 目の前の敵１キャラに魔法小ダメージを２回与える。【友情の魔印】の数に応じて、ダメージが増加する。=Gây sát thương phép nhỏ 2 lần lên 1 kẻ địch phía thực. Lượng sát thương tăng tùy thuộc vào số lượng 【Ấn Ma Tình Bạn】.
 
 r:"^敵単体に(\d+)の魔法ダメージ敵単体に(\d+)の魔法ダメージ$"=►Gây $1 sát thương phép lên kẻ địch.\n►Gây $2 sát thương phép lên kẻ địch.

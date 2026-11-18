@@ -1055,7 +1055,6 @@ The ultimate system crafted by the Seven Crowns.
 まずは虫取り網。=Đầu tiên, một cái lưới bắt côn trùng.
 次に虫かご。=Tiếp theo, một cái lồng côn trùng.
 最後に麦わら帽子。=Cuối cùng, một cái mũ rơm.
-アメス・ネビア=Ameth - Nebbia
 ネビアを捕まえる。=Bắt Nebbia.
 ネビアはホマレの水着に対して強い警戒を訴える。その意見にぐうの音も出なかったアメスは、ホマレに対して心の距離が開いてしまう。何も知らないホマレは突然空いた心の距離にショックを受けるのであった。=Nebbia thể hiện sự lo ngại mạnh mẽ về bộ đồ tắm của Homare. Không có lập trường phản đối ý kiến của Nebbia, Ameth cuối cùng phải xa lánh Homare. Không được Homare biết, người bỗng cảm thấy khoảng cách cảm xúc.
 ……ねぇ、フィオ。\nあんた、あのホマレと一緒に行動してるのよね？=...Này, Fio.\nCậu đang ở với cô Homare đó, phải không?

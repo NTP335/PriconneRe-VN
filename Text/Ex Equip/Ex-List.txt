@@ -52,6 +52,14 @@ r:"^(\d+)個のアイテムを選択中$"=Đã chọn $1 mục
 使用制限状態のEX装備は選択できません。=Trang bị EX đã sử dụng không thể chọn.
 購入回数または所持数が上限に達しています。=Bạn đã đạt số lượng mua hoặc sở hữu tối đa.
 他キャラが装備中のEX装備が選択されています。=Trang bị EX hiện đang được trang bị cho nhân vật khác đã được chọn.
+
+適正装備ではないため一部効果が発揮しません=Do không phải trang bị phù hợp nên\nmột số hiệu ứng sẽ không được kích hoạt
+
+
+エリアボーナス=Thưởng khu vực
+超越錬醒回数=Số lần Thức\nTỉnh Siêu Việt
+超越スキルあり=Có kỹ năng\nSiêu Việt
+
 パーティキャラのEX装備を変更できます。=Bạn có thể thay đổi trang bị EX của nhân vật trong đội.
 EX装備が変更されていません。=Trang bị EX chưa được thay đổi.
 装備確定=Xác nhận trang bị

@@ -1,10 +1,6 @@
 ##Profile##
 【物理】前衛で、味方の補助に秀でた、新風の巫女。物理クリティカル時のダメージアップのスキルで味方の殲滅力を高めつつ、挑発や継続回復で耐久面を支える。=[Vật Lý] Miko năm mới đứng ở tiền tuyến để hỗ trợ đồng đội. Với kỹ năng tăng sức mạnh cho chí mạng vật lý, nâng cao khả năng đánh gục kẻ địch của đồng đội, đồng thời bảo vệ họ bằng thách đấu và hồi máu theo thời gian.
 
-お正月験担ぎガイド=Người Dẫn Đường May Mắn Năm Mới
-二人羽織チャレンジ=Hai Thể Thành Một
-一年の計は元旦にあり=Chìa Khóa Của Năm
-舞い上がる願い=Điệu Nhảy May Mắn
 
 ##UB##
 ニューイヤーズブライト=Ánh Sáng Năm Mới

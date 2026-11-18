@@ -146,9 +146,6 @@ EX装備 超越錬醒 使用装備選択=Thức tỉnh Siêu việt Trang bị E
 属性なし=Không có thuộc tính
 使用する素材を選択してください。=Vui lòng chọn nguyên liệu sử dụng.
 使用するチケットの枚数を選択して下さい。=Vui lòng chọn số lượng vé sử dụng.
-エリアボーナス=Thưởng khu vực
-超越錬醒回数=Số lần Thức tỉnh Siêu việt
-超越スキルあり=Có kỹ năng Siêu việt
 
 スキップチケットを消費してクエストを\n実行します。よろしいですか？=Tiêu hao Vé Bỏ qua để\nthực hiện nhiệm vụ. Bạn có chắc chắn muốn tiếp tục không?
 メイン(4部含む)・イベントクエストを10回クリアしよう=Hoàn thành nhiệm vụ Chính (bao gồm Phần 4) hoặc Sự kiện 10 lần

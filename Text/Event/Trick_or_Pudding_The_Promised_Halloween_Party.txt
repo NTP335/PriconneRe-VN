@@ -1,11 +1,3 @@
-大好きに囲まれて=Bánh kẹo cho tất cả mọi người
-本当のハロウィンナイト=Halloween đã đến rồi!
-究極の選択=Lựa chọn tối thượng
-入魂！　シノブ奪還作戦=Đi vào linh hồn! Nhiệm vụ: Cứu Shinobu!
-秘密の日記=Nhật ký bí mật tuyệt đối
-新たなる憑代=Chủ nhà hoàn hảo
-オイラはジャック！=Gọi tôi là Jack!
-長い夜のはじまり=Một đêm dài dài đã bắt đầu
 ハロウィンの夜。街から強大な霊力を感じたシノブは、ミヤコを連れて調査へと向かう。そんな二人の前に現れたのは、霊界への扉だった。ミヤコが扉に近づいたその時、謎の魔物が姿を現す。=Vào đêm Halloween. Shinobu, người cảm nhận được năng lượng tâm linh khổng lồ từ thị trấn, cùng Miyako điều tra. Điều xuất hiện trước mặt hai người là một cánh cửa đến thế giới tâm linh. Ngay khi Miyako bước tới cánh cửa, một sinh vật bí ẩn xuất hiện.
 ハロウィンの夜。街から強い霊力を感じたシノブは、\nミヤコと共に、イリヤの元を訪れていた。=Vào đêm Halloween.\nShinobu và Miyako đến thăm Illya để thảo luận về dấu hiệu phép thuật mạnh mẽ\nmà Shinobu cảm nhận được từ thành phố.
 おお～、ミヤコにシノブ。いいところに来た。\nちょっと見てほしいのじゃ。=À! Miyako và Shinobu. Thời điểm tuyệt vời quá.\nTôi cần hai người xem một thứ!

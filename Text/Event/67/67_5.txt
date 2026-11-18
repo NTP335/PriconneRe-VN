@@ -1,7 +1,3 @@
-ランプの魔神=Thần Đèn
-国王の従者=Tôi Tớ Của Vua
-男性３=Nam 3
-怪しげな男=Nam Đáng Nghi
 
 魔法が解けて正気に戻ったサレンたちは国宝のランプをサラサリアの国民に解放する式典に参加する。しかし殺到した群衆の様々な願いが同時に叶ってしまった結果、サラサリアは大きな混乱に陥ってしまう。=Sau khi phép thuật được xóa bỏ, Saren và những người khác đã lấy lại ý thức và nhà vua đã trao chiếc đèn cho người dân Salasaria. Tuy nhiên, mọi người đã xô đến để thực hiện đủ loại điều ước và kết quả là Sarasalia rơi vào hỗn loạn lớn.
 

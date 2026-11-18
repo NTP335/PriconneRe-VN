@@ -1,12 +1,3 @@
-盗賊=Tên cướp
-古代ゴーレム=Golem Cổ Đại
-群衆=Đám đông
-遥か昔の国王=Vua Thời Cổ
-遥か昔の民１=Người Thời Cổ 1
-遥か昔の民２=Người Thời Cổ 2
-遥か昔の大臣=Cố Vấn Thời Cổ
-サレンの声=Giọng nói của Saren
-ルカの声=Giọng nói của Ruka
 
 魔法のランプの力で脱獄を果たした盗賊たちは砂漠に眠る対魔星獣兵器を呼び起こす。事態を収拾したいというランプの魔神の願いを聞き遂げた{playername}たちは砂漠での決戦に挑み、勝利を収める。=Với sức mạnh của chiếc đèn, những tên cướp đã trốn thoát khỏi nhà tù và đánh thức một vũ khí chống phép thuật đang ngủ yên trong sa mạc. Sau khi nghe ước nguyện của thần đèn để giải quyết tình hình, {playername} và những người khác đã đánh trận quyết định ở sa mạc và giành chiến thắng.
 

@@ -2,7 +2,6 @@
 r:"^([0-9,]+)マイル([×\d]{2})? 獲得！$"=Đã thu được $1$2 Mile!
 獲得トレジャーはありません。=Không có kho báu nào được thu được.
 獲得トレジャー=Kho báu Đã Thu Được
-個=
 アイテム獲得数=Vật phẩm Đã Thu Được
 マイル=Mile
 キャラバンで用いる特別な通貨。マイルショップやマイルガチャ利用時に必要となる。=Một loại tiền tệ đặc biệt dùng trong caravan. Nó cần thiết cho việc mua hàng tại Cửa hàng Mile và sử dụng Máy Gacha Mile.

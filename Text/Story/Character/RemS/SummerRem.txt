@@ -1,6 +1,5 @@
 夜に咲く花を見上げて=Looking at Night-Blooming Flowers
 猛暑の海と氷の山=Scorching Seas and Icey Mountains
-玄闇の深淵=Abyss of Darkness
 鬼のいる間にバケーション=A Vacation Time with the Oni
 シロクジラを退治してから数日後。=Đó là vài ngày sau khi khủng hoảng White Whale đã được giải quyết.
 {playername}はレムを伴って、\n海辺で自主パトロールを行っていた。={playername}, cùng với Rem, đang thực hiện tuần tra độc lập trên bãi biển.
@@ -246,11 +245,9 @@
 漁師１=Ngư dân 1
 漁師２=Ngư dân 2
 さすがのレムちゃんでもこれは無理だ！=Rem-chan, hãy lắng nghe anh ấy!
-レム・漁師１=Rem (Ngư dân 1)
 レムちゃん、手を繋いで！=Rem-chan, nắm tay em!
 ダメだ間に合わない……！=Không, cô ấy không thể nắm được...!
 レムちゃんーーーーーー！！！！=REM-CHAAAANNNN!!!!
-漁師１・漁師２=Ngư dân Một & Hai
 うん。レムちゃんが一緒なら大丈夫。=Ừ. Em đã an toàn khi có Rem-chan ở bên cạnh.
 ランドソルの夏の海といえば海釣り。レムはその身体能力でどんどん釣果\nを上げ、ついには漁師たちも恐れる怪魚までをも釣り上げる。「レジェン\nド漁師」と称されるも、謙虚な姿勢は崩さないレムなのであった。=Biển mùa hè ở Landsor là nơi lý tưởng cho việc câu cá biển. Rem sử dụng sức mạnh thể chất của mình để bắt những con cá quái vật ngày càng nhiều, thậm chí khiến cả ngư dân cũng phải e ngại. Cô ấy có thể được gọi là 'ngư dân huyền thoại', nhưng thái độ khiêm tốn của cô ấy chưa bao giờ suy giảm.
 次にレムが\n『夏の海』を体験しにやってきたのは──=Tiếp theo trong nghiên cứu của Rem về các hoạt động vui chơi trên bãi biển mùa hè là...
@@ -496,7 +493,6 @@
 でも、スバルも乗りたそう。=Có vẻ như cậu cũng muốn chơi nó, Subaru.
 それはダメだよ。=Không được.
 ううん、スバルに乗ってほしい。=Không, đừng lo, cậu cứ đi, Subaru.
-レム・スバル=Rem Subaru
 ビーチフラッグ対決は？=Có lẽ là cuộc đua cờ biển?
 勝負だ！=Được! Thử xem!
 ん？　あれ、旗だ。=Hả? À, là cờ.

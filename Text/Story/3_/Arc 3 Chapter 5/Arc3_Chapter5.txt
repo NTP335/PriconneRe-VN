@@ -87,7 +87,6 @@ Cutscene:
 にげちゃだめ=Đừng chạy.
 あなたさまはっ！？=Ngươi...!?
 ──アルラウネの妖魔人=─Một Alraune Monstresses.
-アネモネ=Anemone
 ま、待ってください！=K-Khoan đã!
 わたしたち、敵じゃないですよ～っ！=Chúng tôi không phải kẻ thù của ngươi!
 貴方たちは、私たちの領土に踏み込んだ=Nhưng các ngươi đã xâm phạm lãnh thổ của ta.
@@ -98,9 +97,6 @@ Cutscene:
 Episode 2
 煉獄のプリンセス=Công Chúa Địa Ngục
 
-ネフィ＝ネラ=Nephi-Nela
-コッコロ・リリ=Kokkoro&Riri
-アネモネ=Anemone
 
 Summary:
 襲撃された一同はジオ・ゲヘナの媛である妖魔人・ネフィ＝ネラに助けられた。ネアの姉でもある彼女は一同のことを知っており、家人の不始末を詫びる。そしてこの世界が危機に瀕している事情を語るのだった。=Nhóm được Nephi-Nela, Công Chúa của Gio Gehenna, cứu giúp. Là chị của Nea, cô ấy biết rõ mọi chuyện về họ, xin lỗi vì hành vi của người thân trong gia tộc và giải thích về tình hình khốn khó đang giáng xuống thế giới này.
