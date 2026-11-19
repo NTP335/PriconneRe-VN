@@ -1,17 +1,11 @@
 Lucky Lilac Bonds
 
-Chapter Names
-屋根越える紫丁香花=Cành hoa tử đinh hương (Lilac) vượt qua mái nhà
-魔法・ツッコミ・クエスト=Ma pháp, màn tung hứng bắt bẻ và các nhiệm vụ
-溶岩の中、凛とたおやかに=Hiên ngang và kiều diễm giữa dòng dung nham
-長き冬を越え、気高く咲き誇る花=Đoá hoa kiêu kỳ nở rộ kiêu hãnh sau mùa đông dài đằng đẵng
-ララ、風に流れ=Lala, cuốn theo chiều gió
 
 Chapter 1
 分裂したゴールドシップの捜索が続く中、\n{playername}とラッキーライラックは──=Trong lúc cuộc tìm kiếm những bản sao phân thân của Gold Ship vẫn đang tiếp tục, {playername} và Lucky Lilac...
 はあー幻想的な風景ですねえ。\n景色を楽しめる程度には、この世界にも慣れてきました。=Aaah...\nĐúng là một khung cảnh kỳ ảo nên thơ làm sao.\nMình cũng đã dần quen với thế giới này đến mức có thể thong thả thưởng ngoạn phong cảnh rồi đây.
 ひっ、魔物っ！？\n魔物にはまだ慣れてへんって……！=Áaaaa! Q-Quái vật á...!\nKiểu gì thì tui cũng chẳng bao giờ quen nổi với mấy thứ đó đâu... Dixon!
-……あっ！\n騎士さん、あの人襲われてはる……！？=...Á!\nNgài Kỵ Sĩ ơi, có người đang bị tấn công kìa...!
+……あっ！\n騎士さん、あの人襲われてはる……！？=...Á!\nNgài Hiệp Sĩ ơi, có người đang bị tấn công kìa...!
 助けに行こう！=Chúng ta mau tới cứu người thôi nào!
 ……くそ、魔物の野郎。\n大事な荷物を……！=Mẹ kiếp con quái vật chết tiệt này...!\nNó dám cướp đi kiện hàng quý giá của tao... mất rồi!
 それは大変ですね……でも大丈夫。\nうちが取り返してきます。=Ôi trời. Quả là một phen khốn đốn rắc rối nhỉ...\nNhưng đừng lo lắng. Để tui lấy lại nó cho ông nhé.
@@ -20,7 +14,7 @@ Chapter 1
 『魔法学園』で基礎を学んだ\n今のうちなら空を飛べる……いえ。=Giờ thì sau khi đã mài giũa học hỏi những kiến thức căn bản tại "Học viện Phép thuật", chắc là mình cũng có thể bay lượn được rồi đấy nhỉ...\nKhông.
 今のうちなら、空を──=Bây giờ, mình có thể...\nChạy băng băng xuyên qua cả bầu trời...
 ──時を少しさかのぼる。\nこの世界でまだ本調子で走れないラッキーライラックは、特訓のため\n{playername}と共にアンブローズ魔法学園を訪れた。=Hãy cùng quay ngược thời gian trở về trước đó một chút.\nVẫn chưa thể phát huy hết 100% phong độ chạy nhảy tối đa tại thế giới này, Lucky Lilac đã quyết định cùng {playername} ghé thăm Học viện Phép thuật Ambrose để tham gia một khóa huấn luyện đặc biệt.
-へえ……ここがアンブローズ魔法学園ですか。\n屋上からの景色、なかなか壮観ですねえ。=H H ể... đây chính là Học viện Phép thuật Ambrose râm rang tiếng đồn á hả.\nĐứng từ trên sân thượng nhìn xuống ngắm cảnh quả thực là bao quát hoành tráng phết nhỉ.
+へえ……ここがアンブローズ魔法学園ですか。\n屋上からの景色、なかなか壮観ですねえ。=HHể... đây chính là Học viện Phép thuật Ambrose râm rang tiếng đồn á hả.\nĐứng từ trên sân thượng nhìn xuống ngắm cảnh quả thực là bao quát hoành tráng phết nhỉ.
 ふふ……魔法の勉強やなんて。\nファンタジーらしくなってきたやん！=Hehe... Ôn luyện ma thuật các kiểu con đà chểu...\nCảm giác đúng chất một thế giới giả tưởng kỳ ảo thực thụ luôn rồi chứ lị!
 ララさん、どうしたんですか？=Lala-san, cậu đang gặp vấn đề gì à?
 い、いえなんでもあらしまへん。\n……さあ遊びに来たわけやあらへんし、\n早速基礎を学びましょか。=K-Không, có gì đâu nè, thực sự đấy.\n...Nào, tụi mình cất công đến đây đâu phải để chơi đùa tào lao, đúng không nào?\nTranh thủ thời gian nhập môn học hỏi chút kiến thức cơ bản thôi anh em.
@@ -96,14 +90,14 @@ Chapter 2
 なあ、アイさん。\n広場の掲示板でこんなん見つけたんやけど。=Này chị Eye-san.\nTui vừa mới phát hiện ra cái bảng thông báo ở ngoài quảng cáo có nội dung này nè.
 『第一回アチアチ！　ジオ・ゲヘナガマリンピック』──\nけったいな名前ですけど、要は大規模な我慢大会やとか。="Đại hội thể thao chịu đựng Geo Gehenna siêu cấp nóng bỏng lần thứ nhất"──\nCái tên nghe quái dị hết sức, nhưng tóm lại thì đây là một cuộc thi chịu đựng quy mô lớn.
 へえ、ジオ・ゲヘナで。\n確かにあそこなら、我慢大会とか盛んそうね。=Hả, ở tận vùng đất Geo Gehenna cơ à.\nNghĩ lại thì đúng là nơi quái gở như thế rất hợp để tổ chức mấy cái cuộc thi kiểu hành xác này.
-アイさんジオ・ゲヘナって所、いったことあるんや？\nうちはどんなとこか知らんけど、\n騎士さんが案内してくれるって。=Eye-san đã từng đặt chân đến chỗ mang tên Geo Gehenna đó rồi hở?\nTui thì mù tịt chẳng biết nó tròn méo ra sao hết,\nnhưng ngài Kỵ Sĩ bảo sẽ dẫn đường dắt tui đi tham quan nè.
+アイさんジオ・ゲヘナって所、いったことあるんや？\nうちはどんなとこか知らんけど、\n騎士さんが案内してくれるって。=Eye-san đã từng đặt chân đến chỗ mang tên Geo Gehenna đó rồi hở?\nTui thì mù tịt chẳng biết nó tròn méo ra sao hết,\nnhưng ngài Hiệp Sĩ bảo sẽ dẫn đường dắt tui đi tham quan nè.
 ……ねえアイさん。\nもしよかったらこの我慢大会、一緒に出場しません？=...Chị Eye-san ơi.\nNếu chị không phiền thì có muốn cùng tham gia tranh tài cái cuộc thi chịu đựng này với tui không?
 ふふっ、貴方から勝負を挑んでくるなんて珍しいじゃない！\nもちろん受けて立つわ！=Fufu, hiếm lắm mới thấy em chủ động mở lời khơi mào khiêu chiến với chị đấy nhé!\nĐương nhiên là chị đây xin chấp nhận lời thách đấu rồi!
 ふふっ、さすがアイさん。\n乗ってきてくれると思ってました。\nもちろん勝つんはうちですけど。=Fufu, quả không hổ danh là chị Eye-san.\nTui đoán tỏng là thể nào chị cũng sẽ hào hứng nhận lời mà.\nChỉ có điều là người hốt trọn cúp vô địch chắc chắn sẽ là tui nha.
 いいえ、勝つのはわたしよ！\nララの忍耐力はもちろん知ってる……でも、負けないわ！=Không đâu, người chiến thắng cuối cùng sẽ là chị đây!\nDù chị biết thừa sức chịu đựng của em khủng đến mức nào... nhưng chị tuyệt đối sẽ không nhường đâu!
 ……単なる強がりなんかやないって知ってる。\nだってアイさんはこの間、苦手な暑さを克服して、\nラースゴルシを捕まえはったんやもんね。=...Chị ấy không hề đang cố tỏ ra gượng gạo gồng mình đâu, tui thừa biết điều đó.\nBởi vì mới cách đây chưa lâu, Eye-san đã vượt qua nỗi sợ cái nóng khắc nghiệt của bản thân,\nđể rồi tóm gọn được con rồng Wrathgolshi cơ mà.
 でもうちも負けへん……\n耐えて忍ぶことなら誰にも負けられへんから……！=Dù vậy thì tui cũng chẳng có ý định đầu hàng chịu thua đâu nha...!\nKhoản cắn răng chịu đựng kham khổ thì tui chấp hết, chẳng ngán bố con thằng nào trên đời này đâu...!!
-ほな、いきましょか。\n……え、何です騎士さん？=Nào, chúng ta cùng lên đường thôi.\n...Hả, gì thế hả ngài Kỵ Sĩ?
+ほな、いきましょか。\n……え、何です騎士さん？=Nào, chúng ta cùng lên đường thôi.\n...Hả, gì thế hả ngài Hiệp Sĩ?
 燃えるように暑いので注意してください！=Nơi đó nóng bỏng rẫy như lửa đốt nên xin hãy hết sức cẩn thận đấy nhé!
 ふふ、燃えるようにやなんて大げさですねえ。\nでもご忠告おおきに。\n水分補給をまめにします。=Fufu, ngài cứ khéo vẽ chuyện chứ làm gì có chuyện nóng đến mức bốc lửa như thế.\nNhưng mà dù sao cũng cảm ơn lời cảnh báo tốt bụng của ngài nha.\nTui sẽ chăm chỉ uống nước bù điện giải đầy đủ.
 いや暑すぎるやろ！！！\n燃えるように……やのうて、ほんまに燃えとるやん！！\nただの火事や、119番してー！！=Trời đất quỷ thần ơi sao mà nóng banh xác thế này hả trời!!!\nNóng kiểu bốc lửa gì nữa... đây là cháy thật mốc méด cmnr chứ còn gì nữa!!\nCứu hoả ơi, gọi ngay 119 cấp cứu cho tui lẹ lên giùm cáiiii!!

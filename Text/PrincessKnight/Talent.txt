@@ -38,3 +38,6 @@ All [E066FF,5E1987]Dark [D557F5,4A106E]Character[-][-]
 チェック引継ぎ確認=Kiểm Tra Xác Nhận Giao Nhận
 
 新しい深域クエストがクリアされたため、\n最新のクリア済みクエストをチェックしました。=Đã kiểm tra các nhiệm vụ hoàn thành gần đây vì một nhiệm vụ vùng sâu mới đã được hoàn thành.
+
+
+
