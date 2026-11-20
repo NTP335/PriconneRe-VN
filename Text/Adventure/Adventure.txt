@@ -194,3 +194,13 @@ sr:"^(.+)のアドベンチャーから撤退しました。$"=Rút lui khỏi C
 レイドバトルのデイリーミッション設定=Cài đặt Nhiệm vụ Hàng ngày Trận chiến Đột kích (Raid Battle Daily Mission)
 エルピス討魔戦線の終了まで残り24時間を切っており、\n挑戦可能なボスがいるとき予定帳に表示するか設定できます。=Cho phép cài đặt xem có hiển thị trong Sổ lịch trình khi thời gian kết thúc Chiến tuyến Trừ ma Elpis còn dưới 24 giờ và có trùm khả dụng để khiêu chiến hay không.
 エルピス討魔戦線設定=Cài đặt Chiến tuyến Trừ ma Elpis (Elpis Demonfront)
+
+
+
+
+深域クエストスキップ確認=Xác nhận Bỏ qua Depths Quest
+スキップチケットと挑戦回数を消費して深域クエストを実行します。よろしいですか？\n※全属性の挑戦回数を合算して表示しています。=Tiêu hao Vé Bỏ qua và lượt khiêu chiến để thực hiện Depths Quest. Bạn có chắc chắn không?\n※Số lượt khiêu chiến hiển thị là tổng hợp của tất cả các thuộc tính.
+深域クエストに挑戦しよう=Thử thách Depths Quest nào
+
+深域クエスト設定=Cài đặt Depths Quest
+深域クエストの挑戦回数が残っているとき、予定帳からスキップ可能にするか、表示するか設定できます。\n最新のクリア済みクエストをスキップします。=Khi còn lượt khiêu chiến Depths Quest, bạn có thể cài đặt cho phép bỏ qua hoặc hiển thị trên Sổ Kế hoạch.\nSẽ bỏ qua nhiệm vụ đã vượt qua mới nhất.
