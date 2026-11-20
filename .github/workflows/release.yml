@@ -18,6 +18,7 @@ jobs:
         run: |
           mkdir -p staging/BepInEx/Translation/vi
           cp -r Text staging/BepInEx/Translation/vi/Text
+          cp -r Texture staging/BepInEx/Translation/vi/Texture
 
       - name: Stamp version into Version.txt
         run: |
