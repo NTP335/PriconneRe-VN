@@ -52,8 +52,8 @@
      <img width="738" height="434" alt="image" src="https://github.com/user-attachments/assets/fbbde644-8a0c-4212-9873-8a2ebce5af58" />
      <img width="571" height="206" alt="image" src="https://github.com/user-attachments/assets/be4e3562-34d8-4a85-8395-4031f925d663" />
 
-   - Tìm thư mục có tên là `Text`.
-   - Chép đè (hoặc thay thế) file `Text` bạn vừa tải vào đường dẫn trên là xong.
+   - Tìm thư mục có tên là `Text`, `Texture`.
+   - Chép đè (hoặc thay thế) file `Text`, `Texture` bạn vừa tải vào đường dẫn trên là xong.
 
 ---
 
